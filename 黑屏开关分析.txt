@@ -1,0 +1,36 @@
+黑屏时  
+v0=*a8282= 026c
+v1=*a82bc= 800e000c
+a8282*2+a82bc=800e04e4
+*800e04e4 = 0031
+19fc4: a0=31(v1 = 0031 v0 = 0031)
+19fdc: v1=v1>>12 (= 0)
+19fe0: v0=1
+19fe4: not pass(v1!=v0)
+19fe8: v0 = a0 << 2 = a0 * 4 (=0xc4)
+19fec: v0 = v1 < 2 ? 1 : 0 (=1)
+19ff0: v0 == 0 ? jump 1a008 : not jump （not jump）
+19ff8: v1 == 0 ? jump 1a01c : not jump （jump）
+19ffc: v0 = a0 * 4 (= 0xc4)
+1a01c: v0 = v0 + s7(8008d660) = (8d724)
+
+对话时
+v0=*a8282=2ab8
+v1=*a82bc=800e000c
+v0 * 2 + v1 = 800e557c
+v0 = *800e557c = 2012
+19fbc: v1 = v0 & 0xffff = 2012
+19fc0: v1 != v0 jump (should not happen, v0 only load 16bit)
+19fc4: a0 = v0 & 0xFF = 12(v0=v1=2012)
+19fdc: v1=v1 >> 12 (=2)
+19fe0: v0 = 1
+19fe4: not pass(v1 != v0)
+19fe8:v0 = a0 * 4 = (0x48)
+19fec:v0 = v1 < 2 ? 1 : 0(=0)
+1a008:v0 = 2
+1a00c: v0 == v1 ? jump 1a02c : not jump (jump)
+1a010: v1 = 0x80090000
+1a02c: v1 -= 0x2ba0=(0x8008d460)
+1a030: v0 = a0 * 4 = (0x48)
+1a034: v0 = v1 + v0 = 0x8008d4a8
+1a038: v0 = *v0 = 8001d4e0

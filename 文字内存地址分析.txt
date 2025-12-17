@@ -1,0 +1,119 @@
+97ba8 似乎是文字行数(760+gp)
+
+
+19fc0->19fdc
+
+会在黑屏与显示对话时都执行到
+
+1a01c 
+19ff8
+会在黑屏时被执行到
+
+FUN_8001F1C8
+会调用3D0E8
+也会调用3D284把97CEC的值赋值为4
+由1A048位置的代码调用
+
+
+以下两个函数都是通过函数指针？调用，总之是跳转到v0寄存器的位置
+FUN_8001B778 
+会在黑屏多行文字时调用
+
+FUN_8001D4E0 
+会在显示对话时调用
+
+FUN_8003D0E8
+似乎是显示黑屏时的多行文字用
+这个方法似乎用的是97cdc（gp+0x894）作为行数
+97cdc也是在这个方法内被赋值（似乎赋值结果都是0a）
+似乎会在97cec(gp+0x8a4)==5时被调用
+
+
+  while (sVar1 != 0) {
+    *(short *)(puVar7 + 0x2e) = *psVar5;
+    puVar6 = puVar7;
+    if (*psVar5 == 0x40) {
+      psVar4 = psVar5 + 1;
+      psVar5 = psVar5 + 2;
+      iVar8 = iVar8 + 2;
+      *(short *)(puVar7 + 0x30) = *psVar4;
+      puVar6 = puVar7 + 4;
+      *(short *)(puVar7 + 0x32) = *psVar5;
+    }
+    psVar5 = psVar5 + 1;
+    puVar7 = puVar6 + 2;
+    iVar8 = iVar8 + 1;
+    sVar1 = *psVar5;
+  }
+
+需要考虑0x40的情况？很有可能是控制字符。似乎控制字符后面4个字节是控制字符，有可能为0？
+
+97ce0+X*4应该是各行文字的起始地址
+97cda是当前显示的文字行数（好像固定为4？）
+
+
+FUN_8003C8FC
+也会调用FUN_80035E6C，第一个参数为97ce0+iVar2*4
+iVar2 = 97ce4
+当iVar==97cda时，不调用FUN_80035E6C
+
+
+FUN_8003D034
+调用FUN_80035e6c，顺便设置一些全局变量
+FUN_80035e6c的第一个参数是它自身第一个参数指针取值
+同时会设置gp + 0x898=97ce0的值为第一个参数的值
+只有当前显示文本的第一行会调用这个函数
+
+FUN_80035e6c
+读取800a29f4的index，将index所指向的结构体的状态设为了1
+0x8009eed0 + index * 0x168
+这似乎是个ring buffer……
+
+该方法同时还将文字数据拷贝到了这个结构体的对应位置，param_1就是文字数据源的位置
+
+FUN_800269e4
+用于生成draw rectangle指令的方法
+具体的赋值在对FUN_80026cfc的调用内
+
+
+FUN_80035C4C
+ghidra貌似不能自己识别出该方法，需要手动按D进行disassemble，然后create function
+基准地址是0x8009eed0
+每个结构体长度是168
+一共遍历0x2A个结构体
+puVar5是当前遍历的结构体
+puvar5+164大概是状态？
+如果状态==0，跳过该结构体
+如果状态==1，调用36e98（0x8009eed0, 当前遍历的结构体序号）
+
+FUN_80036e98
+param1应该不变，param2很有可能是当前行对应的结构体相对于param1的偏移序号，但是并不是第一行就是1
+iVar4 + 0x7e = 当前显示到当前行的第几个字
+
+
+FUN_800365B8
+将 Param3 的值 写入 register GP+7c0
+有两个函数调用了该函数
+
+FUN_80036640
+从register GP+7c0 获取值作为uvar2，如果uvar2>=0x819f且<0x81fd或者uvar2>0x8396，调用FUN_80036920(uvar2)
+否则调用FUN_800369b0（合理猜测这部分是游戏自带的字库，不再继续分析）
+
+FUN_80036920 
+
+参数1
+short SHIFT-JIS
+
+功能
+向scratchpad写入FUN_8006ef84返回的地址
+
+
+FUN_8006ef84
+
+参数1 
+short SHIFT-JIS
+
+功能
+通过Krom2RamAdd获得BIOS中Charset的起始地址，然后自己运算出自己所需要字形的所在地址（FUN_8006F030计算了所需字形相对于起始地址的偏移）
+
+
