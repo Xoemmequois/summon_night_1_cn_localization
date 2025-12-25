@@ -13,6 +13,9 @@ def handle(id)
     if(c.code == 0x0027 && c.params[0] == 2)
       $hash2[c.params[1]] = 1
     end
+    if(c.code == 0x0001 || c.code == 0x0008 || c.code == 0x0009)
+      $hash[c.params[1]] = 1 if c.params[0] == 2
+    end
     if c.code == 0x002c
       handle(c.params[0])
     end

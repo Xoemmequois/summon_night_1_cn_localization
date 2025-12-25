@@ -5,6 +5,9 @@ parse_commands("../exported/CM1100.DAT_2").each do |a|
   if(a.code == 0x0010)
     $hash[a.params[0]] = 1
   end
+  if(a.code == 0x0001 || a.code == 0x0008 || a.code == 0x0009)
+    $hash[a.params[1]] = 1 if a.params[0] == 2
+  end
   if(a.code == 0x0027 && a.params[0] == 2)
     $hash2[a.params[1]] = 1
   end

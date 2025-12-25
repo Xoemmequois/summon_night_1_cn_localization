@@ -3,16 +3,19 @@ require "./commands_parse_tools"
 $VARID = {}
 #old [0x19, 0x95, 0x99, 0xc6, 0xf8, 0xf9, 0xfa]
 #new [0x19, 0x1b, 0x93, 0x95, 0x99, 0xc5, 0xc6, 0xc8, 0xf8, 0xf9, 0xfa]
-[0x19, 0x1b, 0x93, 0x95, 0x99, 0xc5, 0xc6, 0xc8, 0xf8, 0xf9, 0xfa].each_with_index do |a,i|
+#0x19 是玩家选择的选项，不追踪其值
+#合理推断 0x1B 可能也是会被外部改变的变量，这里也不追踪其值
+[0x93, 0x95, 0x99, 0xc5, 0xc6, 0xc8, 0xf8, 0xf9, 0xfa, 0xdc, 0xdd, 0xde, 0xdf].each_with_index do |a,i|
   $VARID[a] = i
 end
+$tmp = File.new("debug_tmp.txt", "w")
 
 class Context
   attr :stack
   attr :vars, true
   def initialize(context)
     if(context)
-      @stack = context.stack
+      @stack = context.stack.clone
       @vars = context.vars.clone
     else
       @stack = []
@@ -103,11 +106,14 @@ class RouteManager
     @routes.push route
   end
 
+  attr :debug, true
+
   def next(data)
     return false if @routes.empty?
     route = @routes[0]
     unless route.next(data)
       @routes.shift
+      $tmp.puts route.history.map{|a| a.to_s(16)}.inspect if @debug
       #puts "Route End #{@visited.length}"
     end
     true
@@ -132,10 +138,9 @@ class Route
   attr :dialogs
   attr :history
   def initialize(pc, route, manager)
-    throw RuntimeError.new if(pc > 5380)
 
     if route
-      @history = route.history
+      @history = route.history.clone
       @context = Context.new(route.context)
       @dialog_index = route.dialog_index
       @leftFace = route.leftFace
@@ -157,7 +162,7 @@ class Route
     if(command.nil?)
       puts "Invalid pc #{@pc}"
     end
-    #@history.push command.index
+    @history.push command.index
     #p sprintf("%04d: %04X %04X", command.index, command.code, command.params[0] ? command.params[0] : 0)
     if not @dialogs.empty? and command.code != 0x2013
       @manager.addDialog(@dialogs, @dialog_index)
@@ -168,6 +173,11 @@ class Route
     @manager.markVisited @context, @pc
 
     case command.code
+    when 0x0001
+      @context.assign(command.params[1], 0) if command.params[0] == 2
+    when 0x0008, 0x0009
+      delta = command.code == 0x0008 ? 1 : -1
+      @context.assign(command.params[1], @context.getVars(command.params[1]) + delta) if command.params[0] == 2
     when 0x0010
       @context.assign(command.params[0], command.params[1])
     when 0x001A, 0x001B
@@ -182,6 +192,7 @@ class Route
       @pc = $index_to_pc[command.params[0]]
       return true
     when 0x0026
+      p "#{@context.stack.map{|a| data[a].index.to_s(16)}} Pop At #{command.index.to_s(16)}" if @context.stack.include? 508
       if @context.stack.empty?
         puts "Mismatched call and return"
         return false
@@ -276,6 +287,7 @@ def handle(id, vars)
     $index_to_pc[c.index] = i
   end
   manager = RouteManager.new
+  manager.debug = true if id == 2
   initRoute = Route.new(127, nil, manager)
   #initRoute.context.vars = vars
 
@@ -285,7 +297,8 @@ def handle(id, vars)
   while manager.next(commands)
   end
   write_dialogs(manager.groups, id)
-
+  p manager.unknown.keys.map{|a| sprintf("%04X", a)}
+  p manager.groups
   manager.nextCommands.each do |k,v|
     handle(k, v)
   end
