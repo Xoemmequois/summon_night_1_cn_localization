@@ -192,7 +192,6 @@ class Route
       @pc = $index_to_pc[command.params[0]]
       return true
     when 0x0026
-      p "#{@context.stack.map{|a| data[a].index.to_s(16)}} Pop At #{command.index.to_s(16)}" if @context.stack.include? 508
       if @context.stack.empty?
         puts "Mismatched call and return"
         return false
@@ -287,7 +286,7 @@ def handle(id, vars)
     $index_to_pc[c.index] = i
   end
   manager = RouteManager.new
-  manager.debug = true if id == 2
+  manager.debug = true if id == 3
   initRoute = Route.new(127, nil, manager)
   #initRoute.context.vars = vars
 
@@ -298,7 +297,7 @@ def handle(id, vars)
   end
   write_dialogs(manager.groups, id)
   p manager.unknown.keys.map{|a| sprintf("%04X", a)}
-  p manager.groups
+  #p manager.groups
   manager.nextCommands.each do |k,v|
     handle(k, v)
   end
