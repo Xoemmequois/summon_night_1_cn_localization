@@ -1,7 +1,9 @@
-require 'gettext/po'
+require 'rexml/document'
+require 'rexml/formatters/pretty'
 
 $CM1100 = IO.binread("rom/CM1100.DAT")
 
+$srt = File.new("out.srt", "w")
 
 def get_subcontent(id)
   arr = $CM1100[0x10 + id * 4, 4].unpack("S!<S!<")
@@ -9,13 +11,11 @@ def get_subcontent(id)
   len = arr[1]
   return $CM1100[offset * 0x800, len * 0x800]
 end
-
 def parse_dialog_contents(id)
   contents = get_subcontent(id + 0x29)
   len = contents.unpack1("S!<")
   indices = contents.unpack("S!<#{len}")
   strs = []
-  p "S!<#{len}"
   indices.each do |start|
     str = ""
     index = 0
@@ -24,36 +24,46 @@ def parse_dialog_contents(id)
       str += contents[start * 2 + index] + contents[start * 2 + index + 1]
       index += 2
     end
+    str.gsub!("\x40\x00\x6E\x00", "\x40\x6E")
     c = str.force_encoding("shift_jis").encode("utf-8")
     strs.push c
   end
   #File.write("#{id}_contents.json", strs.to_json)
   return strs
 end
-# 1. 创建一个新的 PO 对象
-po = GetText::PO.new
-=begin
-# 2. 添加元数据（Header）
-po.set_value("", "Project-Id-Version: Summon Night (CN) 1.0\n" \
-                 "Content-Type: text/plain; charset=UTF-8\n" \
-                 "Content-Transfer-Encoding: 8bit\n")
-=end
+$index = 1
+def build_xliff
+  doc = REXML::Document.new
+  xliff = doc.add_element('xliff')
+  xliff.add_attribute('version', '1.2')
 
-1.upto(145) do |id|
-  strs = parse_dialog_contents(id)
-  strs.each_with_index do |str, i|
-    next if str.empty?
-    entry = GetText::POEntry.new(:msgctxt)
-    entry.msgid = str
-    entry.msgstr = ""
+  1.upto(145) do |id|
+    file = xliff.add_element('file')
+    file.add_attribute('original', sprintf('CM1100.DAT:%04d', id))
+    file.add_attribute('source-language', 'ja')
+    file.add_attribute('target-language', 'zh-CN')
+    file.add_attribute('datatype', 'plaintext')
+    body = file.add_element('body')
+    strs = parse_dialog_contents(id)
+    strs.each_with_index do |str, i|
+      next if str.empty?
+      t = sprintf("00:00:00,%03d --> 00:00:00,%03d", id, i)
+      $srt.puts $index
+      $srt.puts t
+      $srt.puts str
+      $srt.puts
+      $index += 1
+      
 
-    entry.msgctxt = sprintf("%04d-%04d", id, i)
-    entry.references = [sprintf("%04d:%04d", id, i)]
-
-    po[sprintf("%04d-%04d\004%s", id, i, str)] = entry # 在 GetText 内部，Key 的格式通常是 context + \004 + msgid
+      ctx = sprintf('%04d-%04d', id, i)
+      unit = body.add_element('trans-unit')
+      unit.add_attribute('id', ctx)
+      unit.add_element('source').text = str
+      unit.add_element('target').text = ''
+    end
   end
+
+  formatter = REXML::Formatters::Pretty.new
+  File.open('zh_CN.xlf', 'w') { |io| formatter.write(doc, io) }
 end
-
-
-
-File.write("zh_CN.po", po.to_s)
+build_xliff
