@@ -1,7 +1,5 @@
-using System;
-using System.Collections.Generic;
-using System.IO;
 using System.Text.RegularExpressions;
+using romhack_csharp;
 
 internal static partial class Program
 {
@@ -20,6 +18,26 @@ internal static partial class Program
         File.WriteAllBytes(Path.Combine("rom", "CM1100.DAT.mod2"), _cm1100);
 
         PrintChars();
+        var count = CharCodeToIndex(Chars.MaxBy(pair => (ushort)((pair.Value[0] << 8) | pair.Value[1])).Value) + 1;
+        var fontBitmaps = new byte[count * 28];
+        Console.WriteLine($"Length {fontBitmaps.Length}");
+        var fontBitmap = new byte[28];
+        foreach (var pair in Chars)
+        {
+            var index = CharCodeToIndex(pair.Value);
+            GenFontBitmap.GenerateFontBitmap(pair.Key, fontBitmap);
+            Buffer.BlockCopy(fontBitmap, 0, fontBitmaps, index * 28, 28);
+        }
+        File.WriteAllBytes(Path.Combine("rom", "chinese.fnt"), fontBitmaps);
+    }
+
+    private static int CharCodeToIndex(byte[] arr)
+    {
+        if(arr[0] < 0x88)
+        {
+            return (arr[0] - 0x85) * 256 + arr[1];
+        }
+        return (arr[0] - 0x99) * 256 + arr[1] + 256 * 3;
     }
 
     private static void LoadTranslations(string srtPath)
