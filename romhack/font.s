@@ -1,24 +1,31 @@
 .set noreorder
 LoadBIOSFont2:
+    # --- 提前开启栈空间 (Prologue) ---
+    addiu   $sp, $sp, -0x38
+    sw      $s0, 0x30($sp)
+    sw      $ra, 0x34($sp)
+    move    $s0, $a0            # 提前保存 a0 到 s0，以防 a0 在后续调用中被修改
+    
     # 检查范围 1: 0x8500 到 0x87FF 
     li      $t0, 0x8500
     subu    $t1, $a0, $t0       # $t1 = a0 - 0x8500
     sltiu   $t2, $t1, 0x0300    # 0x87FF - 0x8500 + 1 = 0x0300
     bne     $t2, $zero, keep_going # 如果在范围 1，跳转到业务逻辑
+    nop
 
     # 检查范围 2: 0x9900 到 0x9FFF
     li      $t0, 0x9900
     subu    $t1, $a0, $t0       # $t1 = a0 - 0x9900
     sltiu   $t2, $t1, 0x0700    # 0x9FFF - 0x9900 + 1 = 0x0700
     bne     $t2, $zero, keep_going # 如果在范围 2，跳转到业务逻辑
+    nop
 
-    # 如果都不满足，直接返回
-    jr      $ra
-    nop                         # 分支延迟槽
-    nop
-    nop
-    nop
-    nop
+# --- 新增逻辑：如果都不满足，调用 0x80036920 后返回 ---
+
+    # 此时 $a0 依然保持着进入函数时的值，直接调用
+    jal     0x80036920                  
+    nop                                 # 延迟槽
+    j       function_end
     nop
 
 keep_going:
@@ -27,12 +34,8 @@ keep_going:
     lh      $v0, 0x7ac($gp)
     sll     $a2, $a2,0x1
     mult    $v0, $a2
-    addiu   $sp, $sp,-0x38
-    sw      $s0, 0x30($sp)
-    move    $s0, $a0
     lw      $a0, 0x568($gp)
     lh      $a1, 0x7b6($gp)
-    sw      $ra, 0x34($sp)
     mflo    $a2
     jal     0x8006a984              #memset
     nop
@@ -87,7 +90,7 @@ loop:
     addiu   $a0, $sp, 0x10      # a0 = sp + 0x10
     jal     0x800369fc          # FUN_800369fc(a0)
     sh      $zero, 0x2e($sp)    # （延迟槽）清零第15行
-
+function_end:
     # --- 函数退出 ---
     lw      $ra, 0x34($sp)      # 恢复返回地址
     lw      $s0, 0x30($sp)      # 恢复 s0
