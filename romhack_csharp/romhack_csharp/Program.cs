@@ -17,7 +17,7 @@ internal static partial class Program
 
         _cm1100 = File.ReadAllBytes(Path.Combine("rom", "CM1100.DAT"));
         ProcessDialogRange(1, 145);
-        File.WriteAllBytes(Path.Combine("rom", "CM1100.DAT.mod"), _cm1100);
+        File.WriteAllBytes(Path.Combine("rom", "CM1100.DAT.mod2"), _cm1100);
 
         PrintChars();
     }
@@ -47,7 +47,7 @@ internal static partial class Program
         key = default;
         text = string.Empty;
 
-        var lines = SplitSrt().Split(block);
+        var lines = block.Split(["\r\n", "\r", "\n"], StringSplitOptions.None);
         if (lines.Length < 2)
         {
             return false;
@@ -209,8 +209,7 @@ internal static partial class Program
         {
             newContents.Add(0x00);
         }
-
-        Console.WriteLine($"{contentStart:X} {newContents.Count:X}");
+        
         Buffer.BlockCopy(newContents.ToArray(), 0, _cm1100, contentStart, newContents.Count);
     }
 
@@ -224,7 +223,7 @@ internal static partial class Program
         return new[] { (byte)(value & 0xFF), (byte)((value >> 8) & 0xFF) };
     }
 
-    [GeneratedRegex(@"\r?\n")]
+    [GeneratedRegex(@"\r?\n\r?\n")]
     private static partial Regex SplitSrt();
     [GeneratedRegex(@"(\d{2}):(\d{2}):(\d{2}),(\d{3}) --> (\d{2}):(\d{2}):(\d{2}),(\d{3})")]
     private static partial Regex TimeExtract();
