@@ -1,5 +1,6 @@
 using System.Text.RegularExpressions;
 using romhack_csharp;
+using System.Linq;
 
 internal static partial class Program
 {
@@ -8,9 +9,15 @@ internal static partial class Program
     private static byte[] _cm1100 = Array.Empty<byte>();
     private static int _charIndex;
 
-    private static void Main()
+    private static void Main(string[] args)
     {
         var config = Config.Load(Path.Combine(Directory.GetCurrentDirectory(), "config.json"));
+        
+        if (args.Contains("--rip") || !Directory.Exists("rom"))
+        {
+            new GameTextRipper(config).Rip();
+            return;
+        }
 
         LoadTranslations("out_translated.srt");
         Console.WriteLine($"Hash entries: {Hash.Count}");
