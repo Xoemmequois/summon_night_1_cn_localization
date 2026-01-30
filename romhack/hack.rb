@@ -1,9 +1,10 @@
+require "fileutils"
 SDK_PATH = "G:\\hob\\PSn00bSDK-0.24-win32\\"
 GAME_PATH = "F:\\hob\\psx\\Summon Night (Japan)\\Summon Night (Japan).bin"
 DUMPSXISO = "#{SDK_PATH}\\bin\\dumpsxiso.exe"
 MKPSXISO = "#{SDK_PATH}\\bin\\mkpsxiso.exe"
 Dir.mkdir("output") unless Dir.exist?("output")
-`#{SDK_PATH}\\bin\\mipsel-none-elf-gcc.exe -c -EL load.s -o .\\output\\load.o`
+`#{SDK_PATH}\\bin\\mipsel-none-elf-gcc.exe -c -Wa,--defsym,LOAD_COUNT=1 -EL load.s -o .\\output\\load.o`
 `#{SDK_PATH}\\bin\\mipsel-none-elf-objcopy.exe -R .MIPS.abiflags -O binary .\\output\\load.o .\\output\\load.bin`
 
 bytes = IO.binread(".\\output\\load.bin")
@@ -13,7 +14,8 @@ end
 
 Dir.mkdir("rom") unless Dir.exist?("rom")
 `#{DUMPSXISO} "#{GAME_PATH}" -x .\\rom -s .\\rom.xml`
-File.open(".\\rom\\SLPS_025.42", "rb+") do |f|
+FileUtils.cp(".\\rom\\SLPS_025.42", ".\\rom\\SLPS_025.42.mod")
+File.open(".\\rom\\SLPS_025.42.mod", "rb+") do |f|
   f.seek(0x85EFC)
   f.write(bytes)
   f.seek(0x21448)

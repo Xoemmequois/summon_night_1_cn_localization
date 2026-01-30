@@ -20,7 +20,7 @@ ReadCustomFunc:
     lui     $a1, 0x800d         # 构造目标地址 0x800D1000 (上半部分)
     ori     $a1, $a1, 0x1000    # (下半部分)
     jal     0x80030e3c          # CDBlockRead
-    li      $a2, 1              # 延迟槽：count = 1
+    li      $a2, LOAD_COUNT     # 延迟槽：count = LOAD_COUNT
 
     lw      $ra, 36($sp)        # 恢复返回地址
     nop                         # lw后不能立刻jr，需要等待一个指令让返回值被正确加载到ra

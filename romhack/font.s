@@ -24,8 +24,8 @@ LoadBIOSFont2:
 
     # 此时 $a0 依然保持着进入函数时的值，直接调用
     jal     0x80036920                  
-    nop                                 # 延迟槽
-    j       function_end
+    nop                          # 延迟槽
+    b       function_end
     nop
 
 keep_going:
@@ -46,20 +46,31 @@ check_and_map:
     subu    $t1, $s0, $t0       # $t1 = s0 - 0x8500
     sltiu   $t2, $t1, 0x0300    # 判断是否在 [0, 0x02FF] 之间 (即原范围 0x8500~0x87FF)
     beq     $t2, $zero, map_second_range
+    nop                         # 延迟槽
 
 map_first_range:
     # 逻辑: v0 = 0x800D1000 + (s0 - 0x8500)
     # 此时 $t1 已经是 (s0 - 0x8500)
+
+    sll     $t2, $t1, 5         # $t2 = Index * 32
+    sll     $t1, $t1, 2         # $t1 = Index * 4
+    subu    $t1, $t2, $t1       # $t1 = (Index * 32) - (Index * 4) = Index * 28
+
     lui     $v0, 0x800D         # 加载高 16 位
     ori     $v0, $v0, 0x1000    # 合并低 16 位，得到 0x800D1000
     addu    $v0, $v0, $t1       # 最终结果
-    j       copy_to_stack       # 返回
+    b       copy_to_stack       # 返回
     nop
 
 map_second_range:
     # 逻辑: v0 = 0x800D1300 + (s0 - 0x9900)
     subu    $t1, $s0, 0x9900    # 注意：如果 0x9900 超过 16位有符号数范围，
                                 # 某些编译器需要先 li $t0, 0x9900 再 subu
+                                
+    sll     $t2, $t1, 5         # $t2 = Index * 32
+    sll     $t1, $t1, 2         # $t1 = Index * 4
+    subu    $t1, $t2, $t1       # $t1 = (Index * 32) - (Index * 4) = Index * 28
+
     lui     $v0, 0x800D
     ori     $v0, $v0, 0x1300    # 得到 0x800D1300
     addu    $v0, $v0, $t1

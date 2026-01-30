@@ -18,17 +18,26 @@ internal static partial class Program
         File.WriteAllBytes(Path.Combine("rom", "CM1100.DAT.mod2"), _cm1100);
 
         PrintChars();
+        var fontBin = ExtraCodeBuilder.GetFontCodeBinary();
         var count = CharCodeToIndex(Chars.MaxBy(pair => (ushort)((pair.Value[0] << 8) | pair.Value[1])).Value) + 1;
-        var fontBitmaps = new byte[count * 28];
-        Console.WriteLine($"Length {fontBitmaps.Length}");
+        //28本身就可以被4整除，所以以下的上取整其实是不必要的，但是如果将来我们采用其他大小的字形就有需要了
+        var fontBinStart = (count * 28 + 3) / 4 * 4;
+        var finalLen = fontBinStart + fontBin.Length;
+        var fontBitmaps = new byte[finalLen];
         var fontBitmap = new byte[28];
         foreach (var pair in Chars)
         {
             var index = CharCodeToIndex(pair.Value);
+            if (index >= count)
+            {
+                throw new ApplicationException("index is larger than max, should not happen");
+            }
             GenFontBitmap.GenerateFontBitmap(pair.Key, fontBitmap);
             Buffer.BlockCopy(fontBitmap, 0, fontBitmaps, index * 28, 28);
         }
+        Buffer.BlockCopy(fontBin, 0, fontBitmaps, fontBinStart, fontBin.Length);
         File.WriteAllBytes(Path.Combine("rom", "chinese.fnt"), fontBitmaps);
+        CodeModifier.ModifyCode((uint)(0x800D1000u + fontBinStart), fontBitmaps.Length);
     }
 
     private static int CharCodeToIndex(byte[] arr)
