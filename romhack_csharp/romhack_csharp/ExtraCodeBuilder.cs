@@ -1,20 +1,21 @@
-using System;
 using System.Diagnostics;
-using System.IO;
 
 namespace romhack_csharp;
 
 public class ExtraCodeBuilder
 {
-    const string SdkPath = @"G:\hob\PSn00bSDK-0.24-win32\";
-
-    public static byte[] GetLoadCodeBinary(int loadCount)
+    public static byte[] GetLoadCodeBinary(int loadCount, string sdkPath)
     {
-        return CompileCode("load", $"-Wa,--defsym,LOAD_COUNT={loadCount}");
+        return CompileCode("load", sdkPath, $"-Wa,--defsym,LOAD_COUNT={loadCount}");
     }
 
-    private static byte[] CompileCode(string name, string extraFlags = "")
+    private static byte[] CompileCode(string name, string sdkPath, string extraFlags = "")
     {
+        if (string.IsNullOrWhiteSpace(sdkPath))
+        {
+            throw new ArgumentException("SDK path is empty.", nameof(sdkPath));
+        }
+
         var outputDir = Path.Combine(Directory.GetCurrentDirectory(), "output");
 
         if (!Directory.Exists(outputDir))
@@ -22,8 +23,8 @@ public class ExtraCodeBuilder
             Directory.CreateDirectory(outputDir);
         }
 
-        var gccPath = Path.Combine(SdkPath, "bin", "mipsel-none-elf-gcc.exe");
-        var objcopyPath = Path.Combine(SdkPath, "bin", "mipsel-none-elf-objcopy.exe");
+        var gccPath = Path.Combine(sdkPath, "bin", "mipsel-none-elf-gcc.exe");
+        var objcopyPath = Path.Combine(sdkPath, "bin", "mipsel-none-elf-objcopy.exe");
         var fontObj = Path.Combine(outputDir, $"{name}.o");
         var fontBin = Path.Combine(outputDir, $"{name}.bin");
 
@@ -33,9 +34,9 @@ public class ExtraCodeBuilder
         return File.ReadAllBytes(fontBin);
     }
     
-    public static byte[] GetFontCodeBinary()
+    public static byte[] GetFontCodeBinary(string sdkPath)
     {
-        return CompileCode("font");
+        return CompileCode("font", sdkPath);
     }
 
     private static void RunCommand(string fileName, string arguments)

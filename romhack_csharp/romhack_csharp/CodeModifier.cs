@@ -2,10 +2,10 @@
 
 public class CodeModifier
 {
-    public static void ModifyCode(uint newFontFuncAddr, int fontBinaryLen)
+    public static void ModifyCode(uint newFontFuncAddr, int fontBinaryLen, string sdkPath)
     {
         var codes = File.ReadAllBytes("rom/SLPS_025.42");
-        var loadBin = ExtraCodeBuilder.GetLoadCodeBinary((fontBinaryLen + 4095) / 4096);
+        var loadBin = ExtraCodeBuilder.GetLoadCodeBinary((fontBinaryLen + 4095) / 4096, sdkPath);
         if (loadBin.Length >= 0x54)
         {
             throw new ApplicationException("load.bin size is too large, should be less than 0x54");
