@@ -35,7 +35,6 @@ public static class GenFontBitmap
         using var format = StringFormat.GenericTypographic;
         format.FormatFlags |= StringFormatFlags.MeasureTrailingSpaces;
         graphics.DrawString(ch.ToString(), font, brush, new PointF(0, 0), format);
-        bitmap.Save("test.png");
 
         for (var y = 0; y < 14; y++)
         {
