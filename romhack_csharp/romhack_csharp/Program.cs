@@ -1,13 +1,25 @@
-using System.Text.RegularExpressions;
 using romhack_csharp;
-using System.Linq;
+using System.Text.Json;
+using System.Text.Json.Serialization;
 
-internal static partial class Program
+internal static class Program
 {
     private static readonly Dictionary<(int, int), string> Hash = new();
     private static readonly Dictionary<char, byte[]> Chars = new();
     private static byte[] _cm1100 = Array.Empty<byte>();
     private static int _charIndex;
+
+    private class TranslationItem
+    {
+        [JsonPropertyName("key")]
+        public string Key { get; set; } = string.Empty;
+        [JsonPropertyName("original")]
+        public string Original { get; set; } = string.Empty;
+        [JsonPropertyName("translation")]
+        public string Translation { get; set; } = string.Empty;
+        [JsonPropertyName("stage")]
+        public int Stage { get; set; }
+    }
 
     private static void Main(string[] args)
     {
@@ -19,7 +31,7 @@ internal static partial class Program
             return;
         }
 
-        LoadTranslations("out_translated.srt");
+        LoadTranslations(config, "zh_CN_translated.json");
         Console.WriteLine($"Hash entries: {Hash.Count}");
 
         _cm1100 = File.ReadAllBytes(Path.Combine("rom", "CM1100.DAT"));
@@ -58,55 +70,31 @@ internal static partial class Program
         return (arr[0] - 0x99) * 256 + arr[1] + 256 * 3;
     }
 
-    private static void LoadTranslations(string srtPath)
+    private static void LoadTranslations(Config config, string jsonPath)
     {
-        var srtText = File.ReadAllText(srtPath);
-        var items = SplitSrt().Split(srtText);
+        if (!File.Exists(jsonPath))
+        {
+            Console.WriteLine($"Warning: {jsonPath} not found.");
+            return;
+        }
+
+        var jsonText = File.ReadAllText(jsonPath);
+        var items = JsonSerializer.Deserialize<List<TranslationItem>>(jsonText);
+        if (items == null) return;
+
         foreach (var item in items)
         {
-            if (string.IsNullOrWhiteSpace(item))
+            if (!config.ValidStage.Contains(item.Stage))
             {
                 continue;
             }
 
-            if (!TryParseSrtBlock(item, out var key, out var text))
+            var parts = item.Key.Split('-');
+            if (parts.Length == 2 && int.TryParse(parts[0], out var id1) && int.TryParse(parts[1], out var id2))
             {
-                continue;
+                Hash[(id1, id2)] = item.Translation;
             }
-
-            Hash[key] = text;
         }
-    }
-
-    private static bool TryParseSrtBlock(string block, out (int StartMsec, int EndMsec) key, out string text)
-    {
-        key = default;
-        text = string.Empty;
-
-        var lines = block.Split(["\r\n", "\r", "\n"], StringSplitOptions.None);
-        if (lines.Length < 2)
-        {
-            return false;
-        }
-
-        var timeLine = lines[1];
-        var match = TimeExtract().Match(timeLine);
-        if (!match.Success)
-        {
-            return false;
-        }
-
-        var startHour = int.Parse(match.Groups[1].Value);
-        if (startHour == 0)
-        {
-            return false;
-        }
-
-        var startMsec = int.Parse(match.Groups[4].Value);
-        var endMsec = int.Parse(match.Groups[8].Value);
-        key = (startMsec, endMsec);
-        text = string.Join("\n", lines, 2, lines.Length - 2).Trim();
-        return true;
     }
 
     private static void ProcessDialogRange(int startId, int endId)
@@ -258,9 +246,4 @@ internal static partial class Program
     {
         return new[] { (byte)(value & 0xFF), (byte)((value >> 8) & 0xFF) };
     }
-
-    [GeneratedRegex(@"\r?\n\r?\n")]
-    private static partial Regex SplitSrt();
-    [GeneratedRegex(@"(\d{2}):(\d{2}):(\d{2}),(\d{3}) --> (\d{2}):(\d{2}):(\d{2}),(\d{3})")]
-    private static partial Regex TimeExtract();
 }

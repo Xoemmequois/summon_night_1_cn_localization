@@ -6,6 +6,7 @@ public sealed class Config
 {
     public string SdkPath { get; init; } = string.Empty;
     public string GamePath { get; init; } = string.Empty;
+    public List<int> ValidStage { get; init; } = new();
 
     public static Config Load(string path)
     {
