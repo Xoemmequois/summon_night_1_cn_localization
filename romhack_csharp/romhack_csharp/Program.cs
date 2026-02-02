@@ -59,6 +59,9 @@ internal static class Program
         Buffer.BlockCopy(fontBin, 0, fontBitmaps, fontBinStart, fontBin.Length);
         File.WriteAllBytes(Path.Combine("rom", "chinese.fnt"), fontBitmaps);
         CodeModifier.ModifyCode((uint)(0x800D1000u + fontBinStart), fontBitmaps.Length, config.SdkPath);
+        
+        var mkpsxiso = Path.Combine(config.SdkPath, "bin", "mkpsxiso.exe");
+        CommandRunner.RunCommand(mkpsxiso, ".\\rom2.xml -y -o .\\output\\Summon_Night_Chinese.bin -c .\\output\\Summon_Night_Chinese.cue");
     }
 
     private static int CharCodeToIndex(byte[] arr)
