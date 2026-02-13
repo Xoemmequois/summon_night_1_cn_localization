@@ -8,6 +8,10 @@
     </PropertyGroup>
 
     <ItemGroup>
+        <ProjectReference Include="..\SummonNightLib\SummonNightLib.csproj" />
+    </ItemGroup>
+
+    <ItemGroup>
       <PackageReference Include="System.Drawing.Common" Version="10.0.2" />
     </ItemGroup>
 

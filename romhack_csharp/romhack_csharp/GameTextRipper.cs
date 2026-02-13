@@ -1,6 +1,7 @@
 ﻿using System.Text;
 using System.Text.Json;
 using System.Text.Json.Serialization;
+using SummonNightLib;
 
 namespace romhack_csharp;
 
@@ -53,12 +54,12 @@ public class GameTextRipper(Config config)
 
     private List<string> ParseDialogContents(int id)
     {
-        var contents = GetSubcontent(id + 0x29);
-        var len = ReadUShort(contents, 0);
+        var contents = ExtractUtil.GetSubcontent(_cm1100, id + 0x29);
+        var len = ExtractUtil.ReadUShort(contents, 0);
         var indices = new ushort[len];
         for (int i = 0; i < len; i++)
         {
-            indices[i] = ReadUShort(contents, i * 2);
+            indices[i] = ExtractUtil.ReadUShort(contents, i * 2);
         }
 
         var strs = new List<string>();
@@ -103,23 +104,6 @@ public class GameTextRipper(Config config)
         }
 
         return strs;
-    }
-
-    private byte[] GetSubcontent(int id)
-    {
-        var baseOffset = 0x10 + id * 4;
-        var offset = ReadUShort(_cm1100, baseOffset);
-        var len = ReadUShort(_cm1100, baseOffset + 2);
-        var contentStart = offset * 0x800;
-        var contentLen = len * 0x800;
-        var contents = new byte[contentLen];
-        Buffer.BlockCopy(_cm1100, contentStart, contents, 0, contentLen);
-        return contents;
-    }
-
-    private static ushort ReadUShort(byte[] data, int offset)
-    {
-        return (ushort)(data[offset] | (data[offset + 1] << 8));
     }
 
     public class ParatranzItem
