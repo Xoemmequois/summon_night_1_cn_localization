@@ -1,11 +1,13 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# 
+#
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "romhack_csharp", "romhack_csharp\romhack_csharp.csproj", "{27ED725D-BB9A-4D91-90A0-DEDFD7CEB0E7}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "pic_extract", "pic_extract\pic_extract.csproj", "{FFAEDD71-F8CF-4494-B393-4A5DA4DF1CDE}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SummonNightLib", "SummonNightLib\SummonNightLib.csproj", "{DCC42E31-2187-4A24-B2A0-59121519F4AF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "small_font", "small_font\small_font.csproj", "{ADCA12DD-A0F7-47B1-8962-BBE4FCF8694C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -25,5 +27,9 @@ Global
 		{DCC42E31-2187-4A24-B2A0-59121519F4AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DCC42E31-2187-4A24-B2A0-59121519F4AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DCC42E31-2187-4A24-B2A0-59121519F4AF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ADCA12DD-A0F7-47B1-8962-BBE4FCF8694C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ADCA12DD-A0F7-47B1-8962-BBE4FCF8694C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ADCA12DD-A0F7-47B1-8962-BBE4FCF8694C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ADCA12DD-A0F7-47B1-8962-BBE4FCF8694C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
