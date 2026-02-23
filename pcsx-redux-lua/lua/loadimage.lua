@@ -1,0 +1,126 @@
+-- Global lookup table for GPU memory (1024 * 512 entries)
+-- Each entry stores the RAM source address for the corresponding GPU memory location
+gpuToRamLookup = {}
+
+-- Initialize the lookup table
+for i = 0, 1024 * 512 - 1 do
+    gpuToRamLookup[i] = 0
+end
+
+-- Breakpoint handle
+loadImageBP = nil
+
+-- Log file
+logFile = Support.File.open("loadimage_log.txt", "TRUNCATE")
+
+function log(str)
+    print(str)
+    if logFile then
+        logFile:write(str)
+        logFile:write("\n")
+    end
+end
+
+function findFunctionStart(start_address)
+    start_address = bit.band(start_address, 0x7FFFFFFF)
+    local mem_ptr = PCSX.getMemPtr()
+    
+    local INSTRUCTION_SIZE = 4
+    local JR_RA_OPCODE = 0x0800E003
+    
+    if start_address % INSTRUCTION_SIZE ~= 0 then
+        start_address = start_address - (start_address % INSTRUCTION_SIZE)
+    end
+    
+    local current_address = start_address
+    local MIN_SEARCH_ADDRESS = 0x00000000
+    
+    while current_address >= MIN_SEARCH_ADDRESS do
+        local byte1 = mem_ptr[current_address]
+        local byte2 = mem_ptr[current_address + 1]
+        local byte3 = mem_ptr[current_address + 2]
+        local byte4 = mem_ptr[current_address + 3]
+        local instruction = bit.lshift(byte1, 24) + bit.lshift(byte2, 16) + bit.lshift(byte3, 8) + byte4
+
+        if instruction == JR_RA_OPCODE then
+            return current_address + 2 * INSTRUCTION_SIZE + 0x80000000
+        end
+        
+        current_address = current_address - INSTRUCTION_SIZE
+    end
+end
+
+function showCurrentCallstacks()
+    local calls = PCSX.getCurrentCalls();
+    for call in calls do 
+        local cra = call.ra
+        local craStart = findFunctionStart(cra)
+        log(string.format("%X(%X)", craStart, cra))
+    end
+    local ra = PCSX.getRegisters().GPR.n.ra
+    local raStart = findFunctionStart(ra)
+    log(string.format("%X(%X)", raStart, ra))
+end
+
+function onLoadImage()
+    local regs = PCSX.getRegisters().GPR.n
+    local a0 = regs.a0  -- Pointer to rect (x, y, w, h)
+    local a1 = regs.a1  -- Source address in RAM
+    
+    -- Check if a0 is in valid range
+    if a0 < 0x80000000 or a0 > 0x807FFFFF then
+        log(string.format("onLoadImage: a0=%X out of range, ignoring", a0))
+        return true
+    end
+    
+    -- Warp a0 if it's in 0x80200000-0x807FFFFF range
+    if a0 >= 0x80200000 and a0 <= 0x807FFFFF then
+        local offset = (a0 - 0x80200000) % 0x200000
+        a0 = 0x80000000 + offset
+        log(string.format("onLoadImage: warped a0 from %X to %X", regs.a0, a0))
+    end
+    
+    -- Clear the highest bit (80 -> 00)
+    local rectAddr = bit.band(a0, 0x7FFFFFFF)
+    
+    -- Get memory pointer
+    local mem = PCSX.getMemPtr()
+    
+    -- Read rect data (4 uint16_t, little-endian): x, y, w, h
+    local x = bit.lshift(mem[rectAddr + 1], 8) + mem[rectAddr]
+    local y = bit.lshift(mem[rectAddr + 3], 8) + mem[rectAddr + 2]
+    local w = bit.lshift(mem[rectAddr + 5], 8) + mem[rectAddr + 4]
+    local h = bit.lshift(mem[rectAddr + 7], 8) + mem[rectAddr + 6]
+
+    if(x == 0 and y == 480 and w == 256 and h == 32 and a1 == 0x801C4000) then
+        return true
+    end
+    
+    log(string.format("onLoadImage: src=%X, rect=(%d,%d,%d,%d)", a1, x, y, w, h))
+    showCurrentCallstacks()
+    
+    -- Each pixel is 2 bytes, so total size is w * h * 2
+    local pixelCount = w * h
+    
+    -- Update the global lookup table
+    -- For each pixel in the rect, map GPU address to RAM source
+    for py = 0, h - 1 do
+        for px = 0, w - 1 do
+            local gpuIndex = (y + py) * 1024 + (x + px)
+            local ramSource = a1 + (py * w + px) * 2
+            gpuToRamLookup[gpuIndex] = ramSource
+        end
+    end
+    
+    log(string.format("onLoadImage: updated %d entries in lookup table", pixelCount))
+    
+    return true
+end
+
+function startLoadImage()
+    -- Add breakpoint at 0x8006c66c
+    loadImageBP = PCSX.addBreakpoint(0x8006c66c, 'Exec', 4, "LoadImage", onLoadImage)
+    log("LoadImage breakpoint setup at 0x8006c66c")
+    print("LoadImage breakpoint setup complete!")
+end
+

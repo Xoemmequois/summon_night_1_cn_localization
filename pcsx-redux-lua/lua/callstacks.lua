@@ -1,5 +1,39 @@
 local bit = require("bit")
 
+-- CD <-> RAM mapping
+SECTOR_SIZE = 0x800
+RAM_SIZE = 0x200000 -- 2MB
+
+-- Global lookup table: for each RAM byte offset (0 .. RAM_SIZE-1)
+-- store which CD sector that byte was loaded from, or -1 if unknown
+ramToCdSector = {}
+for i = 0, RAM_SIZE - 1 do
+    ramToCdSector[i] = -1
+end
+
+-- Helper: mark a contiguous range of RAM as coming from successive CD sectors
+function setSectorMapping(destAddr, sectorStart, sectorCount)
+    destAddr = bit.band(destAddr, 0x7FFFFFFF)
+    if destAddr >= RAM_SIZE then
+        return
+    end
+    for s = 0, sectorCount - 1 do
+        local sector = sectorStart + s
+        local ramStart = destAddr + s * SECTOR_SIZE
+        if ramStart >= RAM_SIZE then break end
+        local writeCount = math.min(SECTOR_SIZE, RAM_SIZE - ramStart)
+        for off = 0, writeCount - 1 do
+            ramToCdSector[ramStart + off] = sector
+        end
+    end
+end
+
+function getCdSectorForRam(addr)
+    addr = bit.band(addr, 0x7FFFFFFF)
+    if addr >= RAM_SIZE then return nil end
+    return ramToCdSector[addr]
+end
+
 function findFunctionStart(start_address)
 
     start_address = bit.band(start_address, 0x7FFFFFFF)
@@ -50,6 +84,13 @@ function onCDRead()
     local len = regs.a0
     local dest = regs.a1
     log(string.format("CDRead %d Sectors From %d Into %X", len, lastSetLoc, dest))
+    -- Normalize dest and update mapping table
+    local destOff = bit.band(dest, 0x7FFFFFFF)
+    if destOff < RAM_SIZE then
+        setSectorMapping(destOff, lastSetLoc, len)
+    else
+        log(string.format("CDRead into invalid RAM addr %X (offset %X)", dest, destOff))
+    end
     showCurrentCallstacks()
     return true
 end
