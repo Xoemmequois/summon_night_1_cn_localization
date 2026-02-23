@@ -8,6 +8,9 @@ ramAddress = nil
 cdSector = nil
 fileName = nil
 sectorOffset = nil
+callstack = nil
+cdReadParams = nil
+loadImageParams = nil
 
 -- File list: {name, startSector, sectorCount}
 -- Based on the screenshot provided (column 3 is startSector, column 2 / 0x800 is sectorCount)
@@ -57,20 +60,33 @@ function DrawImguiFrame()
                         cdSector = nil
                         fileName = nil
                         sectorOffset = nil
+                        callstack = nil
                     else
                         -- Find which file this sector belongs to
                         fileName, sectorOffset = findFileForSector(cdSector)
+                        -- Get callstack for this RAM address
+                        callstack = getCallstackForRam(ramAddress)
+                        -- Get CDRead parameters for this RAM address
+                        cdReadParams = getCDReadParamsForRam(ramAddress)
                     end
+                    -- Get LoadImage parameters for this GPU index
+                    loadImageParams = getLoadImageParamsForGpu(gpuIndex)
                 else
                     cdSector = nil
                     fileName = nil
                     sectorOffset = nil
+                    callstack = nil
+                    cdReadParams = nil
+                    loadImageParams = nil
                 end
             else
                 ramAddress = nil
                 cdSector = nil
                 fileName = nil
                 sectorOffset = nil
+                callstack = nil
+                cdReadParams = nil
+                loadImageParams = nil
             end
         end
         
@@ -84,9 +100,23 @@ function DrawImguiFrame()
             imgui.TextUnformatted("RAM Address: Not Found")
         end
         
+        -- Display LoadImage parameters
+        if loadImageParams then
+            imgui.Separator()
+            imgui.TextUnformatted("LoadImage Parameters")
+            imgui.TextUnformatted(string.format("Position: (%d, %d)", loadImageParams.x, loadImageParams.y))
+            imgui.TextUnformatted(string.format("Size: %d x %d", loadImageParams.w, loadImageParams.h))
+            imgui.TextUnformatted(string.format("RAM Source: 0x%X", loadImageParams.ramSource))
+            imgui.TextUnformatted(string.format("Byte Count: 0x%X (%d bytes)", loadImageParams.byteCount, loadImageParams.byteCount))
+            
+            -- Calculate sector count (ceiling division)
+            local sectorCount = math.ceil(loadImageParams.byteCount / 0x800)
+            imgui.TextUnformatted(string.format("Sector Count: %d", sectorCount))
+        end
+        
         -- Display CD Sector result
         if cdSector then
-            imgui.TextUnformatted(string.format("CD Sector: %d", cdSector))
+            imgui.TextUnformatted(string.format("CD Sector: 0x%X", cdSector))
         else
             if ramAddress then
                 imgui.TextUnformatted("CD Sector: Not Found")
@@ -102,5 +132,33 @@ function DrawImguiFrame()
         elseif cdSector then
             imgui.TextUnformatted("File: Not in any file")
         end
+        
+        -- Display CDRead parameters
+        if cdReadParams then
+            imgui.Separator()
+            imgui.TextUnformatted("CDRead Parameters")
+            imgui.TextUnformatted(string.format("Dest: 0x%X", cdReadParams.dest))
+            imgui.TextUnformatted(string.format("Length: %d sectors", cdReadParams.len))
+            imgui.TextUnformatted(string.format("Start Sector: 0x%X", cdReadParams.startSector))
+            
+            -- Find file for start sector
+            local startFileName, startSectorOffset = findFileForSector(cdReadParams.startSector)
+            if startFileName then
+                imgui.TextUnformatted(string.format("Start File: %s", startFileName))
+                imgui.TextUnformatted(string.format("Start File Offset: 0x%X", startSectorOffset))
+            else
+                imgui.TextUnformatted("Start File: Not in any file")
+            end
+        end
+
+        -- Display callstack information
+        if callstack and #callstack > 0 then
+            imgui.Separator()
+            imgui.TextUnformatted("CDRead Callstack")
+            for i, frame in ipairs(callstack) do
+                imgui.TextUnformatted(string.format("[%d] 0x%X (0x%X)", i - 1, frame.start, frame.addr))
+            end
+        end
+        
     end)
 end

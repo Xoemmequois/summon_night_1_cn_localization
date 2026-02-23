@@ -1,3 +1,5 @@
+local utils = require("utils")
+
 -- Global lookup table for GPU memory (1024 * 512 entries)
 -- Each entry stores the RAM source address for the corresponding GPU memory location
 gpuToRamLookup = {}
@@ -5,6 +7,13 @@ gpuToRamLookup = {}
 -- Initialize the lookup table
 for i = 0, 1024 * 512 - 1 do
     gpuToRamLookup[i] = 0
+end
+
+-- LoadImage parameters mapping: for each GPU index, store the LoadImage parameters
+-- Each entry contains {x, y, w, h, ramSource, byteCount}
+gpuToLoadImageParams = {}
+for i = 0, 1024 * 512 - 1 do
+    gpuToLoadImageParams[i] = nil
 end
 
 -- Breakpoint handle
@@ -21,45 +30,9 @@ function log(str)
     end
 end
 
-function findFunctionStart(start_address)
-    start_address = bit.band(start_address, 0x7FFFFFFF)
-    local mem_ptr = PCSX.getMemPtr()
-    
-    local INSTRUCTION_SIZE = 4
-    local JR_RA_OPCODE = 0x0800E003
-    
-    if start_address % INSTRUCTION_SIZE ~= 0 then
-        start_address = start_address - (start_address % INSTRUCTION_SIZE)
-    end
-    
-    local current_address = start_address
-    local MIN_SEARCH_ADDRESS = 0x00000000
-    
-    while current_address >= MIN_SEARCH_ADDRESS do
-        local byte1 = mem_ptr[current_address]
-        local byte2 = mem_ptr[current_address + 1]
-        local byte3 = mem_ptr[current_address + 2]
-        local byte4 = mem_ptr[current_address + 3]
-        local instruction = bit.lshift(byte1, 24) + bit.lshift(byte2, 16) + bit.lshift(byte3, 8) + byte4
-
-        if instruction == JR_RA_OPCODE then
-            return current_address + 2 * INSTRUCTION_SIZE + 0x80000000
-        end
-        
-        current_address = current_address - INSTRUCTION_SIZE
-    end
-end
-
-function showCurrentCallstacks()
-    local calls = PCSX.getCurrentCalls();
-    for call in calls do 
-        local cra = call.ra
-        local craStart = findFunctionStart(cra)
-        log(string.format("%X(%X)", craStart, cra))
-    end
-    local ra = PCSX.getRegisters().GPR.n.ra
-    local raStart = findFunctionStart(ra)
-    log(string.format("%X(%X)", raStart, ra))
+function getLoadImageParamsForGpu(gpuIndex)
+    if gpuIndex < 0 or gpuIndex >= 1024 * 512 then return nil end
+    return gpuToLoadImageParams[gpuIndex]
 end
 
 function onLoadImage()
@@ -97,10 +70,21 @@ function onLoadImage()
     end
     
     log(string.format("onLoadImage: src=%X, rect=(%d,%d,%d,%d)", a1, x, y, w, h))
-    showCurrentCallstacks()
+    utils.showCurrentCallstacks()
     
     -- Each pixel is 2 bytes, so total size is w * h * 2
     local pixelCount = w * h
+    local byteCount = pixelCount * 2
+    
+    -- Create LoadImage parameters record
+    local loadImageParams = {
+        x = x,
+        y = y,
+        w = w,
+        h = h,
+        ramSource = a1,
+        byteCount = byteCount
+    }
     
     -- Update the global lookup table
     -- For each pixel in the rect, map GPU address to RAM source
@@ -109,6 +93,8 @@ function onLoadImage()
             local gpuIndex = (y + py) * 1024 + (x + px)
             local ramSource = a1 + (py * w + px) * 2
             gpuToRamLookup[gpuIndex] = ramSource
+            -- Store LoadImage parameters for this GPU index
+            gpuToLoadImageParams[gpuIndex] = loadImageParams
         end
     end
     

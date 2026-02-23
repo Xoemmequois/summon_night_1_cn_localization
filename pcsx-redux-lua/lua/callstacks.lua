@@ -1,4 +1,5 @@
 local bit = require("bit")
+local utils = require("utils")
 
 -- CD <-> RAM mapping
 SECTOR_SIZE = 0x800
@@ -11,8 +12,22 @@ for i = 0, RAM_SIZE - 1 do
     ramToCdSector[i] = -1
 end
 
+-- Callstack mapping: for each RAM byte offset, store the callstack addresses when it was loaded
+-- Each entry is a table of addresses
+ramToCallstack = {}
+for i = 0, RAM_SIZE - 1 do
+    ramToCallstack[i] = {}
+end
+
+-- CDRead parameters mapping: for each RAM byte offset, store the CDRead parameters
+-- Each entry contains {dest, len, startSector}
+ramToCDReadParams = {}
+for i = 0, RAM_SIZE - 1 do
+    ramToCDReadParams[i] = nil
+end
+
 -- Helper: mark a contiguous range of RAM as coming from successive CD sectors
-function setSectorMapping(destAddr, sectorStart, sectorCount)
+function setSectorMapping(destAddr, sectorStart, sectorCount, callstack, cdReadParams)
     destAddr = bit.band(destAddr, 0x7FFFFFFF)
     if destAddr >= RAM_SIZE then
         return
@@ -24,6 +39,12 @@ function setSectorMapping(destAddr, sectorStart, sectorCount)
         local writeCount = math.min(SECTOR_SIZE, RAM_SIZE - ramStart)
         for off = 0, writeCount - 1 do
             ramToCdSector[ramStart + off] = sector
+            if callstack then
+                ramToCallstack[ramStart + off] = callstack
+            end
+            if cdReadParams then
+                ramToCDReadParams[ramStart + off] = cdReadParams
+            end
         end
     end
 end
@@ -34,49 +55,16 @@ function getCdSectorForRam(addr)
     return ramToCdSector[addr]
 end
 
-function findFunctionStart(start_address)
-
-    start_address = bit.band(start_address, 0x7FFFFFFF)
-    local mem_ptr = PCSX.getMemPtr()
-    
-    local INSTRUCTION_SIZE = 4
-    
-    local JR_RA_OPCODE = 0x0800E003
-    
-    if start_address % INSTRUCTION_SIZE ~= 0 then
-        start_address = start_address - (start_address % INSTRUCTION_SIZE)
-    end
-    
-    local current_address = start_address
-    
-    local MIN_SEARCH_ADDRESS = 0x00000000 -- 假设一个合理的最小搜索地址
-    
-    while current_address >= MIN_SEARCH_ADDRESS do
-        local byte1 = mem_ptr[current_address]
-        local byte2 = mem_ptr[current_address + 1]
-        local byte3 = mem_ptr[current_address + 2]
-        local byte4 = mem_ptr[current_address + 3]
-        local instruction = bit.lshift(byte1, 24) + bit.lshift(byte2, 16) + bit.lshift(byte3, 8) + byte4
-
-        
-        if instruction == JR_RA_OPCODE then
-            return current_address + 2 * INSTRUCTION_SIZE + 0x80000000
-        end
-        
-        current_address = current_address - INSTRUCTION_SIZE
-    end
+function getCallstackForRam(addr)
+    addr = bit.band(addr, 0x7FFFFFFF)
+    if addr >= RAM_SIZE then return nil end
+    return ramToCallstack[addr]
 end
 
-function showCurrentCallstacks()
-    local calls = PCSX.getCurrentCalls();
-    for call in calls do 
-        local cra = call.ra
-        local craStart = findFunctionStart(cra)
-        log(string.format("%X(%X)", craStart, cra))
-    end
-    local ra = PCSX.getRegisters().GPR.n.ra
-    local raStart = findFunctionStart(ra)
-    log(string.format("%X(%X)", raStart, ra))
+function getCDReadParamsForRam(addr)
+    addr = bit.band(addr, 0x7FFFFFFF)
+    if addr >= RAM_SIZE then return nil end
+    return ramToCDReadParams[addr]
 end
 
 function onCDRead()
@@ -84,14 +72,24 @@ function onCDRead()
     local len = regs.a0
     local dest = regs.a1
     log(string.format("CDRead %d Sectors From %d Into %X", len, lastSetLoc, dest))
+    
+    -- Get callstack and log it
+    local callstack = utils.showCurrentCallstacks()
+
+    -- Create CDRead parameters record
+    local cdReadParams = {
+        dest = dest,
+        len = len,
+        startSector = lastSetLoc
+    }
+
     -- Normalize dest and update mapping table
     local destOff = bit.band(dest, 0x7FFFFFFF)
     if destOff < RAM_SIZE then
-        setSectorMapping(destOff, lastSetLoc, len)
+        setSectorMapping(destOff, lastSetLoc, len, callstack, cdReadParams)
     else
         log(string.format("CDRead into invalid RAM addr %X (offset %X)", dest, destOff))
     end
-    showCurrentCallstacks()
     return true
 end
 
@@ -120,7 +118,7 @@ function onCDControl()
     local sec = minutes * 75 * 60 + seconds * 75 + sectors - 150
     lastSetLoc = sec
     log(string.format("CDControl with SetLoc at %d", sec))
-    showCurrentCallstacks()
+    utils.showCurrentCallstacks()
     return true
 end
 
