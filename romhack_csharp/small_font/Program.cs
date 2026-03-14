@@ -106,3 +106,5 @@ static void DrawGlyph(Bitmap bitmap, byte[] subContent, int offset, int startX, 
         }
     }
 }
+
+new RomTextRipper().Rip();

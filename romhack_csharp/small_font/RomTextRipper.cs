@@ -1,4 +1,6 @@
 ﻿using System.Text;
+using System.Text.Json;
+using System.Text.Json.Serialization;
 using SummonNightLib;
 
 namespace romhack_csharp;
@@ -35,11 +37,20 @@ public class RomTextRipper
             }
         }
 
-        RipArrays(romData, allExtracted);
+        var resultItems = RipArrays(romData, allExtracted);
+
+        var jsonOptions = new JsonSerializerOptions
+        {
+            WriteIndented = true,
+            Encoder = System.Text.Encodings.Web.JavaScriptEncoder.UnsafeRelaxedJsonEscaping
+        };
+        File.WriteAllText("rom_text_zh_CN.json", JsonSerializer.Serialize(resultItems, jsonOptions));
+        Console.WriteLine("\nDone! Text exported to rom_text_zh_CN.json");
     }
 
-    private void RipArrays(byte[] romData, List<(int Address, string Text)> allExtracted)
+    private List<ParatranzItem> RipArrays(byte[] romData, List<(int Address, string Text)> allExtracted)
     {
+        var result = new List<ParatranzItem>();
         var referencedAddresses = new HashSet<int>();
         var extractedAddresses = new HashSet<int>(allExtracted.Select(x => x.Address));
         var externalReferences = new List<(int Address, string Text)>();
@@ -58,6 +69,11 @@ public class RomTextRipper
             string desc1 = GetStringAtMemAddr(romData, desc1Addr, referencedAddresses, extractedAddresses, externalReferences);
             string desc2 = GetStringAtMemAddr(romData, desc2Addr, referencedAddresses, extractedAddresses, externalReferences);
             string desc3 = GetStringAtMemAddr(romData, desc3Addr, referencedAddresses, extractedAddresses, externalReferences);
+
+            if (!string.IsNullOrEmpty(name)) result.Add(new ParatranzItem { Key = $"Equip-{i}-Name", Original = name });
+            if (!string.IsNullOrEmpty(desc1)) result.Add(new ParatranzItem { Key = $"Equip-{i}-Desc1", Original = desc1 });
+            if (!string.IsNullOrEmpty(desc2)) result.Add(new ParatranzItem { Key = $"Equip-{i}-Desc2", Original = desc2 });
+            if (!string.IsNullOrEmpty(desc3)) result.Add(new ParatranzItem { Key = $"Equip-{i}-Desc3", Original = desc3 });
 
             Console.WriteLine($"Equip {i}: Name={name}, Desc1={desc1}, Desc2={desc2}, Desc3={desc3}");
         }
@@ -79,6 +95,11 @@ public class RomTextRipper
             string desc2 = GetStringAtMemAddr(romData, desc2Addr, referencedAddresses, extractedAddresses, externalReferences);
             string desc3 = GetStringAtMemAddr(romData, desc3Addr, referencedAddresses, extractedAddresses, externalReferences);
 
+            if (!string.IsNullOrEmpty(name)) result.Add(new ParatranzItem { Key = $"Item-{i}-Name", Original = name });
+            if (!string.IsNullOrEmpty(desc1)) result.Add(new ParatranzItem { Key = $"Item-{i}-Desc1", Original = desc1 });
+            if (!string.IsNullOrEmpty(desc2)) result.Add(new ParatranzItem { Key = $"Item-{i}-Desc2", Original = desc2 });
+            if (!string.IsNullOrEmpty(desc3)) result.Add(new ParatranzItem { Key = $"Item-{i}-Desc3", Original = desc3 });
+
             Console.WriteLine($"Item {i}: Name={name}, Desc1={desc1}, Desc2={desc2}, Desc3={desc3}");
         }
 
@@ -89,6 +110,7 @@ public class RomTextRipper
             int entryStart = 0x7CEEC + i * 4;
             int nameAddr = BitConverter.ToInt32(romData, entryStart);
             string name = GetStringAtMemAddr(romData, nameAddr, referencedAddresses, extractedAddresses, externalReferences);
+            if (!string.IsNullOrEmpty(name)) result.Add(new ParatranzItem { Key = $"EnemySkill-{i}", Original = name });
             Console.WriteLine($"Enemy Skill {i}: Name={name}");
         }
 
@@ -106,6 +128,11 @@ public class RomTextRipper
             string desc1 = GetStringAtMemAddr(romData, desc1Addr, referencedAddresses, extractedAddresses, externalReferences);
             string desc2 = GetStringAtMemAddr(romData, desc2Addr, referencedAddresses, extractedAddresses, externalReferences);
             string desc3 = GetStringAtMemAddr(romData, desc3Addr, referencedAddresses, extractedAddresses, externalReferences);
+
+            if (!string.IsNullOrEmpty(name)) result.Add(new ParatranzItem { Key = $"Magic-{i}-Name", Original = name });
+            if (!string.IsNullOrEmpty(desc1)) result.Add(new ParatranzItem { Key = $"Magic-{i}-Desc1", Original = desc1 });
+            if (!string.IsNullOrEmpty(desc2)) result.Add(new ParatranzItem { Key = $"Magic-{i}-Desc2", Original = desc2 });
+            if (!string.IsNullOrEmpty(desc3)) result.Add(new ParatranzItem { Key = $"Magic-{i}-Desc3", Original = desc3 });
 
             Console.WriteLine($"Magic {i}: Name={name}, Desc1={desc1}, Desc2={desc2}, Desc3={desc3}");
         }
@@ -125,6 +152,11 @@ public class RomTextRipper
             string desc2 = GetStringAtMemAddr(romData, desc2Addr, referencedAddresses, extractedAddresses, externalReferences);
             string desc3 = GetStringAtMemAddr(romData, desc3Addr, referencedAddresses, extractedAddresses, externalReferences);
 
+            if (!string.IsNullOrEmpty(name)) result.Add(new ParatranzItem { Key = $"Skill-{i}-Name", Original = name });
+            if (!string.IsNullOrEmpty(desc1)) result.Add(new ParatranzItem { Key = $"Skill-{i}-Desc1", Original = desc1 });
+            if (!string.IsNullOrEmpty(desc2)) result.Add(new ParatranzItem { Key = $"Skill-{i}-Desc2", Original = desc2 });
+            if (!string.IsNullOrEmpty(desc3)) result.Add(new ParatranzItem { Key = $"Skill-{i}-Desc3", Original = desc3 });
+
             Console.WriteLine($"Skill {i}: Name={name}, Desc1={desc1}, Desc2={desc2}, Desc3={desc3}");
         }
 
@@ -141,6 +173,10 @@ public class RomTextRipper
             string desc2 = GetStringAtMemAddr(romData, desc2Addr, referencedAddresses, extractedAddresses, externalReferences);
             string desc3 = GetStringAtMemAddr(romData, desc3Addr, referencedAddresses, extractedAddresses, externalReferences);
 
+            if (!string.IsNullOrEmpty(desc1)) result.Add(new ParatranzItem { Key = $"Unknown-{i}-Desc1", Original = desc1 });
+            if (!string.IsNullOrEmpty(desc2)) result.Add(new ParatranzItem { Key = $"Unknown-{i}-Desc2", Original = desc2 });
+            if (!string.IsNullOrEmpty(desc3)) result.Add(new ParatranzItem { Key = $"Unknown-{i}-Desc3", Original = desc3 });
+
             Console.WriteLine($"Unknown {i}: Desc1={desc1}, Desc2={desc2}, Desc3={desc3}");
         }
 
@@ -150,6 +186,7 @@ public class RomTextRipper
             var uniqueExternals = externalReferences.DistinctBy(x => x.Address).OrderBy(x => x.Address);
             foreach (var item in uniqueExternals)
             {
+                result.Add(new ParatranzItem { Key = $"External-0x{item.Address:X}", Original = item.Text });
                 Console.WriteLine($"[External][0x{item.Address:X}] {item.Text}");
             }
         }
@@ -159,9 +196,26 @@ public class RomTextRipper
         {
             if (!referencedAddresses.Contains(item.Address))
             {
+                result.Add(new ParatranzItem { Key = $"Unreferenced-0x{item.Address:X}", Original = item.Text });
                 Console.WriteLine($"[Unreferenced][0x{item.Address:X}] {item.Text}");
             }
         }
+
+        return result;
+    }
+
+    public class ParatranzItem
+    {
+        public string key { get; set; } = "";
+        public string original { get; set; } = "";
+        public string translation { get; set; } = "";
+
+        [JsonIgnore]
+        public string Key { get => key; set => key = value; }
+        [JsonIgnore]
+        public string Original { get => original; set => original = value; }
+        [JsonIgnore]
+        public string Translation { get => translation; set => translation = value; }
     }
 
     private string GetStringAtMemAddr(byte[] romData, int memAddr, HashSet<int> referencedAddresses, HashSet<int> extractedAddresses, List<(int Address, string Text)> externalReferences)
