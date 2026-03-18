@@ -5,21 +5,6 @@
     "translation": ""
   },
   {
-    "key": "Equip-0-Desc1",
-    "original": "(Not recognized at 0x87F1C)",
-    "translation": ""
-  },
-  {
-    "key": "Equip-0-Desc2",
-    "original": "(Not recognized at 0x87F1C)",
-    "translation": ""
-  },
-  {
-    "key": "Equip-0-Desc3",
-    "original": "(Not recognized at 0x87F1C)",
-    "translation": ""
-  },
-  {
     "key": "Equip-1-Name",
     "original": "さびた剣",
     "translation": ""
@@ -27,16 +12,6 @@
   {
     "key": "Equip-1-Desc1",
     "original": "武器力１",
-    "translation": ""
-  },
-  {
-    "key": "Equip-1-Desc2",
-    "original": "(Not recognized at 0x87F1C)",
-    "translation": ""
-  },
-  {
-    "key": "Equip-1-Desc3",
-    "original": "(Not recognized at 0x87F1C)",
     "translation": ""
   },
   {
@@ -50,16 +25,6 @@
     "translation": ""
   },
   {
-    "key": "Equip-2-Desc2",
-    "original": "(Not recognized at 0x87F1C)",
-    "translation": ""
-  },
-  {
-    "key": "Equip-2-Desc3",
-    "original": "(Not recognized at 0x87F1C)",
-    "translation": ""
-  },
-  {
     "key": "Equip-3-Name",
     "original": "ベイグナート",
     "translation": ""
@@ -67,16 +32,6 @@
   {
     "key": "Equip-3-Desc1",
     "original": "武器力８\u3000ＬＵＣ＋１",
-    "translation": ""
-  },
-  {
-    "key": "Equip-3-Desc2",
-    "original": "(Not recognized at 0x87F1C)",
-    "translation": ""
-  },
-  {
-    "key": "Equip-3-Desc3",
-    "original": "(Not recognized at 0x87F1C)",
     "translation": ""
   },
   {
@@ -90,16 +45,6 @@
     "translation": ""
   },
   {
-    "key": "Equip-4-Desc2",
-    "original": "(Not recognized at 0x87F1C)",
-    "translation": ""
-  },
-  {
-    "key": "Equip-4-Desc3",
-    "original": "(Not recognized at 0x87F1C)",
-    "translation": ""
-  },
-  {
     "key": "Equip-5-Name",
     "original": "スレッショルド",
     "translation": ""
@@ -107,16 +52,6 @@
   {
     "key": "Equip-5-Desc1",
     "original": "武器力２０",
-    "translation": ""
-  },
-  {
-    "key": "Equip-5-Desc2",
-    "original": "(Not recognized at 0x87F1C)",
-    "translation": ""
-  },
-  {
-    "key": "Equip-5-Desc3",
-    "original": "(Not recognized at 0x87F1C)",
     "translation": ""
   },
   {
@@ -135,11 +70,6 @@
     "translation": ""
   },
   {
-    "key": "Equip-6-Desc3",
-    "original": "(Not recognized at 0x87F1C)",
-    "translation": ""
-  },
-  {
     "key": "Equip-7-Name",
     "original": "パレリィセイバー",
     "translation": ""
@@ -147,16 +77,6 @@
   {
     "key": "Equip-7-Desc1",
     "original": "武器力２７",
-    "translation": ""
-  },
-  {
-    "key": "Equip-7-Desc2",
-    "original": "(Not recognized at 0x87F1C)",
-    "translation": ""
-  },
-  {
-    "key": "Equip-7-Desc3",
-    "original": "(Not recognized at 0x87F1C)",
     "translation": ""
   },
   {
@@ -170,16 +90,6 @@
     "translation": ""
   },
   {
-    "key": "Equip-8-Desc2",
-    "original": "(Not recognized at 0x87F1C)",
-    "translation": ""
-  },
-  {
-    "key": "Equip-8-Desc3",
-    "original": "(Not recognized at 0x87F1C)",
-    "translation": ""
-  },
-  {
     "key": "Equip-9-Name",
     "original": "ウェイドラッシュ",
     "translation": ""
@@ -187,16 +97,6 @@
   {
     "key": "Equip-9-Desc1",
     "original": "武器力３６",
-    "translation": ""
-  },
-  {
-    "key": "Equip-9-Desc2",
-    "original": "(Not recognized at 0x87F1C)",
-    "translation": ""
-  },
-  {
-    "key": "Equip-9-Desc3",
-    "original": "(Not recognized at 0x87F1C)",
     "translation": ""
   },
   {
@@ -215,11 +115,6 @@
     "translation": ""
   },
   {
-    "key": "Equip-10-Desc3",
-    "original": "(Not recognized at 0x87F1C)",
-    "translation": ""
-  },
-  {
     "key": "Equip-11-Name",
     "original": "ヘル・キャリバー",
     "translation": ""
@@ -227,16 +122,6 @@
   {
     "key": "Equip-11-Desc1",
     "original": "武器力４２",
-    "translation": ""
-  },
-  {
-    "key": "Equip-11-Desc2",
-    "original": "(Not recognized at 0x87F1C)",
-    "translation": ""
-  },
-  {
-    "key": "Equip-11-Desc3",
-    "original": "(Not recognized at 0x87F1C)",
     "translation": ""
   },
   {
@@ -250,16 +135,6 @@
     "translation": ""
   },
   {
-    "key": "Equip-12-Desc2",
-    "original": "(Not recognized at 0x87F1C)",
-    "translation": ""
-  },
-  {
-    "key": "Equip-12-Desc3",
-    "original": "(Not recognized at 0x87F1C)",
-    "translation": ""
-  },
-  {
     "key": "Equip-13-Name",
     "original": "レイムスニール",
     "translation": ""
@@ -267,16 +142,6 @@
   {
     "key": "Equip-13-Desc1",
     "original": "武器力５７",
-    "translation": ""
-  },
-  {
-    "key": "Equip-13-Desc2",
-    "original": "(Not recognized at 0x87F1C)",
-    "translation": ""
-  },
-  {
-    "key": "Equip-13-Desc3",
-    "original": "(Not recognized at 0x87F1C)",
     "translation": ""
   },
   {
@@ -295,11 +160,6 @@
     "translation": ""
   },
   {
-    "key": "Equip-14-Desc3",
-    "original": "(Not recognized at 0x87F1C)",
-    "translation": ""
-  },
-  {
     "key": "Equip-15-Name",
     "original": "死散剣",
     "translation": ""
@@ -307,16 +167,6 @@
   {
     "key": "Equip-15-Desc1",
     "original": "武器力７３",
-    "translation": ""
-  },
-  {
-    "key": "Equip-15-Desc2",
-    "original": "(Not recognized at 0x87F1C)",
-    "translation": ""
-  },
-  {
-    "key": "Equip-15-Desc3",
-    "original": "(Not recognized at 0x87F1C)",
     "translation": ""
   },
   {
@@ -335,11 +185,6 @@
     "translation": ""
   },
   {
-    "key": "Equip-16-Desc3",
-    "original": "(Not recognized at 0x87F1C)",
-    "translation": ""
-  },
-  {
     "key": "Equip-17-Name",
     "original": "バスターソード",
     "translation": ""
@@ -347,16 +192,6 @@
   {
     "key": "Equip-17-Desc1",
     "original": "武器力４",
-    "translation": ""
-  },
-  {
-    "key": "Equip-17-Desc2",
-    "original": "(Not recognized at 0x87F1C)",
-    "translation": ""
-  },
-  {
-    "key": "Equip-17-Desc3",
-    "original": "(Not recognized at 0x87F1C)",
     "translation": ""
   },
   {
@@ -370,16 +205,6 @@
     "translation": ""
   },
   {
-    "key": "Equip-18-Desc2",
-    "original": "(Not recognized at 0x87F1C)",
-    "translation": ""
-  },
-  {
-    "key": "Equip-18-Desc3",
-    "original": "(Not recognized at 0x87F1C)",
-    "translation": ""
-  },
-  {
     "key": "Equip-19-Name",
     "original": "フレイム・タン",
     "translation": ""
@@ -387,16 +212,6 @@
   {
     "key": "Equip-19-Desc1",
     "original": "武器力１２",
-    "translation": ""
-  },
-  {
-    "key": "Equip-19-Desc2",
-    "original": "(Not recognized at 0x87F1C)",
-    "translation": ""
-  },
-  {
-    "key": "Equip-19-Desc3",
-    "original": "(Not recognized at 0x87F1C)",
     "translation": ""
   },
   {
@@ -410,16 +225,6 @@
     "translation": ""
   },
   {
-    "key": "Equip-20-Desc2",
-    "original": "(Not recognized at 0x87F1C)",
-    "translation": ""
-  },
-  {
-    "key": "Equip-20-Desc3",
-    "original": "(Not recognized at 0x87F1C)",
-    "translation": ""
-  },
-  {
     "key": "Equip-21-Name",
     "original": "クレイモアー",
     "translation": ""
@@ -427,16 +232,6 @@
   {
     "key": "Equip-21-Desc1",
     "original": "武器力３３",
-    "translation": ""
-  },
-  {
-    "key": "Equip-21-Desc2",
-    "original": "(Not recognized at 0x87F1C)",
-    "translation": ""
-  },
-  {
-    "key": "Equip-21-Desc3",
-    "original": "(Not recognized at 0x87F1C)",
     "translation": ""
   },
   {
@@ -455,11 +250,6 @@
     "translation": ""
   },
   {
-    "key": "Equip-22-Desc3",
-    "original": "(Not recognized at 0x87F1C)",
-    "translation": ""
-  },
-  {
     "key": "Equip-23-Name",
     "original": "エグゼキューシュ",
     "translation": ""
@@ -467,16 +257,6 @@
   {
     "key": "Equip-23-Desc1",
     "original": "武器力４６",
-    "translation": ""
-  },
-  {
-    "key": "Equip-23-Desc2",
-    "original": "(Not recognized at 0x87F1C)",
-    "translation": ""
-  },
-  {
-    "key": "Equip-23-Desc3",
-    "original": "(Not recognized at 0x87F1C)",
     "translation": ""
   },
   {
@@ -490,16 +270,6 @@
     "translation": ""
   },
   {
-    "key": "Equip-24-Desc2",
-    "original": "(Not recognized at 0x87F1C)",
-    "translation": ""
-  },
-  {
-    "key": "Equip-24-Desc3",
-    "original": "(Not recognized at 0x87F1C)",
-    "translation": ""
-  },
-  {
     "key": "Equip-25-Name",
     "original": "斬烈剛剣",
     "translation": ""
@@ -510,16 +280,6 @@
     "translation": ""
   },
   {
-    "key": "Equip-25-Desc2",
-    "original": "(Not recognized at 0x87F1C)",
-    "translation": ""
-  },
-  {
-    "key": "Equip-25-Desc3",
-    "original": "(Not recognized at 0x87F1C)",
-    "translation": ""
-  },
-  {
     "key": "Equip-26-Name",
     "original": "パラレイン",
     "translation": ""
@@ -527,16 +287,6 @@
   {
     "key": "Equip-26-Desc1",
     "original": "武器力７２",
-    "translation": ""
-  },
-  {
-    "key": "Equip-26-Desc2",
-    "original": "(Not recognized at 0x87F1C)",
-    "translation": ""
-  },
-  {
-    "key": "Equip-26-Desc3",
-    "original": "(Not recognized at 0x87F1C)",
     "translation": ""
   },
   {
@@ -555,11 +305,6 @@
     "translation": ""
   },
   {
-    "key": "Equip-27-Desc3",
-    "original": "(Not recognized at 0x87F1C)",
-    "translation": ""
-  },
-  {
     "key": "Equip-28-Name",
     "original": "ビリオン・デス",
     "translation": ""
@@ -567,16 +312,6 @@
   {
     "key": "Equip-28-Desc1",
     "original": "武器力７５",
-    "translation": ""
-  },
-  {
-    "key": "Equip-28-Desc2",
-    "original": "(Not recognized at 0x87F1C)",
-    "translation": ""
-  },
-  {
-    "key": "Equip-28-Desc3",
-    "original": "(Not recognized at 0x87F1C)",
     "translation": ""
   },
   {
@@ -590,16 +325,6 @@
     "translation": ""
   },
   {
-    "key": "Equip-29-Desc2",
-    "original": "(Not recognized at 0x87F1C)",
-    "translation": ""
-  },
-  {
-    "key": "Equip-29-Desc3",
-    "original": "(Not recognized at 0x87F1C)",
-    "translation": ""
-  },
-  {
     "key": "Equip-30-Name",
     "original": "ペーパーナイフ",
     "translation": ""
@@ -607,16 +332,6 @@
   {
     "key": "Equip-30-Desc1",
     "original": "武器力１",
-    "translation": ""
-  },
-  {
-    "key": "Equip-30-Desc2",
-    "original": "(Not recognized at 0x87F1C)",
-    "translation": ""
-  },
-  {
-    "key": "Equip-30-Desc3",
-    "original": "(Not recognized at 0x87F1C)",
     "translation": ""
   },
   {
@@ -630,16 +345,6 @@
     "translation": ""
   },
   {
-    "key": "Equip-31-Desc2",
-    "original": "(Not recognized at 0x87F1C)",
-    "translation": ""
-  },
-  {
-    "key": "Equip-31-Desc3",
-    "original": "(Not recognized at 0x87F1C)",
-    "translation": ""
-  },
-  {
     "key": "Equip-32-Name",
     "original": "テイルニードル",
     "translation": ""
@@ -647,16 +352,6 @@
   {
     "key": "Equip-32-Desc1",
     "original": "武器力６",
-    "translation": ""
-  },
-  {
-    "key": "Equip-32-Desc2",
-    "original": "(Not recognized at 0x87F1C)",
-    "translation": ""
-  },
-  {
-    "key": "Equip-32-Desc3",
-    "original": "(Not recognized at 0x87F1C)",
     "translation": ""
   },
   {
@@ -670,16 +365,6 @@
     "translation": ""
   },
   {
-    "key": "Equip-33-Desc2",
-    "original": "(Not recognized at 0x87F1C)",
-    "translation": ""
-  },
-  {
-    "key": "Equip-33-Desc3",
-    "original": "(Not recognized at 0x87F1C)",
-    "translation": ""
-  },
-  {
     "key": "Equip-34-Name",
     "original": "カルチェ",
     "translation": ""
@@ -687,16 +372,6 @@
   {
     "key": "Equip-34-Desc1",
     "original": "武器力１８",
-    "translation": ""
-  },
-  {
-    "key": "Equip-34-Desc2",
-    "original": "(Not recognized at 0x87F1C)",
-    "translation": ""
-  },
-  {
-    "key": "Equip-34-Desc3",
-    "original": "(Not recognized at 0x87F1C)",
     "translation": ""
   },
   {
@@ -710,16 +385,6 @@
     "translation": ""
   },
   {
-    "key": "Equip-35-Desc2",
-    "original": "(Not recognized at 0x87F1C)",
-    "translation": ""
-  },
-  {
-    "key": "Equip-35-Desc3",
-    "original": "(Not recognized at 0x87F1C)",
-    "translation": ""
-  },
-  {
     "key": "Equip-36-Name",
     "original": "アサッシンズ",
     "translation": ""
@@ -727,16 +392,6 @@
   {
     "key": "Equip-36-Desc1",
     "original": "武器力３２",
-    "translation": ""
-  },
-  {
-    "key": "Equip-36-Desc2",
-    "original": "(Not recognized at 0x87F1C)",
-    "translation": ""
-  },
-  {
-    "key": "Equip-36-Desc3",
-    "original": "(Not recognized at 0x87F1C)",
     "translation": ""
   },
   {
@@ -755,11 +410,6 @@
     "translation": ""
   },
   {
-    "key": "Equip-37-Desc3",
-    "original": "(Not recognized at 0x87F1C)",
-    "translation": ""
-  },
-  {
     "key": "Equip-38-Name",
     "original": "シェイドエッジ",
     "translation": ""
@@ -770,16 +420,6 @@
     "translation": ""
   },
   {
-    "key": "Equip-38-Desc2",
-    "original": "(Not recognized at 0x87F1C)",
-    "translation": ""
-  },
-  {
-    "key": "Equip-38-Desc3",
-    "original": "(Not recognized at 0x87F1C)",
-    "translation": ""
-  },
-  {
     "key": "Equip-39-Name",
     "original": "ウィンドナイフ",
     "translation": ""
@@ -787,16 +427,6 @@
   {
     "key": "Equip-39-Desc1",
     "original": "武器力４０",
-    "translation": ""
-  },
-  {
-    "key": "Equip-39-Desc2",
-    "original": "(Not recognized at 0x87F1C)",
-    "translation": ""
-  },
-  {
-    "key": "Equip-39-Desc3",
-    "original": "(Not recognized at 0x87F1C)",
     "translation": ""
   },
   {
@@ -815,11 +445,6 @@
     "translation": ""
   },
   {
-    "key": "Equip-40-Desc3",
-    "original": "(Not recognized at 0x87F1C)",
-    "translation": ""
-  },
-  {
     "key": "Equip-41-Name",
     "original": "ピンクポイズン",
     "translation": ""
@@ -830,16 +455,6 @@
     "translation": ""
   },
   {
-    "key": "Equip-41-Desc2",
-    "original": "(Not recognized at 0x87F1C)",
-    "translation": ""
-  },
-  {
-    "key": "Equip-41-Desc3",
-    "original": "(Not recognized at 0x87F1C)",
-    "translation": ""
-  },
-  {
     "key": "Equip-42-Name",
     "original": "レイエッジ",
     "translation": ""
@@ -847,16 +462,6 @@
   {
     "key": "Equip-42-Desc1",
     "original": "武器力５０",
-    "translation": ""
-  },
-  {
-    "key": "Equip-42-Desc2",
-    "original": "(Not recognized at 0x87F1C)",
-    "translation": ""
-  },
-  {
-    "key": "Equip-42-Desc3",
-    "original": "(Not recognized at 0x87F1C)",
     "translation": ""
   },
   {
@@ -875,11 +480,6 @@
     "translation": ""
   },
   {
-    "key": "Equip-43-Desc3",
-    "original": "(Not recognized at 0x87F1C)",
-    "translation": ""
-  },
-  {
     "key": "Equip-44-Name",
     "original": "虹色のナイフ",
     "translation": ""
@@ -887,16 +487,6 @@
   {
     "key": "Equip-44-Desc1",
     "original": "武器力６０",
-    "translation": ""
-  },
-  {
-    "key": "Equip-44-Desc2",
-    "original": "(Not recognized at 0x87F1C)",
-    "translation": ""
-  },
-  {
-    "key": "Equip-44-Desc3",
-    "original": "(Not recognized at 0x87F1C)",
     "translation": ""
   },
   {
@@ -915,11 +505,6 @@
     "translation": ""
   },
   {
-    "key": "Equip-45-Desc3",
-    "original": "(Not recognized at 0x87F1C)",
-    "translation": ""
-  },
-  {
     "key": "Equip-46-Name",
     "original": "サモナイトソード",
     "translation": ""
@@ -935,11 +520,6 @@
     "translation": ""
   },
   {
-    "key": "Equip-46-Desc3",
-    "original": "(Not recognized at 0x87F1C)",
-    "translation": ""
-  },
-  {
     "key": "Equip-47-Name",
     "original": "朱雀槍",
     "translation": ""
@@ -947,16 +527,6 @@
   {
     "key": "Equip-47-Desc1",
     "original": "武器力３２",
-    "translation": ""
-  },
-  {
-    "key": "Equip-47-Desc2",
-    "original": "(Not recognized at 0x87F1C)",
-    "translation": ""
-  },
-  {
-    "key": "Equip-47-Desc3",
-    "original": "(Not recognized at 0x87F1C)",
     "translation": ""
   },
   {
@@ -975,11 +545,6 @@
     "translation": ""
   },
   {
-    "key": "Equip-48-Desc3",
-    "original": "(Not recognized at 0x87F1C)",
-    "translation": ""
-  },
-  {
     "key": "Equip-49-Name",
     "original": "クロススピア",
     "translation": ""
@@ -987,16 +552,6 @@
   {
     "key": "Equip-49-Desc1",
     "original": "武器力４０",
-    "translation": ""
-  },
-  {
-    "key": "Equip-49-Desc2",
-    "original": "(Not recognized at 0x87F1C)",
-    "translation": ""
-  },
-  {
-    "key": "Equip-49-Desc3",
-    "original": "(Not recognized at 0x87F1C)",
     "translation": ""
   },
   {
@@ -1010,16 +565,6 @@
     "translation": ""
   },
   {
-    "key": "Equip-50-Desc2",
-    "original": "(Not recognized at 0x87F1C)",
-    "translation": ""
-  },
-  {
-    "key": "Equip-50-Desc3",
-    "original": "(Not recognized at 0x87F1C)",
-    "translation": ""
-  },
-  {
     "key": "Equip-51-Name",
     "original": "デモンスピア",
     "translation": ""
@@ -1030,16 +575,6 @@
     "translation": ""
   },
   {
-    "key": "Equip-51-Desc2",
-    "original": "(Not recognized at 0x87F1C)",
-    "translation": ""
-  },
-  {
-    "key": "Equip-51-Desc3",
-    "original": "(Not recognized at 0x87F1C)",
-    "translation": ""
-  },
-  {
     "key": "Equip-52-Name",
     "original": "クレセントランス",
     "translation": ""
@@ -1047,16 +582,6 @@
   {
     "key": "Equip-52-Desc1",
     "original": "武器力６０",
-    "translation": ""
-  },
-  {
-    "key": "Equip-52-Desc2",
-    "original": "(Not recognized at 0x87F1C)",
-    "translation": ""
-  },
-  {
-    "key": "Equip-52-Desc3",
-    "original": "(Not recognized at 0x87F1C)",
     "translation": ""
   },
   {
@@ -1075,11 +600,6 @@
     "translation": ""
   },
   {
-    "key": "Equip-53-Desc3",
-    "original": "(Not recognized at 0x87F1C)",
-    "translation": ""
-  },
-  {
     "key": "Equip-54-Name",
     "original": "ノヴィスアックス",
     "translation": ""
@@ -1087,16 +607,6 @@
   {
     "key": "Equip-54-Desc1",
     "original": "武器力３",
-    "translation": ""
-  },
-  {
-    "key": "Equip-54-Desc2",
-    "original": "(Not recognized at 0x87F1C)",
-    "translation": ""
-  },
-  {
-    "key": "Equip-54-Desc3",
-    "original": "(Not recognized at 0x87F1C)",
     "translation": ""
   },
   {
@@ -1110,16 +620,6 @@
     "translation": ""
   },
   {
-    "key": "Equip-55-Desc2",
-    "original": "(Not recognized at 0x87F1C)",
-    "translation": ""
-  },
-  {
-    "key": "Equip-55-Desc3",
-    "original": "(Not recognized at 0x87F1C)",
-    "translation": ""
-  },
-  {
     "key": "Equip-56-Name",
     "original": "バトルアックス",
     "translation": ""
@@ -1127,16 +627,6 @@
   {
     "key": "Equip-56-Desc1",
     "original": "武器力１８",
-    "translation": ""
-  },
-  {
-    "key": "Equip-56-Desc2",
-    "original": "(Not recognized at 0x87F1C)",
-    "translation": ""
-  },
-  {
-    "key": "Equip-56-Desc3",
-    "original": "(Not recognized at 0x87F1C)",
     "translation": ""
   },
   {
@@ -1150,16 +640,6 @@
     "translation": ""
   },
   {
-    "key": "Equip-57-Desc2",
-    "original": "(Not recognized at 0x87F1C)",
-    "translation": ""
-  },
-  {
-    "key": "Equip-57-Desc3",
-    "original": "(Not recognized at 0x87F1C)",
-    "translation": ""
-  },
-  {
     "key": "Equip-58-Name",
     "original": "カーネルヘブン",
     "translation": ""
@@ -1167,16 +647,6 @@
   {
     "key": "Equip-58-Desc1",
     "original": "武器力３８",
-    "translation": ""
-  },
-  {
-    "key": "Equip-58-Desc2",
-    "original": "(Not recognized at 0x87F1C)",
-    "translation": ""
-  },
-  {
-    "key": "Equip-58-Desc3",
-    "original": "(Not recognized at 0x87F1C)",
     "translation": ""
   },
   {
@@ -1195,11 +665,6 @@
     "translation": ""
   },
   {
-    "key": "Equip-59-Desc3",
-    "original": "(Not recognized at 0x87F1C)",
-    "translation": ""
-  },
-  {
     "key": "Equip-60-Name",
     "original": "ブージ",
     "translation": ""
@@ -1207,16 +672,6 @@
   {
     "key": "Equip-60-Desc1",
     "original": "武器力４３",
-    "translation": ""
-  },
-  {
-    "key": "Equip-60-Desc2",
-    "original": "(Not recognized at 0x87F1C)",
-    "translation": ""
-  },
-  {
-    "key": "Equip-60-Desc3",
-    "original": "(Not recognized at 0x87F1C)",
     "translation": ""
   },
   {
@@ -1230,16 +685,6 @@
     "translation": ""
   },
   {
-    "key": "Equip-61-Desc2",
-    "original": "(Not recognized at 0x87F1C)",
-    "translation": ""
-  },
-  {
-    "key": "Equip-61-Desc3",
-    "original": "(Not recognized at 0x87F1C)",
-    "translation": ""
-  },
-  {
     "key": "Equip-62-Name",
     "original": "ラハット",
     "translation": ""
@@ -1247,16 +692,6 @@
   {
     "key": "Equip-62-Desc1",
     "original": "武器力６２",
-    "translation": ""
-  },
-  {
-    "key": "Equip-62-Desc2",
-    "original": "(Not recognized at 0x87F1C)",
-    "translation": ""
-  },
-  {
-    "key": "Equip-62-Desc3",
-    "original": "(Not recognized at 0x87F1C)",
     "translation": ""
   },
   {
@@ -1275,11 +710,6 @@
     "translation": ""
   },
   {
-    "key": "Equip-63-Desc3",
-    "original": "(Not recognized at 0x87F1C)",
-    "translation": ""
-  },
-  {
     "key": "Equip-64-Name",
     "original": "銀の大斧",
     "translation": ""
@@ -1287,16 +717,6 @@
   {
     "key": "Equip-64-Desc1",
     "original": "武器力７０",
-    "translation": ""
-  },
-  {
-    "key": "Equip-64-Desc2",
-    "original": "(Not recognized at 0x87F1C)",
-    "translation": ""
-  },
-  {
-    "key": "Equip-64-Desc3",
-    "original": "(Not recognized at 0x87F1C)",
     "translation": ""
   },
   {
@@ -1315,11 +735,6 @@
     "translation": ""
   },
   {
-    "key": "Equip-65-Desc3",
-    "original": "(Not recognized at 0x87F1C)",
-    "translation": ""
-  },
-  {
     "key": "Equip-66-Name",
     "original": "ライトボウ",
     "translation": ""
@@ -1330,16 +745,6 @@
     "translation": ""
   },
   {
-    "key": "Equip-66-Desc2",
-    "original": "(Not recognized at 0x87F1C)",
-    "translation": ""
-  },
-  {
-    "key": "Equip-66-Desc3",
-    "original": "(Not recognized at 0x87F1C)",
-    "translation": ""
-  },
-  {
     "key": "Equip-67-Name",
     "original": "バンガットボウ",
     "translation": ""
@@ -1347,16 +752,6 @@
   {
     "key": "Equip-67-Desc1",
     "original": "武器力２０",
-    "translation": ""
-  },
-  {
-    "key": "Equip-67-Desc2",
-    "original": "(Not recognized at 0x87F1C)",
-    "translation": ""
-  },
-  {
-    "key": "Equip-67-Desc3",
-    "original": "(Not recognized at 0x87F1C)",
     "translation": ""
   },
   {
@@ -1375,11 +770,6 @@
     "translation": ""
   },
   {
-    "key": "Equip-68-Desc3",
-    "original": "(Not recognized at 0x87F1C)",
-    "translation": ""
-  },
-  {
     "key": "Equip-69-Name",
     "original": "クロスボウ",
     "translation": ""
@@ -1387,16 +777,6 @@
   {
     "key": "Equip-69-Desc1",
     "original": "武器力２５",
-    "translation": ""
-  },
-  {
-    "key": "Equip-69-Desc2",
-    "original": "(Not recognized at 0x87F1C)",
-    "translation": ""
-  },
-  {
-    "key": "Equip-69-Desc3",
-    "original": "(Not recognized at 0x87F1C)",
     "translation": ""
   },
   {
@@ -1410,16 +790,6 @@
     "translation": ""
   },
   {
-    "key": "Equip-70-Desc2",
-    "original": "(Not recognized at 0x87F1C)",
-    "translation": ""
-  },
-  {
-    "key": "Equip-70-Desc3",
-    "original": "(Not recognized at 0x87F1C)",
-    "translation": ""
-  },
-  {
     "key": "Equip-71-Name",
     "original": "エネルギーボウ",
     "translation": ""
@@ -1427,16 +797,6 @@
   {
     "key": "Equip-71-Desc1",
     "original": "武器力４５",
-    "translation": ""
-  },
-  {
-    "key": "Equip-71-Desc2",
-    "original": "(Not recognized at 0x87F1C)",
-    "translation": ""
-  },
-  {
-    "key": "Equip-71-Desc3",
-    "original": "(Not recognized at 0x87F1C)",
     "translation": ""
   },
   {
@@ -1455,11 +815,6 @@
     "translation": ""
   },
   {
-    "key": "Equip-72-Desc3",
-    "original": "(Not recognized at 0x87F1C)",
-    "translation": ""
-  },
-  {
     "key": "Equip-73-Name",
     "original": "リボルバ",
     "translation": ""
@@ -1467,16 +822,6 @@
   {
     "key": "Equip-73-Desc1",
     "original": "武器力６",
-    "translation": ""
-  },
-  {
-    "key": "Equip-73-Desc2",
-    "original": "(Not recognized at 0x87F1C)",
-    "translation": ""
-  },
-  {
-    "key": "Equip-73-Desc3",
-    "original": "(Not recognized at 0x87F1C)",
     "translation": ""
   },
   {
@@ -1490,16 +835,6 @@
     "translation": ""
   },
   {
-    "key": "Equip-74-Desc2",
-    "original": "(Not recognized at 0x87F1C)",
-    "translation": ""
-  },
-  {
-    "key": "Equip-74-Desc3",
-    "original": "(Not recognized at 0x87F1C)",
-    "translation": ""
-  },
-  {
     "key": "Equip-75-Name",
     "original": "ライフル",
     "translation": ""
@@ -1507,16 +842,6 @@
   {
     "key": "Equip-75-Desc1",
     "original": "武器力３０",
-    "translation": ""
-  },
-  {
-    "key": "Equip-75-Desc2",
-    "original": "(Not recognized at 0x87F1C)",
-    "translation": ""
-  },
-  {
-    "key": "Equip-75-Desc3",
-    "original": "(Not recognized at 0x87F1C)",
     "translation": ""
   },
   {
@@ -1530,16 +855,6 @@
     "translation": ""
   },
   {
-    "key": "Equip-76-Desc2",
-    "original": "(Not recognized at 0x87F1C)",
-    "translation": ""
-  },
-  {
-    "key": "Equip-76-Desc3",
-    "original": "(Not recognized at 0x87F1C)",
-    "translation": ""
-  },
-  {
     "key": "Equip-77-Name",
     "original": "パルスショット",
     "translation": ""
@@ -1547,16 +862,6 @@
   {
     "key": "Equip-77-Desc1",
     "original": "武器力５０",
-    "translation": ""
-  },
-  {
-    "key": "Equip-77-Desc2",
-    "original": "(Not recognized at 0x87F1C)",
-    "translation": ""
-  },
-  {
-    "key": "Equip-77-Desc3",
-    "original": "(Not recognized at 0x87F1C)",
     "translation": ""
   },
   {
@@ -1570,16 +875,6 @@
     "translation": ""
   },
   {
-    "key": "Equip-78-Desc2",
-    "original": "(Not recognized at 0x87F1C)",
-    "translation": ""
-  },
-  {
-    "key": "Equip-78-Desc3",
-    "original": "(Not recognized at 0x87F1C)",
-    "translation": ""
-  },
-  {
     "key": "Equip-79-Name",
     "original": "リーサル",
     "translation": ""
@@ -1590,16 +885,6 @@
     "translation": ""
   },
   {
-    "key": "Equip-79-Desc2",
-    "original": "(Not recognized at 0x87F1C)",
-    "translation": ""
-  },
-  {
-    "key": "Equip-79-Desc3",
-    "original": "(Not recognized at 0x87F1C)",
-    "translation": ""
-  },
-  {
     "key": "Equip-80-Name",
     "original": "竹刀",
     "translation": ""
@@ -1607,16 +892,6 @@
   {
     "key": "Equip-80-Desc1",
     "original": "武器力１",
-    "translation": ""
-  },
-  {
-    "key": "Equip-80-Desc2",
-    "original": "(Not recognized at 0x87F1C)",
-    "translation": ""
-  },
-  {
-    "key": "Equip-80-Desc3",
-    "original": "(Not recognized at 0x87F1C)",
     "translation": ""
   },
   {
@@ -1635,11 +910,6 @@
     "translation": ""
   },
   {
-    "key": "Equip-81-Desc3",
-    "original": "(Not recognized at 0x87F1C)",
-    "translation": ""
-  },
-  {
     "key": "Equip-82-Name",
     "original": "リョウラン",
     "translation": ""
@@ -1655,11 +925,6 @@
     "translation": ""
   },
   {
-    "key": "Equip-82-Desc3",
-    "original": "(Not recognized at 0x87F1C)",
-    "translation": ""
-  },
-  {
     "key": "Equip-83-Name",
     "original": "コガラスマル",
     "translation": ""
@@ -1667,16 +932,6 @@
   {
     "key": "Equip-83-Desc1",
     "original": "武器力４２",
-    "translation": ""
-  },
-  {
-    "key": "Equip-83-Desc2",
-    "original": "(Not recognized at 0x87F1C)",
-    "translation": ""
-  },
-  {
-    "key": "Equip-83-Desc3",
-    "original": "(Not recognized at 0x87F1C)",
     "translation": ""
   },
   {
@@ -1695,11 +950,6 @@
     "translation": ""
   },
   {
-    "key": "Equip-84-Desc3",
-    "original": "(Not recognized at 0x87F1C)",
-    "translation": ""
-  },
-  {
     "key": "Equip-85-Name",
     "original": "シチセイ",
     "translation": ""
@@ -1715,11 +965,6 @@
     "translation": ""
   },
   {
-    "key": "Equip-85-Desc3",
-    "original": "(Not recognized at 0x87F1C)",
-    "translation": ""
-  },
-  {
     "key": "Equip-86-Name",
     "original": "カゲツ",
     "translation": ""
@@ -1727,16 +972,6 @@
   {
     "key": "Equip-86-Desc1",
     "original": "武器力５５",
-    "translation": ""
-  },
-  {
-    "key": "Equip-86-Desc2",
-    "original": "(Not recognized at 0x87F1C)",
-    "translation": ""
-  },
-  {
-    "key": "Equip-86-Desc3",
-    "original": "(Not recognized at 0x87F1C)",
     "translation": ""
   },
   {
@@ -1750,16 +985,6 @@
     "translation": ""
   },
   {
-    "key": "Equip-87-Desc2",
-    "original": "(Not recognized at 0x87F1C)",
-    "translation": ""
-  },
-  {
-    "key": "Equip-87-Desc3",
-    "original": "(Not recognized at 0x87F1C)",
-    "translation": ""
-  },
-  {
     "key": "Equip-88-Name",
     "original": "グレン",
     "translation": ""
@@ -1767,16 +992,6 @@
   {
     "key": "Equip-88-Desc1",
     "original": "武器力５９",
-    "translation": ""
-  },
-  {
-    "key": "Equip-88-Desc2",
-    "original": "(Not recognized at 0x87F1C)",
-    "translation": ""
-  },
-  {
-    "key": "Equip-88-Desc3",
-    "original": "(Not recognized at 0x87F1C)",
     "translation": ""
   },
   {
@@ -1795,11 +1010,6 @@
     "translation": ""
   },
   {
-    "key": "Equip-89-Desc3",
-    "original": "(Not recognized at 0x87F1C)",
-    "translation": ""
-  },
-  {
     "key": "Equip-90-Name",
     "original": "銘刀ムラマサ",
     "translation": ""
@@ -1815,11 +1025,6 @@
     "translation": ""
   },
   {
-    "key": "Equip-90-Desc3",
-    "original": "(Not recognized at 0x87F1C)",
-    "translation": ""
-  },
-  {
     "key": "Equip-91-Name",
     "original": "ブラスナックル",
     "translation": ""
@@ -1827,16 +1032,6 @@
   {
     "key": "Equip-91-Desc1",
     "original": "武器力２０",
-    "translation": ""
-  },
-  {
-    "key": "Equip-91-Desc2",
-    "original": "(Not recognized at 0x87F1C)",
-    "translation": ""
-  },
-  {
-    "key": "Equip-91-Desc3",
-    "original": "(Not recognized at 0x87F1C)",
     "translation": ""
   },
   {
@@ -1855,11 +1050,6 @@
     "translation": ""
   },
   {
-    "key": "Equip-92-Desc3",
-    "original": "(Not recognized at 0x87F1C)",
-    "translation": ""
-  },
-  {
     "key": "Equip-93-Name",
     "original": "パンチパンチ",
     "translation": ""
@@ -1870,16 +1060,6 @@
     "translation": ""
   },
   {
-    "key": "Equip-93-Desc2",
-    "original": "(Not recognized at 0x87F1C)",
-    "translation": ""
-  },
-  {
-    "key": "Equip-93-Desc3",
-    "original": "(Not recognized at 0x87F1C)",
-    "translation": ""
-  },
-  {
     "key": "Equip-94-Name",
     "original": "ナックルダスター",
     "translation": ""
@@ -1887,16 +1067,6 @@
   {
     "key": "Equip-94-Desc1",
     "original": "武器力３５",
-    "translation": ""
-  },
-  {
-    "key": "Equip-94-Desc2",
-    "original": "(Not recognized at 0x87F1C)",
-    "translation": ""
-  },
-  {
-    "key": "Equip-94-Desc3",
-    "original": "(Not recognized at 0x87F1C)",
     "translation": ""
   },
   {
@@ -1915,11 +1085,6 @@
     "translation": ""
   },
   {
-    "key": "Equip-95-Desc3",
-    "original": "(Not recognized at 0x87F1C)",
-    "translation": ""
-  },
-  {
     "key": "Equip-96-Name",
     "original": "シャインナックル",
     "translation": ""
@@ -1927,16 +1092,6 @@
   {
     "key": "Equip-96-Desc1",
     "original": "武器力４５",
-    "translation": ""
-  },
-  {
-    "key": "Equip-96-Desc2",
-    "original": "(Not recognized at 0x87F1C)",
-    "translation": ""
-  },
-  {
-    "key": "Equip-96-Desc3",
-    "original": "(Not recognized at 0x87F1C)",
     "translation": ""
   },
   {
@@ -1955,11 +1110,6 @@
     "translation": ""
   },
   {
-    "key": "Equip-97-Desc3",
-    "original": "(Not recognized at 0x87F1C)",
-    "translation": ""
-  },
-  {
     "key": "Equip-98-Name",
     "original": "ブレイブフィスト",
     "translation": ""
@@ -1967,16 +1117,6 @@
   {
     "key": "Equip-98-Desc1",
     "original": "武器力６０",
-    "translation": ""
-  },
-  {
-    "key": "Equip-98-Desc2",
-    "original": "(Not recognized at 0x87F1C)",
-    "translation": ""
-  },
-  {
-    "key": "Equip-98-Desc3",
-    "original": "(Not recognized at 0x87F1C)",
     "translation": ""
   },
   {
@@ -1995,11 +1135,6 @@
     "translation": ""
   },
   {
-    "key": "Equip-99-Desc3",
-    "original": "(Not recognized at 0x87F1C)",
-    "translation": ""
-  },
-  {
     "key": "Equip-100-Name",
     "original": "投げナイフ",
     "translation": ""
@@ -2010,16 +1145,6 @@
     "translation": ""
   },
   {
-    "key": "Equip-100-Desc2",
-    "original": "(Not recognized at 0x87F1C)",
-    "translation": ""
-  },
-  {
-    "key": "Equip-100-Desc3",
-    "original": "(Not recognized at 0x87F1C)",
-    "translation": ""
-  },
-  {
     "key": "Equip-101-Name",
     "original": "疾風ダガー",
     "translation": ""
@@ -2027,16 +1152,6 @@
   {
     "key": "Equip-101-Desc1",
     "original": "武器力２２",
-    "translation": ""
-  },
-  {
-    "key": "Equip-101-Desc2",
-    "original": "(Not recognized at 0x87F1C)",
-    "translation": ""
-  },
-  {
-    "key": "Equip-101-Desc3",
-    "original": "(Not recognized at 0x87F1C)",
     "translation": ""
   },
   {
@@ -2055,11 +1170,6 @@
     "translation": ""
   },
   {
-    "key": "Equip-102-Desc3",
-    "original": "(Not recognized at 0x87F1C)",
-    "translation": ""
-  },
-  {
     "key": "Equip-103-Name",
     "original": "スピンドライブ",
     "translation": ""
@@ -2067,16 +1177,6 @@
   {
     "key": "Equip-103-Desc1",
     "original": "武器力３２",
-    "translation": ""
-  },
-  {
-    "key": "Equip-103-Desc2",
-    "original": "(Not recognized at 0x87F1C)",
-    "translation": ""
-  },
-  {
-    "key": "Equip-103-Desc3",
-    "original": "(Not recognized at 0x87F1C)",
     "translation": ""
   },
   {
@@ -2095,11 +1195,6 @@
     "translation": ""
   },
   {
-    "key": "Equip-104-Desc3",
-    "original": "(Not recognized at 0x87F1C)",
-    "translation": ""
-  },
-  {
     "key": "Equip-105-Name",
     "original": "チャクラム",
     "translation": ""
@@ -2112,11 +1207,6 @@
   {
     "key": "Equip-105-Desc2",
     "original": "２\u3000ＬＵＣ＋２",
-    "translation": ""
-  },
-  {
-    "key": "Equip-105-Desc3",
-    "original": "(Not recognized at 0x87F1C)",
     "translation": ""
   },
   {
@@ -2135,11 +1225,6 @@
     "translation": ""
   },
   {
-    "key": "Equip-106-Desc3",
-    "original": "(Not recognized at 0x87F1C)",
-    "translation": ""
-  },
-  {
     "key": "Equip-107-Name",
     "original": "流星苦無",
     "translation": ""
@@ -2152,11 +1237,6 @@
   {
     "key": "Equip-107-Desc2",
     "original": "２",
-    "translation": ""
-  },
-  {
-    "key": "Equip-107-Desc3",
-    "original": "(Not recognized at 0x87F1C)",
     "translation": ""
   },
   {
@@ -2175,11 +1255,6 @@
     "translation": ""
   },
   {
-    "key": "Equip-108-Desc3",
-    "original": "(Not recognized at 0x87F1C)",
-    "translation": ""
-  },
-  {
     "key": "Equip-109-Name",
     "original": "ブーツ",
     "translation": ""
@@ -2187,16 +1262,6 @@
   {
     "key": "Equip-109-Desc1",
     "original": "武器力３４",
-    "translation": ""
-  },
-  {
-    "key": "Equip-109-Desc2",
-    "original": "(Not recognized at 0x87F1C)",
-    "translation": ""
-  },
-  {
-    "key": "Equip-109-Desc3",
-    "original": "(Not recognized at 0x87F1C)",
     "translation": ""
   },
   {
@@ -2215,11 +1280,6 @@
     "translation": ""
   },
   {
-    "key": "Equip-110-Desc3",
-    "original": "(Not recognized at 0x87F1C)",
-    "translation": ""
-  },
-  {
     "key": "Equip-111-Name",
     "original": "サイレントヒール",
     "translation": ""
@@ -2232,11 +1292,6 @@
   {
     "key": "Equip-111-Desc2",
     "original": "１",
-    "translation": ""
-  },
-  {
-    "key": "Equip-111-Desc3",
-    "original": "(Not recognized at 0x87F1C)",
     "translation": ""
   },
   {
@@ -2255,11 +1310,6 @@
     "translation": ""
   },
   {
-    "key": "Equip-112-Desc3",
-    "original": "(Not recognized at 0x87F1C)",
-    "translation": ""
-  },
-  {
     "key": "Equip-113-Name",
     "original": "荒天具足",
     "translation": ""
@@ -2275,11 +1325,6 @@
     "translation": ""
   },
   {
-    "key": "Equip-113-Desc3",
-    "original": "(Not recognized at 0x87F1C)",
-    "translation": ""
-  },
-  {
     "key": "Equip-114-Name",
     "original": "アイアンドリル",
     "translation": ""
@@ -2290,16 +1335,6 @@
     "translation": ""
   },
   {
-    "key": "Equip-114-Desc2",
-    "original": "(Not recognized at 0x87F1C)",
-    "translation": ""
-  },
-  {
-    "key": "Equip-114-Desc3",
-    "original": "(Not recognized at 0x87F1C)",
-    "translation": ""
-  },
-  {
     "key": "Equip-115-Name",
     "original": "フレイムドリル",
     "translation": ""
@@ -2307,16 +1342,6 @@
   {
     "key": "Equip-115-Desc1",
     "original": "武器力７４",
-    "translation": ""
-  },
-  {
-    "key": "Equip-115-Desc2",
-    "original": "(Not recognized at 0x87F1C)",
-    "translation": ""
-  },
-  {
-    "key": "Equip-115-Desc3",
-    "original": "(Not recognized at 0x87F1C)",
     "translation": ""
   },
   {
@@ -2335,11 +1360,6 @@
     "translation": ""
   },
   {
-    "key": "Equip-116-Desc3",
-    "original": "(Not recognized at 0x87F1C)",
-    "translation": ""
-  },
-  {
     "key": "Equip-117-Name",
     "original": "ダークマター",
     "translation": ""
@@ -2355,11 +1375,6 @@
     "translation": ""
   },
   {
-    "key": "Equip-117-Desc3",
-    "original": "(Not recognized at 0x87F1C)",
-    "translation": ""
-  },
-  {
     "key": "Equip-118-Name",
     "original": "アイアンクロー",
     "translation": ""
@@ -2367,16 +1382,6 @@
   {
     "key": "Equip-118-Desc1",
     "original": "武器力４０",
-    "translation": ""
-  },
-  {
-    "key": "Equip-118-Desc2",
-    "original": "(Not recognized at 0x87F1C)",
-    "translation": ""
-  },
-  {
-    "key": "Equip-118-Desc3",
-    "original": "(Not recognized at 0x87F1C)",
     "translation": ""
   },
   {
@@ -2395,11 +1400,6 @@
     "translation": ""
   },
   {
-    "key": "Equip-119-Desc3",
-    "original": "(Not recognized at 0x87F1C)",
-    "translation": ""
-  },
-  {
     "key": "Equip-120-Name",
     "original": "イーグルクロー",
     "translation": ""
@@ -2407,16 +1407,6 @@
   {
     "key": "Equip-120-Desc1",
     "original": "武器力６４",
-    "translation": ""
-  },
-  {
-    "key": "Equip-120-Desc2",
-    "original": "(Not recognized at 0x87F1C)",
-    "translation": ""
-  },
-  {
-    "key": "Equip-120-Desc3",
-    "original": "(Not recognized at 0x87F1C)",
     "translation": ""
   },
   {
@@ -2435,11 +1425,6 @@
     "translation": ""
   },
   {
-    "key": "Equip-121-Desc3",
-    "original": "(Not recognized at 0x87F1C)",
-    "translation": ""
-  },
-  {
     "key": "Equip-122-Name",
     "original": "麺棒",
     "translation": ""
@@ -2450,33 +1435,8 @@
     "translation": ""
   },
   {
-    "key": "Equip-122-Desc2",
-    "original": "(Not recognized at 0x87F1C)",
-    "translation": ""
-  },
-  {
-    "key": "Equip-122-Desc3",
-    "original": "(Not recognized at 0x87F1C)",
-    "translation": ""
-  },
-  {
     "key": "Equip-123-Name",
     "original": "装備無し",
-    "translation": ""
-  },
-  {
-    "key": "Equip-123-Desc1",
-    "original": "(Not recognized at 0x87F1C)",
-    "translation": ""
-  },
-  {
-    "key": "Equip-123-Desc2",
-    "original": "(Not recognized at 0x87F1C)",
-    "translation": ""
-  },
-  {
-    "key": "Equip-123-Desc3",
-    "original": "(Not recognized at 0x87F1C)",
     "translation": ""
   },
   {
@@ -2490,16 +1450,6 @@
     "translation": ""
   },
   {
-    "key": "Equip-124-Desc2",
-    "original": "(Not recognized at 0x87F1C)",
-    "translation": ""
-  },
-  {
-    "key": "Equip-124-Desc3",
-    "original": "(Not recognized at 0x87F1C)",
-    "translation": ""
-  },
-  {
     "key": "Equip-125-Name",
     "original": "ロックメイル",
     "translation": ""
@@ -2507,16 +1457,6 @@
   {
     "key": "Equip-125-Desc1",
     "original": "防具力２",
-    "translation": ""
-  },
-  {
-    "key": "Equip-125-Desc2",
-    "original": "(Not recognized at 0x87F1C)",
-    "translation": ""
-  },
-  {
-    "key": "Equip-125-Desc3",
-    "original": "(Not recognized at 0x87F1C)",
     "translation": ""
   },
   {
@@ -2530,16 +1470,6 @@
     "translation": ""
   },
   {
-    "key": "Equip-126-Desc2",
-    "original": "(Not recognized at 0x87F1C)",
-    "translation": ""
-  },
-  {
-    "key": "Equip-126-Desc3",
-    "original": "(Not recognized at 0x87F1C)",
-    "translation": ""
-  },
-  {
     "key": "Equip-127-Name",
     "original": "ブレストシェル",
     "translation": ""
@@ -2547,16 +1477,6 @@
   {
     "key": "Equip-127-Desc1",
     "original": "防具力６",
-    "translation": ""
-  },
-  {
-    "key": "Equip-127-Desc2",
-    "original": "(Not recognized at 0x87F1C)",
-    "translation": ""
-  },
-  {
-    "key": "Equip-127-Desc3",
-    "original": "(Not recognized at 0x87F1C)",
     "translation": ""
   },
   {
@@ -2575,11 +1495,6 @@
     "translation": ""
   },
   {
-    "key": "Equip-128-Desc3",
-    "original": "(Not recognized at 0x87F1C)",
-    "translation": ""
-  },
-  {
     "key": "Equip-129-Name",
     "original": "ボーンスケイル",
     "translation": ""
@@ -2587,16 +1502,6 @@
   {
     "key": "Equip-129-Desc1",
     "original": "防具力１５",
-    "translation": ""
-  },
-  {
-    "key": "Equip-129-Desc2",
-    "original": "(Not recognized at 0x87F1C)",
-    "translation": ""
-  },
-  {
-    "key": "Equip-129-Desc3",
-    "original": "(Not recognized at 0x87F1C)",
     "translation": ""
   },
   {
@@ -2610,16 +1515,6 @@
     "translation": ""
   },
   {
-    "key": "Equip-130-Desc2",
-    "original": "(Not recognized at 0x87F1C)",
-    "translation": ""
-  },
-  {
-    "key": "Equip-130-Desc3",
-    "original": "(Not recognized at 0x87F1C)",
-    "translation": ""
-  },
-  {
     "key": "Equip-131-Name",
     "original": "カーボンシェル",
     "translation": ""
@@ -2627,16 +1522,6 @@
   {
     "key": "Equip-131-Desc1",
     "original": "防具力２０",
-    "translation": ""
-  },
-  {
-    "key": "Equip-131-Desc2",
-    "original": "(Not recognized at 0x87F1C)",
-    "translation": ""
-  },
-  {
-    "key": "Equip-131-Desc3",
-    "original": "(Not recognized at 0x87F1C)",
     "translation": ""
   },
   {
@@ -2650,16 +1535,6 @@
     "translation": ""
   },
   {
-    "key": "Equip-132-Desc2",
-    "original": "(Not recognized at 0x87F1C)",
-    "translation": ""
-  },
-  {
-    "key": "Equip-132-Desc3",
-    "original": "(Not recognized at 0x87F1C)",
-    "translation": ""
-  },
-  {
     "key": "Equip-133-Name",
     "original": "白銀の胸当て",
     "translation": ""
@@ -2667,16 +1542,6 @@
   {
     "key": "Equip-133-Desc1",
     "original": "防具力２８",
-    "translation": ""
-  },
-  {
-    "key": "Equip-133-Desc2",
-    "original": "(Not recognized at 0x87F1C)",
-    "translation": ""
-  },
-  {
-    "key": "Equip-133-Desc3",
-    "original": "(Not recognized at 0x87F1C)",
     "translation": ""
   },
   {
@@ -2690,16 +1555,6 @@
     "translation": ""
   },
   {
-    "key": "Equip-134-Desc2",
-    "original": "(Not recognized at 0x87F1C)",
-    "translation": ""
-  },
-  {
-    "key": "Equip-134-Desc3",
-    "original": "(Not recognized at 0x87F1C)",
-    "translation": ""
-  },
-  {
     "key": "Equip-135-Name",
     "original": "フレイムメイル",
     "translation": ""
@@ -2707,16 +1562,6 @@
   {
     "key": "Equip-135-Desc1",
     "original": "防具力３１",
-    "translation": ""
-  },
-  {
-    "key": "Equip-135-Desc2",
-    "original": "(Not recognized at 0x87F1C)",
-    "translation": ""
-  },
-  {
-    "key": "Equip-135-Desc3",
-    "original": "(Not recognized at 0x87F1C)",
     "translation": ""
   },
   {
@@ -2735,11 +1580,6 @@
     "translation": ""
   },
   {
-    "key": "Equip-136-Desc3",
-    "original": "(Not recognized at 0x87F1C)",
-    "translation": ""
-  },
-  {
     "key": "Equip-137-Name",
     "original": "アヴァターの鎧",
     "translation": ""
@@ -2747,16 +1587,6 @@
   {
     "key": "Equip-137-Desc1",
     "original": "防具力４５",
-    "translation": ""
-  },
-  {
-    "key": "Equip-137-Desc2",
-    "original": "(Not recognized at 0x87F1C)",
-    "translation": ""
-  },
-  {
-    "key": "Equip-137-Desc3",
-    "original": "(Not recognized at 0x87F1C)",
     "translation": ""
   },
   {
@@ -2770,16 +1600,6 @@
     "translation": ""
   },
   {
-    "key": "Equip-138-Desc2",
-    "original": "(Not recognized at 0x87F1C)",
-    "translation": ""
-  },
-  {
-    "key": "Equip-138-Desc3",
-    "original": "(Not recognized at 0x87F1C)",
-    "translation": ""
-  },
-  {
     "key": "Equip-139-Name",
     "original": "バリアントメイル",
     "translation": ""
@@ -2787,16 +1607,6 @@
   {
     "key": "Equip-139-Desc1",
     "original": "防具力５９",
-    "translation": ""
-  },
-  {
-    "key": "Equip-139-Desc2",
-    "original": "(Not recognized at 0x87F1C)",
-    "translation": ""
-  },
-  {
-    "key": "Equip-139-Desc3",
-    "original": "(Not recognized at 0x87F1C)",
     "translation": ""
   },
   {
@@ -2815,11 +1625,6 @@
     "translation": ""
   },
   {
-    "key": "Equip-140-Desc3",
-    "original": "(Not recognized at 0x87F1C)",
-    "translation": ""
-  },
-  {
     "key": "Equip-141-Name",
     "original": "ノヴィスアーマー",
     "translation": ""
@@ -2827,16 +1632,6 @@
   {
     "key": "Equip-141-Desc1",
     "original": "防具力３",
-    "translation": ""
-  },
-  {
-    "key": "Equip-141-Desc2",
-    "original": "(Not recognized at 0x87F1C)",
-    "translation": ""
-  },
-  {
-    "key": "Equip-141-Desc3",
-    "original": "(Not recognized at 0x87F1C)",
     "translation": ""
   },
   {
@@ -2850,16 +1645,6 @@
     "translation": ""
   },
   {
-    "key": "Equip-142-Desc2",
-    "original": "(Not recognized at 0x87F1C)",
-    "translation": ""
-  },
-  {
-    "key": "Equip-142-Desc3",
-    "original": "(Not recognized at 0x87F1C)",
-    "translation": ""
-  },
-  {
     "key": "Equip-143-Name",
     "original": "スケイルアーマー",
     "translation": ""
@@ -2867,16 +1652,6 @@
   {
     "key": "Equip-143-Desc1",
     "original": "防具力１２",
-    "translation": ""
-  },
-  {
-    "key": "Equip-143-Desc2",
-    "original": "(Not recognized at 0x87F1C)",
-    "translation": ""
-  },
-  {
-    "key": "Equip-143-Desc3",
-    "original": "(Not recognized at 0x87F1C)",
     "translation": ""
   },
   {
@@ -2890,16 +1665,6 @@
     "translation": ""
   },
   {
-    "key": "Equip-144-Desc2",
-    "original": "(Not recognized at 0x87F1C)",
-    "translation": ""
-  },
-  {
-    "key": "Equip-144-Desc3",
-    "original": "(Not recognized at 0x87F1C)",
-    "translation": ""
-  },
-  {
     "key": "Equip-145-Name",
     "original": "バッシュアーマー",
     "translation": ""
@@ -2907,16 +1672,6 @@
   {
     "key": "Equip-145-Desc1",
     "original": "防具力２０",
-    "translation": ""
-  },
-  {
-    "key": "Equip-145-Desc2",
-    "original": "(Not recognized at 0x87F1C)",
-    "translation": ""
-  },
-  {
-    "key": "Equip-145-Desc3",
-    "original": "(Not recognized at 0x87F1C)",
     "translation": ""
   },
   {
@@ -2930,16 +1685,6 @@
     "translation": ""
   },
   {
-    "key": "Equip-146-Desc2",
-    "original": "(Not recognized at 0x87F1C)",
-    "translation": ""
-  },
-  {
-    "key": "Equip-146-Desc3",
-    "original": "(Not recognized at 0x87F1C)",
-    "translation": ""
-  },
-  {
     "key": "Equip-147-Name",
     "original": "ナイトアーマー",
     "translation": ""
@@ -2947,16 +1692,6 @@
   {
     "key": "Equip-147-Desc1",
     "original": "防具力３２",
-    "translation": ""
-  },
-  {
-    "key": "Equip-147-Desc2",
-    "original": "(Not recognized at 0x87F1C)",
-    "translation": ""
-  },
-  {
-    "key": "Equip-147-Desc3",
-    "original": "(Not recognized at 0x87F1C)",
     "translation": ""
   },
   {
@@ -2970,16 +1705,6 @@
     "translation": ""
   },
   {
-    "key": "Equip-148-Desc2",
-    "original": "(Not recognized at 0x87F1C)",
-    "translation": ""
-  },
-  {
-    "key": "Equip-148-Desc3",
-    "original": "(Not recognized at 0x87F1C)",
-    "translation": ""
-  },
-  {
     "key": "Equip-149-Name",
     "original": "ビーストアーマー",
     "translation": ""
@@ -2987,16 +1712,6 @@
   {
     "key": "Equip-149-Desc1",
     "original": "防具力４６",
-    "translation": ""
-  },
-  {
-    "key": "Equip-149-Desc2",
-    "original": "(Not recognized at 0x87F1C)",
-    "translation": ""
-  },
-  {
-    "key": "Equip-149-Desc3",
-    "original": "(Not recognized at 0x87F1C)",
     "translation": ""
   },
   {
@@ -3010,16 +1725,6 @@
     "translation": ""
   },
   {
-    "key": "Equip-150-Desc2",
-    "original": "(Not recognized at 0x87F1C)",
-    "translation": ""
-  },
-  {
-    "key": "Equip-150-Desc3",
-    "original": "(Not recognized at 0x87F1C)",
-    "translation": ""
-  },
-  {
     "key": "Equip-151-Name",
     "original": "邪甲γ",
     "translation": ""
@@ -3027,16 +1732,6 @@
   {
     "key": "Equip-151-Desc1",
     "original": "防具力５６",
-    "translation": ""
-  },
-  {
-    "key": "Equip-151-Desc2",
-    "original": "(Not recognized at 0x87F1C)",
-    "translation": ""
-  },
-  {
-    "key": "Equip-151-Desc3",
-    "original": "(Not recognized at 0x87F1C)",
     "translation": ""
   },
   {
@@ -3050,16 +1745,6 @@
     "translation": ""
   },
   {
-    "key": "Equip-152-Desc2",
-    "original": "(Not recognized at 0x87F1C)",
-    "translation": ""
-  },
-  {
-    "key": "Equip-152-Desc3",
-    "original": "(Not recognized at 0x87F1C)",
-    "translation": ""
-  },
-  {
     "key": "Equip-153-Name",
     "original": "聖甲γ",
     "translation": ""
@@ -3067,16 +1752,6 @@
   {
     "key": "Equip-153-Desc1",
     "original": "防具力６０",
-    "translation": ""
-  },
-  {
-    "key": "Equip-153-Desc2",
-    "original": "(Not recognized at 0x87F1C)",
-    "translation": ""
-  },
-  {
-    "key": "Equip-153-Desc3",
-    "original": "(Not recognized at 0x87F1C)",
     "translation": ""
   },
   {
@@ -3090,16 +1765,6 @@
     "translation": ""
   },
   {
-    "key": "Equip-154-Desc2",
-    "original": "(Not recognized at 0x87F1C)",
-    "translation": ""
-  },
-  {
-    "key": "Equip-154-Desc3",
-    "original": "(Not recognized at 0x87F1C)",
-    "translation": ""
-  },
-  {
     "key": "Equip-155-Name",
     "original": "覇王の鎧",
     "translation": ""
@@ -3107,16 +1772,6 @@
   {
     "key": "Equip-155-Desc1",
     "original": "防具力７０",
-    "translation": ""
-  },
-  {
-    "key": "Equip-155-Desc2",
-    "original": "(Not recognized at 0x87F1C)",
-    "translation": ""
-  },
-  {
-    "key": "Equip-155-Desc3",
-    "original": "(Not recognized at 0x87F1C)",
     "translation": ""
   },
   {
@@ -3130,16 +1785,6 @@
     "translation": ""
   },
   {
-    "key": "Equip-156-Desc2",
-    "original": "(Not recognized at 0x87F1C)",
-    "translation": ""
-  },
-  {
-    "key": "Equip-156-Desc3",
-    "original": "(Not recognized at 0x87F1C)",
-    "translation": ""
-  },
-  {
     "key": "Equip-157-Name",
     "original": "芝庵",
     "translation": ""
@@ -3147,16 +1792,6 @@
   {
     "key": "Equip-157-Desc1",
     "original": "防具力３９",
-    "translation": ""
-  },
-  {
-    "key": "Equip-157-Desc2",
-    "original": "(Not recognized at 0x87F1C)",
-    "translation": ""
-  },
-  {
-    "key": "Equip-157-Desc3",
-    "original": "(Not recognized at 0x87F1C)",
     "translation": ""
   },
   {
@@ -3175,11 +1810,6 @@
     "translation": ""
   },
   {
-    "key": "Equip-158-Desc3",
-    "original": "(Not recognized at 0x87F1C)",
-    "translation": ""
-  },
-  {
     "key": "Equip-159-Name",
     "original": "紫淡庵",
     "translation": ""
@@ -3192,11 +1822,6 @@
   {
     "key": "Equip-159-Desc2",
     "original": "３",
-    "translation": ""
-  },
-  {
-    "key": "Equip-159-Desc3",
-    "original": "(Not recognized at 0x87F1C)",
     "translation": ""
   },
   {
@@ -3215,11 +1840,6 @@
     "translation": ""
   },
   {
-    "key": "Equip-160-Desc3",
-    "original": "(Not recognized at 0x87F1C)",
-    "translation": ""
-  },
-  {
     "key": "Equip-161-Name",
     "original": "ローブ",
     "translation": ""
@@ -3227,16 +1847,6 @@
   {
     "key": "Equip-161-Desc1",
     "original": "防具力１",
-    "translation": ""
-  },
-  {
-    "key": "Equip-161-Desc2",
-    "original": "(Not recognized at 0x87F1C)",
-    "translation": ""
-  },
-  {
-    "key": "Equip-161-Desc3",
-    "original": "(Not recognized at 0x87F1C)",
     "translation": ""
   },
   {
@@ -3250,16 +1860,6 @@
     "translation": ""
   },
   {
-    "key": "Equip-162-Desc2",
-    "original": "(Not recognized at 0x87F1C)",
-    "translation": ""
-  },
-  {
-    "key": "Equip-162-Desc3",
-    "original": "(Not recognized at 0x87F1C)",
-    "translation": ""
-  },
-  {
     "key": "Equip-163-Name",
     "original": "ダブレット",
     "translation": ""
@@ -3267,16 +1867,6 @@
   {
     "key": "Equip-163-Desc1",
     "original": "防具力５",
-    "translation": ""
-  },
-  {
-    "key": "Equip-163-Desc2",
-    "original": "(Not recognized at 0x87F1C)",
-    "translation": ""
-  },
-  {
-    "key": "Equip-163-Desc3",
-    "original": "(Not recognized at 0x87F1C)",
     "translation": ""
   },
   {
@@ -3290,16 +1880,6 @@
     "translation": ""
   },
   {
-    "key": "Equip-164-Desc2",
-    "original": "(Not recognized at 0x87F1C)",
-    "translation": ""
-  },
-  {
-    "key": "Equip-164-Desc3",
-    "original": "(Not recognized at 0x87F1C)",
-    "translation": ""
-  },
-  {
     "key": "Equip-165-Name",
     "original": "星屑の法衣",
     "translation": ""
@@ -3307,16 +1887,6 @@
   {
     "key": "Equip-165-Desc1",
     "original": "防具力１３",
-    "translation": ""
-  },
-  {
-    "key": "Equip-165-Desc2",
-    "original": "(Not recognized at 0x87F1C)",
-    "translation": ""
-  },
-  {
-    "key": "Equip-165-Desc3",
-    "original": "(Not recognized at 0x87F1C)",
     "translation": ""
   },
   {
@@ -3335,11 +1905,6 @@
     "translation": ""
   },
   {
-    "key": "Equip-166-Desc3",
-    "original": "(Not recognized at 0x87F1C)",
-    "translation": ""
-  },
-  {
     "key": "Equip-167-Name",
     "original": "精霊の法衣",
     "translation": ""
@@ -3347,16 +1912,6 @@
   {
     "key": "Equip-167-Desc1",
     "original": "防具力２３",
-    "translation": ""
-  },
-  {
-    "key": "Equip-167-Desc2",
-    "original": "(Not recognized at 0x87F1C)",
-    "translation": ""
-  },
-  {
-    "key": "Equip-167-Desc3",
-    "original": "(Not recognized at 0x87F1C)",
     "translation": ""
   },
   {
@@ -3370,16 +1925,6 @@
     "translation": ""
   },
   {
-    "key": "Equip-168-Desc2",
-    "original": "(Not recognized at 0x87F1C)",
-    "translation": ""
-  },
-  {
-    "key": "Equip-168-Desc3",
-    "original": "(Not recognized at 0x87F1C)",
-    "translation": ""
-  },
-  {
     "key": "Equip-169-Name",
     "original": "ブラックコート",
     "translation": ""
@@ -3387,16 +1932,6 @@
   {
     "key": "Equip-169-Desc1",
     "original": "防具力３５",
-    "translation": ""
-  },
-  {
-    "key": "Equip-169-Desc2",
-    "original": "(Not recognized at 0x87F1C)",
-    "translation": ""
-  },
-  {
-    "key": "Equip-169-Desc3",
-    "original": "(Not recognized at 0x87F1C)",
     "translation": ""
   },
   {
@@ -3410,16 +1945,6 @@
     "translation": ""
   },
   {
-    "key": "Equip-170-Desc2",
-    "original": "(Not recognized at 0x87F1C)",
-    "translation": ""
-  },
-  {
-    "key": "Equip-170-Desc3",
-    "original": "(Not recognized at 0x87F1C)",
-    "translation": ""
-  },
-  {
     "key": "Equip-171-Name",
     "original": "ハーミット",
     "translation": ""
@@ -3427,16 +1952,6 @@
   {
     "key": "Equip-171-Desc1",
     "original": "防具力３６",
-    "translation": ""
-  },
-  {
-    "key": "Equip-171-Desc2",
-    "original": "(Not recognized at 0x87F1C)",
-    "translation": ""
-  },
-  {
-    "key": "Equip-171-Desc3",
-    "original": "(Not recognized at 0x87F1C)",
     "translation": ""
   },
   {
@@ -3450,16 +1965,6 @@
     "translation": ""
   },
   {
-    "key": "Equip-172-Desc2",
-    "original": "(Not recognized at 0x87F1C)",
-    "translation": ""
-  },
-  {
-    "key": "Equip-172-Desc3",
-    "original": "(Not recognized at 0x87F1C)",
-    "translation": ""
-  },
-  {
     "key": "Equip-173-Name",
     "original": "チェインピース",
     "translation": ""
@@ -3467,16 +1972,6 @@
   {
     "key": "Equip-173-Desc1",
     "original": "防具力５０",
-    "translation": ""
-  },
-  {
-    "key": "Equip-173-Desc2",
-    "original": "(Not recognized at 0x87F1C)",
-    "translation": ""
-  },
-  {
-    "key": "Equip-173-Desc3",
-    "original": "(Not recognized at 0x87F1C)",
     "translation": ""
   },
   {
@@ -3495,11 +1990,6 @@
     "translation": ""
   },
   {
-    "key": "Equip-174-Desc3",
-    "original": "(Not recognized at 0x87F1C)",
-    "translation": ""
-  },
-  {
     "key": "Equip-175-Name",
     "original": "モコモコセーター",
     "translation": ""
@@ -3510,16 +2000,6 @@
     "translation": ""
   },
   {
-    "key": "Equip-175-Desc2",
-    "original": "(Not recognized at 0x87F1C)",
-    "translation": ""
-  },
-  {
-    "key": "Equip-175-Desc3",
-    "original": "(Not recognized at 0x87F1C)",
-    "translation": ""
-  },
-  {
     "key": "Equip-176-Name",
     "original": "ファンシーピット",
     "translation": ""
@@ -3527,16 +2007,6 @@
   {
     "key": "Equip-176-Desc1",
     "original": "防具力２７",
-    "translation": ""
-  },
-  {
-    "key": "Equip-176-Desc2",
-    "original": "(Not recognized at 0x87F1C)",
-    "translation": ""
-  },
-  {
-    "key": "Equip-176-Desc3",
-    "original": "(Not recognized at 0x87F1C)",
     "translation": ""
   },
   {
@@ -3555,11 +2025,6 @@
     "translation": ""
   },
   {
-    "key": "Equip-177-Desc3",
-    "original": "(Not recognized at 0x87F1C)",
-    "translation": ""
-  },
-  {
     "key": "Equip-178-Name",
     "original": "プリティベーゼ",
     "translation": ""
@@ -3567,16 +2032,6 @@
   {
     "key": "Equip-178-Desc1",
     "original": "防具力３１",
-    "translation": ""
-  },
-  {
-    "key": "Equip-178-Desc2",
-    "original": "(Not recognized at 0x87F1C)",
-    "translation": ""
-  },
-  {
-    "key": "Equip-178-Desc3",
-    "original": "(Not recognized at 0x87F1C)",
     "translation": ""
   },
   {
@@ -3590,16 +2045,6 @@
     "translation": ""
   },
   {
-    "key": "Equip-179-Desc2",
-    "original": "(Not recognized at 0x87F1C)",
-    "translation": ""
-  },
-  {
-    "key": "Equip-179-Desc3",
-    "original": "(Not recognized at 0x87F1C)",
-    "translation": ""
-  },
-  {
     "key": "Equip-180-Name",
     "original": "ポワポワセーター",
     "translation": ""
@@ -3610,16 +2055,6 @@
     "translation": ""
   },
   {
-    "key": "Equip-180-Desc2",
-    "original": "(Not recognized at 0x87F1C)",
-    "translation": ""
-  },
-  {
-    "key": "Equip-180-Desc3",
-    "original": "(Not recognized at 0x87F1C)",
-    "translation": ""
-  },
-  {
     "key": "Equip-181-Name",
     "original": "ウエンディハウス",
     "translation": ""
@@ -3627,16 +2062,6 @@
   {
     "key": "Equip-181-Desc1",
     "original": "防具力４８",
-    "translation": ""
-  },
-  {
-    "key": "Equip-181-Desc2",
-    "original": "(Not recognized at 0x87F1C)",
-    "translation": ""
-  },
-  {
-    "key": "Equip-181-Desc3",
-    "original": "(Not recognized at 0x87F1C)",
     "translation": ""
   },
   {
@@ -3655,11 +2080,6 @@
     "translation": ""
   },
   {
-    "key": "Equip-182-Desc3",
-    "original": "(Not recognized at 0x87F1C)",
-    "translation": ""
-  },
-  {
     "key": "Equip-183-Name",
     "original": "フロント・ミース",
     "translation": ""
@@ -3667,16 +2087,6 @@
   {
     "key": "Equip-183-Desc1",
     "original": "防具力５０",
-    "translation": ""
-  },
-  {
-    "key": "Equip-183-Desc2",
-    "original": "(Not recognized at 0x87F1C)",
-    "translation": ""
-  },
-  {
-    "key": "Equip-183-Desc3",
-    "original": "(Not recognized at 0x87F1C)",
     "translation": ""
   },
   {
@@ -3690,16 +2100,6 @@
     "translation": ""
   },
   {
-    "key": "Equip-184-Desc2",
-    "original": "(Not recognized at 0x87F1C)",
-    "translation": ""
-  },
-  {
-    "key": "Equip-184-Desc3",
-    "original": "(Not recognized at 0x87F1C)",
-    "translation": ""
-  },
-  {
     "key": "Equip-185-Name",
     "original": "タクト・オウガ",
     "translation": ""
@@ -3710,16 +2110,6 @@
     "translation": ""
   },
   {
-    "key": "Equip-185-Desc2",
-    "original": "(Not recognized at 0x87F1C)",
-    "translation": ""
-  },
-  {
-    "key": "Equip-185-Desc3",
-    "original": "(Not recognized at 0x87F1C)",
-    "translation": ""
-  },
-  {
     "key": "Equip-186-Name",
     "original": "装束・雅",
     "translation": ""
@@ -3727,16 +2117,6 @@
   {
     "key": "Equip-186-Desc1",
     "original": "防具力２５",
-    "translation": ""
-  },
-  {
-    "key": "Equip-186-Desc2",
-    "original": "(Not recognized at 0x87F1C)",
-    "translation": ""
-  },
-  {
-    "key": "Equip-186-Desc3",
-    "original": "(Not recognized at 0x87F1C)",
     "translation": ""
   },
   {
@@ -3755,11 +2135,6 @@
     "translation": ""
   },
   {
-    "key": "Equip-187-Desc3",
-    "original": "(Not recognized at 0x87F1C)",
-    "translation": ""
-  },
-  {
     "key": "Equip-188-Name",
     "original": "装束・赤炎",
     "translation": ""
@@ -3770,16 +2145,6 @@
     "translation": ""
   },
   {
-    "key": "Equip-188-Desc2",
-    "original": "(Not recognized at 0x87F1C)",
-    "translation": ""
-  },
-  {
-    "key": "Equip-188-Desc3",
-    "original": "(Not recognized at 0x87F1C)",
-    "translation": ""
-  },
-  {
     "key": "Equip-189-Name",
     "original": "装束・白狼",
     "translation": ""
@@ -3787,16 +2152,6 @@
   {
     "key": "Equip-189-Desc1",
     "original": "防具力３８",
-    "translation": ""
-  },
-  {
-    "key": "Equip-189-Desc2",
-    "original": "(Not recognized at 0x87F1C)",
-    "translation": ""
-  },
-  {
-    "key": "Equip-189-Desc3",
-    "original": "(Not recognized at 0x87F1C)",
     "translation": ""
   },
   {
@@ -3815,11 +2170,6 @@
     "translation": ""
   },
   {
-    "key": "Equip-190-Desc3",
-    "original": "(Not recognized at 0x87F1C)",
-    "translation": ""
-  },
-  {
     "key": "Equip-191-Name",
     "original": "装束・黒霧",
     "translation": ""
@@ -3830,16 +2180,6 @@
     "translation": ""
   },
   {
-    "key": "Equip-191-Desc2",
-    "original": "(Not recognized at 0x87F1C)",
-    "translation": ""
-  },
-  {
-    "key": "Equip-191-Desc3",
-    "original": "(Not recognized at 0x87F1C)",
-    "translation": ""
-  },
-  {
     "key": "Equip-192-Name",
     "original": "装束・嵐仙",
     "translation": ""
@@ -3847,16 +2187,6 @@
   {
     "key": "Equip-192-Desc1",
     "original": "防具力４８",
-    "translation": ""
-  },
-  {
-    "key": "Equip-192-Desc2",
-    "original": "(Not recognized at 0x87F1C)",
-    "translation": ""
-  },
-  {
-    "key": "Equip-192-Desc3",
-    "original": "(Not recognized at 0x87F1C)",
     "translation": ""
   },
   {
@@ -3875,28 +2205,8 @@
     "translation": ""
   },
   {
-    "key": "Equip-193-Desc3",
-    "original": "(Not recognized at 0x87F1C)",
-    "translation": ""
-  },
-  {
     "key": "Equip-194-Name",
     "original": "装備無し",
-    "translation": ""
-  },
-  {
-    "key": "Equip-194-Desc1",
-    "original": "(Not recognized at 0x87F1C)",
-    "translation": ""
-  },
-  {
-    "key": "Equip-194-Desc2",
-    "original": "(Not recognized at 0x87F1C)",
-    "translation": ""
-  },
-  {
-    "key": "Equip-194-Desc3",
-    "original": "(Not recognized at 0x87F1C)",
     "translation": ""
   },
   {
@@ -3910,16 +2220,6 @@
     "translation": ""
   },
   {
-    "key": "Equip-195-Desc2",
-    "original": "(Not recognized at 0x87F1C)",
-    "translation": ""
-  },
-  {
-    "key": "Equip-195-Desc3",
-    "original": "(Not recognized at 0x87F1C)",
-    "translation": ""
-  },
-  {
     "key": "Equip-196-Name",
     "original": "ステラエンジン",
     "translation": ""
@@ -3927,16 +2227,6 @@
   {
     "key": "Equip-196-Desc1",
     "original": "機＋",
-    "translation": ""
-  },
-  {
-    "key": "Equip-196-Desc2",
-    "original": "(Not recognized at 0x87F1C)",
-    "translation": ""
-  },
-  {
-    "key": "Equip-196-Desc3",
-    "original": "(Not recognized at 0x87F1C)",
     "translation": ""
   },
   {
@@ -3950,16 +2240,6 @@
     "translation": ""
   },
   {
-    "key": "Equip-197-Desc2",
-    "original": "(Not recognized at 0x87F1C)",
-    "translation": ""
-  },
-  {
-    "key": "Equip-197-Desc3",
-    "original": "(Not recognized at 0x87F1C)",
-    "translation": ""
-  },
-  {
     "key": "Equip-198-Name",
     "original": "ＧＫＴＳＫＵⅡ",
     "translation": ""
@@ -3967,16 +2247,6 @@
   {
     "key": "Equip-198-Desc1",
     "original": "機鬼＋",
-    "translation": ""
-  },
-  {
-    "key": "Equip-198-Desc2",
-    "original": "(Not recognized at 0x87F1C)",
-    "translation": ""
-  },
-  {
-    "key": "Equip-198-Desc3",
-    "original": "(Not recognized at 0x87F1C)",
     "translation": ""
   },
   {
@@ -3995,11 +2265,6 @@
     "translation": ""
   },
   {
-    "key": "Equip-199-Desc3",
-    "original": "(Not recognized at 0x87F1C)",
-    "translation": ""
-  },
-  {
     "key": "Equip-200-Name",
     "original": "ウィルスガード",
     "translation": ""
@@ -4012,11 +2277,6 @@
   {
     "key": "Equip-200-Desc2",
     "original": "１",
-    "translation": ""
-  },
-  {
-    "key": "Equip-200-Desc3",
-    "original": "(Not recognized at 0x87F1C)",
     "translation": ""
   },
   {
@@ -4035,11 +2295,6 @@
     "translation": ""
   },
   {
-    "key": "Equip-201-Desc3",
-    "original": "(Not recognized at 0x87F1C)",
-    "translation": ""
-  },
-  {
     "key": "Equip-202-Name",
     "original": "スーパーツール",
     "translation": ""
@@ -4055,11 +2310,6 @@
     "translation": ""
   },
   {
-    "key": "Equip-202-Desc3",
-    "original": "(Not recognized at 0x87F1C)",
-    "translation": ""
-  },
-  {
     "key": "Equip-203-Name",
     "original": "鉄人コントローラ",
     "translation": ""
@@ -4067,16 +2317,6 @@
   {
     "key": "Equip-203-Desc1",
     "original": "ＶＩＴ＋４\u3000機霊＋",
-    "translation": ""
-  },
-  {
-    "key": "Equip-203-Desc2",
-    "original": "(Not recognized at 0x87F1C)",
-    "translation": ""
-  },
-  {
-    "key": "Equip-203-Desc3",
-    "original": "(Not recognized at 0x87F1C)",
     "translation": ""
   },
   {
@@ -4090,16 +2330,6 @@
     "translation": ""
   },
   {
-    "key": "Equip-204-Desc2",
-    "original": "(Not recognized at 0x87F1C)",
-    "translation": ""
-  },
-  {
-    "key": "Equip-204-Desc3",
-    "original": "(Not recognized at 0x87F1C)",
-    "translation": ""
-  },
-  {
     "key": "Equip-205-Name",
     "original": "ジャンクボード",
     "translation": ""
@@ -4110,16 +2340,6 @@
     "translation": ""
   },
   {
-    "key": "Equip-205-Desc2",
-    "original": "(Not recognized at 0x87F1C)",
-    "translation": ""
-  },
-  {
-    "key": "Equip-205-Desc3",
-    "original": "(Not recognized at 0x87F1C)",
-    "translation": ""
-  },
-  {
     "key": "Equip-206-Name",
     "original": "松のかんざし",
     "translation": ""
@@ -4127,16 +2347,6 @@
   {
     "key": "Equip-206-Desc1",
     "original": "ＭＰ最大値＋５\u3000鬼＋",
-    "translation": ""
-  },
-  {
-    "key": "Equip-206-Desc2",
-    "original": "(Not recognized at 0x87F1C)",
-    "translation": ""
-  },
-  {
-    "key": "Equip-206-Desc3",
-    "original": "(Not recognized at 0x87F1C)",
     "translation": ""
   },
   {
@@ -4152,11 +2362,6 @@
   {
     "key": "Equip-207-Desc2",
     "original": "Ｔ＋３\u3000鬼獣＋",
-    "translation": ""
-  },
-  {
-    "key": "Equip-207-Desc3",
-    "original": "(Not recognized at 0x87F1C)",
     "translation": ""
   },
   {
@@ -4195,11 +2400,6 @@
     "translation": ""
   },
   {
-    "key": "Equip-209-Desc3",
-    "original": "(Not recognized at 0x87F1C)",
-    "translation": ""
-  },
-  {
     "key": "Equip-210-Name",
     "original": "炎皇玉",
     "translation": ""
@@ -4215,11 +2415,6 @@
     "translation": ""
   },
   {
-    "key": "Equip-210-Desc3",
-    "original": "(Not recognized at 0x87F1C)",
-    "translation": ""
-  },
-  {
     "key": "Equip-211-Name",
     "original": "荒天華玉",
     "translation": ""
@@ -4232,11 +2427,6 @@
   {
     "key": "Equip-211-Desc2",
     "original": "霊＋",
-    "translation": ""
-  },
-  {
-    "key": "Equip-211-Desc3",
-    "original": "(Not recognized at 0x87F1C)",
     "translation": ""
   },
   {
@@ -4270,16 +2460,6 @@
     "translation": ""
   },
   {
-    "key": "Equip-213-Desc2",
-    "original": "(Not recognized at 0x87F1C)",
-    "translation": ""
-  },
-  {
-    "key": "Equip-213-Desc3",
-    "original": "(Not recognized at 0x87F1C)",
-    "translation": ""
-  },
-  {
     "key": "Equip-214-Name",
     "original": "封忍呪札",
     "translation": ""
@@ -4292,11 +2472,6 @@
   {
     "key": "Equip-214-Desc2",
     "original": "＋",
-    "translation": ""
-  },
-  {
-    "key": "Equip-214-Desc3",
-    "original": "(Not recognized at 0x87F1C)",
     "translation": ""
   },
   {
@@ -4315,11 +2490,6 @@
     "translation": ""
   },
   {
-    "key": "Equip-215-Desc3",
-    "original": "(Not recognized at 0x87F1C)",
-    "translation": ""
-  },
-  {
     "key": "Equip-216-Name",
     "original": "忍秘伝・陽",
     "translation": ""
@@ -4330,16 +2500,6 @@
     "translation": ""
   },
   {
-    "key": "Equip-216-Desc2",
-    "original": "(Not recognized at 0x87F1C)",
-    "translation": ""
-  },
-  {
-    "key": "Equip-216-Desc3",
-    "original": "(Not recognized at 0x87F1C)",
-    "translation": ""
-  },
-  {
     "key": "Equip-217-Name",
     "original": "ペンダント",
     "translation": ""
@@ -4347,16 +2507,6 @@
   {
     "key": "Equip-217-Desc1",
     "original": "ＩＮＴ＋１\u3000霊＋",
-    "translation": ""
-  },
-  {
-    "key": "Equip-217-Desc2",
-    "original": "(Not recognized at 0x87F1C)",
-    "translation": ""
-  },
-  {
-    "key": "Equip-217-Desc3",
-    "original": "(Not recognized at 0x87F1C)",
     "translation": ""
   },
   {
@@ -4375,11 +2525,6 @@
     "translation": ""
   },
   {
-    "key": "Equip-218-Desc3",
-    "original": "(Not recognized at 0x87F1C)",
-    "translation": ""
-  },
-  {
     "key": "Equip-219-Name",
     "original": "銃弾のペンダント",
     "translation": ""
@@ -4387,16 +2532,6 @@
   {
     "key": "Equip-219-Desc1",
     "original": "ＶＩＴ＋５\u3000機霊＋",
-    "translation": ""
-  },
-  {
-    "key": "Equip-219-Desc2",
-    "original": "(Not recognized at 0x87F1C)",
-    "translation": ""
-  },
-  {
-    "key": "Equip-219-Desc3",
-    "original": "(Not recognized at 0x87F1C)",
     "translation": ""
   },
   {
@@ -4410,16 +2545,6 @@
     "translation": ""
   },
   {
-    "key": "Equip-220-Desc2",
-    "original": "(Not recognized at 0x87F1C)",
-    "translation": ""
-  },
-  {
-    "key": "Equip-220-Desc3",
-    "original": "(Not recognized at 0x87F1C)",
-    "translation": ""
-  },
-  {
     "key": "Equip-221-Name",
     "original": "赤光のランプ",
     "translation": ""
@@ -4427,16 +2552,6 @@
   {
     "key": "Equip-221-Desc1",
     "original": "ＳＴＲ＋２\u3000霊＋",
-    "translation": ""
-  },
-  {
-    "key": "Equip-221-Desc2",
-    "original": "(Not recognized at 0x87F1C)",
-    "translation": ""
-  },
-  {
-    "key": "Equip-221-Desc3",
-    "original": "(Not recognized at 0x87F1C)",
     "translation": ""
   },
   {
@@ -4455,11 +2570,6 @@
     "translation": ""
   },
   {
-    "key": "Equip-222-Desc3",
-    "original": "(Not recognized at 0x87F1C)",
-    "translation": ""
-  },
-  {
     "key": "Equip-223-Name",
     "original": "タロットカード",
     "translation": ""
@@ -4475,11 +2585,6 @@
     "translation": ""
   },
   {
-    "key": "Equip-223-Desc3",
-    "original": "(Not recognized at 0x87F1C)",
-    "translation": ""
-  },
-  {
     "key": "Equip-224-Name",
     "original": "鉄の冠",
     "translation": ""
@@ -4487,16 +2592,6 @@
   {
     "key": "Equip-224-Desc1",
     "original": "ＨＰ最大値＋５",
-    "translation": ""
-  },
-  {
-    "key": "Equip-224-Desc2",
-    "original": "(Not recognized at 0x87F1C)",
-    "translation": ""
-  },
-  {
-    "key": "Equip-224-Desc3",
-    "original": "(Not recognized at 0x87F1C)",
     "translation": ""
   },
   {
@@ -4512,11 +2607,6 @@
   {
     "key": "Equip-225-Desc2",
     "original": "２\u3000霊獣＋",
-    "translation": ""
-  },
-  {
-    "key": "Equip-225-Desc3",
-    "original": "(Not recognized at 0x87F1C)",
     "translation": ""
   },
   {
@@ -4550,16 +2640,6 @@
     "translation": ""
   },
   {
-    "key": "Equip-227-Desc2",
-    "original": "(Not recognized at 0x87F1C)",
-    "translation": ""
-  },
-  {
-    "key": "Equip-227-Desc3",
-    "original": "(Not recognized at 0x87F1C)",
-    "translation": ""
-  },
-  {
     "key": "Equip-228-Name",
     "original": "暁の腕輪",
     "translation": ""
@@ -4572,11 +2652,6 @@
   {
     "key": "Equip-228-Desc2",
     "original": "ＴＲ＋１\u3000ＶＩＴ＋１",
-    "translation": ""
-  },
-  {
-    "key": "Equip-228-Desc3",
-    "original": "(Not recognized at 0x87F1C)",
     "translation": ""
   },
   {
@@ -4595,11 +2670,6 @@
     "translation": ""
   },
   {
-    "key": "Equip-229-Desc3",
-    "original": "(Not recognized at 0x87F1C)",
-    "translation": ""
-  },
-  {
     "key": "Equip-230-Name",
     "original": "黒曜石の指輪",
     "translation": ""
@@ -4610,16 +2680,6 @@
     "translation": ""
   },
   {
-    "key": "Equip-230-Desc2",
-    "original": "(Not recognized at 0x87F1C)",
-    "translation": ""
-  },
-  {
-    "key": "Equip-230-Desc3",
-    "original": "(Not recognized at 0x87F1C)",
-    "translation": ""
-  },
-  {
     "key": "Equip-231-Name",
     "original": "王道リング",
     "translation": ""
@@ -4627,16 +2687,6 @@
   {
     "key": "Equip-231-Desc1",
     "original": "ＡＬＬ＋１",
-    "translation": ""
-  },
-  {
-    "key": "Equip-231-Desc2",
-    "original": "(Not recognized at 0x87F1C)",
-    "translation": ""
-  },
-  {
-    "key": "Equip-231-Desc3",
-    "original": "(Not recognized at 0x87F1C)",
     "translation": ""
   },
   {
@@ -4655,11 +2705,6 @@
     "translation": ""
   },
   {
-    "key": "Equip-232-Desc3",
-    "original": "(Not recognized at 0x87F1C)",
-    "translation": ""
-  },
-  {
     "key": "Equip-233-Name",
     "original": "鈴のついた首輪",
     "translation": ""
@@ -4675,11 +2720,6 @@
     "translation": ""
   },
   {
-    "key": "Equip-233-Desc3",
-    "original": "(Not recognized at 0x87F1C)",
-    "translation": ""
-  },
-  {
     "key": "Equip-234-Name",
     "original": "トゲのついた首輪",
     "translation": ""
@@ -4687,16 +2727,6 @@
   {
     "key": "Equip-234-Desc1",
     "original": "ＤＥＸ＋２\u3000獣＋",
-    "translation": ""
-  },
-  {
-    "key": "Equip-234-Desc2",
-    "original": "(Not recognized at 0x87F1C)",
-    "translation": ""
-  },
-  {
-    "key": "Equip-234-Desc3",
-    "original": "(Not recognized at 0x87F1C)",
     "translation": ""
   },
   {
@@ -4715,11 +2745,6 @@
     "translation": ""
   },
   {
-    "key": "Equip-235-Desc3",
-    "original": "(Not recognized at 0x87F1C)",
-    "translation": ""
-  },
-  {
     "key": "Equip-236-Name",
     "original": "剣竜のウロコ",
     "translation": ""
@@ -4727,16 +2752,6 @@
   {
     "key": "Equip-236-Desc1",
     "original": "ＡＬＬ＋３\u3000獣＋",
-    "translation": ""
-  },
-  {
-    "key": "Equip-236-Desc2",
-    "original": "(Not recognized at 0x87F1C)",
-    "translation": ""
-  },
-  {
-    "key": "Equip-236-Desc3",
-    "original": "(Not recognized at 0x87F1C)",
     "translation": ""
   },
   {
@@ -4755,11 +2770,6 @@
     "translation": ""
   },
   {
-    "key": "Equip-237-Desc3",
-    "original": "(Not recognized at 0x87F1C)",
-    "translation": ""
-  },
-  {
     "key": "Equip-238-Name",
     "original": "丸い尻尾",
     "translation": ""
@@ -4775,11 +2785,6 @@
     "translation": ""
   },
   {
-    "key": "Equip-238-Desc3",
-    "original": "(Not recognized at 0x87F1C)",
-    "translation": ""
-  },
-  {
     "key": "Equip-239-Name",
     "original": "ウサギの尻尾",
     "translation": ""
@@ -4787,16 +2792,6 @@
   {
     "key": "Equip-239-Desc1",
     "original": "ＤＥＸ＋５\u3000獣＋",
-    "translation": ""
-  },
-  {
-    "key": "Equip-239-Desc2",
-    "original": "(Not recognized at 0x87F1C)",
-    "translation": ""
-  },
-  {
-    "key": "Equip-239-Desc3",
-    "original": "(Not recognized at 0x87F1C)",
     "translation": ""
   },
   {
@@ -4815,11 +2810,6 @@
     "translation": ""
   },
   {
-    "key": "Equip-240-Desc3",
-    "original": "(Not recognized at 0x87F1C)",
-    "translation": ""
-  },
-  {
     "key": "Equip-241-Name",
     "original": "謎の爪",
     "translation": ""
@@ -4835,11 +2825,6 @@
     "translation": ""
   },
   {
-    "key": "Equip-241-Desc3",
-    "original": "(Not recognized at 0x87F1C)",
-    "translation": ""
-  },
-  {
     "key": "Equip-242-Name",
     "original": "柔らかい骨飾り",
     "translation": ""
@@ -4847,16 +2832,6 @@
   {
     "key": "Equip-242-Desc1",
     "original": "ＶＩＴ＋１\u3000獣＋",
-    "translation": ""
-  },
-  {
-    "key": "Equip-242-Desc2",
-    "original": "(Not recognized at 0x87F1C)",
-    "translation": ""
-  },
-  {
-    "key": "Equip-242-Desc3",
-    "original": "(Not recognized at 0x87F1C)",
     "translation": ""
   },
   {
@@ -4895,11 +2870,6 @@
     "translation": ""
   },
   {
-    "key": "Equip-244-Desc3",
-    "original": "(Not recognized at 0x87F1C)",
-    "translation": ""
-  },
-  {
     "key": "Equip-245-Name",
     "original": "メトラルホーン",
     "translation": ""
@@ -4935,11 +2905,6 @@
     "translation": ""
   },
   {
-    "key": "Equip-246-Desc3",
-    "original": "(Not recognized at 0x87F1C)",
-    "translation": ""
-  },
-  {
     "key": "Equip-247-Name",
     "original": "チョウの羽",
     "translation": ""
@@ -4955,11 +2920,6 @@
     "translation": ""
   },
   {
-    "key": "Equip-247-Desc3",
-    "original": "(Not recognized at 0x87F1C)",
-    "translation": ""
-  },
-  {
     "key": "Equip-248-Name",
     "original": "オカリナ",
     "translation": ""
@@ -4967,16 +2927,6 @@
   {
     "key": "Equip-248-Desc1",
     "original": "ＭＰ最大値＋３",
-    "translation": ""
-  },
-  {
-    "key": "Equip-248-Desc2",
-    "original": "(Not recognized at 0x87F1C)",
-    "translation": ""
-  },
-  {
-    "key": "Equip-248-Desc3",
-    "original": "(Not recognized at 0x87F1C)",
     "translation": ""
   },
   {
@@ -4995,11 +2945,6 @@
     "translation": ""
   },
   {
-    "key": "Equip-249-Desc3",
-    "original": "(Not recognized at 0x87F1C)",
-    "translation": ""
-  },
-  {
     "key": "Equip-250-Name",
     "original": "黒塗りのオカリナ",
     "translation": ""
@@ -5007,16 +2952,6 @@
   {
     "key": "Equip-250-Desc1",
     "original": "霊獣＋",
-    "translation": ""
-  },
-  {
-    "key": "Equip-250-Desc2",
-    "original": "(Not recognized at 0x87F1C)",
-    "translation": ""
-  },
-  {
-    "key": "Equip-250-Desc3",
-    "original": "(Not recognized at 0x87F1C)",
     "translation": ""
   },
   {
@@ -5035,11 +2970,6 @@
     "translation": ""
   },
   {
-    "key": "Equip-251-Desc3",
-    "original": "(Not recognized at 0x87F1C)",
-    "translation": ""
-  },
-  {
     "key": "Equip-252-Name",
     "original": "かきかたの本",
     "translation": ""
@@ -5055,11 +2985,6 @@
     "translation": ""
   },
   {
-    "key": "Equip-252-Desc3",
-    "original": "(Not recognized at 0x87F1C)",
-    "translation": ""
-  },
-  {
     "key": "Equip-253-Name",
     "original": "ペット手帳",
     "translation": ""
@@ -5072,11 +2997,6 @@
   {
     "key": "Equip-253-Desc2",
     "original": "１\u3000ＤＥＸ＋１\u3000獣＋",
-    "translation": ""
-  },
-  {
-    "key": "Equip-253-Desc3",
-    "original": "(Not recognized at 0x87F1C)",
     "translation": ""
   },
   {
@@ -5115,11 +3035,6 @@
     "translation": ""
   },
   {
-    "key": "Equip-255-Desc3",
-    "original": "(Not recognized at 0x87F1C)",
-    "translation": ""
-  },
-  {
     "key": "Equip-256-Name",
     "original": "天使辞典",
     "translation": ""
@@ -5132,11 +3047,6 @@
   {
     "key": "Equip-256-Desc2",
     "original": "４\u3000霊＋",
-    "translation": ""
-  },
-  {
-    "key": "Equip-256-Desc3",
-    "original": "(Not recognized at 0x87F1C)",
     "translation": ""
   },
   {
@@ -5155,11 +3065,6 @@
     "translation": ""
   },
   {
-    "key": "Equip-257-Desc3",
-    "original": "(Not recognized at 0x87F1C)",
-    "translation": ""
-  },
-  {
     "key": "Equip-258-Name",
     "original": "テキサスのマスク",
     "translation": ""
@@ -5172,11 +3077,6 @@
   {
     "key": "Equip-258-Desc2",
     "original": "５\u3000霊＋",
-    "translation": ""
-  },
-  {
-    "key": "Equip-258-Desc3",
-    "original": "(Not recognized at 0x87F1C)",
     "translation": ""
   },
   {
@@ -5195,11 +3095,6 @@
     "translation": ""
   },
   {
-    "key": "Equip-259-Desc3",
-    "original": "(Not recognized at 0x87F1C)",
-    "translation": ""
-  },
-  {
     "key": "Equip-260-Name",
     "original": "鉄鉱石",
     "translation": ""
@@ -5210,16 +3105,6 @@
     "translation": ""
   },
   {
-    "key": "Equip-260-Desc2",
-    "original": "(Not recognized at 0x87F1C)",
-    "translation": ""
-  },
-  {
-    "key": "Equip-260-Desc3",
-    "original": "(Not recognized at 0x87F1C)",
-    "translation": ""
-  },
-  {
     "key": "Equip-261-Name",
     "original": "オリハルコン",
     "translation": ""
@@ -5227,16 +3112,6 @@
   {
     "key": "Equip-261-Desc1",
     "original": "ＩＮＴ＋２",
-    "translation": ""
-  },
-  {
-    "key": "Equip-261-Desc2",
-    "original": "(Not recognized at 0x87F1C)",
-    "translation": ""
-  },
-  {
-    "key": "Equip-261-Desc3",
-    "original": "(Not recognized at 0x87F1C)",
     "translation": ""
   },
   {
@@ -5255,11 +3130,6 @@
     "translation": ""
   },
   {
-    "key": "Equip-262-Desc3",
-    "original": "(Not recognized at 0x87F1C)",
-    "translation": ""
-  },
-  {
     "key": "Equip-263-Name",
     "original": "かっこいい釣り竿",
     "translation": ""
@@ -5270,16 +3140,6 @@
     "translation": ""
   },
   {
-    "key": "Equip-263-Desc2",
-    "original": "(Not recognized at 0x87F1C)",
-    "translation": ""
-  },
-  {
-    "key": "Equip-263-Desc3",
-    "original": "(Not recognized at 0x87F1C)",
-    "translation": ""
-  },
-  {
     "key": "Equip-264-Name",
     "original": "ゴールデンルアー",
     "translation": ""
@@ -5287,36 +3147,6 @@
   {
     "key": "Equip-264-Desc1",
     "original": "ＳＴＲ＋２",
-    "translation": ""
-  },
-  {
-    "key": "Equip-264-Desc2",
-    "original": "(Not recognized at 0x87F1C)",
-    "translation": ""
-  },
-  {
-    "key": "Equip-264-Desc3",
-    "original": "(Not recognized at 0x87F1C)",
-    "translation": ""
-  },
-  {
-    "key": "Item-0-Name",
-    "original": "(Not recognized at 0x87F1C)",
-    "translation": ""
-  },
-  {
-    "key": "Item-0-Desc1",
-    "original": "(Not recognized at 0x87F1C)",
-    "translation": ""
-  },
-  {
-    "key": "Item-0-Desc2",
-    "original": "(Not recognized at 0x87F1C)",
-    "translation": ""
-  },
-  {
-    "key": "Item-0-Desc3",
-    "original": "(Not recognized at 0x87F1C)",
     "translation": ""
   },
   {
@@ -5335,11 +3165,6 @@
     "translation": ""
   },
   {
-    "key": "Item-1-Desc3",
-    "original": "(Not recognized at 0x87F1C)",
-    "translation": ""
-  },
-  {
     "key": "Item-2-Name",
     "original": "サモナイト石\u3000鬼",
     "translation": ""
@@ -5352,11 +3177,6 @@
   {
     "key": "Item-2-Desc2",
     "original": "動する",
-    "translation": ""
-  },
-  {
-    "key": "Item-2-Desc3",
-    "original": "(Not recognized at 0x87F1C)",
     "translation": ""
   },
   {
@@ -5375,11 +3195,6 @@
     "translation": ""
   },
   {
-    "key": "Item-3-Desc3",
-    "original": "(Not recognized at 0x87F1C)",
-    "translation": ""
-  },
-  {
     "key": "Item-4-Name",
     "original": "サモナイト石\u3000獣",
     "translation": ""
@@ -5392,11 +3207,6 @@
   {
     "key": "Item-4-Desc2",
     "original": "発動する",
-    "translation": ""
-  },
-  {
-    "key": "Item-4-Desc3",
-    "original": "(Not recognized at 0x87F1C)",
     "translation": ""
   },
   {
@@ -5415,11 +3225,6 @@
     "translation": ""
   },
   {
-    "key": "Item-5-Desc3",
-    "original": "(Not recognized at 0x87F1C)",
-    "translation": ""
-  },
-  {
     "key": "Item-6-Name",
     "original": "お守り袋",
     "translation": ""
@@ -5427,16 +3232,6 @@
   {
     "key": "Item-6-Desc1",
     "original": "落とし物",
-    "translation": ""
-  },
-  {
-    "key": "Item-6-Desc2",
-    "original": "(Not recognized at 0x87F1C)",
-    "translation": ""
-  },
-  {
-    "key": "Item-6-Desc3",
-    "original": "(Not recognized at 0x87F1C)",
     "translation": ""
   },
   {
@@ -5450,16 +3245,6 @@
     "translation": ""
   },
   {
-    "key": "Item-7-Desc2",
-    "original": "(Not recognized at 0x87F1C)",
-    "translation": ""
-  },
-  {
-    "key": "Item-7-Desc3",
-    "original": "(Not recognized at 0x87F1C)",
-    "translation": ""
-  },
-  {
     "key": "Item-8-Name",
     "original": "手作りパン",
     "translation": ""
@@ -5467,16 +3252,6 @@
   {
     "key": "Item-8-Desc1",
     "original": "ＨＰを８０回復する",
-    "translation": ""
-  },
-  {
-    "key": "Item-8-Desc2",
-    "original": "(Not recognized at 0x87F1C)",
-    "translation": ""
-  },
-  {
-    "key": "Item-8-Desc3",
-    "original": "(Not recognized at 0x87F1C)",
     "translation": ""
   },
   {
@@ -5490,16 +3265,6 @@
     "translation": ""
   },
   {
-    "key": "Item-9-Desc2",
-    "original": "(Not recognized at 0x87F1C)",
-    "translation": ""
-  },
-  {
-    "key": "Item-9-Desc3",
-    "original": "(Not recognized at 0x87F1C)",
-    "translation": ""
-  },
-  {
     "key": "Item-10-Name",
     "original": "ジュウユの実",
     "translation": ""
@@ -5507,16 +3272,6 @@
   {
     "key": "Item-10-Desc1",
     "original": "ＨＰを２００回復する",
-    "translation": ""
-  },
-  {
-    "key": "Item-10-Desc2",
-    "original": "(Not recognized at 0x87F1C)",
-    "translation": ""
-  },
-  {
-    "key": "Item-10-Desc3",
-    "original": "(Not recognized at 0x87F1C)",
     "translation": ""
   },
   {
@@ -5530,16 +3285,6 @@
     "translation": ""
   },
   {
-    "key": "Item-11-Desc2",
-    "original": "(Not recognized at 0x87F1C)",
-    "translation": ""
-  },
-  {
-    "key": "Item-11-Desc3",
-    "original": "(Not recognized at 0x87F1C)",
-    "translation": ""
-  },
-  {
     "key": "Item-12-Name",
     "original": "キャンディ",
     "translation": ""
@@ -5547,16 +3292,6 @@
   {
     "key": "Item-12-Desc1",
     "original": "ＭＰを１０回復する",
-    "translation": ""
-  },
-  {
-    "key": "Item-12-Desc2",
-    "original": "(Not recognized at 0x87F1C)",
-    "translation": ""
-  },
-  {
-    "key": "Item-12-Desc3",
-    "original": "(Not recognized at 0x87F1C)",
     "translation": ""
   },
   {
@@ -5570,16 +3305,6 @@
     "translation": ""
   },
   {
-    "key": "Item-13-Desc2",
-    "original": "(Not recognized at 0x87F1C)",
-    "translation": ""
-  },
-  {
-    "key": "Item-13-Desc3",
-    "original": "(Not recognized at 0x87F1C)",
-    "translation": ""
-  },
-  {
     "key": "Item-14-Name",
     "original": "オシャベリーの葉",
     "translation": ""
@@ -5587,16 +3312,6 @@
   {
     "key": "Item-14-Desc1",
     "original": "沈黙を治療する",
-    "translation": ""
-  },
-  {
-    "key": "Item-14-Desc2",
-    "original": "(Not recognized at 0x87F1C)",
-    "translation": ""
-  },
-  {
-    "key": "Item-14-Desc3",
-    "original": "(Not recognized at 0x87F1C)",
     "translation": ""
   },
   {
@@ -5610,16 +3325,6 @@
     "translation": ""
   },
   {
-    "key": "Item-15-Desc2",
-    "original": "(Not recognized at 0x87F1C)",
-    "translation": ""
-  },
-  {
-    "key": "Item-15-Desc3",
-    "original": "(Not recognized at 0x87F1C)",
-    "translation": ""
-  },
-  {
     "key": "Item-16-Name",
     "original": "カーッツの葉",
     "translation": ""
@@ -5630,16 +3335,6 @@
     "translation": ""
   },
   {
-    "key": "Item-16-Desc2",
-    "original": "(Not recognized at 0x87F1C)",
-    "translation": ""
-  },
-  {
-    "key": "Item-16-Desc3",
-    "original": "(Not recognized at 0x87F1C)",
-    "translation": ""
-  },
-  {
     "key": "Item-17-Name",
     "original": "ゲドッグーの葉",
     "translation": ""
@@ -5647,16 +3342,6 @@
   {
     "key": "Item-17-Desc1",
     "original": "毒を治療する",
-    "translation": ""
-  },
-  {
-    "key": "Item-17-Desc2",
-    "original": "(Not recognized at 0x87F1C)",
-    "translation": ""
-  },
-  {
-    "key": "Item-17-Desc3",
-    "original": "(Not recognized at 0x87F1C)",
     "translation": ""
   },
   {
@@ -5672,11 +3357,6 @@
   {
     "key": "Item-18-Desc2",
     "original": "を治療する",
-    "translation": ""
-  },
-  {
-    "key": "Item-18-Desc3",
-    "original": "(Not recognized at 0x87F1C)",
     "translation": ""
   },
   {
@@ -5715,11 +3395,6 @@
     "translation": ""
   },
   {
-    "key": "Item-20-Desc3",
-    "original": "(Not recognized at 0x87F1C)",
-    "translation": ""
-  },
-  {
     "key": "Item-21-Name",
     "original": "カツオブシ",
     "translation": ""
@@ -5732,11 +3407,6 @@
   {
     "key": "Item-21-Desc2",
     "original": "回復する",
-    "translation": ""
-  },
-  {
-    "key": "Item-21-Desc3",
-    "original": "(Not recognized at 0x87F1C)",
     "translation": ""
   },
   {
@@ -5755,11 +3425,6 @@
     "translation": ""
   },
   {
-    "key": "Item-22-Desc3",
-    "original": "(Not recognized at 0x87F1C)",
-    "translation": ""
-  },
-  {
     "key": "Item-23-Name",
     "original": "ネコ缶",
     "translation": ""
@@ -5775,11 +3440,6 @@
     "translation": ""
   },
   {
-    "key": "Item-23-Desc3",
-    "original": "(Not recognized at 0x87F1C)",
-    "translation": ""
-  },
-  {
     "key": "Item-24-Name",
     "original": "ザリガニ",
     "translation": ""
@@ -5792,11 +3452,6 @@
   {
     "key": "Item-24-Desc2",
     "original": "回復する",
-    "translation": ""
-  },
-  {
-    "key": "Item-24-Desc3",
-    "original": "(Not recognized at 0x87F1C)",
     "translation": ""
   },
   {
@@ -6560,21 +4215,6 @@
     "translation": ""
   },
   {
-    "key": "Magic-0-Desc1",
-    "original": "(Not recognized at 0x87F1C)",
-    "translation": ""
-  },
-  {
-    "key": "Magic-0-Desc2",
-    "original": "(Not recognized at 0x87F1C)",
-    "translation": ""
-  },
-  {
-    "key": "Magic-0-Desc3",
-    "original": "(Not recognized at 0x87F1C)",
-    "translation": ""
-  },
-  {
     "key": "Magic-1-Name",
     "original": "誓約のちから",
     "translation": ""
@@ -6690,11 +4330,6 @@
     "translation": ""
   },
   {
-    "key": "Magic-6-Desc3",
-    "original": "(Not recognized at 0x87F1C)",
-    "translation": ""
-  },
-  {
     "key": "Magic-7-Name",
     "original": "全召喚装備",
     "translation": ""
@@ -6707,11 +4342,6 @@
   {
     "key": "Magic-7-Desc2",
     "original": "使える",
-    "translation": ""
-  },
-  {
-    "key": "Magic-7-Desc3",
-    "original": "(Not recognized at 0x87F1C)",
     "translation": ""
   },
   {
@@ -6810,11 +4440,6 @@
     "translation": ""
   },
   {
-    "key": "Skill-4-Desc3",
-    "original": "(Not recognized at 0x87F1C)",
-    "translation": ""
-  },
-  {
     "key": "Skill-5-Name",
     "original": "召喚装備\u3000鬼",
     "translation": ""
@@ -6827,11 +4452,6 @@
   {
     "key": "Skill-5-Desc2",
     "original": "召喚術を使える",
-    "translation": ""
-  },
-  {
-    "key": "Skill-5-Desc3",
-    "original": "(Not recognized at 0x87F1C)",
     "translation": ""
   },
   {
@@ -6850,11 +4470,6 @@
     "translation": ""
   },
   {
-    "key": "Skill-6-Desc3",
-    "original": "(Not recognized at 0x87F1C)",
-    "translation": ""
-  },
-  {
     "key": "Skill-7-Name",
     "original": "召喚装備\u3000獣",
     "translation": ""
@@ -6867,11 +4482,6 @@
   {
     "key": "Skill-7-Desc2",
     "original": "の召喚術を使える",
-    "translation": ""
-  },
-  {
-    "key": "Skill-7-Desc3",
-    "original": "(Not recognized at 0x87F1C)",
     "translation": ""
   },
   {
@@ -6967,11 +4577,6 @@
   {
     "key": "Skill-12-Desc2",
     "original": "がたくする\u3000ＺＯＣ小",
-    "translation": ""
-  },
-  {
-    "key": "Skill-12-Desc3",
-    "original": "(Not recognized at 0x87F1C)",
     "translation": ""
   },
   {
@@ -7230,11 +4835,6 @@
     "translation": ""
   },
   {
-    "key": "Skill-25-Desc3",
-    "original": "(Not recognized at 0x87F1C)",
-    "translation": ""
-  },
-  {
     "key": "Skill-26-Name",
     "original": "不動の精神",
     "translation": ""
@@ -7370,11 +4970,6 @@
     "translation": ""
   },
   {
-    "key": "Skill-32-Desc3",
-    "original": "(Not recognized at 0x87F1C)",
-    "translation": ""
-  },
-  {
     "key": "Skill-33-Name",
     "original": "特殊攻撃",
     "translation": ""
@@ -7387,11 +4982,6 @@
   {
     "key": "Skill-33-Desc2",
     "original": "よる魔法攻撃",
-    "translation": ""
-  },
-  {
-    "key": "Skill-33-Desc3",
-    "original": "(Not recognized at 0x87F1C)",
     "translation": ""
   },
   {
@@ -7410,11 +5000,6 @@
     "translation": ""
   },
   {
-    "key": "Skill-34-Desc3",
-    "original": "(Not recognized at 0x87F1C)",
-    "translation": ""
-  },
-  {
     "key": "Skill-35-Name",
     "original": "特殊攻撃",
     "translation": ""
@@ -7427,11 +5012,6 @@
   {
     "key": "Skill-35-Desc2",
     "original": "による魔法攻撃\u3000＋毒",
-    "translation": ""
-  },
-  {
-    "key": "Skill-35-Desc3",
-    "original": "(Not recognized at 0x87F1C)",
     "translation": ""
   },
   {
@@ -7450,11 +5030,6 @@
     "translation": ""
   },
   {
-    "key": "Skill-36-Desc3",
-    "original": "(Not recognized at 0x87F1C)",
-    "translation": ""
-  },
-  {
     "key": "Skill-37-Name",
     "original": "特殊攻撃・大",
     "translation": ""
@@ -7467,11 +5042,6 @@
   {
     "key": "Skill-37-Desc2",
     "original": "威力の魔法攻撃",
-    "translation": ""
-  },
-  {
-    "key": "Skill-37-Desc3",
-    "original": "(Not recognized at 0x87F1C)",
     "translation": ""
   },
   {
@@ -7490,11 +5060,6 @@
     "translation": ""
   },
   {
-    "key": "Skill-38-Desc3",
-    "original": "(Not recognized at 0x87F1C)",
-    "translation": ""
-  },
-  {
     "key": "Skill-39-Name",
     "original": "特殊攻撃",
     "translation": ""
@@ -7507,26 +5072,6 @@
   {
     "key": "Skill-39-Desc2",
     "original": "る魔法攻撃\u3000＋沈黙",
-    "translation": ""
-  },
-  {
-    "key": "Skill-39-Desc3",
-    "original": "(Not recognized at 0x87F1C)",
-    "translation": ""
-  },
-  {
-    "key": "Unknown-0-Desc1",
-    "original": "(Not recognized at 0x87F1C)",
-    "translation": ""
-  },
-  {
-    "key": "Unknown-0-Desc2",
-    "original": "(Not recognized at 0x87F1C)",
-    "translation": ""
-  },
-  {
-    "key": "Unknown-0-Desc3",
-    "original": "(Not recognized at 0x87F1C)",
     "translation": ""
   },
   {
@@ -7670,11 +5215,6 @@
     "translation": ""
   },
   {
-    "key": "Unknown-10-Desc2",
-    "original": "(Not recognized at 0x87F1C)",
-    "translation": ""
-  },
-  {
     "key": "Unknown-10-Desc3",
     "original": "ＭＰ３０",
     "translation": ""
@@ -7697,11 +5237,6 @@
   {
     "key": "Unknown-12-Desc1",
     "original": "単体攻撃魔法",
-    "translation": ""
-  },
-  {
-    "key": "Unknown-12-Desc2",
-    "original": "(Not recognized at 0x87F1C)",
     "translation": ""
   },
   {
@@ -7775,11 +5310,6 @@
     "translation": ""
   },
   {
-    "key": "Unknown-17-Desc2",
-    "original": "(Not recognized at 0x87F1C)",
-    "translation": ""
-  },
-  {
     "key": "Unknown-17-Desc3",
     "original": "ＭＰ２０",
     "translation": ""
@@ -7802,11 +5332,6 @@
   {
     "key": "Unknown-19-Desc1",
     "original": "単体攻撃魔法",
-    "translation": ""
-  },
-  {
-    "key": "Unknown-19-Desc2",
-    "original": "(Not recognized at 0x87F1C)",
     "translation": ""
   },
   {
@@ -7835,11 +5360,6 @@
     "translation": ""
   },
   {
-    "key": "Unknown-21-Desc2",
-    "original": "(Not recognized at 0x87F1C)",
-    "translation": ""
-  },
-  {
     "key": "Unknown-21-Desc3",
     "original": "ＭＰ４２",
     "translation": ""
@@ -7865,11 +5385,6 @@
     "translation": ""
   },
   {
-    "key": "Unknown-23-Desc2",
-    "original": "(Not recognized at 0x87F1C)",
-    "translation": ""
-  },
-  {
     "key": "Unknown-23-Desc3",
     "original": "ＭＰ７２",
     "translation": ""
@@ -7877,11 +5392,6 @@
   {
     "key": "Unknown-24-Desc1",
     "original": "単体攻撃魔法",
-    "translation": ""
-  },
-  {
-    "key": "Unknown-24-Desc2",
-    "original": "(Not recognized at 0x87F1C)",
     "translation": ""
   },
   {
@@ -7895,11 +5405,6 @@
     "translation": ""
   },
   {
-    "key": "Unknown-25-Desc2",
-    "original": "(Not recognized at 0x87F1C)",
-    "translation": ""
-  },
-  {
     "key": "Unknown-25-Desc3",
     "original": "ＭＰ４２",
     "translation": ""
@@ -7907,11 +5412,6 @@
   {
     "key": "Unknown-26-Desc1",
     "original": "単体暗闇攻撃",
-    "translation": ""
-  },
-  {
-    "key": "Unknown-26-Desc2",
-    "original": "(Not recognized at 0x87F1C)",
     "translation": ""
   },
   {
@@ -8015,11 +5515,6 @@
     "translation": ""
   },
   {
-    "key": "Unknown-33-Desc2",
-    "original": "(Not recognized at 0x87F1C)",
-    "translation": ""
-  },
-  {
     "key": "Unknown-33-Desc3",
     "original": "ＭＰ５０",
     "translation": ""
@@ -8090,268 +5585,8 @@
     "translation": ""
   },
   {
-    "key": "Unknown-38-Desc2",
-    "original": "(Not recognized at 0x87F1C)",
-    "translation": ""
-  },
-  {
     "key": "Unknown-38-Desc3",
     "original": "ＭＰ３０",
-    "translation": ""
-  },
-  {
-    "key": "Unknown-39-Desc1",
-    "original": "(Not recognized at 0x87F1C)",
-    "translation": ""
-  },
-  {
-    "key": "Unknown-39-Desc2",
-    "original": "(Not recognized at 0x87F1C)",
-    "translation": ""
-  },
-  {
-    "key": "Unknown-39-Desc3",
-    "original": "(Not recognized at 0x87F1C)",
-    "translation": ""
-  },
-  {
-    "key": "Unknown-40-Desc1",
-    "original": "(Not recognized at 0x87F1C)",
-    "translation": ""
-  },
-  {
-    "key": "Unknown-40-Desc2",
-    "original": "(Not recognized at 0x87F1C)",
-    "translation": ""
-  },
-  {
-    "key": "Unknown-40-Desc3",
-    "original": "(Not recognized at 0x87F1C)",
-    "translation": ""
-  },
-  {
-    "key": "Unknown-41-Desc1",
-    "original": "(Not recognized at 0x87F1C)",
-    "translation": ""
-  },
-  {
-    "key": "Unknown-41-Desc2",
-    "original": "(Not recognized at 0x87F1C)",
-    "translation": ""
-  },
-  {
-    "key": "Unknown-41-Desc3",
-    "original": "(Not recognized at 0x87F1C)",
-    "translation": ""
-  },
-  {
-    "key": "Unknown-42-Desc1",
-    "original": "(Not recognized at 0x87F1C)",
-    "translation": ""
-  },
-  {
-    "key": "Unknown-42-Desc2",
-    "original": "(Not recognized at 0x87F1C)",
-    "translation": ""
-  },
-  {
-    "key": "Unknown-42-Desc3",
-    "original": "(Not recognized at 0x87F1C)",
-    "translation": ""
-  },
-  {
-    "key": "Unknown-43-Desc1",
-    "original": "(Not recognized at 0x87F1C)",
-    "translation": ""
-  },
-  {
-    "key": "Unknown-43-Desc2",
-    "original": "(Not recognized at 0x87F1C)",
-    "translation": ""
-  },
-  {
-    "key": "Unknown-43-Desc3",
-    "original": "(Not recognized at 0x87F1C)",
-    "translation": ""
-  },
-  {
-    "key": "Unknown-44-Desc1",
-    "original": "(Not recognized at 0x87F1C)",
-    "translation": ""
-  },
-  {
-    "key": "Unknown-44-Desc2",
-    "original": "(Not recognized at 0x87F1C)",
-    "translation": ""
-  },
-  {
-    "key": "Unknown-44-Desc3",
-    "original": "(Not recognized at 0x87F1C)",
-    "translation": ""
-  },
-  {
-    "key": "Unknown-45-Desc1",
-    "original": "(Not recognized at 0x87F1C)",
-    "translation": ""
-  },
-  {
-    "key": "Unknown-45-Desc2",
-    "original": "(Not recognized at 0x87F1C)",
-    "translation": ""
-  },
-  {
-    "key": "Unknown-45-Desc3",
-    "original": "(Not recognized at 0x87F1C)",
-    "translation": ""
-  },
-  {
-    "key": "Unknown-46-Desc1",
-    "original": "(Not recognized at 0x87F1C)",
-    "translation": ""
-  },
-  {
-    "key": "Unknown-46-Desc2",
-    "original": "(Not recognized at 0x87F1C)",
-    "translation": ""
-  },
-  {
-    "key": "Unknown-46-Desc3",
-    "original": "(Not recognized at 0x87F1C)",
-    "translation": ""
-  },
-  {
-    "key": "Unknown-47-Desc1",
-    "original": "(Not recognized at 0x87F1C)",
-    "translation": ""
-  },
-  {
-    "key": "Unknown-47-Desc2",
-    "original": "(Not recognized at 0x87F1C)",
-    "translation": ""
-  },
-  {
-    "key": "Unknown-47-Desc3",
-    "original": "(Not recognized at 0x87F1C)",
-    "translation": ""
-  },
-  {
-    "key": "Unknown-48-Desc1",
-    "original": "(Not recognized at 0x87F1C)",
-    "translation": ""
-  },
-  {
-    "key": "Unknown-48-Desc2",
-    "original": "(Not recognized at 0x87F1C)",
-    "translation": ""
-  },
-  {
-    "key": "Unknown-48-Desc3",
-    "original": "(Not recognized at 0x87F1C)",
-    "translation": ""
-  },
-  {
-    "key": "Unknown-49-Desc1",
-    "original": "(Not recognized at 0x87F1C)",
-    "translation": ""
-  },
-  {
-    "key": "Unknown-49-Desc2",
-    "original": "(Not recognized at 0x87F1C)",
-    "translation": ""
-  },
-  {
-    "key": "Unknown-49-Desc3",
-    "original": "(Not recognized at 0x87F1C)",
-    "translation": ""
-  },
-  {
-    "key": "Unknown-50-Desc1",
-    "original": "(Not recognized at 0x87F1C)",
-    "translation": ""
-  },
-  {
-    "key": "Unknown-50-Desc2",
-    "original": "(Not recognized at 0x87F1C)",
-    "translation": ""
-  },
-  {
-    "key": "Unknown-50-Desc3",
-    "original": "(Not recognized at 0x87F1C)",
-    "translation": ""
-  },
-  {
-    "key": "Unknown-51-Desc1",
-    "original": "(Not recognized at 0x87F1C)",
-    "translation": ""
-  },
-  {
-    "key": "Unknown-51-Desc2",
-    "original": "(Not recognized at 0x87F1C)",
-    "translation": ""
-  },
-  {
-    "key": "Unknown-51-Desc3",
-    "original": "(Not recognized at 0x87F1C)",
-    "translation": ""
-  },
-  {
-    "key": "Unknown-52-Desc1",
-    "original": "(Not recognized at 0x87F1C)",
-    "translation": ""
-  },
-  {
-    "key": "Unknown-52-Desc2",
-    "original": "(Not recognized at 0x87F1C)",
-    "translation": ""
-  },
-  {
-    "key": "Unknown-52-Desc3",
-    "original": "(Not recognized at 0x87F1C)",
-    "translation": ""
-  },
-  {
-    "key": "Unknown-53-Desc1",
-    "original": "(Not recognized at 0x87F1C)",
-    "translation": ""
-  },
-  {
-    "key": "Unknown-53-Desc2",
-    "original": "(Not recognized at 0x87F1C)",
-    "translation": ""
-  },
-  {
-    "key": "Unknown-53-Desc3",
-    "original": "(Not recognized at 0x87F1C)",
-    "translation": ""
-  },
-  {
-    "key": "Unknown-54-Desc1",
-    "original": "(Not recognized at 0x87F1C)",
-    "translation": ""
-  },
-  {
-    "key": "Unknown-54-Desc2",
-    "original": "(Not recognized at 0x87F1C)",
-    "translation": ""
-  },
-  {
-    "key": "Unknown-54-Desc3",
-    "original": "(Not recognized at 0x87F1C)",
-    "translation": ""
-  },
-  {
-    "key": "Unknown-55-Desc1",
-    "original": "(Not recognized at 0x87F1C)",
-    "translation": ""
-  },
-  {
-    "key": "Unknown-55-Desc2",
-    "original": "(Not recognized at 0x87F1C)",
-    "translation": ""
-  },
-  {
-    "key": "Unknown-55-Desc3",
-    "original": "(Not recognized at 0x87F1C)",
     "translation": ""
   },
   {

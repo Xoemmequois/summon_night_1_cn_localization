@@ -60,10 +60,10 @@ public class RomTextRipper
         for (int i = 0; i < 265; i++)
         {
             int entryStart = 0x7A1E0 + i * 0x24;
-            int nameAddr = BitConverter.ToInt32(romData, entryStart + 0);
-            int desc1Addr = BitConverter.ToInt32(romData, entryStart + 0x18);
-            int desc2Addr = BitConverter.ToInt32(romData, entryStart + 0x1C);
-            int desc3Addr = BitConverter.ToInt32(romData, entryStart + 0x20);
+            uint nameAddr = BitConverter.ToUInt32(romData, entryStart + 0);
+            uint desc1Addr = BitConverter.ToUInt32(romData, entryStart + 0x18);
+            uint desc2Addr = BitConverter.ToUInt32(romData, entryStart + 0x1C);
+            uint desc3Addr = BitConverter.ToUInt32(romData, entryStart + 0x20);
 
             string name = GetStringAtMemAddr(romData, nameAddr, referencedAddresses, extractedAddresses, externalReferences);
             string desc1 = GetStringAtMemAddr(romData, desc1Addr, referencedAddresses, extractedAddresses, externalReferences);
@@ -85,10 +85,10 @@ public class RomTextRipper
             int entryStart = 0x7C724 + i * 0x14;
             if (entryStart + 0x14 > romData.Length) break;
 
-            int nameAddr = BitConverter.ToInt32(romData, entryStart + 0);
-            int desc1Addr = BitConverter.ToInt32(romData, entryStart + 0x8);
-            int desc2Addr = BitConverter.ToInt32(romData, entryStart + 0xC);
-            int desc3Addr = BitConverter.ToInt32(romData, entryStart + 0x10);
+            uint nameAddr = BitConverter.ToUInt32(romData, entryStart + 0);
+            uint desc1Addr = BitConverter.ToUInt32(romData, entryStart + 0x8);
+            uint desc2Addr = BitConverter.ToUInt32(romData, entryStart + 0xC);
+            uint desc3Addr = BitConverter.ToUInt32(romData, entryStart + 0x10);
 
             string name = GetStringAtMemAddr(romData, nameAddr, referencedAddresses, extractedAddresses, externalReferences);
             string desc1 = GetStringAtMemAddr(romData, desc1Addr, referencedAddresses, extractedAddresses, externalReferences);
@@ -108,7 +108,7 @@ public class RomTextRipper
         for (int i = 0; i < (0x7D148 - 0x7CEEC) / 4; i++)
         {
             int entryStart = 0x7CEEC + i * 4;
-            int nameAddr = BitConverter.ToInt32(romData, entryStart);
+            uint nameAddr = BitConverter.ToUInt32(romData, entryStart);
             string name = GetStringAtMemAddr(romData, nameAddr, referencedAddresses, extractedAddresses, externalReferences);
             if (!string.IsNullOrEmpty(name)) result.Add(new ParatranzItem { Key = $"EnemySkill-{i}", Original = name });
             Console.WriteLine($"Enemy Skill {i}: Name={name}");
@@ -119,10 +119,10 @@ public class RomTextRipper
         for (int i = 0; i < 8; i++)
         {
             int entryStart = 0x7D524 + i * 0x14;
-            int nameAddr = BitConverter.ToInt32(romData, entryStart + 0);
-            int desc1Addr = BitConverter.ToInt32(romData, entryStart + 0x8);
-            int desc2Addr = BitConverter.ToInt32(romData, entryStart + 0xC);
-            int desc3Addr = BitConverter.ToInt32(romData, entryStart + 0x10);
+            uint nameAddr = BitConverter.ToUInt32(romData, entryStart + 0);
+            uint desc1Addr = BitConverter.ToUInt32(romData, entryStart + 0x8);
+            uint desc2Addr = BitConverter.ToUInt32(romData, entryStart + 0xC);
+            uint desc3Addr = BitConverter.ToUInt32(romData, entryStart + 0x10);
 
             string name = GetStringAtMemAddr(romData, nameAddr, referencedAddresses, extractedAddresses, externalReferences);
             string desc1 = GetStringAtMemAddr(romData, desc1Addr, referencedAddresses, extractedAddresses, externalReferences);
@@ -142,10 +142,10 @@ public class RomTextRipper
         for (int i = 0; i < 40; i++)
         {
             int entryStart = 0x7D5C4 + i * 0x14;
-            int nameAddr = BitConverter.ToInt32(romData, entryStart + 0);
-            int desc1Addr = BitConverter.ToInt32(romData, entryStart + 0x8);
-            int desc2Addr = BitConverter.ToInt32(romData, entryStart + 0xC);
-            int desc3Addr = BitConverter.ToInt32(romData, entryStart + 0x10);
+            uint nameAddr = BitConverter.ToUInt32(romData, entryStart + 0);
+            uint desc1Addr = BitConverter.ToUInt32(romData, entryStart + 0x8);
+            uint desc2Addr = BitConverter.ToUInt32(romData, entryStart + 0xC);
+            uint desc3Addr = BitConverter.ToUInt32(romData, entryStart + 0x10);
 
             string name = GetStringAtMemAddr(romData, nameAddr, referencedAddresses, extractedAddresses, externalReferences);
             string desc1 = GetStringAtMemAddr(romData, desc1Addr, referencedAddresses, extractedAddresses, externalReferences);
@@ -165,9 +165,9 @@ public class RomTextRipper
         for (int i = 0; i < 56; i++)
         {
             int entryStart = 0x7C99C + i * 0x18;
-            int desc1Addr = BitConverter.ToInt32(romData, entryStart + 0x0C);
-            int desc2Addr = BitConverter.ToInt32(romData, entryStart + 0x10);
-            int desc3Addr = BitConverter.ToInt32(romData, entryStart + 0x14);
+            uint desc1Addr = BitConverter.ToUInt32(romData, entryStart + 0x0C);
+            uint desc2Addr = BitConverter.ToUInt32(romData, entryStart + 0x10);
+            uint desc3Addr = BitConverter.ToUInt32(romData, entryStart + 0x14);
 
             string desc1 = GetStringAtMemAddr(romData, desc1Addr, referencedAddresses, extractedAddresses, externalReferences);
             string desc2 = GetStringAtMemAddr(romData, desc2Addr, referencedAddresses, extractedAddresses, externalReferences);
@@ -218,10 +218,10 @@ public class RomTextRipper
         public string Translation { get => translation; set => translation = value; }
     }
 
-    private string GetStringAtMemAddr(byte[] romData, int memAddr, HashSet<int> referencedAddresses, HashSet<int> extractedAddresses, List<(int Address, string Text)> externalReferences)
+    private string GetStringAtMemAddr(byte[] romData, uint memAddr, HashSet<int> referencedAddresses, HashSet<int> extractedAddresses, List<(int Address, string Text)> externalReferences)
     {
-        if (memAddr == 0) return "";
-        long fileOffsetLong = (long)memAddr + 0x800 - 0x80010000;
+        if (memAddr == 0 || memAddr == 0x8009771C) return "";
+        long fileOffsetLong = memAddr + 0x800 - 0x80010000;
         int fileOffset = (int)fileOffsetLong;
         if (fileOffset < 0 || fileOffset >= romData.Length) return $"(Invalid Addr: 0x{memAddr:X})";
         
