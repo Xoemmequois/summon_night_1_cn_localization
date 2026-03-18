@@ -19,10 +19,8 @@ Encoding.RegisterProvider(CodePagesEncodingProvider.Instance);
 var sjis = Encoding.GetEncoding("shift-jis");
 
 string outputDir = "exported_glyphs";
-if (!Directory.Exists(outputDir))
-{
-    Directory.CreateDirectory(outputDir);
-}
+Directory.Delete(outputDir, true);
+Directory.CreateDirectory(outputDir);
 
 for (int i = 0; i < (glyphStart - mapStart); i += 2)
 {
@@ -41,6 +39,7 @@ for (int i = 0; i < (glyphStart - mapStart); i += 2)
     
     byte[] sjisBytes = new byte[] { low, high }; // SHIFT-JIS 通常是 low (lead) then high (trail)
     string charName = sjis.GetString(sjisBytes);
+    string hexValue = BitConverter.ToString(sjisBytes).Replace("-", "");
     
     // 清理非法文件名字符
     foreach (char c in Path.GetInvalidFileNameChars())
@@ -51,18 +50,18 @@ for (int i = 0; i < (glyphStart - mapStart); i += 2)
     int glyphOffset = glyphStart + glyphIndex * glyphSize;
     if (glyphOffset + glyphSize > subContent.Length)
     {
-        Console.WriteLine($"Warning: Glyph {glyphIndex} for char {charName} is out of bounds. Skipping.");
+        Console.WriteLine($"Warning: Glyph {glyphIndex} for char {charName} ({hexValue}) is out of bounds. Skipping.");
         continue;
     }
 
     using var bitmap = new Bitmap(charWidth, charHeight, PixelFormat.Format32bppArgb);
     DrawGlyph(bitmap, subContent, glyphOffset, 0, 0);
     
-    string fileName = Path.Combine(outputDir, $"{charName}.png");
+    string fileName = Path.Combine(outputDir, $"{charName}_{hexValue}.png");
     // 如果文件名冲突，可以加一个索引
     if (File.Exists(fileName))
     {
-         fileName = Path.Combine(outputDir, $"{charName}_{glyphIndex}.png");
+        fileName = Path.Combine(outputDir, $"{charName}_{hexValue}_{glyphIndex}.png");
     }
     bitmap.Save(fileName, ImageFormat.Png);
 }
