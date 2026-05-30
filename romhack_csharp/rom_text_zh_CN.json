@@ -5590,6 +5590,221 @@
     "translation": ""
   },
   {
+    "key": "NameTable-Hiragana-0x7F568",
+    "original": "あいうえお\u3000わ\u3000を\u3000んかきくけこ\u3000がぎぐげごさしすせそ\u3000ざじずぜぞたちつてと\u3000だぢづでどなにぬねの\u3000ばびぶべぼはひふへほ\u3000ぱぴぷぺぽまみむめも\u3000ぁぃぅぇぉや\u3000ゆ\u3000よ\u3000っゃゅょーらりるれろ\u3000゛゜\u3000\u3000\u3000",
+    "translation": ""
+  },
+  {
+    "key": "NameTable-Katakana-0x7F630",
+    "original": "アイウエオ\u3000ワ\u3000ヲ\u3000ンカキクケコ\u3000ガギグゲゴサシスセソ\u3000ザジズゼゾタチツテト\u3000ダヂヅデドナニヌネノ\u3000バビブベボハヒフヘホ\u3000パピプペポマミムメモ\u3000ァィゥェォヤ\u3000ユ\u3000ヨ\u3000ッャュョーラリルレロ\u3000ヴヰヱ゛゜",
+    "translation": ""
+  },
+  {
+    "key": "NameTable-Symbols-0x7F6F8",
+    "original": "ＡＢＣＤＥＦＧＨＩＪＫＬＭＮＯＰＱＲＳＴＵＶＷＸＹＺａｂｃｄｅｆｇｈｉｊｋｌｍｎｏｐｑｒｓｔｕｖｗｘｙｚ・‥…１２３４５６７８９０～！？＃＊％＆∞♂♀∀♪＋－×÷＝￥★▼▲■●＜＞（）「」【】\u3000\u3000\u3000",
+    "translation": ""
+  },
+  {
+    "key": "NameTable-Kanji-0x7F7C0",
+    "original": "悪暗闇一壱炎王化我殻眼岩機気輝鬼九球強君撃傑剣賢幻元言五光甲獄魂砕三斬使四死式七者呪十拾獣瞬盾将消神震刃迅星生精聖石切千戦双息大断地虫超長鉄天電討毒二弐縛爆八番秘百武舞封福壁吠砲魔眠無命滅雷落霊零六",
+    "translation": ""
+  },
+  {
+    "key": "Hint-0-Slot0-0x5410",
+    "original": "ボーナスポイントが余",
+    "translation": ""
+  },
+  {
+    "key": "Hint-0-Slot1-0x5404",
+    "original": "っています",
+    "translation": ""
+  },
+  {
+    "key": "Hint-1-Slot0-0x5428",
+    "original": "経験値が足りません",
+    "translation": ""
+  },
+  {
+    "key": "Hint-2-Slot0-0x5448",
+    "original": "レベルアップできる人",
+    "translation": ""
+  },
+  {
+    "key": "Hint-2-Slot1-0x543C",
+    "original": "がいません",
+    "translation": ""
+  },
+  {
+    "key": "Hint-3-Slot0-0x546C",
+    "original": "これ以上レベルアップ",
+    "translation": ""
+  },
+  {
+    "key": "Hint-3-Slot1-0x5460",
+    "original": "できません",
+    "translation": ""
+  },
+  {
+    "key": "Hint-4-Slot0-0x5490",
+    "original": "装備できる武器を持っ",
+    "translation": ""
+  },
+  {
+    "key": "Hint-4-Slot1-0x5484",
+    "original": "ていません",
+    "translation": ""
+  },
+  {
+    "key": "Hint-5-Slot0-0x54A8",
+    "original": "装備できる防具を持っ",
+    "translation": ""
+  },
+  {
+    "key": "Hint-5-Slot1-0x5484",
+    "original": "ていません",
+    "translation": ""
+  },
+  {
+    "key": "Hint-6-Slot0-0x54D4",
+    "original": "装備できるアクセサリ",
+    "translation": ""
+  },
+  {
+    "key": "Hint-6-Slot1-0x54C0",
+    "original": "を持っていません",
+    "translation": ""
+  },
+  {
+    "key": "Hint-7-Slot0-0x54F8",
+    "original": "装備できる石を持って",
+    "translation": ""
+  },
+  {
+    "key": "Hint-7-Slot1-0x54EC",
+    "original": "いません",
+    "translation": ""
+  },
+  {
+    "key": "Hint-8-Slot0-0x5510",
+    "original": "アイテムを持っていま",
+    "translation": ""
+  },
+  {
+    "key": "Hint-8-Slot1-0x88244",
+    "original": "せん",
+    "translation": ""
+  },
+  {
+    "key": "Hint-9-Slot0-0x5528",
+    "original": "装備できる武器は売っ",
+    "translation": ""
+  },
+  {
+    "key": "Hint-9-Slot1-0x5484",
+    "original": "ていません",
+    "translation": ""
+  },
+  {
+    "key": "Hint-10-Slot0-0x5540",
+    "original": "装備できる防具は売っ",
+    "translation": ""
+  },
+  {
+    "key": "Hint-10-Slot1-0x5484",
+    "original": "ていません",
+    "translation": ""
+  },
+  {
+    "key": "Hint-11-Slot0-0x54D4",
+    "original": "装備できるアクセサリ",
+    "translation": ""
+  },
+  {
+    "key": "Hint-11-Slot1-0x5558",
+    "original": "は売っていません",
+    "translation": ""
+  },
+  {
+    "key": "Hint-12-Slot0-0x5764",
+    "original": "所持金が足りません",
+    "translation": ""
+  },
+  {
+    "key": "Hint-13-Slot0-0x5778",
+    "original": "たくさん持ってます",
+    "translation": ""
+  },
+  {
+    "key": "Hint-14-Slot0-0x578C",
+    "original": "武器は売っていません",
+    "translation": ""
+  },
+  {
+    "key": "Hint-15-Slot0-0x57A4",
+    "original": "防具は売っていません",
+    "translation": ""
+  },
+  {
+    "key": "Hint-16-Slot0-0x57BC",
+    "original": "アクセサリは売ってい",
+    "translation": ""
+  },
+  {
+    "key": "Hint-16-Slot1-0x88254",
+    "original": "ません",
+    "translation": ""
+  },
+  {
+    "key": "Hint-18-Slot0-0x57D4",
+    "original": "アイテムは売っていま",
+    "translation": ""
+  },
+  {
+    "key": "Hint-18-Slot1-0x8825C",
+    "original": "せん",
+    "translation": ""
+  },
+  {
+    "key": "Hint-19-Slot0-0x57EC",
+    "original": "売れる武器がありませ",
+    "translation": ""
+  },
+  {
+    "key": "Hint-19-Slot1-0x88264",
+    "original": "ん",
+    "translation": ""
+  },
+  {
+    "key": "Hint-20-Slot0-0x5804",
+    "original": "売れる防具がありませ",
+    "translation": ""
+  },
+  {
+    "key": "Hint-20-Slot1-0x88264",
+    "original": "ん",
+    "translation": ""
+  },
+  {
+    "key": "Hint-21-Slot0-0x5828",
+    "original": "売れるアクセサリがあ",
+    "translation": ""
+  },
+  {
+    "key": "Hint-21-Slot1-0x581C",
+    "original": "りません",
+    "translation": ""
+  },
+  {
+    "key": "Hint-23-Slot0-0x5840",
+    "original": "売れるアイテムがあり",
+    "translation": ""
+  },
+  {
+    "key": "Hint-23-Slot1-0x88254",
+    "original": "ません",
+    "translation": ""
+  },
+  {
     "key": "Unreferenced-0x800",
     "original": "己の鏡像",
     "translation": ""
@@ -6635,23 +6850,8 @@
     "translation": ""
   },
   {
-    "key": "Unreferenced-0x88244",
-    "original": "せん",
-    "translation": ""
-  },
-  {
     "key": "Unreferenced-0x88252",
     "original": "\"\u0001ません",
-    "translation": ""
-  },
-  {
-    "key": "Unreferenced-0x8825C",
-    "original": "せん",
-    "translation": ""
-  },
-  {
-    "key": "Unreferenced-0x88264",
-    "original": "ん",
     "translation": ""
   },
   {
@@ -6795,373 +6995,13 @@
     "translation": ""
   },
   {
-    "key": "Unreferenced-0x5404",
-    "original": "っています",
-    "translation": ""
-  },
-  {
-    "key": "Unreferenced-0x5410",
-    "original": "ボーナスポイントが余",
-    "translation": ""
-  },
-  {
-    "key": "Unreferenced-0x5428",
-    "original": "経験値が足りません",
-    "translation": ""
-  },
-  {
-    "key": "Unreferenced-0x543C",
-    "original": "がいません",
-    "translation": ""
-  },
-  {
-    "key": "Unreferenced-0x5448",
-    "original": "レベルアップできる人",
-    "translation": ""
-  },
-  {
-    "key": "Unreferenced-0x5460",
-    "original": "できません",
-    "translation": ""
-  },
-  {
-    "key": "Unreferenced-0x546C",
-    "original": "これ以上レベルアップ",
-    "translation": ""
-  },
-  {
-    "key": "Unreferenced-0x5484",
-    "original": "ていません",
-    "translation": ""
-  },
-  {
-    "key": "Unreferenced-0x5490",
-    "original": "装備できる武器を持っ",
-    "translation": ""
-  },
-  {
-    "key": "Unreferenced-0x54A8",
-    "original": "装備できる防具を持っ",
-    "translation": ""
-  },
-  {
-    "key": "Unreferenced-0x54C0",
-    "original": "を持っていません",
-    "translation": ""
-  },
-  {
-    "key": "Unreferenced-0x54D4",
-    "original": "装備できるアクセサリ",
-    "translation": ""
-  },
-  {
-    "key": "Unreferenced-0x54EC",
-    "original": "いません",
-    "translation": ""
-  },
-  {
-    "key": "Unreferenced-0x54F8",
-    "original": "装備できる石を持って",
-    "translation": ""
-  },
-  {
-    "key": "Unreferenced-0x5510",
-    "original": "アイテムを持っていま",
-    "translation": ""
-  },
-  {
-    "key": "Unreferenced-0x5528",
-    "original": "装備できる武器は売っ",
-    "translation": ""
-  },
-  {
-    "key": "Unreferenced-0x5540",
-    "original": "装備できる防具は売っ",
-    "translation": ""
-  },
-  {
-    "key": "Unreferenced-0x5558",
-    "original": "は売っていません",
-    "translation": ""
-  },
-  {
     "key": "Unreferenced-0x556C",
     "original": "装備をはずす",
     "translation": ""
   },
   {
-    "key": "Unreferenced-0x5764",
-    "original": "所持金が足りません",
-    "translation": ""
-  },
-  {
-    "key": "Unreferenced-0x5778",
-    "original": "たくさん持ってます",
-    "translation": ""
-  },
-  {
-    "key": "Unreferenced-0x578C",
-    "original": "武器は売っていません",
-    "translation": ""
-  },
-  {
-    "key": "Unreferenced-0x57A4",
-    "original": "防具は売っていません",
-    "translation": ""
-  },
-  {
-    "key": "Unreferenced-0x57BC",
-    "original": "アクセサリは売ってい",
-    "translation": ""
-  },
-  {
-    "key": "Unreferenced-0x57D4",
-    "original": "アイテムは売っていま",
-    "translation": ""
-  },
-  {
-    "key": "Unreferenced-0x57EC",
-    "original": "売れる武器がありませ",
-    "translation": ""
-  },
-  {
-    "key": "Unreferenced-0x5804",
-    "original": "売れる防具がありませ",
-    "translation": ""
-  },
-  {
-    "key": "Unreferenced-0x581C",
-    "original": "りません",
-    "translation": ""
-  },
-  {
-    "key": "Unreferenced-0x5828",
-    "original": "売れるアクセサリがあ",
-    "translation": ""
-  },
-  {
-    "key": "Unreferenced-0x5840",
-    "original": "売れるアイテムがあり",
-    "translation": ""
-  },
-  {
     "key": "Unreferenced-0x5A50",
     "original": "ありません",
-    "translation": ""
-  },
-  {
-    "key": "NameTable-Hiragana-0x7F568",
-    "original": "あいうえお\u3000わ\u3000を\u3000んかきくけこ\u3000がぎぐげごさしすせそ\u3000ざじずぜぞたちつてと\u3000だぢづでどなにぬねの\u3000ばびぶべぼはひふへほ\u3000ぱぴぷぺぽまみむめも\u3000ぁぃぅぇぉや\u3000ゆ\u3000よ\u3000っゃゅょーらりるれろ\u3000゛゜\u3000\u3000\u3000",
-    "translation": ""
-  },
-  {
-    "key": "NameTable-Katakana-0x7F630",
-    "original": "アイウエオ\u3000ワ\u3000ヲ\u3000ンカキクケコ\u3000ガギグゲゴサシスセソ\u3000ザジズゼゾタチツテト\u3000ダヂヅデドナニヌネノ\u3000バビブベボハヒフヘホ\u3000パピプペポマミムメモ\u3000ァィゥェォヤ\u3000ユ\u3000ヨ\u3000ッャュョーラリルレロ\u3000ヴヰヱ゛゜",
-    "translation": ""
-  },
-  {
-    "key": "NameTable-Symbols-0x7F6F8",
-    "original": "ＡＢＣＤＥＦＧＨＩＪＫＬＭＮＯＰＱＲＳＴＵＶＷＸＹＺａｂｃｄｅｆｇｈｉｊｋｌｍｎｏｐｑｒｓｔｕｖｗｘｙｚ・‥…１２３４５６７８９０～！？＃＊％＆∞♂♀∀♪＋－×÷＝￥★▼▲■●＜＞（）「」【】\u3000\u3000\u3000",
-    "translation": ""
-  },
-  {
-    "key": "NameTable-Kanji-0x7F7C0",
-    "original": "悪暗闇一壱炎王化我殻眼岩機気輝鬼九球強君撃傑剣賢幻元言五光甲獄魂砕三斬使四死式七者呪十拾獣瞬盾将消神震刃迅星生精聖石切千戦双息大断地虫超長鉄天電討毒二弐縛爆八番秘百武舞封福壁吠砲魔眠無命滅雷落霊零六",
-    "translation": ""
-  },
-  {
-    "key": "Hint-0-Slot0-0x5410",
-    "original": "ボーナスポイントが余",
-    "translation": "剩余奖励点数"
-  },
-  {
-    "key": "Hint-0-Slot1-0x5404",
-    "original": "っています",
-    "translation": ""
-  },
-  {
-    "key": "Hint-1-Slot0-0x5428",
-    "original": "経験値が足りません",
-    "translation": "经验值不足"
-  },
-  {
-    "key": "Hint-2-Slot0-0x5448",
-    "original": "レベルアップできる人",
-    "translation": "无人可升级"
-  },
-  {
-    "key": "Hint-2-Slot1-0x543C",
-    "original": "がいません",
-    "translation": ""
-  },
-  {
-    "key": "Hint-3-Slot0-0x546C",
-    "original": "これ以上レベルアップ",
-    "translation": "无法继续升级"
-  },
-  {
-    "key": "Hint-3-Slot1-0x5460",
-    "original": "できません",
-    "translation": ""
-  },
-  {
-    "key": "Hint-4-Slot0-0x5490",
-    "original": "装備できる武器を持っ",
-    "translation": "无法装备武器"
-  },
-  {
-    "key": "Hint-4-Slot1-0x5484",
-    "original": "ていません",
-    "translation": ""
-  },
-  {
-    "key": "Hint-5-Slot0-0x54A8",
-    "original": "装備できる防具を持っ",
-    "translation": "无法装备防具"
-  },
-  {
-    "key": "Hint-5-Slot1-0x5484",
-    "original": "ていません",
-    "translation": ""
-  },
-  {
-    "key": "Hint-6-Slot0-0x54D4",
-    "original": "装備できるアクセサリ",
-    "translation": "无法装备饰品"
-  },
-  {
-    "key": "Hint-6-Slot1-0x54C0",
-    "original": "を持っていません",
-    "translation": ""
-  },
-  {
-    "key": "Hint-7-Slot0-0x54F8",
-    "original": "装備できる石を持って",
-    "translation": "无法装备宝石"
-  },
-  {
-    "key": "Hint-7-Slot1-0x54EC",
-    "original": "いません",
-    "translation": ""
-  },
-  {
-    "key": "Hint-8-Slot0-0x5510",
-    "original": "アイテムを持っていま",
-    "translation": "没有道具"
-  },
-  {
-    "key": "Hint-8-Slot1-0x88244",
-    "original": "せん",
-    "translation": ""
-  },
-  {
-    "key": "Hint-9-Slot0-0x5528",
-    "original": "装備できる武器は売っ",
-    "translation": "不卖可装备武器"
-  },
-  {
-    "key": "Hint-9-Slot1-0x5484",
-    "original": "ていません",
-    "translation": ""
-  },
-  {
-    "key": "Hint-10-Slot0-0x5540",
-    "original": "装備できる防具は売っ",
-    "translation": "不卖可装备防具"
-  },
-  {
-    "key": "Hint-10-Slot1-0x5484",
-    "original": "ていません",
-    "translation": ""
-  },
-  {
-    "key": "Hint-11-Slot0-0x54D4",
-    "original": "装備できるアクセサリ",
-    "translation": "不卖可装备饰品"
-  },
-  {
-    "key": "Hint-11-Slot1-0x5558",
-    "original": "は売っていません",
-    "translation": ""
-  },
-  {
-    "key": "Hint-12-Slot0-0x5764",
-    "original": "所持金が足りません",
-    "translation": "资金不足"
-  },
-  {
-    "key": "Hint-13-Slot0-0x5778",
-    "original": "たくさん持ってます",
-    "translation": "持有过多"
-  },
-  {
-    "key": "Hint-14-Slot0-0x578C",
-    "original": "武器は売っていません",
-    "translation": "不卖武器"
-  },
-  {
-    "key": "Hint-15-Slot0-0x57A4",
-    "original": "防具は売っていません",
-    "translation": "不卖防具"
-  },
-  {
-    "key": "Hint-16-Slot0-0x57BC",
-    "original": "アクセサリは売ってい",
-    "translation": "不卖饰品"
-  },
-  {
-    "key": "Hint-16-Slot1-0x88254",
-    "original": "ません",
-    "translation": ""
-  },
-  {
-    "key": "Hint-18-Slot0-0x57D4",
-    "original": "アイテムは売っていま",
-    "translation": "不卖道具"
-  },
-  {
-    "key": "Hint-18-Slot1-0x8825C",
-    "original": "せん",
-    "translation": ""
-  },
-  {
-    "key": "Hint-19-Slot0-0x57EC",
-    "original": "売れる武器がありませ",
-    "translation": "没有可卖武器"
-  },
-  {
-    "key": "Hint-19-Slot1-0x88264",
-    "original": "ん",
-    "translation": ""
-  },
-  {
-    "key": "Hint-20-Slot0-0x5804",
-    "original": "売れる防具がありませ",
-    "translation": "没有可卖防具"
-  },
-  {
-    "key": "Hint-20-Slot1-0x88264",
-    "original": "ん",
-    "translation": ""
-  },
-  {
-    "key": "Hint-21-Slot0-0x5828",
-    "original": "売れるアクセサリがあ",
-    "translation": "没有可卖饰品"
-  },
-  {
-    "key": "Hint-21-Slot1-0x581C",
-    "original": "りません",
-    "translation": ""
-  },
-  {
-    "key": "Hint-23-Slot0-0x5840",
-    "original": "売れるアイテムがあり",
-    "translation": "没有可卖道具"
-  },
-  {
-    "key": "Hint-23-Slot1-0x88254",
-    "original": "ません",
     "translation": ""
   }
 ]

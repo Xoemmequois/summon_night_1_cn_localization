@@ -46,9 +46,21 @@ public class RomTextRipper
             }
         }
 
-        var resultItems = RipArrays(romData, allExtracted);
-        RipNameTables(romData, resultItems);
-        RipHintTable(romData, resultItems);
+        var referencedAddresses = new HashSet<int>();
+        var resultItems = RipArrays(romData, allExtracted, referencedAddresses);
+        RipNameTables(romData, resultItems, referencedAddresses);
+        RipHintTable(romData, resultItems, referencedAddresses);
+
+        // After all processing, check for truly unreferenced strings
+        Console.WriteLine("\n--- Strings NOT referenced by arrays ---");
+        foreach (var item in allExtracted)
+        {
+            if (!referencedAddresses.Contains(item.Address))
+            {
+                resultItems.Add(new RomTextRipper.ParatranzItem { Key = $"Unreferenced-0x{item.Address:X}", Original = item.Text });
+                Console.WriteLine($"[Unreferenced][0x{item.Address:X}] {item.Text}");
+            }
+        }
 
         var jsonOptions = new JsonSerializerOptions
         {
@@ -59,10 +71,10 @@ public class RomTextRipper
         Console.WriteLine("\nDone! Text exported to rom_text_zh_CN.json");
     }
 
-    private List<ParatranzItem> RipArrays(byte[] romData, List<(int Address, string Text)> allExtracted)
+    private List<ParatranzItem> RipArrays(byte[] romData, List<(int Address, string Text)> allExtracted,
+        HashSet<int> referencedAddresses)
     {
         var result = new List<ParatranzItem>();
-        var referencedAddresses = new HashSet<int>();
         var extractedAddresses = new HashSet<int>(allExtracted.Select(x => x.Address));
         var externalReferences = new List<(int Address, string Text)>();
         
@@ -202,16 +214,6 @@ public class RomTextRipper
             }
         }
 
-        Console.WriteLine("\n--- Strings NOT referenced by arrays ---");
-        foreach (var item in allExtracted)
-        {
-            if (!referencedAddresses.Contains(item.Address))
-            {
-                result.Add(new ParatranzItem { Key = $"Unreferenced-0x{item.Address:X}", Original = item.Text });
-                Console.WriteLine($"[Unreferenced][0x{item.Address:X}] {item.Text}");
-            }
-        }
-
         return result;
     }
 
@@ -319,7 +321,7 @@ public class RomTextRipper
         return results;
     }
 
-    private void RipNameTables(byte[] romData, List<ParatranzItem> result)
+    private void RipNameTables(byte[] romData, List<ParatranzItem> result, HashSet<int> referencedAddresses)
     {
         // 起名字符映射表 (内存地址 → 文件偏移)
         var tables = new (string Name, int FileOffset, int ByteCount)[]
@@ -346,11 +348,12 @@ public class RomTextRipper
             Array.Copy(romData, tbl.FileOffset, bytes, 0, tbl.ByteCount);
             string text = sjis.GetString(bytes);
             result.Add(new ParatranzItem { Key = $"{tbl.Name}-0x{tbl.FileOffset:X}", Original = text });
+            referencedAddresses.Add(tbl.FileOffset);
             Console.WriteLine($"  [{tbl.Name}] {text.Substring(0, Math.Min(40, text.Length))}...");
         }
     }
 
-    private void RipHintTable(byte[] romData, List<ParatranzItem> result)
+    private void RipHintTable(byte[] romData, List<ParatranzItem> result, HashSet<int> referencedAddresses)
     {
         // 提示文字表: 内存 0x8008EC20, 文件偏移 0x7F420
         // 每 3 个字符串指针拼成一句话 (Slot0 + Slot1 + Slot2)
@@ -380,7 +383,7 @@ public class RomTextRipper
                     uint s1 = BitConverter.ToUInt32(romData, subOff + 4);
                     uint s2 = BitConverter.ToUInt32(romData, subOff + 8);
                     if (s0 != 0)
-                        EmitHintGroup(romData, result, ref group, s0, s1, s2);
+                        EmitHintGroup(romData, result, ref group, s0, s1, s2, referencedAddresses);
                 }
                 i++;
                 continue;
@@ -406,7 +409,7 @@ public class RomTextRipper
                 {
                     // 跳过全空组
                     if (s0 != emptyMarker || s1 != emptyMarker || s2 != emptyMarker)
-                        EmitHintGroup(romData, result, ref group, s0, s1, s2);
+                        EmitHintGroup(romData, result, ref group, s0, s1, s2, referencedAddresses);
                     i += 3;
                     continue;
                 }
@@ -453,7 +456,7 @@ public class RomTextRipper
     }
 
     private void EmitHintGroup(byte[] romData, List<ParatranzItem> result,
-        ref int group, uint s0, uint s1, uint s2)
+        ref int group, uint s0, uint s1, uint s2, HashSet<int> referencedAddresses)
     {
         string t0 = ReadSjisAt(romData, s0);
         string t1 = ReadSjisAt(romData, s1);
@@ -463,12 +466,9 @@ public class RomTextRipper
         int off1 = s1 == 0 || s1 == 0x80097A40 ? 0 : MemToFile(s1);
         int off2 = s2 == 0 || s2 == 0x80097A40 ? 0 : MemToFile(s2);
 
-        if (!string.IsNullOrEmpty(t0))
-            result.Add(new ParatranzItem { Key = $"Hint-{group}-Slot0-0x{off0:X}", Original = t0 });
-        if (!string.IsNullOrEmpty(t1))
-            result.Add(new ParatranzItem { Key = $"Hint-{group}-Slot1-0x{off1:X}", Original = t1 });
-        if (!string.IsNullOrEmpty(t2))
-            result.Add(new ParatranzItem { Key = $"Hint-{group}-Slot2-0x{off2:X}", Original = t2 });
+        if (!string.IsNullOrEmpty(t0)) { result.Add(new ParatranzItem { Key = $"Hint-{group}-Slot0-0x{off0:X}", Original = t0 }); referencedAddresses.Add(off0); }
+        if (!string.IsNullOrEmpty(t1)) { result.Add(new ParatranzItem { Key = $"Hint-{group}-Slot1-0x{off1:X}", Original = t1 }); referencedAddresses.Add(off1); }
+        if (!string.IsNullOrEmpty(t2)) { result.Add(new ParatranzItem { Key = $"Hint-{group}-Slot2-0x{off2:X}", Original = t2 }); referencedAddresses.Add(off2); }
 
         if (!string.IsNullOrEmpty(t0) || !string.IsNullOrEmpty(t1) || !string.IsNullOrEmpty(t2))
         {
