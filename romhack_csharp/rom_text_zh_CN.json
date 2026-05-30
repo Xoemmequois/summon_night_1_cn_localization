@@ -6972,7 +6972,7 @@
   {
     "key": "Hint-0-Slot0-0x5410",
     "original": "ボーナスポイントが余",
-    "translation": ""
+    "translation": "剩余奖励点数"
   },
   {
     "key": "Hint-0-Slot1-0x5404",
@@ -6982,12 +6982,12 @@
   {
     "key": "Hint-1-Slot0-0x5428",
     "original": "経験値が足りません",
-    "translation": ""
+    "translation": "经验值不足"
   },
   {
     "key": "Hint-2-Slot0-0x5448",
     "original": "レベルアップできる人",
-    "translation": ""
+    "translation": "无人可升级"
   },
   {
     "key": "Hint-2-Slot1-0x543C",
@@ -6997,7 +6997,7 @@
   {
     "key": "Hint-3-Slot0-0x546C",
     "original": "これ以上レベルアップ",
-    "translation": ""
+    "translation": "无法继续升级"
   },
   {
     "key": "Hint-3-Slot1-0x5460",
@@ -7007,7 +7007,7 @@
   {
     "key": "Hint-4-Slot0-0x5490",
     "original": "装備できる武器を持っ",
-    "translation": ""
+    "translation": "无法装备武器"
   },
   {
     "key": "Hint-4-Slot1-0x5484",
@@ -7017,7 +7017,7 @@
   {
     "key": "Hint-5-Slot0-0x54A8",
     "original": "装備できる防具を持っ",
-    "translation": ""
+    "translation": "无法装备防具"
   },
   {
     "key": "Hint-5-Slot1-0x5484",
@@ -7027,7 +7027,7 @@
   {
     "key": "Hint-6-Slot0-0x54D4",
     "original": "装備できるアクセサリ",
-    "translation": ""
+    "translation": "无法装备饰品"
   },
   {
     "key": "Hint-6-Slot1-0x54C0",
@@ -7037,7 +7037,7 @@
   {
     "key": "Hint-7-Slot0-0x54F8",
     "original": "装備できる石を持って",
-    "translation": ""
+    "translation": "无法装备宝石"
   },
   {
     "key": "Hint-7-Slot1-0x54EC",
@@ -7047,7 +7047,7 @@
   {
     "key": "Hint-8-Slot0-0x5510",
     "original": "アイテムを持っていま",
-    "translation": ""
+    "translation": "没有道具"
   },
   {
     "key": "Hint-8-Slot1-0x88244",
@@ -7057,7 +7057,7 @@
   {
     "key": "Hint-9-Slot0-0x5528",
     "original": "装備できる武器は売っ",
-    "translation": ""
+    "translation": "不卖可装备武器"
   },
   {
     "key": "Hint-9-Slot1-0x5484",
@@ -7067,7 +7067,7 @@
   {
     "key": "Hint-10-Slot0-0x5540",
     "original": "装備できる防具は売っ",
-    "translation": ""
+    "translation": "不卖可装备防具"
   },
   {
     "key": "Hint-10-Slot1-0x5484",
@@ -7077,7 +7077,7 @@
   {
     "key": "Hint-11-Slot0-0x54D4",
     "original": "装備できるアクセサリ",
-    "translation": ""
+    "translation": "不卖可装备饰品"
   },
   {
     "key": "Hint-11-Slot1-0x5558",
@@ -7087,27 +7087,27 @@
   {
     "key": "Hint-12-Slot0-0x5764",
     "original": "所持金が足りません",
-    "translation": ""
+    "translation": "资金不足"
   },
   {
     "key": "Hint-13-Slot0-0x5778",
     "original": "たくさん持ってます",
-    "translation": ""
+    "translation": "持有过多"
   },
   {
     "key": "Hint-14-Slot0-0x578C",
     "original": "武器は売っていません",
-    "translation": ""
+    "translation": "不卖武器"
   },
   {
     "key": "Hint-15-Slot0-0x57A4",
     "original": "防具は売っていません",
-    "translation": ""
+    "translation": "不卖防具"
   },
   {
     "key": "Hint-16-Slot0-0x57BC",
     "original": "アクセサリは売ってい",
-    "translation": ""
+    "translation": "不卖饰品"
   },
   {
     "key": "Hint-16-Slot1-0x88254",
@@ -7117,7 +7117,7 @@
   {
     "key": "Hint-18-Slot0-0x57D4",
     "original": "アイテムは売っていま",
-    "translation": ""
+    "translation": "不卖道具"
   },
   {
     "key": "Hint-18-Slot1-0x8825C",
@@ -7127,7 +7127,7 @@
   {
     "key": "Hint-19-Slot0-0x57EC",
     "original": "売れる武器がありませ",
-    "translation": ""
+    "translation": "没有可卖武器"
   },
   {
     "key": "Hint-19-Slot1-0x88264",
@@ -7137,7 +7137,7 @@
   {
     "key": "Hint-20-Slot0-0x5804",
     "original": "売れる防具がありませ",
-    "translation": ""
+    "translation": "没有可卖防具"
   },
   {
     "key": "Hint-20-Slot1-0x88264",
@@ -7147,7 +7147,7 @@
   {
     "key": "Hint-21-Slot0-0x5828",
     "original": "売れるアクセサリがあ",
-    "translation": ""
+    "translation": "没有可卖饰品"
   },
   {
     "key": "Hint-21-Slot1-0x581C",
@@ -7157,7 +7157,7 @@
   {
     "key": "Hint-23-Slot0-0x5840",
     "original": "売れるアイテムがあり",
-    "translation": ""
+    "translation": "没有可卖道具"
   },
   {
     "key": "Hint-23-Slot1-0x88254",
