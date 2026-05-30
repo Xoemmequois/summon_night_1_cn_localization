@@ -20,8 +20,17 @@ public class RomTextRipper
         
         var ranges = new (int Start, int End)[]
         {
-            (0x800, 0x4457),
-            (0x87C50, 0x8828F)
+            // 原有扫描区间
+            (0x800, 0x4457),       // Range1: 0x80010000-0x80013C57
+            (0x87C50, 0x8828F),    // Range2: 0x80097450-0x80097A8F
+            
+            // 遗漏区间 (存档/UI文字、角色名、商店提示)
+            (0x4A84, 0x4A9F),      // 角色名: ハヤト, ぱぁとなぁ (2串)
+            (0x4D04, 0x4D8F),      // 存档提示: サモンナイト, データが壊れています等 (~6串)
+            (0x5160, 0x52C0),      // 属性/类型名: ＨＡＹＡＴＯ, はやと等 (~25串)
+            (0x5400, 0x5580),      // 技能说明 (~25串)
+            (0x5764, 0x5858),      // 商店提示: 所持金が足りません, 売れるxxx等 (~10串)
+            (0x5A50, 0x5A5E),      // 商店残串: ありません
         };
 
         var allExtracted = new List<(int Address, string Text)>();
@@ -38,6 +47,8 @@ public class RomTextRipper
         }
 
         var resultItems = RipArrays(romData, allExtracted);
+        RipNameTables(romData, resultItems);
+        RipHintTable(romData, resultItems);
 
         var jsonOptions = new JsonSerializerOptions
         {
@@ -306,6 +317,164 @@ public class RomTextRipper
         }
 
         return results;
+    }
+
+    private void RipNameTables(byte[] romData, List<ParatranzItem> result)
+    {
+        // 起名字符映射表 (内存地址 → 文件偏移)
+        var tables = new (string Name, int FileOffset, int ByteCount)[]
+        {
+            ("NameTable-Hiragana", 0x7F568, 198),
+            ("NameTable-Katakana", 0x7F630, 198),
+            ("NameTable-Symbols",  0x7F6F8, 198),
+            ("NameTable-Kanji",    0x7F7C0, 198),
+        };
+
+        Encoding.RegisterProvider(CodePagesEncodingProvider.Instance);
+        var sjis = Encoding.GetEncoding("shift_jis");
+
+        Console.WriteLine("\n--- Naming Character Tables ---");
+        foreach (var tbl in tables)
+        {
+            if (tbl.FileOffset + tbl.ByteCount > romData.Length)
+            {
+                Console.WriteLine($"  {tbl.Name}: out of bounds");
+                continue;
+            }
+
+            byte[] bytes = new byte[tbl.ByteCount];
+            Array.Copy(romData, tbl.FileOffset, bytes, 0, tbl.ByteCount);
+            string text = sjis.GetString(bytes);
+            result.Add(new ParatranzItem { Key = $"{tbl.Name}-0x{tbl.FileOffset:X}", Original = text });
+            Console.WriteLine($"  [{tbl.Name}] {text.Substring(0, Math.Min(40, text.Length))}...");
+        }
+    }
+
+    private void RipHintTable(byte[] romData, List<ParatranzItem> result)
+    {
+        // 提示文字表: 内存 0x8008EC20, 文件偏移 0x7F420
+        // 每 3 个字符串指针拼成一句话 (Slot0 + Slot1 + Slot2)
+        // 空槽标记: 0x80097A40
+        const int tableFileOff = 0x7F420;
+        const int charMapStart = 0x7F568;
+        const uint emptyMarker = 0x80097A40;
+        int group = 0;
+        int entryCount = (charMapStart - tableFileOff) / 4;
+        var seenOffsets = new HashSet<int>();
+
+        Console.WriteLine("\n--- Hint Table (0x8008EC20) ---");
+
+        for (int i = 0; i < entryCount;)
+        {
+            uint e0 = BitConverter.ToUInt32(romData, tableFileOff + i * 4);
+            if (e0 == 0) { i++; continue; }
+
+            // 嵌套表指针: 指向 0x8008EBF0~0x8008EC2F 区间 (4个基组)
+            if (e0 >= 0x8008EBF0 && e0 <= 0x8008EC2F)
+            {
+                int subOff = MemToFile(e0);
+                if (!seenOffsets.Contains(subOff) && subOff + 12 <= romData.Length)
+                {
+                    seenOffsets.Add(subOff);
+                    uint s0 = BitConverter.ToUInt32(romData, subOff);
+                    uint s1 = BitConverter.ToUInt32(romData, subOff + 4);
+                    uint s2 = BitConverter.ToUInt32(romData, subOff + 8);
+                    if (s0 != 0)
+                        EmitHintGroup(romData, result, ref group, s0, s1, s2);
+                }
+                i++;
+                continue;
+            }
+
+            // 跳过指向内联区域 (0x8008EC30+) 的嵌套指针——它们指向已由下方内联三元组覆盖的内容
+            if (e0 >= 0x8008EC30 && e0 <= 0x8008ED60)
+            {
+                i++;
+                continue;
+            }
+
+            // 内联三元组: 连续 3 项
+            if (i + 2 < entryCount)
+            {
+                uint s0 = e0;
+                uint s1 = BitConverter.ToUInt32(romData, tableFileOff + (i + 1) * 4);
+                uint s2 = BitConverter.ToUInt32(romData, tableFileOff + (i + 2) * 4);
+
+                if (IsHintStringAddr(s0, emptyMarker) ||
+                    IsHintStringAddr(s1, emptyMarker) ||
+                    IsHintStringAddr(s2, emptyMarker))
+                {
+                    // 跳过全空组
+                    if (s0 != emptyMarker || s1 != emptyMarker || s2 != emptyMarker)
+                        EmitHintGroup(romData, result, ref group, s0, s1, s2);
+                    i += 3;
+                    continue;
+                }
+            }
+            i++;
+        }
+    }
+
+    private bool IsHintStringAddr(uint addr, uint emptyMarker)
+    {
+        if (addr == emptyMarker) return true;
+        // 字符串地址范围: 0x80014xxx~0x80015xxx (技能提示) 或 0x80097xxx (Range2 边界后缀)
+        return (addr >= 0x80014000 && addr <= 0x80016000) ||
+               (addr >= 0x80097000 && addr <= 0x80098000);
+    }
+
+    private int MemToFile(uint memAddr)
+    {
+        return (int)(memAddr + 0x800 - 0x80010000);
+    }
+
+    private string ReadSjisAt(byte[] romData, uint memAddr)
+    {
+        const uint emptyMarker = 0x80097A40;
+        if (memAddr == 0 || memAddr == emptyMarker) return "";
+
+        int fileOff = MemToFile(memAddr);
+        if (fileOff < 0 || fileOff + 2 > romData.Length) return "";
+
+        var bytes = new List<byte>();
+        int pos = fileOff;
+        while (pos + 1 < romData.Length)
+        {
+            if (romData[pos] == 0 && romData[pos + 1] == 0) break;
+            bytes.Add(romData[pos]);
+            bytes.Add(romData[pos + 1]);
+            pos += 2;
+        }
+
+        if (bytes.Count == 0) return "";
+        Encoding.RegisterProvider(CodePagesEncodingProvider.Instance);
+        var enc = Encoding.GetEncoding("shift_jis");
+        return enc.GetString(bytes.ToArray());
+    }
+
+    private void EmitHintGroup(byte[] romData, List<ParatranzItem> result,
+        ref int group, uint s0, uint s1, uint s2)
+    {
+        string t0 = ReadSjisAt(romData, s0);
+        string t1 = ReadSjisAt(romData, s1);
+        string t2 = ReadSjisAt(romData, s2);
+
+        int off0 = s0 == 0 || s0 == 0x80097A40 ? 0 : MemToFile(s0);
+        int off1 = s1 == 0 || s1 == 0x80097A40 ? 0 : MemToFile(s1);
+        int off2 = s2 == 0 || s2 == 0x80097A40 ? 0 : MemToFile(s2);
+
+        if (!string.IsNullOrEmpty(t0))
+            result.Add(new ParatranzItem { Key = $"Hint-{group}-Slot0-0x{off0:X}", Original = t0 });
+        if (!string.IsNullOrEmpty(t1))
+            result.Add(new ParatranzItem { Key = $"Hint-{group}-Slot1-0x{off1:X}", Original = t1 });
+        if (!string.IsNullOrEmpty(t2))
+            result.Add(new ParatranzItem { Key = $"Hint-{group}-Slot2-0x{off2:X}", Original = t2 });
+
+        if (!string.IsNullOrEmpty(t0) || !string.IsNullOrEmpty(t1) || !string.IsNullOrEmpty(t2))
+        {
+            Console.WriteLine($"Hint {group}: [{t0}] + [{t1}] + [{t2}] = {t0}{t1}{t2}");
+        }
+        group++;
     }
 
     private bool IsLegalSjis(byte b1, byte b2)
