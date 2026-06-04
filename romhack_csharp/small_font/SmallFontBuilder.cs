@@ -11,7 +11,10 @@ public static class SmallFontBuilder
 {
     private const int MapIndexEnd = 4608;
     private const int MapIndexStart = 524;
-    private const int GlyphIndexBase = 953; // (0x801B1000 - 0x801ACCE0) / 18
+    // GlyphIndexBase: ceil((0x801B1000 - 0x801ACCE0) / 18) = 955 = 0x3BB
+    // 0x3BB * 18 = 0x4326, 0x801ACCE0 + 0x4326 = 0x801B1006 → S.F 前 6 字节 padding
+    private const int GlyphIndexBase = 0x3BB;
+    private const int SfPadding = GlyphIndexBase * 18 - (int)(0x801B1000u - 0x801ACCE0u);
 
     /// <summary>
     /// 完整构建流程: 渲染字形 → 输出 S.F → 修补 CM1200 map table → 返回字符映射
@@ -46,7 +49,8 @@ public static class SmallFontBuilder
         const int mapStartInSub = 0x28E0;
 
         // 3. 渲染字形 + 写 S.F + 分配 map 条目
-        var glyphData = new byte[charList.Count * 18];
+        // S.F: 前 6 字节 padding（因为 GlyphIndexBase=0x3BB, 第一个 glyph 地址=0x801B1006）
+        var glyphData = new byte[SfPadding + charList.Count * 18];
         var glyphBuf = new byte[18];
         var charMap = new Dictionary<char, (ushort Sjis, ushort Index)>();
         int mapIdx = MapIndexStart;
@@ -66,7 +70,7 @@ public static class SmallFontBuilder
                     $"allocated only {i}. Total map entries: {MapIndexEnd}");
 
             Encode12x12Glyph(charList[i], glyphBuf);
-            Array.Copy(glyphBuf, 0, glyphData, i * 18, 18);
+            Array.Copy(glyphBuf, 0, glyphData, SfPadding + i * 18, 18);
 
             var sjis = IndexToSjis(mapIdx);
             var glyphIdx = (ushort)(GlyphIndexBase + i);
@@ -152,8 +156,8 @@ public static class SmallFontBuilder
 
     private static ushort IndexToSjis(int mapIndex)
     {
-        var low = (byte)(0x81 + mapIndex / 0xC0);
-        var high = (byte)(0x40 + mapIndex % 0xC0);
-        return (ushort)((low << 8) | high);
+        var lead = (byte)(0x81 + mapIndex / 0xC0);
+        var trail = (byte)(0x40 + mapIndex % 0xC0);
+        return (ushort)(lead | (trail << 8));
     }
 }
