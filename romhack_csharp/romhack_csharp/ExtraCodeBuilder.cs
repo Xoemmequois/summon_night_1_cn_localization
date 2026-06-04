@@ -4,9 +4,17 @@ namespace romhack_csharp;
 
 public class ExtraCodeBuilder
 {
-    public static byte[] GetLoadCodeBinary(int loadCount, string sdkPath)
+    public static byte[] GetLoadCodeBinary(int loadCount, string sdkPath, string extraFlags = "")
     {
-        return CompileCode("load", sdkPath, $"-Wa,--defsym,LOAD_COUNT={loadCount}");
+        return CompileCode("load", sdkPath,
+            $"-Wa,--defsym,LOAD_COUNT={loadCount} {extraFlags}");
+    }
+
+    public static byte[] GetSmallLoadCodeBinary(int smallGlyphCount, string sdkPath)
+    {
+        var sectorCount = (smallGlyphCount * 18 + 2047) / 2048;
+        return CompileCode("load_small", sdkPath,
+            $"-Wa,--defsym,SMALL_COUNT={sectorCount}");
     }
 
     private static byte[] CompileCode(string name, string sdkPath, string extraFlags = "")

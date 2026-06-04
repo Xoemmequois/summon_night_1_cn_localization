@@ -1,6 +1,7 @@
 using romhack_csharp;
 using System.Text.Json;
-using System.Text.Json.Serialization;
+using SummonNightLib;
+using small_font;
 
 internal static class Program
 {
@@ -8,18 +9,6 @@ internal static class Program
     private static readonly Dictionary<char, byte[]> Chars = new();
     private static byte[] _cm1100 = Array.Empty<byte>();
     private static int _charIndex;
-
-    private class TranslationItem
-    {
-        [JsonPropertyName("key")]
-        public string Key { get; set; } = string.Empty;
-        [JsonPropertyName("original")]
-        public string Original { get; set; } = string.Empty;
-        [JsonPropertyName("translation")]
-        public string Translation { get; set; } = string.Empty;
-        [JsonPropertyName("stage")]
-        public int Stage { get; set; }
-    }
 
     private static void Main(string[] args)
     {
@@ -39,11 +28,35 @@ internal static class Program
         File.WriteAllBytes(Path.Combine("rom", "CM1100.DAT.mod2"), _cm1100);
 
         PrintChars();
+
+        // === 读取 SLPS_025.42, 后续修改全部在内存中进行 ===
+        var slps = File.ReadAllBytes(Path.Combine("rom", "SLPS_025.42"));
+
+        // === 小字库构建 ===
+        Console.WriteLine("\n--- Building Small Font ---");
+        var charMap = SmallFontBuilder.Build(
+            Path.Combine(Directory.GetCurrentDirectory(), "rom_text_zh_CN.json"),
+            Path.Combine("rom", "CM1200.DAT"),
+            Path.Combine("rom", "S.F"),
+            Path.Combine("rom", "CM1200.DAT.mod"),
+            config.ValidStage);
+
+        RomTextWriter.WriteRomText(
+            slps,
+            Path.Combine(Directory.GetCurrentDirectory(), "rom_text_zh_CN.json"),
+            charMap,
+            config.ValidStage);
+
+        var loadSmallBin = ExtraCodeBuilder.GetSmallLoadCodeBinary(
+            charMap.Count, config.SdkPath);
+        Console.WriteLine($"load_small.bin: {loadSmallBin.Length} bytes");
+
+        // === 大字库构建 ===
         var fontBin = ExtraCodeBuilder.GetFontCodeBinary(config.SdkPath);
         var count = CharCodeToIndex(Chars.MaxBy(pair => (ushort)((pair.Value[0] << 8) | pair.Value[1])).Value) + 1;
-        //28本身就可以被4整除，所以以下的上取整其实是不必要的，但是如果将来我们采用其他大小的字形就有需要了
         var fontBinStart = (count * 28 + 3) / 4 * 4;
-        var finalLen = fontBinStart + fontBin.Length;
+        var smallLoadStart = ((fontBinStart + fontBin.Length) + 3) / 4 * 4;
+        var finalLen = smallLoadStart + loadSmallBin.Length;
         var fontBitmaps = new byte[finalLen];
         var fontBitmap = new byte[28];
         foreach (var pair in Chars)
@@ -57,8 +70,15 @@ internal static class Program
             Buffer.BlockCopy(fontBitmap, 0, fontBitmaps, index * 28, 28);
         }
         Buffer.BlockCopy(fontBin, 0, fontBitmaps, fontBinStart, fontBin.Length);
+        Buffer.BlockCopy(loadSmallBin, 0, fontBitmaps, smallLoadStart, loadSmallBin.Length);
         File.WriteAllBytes(Path.Combine("rom", "chinese.fnt"), fontBitmaps);
-        CodeModifier.ModifyCode((uint)(0x800D1000u + fontBinStart), fontBitmaps.Length, config.SdkPath);
+
+        // === 修改 SLPS_025.42 (load.s + JAL patches) ===
+        CodeModifier.ModifyCode(slps, (uint)(0x800D1000u + fontBinStart), fontBitmaps.Length, config.SdkPath,
+            (uint)(0x800D1000u + smallLoadStart));
+
+        // === 写入最终 SLPS_025.42.mod2 ===
+        File.WriteAllBytes(Path.Combine("rom", "SLPS_025.42.mod2"), slps);
         
         var mkpsxiso = Path.Combine(config.SdkPath, "bin", "mkpsxiso.exe");
         CommandRunner.RunCommand(mkpsxiso, ".\\rom2.xml -y -o .\\output\\Summon_Night_Chinese.bin -c .\\output\\Summon_Night_Chinese.cue");

@@ -9,6 +9,7 @@
 
     <ItemGroup>
         <ProjectReference Include="..\SummonNightLib\SummonNightLib.csproj" />
+        <ProjectReference Include="..\small_font\small_font.csproj" />
     </ItemGroup>
 
     <ItemGroup>

@@ -9,7 +9,7 @@
             <file name="CM1000.DAT" source="rom/CM1000.DAT" type="data"/>
             <file name="CM1100.DAT" source="rom/CM1100.DAT.mod2" type="data"/>
             <file name="CM5000.DAT" source="rom/CM5000.DAT" type="data"/>
-            <file name="CM1200.DAT" source="rom/CM1200.DAT" type="data"/>
+            <file name="CM1200.DAT" source="rom/CM1200.DAT.mod" type="data"/>
             <file name="CM2000.DAT" source="rom/CM2000.DAT" type="data"/>
             <file name="CM4000.DAT" source="rom/CM4000.DAT" type="data"/>
             <file name="CM3000.DAT" source="rom/CM3000.DAT" type="data"/>
@@ -20,6 +20,7 @@
             <file name="CM5300.DAT" source="rom/CM5300.DAT" type="mixed"/>
             <file name="CM5301.DAT" source="rom/CM5301.DAT" type="mixed"/>
             <file name="C.F" source="rom/chinese.fnt" type="data"/>
+            <file name="S.F" source="rom/S.F" type="data"/>
         </directory_tree>
     </track>
 </iso_project>

@@ -22,7 +22,7 @@ ReadCustomFunc:
     jal     0x80030e3c          # CDBlockRead
     li      $a2, LOAD_COUNT     # 延迟槽：count = LOAD_COUNT
 
-    lw      $ra, 36($sp)        # 恢复返回地址
-    nop                         # lw后不能立刻jr，需要等待一个指令让返回值被正确加载到ra
-    jr      $ra                 # 返回
-    addiu   $sp, $sp, 40        # 延迟槽：恢复栈指针
+    lw      $ra, 36($sp)
+    nop                         # lw 延迟槽
+    j       LOAD_SMALL_ADDR     # 尾调用, load_small 的 jr $ra 返回到原 caller
+    addiu   $sp, $sp, 40        # j 延迟槽
