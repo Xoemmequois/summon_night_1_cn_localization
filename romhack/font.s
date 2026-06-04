@@ -63,7 +63,8 @@ map_first_range:
     nop
 
 map_second_range:
-    # 逻辑: v0 = 0x800D1300 + (s0 - 0x9900)
+    # 逻辑: v0 = 0x800D6400 + (s0 - 0x9900)
+    # Range 1 (0x8500-0x87FF) = 768 chars x 28 = 0x5400, ends at 0x800D6400
     subu    $t1, $s0, 0x9900    # 注意：如果 0x9900 超过 16位有符号数范围，
                                 # 某些编译器需要先 li $t0, 0x9900 再 subu
                                 
@@ -72,7 +73,7 @@ map_second_range:
     subu    $t1, $t2, $t1       # $t1 = (Index * 32) - (Index * 4) = Index * 28
 
     lui     $v0, 0x800D
-    ori     $v0, $v0, 0x1300    # 得到 0x800D1300
+    ori     $v0, $v0, 0x6400    # 得到 0x800D6400 = 0x800D1000 + 768*28
     addu    $v0, $v0, $t1
 
 copy_to_stack:
