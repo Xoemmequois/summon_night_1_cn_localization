@@ -6,7 +6,7 @@ public class CodeModifier
         uint loadSmallAddr = 0)
     {
         var loadBin = ExtraCodeBuilder.GetLoadCodeBinary(
-            (fontBinaryLen + 4095) / 4096,
+            (fontBinaryLen + 0x7FF) / 0x800,
             sdkPath,
             loadSmallAddr != 0
                 ? $"-Wa,--defsym,LOAD_SMALL_ADDR={loadSmallAddr}"
