@@ -2,6 +2,8 @@
 
 using System.Diagnostics;
 using System.Drawing;
+using System.Drawing.Imaging;
+using System.Runtime.InteropServices;
 using SummonNightLib;
 
 Color[] ParseCluts(byte[] subData, int offset, int clutW, int clutH)
@@ -22,7 +24,18 @@ Color[] ParseCluts(byte[] subData, int offset, int clutW, int clutH)
 Bitmap ParsePix(byte[] subData, int offset, int pixW, int pixH, Color[] cluts, bool bit4)
 {
     pixW *= 2;
-    var bitmap = new Bitmap(bit4 ? pixW * 2 : pixW, pixH);
+    var width = bit4 ? pixW * 2 : pixW;
+    var height = pixH;
+    var bitmap = new Bitmap(width, height, PixelFormat.Format8bppIndexed);
+
+    var palette = bitmap.Palette;
+    for (var i = 0; i < 256; i++)
+        palette.Entries[i] = i < cluts.Length ? cluts[i] : cluts[0];
+    bitmap.Palette = palette;
+
+    var rect = new Rectangle(0, 0, width, height);
+    var bmpData = bitmap.LockBits(rect, ImageLockMode.WriteOnly, PixelFormat.Format8bppIndexed);
+    var pixels = new byte[bmpData.Stride * height];
     for (var y = 0; y < pixH; y++)
     {
         for (var x = 0; x < pixW; x++)
@@ -30,16 +43,18 @@ Bitmap ParsePix(byte[] subData, int offset, int pixW, int pixH, Color[] cluts, b
             var index = subData[offset + y * pixW + x];
             if (bit4)
             {
-                bitmap.SetPixel(x * 2, y, cluts[(index) & 0xF]);
-                bitmap.SetPixel(x * 2 + 1, y, cluts[(index >> 4) & 0xF]);
+                pixels[y * bmpData.Stride + x * 2] = (byte)(index & 0xF);
+                pixels[y * bmpData.Stride + x * 2 + 1] = (byte)((index >> 4) & 0xF);
             }
             else
             {
-                bitmap.SetPixel(x, y, cluts[index]);
+                pixels[y * bmpData.Stride + x] = index;
             }
-            
         }
     }
+    Marshal.Copy(pixels, 0, bmpData.Scan0, pixels.Length);
+    bitmap.UnlockBits(bmpData);
+
     return bitmap;
 }
 
