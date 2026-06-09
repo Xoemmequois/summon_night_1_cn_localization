@@ -214,84 +214,79 @@ List<AnimData> ParseAnimDataBlock(byte[] dd, int blockBase)
     return (label, flags, anims, frameDatas, rects);
 }
 
-void ExportSprite(Bitmap bmp, PartRect rect, int texIdx, string path)
+void ExportPart(Bitmap bmp, PartRect rect, string path)
 {
     if (rect.U + rect.W > bmp.Width || rect.V + rect.H > bmp.Height)
         return;
     var area = new Rectangle(rect.U, rect.V, rect.W, rect.H);
     using var sprite = bmp.Clone(area, bmp.PixelFormat);
-    sprite.Save(path);
+    sprite.Save(path, ImageFormat.Gif);
+}
+
+// Scan FrameData to map each rectIndex -> texIdx (0 or 1)
+// If a rect is used with both textures, report the first one found
+Dictionary<int, int> BuildRectTexMap(List<FrameData> frameDatas)
+{
+    var map = new Dictionary<int, int>();
+    foreach (var fd in frameDatas)
+    foreach (var part in fd.Parts)
+    {
+        var texIdx = (int)(part.Attr & 3);
+        if (!map.ContainsKey(part.RectIndex))
+            map[part.RectIndex] = texIdx;
+    }
+    return map;
 }
 
 var data = File.ReadAllBytes("rom/CM3000.DAT");
-Console.WriteLine("=== Extracting character sprites (AnimSpriteResourceBlob) ===");
+Console.WriteLine("=== Extracting character sprite parts ===");
+
+var outBase = "pic_output/chars";
+Directory.CreateDirectory(outBase);
 
 for (var i = 0; i < 0x44; ++i)
 {
     var dd = ExtractUtil.GetSubcontent(data, 0x89 + i);
 
-    // SubContent0/1 = TIM textures; SubContent2/3 = AnimSpriteResourceBlob
     var off0 = BitConverter.ToInt32(dd, 4);
     var off1 = BitConverter.ToInt32(dd, 8);
     var off2 = BitConverter.ToInt32(dd, 12);
     var off3 = BitConverter.ToInt32(dd, 16);
 
-    Console.WriteLine($"\nchar{i}: off2=0x{off2:X} off3=0x{off3:X}");
-
-    // Load texture bitmaps from SubContent0/1 (registered to texture slots 0x0B/0x0C)
+    // Load textures from SubContent0/1
     using var bmp0 = ParseTim(dd, off0);
     using var bmp1 = ParseTim(dd, off1);
 
-    // Parse SubContent2 and SubContent3 as AnimSpriteResourceBlob
-    foreach (var (label, subOff) in new[] { ("sub2", off2), ("sub3", off3) })
+    // Parse sub2 and sub3 as AnimSpriteResourceBlob
+    var (sub2Label, sub2Flags, sub2Anims, sub2FrameDatas, sub2Rects) = ParseAnimSpriteBlob(dd, off2, "sub2");
+    var (sub3Label, sub3Flags, sub3Anims, sub3FrameDatas, sub3Rects) = ParseAnimSpriteBlob(dd, off3, "sub3");
+
+    // Export sub2 parts
+    var texMap2 = BuildRectTexMap(sub2FrameDatas);
+    for (var j = 0; j < sub2Rects.Count; j++)
     {
-        var (parsedLabel, flags, anims, frameDatas, rects) = ParseAnimSpriteBlob(dd, subOff, label);
-        if (parsedLabel == null) continue;
+        var texIdx = texMap2.TryGetValue(j, out var t) ? t : 0;
+        var bmp = texIdx == 0 ? bmp0 : bmp1;
+        if (bmp == null) continue;
+        var path = Path.Combine(outBase, $"char_{i}_sub2_part_{j}.gif");
+        if (!File.Exists(path))
+            ExportPart(bmp, sub2Rects[j], path);
+    }
 
-        Console.WriteLine($"  {label}: flags=0x{flags:X} anims={anims.Count} frameDatas={frameDatas.Count} partRects={rects.Count}");
-
-        // Traverse: anim -> frame -> part, extracting each part sprite
-        for (var a = 0; a < anims.Count; a++)
-        {
-            var anim = anims[a];
-            for (var f = 0; f < anim.Frames.Count; f++)
-            {
-                var frameEntry = anim.Frames[f];
-                if (frameEntry.FrameDataIndex >= frameDatas.Count)
-                {
-                    Console.WriteLine($"    [WARN] anim{a} frame{f}: FrameDataIndex {frameEntry.FrameDataIndex} out of range (max {frameDatas.Count - 1})");
-                    continue;
-                }
-                var fd = frameDatas[frameEntry.FrameDataIndex];
-
-                for (var p = 0; p < fd.Parts.Count; p++)
-                {
-                    var part = fd.Parts[p];
-                    if (part.RectIndex >= rects.Count)
-                    {
-                        Console.WriteLine($"    [WARN] anim{a} frame{f} part{p}: RectIndex {part.RectIndex} out of range (max {rects.Count - 1})");
-                        continue;
-                    }
-
-                    var rect = rects[part.RectIndex];
-                    var texIdx = (int)(part.Attr & 3);
-                    var bmp = texIdx == 0 ? bmp0 : bmp1;
-                    if (bmp == null) continue;
-
-                    var outDir = Path.Combine($"pic_output/char{i}", label, $"anim{a}", $"frame{f}");
-                    Directory.CreateDirectory(outDir);
-
-                    var fname = $"part{p}_t{texIdx}_u{rect.U}_v{rect.V}_{rect.W}x{rect.H}.png";
-                    var path = Path.Combine(outDir, fname);
-                    if (!File.Exists(path))
-                        ExportSprite(bmp, rect, texIdx, path);
-                }
-            }
-        }
+    // Export sub3 parts
+    var texMap3 = BuildRectTexMap(sub3FrameDatas);
+    for (var j = 0; j < sub3Rects.Count; j++)
+    {
+        var texIdx = texMap3.TryGetValue(j, out var t) ? t : 0;
+        var bmp = texIdx == 0 ? bmp0 : bmp1;
+        if (bmp == null) continue;
+        var path = Path.Combine(outBase, $"char_{i}_sub3_part_{j}.gif");
+        if (!File.Exists(path))
+            ExportPart(bmp, sub3Rects[j], path);
     }
 }
 
-for(var i = 3; i < 64; ++i) {
+for(var i = 3; i < 63; ++i) {
     var subContent = ExtractUtil.GetSubcontent(data, i);
     Console.WriteLine($"\nmapname{i}: offset=0x{BitConverter.ToInt32(subContent, 4):X} {subContent.Length} bytes");
     Parse(subContent, 0, $"mapname{i}");
