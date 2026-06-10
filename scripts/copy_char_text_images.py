@@ -90,6 +90,18 @@ def main():
     progress = load_progress()
     print(f"Loaded progress: {len(progress)} images already checked")
 
+    # Restore missing text images from progress
+    restored = 0
+    for name, is_text in progress.items():
+        if is_text and not (OUTPUT_DIR / name).exists():
+            src = CHARS_DIR / name
+            if src.exists():
+                shutil.copy2(src, OUTPUT_DIR / name)
+                restored += 1
+                print(f"  Restored: {name}")
+    if restored:
+        print(f"Restored {restored} missing text images from progress.\n")
+
     image_files = sorted(CHARS_DIR.glob("*.gif"))
     remaining = [f for f in image_files if f.name not in progress]
     print(f"Total: {len(image_files)}, Remaining: {len(remaining)}")

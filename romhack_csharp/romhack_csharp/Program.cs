@@ -17,6 +17,8 @@ internal static class Program
         if (args.Contains("--rip") || !Directory.Exists("rom"))
         {
             new GameTextRipper(config).Rip();
+            RipTool.Run();
+            new RomTextRipper().Rip();
             return;
         }
 
@@ -79,6 +81,11 @@ internal static class Program
 
         // === 写入最终 SLPS_025.42.mod2 ===
         File.WriteAllBytes(Path.Combine("rom", "SLPS_025.42.mod2"), slps);
+
+        // === 修改 CM3000.DAT (地图名称翻译回写) ===
+        var cm3000 = File.ReadAllBytes(Path.Combine("rom", "CM3000.DAT"));
+        var cm3000Modified = WriteBackMapname.Apply(cm3000, "pic_output/mapnames_translated", "pic_output/mapnames");
+        File.WriteAllBytes(Path.Combine("rom", "CM3000.DAT.mod2"), cm3000Modified);
         
         var mkpsxiso = Path.Combine(config.SdkPath, "bin", "mkpsxiso.exe");
         CommandRunner.RunCommand(mkpsxiso, ".\\rom2.xml -y -o .\\output\\Summon_Night_Chinese.bin -c .\\output\\Summon_Night_Chinese.cue");
