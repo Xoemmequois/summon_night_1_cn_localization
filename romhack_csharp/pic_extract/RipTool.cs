@@ -58,9 +58,6 @@ public static class RipTool
             Parse(subContent, 0, $"mapname{i}");
         }
 
-        Console.WriteLine("\n=== Generating mapname previews ===");
-        PreviewMapname.Generate(data, "pic_output/mapnames_translated", "pic_output/mapnames_preview", "pic_output/mapnames");
-
         Console.WriteLine("\n=== Writing translated mapnames back to CM3000.DAT ===");
         var modifiedData = WriteBackMapname.Apply(data, "pic_output/mapnames_translated", "pic_output/mapnames");
         File.WriteAllBytes("rom/CM3000.DAT.mod2", modifiedData);

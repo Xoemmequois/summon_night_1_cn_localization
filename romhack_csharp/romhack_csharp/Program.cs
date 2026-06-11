@@ -86,6 +86,9 @@ internal static class Program
         var cm3000 = File.ReadAllBytes(Path.Combine("rom", "CM3000.DAT"));
         var cm3000Modified = WriteBackMapname.Apply(cm3000, "pic_output/mapnames_translated", "pic_output/mapnames");
         File.WriteAllBytes(Path.Combine("rom", "CM3000.DAT.mod2"), cm3000Modified);
+
+        Console.WriteLine("\n=== Generating mapname previews ===");
+        PreviewMapname.Generate(cm3000, "pic_output/mapnames_translated", "pic_output/mapnames_preview", "pic_output/mapnames");
         
         var mkpsxiso = Path.Combine(config.SdkPath, "bin", "mkpsxiso.exe");
         CommandRunner.RunCommand(mkpsxiso, ".\\rom2.xml -y -o .\\output\\Summon_Night_Chinese.bin -c .\\output\\Summon_Night_Chinese.cue");
