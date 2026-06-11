@@ -5,7 +5,7 @@ using SummonNightLib;
 
 public static class RipTool
 {
-    public static void Run()
+    public static void Run(string? openRouterKey = null, string? openRouterProxy = null)
     {
         var data = File.ReadAllBytes("rom/CM3000.DAT");
         Console.WriteLine("=== Extracting character sprite parts ===");
@@ -49,6 +49,12 @@ public static class RipTool
                 if (!File.Exists(path))
                     ExportPart(bmp, sub3Rects[j], path);
             }
+        }
+
+        if (!string.IsNullOrEmpty(openRouterKey))
+        {
+            CharNameClassifier.Run(openRouterKey, openRouterProxy);
+            CharNameDedup.Run();
         }
 
         for (var i = 3; i < 63; ++i)

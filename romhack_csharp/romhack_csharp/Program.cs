@@ -17,7 +17,7 @@ internal static class Program
         if (args.Contains("--rip") || !Directory.Exists("rom"))
         {
             new GameTextRipper(config).Rip();
-            RipTool.Run();
+            RipTool.Run(config.OpenRouterKey, config.OpenRouterProxy);
             new RomTextRipper().Rip();
             return;
         }
