@@ -1,0 +1,62 @@
+Query Results
+RAM Address: 0x8014740E
+----------------------------------------
+LoadImage Parameters
+Position: (832, 0)
+Size: 24 x 176
+RAM Source: 0x80146F80
+Byte Count: 0x2100 (8448 bytes)
+Sector Count: 5
+CD Sector: 0x2A8E
+File: CM2000.DAT
+Sector Offset: 0x21F
+----------------------------------------
+CDRead Parameters
+Dest: 0x80110000
+Length: 115 sectors
+Start Sector: 0x2A20
+Start File: CM2000.DAT
+Start File Offset: 0x1B1
+----------------------------------------
+CDRead Callstack
+[0] 0x80081950 (0x800819F8)
+[1] 0x80016A48 (0x80016A9C)
+[2] 0x80031918 (0x80031978)
+[3] 0x800319A8 (0x80031B14)
+
+
+onLoadImage: src=80146F80, rect=(832,0,24,176)
+80081950(800819F8)
+80016A48(80016ABC)
+80022F2C(80022F70)
+80022F98(800230CC)
+80023570(8002359C)
+80038904(800389E8)
+800298D8(800298FC)
+80029944(80029A10)
+80029B08(80029B74)
+
+CDRead
+
+0x800819f8
+0x80016ab4
+0x80019e78
+0x8001a050
+0x8001e5d4 （Command2050_WaitUnknown58）
+0x800397c0 
+0x80031074（这个读的是 CM2000的1，应该不对，LOADIMAGE也是在最后一个cdread后执行的）
+
+另一个CRRead（这个更靠后，读的是CM2000的9（0开始））
+0x800819f8
+0x80016abc
+0x80022f70
+0x800230cc
+0x80026088
+0x80031074
+
+这才是真正的CDREAD(cm2000的0XC，就是0x1b1)
+0x800819f8  ::  0x807ffff4  ::  0x807ffff8
+0x80016abc  ::  0x807fffd4  ::  0x807fffd8
+0x80022f70  ::  0x807fffb0  ::  0x807fffb8
+0x800230cc  ::  0x807fff7c  ::  0x807fff80
+0x80026088  ::  <heuristic>  ::  0x807fff60
