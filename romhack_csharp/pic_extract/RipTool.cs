@@ -122,7 +122,9 @@ public static class RipTool
         var bitmap = ParseTim(subData, offset, false);
         var outDir = Path.Combine("pic_output", "mapnames");
         Directory.CreateDirectory(outDir);
-        bitmap!.Save(Path.Combine(outDir, filename + ".gif"), ImageFormat.Gif);
+        var gifPath = Path.Combine(outDir, filename + ".gif");
+        bitmap!.Save(gifPath, ImageFormat.Gif);
+        SaveAct(bitmap, gifPath);
     }
 
     private static Bitmap? ParseTim(byte[] subData, int offset, bool skipWhenOffsetZero = true)
@@ -263,6 +265,7 @@ public static class RipTool
         var area = new Rectangle(rect.U, rect.V, rect.W, rect.H);
         using var sprite = bmp.Clone(area, bmp.PixelFormat);
         sprite.Save(path, ImageFormat.Gif);
+        SaveAct(bmp, path);
     }
 
     private static Dictionary<int, int> BuildRectTexMap(List<FrameData> frameDatas)
@@ -276,6 +279,22 @@ public static class RipTool
                 map[part.RectIndex] = texIdx;
         }
         return map;
+    }
+
+    private static void SaveAct(Bitmap bmp, string gifPath)
+    {
+        var actPath = Path.ChangeExtension(gifPath, ".act");
+        var palette = bmp.Palette;
+        var actData = new byte[768];
+        for (var i = 0; i < 256; i++)
+        {
+            var c = palette.Entries[i];
+            actData[i * 3] = c.R;
+            actData[i * 3 + 1] = c.G;
+            actData[i * 3 + 2] = c.B;
+        }
+        Console.WriteLine(actPath);
+        File.WriteAllBytes(actPath, actData);
     }
 
     private record PartRect(byte U, byte V, byte W, byte H);
