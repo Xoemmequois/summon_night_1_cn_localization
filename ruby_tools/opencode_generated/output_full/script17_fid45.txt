@@ -1,325 +1,400 @@
---- Group 1 ---
+--- Group 1 [left:char_0004 next=0023] ---
 [FID:45, TEXT:0001] 本当だ
 [FID:45, TEXT:0002] すごい数の警備の兵士
 [FID:45, TEXT:0003] が広場を囲んでる
 
---- Group 2 ---
+--- Group 2 [left:char_0004 next=0023] ---
+[FID:45, TEXT:0001] 本当だ
+[FID:45, TEXT:0002] すごい数の警備の兵士
+[FID:45, TEXT:0003] が広場を囲んでる
+
+--- Group 3 [left:char_0004 next=0023] ---
+[FID:45, TEXT:0001] 本当だ
+[FID:45, TEXT:0002] すごい数の警備の兵士
+[FID:45, TEXT:0003] が広場を囲んでる
+
+--- Group 4 [left:char_0004 next=0023] ---
 [FID:45, TEXT:0001] 本当だ
 [FID:45, TEXT:0004] すごい数の兵隊さんが
 [FID:45, TEXT:0005] 広場を囲んでるよ
 
---- Group 3 ---
+--- Group 5 [left:char_0004 next=0023] ---
+[FID:45, TEXT:0001] 本当だ
+[FID:45, TEXT:0004] すごい数の兵隊さんが
+[FID:45, TEXT:0005] 広場を囲んでるよ
+
+--- Group 6 [right:none next=2012] ---
 [FID:45, TEXT:0006] 罪人たちの点呼は
 [FID:45, TEXT:0007] 完了しましたか？
 
---- Group 4 ---
+--- Group 7 [right:char_0013 next=2012] ---
+[FID:45, TEXT:0006] 罪人たちの点呼は
+[FID:45, TEXT:0007] 完了しましたか？
+
+--- Group 8 [right:char_001D next=2012] ---
+[FID:45, TEXT:0006] 罪人たちの点呼は
+[FID:45, TEXT:0007] 完了しましたか？
+
+--- Group 9 [left:char_0004 next=2012] ---
 [FID:45, TEXT:0008] はッ、完了しました！
 
---- Group 5 ---
+--- Group 10 [left:char_0004 next=2012] ---
+[FID:45, TEXT:0008] はッ、完了しました！
+
+--- Group 11 [left:char_0004 next=2012] ---
+[FID:45, TEXT:0008] はッ、完了しました！
+
+--- Group 12 [left:char_0004 next=0023] ---
 [FID:45, TEXT:0009] 罪人だって・・・？
 
---- Group 6 ---
+--- Group 13 [left:char_0004 next=0023] ---
+[FID:45, TEXT:0009] 罪人だって・・・？
+
+--- Group 14 [left:char_0004 next=0023] ---
+[FID:45, TEXT:0009] 罪人だって・・・？
+
+--- Group 15 [left:char_0004 next=0023] ---
 [FID:45, TEXT:000A] 罪人・・・？
 
---- Group 7 ---
+--- Group 16 [left:char_0004 next=0023] ---
+[FID:45, TEXT:000A] 罪人・・・？
+
+--- Group 17 [left:char_0004 next=0023] ---
+[FID:45, TEXT:000B] 罪人？
+[FID:45, TEXT:000C] 事件・・・？
+
+--- Group 18 [left:char_0004 next=0023] ---
 [FID:45, TEXT:000B] 罪人？
 [FID:45, TEXT:000D] なにか事件でも
 [FID:45, TEXT:000E] 起きたの・・・？
 
---- Group 8 ---
+--- Group 19 [left:char_0004 next=0023] ---
 [FID:45, TEXT:000B] 罪人？
 [FID:45, TEXT:000C] 事件・・・？
 
---- Group 9 ---
+--- Group 20 [left:char_0004 next=0023] ---
+[FID:45, TEXT:000B] 罪人？
+[FID:45, TEXT:000D] なにか事件でも
+[FID:45, TEXT:000E] 起きたの・・・？
+
+--- Group 21 [right:none next=2012] ---
 [FID:45, TEXT:0012] なあ、アネゴ
 [FID:45, TEXT:0010] あの人たち
 [FID:45, TEXT:0011] 本当に罪人なのかなぁ
 
---- Group 10 ---
+--- Group 22 [right:char_001D next=2012] ---
+[FID:45, TEXT:0012] なあ、アネゴ
+[FID:45, TEXT:0010] あの人たち
+[FID:45, TEXT:0011] 本当に罪人なのかなぁ
+
+--- Group 23 [right:char_0013 next=2012] ---
+[FID:45, TEXT:0012] なあ、アネゴ
+[FID:45, TEXT:0010] あの人たち
+[FID:45, TEXT:0011] 本当に罪人なのかなぁ
+
+--- Group 24 [right:char_001D next=2012] ---
 [FID:45, TEXT:0013] 見るからに
 [FID:45, TEXT:0014] よぼよぼの爺さんとか
 [FID:45, TEXT:0015] 女子供も並んでるぜ？
 
---- Group 11 ---
+--- Group 25 [right:char_0013 next=2012] ---
+[FID:45, TEXT:0013] 見るからに
+[FID:45, TEXT:0014] よぼよぼの爺さんとか
+[FID:45, TEXT:0015] 女子供も並んでるぜ？
+
+--- Group 26 [right:none next=2012] ---
+[FID:45, TEXT:0013] 見るからに
+[FID:45, TEXT:0014] よぼよぼの爺さんとか
+[FID:45, TEXT:0015] 女子供も並んでるぜ？
+
+--- Group 27 [right:char_001A next=2012] ---
 [FID:45, TEXT:0016] ・・・罪人ですよ
 
---- Group 12 ---
+--- Group 28 [left:char_0004 next=2012] ---
 [FID:45, TEXT:0017] えっ？
 
---- Group 13 ---
+--- Group 29 [right:char_001A next=2012] ---
 [FID:45, TEXT:0018] 彼らは税金を払えなか
 [FID:45, TEXT:0019] った罪で、捕まった
 [FID:45, TEXT:001A] 人たちなのです
 
---- Group 14 ---
+--- Group 30 [left:char_0016 next=2012] ---
 [FID:45, TEXT:001B] なんだよそりゃ！？
 
---- Group 15 ---
+--- Group 31 [left:char_0004 next=0023] ---
 [FID:45, TEXT:001C] あの人たち、
 [FID:45, TEXT:001D] どうなるんですか？
 
---- Group 16 ---
+--- Group 32 [left:char_0004 next=0023] ---
 [FID:45, TEXT:001E] あの人たち、どうなる
 [FID:45, TEXT:001F] んですか？
 
---- Group 17 ---
+--- Group 33 [left:char_0004 next=0023] ---
+[FID:45, TEXT:0020] ・・・あの人たち
+[FID:45, TEXT:0021] これからどうなるの？
+
+--- Group 34 [left:char_0004 next=0023] ---
 [FID:45, TEXT:0020] ・・・あの人たち
 [FID:45, TEXT:0022] これからどうなるん
 [FID:45, TEXT:0023] ですか？
 
---- Group 18 ---
-[FID:45, TEXT:0020] ・・・あの人たち
-[FID:45, TEXT:0021] これからどうなるの？
-
---- Group 19 ---
+--- Group 35 [right:char_001A next=2012] ---
 [FID:45, TEXT:0024] この広場で見せしめに
 [FID:45, TEXT:0025] された後、足りない分
 [FID:45, TEXT:0026] を労働奉仕で払うこと
 [FID:45, TEXT:0027] になります
 
---- Group 20 ---
+--- Group 36 [right:char_001A next=2012] ---
 [FID:45, TEXT:0028] 男は鉱山、女は工場の
 [FID:45, TEXT:0029] 一番過酷な場所で
 [FID:45, TEXT:002A] 働かされますね
 
---- Group 21 ---
+--- Group 37 [left:char_0004 next=0023] ---
 [FID:45, TEXT:002B] そんなのって・・・
 
---- Group 22 ---
+--- Group 38 [left:char_0004 next=0023] ---
 [FID:45, TEXT:002C] そんな・・・
 
---- Group 23 ---
+--- Group 39 [left:char_0004 next=0023] ---
 [FID:45, TEXT:002D] ちょっと！
 [FID:45, TEXT:002E] めちゃめちゃじゃない
 [FID:45, TEXT:002F] そんなの！
 
---- Group 24 ---
+--- Group 40 [left:char_0004 next=0023] ---
 [FID:45, TEXT:0030] そんなことが
 [FID:45, TEXT:0031] この世界では、まだ
 [FID:45, TEXT:0032] 許されてるんですか？
 
---- Group 25 ---
+--- Group 41 [right:char_001A next=2012] ---
 [FID:45, TEXT:0033] 仕方ないんですよ
 [FID:45, TEXT:0034] そう領主が決めたの
 [FID:45, TEXT:0035] ですから
 
---- Group 26 ---
+--- Group 42 [right:char_001A next=2012] ---
 [FID:45, TEXT:0036] ふむ、正確には領主を
 [FID:45, TEXT:0037] 利用して召喚師たちが
 [FID:45, TEXT:0038] 決めたんでしたか
 
---- Group 27 ---
+--- Group 43 [right:char_0016 next=2012] ---
 [FID:45, TEXT:0039] なんでみんな、そんな
 [FID:45, TEXT:003A] 無茶に従ってんだ！？
 
---- Group 28 ---
+--- Group 44 [left:char_0004 next=0023] ---
 [FID:45, TEXT:003B] 落ち着けよ、ジンガ！
 
---- Group 29 ---
+--- Group 45 [left:char_0004 next=0023] ---
 [FID:45, TEXT:003C] 落ち着くんだ、ジンガ
 
---- Group 30 ---
+--- Group 46 [left:char_0004 next=0023] ---
 [FID:45, TEXT:003D] ジンガ、落ち着いて！
 
---- Group 31 ---
+--- Group 47 [right:char_001A next=2012] ---
 [FID:45, TEXT:003E] 召喚師の力が怖くて、
 [FID:45, TEXT:003F] 泣き寝入りをしている
 [FID:45, TEXT:0040] んでしょう
 
---- Group 32 ---
+--- Group 48 [right:char_001A next=2012] ---
 [FID:45, TEXT:0041] ですが・・・
 [FID:45, TEXT:0042] 全員が全員、そうして
 [FID:45, TEXT:0043] いるわけでもないよう
 [FID:45, TEXT:0044] ですね？
 
---- Group 33 ---
+--- Group 49 [left:char_001E next=2012] ---
 [FID:45, TEXT:0045] もう我慢できん！
 [FID:45, TEXT:0046] 俺たちが、一体なにを
 [FID:45, TEXT:0047] したって言うんだ！？
 
---- Group 34 ---
+--- Group 50 [left:char_001E next=2012] ---
 [FID:45, TEXT:0048] 働けば働くほどに高く
 [FID:45, TEXT:0049] なる税金なんて、払え
 [FID:45, TEXT:004A] るわけがあるまい！！
 
---- Group 35 ---
+--- Group 51 [right:char_001A next=2012] ---
 [FID:45, TEXT:004B] ・・・あの者は？
 
---- Group 36 ---
+--- Group 52 [left:char_001E next=2012] ---
 [FID:45, TEXT:004C] はッ、義賊をきどって
 [FID:45, TEXT:004D] いた盗人の頭目です
 
---- Group 37 ---
+--- Group 53 [right:char_001A next=2012] ---
 [FID:45, TEXT:004E] 人の富を盗んだこと
 [FID:45, TEXT:004F] それが貴方の罪では
 [FID:45, TEXT:0050] ありませんか？
 
---- Group 38 ---
+--- Group 54 [left:char_001E next=2012] ---
 [FID:45, TEXT:0051] ハッ、だったら貴様ら
 [FID:45, TEXT:0052] の親玉も同罪だろう？
 
---- Group 39 ---
+--- Group 55 [left:char_001E next=2012] ---
 [FID:45, TEXT:0053] 市民からの税金を力で
 [FID:45, TEXT:0054] 奪い取ってる、立派な
 [FID:45, TEXT:0055] 盗人様だろうが！？
 
---- Group 40 ---
+--- Group 56 [right:char_0038 next=2012] ---
 [FID:45, TEXT:0056] こいつッ！
 [FID:45, TEXT:0057] 口を慎めッ！！
 
---- Group 41 ---
+--- Group 57 [left:char_001E next=2012] ---
 [FID:45, TEXT:0058] ・・・殺せよ
 [FID:45, TEXT:0059] 殺さなきゃ、俺の口は
 [FID:45, TEXT:005A] 止まらんぞ！？
 
---- Group 42 ---
+--- Group 58 [right:char_0038 next=2012] ---
 [FID:45, TEXT:005B] ほざいたなッ！
 
---- Group 43 ---
+--- Group 59 [right:char_0038 next=2015] ---
 [FID:45, TEXT:005C] どうしよう？
 [FID:45, TEXT:005D] 　止めに入る
 [FID:45, TEXT:005E] 　呆然と見ている
 
---- Group 44 ---
+--- Group 60 [right:char_0038 next=2012] ---
 [FID:45, TEXT:0060] アネゴ！
 
---- Group 45 ---
-[FID:45, TEXT:0061] ああ・・・
-[FID:45, TEXT:0062] 行くぞ、ジンガ！
-
---- Group 46 ---
+--- Group 61 [left:char_001E next=0023] ---
 [FID:45, TEXT:0061] ああ・・・
 [FID:45, TEXT:0063] 行こう、ジンガ！
 
---- Group 47 ---
+--- Group 62 [left:char_001E next=0023] ---
+[FID:45, TEXT:0061] ああ・・・
+[FID:45, TEXT:0062] 行くぞ、ジンガ！
+
+--- Group 63 [left:char_001E next=0023] ---
 [FID:45, TEXT:0064] ・・・あれはないよ
 [FID:45, TEXT:0065] ジンガ！
 [FID:45, TEXT:0066] 止めに行こう！
 
---- Group 48 ---
+--- Group 64 [left:char_001E next=0023] ---
 [FID:45, TEXT:0067] ・・・見ていられない
 [FID:45, TEXT:0065] ジンガ！
 [FID:45, TEXT:0068] 止めに行きましょう
 
---- Group 49 ---
+--- Group 65 [right:char_001A next=2012] ---
 [FID:45, TEXT:0069] お待ちなさい！
 
---- Group 50 ---
+--- Group 66 [right:char_001A next=2012] ---
 [FID:45, TEXT:006A] 貴方が行かなくても、
 [FID:45, TEXT:006B] 大丈夫です・・・
 
---- Group 51 ---
+--- Group 67 [left:char_001E next=2012] ---
 [FID:45, TEXT:006C] え？
 
---- Group 52 ---
+--- Group 68 [right:char_0038 next=2012] ---
 [FID:45, TEXT:006D] ぎゃあっ！
 
---- Group 53 ---
+--- Group 69 [right:char_0038 next=2012] ---
+[FID:45, TEXT:006D] ぎゃあっ！
+
+--- Group 70 [right:char_0018 next=2012] ---
 [FID:45, TEXT:006E] 呆れたものだな
 [FID:45, TEXT:006F] 都合の悪いことを力で
 [FID:45, TEXT:0070] 消し去ろうとは
 
---- Group 54 ---
+--- Group 71 [right:char_0018 next=2012] ---
+[FID:45, TEXT:006E] 呆れたものだな
+[FID:45, TEXT:006F] 都合の悪いことを力で
+[FID:45, TEXT:0070] 消し去ろうとは
+
+--- Group 72 [left:char_0004 next=0023] ---
 [FID:45, TEXT:0071] あの人は・・・
 [FID:45, TEXT:0076] このあいだ、わたしを
 [FID:45, TEXT:0077] 助けてくれた剣士？
 
---- Group 55 ---
-[FID:45, TEXT:0071] あの人は・・・
-[FID:45, TEXT:0074] このあいだ、あたしを
-[FID:45, TEXT:0075] 助けてくれた剣士！？
-
---- Group 56 ---
+--- Group 73 [left:char_0004 next=0023] ---
 [FID:45, TEXT:0071] あの人は・・・
 [FID:45, TEXT:0072] 荒野で俺を助けてくれ
 [FID:45, TEXT:0073] た剣士！？
 
---- Group 57 ---
+--- Group 74 [left:char_0004 next=0023] ---
+[FID:45, TEXT:0071] あの人は・・・
+[FID:45, TEXT:0074] このあいだ、あたしを
+[FID:45, TEXT:0075] 助けてくれた剣士！？
+
+--- Group 75 [right:char_0018 next=2012] ---
 [FID:45, TEXT:0078] それが市民を守るべき
 [FID:45, TEXT:0079] 者としての姿か！？
 
---- Group 58 ---
+--- Group 76 [right:char_0018 next=2012] ---
 [FID:45, TEXT:007A] ラムダだ！
 [FID:45, TEXT:007B] 【アキュート】のボス
 [FID:45, TEXT:007C] のラムダだぞっ！！
 
---- Group 59 ---
+--- Group 77 [left:char_0004 next=2012] ---
 [FID:45, TEXT:007D] アキュートの・・・
 [FID:45, TEXT:007E] ラムダ・・・
 
---- Group 60 ---
+--- Group 78 [right:char_0016 next=2012] ---
 [FID:45, TEXT:0081] アネゴっ
 [FID:45, TEXT:0080] あのオッサンが！？
 
---- Group 61 ---
+--- Group 79 [right:char_001A next=2012] ---
 [FID:45, TEXT:0082] 罪なき人々よ！
 [FID:45, TEXT:0083] さあ、今こそ
 [FID:45, TEXT:0084] 立ち上がるのです！！
 
---- Group 62 ---
+--- Group 80 [left:char_0019 next=2012] ---
 [FID:45, TEXT:0085] 貴方たちの生きる権利
 [FID:45, TEXT:0086] は、貴方たち自身の力
 [FID:45, TEXT:0087] で守りなさい！！
 
---- Group 63 ---
+--- Group 81 [right:char_001B next=2012] ---
 [FID:45, TEXT:0088] アキュートは、戦う者
 [FID:45, TEXT:0089] たちの味方だ！
 [FID:45, TEXT:008A] 召喚師の手先になった
 [FID:45, TEXT:008B] 領主を許すなっ！！
 
---- Group 64 ---
+--- Group 82 [right:char_0023 next=2012] ---
 [FID:45, TEXT:008C] 反乱分子・・・
 [FID:45, TEXT:008D] 凝りもせずに・・・
 
---- Group 65 ---
+--- Group 83 [right:char_0023 next=2012] ---
 [FID:45, TEXT:008E] 追い払いなさい！！
 
---- Group 66 ---
+--- Group 84 [right:none next=2012] ---
 [FID:45, TEXT:008F] ひゃー、すっげえ！
 [FID:45, TEXT:0090] あのオッサンたちは、
 [FID:45, TEXT:0091] 反乱分子だったのかよ
 
---- Group 67 ---
+--- Group 85 [left:none next=0023] ---
 [FID:45, TEXT:0092] 感心してる場合じゃあ
 [FID:45, TEXT:0093] ないぞ、ジンガ
 [FID:45, TEXT:0094] 逃げないと俺たちまで
 [FID:45, TEXT:0095] 巻き込まれちまう
 
---- Group 68 ---
+--- Group 86 [left:none next=0023] ---
 [FID:45, TEXT:0096] 感心してる場合じゃな
 [FID:45, TEXT:0097] いぞ、ジンガ
 [FID:45, TEXT:0098] 逃げたほうがいい
 
---- Group 69 ---
+--- Group 87 [left:none next=0023] ---
 [FID:45, TEXT:0099] ・・・逃げようジンガ
 [FID:45, TEXT:009A] はやくしないと
 [FID:45, TEXT:009B] あたしたちも
 [FID:45, TEXT:009C] 巻き込まれちゃう！
 
---- Group 70 ---
+--- Group 88 [left:none next=0023] ---
 [FID:45, TEXT:0099] ・・・逃げようジンガ
 [FID:45, TEXT:009A] はやくしないと
 [FID:45, TEXT:009D] わたしたちも
 [FID:45, TEXT:009E] 巻き込まれるから
 
---- Group 71 ---
+--- Group 89 [right:none next=2012] ---
 [FID:45, TEXT:009F] いいじゃんか
 [FID:45, TEXT:00A0] ついでに暴れてこうぜ
 
---- Group 72 ---
+--- Group 90 [left:none next=0023] ---
 [FID:45, TEXT:00A1] バカ言ってないで、
 [FID:45, TEXT:00A2] 逃げるぞ！
 
---- Group 73 ---
+--- Group 91 [left:none next=0023] ---
 [FID:45, TEXT:00A3] バカなことを
 [FID:45, TEXT:00A4] 言ってるんじゃない
 [FID:45, TEXT:00A5] さあ、急ぐんだ！
 
---- Group 74 ---
+--- Group 92 [left:none next=0023] ---
 [FID:45, TEXT:00A6] バカ言ってないで！
 [FID:45, TEXT:00A7] ほらはやく！
 
---- Group 75 ---
+--- Group 93 [left:none next=0023] ---
 [FID:45, TEXT:00A8] だめ！
 [FID:45, TEXT:00A9] 馬鹿なこと言わないで
 

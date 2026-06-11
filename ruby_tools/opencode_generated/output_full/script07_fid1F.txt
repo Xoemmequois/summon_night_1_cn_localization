@@ -1,332 +1,365 @@
---- Group 1 ---
+--- Group 1 [left:char_0004 next=0023] ---
 [FID:1F, TEXT:0001] 話ってなんだい？
 
---- Group 2 ---
+--- Group 2 [left:char_0004 next=0023] ---
+[FID:1F, TEXT:0001] 話ってなんだい？
+
+--- Group 3 [left:char_0004 next=0023] ---
 [FID:1F, TEXT:0002] 話って？
 
---- Group 3 ---
+--- Group 4 [left:char_0004 next=0023] ---
+[FID:1F, TEXT:0002] 話って？
+
+--- Group 5 [left:char_0004 next=0023] ---
 [FID:1F, TEXT:0003] 話ってなんですか？
 
---- Group 4 ---
+--- Group 6 [left:char_0004 next=0023] ---
+[FID:1F, TEXT:0003] 話ってなんですか？
+
+--- Group 7 [right:char_0008 next=2012] ---
 [FID:1F, TEXT:0004] お前の持ってる力
 [FID:1F, TEXT:0005] 説明しとかなけりゃ
 [FID:1F, TEXT:0006] ならないだろ？
 
---- Group 5 ---
+--- Group 8 [left:char_0004 next=2012] ---
 [FID:1F, TEXT:0007] あの不思議な光の
 [FID:1F, TEXT:0008] ことか？
 
---- Group 6 ---
+--- Group 9 [left:char_0004 next=0023] ---
 [FID:1F, TEXT:0009] 使っておいて言うのも
 [FID:1F, TEXT:000A] なんだが、あれは一体
 [FID:1F, TEXT:000B] どういう力なんだ？
 
---- Group 7 ---
+--- Group 10 [left:char_0004 next=2012] ---
 [FID:1F, TEXT:000C] もしかして
 [FID:1F, TEXT:000D] あの光のこと？
 
---- Group 8 ---
+--- Group 11 [left:char_0004 next=0023] ---
 [FID:1F, TEXT:000E] 自分でやっといて
 [FID:1F, TEXT:000F] 言うのもなんだけど
 [FID:1F, TEXT:0010] なにあれ？
 
---- Group 9 ---
+--- Group 12 [left:char_0004 next=2012] ---
 [FID:1F, TEXT:0011] ええ、あの不思議な
 [FID:1F, TEXT:0012] 光のことですね
 
---- Group 10 ---
+--- Group 13 [left:char_0004 next=0023] ---
 [FID:1F, TEXT:0013] 自分で使っておいて、
 [FID:1F, TEXT:0014] こういうのも
 [FID:1F, TEXT:0015] なんなんですが・・・
 [FID:1F, TEXT:0016] あれはなんですか？
 
---- Group 11 ---
+--- Group 14 [right:char_0008 next=2012] ---
 [FID:1F, TEXT:0017] 俺にもはっきりとした
 [FID:1F, TEXT:0018] ことはわからないが、
 [FID:1F, TEXT:0019] たぶん【召喚術】の
 [FID:1F, TEXT:001A] 一種に間違いない
 
---- Group 12 ---
+--- Group 15 [left:char_0004 next=0023] ---
 [FID:1F, TEXT:001B] ちょっと待ってくれ
 [FID:1F, TEXT:001C] 召喚術ってのは召喚師
 [FID:1F, TEXT:001D] しか使えないものなん
 [FID:1F, TEXT:001E] じゃないのか？
 
---- Group 13 ---
+--- Group 16 [left:char_0004 next=2012] ---
 [FID:1F, TEXT:001F] ・・・
 [FID:1F, TEXT:0020] それってさ
 [FID:1F, TEXT:0021] わかんないも
 [FID:1F, TEXT:0022] 同然じゃん・・・
 
---- Group 14 ---
+--- Group 17 [left:char_0004 next=0023] ---
 [FID:1F, TEXT:0023] だいたい召喚術って
 [FID:1F, TEXT:0024] 召喚師しか
 [FID:1F, TEXT:0025] 使えないって
 [FID:1F, TEXT:0026] 言ってなかった？
 
---- Group 15 ---
+--- Group 18 [left:char_0004 next=0023] ---
 [FID:1F, TEXT:0027] え・・・
 [FID:1F, TEXT:0028] 召喚術というのは
 [FID:1F, TEXT:0029] 召喚師しか使えないと
 [FID:1F, TEXT:002A] 聞きましたけど
 
---- Group 16 ---
+--- Group 19 [right:char_0008 next=2012] ---
 [FID:1F, TEXT:002B] 普通の奴等はそう思っ
 [FID:1F, TEXT:002C] ているようだけど、
 [FID:1F, TEXT:002D] それは違ってる
 
---- Group 17 ---
+--- Group 20 [right:char_0008 next=2012] ---
 [FID:1F, TEXT:002E] 方法さえ知っていれば
 [FID:1F, TEXT:002F] 召喚術は誰でも使える
 
---- Group 18 ---
+--- Group 21 [left:char_0004 next=0023] ---
 [FID:1F, TEXT:0030] ！？
 
---- Group 19 ---
+--- Group 22 [left:char_0004 next=0023] ---
 [FID:1F, TEXT:0031] そうなの！？
 
---- Group 20 ---
+--- Group 23 [left:char_0004 next=0023] ---
 [FID:1F, TEXT:0032] そうなんですか？
 [FID:1F, TEXT:0033] でも、わたし召喚術
 [FID:1F, TEXT:0034] の使い方なんて・・・
 
---- Group 21 ---
+--- Group 24 [right:char_0008 next=2012] ---
 [FID:1F, TEXT:0035] ま・・・
 [FID:1F, TEXT:0036] 詳しくはあとで説明
 [FID:1F, TEXT:0037] するとして・・・
 
---- Group 22 ---
+--- Group 25 [right:char_0008 next=2012] ---
 [FID:1F, TEXT:0038] ただ、お前の力は、
 [FID:1F, TEXT:0039] どうも違うみたいだ
 [FID:1F, TEXT:003A] 呪文も儀式も必要とし
 [FID:1F, TEXT:003B] ないんだからな
 
---- Group 23 ---
+--- Group 26 [right:char_0008 next=2012] ---
 [FID:1F, TEXT:003C] あんなことは熟達した
 [FID:1F, TEXT:003D] 召喚師でも
 [FID:1F, TEXT:003E] できっこない
 
---- Group 24 ---
+--- Group 27 [left:char_0004 next=0023] ---
 [FID:1F, TEXT:003F] そんなに、すごいこと
 [FID:1F, TEXT:0040] だったのか・・・
 
---- Group 25 ---
+--- Group 28 [left:char_0004 next=0023] ---
 [FID:1F, TEXT:0041] あたしって
 [FID:1F, TEXT:0042] もしかしてすごいかな
 
---- Group 26 ---
+--- Group 29 [left:char_0004 next=0023] ---
 [FID:1F, TEXT:0043] ・・・そんなにも
 [FID:1F, TEXT:0044] すごいこと
 [FID:1F, TEXT:0045] ・・・なんですか？
 
---- Group 27 ---
+--- Group 30 [right:char_0008 next=2012] ---
 [FID:1F, TEXT:0046] ただし、問題もある
 
---- Group 28 ---
+--- Group 31 [right:char_0008 next=2012] ---
 [FID:1F, TEXT:0047] お前の召喚術はまだ
 [FID:1F, TEXT:0048] 未熟なんだ。きっちり
 [FID:1F, TEXT:0049] 制御しないと、暴発を
 [FID:1F, TEXT:004A] 起こす危険がある
 
---- Group 29 ---
+--- Group 32 [left:char_0004 next=0023] ---
 [FID:1F, TEXT:004B] それは困るな・・・
 
---- Group 30 ---
+--- Group 33 [left:char_0004 next=0023] ---
 [FID:1F, TEXT:004C] ・・・あ、やっぱり？
 
---- Group 31 ---
+--- Group 34 [left:char_0004 next=0023] ---
 [FID:1F, TEXT:004D] そんな！？
 
---- Group 32 ---
+--- Group 35 [right:char_0008 next=2012] ---
 [FID:1F, TEXT:004E] そこで、だ
 [FID:1F, TEXT:004F] これから俺が、初歩の
 [FID:1F, TEXT:0050] 召喚術の手順を教えよ
 [FID:1F, TEXT:0051] うと思うんだが・・
 
---- Group 33 ---
+--- Group 36 [right:char_0008 next=2012] ---
 [FID:1F, TEXT:0052] 覚えたか？
 
---- Group 34 ---
+--- Group 37 [left:char_0004 next=2012] ---
 [FID:1F, TEXT:0053] ああ、まず
 [FID:1F, TEXT:0054] 【サモナイト石】に
 [FID:1F, TEXT:0055] 精神を集中して・・・
 
---- Group 35 ---
+--- Group 38 [left:char_0004 next=0023] ---
 [FID:1F, TEXT:0056] 次に何かの行動を起こ
 [FID:1F, TEXT:0057] せば【召喚術】が発動
 [FID:1F, TEXT:0058] するんだな？
 
---- Group 36 ---
+--- Group 39 [left:char_0004 next=2012] ---
 [FID:1F, TEXT:0059] 簡単だよ
 [FID:1F, TEXT:005A] まず【サモナイト石】
 [FID:1F, TEXT:005B] に精神を集中して、と
 
---- Group 37 ---
+--- Group 40 [left:char_0004 next=0023] ---
 [FID:1F, TEXT:005C] で、なにか行動を起こ
 [FID:1F, TEXT:0057] せば【召喚術】が発動
 [FID:1F, TEXT:005D] する、と
 
---- Group 38 ---
+--- Group 41 [left:char_0004 next=2012] ---
 [FID:1F, TEXT:005E] え、はいなんとか
 [FID:1F, TEXT:005A] まず【サモナイト石】
 [FID:1F, TEXT:005F] に精神を集中して・・
 
---- Group 39 ---
+--- Group 42 [left:char_0004 next=0023] ---
 [FID:1F, TEXT:0060] 次に何かの行動を
 [FID:1F, TEXT:0061] 起こせば【召喚術】が
 [FID:1F, TEXT:0062] 発動する
 [FID:1F, TEXT:0063] ・・・ですよね？
 
---- Group 40 ---
+--- Group 43 [right:char_0008 next=2012] ---
 [FID:1F, TEXT:0064] なんだけどな・・・
 [FID:1F, TEXT:0065] 実はこの方法は
 [FID:1F, TEXT:0066] あまり確実じゃない
 [FID:1F, TEXT:0067] のさ
 
---- Group 41 ---
+--- Group 44 [right:char_0008 next=2012] ---
 [FID:1F, TEXT:0068] いちいちサモナイト石
 [FID:1F, TEXT:0069] を消耗するし、望んだ
 [FID:1F, TEXT:006A] 召喚術が確実に使える
 [FID:1F, TEXT:006B] わけじゃないからな
 
---- Group 42 ---
+--- Group 45 [left:char_0004 next=0023] ---
 [FID:1F, TEXT:006C] たしかに・・・
 
---- Group 43 ---
+--- Group 46 [left:char_0004 next=0023] ---
 [FID:1F, TEXT:006D] ・・・だめじゃん
 
---- Group 44 ---
+--- Group 47 [left:char_0004 next=0023] ---
 [FID:1F, TEXT:006E] そうですね・・・
 
---- Group 45 ---
+--- Group 48 [right:char_0008 next=2012] ---
 [FID:1F, TEXT:006F] だから召喚師たちは、
 [FID:1F, TEXT:0070] 【誓約】という儀式を
 [FID:1F, TEXT:0071] 一緒に行うのさ
 
---- Group 46 ---
+--- Group 49 [left:char_0004 next=0023] ---
 [FID:1F, TEXT:0072] 誓約？
 
---- Group 47 ---
+--- Group 50 [left:char_0004 next=0023] ---
 [FID:1F, TEXT:0073] 誓・・・約？
 
---- Group 48 ---
+--- Group 51 [right:char_0008 next=2012] ---
 [FID:1F, TEXT:0074] そう
 [FID:1F, TEXT:0075] 呼び出された召喚獣に
 [FID:1F, TEXT:0076] 名前をつける儀式さ
 
---- Group 49 ---
+--- Group 52 [right:char_0008 next=2012] ---
 [FID:1F, TEXT:0077] 名前をつけた召喚獣は
 [FID:1F, TEXT:0078] 魔力を消費するだけで
 [FID:1F, TEXT:0079] いつでも自由に呼べる
 [FID:1F, TEXT:007A] ようになる
 
---- Group 50 ---
+--- Group 53 [right:char_0008 next=2012] ---
 [FID:1F, TEXT:007B] たとえ名づけた本人で
 [FID:1F, TEXT:007C] なくても、だけどな
 
---- Group 51 ---
+--- Group 54 [left:char_0004 next=0023] ---
 [FID:1F, TEXT:007D] それが、さっき言って
 [FID:1F, TEXT:0081] た特別な方法ですか？
 
---- Group 52 ---
+--- Group 55 [left:char_0004 next=0023] ---
 [FID:1F, TEXT:007D] それが、さっき言って
 [FID:1F, TEXT:007E] た特別な方法か・・・
 
---- Group 53 ---
+--- Group 56 [left:char_0004 next=0023] ---
 [FID:1F, TEXT:007F] これが
 [FID:1F, TEXT:0080] もうひとつの方法ね
 
---- Group 54 ---
+--- Group 57 [right:char_0008 next=2012] ---
 [FID:1F, TEXT:0082] ああ、ご名答、だ
 
---- Group 55 ---
+--- Group 58 [right:char_0008 next=2012] ---
 [FID:1F, TEXT:0083] 本当なら、こんなこと
 [FID:1F, TEXT:0084] 普通の奴に教えちゃ
 [FID:1F, TEXT:0085] いけないんだが・・・
 
---- Group 56 ---
+--- Group 59 [right:char_0008 next=2012] ---
 [FID:1F, TEXT:0086] 今回は特別だ
 [FID:1F, TEXT:0087] 俺はお前を信じる
 [FID:1F, TEXT:0088] ことにする
 
---- Group 57 ---
+--- Group 60 [left:char_0004 next=0023] ---
 [FID:1F, TEXT:0089] ソル・・・
 
---- Group 58 ---
+--- Group 61 [left:char_0004 next=0023] ---
 [FID:1F, TEXT:008A] ありがとう・・・
 
---- Group 59 ---
+--- Group 62 [left:char_0004 next=0023] ---
 [FID:1F, TEXT:0133] ・・・というわけでさ
 [FID:1F, TEXT:0134] 理由はわからないけど
 [FID:1F, TEXT:0135] 俺は【召喚術】が使え
 [FID:1F, TEXT:0136] るみたいなんだ
 
---- Group 60 ---
+--- Group 63 [left:char_0004 next=0023] ---
+[FID:1F, TEXT:0133] ・・・というわけでさ
+[FID:1F, TEXT:0134] 理由はわからないけど
+[FID:1F, TEXT:0135] 俺は【召喚術】が使え
+[FID:1F, TEXT:0136] るみたいなんだ
+
+--- Group 64 [left:char_0004 next=0023] ---
 [FID:1F, TEXT:0137] ・・・というわけだ
 [FID:1F, TEXT:0138] 理由はわからないが、
 [FID:1F, TEXT:0139] 僕は【召喚術】が使え
 [FID:1F, TEXT:013A] るらしい
 
---- Group 61 ---
+--- Group 65 [left:char_0004 next=0023] ---
+[FID:1F, TEXT:0137] ・・・というわけだ
+[FID:1F, TEXT:0138] 理由はわからないが、
+[FID:1F, TEXT:0139] 僕は【召喚術】が使え
+[FID:1F, TEXT:013A] るらしい
+
+--- Group 66 [left:char_0004 next=0023] ---
 [FID:1F, TEXT:013B] ・・・でさ
 [FID:1F, TEXT:0134] 理由はわからないけど
 [FID:1F, TEXT:013C] 【召喚術】が使える
 [FID:1F, TEXT:013D] みたい、あたし
 
---- Group 62 ---
+--- Group 67 [left:char_0004 next=0023] ---
+[FID:1F, TEXT:013B] ・・・でさ
+[FID:1F, TEXT:0134] 理由はわからないけど
+[FID:1F, TEXT:013C] 【召喚術】が使える
+[FID:1F, TEXT:013D] みたい、あたし
+
+--- Group 68 [left:char_0004 next=0023] ---
 [FID:1F, TEXT:013E] ・・というわけで、
 [FID:1F, TEXT:0134] 理由はわからないけど
 [FID:1F, TEXT:013F] わたしは【召喚術】が
 [FID:1F, TEXT:0140] 使えるみたいなの
 
---- Group 63 ---
+--- Group 69 [left:char_0004 next=0023] ---
+[FID:1F, TEXT:013E] ・・というわけで、
+[FID:1F, TEXT:0134] 理由はわからないけど
+[FID:1F, TEXT:013F] わたしは【召喚術】が
+[FID:1F, TEXT:0140] 使えるみたいなの
+
+--- Group 70 [right:char_0012 next=2012] ---
 [FID:1F, TEXT:0141] にわかには信じがたい
 [FID:1F, TEXT:0142] 話だが・・・
 
---- Group 64 ---
+--- Group 71 [right:char_0014 next=2012] ---
 [FID:1F, TEXT:0143] で、なんだ
 
---- Group 65 ---
+--- Group 72 [right:char_0014 next=2012] ---
 [FID:1F, TEXT:0144] お前さんが【誓約】
 [FID:1F, TEXT:0145] とやらをすれば、
 [FID:1F, TEXT:0146] ワシらにも召喚術が
 [FID:1F, TEXT:0147] 使えるってことか？
 
---- Group 66 ---
+--- Group 73 [left:char_0004 next=0023] ---
 [FID:1F, TEXT:0148] 俺がきちんと【誓約】
 [FID:1F, TEXT:0149] ができればね
 [FID:1F, TEXT:014A] まだ、試してないから
 
---- Group 67 ---
+--- Group 74 [left:char_0004 next=0023] ---
 [FID:1F, TEXT:014B] 僕がきちんと【誓約】
 [FID:1F, TEXT:014C] ができるのならね
 [FID:1F, TEXT:014D] 試してみないとわから
 [FID:1F, TEXT:014E] ないけれど
 
---- Group 68 ---
+--- Group 75 [left:char_0004 next=0023] ---
 [FID:1F, TEXT:014F] できれば、だけどね
 [FID:1F, TEXT:0150] あたし、まだ【誓約】
 [FID:1F, TEXT:0151] って、試してないから
 
---- Group 69 ---
+--- Group 76 [left:char_0004 next=0023] ---
 [FID:1F, TEXT:0152] わたしがきちんと
 [FID:1F, TEXT:0153] 【誓約】ができれば
 [FID:1F, TEXT:0154] ですけど・・・
 [FID:1F, TEXT:0155] まだ試してないので
 
---- Group 70 ---
+--- Group 77 [left:char_0013 next=2012] ---
 [FID:1F, TEXT:0156] 心配なんかいらねえと
 [FID:1F, TEXT:0157] 俺は思うぜ
 [FID:1F, TEXT:0158] 今までだって、無意識
 [FID:1F, TEXT:0159] で使えてたんだしよ
 
---- Group 71 ---
+--- Group 78 [right:char_0012 next=2012] ---
 [FID:1F, TEXT:015A] ・・・・・・
 
---- Group 72 ---
+--- Group 79 [left:char_0013 next=2012] ---
 [FID:1F, TEXT:015B] ん、どうしたレイド？
 
---- Group 73 ---
+--- Group 80 [right:char_0012 next=2012] ---
 [FID:1F, TEXT:015C] あ、いや
 [FID:1F, TEXT:015D] ちょっと、な・・・
 

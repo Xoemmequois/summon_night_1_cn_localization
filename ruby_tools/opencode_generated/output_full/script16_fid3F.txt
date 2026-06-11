@@ -1,218 +1,224 @@
---- Group 1 ---
+--- Group 1 [right:none next=2012] ---
 [FID:3F, TEXT:0001] バノッサさんが
 [FID:3F, TEXT:0002] 召喚術を欲しがる
 [FID:3F, TEXT:0003] 理由ですか？
 
---- Group 2 ---
-[FID:3F, TEXT:0004] ああ、それがわからな
-[FID:3F, TEXT:0005] くては答えの出しよう
-[FID:3F, TEXT:0006] がないんだ
-
---- Group 3 ---
+--- Group 2 [left:none next=0023] ---
 [FID:3F, TEXT:0004] ああ、それがわからな
 [FID:3F, TEXT:0007] いことには話にならな
 [FID:3F, TEXT:0008] い気がするんだ
 
---- Group 4 ---
+--- Group 3 [left:none next=0023] ---
+[FID:3F, TEXT:0004] ああ、それがわからな
+[FID:3F, TEXT:0005] くては答えの出しよう
+[FID:3F, TEXT:0006] がないんだ
+
+--- Group 4 [left:none next=0023] ---
 [FID:3F, TEXT:0009] うん、それがわかんな
 [FID:3F, TEXT:000A] いと、なんともならな
 [FID:3F, TEXT:000B] いんだよね
 
---- Group 5 ---
+--- Group 5 [left:none next=0023] ---
 [FID:3F, TEXT:000C] ええ、それがわからな
 [FID:3F, TEXT:000D] いと、答えの出しよう
 [FID:3F, TEXT:000E] がないんですよ
 
---- Group 6 ---
+--- Group 6 [right:none next=2012] ---
 [FID:3F, TEXT:000F] ・・・・・・
 
---- Group 7 ---
+--- Group 7 [left:char_0032 next=2012] ---
+[FID:3F, TEXT:000F] ・・・・・・
+
+--- Group 8 [left:none next=0023] ---
 [FID:3F, TEXT:0010] 教えてくれないか？
 
---- Group 8 ---
+--- Group 9 [left:none next=0023] ---
 [FID:3F, TEXT:0011] ね、教えて！
 
---- Group 9 ---
+--- Group 10 [left:none next=0023] ---
 [FID:3F, TEXT:0012] 教えてください
 
---- Group 10 ---
+--- Group 11 [right:none next=2012] ---
 [FID:3F, TEXT:0013] きっと・・・
 [FID:3F, TEXT:0014] 自由になりたいから
 [FID:3F, TEXT:0015] だと思います・・・
 
---- Group 11 ---
+--- Group 12 [left:none next=0023] ---
 [FID:3F, TEXT:0016] 自由になりたい？
 
---- Group 12 ---
+--- Group 13 [left:none next=0023] ---
 [FID:3F, TEXT:0017] 自由・・・に？
 
---- Group 13 ---
+--- Group 14 [left:none next=0023] ---
 [FID:3F, TEXT:0018] 自由・・・ですか？
 
---- Group 14 ---
+--- Group 15 [right:none next=2012] ---
 [FID:3F, TEXT:0019] 誰にも負けない力を手
 [FID:3F, TEXT:001A] に入れれば、誰からも
 [FID:3F, TEXT:001B] 邪魔をされることなく
 [FID:3F, TEXT:001C] 生きていける
 
---- Group 15 ---
+--- Group 16 [right:none next=2012] ---
 [FID:3F, TEXT:001D] バノッサさんはきっと
 [FID:3F, TEXT:001E] そう思ってるんです
 
---- Group 16 ---
+--- Group 17 [left:none next=2012] ---
 [FID:3F, TEXT:001F] ちょっと待ってくれ
 
---- Group 17 ---
+--- Group 18 [left:none next=0023] ---
 [FID:3F, TEXT:0020] 今だってバノッサは、
 [FID:3F, TEXT:0021] 好き放題に生きている
 [FID:3F, TEXT:0024] じゃないか？
 
---- Group 18 ---
+--- Group 19 [left:none next=2012] ---
 [FID:3F, TEXT:0020] 今だってバノッサは、
 [FID:3F, TEXT:0021] 好き放題に生きている
 [FID:3F, TEXT:0022] じゃないか
 
---- Group 19 ---
+--- Group 20 [left:none next=0023] ---
 [FID:3F, TEXT:0023] なのに、どうして！？
 
---- Group 20 ---
+--- Group 21 [left:none next=2012] ---
 [FID:3F, TEXT:0025] 待ってよ！
 
---- Group 21 ---
+--- Group 22 [left:none next=2012] ---
 [FID:3F, TEXT:0026] バノッサって・・・
 [FID:3F, TEXT:0027] あたしには好き勝手に
 [FID:3F, TEXT:0028] 生きてるように
 [FID:3F, TEXT:0029] 見えるよ・・・？
 
---- Group 22 ---
+--- Group 23 [left:none next=2012] ---
 [FID:3F, TEXT:002A] あの・・・
 
---- Group 23 ---
+--- Group 24 [left:none next=2012] ---
 [FID:3F, TEXT:002B] 今でもバノッサさんは
 [FID:3F, TEXT:0021] 好き放題に生きている
 [FID:3F, TEXT:002C] ように見えますが？
 
---- Group 24 ---
+--- Group 25 [left:none next=0023] ---
 [FID:3F, TEXT:002D] なぜでしょうか・・・
 
---- Group 25 ---
+--- Group 26 [right:none next=2012] ---
 [FID:3F, TEXT:002E] 見かけはそうなのかも
 [FID:3F, TEXT:002F] しれません
 
---- Group 26 ---
+--- Group 27 [right:none next=2012] ---
 [FID:3F, TEXT:0030] だけど、バノッサさん
 [FID:3F, TEXT:0031] は、本当は・・・
 
---- Group 27 ---
+--- Group 28 [right:char_0030 next=2012] ---
 [FID:3F, TEXT:0032] カノンッ！！
 
---- Group 28 ---
+--- Group 29 [left:char_0004 next=0023] ---
 [FID:3F, TEXT:0033] ！？
 
---- Group 29 ---
+--- Group 30 [left:char_0004 next=2012] ---
+[FID:3F, TEXT:0033] ！？
+
+--- Group 31 [right:char_0030 next=2012] ---
 [FID:3F, TEXT:0034] そんな野郎と、なにを
 [FID:3F, TEXT:0035] 喋ってんだ・・・？
 
---- Group 30 ---
+--- Group 32 [left:char_0032 next=2012] ---
 [FID:3F, TEXT:0036] バノッサさん・・・
 
---- Group 31 ---
+--- Group 33 [right:char_0030 next=2012] ---
 [FID:3F, TEXT:0037] なにを喋ってんだって
 [FID:3F, TEXT:0038] 言ってるんだよッ！？
 
---- Group 32 ---
+--- Group 34 [left:char_0032 next=2012] ---
 [FID:3F, TEXT:0039] うあっ！
 
---- Group 33 ---
+--- Group 35 [left:char_0004 next=0023] ---
 [FID:3F, TEXT:003A] やめろっ、バノッサ！
 
---- Group 34 ---
+--- Group 36 [left:char_0004 next=0023] ---
 [FID:3F, TEXT:003B] やめろ、バノッサ！
 
---- Group 35 ---
+--- Group 37 [left:char_0004 next=0023] ---
 [FID:3F, TEXT:003C] やめてっ、バノッサ！
 
---- Group 36 ---
+--- Group 38 [left:char_0004 next=0023] ---
 [FID:3F, TEXT:003D] バノッサさん！
 [FID:3F, TEXT:003E] やめてください！
 
---- Group 37 ---
+--- Group 39 [right:char_0030 next=2012] ---
 [FID:3F, TEXT:003F] すっこんでろッ！
 [FID:3F, TEXT:0040] はぐれ野郎ッ！！
 
---- Group 38 ---
+--- Group 40 [right:char_0030 next=2012] ---
 [FID:3F, TEXT:0041] カノン・・・
 [FID:3F, TEXT:0042] 手前ェ、俺様を裏切る
 [FID:3F, TEXT:0043] 気なのか？
 
---- Group 39 ---
+--- Group 41 [left:char_0004 next=0023] ---
 [FID:3F, TEXT:0041] カノン・・・
 
---- Group 40 ---
+--- Group 42 [left:char_0032 next=2012] ---
 [FID:3F, TEXT:0044] そんな、こと・・・
 
---- Group 41 ---
+--- Group 43 [right:char_0030 next=2012] ---
 [FID:3F, TEXT:0045] 口ではなんとでも
 [FID:3F, TEXT:0046] 言えるよなァ、
 [FID:3F, TEXT:0047] カノン？
 
---- Group 42 ---
+--- Group 44 [right:char_0030 next=2012] ---
 [FID:3F, TEXT:0048] だがな、それだけじゃ
 [FID:3F, TEXT:0049] 納得できねェッ！！
 
---- Group 43 ---
+--- Group 45 [right:char_0030 next=2012] ---
 [FID:3F, TEXT:004A] 証明してくれよ・・・
 
---- Group 44 ---
+--- Group 46 [right:char_0030 next=2012] ---
 [FID:3F, TEXT:004B] お前の手で、こいつを
 [FID:3F, TEXT:004C] ぶちのめせッ！！
 
---- Group 45 ---
+--- Group 47 [left:char_0004 next=0023] ---
 [FID:3F, TEXT:004D] え・・・
 
---- Group 46 ---
+--- Group 48 [right:char_0030 next=2012] ---
 [FID:3F, TEXT:004E] あの時の誓いを忘れて
 [FID:3F, TEXT:004F] ねェなら、できるはず
 [FID:3F, TEXT:0050] だよなァ？
 
---- Group 47 ---
+--- Group 49 [right:char_0030 next=2012] ---
 [FID:3F, TEXT:0051] 返事はどうしたんだ
 [FID:3F, TEXT:0052] カノンッ！？
 
---- Group 48 ---
+--- Group 50 [left:char_0032 next=2012] ---
 [FID:3F, TEXT:0053] ・・・わかりました
 
---- Group 49 ---
+--- Group 51 [left:char_0032 next=2012] ---
 [FID:3F, TEXT:0054] お望みのとおり、ボク
 [FID:3F, TEXT:0055] がこの人をやっつけて
 [FID:3F, TEXT:0056] みせます
 
---- Group 50 ---
+--- Group 52 [left:char_0032 next=2012] ---
 [FID:3F, TEXT:0057] あの誓いが嘘ではない
 [FID:3F, TEXT:0058] と証明します
 
---- Group 51 ---
+--- Group 53 [left:char_0004 next=0023] ---
 [FID:3F, TEXT:0059] カノンさん・・・
 
---- Group 52 ---
+--- Group 54 [right:char_0030 next=2012] ---
 [FID:3F, TEXT:005A] ククククッ！
 [FID:3F, TEXT:005B] よく言った、カノン！
 
---- Group 53 ---
+--- Group 55 [right:char_0030 next=2012] ---
 [FID:3F, TEXT:005C] 聞いてのとおりだ
 [FID:3F, TEXT:005D] はぐれ野郎
 
---- Group 54 ---
+--- Group 56 [right:char_0030 next=2012] ---
 [FID:3F, TEXT:005E] さっさとお仲間を
 [FID:3F, TEXT:005F] 呼んでこいよ？
 [FID:3F, TEXT:0060] 俺様たちと手前ェらの
 [FID:3F, TEXT:0061] 決着をつけてやる
 
---- Group 55 ---
+--- Group 57 [right:char_0030 next=2012] ---
 [FID:3F, TEXT:0062] 手前ェが逃げたなら、
 [FID:3F, TEXT:0063] カノンがどうなるかは
 [FID:3F, TEXT:0064] わかるよなァ？
 
---- Group 56 ---
+--- Group 58 [right:char_0030 next=2012] ---
 [FID:3F, TEXT:0065] 楽しみに待ってるぜ！
 

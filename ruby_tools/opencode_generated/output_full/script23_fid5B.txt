@@ -1,347 +1,389 @@
---- Group 1 ---
-[FID:5B, TEXT:0001] しかしまた、ずいぶん
-[FID:5B, TEXT:0002] と買いこんだよなあ
-
---- Group 2 ---
+--- Group 1 [left:none next=0023] ---
 [FID:5B, TEXT:0001] しかしまた、ずいぶん
 [FID:5B, TEXT:0003] と買いこんだね
 
---- Group 3 ---
+--- Group 2 [left:none next=0023] ---
+[FID:5B, TEXT:0001] しかしまた、ずいぶん
+[FID:5B, TEXT:0002] と買いこんだよなあ
+
+--- Group 3 [left:none next=0023] ---
 [FID:5B, TEXT:0004] なんか、すごく
 [FID:5B, TEXT:0005] たくさん買ったね
 
---- Group 4 ---
+--- Group 4 [left:none next=0023] ---
 [FID:5B, TEXT:0006] でも、ずいぶんと
 [FID:5B, TEXT:0007] 買いこみましたね
 
---- Group 5 ---
+--- Group 5 [right:none next=2012] ---
 [FID:5B, TEXT:0008] 大人数になったぶん、
 [FID:5B, TEXT:0009] こうやってまとめ買い
 [FID:5B, TEXT:000A] して節約しないとね
 
---- Group 6 ---
+--- Group 6 [right:none next=2012] ---
 [FID:5B, TEXT:000B] 自分のお腹に
 [FID:5B, TEXT:000C] 入るものなんだから、
 [FID:5B, TEXT:000D] がんばれるでしょ？
 
---- Group 7 ---
+--- Group 7 [left:none next=0023] ---
 [FID:5B, TEXT:000E] とほほ・・・
 
---- Group 8 ---
+--- Group 8 [left:none next=0023] ---
 [FID:5B, TEXT:000F] まあ、ね
 
---- Group 9 ---
+--- Group 9 [left:none next=0023] ---
 [FID:5B, TEXT:0010] あ、それを言われると
 
---- Group 10 ---
+--- Group 10 [left:none next=2012] ---
 [FID:5B, TEXT:0011] そうですね・・・
 
---- Group 11 ---
+--- Group 11 [left:none next=0023] ---
 [FID:5B, TEXT:0012] あんまり、食べる方
 [FID:5B, TEXT:0013] だとは、思わないの
 [FID:5B, TEXT:0014] だけれど・・・
 
---- Group 12 ---
+--- Group 12 [left:none next=2012] ---
 [FID:5B, TEXT:0018] おやおや
 [FID:5B, TEXT:0019] 仲良くお買い物でも
 [FID:5B, TEXT:001A] してきたのかい？
 
---- Group 13 ---
+--- Group 13 [left:none next=0023] ---
 [FID:5B, TEXT:001B] この声は・・・
 
---- Group 14 ---
+--- Group 14 [left:none next=0023] ---
 [FID:5B, TEXT:001C] この声・・・？
 
---- Group 15 ---
+--- Group 15 [left:none next=0023] ---
+[FID:5B, TEXT:001D] どうしよう？
+
+--- Group 16 [right:none next=0023] ---
+[FID:5B, TEXT:001D] どうしよう？
+
+--- Group 17 [right:char_001B next=0023] ---
+[FID:5B, TEXT:001D] どうしよう？
+
+--- Group 18 [right:char_001B next=2015] ---
 [FID:5B, TEXT:001D] どうしよう？
 [FID:5B, TEXT:0099] 　自分がついていく
 [FID:5B, TEXT:009A] 　レイドに選ばせる
 
---- Group 16 ---
-[FID:5B, TEXT:001D] どうしよう？
-
---- Group 17 ---
+--- Group 19 [left:none next=0023] ---
 [FID:5B, TEXT:001E] 　スタウトか！？
 [FID:5B, TEXT:001F] 　姿を見せろっ！
 
---- Group 18 ---
+--- Group 20 [left:none next=0023] ---
 [FID:5B, TEXT:0020] 　スタウト！？
 [FID:5B, TEXT:0021] 　姿を見せなさい！
 
---- Group 19 ---
+--- Group 21 [left:none next=0023] ---
 [FID:5B, TEXT:0022] 　スタウトさん？
 [FID:5B, TEXT:0023] 　誰ですか？
 
---- Group 20 ---
+--- Group 22 [left:none next=0023] ---
 [FID:5B, TEXT:0024] スタウトか！？
 
---- Group 21 ---
+--- Group 23 [left:none next=0023] ---
 [FID:5B, TEXT:0025] スタウト！？
 
---- Group 22 ---
+--- Group 24 [left:none next=0023] ---
 [FID:5B, TEXT:0026] スタウトさん？
 
---- Group 23 ---
+--- Group 25 [right:char_001B next=2012] ---
 [FID:5B, TEXT:0027] へへへっ
 [FID:5B, TEXT:0028] 大当たりってかぁ
 
---- Group 24 ---
+--- Group 26 [right:char_001B next=2012] ---
 [FID:5B, TEXT:0029] うそ・・・
 [FID:5B, TEXT:002A] 屋根の上にいたなんて
 
---- Group 25 ---
+--- Group 27 [left:none next=0023] ---
 [FID:5B, TEXT:002B] 姿を見せろっ！
 
---- Group 26 ---
+--- Group 28 [left:none next=0023] ---
 [FID:5B, TEXT:002C] 姿を見せなさい！
 
---- Group 27 ---
+--- Group 29 [left:none next=0023] ---
 [FID:5B, TEXT:002D] 誰ですか！？
 
---- Group 28 ---
+--- Group 30 [left:char_001B next=2012] ---
 [FID:5B, TEXT:002E] 別に怒鳴らなくたって
 [FID:5B, TEXT:002F] いいだろ・・・
 [FID:5B, TEXT:0030] あんたの真後ろに
 [FID:5B, TEXT:0031] いるぜ・・・
 
---- Group 29 ---
+--- Group 31 [right:none next=2012] ---
 [FID:5B, TEXT:0032] きゃっ！？
 
---- Group 30 ---
+--- Group 32 [right:none next=2012] ---
 [FID:5B, TEXT:0033] へへへっ、悪いな
 [FID:5B, TEXT:0034] 悪趣味な登場でよ
 
---- Group 31 ---
+--- Group 33 [left:none next=0023] ---
 [FID:5B, TEXT:0035] 俺に何の用だ？
 
---- Group 32 ---
+--- Group 34 [left:none next=0023] ---
+[FID:5B, TEXT:0035] 俺に何の用だ？
+
+--- Group 35 [left:none next=0023] ---
 [FID:5B, TEXT:0036] 僕に何の用だ？
 
---- Group 33 ---
+--- Group 36 [left:none next=0023] ---
 [FID:5B, TEXT:0037] 何の用？
 [FID:5B, TEXT:0038] こっちは忙しいの！
 
---- Group 34 ---
+--- Group 37 [left:none next=0023] ---
 [FID:5B, TEXT:0039] なんでしょうか？
 
---- Group 35 ---
+--- Group 38 [right:none next=2012] ---
 [FID:5B, TEXT:003A] そうとんがるなって
 [FID:5B, TEXT:003D] 嬢ちゃん達をどうこう
 [FID:5B, TEXT:003E] しようってんじゃ
 [FID:5B, TEXT:003F] ねえよ
 
---- Group 36 ---
+--- Group 39 [right:char_001B next=2012] ---
+[FID:5B, TEXT:003A] そうとんがるなって
+[FID:5B, TEXT:003D] 嬢ちゃん達をどうこう
+[FID:5B, TEXT:003E] しようってんじゃ
+[FID:5B, TEXT:003F] ねえよ
+
+--- Group 40 [right:char_001B next=2012] ---
 [FID:5B, TEXT:0040] 用事があるのはな
 [FID:5B, TEXT:0041] あのレイドって野郎だ
 
---- Group 37 ---
+--- Group 41 [right:none next=2012] ---
+[FID:5B, TEXT:0040] 用事があるのはな
+[FID:5B, TEXT:0041] あのレイドって野郎だ
+
+--- Group 42 [left:none next=0023] ---
 [FID:5B, TEXT:0042] レイドに・・・
 
---- Group 38 ---
+--- Group 43 [left:none next=0023] ---
+[FID:5B, TEXT:0042] レイドに・・・
+
+--- Group 44 [left:none next=0023] ---
 [FID:5B, TEXT:0043] レイドに？
 [FID:5B, TEXT:0044] なんで？
 
---- Group 39 ---
+--- Group 45 [left:none next=0023] ---
 [FID:5B, TEXT:0045] レイドさんですか？
 
---- Group 40 ---
+--- Group 46 [right:none next=2012] ---
 [FID:5B, TEXT:0046] 俺は臆病者だからな
 [FID:5B, TEXT:0047] お前らのねぐらに入る
 [FID:5B, TEXT:0048] 度胸はねえんだよ
 
---- Group 41 ---
+--- Group 47 [right:char_001B next=2012] ---
+[FID:5B, TEXT:0046] 俺は臆病者だからな
+[FID:5B, TEXT:0047] お前らのねぐらに入る
+[FID:5B, TEXT:0048] 度胸はねえんだよ
+
+--- Group 48 [right:none next=2012] ---
 [FID:5B, TEXT:0049] 悪いがよ、呼んできて
 [FID:5B, TEXT:004A] くれねえか？
 
---- Group 42 ---
-[FID:5B, TEXT:004B] 　そこで待っててくれ
-[FID:5B, TEXT:004D] 　なんで僕が・・・
+--- Group 49 [right:char_001B next=2012] ---
+[FID:5B, TEXT:0049] 悪いがよ、呼んできて
+[FID:5B, TEXT:004A] くれねえか？
 
---- Group 43 ---
+--- Group 50 [right:char_001B next=0023] ---
 [FID:5B, TEXT:004B] 　そこで待っててくれ
 [FID:5B, TEXT:004C] 　なんで俺が・・・
 
---- Group 44 ---
+--- Group 51 [right:char_001B next=0023] ---
+[FID:5B, TEXT:004B] 　そこで待っててくれ
+[FID:5B, TEXT:004D] 　なんで僕が・・・
+
+--- Group 52 [right:none next=0023] ---
+[FID:5B, TEXT:004B] 　そこで待っててくれ
+[FID:5B, TEXT:004C] 　なんで俺が・・・
+
+--- Group 53 [right:char_001B next=0023] ---
 [FID:5B, TEXT:004E] 　じゃあ、待ってて
 [FID:5B, TEXT:004F] 　なんであたしが？
 
---- Group 45 ---
+--- Group 54 [right:char_001B next=0023] ---
 [FID:5B, TEXT:0050] 　まっててください
 [FID:5B, TEXT:0051] 　わたしがですか？
 
---- Group 46 ---
+--- Group 55 [left:none next=0023] ---
 [FID:5B, TEXT:0052] そこで待っててくれ
 [FID:5B, TEXT:0053] 今、呼んでくる
 
---- Group 47 ---
+--- Group 56 [left:none next=0023] ---
+[FID:5B, TEXT:0052] そこで待っててくれ
+[FID:5B, TEXT:0053] 今、呼んでくる
+
+--- Group 57 [left:none next=0023] ---
 [FID:5B, TEXT:0054] じゃあ、待っててよ
 [FID:5B, TEXT:0055] 今、呼んでくるからさ
 
---- Group 48 ---
+--- Group 58 [left:none next=0023] ---
 [FID:5B, TEXT:0056] 待っててください
 [FID:5B, TEXT:0057] 今、呼んできます
 
---- Group 49 ---
+--- Group 59 [right:char_001B next=2012] ---
 [FID:5B, TEXT:0058] おう、悪いな
 
---- Group 50 ---
+--- Group 60 [right:none next=2012] ---
+[FID:5B, TEXT:0058] おう、悪いな
+
+--- Group 61 [left:none next=0023] ---
 [FID:5B, TEXT:0059] なんで俺が、あんたの
 [FID:5B, TEXT:005A] 頼みを聞かなくちゃ
 [FID:5B, TEXT:005B] ならないんだよ
 
---- Group 51 ---
+--- Group 62 [left:none next=0023] ---
 [FID:5B, TEXT:005C] なんで僕が、お前の
 [FID:5B, TEXT:005A] 頼みを聞かなくちゃ
 [FID:5B, TEXT:005D] ならないんだ
 
---- Group 52 ---
+--- Group 63 [left:none next=0023] ---
 [FID:5B, TEXT:005E] なんであたしが？
 [FID:5B, TEXT:005F] 人にモノを頼む態度
 [FID:5B, TEXT:0060] じゃないでしょ、それ
 
---- Group 53 ---
+--- Group 64 [left:none next=0023] ---
 [FID:5B, TEXT:0061] わたしが、ですか？
 [FID:5B, TEXT:0062] なぜです？
 [FID:5B, TEXT:0063] 理由がわかりません
 
---- Group 54 ---
+--- Group 65 [right:char_001B next=2012] ---
 [FID:5B, TEXT:0065] ・・・ケチな嬢ちゃん
 [FID:5B, TEXT:0066] だな
 
---- Group 55 ---
+--- Group 66 [left:none next=0023] ---
 [FID:5B, TEXT:0067] 余計なお世話だ
 [FID:5B, TEXT:0068] 取り次ぎはするから、
 [FID:5B, TEXT:0069] ついて来てくれ
 
---- Group 56 ---
+--- Group 67 [left:none next=0023] ---
 [FID:5B, TEXT:006A] 余計なお世話です〜！
 [FID:5B, TEXT:006B] 付いてきたら、用件の
 [FID:5B, TEXT:006C] とりつぎくらいはして
 [FID:5B, TEXT:006D] あげてもいいけど
 
---- Group 57 ---
+--- Group 68 [left:none next=2012] ---
 [FID:5B, TEXT:006E] ・・・わかりました
 [FID:5B, TEXT:006F] 取り次ぎはします
 
---- Group 58 ---
+--- Group 69 [left:none next=0023] ---
 [FID:5B, TEXT:0070] でも、レイドさんが
 [FID:5B, TEXT:0071] 来てくれるかは別です
 
---- Group 59 ---
+--- Group 70 [right:char_001B next=2012] ---
 [FID:5B, TEXT:0072] へいへい・・・
 
---- Group 60 ---
+--- Group 71 [right:char_0014 next=2012] ---
 [FID:5B, TEXT:0073] しかし、レイドは
 [FID:5B, TEXT:0074] あの男と何を
 [FID:5B, TEXT:0075] 話しとるんだろうな
 
---- Group 61 ---
+--- Group 72 [left:char_0015 next=2012] ---
 [FID:5B, TEXT:0078] 盗み聞きはダメよ
 
---- Group 62 ---
+--- Group 73 [right:char_0013 next=2012] ---
 [FID:5B, TEXT:0079] ケッ・・・
 
---- Group 63 ---
+--- Group 74 [right:char_0016 next=2012] ---
 [FID:5B, TEXT:007A] あ、どうやら終わった
 [FID:5B, TEXT:007B] みたいだぜ？
 
---- Group 64 ---
+--- Group 75 [right:char_001B next=2012] ---
 [FID:5B, TEXT:007C] 邪魔したな
 
---- Group 65 ---
+--- Group 76 [left:char_0017 next=2012] ---
 [FID:5B, TEXT:007D] いえいえ、おかまいも
 [FID:5B, TEXT:007E] せずに恐縮ですのー
 
---- Group 66 ---
+--- Group 77 [left:char_0004 next=2012] ---
 [FID:5B, TEXT:007F] ・・・・・・
 
---- Group 67 ---
+--- Group 78 [right:char_0012 next=2012] ---
 [FID:5B, TEXT:0080] ラムダ先輩が
 [FID:5B, TEXT:0081] 会いたがってるらしい
 [FID:5B, TEXT:0082] これから行って来るよ
 
---- Group 68 ---
+--- Group 79 [left:char_001E next=2012] ---
 [FID:5B, TEXT:0083] おいおい、まさか一人
 [FID:5B, TEXT:0084] で行くつもりなんじゃ
 [FID:5B, TEXT:0085] ないだろうな？
 
---- Group 69 ---
+--- Group 80 [right:char_0012 next=2012] ---
 [FID:5B, TEXT:0086] そのつもりだよ
 
---- Group 70 ---
+--- Group 81 [left:char_0013 next=2012] ---
 [FID:5B, TEXT:0087] 馬鹿いうなよ
 [FID:5B, TEXT:0088] 何があるか
 [FID:5B, TEXT:0089] わかんないんだぜ！？
 
---- Group 71 ---
+--- Group 82 [right:char_0012 next=2012] ---
 [FID:5B, TEXT:008A] 心配しなくても、
 [FID:5B, TEXT:008B] あの人はそんな
 [FID:5B, TEXT:008C] 卑怯なことはしないさ
 
---- Group 72 ---
-[FID:5B, TEXT:008D] それは、そうかもしれ
-[FID:5B, TEXT:008F] ないが・・・
-
---- Group 73 ---
-[FID:5B, TEXT:008D] それは、そうかもしれ
-[FID:5B, TEXT:008E] ないけど・・・
-
---- Group 74 ---
+--- Group 83 [left:char_0004 next=0023] ---
 [FID:5B, TEXT:008D] それは、そうかもしれ
 [FID:5B, TEXT:0092] ませんけど・・・
 
---- Group 75 ---
+--- Group 84 [left:char_0004 next=0023] ---
+[FID:5B, TEXT:008D] それは、そうかもしれ
+[FID:5B, TEXT:008E] ないけど・・・
+
+--- Group 85 [left:char_0004 next=0023] ---
+[FID:5B, TEXT:008D] それは、そうかもしれ
+[FID:5B, TEXT:008F] ないが・・・
+
+--- Group 86 [left:char_0004 next=0023] ---
 [FID:5B, TEXT:0090] そりゃ、
 [FID:5B, TEXT:0091] そうだろうケド・・・
 
---- Group 76 ---
+--- Group 87 [right:char_001B next=2012] ---
 [FID:5B, TEXT:0093] そんなに心配だってん
 [FID:5B, TEXT:0094] なら、誰か一緒に来て
 [FID:5B, TEXT:0095] もかまわねえんだぞ
 
---- Group 77 ---
+--- Group 88 [right:char_001B next=2012] ---
 [FID:5B, TEXT:0096] こっちは別に後ろめた
 [FID:5B, TEXT:0097] い用事があるわけじゃ
 [FID:5B, TEXT:0098] ねえからな
 
---- Group 78 ---
+--- Group 89 [left:char_0004 next=0023] ---
 [FID:5B, TEXT:009B] 俺が行くよ
 
---- Group 79 ---
+--- Group 90 [left:char_0004 next=0023] ---
 [FID:5B, TEXT:009C] 僕が行こう
 
---- Group 80 ---
+--- Group 91 [left:char_0004 next=0023] ---
 [FID:5B, TEXT:009D] あたし、行くよ
 
---- Group 81 ---
+--- Group 92 [left:char_0004 next=0023] ---
 [FID:5B, TEXT:009E] わたし、行きます
 
---- Group 82 ---
+--- Group 93 [right:char_0012 next=2012] ---
 [FID:5B, TEXT:009F] ・・・わかった
 [FID:5B, TEXT:00A0] そうしてもらおう
 
---- Group 83 ---
+--- Group 94 [right:char_0013 next=2012] ---
 [FID:5B, TEXT:00A1] 頼んだぜ？
 [FID:5B, TEXT:00A2] @ n 
 
---- Group 84 ---
+--- Group 95 [left:char_0012 next=2012] ---
 [FID:5B, TEXT:00A2] @ n 
 [FID:5B, TEXT:00A7] ついて来てくれるか？
 
---- Group 85 ---
+--- Group 96 [left:char_0012 next=2012] ---
 [FID:5B, TEXT:00A3] すまんな、スタウト
 [FID:5B, TEXT:00A4] 余計な気をつかわせて
 
---- Group 86 ---
+--- Group 97 [right:char_001B next=2012] ---
 [FID:5B, TEXT:00A5] ま、こいつらが
 [FID:5B, TEXT:00A6] 疑うのも当然だろうさ
 
---- Group 87 ---
+--- Group 98 [right:char_0004 next=0023] ---
 [FID:5B, TEXT:00A8] ええ
 
---- Group 88 ---
+--- Group 99 [right:char_0004 next=0023] ---
 [FID:5B, TEXT:00A9] うん
 
---- Group 89 ---
+--- Group 100 [right:char_0004 next=0023] ---
 [FID:5B, TEXT:00AA] あ、はい
 

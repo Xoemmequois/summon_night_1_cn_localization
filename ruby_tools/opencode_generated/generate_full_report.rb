@@ -63,7 +63,7 @@ puts "=" * 70
   
   # 输出每个对话文件
   dialogs.each do |fid, groups|
-    groups = groups.to_a.sort_by { |g| g.first || 0 }
+    groups = groups.to_a.sort_by { |g| g[:texts].first || 0 }
     
     dialog_fn = "../../exported/CM1100.DAT_#{fid + 0x29}"
     next unless File.exist?(dialog_fn)
@@ -100,10 +100,18 @@ puts "=" * 70
     # 输出带元数据的对话组
     File.open("#{out_dir}/script#{sprintf('%02d', sid)}_fid#{sprintf('%02X', fid)}.txt", "w") do |f|
       group_no = 0
-      groups.each do |text_ids|
+      groups.each do |g|
         group_no += 1
-        f.puts "--- Group #{group_no} ---"
-        text_ids.each do |ti|
+        # speaker info
+        left = g[:left_face] || -1
+        right = g[:right_face] || -1
+        side = g[:speaker_side] || 0
+        speaker_id = side == 0 ? left : right
+        speaker_str = speaker_id >= 0 ? sprintf('char_%04X', speaker_id) : 'none'
+        side_str = side == 0 ? 'left' : 'right'
+        nc = g[:next_cmd] || 0
+        f.puts "--- Group #{group_no} [#{side_str}:#{speaker_str} next=#{sprintf('%04X', nc)}] ---"
+        g[:texts].each do |ti|
           next if ti >= indices.size
           all_fid_covered[fid].add(ti)
           str = all_fid_strings[fid][ti] || "(missing)"

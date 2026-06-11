@@ -1,177 +1,177 @@
---- Group 1 ---
+--- Group 1 [right:char_0018 next=2012] ---
 [FID:58, TEXT:0001] さて、問題はあいつら
 [FID:58, TEXT:0002] がどういう計画を
 [FID:58, TEXT:0003] 立てているかだな
 
---- Group 2 ---
+--- Group 2 [left:none next=2012] ---
 [FID:58, TEXT:0004] イムランは今、
 [FID:58, TEXT:0005] 鉱山の視察で街を
 [FID:58, TEXT:0006] 留守にしてるらしいぜ
 
---- Group 3 ---
+--- Group 3 [left:none next=2012] ---
 [FID:58, TEXT:0007] 帰ってくるのは明日に
 [FID:58, TEXT:0008] なるって、屋敷の連中
 [FID:58, TEXT:0009] が言ってたからな
 
---- Group 4 ---
+--- Group 4 [right:char_001F next=2012] ---
 [FID:58, TEXT:000A] 多分、アイツらはそれ
 [FID:58, TEXT:000B] を狙ってると思うな
 [FID:58, TEXT:000C] 街の外だったら、余計
 [FID:58, TEXT:000D] な邪魔も入らないし
 
---- Group 5 ---
+--- Group 5 [left:char_001E next=2012] ---
 [FID:58, TEXT:000E] しかし、相手は鉄道を
 [FID:58, TEXT:000F] 使って移動してるぞ？
 
---- Group 6 ---
+--- Group 6 [right:char_001F next=2012] ---
 [FID:58, TEXT:0010] だったらなおさら、
 [FID:58, TEXT:0011] 道を塞いじゃえば
 [FID:58, TEXT:0012] 逃げ場がなくなる
 [FID:58, TEXT:0013] じゃんか
 
---- Group 7 ---
+--- Group 7 [left:char_0004 next=0023] ---
 [FID:58, TEXT:0014] そうだとすれば、
 [FID:58, TEXT:0015] 線路のどこかに
 [FID:58, TEXT:0016] アキュートはワナを
 [FID:58, TEXT:0017] 仕掛けるはずだ
 
---- Group 8 ---
+--- Group 8 [left:char_0004 next=0023] ---
 [FID:58, TEXT:0018] ・・・線路のどこかに
 [FID:58, TEXT:0016] アキュートはワナを
 [FID:58, TEXT:0019] 仕掛けるはずだよね
 
---- Group 9 ---
+--- Group 9 [left:char_0004 next=0023] ---
 [FID:58, TEXT:001A] なら、アキュートは
 [FID:58, TEXT:001B] 線路のどこかにワナを
 [FID:58, TEXT:001C] しかけているんじゃ
 [FID:58, TEXT:001D] ないでしょうか？
 
---- Group 10 ---
+--- Group 10 [right:char_0012 next=2012] ---
 [FID:58, TEXT:001E] 時間が惜しい
 [FID:58, TEXT:001F] とにかく、線路伝いに
 [FID:58, TEXT:0020] 探してみよう
 
---- Group 11 ---
+--- Group 11 [left:char_0004 next=0023] ---
 [FID:58, TEXT:0021] なんだっ！？
 
---- Group 12 ---
+--- Group 12 [left:char_0004 next=0023] ---
 [FID:58, TEXT:0022] なななにっ！
 
---- Group 13 ---
+--- Group 13 [left:char_0004 next=0023] ---
 [FID:58, TEXT:0023] 何の音！？
 
---- Group 14 ---
+--- Group 14 [right:char_0013 next=2012] ---
 [FID:58, TEXT:0024] ちくしょう、一足違い
 [FID:58, TEXT:0025] だってのかよ！？
 
---- Group 15 ---
+--- Group 15 [left:char_0004 next=0023] ---
 [FID:58, TEXT:0026] いや、まだだ！
 [FID:58, TEXT:0027] まだ間に合うはずだ！
 
---- Group 16 ---
+--- Group 16 [left:char_0004 next=0023] ---
 [FID:58, TEXT:0028] まだだよ！
 [FID:58, TEXT:0029] あきらめちゃだめ！
 
---- Group 17 ---
+--- Group 17 [left:char_0004 next=0023] ---
 [FID:58, TEXT:002A] まだです・・・
 [FID:58, TEXT:002B] あきらめるのは
 [FID:58, TEXT:002C] はやいと思います！
 
---- Group 18 ---
+--- Group 18 [left:char_0033 next=2012] ---
 [FID:58, TEXT:002D] ななな、何事だっ！？
 
---- Group 19 ---
+--- Group 19 [right:char_0018 next=2012] ---
 [FID:58, TEXT:002E] 久しぶりだな
 [FID:58, TEXT:002F] イムラン・マーン
 
---- Group 20 ---
+--- Group 20 [left:char_0033 next=2012] ---
 [FID:58, TEXT:0030] お前は、ラムダ・・・
 
---- Group 21 ---
+--- Group 21 [right:char_0018 next=2012] ---
 [FID:58, TEXT:0031] 貴様の命、貰うぞ！
 
---- Group 22 ---
+--- Group 22 [left:char_0033 next=2012] ---
 [FID:58, TEXT:0032] ひっ、ひいいっ！！
 
---- Group 23 ---
+--- Group 23 [left:char_0012 next=2012] ---
 [FID:58, TEXT:0033] やめるんだ、ラムダ
 
---- Group 24 ---
+--- Group 24 [right:char_0018 next=2012] ---
 [FID:58, TEXT:0034] レイド・・・
 [FID:58, TEXT:0035] あくまで邪魔をすると
 [FID:58, TEXT:0036] いうのか？
 
---- Group 25 ---
+--- Group 25 [left:char_0012 next=2012] ---
 [FID:58, TEXT:0037] そいつを殺したところ
 [FID:58, TEXT:0038] で、街が元の姿に戻る
 [FID:58, TEXT:0039] わけじゃない
 
---- Group 26 ---
+--- Group 26 [left:char_0012 next=2012] ---
 [FID:58, TEXT:003A] 貴方にはわかっている
 [FID:58, TEXT:003B] はずだ！？
 
---- Group 27 ---
+--- Group 27 [right:char_0018 next=2012] ---
 [FID:58, TEXT:003C] ・・・・・・
 
---- Group 28 ---
+--- Group 28 [right:char_0033 next=2012] ---
 [FID:58, TEXT:003D] なんなんだ・・・
 [FID:58, TEXT:003E] お前ら、一体、なんの
 [FID:58, TEXT:003F] つもりだあぁっ！？
 
---- Group 29 ---
+--- Group 29 [left:char_001F next=2012] ---
 [FID:58, TEXT:0040] いいからさ、オジサン
 [FID:58, TEXT:0041] ちゃっちゃと逃げなよ
 
---- Group 30 ---
+--- Group 30 [right:char_0033 next=2012] ---
 [FID:58, TEXT:0042] おじっ・・・！？
 
---- Group 31 ---
+--- Group 31 [left:char_0004 next=2012] ---
 [FID:58, TEXT:0043] あんたは許せないけど
 [FID:58, TEXT:0044] 殺されるのをほっとく
 [FID:58, TEXT:0045] つもりもないんだ
 
---- Group 32 ---
+--- Group 32 [left:char_0004 next=0023] ---
 [FID:58, TEXT:0046] さあ、早く！
 
---- Group 33 ---
+--- Group 33 [left:char_0004 next=2012] ---
 [FID:58, TEXT:0047] 悔しいけれど、貴方を
 [FID:58, TEXT:0048] 殺されるわけにはまだ
 [FID:58, TEXT:0049] いかないんだ
 
---- Group 34 ---
+--- Group 34 [left:char_0004 next=2012] ---
 [FID:58, TEXT:004A] あなたはキライだし
 [FID:58, TEXT:004B] 許せない・・・
 [FID:58, TEXT:004C] でも、殺されていい
 [FID:58, TEXT:004D] わけないからね！
 
---- Group 35 ---
+--- Group 35 [left:char_0004 next=2012] ---
 [FID:58, TEXT:004E] イムランさん・・・
 [FID:58, TEXT:004F] あなたは嫌いですけど
 [FID:58, TEXT:0050] でも、あなたが死ぬの
 [FID:58, TEXT:0051] も、見過ごせません
 
---- Group 36 ---
+--- Group 36 [left:char_0004 next=0023] ---
 [FID:58, TEXT:0052] はやく逃げてください
 
---- Group 37 ---
+--- Group 37 [right:char_0033 next=2012] ---
 [FID:58, TEXT:0053] くうぅぅっ・・・
 [FID:58, TEXT:0054] 憎い、憎い、憎いっ！
 
---- Group 38 ---
+--- Group 38 [right:char_0033 next=2012] ---
 [FID:58, TEXT:0055] 覚えておけよっ！
 [FID:58, TEXT:0056] 平民どもめぇぇっ！！
 
---- Group 39 ---
+--- Group 39 [right:char_0033 next=2012] ---
 [FID:58, TEXT:0057] 私たちの邪魔をすると
 [FID:58, TEXT:0058] いうのなら、ラムダ様
 [FID:58, TEXT:0059] の知己であろうと
 [FID:58, TEXT:005A] 容赦はしない！
 
---- Group 40 ---
+--- Group 40 [left:none next=2012] ---
 [FID:58, TEXT:005B] そいつは
 [FID:58, TEXT:005C] こっちの台詞だぜ
 
---- Group 41 ---
+--- Group 41 [left:none next=2012] ---
 [FID:58, TEXT:005D] レイドがお前らを、街
 [FID:58, TEXT:005E] のことをどれだけ心配
 [FID:58, TEXT:005F] しているのか、腕ずく

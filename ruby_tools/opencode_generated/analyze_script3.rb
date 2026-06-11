@@ -271,7 +271,7 @@ end
 
 # 0xFFFF: 脚本结束
 def handle_ffff(state, cmd, manager)
-  manager.flush_dialogs(state) unless state.pending_dialogs.empty?
+  manager.flush_dialogs(state, 0xFFFF) unless state.pending_dialogs.empty?
   return false
 end
 
@@ -282,6 +282,8 @@ end
 class VMState
   attr_accessor :pc, :tbl_c4, :tbl_c8, :stack, :regA, :regB
   attr_accessor :dialog_file_id, :pending_dialogs, :script_id
+  attr_accessor :left_face, :right_face, :speaker_side  # 0=left speaks, 1=right speaks
+  attr_accessor :pending_speaker_info  # [{left:, right:, side:}] per 0x2013
 
   def initialize(script_id)
     @script_id = script_id
@@ -293,6 +295,10 @@ class VMState
     @regB = 0
     @dialog_file_id = -1
     @pending_dialogs = []
+    @pending_speaker_info = []
+    @left_face = -1
+    @right_face = -1
+    @speaker_side = 0  # 0=left, 1=right
   end
 
   def read_c4(id); @tbl_c4[id] || 0; end
@@ -308,6 +314,10 @@ class VMState
     s.regB = @regB
     s.dialog_file_id = @dialog_file_id
     s.pending_dialogs = @pending_dialogs.dup
+    s.pending_speaker_info = @pending_speaker_info.dup
+    s.left_face = @left_face
+    s.right_face = @right_face
+    s.speaker_side = @speaker_side
     s
   end
 
@@ -370,7 +380,7 @@ class ExecManager
     fork(parent, commands, target_offset)
   end
 
-  def flush_dialogs(state)
+  def flush_dialogs(state, next_cmd_code = 0)
     fid = state.dialog_file_id
     if state.pending_dialogs.empty?
       return
@@ -383,11 +393,21 @@ class ExecManager
         groups = Set.new
         @dialogs[fid] = groups
       end
-      # 对话组: 按 text_id 顺序组成组签名, 去重
+      # 对话组: 包含文本ID、角色信息、后续指令类型
       group_texts = state.pending_dialogs.map { |d| d[1] }
-      groups.add(group_texts)
+      # 取第一个 0x2013 的 speaker 信息作为整组信息
+      first_info = state.pending_speaker_info.first || { left: -1, right: -1, side: 0 }
+      group_key = {
+        texts: group_texts,
+        left_face: first_info[:left],
+        right_face: first_info[:right],
+        speaker_side: first_info[:side],
+        next_cmd: next_cmd_code,
+      }
+      groups.add(group_key)
     end
     state.pending_dialogs = []
+    state.pending_speaker_info = []
   end
 
   def run(script_id, commands, parent_state = nil, debug = false)
@@ -469,7 +489,7 @@ class ExecManager
 
         # 每执行一条指令前检查：遇到非2013指令时提交积累的对话
         if !state.pending_dialogs.empty? && cmd.code != 0x2013
-          flush_dialogs(state)
+          mgr.flush_dialogs(state, cmd.code)
         end
 
         cont = dispatch(state, cmd, commands)
@@ -485,7 +505,7 @@ class ExecManager
       end
 
       # 如果 path 结束时还有未提交的对话
-      flush_dialogs(state) unless state.pending_dialogs.empty?
+      flush_dialogs(state, 0) unless state.pending_dialogs.empty?
     end
 
     $stderr.puts "\r  Done. Steps=#{step_count} worklist_items, visited_states=#{@visited.size}"
@@ -516,6 +536,11 @@ class ExecManager
     0x002E => :handle_002e,
     0x002F => :handle_002f,
     0x2013 => :handle_2013,
+    0x2001 => :handle_2001,
+    0x2002 => :handle_2002,
+    0x2009 => :handle_2009,
+    0x200A => :handle_200A,
+    0x2010 => :handle_2010,
     0xFFFF => :handle_ffff,
   }.freeze
 
@@ -728,11 +753,46 @@ class ExecManager
 
     define_method(:handle_2013) { |state, cmd, mgr, cmds|
       state.pending_dialogs.push([cmd.index, cmd.params[0]])
+      state.pending_speaker_info.push({
+        left: state.left_face,
+        right: state.right_face,
+        side: state.speaker_side
+      })
+      state.pc += 1; true
+    }
+
+    # 0x2001: 加载角色到左边
+    define_method(:handle_2001) { |state, cmd, mgr, cmds|
+      state.left_face = cmd.params[0] if cmd.params.size >= 1
+      state.pc += 1; true
+    }
+
+    # 0x2002: 加载角色到右边
+    define_method(:handle_2002) { |state, cmd, mgr, cmds|
+      state.right_face = cmd.params[0] if cmd.params.size >= 1
+      state.pc += 1; true
+    }
+
+    # 0x2009: 隐藏右边角色
+    define_method(:handle_2009) { |state, cmd, mgr, cmds|
+      state.right_face = -1
+      state.pc += 1; true
+    }
+
+    # 0x200A: 隐藏左边角色
+    define_method(:handle_200A) { |state, cmd, mgr, cmds|
+      state.left_face = -1
+      state.pc += 1; true
+    }
+
+    # 0x2010: 设置对话框格式 (0=左侧说话/对话框在右, 1=右侧说话/对话框在左)
+    define_method(:handle_2010) { |state, cmd, mgr, cmds|
+      state.speaker_side = cmd.params[0] if cmd.params.size >= 1
       state.pc += 1; true
     }
 
     define_method(:handle_ffff) { |state, cmd, mgr, cmds|
-      mgr.flush_dialogs(state) unless state.pending_dialogs.empty?
+      mgr.flush_dialogs(state, 0) unless state.pending_dialogs.empty?
       false
     }
   }
@@ -841,7 +901,7 @@ def run_manager(manager, commands, script_id)
       path_visited.add(step_key)
 
       if !s.pending_dialogs.empty? && cmd.code != 0x2013
-        manager.flush_dialogs(s)
+        manager.flush_dialogs(s, cmd.code)
       end
 
       cont = manager.dispatch(s, cmd, commands)
@@ -850,7 +910,7 @@ def run_manager(manager, commands, script_id)
       path_steps += 1
       break if path_steps > 100000
     end
-    manager.flush_dialogs(s) unless s.pending_dialogs.empty?
+    manager.flush_dialogs(s, 0) unless s.pending_dialogs.empty?
   end
   $stderr.puts
 end
@@ -865,6 +925,9 @@ def output_results(dialogs, commands, tag)
   puts "Dialog file IDs with content: #{dialogs.keys.sort.join(', ')}"
   $dialog_strs = {}
 
+  # 统计 next_cmd 分布
+  next_cmd_stats = Hash.new(0)
+
   dialogs.each do |fid, groups|
     groups = groups.to_a
     puts "  File 0x#{sprintf('%02X', fid)}: #{groups.size} dialog groups"
@@ -876,9 +939,26 @@ def output_results(dialogs, commands, tag)
       indices = contents.unpack("S!<#{len}")
 
       File.open("#{tag}_fid#{sprintf('%02X', fid)}.txt", "w") do |f|
-        sorted_groups = groups.sort_by { |g| g.first || 0 }
-        sorted_groups.each do |text_ids|
-          text_ids.each do |text_idx|
+        sorted_groups = groups.sort_by { |g| g[:texts].first || 0 }
+        group_no = 0
+        sorted_groups.each do |g|
+          group_no += 1
+          # 统计 next_cmd
+          nc = g[:next_cmd] || 0
+          next_cmd_stats[nc] += 1
+
+          # speaker info
+          left = g[:left_face] || -1
+          right = g[:right_face] || -1
+          side = g[:speaker_side] || 0
+          speaker_id = side == 0 ? left : right
+          speaker_str = speaker_id >= 0 ? sprintf("char_%04X", speaker_id) : "none"
+          side_str = side == 0 ? "left" : "right"
+          next_cmd_str = sprintf("next=%04X", nc)
+
+          f.puts "--- Group #{group_no} [#{side_str}:#{speaker_str} #{next_cmd_str}] ---"
+
+          g[:texts].each do |text_idx|
             if text_idx < indices.size
               start = indices[text_idx]
               str = ""
@@ -890,9 +970,9 @@ def output_results(dialogs, commands, tag)
                 break if pos > 200
               end
               begin
-                f.puts str.force_encoding("shift_jis").encode("utf-8")
+                f.puts "[FID:#{sprintf('%02X', fid)}, TEXT:#{sprintf('%04X', text_idx)}] #{str.force_encoding("shift_jis").encode("utf-8")}"
               rescue
-                f.puts "(encoding error)"
+                f.puts "[FID:#{sprintf('%02X', fid)}, TEXT:#{sprintf('%04X', text_idx)}] (encoding error)"
               end
             end
           end
@@ -901,16 +981,31 @@ def output_results(dialogs, commands, tag)
       end
 
       all_ids = Set.new
-      groups.each { |g| g.each { |t| all_ids.add(t) } }
+      groups.each { |g| g[:texts].each { |t| all_ids.add(t) } }
       puts "    Unique text IDs: #{all_ids.size}"
     end
+  end
+
+  # 打印 next_cmd 统计
+  puts
+  puts "  next_cmd statistics (command after 0x2013 group):"
+  next_cmd_stats.sort.each do |cmd, count|
+    desc = case cmd
+    when 0x2012 then "2012 (normal dialog)"
+    when 0x2015 then "2015 (waiting for choice)"
+    when 0x201D then "201D (black screen cutscene)"
+    when 0xFFFF then "FFFF (script end)"
+    when 0 then "0 (path end)"
+    else sprintf("unknown")
+    end
+    puts "    #{sprintf('%04X', cmd)}: #{count} groups - #{desc}"
   end
 
   all_2013 = commands.select { |c| c.code == 0x2013 }
   total_ids = 0
   dialogs.each do |_, groups|
     ids = Set.new
-    groups.each { |g| g.each { |t| ids.add(t) } }
+    groups.each { |g| g[:texts].each { |t| ids.add(t) } }
     total_ids += ids.size
   end
   puts "  Total 2013 in script: #{all_2013.size}, Unique text IDs found: #{total_ids}"

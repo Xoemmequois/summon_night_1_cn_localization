@@ -1,821 +1,971 @@
---- Group 1 ---
+--- Group 1 [right:char_0015 next=2012] ---
 [FID:0F, TEXT:0001] ここはサイジェントの
 [FID:0F, TEXT:0002] 市民公園
 [FID:0F, TEXT:0003] お祭りなんかはここで
 [FID:0F, TEXT:0004] 行われるのよ
 
---- Group 2 ---
+--- Group 2 [right:char_0015 next=2012] ---
+[FID:0F, TEXT:0001] ここはサイジェントの
+[FID:0F, TEXT:0002] 市民公園
+[FID:0F, TEXT:0003] お祭りなんかはここで
+[FID:0F, TEXT:0004] 行われるのよ
+
+--- Group 3 [left:char_0000 next=0023] ---
 [FID:0F, TEXT:0005] へえ、お祭りかぁ
 [FID:0F, TEXT:0006] これだけ大きい場所
 [FID:0F, TEXT:0007] だと、さぞかし賑やか
 [FID:0F, TEXT:0008] なんだろ
 
---- Group 3 ---
+--- Group 4 [left:char_0000 next=0023] ---
 [FID:0F, TEXT:0005] へえ、お祭りかぁ
 [FID:0F, TEXT:000D] これだけ広い場所だと
 [FID:0F, TEXT:000E] にぎやかなんだろうね
 
---- Group 4 ---
+--- Group 5 [left:char_0000 next=0023] ---
 [FID:0F, TEXT:0009] お祭りか・・・
 [FID:0F, TEXT:000A] これだけ大きい場所で
 [FID:0F, TEXT:000B] やるんだから、かなり
 [FID:0F, TEXT:000C] 賑やかなんだろうな
 
---- Group 5 ---
+--- Group 6 [left:char_0000 next=0023] ---
 [FID:0F, TEXT:000F] お祭りですか
 [FID:0F, TEXT:0010] これだけ大きい場所だ
 [FID:0F, TEXT:0011] と、さぞかし賑やかな
 [FID:0F, TEXT:0012] んでしょうね
 
---- Group 6 ---
+--- Group 7 [right:char_0015 next=2012] ---
 [FID:0F, TEXT:0013] そうよ
 [FID:0F, TEXT:0014] 特に秋の収穫祭なんか
 [FID:0F, TEXT:0015] は、みんなで仮装して
 [FID:0F, TEXT:0016] 大騒ぎしちゃうの
 
---- Group 7 ---
+--- Group 8 [right:char_0015 next=2012] ---
 [FID:0F, TEXT:0017] 私もちっちゃい頃は、
 [FID:0F, TEXT:0018] すごく楽しみにしてた
 [FID:0F, TEXT:0019] なぁ・・・
 
---- Group 8 ---
+--- Group 9 [left:char_0000 next=0023] ---
 [FID:0F, TEXT:001A] 最近は行ってないの？
 
---- Group 9 ---
+--- Group 10 [left:char_0000 next=0023] ---
 [FID:0F, TEXT:001B] 今は行かないのかい？
 
---- Group 10 ---
+--- Group 11 [left:char_0000 next=0023] ---
 [FID:0F, TEXT:001C] 最近は行ってない
 [FID:0F, TEXT:001D] んですか？
 
---- Group 11 ---
+--- Group 12 [right:char_0013 next=2012] ---
 [FID:0F, TEXT:001E] 行ってないんじゃなく
 [FID:0F, TEXT:001F] て、やらなくなっち
 [FID:0F, TEXT:0020] まったんだよ
 
---- Group 12 ---
+--- Group 13 [right:char_0013 next=2012] ---
 [FID:0F, TEXT:0021] ２、３年前からかな
 [FID:0F, TEXT:0022] 領主が祭りを開かなく
 [FID:0F, TEXT:0023] なっちまったんだ
 
---- Group 13 ---
+--- Group 14 [left:char_0000 next=0023] ---
 [FID:0F, TEXT:0024] そうなのか・・・
 
---- Group 14 ---
+--- Group 15 [left:char_0000 next=0023] ---
 [FID:0F, TEXT:0025] そうなの・・・
 
---- Group 15 ---
+--- Group 16 [left:char_0000 next=0023] ---
 [FID:0F, TEXT:0026] そうなんですか・・・
 
---- Group 16 ---
+--- Group 17 [right:char_0013 next=2012] ---
 [FID:0F, TEXT:0027] まあ、祭りをやったと
 [FID:0F, TEXT:0028] しても、今の状態じゃ
 [FID:0F, TEXT:0029] 誰も楽しめやしねえさ
 
---- Group 17 ---
+--- Group 18 [right:char_0013 next=2012] ---
 [FID:0F, TEXT:002A] ゆとりのない生活しか
 [FID:0F, TEXT:002B] できないありさま
 [FID:0F, TEXT:002C] だからな
 
---- Group 18 ---
+--- Group 19 [left:char_0000 next=0023] ---
 [FID:0F, TEXT:002D] うーん・・・
 [FID:0F, TEXT:002E] なんかいかにも雰囲気
 [FID:0F, TEXT:002F] がオトナな場所だな
 
---- Group 19 ---
+--- Group 20 [left:char_0000 next=0023] ---
+[FID:0F, TEXT:002D] うーん・・・
+[FID:0F, TEXT:002E] なんかいかにも雰囲気
+[FID:0F, TEXT:002F] がオトナな場所だな
+
+--- Group 21 [left:char_0000 next=2012] ---
 [FID:0F, TEXT:002E] なんかいかにも雰囲気
 [FID:0F, TEXT:0036] がオトナな場所ね
 
---- Group 20 ---
+--- Group 22 [left:char_0000 next=2012] ---
+[FID:0F, TEXT:002E] なんかいかにも雰囲気
+[FID:0F, TEXT:0036] がオトナな場所ね
+
+--- Group 23 [left:char_0000 next=0023] ---
 [FID:0F, TEXT:0030] 酒場や食べ物屋の看板
 [FID:0F, TEXT:0031] が並んでるってことは
 [FID:0F, TEXT:0032] 盛り場だな・・・
 
---- Group 21 ---
-[FID:0F, TEXT:0033] うわぁ・・・
-[FID:0F, TEXT:00BE] さすがに立派な建物
-[FID:0F, TEXT:008D] ですね・・・
+--- Group 24 [left:char_0000 next=0023] ---
+[FID:0F, TEXT:0030] 酒場や食べ物屋の看板
+[FID:0F, TEXT:0031] が並んでるってことは
+[FID:0F, TEXT:0032] 盛り場だな・・・
 
---- Group 22 ---
+--- Group 25 [left:char_0000 next=0023] ---
 [FID:0F, TEXT:0033] うわぁ・・・
 [FID:0F, TEXT:0034] なんだか、オトナな
 [FID:0F, TEXT:0035] 雰囲気のトコロだね
 
---- Group 23 ---
+--- Group 26 [left:char_0000 next=0023] ---
+[FID:0F, TEXT:0033] うわぁ・・・
+[FID:0F, TEXT:0034] なんだか、オトナな
+[FID:0F, TEXT:0035] 雰囲気のトコロだね
+
+--- Group 27 [left:char_0000 next=0023] ---
 [FID:0F, TEXT:0033] うわぁ・・・
 [FID:0F, TEXT:00BE] さすがに立派な建物
 [FID:0F, TEXT:00BF] だよなぁ
 
---- Group 24 ---
+--- Group 28 [left:char_0000 next=0023] ---
+[FID:0F, TEXT:0033] うわぁ・・・
+[FID:0F, TEXT:00BE] さすがに立派な建物
+[FID:0F, TEXT:008D] ですね・・・
+
+--- Group 29 [left:char_0000 next=0023] ---
 [FID:0F, TEXT:0037] あんまりこういった
 [FID:0F, TEXT:0038] ところは好きじゃ
 [FID:0F, TEXT:0039] ないな・・・
 
---- Group 25 ---
+--- Group 30 [left:char_0000 next=0023] ---
+[FID:0F, TEXT:0037] あんまりこういった
+[FID:0F, TEXT:0038] ところは好きじゃ
+[FID:0F, TEXT:0039] ないな・・・
+
+--- Group 31 [right:char_0013 next=2012] ---
 [FID:0F, TEXT:003A] 説明するまでもねえと
 [FID:0F, TEXT:003B] は思うが、繁華街って
 [FID:0F, TEXT:003C] やつだ
 
---- Group 26 ---
+--- Group 32 [right:char_0013 next=2012] ---
+[FID:0F, TEXT:003A] 説明するまでもねえと
+[FID:0F, TEXT:003B] は思うが、繁華街って
+[FID:0F, TEXT:003C] やつだ
+
+--- Group 33 [right:char_0013 next=2012] ---
 [FID:0F, TEXT:003D] 夜になると、街で一番
 [FID:0F, TEXT:003E] 活気がある場所さ
 [FID:0F, TEXT:003F] そのぶんトラブルにも
 [FID:0F, TEXT:0040] 出くわしやすいがな
 
---- Group 27 ---
+--- Group 34 [right:char_0013 next=2012] ---
+[FID:0F, TEXT:003D] 夜になると、街で一番
+[FID:0F, TEXT:003E] 活気がある場所さ
+[FID:0F, TEXT:003F] そのぶんトラブルにも
+[FID:0F, TEXT:0040] 出くわしやすいがな
+
+--- Group 35 [left:char_0000 next=0023] ---
 [FID:0F, TEXT:0041] ずいぶんと詳しいな
 
---- Group 28 ---
+--- Group 36 [left:char_0000 next=0023] ---
 [FID:0F, TEXT:0042] へぇ、くわしぃんだ
 
---- Group 29 ---
+--- Group 37 [left:char_0000 next=0023] ---
 [FID:0F, TEXT:0043] 詳しいんですね
 
---- Group 30 ---
+--- Group 38 [right:char_0013 next=2012] ---
 [FID:0F, TEXT:0044] へっ、俺は盗賊だぜ？
 [FID:0F, TEXT:0045] このあたりは
 [FID:0F, TEXT:0046] 庭みたいなもんさ
 
---- Group 31 ---
+--- Group 39 [left:char_0015 next=2012] ---
 [FID:0F, TEXT:0047] ・・・ねぇ、ガゼル？
 
---- Group 32 ---
+--- Group 40 [left:char_0000 next=0023] ---
 [FID:0F, TEXT:0048] あ・・・
 
---- Group 33 ---
+--- Group 41 [right:char_0013 next=2012] ---
+[FID:0F, TEXT:0048] あ・・・
+
+--- Group 42 [left:char_0015 next=2012] ---
+[FID:0F, TEXT:0048] あ・・・
+
+--- Group 43 [left:char_0015 next=2012] ---
 [FID:0F, TEXT:0049] あんたひょっとして
 [FID:0F, TEXT:004A] まだ、悪さしてるん
 [FID:0F, TEXT:004B] じゃないでしょうね？
 
---- Group 34 ---
+--- Group 44 [right:char_0013 next=2012] ---
 [FID:0F, TEXT:004C] あ、いや・・・
 
---- Group 35 ---
+--- Group 45 [left:char_0015 next=2012] ---
 [FID:0F, TEXT:004D] どうなのっ！？
 
---- Group 36 ---
+--- Group 46 [left:char_0000 next=0023] ---
 [FID:0F, TEXT:004E] これって、思いっきり
 [FID:0F, TEXT:004F] 墓穴を掘ったってやつ
 [FID:0F, TEXT:0050] だよなぁ・・・
 
---- Group 37 ---
+--- Group 47 [left:char_0000 next=0023] ---
 [FID:0F, TEXT:0051] やれやれ、語るに落ち
 [FID:0F, TEXT:0052] るとはこのことだな
 
---- Group 38 ---
+--- Group 48 [left:char_0000 next=0023] ---
 [FID:0F, TEXT:0053] ・・・ガゼルったら
 [FID:0F, TEXT:0054] 思いっきり墓穴
 [FID:0F, TEXT:0055] 掘ってるんだから
 
---- Group 39 ---
+--- Group 49 [left:char_0000 next=0023] ---
 [FID:0F, TEXT:0056] ガゼルさん・・・
 [FID:0F, TEXT:0057] 墓穴を掘ってますね
 
---- Group 40 ---
+--- Group 50 [left:char_0000 next=0023] ---
 [FID:0F, TEXT:0058] どうしよう？
 
---- Group 41 ---
+--- Group 51 [left:char_0000 next=2015] ---
 [FID:0F, TEXT:0058] どうしよう？
 [FID:0F, TEXT:01A2] 　放っておく
 [FID:0F, TEXT:01A3] 　近づいてみる
 
---- Group 42 ---
-[FID:0F, TEXT:0059] 　様子を見ている
-[FID:0F, TEXT:005C] 　助けよう
+--- Group 52 [left:char_0000 next=2015] ---
+[FID:0F, TEXT:0058] どうしよう？
+[FID:0F, TEXT:01A2] 　放っておく
+[FID:0F, TEXT:01A3] 　近づいてみる
 
---- Group 43 ---
-[FID:0F, TEXT:0059] 　様子を見ている
-[FID:0F, TEXT:005B] 　助けてあげよっかな
+--- Group 53 [right:char_0013 next=0023] ---
+[FID:0F, TEXT:0058] どうしよう？
 
---- Group 44 ---
+--- Group 54 [left:char_0000 next=0023] ---
 [FID:0F, TEXT:0059] 　様子を見ている
 [FID:0F, TEXT:005A] 　助けてやるか
 
---- Group 45 ---
+--- Group 55 [left:char_0000 next=0023] ---
+[FID:0F, TEXT:0059] 　様子を見ている
+[FID:0F, TEXT:005B] 　助けてあげよっかな
+
+--- Group 56 [left:char_0000 next=0023] ---
+[FID:0F, TEXT:0059] 　様子を見ている
+[FID:0F, TEXT:005C] 　助けよう
+
+--- Group 57 [right:char_0013 next=2012] ---
 [FID:0F, TEXT:005D] な、なあ、リプレ
 [FID:0F, TEXT:005E] そんなことより今は
 [FID:0F, TEXT:005F] こいつに街を案内する
 [FID:0F, TEXT:0060] のが先だろっ？
 
---- Group 46 ---
+--- Group 58 [left:char_0000 next=2012] ---
 [FID:0F, TEXT:0061] ・・・そうね
 
---- Group 47 ---
+--- Group 59 [left:char_0000 next=2012] ---
 [FID:0F, TEXT:0062] とりあえず
 [FID:0F, TEXT:0063] その件については、
 [FID:0F, TEXT:0064] 帰ってからきっちり
 [FID:0F, TEXT:0065] 説明してもらうわよ
 
---- Group 48 ---
+--- Group 60 [right:char_0013 next=2012] ---
 [FID:0F, TEXT:0066] とほほ・・・
 
---- Group 49 ---
+--- Group 61 [left:char_0000 next=2012] ---
 [FID:0F, TEXT:0067] まあ、どうやらここは
 [FID:0F, TEXT:0068] 近づかないほうが
 [FID:0F, TEXT:0069] よさそうな場所って
 [FID:0F, TEXT:006A] ことらしいな
 
---- Group 50 ---
-[FID:0F, TEXT:006B] そうとわかったら、
-[FID:0F, TEXT:006C] 長居は無用だ
-[FID:0F, TEXT:006D] 次を案内してくれよ、
-[FID:0F, TEXT:006E] リプレ？
-
---- Group 51 ---
+--- Group 62 [left:char_0000 next=0023] ---
 [FID:0F, TEXT:006B] そうとわかったら、
 [FID:0F, TEXT:007F] 長居は無用です
 [FID:0F, TEXT:0080] 次を案内してください
 [FID:0F, TEXT:0081] リプレさん
 
---- Group 52 ---
+--- Group 63 [left:char_0000 next=0023] ---
+[FID:0F, TEXT:006B] そうとわかったら、
+[FID:0F, TEXT:006C] 長居は無用だ
+[FID:0F, TEXT:006D] 次を案内してくれよ、
+[FID:0F, TEXT:006E] リプレ？
+
+--- Group 64 [left:char_0000 next=2012] ---
 [FID:0F, TEXT:006F] どうやらここは僕に
 [FID:0F, TEXT:0070] は無縁の場所だって
 [FID:0F, TEXT:0071] ことか
 
---- Group 53 ---
+--- Group 65 [left:char_0000 next=0023] ---
 [FID:0F, TEXT:0072] ここはもういいから
 [FID:0F, TEXT:0073] 次の場所を案内して
 [FID:0F, TEXT:0074] くれないか、リプレ
 
---- Group 54 ---
+--- Group 66 [left:char_0000 next=2012] ---
 [FID:0F, TEXT:0075] ねぇねぇ、
 [FID:0F, TEXT:0076] やっぱりここ
 [FID:0F, TEXT:0077] ちょっといづらいな
 
---- Group 55 ---
+--- Group 67 [left:char_0000 next=0023] ---
 [FID:0F, TEXT:0078] ねぇリプレ
 [FID:0F, TEXT:0079] こんなところより、
 [FID:0F, TEXT:007A] 次を案内してくれ
 [FID:0F, TEXT:007B] ないかな？
 
---- Group 56 ---
+--- Group 68 [left:char_0000 next=2012] ---
 [FID:0F, TEXT:007C] どうやらここは
 [FID:0F, TEXT:0068] 近づかないほうが
 [FID:0F, TEXT:007D] よさそうな場所
 [FID:0F, TEXT:007E] なんですね・・・
 
---- Group 57 ---
+--- Group 69 [left:none next=0023] ---
 [FID:0F, TEXT:0081] リプレさん
 [FID:0F, TEXT:014D] 逃げて！
 
---- Group 58 ---
+--- Group 70 [right:char_0015 next=2012] ---
 [FID:0F, TEXT:0082] あ、うん・・・
 
---- Group 59 ---
-[FID:0F, TEXT:0083] 街のすぐ側に
-[FID:0F, TEXT:0084] こんな大きな川が
-[FID:0F, TEXT:0086] あったとはね
-
---- Group 60 ---
+--- Group 71 [left:char_0000 next=0023] ---
 [FID:0F, TEXT:0083] 街のすぐ側に
 [FID:0F, TEXT:0084] こんな大きな川が
 [FID:0F, TEXT:0085] あったんだな
 
---- Group 61 ---
+--- Group 72 [left:char_0000 next=0023] ---
+[FID:0F, TEXT:0083] 街のすぐ側に
+[FID:0F, TEXT:0084] こんな大きな川が
+[FID:0F, TEXT:0085] あったんだな
+
+--- Group 73 [left:char_0000 next=0023] ---
+[FID:0F, TEXT:0083] 街のすぐ側に
+[FID:0F, TEXT:0084] こんな大きな川が
+[FID:0F, TEXT:0086] あったとはね
+
+--- Group 74 [left:char_0000 next=0023] ---
+[FID:0F, TEXT:0083] 街のすぐ側に
+[FID:0F, TEXT:0084] こんな大きな川が
+[FID:0F, TEXT:0086] あったとはね
+
+--- Group 75 [left:char_0000 next=0023] ---
 [FID:0F, TEXT:0087] わぁ
 [FID:0F, TEXT:0088] 大きな川だね
 [FID:0F, TEXT:0089] 街の側に、こんな川が
 [FID:0F, TEXT:008A] あるなんて・・・
 
---- Group 62 ---
+--- Group 76 [left:char_0000 next=0023] ---
+[FID:0F, TEXT:0087] わぁ
+[FID:0F, TEXT:0088] 大きな川だね
+[FID:0F, TEXT:0089] 街の側に、こんな川が
+[FID:0F, TEXT:008A] あるなんて・・・
+
+--- Group 77 [left:char_0000 next=0023] ---
 [FID:0F, TEXT:008B] 街のすぐ側にこんな
 [FID:0F, TEXT:008C] 大きな川があったん
 [FID:0F, TEXT:008D] ですね・・・
 
---- Group 63 ---
+--- Group 78 [left:char_0000 next=0023] ---
+[FID:0F, TEXT:008B] 街のすぐ側にこんな
+[FID:0F, TEXT:008C] 大きな川があったん
+[FID:0F, TEXT:008D] ですね・・・
+
+--- Group 79 [right:char_0015 next=2012] ---
 [FID:0F, TEXT:008E] アルク川っていう
 [FID:0F, TEXT:008F] 名前でね
 [FID:0F, TEXT:0090] ずっと北の山脈から
 [FID:0F, TEXT:0091] 流れてきてるの
 
---- Group 64 ---
+--- Group 80 [right:char_0015 next=2012] ---
+[FID:0F, TEXT:008E] アルク川っていう
+[FID:0F, TEXT:008F] 名前でね
+[FID:0F, TEXT:0090] ずっと北の山脈から
+[FID:0F, TEXT:0091] 流れてきてるの
+
+--- Group 81 [right:char_0015 next=2012] ---
 [FID:0F, TEXT:0092] この川があるおかげで
 [FID:0F, TEXT:0093] サイジェントは
 [FID:0F, TEXT:0094] 水に困らないのよ
 
---- Group 65 ---
+--- Group 82 [right:char_0015 next=2012] ---
+[FID:0F, TEXT:0092] この川があるおかげで
+[FID:0F, TEXT:0093] サイジェントは
+[FID:0F, TEXT:0094] 水に困らないのよ
+
+--- Group 83 [left:char_0000 next=2012] ---
 [FID:0F, TEXT:0095] そうなのか
 
---- Group 66 ---
+--- Group 84 [left:char_0000 next=2012] ---
 [FID:0F, TEXT:0096] そうなんだぁ
 
---- Group 67 ---
+--- Group 85 [right:char_0013 next=2012] ---
 [FID:0F, TEXT:0097] ここらの水はきれい
 [FID:0F, TEXT:0098] だがな、下流のほうに
 [FID:0F, TEXT:0099] いくほど、この川は
 [FID:0F, TEXT:009A] 汚れていくのさ
 
---- Group 68 ---
+--- Group 86 [right:char_0013 next=2012] ---
 [FID:0F, TEXT:009B] 工場や民家から出た
 [FID:0F, TEXT:009C] 下水を流してる
 [FID:0F, TEXT:009D] せいでな
 
---- Group 69 ---
+--- Group 87 [left:char_0000 next=0023] ---
 [FID:0F, TEXT:009E] なんか、ジメジメ
 [FID:0F, TEXT:009F] してないか？
 
---- Group 70 ---
+--- Group 88 [left:char_0000 next=0023] ---
 [FID:0F, TEXT:009E] なんか、ジメジメ
 [FID:0F, TEXT:00A5] してませんか？
 
---- Group 71 ---
+--- Group 89 [left:char_0000 next=0023] ---
+[FID:0F, TEXT:009E] なんか、ジメジメ
+[FID:0F, TEXT:00A5] してませんか？
+
+--- Group 90 [left:char_0000 next=0023] ---
+[FID:0F, TEXT:009E] なんか、ジメジメ
+[FID:0F, TEXT:009F] してないか？
+
+--- Group 91 [left:char_0000 next=0023] ---
 [FID:0F, TEXT:00A0] ここの空気はすこし
 [FID:0F, TEXT:00A1] よくないな
 
---- Group 72 ---
+--- Group 92 [left:char_0000 next=0023] ---
+[FID:0F, TEXT:00A0] ここの空気はすこし
+[FID:0F, TEXT:00A1] よくないな
+
+--- Group 93 [left:char_0000 next=0023] ---
 [FID:0F, TEXT:00A2] なんか、空気が
 [FID:0F, TEXT:00A3] じめっとしてて、
 [FID:0F, TEXT:00A4] やな感じ・・・
 
---- Group 73 ---
-[FID:0F, TEXT:00A6] ああ
-[FID:0F, TEXT:00E6] 二人のおかげでね
+--- Group 94 [left:char_0000 next=0023] ---
+[FID:0F, TEXT:00A2] なんか、空気が
+[FID:0F, TEXT:00A3] じめっとしてて、
+[FID:0F, TEXT:00A4] やな感じ・・・
 
---- Group 74 ---
+--- Group 95 [left:char_0000 next=0023] ---
+[FID:0F, TEXT:00A6] ああ
+[FID:0F, TEXT:00E5] 二人のおかげだよ
+
+--- Group 96 [right:char_0013 next=2012] ---
 [FID:0F, TEXT:00A6] ああ
 [FID:0F, TEXT:00A7] 工場から出る蒸気の
 [FID:0F, TEXT:00A8] せいだ
 
---- Group 75 ---
+--- Group 97 [left:char_0000 next=0023] ---
 [FID:0F, TEXT:00A6] ああ
-[FID:0F, TEXT:00E5] 二人のおかげだよ
+[FID:0F, TEXT:00E6] 二人のおかげでね
 
---- Group 76 ---
+--- Group 98 [left:char_0000 next=2012] ---
 [FID:0F, TEXT:00A9] 工場？
 
---- Group 77 ---
+--- Group 99 [right:char_0015 next=2012] ---
 [FID:0F, TEXT:00AA] 織物を作ってるのよ
 
---- Group 78 ---
+--- Group 100 [right:char_0013 next=2012] ---
 [FID:0F, TEXT:00AB] 【キルカ虫】ってのが
 [FID:0F, TEXT:00AC] 吐き出す糸を紡いだ
 [FID:0F, TEXT:00AD] ものでよ、ここらの
 [FID:0F, TEXT:00AE] 特産品ってやつだ
 
---- Group 79 ---
+--- Group 101 [right:char_0013 next=2012] ---
 [FID:0F, TEXT:00AF] そいつを使った交易が
 [FID:0F, TEXT:00B0] サイジェントの大きな
 [FID:0F, TEXT:00B1] 収入源なのさ
 
---- Group 80 ---
+--- Group 102 [right:char_0013 next=2012] ---
 [FID:0F, TEXT:00B2] もっとも、そのせいで
 [FID:0F, TEXT:00B3] すっかりここらの
 [FID:0F, TEXT:00B4] 自然はダメに
 [FID:0F, TEXT:00B5] なっちまったがな
 
---- Group 81 ---
+--- Group 103 [right:char_0015 next=2012] ---
 [FID:0F, TEXT:00B6] 昔はね、このあたりも
 [FID:0F, TEXT:00B7] 畑だったのよ
 
---- Group 82 ---
+--- Group 104 [right:char_0015 next=2012] ---
+[FID:0F, TEXT:00B6] 昔はね、このあたりも
+[FID:0F, TEXT:00B7] 畑だったのよ
+
+--- Group 105 [right:char_0015 next=2012] ---
 [FID:0F, TEXT:00B8] 今みたいに、よその
 [FID:0F, TEXT:00B9] 街から食料を買わな
 [FID:0F, TEXT:00BA] くたって暮らしてい
 [FID:0F, TEXT:00BB] けてたのにね・・・
 
---- Group 83 ---
+--- Group 106 [right:char_0015 next=2012] ---
+[FID:0F, TEXT:00B8] 今みたいに、よその
+[FID:0F, TEXT:00B9] 街から食料を買わな
+[FID:0F, TEXT:00BA] くたって暮らしてい
+[FID:0F, TEXT:00BB] けてたのにね・・・
+
+--- Group 107 [right:char_0015 next=2012] ---
 [FID:0F, TEXT:00BC] サイジェントの領主
 [FID:0F, TEXT:00BD] さまが暮らすお城よ
 
---- Group 84 ---
-[FID:0F, TEXT:00BE] さすがに立派な建物
-[FID:0F, TEXT:00BF] だよなぁ
+--- Group 108 [right:char_0015 next=2012] ---
+[FID:0F, TEXT:00BC] サイジェントの領主
+[FID:0F, TEXT:00BD] さまが暮らすお城よ
 
---- Group 85 ---
+--- Group 109 [left:char_0000 next=0023] ---
 [FID:0F, TEXT:00BE] さすがに立派な建物
 [FID:0F, TEXT:008D] ですね・・・
 
---- Group 86 ---
+--- Group 110 [left:char_0000 next=0023] ---
+[FID:0F, TEXT:00BE] さすがに立派な建物
+[FID:0F, TEXT:008D] ですね・・・
+
+--- Group 111 [left:char_0000 next=0023] ---
+[FID:0F, TEXT:00BE] さすがに立派な建物
+[FID:0F, TEXT:00BF] だよなぁ
+
+--- Group 112 [left:char_0000 next=0023] ---
+[FID:0F, TEXT:00BE] さすがに立派な建物
+[FID:0F, TEXT:00BF] だよなぁ
+
+--- Group 113 [left:char_0000 next=0023] ---
 [FID:0F, TEXT:00C0] なるほど・・・
 
---- Group 87 ---
+--- Group 114 [left:char_0000 next=0023] ---
 [FID:0F, TEXT:00C0] なるほど・・・
 [FID:0F, TEXT:00C1] たしかに立派な建物
 [FID:0F, TEXT:00C2] だな
 
---- Group 88 ---
+--- Group 115 [left:char_0000 next=0023] ---
 [FID:0F, TEXT:00C1] たしかに立派な建物
 [FID:0F, TEXT:00C2] だな
 
---- Group 89 ---
+--- Group 116 [left:char_0000 next=0023] ---
+[FID:0F, TEXT:00C1] たしかに立派な建物
+[FID:0F, TEXT:00C2] だな
+
+--- Group 117 [left:char_0000 next=0023] ---
 [FID:0F, TEXT:00C3] すごい・・・
 [FID:0F, TEXT:00C4] こんなに立派な建物
 [FID:0F, TEXT:00C5] があるんだ・・・
 
---- Group 90 ---
+--- Group 118 [left:char_0000 next=0023] ---
 [FID:0F, TEXT:00C4] こんなに立派な建物
 [FID:0F, TEXT:00C5] があるんだ・・・
 
---- Group 91 ---
+--- Group 119 [left:char_0000 next=0023] ---
+[FID:0F, TEXT:00C4] こんなに立派な建物
+[FID:0F, TEXT:00C5] があるんだ・・・
+
+--- Group 120 [right:char_0015 next=2012] ---
 [FID:0F, TEXT:00C6] うん、そうだよね
 [FID:0F, TEXT:00C7] ちょっと前に改修さ
 [FID:0F, TEXT:00C8] れたばかりだし
 
---- Group 92 ---
+--- Group 121 [right:char_0015 next=2012] ---
 [FID:0F, TEXT:00C9] でも、私はあまり
 [FID:0F, TEXT:00CA] 好きじゃないな
 
---- Group 93 ---
+--- Group 122 [left:char_0000 next=0023] ---
 [FID:0F, TEXT:00CB] ？
 
---- Group 94 ---
+--- Group 123 [left:char_0000 next=0023] ---
+[FID:0F, TEXT:00CB] ？
+
+--- Group 124 [left:char_0000 next=0023] ---
 [FID:0F, TEXT:00CC] ・・・？
 [FID:0F, TEXT:00CD] なんで？
 
---- Group 95 ---
+--- Group 125 [right:char_0013 next=2012] ---
 [FID:0F, TEXT:00CE] この城を造った金を
 [FID:0F, TEXT:00CF] 誰が払ったか、って
 [FID:0F, TEXT:00D0] ことさ
 
---- Group 96 ---
+--- Group 126 [right:char_0013 next=2012] ---
 [FID:0F, TEXT:00D1] ちょっと待った！
 
---- Group 97 ---
+--- Group 127 [right:char_0013 next=2012] ---
+[FID:0F, TEXT:00D1] ちょっと待った！
+
+--- Group 128 [left:char_0000 next=0023] ---
 [FID:0F, TEXT:00D2] え？
 
---- Group 98 ---
+--- Group 129 [right:char_0013 next=2012] ---
 [FID:0F, TEXT:00D3] ここから先に行くのは
 [FID:0F, TEXT:00D4] やめといたほうが
 [FID:0F, TEXT:00D5] いいぜ
 
---- Group 99 ---
+--- Group 130 [right:char_0013 next=2012] ---
+[FID:0F, TEXT:00D3] ここから先に行くのは
+[FID:0F, TEXT:00D4] やめといたほうが
+[FID:0F, TEXT:00D5] いいぜ
+
+--- Group 131 [left:char_0000 next=0023] ---
 [FID:0F, TEXT:00D6] どうしてだ？
 
---- Group 100 ---
+--- Group 132 [left:char_0000 next=0023] ---
 [FID:0F, TEXT:00D7] どうして？？
 
---- Group 101 ---
+--- Group 133 [left:char_0000 next=0023] ---
 [FID:0F, TEXT:00D8] どうしてですか
 
---- Group 102 ---
+--- Group 134 [right:char_0013 next=2012] ---
 [FID:0F, TEXT:00D9] このあたりもスラム
 [FID:0F, TEXT:00DA] なんだが、俺たちの
 [FID:0F, TEXT:00DB] 暮らす南側の場所とは
 [FID:0F, TEXT:00DC] ぜんぜん違う
 
---- Group 103 ---
+--- Group 135 [right:char_0013 next=2012] ---
 [FID:0F, TEXT:00DD] 【オプテュス】って
 [FID:0F, TEXT:00DE] 物騒なゴロツキたちが
 [FID:0F, TEXT:00DF] いるのさ
 
---- Group 104 ---
+--- Group 136 [right:char_0013 next=2012] ---
 [FID:0F, TEXT:00E0] 関わりあいになる前に
 [FID:0F, TEXT:00E1] さっさと引き返そうぜ
 
---- Group 105 ---
+--- Group 137 [right:char_0015 next=2012] ---
 [FID:0F, TEXT:00E2] どう
 [FID:0F, TEXT:00E3] 少しはこの街のことが
 [FID:0F, TEXT:00E4] わかった？
 
---- Group 106 ---
+--- Group 138 [right:char_0015 next=2012] ---
+[FID:0F, TEXT:00E2] どう
+[FID:0F, TEXT:00E3] 少しはこの街のことが
+[FID:0F, TEXT:00E4] わかった？
+
+--- Group 139 [left:char_0000 next=0023] ---
 [FID:0F, TEXT:00E7] うん
 [FID:0F, TEXT:00E8] ガゼルとリプレの
 [FID:0F, TEXT:00E9] おかげで、ね！
 
---- Group 107 ---
+--- Group 140 [left:char_0000 next=0023] ---
 [FID:0F, TEXT:00EA] ええ
 [FID:0F, TEXT:00EB] 二人のおかげです
 
---- Group 108 ---
+--- Group 141 [right:char_0039 next=2012] ---
 [FID:0F, TEXT:00EC] おい、おまえら
 [FID:0F, TEXT:00ED] ちょっと待ちな！
 
---- Group 109 ---
+--- Group 142 [right:char_0039 next=2012] ---
 [FID:0F, TEXT:00EE] おう
 [FID:0F, TEXT:00EF] そこのお前、ここら
 [FID:0F, TEXT:00F0] じゃ見かけねえツラ
 [FID:0F, TEXT:00F1] だなぁ？
 
---- Group 110 ---
+--- Group 143 [left:char_0000 next=0023] ---
 [FID:0F, TEXT:00F2] なんのつもりだ
 [FID:0F, TEXT:00F3] コイツ？
 
---- Group 111 ---
+--- Group 144 [left:char_0000 next=0023] ---
 [FID:0F, TEXT:00F4] 何者だ、こいつら？
 
---- Group 112 ---
+--- Group 145 [left:char_0000 next=0023] ---
 [FID:0F, TEXT:00F5] なに？
 [FID:0F, TEXT:00F6] コイツら？
 
---- Group 113 ---
+--- Group 146 [left:char_0000 next=0023] ---
 [FID:0F, TEXT:00F7] なんなんでしょう
 [FID:0F, TEXT:00F8] この人たち・・・
 
---- Group 114 ---
+--- Group 147 [right:char_0013 next=2012] ---
 [FID:0F, TEXT:00F9] ・・・無視しろっ！
 
---- Group 115 ---
+--- Group 148 [right:char_0013 next=2012] ---
 [FID:0F, TEXT:00FA] こいつらがさっき
 [FID:0F, TEXT:00FB] 話した【オプテュス】
 [FID:0F, TEXT:00FC] の連中なんだよっ！
 
---- Group 116 ---
+--- Group 149 [right:char_0013 next=2012] ---
 [FID:0F, TEXT:00FD] 関わるとロクなこと
 [FID:0F, TEXT:00FE] にはならねえ
 [FID:0F, TEXT:00FF] 無視するんだ
 
---- Group 117 ---
+--- Group 150 [right:char_003A next=2012] ---
 [FID:0F, TEXT:0100] なに黙ってんだよ、
 [FID:0F, TEXT:0101] オラ！
 [FID:0F, TEXT:0102] 口がきけねえのか？
 
---- Group 118 ---
+--- Group 151 [left:char_0013 next=2012] ---
 [FID:0F, TEXT:0103] おまえらと関わってる
 [FID:0F, TEXT:0104] ヒマはねえんだ
 [FID:0F, TEXT:0105] わかったら、とっとと
 [FID:0F, TEXT:0106] そこをどけよ
 
---- Group 119 ---
+--- Group 152 [right:char_0039 next=2012] ---
 [FID:0F, TEXT:0107] おお、誰かと思えば
 [FID:0F, TEXT:0108] コソ泥のガゼルじゃ
 [FID:0F, TEXT:0109] ねえか？
 
---- Group 120 ---
+--- Group 153 [right:char_003A next=2012] ---
 [FID:0F, TEXT:010D] 女を二人もはべらせて
 [FID:0F, TEXT:010B] いいご身分じゃ
 [FID:0F, TEXT:010C] ねえか・・・
 
---- Group 121 ---
+--- Group 154 [left:char_0013 next=2012] ---
 [FID:0F, TEXT:010E] こいつらは、そんなん
 [FID:0F, TEXT:010F] じゃねえッ！！
 
---- Group 122 ---
+--- Group 155 [right:char_003A next=2012] ---
 [FID:0F, TEXT:0110] いいからいいから
 [FID:0F, TEXT:0111] 照れんなよ、チビ？
 
---- Group 123 ---
+--- Group 156 [right:char_0039 next=2012] ---
 [FID:0F, TEXT:0112] そうだぜ？
 [FID:0F, TEXT:0115] つれなくすんなよ？
 
---- Group 124 ---
+--- Group 157 [right:char_003A next=2012] ---
+[FID:0F, TEXT:0116] ひっひっひ
+[FID:0F, TEXT:016F] 逃がしゃしねえぜ！
+
+--- Group 158 [right:char_003A next=2012] ---
 [FID:0F, TEXT:0116] ひっひっひ
 [FID:0F, TEXT:0117] いくら乳臭くっても
 [FID:0F, TEXT:0118] 女は女じゃねえか
 [FID:0F, TEXT:0119] ひひひ・・・
 
---- Group 125 ---
-[FID:0F, TEXT:0116] ひっひっひ
-[FID:0F, TEXT:016F] 逃がしゃしねえぜ！
-
---- Group 126 ---
+--- Group 159 [left:char_0013 next=2012] ---
 [FID:0F, TEXT:011A] 関係ねえって
 [FID:0F, TEXT:011B] 言ってんのが
 [FID:0F, TEXT:011C] 聞こえねえのか！？
 [FID:0F, TEXT:011D] このうすらバカが！
 
---- Group 127 ---
+--- Group 160 [right:char_0039 next=2012] ---
 [FID:0F, TEXT:011E] お・・・なんだよ
 [FID:0F, TEXT:011F] やるっていうのか？
 
---- Group 128 ---
+--- Group 161 [right:char_003A next=2012] ---
 [FID:0F, TEXT:0120] うひひっ
 [FID:0F, TEXT:0121] 望むところだぜ！！
 
---- Group 129 ---
+--- Group 162 [right:char_0013 next=2012] ---
 [FID:0F, TEXT:0122] おい、@ n 
 
---- Group 130 ---
+--- Group 163 [right:char_0013 next=2012] ---
 [FID:0F, TEXT:0123] ぼけっとしてないで
 [FID:0F, TEXT:0124] リプレを連れて
 [FID:0F, TEXT:0125] ここから逃げろッ！！
 
---- Group 131 ---
+--- Group 164 [left:char_0000 next=2012] ---
 [FID:0F, TEXT:0126] え！？
 
---- Group 132 ---
+--- Group 165 [right:char_0013 next=2012] ---
 [FID:0F, TEXT:0127] 乗せられちまったのは
 [FID:0F, TEXT:0128] 俺だ・・・
 [FID:0F, TEXT:0129] お前らには関係ねえ
 
---- Group 133 ---
+--- Group 166 [right:char_0013 next=2012] ---
 [FID:0F, TEXT:012A] さっさと行けっ！！
 
---- Group 134 ---
+--- Group 167 [right:char_0013 next=0023] ---
 [FID:0F, TEXT:012B] 　わかった
 [FID:0F, TEXT:012C] 　俺も残るぞ
 
---- Group 135 ---
+--- Group 168 [right:char_0013 next=0023] ---
 [FID:0F, TEXT:012D] 　うん、わかった
 [FID:0F, TEXT:012E] 　あたしも残る！
 
---- Group 136 ---
+--- Group 169 [right:char_0013 next=0023] ---
 [FID:0F, TEXT:012F] 　はい！
 [FID:0F, TEXT:0130] 　いやです！
 
---- Group 137 ---
+--- Group 170 [left:none next=0023] ---
 [FID:0F, TEXT:0131] リプレ、行くぞっ！
 
---- Group 138 ---
+--- Group 171 [left:none next=0023] ---
 [FID:0F, TEXT:0132] リプレ、走るんだ！
 
---- Group 139 ---
+--- Group 172 [left:none next=0023] ---
 [FID:0F, TEXT:0133] リプレ、行こう！
 
---- Group 140 ---
+--- Group 173 [left:none next=0023] ---
 [FID:0F, TEXT:0134] リプレさん！
 
---- Group 141 ---
+--- Group 174 [right:char_0013 next=2012] ---
 [FID:0F, TEXT:0135] でも、ガゼルが！
 
---- Group 142 ---
+--- Group 175 [left:none next=0023] ---
 [FID:0F, TEXT:0136] 俺や君が残っても、
 [FID:0F, TEXT:0137] 足手まといになるだけ
 [FID:0F, TEXT:0138] だろう！？
 
---- Group 143 ---
+--- Group 176 [left:none next=0023] ---
 [FID:0F, TEXT:0139] 僕や君が残っても、
 [FID:0F, TEXT:013A] 足手まといになるだ
 [FID:0F, TEXT:013B] けだ・・・違うか？
 
---- Group 144 ---
+--- Group 177 [left:none next=0023] ---
 [FID:0F, TEXT:013C] あたしたちが残っ
 [FID:0F, TEXT:013D] たって、足手まとい
 [FID:0F, TEXT:013E] になるだけだよ！
 
---- Group 145 ---
+--- Group 178 [left:none next=0023] ---
 [FID:0F, TEXT:013F] わたしたちは
 [FID:0F, TEXT:0140] 足手まといになる
 [FID:0F, TEXT:0141] だけです！
 
---- Group 146 ---
+--- Group 179 [right:char_0013 next=2012] ---
 [FID:0F, TEXT:0142] ・・・
 
---- Group 147 ---
+--- Group 180 [left:none next=0023] ---
 [FID:0F, TEXT:0143] 逃げて、助けを
 [FID:0F, TEXT:0148] 呼んできましょう！
 
---- Group 148 ---
+--- Group 181 [left:none next=0023] ---
 [FID:0F, TEXT:0143] 逃げて、助けを
 [FID:0F, TEXT:0144] 呼んでくるんだ
 
---- Group 149 ---
+--- Group 182 [left:none next=0023] ---
 [FID:0F, TEXT:0145] 逃げて、助けを呼ん
 [FID:0F, TEXT:0147] でこなきゃ！
 
---- Group 150 ---
+--- Group 183 [left:none next=0023] ---
 [FID:0F, TEXT:0145] 逃げて、助けを呼ん
 [FID:0F, TEXT:0146] でくるんだ
 
---- Group 151 ---
+--- Group 184 [right:char_0013 next=2012] ---
 [FID:0F, TEXT:0149] ・・・うんっ！
 
---- Group 152 ---
+--- Group 185 [left:none next=0023] ---
 [FID:0F, TEXT:014A] リプレ・・・
 [FID:0F, TEXT:014B] 君は逃げてくれ
 
---- Group 153 ---
+--- Group 186 [left:none next=0023] ---
 [FID:0F, TEXT:014A] リプレ・・・
 [FID:0F, TEXT:014C] あなたは逃げて！
 
---- Group 154 ---
+--- Group 187 [right:char_0013 next=2012] ---
 [FID:0F, TEXT:014E] えっ！？
 
---- Group 155 ---
+--- Group 188 [left:none next=0023] ---
 [FID:0F, TEXT:014F] 俺はガゼルと一緒に
 [FID:0F, TEXT:0150] ここに残る
 
---- Group 156 ---
+--- Group 189 [left:none next=0023] ---
 [FID:0F, TEXT:0151] 僕はガゼルと一緒に
 [FID:0F, TEXT:0150] ここに残る
 
---- Group 157 ---
+--- Group 190 [left:none next=0023] ---
 [FID:0F, TEXT:0152] ガゼルといっしょに
 [FID:0F, TEXT:0153] あたしは残るから！
 
---- Group 158 ---
+--- Group 191 [left:none next=0023] ---
 [FID:0F, TEXT:0154] わたしはガゼルさんと
 [FID:0F, TEXT:0155] ここに残ります！
 
---- Group 159 ---
+--- Group 192 [right:char_0013 next=2012] ---
 [FID:0F, TEXT:0156] 馬鹿野郎ッ！
 [FID:0F, TEXT:0157] 武器の扱いも知らない
 [FID:0F, TEXT:0158] くせに、どうする気
 [FID:0F, TEXT:0159] だッ！？
 
---- Group 160 ---
+--- Group 193 [left:none next=2012] ---
 [FID:0F, TEXT:015A] さあな・・・
 [FID:0F, TEXT:015B] でも、なんかの役に
 [FID:0F, TEXT:015C] 立つかもしれねえぜ
 
---- Group 161 ---
+--- Group 194 [left:none next=0023] ---
 [FID:0F, TEXT:015D] さあ、リプレ！！
 
---- Group 162 ---
+--- Group 195 [left:none next=2012] ---
 [FID:0F, TEXT:015E] これだけの人数を、
 [FID:0F, TEXT:015F] 一人で相手にしよう
 [FID:0F, TEXT:0160] というのは無理だ
 
---- Group 163 ---
+--- Group 196 [left:none next=2012] ---
 [FID:0F, TEXT:0161] いいじゃないの
 [FID:0F, TEXT:0162] あたしだって役に
 [FID:0F, TEXT:0163] 立つかもしれない
 [FID:0F, TEXT:0164] でしょ！
 
---- Group 164 ---
+--- Group 197 [left:none next=0023] ---
 [FID:0F, TEXT:0165] リプレはやく！
 
---- Group 165 ---
+--- Group 198 [left:none next=2012] ---
 [FID:0F, TEXT:0166] わかりません・・・
 [FID:0F, TEXT:0167] でも、なにかの役に
 [FID:0F, TEXT:0163] 立つかもしれない
 [FID:0F, TEXT:0168] ですよ・・・
 
---- Group 166 ---
+--- Group 199 [left:none next=0023] ---
 [FID:0F, TEXT:0169] さあ、リプレさん！
 
---- Group 167 ---
+--- Group 200 [right:char_0015 next=2012] ---
 [FID:0F, TEXT:016A] ・・・わかった
 
---- Group 168 ---
+--- Group 201 [right:char_0015 next=2012] ---
 [FID:0F, TEXT:016B] レイドたちを呼んで
 [FID:0F, TEXT:016C] くるから、二人とも
 [FID:0F, TEXT:016D] 絶対に無事でいてよ
 [FID:0F, TEXT:016E] 絶対よっ！！
 
---- Group 169 ---
+--- Group 202 [left:char_0000 next=0023] ---
 [FID:0F, TEXT:0170] どけえぇッ！！
 
---- Group 170 ---
+--- Group 203 [left:char_0000 next=0023] ---
 [FID:0F, TEXT:0171] させるか！！
 
---- Group 171 ---
+--- Group 204 [left:char_0000 next=0023] ---
 [FID:0F, TEXT:0172] ジャマっ！！
 
---- Group 172 ---
+--- Group 205 [left:char_0000 next=0023] ---
 [FID:0F, TEXT:0173] どいてください！
 
---- Group 173 ---
+--- Group 206 [right:char_003A next=2012] ---
 [FID:0F, TEXT:0174] うぎゃあっ！？
 
---- Group 174 ---
+--- Group 207 [right:char_0013 next=2012] ---
 [FID:0F, TEXT:0175] 急げっ！！
 
---- Group 175 ---
+--- Group 208 [left:char_0015 next=2012] ---
 [FID:0F, TEXT:0176] う、うんっ！
 
---- Group 176 ---
+--- Group 209 [left:char_0000 next=2012] ---
 [FID:0F, TEXT:0177] 同じだ・・・
 
---- Group 177 ---
+--- Group 210 [left:char_0000 next=2012] ---
 [FID:0F, TEXT:0178] よくわからないけど
 [FID:0F, TEXT:0183] 昨日と同じ・・・
 
---- Group 178 ---
+--- Group 211 [left:char_0000 next=2012] ---
 [FID:0F, TEXT:0178] よくわからないけど
 [FID:0F, TEXT:0179] 昨日と同じだ・・・
 
---- Group 179 ---
+--- Group 212 [left:char_0000 next=0023] ---
 [FID:0F, TEXT:017A] 身体の中から、力が
 [FID:0F, TEXT:017B] わいてくる
 
---- Group 180 ---
+--- Group 213 [left:char_0000 next=2012] ---
 [FID:0F, TEXT:017C] この感覚は・・・
 [FID:0F, TEXT:0179] 昨日と同じだ・・・
 
---- Group 181 ---
+--- Group 214 [left:char_0000 next=2012] ---
 [FID:0F, TEXT:017D] おんなじ・・・
 
---- Group 182 ---
+--- Group 215 [left:char_0000 next=2012] ---
 [FID:0F, TEXT:017E] 昨日と・・・
 [FID:0F, TEXT:017F] 全くおんなじだ・・・
 
---- Group 183 ---
+--- Group 216 [left:char_0000 next=0023] ---
 [FID:0F, TEXT:0180] 身体の中から、
 [FID:0F, TEXT:0181] 力がわいてくるよ
 
---- Group 184 ---
+--- Group 217 [left:char_0000 next=2012] ---
 [FID:0F, TEXT:0182] 同じ・・・
 
---- Group 185 ---
+--- Group 218 [left:char_0000 next=2012] ---
 [FID:0F, TEXT:0184] わかるぜ・・・
 
---- Group 186 ---
+--- Group 219 [left:char_0000 next=0023] ---
 [FID:0F, TEXT:0185] 今の俺なら、こいつ
 [FID:0F, TEXT:0186] らに負けない・・・
 
---- Group 187 ---
+--- Group 220 [left:char_0000 next=2012] ---
 [FID:0F, TEXT:0187] わかる・・・
 
---- Group 188 ---
+--- Group 221 [left:char_0000 next=0023] ---
 [FID:0F, TEXT:0188] 今の僕なら、こいつ
 [FID:0F, TEXT:0186] らに負けない・・・
 
---- Group 189 ---
+--- Group 222 [left:char_0000 next=2012] ---
 [FID:0F, TEXT:0189] イける・・・！
 
---- Group 190 ---
+--- Group 223 [left:char_0000 next=0023] ---
 [FID:0F, TEXT:018A] これなら
 [FID:0F, TEXT:018B] こんなやつらになんか
 [FID:0F, TEXT:018C] 負けっこない・・・
 
---- Group 191 ---
+--- Group 224 [left:char_0000 next=0023] ---
 [FID:0F, TEXT:018D] 今なら・・・この人
 [FID:0F, TEXT:018E] たちにも勝てる！
 
---- Group 192 ---
+--- Group 225 [left:char_0000 next=2012] ---
 [FID:0F, TEXT:018F] 絶対に、負けない！
 
---- Group 193 ---
+--- Group 226 [left:char_0000 next=0026] ---
 [FID:0F, TEXT:0190] 【自分の部屋】
 [FID:0F, TEXT:0000] 
 [FID:0F, TEXT:0000] 
@@ -862,10 +1012,346 @@
 [FID:0F, TEXT:0000] 
 [FID:0F, TEXT:0000] 
 
---- Group 194 ---
+--- Group 227 [left:none next=0026] ---
+[FID:0F, TEXT:0190] 【自分の部屋】
+[FID:0F, TEXT:0000] 
+[FID:0F, TEXT:0000] 
+[FID:0F, TEXT:0191] 【リプレと子供部屋】
+[FID:0F, TEXT:0000] 
+[FID:0F, TEXT:0000] 
+[FID:0F, TEXT:0192] 【玄関】
+[FID:0F, TEXT:0000] 
+[FID:0F, TEXT:0000] 
+[FID:0F, TEXT:0193] 【街へ】
+[FID:0F, TEXT:0000] 
+[FID:0F, TEXT:0000] 
+[FID:0F, TEXT:0194] 【レイドの部屋】
+[FID:0F, TEXT:0000] 
+[FID:0F, TEXT:0000] 
+[FID:0F, TEXT:0195] 【ガゼルの部屋】
+[FID:0F, TEXT:0000] 
+[FID:0F, TEXT:0000] 
+[FID:0F, TEXT:0196] 【部屋１】
+[FID:0F, TEXT:0000] 
+[FID:0F, TEXT:0000] 
+[FID:0F, TEXT:0197] 【部屋２】
+[FID:0F, TEXT:0000] 
+[FID:0F, TEXT:0000] 
+[FID:0F, TEXT:0198] 【部屋３】
+[FID:0F, TEXT:0000] 
+[FID:0F, TEXT:0000] 
+[FID:0F, TEXT:0199] 【部屋４】
+[FID:0F, TEXT:0000] 
+[FID:0F, TEXT:0000] 
+[FID:0F, TEXT:019A] 【部屋５】
+[FID:0F, TEXT:0000] 
+[FID:0F, TEXT:0000] 
+[FID:0F, TEXT:019B] 【屋根裏部屋】
+[FID:0F, TEXT:0000] 
+[FID:0F, TEXT:0000] 
+[FID:0F, TEXT:019C] 【広間】
+[FID:0F, TEXT:0000] 
+[FID:0F, TEXT:0000] 
+[FID:0F, TEXT:019D] 【庭】
+[FID:0F, TEXT:0000] 
+[FID:0F, TEXT:0000] 
+[FID:0F, TEXT:019E] 【台所】
+[FID:0F, TEXT:0000] 
+[FID:0F, TEXT:0000] 
+
+--- Group 228 [right:none next=0026] ---
+[FID:0F, TEXT:0190] 【自分の部屋】
+[FID:0F, TEXT:0000] 
+[FID:0F, TEXT:0000] 
+[FID:0F, TEXT:0191] 【リプレと子供部屋】
+[FID:0F, TEXT:0000] 
+[FID:0F, TEXT:0000] 
+[FID:0F, TEXT:0192] 【玄関】
+[FID:0F, TEXT:0000] 
+[FID:0F, TEXT:0000] 
+[FID:0F, TEXT:0193] 【街へ】
+[FID:0F, TEXT:0000] 
+[FID:0F, TEXT:0000] 
+[FID:0F, TEXT:0194] 【レイドの部屋】
+[FID:0F, TEXT:0000] 
+[FID:0F, TEXT:0000] 
+[FID:0F, TEXT:0195] 【ガゼルの部屋】
+[FID:0F, TEXT:0000] 
+[FID:0F, TEXT:0000] 
+[FID:0F, TEXT:0196] 【部屋１】
+[FID:0F, TEXT:0000] 
+[FID:0F, TEXT:0000] 
+[FID:0F, TEXT:0197] 【部屋２】
+[FID:0F, TEXT:0000] 
+[FID:0F, TEXT:0000] 
+[FID:0F, TEXT:0198] 【部屋３】
+[FID:0F, TEXT:0000] 
+[FID:0F, TEXT:0000] 
+[FID:0F, TEXT:0199] 【部屋４】
+[FID:0F, TEXT:0000] 
+[FID:0F, TEXT:0000] 
+[FID:0F, TEXT:019A] 【部屋５】
+[FID:0F, TEXT:0000] 
+[FID:0F, TEXT:0000] 
+[FID:0F, TEXT:019B] 【屋根裏部屋】
+[FID:0F, TEXT:0000] 
+[FID:0F, TEXT:0000] 
+[FID:0F, TEXT:019C] 【広間】
+[FID:0F, TEXT:0000] 
+[FID:0F, TEXT:0000] 
+[FID:0F, TEXT:019D] 【庭】
+[FID:0F, TEXT:0000] 
+[FID:0F, TEXT:0000] 
+[FID:0F, TEXT:019E] 【台所】
+[FID:0F, TEXT:0000] 
+[FID:0F, TEXT:0000] 
+
+--- Group 229 [right:char_0013 next=0026] ---
+[FID:0F, TEXT:0190] 【自分の部屋】
+[FID:0F, TEXT:0000] 
+[FID:0F, TEXT:0000] 
+[FID:0F, TEXT:0191] 【リプレと子供部屋】
+[FID:0F, TEXT:0000] 
+[FID:0F, TEXT:0000] 
+[FID:0F, TEXT:0192] 【玄関】
+[FID:0F, TEXT:0000] 
+[FID:0F, TEXT:0000] 
+[FID:0F, TEXT:0193] 【街へ】
+[FID:0F, TEXT:0000] 
+[FID:0F, TEXT:0000] 
+[FID:0F, TEXT:0194] 【レイドの部屋】
+[FID:0F, TEXT:0000] 
+[FID:0F, TEXT:0000] 
+[FID:0F, TEXT:0195] 【ガゼルの部屋】
+[FID:0F, TEXT:0000] 
+[FID:0F, TEXT:0000] 
+[FID:0F, TEXT:0196] 【部屋１】
+[FID:0F, TEXT:0000] 
+[FID:0F, TEXT:0000] 
+[FID:0F, TEXT:0197] 【部屋２】
+[FID:0F, TEXT:0000] 
+[FID:0F, TEXT:0000] 
+[FID:0F, TEXT:0198] 【部屋３】
+[FID:0F, TEXT:0000] 
+[FID:0F, TEXT:0000] 
+[FID:0F, TEXT:0199] 【部屋４】
+[FID:0F, TEXT:0000] 
+[FID:0F, TEXT:0000] 
+[FID:0F, TEXT:019A] 【部屋５】
+[FID:0F, TEXT:0000] 
+[FID:0F, TEXT:0000] 
+[FID:0F, TEXT:019B] 【屋根裏部屋】
+[FID:0F, TEXT:0000] 
+[FID:0F, TEXT:0000] 
+[FID:0F, TEXT:019C] 【広間】
+[FID:0F, TEXT:0000] 
+[FID:0F, TEXT:0000] 
+[FID:0F, TEXT:019D] 【庭】
+[FID:0F, TEXT:0000] 
+[FID:0F, TEXT:0000] 
+[FID:0F, TEXT:019E] 【台所】
+[FID:0F, TEXT:0000] 
+[FID:0F, TEXT:0000] 
+
+--- Group 230 [right:none next=0026] ---
+[FID:0F, TEXT:0190] 【自分の部屋】
+[FID:0F, TEXT:0000] 
+[FID:0F, TEXT:0000] 
+[FID:0F, TEXT:0191] 【リプレと子供部屋】
+[FID:0F, TEXT:0000] 
+[FID:0F, TEXT:0000] 
+[FID:0F, TEXT:0192] 【玄関】
+[FID:0F, TEXT:0000] 
+[FID:0F, TEXT:0000] 
+[FID:0F, TEXT:0193] 【街へ】
+[FID:0F, TEXT:0000] 
+[FID:0F, TEXT:0000] 
+[FID:0F, TEXT:0194] 【レイドの部屋】
+[FID:0F, TEXT:0000] 
+[FID:0F, TEXT:0000] 
+[FID:0F, TEXT:0195] 【ガゼルの部屋】
+[FID:0F, TEXT:0000] 
+[FID:0F, TEXT:0000] 
+[FID:0F, TEXT:0196] 【部屋１】
+[FID:0F, TEXT:0000] 
+[FID:0F, TEXT:0000] 
+[FID:0F, TEXT:0197] 【部屋２】
+[FID:0F, TEXT:0000] 
+[FID:0F, TEXT:0000] 
+[FID:0F, TEXT:0198] 【部屋３】
+[FID:0F, TEXT:0000] 
+[FID:0F, TEXT:0000] 
+[FID:0F, TEXT:0199] 【部屋４】
+[FID:0F, TEXT:0000] 
+[FID:0F, TEXT:0000] 
+[FID:0F, TEXT:019A] 【部屋５】
+[FID:0F, TEXT:0000] 
+[FID:0F, TEXT:0000] 
+[FID:0F, TEXT:019B] 【屋根裏部屋】
+[FID:0F, TEXT:0000] 
+[FID:0F, TEXT:0000] 
+[FID:0F, TEXT:019C] 【広間】
+[FID:0F, TEXT:0000] 
+[FID:0F, TEXT:0000] 
+[FID:0F, TEXT:019D] 【庭】
+[FID:0F, TEXT:0000] 
+[FID:0F, TEXT:0000] 
+[FID:0F, TEXT:019E] 【台所】
+[FID:0F, TEXT:0000] 
+[FID:0F, TEXT:0000] 
+
+--- Group 231 [left:char_0000 next=0026] ---
+[FID:0F, TEXT:0190] 【自分の部屋】
+[FID:0F, TEXT:0000] 
+[FID:0F, TEXT:0000] 
+[FID:0F, TEXT:0191] 【リプレと子供部屋】
+[FID:0F, TEXT:0000] 
+[FID:0F, TEXT:0000] 
+[FID:0F, TEXT:0192] 【玄関】
+[FID:0F, TEXT:0000] 
+[FID:0F, TEXT:0000] 
+[FID:0F, TEXT:0193] 【街へ】
+[FID:0F, TEXT:0000] 
+[FID:0F, TEXT:0000] 
+[FID:0F, TEXT:0194] 【レイドの部屋】
+[FID:0F, TEXT:0000] 
+[FID:0F, TEXT:0000] 
+[FID:0F, TEXT:0195] 【ガゼルの部屋】
+[FID:0F, TEXT:0000] 
+[FID:0F, TEXT:0000] 
+[FID:0F, TEXT:0196] 【部屋１】
+[FID:0F, TEXT:0000] 
+[FID:0F, TEXT:0000] 
+[FID:0F, TEXT:0197] 【部屋２】
+[FID:0F, TEXT:0000] 
+[FID:0F, TEXT:0000] 
+[FID:0F, TEXT:0198] 【部屋３】
+[FID:0F, TEXT:0000] 
+[FID:0F, TEXT:0000] 
+[FID:0F, TEXT:0199] 【部屋４】
+[FID:0F, TEXT:0000] 
+[FID:0F, TEXT:0000] 
+[FID:0F, TEXT:019A] 【部屋５】
+[FID:0F, TEXT:0000] 
+[FID:0F, TEXT:0000] 
+[FID:0F, TEXT:019B] 【屋根裏部屋】
+[FID:0F, TEXT:0000] 
+[FID:0F, TEXT:0000] 
+[FID:0F, TEXT:019C] 【広間】
+[FID:0F, TEXT:0000] 
+[FID:0F, TEXT:0000] 
+[FID:0F, TEXT:019D] 【庭】
+[FID:0F, TEXT:0000] 
+[FID:0F, TEXT:0000] 
+[FID:0F, TEXT:019E] 【台所】
+[FID:0F, TEXT:0000] 
+[FID:0F, TEXT:0000] 
+
+--- Group 232 [left:none next=0026] ---
+[FID:0F, TEXT:0190] 【自分の部屋】
+[FID:0F, TEXT:0000] 
+[FID:0F, TEXT:0000] 
+[FID:0F, TEXT:0191] 【リプレと子供部屋】
+[FID:0F, TEXT:0000] 
+[FID:0F, TEXT:0000] 
+[FID:0F, TEXT:0192] 【玄関】
+[FID:0F, TEXT:0000] 
+[FID:0F, TEXT:0000] 
+[FID:0F, TEXT:0193] 【街へ】
+[FID:0F, TEXT:0000] 
+[FID:0F, TEXT:0000] 
+[FID:0F, TEXT:0194] 【レイドの部屋】
+[FID:0F, TEXT:0000] 
+[FID:0F, TEXT:0000] 
+[FID:0F, TEXT:0195] 【ガゼルの部屋】
+[FID:0F, TEXT:0000] 
+[FID:0F, TEXT:0000] 
+[FID:0F, TEXT:0196] 【部屋１】
+[FID:0F, TEXT:0000] 
+[FID:0F, TEXT:0000] 
+[FID:0F, TEXT:0197] 【部屋２】
+[FID:0F, TEXT:0000] 
+[FID:0F, TEXT:0000] 
+[FID:0F, TEXT:0198] 【部屋３】
+[FID:0F, TEXT:0000] 
+[FID:0F, TEXT:0000] 
+[FID:0F, TEXT:0199] 【部屋４】
+[FID:0F, TEXT:0000] 
+[FID:0F, TEXT:0000] 
+[FID:0F, TEXT:019A] 【部屋５】
+[FID:0F, TEXT:0000] 
+[FID:0F, TEXT:0000] 
+[FID:0F, TEXT:019B] 【屋根裏部屋】
+[FID:0F, TEXT:0000] 
+[FID:0F, TEXT:0000] 
+[FID:0F, TEXT:019C] 【広間】
+[FID:0F, TEXT:0000] 
+[FID:0F, TEXT:0000] 
+[FID:0F, TEXT:019D] 【庭】
+[FID:0F, TEXT:0000] 
+[FID:0F, TEXT:0000] 
+[FID:0F, TEXT:019E] 【台所】
+[FID:0F, TEXT:0000] 
+[FID:0F, TEXT:0000] 
+
+--- Group 233 [right:char_0015 next=0026] ---
+[FID:0F, TEXT:0190] 【自分の部屋】
+[FID:0F, TEXT:0000] 
+[FID:0F, TEXT:0000] 
+[FID:0F, TEXT:0191] 【リプレと子供部屋】
+[FID:0F, TEXT:0000] 
+[FID:0F, TEXT:0000] 
+[FID:0F, TEXT:0192] 【玄関】
+[FID:0F, TEXT:0000] 
+[FID:0F, TEXT:0000] 
+[FID:0F, TEXT:0193] 【街へ】
+[FID:0F, TEXT:0000] 
+[FID:0F, TEXT:0000] 
+[FID:0F, TEXT:0194] 【レイドの部屋】
+[FID:0F, TEXT:0000] 
+[FID:0F, TEXT:0000] 
+[FID:0F, TEXT:0195] 【ガゼルの部屋】
+[FID:0F, TEXT:0000] 
+[FID:0F, TEXT:0000] 
+[FID:0F, TEXT:0196] 【部屋１】
+[FID:0F, TEXT:0000] 
+[FID:0F, TEXT:0000] 
+[FID:0F, TEXT:0197] 【部屋２】
+[FID:0F, TEXT:0000] 
+[FID:0F, TEXT:0000] 
+[FID:0F, TEXT:0198] 【部屋３】
+[FID:0F, TEXT:0000] 
+[FID:0F, TEXT:0000] 
+[FID:0F, TEXT:0199] 【部屋４】
+[FID:0F, TEXT:0000] 
+[FID:0F, TEXT:0000] 
+[FID:0F, TEXT:019A] 【部屋５】
+[FID:0F, TEXT:0000] 
+[FID:0F, TEXT:0000] 
+[FID:0F, TEXT:019B] 【屋根裏部屋】
+[FID:0F, TEXT:0000] 
+[FID:0F, TEXT:0000] 
+[FID:0F, TEXT:019C] 【広間】
+[FID:0F, TEXT:0000] 
+[FID:0F, TEXT:0000] 
+[FID:0F, TEXT:019D] 【庭】
+[FID:0F, TEXT:0000] 
+[FID:0F, TEXT:0000] 
+[FID:0F, TEXT:019E] 【台所】
+[FID:0F, TEXT:0000] 
+[FID:0F, TEXT:0000] 
+
+--- Group 234 [left:char_0000 next=2012] ---
 [FID:0F, TEXT:019F] ・・・猫？
 
---- Group 195 ---
+--- Group 235 [left:char_0000 next=2012] ---
+[FID:0F, TEXT:019F] ・・・猫？
+
+--- Group 236 [left:char_0000 next=2012] ---
+[FID:0F, TEXT:01A0] この世界にも
+[FID:0F, TEXT:01A1] 猫がいるんだな・・・
+
+--- Group 237 [left:char_0000 next=2012] ---
 [FID:0F, TEXT:01A0] この世界にも
 [FID:0F, TEXT:01A1] 猫がいるんだな・・・
 
