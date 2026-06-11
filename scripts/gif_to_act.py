@@ -8,7 +8,7 @@ def gif_to_act(gif_path: Path, act_path: Path | None = None):
         act_path = gif_path.with_suffix(".act")
 
     with Image.open(gif_path) as img:
-        img = img.convert("RGB")
+        img = img.convert("P")
         palette = img.getpalette()
 
         if palette is None:
