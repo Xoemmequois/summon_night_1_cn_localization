@@ -73,6 +73,33 @@ public static class PreviewMapname
             var outputPath = Path.Combine(outputDir, $"mapname{mapIndex}.gif");
             outBmp.Save(outputPath, ImageFormat.Gif);
             Console.WriteLine($"  Generated preview: {outputPath}");
+
+            var origData = origBmp.LockBits(rect, ImageLockMode.ReadOnly, origBmp.PixelFormat);
+            var origIndices = new byte[origData.Stride * origBmp.Height];
+            Marshal.Copy(origData.Scan0, origIndices, 0, origIndices.Length);
+            origBmp.UnlockBits(origData);
+
+            using var diffBmp = new Bitmap(origBmp.Width, origBmp.Height, PixelFormat.Format24bppRgb);
+            var diffRect = new Rectangle(0, 0, diffBmp.Width, diffBmp.Height);
+            var diffData = diffBmp.LockBits(diffRect, ImageLockMode.WriteOnly, diffBmp.PixelFormat);
+            var diffPixels = new byte[diffData.Stride * diffBmp.Height];
+            for (var y = 0; y < origBmp.Height; y++)
+            {
+                for (var x = 0; x < origBmp.Width; x++)
+                {
+                    var same = indices[y * bmpData.Stride + x] == origIndices[y * origData.Stride + x];
+                    var pixelOff = y * diffData.Stride + x * 3;
+                    diffPixels[pixelOff] = same ? (byte)0 : (byte)255;
+                    diffPixels[pixelOff + 1] = same ? (byte)0 : (byte)255;
+                    diffPixels[pixelOff + 2] = same ? (byte)0 : (byte)255;
+                }
+            }
+            Marshal.Copy(diffPixels, 0, diffData.Scan0, diffPixels.Length);
+            diffBmp.UnlockBits(diffData);
+
+            var diffPath = Path.Combine(outputDir, $"mapname{mapIndex}_diff.png");
+            diffBmp.Save(diffPath, ImageFormat.Png);
+            Console.WriteLine($"  Generated diff: {diffPath}");
         }
     }
 
