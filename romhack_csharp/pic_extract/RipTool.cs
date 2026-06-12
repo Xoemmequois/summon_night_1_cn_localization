@@ -69,6 +69,7 @@ public static class RipTool
         File.WriteAllBytes("rom/CM3000.DAT.mod2", modifiedData);
 
         ExtractShopImages();
+        ExtractMapImages();
 
         Console.WriteLine("\nDone.");
     }
@@ -368,6 +369,40 @@ public static class RipTool
             bmp.Save(path, ImageFormat.Gif);
             SaveAct(bmp, path);
             Console.WriteLine($"  shop_sub_{idx}: {bmp.Width}x{bmp.Height}, size=0x{size:X} saved");
+        }
+    }
+
+    private static void ExtractMapImages()
+    {
+        var cm2000Path = "rom/CM2000.DAT";
+        if (!File.Exists(cm2000Path))
+        {
+            Console.WriteLine("\nCM2000.DAT not found, skipping map images extraction.");
+            return;
+        }
+
+        Console.WriteLine("\n=== Extracting map images ===");
+        var cm2000 = File.ReadAllBytes(cm2000Path);
+        var mapData = ExtractUtil.GetSubcontent(cm2000, 12);
+
+        var outDir = "pic_output/map";
+        Directory.CreateDirectory(outDir);
+
+        var subCount = ReadU16(mapData, 0);
+        Console.WriteLine($"  sub-content count: {subCount}");
+
+        for (var idx = 0; idx < subCount; idx++)
+        {
+            var off = GetSubContentOffset(mapData, idx, out var size);
+            if (off == 0) continue;
+
+            using var bmp = ParseTim(mapData, off);
+            if (bmp == null) continue;
+
+            var path = Path.Combine(outDir, $"map_sub_{idx}.gif");
+            bmp.Save(path, ImageFormat.Gif);
+            SaveAct(bmp, path);
+            Console.WriteLine($"  map_sub_{idx}: {bmp.Width}x{bmp.Height}, size=0x{size:X} saved");
         }
     }
 
