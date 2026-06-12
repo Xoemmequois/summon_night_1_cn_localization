@@ -17,10 +17,10 @@ public static class RipTool
         {
             var dd = ExtractUtil.GetSubcontent(data, 0x89 + i);
 
-            var off0 = BitConverter.ToInt32(dd, 4);
-            var off1 = BitConverter.ToInt32(dd, 8);
-            var off2 = BitConverter.ToInt32(dd, 12);
-            var off3 = BitConverter.ToInt32(dd, 16);
+            var off0 = GetSubContentOffset(dd, 0, out _);
+            var off1 = GetSubContentOffset(dd, 1, out _);
+            var off2 = GetSubContentOffset(dd, 2, out _);
+            var off3 = GetSubContentOffset(dd, 3, out _);
 
             using var bmp0 = ParseTim(dd, off0);
             using var bmp1 = ParseTim(dd, off1);
@@ -67,6 +67,8 @@ public static class RipTool
         Console.WriteLine("\n=== Writing translated mapnames back to CM3000.DAT ===");
         var modifiedData = WriteBackMapname.Apply(data, "pic_output/mapnames_translated", "pic_output/mapnames");
         File.WriteAllBytes("rom/CM3000.DAT.mod2", modifiedData);
+
+        ExtractShopImages();
 
         Console.WriteLine("\nDone.");
     }
@@ -152,6 +154,32 @@ public static class RipTool
     }
 
     private static ushort ReadU16(byte[] d, int off) => (ushort)(d[off] | (d[off + 1] << 8));
+
+    private static int GetSubContentOffset(byte[] dd, int index, out int size)
+    {
+        var cur = BitConverter.ToInt32(dd, 4 + index * 4) & 0xFFFFFF;
+        if (cur == 0)
+        {
+            size = 0;
+            return 0;
+        }
+
+        var entryCount = ReadU16(dd, 0);
+        var next = index + 1;
+        while (next < entryCount)
+        {
+            var nextOff = BitConverter.ToInt32(dd, 4 + next * 4) & 0xFFFFFF;
+            if (nextOff != 0)
+            {
+                size = nextOff - cur;
+                return cur;
+            }
+            next++;
+        }
+
+        size = dd.Length - cur;
+        return cur;
+    }
 
     private static List<PartRect> ParsePartRects(byte[] dd, int blockBase)
     {
@@ -301,6 +329,46 @@ public static class RipTool
         }
         Console.WriteLine(actPath);
         File.WriteAllBytes(actPath, actData);
+    }
+
+    private static void ExtractShopImages()
+    {
+        var cm2000Path = "rom/CM2000.DAT";
+        if (!File.Exists(cm2000Path))
+        {
+            Console.WriteLine("\nCM2000.DAT not found, skipping shop images extraction.");
+            return;
+        }
+
+        Console.WriteLine("\n=== Extracting shop images ===");
+        var cm2000 = File.ReadAllBytes(cm2000Path);
+        var shopData = ExtractUtil.GetSubcontent(cm2000, 7);
+
+        var outDir = "pic_output/shop";
+        Directory.CreateDirectory(outDir);
+
+        int[] pictureIndices = { 5, 6, 8 };
+        foreach (var idx in pictureIndices)
+        {
+            var off = GetSubContentOffset(shopData, idx, out var size);
+            if (off == 0)
+            {
+                Console.WriteLine($"  shop_sub_{idx}: empty, skipping");
+                continue;
+            }
+
+            using var bmp = ParseTim(shopData, off);
+            if (bmp == null)
+            {
+                Console.WriteLine($"  shop_sub_{idx}: failed to parse TIM at offset 0x{off:X}");
+                continue;
+            }
+
+            var path = Path.Combine(outDir, $"shop_{idx}.gif");
+            bmp.Save(path, ImageFormat.Gif);
+            SaveAct(bmp, path);
+            Console.WriteLine($"  shop_sub_{idx}: {bmp.Width}x{bmp.Height}, size=0x{size:X} saved");
+        }
     }
 
     private record PartRect(byte U, byte V, byte W, byte H);
