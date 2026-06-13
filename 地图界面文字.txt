@@ -89,3 +89,31 @@ A8AF8PtrTable[8004 & 0x7f] = *(800A82F8 + 4 * 2) = *(800A8300) = 09
 0x8001e764
 0x80039820
 0x80034178
+
+
+以下是地图界面右上角文字的加载信息，似乎和地图文字是同一个文件块：
+Query Results
+RAM Address: 0x801331CA
+
+LoadImage Parameters
+Position: (960, 256)
+Size: 64 x 64
+RAM Source: 0x80132E84
+Byte Count: 0x2000 (8192 bytes)
+Sector Count: 4
+CD Sector: 0x2A66
+File: CM2000.DAT
+Sector Offset: 0x1F7
+
+CDRead Parameters
+Dest: 0x80110000
+Length: 115 sectors
+Start Sector: 0x2A20
+Start File: CM2000.DAT
+Start File Offset: 0x1B1
+
+CDRead Callstack
+[0] 0x80081950 (0x800819F8)
+[1] 0x80016A48 (0x80016A9C)
+[2] 0x80031918 (0x80031978)
+[3] 0x800319A8 (0x80031B14)
