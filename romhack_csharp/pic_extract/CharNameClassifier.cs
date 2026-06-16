@@ -36,6 +36,7 @@ public static class CharNameClassifier
             {
                 File.Copy(src, dest);
                 CopyAct(src, dest);
+                CopyMeta(src, dest);
                 restored++;
                 Console.WriteLine($"  Restored: {name}");
             }
@@ -89,6 +90,7 @@ public static class CharNameClassifier
                 var dest = Path.Combine(OutputDir, name);
                 File.Copy(file, dest, true);
                 CopyAct(file, dest);
+                CopyMeta(file, dest);
                 Interlocked.Increment(ref textCount);
             }
             Console.WriteLine($"[{current}/{remaining.Length}] {(isText ? "TEXT" : "  -")}: {name}");
@@ -165,6 +167,14 @@ public static class CharNameClassifier
         var destAct = Path.ChangeExtension(destGif, ".act");
         if (File.Exists(srcAct))
             File.Copy(srcAct, destAct, true);
+    }
+
+    private static void CopyMeta(string srcGif, string destGif)
+    {
+        var srcMeta = srcGif + ".meta.json";
+        var destMeta = destGif + ".meta.json";
+        if (File.Exists(srcMeta))
+            File.Copy(srcMeta, destMeta, true);
     }
 
     private static Dictionary<string, bool> LoadProgress()

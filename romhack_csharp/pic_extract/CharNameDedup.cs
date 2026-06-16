@@ -78,6 +78,7 @@ public static class CharNameDedup
                     Console.WriteLine($"  {Path.GetFileName(other.Path)} -> DEL (keep {Path.GetFileName(best.Path)})");
                     File.Delete(other.Path);
                     DeleteAct(other.Path);
+                    DeleteMeta(other.Path);
                     deleted++;
                 }
                 else if (result == 1)
@@ -85,6 +86,7 @@ public static class CharNameDedup
                     Console.WriteLine($"  {Path.GetFileName(best.Path)} -> DEL (keep {Path.GetFileName(other.Path)})");
                     File.Delete(best.Path);
                     DeleteAct(best.Path);
+                    DeleteMeta(best.Path);
                     deleted++;
                     kept--;
                     best = other;
@@ -123,5 +125,12 @@ public static class CharNameDedup
         var actPath = Path.ChangeExtension(gifPath, ".act");
         if (File.Exists(actPath))
             File.Delete(actPath);
+    }
+
+    private static void DeleteMeta(string gifPath)
+    {
+        var metaPath = gifPath + ".meta.json";
+        if (File.Exists(metaPath))
+            File.Delete(metaPath);
     }
 }

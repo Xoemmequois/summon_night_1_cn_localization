@@ -82,13 +82,11 @@ internal static class Program
         // === 写入最终 SLPS_025.42.mod2 ===
         File.WriteAllBytes(Path.Combine("rom", "SLPS_025.42.mod2"), slps);
 
-        // === 修改 CM3000.DAT (地图名称翻译回写) ===
-        var cm3000 = File.ReadAllBytes(Path.Combine("rom", "CM3000.DAT"));
-        var cm3000Modified = WriteBackMapname.Apply(cm3000, "pic_output/mapnames_translated", "pic_output/mapnames");
-        File.WriteAllBytes(Path.Combine("rom", "CM3000.DAT.mod2"), cm3000Modified);
+        // === 修改 CMXXXX.DAT (图片翻译回写) ===
+        ImageWriteBack.Apply("pic_output", "pic_output_translated", "rom");
 
-        Console.WriteLine("\n=== Generating mapname previews ===");
-        PreviewMapname.Generate(cm3000, "pic_output/mapnames_translated", "pic_output/mapnames_preview", "pic_output/mapnames");
+        Console.WriteLine("\n=== Generating image previews ===");
+        ImagePreview.Generate("pic_output", "pic_output_translated", "rom", "pic_output_preview");
         
         var mkpsxiso = Path.Combine(config.SdkPath, "bin", "mkpsxiso.exe");
         CommandRunner.RunCommand(mkpsxiso, ".\\rom2.xml -y -o .\\output\\Summon_Night_Chinese.bin -c .\\output\\Summon_Night_Chinese.cue");

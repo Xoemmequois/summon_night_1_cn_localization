@@ -35,8 +35,9 @@ public static class RipTool
                 var bmp = texIdx == 0 ? bmp0 : bmp1;
                 if (bmp == null) continue;
                 var path = Path.Combine(outBase, $"char_{i}_sub2_part_{j}.gif");
-                if (!File.Exists(path))
-                    ExportPart(bmp, sub2Rects[j], path);
+                ExportPart(bmp, sub2Rects[j], path);
+                ImageMetaWriter.Write(path, "CM3000.DAT", 0x89 + i, texIdx,
+                    sub2Rects[j].U, sub2Rects[j].V, sub2Rects[j].W, sub2Rects[j].H);
             }
 
             var texMap3 = BuildRectTexMap(sub3FrameDatas);
@@ -46,8 +47,9 @@ public static class RipTool
                 var bmp = texIdx == 0 ? bmp0 : bmp1;
                 if (bmp == null) continue;
                 var path = Path.Combine(outBase, $"char_{i}_sub3_part_{j}.gif");
-                if (!File.Exists(path))
-                    ExportPart(bmp, sub3Rects[j], path);
+                ExportPart(bmp, sub3Rects[j], path);
+                ImageMetaWriter.Write(path, "CM3000.DAT", 0x89 + i, texIdx,
+                    sub3Rects[j].U, sub3Rects[j].V, sub3Rects[j].W, sub3Rects[j].H);
             }
         }
 
@@ -63,10 +65,6 @@ public static class RipTool
             Console.WriteLine($"\nmapname{i}: offset=0x{BitConverter.ToInt32(subContent, 4):X} {subContent.Length} bytes");
             Parse(subContent, 0, $"mapname{i}");
         }
-
-        Console.WriteLine("\n=== Writing translated mapnames back to CM3000.DAT ===");
-        var modifiedData = WriteBackMapname.Apply(data, "pic_output/mapnames_translated", "pic_output/mapnames");
-        File.WriteAllBytes("rom/CM3000.DAT.mod2", modifiedData);
 
         ExtractShopImages();
         ExtractMapImages(12);
@@ -136,6 +134,8 @@ public static class RipTool
         var gifPath = Path.Combine(outDir, filename + ".gif");
         bitmap!.Save(gifPath, ImageFormat.Gif);
         SaveAct(bitmap, gifPath);
+        var index = int.Parse(filename.AsSpan(7));
+        ImageMetaWriter.Write(gifPath, "CM3000.DAT", index, -1);
     }
 
     private static Bitmap? ParseTim(byte[] subData, int offset, bool skipWhenOffsetZero = true)
@@ -370,6 +370,7 @@ public static class RipTool
             var path = Path.Combine(outDir, $"shop_{idx}.gif");
             bmp.Save(path, ImageFormat.Gif);
             SaveAct(bmp, path);
+            ImageMetaWriter.Write(path, "CM2000.DAT", 7, idx);
             Console.WriteLine($"  shop_sub_{idx}: {bmp.Width}x{bmp.Height}, size=0x{size:X} saved");
         }
     }
@@ -404,6 +405,7 @@ public static class RipTool
             var path = Path.Combine(outDir, $"map_sub_{idx}.gif");
             bmp.Save(path, ImageFormat.Gif);
             SaveAct(bmp, path);
+            ImageMetaWriter.Write(path, "CM2000.DAT", subContentId, idx);
             Console.WriteLine($"  map_sub_{idx}: {bmp.Width}x{bmp.Height}, size=0x{size:X} saved");
         }
     }
@@ -441,6 +443,7 @@ public static class RipTool
         var path = Path.Combine(outDir, "mapscreen_titles.gif");
         bmp.Save(path, ImageFormat.Gif);
         SaveAct(bmp, path);
+        ImageMetaWriter.Write(path, "CM2000.DAT", 1, 0x11);
         Console.WriteLine($"  mapscreen_titles: {bmp.Width}x{bmp.Height}, size=0x{size:X} saved");
     }
 
