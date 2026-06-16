@@ -67,8 +67,8 @@ public class RomTextRipper
             WriteIndented = true,
             Encoder = System.Text.Encodings.Web.JavaScriptEncoder.UnsafeRelaxedJsonEscaping
         };
-        File.WriteAllText("rom_text_zh_CN.json", JsonSerializer.Serialize(resultItems, jsonOptions));
-        Console.WriteLine("\nDone! Text exported to rom_text_zh_CN.json");
+        File.WriteAllText("rom_text.json", JsonSerializer.Serialize(resultItems, jsonOptions));
+        Console.WriteLine("\nDone! Text exported to rom_text.json");
     }
 
     private List<ParatranzItem> RipArrays(byte[] romData, List<(int Address, string Text)> allExtracted,
