@@ -225,7 +225,7 @@ All projects under `romhack_csharp/`, working directory is `romhack/`.
 | `romhack_csharp/romhack_csharp/ExtraCodeBuilder.cs` | Compiles load.s/load_small.s/font.s via mipsel-gcc |
 | `SummonNightLib/ExtractUtil.cs` | `GetSubcontent(data, id)` + `ReadUShort` |
 | `SummonNightLib/TranslationItem.cs` | `{key, original, translation, stage}` model |
-| `small_font/RomTextRipper.cs` | SLPS_025.42 embedded text → `rom_text_zh_CN.json` |
+| `small_font/RomTextRipper.cs` | SLPS_025.42 embedded text → `rom_text.json` |
 | `small_font/SmallFontBuilder.cs` | 12×12 glyphs, CM1200 map patch, S.F output |
 | `small_font/RomTextWriter.cs` | Write translated text back to SLPS_025.42 in-place |
 | `pic_extract/RipTool.cs` | TIM parser, animation blob parser, char/map/shop ripper |
@@ -240,7 +240,7 @@ All projects under `romhack_csharp/`, working directory is `romhack/`.
 --rip flag (or no rom/ dir):
   1. dumpsxiso: ISO → rom/
   2. GameTextRipper: CM1100.DAT → zh_CN.json
-  3. RomTextRipper: SLPS_025.42 → rom_text_zh_CN.json
+  3. RomTextRipper: SLPS_025.42 → rom_text.json
   4. RipTool: CM3000.DAT → pic_output/chars/*.gif + mapnames/*.gif
   5. RipTool: CM2000.DAT → pic_output/shop/*.gif + map/*.gif
   6. CharNameClassifier → AI classifies text images
