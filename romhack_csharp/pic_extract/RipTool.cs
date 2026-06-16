@@ -69,7 +69,8 @@ public static class RipTool
         File.WriteAllBytes("rom/CM3000.DAT.mod2", modifiedData);
 
         ExtractShopImages();
-        ExtractMapImages();
+        ExtractMapImages(12);
+        ExtractMapImages(13);
         ExtractMapscreenTitles();
 
         Console.WriteLine("\nDone.");
@@ -373,7 +374,7 @@ public static class RipTool
         }
     }
 
-    private static void ExtractMapImages()
+    private static void ExtractMapImages(int subContentId)
     {
         var cm2000Path = "rom/CM2000.DAT";
         if (!File.Exists(cm2000Path))
@@ -382,11 +383,11 @@ public static class RipTool
             return;
         }
 
-        Console.WriteLine("\n=== Extracting map images ===");
+        Console.WriteLine($"\n=== Extracting map images (subcontent {subContentId}) ===");
         var cm2000 = File.ReadAllBytes(cm2000Path);
-        var mapData = ExtractUtil.GetSubcontent(cm2000, 12);
+        var mapData = ExtractUtil.GetSubcontent(cm2000, subContentId);
 
-        var outDir = "pic_output/map";
+        var outDir = $"pic_output/map/{subContentId}";
         Directory.CreateDirectory(outDir);
 
         var subCount = ReadU16(mapData, 0);
