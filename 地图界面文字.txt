@@ -117,3 +117,29 @@ CDRead Callstack
 [1] 0x80016A48 (0x80016A9C)
 [2] 0x80031918 (0x80031978)
 [3] 0x800319A8 (0x80031B14)
+
+（从onLoadImage的callsatck来看，这个 onLoadImage 似乎是地图界面文字从CD读取之前获取的，但是这和我们的Lua脚本获取到的内容冲突，可能猜想有错
+但是从 callstack来看加载的是0x11的 SubSlotContent，但是CDRead出来的内容似乎没有那么多的SubSlotContent）
+onLoadImage: src=80132E84, rect=(960,256,64,64)
+80081950(800819F8)
+80016A48(80016AB4)
+80019E28(80019E78)
+80019E88(8001A050)
+8001E6E8(8001E764)
+800397D0(80039AC4)
+800298D8(800298FC)
+80029944(80029A10)
+80029B08(80029B74)
+
+是lua代码错误，lua代码应该是拿我们通过UI提交查询请求时该内存的所属CDRead去计算的，没有考虑过 onLoadImage后 CdRead修改了内容
+
+
+实际CDRead指令是这个
+0x800819f8
+0x80016ab4
+0x80019e78
+0x8001a050
+0x8001e5d4  -> Command2050
+0x800397c0
+
+实际上就是读 CM2000的第一个 SubContent
