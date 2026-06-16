@@ -70,6 +70,7 @@ public static class RipTool
 
         ExtractShopImages();
         ExtractMapImages();
+        ExtractMapscreenTitles();
 
         Console.WriteLine("\nDone.");
     }
@@ -404,6 +405,42 @@ public static class RipTool
             SaveAct(bmp, path);
             Console.WriteLine($"  map_sub_{idx}: {bmp.Width}x{bmp.Height}, size=0x{size:X} saved");
         }
+    }
+
+    private static void ExtractMapscreenTitles()
+    {
+        var cm2000Path = "rom/CM2000.DAT";
+        if (!File.Exists(cm2000Path))
+        {
+            Console.WriteLine("\nCM2000.DAT not found, skipping mapscreen titles extraction.");
+            return;
+        }
+
+        Console.WriteLine("\n=== Extracting mapscreen titles ===");
+        var cm2000 = File.ReadAllBytes(cm2000Path);
+        var subData = ExtractUtil.GetSubcontent(cm2000, 1);
+
+        var outDir = "pic_output/misc";
+        Directory.CreateDirectory(outDir);
+
+        var off = GetSubContentOffset(subData, 0x11, out var size);
+        if (off == 0)
+        {
+            Console.WriteLine("  mapscreen_titles: slot 0x11 empty, skipping");
+            return;
+        }
+
+        using var bmp = ParseTim(subData, off);
+        if (bmp == null)
+        {
+            Console.WriteLine($"  mapscreen_titles: failed to parse TIM at offset 0x{off:X}");
+            return;
+        }
+
+        var path = Path.Combine(outDir, "mapscreen_titles.gif");
+        bmp.Save(path, ImageFormat.Gif);
+        SaveAct(bmp, path);
+        Console.WriteLine($"  mapscreen_titles: {bmp.Width}x{bmp.Height}, size=0x{size:X} saved");
     }
 
     private record PartRect(byte U, byte V, byte W, byte H);
