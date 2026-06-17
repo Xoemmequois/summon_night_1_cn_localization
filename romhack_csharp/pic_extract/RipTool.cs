@@ -22,8 +22,8 @@ public static class RipTool
             var off2 = GetSubContentOffset(dd, 2, out _);
             var off3 = GetSubContentOffset(dd, 3, out _);
 
-            using var bmp0 = ParseTim(dd, off0);
-            using var bmp1 = ParseTim(dd, off1);
+            using var bmp0 = ParseTim(dd, off0, out var is4bpp0);
+            using var bmp1 = ParseTim(dd, off1, out var is4bpp1);
 
             var (sub2Label, sub2Flags, sub2Anims, sub2FrameDatas, sub2Rects) = ParseAnimSpriteBlob(dd, off2, "sub2");
             var (sub3Label, sub3Flags, sub3Anims, sub3FrameDatas, sub3Rects) = ParseAnimSpriteBlob(dd, off3, "sub3");
@@ -35,7 +35,7 @@ public static class RipTool
                 var bmp = texIdx == 0 ? bmp0 : bmp1;
                 if (bmp == null) continue;
                 var path = Path.Combine(outBase, $"char_{i}_sub2_part_{j}.gif");
-                ExportPart(bmp, sub2Rects[j], path);
+                ExportPart(bmp, sub2Rects[j], path, texIdx == 0 ? is4bpp0 : is4bpp1);
                 ImageMetaWriter.Write(path, "CM3000.DAT", 0x89 + i, texIdx,
                     sub2Rects[j].U, sub2Rects[j].V, sub2Rects[j].W, sub2Rects[j].H);
             }
@@ -47,7 +47,7 @@ public static class RipTool
                 var bmp = texIdx == 0 ? bmp0 : bmp1;
                 if (bmp == null) continue;
                 var path = Path.Combine(outBase, $"char_{i}_sub3_part_{j}.gif");
-                ExportPart(bmp, sub3Rects[j], path);
+                ExportPart(bmp, sub3Rects[j], path, texIdx == 0 ? is4bpp0 : is4bpp1);
                 ImageMetaWriter.Write(path, "CM3000.DAT", 0x89 + i, texIdx,
                     sub3Rects[j].U, sub3Rects[j].V, sub3Rects[j].W, sub3Rects[j].H);
             }
@@ -80,11 +80,11 @@ public static class RipTool
         for (var i = 0; i < clutW * clutH; i++)
         {
             var c = BitConverter.ToUInt16(subData, offset + i * 2);
-            var r = c & 0x1F;
-            var g = (c >> 5) & 0x1F;
-            var b = (c >> 10) & 0x1F;
-            var a = c == 0 ? 0 : 255;
-            colors.Add(Color.FromArgb(a, r << 3, g << 3, b << 3));
+            var r = (c & 0x1F) << 3;
+            var g = ((c >> 5) & 0x1F) << 3;
+            var b = ((c >> 10) & 0x1F) << 3;
+            var a = (i == 0 && r == 0 && g == 0 && b == 0) ? 0 : (c == 0 ? 0 : 255);
+            colors.Add(Color.FromArgb(a, r, g, b));
         }
         return colors.ToArray();
     }
@@ -128,18 +128,19 @@ public static class RipTool
 
     private static void Parse(byte[] subData, int offset, string filename)
     {
-        var bitmap = ParseTim(subData, offset, false);
+        var bitmap = ParseTim(subData, offset, out var is4bpp, false);
         var outDir = Path.Combine("pic_output", "mapnames");
         Directory.CreateDirectory(outDir);
         var gifPath = Path.Combine(outDir, filename + ".gif");
         bitmap!.Save(gifPath, ImageFormat.Gif);
-        SaveAct(bitmap, gifPath);
+        SaveAct(bitmap, gifPath, is4bpp);
         var index = int.Parse(filename.AsSpan(7));
         ImageMetaWriter.Write(gifPath, "CM3000.DAT", index, -1);
     }
 
-    private static Bitmap? ParseTim(byte[] subData, int offset, bool skipWhenOffsetZero = true)
+    private static Bitmap? ParseTim(byte[] subData, int offset, out bool is4bpp, bool skipWhenOffsetZero = true)
     {
+        is4bpp = false;
         if (offset == 0 && skipWhenOffsetZero)
             return null;
         if (offset < 0 || offset + 16 > subData.Length)
@@ -152,8 +153,9 @@ public static class RipTool
         var pixW = BitConverter.ToUInt16(subData, pix + offset);
         var pixH = BitConverter.ToUInt16(subData, pix + offset + 2);
         Console.WriteLine($"  TIM: {pixW}*{pixH} words, CLUT {clutW}*{clutH}");
+        is4bpp = clutW != 256;
         var cluts = ParseCluts(subData, offset + clut + 4, clutW, clutH);
-        return ParsePix(subData, offset + pix + 4, pixW, pixH, cluts, clutW != 256);
+        return ParsePix(subData, offset + pix + 4, pixW, pixH, cluts, is4bpp);
     }
 
     private static ushort ReadU16(byte[] d, int off) => (ushort)(d[off] | (d[off + 1] << 8));
@@ -295,14 +297,14 @@ public static class RipTool
         return (label, flags, anims, frameDatas, rects);
     }
 
-    private static void ExportPart(Bitmap bmp, PartRect rect, string path)
+    private static void ExportPart(Bitmap bmp, PartRect rect, string path, bool is4bpp)
     {
         if (rect.U + rect.W > bmp.Width || rect.V + rect.H > bmp.Height)
             return;
         var area = new Rectangle(rect.U, rect.V, rect.W, rect.H);
         using var sprite = bmp.Clone(area, bmp.PixelFormat);
         sprite.Save(path, ImageFormat.Gif);
-        SaveAct(bmp, path);
+        SaveAct(bmp, path, is4bpp);
     }
 
     private static Dictionary<int, int> BuildRectTexMap(List<FrameData> frameDatas)
@@ -318,17 +320,45 @@ public static class RipTool
         return map;
     }
 
-    private static void SaveAct(Bitmap bmp, string gifPath)
+    private static void SaveAct(Bitmap bmp, string gifPath, bool is4bpp)
     {
         var actPath = Path.ChangeExtension(gifPath, ".act");
         var palette = bmp.Palette;
+        var colorCount = is4bpp ? 16 : 256;
         var actData = new byte[768];
-        for (var i = 0; i < 256; i++)
+        var seen = new HashSet<int>();
+        for (var i = 0; i < colorCount; i++)
         {
             var c = palette.Entries[i];
-            actData[i * 3] = c.R;
-            actData[i * 3 + 1] = c.G;
-            actData[i * 3 + 2] = c.B;
+            var r = (int)c.R;
+            var g = (int)c.G;
+            var b = (int)c.B;
+            var key = (r << 16) | (g << 8) | b;
+            if (seen.Add(key))
+            {
+                actData[i * 3] = (byte)r;
+                actData[i * 3 + 1] = (byte)g;
+                actData[i * 3 + 2] = (byte)b;
+                continue;
+            }
+            var tweak = 0;
+            while (true)
+            {
+                var inc = tweak / 3 + 1;
+                var channel = tweak % 3;
+                var cr = channel == 0 ? Math.Min(r + inc, 255) : r;
+                var cg = channel == 1 ? Math.Min(g + inc, 255) : g;
+                var cb = channel == 2 ? Math.Min(b + inc, 255) : b;
+                key = (cr << 16) | (cg << 8) | cb;
+                if (seen.Add(key))
+                {
+                    actData[i * 3] = (byte)cr;
+                    actData[i * 3 + 1] = (byte)cg;
+                    actData[i * 3 + 2] = (byte)cb;
+                    break;
+                }
+                tweak++;
+            }
         }
         Console.WriteLine(actPath);
         File.WriteAllBytes(actPath, actData);
@@ -360,7 +390,7 @@ public static class RipTool
                 continue;
             }
 
-            using var bmp = ParseTim(shopData, off);
+            using var bmp = ParseTim(shopData, off, out var is4bpp);
             if (bmp == null)
             {
                 Console.WriteLine($"  shop_sub_{idx}: failed to parse TIM at offset 0x{off:X}");
@@ -369,7 +399,7 @@ public static class RipTool
 
             var path = Path.Combine(outDir, $"shop_{idx}.gif");
             bmp.Save(path, ImageFormat.Gif);
-            SaveAct(bmp, path);
+            SaveAct(bmp, path, is4bpp);
             ImageMetaWriter.Write(path, "CM2000.DAT", 7, idx);
             Console.WriteLine($"  shop_sub_{idx}: {bmp.Width}x{bmp.Height}, size=0x{size:X} saved");
         }
@@ -399,12 +429,12 @@ public static class RipTool
             var off = GetSubContentOffset(mapData, idx, out var size);
             if (off == 0) continue;
 
-            using var bmp = ParseTim(mapData, off);
+            using var bmp = ParseTim(mapData, off, out var is4bpp);
             if (bmp == null) continue;
 
             var path = Path.Combine(outDir, $"map_sub_{idx}.gif");
             bmp.Save(path, ImageFormat.Gif);
-            SaveAct(bmp, path);
+            SaveAct(bmp, path, is4bpp);
             ImageMetaWriter.Write(path, "CM2000.DAT", subContentId, idx);
             Console.WriteLine($"  map_sub_{idx}: {bmp.Width}x{bmp.Height}, size=0x{size:X} saved");
         }
@@ -433,7 +463,7 @@ public static class RipTool
             return;
         }
 
-        using var bmp = ParseTim(subData, off);
+        using var bmp = ParseTim(subData, off, out var is4bpp);
         if (bmp == null)
         {
             Console.WriteLine($"  mapscreen_titles: failed to parse TIM at offset 0x{off:X}");
@@ -442,7 +472,7 @@ public static class RipTool
 
         var path = Path.Combine(outDir, "mapscreen_titles.gif");
         bmp.Save(path, ImageFormat.Gif);
-        SaveAct(bmp, path);
+        SaveAct(bmp, path, is4bpp);
         ImageMetaWriter.Write(path, "CM2000.DAT", 1, 0x11);
         Console.WriteLine($"  mapscreen_titles: {bmp.Width}x{bmp.Height}, size=0x{size:X} saved");
     }
