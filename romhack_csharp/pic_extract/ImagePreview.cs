@@ -2,7 +2,6 @@ using System.Drawing;
 using System.Drawing.Imaging;
 using System.Runtime.InteropServices;
 using System.Text.Json;
-using SummonNightLib;
 
 public static class ImagePreview
 {
@@ -38,17 +37,15 @@ public static class ImagePreview
                 datCaches[meta.DatFile] = datBuffer;
             }
 
-            var (pixDataOffset, pixBytesPerRow, pixH, bit4, clutOffset, clutCount) = GetTimInfo(datBuffer, meta);
-            var expectedWidth = bit4 ? pixBytesPerRow * 2 : pixBytesPerRow;
+            var tim = TimPixelHelper.ParseTim(datBuffer, meta);
 
             using var translatedBmp = new Bitmap(translatedFile);
-            if (translatedBmp.PixelFormat != PixelFormat.Format8bppIndexed ||
-                translatedBmp.Width != expectedWidth || translatedBmp.Height != pixH)
+            if (translatedBmp.PixelFormat != PixelFormat.Format8bppIndexed)
                 continue;
 
-            var rect = new Rectangle(0, 0, translatedBmp.Width, translatedBmp.Height);
-            var tData = translatedBmp.LockBits(rect, ImageLockMode.ReadOnly, translatedBmp.PixelFormat);
-            var tIndices = new byte[tData.Stride * tData.Height];
+            var tRect = new Rectangle(0, 0, translatedBmp.Width, translatedBmp.Height);
+            var tData = translatedBmp.LockBits(tRect, ImageLockMode.ReadOnly, translatedBmp.PixelFormat);
+            var tIndices = new byte[tData.Stride * translatedBmp.Height];
             Marshal.Copy(tData.Scan0, tIndices, 0, tIndices.Length);
             translatedBmp.UnlockBits(tData);
 
@@ -57,12 +54,11 @@ public static class ImagePreview
             Directory.CreateDirectory(outDir);
             var filename = Path.GetFileNameWithoutExtension(relativePath);
 
-            var cluts = ParseCluts(datBuffer, clutOffset, clutCount);
             var previewPath = Path.Combine(outDir, filename + ".gif");
-            SavePreview(tIndices, tData.Stride, translatedBmp.Width, pixH, cluts, previewPath);
+            SavePreview(tIndices, tData.Stride, translatedBmp.Width, translatedBmp.Height, tim.Cluts, previewPath);
 
             var diffPath = Path.Combine(outDir, filename + "_diff.png");
-            SaveDiff(datBuffer, pixDataOffset, pixBytesPerRow, pixH, bit4, tIndices, tData.Stride, diffPath);
+            SaveDiff(tim, meta, tIndices, tData.Stride, translatedBmp.Width, translatedBmp.Height, diffPath);
 
             Console.WriteLine($"  Preview: {previewPath}");
             Console.WriteLine($"  Diff:    {diffPath}");
@@ -86,132 +82,34 @@ public static class ImagePreview
         bmp.Save(path, ImageFormat.Gif);
     }
 
-    private static void SaveDiff(byte[] datBuffer, int pixDataOffset, int pixBytesPerRow, int pixH, bool bit4,
-        byte[] translatedIndices, int translatedStride, string path)
+    private static void SaveDiff(TimPixelHelper.TimPixelData tim, ImageMeta meta,
+        byte[] translatedIndices, int tStride, int tWidth, int tHeight, string path)
     {
-        using var diffBmp = new Bitmap(translatedIndices.Length / translatedStride > 0 ? translatedIndices.Length / translatedStride : pixH,
-            Math.Max(pixBytesPerRow * (bit4 ? 2 : 1), 1), PixelFormat.Format24bppRgb);
-        
-        var width = bit4 ? pixBytesPerRow * 2 : pixBytesPerRow;
-        var height = pixH;
-        using var realDiffBmp = new Bitmap(width, height, PixelFormat.Format24bppRgb);
-        
-        var rect = new Rectangle(0, 0, width, height);
-        var diffData = realDiffBmp.LockBits(rect, ImageLockMode.WriteOnly, realDiffBmp.PixelFormat);
-        var diffPixels = new byte[diffData.Stride * height];
+        using var diffBmp = new Bitmap(tWidth, tHeight, PixelFormat.Format24bppRgb);
+        var rect = new Rectangle(0, 0, tWidth, tHeight);
+        var diffData = diffBmp.LockBits(rect, ImageLockMode.WriteOnly, diffBmp.PixelFormat);
+        var diffPixels = new byte[diffData.Stride * tHeight];
 
-        for (var y = 0; y < height; y++)
+        var srcYOff = meta.RectV ?? 0;
+        var srcXOff = meta.RectU ?? 0;
+
+        for (var y = 0; y < tHeight; y++)
         {
-            for (var x = 0; x < pixBytesPerRow; x++)
+            for (var x = 0; x < tWidth; x++)
             {
-                byte origLo, origHi;
-                if (bit4)
-                {
-                    var raw = datBuffer[pixDataOffset + y * pixBytesPerRow + x];
-                    origLo = (byte)(raw & 0xF);
-                    origHi = (byte)((raw >> 4) & 0xF);
-                }
-                else
-                {
-                    origLo = datBuffer[pixDataOffset + y * pixBytesPerRow + x];
-                    origHi = origLo;
-                }
-
-                var transLo = translatedIndices[y * translatedStride + x * 2];
-                var transHi = bit4 ? translatedIndices[y * translatedStride + x * 2 + 1] : transLo;
-
-                SetDiffPixel(diffPixels, diffData.Stride, y, x * 2, origLo == transLo);
-                if (bit4)
-                    SetDiffPixel(diffPixels, diffData.Stride, y, x * 2 + 1, origHi == transHi);
+                var orig = tim.PixelIndices[(srcYOff + y) * tim.Stride + (srcXOff + x)];
+                var trans = translatedIndices[y * tStride + x];
+                var same = orig == trans;
+                var off = y * diffData.Stride + x * 3;
+                var v = same ? (byte)255 : (byte)0;
+                diffPixels[off] = v;
+                diffPixels[off + 1] = v;
+                diffPixels[off + 2] = v;
             }
         }
         Marshal.Copy(diffPixels, 0, diffData.Scan0, diffPixels.Length);
-        realDiffBmp.UnlockBits(diffData);
+        diffBmp.UnlockBits(diffData);
 
-        realDiffBmp.Save(path, ImageFormat.Png);
-    }
-
-    private static void SetDiffPixel(byte[] pixels, int stride, int y, int x, bool same)
-    {
-        var off = y * stride + x * 3;
-        var v = same ? (byte)255 : (byte)0;
-        pixels[off] = v;
-        pixels[off + 1] = v;
-        pixels[off + 2] = v;
-    }
-
-    private static (int pixDataOffset, int pixBytesPerRow, int pixH, bool bit4, int clutOffset, int clutCount)
-        GetTimInfo(byte[] datBuffer, ImageMeta meta)
-    {
-        var sectorOffset = ExtractUtil.ReadUShort(datBuffer, 0x10 + meta.SubContentId * 4);
-        var subContentStart = sectorOffset * 0x800;
-
-        int timOffset;
-        if (meta.SubSlotIndex == -1)
-        {
-            timOffset = subContentStart;
-        }
-        else
-        {
-            var subData = ExtractUtil.GetSubcontent(datBuffer, meta.SubContentId);
-            var slotOff = GetSubContentOffset(subData, meta.SubSlotIndex, out _);
-            timOffset = subContentStart + slotOff;
-        }
-
-        var clut = BitConverter.ToInt32(datBuffer, timOffset + 4);
-        var clutW = BitConverter.ToUInt16(datBuffer, timOffset + clut);
-        var clutH = BitConverter.ToUInt16(datBuffer, timOffset + clut + 2);
-        var bit4 = clutW != 256;
-
-        var pix = BitConverter.ToInt32(datBuffer, timOffset + 8);
-        var pixW = BitConverter.ToUInt16(datBuffer, timOffset + pix);
-        var pixH = BitConverter.ToUInt16(datBuffer, timOffset + pix + 2);
-
-        var pixDataOffset = timOffset + pix + 4;
-        var pixBytesPerRow = pixW * 2;
-        var clutOffset = timOffset + clut + 4;
-        var clutCount = clutW * clutH;
-
-        return (pixDataOffset, pixBytesPerRow, pixH, bit4, clutOffset, clutCount);
-    }
-
-    private static Color[] ParseCluts(byte[] datBuffer, int offset, int count)
-    {
-        var colors = new Color[count];
-        for (var i = 0; i < count; i++)
-        {
-            var c = BitConverter.ToUInt16(datBuffer, offset + i * 2);
-            var r = c & 0x1F;
-            var g = (c >> 5) & 0x1F;
-            var b = (c >> 10) & 0x1F;
-            colors[i] = Color.FromArgb(i == 0 ? 0 : 255, r << 3, g << 3, b << 3);
-        }
-        return colors;
-    }
-
-    private static int GetSubContentOffset(byte[] dd, int index, out int size)
-    {
-        var cur = BitConverter.ToInt32(dd, 4 + index * 4) & 0xFFFFFF;
-        if (cur == 0)
-        {
-            size = 0;
-            return 0;
-        }
-
-        var entryCount = (ushort)(dd[0] | (dd[1] << 8));
-        var next = index + 1;
-        while (next < entryCount)
-        {
-            var nextOff = BitConverter.ToInt32(dd, 4 + next * 4) & 0xFFFFFF;
-            if (nextOff != 0)
-            {
-                size = nextOff - cur;
-                return cur;
-            }
-            next++;
-        }
-
-        size = dd.Length - cur;
-        return cur;
+        diffBmp.Save(path, ImageFormat.Png);
     }
 }
