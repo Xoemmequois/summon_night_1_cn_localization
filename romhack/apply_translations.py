@@ -28,7 +28,14 @@ def collect_translations():
                     fid = int(m.group(1), 16)
                     text_idx = int(m.group(2), 16)
                     key = f"{fid:04d}-{text_idx:04d}"
-                    trans[key] = m.group(3)
+                    text = m.group(3)
+                    if key in trans and trans[key] != text:
+                        raise ValueError(
+                            f"Conflicting translations for {key} in {path.name}:\n"
+                            f"  existing: {trans[key]}\n"
+                            f"  new:      {text}"
+                        )
+                    trans[key] = text
     return trans
 
 
