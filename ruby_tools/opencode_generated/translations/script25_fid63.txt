@@ -1,0 +1,376 @@
+--- Group 1 [right:none next=2012] ---
+[FID:63, TEXT:0001] 那家伙，要去哪里
+[FID:63, TEXT:0002] 啊？
+
+--- Group 2 [right:莫纳蒂 next=2012] ---
+[FID:63, TEXT:0001] 那家伙，要去哪里
+[FID:63, TEXT:0002] 啊？
+
+--- Group 3 [right:瞪羚 next=2012] ---
+[FID:63, TEXT:0001] 那家伙，要去哪里
+[FID:63, TEXT:0002] 啊？
+
+--- Group 4 [left:none next=0023] ---
+[FID:63, TEXT:0003] 该不会就这样
+[FID:63, TEXT:0004] 离开城镇了吧
+[FID:63, TEXT:0005] 呢？
+
+--- Group 5 [left:none next=0023] ---
+[FID:63, TEXT:0003] 该不会就这样
+[FID:63, TEXT:0004] 离开城镇了吧
+[FID:63, TEXT:0005] 呢？
+
+--- Group 6 [left:none next=0023] ---
+[FID:63, TEXT:0003] 该不会就这样
+[FID:63, TEXT:0004] 离开城镇了吧
+[FID:63, TEXT:0005] 呢？
+
+--- Group 7 [left:none next=0023] ---
+[FID:63, TEXT:0003] 该不会就这样
+[FID:63, TEXT:0004] 离开城镇了吧
+[FID:63, TEXT:0007] 呢？
+
+--- Group 8 [left:none next=0023] ---
+[FID:63, TEXT:0003] 该不会就这样
+[FID:63, TEXT:0004] 离开城镇了吧
+[FID:63, TEXT:0006] 吗？
+
+--- Group 9 [right:none next=2012] ---
+[FID:63, TEXT:0008] 开什么玩笑
+[FID:63, TEXT:0009] 如果是这样的话
+[FID:63, TEXT:000A] 在他离开之前
+[FID:63, TEXT:000A] 必须得干掉他
+
+--- Group 10 [right:莫纳蒂 next=2012] ---
+[FID:63, TEXT:0008] 开什么玩笑
+[FID:63, TEXT:0009] 如果是这样的话
+[FID:63, TEXT:000A] 在他离开之前
+[FID:63, TEXT:000A] 必须得干掉他
+
+--- Group 11 [right:瞪羚 next=2012] ---
+[FID:63, TEXT:0008] 开什么玩笑
+[FID:63, TEXT:0009] 如果是这样的话
+[FID:63, TEXT:000A] 在他离开之前
+[FID:63, TEXT:000A] 必须得干掉他
+
+--- Group 12 [left:none next=0023] ---
+[FID:63, TEXT:000B] 等等，瞪羚！？
+[FID:63, TEXT:000C] 那个家伙是不是
+[FID:63, TEXT:000D] 那样还不能确定吧……
+
+--- Group 13 [left:none next=0023] ---
+[FID:63, TEXT:000B] 等等，瞪羚！？
+[FID:63, TEXT:000C] 那个家伙是不是
+[FID:63, TEXT:000D] 那样还不能确定吧……
+
+--- Group 14 [left:none next=0023] ---
+[FID:63, TEXT:000B] 等等，瞪羚！？
+[FID:63, TEXT:000C] 那个家伙是不是
+[FID:63, TEXT:000D] 那样还不能确定吧……
+
+--- Group 15 [left:none next=0023] ---
+[FID:63, TEXT:000E] 等一下，瞪羚！？
+[FID:63, TEXT:000C] 那个家伙是不是
+[FID:63, TEXT:000D] 那样还不能确定吧……
+
+--- Group 16 [left:none next=0023] ---
+[FID:63, TEXT:000F] 那个，瞪羚先生
+[FID:63, TEXT:0010] 那个家伙是不是
+[FID:63, TEXT:0011] 那样还不能确定
+[FID:63, TEXT:0012] 吧？
+
+--- Group 17 [left:char_0040 next=2012] ---
+[FID:63, TEXT:0013] 差不多就行了
+[FID:63, TEXT:0014] 出来面对一下怎么样
+
+--- Group 18 [left:char_0040 next=2012] ---
+[FID:63, TEXT:0013] 差不多就行了
+[FID:63, TEXT:0014] 出来面对一下怎么样
+
+--- Group 19 [left:char_0040 next=2012] ---
+[FID:63, TEXT:0013] 差不多就行了
+[FID:63, TEXT:0014] 出来面对一下怎么样
+
+--- Group 20 [right:莫纳蒂 next=2012] ---
+[FID:63, TEXT:0015] ・・・！？
+
+--- Group 21 [right:瞪羚 next=2012] ---
+[FID:63, TEXT:0015] ・・・！？
+
+--- Group 22 [right:none next=2012] ---
+[FID:63, TEXT:0015] ・・・！？
+
+--- Group 23 [left:char_0040 next=0023] ---
+[FID:63, TEXT:0016] 被发现了？
+
+--- Group 24 [left:char_0040 next=0023] ---
+[FID:63, TEXT:0016] 被发现了？
+
+--- Group 25 [left:char_0040 next=0023] ---
+[FID:63, TEXT:0016] 被发现了？
+
+--- Group 26 [left:char_0040 next=0023] ---
+[FID:63, TEXT:0017] 跟踪
+[FID:63, TEXT:0018] 你早就察觉到了！？
+
+--- Group 27 [left:char_0040 next=0023] ---
+[FID:63, TEXT:0019] 啊，被发现了？
+
+--- Group 28 [left:char_0040 next=0023] ---
+[FID:63, TEXT:001A] 你早就察觉到了，对吧
+
+--- Group 29 [left:char_0040 next=2012] ---
+[FID:63, TEXT:001B] 偷偷摸摸地
+[FID:63, TEXT:001C] 跟踪别人，难道
+[FID:63, TEXT:001D] 我就那么碍事吗？
+
+--- Group 30 [left:char_0040 next=2012] ---
+[FID:63, TEXT:001B] 偷偷摸摸地
+[FID:63, TEXT:001C] 跟踪别人，难道
+[FID:63, TEXT:001D] 我就那么碍事吗？
+
+--- Group 31 [left:char_0040 next=2012] ---
+[FID:63, TEXT:001B] 偷偷摸摸地
+[FID:63, TEXT:001C] 跟踪别人，难道
+[FID:63, TEXT:001D] 我就那么碍事吗？
+
+--- Group 32 [left:char_0040 next=2015] ---
+[FID:63, TEXT:001E] 怎么办？
+[FID:63, TEXT:001F] 　老老实实现身
+[FID:63, TEXT:0020] 　置之不理
+
+--- Group 33 [left:char_0040 next=2015] ---
+[FID:63, TEXT:001E] 怎么办？
+[FID:63, TEXT:001F] 　老老实实现身
+[FID:63, TEXT:0020] 　置之不理
+
+--- Group 34 [left:char_0040 next=2015] ---
+[FID:63, TEXT:001E] 怎么办？
+[FID:63, TEXT:001F] 　老老实实现身
+[FID:63, TEXT:0020] 　置之不理
+
+--- Group 35 [left:char_0040 next=0023] ---
+[FID:63, TEXT:0021] 瞪羚……
+
+--- Group 36 [left:char_0040 next=0023] ---
+[FID:63, TEXT:0021] 瞪羚……
+
+--- Group 37 [left:none next=0023] ---
+[FID:63, TEXT:0021] 瞪羚……
+
+--- Group 38 [left:char_0040 next=0023] ---
+[FID:63, TEXT:0021] 瞪羚……
+
+--- Group 39 [left:char_0040 next=0023] ---
+[FID:63, TEXT:0022] 碍事吗，你说
+
+--- Group 40 [left:char_0040 next=0023] ---
+[FID:63, TEXT:0023] 瞪羚先生……
+
+--- Group 41 [right:莫纳蒂 next=2012] ---
+[FID:63, TEXT:0024] 嘁，没办法了
+[FID:63, TEXT:0025] 既然都变成这样了
+
+--- Group 42 [right:none next=2012] ---
+[FID:63, TEXT:0024] 嘁，没办法了
+[FID:63, TEXT:0025] 既然都变成这样了
+
+--- Group 43 [right:瞪羚 next=2012] ---
+[FID:63, TEXT:0024] 嘁，没办法了
+[FID:63, TEXT:0025] 既然都变成这样了
+
+--- Group 44 [left:char_0040 next=2012] ---
+[FID:63, TEXT:0026] ・・・？
+
+--- Group 45 [left:char_0040 next=2012] ---
+[FID:63, TEXT:0026] ・・・？
+
+--- Group 46 [left:char_0040 next=2012] ---
+[FID:63, TEXT:0026] ・・・？
+
+--- Group 47 [right:瞪羚 next=2012] ---
+[FID:63, TEXT:0027] 我出来了
+[FID:63, TEXT:0028] 就像你希望的那样
+
+--- Group 48 [left:char_0040 next=2012] ---
+[FID:63, TEXT:0029] 哈……？
+
+--- Group 49 [left:主人公 next=0023] ---
+[FID:63, TEXT:002A] 是怎么回事？
+[FID:63, TEXT:002B] 样子很奇怪啊
+
+--- Group 50 [left:主人公 next=0023] ---
+[FID:63, TEXT:002C] 怎么了？
+[FID:63, TEXT:002B] 样子很奇怪啊
+
+--- Group 51 [left:主人公 next=0023] ---
+[FID:63, TEXT:002D] 哎呀？
+[FID:63, TEXT:002E] 有点奇怪啊
+
+--- Group 52 [left:主人公 next=0023] ---
+[FID:63, TEXT:002F] 哎呀？
+[FID:63, TEXT:0030] 样子很奇怪哦？
+
+--- Group 53 [left:char_0040 next=2012] ---
+[FID:63, TEXT:0031] 嗯……
+[FID:63, TEXT:0032] 你们该不会也
+[FID:63, TEXT:0033] 在跟踪我吧？
+
+--- Group 54 [right:瞪羚 next=2012] ---
+[FID:63, TEXT:0034] 我说了
+[FID:63, TEXT:0035] 我早就说了
+[FID:63, TEXT:0036] 是那样吧！
+
+--- Group 55 [left:主人公 next=0023] ---
+[FID:63, TEXT:0037] 等等，瞪羚
+[FID:63, TEXT:0038] 她说“你们也”哦
+[FID:63, TEXT:0039] 呢？
+
+--- Group 56 [left:主人公 next=0023] ---
+[FID:63, TEXT:003A] 等等，瞪羚
+[FID:63, TEXT:0038] 她说了“你们也”哦
+[FID:63, TEXT:003B] 呢
+
+--- Group 57 [left:主人公 next=0023] ---
+[FID:63, TEXT:003C] 等等！
+[FID:63, TEXT:003D] 刚才，“你们也”
+[FID:63, TEXT:003E] 是这么说的吧
+
+--- Group 58 [right:瞪羚 next=2012] ---
+[FID:63, TEXT:003F] “也”？
+
+--- Group 59 [left:char_0040 next=2012] ---
+[FID:63, TEXT:0040] ・・・危险！！
+
+--- Group 60 [right:黑衣男子 next=2012] ---
+[FID:63, TEXT:0041] 唰啊啊啊！
+
+--- Group 61 [right:none next=2012] ---
+[FID:63, TEXT:0041] 唰啊啊啊！
+
+--- Group 62 [right:瞪羚 next=2012] ---
+[FID:63, TEXT:0042] 什、什么啊
+[FID:63, TEXT:0043] 这些家伙！？
+
+--- Group 63 [left:char_0040 next=2012] ---
+[FID:63, TEXT:0044] 你们
+[FID:63, TEXT:0045] 快点逃走！
+
+--- Group 64 [right:主人公 next=0023] ---
+[FID:63, TEXT:0046] 叫我们逃走
+[FID:63, TEXT:0047] 但这样的话……
+
+--- Group 65 [right:主人公 next=0023] ---
+[FID:63, TEXT:0048] 不，好像已经被
+[FID:63, TEXT:0049] 包围了
+
+--- Group 66 [right:主人公 next=0023] ---
+[FID:63, TEXT:004A] 叫我们逃走
+[FID:63, TEXT:004B] 也不可能吧？
+
+--- Group 67 [right:主人公 next=0023] ---
+[FID:63, TEXT:004C] 逃走的话
+[FID:63, TEXT:004D] 被包围了啊……
+
+--- Group 68 [left:char_0040 next=2012] ---
+[FID:63, TEXT:004E] 没办法了……
+[FID:63, TEXT:004F] 你们，不准离开
+[FID:63, TEXT:0050] 我的身边！
+
+--- Group 69 [left:char_0040 next=2012] ---
+[FID:63, TEXT:0051] 如果不出来的话
+[FID:63, TEXT:0052] 我就主动出击了
+
+--- Group 70 [right:none next=2012] ---
+[FID:63, TEXT:0053] 没办法了……
+[FID:63, TEXT:0054] 数到三，各自
+[FID:63, TEXT:0055] 朝不同方向逃跑
+
+--- Group 71 [left:char_0040 next=0023] ---
+[FID:63, TEXT:0056] 明白了
+
+--- Group 72 [left:char_0040 next=0023] ---
+[FID:63, TEXT:0057] OK！
+
+--- Group 73 [left:char_0040 next=0023] ---
+[FID:63, TEXT:0058] 是，明白了
+
+--- Group 74 [right:none next=2012] ---
+[FID:63, TEXT:0059] 一……
+
+--- Group 75 [left:char_0040 next=2012] ---
+[FID:63, TEXT:005A] 二……
+
+--- Group 76 [right:none next=2012] ---
+[FID:63, TEXT:005B] 三……！？
+
+--- Group 77 [left:char_0040 next=0023] ---
+[FID:63, TEXT:005C] 什、什么啊！？
+
+--- Group 78 [left:char_0040 next=0023] ---
+[FID:63, TEXT:005D] 诶？
+[FID:63, TEXT:005E] 什么什么！？
+
+--- Group 79 [left:char_0040 next=0023] ---
+[FID:63, TEXT:005F] 诶……等等！？
+
+--- Group 80 [left:none next=2012] ---
+[FID:63, TEXT:0060] 放马过来吧
+[FID:63, TEXT:0061] 外道召唤师们！
+
+--- Group 81 [left:none next=2012] ---
+[FID:63, TEXT:0062] 【苍之派阀】的召唤师
+[FID:63, TEXT:0063] 吉布森·吉拉尔的
+[FID:63, TEXT:0064] 力量，让你见识一下！！
+
+--- Group 82 [right:none next=2012] ---
+[FID:63, TEXT:0065] 他这家伙……
+[FID:63, TEXT:0066] 果然是召唤师啊。
+
+--- Group 83 [left:none next=0023] ---
+[FID:63, TEXT:0067] 这么说来，那些
+[FID:63, TEXT:0068] 袭击那个人
+[FID:63, TEXT:0069] 的家伙们也是！
+
+--- Group 84 [left:none next=0023] ---
+[FID:63, TEXT:006A] 那些黑衣人也是。
+[FID:63, TEXT:006B] 不过，为什么召唤师
+[FID:63, TEXT:006C] 之间要战斗呢？
+
+--- Group 85 [left:none next=0023] ---
+[FID:63, TEXT:006D] 喂！
+[FID:63, TEXT:006E] 这么说来，
+[FID:63, TEXT:006F] 袭击过来的那些人
+[FID:63, TEXT:0070] 也是召唤师哦！
+
+--- Group 86 [left:none next=0023] ---
+[FID:63, TEXT:0071] 这么说来，那些
+[FID:63, TEXT:0072] 袭击那位大人的人们
+[FID:63, TEXT:0073] 也是召唤师呢！
+
+--- Group 87 [right:none next=2012] ---
+[FID:63, TEXT:0074] 真让人看不顺眼啊。
+[FID:63, TEXT:0075] 居然以多欺少，
+[FID:63, TEXT:0076] 专门针对一个人。
+
+--- Group 88 [left:none next=0023] ---
+[FID:63, TEXT:0077] 是啊……
+
+--- Group 89 [left:none next=0023] ---
+[FID:63, TEXT:0078] 加泽尔先生
+
+--- Group 90 [right:none next=2012] ---
+[FID:63, TEXT:0079] 要去帮忙吗？
+
+--- Group 91 [left:none next=0023] ---
+[FID:63, TEXT:007A] 嗯，不能就这样
+[FID:63, TEXT:007B] 视而不见！
+
+--- Group 92 [left:none next=0023] ---
+[FID:63, TEXT:007C] 嗯，
+[FID:63, TEXT:007D] 以多欺少，
+[FID:63, TEXT:007E] 真是不可原谅！
+
+--- Group 93 [left:none next=0023] ---
+[FID:63, TEXT:007F] 是的……
+[FID:63, TEXT:0080] 我们走吧！
