@@ -1,0 +1,3291 @@
+--- Group 1 [left:主人公 next=2012] ---
+はあ・・・
++[FID:2F, TEXT:0001] 唉……
+
+--- Group 2 [left:none next=2012] ---
+はあ・・・
+-[FID:2F, TEXT:0001] 唉……
+
+--- Group 3 [right:none next=2012] ---
+どうかしたのか
+ため息なんかついて
++[FID:2F, TEXT:0002] 怎么了？
++[FID:2F, TEXT:0003] [FID:2F, T
+-[FID:2F, TEXT:0003] EXT:
+
+--- Group 81 [left:主人公 next=2012] ---
+まだ、ふたりとも
+お金を貯める相談
+してるんだ・・・
++[FID:2F, TEXT:0083] 你们两个还在
++[FID:2F, TEXT:0084] 商量存钱的事啊
++[FID:2F, TEXT:0085] ……
+
+--- Group 82 [left:主人公 next=0023] ---
+あたし、なんにも
+できそうにないし
+邪魔しないようにしよ
++[FID:2F, TEXT:0086] 我好像什么都
++[FID:2F, TEXT:0087] 做不了
++[FID:2F, TEXT:0088] 还是别添麻烦了
+
+--- Group 83 [left:主人公 next=0023] ---
+わたしがいても
+邪魔なだけですね・・
++[FID:2F, TEXT:008A] 我在这里也
++[FID:2F, TEXT:008B] 只是添麻烦吧……
+
+--- Group 84 [right:none next=2012] ---
+あ、お姉ちゃん
++[FID:2F, TEXT:008D] 啊，姐姐
+
+--- Group 85 [right:none next=2012] ---
+あ、お姉ちゃん
+-[FID:2F, TEXT:008D] 啊，姐姐
+
+--- Group 86 [left:none next=0023] ---
+なにしてるんだ？
++[FID:2F, TEXT:008E] 在干什么呢？
+
+--- Group 87 [left:主人公 next=0023] ---
+なにしてるんだ？
+-[FID:2F, TEXT:008E] 在干什么呢？
+
+--- Group 88 [left:none next=0023] ---
+なにをしてるんだい？
++[FID:2F, TEXT:008F] 在做些什么呢？
+
+--- Group 89 [left:主人公 next=0023] ---
+なにをしてるんだい？
+-[FID:2F, TEXT:008F] 在做些什么呢？
+
+--- Group 90 [left:主人公 next=0023] ---
+なにしてるの？
++[FID:2F, TEXT:0090] 在干什么呀？
+
+--- Group 91 [left:none next=0023] ---
+なにしてるの？
+-[FID:2F, TEXT:0090] 在干什么呀？
+
+--- Group 92 [right:none next=2012] ---
+ラミと勉強してるの
+文字のお勉強
++[FID:2F, TEXT:0091] 在和拉米学习
++[FID:2F, TEXT:0092] 学习写字
+
+--- Group 93 [right:none next=2012] ---
+ラミと勉強してるの
+文字のお勉強
+-[FID:2F, TEXT:0091] 在和拉米学习
+-[FID:2F, TEXT:0092] 学习写字
+
+--- Group 94 [right:拉米 next=2012] ---
+・・・（コクン）
++[FID:2F, TEXT:0093] ……（点头）
+
+--- Group 95 [right:拉米 next=2012] ---
+・・・（コクン）
+-[FID:2F, TEXT:0093] ……（点头）
+
+--- Group 96 [right:怀兹 next=2012] ---
+お姉ちゃんも、自分の
+名前ぐらい書けるよう
+に勉強したほうが
+いいんじゃない？
++[FID:2F, TEXT:0098] 姐姐也该学习一下怎么
++[FID:2F, TEXT:0095] 写自己的名字了吧？
+
+--- Group 97 [right:怀兹 next=2012] ---
+お姉ちゃんも、自分の
+名前ぐらい書けるよう
+に勉強したほうが
+いいんじゃない？
+-[FID:2F, TEXT:0098] 姐姐也该学习一下怎么
+-[FID:2F, TEXT:0095] 写自己的名字了吧？
+
+--- Group 98 [left:主人公 next=2012] ---
+うーん・・・
++[FID:2F, TEXT:0099] 嗯……
+
+--- Group 99 [left:none next=2012] ---
+うーん・・・
+-[FID:2F, TEXT:0099] 嗯……
+
+--- Group 100 [left:none next=2012] ---
+うーん・・・
+-[FID:2F, TEXT:0099] 嗯……
+
+--- Group 101 [left:主人公 next=0023] ---
+うーん・・・
+-[FID:2F, TEXT:0099] 嗯……
+
+--- Group 102 [left:主人公 next=0023] ---
+うーん・・・
+餌がないみたい
+さすがにこれじゃあ
+何も釣れないよね
+-[FID:2F, TEXT:0099] 嗯……
++[FID:2F, TEXT:02DB] 好像没什么饵了
++[FID:2F, TEXT:02DC] 这样下去的话
++[FID:2F, TEXT:02DD] 肯定钓不到东西的吧
+
+--- Group 103 [left:主人公 next=2012] ---
+うーん・・・
+-[FID:2F, TEXT:0099] 嗯……
+
+--- Group 104 [left:none next=0023] ---
+うーん・・・
+-[FID:2F, TEXT:0099] 嗯……
+
+--- Group 105 [left:主人公 next=0023] ---
+たしかに読めたって、
+書けないのは問題かも
+しれないなぁ
++[FID:2F, TEXT:009A] 确实，虽然能读出来，
++[FID:2F, TEXT:009B] 但写不出来可能也是个
++[FID:2F, TEXT:009C] 问题呢
+
+--- Group 106 [left:none next=0023] ---
+たしかに読めたって、
+書けないのは問題かも
+しれないなぁ
+-[FID:2F, TEXT:009A] 确实，虽然能读出来，
+-[FID:2F, TEXT:009B] 但写不出来可能也是个
+-[FID:2F, TEXT:009C] 问题呢
+
+--- Group 107 [left:none next=2012] ---
+ああ・・・
++[FID:2F, TEXT:009D] 啊……
+
+--- Group 108 [left:主人公 next=2012] ---
+ああ・・・
+-[FID:2F, TEXT:009D] 啊……
+
+--- Group 109 [left:主人公 next=0023] ---
+たしかに読むだけじゃ
+なくて、書けるように
+なっておく必要もある
+かもしれないな
++[FID:2F, TEXT:009E] 的确，不光是读出来，
++[FID:2F, TEXT:009F] 可能也需要学会写出来
++[FID:2F, TEXT:00A0] 才行吧
+
+--- Group 110 [left:none next=0023] ---
+たしかに読むだけじゃ
+なくて、書けるように
+なっておく必要もある
+かもしれないな
+-[FID:2F, TEXT:009E] 的确，不光是读出来，
+-[FID:2F, TEXT:009F] 可能也需要学会写出来
+-[FID:2F, TEXT:00A0] 才行吧
+
+--- Group 111 [left:主人公 next=0023] ---
+読めるけど書けない
+って、やっぱり問題
+あるかなぁ？
++[FID:2F, TEXT:00A2] 只是能读出来，
++[FID:2F, TEXT:00A3] 写不出来，这
++[FID:2F, TEXT:00A4] 样真的有问题吗？
+
+--- Group 112 [left:none next=0023] ---
+読めるけど書けない
+って、やっぱり問題
+あるかなぁ？
+-[FID:2F, TEXT:00A2] 只是能读出来，
+-[FID:2F, TEXT:00A3] 写不出来，这
+-[FID:2F, TEXT:00A4] 样真的有问题吗？
+
+--- Group 113 [left:主人公 next=2012] ---
+そうですね・・・
++[FID:2F, TEXT:00A5] 是呢……
+
+--- Group 114 [left:none next=2012] ---
+そうですね・・・
+-[FID:2F, TEXT:00A5] 是呢……
+
+--- Group 115 [left:主人公 next=2012] ---
+そうですね・・・
+話を大きくしても
+なんですし・・・
+-[FID:2F, TEXT:00A5] 是呢……
++[FID:2F, TEXT:01C0] 也没必要
++[FID:2F, TEXT:01C1] 把事情闹大……
+
+--- Group 116 [left:none next=2012] ---
+そうですね・・・
+話を大きくしても
+なんですし・・・
+-[FID:2F, TEXT:00A5] 是呢……
+-[FID:2F, TEXT:01C0] 也没必要
+-[FID:2F, TEXT:01C1] 把事情闹大……
+
+--- Group 117 [left:none next=0023] ---
+読めはしますが、
+書けないというのも
+問題かもしれませんね
++[FID:2F, TEXT:00A6] 虽然能读出来，
++[FID:2F, TEXT:00A7] 但写不出来，
++[FID:2F, TEXT:00A8] 可能也是个问题吧
+
+--- Group 118 [left:主人公 next=0023] ---
+読めはしますが、
+書けないというのも
+問題かもしれませんね
+-[FID:2F, TEXT:00A6] 虽然能读出来，
+-[FID:2F, TEXT:00A7] 但写不出来，
+-[FID:2F, TEXT:00A8] 可能也是个问题吧
+
+--- Group 119 [right:怀兹 next=2012] ---
+このお手本あげるから
+遊んでばかりいないで
+勉強しなさいよね
++[FID:2F, TEXT:00A9] 我把这个范本给你别光
++[FID:2F, TEXT:00AA] 顾着玩快点学习
+
+--- Group 120 [right:怀兹 next=2012] ---
+このお手本あげるから
+遊んでばかりいないで
+勉強しなさいよね
+-[FID:2F, TEXT:00A9] 我把这个范本给你别光
+-[FID:2F, TEXT:00AA] 顾着玩快点学习
+
+--- Group 121 [right:none next=2012] ---
+・・・はい
++[FID:2F, TEXT:00AC] ……是
+
+--- Group 122 [left:主人公 next=0023] ---
+・・・はい
+-[FID:2F, TEXT:00AC] ……是
+
+--- Group 123 [left:none next=0023] ---
+・・・はい
+-[FID:2F, TEXT:00AC] ……是
+
+--- Group 124 [right:none next=2012] ---
+・・・はい
+-[FID:2F, TEXT:00AC] ……是
+
+--- Group 125 [left:主人公 next=0023] ---
+・・・うん
++[FID:2F, TEXT:00AD] ……嗯
+
+--- Group 126 [left:none next=0023] ---
+・・・うん
+-[FID:2F, TEXT:00AD] ……嗯
+
+--- Group 127 [left:主人公 next=0023] ---
+・・・あ、うん
++[FID:2F, TEXT:00AE] ……啊，嗯
+
+--- Group 128 [left:none next=0023] ---
+・・・あ、うん
+-[FID:2F, TEXT:00AE] ……啊，嗯
+
+--- Group 129 [left:主人公 next=0023] ---
+じゃあ、そうするね
++[FID:2F, TEXT:00AF] 那我就这样做了哦
+
+--- Group 130 [left:none next=0023] ---
+じゃあ、そうするね
+-[FID:2F, TEXT:00AF] 那我就这样做了哦
+
+--- Group 131 [left:主人公 next=0023] ---
+あれ、フィズは？
++[FID:2F, TEXT:00B0] 咦，菲兹呢？
+
+--- Group 132 [left:none next=0023] ---
+あれ、フィズは？
+-[FID:2F, TEXT:00B0] 咦，菲兹呢？
+
+--- Group 133 [left:none next=0023] ---
+あれ、フィズちゃんは
++[FID:2F, TEXT:00B1] 咦，菲兹酱呢
+
+--- Group 134 [left:主人公 next=0023] ---
+あれ、フィズちゃんは
+-[FID:2F, TEXT:00B1] 咦，菲兹酱呢
+
+--- Group 135 [right:none next=2012] ---
+・・・おそと
++[FID:2F, TEXT:00B2] ……出去玩了
+
+--- Group 136 [right:none next=2012] ---
+・・・おそと
+-[FID:2F, TEXT:00B2] ……出去玩了
+
+--- Group 137 [right:none next=2012] ---
+あとはひとりでがんば
+りなさい・・・って
++[FID:2F, TEXT:00B3] 还说要我一个人努力…
++[FID:2F, TEXT:00B4] …
+
+--- Group 138 [right:none next=2012] ---
+あとはひとりでがんば
+りなさい・・・って
+-[FID:2F, TEXT:00B3] 还说要我一个人努力…
+-[FID:2F, TEXT:00B4] …
+
+--- Group 139 [left:主人公 next=0023] ---
+しょうがないなぁ
++[FID:2F, TEXT:00B5] 真拿你没办法啊
+
+--- Group 140 [left:none next=0023] ---
+しょうがないなぁ
+-[FID:2F, TEXT:00B5] 真拿你没办法啊
+
+--- Group 141 [left:主人公 next=0023] ---
+しょうがないねぇ
++[FID:2F, TEXT:00B6] 没办法呢
+
+--- Group 142 [left:none next=0023] ---
+しょうがないねぇ
+-[FID:2F, TEXT:00B6] 没办法呢
+
+--- Group 143 [left:none next=0023] ---
+仕方ないですね・・・
++[FID:2F, TEXT:00B7] 真是没办法呢……
+
+--- Group 144 [left:主人公 next=0023] ---
+仕方ないですね・・・
+-[FID:2F, TEXT:00B7] 真是没办法呢……
+
+--- Group 145 [right:none next=2012] ---
+・・・（くいくい）
++[FID:2F, TEXT:00B8] ……（拉扯）
+
+--- Group 146 [right:none next=2012] ---
+・・・（くいくい）
+-[FID:2F, TEXT:00B8] ……（拉扯）
+
+--- Group 147 [left:none next=2012] ---
+ん？
++[FID:2F, TEXT:00B9] 嗯？
+
+--- Group 148 [left:主人公 next=2012] ---
+ん？
+-[FID:2F, TEXT:00B9] 嗯？
+
+--- Group 149 [right:none next=2012] ---
+これ、おねえちゃんの
+なまえ・・・
++[FID:2F, TEXT:00BC] 这个，是姐姐的名字…
++[FID:2F, TEXT:00BB] …
+
+--- Group 150 [right:none next=2012] ---
+これ、おねえちゃんの
+なまえ・・・
+-[FID:2F, TEXT:00BC] 这个，是姐姐的名字…
+-[FID:2F, TEXT:00BB] …
+
+--- Group 151 [left:主人公 next=2012] ---
+へえ、こう書くんだ？
++[FID:2F, TEXT:00BD] 诶，是这么写的吗？
+
+--- Group 152 [left:none next=2012] ---
+へえ、こう書くんだ？
+-[FID:2F, TEXT:00BD] 诶，是这么写的吗？
+
+--- Group 153 [left:none next=0023] ---
+おぼえとこ・・・
++[FID:2F, TEXT:00BE] 我记住了哦……
+
+--- Group 154 [left:主人公 next=0023] ---
+おぼえとこ・・・
+-[FID:2F, TEXT:00BE] 我记住了哦……
+
+--- Group 155 [left:主人公 next=2012] ---
+ああ、こう書くのか
++[FID:2F, TEXT:00BF] 啊，是这么写的啊
+
+--- Group 156 [left:none next=2012] ---
+ああ、こう書くのか
+-[FID:2F, TEXT:00BF] 啊，是这么写的啊
+
+--- Group 157 [left:主人公 next=0023] ---
+おぼえておこう・・・
++[FID:2F, TEXT:00C0] 我会记住的……
+
+--- Group 158 [left:none next=0023] ---
+おぼえておこう・・・
+-[FID:2F, TEXT:00C0] 我会记住的……
+
+--- Group 159 [left:主人公 next=2012] ---
+こう、書くんですね？
++[FID:2F, TEXT:00C1] 是这样写的，对吧？
+
+--- Group 160 [left:none next=2012] ---
+こう、書くんですね？
+-[FID:2F, TEXT:00C1] 是这样写的，对吧？
+
+--- Group 161 [left:none next=0023] ---
+おぼえておかないと
+いけませんね
++[FID:2F, TEXT:00C2] 必须记住才行
++[FID:2F, TEXT:00C3] 啊
+
+--- Group 162 [left:主人公 next=0023] ---
+おぼえておかないと
+いけませんね
+-[FID:2F, TEXT:00C2] 必须记住才行
+-[FID:2F, TEXT:00C3] 啊
+
+--- Group 163 [right:none next=2012] ---
+ねえ、@ n 
+世界のお料理って、
+どんなのがあるの？
++[FID:2F, TEXT:00C4] 喂，@ n 
++[FID:2F, TEXT:00C5] 世界上的料理啊，
++[FID:2F, TEXT:00C6] 都有哪些呢？
+
+--- Group 164 [right:none next=2012] ---
+ねえ、@ n 
+世界のお料理って、
+どんなのがあるの？
+-[FID:2F, TEXT:00C4] 喂，@ n 
+-[FID:2F, TEXT:00C5] 世界上的料理啊，
+-[FID:2F, TEXT:00C6] 都有哪些呢？
+
+--- Group 165 [left:主人公 next=0023] ---
+どんなのって・・・
+どうしてですか？
++[FID:2F, TEXT:00C7] 都有哪些啊……
++[FID:2F, TEXT:00CC] 为什么这么问？
+
+--- Group 166 [left:none next=0023] ---
+どんなのって・・・
+どうして？
+-[FID:2F, TEXT:00C7] 都有哪些啊……
++[FID:2F, TEXT:00C8] 为什么？
+
+--- Group 167 [left:主人公 next=0023] ---
+どんなのって・・・
+どうして？
+-[FID:2F, TEXT:00C7] 都有哪些啊……
+-[FID:2F, TEXT:00C8] 为什么？
+
+--- Group 168 [left:none next=0023] ---
+どんなのって・・・
+どうしてですか？
+-[FID:2F, TEXT:00C7] 都有哪些啊……
+-[FID:2F, TEXT:00CC] 为什么这么问？
+
+--- Group 169 [right:none next=2012] ---
+え？
++[FID:2F, TEXT:00C9] 嗯？
+
+--- Group 170 [left:none next=0023] ---
+え？
+あたしたちの
+世界の料理？
+-[FID:2F, TEXT:00C9] 嗯？
++[FID:2F, TEXT:00CA] 我们这个世界的
++[FID:2F, TEXT:00CB] 料理？
+
+--- Group 171 [left:主人公 next=0023] ---
+え？
+あたしたちの
+世界の料理？
+-[FID:2F, TEXT:00C9] 嗯？
+-[FID:2F, TEXT:00CA] 我们这个世界的
+-[FID:2F, TEXT:00CB] 料理？
+
+--- Group 172 [right:none next=2012] ---
+え？
+-[FID:2F, TEXT:00C9] 嗯？
+
+--- Group 173 [left:主人公 next=0023] ---
+どうしてですか？
+狩りなら別の場所でも
+できますよ？
+-[FID:2F, TEXT:00CC] 为什么这么问？
++[FID:2F, TEXT:0242] 狩猎的话，在别的地方
++[FID:2F, TEXT:0249] 也可以吧？
+
+--- Group 174 [left:none next=0023] ---
+どうしてですか？
+狩りなら別の場所でも
+できますよ？
+-[FID:2F, TEXT:00CC] 为什么这么问？
+-[FID:2F, TEXT:0242] 狩猎的话，在别的地方
+-[FID:2F, TEXT:0249] 也可以吧？
+
+--- Group 175 [right:none next=2012] ---
+うん、私たちの食べて
+るものと、どう違うの
+かなー・・・って
++[FID:2F, TEXT:00CD] 嗯，和我们吃的东西有
++[FID:2F, TEXT:00CE] 什么不一样呢——……
+
+--- Group 176 [right:none next=2012] ---
+うん、私たちの食べて
+るものと、どう違うの
+かなー・・・って
+-[FID:2F, TEXT:00CD] 嗯，和我们吃的东西有
+-[FID:2F, TEXT:00CE] 什么不一样呢——……
+
+--- Group 177 [left:主人公 next=0023] ---
+うーん、名前が違って
+るだけで、そんなには
+変わらないかなぁ
++[FID:2F, TEXT:00D0] 嗯……名字不一样罢了
++[FID:2F, TEXT:00D1] ，应该不会差太多吧
+
+--- Group 178 [left:主人公 next=0023] ---
+うーん、名前が違って
+るだけで、そんなには
+変わらないよ
+-[FID:2F, TEXT:00D0] 嗯……名字不一样罢了
+-[FID:2F, TEXT:00D1] ，应该不会差太多哦
+
+--- Group 179 [left:none next=0023] ---
+うーん、名前が違って
+るだけで、そんなには
+変わらないかなぁ
+-[FID:2F, TEXT:00D0] 嗯……名字不一样罢了
+-[FID:2F, TEXT:00D1] ，应该不会差太多吧
+
+--- Group 180 [left:none next=0023] ---
+うーん、名前が違って
+るだけで、そんなには
+変わらないよ
+-[FID:2F, TEXT:00D0] 嗯……名字不一样罢了
+-[FID:2F, TEXT:00D1] ，应该不会差太多哦
+
+--- Group 181 [left:主人公 next=0023] ---
+大した違いはないよ
+名前が違っているだけ
+の料理も多いし
++[FID:2F, TEXT:00D3] 没什么大差别哦
++[FID:2F, TEXT:00D4] 很多料理只是名字不一
++[FID:2F, TEXT:00D5] 样而已
+
+--- Group 182 [left:none next=0023] ---
+大した違いはないよ
+名前が違っているだけ
+の料理も多いし
+-[FID:2F, TEXT:00D3] 没什么大差别哦
+-[FID:2F, TEXT:00D4] 很多料理只是名字不一
+-[FID:2F, TEXT:00D5] 样而已
+
+--- Group 183 [left:主人公 next=0023] ---
+そうですね、名前が
+違うくらいでしょうか
+変わりませんよ
++[FID:2F, TEXT:00D7] 是啊，大概只是名字
++[FID:2F, TEXT:00D8] 不一样吧没什么区别哦
+
+--- Group 184 [left:none next=0023] ---
+そうですね、名前が
+違うくらいでしょうか
+変わりませんよ
+-[FID:2F, TEXT:00D7] 是啊，大概只是名字
+-[FID:2F, TEXT:00D8] 不一样吧没什么区别哦
+
+--- Group 185 [right:none next=2012] ---
+そうなんだ・・・
++[FID:2F, TEXT:00DA] 是这样啊……
+
+--- Group 186 [right:none next=2012] ---
+そうなんだ・・・
+-[FID:2F, TEXT:00DA] 是这样啊……
+
+--- Group 187 [left:主人公 next=0023] ---
+・・・え？
+聞いていますよ
++[FID:2F, TEXT:0114] ……嗯？
++[FID:2F, TEXT:01EE] 我有在听哦
+
+--- Group 188 [left:none next=0023] ---
+・・・え？
+聞いていますよ
+-[FID:2F, TEXT:0114] ……嗯？
+-[FID:2F, TEXT:01EE] 我有在听哦
+
+--- Group 189 [left:主人公 next=2012] ---
+おっ、アネゴじゃん
++[FID:2F, TEXT:011D] 哦，是姐姐大人啊
+
+--- Group 190 [left:none next=2012] ---
+おっ、アネゴじゃん
+-[FID:2F, TEXT:011D] 哦，是姐姐大人啊
+
+--- Group 191 [left:主人公 next=0023] ---
+二人でなんの話を
+していたんですか？
++[FID:2F, TEXT:011E] 你们两个在聊什么呢？
++[FID:2F, TEXT:0121] [FID:2F, T
+-[FID:2F, TEXT:0121] EXT:0121]
+
+--- Group 192 [left:主人公 next=0023] ---
+二人でなんの話を
+してるんだ
+-[FID:2F, TEXT:011E] 你们两个在聊什么呢？
++[FID:2F, TEXT:011F] [FID:2F, T
+-[FID:2F, TEXT:011F] EXT:011F]
+
+--- Group 193 [left:主人公 next=0023] ---
+ねね、なんの話？
++[FID:2F, TEXT:0120] 喂喂，聊什么呢？
+
+--- Group 194 [right:阿尔巴 next=2012] ---
+ジンガから修行の旅の
+話を聞かせて
+もらったんだよ
++[FID:2F, TEXT:0122] 我在听金加讲他修行之
++[FID:2F, TEXT:0123] 旅的故事哦
++[FID:2F, TEXT:0124] [FID:2F, T
+-[FID:2F, TEXT:0124] EXT:0124]
+
+--- Group 195 [left:主人公 next=0023] ---
+たとえば？
++[FID:2F, TEXT:0125] 比如？
+
+--- Group 196 [left:主人公 next=0023] ---
+どんなどんな？
++[FID:2F, TEXT:0126] 什么样的什么样的？
+
+--- Group 197 [right:阿尔巴 next=2012] ---
+酒場で船乗りを相手に
+大暴れした話とかね、
+山賊退治で大暴れした
+話とかだよっ！
++[FID:2F, TEXT:0127] 比如在酒馆里对付海盗
++[FID:2F, TEXT:0128] 大闹的故事，还有打倒
++[FID:2F, TEXT:0129] 山贼大闹的故事哦！
+
+--- Group 198 [right:金加 next=2012] ---
+あはは、たいしたこと
+ない話でしょ？
++[FID:2F, TEXT:012B] 哈哈哈，都是些不怎么
++[FID:2F, TEXT:012C] 样的故事吧？
+
+--- Group 199 [left:主人公 next=0023] ---
+いや、充分にすごいと
+思うんだが・・・
++[FID:2F, TEXT:012D] 不，我觉得已经很厉害
++[FID:2F, TEXT:012E] 了……
+
+--- Group 200 [left:阿尔巴 next=2012] ---
+ほんとに、ジンガって
+強いんだねぇ
++[FID:2F, TEXT:012F] 真的呢，金加你真厉害
++[FID:2F, TEXT:0130] 啊
+
+--- Group 201 [right:金加 next=2012] ---
+へへへへっ
++[FID:2F, TEXT:0131] 嘿嘿嘿嘿
+
+--- Group 202 [left:主人公 next=2012] ---
+アルバがジンガの話を
+夢中になって聞いてる
++[FID:2F, TEXT:0132] 阿尔巴正听得津津有味
++[FID:2F, TEXT:0133] 呢
+
+--- Group 203 [left:主人公 next=0023] ---
+悪い影響を受けなきゃ
+いいけどなぁ・・・
++[FID:2F, TEXT:0134] 希望不要学到坏东西才
++[FID:2F, TEXT:0135] 好啊……
+
+--- Group 204 [left:主人公 next=0023] ---
+悪い影響を受けないと
+いいけど・・・
++[FID:2F, TEXT:0136] 希望不要学到坏东西才
++[FID:2F, TEXT:0137] 好……
+
+--- Group 205 [left:主人公 next=0023] ---
+悪い影響を受けないと
+いいのだけれど・・・
+-[FID:2F, TEXT:0136] 希望不要学到坏东西才
++[FID:2F, TEXT:0139] 好呢……
+
+--- Group 206 [left:主人公 next=0023] ---
+変な影響を受けなきゃ
+いいけど・・・
++[FID:2F, TEXT:0138] 希望不要受到奇怪的影
+-[FID:2F, TEXT:0137] 响才好……
+
+--- Group 207 [left:none next=0023] ---
+俺がこの世界に
+呼ばれたのは事故
+だったんだよな？
++[FID:2F, TEXT:013A] 我被召唤到这个世
++[FID:2F, TEXT:013B] 界，是因为事故吧？
++[FID:2F, TEXT:013C] [FID:2F, T
+-[FID:2F, TEXT:013C] EXT:013C]
+
+--- Group 208 [left:主人公 next=0023] ---
+俺がこの世界に
+呼ばれたのは事故
+だったんだよな？
+-[FID:2F, TEXT:013A] 我被召唤到这个世
+-[FID:2F, TEXT:013B] 界，是因为事故吧？
+-[FID:2F, TEXT:013C] [FID:2F, T
+-[FID:2F, TEXT:013C] EXT:013C]
+
+--- Group 209 [left:none next=0023] ---
+僕がこの世界に呼ばれ
+たのは事故だったって
+聞いたけど
++[FID:2F, TEXT:013D] 我听说我被召唤到这个
++[FID:2F, TEXT:013E] 世界是因为事故
+
+--- Group 210 [left:主人公 next=0023] ---
+僕がこの世界に呼ばれ
+たのは事故だったって
+聞いたけど
+-[FID:2F, TEXT:013D] 我听说我被召唤到这个
+-[FID:2F, TEXT:013E] 世界是因为事故
+
+--- Group 211 [left:none next=0023] ---
+あたしがここに呼ばれ
+たのは事故だったんだ
+よね？
++[FID:2F, TEXT:0140] 我被召唤到这里是因为
++[FID:2F, TEXT:0141] 事故吧？[FID:2
++[FID:2F, TEXT:0142] F, TEXT:01
+-[FID:2F, TEXT:0142] 42]
+
+--- Group 212 [left:主人公 next=0023] ---
+あたしがここに呼ばれ
+たのは事故だったんだ
+よね？
+-[FID:2F, TEXT:0140] 我被召唤到这里是因为
+-[FID:2F, TEXT:0141] 事故吧？[FID:2
+-[FID:2F, TEXT:0142] F, TEXT:01
+-[FID:2F, TEXT:0142] 42]
+
+--- Group 213 [left:主人公 next=0023] ---
+事故で、わたしは
+この世界に呼ばれた
+んですよね
++[FID:2F, TEXT:0143] 我是被事故召唤到
++[FID:2F, TEXT:0144] 这个世界的，对吧
++[FID:2F, TEXT:0145] [FID:2F, T
+-[FID:2F, TEXT:0145] EXT:0145]
+
+--- Group 214 [left:none next=0023] ---
+事故で、わたしは
+この世界に呼ばれた
+んですよね
+-[FID:2F, TEXT:0143] 我是被事故召唤到
+-[FID:2F, TEXT:0144] 这个世界的，对吧
+-[FID:2F, TEXT:0145] [FID:2F, T
+-[FID:2F, TEXT:0145] EXT:0145]
+
+--- Group 215 [right:none next=2012] ---
+前にそう言った
+はずだろ？
++[FID:2F, TEXT:0146] 之前不是这么说的
++[FID:2F, TEXT:0147] 吗？
+
+--- Group 216 [right:none next=2012] ---
+前にそう言った
+はずだろ？
+-[FID:2F, TEXT:0146] 之前不是这么说的
+-[FID:2F, TEXT:0147] 吗？
+
+--- Group 217 [right:none next=2012] ---
+まさか、まだ疑って
+いるのか？
++[FID:2F, TEXT:0148] 难道，你还在怀疑
++[FID:2F, TEXT:0149] 吗？
+
+--- Group 218 [right:none next=2012] ---
+まさか、まだ疑って
+いるのか？
+-[FID:2F, TEXT:0148] 难道，你还在怀疑
+-[FID:2F, TEXT:0149] 吗？
+
+--- Group 219 [left:none next=2012] ---
+いや
+そうじゃなくって！
++[FID:2F, TEXT:014A] 不
++[FID:2F, TEXT:0150] 不是那样！
+
+--- Group 220 [left:none next=2012] ---
+いや
+そういうわけじゃない
+-[FID:2F, TEXT:014A] 不
++[FID:2F, TEXT:014B] 不是那个意思
+
+--- Group 221 [left:主人公 next=2012] ---
+いや
+そういうわけじゃない
+-[FID:2F, TEXT:014A] 不
+-[FID:2F, TEXT:014B] 不是那个意思
+
+--- Group 222 [left:主人公 next=2012] ---
+いや
+そうじゃなくって！
+-[FID:2F, TEXT:014A] 不
+-[FID:2F, TEXT:0150] 不是那样！
+
+--- Group 223 [left:none next=0023] ---
+事故だったなら、現場
+を調べればなにか帰る
+手がかりが見つからな
+いかと思ったんだよ
++[FID:2F, TEXT:014C] 如果是事故的话，调查
++[FID:2F, TEXT:014D] 一下现场，说不定能找
++[FID:2F, TEXT:014E] 到什么回去的线索
+
+--- Group 224 [left:主人公 next=0023] ---
+事故だったなら、現場
+を調べればなにか帰る
+手がかりが見つからな
+いかと思ったんだよ
+-[FID:2F, TEXT:014C] 如果是事故的话，调查
+-[FID:2F, TEXT:014D] 一下现场，说不定能找
+-[FID:2F, TEXT:014E] 到什么回去的线索
+
+--- Group 225 [left:none next=0023] ---
+事故だったんならさ、
+その現場を調べていけ
+ば、なにか手がかりが
+見つからないかな？
++[FID:2F, TEXT:0151] 如果是事故的话，调查
++[FID:2F, TEXT:0152] 一下现场，说不定能找
++[FID:2F, TEXT:0153] 到什么线索呢？
+
+--- Group 226 [left:主人公 next=0023] ---
+事故だったんならさ、
+その現場を調べていけ
+ば、なにか手がかりが
+見つからないかな？
+-[FID:2F, TEXT:0151] 如果是事故的话，调查
+-[FID:2F, TEXT:0152] 一下现场，说不定能找
+-[FID:2F, TEXT:0153] 到什么线索呢？
+
+--- Group 227 [left:主人公 next=2012] ---
+いえ、
+疑っているわけでは
+ないのですけれど
++[FID:2F, TEXT:0155] 不，
++[FID:2F, TEXT:0156] 我不是在怀疑，
++[FID:2F, TEXT:0157] 只是……
+
+--- Group 228 [left:none next=2012] ---
+いえ、
+疑っているわけでは
+ないのですけれど
+-[FID:2F, TEXT:0155] 不，
+-[FID:2F, TEXT:0156] 我不是在怀疑，
+-[FID:2F, TEXT:0157] 只是……
+
+--- Group 229 [left:主人公 next=0023] ---
+事故だったのなら、
+その現場を調べていけ
+ば、なにか手がかりが
+あるかもと思って
++[FID:2F, TEXT:0158] 如果是事故的话，
+-[FID:2F, TEXT:0152] 调查一下现场，说不定
+-[FID:2F, TEXT:0153] 能找到什么线索
+
+--- Group 230 [left:none next=0023] ---
+事故だったのなら、
+その現場を調べていけ
+ば、なにか手がかりが
+あるかもと思って
+-[FID:2F, TEXT:0158] 如果是事故的话，
+-[FID:2F, TEXT:0152] 调查一下现场，说不定
+-[FID:2F, TEXT:0153] 能找到什么线索
+
+--- Group 231 [left:主人公 next=0023] ---
+どうだろう？
++[FID:2F, TEXT:015A] 会有吗？
+
+--- Group 232 [left:none next=0023] ---
+どうだろう？
+-[FID:2F, TEXT:015A] 会有吗？
+
+--- Group 233 [left:none next=0023] ---
+ははは、無駄かな？
++[FID:2F, TEXT:015B] 哈哈哈，白费力气
+-[FID:2F, TEXT:015B] 吗？
+
+--- Group 234 [left:主人公 next=0023] ---
+ははは、無駄かな？
+-[FID:2F, TEXT:015B] 哈哈哈，白费力气
+-[FID:2F, TEXT:015B] 吗？
+
+--- Group 235 [left:none next=0023] ---
+無駄でしょうか？
++[FID:2F, TEXT:015C] 会白费力气吗？
+
+--- Group 236 [left:主人公 next=0023] ---
+無駄でしょうか？
+-[FID:2F, TEXT:015C] 会白费力气吗？
+
+--- Group 237 [right:none next=2012] ---
+いや、やってみる価値
+はあるかもしれないな
++[FID:2F, TEXT:015D] 不，也许值得一试呢
+
+--- Group 238 [right:none next=2012] ---
+いや、やってみる価値
+はあるかもしれないな
+-[FID:2F, TEXT:015D] 不，也许值得一试呢
+
+--- Group 239 [right:none next=2012] ---
+ただ、調べられるのは
+俺がわかる範囲内の
+ことだけだぜ・・・
++[FID:2F, TEXT:015F] 不过，能调查的只是我
++[FID:2F, TEXT:0160] 能理解的范围
++[FID:2F, TEXT:0161] 内的事情哦……
+
+--- Group 240 [right:none next=2012] ---
+ただ、調べられるのは
+俺がわかる範囲内の
+ことだけだぜ・・・
+-[FID:2F, TEXT:015F] 不过，能调查的只是我
+-[FID:2F, TEXT:0160] 能理解的范围
+-[FID:2F, TEXT:0161] 内的事情哦……
+
+--- Group 241 [left:主人公 next=2012] ---
+それでも、何もやらな
+いよりはマシだろう
++[FID:2F, TEXT:0162] 就算这样，也比什么都
++[FID:2F, TEXT:0163] 不做好吧
+-[FID:2F, TEXT:0163] [FID:2F, T
+-[FID:2F, TEXT:0163] EXT:0163]
+
+--- Group 242 [left:none next=2012] ---
+それでも、何もやらな
+いよりはマシだろう
+-[FID:2F, TEXT:0162] 就算这样，也比什么都
+-[FID:2F, TEXT:0163] 不做好吧
+-[FID:2F, TEXT:0163] [FID:2F, T
+-[FID:2F, TEXT:0163] EXT:0163]
+
+--- Group 243 [left:主人公 next=0023] ---
+よし、そうと決まれば
+みんなに・・・
++[FID:2F, TEXT:0164] 好，既然决定了就去告
++[FID:2F, TEXT:0165] 诉大家吧……
+
+--- Group 244 [left:none next=0023] ---
+よし、そうと決まれば
+みんなに・・・
+-[FID:2F, TEXT:0164] 好，既然决定了就去告
+-[FID:2F, TEXT:0165] 诉大家吧……
+
+--- Group 245 [left:none next=2012] ---
+それでも、何も知らな
+いあたしよりはマシだ
+と思うんだ
++[FID:2F, TEXT:0166] 就算这样，也比什么都
++[FID:2F, TEXT:0167] 不知道的我要好得多吧
++[FID:2F, TEXT:0168] 我是这么想的
+
+--- Group 246 [left:主人公 next=2012] ---
+それでも、何も知らな
+いあたしよりはマシだ
+と思うんだ
+-[FID:2F, TEXT:0166] 就算这样，也比什么都
+-[FID:2F, TEXT:0167] 不知道的我要好得多吧
+-[FID:2F, TEXT:0168] 我是这么想的
+
+--- Group 247 [left:none next=2012] ---
+いえ、心強いです
++[FID:2F, TEXT:0169] 不，我很安心
+
+--- Group 248 [left:主人公 next=2012] ---
+いえ、心強いです
+-[FID:2F, TEXT:0169] 不，我很安心
+
+--- Group 249 [left:none next=0023] ---
+じゃあ、わたし
+みなさんに伝えて
+来ますね・・・
++[FID:2F, TEXT:016A] 那么，我
++[FID:2F, TEXT:016B] 去告诉大家
++[FID:2F, TEXT:016C] 吧……
+
+--- Group 250 [left:主人公 next=0023] ---
+じゃあ、わたし
+みなさんに伝えて
+来ますね・・・
+-[FID:2F, TEXT:016A] 那么，我
+-[FID:2F, TEXT:016B] 去告诉大家
+-[FID:2F, TEXT:016C] 吧……
+
+--- Group 251 [right:none next=2012] ---
+やめたほうがいい
+俺たちだけでやろう
++[FID:2F, TEXT:016D] 还是别去了
++[FID:2F, TEXT:016E] 我们自己去吧
+
+--- Group 252 [right:none next=2012] ---
+やめたほうがいい
+俺たちだけでやろう
+-[FID:2F, TEXT:016D] 还是别去了
+-[FID:2F, TEXT:016E] 我们自己去吧
+
+--- Group 253 [right:none next=2012] ---
+みんなに無駄足を
+踏ませることに
+なるかもしれないだろ
++[FID:2F, TEXT:016F] 可能会让
++[FID:2F, TEXT:0170] 大家白跑一趟
++[FID:2F, TEXT:0171] 吧
+
+--- Group 254 [right:none next=2012] ---
+みんなに無駄足を
+踏ませることに
+なるかもしれないだろ
+-[FID:2F, TEXT:016F] 可能会让
+-[FID:2F, TEXT:0170] 大家白跑一趟
+-[FID:2F, TEXT:0171] 吧
+
+--- Group 255 [left:主人公 next=0023] ---
+たしかに・・・
++[FID:2F, TEXT:0172] 确实……
+
+--- Group 256 [left:none next=0023] ---
+たしかに・・・
+-[FID:2F, TEXT:0172] 确实……
+
+--- Group 257 [left:主人公 next=0023] ---
+どうしよう？
++[FID:2F, TEXT:0173] 怎么办？
+
+--- Group 258 [right:none next=0023] ---
+どうしよう？
+-[FID:2F, TEXT:0173] 怎么办？
+
+--- Group 259 [left:主人公 next=2015] ---
+どうしよう？
+　やめておく
+　魚釣りをする
+-[FID:2F, TEXT:0173] 怎么办？
++[FID:2F, TEXT:02E1] 　还是算了吧
++[FID:2F, TEXT:02E2] 　去钓鱼
+
+--- Group 260 [left:none next=0023] ---
+どうしよう？
+-[FID:2F, TEXT:0173] 怎么办？
+
+--- Group 261 [left:主人公 next=2015] ---
+どうしよう？
+　放っておく
+　近づいてみる
+-[FID:2F, TEXT:0173] 怎么办？
++[FID:2F, TEXT:02C8] 　放任不管
++[FID:2F, TEXT:02C9] 　靠近看看
+
+--- Group 262 [right:none next=0023] ---
+どうしよう？
+-[FID:2F, TEXT:0173] 怎么办？
+
+--- Group 263 [right:none next=0023] ---
+　・・・大丈夫かな？
+　行こう！
++[FID:2F, TEXT:0174] 　……会不会有危险？
++[FID:2F, TEXT:01B7] 　去吧！
+
+--- Group 264 [left:none next=0023] ---
+　・・・大丈夫かな？
+　そうですね・・・
+-[FID:2F, TEXT:0174] 　……会不会有危险？
++[FID:2F, TEXT:0177] 　是啊……
+
+--- Group 265 [left:主人公 next=0023] ---
+　・・・大丈夫かな？
+　そうだね・・・
+-[FID:2F, TEXT:0174] 　……会不会有危险？
++[FID:2F, TEXT:0176] 　是啊……
+
+--- Group 266 [left:none next=0023] ---
+　・・・大丈夫かな？
+　そうだね・・・
+-[FID:2F, TEXT:0174] 　……会不会有危险？
+-[FID:2F, TEXT:0176] 　是啊……
+
+--- Group 267 [left:主人公 next=0023] ---
+　・・・大丈夫かな？
+　そうですね・・・
+-[FID:2F, TEXT:0174] 　……会不会有危险？
+-[FID:2F, TEXT:0177] 　是啊……
+
+--- Group 268 [left:none next=0023] ---
+　・・・大丈夫かな？
+　そうだな・・・
+-[FID:2F, TEXT:0174] 　……会不会有危险？
++[FID:2F, TEXT:0175] 　是啊……
+
+--- Group 269 [left:主人公 next=0023] ---
+　・・・大丈夫かな？
+　そうだな・・・
+-[FID:2F, TEXT:0174] 　……会不会有危险？
+-[FID:2F, TEXT:0175] 　是啊……
+
+--- Group 270 [right:none next=0023] ---
+　・・・大丈夫かな？
+　行こう！
+-[FID:2F, TEXT:0174] 　……会不会有危险？
+-[FID:2F, TEXT:01B7] 　去吧！
+
+--- Group 271 [right:none next=0023] ---
+　大丈夫でしょうか？
+　行きましょう
++[FID:2F, TEXT:0192] 　会不会有危险？　我
++[FID:2F, TEXT:01B8] 　们去吧
+
+--- Group 272 [right:none next=0023] ---
+　大丈夫でしょうか？
+　行きましょう
+-[FID:2F, TEXT:0192] 　会不会有危险？　我
+-[FID:2F, TEXT:01B8] 　们去吧
+
+--- Group 273 [right:none next=2012] ---
+で、どうするんだ？
++[FID:2F, TEXT:01B6] 那么，你打算怎么办？
+
+--- Group 274 [right:none next=2012] ---
+で、どうするんだ？
+-[FID:2F, TEXT:01B6] 那么，你打算怎么办？
+
+--- Group 275 [left:主人公 next=0023] ---
+そうだな・・・
+まずは二人で行こうか
++[FID:2F, TEXT:01BC] 是啊……
++[FID:2F, TEXT:01BD] 先我们两个人去吧
+
+--- Group 276 [left:none next=0023] ---
+そうだな・・・
+まずは二人で行こうか
+-[FID:2F, TEXT:01BC] 是啊……
+-[FID:2F, TEXT:01BD] 先我们两个人去吧
+
+--- Group 277 [left:none next=0023] ---
+そうだね・・・
+じゃあ二人で行こう！
++[FID:2F, TEXT:01BE] 是啊……
++[FID:2F, TEXT:01BF] 那我们两个人去吧！
+
+--- Group 278 [left:主人公 next=0023] ---
+そうだね・・・
+じゃあ二人で行こう！
+-[FID:2F, TEXT:01BE] 是啊……
+-[FID:2F, TEXT:01BF] 那我们两个人去吧！
+
+--- Group 279 [left:主人公 next=0023] ---
+二人で行きましょう！
++[FID:2F, TEXT:01C2] 我们两个人去吧！
+
+--- Group 280 [left:none next=0023] ---
+二人で行きましょう！
+-[FID:2F, TEXT:01C2] 我们两个人去吧！
+
+--- Group 281 [right:none next=2012] ---
+じゃあ
+明日の朝出発だ
+いいな？
++[FID:2F, TEXT:01C3] 那么
++[FID:2F, TEXT:01C4] 明天早上出发
++[FID:2F, TEXT:01C5] 明白了吗？
+
+--- Group 282 [right:none next=2012] ---
+じゃあ
+明日の朝出発だ
+いいな？
+-[FID:2F, TEXT:01C3] 那么
+-[FID:2F, TEXT:01C4] 明天早上出发
+-[FID:2F, TEXT:01C5] 明白了吗？
+
+--- Group 283 [left:主人公 next=0023] ---
+・・・大丈夫かな？
++[FID:2F, TEXT:01CE] ……会不会有危险？
+
+--- Group 284 [left:none next=0023] ---
+・・・大丈夫かな？
+-[FID:2F, TEXT:01CE] ……会不会有危险？
+
+--- Group 285 [left:主人公 next=0023] ---
+大丈夫でしょうか？
++[FID:2F, TEXT:01CF] 会不会有危险？
+
+--- Group 286 [left:none next=0023] ---
+大丈夫でしょうか？
+-[FID:2F, TEXT:01CF] 会不会有危险？
+
+--- Group 287 [right:none next=2012] ---
+だったらやめるか？
+まあ、決めるのは
+お前だからな
++[FID:2F, TEXT:01D0] 那就放弃吗？
++[FID:2F, TEXT:01D1] 嘛，决定权
++[FID:2F, TEXT:01D2] 在你手里啊
+
+--- Group 288 [right:none next=2012] ---
+だったらやめるか？
+まあ、決めるのは
+お前だからな
+-[FID:2F, TEXT:01D0] 那就放弃吗？
+-[FID:2F, TEXT:01D1] 嘛，决定权
+-[FID:2F, TEXT:01D2] 在你手里啊
+
+--- Group 289 [right:none next=2012] ---
+決まったら教えてくれ
+なるべく早めに、な
++[FID:2F, TEXT:01D3] 决定了就告诉我越快越
++[FID:2F, TEXT:01D4] 好，听见没？
+
+--- Group 290 [right:none next=2012] ---
+決まったら教えてくれ
+なるべく早めに、な
+-[FID:2F, TEXT:01D3] 决定了就告诉我越快越
+-[FID:2F, TEXT:01D4] 好，听见没？
+
+--- Group 291 [left:主人公 next=0023] ---
+やあ、スウォン
++[FID:2F, TEXT:01E2] 嗨，斯沃恩
+
+--- Group 292 [left:none next=0023] ---
+やあ、スウォン
+-[FID:2F, TEXT:01E2] 嗨，斯沃恩
+
+--- Group 293 [left:主人公 next=0023] ---
+あ、やぁスウォン！
++[FID:2F, TEXT:01E3] 啊，嗨，斯沃恩！
+
+--- Group 294 [left:none next=0023] ---
+あ、やぁスウォン！
+-[FID:2F, TEXT:01E3] 啊，嗨，斯沃恩！
+
+--- Group 295 [left:none next=2012] ---
+こんにちは・・・
++[FID:2F, TEXT:01E4] 你好……
+
+--- Group 296 [left:主人公 next=2012] ---
+こんにちは・・・
+-[FID:2F, TEXT:01E4] 你好……
+
+--- Group 297 [left:主人公 next=0023] ---
+・・・こういうときは
+「やあ」の方が
+自然ですか？
++[FID:2F, TEXT:01E5] ……这种时候说“嗨”
++[FID:2F, TEXT:01E6] 比较
++[FID:2F, TEXT:01E7] 自然吗？
+
+--- Group 298 [left:none next=0023] ---
+・・・こういうときは
+「やあ」の方が
+自然ですか？
+-[FID:2F, TEXT:01E5] ……这种时候说“嗨”
+-[FID:2F, TEXT:01E6] 比较
+-[FID:2F, TEXT:01E7] 自然吗？
+
+--- Group 299 [right:none next=2012] ---
+やあ、じゃないですよ
+言ったでしょ！？
+この森には凶暴な獣が
+いるんだって
++[FID:2F, TEXT:01E8] 不是“嗨”哦我不是说
++[FID:2F, TEXT:01E9] 过了吗！？
++[FID:2F, TEXT:01EA] 这片森林里有凶猛的野
++[FID:2F, TEXT:01EB] 兽
+-[FID:2F, TEXT:01EB] 听说
+
+--- Group 300 [right:none next=2012] ---
+やあ、じゃないですよ
+言ったでしょ！？
+この森には凶暴な獣が
+いるんだって
+-[FID:2F, TEXT:01E8] 不是“嗨”哦我不是说
+-[FID:2F, TEXT:01E9] 过了吗！？
+-[FID:2F, TEXT:01EA] 这片森林里有凶猛的野
+-[FID:2F, TEXT:01EB] 兽
+-[FID:2F, TEXT:01EB] 听说
+
+--- Group 301 [left:主人公 next=0023] ---
+ああ、聞いたよ
++[FID:2F, TEXT:01EC] 啊，听说了
+
+--- Group 302 [left:none next=0023] ---
+ああ、聞いたよ
+-[FID:2F, TEXT:01EC] 啊，听说了
+
+--- Group 303 [left:none next=0023] ---
+あ、聞いたけどさ
++[FID:2F, TEXT:01ED] 啊，听说了，但是
+
+--- Group 304 [left:主人公 next=0023] ---
+あ、聞いたけどさ
+-[FID:2F, TEXT:01ED] 啊，听说了，但是
+
+--- Group 305 [right:none next=2012] ---
+だったらどうして！？
++[FID:2F, TEXT:01EF] 那为什么！？
+
+--- Group 306 [right:none next=2012] ---
+だったらどうして！？
+-[FID:2F, TEXT:01EF] 那为什么！？
+
+--- Group 307 [right:none next=0023] ---
+　そいつを見たいんだ
+　君が心配だったんだ
++[FID:2F, TEXT:01F0] 　我想看看那家伙　我
++[FID:2F, TEXT:01F1] 　担心你
+
+--- Group 308 [right:none next=0023] ---
+　そいつを見たいんだ
+　君が心配だったんだ
+-[FID:2F, TEXT:01F0] 　我想看看那家伙　我
+-[FID:2F, TEXT:01F1] 　担心你
+
+--- Group 309 [right:none next=0023] ---
+　それを見たいなって
+　あなたが心配で・・・
++[FID:2F, TEXT:01F2] 　我想看看那东西　我
++[FID:2F, TEXT:01F3] 　担心你……
+
+--- Group 310 [right:none next=0023] ---
+　それを見たいなって
+　あなたが心配で・・・
+-[FID:2F, TEXT:01F2] 　我想看看那东西　我
+-[FID:2F, TEXT:01F3] 　担心你……
+
+--- Group 311 [right:none next=0023] ---
+　見てみたくて・・・
+　あなたが心配で・・・
++[FID:2F, TEXT:01F4] 　想看看……　我担心
+-[FID:2F, TEXT:01F3] 　你……
+
+--- Group 312 [right:none next=0023] ---
+　見てみたくて・・・
+　あなたが心配で・・・
+-[FID:2F, TEXT:01F4] 　想看看……　我担心
+-[FID:2F, TEXT:01F3] 　你……
+
+--- Group 313 [left:none next=0023] ---
+そいつを見たいんだ
+どれほどすごい獣なの
+かをね
++[FID:2F, TEXT:01F5] 我想看看那家伙
++[FID:2F, TEXT:01F6] 到底有多厉害的野兽呢
+
+--- Group 314 [left:none next=0023] ---
+そいつを見たいんだ
+どれほどすごい
+獣なのかをね
+-[FID:2F, TEXT:01F5] 我想看看那家伙
++[FID:2F, TEXT:01F8] 到底有多厉害
++[FID:2F, TEXT:01F9] 的野兽呢
+
+--- Group 315 [left:主人公 next=0023] ---
+そいつを見たいんだ
+どれほどすごい獣なの
+かをね
+-[FID:2F, TEXT:01F5] 我想看看那家伙
+-[FID:2F, TEXT:01F6] 到底有多厉害的野兽呢
+
+--- Group 316 [left:主人公 next=0023] ---
+そいつを見たいんだ
+どれほどすごい
+獣なのかをね
+-[FID:2F, TEXT:01F5] 我想看看那家伙
+-[FID:2F, TEXT:01F8] 到底有多厉害
+-[FID:2F, TEXT:01F9] 的野兽呢
+
+--- Group 317 [left:none next=0023] ---
+それを見たいなって
+思ったの・・・すごい
+獣なんだよね
++[FID:2F, TEXT:01FA] 我想看看那东西
++[FID:2F, TEXT:01FB] ……是只很厉害的野兽
++[FID:2F, TEXT:01FC] 吧
+-[FID:2F, TEXT:01FC] [FID:2F, T
+-[FID:2F, TEXT:01FC] EXT:01FC]
+
+--- Group 318 [left:主人公 next=0023] ---
+それを見たいなって
+思ったの・・・すごい
+獣なんだよね
+-[FID:2F, TEXT:01FA] 我想看看那东西
+-[FID:2F, TEXT:01FB] ……是只很厉害的野兽
+-[FID:2F, TEXT:01FC] 吧
+-[FID:2F, TEXT:01FC] [FID:2F, T
+-[FID:2F, TEXT:01FC] EXT:01FC]
+
+--- Group 319 [left:主人公 next=0023] ---
+ちょっと、その獣と
+いうのを見てみたくて
+・・・好奇心が・・・
++[FID:2F, TEXT:01FD] 那个，我想看看
++[FID:2F, TEXT:01FE] 所谓的野兽……是好奇
++[FID:2F, TEXT:01FF] 心……
+
+--- Group 320 [left:none next=0023] ---
+ちょっと、その獣と
+いうのを見てみたくて
+・・・好奇心が・・・
+-[FID:2F, TEXT:01FD] 那个，我想看看
+-[FID:2F, TEXT:01FE] 所谓的野兽……是好奇
+-[FID:2F, TEXT:01FF] 心……
+
+--- Group 321 [right:none next=2012] ---
+・・・！
++[FID:2F, TEXT:0200] ・・・！
+
+--- Group 322 [right:none next=2012] ---
+・・・！
+-[FID:2F, TEXT:0200] ・・・！
+
+--- Group 323 [right:none next=2012] ---
+貴方、自分がどれだけ
+無謀なことを言ってる
+のかわかってませんね
++[FID:2F, TEXT:0201] 你难道不知道自己在说
++[FID:2F, TEXT:0202] 多么鲁莽的话吗？
+
+--- Group 324 [right:none next=2012] ---
+貴方、自分がどれだけ
+無謀なことを言ってる
+のかわかってませんね
+-[FID:2F, TEXT:0201] 你难道不知道自己在说
+-[FID:2F, TEXT:0202] 多么鲁莽的话吗？
+
+--- Group 325 [right:none next=2012] ---
+僕の言っていることは
+冗談なんかじゃないん
+ですよ！
++[FID:2F, TEXT:0204] 我说的话可不是在开玩
++[FID:2F, TEXT:0205] 笑哦！
+
+--- Group 326 [right:none next=2012] ---
+僕の言っていることは
+冗談なんかじゃないん
+ですよ！
+-[FID:2F, TEXT:0204] 我说的话可不是在开玩
+-[FID:2F, TEXT:0205] 笑哦！
+
+--- Group 327 [right:none next=2012] ---
+相手はこの森の主とも
+呼ばれてる獣なんです
+子分だって、たくさん
+連れてるんですよ！
++[FID:2F, TEXT:0207] 对方可是被称为这片森
++[FID:2F, TEXT:0208] 林之主的野兽啊。手下
++[FID:2F, TEXT:0209] 也带了很多哦！
+
+--- Group 328 [right:none next=2012] ---
+相手はこの森の主とも
+呼ばれてる獣なんです
+子分だって、たくさん
+連れてるんですよ！
+-[FID:2F, TEXT:0207] 对方可是被称为这片森
+-[FID:2F, TEXT:0208] 林之主的野兽啊。手下
+-[FID:2F, TEXT:0209] 也带了很多哦！
+
+--- Group 329 [right:none next=2012] ---
+囲まれてしまったら、
+腕利きの狩人でも絶対
+に助かりません！！
++[FID:2F, TEXT:020B] 一旦被包围了，就算是
++[FID:2F, TEXT:020C] 经验丰富的猎人也绝对
++[FID:2F, TEXT:020D] 活不了！！
+
+--- Group 330 [right:none next=2012] ---
+囲まれてしまったら、
+腕利きの狩人でも絶対
+に助かりません！！
+-[FID:2F, TEXT:020B] 一旦被包围了，就算是
+-[FID:2F, TEXT:020C] 经验丰富的猎人也绝对
+-[FID:2F, TEXT:020D] 活不了！！
+
+--- Group 331 [left:主人公 next=0023] ---
+だったら、どうして君
+は一人でそんな場所に
+来てるんだ？
++[FID:2F, TEXT:020E] 既然这样，你为什么要
++[FID:2F, TEXT:020F] 一个人来这种地方？
+
+--- Group 332 [left:none next=0023] ---
+だったら、どうして君
+は一人でそんな場所に
+来てるんだ？
+-[FID:2F, TEXT:020E] 既然这样，你为什么要
+-[FID:2F, TEXT:020F] 一个人来这种地方？
+
+--- Group 333 [left:none next=0023] ---
+だったらさ、なんで
+スウォンはこんな所に
+ひとりでいるの？
++[FID:2F, TEXT:0211] 那么，为什么
++[FID:2F, TEXT:0212] 斯旺会在这种地方一个
++[FID:2F, TEXT:0213] 人呢？
+
+--- Group 334 [left:主人公 next=0023] ---
+だったらさ、なんで
+スウォンはこんな所に
+ひとりでいるの？
+-[FID:2F, TEXT:0211] 那么，为什么
+-[FID:2F, TEXT:0212] 斯旺会在这种地方一个
+-[FID:2F, TEXT:0213] 人呢？
+
+--- Group 335 [left:none next=2012] ---
+・・・ごめんなさい
++[FID:2F, TEXT:0214] ・・・对不起
+
+--- Group 336 [left:主人公 next=2012] ---
+・・・ごめんなさい
+-[FID:2F, TEXT:0214] ・・・对不起
+
+--- Group 337 [left:none next=0023] ---
+でも、スウォンくんも
+そんなところに、
+一人で来て
+いるんですよ？
++[FID:2F, TEXT:0215] 但是，斯旺君也一个人
++[FID:2F, TEXT:0216] 来到这种
++[FID:2F, TEXT:0217] 地方哦？
+
+--- Group 338 [left:主人公 next=0023] ---
+でも、スウォンくんも
+そんなところに、
+一人で来て
+いるんですよ？
+-[FID:2F, TEXT:0215] 但是，斯旺君也一个人
+-[FID:2F, TEXT:0216] 来到这种
+-[FID:2F, TEXT:0217] 地方哦？
+
+--- Group 339 [right:none next=2012] ---
+・・・っ
++[FID:2F, TEXT:0219] ・・・！
+
+--- Group 340 [right:none next=2012] ---
+・・・っ
+-[FID:2F, TEXT:0219] ・・・！
+
+--- Group 341 [left:主人公 next=0023] ---
+おかしいじゃないか
+そんなに危険な相手が
+いるのに、どうして君
+はここにいるんだ？
++[FID:2F, TEXT:021A] 这说不通啊。
++[FID:2F, TEXT:021B] 既然有这么危险的敌人
++[FID:2F, TEXT:021C] ，你为什么要在这里？
+
+--- Group 342 [left:none next=0023] ---
+おかしいじゃないか
+そんなに危険な相手が
+いるのに、どうして君
+はここにいるんだ？
+-[FID:2F, TEXT:021A] 这说不通啊。
+-[FID:2F, TEXT:021B] 既然有这么危险的敌人
+-[FID:2F, TEXT:021C] ，你为什么要在这里？
+
+--- Group 343 [left:主人公 next=0023] ---
+おかしいじゃん
+そんなに危険な相手が
+いるのに、どうして？
++[FID:2F, TEXT:021E] 这说不通啊！
+-[FID:2F, TEXT:021B] 既然有这么危险的敌人
++[FID:2F, TEXT:021F] ，为什么？
+
+--- Group 344 [left:none next=0023] ---
+おかしいじゃん
+そんなに危険な相手が
+いるのに、どうして？
+-[FID:2F, TEXT:021E] 这说不通啊！
+-[FID:2F, TEXT:021B] 既然有这么危险的敌人
+-[FID:2F, TEXT:021F] ，为什么？
+
+--- Group 345 [left:none next=0023] ---
+おかしいですよ
+そんなに危険な相手が
+いるのに・・・
++[FID:2F, TEXT:0220] 这说不通啊。
+-[FID:2F, TEXT:021B] 既然有这么危险的敌人
++[FID:2F, TEXT:0221] ……
+
+--- Group 346 [left:主人公 next=0023] ---
+おかしいですよ
+そんなに危険な相手が
+いるのに・・・
+-[FID:2F, TEXT:0220] 这说不通啊。
+-[FID:2F, TEXT:021B] 既然有这么危险的敌人
+-[FID:2F, TEXT:0221] ……
+
+--- Group 347 [right:none next=2012] ---
+それは・・・
++[FID:2F, TEXT:0222] 那是……
+
+--- Group 348 [right:none next=2012] ---
+それは・・・
+-[FID:2F, TEXT:0222] 那是……
+
+--- Group 349 [left:none next=0023] ---
+なにか理由があるんじ
+ゃないのかい？
++[FID:2F, TEXT:0223] 是不是有什么理由呢？
+
+--- Group 350 [left:主人公 next=0023] ---
+なにか理由があるんじ
+ゃないのかい？
+-[FID:2F, TEXT:0223] 是不是有什么理由呢？
+
+--- Group 351 [left:none next=0023] ---
+なんかワケあり？
++[FID:2F, TEXT:0225] 是有什么隐情吗？
+
+--- Group 352 [left:主人公 next=0023] ---
+なんかワケあり？
+-[FID:2F, TEXT:0225] 是有什么隐情吗？
+
+--- Group 353 [left:none next=0023] ---
+理由が・・・
+あるんですね？
++[FID:2F, TEXT:0226] 是有理由……
++[FID:2F, TEXT:0227] 对吧？
+
+--- Group 354 [left:主人公 next=0023] ---
+理由が・・・
+あるんですね？
+-[FID:2F, TEXT:0226] 是有理由……
+-[FID:2F, TEXT:0227] 对吧？
+
+--- Group 355 [left:none next=0023] ---
+君が心配だったんだよ
++[FID:2F, TEXT:0228] 我是担心你啊。
+
+--- Group 356 [left:主人公 next=0023] ---
+君が心配だったんだよ
+-[FID:2F, TEXT:0228] 我是担心你啊。
+
+--- Group 357 [left:主人公 next=0023] ---
+君が心配だったからね
++[FID:2F, TEXT:0229] 因为担心你嘛。
+
+--- Group 358 [left:none next=0023] ---
+君が心配だったからね
+-[FID:2F, TEXT:0229] 因为担心你嘛。
+
+--- Group 359 [left:none next=0023] ---
+スウォンが
+心配だったの！
++[FID:2F, TEXT:022A] 我是担心
++[FID:2F, TEXT:022B] 斯旺！
+
+--- Group 360 [left:主人公 next=0023] ---
+スウォンが
+心配だったの！
+-[FID:2F, TEXT:022A] 我是担心
+-[FID:2F, TEXT:022B] 斯旺！
+
+--- Group 361 [left:none next=0023] ---
+スウォンくんが心配で
+ついて来て
+しまいました・・・
++[FID:2F, TEXT:022C] 因为担心斯旺君，我就
++[FID:2F, TEXT:022D] 跟过
++[FID:2F, TEXT:022E] 来了……
+
+--- Group 362 [left:主人公 next=0023] ---
+スウォンくんが心配で
+ついて来て
+しまいました・・・
+-[FID:2F, TEXT:022C] 因为担心斯旺君，我就
+-[FID:2F, TEXT:022D] 跟过
+-[FID:2F, TEXT:022E] 来了……
+
+--- Group 363 [left:none next=2012] ---
+いくら君が森に慣れて
+いるといっても、
+一人じゃ危険すぎるよ
++[FID:2F, TEXT:022F] 就算你很熟悉这片森林
++[FID:2F, TEXT:0230] ，
++[FID:2F, TEXT:0231] 但一个人也太危险了。
+
+--- Group 364 [left:主人公 next=2012] ---
+いくら君が森に慣れて
+いるといっても、
+一人じゃ危険すぎる
+-[FID:2F, TEXT:022F] 就算你很熟悉这片森林
+-[FID:2F, TEXT:0230] ，
++[FID:2F, TEXT:0234] 但一个人也太危险了。
+
+--- Group 365 [left:none next=2012] ---
+いくら君が森に慣れて
+いるといっても、
+一人じゃ危険すぎる
+-[FID:2F, TEXT:022F] 就算你很熟悉这片森林
+-[FID:2F, TEXT:0230] ，
+-[FID:2F, TEXT:0234] 但一个人也太危险了。
+
+--- Group 366 [left:主人公 next=2012] ---
+いくら君が森に慣れて
+いるといっても、
+一人じゃ危険すぎるよ
+-[FID:2F, TEXT:022F] 就算你很熟悉这片森林
+-[FID:2F, TEXT:0230] ，
+-[FID:2F, TEXT:0231] 但一个人也太危险了。
+
+--- Group 367 [left:none next=0023] ---
+さあ、一緒にここから
+出ましょう？
++[FID:2F, TEXT:0232] 来，我们一起离开这里
++[FID:2F, TEXT:023F] 吧？
+
+--- Group 368 [left:主人公 next=0023] ---
+さあ、一緒にここから
+出ましょう？
+-[FID:2F, TEXT:0232] 来，我们一起离开这里
+-[FID:2F, TEXT:023F] 吧？
+
+--- Group 369 [left:主人公 next=0023] ---
+さあ、一緒にここから
+出ようぜ？
+-[FID:2F, TEXT:0232] 来，我们一起离开这里
++[FID:2F, TEXT:0233] 吧？
+
+--- Group 370 [left:none next=0023] ---
+さあ、一緒にここから
+出ようぜ？
+-[FID:2F, TEXT:0232] 来，我们一起离开这里
+-[FID:2F, TEXT:0233] 吧？
+
+--- Group 371 [left:主人公 next=0023] ---
+もう君も、この森には
+近づかないほうがいい
++[FID:2F, TEXT:0235] 你以后也最好不要再靠
++[FID:2F, TEXT:0236] 近这片森林了。
+
+--- Group 372 [left:none next=0023] ---
+もう君も、この森には
+近づかないほうがいい
+-[FID:2F, TEXT:0235] 你以后也最好不要再靠
+-[FID:2F, TEXT:0236] 近这片森林了。
+
+--- Group 373 [left:主人公 next=2012] ---
+スウォンが森に慣れて
+いるっていっても、
+一人じゃ危険でしょ？
++[FID:2F, TEXT:0237] 就算斯旺熟悉这片森林
++[FID:2F, TEXT:0238] ，
++[FID:2F, TEXT:0239] 但一个人也很危险吧？
+
+--- Group 374 [left:none next=2012] ---
+スウォンが森に慣れて
+いるっていっても、
+一人じゃ危険でしょ？
+-[FID:2F, TEXT:0237] 就算斯旺熟悉这片森林
+-[FID:2F, TEXT:0238] ，
+-[FID:2F, TEXT:0239] 但一个人也很危险吧？
+
+--- Group 375 [left:none next=0023] ---
+いっしょに森を出よ？
++[FID:2F, TEXT:023A] 一起离开森林吧？
+
+--- Group 376 [left:主人公 next=0023] ---
+いっしょに森を出よ？
+-[FID:2F, TEXT:023A] 一起离开森林吧？
+
+--- Group 377 [left:主人公 next=2012] ---
+いくらあなたが
+森に慣れていても
+やっぱり、ひとりじゃ
+危険ですよ・・・
++[FID:2F, TEXT:023B] 就算你很熟悉
++[FID:2F, TEXT:023C] 这片森林，
++[FID:2F, TEXT:023D] 果然，一个人也很危险
++[FID:2F, TEXT:023E] 啊……
+
+--- Group 378 [left:none next=2012] ---
+いくらあなたが
+森に慣れていても
+やっぱり、ひとりじゃ
+危険ですよ・・・
+-[FID:2F, TEXT:023B] 就算你很熟悉
+-[FID:2F, TEXT:023C] 这片森林，
+-[FID:2F, TEXT:023D] 果然，一个人也很危险
+-[FID:2F, TEXT:023E] 啊……
+
+--- Group 379 [right:none next=2012] ---
+・・・駄目なんです
++[FID:2F, TEXT:0240] ・・・不行。
+
+--- Group 380 [right:none next=2012] ---
+・・・駄目なんです
+-[FID:2F, TEXT:0240] ・・・不行。
+
+--- Group 381 [left:主人公 next=0023] ---
+どうしてだよ
+狩りなら別の場所でも
+できるじゃないか？
++[FID:2F, TEXT:0241] 为什么啊？
+-[FID:2F, TEXT:0242] 狩猎的话，在别的地方
++[FID:2F, TEXT:0243] 也可以吧？
+
+--- Group 382 [left:none next=0023] ---
+どうしてだよ
+狩りなら別の場所でも
+できるじゃないか？
+-[FID:2F, TEXT:0241] 为什么啊？
+-[FID:2F, TEXT:0242] 狩猎的话，在别的地方
+-[FID:2F, TEXT:0243] 也可以吧？
+
+--- Group 383 [left:none next=0023] ---
+どうしてだい
+狩りなら別の場所でも
+できるだろう？
++[FID:2F, TEXT:0244] 为什么啊？
+-[FID:2F, TEXT:0242] 狩猎的话，在别的地方
++[FID:2F, TEXT:0245] 也可以吧？
+
+--- Group 384 [left:主人公 next=0023] ---
+どうしてだい
+狩りなら別の場所でも
+できるだろう？
+-[FID:2F, TEXT:0244] 为什么啊？
+-[FID:2F, TEXT:0242] 狩猎的话，在别的地方
+-[FID:2F, TEXT:0245] 也可以吧？
+
+--- Group 385 [left:主人公 next=0023] ---
+なんで？
+狩りをするだけなら、
+別のところにしようよ
++[FID:2F, TEXT:0246] 为什么？
++[FID:2F, TEXT:0247] 如果只是狩猎的话，去
++[FID:2F, TEXT:0248] 别的地方吧。
+
+--- Group 386 [left:none next=0023] ---
+なんで？
+狩りをするだけなら、
+別のところにしようよ
+-[FID:2F, TEXT:0246] 为什么？
+-[FID:2F, TEXT:0247] 如果只是狩猎的话，去
+-[FID:2F, TEXT:0248] 别的地方吧。
+
+--- Group 387 [right:none next=2012] ---
+ここでなければ、駄目
+なんです！！
++[FID:2F, TEXT:024A] 如果不是这里，就不行
++[FID:2F, TEXT:024B] ！！
+
+--- Group 388 [right:none next=2012] ---
+ここでなければ、駄目
+なんです！！
+-[FID:2F, TEXT:024A] 如果不是这里，就不行
+-[FID:2F, TEXT:024B] ！！
+
+--- Group 389 [right:none next=2012] ---
+僕はその獣に復讐する
+んですから・・・
++[FID:2F, TEXT:024C] 我要向那只野兽复仇…
++[FID:2F, TEXT:024D] …
+
+--- Group 390 [right:none next=2012] ---
+僕はその獣に復讐する
+んですから・・・
+-[FID:2F, TEXT:024C] 我要向那只野兽复仇…
+-[FID:2F, TEXT:024D] …
+
+--- Group 391 [left:主人公 next=0023] ---
+復讐！？
++[FID:2F, TEXT:024E] 复仇！？
+
+--- Group 392 [left:none next=0023] ---
+復讐！？
+-[FID:2F, TEXT:024E] 复仇！？
+
+--- Group 393 [left:none next=0023] ---
+ふくしゅ〜って・・・
++[FID:2F, TEXT:024F] 复、复仇……？
+
+--- Group 394 [left:主人公 next=0023] ---
+ふくしゅ〜って・・・
+-[FID:2F, TEXT:024F] 复、复仇……？
+
+--- Group 395 [left:主人公 next=0023] ---
+え・・・復讐？
++[FID:2F, TEXT:0250] 诶……复仇？
+
+--- Group 396 [left:none next=0023] ---
+え・・・復讐？
+-[FID:2F, TEXT:0250] 诶……复仇？
+
+--- Group 397 [right:none next=2012] ---
+僕の父さんが、最初の
+犠牲者なんです・・・
++[FID:2F, TEXT:0251] 我父亲是第一个受害者
++[FID:2F, TEXT:0252] ……
+
+--- Group 398 [right:none next=2012] ---
+僕の父さんが、最初の
+犠牲者なんです・・・
+-[FID:2F, TEXT:0251] 我父亲是第一个受害者
+-[FID:2F, TEXT:0252] ……
+
+--- Group 399 [right:none next=2012] ---
+この森の主と呼ばれる
+【朱のガレフ】に
+殺されたんです！！
++[FID:2F, TEXT:0253] 被被称为这片森林之主
++[FID:2F, TEXT:0254] 的【赤色加列夫】
++[FID:2F, TEXT:0255] 杀害了！！
+
+--- Group 400 [right:none next=2012] ---
+この森の主と呼ばれる
+【朱のガレフ】に
+殺されたんです！！
+-[FID:2F, TEXT:0253] 被被称为这片森林之主
+-[FID:2F, TEXT:0254] 的【赤色加列夫】
+-[FID:2F, TEXT:0255] 杀害了！！
+
+--- Group 401 [right:none next=2012] ---
+僕たち狩人とガレフは
+今まではこの森で共存
+してきました
++[FID:2F, TEXT:0256] 我们猎人和加雷夫，至
++[FID:2F, TEXT:0257] 今为止在这片森林里共
++[FID:2F, TEXT:0258] 存着。
+
+--- Group 402 [right:none next=2012] ---
+僕たち狩人とガレフは
+今まではこの森で共存
+してきました
+-[FID:2F, TEXT:0256] 我们猎人和加雷夫，至
+-[FID:2F, TEXT:0257] 今为止在这片森林里共
+-[FID:2F, TEXT:0258] 存着。
+
+--- Group 403 [right:none next=2012] ---
+縄張りに入りさえしな
+ければ、ガレフたちは
+僕らを襲わないはずだ
+ったんです
++[FID:2F, TEXT:0259] 只要不进入他们的地盘
++[FID:2F, TEXT:025A] ，加雷夫他们应该就不
++[FID:2F, TEXT:025B] 会袭击我们的。
+
+--- Group 404 [right:none next=2012] ---
+縄張りに入りさえしな
+ければ、ガレフたちは
+僕らを襲わないはずだ
+ったんです
+-[FID:2F, TEXT:0259] 只要不进入他们的地盘
+-[FID:2F, TEXT:025A] ，加雷夫他们应该就不
+-[FID:2F, TEXT:025B] 会袭击我们的。
+
+--- Group 405 [right:none next=2012] ---
+なのに・・・っ
++[FID:2F, TEXT:025D] 可是……！
+
+--- Group 406 [right:none next=2012] ---
+なのに・・・っ
+-[FID:2F, TEXT:025D] 可是……！
+
+--- Group 407 [left:none next=0023] ---
+君の父さんは、襲われ
+てしまったんだね
++[FID:2F, TEXT:025E] 你的父亲，被袭击了呢
++[FID:2F, TEXT:025F] 。
+
+--- Group 408 [left:主人公 next=0023] ---
+君の父さんは、襲われ
+てしまったんだね
+-[FID:2F, TEXT:025E] 你的父亲，被袭击了呢
+-[FID:2F, TEXT:025F] 。
+
+--- Group 409 [left:none next=0023] ---
+お父さんは襲われた？
++[FID:2F, TEXT:0260] 父亲被袭击了？
+
+--- Group 410 [left:主人公 next=0023] ---
+お父さんは襲われた？
+-[FID:2F, TEXT:0260] 父亲被袭击了？
+
+--- Group 411 [left:主人公 next=0023] ---
+あなたの父さまは
+襲われた・・・
++[FID:2F, TEXT:0261] 你的父亲
++[FID:2F, TEXT:0262] 被袭击了……
+
+--- Group 412 [left:none next=0023] ---
+あなたの父さまは
+襲われた・・・
+-[FID:2F, TEXT:0261] 你的父亲
+-[FID:2F, TEXT:0262] 被袭击了……
+
+--- Group 413 [right:none next=2012] ---
+僕は絶対に許さない！
+父さんを、僕の大好き
+な父さんをっ、あんな
+姿に・・・！！
++[FID:2F, TEXT:0263] 我绝对不会原谅！父亲
++[FID:2F, TEXT:0264] ，我最爱的父亲，竟然
++[FID:2F, TEXT:0265] 变成那副样子……！！
+
+--- Group 414 [right:none next=2012] ---
+僕は絶対に許さない！
+父さんを、僕の大好き
+な父さんをっ、あんな
+姿に・・・！！
+-[FID:2F, TEXT:0263] 我绝对不会原谅！父亲
+-[FID:2F, TEXT:0264] ，我最爱的父亲，竟然
+-[FID:2F, TEXT:0265] 变成那副样子……！！
+
+--- Group 415 [right:none next=2012] ---
+絶対に復讐してやる
+この父さんの弓で
+仇をとってやる・・・
++[FID:2F, TEXT:0267] 我一定要复仇！
++[FID:2F, TEXT:0268] 用父亲的弓，
++[FID:2F, TEXT:0269] 我一定要报仇……
+
+--- Group 416 [right:none next=2012] ---
+絶対に復讐してやる
+この父さんの弓で
+仇をとってやる・・・
+-[FID:2F, TEXT:0267] 我一定要复仇！
+-[FID:2F, TEXT:0268] 用父亲的弓，
+-[FID:2F, TEXT:0269] 我一定要报仇……
+
+--- Group 417 [left:主人公 next=2012] ---
+事情はわかったよ
++[FID:2F, TEXT:026A] 我明白了情况。
+
+--- Group 418 [left:none next=2012] ---
+事情はわかったよ
+-[FID:2F, TEXT:026A] 我明白了情况。
+
+--- Group 419 [left:主人公 next=0023] ---
+でも、一人で仇をとる
+なんて無茶じゃない！
++[FID:2F, TEXT:026B] 但是，一个人去报仇不
++[FID:2F, TEXT:026E] 是很鲁莽吗！
+
+--- Group 420 [left:主人公 next=0023] ---
+でも、一人で仇をとる
+なんて無茶ですよ
+-[FID:2F, TEXT:026B] 但是，一个人去报仇不
++[FID:2F, TEXT:0271] 是很鲁莽吗！
+
+--- Group 421 [left:none next=0023] ---
+でも、一人で仇をとる
+なんて無茶だ
+-[FID:2F, TEXT:026B] 但是，一个人去报仇不
++[FID:2F, TEXT:026C] 是很鲁莽吗。
+
+--- Group 422 [left:none next=0023] ---
+でも、一人で仇をとる
+なんて無茶じゃない！
+-[FID:2F, TEXT:026B] 但是，一个人去报仇不
+-[FID:2F, TEXT:026E] 是很鲁莽吗！
+
+--- Group 423 [left:none next=0023] ---
+でも、一人で仇をとる
+なんて無茶ですよ
+-[FID:2F, TEXT:026B] 但是，一个人去报仇不
+-[FID:2F, TEXT:0271] 是很鲁莽吗！
+
+--- Group 424 [left:主人公 next=0023] ---
+でも、一人で仇をとる
+なんて無茶だ
+-[FID:2F, TEXT:026B] 但是，一个人去报仇不
+-[FID:2F, TEXT:026C] 是很鲁莽吗。
+
+--- Group 425 [left:none next=2012] ---
+事情はわかったけど
++[FID:2F, TEXT:026D] 我明白了情况，但是…
+-[FID:2F, TEXT:026D] …
+
+--- Group 426 [left:主人公 next=2012] ---
+事情はわかったけど
+-[FID:2F, TEXT:026D] 我明白了情况，但是…
+-[FID:2F, TEXT:026D] …
+
+--- Group 427 [left:主人公 next=2012] ---
+そういうこと
+だったんですか・・・
++[FID:2F, TEXT:026F] 原来是这样啊……
++[FID:2F, TEXT:0270] ……
+
+--- Group 428 [left:none next=2012] ---
+そういうこと
+だったんですか・・・
+-[FID:2F, TEXT:026F] 原来是这样啊……
+-[FID:2F, TEXT:0270] ……
+
+--- Group 429 [right:none next=2012] ---
+わかってます
++[FID:2F, TEXT:0272] 我知道。
+
+--- Group 430 [right:none next=2012] ---
+わかってます
+-[FID:2F, TEXT:0272] 我知道。
+
+--- Group 431 [right:none next=2012] ---
+でも他の狩人たちは、
+ガレフを恐れて森から
+逃げてしまいました
++[FID:2F, TEXT:0273] 但是其他的猎人们，都
++[FID:2F, TEXT:0274] 因为害怕加雷夫而逃离
++[FID:2F, TEXT:0275] 了森林。
+
+--- Group 432 [right:none next=2012] ---
+でも他の狩人たちは、
+ガレフを恐れて森から
+逃げてしまいました
+-[FID:2F, TEXT:0273] 但是其他的猎人们，都
+-[FID:2F, TEXT:0274] 因为害怕加雷夫而逃离
+-[FID:2F, TEXT:0275] 了森林。
+
+--- Group 433 [right:none next=2012] ---
+あいつと戦おうとして
+いるのは、もう僕だけ
+なんです・・・
++[FID:2F, TEXT:0276] 想要和他战斗的，现在
++[FID:2F, TEXT:0277] 只剩下我了……
+
+--- Group 434 [right:none next=2012] ---
+あいつと戦おうとして
+いるのは、もう僕だけ
+なんです・・・
+-[FID:2F, TEXT:0276] 想要和他战斗的，现在
+-[FID:2F, TEXT:0277] 只剩下我了……
+
+--- Group 435 [right:none next=0023] ---
+　なら、俺が手伝うよ
+　そうか・・・
++[FID:2F, TEXT:0279] 　那么，我来帮你。是
++[FID:2F, TEXT:027A] 　吗……
+
+--- Group 436 [right:none next=0023] ---
+　なら、俺が手伝うよ
+　そうか・・・
+-[FID:2F, TEXT:0279] 　那么，我来帮你。是
+-[FID:2F, TEXT:027A] 　吗……
+
+--- Group 437 [right:none next=0023] ---
+　なら、僕が手伝おう
+　そうか・・・
++[FID:2F, TEXT:027B] 　那么，我来帮忙吧。
+-[FID:2F, TEXT:027A] 　是吗……
+
+--- Group 438 [right:none next=0023] ---
+　なら、僕が手伝おう
+　そうか・・・
+-[FID:2F, TEXT:027B] 　那么，我来帮忙吧。
+-[FID:2F, TEXT:027A] 　是吗……
+
+--- Group 439 [right:none next=0023] ---
+　手伝うよ
+　そっか・・・
++[FID:2F, TEXT:027C] 　我来帮忙。
++[FID:2F, TEXT:027D] 　这样啊……
+
+--- Group 440 [right:none next=0023] ---
+　手伝うよ
+　そっか・・・
+-[FID:2F, TEXT:027C] 　我来帮忙。
+-[FID:2F, TEXT:027D] 　这样啊……
+
+--- Group 441 [right:none next=0023] ---
+　いっしょに戦いましょう
+　そうなんですか・・・
++[FID:2F, TEXT:027E] 　我和你一起战斗吧。
++[FID:2F, TEXT:027F] 　是这样吗……
+
+--- Group 442 [right:none next=0023] ---
+　いっしょに戦いましょう
+　そうなんですか・・・
+-[FID:2F, TEXT:027E] 　我和你一起战斗吧。
+-[FID:2F, TEXT:027F] 　是这样吗……
+
+--- Group 443 [left:主人公 next=2012] ---
+なら、俺が手伝うよ
++[FID:2F, TEXT:0280] 那么，我来帮你。
+
+--- Group 444 [left:none next=2012] ---
+なら、俺が手伝うよ
+-[FID:2F, TEXT:0280] 那么，我来帮你。
+
+--- Group 445 [left:主人公 next=0023] ---
+俺だけじゃない
+事情を話せば、きっと
+俺の仲間も力を貸して
+くれると思う
++[FID:2F, TEXT:0281] 不只是我一个人。
++[FID:2F, TEXT:0282] 如果说明情况，一定也
++[FID:2F, TEXT:0283] 会有我的伙伴来帮忙的
++[FID:2F, TEXT:0284] 。
+
+--- Group 446 [left:none next=0023] ---
+俺だけじゃない
+事情を話せば、きっと
+俺の仲間も力を貸して
+くれると思う
+-[FID:2F, TEXT:0281] 不只是我一个人。
+-[FID:2F, TEXT:0282] 如果说明情况，一定也
+-[FID:2F, TEXT:0283] 会有我的伙伴来帮忙的
+-[FID:2F, TEXT:0284] 。
+
+--- Group 447 [left:主人公 next=2012] ---
+なら、僕が手伝おう
++[FID:2F, TEXT:0285] 那么，我来帮忙吧。
+
+--- Group 448 [left:none next=2012] ---
+なら、僕が手伝おう
+-[FID:2F, TEXT:0285] 那么，我来帮忙吧。
+
+--- Group 449 [left:none next=0023] ---
+僕だけじゃない
+事情を話せば、きっと
+僕の仲間も力を貸して
+くれると思う
++[FID:2F, TEXT:0286] 不只是我一个人。
+-[FID:2F, TEXT:0282] 如果说明情况，一定也
++[FID:2F, TEXT:0287] 会有我的伙伴来帮忙的
+-[FID:2F, TEXT:0284] 。
+
+--- Group 450 [left:主人公 next=0023] ---
+僕だけじゃない
+事情を話せば、きっと
+僕の仲間も力を貸して
+くれると思う
+-[FID:2F, TEXT:0286] 不只是我一个人。
+-[FID:2F, TEXT:0282] 如果说明情况，一定也
+-[FID:2F, TEXT:0287] 会有我的伙伴来帮忙的
+-[FID:2F, TEXT:0284] 。
+
+--- Group 451 [left:主人公 next=2012] ---
+あたしが手伝うよ
++[FID:2F, TEXT:0288] 我来帮忙。
+
+--- Group 452 [left:none next=2012] ---
+あたしが手伝うよ
+-[FID:2F, TEXT:0288] 我来帮忙。
+
+--- Group 453 [left:主人公 next=0023] ---
+あたしだけじゃないよ
+事情を話せば、きっと
+みんなも力を貸して
+くれると思う
++[FID:2F, TEXT:0289] 不只是我一个人哦。如
+-[FID:2F, TEXT:0282] 果说明情况，大家一定
++[FID:2F, TEXT:028A] 会
+-[FID:2F, TEXT:0284] 来帮忙的。
+
+--- Group 454 [left:none next=0023] ---
+あたしだけじゃないよ
+事情を話せば、きっと
+みんなも力を貸して
+くれると思う
+-[FID:2F, TEXT:0289] 不只是我一个人哦。如
+-[FID:2F, TEXT:0282] 果说明情况，大家一定
+-[FID:2F, TEXT:028A] 会
+-[FID:2F, TEXT:0284] 来帮忙的。
+
+--- Group 455 [left:none next=2012] ---
+なら・・・
+いっしょに
+戦いましょう
++[FID:2F, TEXT:028B] 那么……
++[FID:2F, TEXT:028C] 一起
++[FID:2F, TEXT:028D] 战斗吧。
+
+--- Group 456 [left:主人公 next=2012] ---
+なら・・・
+いっしょに
+戦いましょう
+-[FID:2F, TEXT:028B] 那么……
+-[FID:2F, TEXT:028C] 一起
+-[FID:2F, TEXT:028D] 战斗吧。
+
+--- Group 457 [left:none next=0023] ---
+わたしだけじゃない
+事情を話せば、きっと
+みんなも助けてくれる
+と思いますよ？
++[FID:2F, TEXT:028E] 不只是我一个人。
+-[FID:2F, TEXT:0282] 如果说明情况，大家一
++[FID:2F, TEXT:028F] 定会来帮助我的。
+
+--- Group 458 [left:主人公 next=0023] ---
+わたしだけじゃない
+事情を話せば、きっと
+みんなも助けてくれる
+と思いますよ？
+-[FID:2F, TEXT:028E] 不只是我一个人。
+-[FID:2F, TEXT:0282] 如果说明情况，大家一
+-[FID:2F, TEXT:028F] 定会来帮助我的。
+
+--- Group 459 [right:none next=2012] ---
+でも・・・
++[FID:2F, TEXT:0291] 但是……
+
+--- Group 460 [right:none next=2012] ---
+でも・・・
+-[FID:2F, TEXT:0291] 但是……
+
+--- Group 461 [left:主人公 next=0023] ---
+でも・・・
+釣りの餌がないわね
+餌を探さなくては
+いけないみたい・・
+-[FID:2F, TEXT:0291] 但是……
++[FID:2F, TEXT:02DE] 没有钓鱼的饵呢。
++[FID:2F, TEXT:02DF] 好像得去找饵才
++[FID:2F, TEXT:02E0] 行……
+
+--- Group 462 [left:主人公 next=2012] ---
+ガレフは子分を連れて
+いるんだろ？
++[FID:2F, TEXT:0292] 加雷夫有手下吧？
+
+--- Group 463 [left:主人公 next=2012] ---
+ガレフは子分を連れて
+いるんだろう？
+-[FID:2F, TEXT:0292] 加雷夫有手下吧？[F
++[FID:2F, TEXT:029C] ID:2F, TEX
+-[FID:2F, TEXT:029C] T:029C]
+
+--- Group 464 [left:none next=2012] ---
+ガレフは子分を連れて
+いるんだろ？
+-[FID:2F, TEXT:0292] 加雷夫有手下吧？
+
+--- Group 465 [left:none next=2012] ---
+ガレフは子分を連れて
+いるんだろう？
+-[FID:2F, TEXT:0292] 加雷夫有手下吧？[F
+-[FID:2F, TEXT:029C] ID:2F, TEX
+-[FID:2F, TEXT:029C] T:029C]
+
+--- Group 466 [left:none next=2012] ---
+たった一人で戦うのは
+絶対に無茶だと思うぜ
++[FID:2F, TEXT:0294] 独自一人去战斗，我觉
++[FID:2F, TEXT:0295] 得绝对很鲁莽。
+
+--- Group 467 [left:主人公 next=2012] ---
+たった一人で戦うのは
+絶対に無理ですよ
+-[FID:2F, TEXT:0294] 独自一人去战斗，我觉
++[FID:2F, TEXT:02B0] 得绝对不可能。
+
+--- Group 468 [left:none next=2012] ---
+たった一人で戦うのは
+絶対に無理ですよ
+-[FID:2F, TEXT:0294] 独自一人去战斗，我觉
+-[FID:2F, TEXT:02B0] 得绝对不可能。
+
+--- Group 469 [left:主人公 next=2012] ---
+たった一人で戦うのは
+命を捨てるようなもの
+じゃないか
+-[FID:2F, TEXT:0294] 独自一人去战斗，不就
++[FID:2F, TEXT:029D] 像是丢掉性命一样吗？
+
+--- Group 470 [left:none next=2012] ---
+たった一人で戦うのは
+命を捨てるようなもの
+じゃないか
+-[FID:2F, TEXT:0294] 独自一人去战斗，不就
+-[FID:2F, TEXT:029D] 像是丢掉性命一样吗？
+
+--- Group 471 [left:主人公 next=2012] ---
+たった一人で戦うのは
+絶対に無茶だと思うぜ
+-[FID:2F, TEXT:0294] 独自一人去战斗，我觉
+-[FID:2F, TEXT:0295] 得绝对很鲁莽。
+
+--- Group 472 [left:主人公 next=2012] ---
+森に不慣れな俺たちが
+どれだけ役に立つかは
+不安だろうけど・・・
++[FID:2F, TEXT:0296] 我们对森林不熟悉，能
++[FID:2F, TEXT:0297] 有多大帮助让人不安，
++[FID:2F, TEXT:0298] 但是……
+
+--- Group 473 [left:none next=2012] ---
+森に不慣れな俺たちが
+どれだけ役に立つかは
+不安だろうけど・・・
+-[FID:2F, TEXT:0296] 我们对森林不熟悉，能
+-[FID:2F, TEXT:0297] 有多大帮助让人不安，
+-[FID:2F, TEXT:0298] 但是……
+
+--- Group 474 [left:none next=0023] ---
+君の背中を
+守るくらいの助けなら
+できると思うんだ
++[FID:2F, TEXT:0299] 能够保护你的
++[FID:2F, TEXT:029A] 背影的程度的帮助，我
++[FID:2F, TEXT:029B] 觉得我能做到。
+
+--- Group 475 [left:主人公 next=0023] ---
+君の背中を
+守るくらいの助けなら
+できると思うんだ
+-[FID:2F, TEXT:0299] 能够保护你的
+-[FID:2F, TEXT:029A] 背影的程度的帮助，我
+-[FID:2F, TEXT:029B] 觉得我能做到。
+
+--- Group 476 [left:none next=0023] ---
+君の背中を守るくらい
+の助けなら、できると
+思う
++[FID:2F, TEXT:029F] 能够保护你的背影的程
++[FID:2F, TEXT:02A0] 度的帮助，我觉得我能
++[FID:2F, TEXT:02A1] 做到。
+
+--- Group 477 [left:主人公 next=0023] ---
+君の背中を守るくらい
+の助けなら、できると
+思う
+-[FID:2F, TEXT:029F] 能够保护你的背影的程
+-[FID:2F, TEXT:02A0] 度的帮助，我觉得我能
+-[FID:2F, TEXT:02A1] 做到。
+
+--- Group 478 [left:主人公 next=2012] ---
+ガレフってさ、
+一匹じゃないん
+でしょ？
++[FID:2F, TEXT:02A2] 加雷夫啊，
++[FID:2F, TEXT:02A3] 不止一只吧？
++[FID:2F, TEXT:02A4] [FID:2F, T
+-[FID:2F, TEXT:02A4] EXT:02A4]
+
+--- Group 479 [left:none next=2012] ---
+ガレフってさ、
+一匹じゃないん
+でしょ？
+-[FID:2F, TEXT:02A2] 加雷夫啊，
+-[FID:2F, TEXT:02A3] 不止一只吧？
+-[FID:2F, TEXT:02A4] [FID:2F, T
+-[FID:2F, TEXT:02A4] EXT:02A4]
+
+--- Group 480 [left:none next=2012] ---
+ひとりじゃ勝てないよ
+そう思わない？
++[FID:2F, TEXT:02A5] 一个人是赢不了的。你
++[FID:2F, TEXT:02A6] 不这么觉得吗？
+
+--- Group 481 [left:主人公 next=2012] ---
+ひとりじゃ勝てないよ
+そう思わない？
+-[FID:2F, TEXT:02A5] 我一个人是赢不了的你
+-[FID:2F, TEXT:02A6] 不这么觉得吗？
+
+--- Group 482 [left:主人公 next=2012] ---
+そりゃ、あたしは
+役にたたないかも
+しれないけど・・・
++[FID:2F, TEXT:02A7] 嘛，我嘛
++[FID:2F, TEXT:02A8] 也许派不上用场
++[FID:2F, TEXT:02A9] 不过……
+
+--- Group 483 [left:none next=2012] ---
+そりゃ、あたしは
+役にたたないかも
+しれないけど・・・
+-[FID:2F, TEXT:02A7] 嘛，我嘛
+-[FID:2F, TEXT:02A8] 也许派不上用场
+-[FID:2F, TEXT:02A9] 不过……
+
+--- Group 484 [left:none next=0023] ---
+ね、いっしょに
+戦おうよ！
+スウォン！
++[FID:2F, TEXT:02AA] 喂，一起
++[FID:2F, TEXT:02AB] 去战斗吧！
++[FID:2F, TEXT:02AC] 斯沃恩！
+
+--- Group 485 [left:主人公 next=0023] ---
+ね、いっしょに
+戦おうよ！
+スウォン！
+-[FID:2F, TEXT:02AA] 喂，一起
+-[FID:2F, TEXT:02AB] 去战斗吧！
+-[FID:2F, TEXT:02AC] 斯沃恩！
+
+--- Group 486 [left:主人公 next=2012] ---
+ガレフは一匹だけで
+いるわけじゃないんで
+すよね？
++[FID:2F, TEXT:02AD] 加雷夫不是只有一只
++[FID:2F, TEXT:02AE] 存在的吧？是吧？
+
+--- Group 487 [left:none next=2012] ---
+ガレフは一匹だけで
+いるわけじゃないんで
+すよね？
+-[FID:2F, TEXT:02AD] 加雷夫不是只有一只
+-[FID:2F, TEXT:02AE] 存在的吧？是吧？
+
+--- Group 488 [left:主人公 next=2012] ---
+森に不慣れなわたし
+たちが、役に立つかは
+不安だと思いますけど
+・・・
++[FID:2F, TEXT:02B1] 对森林不熟悉的我们
++[FID:2F, TEXT:02B2] 能否派上用场我觉得很
++[FID:2F, TEXT:02B3] 不安呢……
+
+--- Group 489 [left:none next=2012] ---
+森に不慣れなわたし
+たちが、役に立つかは
+不安だと思いますけど
+・・・
+-[FID:2F, TEXT:02B1] 对森林不熟悉的我们
+-[FID:2F, TEXT:02B2] 能否派上用场我觉得很
+-[FID:2F, TEXT:02B3] 不安呢……
+
+--- Group 490 [left:主人公 next=0023] ---
+背中を守るくらい
+の助けなら、できると
+思いますよ
++[FID:2F, TEXT:02B4] 像保护后背这样的
+-[FID:2F, TEXT:02A0] 帮助，我能做到的。
+
+--- Group 491 [left:none next=0023] ---
+背中を守るくらい
+の助けなら、できると
+思いますよ
+-[FID:2F, TEXT:02B4] 像保护后背这样的
+-[FID:2F, TEXT:02A0] 帮助，我能做到的。
+
+--- Group 492 [left:主人公 next=0023] ---
+決めるのは今すぐじゃ
+なくていいですから
+いちど、みなさんと
+会ってみてください
++[FID:2F, TEXT:02B6] 决定权不必马上就可以
++[FID:2F, TEXT:02BD] ，所以
++[FID:2F, TEXT:02BE] 先和大家
++[FID:2F, TEXT:02BF] 见一面吧。
+
+--- Group 493 [left:none next=0023] ---
+決めるのは今すぐじゃ
+なくていいから、まず
+はみんなと会ってみて
+くれないか？
+-[FID:2F, TEXT:02B6] 决定权不必马上就可以
++[FID:2F, TEXT:02B7] ，所以先和大家见一面
++[FID:2F, TEXT:02B8] 可以吗？
+
+--- Group 494 [left:none next=0023] ---
+決めるのは今すぐじゃ
+なくていいですから
+いちど、みなさんと
+会ってみてください
+-[FID:2F, TEXT:02B6] 决定权不必马上就可以
+-[FID:2F, TEXT:02BD] ，所以
+-[FID:2F, TEXT:02BE] 先和大家
+-[FID:2F, TEXT:02BF] 见一面吧。
+
+--- Group 495 [left:主人公 next=0023] ---
+決めるのは今すぐじゃ
+なくていいから、まず
+はみんなと会ってみて
+くれないか？
+-[FID:2F, TEXT:02B6] 决定权不必马上就可以
+-[FID:2F, TEXT:02B7] ，所以先和大家见一面
+-[FID:2F, TEXT:02B8] 可以吗？
+
+--- Group 496 [left:none next=0023] ---
+そうだ！
+ものはためしで、まず
+はみんなと会ってみて
+よ！ね！
++[FID:2F, TEXT:02BA] 对了！
++[FID:2F, TEXT:02BB] 姑且试试看，先和大家
+-[FID:2F, TEXT:02B8] 见一面吧！好吗！
+
+--- Group 497 [left:主人公 next=0023] ---
+そうだ！
+ものはためしで、まず
+はみんなと会ってみて
+よ！ね！
+-[FID:2F, TEXT:02BA] 对了！
+-[FID:2F, TEXT:02BB] 姑且试试看，先和大家
+-[FID:2F, TEXT:02B8] 见一面吧！好吗！
+
+--- Group 498 [left:主人公 next=0023] ---
+そうか・・・
++[FID:2F, TEXT:02C0] 这样啊……
+
+--- Group 499 [left:none next=0023] ---
+そうか・・・
+-[FID:2F, TEXT:02C0] 这样啊……
+
+--- Group 500 [left:none next=0023] ---
+そっか・・・
++[FID:2F, TEXT:02C1] 这样啊……
+
+--- Group 501 [left:主人公 next=0023] ---
+そっか・・・
+-[FID:2F, TEXT:02C1] 这样啊……
+
+--- Group 502 [left:none next=0023] ---
+そうなんですか・・・
++[FID:2F, TEXT:02C2] 是这样吗……
+
+--- Group 503 [left:主人公 next=0023] ---
+そうなんですか・・・
+-[FID:2F, TEXT:02C2] 是这样吗……
+
+--- Group 504 [right:none next=2012] ---
+心配しないでください
+無茶はしませんから
++[FID:2F, TEXT:02C3] 请不要担心我不会乱来
++[FID:2F, TEXT:02C4] 的。
+
+--- Group 505 [right:none next=2012] ---
+心配しないでください
+無茶はしませんから
+-[FID:2F, TEXT:02C3] 请不要担心我不会乱来
+-[FID:2F, TEXT:02C4] 的。
+
+--- Group 506 [right:none next=2012] ---
+それじゃ、気をつけて
+帰ってくださいね
++[FID:2F, TEXT:02C5] 那么，请小心回去。
+
+--- Group 507 [right:none next=2012] ---
+それじゃ、気をつけて
+帰ってくださいね
+-[FID:2F, TEXT:02C5] 那么，请小心回去。
+
+--- Group 508 [left:主人公 next=2012] ---
+・・・猫？
++[FID:2F, TEXT:02C7] ……猫？
+
+--- Group 509 [left:主人公 next=0023] ---
+また、魚でも釣って
+みるかな？
++[FID:2F, TEXT:02CA] 要不去钓点
++[FID:2F, TEXT:02CD] 鱼看看呢？
+
+--- Group 510 [left:主人公 next=0023] ---
+また、魚でも釣って
+リプレを喜ばせて
+やろうかな？
+-[FID:2F, TEXT:02CA] 要不去钓点
++[FID:2F, TEXT:02CB] 鱼让利普雷
++[FID:2F, TEXT:02CC] 开心一下呢？
+
+--- Group 511 [left:主人公 next=0023] ---
+うーん
+魚釣りねぇ・・・
++[FID:2F, TEXT:02CE] 嗯……
++[FID:2F, TEXT:02CF] 钓鱼啊……
+
+--- Group 512 [left:主人公 next=0023] ---
+また、魚を
+釣って帰ったら
+リプレさん
+喜ぶかしら・・・
++[FID:2F, TEXT:02D0] 如果再把鱼
++[FID:2F, TEXT:02D1] 钓回来
++[FID:2F, TEXT:02D2] 利普雷小姐
++[FID:2F, TEXT:02D3] 会高兴吧……
+
+--- Group 513 [left:主人公 next=0023] ---
+あれ？
+釣りの餌がない・・・
+これじゃあ釣りは
+できないよな
++[FID:2F, TEXT:02D4] 咦？
++[FID:2F, TEXT:02D5] 钓鱼的饵没有了……这
++[FID:2F, TEXT:02D6] 样的话就不能
++[FID:2F, TEXT:02D7] 钓鱼了啊。
+
+--- Group 514 [left:主人公 next=0023] ---
+でも、まずは
+釣りの餌を探さないと
+いけないみたいだな
++[FID:2F, TEXT:02D8] 不过，首先
++[FID:2F, TEXT:02D9] 得先找到钓鱼的饵才行
++[FID:2F, TEXT:02DA] 啊。
+
+--- Group 515 [right:none next=0023] ---
+気にしなくていいって
+こういう時もあるわ
++[FID:2F, TEXT:02E3] 没关系的这种时候总会
++[FID:2F, TEXT:02E4] 有的。
+
+--- Group 516 [right:none next=0023] ---
+気にしなくていいって
+こういう時もあるわ
+-[FID:2F, TEXT:02E3] 没关系的这种时候总会
+-[FID:2F, TEXT:02E4] 有的。
+
+--- Group 517 [right:none next=2012] ---
+また何か釣れた時は
+私のところに
+もってきてね
++[FID:2F, TEXT:02F4] 如果又钓到什么的话
++[FID:2F, TEXT:02F5] 拿来我这里
++[FID:2F, TEXT:02F6] 给我看看哦。
+
+--- Group 518 [right:none next=2012] ---
+また何か釣れた時は
+私のところに
+もってきてね
+-[FID:2F, TEXT:02F4] 如果又钓到什么的话
+-[FID:2F, TEXT:02F5] 拿来我这里
+-[FID:2F, TEXT:02F6] 给我看看哦。
+
+--- Group 519 [right:none next=2012] ---
+腕によりをかけて
+おいしい料理を作って
+あげるから、ね？
++[FID:2F, TEXT:02F7] 我会拿出真本事
++[FID:2F, TEXT:02F8] 做美味的料理给你们吃
++[FID:2F, TEXT:02F9] ，好吗？
+
+--- Group 520 [right:none next=2012] ---
+腕によりをかけて
+おいしい料理を作って
+あげるから、ね？
+-[FID:2F, TEXT:02F7] 我会拿出真本事
+-[FID:2F, TEXT:02F8] 做美味的料理给你们吃
+-[FID:2F, TEXT:02F9] ，好吗？
+
+--- Group 521 [right:瞪羚 next=0026] ---
+【自分の部屋】
+
+
+【リプレと子供部屋】
+
+
+【玄関】
+
+
+【街へ】
+
+
+【レイドの部屋】
+
+
+【ガゼルの部屋】
+
+
+【部屋１】
+
+
+【部屋２】
+
+
+【部屋３】
+
+
+【部屋４】
+
+
+【部屋５】
+
+
+【屋根裏部屋】
+
+
+【広間】
+
+
+【庭】
+
+
+【台所】
+
+
++[FID:2F, TEXT:02FA] 【自己的房间】
++[FID:2F, TEXT:0000] 
+-[FID:2F, TEXT:0000] 
++[FID:2F, TEXT:02FB] 【利普雷和儿童房】【
+-[FID:2F, TEXT:0000] 玄关】
+-[FID:2F, TEXT:0000] 
++[FID:2F, TEXT:02FC] 
+-[FID:2F, TEXT:0000] 【去城镇】
+-[FID:2F, TEXT:0000] 
++[FID:2F, TEXT:02FD] 
+-[FID:2F, TEXT:0000] 【雷德的房间】
+-[FID:2F, TEXT:0000] 
++[FID:2F, TEXT:02FE] 
+-[FID:2F, TEXT:0000] 【加泽尔的房间】
+-[FID:2F, TEXT:0000] 
++[FID:2F, TEXT:02FF] 
+-[FID:2F, TEXT:0000] 【房间1】
+-[FID:2F, TEXT:0000] 
++[FID:2F, TEXT:0300] 
+-[FID:2F, TEXT:0000] 【房间2】
+-[FID:2F, TEXT:0000] 
++[FID:2F, TEXT:0301] 
+-[FID:2F, TEXT:0000] 【房间3】
+-[FID:2F, TEXT:0000] 
++[FID:2F, TEXT:0302] 
+-[FID:2F, TEXT:0000] 【房间4】
+-[FID:2F, TEXT:0000] 
++[FID:2F, TEXT:0303] 
+-[FID:2F, TEXT:0000] 【房间5】
+-[FID:2F, TEXT:0000] 
++[FID:2F, TEXT:0304] 
+-[FID:2F, TEXT:0000] 【阁楼】
+-[FID:2F, TEXT:0000] 
++[FID:2F, TEXT:0305] 
+-[FID:2F, TEXT:0000] 【大厅】
+-[FID:2F, TEXT:0000] 
++[FID:2F, TEXT:0306] 
+-[FID:2F, TEXT:0000] 【庭院】
+-[FID:2F, TEXT:0000] 
++[FID:2F, TEXT:0307] 
+-[FID:2F, TEXT:0000] 【厨房】
+-[FID:2F, TEXT:0000] 
++[FID:2F, TEXT:0308] 
+
+--- Group 522 [right:none next=0026] ---
+【自分の部屋】
+
+
+【リプレと子供部屋】
+
+
+【玄関】
+
+
+【街へ】
+
+
+【レイドの部屋】
+
+
+【ガゼルの部屋】
+
+
+【部屋１】
+
+
+【部屋２】
+
+
+【部屋３】
+
+
+【部屋４】
+
+
+【部屋５】
+
+
+【屋根裏部屋】
+
+
+【広間】
+
+
+【庭】
+
+
+【台所】
+
+
+-[FID:2F, TEXT:02FA] 【自己的房间】
+-[FID:2F, TEXT:0000] 
+-[FID:2F, TEXT:0000] 
+-[FID:2F, TEXT:02FB] 【利普雷和儿童房】【
+-[FID:2F, TEXT:0000] 玄关】
+-[FID:2F, TEXT:0000] 
+-[FID:2F, TEXT:02FC] 
+-[FID:2F, TEXT:0000] 【去城镇】
+-[FID:2F, TEXT:0000] 
+-[FID:2F, TEXT:02FD] 
+-[FID:2F, TEXT:0000] 【雷德的房间】
+-[FID:2F, TEXT:0000] 
+-[FID:2F, TEXT:02FE] 
+-[FID:2F, TEXT:0000] 【加泽尔的房间】
+-[FID:2F, TEXT:0000] 
+-[FID:2F, TEXT:02FF] 
+-[FID:2F, TEXT:0000] 【房间1】
+-[FID:2F, TEXT:0000] 
+-[FID:2F, TEXT:0300] 
+-[FID:2F, TEXT:0000] 【房间2】
+-[FID:2F, TEXT:0000] 
+-[FID:2F, TEXT:0301] 
+-[FID:2F, TEXT:0000] 【房间3】
+-[FID:2F, TEXT:0000] 
+-[FID:2F, TEXT:0302] 
+-[FID:2F, TEXT:0000] 【房间4】
+-[FID:2F, TEXT:0000] 
+-[FID:2F, TEXT:0303] 
+-[FID:2F, TEXT:0000] 【房间5】
+-[FID:2F, TEXT:0000] 
+-[FID:2F, TEXT:0304] 
+-[FID:2F, TEXT:0000] 【阁楼】
+-[FID:2F, TEXT:0000] 
+-[FID:2F, TEXT:0305] 
+-[FID:2F, TEXT:0000] 【大厅】
+-[FID:2F, TEXT:0000] 
+-[FID:2F, TEXT:0306] 
+-[FID:2F, TEXT:0000] 【庭院】
+-[FID:2F, TEXT:0000] 
+-[FID:2F, TEXT:0307] 
+-[FID:2F, TEXT:0000] 【厨房】
+-[FID:2F, TEXT:0000] 
+-[FID:2F, TEXT:0308] 
+
+--- Group 523 [left:none next=0026] ---
+【自分の部屋】
+
+
+【リプレと子供部屋】
+
+
+【玄関】
+
+
+【街へ】
+
+
+【レイドの部屋】
+
+
+【ガゼルの部屋】
+
+
+【部屋１】
+
+
+【部屋２】
+
+
+【部屋３】
+
+
+【部屋４】
+
+
+【部屋５】
+
+
+【屋根裏部屋】
+
+
+【広間】
+
+
+【庭】
+
+
+【台所】
+
+
+-[FID:2F, TEXT:02FA] 【自己的房间】
+-[FID:2F, TEXT:0000] 
+-[FID:2F, TEXT:0000] 
+-[FID:2F, TEXT:02FB] 【利普雷和儿童房】【
+-[FID:2F, TEXT:0000] 玄关】
+-[FID:2F, TEXT:0000] 
+-[FID:2F, TEXT:02FC] 
+-[FID:2F, TEXT:0000] 【去城镇】
+-[FID:2F, TEXT:0000] 
+-[FID:2F, TEXT:02FD] 
+-[FID:2F, TEXT:0000] 【雷德的房间】
+-[FID:2F, TEXT:0000] 
+-[FID:2F, TEXT:02FE] 
+-[FID:2F, TEXT:0000] 【加泽尔的房间】
+-[FID:2F, TEXT:0000] 
+-[FID:2F, TEXT:02FF] 
+-[FID:2F, TEXT:0000] 【房间1】
+-[FID:2F, TEXT:0000] 
+-[FID:2F, TEXT:0300] 
+-[FID:2F, TEXT:0000] 【房间2】
+-[FID:2F, TEXT:0000] 
+-[FID:2F, TEXT:0301] 
+-[FID:2F, TEXT:0000] 【房间3】
+-[FID:2F, TEXT:0000] 
+-[FID:2F, TEXT:0302] 
+-[FID:2F, TEXT:0000] 【房间4】
+-[FID:2F, TEXT:0000] 
+-[FID:2F, TEXT:0303] 
+-[FID:2F, TEXT:0000] 【房间5】
+-[FID:2F, TEXT:0000] 
+-[FID:2F, TEXT:0304] 
+-[FID:2F, TEXT:0000] 【阁楼】
+-[FID:2F, TEXT:0000] 
+-[FID:2F, TEXT:0305] 
+-[FID:2F, TEXT:0000] 【大厅】
+-[FID:2F, TEXT:0000] 
+-[FID:2F, TEXT:0306] 
+-[FID:2F, TEXT:0000] 【庭院】
+-[FID:2F, TEXT:0000] 
+-[FID:2F, TEXT:0307] 
+-[FID:2F, TEXT:0000] 【厨房】
+-[FID:2F, TEXT:0000] 
+-[FID:2F, TEXT:0308] 
+
+--- Group 524 [left:主人公 next=0026] ---
+【自分の部屋】
+
+
+【リプレと子供部屋】
+
+
+【玄関】
+
+
+【街へ】
+
+
+【レイドの部屋】
+
+
+【ガゼルの部屋】
+
+
+【部屋１】
+
+
+【部屋２】
+
+
+【部屋３】
+
+
+【部屋４】
+
+
+【部屋５】
+
+
+【屋根裏部屋】
+
+
+【広間】
+
+
+【庭】
+
+
+【台所】
+
+
+-[FID:2F, TEXT:02FA] 【自己的房间】
+-[FID:2F, TEXT:0000] 
+-[FID:2F, TEXT:0000] 
+-[FID:2F, TEXT:02FB] 【利普雷和儿童房】【
+-[FID:2F, TEXT:0000] 玄关】
+-[FID:2F, TEXT:0000] 
+-[FID:2F, TEXT:02FC] 
+-[FID:2F, TEXT:0000] 【去城镇】
+-[FID:2F, TEXT:0000] 
+-[FID:2F, TEXT:02FD] 
+-[FID:2F, TEXT:0000] 【雷德的房间】
+-[FID:2F, TEXT:0000] 
+-[FID:2F, TEXT:02FE] 
+-[FID:2F, TEXT:0000] 【加泽尔的房间】
+-[FID:2F, TEXT:0000] 
+-[FID:2F, TEXT:02FF] 
+-[FID:2F, TEXT:0000] 【房间1】
+-[FID:2F, TEXT:0000] 
+-[FID:2F, TEXT:0300] 
+-[FID:2F, TEXT:0000] 【房间2】
+-[FID:2F, TEXT:0000] 
+-[FID:2F, TEXT:0301] 
+-[FID:2F, TEXT:0000] 【房间3】
+-[FID:2F, TEXT:0000] 
+-[FID:2F, TEXT:0302] 
+-[FID:2F, TEXT:0000] 【房间4】
+-[FID:2F, TEXT:0000] 
+-[FID:2F, TEXT:0303] 
+-[FID:2F, TEXT:0000] 【房间5】
+-[FID:2F, TEXT:0000] 
+-[FID:2F, TEXT:0304] 
+-[FID:2F, TEXT:0000] 【阁楼】
+-[FID:2F, TEXT:0000] 
+-[FID:2F, TEXT:0305] 
+-[FID:2F, TEXT:0000] 【大厅】
+-[FID:2F, TEXT:0000] 
+-[FID:2F, TEXT:0306] 
+-[FID:2F, TEXT:0000] 【庭院】
+-[FID:2F, TEXT:0000] 
+-[FID:2F, TEXT:0307] 
+-[FID:2F, TEXT:0000] 【厨房】
+-[FID:2F, TEXT:0000] 
+-[FID:2F, TEXT:0308] 
+
+--- Group 525 [right:金加 next=0026] ---
+【自分の部屋】
+
+
+【リプレと子供部屋】
+
+
+【玄関】
+
+
+【街へ】
+
+
+【レイドの部屋】
+
+
+【ガゼルの部屋】
+
+
+【部屋１】
+
+
+【部屋２】
+
+
+【部屋３】
+
+
+【部屋４】
+
+
+【部屋５】
+
+
+【屋根裏部屋】
+
+
+【広間】
+
+
+【庭】
+
+
+【台所】
+
+
+-[FID:2F, TEXT:02FA] 【自己的房间】
+-[FID:2F, TEXT:0000] 
+-[FID:2F, TEXT:0000] 
+-[FID:2F, TEXT:02FB] 【利普雷和儿童房】【
+-[FID:2F, TEXT:0000] 玄关】
+-[FID:2F, TEXT:0000] 
+-[FID:2F, TEXT:02FC] 
+-[FID:2F, TEXT:0000] 【去城镇】
+-[FID:2F, TEXT:0000] 
+-[FID:2F, TEXT:02FD] 
+-[FID:2F, TEXT:0000] 【雷德的房间】
+-[FID:2F, TEXT:0000] 
+-[FID:2F, TEXT:02FE] 
+-[FID:2F, TEXT:0000] 【加泽尔的房间】
+-[FID:2F, TEXT:0000] 
+-[FID:2F, TEXT:02FF] 
+-[FID:2F, TEXT:0000] 【房间1】
+-[FID:2F, TEXT:0000] 
+-[FID:2F, TEXT:0300] 
+-[FID:2F, TEXT:0000] 【房间2】
+-[FID:2F, TEXT:0000] 
+-[FID:2F, TEXT:0301] 
+-[FID:2F, TEXT:0000] 【房间3】
+-[FID:2F, TEXT:0000] 
+-[FID:2F, TEXT:0302] 
+-[FID:2F, TEXT:0000] 【房间4】
+-[FID:2F, TEXT:0000] 
+-[FID:2F, TEXT:0303] 
+-[FID:2F, TEXT:0000] 【房间5】
+-[FID:2F, TEXT:0000] 
+-[FID:2F, TEXT:0304] 
+-[FID:2F, TEXT:0000] 【阁楼】
+-[FID:2F, TEXT:0000] 
+-[FID:2F, TEXT:0305] 
+-[FID:2F, TEXT:0000] 【大厅】
+-[FID:2F, TEXT:0000] 
+-[FID:2F, TEXT:0306] 
+-[FID:2F, TEXT:0000] 【庭院】
+-[FID:2F, TEXT:0000] 
+-[FID:2F, TEXT:0307] 
+-[FID:2F, TEXT:0000] 【厨房】
+-[FID:2F, TEXT:0000] 
+-[FID:2F, TEXT:0308] 
+
+--- Group 526 [left:none next=0026] ---
+【自分の部屋】
+
+
+【リプレと子供部屋】
+
+
+【玄関】
+
+
+【街へ】
+
+
+【レイドの部屋】
+
+
+【ガゼルの部屋】
+
+
+【部屋１】
+
+
+【部屋２】
+
+
+【部屋３】
+
+
+【部屋４】
+
+
+【部屋５】
+
+
+【屋根裏部屋】
+
+
+【広間】
+
+
+【庭】
+
+
+【台所】
+
+
+-[FID:2F, TEXT:02FA] 【自己的房间】
+-[FID:2F, TEXT:0000] 
+-[FID:2F, TEXT:0000] 
+-[FID:2F, TEXT:02FB] 【利普雷和儿童房】【
+-[FID:2F, TEXT:0000] 玄关】
+-[FID:2F, TEXT:0000] 
+-[FID:2F, TEXT:02FC] 
+-[FID:2F, TEXT:0000] 【去城镇】
+-[FID:2F, TEXT:0000] 
+-[FID:2F, TEXT:02FD] 
+-[FID:2F, TEXT:0000] 【雷德的房间】
+-[FID:2F, TEXT:0000] 
+-[FID:2F, TEXT:02FE] 
+-[FID:2F, TEXT:0000] 【加泽尔的房间】
+-[FID:2F, TEXT:0000] 
+-[FID:2F, TEXT:02FF] 
+-[FID:2F, TEXT:0000] 【房间1】
+-[FID:2F, TEXT:0000] 
+-[FID:2F, TEXT:0300] 
+-[FID:2F, TEXT:0000] 【房间2】
+-[FID:2F, TEXT:0000] 
+-[FID:2F, TEXT:0301] 
+-[FID:2F, TEXT:0000] 【房间3】
+-[FID:2F, TEXT:0000] 
+-[FID:2F, TEXT:0302] 
+-[FID:2F, TEXT:0000] 【房间4】
+-[FID:2F, TEXT:0000] 
+-[FID:2F, TEXT:0303] 
+-[FID:2F, TEXT:0000] 【房间5】
+-[FID:2F, TEXT:0000] 
+-[FID:2F, TEXT:0304] 
+-[FID:2F, TEXT:0000] 【阁楼】
+-[FID:2F, TEXT:0000] 
+-[FID:2F, TEXT:0305] 
+-[FID:2F, TEXT:0000] 【大厅】
+-[FID:2F, TEXT:0000] 
+-[FID:2F, TEXT:0306] 
+-[FID:2F, TEXT:0000] 【庭院】
+-[FID:2F, TEXT:0000] 
+-[FID:2F, TEXT:0307] 
+-[FID:2F, TEXT:0000] 【厨房】
+-[FID:2F, TEXT:0000] 
+-[FID:2F, TEXT:0308] [FID:2F, T
+-[FID:2F, TEXT:0000] EXT:0000]

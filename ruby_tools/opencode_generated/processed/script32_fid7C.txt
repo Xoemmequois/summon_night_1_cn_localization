@@ -1,0 +1,643 @@
+--- Group 1 [left:none next=2012] ---
+アカネと出会ったのは
+ここでぶつかったのが
+はじまりだっけ
++[FID:7C, TEXT:0001] 和アカネ相遇，是在这
++[FID:7C, TEXT:0008] 里撞到，开始的吧。
++[FID:7C, TEXT:0009] 
+
+--- Group 2 [left:none next=2012] ---
+アカネと出会ったのは
+ここで正面衝突をした
+のがきっかけだったな
+-[FID:7C, TEXT:0001] 和アカネ相遇，是在这
++[FID:7C, TEXT:0002] 里正面冲突，成为契机
++[FID:7C, TEXT:0003] 的吧。
+
+--- Group 3 [left:none next=2012] ---
+・・・・・・
++[FID:7C, TEXT:0004] ・・・・・・
+
+--- Group 4 [left:主人公 next=2012] ---
+・・・・・・
+-[FID:7C, TEXT:0004] ・・・・・・
+
+--- Group 5 [left:none next=0023] ---
+そういや、最近はお店
+の手伝いとかしなくて
+もいいのか？
++[FID:7C, TEXT:0005] 说起来，最近不用帮忙
++[FID:7C, TEXT:0006] 店里的事情也没关系了
++[FID:7C, TEXT:0007] 吗？
+
+--- Group 6 [left:none next=0023] ---
+そういえば、もうお店
+の手伝いはしなくても
+いいの？
++[FID:7C, TEXT:000A] 说起来，已经不用帮忙
++[FID:7C, TEXT:000B] 店里的事情了吗？
++[FID:7C, TEXT:000C] 
+
+--- Group 7 [left:none next=2012] ---
+彼女と知りあったのは
+ここでぶつかったのが
+きっかけだったよね
++[FID:7C, TEXT:000D] 和她认识，是在这里撞
+-[FID:7C, TEXT:0008] 到，成为契机的吧。
++[FID:7C, TEXT:000E] 
+
+--- Group 8 [left:none next=0023] ---
+そういえば、もう
+お店は手伝わなくて
+いいんですか？
++[FID:7C, TEXT:000F] 说起来，已经
++[FID:7C, TEXT:0010] 不用帮忙店里的
++[FID:7C, TEXT:0011] 事情了吗？
+
+--- Group 9 [right:none next=2012] ---
+うん、それがね
++[FID:7C, TEXT:0012] 嗯，那是啊。
+
+--- Group 10 [right:none next=2012] ---
+お師匠ったら、アタシ
+にほとんど用事を頼ま
+なくなってきたんだ
++[FID:7C, TEXT:0013] 师傅他啊，几乎不再拜
++[FID:7C, TEXT:0014] 托我做任何事情了呢。
++[FID:7C, TEXT:0015] 
+
+--- Group 11 [right:none next=2012] ---
+私が行ったほうが早い
+って、自分で薬草とか
+も取ってきちゃうのよ
++[FID:7C, TEXT:0016] 他说“我去了比较快”
++[FID:7C, TEXT:0017] ，还会自己去采药草之
++[FID:7C, TEXT:0018] 类的呢。
+
+--- Group 12 [right:none next=2012] ---
+なんだかなぁ・・・
++[FID:7C, TEXT:0019] 真是的啊……
+
+--- Group 13 [left:none next=0023] ---
+あれ、もしかすると
+アカネは・・・
++[FID:7C, TEXT:001A] 哎呀，难道说
++[FID:7C, TEXT:001C] アカネ是……
+
+--- Group 14 [left:none next=0023] ---
+あれ、もしかすると
+アカネってば
+-[FID:7C, TEXT:001A] 哎呀，难道说
++[FID:7C, TEXT:001B] アカネ这家伙……
+
+--- Group 15 [left:none next=0023] ---
+あれっ？
+もしかして
+アカネってば・・・
++[FID:7C, TEXT:001D] 哎呀？
++[FID:7C, TEXT:001E] 难道说
++[FID:7C, TEXT:001F] アカネ这家伙……
+
+--- Group 16 [left:none next=0023] ---
+あれ、もしかして
+アカネさん・・・
++[FID:7C, TEXT:0020] 哎呀，难道说
++[FID:7C, TEXT:0021] アカネ小姐……
+
+--- Group 17 [left:none next=0023] ---
+アカネさん・・・
+-[FID:7C, TEXT:0021] アカネ小姐……
+
+--- Group 18 [right:主人公 next=0023] ---
+アカネさん・・・
+-[FID:7C, TEXT:0021] アカネ小姐……
+
+--- Group 19 [left:none next=0023] ---
+どうしよう？
++[FID:7C, TEXT:0022] 该怎么办呢？
+
+--- Group 20 [left:none next=0023] ---
+　さみしいんだ？
+　不満なのか？
++[FID:7C, TEXT:0023] 　感到寂寞？
++[FID:7C, TEXT:0024] 　感到不满？
+
+--- Group 21 [left:none next=0023] ---
+　さみしいのか？
+　不満なのか？
++[FID:7C, TEXT:0025] 　感到寂寞？
+-[FID:7C, TEXT:0024] 　感到不满？
+
+--- Group 22 [left:none next=0023] ---
+　さみしいの？
+　不満なの？
++[FID:7C, TEXT:0026] 　感到寂寞吗？
++[FID:7C, TEXT:0027] 　感到不满吗？
+
+--- Group 23 [left:none next=0023] ---
+　さみしいですか？
+　不満なんですか？
++[FID:7C, TEXT:0028] 　感到寂寞吗？
++[FID:7C, TEXT:0029] 　感到不满吗？
+
+--- Group 24 [left:none next=0023] ---
+さみしいんだ？
++[FID:7C, TEXT:002A] 感到寂寞？
+
+--- Group 25 [left:none next=0023] ---
+さみしいのか？
++[FID:7C, TEXT:002B] 感到寂寞？
+
+--- Group 26 [left:none next=0023] ---
+さみしいの？
++[FID:7C, TEXT:002C] 感到寂寞吗？
+
+--- Group 27 [left:none next=0023] ---
+さみしいですか？
++[FID:7C, TEXT:002D] 感到寂寞吗？
+
+--- Group 28 [right:none next=2012] ---
+ななな、なっ・・・
+なに言ってんのよ！？
++[FID:7C, TEXT:002E] 什、什么……
++[FID:7C, TEXT:002F] 你在说什么啊！？
+
+--- Group 29 [right:none next=2012] ---
+ちっちゃな子じゃない
+んだし、そんなことあ
+るわけないでしょ！？
++[FID:7C, TEXT:0030] 我又不是小孩子，怎么
++[FID:7C, TEXT:0031] 可能会那样呢！？
++[FID:7C, TEXT:0032] 
+
+--- Group 30 [left:none next=0023] ---
+そのわりには、ムキ
+になってるが・・・
++[FID:7C, TEXT:0033] 这么说来，你倒是
++[FID:7C, TEXT:0035] 挺激动的嘛……
+
+--- Group 31 [left:none next=0023] ---
+そのわりには、ムキ
+になってるよな・・・
+-[FID:7C, TEXT:0033] 这么说来，你倒是
++[FID:7C, TEXT:0034] 挺激动的嘛……
+
+--- Group 32 [left:none next=0023] ---
+あははっ、図星だね
+これは・・・
++[FID:7C, TEXT:0036] 啊哈哈，说中了吧
++[FID:7C, TEXT:0037] 这……
+
+--- Group 33 [left:none next=0023] ---
+ふふっ、そういうこと
+にしておきましょうか
++[FID:7C, TEXT:0038] 呵呵，就这么说吧。好
++[FID:7C, TEXT:0039] 吗？
+
+--- Group 34 [left:none next=0023] ---
+不満なのか？
++[FID:7C, TEXT:003A] 感到不满？
+
+--- Group 35 [left:none next=0023] ---
+不満なの？
++[FID:7C, TEXT:003B] 感到不满吗？
+
+--- Group 36 [left:none next=0023] ---
+不満なのですか？
++[FID:7C, TEXT:003C] 感到不满吗？
+
+--- Group 37 [right:none next=2012] ---
+不満っていうより
+不安かな・・・
++[FID:7C, TEXT:003D] 与其说是感到不满，
++[FID:7C, TEXT:003E] 不如说是感到不安……
+
+--- Group 38 [right:none next=2012] ---
+アタシがいなくてもさ
+お師匠は自分で何でも
+できちゃうんだよね
++[FID:7C, TEXT:003F] 就算没有我，师傅也能
++[FID:7C, TEXT:0040] 自己做所有事情呢。
++[FID:7C, TEXT:0041] 
+
+--- Group 39 [right:none next=2012] ---
+わかってたつもりだっ
+たんだけどね、なんか
+実感しちゃうとさ
++[FID:7C, TEXT:0042] 我以为自己明白的，但
++[FID:7C, TEXT:0043] 是，当真切感受到的时
++[FID:7C, TEXT:0044] 候……
+
+--- Group 40 [right:none next=2012] ---
+アタシって、やっぱり
+お師匠のお荷物なのか
+なって思っちゃうよ
++[FID:7C, TEXT:0045] 我是不是，果然还是师
++[FID:7C, TEXT:0046] 傅的累赘呢，我会这么
++[FID:7C, TEXT:0047] 想哦。
+
+--- Group 41 [right:主人公 next=0023] ---
+アカネ・・・
++[FID:7C, TEXT:0048] アカネ……
+
+--- Group 42 [left:none next=0023] ---
+アカネ・・・
+-[FID:7C, TEXT:0048] アカネ……
+
+--- Group 43 [right:none next=2012] ---
+まあ、そのおかげで
+アンタたちのところに
+顔が出せるんだけどね
++[FID:7C, TEXT:0049] 嘛，也因为这样，
++[FID:7C, TEXT:004A] 我才能到你们那儿露面
++[FID:7C, TEXT:004B] 啊。
+
+--- Group 44 [left:none next=0023] ---
+そうだな
++[FID:7C, TEXT:004C] 是啊。
+
+--- Group 45 [left:none next=0023] ---
+うん、そうだね
++[FID:7C, TEXT:004D] 嗯，是啊。
+
+--- Group 46 [left:none next=0023] ---
+そうですね
++[FID:7C, TEXT:004E] 是啊。
+
+--- Group 47 [right:none next=2012] ---
+って、しゃべってたら
+もうお店の前だ
++[FID:7C, TEXT:004F] 哎呀，说着说着，就到
++[FID:7C, TEXT:0050] 店门口了。
+
+--- Group 48 [right:none next=2012] ---
+ううっ、やっぱ不安だ
+なぁ・・・
++[FID:7C, TEXT:0051] 呜呜，果然还是不安啊
++[FID:7C, TEXT:0052] ……
+
+--- Group 49 [left:none next=0023] ---
+おいおい、今さら
+逃げ出すなよ
++[FID:7C, TEXT:0053] 喂喂，都这个时候
++[FID:7C, TEXT:0054] 了，别想逃啊。
+
+--- Group 50 [left:none next=0023] ---
+おいおい、今さら逃げ
+出すんじゃないぞ
++[FID:7C, TEXT:0055] 喂喂，都这个时候了，
++[FID:7C, TEXT:0056] 别想逃走啊。
+
+--- Group 51 [left:none next=0023] ---
+コラコラ、今さら逃げ
+たりしないでよ？
++[FID:7C, TEXT:0057] 喂喂，都这个时候了，
++[FID:7C, TEXT:0058] 别逃走啊？
+
+--- Group 52 [left:none next=0023] ---
+心配しなくても大丈夫
+ですよ
++[FID:7C, TEXT:0059] 别担心，没事的。
++[FID:7C, TEXT:005A] 
+
+--- Group 53 [right:none next=2012] ---
+わ、わかってるって！
++[FID:7C, TEXT:005B] 我、我知道啦！
+
+--- Group 54 [left:茜 next=2012] ---
+お、お師匠・・・
++[FID:7C, TEXT:005C] 师、师傅……
+
+--- Group 55 [right:none next=2012] ---
+お、お師匠・・・
+アカネ、ただいま戻り
+ましたぁっ！
+-[FID:7C, TEXT:005C] 师、师傅……
++[FID:7C, TEXT:005D] アカネ，我回来啦！（
++[FID:7C, TEXT:005E] 大声）
+
+--- Group 56 [right:none next=2012] ---
+おや、アカネさん
+お帰りなさい
++[FID:7C, TEXT:005F] 哦，アカネ小姐，
++[FID:7C, TEXT:0060] 欢迎回来。
+
+--- Group 57 [right:none next=2012] ---
+何日ぶりですかね？
++[FID:7C, TEXT:0061] 是几天没回来呢？
+
+--- Group 58 [left:none next=2012] ---
+あ、あのっ！
+これには、それなりの
+理由というものがあり
+まして・・・
++[FID:7C, TEXT:0062] 那个、那个！
++[FID:7C, TEXT:0063] 这件事，是有相当的理
++[FID:7C, TEXT:0064] 由的，所以……
++[FID:7C, TEXT:0065] 
+
+--- Group 59 [left:主人公 next=0023] ---
+彼女が帰れなかったの
+は、あたしたちを手伝
+ってくれていたから
+なんです
++[FID:7C, TEXT:0066] 她之所以没能回来，是
++[FID:7C, TEXT:006B] 因为在帮助我们，所以
++[FID:7C, TEXT:006C] 才……
++[FID:7C, TEXT:0069] 
+
+--- Group 60 [left:主人公 next=0023] ---
+彼女が帰れなかったの
+は、僕たちの手伝いを
+してくれていたから
+なんです
+-[FID:7C, TEXT:0066] 她之所以没能回来，是
++[FID:7C, TEXT:006A] 因为在帮助我们，所以
++[FID:7C, TEXT:0068] 才……
+-[FID:7C, TEXT:0069] 
+
+--- Group 61 [left:主人公 next=0023] ---
+彼女が帰れなかったの
+は、俺たちの手伝いを
+してくれていたから
+なんです
+-[FID:7C, TEXT:0066] 她之所以没能回来，是
++[FID:7C, TEXT:0067] 因为在帮助我们，所以
+-[FID:7C, TEXT:0068] 才……
+-[FID:7C, TEXT:0069] 
+
+--- Group 62 [left:主人公 next=0023] ---
+アカネさんは私たちを
+手伝ってくれたせいで
+帰れなかったんです
++[FID:7C, TEXT:006D] 因为アカネ小姐帮助了
++[FID:7C, TEXT:006E] 我们，所以才没能回来
++[FID:7C, TEXT:006F] 。
+
+--- Group 63 [right:none next=2012] ---
+ほう？
++[FID:7C, TEXT:0070] 哦？
+
+--- Group 64 [left:茜 next=2012] ---
+そそっ、そうなんです
+お師匠っ！
++[FID:7C, TEXT:0071] 是、是的！师傅！
++[FID:7C, TEXT:0072] 
+
+--- Group 65 [left:茜 next=2012] ---
+お手伝いについ夢中に
+なっちゃって、それで
+こんなことに・・・
++[FID:7C, TEXT:0073] 我一不小心就沉迷于帮
++[FID:7C, TEXT:0074] 忙了，然后就变成了这
++[FID:7C, TEXT:0075] 样……
+
+--- Group 66 [left:茜 next=2012] ---
+ごめんなさいっ！！
++[FID:7C, TEXT:0076] 对不起！！
+
+--- Group 67 [left:主人公 next=0023] ---
+本当にすいません
++[FID:7C, TEXT:0077] 非常抱歉。
+
+--- Group 68 [left:主人公 next=0023] ---
+すいませんでした
++[FID:7C, TEXT:0078] 非常抱歉。
+
+--- Group 69 [right:none next=2012] ---
+そういうことなら
+仕方がないでしょうね
++[FID:7C, TEXT:0079] 如果是那样的话，
++[FID:7C, TEXT:007A] 也是没办法的事吧。
+
+--- Group 70 [right:none next=2012] ---
+しかし、アカネさんが
+お手伝いに夢中になる
+とは驚きですねえ
++[FID:7C, TEXT:007B] 不过，アカネ小姐会沉
++[FID:7C, TEXT:007C] 迷于帮忙，真是令人惊
++[FID:7C, TEXT:007D] 讶啊。
+
+--- Group 71 [left:茜 next=2012] ---
+あ、あはははっ
++[FID:7C, TEXT:007E] 啊，啊哈哈哈哈！
+
+--- Group 72 [right:none next=2012] ---
+もっとも、お手伝いの
+内容が・・・
++[FID:7C, TEXT:007F] 不过，帮忙的内容如果
++[FID:7C, TEXT:0080] 是……
+
+--- Group 73 [right:none next=2012] ---
+戦いだというのなら、
+それも当然ですがね
++[FID:7C, TEXT:0081] 如果是战斗的话，那也
++[FID:7C, TEXT:0082] 是理所当然的了。
+
+--- Group 74 [left:茜 next=2012] ---
+・・・！！
++[FID:7C, TEXT:0083] ・・・！！
+
+--- Group 75 [left:主人公 next=0023] ---
+シオンさん・・・
+知っていたんですか？
++[FID:7C, TEXT:0084] シオン先生……
++[FID:7C, TEXT:0086] 您知道吗？
+
+--- Group 76 [left:主人公 next=0023] ---
+シオンさん・・・
+知ってたんですか？
+-[FID:7C, TEXT:0084] シオン先生……
++[FID:7C, TEXT:0085] 您知道吗？
+
+--- Group 77 [left:主人公 next=0023] ---
+シオンさん・・・
+知ってらしたんですか
+-[FID:7C, TEXT:0084] シオン先生……
++[FID:7C, TEXT:0087] 您知道吗？
+
+--- Group 78 [right:none next=2012] ---
+出かけるたびに生傷が
+増えていたり
+さぼっていた稽古を
+急にやり始めたり
++[FID:7C, TEXT:0088] 每次出门，伤痕都会增
++[FID:7C, TEXT:0089] 加，
++[FID:7C, TEXT:008A] 还有突然开始练习
++[FID:7C, TEXT:008B] 之前偷懒的训练，
+
+--- Group 79 [right:none next=2012] ---
+気になったのでね
+こっそり、様子を見せ
+てもらっていたんです
++[FID:7C, TEXT:008C] 我觉得很在意，
++[FID:7C, TEXT:008D] 就偷偷地，观察了她的
++[FID:7C, TEXT:008E] 情况。
+
+--- Group 80 [right:none next=2012] ---
+アカネさん
+この世界に来た時に、
+私は言いましたよね？
++[FID:7C, TEXT:008F] アカネ小姐，
++[FID:7C, TEXT:0090] 来到这个世界的时候，
++[FID:7C, TEXT:0091] 我不是说过吗？
+
+--- Group 81 [right:none next=2012] ---
+私たちの忍者としての
+力は、隠していかねば
+ならないものだと
++[FID:7C, TEXT:0092] 我们作为忍者的力量，
++[FID:7C, TEXT:0093] 必须隐藏起来。
++[FID:7C, TEXT:0094] 
+
+--- Group 82 [left:茜 next=2012] ---
+はい・・・
++[FID:7C, TEXT:0095] 是的……
+
+--- Group 83 [left:主人公 next=0023] ---
+待ってください！
+アカネはただ、僕たち
+を助けようとして
+くれただけで・・・
++[FID:7C, TEXT:0096] 请等一下！
++[FID:7C, TEXT:009A] 阿卡内只是想帮助我们
++[FID:7C, TEXT:0098] 而已
++[FID:7C, TEXT:0099] 呢……
+
+--- Group 84 [left:主人公 next=0023] ---
+待ってください！
+アカネはただ、俺たち
+を助けようとして
+くれただけで・・・
+-[FID:7C, TEXT:0096] 请等一下！
++[FID:7C, TEXT:0097] 阿卡内只是想帮助我们
+-[FID:7C, TEXT:0098] 而已
+-[FID:7C, TEXT:0099] 呢……
+
+--- Group 85 [left:主人公 next=0023] ---
+待ってください！
+彼女はただ、私たちを
+助けようとしてくれた
+だけで・・・
+-[FID:7C, TEXT:0096] 请等一下！
++[FID:7C, TEXT:009F] 她只是想帮助我们而已
++[FID:7C, TEXT:009D] 呢……
++[FID:7C, TEXT:009E] 
+
+--- Group 86 [left:主人公 next=0023] ---
+ちょっと待ってよ！
+彼女はあたしたちを
+助けようとしてくれた
+だけで・・・
++[FID:7C, TEXT:009B] 稍微等一下！
++[FID:7C, TEXT:009C] 她只是想帮助
+-[FID:7C, TEXT:009D] 我们而已呢……
+-[FID:7C, TEXT:009E] 
+
+--- Group 87 [right:none next=2012] ---
+わかっています
+だから今までは、私も
+気がつかないふりをし
+てきました
++[FID:7C, TEXT:00A0] 我明白。
++[FID:7C, TEXT:00A1] 所以到目前为止，我也
++[FID:7C, TEXT:00A2] 一直假装没看见。
++[FID:7C, TEXT:00A3] 
+
+--- Group 88 [right:none next=2012] ---
+ですが、黙っていられ
+るのもここまでです
++[FID:7C, TEXT:00A4] 但是，能保持沉默的时
++[FID:7C, TEXT:00A5] 间也到此为止了。
+
+--- Group 89 [right:none next=2012] ---
+ここから先の戦いは、
+本当に命がけのものに
+なるでしょう
++[FID:7C, TEXT:00A6] 从这里开始的战斗，将
++[FID:7C, TEXT:00A7] 会是真正豁出性命的战
++[FID:7C, TEXT:00A8] 斗吧。
+
+--- Group 90 [right:none next=2012] ---
+中途半端な気持ちでは
+あなたたちに迷惑をか
+けるだけです
++[FID:7C, TEXT:00A9] 如果没有觉悟，只是会
++[FID:7C, TEXT:00AA] 给你们添麻烦而已。
++[FID:7C, TEXT:00AB] 
+
+--- Group 91 [right:none next=2012] ---
+そして忍びが命をかけ
+て戦うのは、それだけ
+の価値を認めた主君の
+ため・・・
++[FID:7C, TEXT:00AC] 而忍者拼上性命去战斗
++[FID:7C, TEXT:00AD] ，是为了那个值得他们
++[FID:7C, TEXT:00AE] 付出一切的君主……
++[FID:7C, TEXT:00AF] 
+
+--- Group 92 [right:none next=2012] ---
+我が弟子、アカネよ
+お前はこの人のために
+命をかけて戦う覚悟が
+あるのか！？
++[FID:7C, TEXT:00B0] 我的弟子，阿卡内啊，
++[FID:7C, TEXT:00B1] 你是否有为了这个人豁
++[FID:7C, TEXT:00B2] 出性命去战斗的觉悟！
++[FID:7C, TEXT:00B3] ？
+
+--- Group 93 [left:茜 next=2012] ---
+アタシは・・・
++[FID:7C, TEXT:00B4] 我……
+
+--- Group 94 [left:茜 next=2012] ---
+覚悟とか、主君とか、
+そんなこと考えたこと
+もない、けど・・・
++[FID:7C, TEXT:00B5] 觉悟什么的，君主什么
++[FID:7C, TEXT:00B6] 的，我从来没有考虑过
++[FID:7C, TEXT:00B7] 这些，但是……
+
+--- Group 95 [left:茜 next=2012] ---
+アタシはっ
+@ n 
+好きだって思ってる！
++[FID:7C, TEXT:00B8] 我啊！
++[FID:7C, TEXT:00B9] @ n 
++[FID:7C, TEXT:00BA] 我喜欢他们！
+
+--- Group 96 [left:茜 next=2012] ---
+あの場所にいるみんな
+のことが好き・・・
+みんな、アタシの大切
+な仲間なんだっ！！
++[FID:7C, TEXT:00BB] 我喜欢在那个地方的大
++[FID:7C, TEXT:00BC] 家……
++[FID:7C, TEXT:00BD] 大家都是我重要的伙伴
++[FID:7C, TEXT:00BE] 啊！！
+
+--- Group 97 [left:茜 next=2012] ---
+それを守るためなら、
+アタシは自分の全てを
+賭けたっていい
++[FID:7C, TEXT:00BF] 如果是为了守护他们，
++[FID:7C, TEXT:00C0] 我可以赌上我的一切！
++[FID:7C, TEXT:00C1] 
+
+--- Group 98 [right:希翁 next=2012] ---
+なるほど・・・それが
+アカネという
+くのいちが
+見つけた答えですか
++[FID:7C, TEXT:00C2] 原来如此……这就是阿
++[FID:7C, TEXT:00C3] 卡内这个
++[FID:7C, TEXT:00C4] 女忍
++[FID:7C, TEXT:00C5] 所找到的答案吗？
+
+--- Group 99 [right:希翁 next=2012] ---
+その決意がどれほどの
+ものか、この私に見せ
+てもらいましょう！
++[FID:7C, TEXT:00C6] 你的这份决心有多大分
++[FID:7C, TEXT:00C7] 量，就让我来好好见识
++[FID:7C, TEXT:00C8] 一下吧！

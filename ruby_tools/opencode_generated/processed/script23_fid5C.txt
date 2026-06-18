@@ -1,0 +1,549 @@
+--- Group 1 [right:主人公 next=2012] ---
+さあ、ここが俺たちの
+隠れ家だ
++[FID:5C, TEXT:0001] 好了，这里就是我们的
++[FID:5C, TEXT:0002] 秘密基地。
+
+--- Group 2 [right:瞪羚 next=2012] ---
+さあ、ここが俺たちの
+隠れ家だ
+-[FID:5C, TEXT:0001] 好了，这里就是我们的
+-[FID:5C, TEXT:0002] 秘密基地。
+
+--- Group 3 [left:none next=0023] ---
+え、でも・・・
+ここは酒場じゃ
+ないんですか？
++[FID:5C, TEXT:0003] 诶，但是……
++[FID:5C, TEXT:0007] 这里不是酒馆吗？
++[FID:5C, TEXT:0008] 
+
+--- Group 4 [left:none next=0023] ---
+え、でも・・・
+ここは酒場じゃ？
+-[FID:5C, TEXT:0003] 诶，但是……
++[FID:5C, TEXT:0004] 这里不是酒馆吗？
+
+--- Group 5 [left:none next=0023] ---
+え、でも・・・
+ここは酒場じゃ？
+-[FID:5C, TEXT:0003] 诶，但是……
+-[FID:5C, TEXT:0004] 这里不是酒馆吗？
+
+--- Group 6 [left:none next=0023] ---
+・・・ここ
+お酒のむとこじゃん
++[FID:5C, TEXT:0005] ……这里
++[FID:5C, TEXT:0006] 是喝酒的地方吧。
+
+--- Group 7 [right:瞪羚 next=2012] ---
+表向きは酒場ってこと
+になってるだけさ
+なんせ、隠れ家なんだ
+からな
++[FID:5C, TEXT:0009] 只是表面上说是酒馆而
++[FID:5C, TEXT:000A] 已。
++[FID:5C, TEXT:000B] 毕竟，这里是秘密基地
++[FID:5C, TEXT:000C] 。
+
+--- Group 8 [right:主人公 next=2012] ---
+表向きは酒場ってこと
+になってるだけさ
+なんせ、隠れ家なんだ
+からな
+-[FID:5C, TEXT:0009] 只是表面上说是酒馆而
+-[FID:5C, TEXT:000A] 已。
+-[FID:5C, TEXT:000B] 毕竟，这里是秘密基地
+-[FID:5C, TEXT:000C] 。
+
+--- Group 9 [right:主人公 next=2012] ---
+さ、入るぜ？
++[FID:5C, TEXT:000D] 走，进去吧？
+
+--- Group 10 [right:瞪羚 next=2012] ---
+さ、入るぜ？
+-[FID:5C, TEXT:000D] 走，进去吧？
+
+--- Group 11 [left:雷德 next=2012] ---
+ああ・・・
++[FID:5C, TEXT:000E] 嗯……
+
+--- Group 12 [left:雷德 next=2012] ---
+ああ・・・
+-[FID:5C, TEXT:000E] 嗯……
+
+--- Group 13 [right:瞪羚 next=2012] ---
+おかえりなさい
+スタウト
++[FID:5C, TEXT:000F] 欢迎回来，
++[FID:5C, TEXT:0010] 斯塔乌特。
+
+--- Group 14 [right:主人公 next=2012] ---
+おかえりなさい
+スタウト
+-[FID:5C, TEXT:000F] 欢迎回来，
+-[FID:5C, TEXT:0010] 斯塔乌特。
+
+--- Group 15 [right:塞西尔 next=2012] ---
+そっちの
+お嬢さんは？
++[FID:5C, TEXT:0012] 那边的
++[FID:5C, TEXT:0013] 小姐是？
+
+--- Group 16 [left:none next=2012] ---
+うーん、こちらさんの
+保護者みたいなもんだ
++[FID:5C, TEXT:0014] 嗯，她算是这里的监护
++[FID:5C, TEXT:0015] 人吧。
+
+--- Group 17 [left:主人公 next=0023] ---
+保護者って・・・
++[FID:5C, TEXT:0016] 监护人……？
+
+--- Group 18 [left:主人公 next=0023] ---
+保護者って・・・
+レイドさんに
+失礼なんじゃ・・・
+-[FID:5C, TEXT:0016] 监护人……？
++[FID:5C, TEXT:0018] 对雷德先生
++[FID:5C, TEXT:0019] 这样说不太好吧……
+
+--- Group 19 [left:主人公 next=0023] ---
+どこが保護者よ・・・
++[FID:5C, TEXT:0017] 哪里是监护人了……
+
+--- Group 20 [left:雷德 next=2012] ---
+ラムダは？
++[FID:5C, TEXT:001A] 拉姆达呢？
+
+--- Group 21 [right:塞西尔 next=2012] ---
+ラムダ様は奥にいます
+私が案内しましょう
++[FID:5C, TEXT:001B] 拉姆达大人在里面。我
++[FID:5C, TEXT:001C] 来带您过去吧。
+
+--- Group 22 [right:塞西尔 next=2012] ---
+おっと、嬢ちゃん
+悪いが旦那はレイドと
+二人っきりが望みだ
++[FID:5C, TEXT:0020] 哎呀，小姑娘，
++[FID:5C, TEXT:001E] 抱歉了，不过这位先生
++[FID:5C, TEXT:001F] 只想和雷德单独谈谈。
+
+--- Group 23 [right:塞西尔 next=2012] ---
+話が終わるまで、
+ここで俺たちと
+待っていてくれよな
++[FID:5C, TEXT:0021] 在谈话结束之前，
++[FID:5C, TEXT:0022] 请在这里和我们
++[FID:5C, TEXT:0023] 一起等候吧。
+
+--- Group 24 [right:佩尔戈 next=2012] ---
+せっかく酒場に来たの
+ですし、何か飲まれて
+はいかがです？
++[FID:5C, TEXT:0024] 既然都来到酒馆了，要
++[FID:5C, TEXT:0025] 不要喝点什么呢？
++[FID:5C, TEXT:0026] 
+
+--- Group 25 [left:none next=0023] ---
+お、お酒はちょっと
++[FID:5C, TEXT:0027] 呃，酒的话……
+
+--- Group 26 [left:none next=0023] ---
+いや、お酒は・・・
++[FID:5C, TEXT:0028] 不，酒的话……
+
+--- Group 27 [left:none next=0023] ---
+お酒は飲めないんです
++[FID:5C, TEXT:0029] 我不喝酒的。
+
+--- Group 28 [left:none next=0023] ---
+すいません
+飲めないもので・・・
++[FID:5C, TEXT:002A] 对不起，
++[FID:5C, TEXT:002B] 我不喝酒的……
+
+--- Group 29 [right:佩尔戈 next=2012] ---
+ははは、それでしたら
+果物のジュースを
+さしあげますよ
++[FID:5C, TEXT:002C] 哈哈，既然这样，就给
++[FID:5C, TEXT:002D] 您来杯水果汁吧。
++[FID:5C, TEXT:002E] 
+
+--- Group 30 [left:none next=2012] ---
+・・・
++[FID:5C, TEXT:002F] ……
+
+--- Group 31 [left:none next=0023] ---
+・・・
+沈黙は苦手なのに〜
+-[FID:5C, TEXT:002F] ……
++[FID:5C, TEXT:0032] 我不太擅长沉默啊~
+
+--- Group 32 [left:none next=2012] ---
+・・・・・・・
++[FID:5C, TEXT:0030] ……
+
+--- Group 33 [left:none next=0023] ---
+・・・・・・・
+-[FID:5C, TEXT:0030] ……
+
+--- Group 34 [left:none next=0023] ---
+・・・沈黙がつらい
++[FID:5C, TEXT:0031] ……沉默好难受。
+
+--- Group 35 [left:none next=0023] ---
+・・・・・・・・・・
+・・・長い沈黙・・・
++[FID:5C, TEXT:0033] …………漫长的沉默…
++[FID:5C, TEXT:0034] …
+
+--- Group 36 [right:斯塔乌特 next=2012] ---
+おい、ちっとは俺たち
+を信用しろよ？
++[FID:5C, TEXT:0035] 喂，多少也信用我们一
++[FID:5C, TEXT:0036] 点吧？
+
+--- Group 37 [right:塞西尔 next=2012] ---
+そんなに私たちって
+こわいかしら？
++[FID:5C, TEXT:0037] 我们有那么可怕吗？
++[FID:5C, TEXT:0038] 
+
+--- Group 38 [left:none next=0023] ---
+え、ええっと・・・
++[FID:5C, TEXT:0039] 呃，那个……
+
+--- Group 39 [left:none next=0023] ---
+いや、そういうわけで
+はないけど・・・
++[FID:5C, TEXT:003A] 不，不是那个意思，只
++[FID:5C, TEXT:003B] 是……
+
+--- Group 40 [left:none next=0023] ---
+ちょっと・・・
++[FID:5C, TEXT:003C] 只是……
+
+--- Group 41 [left:none next=0023] ---
+あ、いえ、そういう
+わけじゃなくて
++[FID:5C, TEXT:003D] 啊，不，不是那个意思
++[FID:5C, TEXT:003E] ，
+
+--- Group 42 [right:佩尔戈 next=2012] ---
+せっかくの機会です
+そう警戒せず、
+世間話でもしましょう
++[FID:5C, TEXT:003F] 这是个难得的机会，
++[FID:5C, TEXT:0040] 别那么警戒了，
++[FID:5C, TEXT:0041] 聊聊天吧。
+
+--- Group 43 [left:none next=0023] ---
+そうだよな・・・
+こんなチャンス、
+もう二度とないかも
+しれないし・・・
++[FID:5C, TEXT:0042] 是啊……
++[FID:5C, TEXT:0043] 这样的机会，
++[FID:5C, TEXT:0044] 可能再也不会有了……
++[FID:5C, TEXT:0045] 
+
+--- Group 44 [left:none next=2012] ---
+そうだ、この機会に彼
+らのことを知っておく
+必要はあるかも
+しれないな
++[FID:5C, TEXT:0046] 对了，趁这个机会了解
++[FID:5C, TEXT:0047] 一下他们也许是必要的
++[FID:5C, TEXT:0048] 。
++[FID:5C, TEXT:0049] 
+
+--- Group 45 [left:none next=0023] ---
+彼らとどうなるにしろ
+きっと役に立つはずだ
++[FID:5C, TEXT:004A] 不管以后会怎么样，了
++[FID:5C, TEXT:004B] 解他们肯定会有帮助的
+-[FID:5C, TEXT:004B] 。
+
+--- Group 46 [left:none next=0023] ---
+あ、確かに・・・
+こんなチャンス、
+もう二度とないかも
+しれないし・・・
++[FID:5C, TEXT:004C] 啊，确实……
+-[FID:5C, TEXT:0043] 这样的机会，
+-[FID:5C, TEXT:0044] 可能再也不会有了……
+-[FID:5C, TEXT:0045] 
+
+--- Group 47 [left:none next=0023] ---
+そういえば・・・
+こんなチャンス、
+もう二度とないかも
+しれないし・・・
++[FID:5C, TEXT:004D] 说起来……
+-[FID:5C, TEXT:0043] 这样的机会，
+-[FID:5C, TEXT:0044] 可能再也不会有了……
+-[FID:5C, TEXT:0045] 
+
+--- Group 48 [left:none next=2015] ---
+どうしよう？
+　世間話をする
+　質問をしてみる
++[FID:5C, TEXT:004E] 怎么办？
++[FID:5C, TEXT:004F] 　聊聊天
++[FID:5C, TEXT:0050] 　问些问题
+
+--- Group 49 [left:none next=0023] ---
+ここって、本当に酒場
+なんですか？
++[FID:5C, TEXT:0051] 这里，真的是酒馆吗？
++[FID:5C, TEXT:0052] 
+
+--- Group 50 [left:none next=0023] ---
+この酒場、本当に営業
+しているんですか？
++[FID:5C, TEXT:0053] 这家酒馆，真的在营业
++[FID:5C, TEXT:0054] 吗？
+
+--- Group 51 [right:佩尔戈 next=2012] ---
+ええ、そうですよ
+ちゃんと営業して
+います
++[FID:5C, TEXT:0055] 是的，当然。
++[FID:5C, TEXT:0056] ちゃんと営業して
++[FID:5C, TEXT:0057] います
+
+--- Group 52 [right:佩尔戈 next=2012] ---
+もっとも、私が一人で
+やっているようなもの
+ですけどね
++[FID:5C, TEXT:0058] 不过，基本上都是我一
++[FID:5C, TEXT:0059] 个人在经营就是了。
++[FID:5C, TEXT:005A] 
+
+--- Group 53 [left:none next=2012] ---
+えっ？
++[FID:5C, TEXT:005B] 诶？
+
+--- Group 54 [right:斯塔乌特 next=2012] ---
+酒も料理も、ペルゴの
+奴のお手製なのさ
++[FID:5C, TEXT:005C] 无论是酒还是料理，都
++[FID:5C, TEXT:005D] 是佩尔戈这家伙做的。
+
+--- Group 55 [right:佩尔戈 next=2012] ---
+大したものじゃ
+ありませんよ
++[FID:5C, TEXT:005E] 没什么了不起的。
++[FID:5C, TEXT:005F] 
+
+--- Group 56 [left:塞西尔 next=2012] ---
+そう言い切られると、
+私の立場がなくなっち
+ゃうじゃない？
++[FID:5C, TEXT:0060] 你这么说，我不就没面
++[FID:5C, TEXT:0061] 子了吗？
++[FID:5C, TEXT:0062] 
+
+--- Group 57 [right:佩尔戈 next=2012] ---
+おや、これは失敬
++[FID:5C, TEXT:0063] 哎呀，失礼了。
+
+--- Group 58 [left:none next=0023] ---
+みなさんは、どうして
+アキュートに来ること
+になったんですか？
++[FID:5C, TEXT:0064] 你们是怎么来到阿库特
++[FID:5C, TEXT:0065] 的呢？
++[FID:5C, TEXT:0066] 
+
+--- Group 59 [left:none next=0023] ---
+なんで、みなさんは
+アキュートに来ること
+になったんですか？
++[FID:5C, TEXT:0067] 为什么，你们
+-[FID:5C, TEXT:0065] 来到阿库特的呢？
+-[FID:5C, TEXT:0066] 
+
+--- Group 60 [right:斯塔乌特 next=2012] ---
+・・・そう来たか
+ったく、物好きな
+嬢ちゃんだぜ
++[FID:5C, TEXT:0068] ……这么问啊。
++[FID:5C, TEXT:0069] 真是的，真是个
++[FID:5C, TEXT:006B] 好奇心旺盛的小姑娘。
+
+--- Group 61 [right:佩尔戈 next=2012] ---
+私はもともとラムダ様
+の部下だったんです
++[FID:5C, TEXT:006C] 我原本是拉姆达大人的
++[FID:5C, TEXT:006D] 部下。
+
+--- Group 62 [right:佩尔戈 next=2012] ---
+彼が騎士団を追放され
+た時、そのままついて
+きたのですよ
++[FID:5C, TEXT:006E] 他被骑士团放逐的时候
++[FID:5C, TEXT:006F] ，我就跟着他一起来了
++[FID:5C, TEXT:0070] 。
+
+--- Group 63 [right:斯塔乌特 next=2012] ---
+俺は・・・
+拾われたんだよ
++[FID:5C, TEXT:0071] 我嘛……
++[FID:5C, TEXT:0072] 被捡来的。
+
+--- Group 64 [left:none next=0023] ---
+拾われた？
++[FID:5C, TEXT:0073] 被捡来的？
+
+--- Group 65 [left:none next=0023] ---
+拾われたって？
++[FID:5C, TEXT:0074] 被捡来的？
+
+--- Group 66 [left:none next=0023] ---
+拾われた・・・？
++[FID:5C, TEXT:0075] 被捡来的……？
+
+--- Group 67 [right:斯塔乌特 next=2012] ---
+ああ、みっともねえが
+酒浸りになっていたの
+を旦那に拾われたのさ
++[FID:5C, TEXT:0076] 嗯，虽然很丢人，但我
++[FID:5C, TEXT:0077] 当时酗酒成性，被老板
++[FID:5C, TEXT:0078] 捡回来了。
+
+--- Group 68 [right:塞西尔 next=2012] ---
+私は・・・
++[FID:5C, TEXT:0079] 我是……
+
+--- Group 69 [right:斯塔乌特 next=2012] ---
+セシルはな、看護婦さ
++[FID:5C, TEXT:007A] 塞西尔啊，是护士。
+
+--- Group 70 [left:none next=0023] ---
+ええっ！？
++[FID:5C, TEXT:007B] 诶！？
+
+--- Group 71 [left:none next=0023] ---
+えっ！？
++[FID:5C, TEXT:007C] 诶！？
+
+--- Group 72 [left:none next=0023] ---
+はい？
++[FID:5C, TEXT:007D] 啥？
+
+--- Group 73 [left:none next=0023] ---
+看護婦さん！？
++[FID:5C, TEXT:007E] 护士！？
+
+--- Group 74 [right:塞西尔 next=2012] ---
+スタウト！
++[FID:5C, TEXT:007F] 斯塔乌特！
+
+--- Group 75 [right:斯塔乌特 next=2012] ---
+いいじゃねえか
+隠さなくたってよ
++[FID:5C, TEXT:0080] 没什么大不了的，
++[FID:5C, TEXT:0081] 没必要藏着掖着啊。
+
+--- Group 76 [right:佩尔戈 next=2012] ---
+正確には女医ですよ
+彼女はストラを学んだ
+優秀な女医なんです
++[FID:5C, TEXT:0082] 准确地说，是女医生。
++[FID:5C, TEXT:0083] 她学习了斯特拉，是位
++[FID:5C, TEXT:0084] 优秀的女医生。
+
+--- Group 77 [left:none next=0023] ---
+じゃあ、ラムダさんの
+目って、セシルさんが
+なおしたんですか？
++[FID:5C, TEXT:0085] 那么，拉姆达大人的眼
++[FID:5C, TEXT:0087] 睛，是塞西尔小姐治好
++[FID:5C, TEXT:0088] 的吗？
+
+--- Group 78 [left:none next=0023] ---
+じゃあ、ラムダさんの
+目を治したのは・・・
+-[FID:5C, TEXT:0085] 那么，治好拉姆达大人
++[FID:5C, TEXT:0086] 的眼睛的是……
+
+--- Group 79 [right:塞西尔 next=2012] ---
+そういうことよ
+ただし、治したって
+いうのは間違い
++[FID:5C, TEXT:0089] 是的。
++[FID:5C, TEXT:008A] 不过，“治好”这个说
++[FID:5C, TEXT:008B] 法
+-[FID:5C, TEXT:008B] 是不对的。
+
+--- Group 80 [right:塞西尔 next=2012] ---
+治してる、のよ
+今もね・・・
++[FID:5C, TEXT:008C] 我正在治，
++[FID:5C, TEXT:008D] 至今仍在……
+
+--- Group 81 [right:佩尔戈 next=2012] ---
+待たせたな
++[FID:5C, TEXT:008E] 让你久等了
+
+--- Group 82 [right:拉姆达 next=2012] ---
+待たせたな
+-[FID:5C, TEXT:008E] 让你久等了
+
+--- Group 83 [left:none next=2012] ---
+あ、いえ・・・
++[FID:5C, TEXT:008F] 啊，那个……
+
+--- Group 84 [left:none next=2012] ---
+あ、いえ・・・
+-[FID:5C, TEXT:008F] 啊，那个……
+
+--- Group 85 [right:雷德 next=2012] ---
+さあ、帰ろう
++[FID:5C, TEXT:0090] 好了，我们回去吧
+
+--- Group 86 [left:none next=0023] ---
+ラムダと、なんの話を
+したんですか？
++[FID:5C, TEXT:0091] 和拉姆达，是聊了什么
++[FID:5C, TEXT:0093] 呢？
+
+--- Group 87 [left:none next=0023] ---
+ラムダと、なんの話を
+したんです？
+-[FID:5C, TEXT:0091] 和拉姆达，是聊了什么
++[FID:5C, TEXT:0092] 呢？
+
+--- Group 88 [left:none next=0023] ---
+ラムダとは、何の話を
+したんですか？
++[FID:5C, TEXT:0094] 和拉姆达，是聊了什么
+-[FID:5C, TEXT:0093] 呢？
+
+--- Group 89 [left:none next=0023] ---
+ラムダさんとは、
+何のお話を？
++[FID:5C, TEXT:0095] 和拉姆达先生，
++[FID:5C, TEXT:0096] 是聊了什么事？
+
+--- Group 90 [right:雷德 next=2012] ---
+この前のこと、そして
+これからのことだよ
++[FID:5C, TEXT:0097] 关于之前的事，还有关
++[FID:5C, TEXT:0098] 于未来的事哦
+
+--- Group 91 [right:雷德 next=2012] ---
+もう、君たちが彼らと
+戦わなくてもいいよう
+に話をつけたんだ
++[FID:5C, TEXT:0099] 我已经跟他们谈好了，
++[FID:5C, TEXT:009A] 你们不用再和他们战斗
++[FID:5C, TEXT:009B] 了
+
+--- Group 92 [left:none next=2012] ---
+そう、ですか・・・
++[FID:5C, TEXT:009C] 是这样吗……

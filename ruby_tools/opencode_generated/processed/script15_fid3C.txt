@@ -1,0 +1,5757 @@
+--- Group 1 [left:主人公 next=0023] ---
+元の世界に戻る方法を
++[FID:3C, TEXT:0001] 回到原来的世界的方法
+
+--- Group 2 [left:主人公 next=0023] ---
+元の世界に戻る方法を
+-[FID:3C, TEXT:0001] 回到原来的世界的方法
+
+--- Group 3 [left:主人公 next=0023] ---
+元の世界に戻る方法を
+-[FID:3C, TEXT:0001] 回到原来的世界的方法
+
+--- Group 4 [left:主人公 next=2012] ---
+調べてくれてるけど
++[FID:3C, TEXT:0005] 虽然在帮忙调查
+
+--- Group 5 [left:主人公 next=2012] ---
+調べてくれてるけど
+-[FID:3C, TEXT:0005] 虽然在帮忙调查
+
+--- Group 6 [left:主人公 next=2012] ---
+調べてくれてるけど
+-[FID:3C, TEXT:0005] 虽然在帮忙调查
+
+--- Group 7 [left:主人公 next=2012] ---
+俺は本当に、このまま
+元の世界へ帰って
+いいんだろうか？
++[FID:3C, TEXT:0006] 我真的，就这样回到原
++[FID:3C, TEXT:0007] 来的世界
++[FID:3C, TEXT:0008] 就可以了吗？
+
+--- Group 8 [left:主人公 next=2012] ---
+
+--- Group 81 [left:主人公 next=0023] ---
+剣士が助けて
+くれたんです
++[FID:3C, TEXT:003C] 剑士大人救了我
++[FID:3C, TEXT:003D] 呢
+
+--- Group 82 [left:主人公 next=0023] ---
+剣士が助けて
+くれたんです
+-[FID:3C, TEXT:003C] 剑士大人救了我
+-[FID:3C, TEXT:003D] 呢
+
+--- Group 83 [left:none next=0023] ---
+剣士が助けて
+くれたんです
+-[FID:3C, TEXT:003C] 剑士大人救了我
+-[FID:3C, TEXT:003D] 呢
+
+--- Group 84 [left:none next=0023] ---
+剣士が助けて
+くれたんです
+-[FID:3C, TEXT:003C] 剑士大人救了我
+-[FID:3C, TEXT:003D] 呢
+
+--- Group 85 [left:none next=0023] ---
+剣士が助けて
+くれたんです
+-[FID:3C, TEXT:003C] 剑士大人救了我
+-[FID:3C, TEXT:003D] 呢
+
+--- Group 86 [left:none next=0023] ---
+すごく強い剣士さんが
+助けてくれたんです
++[FID:3C, TEXT:003E] 一位非常强大的剑士救
++[FID:3C, TEXT:003F] 了我呢
+
+--- Group 87 [left:none next=0023] ---
+すごく強い剣士さんが
+助けてくれたんです
+-[FID:3C, TEXT:003E] 一位非常强大的剑士救
+-[FID:3C, TEXT:003F] 了我呢
+
+--- Group 88 [left:none next=0023] ---
+すごく強い剣士さんが
+助けてくれたんです
+-[FID:3C, TEXT:003E] 一位非常强大的剑士救
+-[FID:3C, TEXT:003F] 了我呢
+
+--- Group 89 [left:主人公 next=0023] ---
+すごく強い剣士さんが
+助けてくれたんです
+-[FID:3C, TEXT:003E] 一位非常强大的剑士救
+-[FID:3C, TEXT:003F] 了我呢
+
+--- Group 90 [left:主人公 next=0023] ---
+すごく強い剣士さんが
+助けてくれたんです
+-[FID:3C, TEXT:003E] 一位非常强大的剑士救
+-[FID:3C, TEXT:003F] 了我呢
+
+--- Group 91 [right:char_0043 next=2012] ---
+ほう
++[FID:3C, TEXT:0040] 哦
+
+--- Group 92 [right:none next=2012] ---
+ほう
+-[FID:3C, TEXT:0040] 哦
+
+--- Group 93 [right:char_0041 next=2012] ---
+ほう
+-[FID:3C, TEXT:0040] 哦
+
+--- Group 94 [right:none next=2012] ---
+ほう
+-[FID:3C, TEXT:0040] 哦
+
+--- Group 95 [right:char_0041 next=2012] ---
+ほう
+-[FID:3C, TEXT:0040] 哦
+
+--- Group 96 [right:char_0043 next=2012] ---
+ほう
+-[FID:3C, TEXT:0040] 哦
+
+--- Group 97 [left:none next=0023] ---
+大きな剣の使い手で、
+すごく鋭い目をして
+いたのが印象的でした
++[FID:3C, TEXT:0041] 他是个用大剑的剑士，
++[FID:3C, TEXT:0044] 眼神非常锐利，
++[FID:3C, TEXT:0045] 给我留下了深刻的印象
+-[FID:3C, TEXT:0045] 。
+
+--- Group 98 [left:none next=0023] ---
+大きな剣の使い手で、
+すごく鋭い目を
+してたんですけど
+-[FID:3C, TEXT:0041] 他是个用大剑的剑士，
++[FID:3C, TEXT:0042] 眼神非常锐利，
++[FID:3C, TEXT:0043] 好像是这样呢…
+
+--- Group 99 [left:主人公 next=0023] ---
+大きな剣の使い手で、
+すごく鋭い目をしてた
+んですけど・・・
+-[FID:3C, TEXT:0041] 他是个用大剑的剑士，
++[FID:3C, TEXT:0046] 眼神非常锐利，好像是
++[FID:3C, TEXT:0047] 这样呢…
+
+--- Group 100 [left:主人公 next=0023] ---
+大きな剣の使い手で、
+すごく鋭い目をして
+いたのが印象的でした
+-[FID:3C, TEXT:0041] 他是个用大剑的剑士，
+-[FID:3C, TEXT:0044] 眼神非常锐利，
+-[FID:3C, TEXT:0045] 给我留下了深刻的印象
+-[FID:3C, TEXT:0045] 。
+
+--- Group 101 [left:none next=0023] ---
+大きな剣の使い手で、
+すごく鋭い目をして
+いたのが印象的でした
+-[FID:3C, TEXT:0041] 他是个用大剑的剑士，
+-[FID:3C, TEXT:0044] 眼神非常锐利，
+-[FID:3C, TEXT:0045] 给我留下了深刻的印象
+-[FID:3C, TEXT:0045] 。
+
+--- Group 102 [left:none next=0023] ---
+大きな剣の使い手で、
+すごく鋭い目をしてた
+んですけど・・・
+-[FID:3C, TEXT:0041] 他是个用大剑的剑士，
+-[FID:3C, TEXT:0046] 眼神非常锐利，好像是
+-[FID:3C, TEXT:0047] 这样呢…
+
+--- Group 103 [left:主人公 next=0023] ---
+大きな剣の使い手で、
+すごく鋭い目を
+してたんですけど
+-[FID:3C, TEXT:0041] 他是个用大剑的剑士，
+-[FID:3C, TEXT:0042] 眼神非常锐利，
+-[FID:3C, TEXT:0043] 好像是这样呢…
+
+--- Group 104 [left:主人公 next=0023] ---
+大きな剣の使い手で、
+すごく鋭い目を
+してたんですけど
+-[FID:3C, TEXT:0041] 他是个用大剑的剑士，
+-[FID:3C, TEXT:0042] 眼神非常锐利，
+-[FID:3C, TEXT:0043] 好像是这样呢…
+
+--- Group 105 [left:none next=0023] ---
+大きな剣の使い手で、
+すごく鋭い目を
+してたんですけど
+-[FID:3C, TEXT:0041] 他是个用大剑的剑士，
+-[FID:3C, TEXT:0042] 眼神非常锐利，
+-[FID:3C, TEXT:0043] 好像是这样呢…
+
+--- Group 106 [left:主人公 next=0023] ---
+大きな剣の使い手で、
+すごく鋭い目を
+してたんですけど
+-[FID:3C, TEXT:0041] 他是个用大剑的剑士，
+-[FID:3C, TEXT:0042] 眼神非常锐利，
+-[FID:3C, TEXT:0043] 好像是这样呢…
+
+--- Group 107 [left:none next=0023] ---
+大きな剣の使い手で、
+すごく鋭い目をしてた
+んですけど・・・
+-[FID:3C, TEXT:0041] 他是个用大剑的剑士，
+-[FID:3C, TEXT:0046] 眼神非常锐利，好像是
+-[FID:3C, TEXT:0047] 这样呢…
+
+--- Group 108 [left:none next=0023] ---
+大きな剣の使い手で、
+すごく鋭い目をして
+いたのが印象的でした
+-[FID:3C, TEXT:0041] 他是个用大剑的剑士，
+-[FID:3C, TEXT:0044] 眼神非常锐利，
+-[FID:3C, TEXT:0045] 给我留下了深刻的印象
+-[FID:3C, TEXT:0045] 。
+
+--- Group 109 [left:主人公 next=0023] ---
+大きな剣の使い手で、
+すごく鋭い目をしてた
+んですけど・・・
+-[FID:3C, TEXT:0041] 他是个用大剑的剑士，
+-[FID:3C, TEXT:0046] 眼神非常锐利，好像是
+-[FID:3C, TEXT:0047] 这样呢…
+
+--- Group 110 [left:主人公 next=0023] ---
+大きな剣の使い手で、
+すごく鋭い目をして
+いたのが印象的でした
+-[FID:3C, TEXT:0041] 他是个用大剑的剑士，
+-[FID:3C, TEXT:0044] 眼神非常锐利，
+-[FID:3C, TEXT:0045] 给我留下了深刻的印象
+-[FID:3C, TEXT:0045] 。
+
+--- Group 111 [left:none next=0023] ---
+大きな剣の使い手で、
+すごく鋭い目を
+してたんですけど
+-[FID:3C, TEXT:0041] 他是个用大剑的剑士，
+-[FID:3C, TEXT:0042] 眼神非常锐利，
+-[FID:3C, TEXT:0043] 好像是这样呢…
+
+--- Group 112 [left:none next=0023] ---
+大きな剣の使い手で、
+すごく鋭い目をしてた
+んですけど・・・
+-[FID:3C, TEXT:0041] 他是个用大剑的剑士，
+-[FID:3C, TEXT:0046] 眼神非常锐利，好像是
+-[FID:3C, TEXT:0047] 这样呢…
+
+--- Group 113 [left:none next=0023] ---
+大きな剣を持っていて
+すごく鋭い目をしてた
+んですけど・・・
++[FID:3C, TEXT:0048] 他带着一把大剑，眼神
+-[FID:3C, TEXT:0046] 非常锐利，好像是这样
+-[FID:3C, TEXT:0047] 呢…
+
+--- Group 114 [left:主人公 next=0023] ---
+大きな剣を持っていて
+すごく鋭い目をしてた
+んですけど・・・
+-[FID:3C, TEXT:0048] 他带着一把大剑，眼神
+-[FID:3C, TEXT:0046] 非常锐利，好像是这样
+-[FID:3C, TEXT:0047] 呢…
+
+--- Group 115 [left:none next=0023] ---
+大きな剣を持っていて
+すごく鋭い目をしてた
+んですけど・・・
+-[FID:3C, TEXT:0048] 他带着一把大剑，眼神
+-[FID:3C, TEXT:0046] 非常锐利，好像是这样
+-[FID:3C, TEXT:0047] 呢…
+
+--- Group 116 [left:none next=0023] ---
+大きな剣を持っていて
+すごく鋭い目をしてた
+んですけど・・・
+-[FID:3C, TEXT:0048] 他带着一把大剑，眼神
+-[FID:3C, TEXT:0046] 非常锐利，好像是这样
+-[FID:3C, TEXT:0047] 呢…
+
+--- Group 117 [left:主人公 next=0023] ---
+大きな剣を持っていて
+すごく鋭い目をしてた
+んですけど・・・
+-[FID:3C, TEXT:0048] 他带着一把大剑，眼神
+-[FID:3C, TEXT:0046] 非常锐利，好像是这样
+-[FID:3C, TEXT:0047] 呢…
+
+--- Group 118 [right:char_0041 next=2012] ---
+！？
++[FID:3C, TEXT:0049] ！？
+
+--- Group 119 [right:none next=2012] ---
+！？
+-[FID:3C, TEXT:0049] ！？
+
+--- Group 120 [right:char_0043 next=2012] ---
+！？
+-[FID:3C, TEXT:0049] ！？
+
+--- Group 121 [right:char_0043 next=2012] ---
+！？
+-[FID:3C, TEXT:0049] ！？
+
+--- Group 122 [left:主人公 next=0023] ---
+！？
+-[FID:3C, TEXT:0049] ！？
+
+--- Group 123 [right:none next=2012] ---
+！？
+-[FID:3C, TEXT:0049] ！？
+
+--- Group 124 [right:char_0041 next=2012] ---
+！？
+-[FID:3C, TEXT:0049] ！？
+
+--- Group 125 [left:none next=0023] ---
+お礼もろくに言えずに
+行ってしまって・・・
++[FID:3C, TEXT:004A] 连句感谢的话都没来得
++[FID:3C, TEXT:004B] 及说，他就离开了…
+
+--- Group 126 [left:主人公 next=0023] ---
+お礼もろくに言えずに
+行ってしまって・・・
+-[FID:3C, TEXT:004A] 连句感谢的话都没来得
+-[FID:3C, TEXT:004B] 及说，他就离开了…
+
+--- Group 127 [left:主人公 next=0023] ---
+お礼もろくに言えずに
+行ってしまって・・・
+-[FID:3C, TEXT:004A] 连句感谢的话都没来得
+-[FID:3C, TEXT:004B] 及说，他就离开了…
+
+--- Group 128 [left:none next=0023] ---
+お礼もろくに言えずに
+行ってしまって・・・
+-[FID:3C, TEXT:004A] 连句感谢的话都没来得
+-[FID:3C, TEXT:004B] 及说，他就离开了…
+
+--- Group 129 [left:none next=0023] ---
+お礼もろくに言えずに
+行ってしまって・・・
+-[FID:3C, TEXT:004A] 连句感谢的话都没来得
+-[FID:3C, TEXT:004B] 及说，他就离开了…
+
+--- Group 130 [left:主人公 next=0023] ---
+お礼もろくに言えずに
+行ってしまって・・・
+-[FID:3C, TEXT:004A] 连句感谢的话都没来得
+-[FID:3C, TEXT:004B] 及说，他就离开了…
+
+--- Group 131 [left:none next=0023] ---
+あ・・・しまった！
+あたしったら
+お礼言ってない！
++[FID:3C, TEXT:004C] 啊…糟了！
++[FID:3C, TEXT:004D] 我真是的，
++[FID:3C, TEXT:004E] 都没说谢谢！
+
+--- Group 132 [left:none next=0023] ---
+あ・・・しまった！
+あたしったら
+お礼言ってない！
+-[FID:3C, TEXT:004C] 啊…糟了！
+-[FID:3C, TEXT:004D] 我真是的，
+-[FID:3C, TEXT:004E] 都没说谢谢！
+
+--- Group 133 [left:主人公 next=0023] ---
+あ・・・しまった！
+あたしったら
+お礼言ってない！
+-[FID:3C, TEXT:004C] 啊…糟了！
+-[FID:3C, TEXT:004D] 我真是的，
+-[FID:3C, TEXT:004E] 都没说谢谢！
+
+--- Group 134 [left:主人公 next=0023] ---
+あ・・・しまった！
+あたしったら
+お礼言ってない！
+-[FID:3C, TEXT:004C] 啊…糟了！
+-[FID:3C, TEXT:004D] 我真是的，
+-[FID:3C, TEXT:004E] 都没说谢谢！
+
+--- Group 135 [left:none next=0023] ---
+あ・・・しまった！
+あたしったら
+お礼言ってない！
+-[FID:3C, TEXT:004C] 啊…糟了！
+-[FID:3C, TEXT:004D] 我真是的，
+-[FID:3C, TEXT:004E] 都没说谢谢！
+
+--- Group 136 [left:none next=2012] ---
+レイドさん？
++[FID:3C, TEXT:004F] 雷德大人？
+
+--- Group 137 [left:none next=2012] ---
+レイドさん？
+-[FID:3C, TEXT:004F] 雷德大人？
+
+--- Group 138 [left:主人公 next=2012] ---
+レイドさん？
+-[FID:3C, TEXT:004F] 雷德大人？
+
+--- Group 139 [left:主人公 next=2012] ---
+レイドさん？
+-[FID:3C, TEXT:004F] 雷德大人？
+
+--- Group 140 [left:none next=2012] ---
+レイドさん？
+-[FID:3C, TEXT:004F] 雷德大人？
+
+--- Group 141 [left:主人公 next=2012] ---
+レイドさん？
+-[FID:3C, TEXT:004F] 雷德大人？
+
+--- Group 142 [right:none next=2012] ---
+いや、すまない
+ちょっと他の事を
+考えてしまって
++[FID:3C, TEXT:0050] 不，抱歉
++[FID:3C, TEXT:0051] 我刚才在想别的事情
++[FID:3C, TEXT:0052] 了
+
+--- Group 143 [right:char_0041 next=2012] ---
+いや、すまない
+ちょっと他の事を
+考えてしまって
+-[FID:3C, TEXT:0050] 不，抱歉
+-[FID:3C, TEXT:0051] 我刚才在想别的事情
+-[FID:3C, TEXT:0052] 了
+
+--- Group 144 [right:char_0041 next=2012] ---
+いや、すまない
+ちょっと他の事を
+考えてしまって
+-[FID:3C, TEXT:0050] 不，抱歉
+-[FID:3C, TEXT:0051] 我刚才在想别的事情
+-[FID:3C, TEXT:0052] 了
+
+--- Group 145 [right:char_0043 next=2012] ---
+いや、すまない
+ちょっと他の事を
+考えてしまって
+-[FID:3C, TEXT:0050] 不，抱歉
+-[FID:3C, TEXT:0051] 我刚才在想别的事情
+-[FID:3C, TEXT:0052] 了
+
+--- Group 146 [right:char_0043 next=2012] ---
+いや、すまない
+ちょっと他の事を
+考えてしまって
+-[FID:3C, TEXT:0050] 不，抱歉
+-[FID:3C, TEXT:0051] 我刚才在想别的事情
+-[FID:3C, TEXT:0052] 了
+
+--- Group 147 [right:none next=2012] ---
+いや、すまない
+ちょっと他の事を
+考えてしまって
+-[FID:3C, TEXT:0050] 不，抱歉
+-[FID:3C, TEXT:0051] 我刚才在想别的事情
+-[FID:3C, TEXT:0052] 了
+
+--- Group 148 [right:char_0043 next=2012] ---
+まさか、な・・・
++[FID:3C, TEXT:0053] 不会吧…
+
+--- Group 149 [right:none next=2012] ---
+まさか、な・・・
+-[FID:3C, TEXT:0053] 不会吧…
+
+--- Group 150 [right:char_0041 next=2012] ---
+まさか、な・・・
+-[FID:3C, TEXT:0053] 不会吧…
+
+--- Group 151 [right:char_0041 next=2012] ---
+まさか、な・・・
+-[FID:3C, TEXT:0053] 不会吧…
+
+--- Group 152 [right:none next=2012] ---
+まさか、な・・・
+-[FID:3C, TEXT:0053] 不会吧…
+
+--- Group 153 [right:char_0043 next=2012] ---
+まさか、な・・・
+-[FID:3C, TEXT:0053] 不会吧…
+
+--- Group 154 [right:char_0043 next=2012] ---
+悪いが、ちょっと今は
+遠慮してくれないか
++[FID:3C, TEXT:0054] 抱歉，现在请不要打扰
++[FID:3C, TEXT:0055] 我
+-[FID:3C, TEXT:0055] 好吗
+
+--- Group 155 [right:none next=2012] ---
+悪いが、ちょっと今は
+遠慮してくれないか
+-[FID:3C, TEXT:0054] 抱歉，现在请不要打扰
+-[FID:3C, TEXT:0055] 我
+-[FID:3C, TEXT:0055] 好吗
+
+--- Group 156 [right:char_0041 next=2012] ---
+悪いが、ちょっと今は
+遠慮してくれないか
+-[FID:3C, TEXT:0054] 抱歉，现在请不要打扰
+-[FID:3C, TEXT:0055] 我
+-[FID:3C, TEXT:0055] 好吗
+
+--- Group 157 [right:char_0041 next=2012] ---
+悪いが、ちょっと今は
+遠慮してくれないか
+-[FID:3C, TEXT:0054] 抱歉，现在请不要打扰
+-[FID:3C, TEXT:0055] 我
+-[FID:3C, TEXT:0055] 好吗
+
+--- Group 158 [right:char_0043 next=2012] ---
+悪いが、ちょっと今は
+遠慮してくれないか
+-[FID:3C, TEXT:0054] 抱歉，现在请不要打扰
+-[FID:3C, TEXT:0055] 我
+-[FID:3C, TEXT:0055] 好吗
+
+--- Group 159 [right:none next=2012] ---
+悪いが、ちょっと今は
+遠慮してくれないか
+-[FID:3C, TEXT:0054] 抱歉，现在请不要打扰
+-[FID:3C, TEXT:0055] 我
+-[FID:3C, TEXT:0055] 好吗
+
+--- Group 160 [right:char_0043 next=2012] ---
+すこし、考え事を
+したいんだ・・・
++[FID:3C, TEXT:0056] 我想一个人
++[FID:3C, TEXT:0057] 静静地想一会儿…
+
+--- Group 161 [right:char_0041 next=2012] ---
+すこし、考え事を
+したいんだ・・・
+-[FID:3C, TEXT:0056] 想一个人静静地
+-[FID:3C, TEXT:0057] 想一会儿……
+
+--- Group 162 [right:none next=2012] ---
+すこし、考え事を
+したいんだ・・・
+-[FID:3C, TEXT:0056] 想一个人静静地
+-[FID:3C, TEXT:0057] 想一会儿……
+
+--- Group 163 [right:char_0041 next=2012] ---
+すこし、考え事を
+したいんだ・・・
+-[FID:3C, TEXT:0056] 想一个人静静地
+-[FID:3C, TEXT:0057] 想一会儿……
+
+--- Group 164 [right:none next=2012] ---
+すこし、考え事を
+したいんだ・・・
+-[FID:3C, TEXT:0056] 想一个人静静地
+-[FID:3C, TEXT:0057] 想一会儿……
+
+--- Group 165 [right:char_0043 next=2012] ---
+すこし、考え事を
+したいんだ・・・
+-[FID:3C, TEXT:0056] 想一个人静静地
+-[FID:3C, TEXT:0057] 想一会儿……
+
+--- Group 166 [right:char_0043 next=2012] ---
+あのジンガって少年、
+ちっちゃい身体にして
+はかなり鍛えとるなあ
++[FID:3C, TEXT:0058] 那个叫金加的少年，身
++[FID:3C, TEXT:0059] 体虽然小，却相当结实
++[FID:3C, TEXT:005A] 啊。
+
+--- Group 167 [right:char_0043 next=2012] ---
+あのジンガって少年、
+ちっちゃい身体にして
+はかなり鍛えとるなあ
+-[FID:3C, TEXT:0058] 那个叫金加的少年，身
+-[FID:3C, TEXT:0059] 体虽然小，却相当结实
+-[FID:3C, TEXT:005A] 啊。
+
+--- Group 168 [right:char_0041 next=2012] ---
+あのジンガって少年、
+ちっちゃい身体にして
+はかなり鍛えとるなあ
+-[FID:3C, TEXT:0058] 那个叫金加的少年，身
+-[FID:3C, TEXT:0059] 体虽然小，却相当结实
+-[FID:3C, TEXT:005A] 啊。
+
+--- Group 169 [right:char_0041 next=2012] ---
+あのジンガって少年、
+ちっちゃい身体にして
+はかなり鍛えとるなあ
+-[FID:3C, TEXT:0058] 那个叫金加的少年，身
+-[FID:3C, TEXT:0059] 体虽然小，却相当结实
+-[FID:3C, TEXT:005A] 啊。
+
+--- Group 170 [right:none next=2012] ---
+あのジンガって少年、
+ちっちゃい身体にして
+はかなり鍛えとるなあ
+-[FID:3C, TEXT:0058] 那个叫金加的少年，身
+-[FID:3C, TEXT:0059] 体虽然小，却相当结实
+-[FID:3C, TEXT:005A] 啊。
+
+--- Group 171 [right:none next=2012] ---
+あのジンガって少年、
+ちっちゃい身体にして
+はかなり鍛えとるなあ
+-[FID:3C, TEXT:0058] 那个叫金加的少年，身
+-[FID:3C, TEXT:0059] 体虽然小，却相当结实
+-[FID:3C, TEXT:005A] 啊。
+
+--- Group 172 [right:none next=2012] ---
+腕相撲をしたんだが、
+なかなかいい勝負
+だったぞ？
++[FID:3C, TEXT:005B] 我跟他比了腕力，可是
++[FID:3C, TEXT:005C] 势均力敌呢！
++[FID:3C, TEXT:005D] 怎么样？
+
+--- Group 173 [right:char_0041 next=2012] ---
+腕相撲をしたんだが、
+なかなかいい勝負
+だったぞ？
+-[FID:3C, TEXT:005B] 我跟他比了腕力，可是
+-[FID:3C, TEXT:005C] 势均力敌呢！
+-[FID:3C, TEXT:005D] 怎么样？
+
+--- Group 174 [right:char_0041 next=2012] ---
+腕相撲をしたんだが、
+なかなかいい勝負
+だったぞ？
+-[FID:3C, TEXT:005B] 我跟他比了腕力，可是
+-[FID:3C, TEXT:005C] 势均力敌呢！
+-[FID:3C, TEXT:005D] 怎么样？
+
+--- Group 175 [right:none next=2012] ---
+腕相撲をしたんだが、
+なかなかいい勝負
+だったぞ？
+-[FID:3C, TEXT:005B] 我跟他比了腕力，可是
+-[FID:3C, TEXT:005C] 势均力敌呢！
+-[FID:3C, TEXT:005D] 怎么样？
+
+--- Group 176 [right:char_0043 next=2012] ---
+腕相撲をしたんだが、
+なかなかいい勝負
+だったぞ？
+-[FID:3C, TEXT:005B] 我跟他比了腕力，可是
+-[FID:3C, TEXT:005C] 势均力敌呢！
+-[FID:3C, TEXT:005D] 怎么样？
+
+--- Group 177 [right:char_0043 next=2012] ---
+腕相撲をしたんだが、
+なかなかいい勝負
+だったぞ？
+-[FID:3C, TEXT:005B] 我跟他比了腕力，可是
+-[FID:3C, TEXT:005C] 势均力敌呢！
+-[FID:3C, TEXT:005D] 怎么样？
+
+--- Group 178 [left:none next=0023] ---
+エドスと互角！？
++[FID:3C, TEXT:005E] 和艾多斯不相上下！？
+
+--- Group 179 [left:none next=0023] ---
+エドスと互角！？
+-[FID:3C, TEXT:005E] 和艾多斯不相上下！？
+
+--- Group 180 [left:主人公 next=0023] ---
+エドスと互角！？
+-[FID:3C, TEXT:005E] 和艾多斯不相上下！？
+
+--- Group 181 [left:none next=0023] ---
+エドスと互角！？
+-[FID:3C, TEXT:005E] 和艾多斯不相上下！？
+
+--- Group 182 [left:主人公 next=0023] ---
+エドスと互角！？
+-[FID:3C, TEXT:005E] 和艾多斯不相上下！？
+
+--- Group 183 [left:主人公 next=0023] ---
+エドスと互角！？
+-[FID:3C, TEXT:005E] 和艾多斯不相上下！？
+
+--- Group 184 [left:none next=0023] ---
+エドスと互角なの！？
++[FID:3C, TEXT:005F] 和艾多斯不相上下吗！
+-[FID:3C, TEXT:005F] ？
+
+--- Group 185 [left:主人公 next=0023] ---
+エドスと互角なの！？
+-[FID:3C, TEXT:005F] 和艾多斯不相上下吗！
+-[FID:3C, TEXT:005F] ？
+
+--- Group 186 [left:none next=0023] ---
+エドスと互角なの！？
+-[FID:3C, TEXT:005F] 和艾多斯不相上下吗！
+-[FID:3C, TEXT:005F] ？
+
+--- Group 187 [left:none next=0023] ---
+エドスと互角なの！？
+-[FID:3C, TEXT:005F] 和艾多斯不相上下吗！
+-[FID:3C, TEXT:005F] ？
+
+--- Group 188 [left:主人公 next=0023] ---
+エドスと互角なの！？
+-[FID:3C, TEXT:005F] 和艾多斯不相上下吗！
+-[FID:3C, TEXT:005F] ？
+
+--- Group 189 [left:主人公 next=0023] ---
+エドスさんと互角
+・・・ですか？
++[FID:3C, TEXT:0060] 和艾多斯先生不相上下
++[FID:3C, TEXT:0061] ……是吗？
+
+--- Group 190 [left:主人公 next=0023] ---
+エドスさんと互角
+・・・ですか？
+-[FID:3C, TEXT:0060] 和艾多斯先生不相上下
+-[FID:3C, TEXT:0061] ……是吗？
+
+--- Group 191 [left:none next=0023] ---
+エドスさんと互角
+・・・ですか？
+-[FID:3C, TEXT:0060] 和艾多斯先生不相上下
+-[FID:3C, TEXT:0061] ……是吗？
+
+--- Group 192 [left:none next=0023] ---
+エドスさんと互角
+・・・ですか？
+-[FID:3C, TEXT:0060] 和艾多斯先生不相上下
+-[FID:3C, TEXT:0061] ……是吗？
+
+--- Group 193 [left:none next=0023] ---
+エドスさんと互角
+・・・ですか？
+-[FID:3C, TEXT:0060] 和艾多斯先生不相上下
+-[FID:3C, TEXT:0061] ……是吗？
+
+--- Group 194 [right:char_0043 next=2012] ---
+言葉づかいは乱暴だが
+物の道理は知っとる
+ようだし
++[FID:3C, TEXT:0062] 虽然说话粗鲁，但似乎
++[FID:3C, TEXT:0063] 懂得事理，
++[FID:3C, TEXT:0064] 看来是这样。
+
+--- Group 195 [right:none next=2012] ---
+言葉づかいは乱暴だが
+物の道理は知っとる
+ようだし
+-[FID:3C, TEXT:0062] 虽然说话粗鲁，但似乎
+-[FID:3C, TEXT:0063] 懂得事理，
+-[FID:3C, TEXT:0064] 看来是这样。
+
+--- Group 196 [right:char_0043 next=2012] ---
+言葉づかいは乱暴だが
+物の道理は知っとる
+ようだし
+-[FID:3C, TEXT:0062] 虽然说话粗鲁，但似乎
+-[FID:3C, TEXT:0063] 懂得事理，
+-[FID:3C, TEXT:0064] 看来是这样。
+
+--- Group 197 [right:none next=2012] ---
+言葉づかいは乱暴だが
+物の道理は知っとる
+ようだし
+-[FID:3C, TEXT:0062] 虽然说话粗鲁，但似乎
+-[FID:3C, TEXT:0063] 懂得事理，
+-[FID:3C, TEXT:0064] 看来是这样。
+
+--- Group 198 [right:char_0041 next=2012] ---
+言葉づかいは乱暴だが
+物の道理は知っとる
+ようだし
+-[FID:3C, TEXT:0062] 虽然说话粗鲁，但似乎
+-[FID:3C, TEXT:0063] 懂得事理，
+-[FID:3C, TEXT:0064] 看来是这样。
+
+--- Group 199 [right:char_0041 next=2012] ---
+言葉づかいは乱暴だが
+物の道理は知っとる
+ようだし
+-[FID:3C, TEXT:0062] 虽然说话粗鲁，但似乎
+-[FID:3C, TEXT:0063] 懂得事理，
+-[FID:3C, TEXT:0064] 看来是这样。
+
+--- Group 200 [right:char_0041 next=2012] ---
+ただ、まっすぐすぎる
+のがまだ子供だな
++[FID:3C, TEXT:0065] 只是，太过直率了，还
++[FID:3C, TEXT:0066] 是个孩子呢。
+
+--- Group 201 [right:none next=2012] ---
+ただ、まっすぐすぎる
+のがまだ子供だな
+-[FID:3C, TEXT:0065] 只是，太过直率了，还
+-[FID:3C, TEXT:0066] 是个孩子呢。
+
+--- Group 202 [right:char_0043 next=2012] ---
+ただ、まっすぐすぎる
+のがまだ子供だな
+-[FID:3C, TEXT:0065] 只是，太过直率了，还
+-[FID:3C, TEXT:0066] 是个孩子呢。
+
+--- Group 203 [right:char_0043 next=2012] ---
+ただ、まっすぐすぎる
+のがまだ子供だな
+-[FID:3C, TEXT:0065] 只是，太过直率了，还
+-[FID:3C, TEXT:0066] 是个孩子呢。
+
+--- Group 204 [right:char_0041 next=2012] ---
+ただ、まっすぐすぎる
+のがまだ子供だな
+-[FID:3C, TEXT:0065] 只是，太过直率了，还
+-[FID:3C, TEXT:0066] 是个孩子呢。
+
+--- Group 205 [right:none next=2012] ---
+ただ、まっすぐすぎる
+のがまだ子供だな
+-[FID:3C, TEXT:0065] 只是，太过直率了，还
+-[FID:3C, TEXT:0066] 是个孩子呢。
+
+--- Group 206 [right:none next=2012] ---
+あの性格が裏目に出ん
+ように注意してやった
+ほうがいいと思うぞ
++[FID:3C, TEXT:0067] 最好还是提醒他一下，
++[FID:3C, TEXT:0068] 别让那种性格适得其反
++[FID:3C, TEXT:0069] 了。
+
+--- Group 207 [right:char_0043 next=2012] ---
+あの性格が裏目に出ん
+ように注意してやった
+ほうがいいと思うぞ
+-[FID:3C, TEXT:0067] 最好还是提醒他一下，
+-[FID:3C, TEXT:0068] 别让那种性格适得其反
+-[FID:3C, TEXT:0069] 了。
+
+--- Group 208 [right:char_0043 next=2012] ---
+あの性格が裏目に出ん
+ように注意してやった
+ほうがいいと思うぞ
+-[FID:3C, TEXT:0067] 最好还是提醒他一下，
+-[FID:3C, TEXT:0068] 别让那种性格适得其反
+-[FID:3C, TEXT:0069] 了。
+
+--- Group 209 [right:char_0041 next=2012] ---
+あの性格が裏目に出ん
+ように注意してやった
+ほうがいいと思うぞ
+-[FID:3C, TEXT:0067] 最好还是提醒他一下，
+-[FID:3C, TEXT:0068] 别让那种性格适得其反
+-[FID:3C, TEXT:0069] 了。
+
+--- Group 210 [right:char_0041 next=2012] ---
+あの性格が裏目に出ん
+ように注意してやった
+ほうがいいと思うぞ
+-[FID:3C, TEXT:0067] 最好还是提醒他一下，
+-[FID:3C, TEXT:0068] 别让那种性格适得其反
+-[FID:3C, TEXT:0069] 了。
+
+--- Group 211 [right:none next=2012] ---
+あの性格が裏目に出ん
+ように注意してやった
+ほうがいいと思うぞ
+-[FID:3C, TEXT:0067] 最好还是提醒他一下，
+-[FID:3C, TEXT:0068] 别让那种性格适得其反
+-[FID:3C, TEXT:0069] 了。
+
+--- Group 212 [left:none next=0023] ---
+みんなそろって、どこ
+かへ出かけるのかい？
++[FID:3C, TEXT:006A] 大家一起，是要去哪里
++[FID:3C, TEXT:006C] 吗？
+
+--- Group 213 [left:none next=0023] ---
+みんなそろって、どこ
+かへ出かけるのか？
+-[FID:3C, TEXT:006A] 大家一起，是要去哪里
++[FID:3C, TEXT:006B] 吗？
+
+--- Group 214 [left:none next=0023] ---
+みんなそろって、どこ
+かへ出かけるのかい？
+-[FID:3C, TEXT:006A] 大家一起，是要去哪里
+-[FID:3C, TEXT:006C] 吗？
+
+--- Group 215 [left:none next=0023] ---
+みんなそろって、どこ
+かへ出かけるのかい？
+-[FID:3C, TEXT:006A] 大家一起，是要去哪里
+-[FID:3C, TEXT:006C] 吗？
+
+--- Group 216 [left:主人公 next=0023] ---
+みんなそろって、どこ
+かへ出かけるのかい？
+-[FID:3C, TEXT:006A] 大家一起，是要去哪里
+-[FID:3C, TEXT:006C] 吗？
+
+--- Group 217 [left:主人公 next=0023] ---
+みんなそろって、どこ
+かへ出かけるのかい？
+-[FID:3C, TEXT:006A] 大家一起，是要去哪里
+-[FID:3C, TEXT:006C] 吗？
+
+--- Group 218 [left:主人公 next=0023] ---
+みんなそろって、どこ
+かへ出かけるのか？
+-[FID:3C, TEXT:006A] 大家一起，是要去哪里
+-[FID:3C, TEXT:006B] 吗？
+
+--- Group 219 [left:主人公 next=0023] ---
+みんなそろって、どこ
+かへ出かけるのか？
+-[FID:3C, TEXT:006A] 大家一起，是要去哪里
+-[FID:3C, TEXT:006B] 吗？
+
+--- Group 220 [left:主人公 next=0023] ---
+みんなそろって、どこ
+かへ出かけるのか？
+-[FID:3C, TEXT:006A] 大家一起，是要去哪里
+-[FID:3C, TEXT:006B] 吗？
+
+--- Group 221 [left:none next=0023] ---
+みんなそろって、どこ
+かへ出かけるのか？
+-[FID:3C, TEXT:006A] 大家一起，是要去哪里
+-[FID:3C, TEXT:006B] 吗？
+
+--- Group 222 [left:none next=0023] ---
+みんなそろって、どこ
+かへ出かけるのか？
+-[FID:3C, TEXT:006A] 大家一起，是要去哪里
+-[FID:3C, TEXT:006B] 吗？
+
+--- Group 223 [left:none next=0023] ---
+みんなそろって
+どこへお出かけ？
++[FID:3C, TEXT:006D] 大家一起，
++[FID:3C, TEXT:006E] 要去哪里呀？
+
+--- Group 224 [left:none next=0023] ---
+みんなそろって
+どこへお出かけ？
+-[FID:3C, TEXT:006D] 大家一起，
+-[FID:3C, TEXT:006E] 要去哪里呀？
+
+--- Group 225 [left:主人公 next=0023] ---
+みんなそろって
+どこへお出かけ？
+-[FID:3C, TEXT:006D] 大家一起，
+-[FID:3C, TEXT:006E] 要去哪里呀？
+
+--- Group 226 [left:主人公 next=0023] ---
+みんなそろって
+どこへお出かけ？
+-[FID:3C, TEXT:006D] 大家一起，
+-[FID:3C, TEXT:006E] 要去哪里呀？
+
+--- Group 227 [left:none next=0023] ---
+みんなそろって
+どこへお出かけ？
+-[FID:3C, TEXT:006D] 大家一起，
+-[FID:3C, TEXT:006E] 要去哪里呀？
+
+--- Group 228 [left:主人公 next=0023] ---
+みなさんで、どこかへ
+おでかけですか？
++[FID:3C, TEXT:006F] 各位是要去哪里吗？
+
+--- Group 229 [left:none next=0023] ---
+みなさんで、どこかへ
+おでかけですか？
+-[FID:3C, TEXT:006F] 各位是要去哪里吗？
+
+--- Group 230 [left:主人公 next=0023] ---
+みなさんで、どこかへ
+おでかけですか？
+-[FID:3C, TEXT:006F] 各位是要去哪里吗？
+
+--- Group 231 [left:none next=0023] ---
+みなさんで、どこかへ
+おでかけですか？
+-[FID:3C, TEXT:006F] 各位是要去哪里吗？
+
+--- Group 232 [left:none next=0023] ---
+みなさんで、どこかへ
+おでかけですか？
+-[FID:3C, TEXT:006F] 各位是要去哪里吗？
+
+--- Group 233 [right:char_0041 next=2012] ---
+うん、ちょっとこの子
+たちと服を見にね
++[FID:3C, TEXT:0071] 嗯，是打算和这些孩子
++[FID:3C, TEXT:0072] 去看看衣服。
+
+--- Group 234 [right:char_0043 next=2012] ---
+うん、ちょっとこの子
+たちと服を見にね
+-[FID:3C, TEXT:0071] 嗯，是打算和这些孩子
+-[FID:3C, TEXT:0072] 去看看衣服。
+
+--- Group 235 [right:none next=2012] ---
+うん、ちょっとこの子
+たちと服を見にね
+-[FID:3C, TEXT:0071] 嗯，是打算和这些孩子
+-[FID:3C, TEXT:0072] 去看看衣服。
+
+--- Group 236 [right:char_0043 next=2012] ---
+うん、ちょっとこの子
+たちと服を見にね
+-[FID:3C, TEXT:0071] 嗯，是打算和这些孩子
+-[FID:3C, TEXT:0072] 去看看衣服。
+
+--- Group 237 [right:none next=2012] ---
+うん、ちょっとこの子
+たちと服を見にね
+-[FID:3C, TEXT:0071] 嗯，是打算和这些孩子
+-[FID:3C, TEXT:0072] 去看看衣服。
+
+--- Group 238 [right:char_0041 next=2012] ---
+うん、ちょっとこの子
+たちと服を見にね
+-[FID:3C, TEXT:0071] 嗯，是打算和这些孩子
+-[FID:3C, TEXT:0072] 去看看衣服。
+
+--- Group 239 [right:怀兹 next=2012] ---
+見にいくだけで、買う
+わけじゃないけどね
++[FID:3C, TEXT:0073] 只是去看看而已，又不
++[FID:3C, TEXT:0074] 是一定要买。
+
+--- Group 240 [right:怀兹 next=2012] ---
+見にいくだけで、買う
+わけじゃないけどね
+-[FID:3C, TEXT:0073] 只是去看看而已，又不
+-[FID:3C, TEXT:0074] 是一定要买。
+
+--- Group 241 [right:利布雷 next=2012] ---
+フィズっ
+よ、余計なことは
+言わなくていいのっ！
++[FID:3C, TEXT:0075] 菲兹！
++[FID:3C, TEXT:0076] 多余的事情
++[FID:3C, TEXT:0077] 不用说也可以哦！
+
+--- Group 242 [right:利布雷 next=2012] ---
+フィズっ
+よ、余計なことは
+言わなくていいのっ！
+-[FID:3C, TEXT:0075] 菲兹！
+-[FID:3C, TEXT:0076] 多余的事情
+-[FID:3C, TEXT:0077] 不用说也可以哦！
+
+--- Group 243 [left:主人公 next=2012] ---
+？？？
++[FID:3C, TEXT:0078] ？？？
+
+--- Group 244 [left:none next=2012] ---
+？？？
+-[FID:3C, TEXT:0078] ？？？
+
+--- Group 245 [right:拉米 next=2012] ---
+おてほん、なの
++[FID:3C, TEXT:0079] 作为范例哦
+
+--- Group 246 [right:拉米 next=2012] ---
+おてほん、なの
+-[FID:3C, TEXT:0079] 作为范例哦
+
+--- Group 247 [left:none next=2012] ---
+お手本？
++[FID:3C, TEXT:007A] 范例？
+
+--- Group 248 [left:主人公 next=2012] ---
+お手本？
+-[FID:3C, TEXT:007A] 范例？
+
+--- Group 249 [right:怀兹 next=2012] ---
+そうよ
+売ってる服をお手本に
+にして、リプレママは
+それを作っちゃうの
++[FID:3C, TEXT:007B] 是啊
++[FID:3C, TEXT:007C] 以商店里的衣服为范本
++[FID:3C, TEXT:007D] 制作的，利布雷妈妈把
++[FID:3C, TEXT:007E] 它们都做出来了哦
+
+--- Group 250 [right:怀兹 next=2012] ---
+そうよ
+売ってる服をお手本に
+にして、リプレママは
+それを作っちゃうの
+-[FID:3C, TEXT:007B] 是啊
+-[FID:3C, TEXT:007C] 以商店里的衣服为范本
+-[FID:3C, TEXT:007D] 制作的，利布雷妈妈把
+-[FID:3C, TEXT:007E] 它们都做出来了哦
+
+--- Group 251 [right:拉米 next=2012] ---
+ラミたちの服、みんな
+そうなの・・・
++[FID:3C, TEXT:007F] 拉米她们的衣服，全都
++[FID:3C, TEXT:0080] 是
+-[FID:3C, TEXT:0080] 这样做的呢……
+
+--- Group 252 [right:拉米 next=2012] ---
+ラミたちの服、みんな
+そうなの・・・
+-[FID:3C, TEXT:007F] 拉米她们的衣服，全都
+-[FID:3C, TEXT:0080] 是
+-[FID:3C, TEXT:0080] 这样做的呢……
+
+--- Group 253 [left:主人公 next=0023] ---
+へえ・・・
++[FID:3C, TEXT:0081] 诶……
+
+--- Group 254 [left:主人公 next=0023] ---
+へえ・・・
+-[FID:3C, TEXT:0081] 诶……
+
+--- Group 255 [left:主人公 next=0023] ---
+へえ・・・
+-[FID:3C, TEXT:0081] 诶……
+
+--- Group 256 [left:none next=0023] ---
+へえ・・・
+-[FID:3C, TEXT:0081] 诶……
+
+--- Group 257 [left:主人公 next=0023] ---
+へえ・・・
+-[FID:3C, TEXT:0081] 诶……
+
+--- Group 258 [left:none next=0023] ---
+へえ・・・
+-[FID:3C, TEXT:0081] 诶……
+
+--- Group 259 [left:none next=0023] ---
+へえ・・・
+-[FID:3C, TEXT:0081] 诶……
+
+--- Group 260 [left:none next=0023] ---
+へえ・・・
+-[FID:3C, TEXT:0081] 诶……
+
+--- Group 261 [left:主人公 next=0023] ---
+すごい〜・・・尊敬〜
++[FID:3C, TEXT:0082] 好厉害啊……好尊敬啊
+-[FID:3C, TEXT:0082] ……
+
+--- Group 262 [left:none next=0023] ---
+すごい〜・・・尊敬〜
+-[FID:3C, TEXT:0082] 好厉害啊……好尊敬啊
+-[FID:3C, TEXT:0082] ……
+
+--- Group 263 [left:主人公 next=0023] ---
+お裁縫も、
+できるんですか・・・
++[FID:3C, TEXT:0083] 裁缝活儿，
++[FID:3C, TEXT:0084] 也会做吗……？
+
+--- Group 264 [left:none next=0023] ---
+お裁縫も、
+できるんですか・・・
+-[FID:3C, TEXT:0083] 裁缝活儿，
+-[FID:3C, TEXT:0084] 也会做吗……？
+
+--- Group 265 [right:利布雷 next=2012] ---
+か、感心することじゃ
+ないって！
+貧乏性なだけよ・・・
++[FID:3C, TEXT:0085] 没、没什么值得称赞的
++[FID:3C, TEXT:0086] 啦！
++[FID:3C, TEXT:0087] 只是因为穷怕了……
+
+--- Group 266 [right:利布雷 next=2012] ---
+か、感心することじゃ
+ないって！
+貧乏性なだけよ・・・
+-[FID:3C, TEXT:0085] 没、没什么值得称赞的
+-[FID:3C, TEXT:0086] 啦！
+-[FID:3C, TEXT:0087] 只是因为穷怕了……
+
+--- Group 267 [right:利布雷 next=2012] ---
+じゃ、じゃあね！
++[FID:3C, TEXT:0088] 那、那再见！
+
+--- Group 268 [right:利布雷 next=2012] ---
+じゃ、じゃあね！
+-[FID:3C, TEXT:0088] 那、那再见！
+
+--- Group 269 [left:none next=0023] ---
+充分、すごいと
+思うがな・・・
++[FID:3C, TEXT:0089] 已经很厉害了
++[FID:3C, TEXT:008B] 吧……
+
+--- Group 270 [left:主人公 next=0023] ---
+充分、すごいと
+思うんだけどなあ
+-[FID:3C, TEXT:0089] 我觉得已经很厉害了
++[FID:3C, TEXT:008A] 啦……
+
+--- Group 271 [left:主人公 next=0023] ---
+充分、すごいと
+思うがな・・・
+-[FID:3C, TEXT:0089] 我觉得已经很厉害了
+-[FID:3C, TEXT:008B] 吧……
+
+--- Group 272 [left:none next=0023] ---
+充分、すごいと
+思うんだけどなあ
+-[FID:3C, TEXT:0089] 我觉得已经很厉害了
+-[FID:3C, TEXT:008A] 啦……
+
+--- Group 273 [left:none next=0023] ---
+う〜ん、ケンソン
+しなくてもいいのに
++[FID:3C, TEXT:008C] 嗯，谦虚
++[FID:3C, TEXT:008D] 也没必要这样吧
+
+--- Group 274 [left:主人公 next=0023] ---
+う〜ん、ケンソン
+しなくてもいいのに
+-[FID:3C, TEXT:008C] 嗯，谦虚
+-[FID:3C, TEXT:008D] 也没必要这样吧
+
+--- Group 275 [left:none next=0023] ---
+充分すごいことですよ
+それは・・・
++[FID:3C, TEXT:008E] 已经是很厉害的事情了
++[FID:3C, TEXT:008F] 呢……
+
+--- Group 276 [left:主人公 next=0023] ---
+充分すごいことですよ
+それは・・・
+-[FID:3C, TEXT:008E] 已经是很厉害的事情了
+-[FID:3C, TEXT:008F] 呢……
+
+--- Group 277 [left:none next=2012] ---
+あのさ、前から
+聞きたかったんだけど
++[FID:3C, TEXT:0090] 那个啊，我从以前
++[FID:3C, TEXT:0091] 就想问你来着
+
+--- Group 278 [left:none next=2012] ---
+あのさ、前から
+聞きたかったんだけど
+-[FID:3C, TEXT:0090] 那个啊，我从以前
+-[FID:3C, TEXT:0091] 就想问你来着
+
+--- Group 279 [left:主人公 next=2012] ---
+あのさ、前から
+聞きたかったんだけど
+-[FID:3C, TEXT:0090] 那个啊，我从以前
+-[FID:3C, TEXT:0091] 就想问你来着
+
+--- Group 280 [left:主人公 next=2012] ---
+あのさ、前から
+聞きたかったんだけど
+-[FID:3C, TEXT:0090] 那个啊，我从以前
+-[FID:3C, TEXT:0091] 就想问你来着
+
+--- Group 281 [left:none next=2012] ---
+あのさ、前から
+聞きたかったんだけど
+-[FID:3C, TEXT:0090] 那个啊，我从以前
+-[FID:3C, TEXT:0091] 就想问你来着
+
+--- Group 282 [left:主人公 next=2012] ---
+あのさ、前から
+聞きたかったんだけど
+-[FID:3C, TEXT:0090] 那个啊，我从以前
+-[FID:3C, TEXT:0091] 就想问你来着
+
+--- Group 283 [left:none next=0023] ---
+この世界の言葉を俺が
+自然に理解できるのも
+召喚術の力なのか？
++[FID:3C, TEXT:0092] 我能自然地理解这个世
++[FID:3C, TEXT:0093] 界的话语也是召唤术的
++[FID:3C, TEXT:0094] 力量吗？
+
+--- Group 284 [left:主人公 next=0023] ---
+この世界の言葉を俺が
+自然に理解できるのも
+召喚術の力なのか？
+-[FID:3C, TEXT:0092] 我能自然地理解这个世
+-[FID:3C, TEXT:0093] 界的话语也是召唤术的
+-[FID:3C, TEXT:0094] 力量吗？
+
+--- Group 285 [left:主人公 next=0023] ---
+この世界の言葉を俺が
+自然に理解できるのも
+召喚術の力なのか？
+-[FID:3C, TEXT:0092] 我能自然地理解这个世
+-[FID:3C, TEXT:0093] 界的话语也是召唤术的
+-[FID:3C, TEXT:0094] 力量吗？
+
+--- Group 286 [left:none next=0023] ---
+この世界の言葉を俺が
+自然に理解できるのも
+召喚術の力なのか？
+-[FID:3C, TEXT:0092] 我能自然地理解这个世
+-[FID:3C, TEXT:0093] 界的话语也是召唤术的
+-[FID:3C, TEXT:0094] 力量吗？
+
+--- Group 287 [left:none next=0023] ---
+この世界の言葉を俺が
+自然に理解できるのも
+召喚術の力なのか？
+-[FID:3C, TEXT:0092] 我能自然地理解这个世
+-[FID:3C, TEXT:0093] 界的话语也是召唤术的
+-[FID:3C, TEXT:0094] 力量吗？
+
+--- Group 288 [left:主人公 next=0023] ---
+この世界の言葉を俺が
+自然に理解できるのも
+召喚術の力なのか？
+-[FID:3C, TEXT:0092] 我能自然地理解这个世
+-[FID:3C, TEXT:0093] 界的话语也是召唤术的
+-[FID:3C, TEXT:0094] 力量吗？
+
+--- Group 289 [left:主人公 next=2012] ---
+ひとつ聞きたいことが
+あるんだけど
++[FID:3C, TEXT:0095] 有件事想问你
+
+--- Group 290 [left:主人公 next=2012] ---
+ひとつ聞きたいことが
+あるんだけど
+-[FID:3C, TEXT:0095] 有件事想问你
+
+--- Group 291 [left:none next=2012] ---
+ひとつ聞きたいことが
+あるんだけど
+-[FID:3C, TEXT:0095] 有件事想问你
+
+--- Group 292 [left:none next=2012] ---
+ひとつ聞きたいことが
+あるんだけど
+-[FID:3C, TEXT:0095] 有件事想问你
+
+--- Group 293 [left:none next=2012] ---
+ひとつ聞きたいことが
+あるんだけど
+-[FID:3C, TEXT:0095] 有件事想问你
+
+--- Group 294 [left:none next=2012] ---
+あのね、前から聞きた
+かったんだけどさぁ
++[FID:3C, TEXT:0097] 那个呀，我从以前就想
++[FID:3C, TEXT:0098] 问你了呢
+
+--- Group 295 [left:主人公 next=2012] ---
+あのね、前から聞きた
+かったんだけどさぁ
+-[FID:3C, TEXT:0097] 那个呀，我从以前就想
+-[FID:3C, TEXT:0098] 问你了呢
+
+--- Group 296 [left:主人公 next=2012] ---
+あのね、前から聞きた
+かったんだけどさぁ
+-[FID:3C, TEXT:0097] 那个呀，我从以前就想
+-[FID:3C, TEXT:0098] 问你了呢
+
+--- Group 297 [left:none next=2012] ---
+あのね、前から聞きた
+かったんだけどさぁ
+-[FID:3C, TEXT:0097] 那个呀，我从以前就想
+-[FID:3C, TEXT:0098] 问你了呢
+
+--- Group 298 [left:none next=2012] ---
+あのね、前から聞きた
+かったんだけどさぁ
+-[FID:3C, TEXT:0097] 那个呀，我从以前就想
+-[FID:3C, TEXT:0098] 问你了呢
+
+--- Group 299 [left:主人公 next=0023] ---
+召喚術の力・・・
+なんだよね？あたしが
+こっちの世界の言葉を
+理解できるのって
++[FID:3C, TEXT:0099] 是召唤术的力量……
++[FID:3C, TEXT:009A] 对吧？我能理解这个世
++[FID:3C, TEXT:009B] 界的话是因为这个吧？
+
+--- Group 300 [left:主人公 next=0023] ---
+召喚術の力・・・
+なんだよね？あたしが
+こっちの世界の言葉を
+理解できるのって
+-[FID:3C, TEXT:0099] 是召唤术的力量……
+-[FID:3C, TEXT:009A] 对吧？我能理解这个世
+-[FID:3C, TEXT:009B] 界的话是因为这个吧？
+
+--- Group 301 [left:none next=0023] ---
+召喚術の力・・・
+なんだよね？あたしが
+こっちの世界の言葉を
+理解できるのって
+-[FID:3C, TEXT:0099] 是召唤术的力量……
+-[FID:3C, TEXT:009A] 对吧？我能理解这个世
+-[FID:3C, TEXT:009B] 界的话是因为这个吧？
+
+--- Group 302 [left:none next=0023] ---
+召喚術の力・・・
+なんだよね？あたしが
+こっちの世界の言葉を
+理解できるのって
+-[FID:3C, TEXT:0099] 是召唤术的力量……
+-[FID:3C, TEXT:009A] 对吧？我能理解这个世
+-[FID:3C, TEXT:009B] 界的话是因为这个吧？
+
+--- Group 303 [left:none next=0023] ---
+召喚術の力・・・
+なんだよね？あたしが
+こっちの世界の言葉を
+理解できるのって
+-[FID:3C, TEXT:0099] 是召唤术的力量……
+-[FID:3C, TEXT:009A] 对吧？我能理解这个世
+-[FID:3C, TEXT:009B] 界的话是因为这个吧？
+
+--- Group 304 [left:主人公 next=2012] ---
+あの・・・前から
+聞こうとは思って
+いたのですが・・・
++[FID:3C, TEXT:009D] 那个……我从以前
++[FID:3C, TEXT:009E] 就想问来着
++[FID:3C, TEXT:009F] 呢……
+
+--- Group 305 [left:主人公 next=2012] ---
+あの・・・前から
+聞こうとは思って
+いたのですが・・・
+-[FID:3C, TEXT:009D] 那个……我从以前
+-[FID:3C, TEXT:009E] 就想问来着
+-[FID:3C, TEXT:009F] 呢……
+
+--- Group 306 [left:none next=2012] ---
+あの・・・前から
+聞こうとは思って
+いたのですが・・・
+-[FID:3C, TEXT:009D] 那个……我从以前
+-[FID:3C, TEXT:009E] 就想问来着
+-[FID:3C, TEXT:009F] 呢……
+
+--- Group 307 [left:none next=2012] ---
+あの・・・前から
+聞こうとは思って
+いたのですが・・・
+-[FID:3C, TEXT:009D] 那个……我从以前
+-[FID:3C, TEXT:009E] 就想问来着
+-[FID:3C, TEXT:009F] 呢……
+
+--- Group 308 [left:none next=2012] ---
+あの・・・前から
+聞こうとは思って
+いたのですが・・・
+-[FID:3C, TEXT:009D] 那个……我从以前
+-[FID:3C, TEXT:009E] 就想问来着
+-[FID:3C, TEXT:009F] 呢……
+
+--- Group 309 [left:主人公 next=0023] ---
+わたしが、言葉を
+自然に理解できるのも
+召喚術の力でしょうか
++[FID:3C, TEXT:00A0] 我能自然地理解
+-[FID:3C, TEXT:0093] 语言也是召唤术的力量
++[FID:3C, TEXT:00A1] 吗？
+
+--- Group 310 [left:none next=0023] ---
+わたしが、言葉を
+自然に理解できるのも
+召喚術の力でしょうか
+-[FID:3C, TEXT:00A0] 我能自然地理解
+-[FID:3C, TEXT:0093] 语言也是召唤术的力量
+-[FID:3C, TEXT:00A1] 吗？
+
+--- Group 311 [left:none next=0023] ---
+わたしが、言葉を
+自然に理解できるのも
+召喚術の力でしょうか
+-[FID:3C, TEXT:00A0] 我能自然地理解
+-[FID:3C, TEXT:0093] 语言也是召唤术的力量
+-[FID:3C, TEXT:00A1] 吗？
+
+--- Group 312 [left:none next=0023] ---
+わたしが、言葉を
+自然に理解できるのも
+召喚術の力でしょうか
+-[FID:3C, TEXT:00A0] 我能自然地理解
+-[FID:3C, TEXT:0093] 语言也是召唤术的力量
+-[FID:3C, TEXT:00A1] 吗？
+
+--- Group 313 [left:主人公 next=0023] ---
+わたしが、言葉を
+自然に理解できるのも
+召喚術の力でしょうか
+-[FID:3C, TEXT:00A0] 我能自然地理解
+-[FID:3C, TEXT:0093] 语言也是召唤术的力量
+-[FID:3C, TEXT:00A1] 吗？
+
+--- Group 314 [right:none next=2012] ---
+ご名答、そうだよ
++[FID:3C, TEXT:00A2] 答对了，是这样的
+
+--- Group 315 [right:char_0041 next=2012] ---
+ご名答、そうだよ
+-[FID:3C, TEXT:00A2] 答对了，是这样的
+
+--- Group 316 [right:char_0043 next=2012] ---
+ご名答、そうだよ
+-[FID:3C, TEXT:00A2] 答对了，是这样的
+
+--- Group 317 [right:char_0043 next=2012] ---
+ご名答、そうだよ
+-[FID:3C, TEXT:00A2] 答对了，是这样的
+
+--- Group 318 [right:char_0041 next=2012] ---
+ご名答、そうだよ
+-[FID:3C, TEXT:00A2] 答对了，是这样的
+
+--- Group 319 [right:none next=2012] ---
+ご名答、そうだよ
+-[FID:3C, TEXT:00A2] 答对了，是这样的
+
+--- Group 320 [right:char_0041 next=2012] ---
+言葉が通じなかったら
+呼び出した相手を
+使えないだろ？
++[FID:3C, TEXT:00A3] 如果语言不通的话召唤
++[FID:3C, TEXT:00A4] 来的对象
++[FID:3C, TEXT:00A5] 就无法使用了吧？
+
+--- Group 321 [right:none next=2012] ---
+言葉が通じなかったら
+呼び出した相手を
+使えないだろ？
+-[FID:3C, TEXT:00A3] 如果语言不通的话召唤
+-[FID:3C, TEXT:00A4] 出来的对手
+-[FID:3C, TEXT:00A5] 就没法用了吧？
+
+--- Group 322 [right:char_0041 next=2012] ---
+言葉が通じなかったら
+呼び出した相手を
+使えないだろ？
+-[FID:3C, TEXT:00A3] 如果语言不通的话召唤
+-[FID:3C, TEXT:00A4] 出来的对手
+-[FID:3C, TEXT:00A5] 就没法用了吧？
+
+--- Group 323 [right:char_0043 next=2012] ---
+言葉が通じなかったら
+呼び出した相手を
+使えないだろ？
+-[FID:3C, TEXT:00A3] 如果语言不通的话召唤
+-[FID:3C, TEXT:00A4] 出来的对手
+-[FID:3C, TEXT:00A5] 就没法用了吧？
+
+--- Group 324 [right:char_0043 next=2012] ---
+言葉が通じなかったら
+呼び出した相手を
+使えないだろ？
+-[FID:3C, TEXT:00A3] 如果语言不通的话召唤
+-[FID:3C, TEXT:00A4] 出来的对手
+-[FID:3C, TEXT:00A5] 就没法用了吧？
+
+--- Group 325 [right:none next=2012] ---
+言葉が通じなかったら
+呼び出した相手を
+使えないだろ？
+-[FID:3C, TEXT:00A3] 如果语言不通的话召唤
+-[FID:3C, TEXT:00A4] 出来的对手
+-[FID:3C, TEXT:00A5] 就没法用了吧？
+
+--- Group 326 [right:char_0043 next=2012] ---
+召喚術の呪文の中には
+そういった要素も
+含まれているのさ
++[FID:3C, TEXT:00A6] 召唤术的咒语里也有包
++[FID:3C, TEXT:00A7] 含
++[FID:3C, TEXT:00A8] 这种要素哦
+
+--- Group 327 [right:none next=2012] ---
+召喚術の呪文の中には
+そういった要素も
+含まれているのさ
+-[FID:3C, TEXT:00A6] 召唤术的咒语里也有包
+-[FID:3C, TEXT:00A7] 含
+-[FID:3C, TEXT:00A8] 这种要素哦
+
+--- Group 328 [right:char_0041 next=2012] ---
+召喚術の呪文の中には
+そういった要素も
+含まれているのさ
+-[FID:3C, TEXT:00A6] 召唤术的咒语里也有包
+-[FID:3C, TEXT:00A7] 含
+-[FID:3C, TEXT:00A8] 这种要素哦
+
+--- Group 329 [right:none next=2012] ---
+召喚術の呪文の中には
+そういった要素も
+含まれているのさ
+-[FID:3C, TEXT:00A6] 召唤术的咒语里也有包
+-[FID:3C, TEXT:00A7] 含
+-[FID:3C, TEXT:00A8] 这种要素哦
+
+--- Group 330 [right:char_0041 next=2012] ---
+召喚術の呪文の中には
+そういった要素も
+含まれているのさ
+-[FID:3C, TEXT:00A6] 召唤术的咒语里也有包
+-[FID:3C, TEXT:00A7] 含
+-[FID:3C, TEXT:00A8] 这种要素哦
+
+--- Group 331 [right:char_0043 next=2012] ---
+召喚術の呪文の中には
+そういった要素も
+含まれているのさ
+-[FID:3C, TEXT:00A6] 召唤术的咒语里也有包
+-[FID:3C, TEXT:00A7] 含
+-[FID:3C, TEXT:00A8] 这种要素哦
+
+--- Group 332 [left:none next=0023] ---
+なるほど・・・
++[FID:3C, TEXT:00A9] 原来如此……
+
+--- Group 333 [left:主人公 next=0023] ---
+なるほど・・・
+-[FID:3C, TEXT:00A9] 原来如此……
+
+--- Group 334 [left:none next=0023] ---
+なるほど・・・
+-[FID:3C, TEXT:00A9] 原来如此……
+
+--- Group 335 [left:主人公 next=0023] ---
+なるほど・・・
+-[FID:3C, TEXT:00A9] 原来如此……
+
+--- Group 336 [left:none next=0023] ---
+なるほど・・・
+-[FID:3C, TEXT:00A9] 原来如此……
+
+--- Group 337 [left:伊利亚斯 next=2012] ---
+なるほど・・・
+が、わざわざ詰め所で
+調べることもあるまい
+-[FID:3C, TEXT:00A9] 原来如此……
++[FID:3C, TEXT:01F6] 不过，特意在事务所里
++[FID:3C, TEXT:01F7] 调查也没什么必要吧
+
+--- Group 338 [left:主人公 next=0023] ---
+へえ、便利だねぇ
++[FID:3C, TEXT:00AA] 哇，好方便啊
+
+--- Group 339 [left:none next=0023] ---
+へえ、便利だねぇ
+-[FID:3C, TEXT:00AA] 哇，好方便啊
+
+--- Group 340 [left:none next=0023] ---
+へえ、便利だねぇ
+-[FID:3C, TEXT:00AA] 哇，好方便啊
+
+--- Group 341 [left:none next=0023] ---
+へえ、便利だねぇ
+-[FID:3C, TEXT:00AA] 哇，好方便啊
+
+--- Group 342 [left:主人公 next=0023] ---
+へえ、便利だねぇ
+-[FID:3C, TEXT:00AA] 哇，好方便啊
+
+--- Group 343 [left:主人公 next=0023] ---
+・・・あの
+便利すぎませんか？
++[FID:3C, TEXT:00AB] ……那个
++[FID:3C, TEXT:00AC] 是不是太方便了点？
+
+--- Group 344 [left:none next=0023] ---
+・・・あの
+便利すぎませんか？
+-[FID:3C, TEXT:00AB] ……那个
+-[FID:3C, TEXT:00AC] 是不是太方便了点？
+
+--- Group 345 [left:none next=0023] ---
+・・・あの
+便利すぎませんか？
+-[FID:3C, TEXT:00AB] ……那个
+-[FID:3C, TEXT:00AC] 是不是太方便了点？
+
+--- Group 346 [left:主人公 next=0023] ---
+・・・あの
+便利すぎませんか？
+-[FID:3C, TEXT:00AB] ……那个
+-[FID:3C, TEXT:00AC] 是不是太方便了点？
+
+--- Group 347 [left:none next=0023] ---
+・・・あの
+便利すぎませんか？
+-[FID:3C, TEXT:00AB] ……那个
+-[FID:3C, TEXT:00AC] 是不是太方便了点？
+
+--- Group 348 [left:none next=0023] ---
+便利なんだね
++[FID:3C, TEXT:00BB] 真方便啊
+
+--- Group 349 [left:主人公 next=0023] ---
+便利なんだね
+-[FID:3C, TEXT:00BB] 真方便啊
+
+--- Group 350 [left:主人公 next=0023] ---
+便利なんだね
+-[FID:3C, TEXT:00BB] 真方便啊
+
+--- Group 351 [left:none next=0023] ---
+便利なんだね
+-[FID:3C, TEXT:00BB] 真方便啊
+
+--- Group 352 [left:none next=0023] ---
+便利なんだね
+-[FID:3C, TEXT:00BB] 真方便啊
+
+--- Group 353 [left:主人公 next=0023] ---
+便利なもんだな
++[FID:3C, TEXT:00BC] 真是个方便的东西啊
+
+--- Group 354 [left:主人公 next=0023] ---
+便利なもんだな
+-[FID:3C, TEXT:00BC] 真是个方便的东西啊
+
+--- Group 355 [left:主人公 next=0023] ---
+便利なもんだな
+-[FID:3C, TEXT:00BC] 真是个方便的东西啊
+
+--- Group 356 [left:none next=0023] ---
+便利なもんだな
+-[FID:3C, TEXT:00BC] 真是个方便的东西啊
+
+--- Group 357 [left:none next=0023] ---
+便利なもんだな
+-[FID:3C, TEXT:00BC] 真是个方便的东西啊
+
+--- Group 358 [left:none next=0023] ---
+便利なもんだな
+-[FID:3C, TEXT:00BC] 真是个方便的东西啊
+
+--- Group 359 [left:none next=0023] ---
+便利なんですね
++[FID:3C, TEXT:00BD] 真方便呢
+
+--- Group 360 [left:none next=0023] ---
+便利なんですね
+-[FID:3C, TEXT:00BD] 真方便呢
+
+--- Group 361 [left:主人公 next=0023] ---
+便利なんですね
+-[FID:3C, TEXT:00BD] 真方便呢
+
+--- Group 362 [left:none next=0023] ---
+便利なんですね
+-[FID:3C, TEXT:00BD] 真方便呢
+
+--- Group 363 [left:主人公 next=0023] ---
+便利なんですね
+-[FID:3C, TEXT:00BD] 真方便呢
+
+--- Group 364 [left:主人公 next=0023] ---
+ん？
++[FID:3C, TEXT:00BE] 嗯？
+
+--- Group 365 [left:主人公 next=0023] ---
+ん？
+-[FID:3C, TEXT:00BE] 嗯？
+
+--- Group 366 [left:主人公 next=0023] ---
+ん？
+-[FID:3C, TEXT:00BE] 嗯？
+
+--- Group 367 [left:主人公 next=0023] ---
+あら？
++[FID:3C, TEXT:00BF] 哎呀？
+
+--- Group 368 [left:主人公 next=0023] ---
+あら？
+-[FID:3C, TEXT:00BF] 哎呀？
+
+--- Group 369 [left:主人公 next=0023] ---
+あら？
+-[FID:3C, TEXT:00BF] 哎呀？
+
+--- Group 370 [left:主人公 next=2012] ---
+どいて、どいて
+どいてえぇぇぇっ！！
++[FID:3C, TEXT:00C0] 让开，让开
++[FID:3C, TEXT:00C1] 让开啊啊啊啊！！
+
+--- Group 371 [left:主人公 next=2012] ---
+どいて、どいて
+どいてえぇぇぇっ！！
+-[FID:3C, TEXT:00C0] 让开，让开
+-[FID:3C, TEXT:00C1] 让开啊啊啊啊！！
+
+--- Group 372 [left:主人公 next=2012] ---
+どいて、どいて
+どいてえぇぇぇっ！！
+-[FID:3C, TEXT:00C0] 让开，让开
+-[FID:3C, TEXT:00C1] 让开啊啊啊啊！！
+
+--- Group 373 [left:主人公 next=0023] ---
+でえっ！？
++[FID:3C, TEXT:00C2] 诶？！
+
+--- Group 374 [left:主人公 next=0023] ---
+うわっ！？
++[FID:3C, TEXT:00C3] 哇啊？！
+
+--- Group 375 [left:主人公 next=0023] ---
+なぁっ！？
++[FID:3C, TEXT:00C4] 纳尼？！
+
+--- Group 376 [left:主人公 next=0023] ---
+え・・・えっ・・・？
++[FID:3C, TEXT:00C5] 诶……诶？！
+
+--- Group 377 [right:char_0041 next=2012] ---
+いたたた・・・
+ちょっとアンタ、どこ
+に目ぇつけてんの！？
++[FID:3C, TEXT:00C6] 哎哟喂……
++[FID:3C, TEXT:00C7] 你这家伙，眼睛往哪儿
++[FID:3C, TEXT:00C8] 看呢！？
+
+--- Group 378 [left:主人公 next=0023] ---
+そっちこそ、避けられ
+ないほど全力で走った
+りするなあっ！
++[FID:3C, TEXT:00C9] 你才别跑得那么全力以
++[FID:3C, TEXT:00CA] 赴让人躲不开啊！
+
+--- Group 379 [left:主人公 next=0023] ---
+そっちこそ、避けられ
+ないほど全力で走った
+りするなよなっ！！
+-[FID:3C, TEXT:00C9] 你才别跑得那么全力以
+-[FID:3C, TEXT:00CA] 赴让人躲不开啊！
+
+--- Group 380 [left:主人公 next=0023] ---
+勝手にぶつかってきて
+その言いぐさは
+ないだろう！？
++[FID:3C, TEXT:00CC] 你自己撞上来还说这种
++[FID:3C, TEXT:00CD] 话
++[FID:3C, TEXT:00CE] 真是说不过去吧！？
+
+--- Group 381 [left:主人公 next=0023] ---
+あの、ぶつかって
+きたのはわたしじゃ
+なくって・・・
++[FID:3C, TEXT:00D0] 那个，撞过来的
++[FID:3C, TEXT:00D1] 不是我哦
++[FID:3C, TEXT:00D2] [FID:3C, T
+-[FID:3C, TEXT:00D2] EXT:00D2]
+
+--- Group 382 [left:主人公 next=2012] ---
+ガゼルの話だと、情報
+を集めるなら繁華街が
+一番だってことだけど
++[FID:3C, TEXT:00F8] 听加泽尔说，要收集情
++[FID:3C, TEXT:00F9] 报的话繁华街是最好的
++[FID:3C, TEXT:00FA] 地方
+
+--- Group 383 [left:主人公 next=2012] ---
+ガゼルの話だと、情報
+を集めるなら繁華街が
+一番だってことだけど
+-[FID:3C, TEXT:00F8] 听加泽尔说，要收集情
+-[FID:3C, TEXT:00F9] 报的话繁华街是最好的
+-[FID:3C, TEXT:00FA] 地方
+
+--- Group 384 [left:主人公 next=2012] ---
+ガゼルの話だと、情報
+を集めるなら繁華街が
+一番だってことだけど
+-[FID:3C, TEXT:00F8] 听加泽尔说，要收集情
+-[FID:3C, TEXT:00F9] 报的话繁华街是最好的
+-[FID:3C, TEXT:00FA] 地方
+
+--- Group 385 [left:主人公 next=0023] ---
+ははは、さすがに昼間
+じゃどうしようもない
+なあ
++[FID:3C, TEXT:00FB] 哈哈哈，确实白天没什
++[FID:3C, TEXT:00FC] 么办法呢
+
+--- Group 386 [left:主人公 next=0023] ---
+ははは、さすがに昼間
+じゃどうしようもない
+なあ
+-[FID:3C, TEXT:00FB] 哈哈哈，确实白天没什
+-[FID:3C, TEXT:00FC] 么办法呢
+
+--- Group 387 [left:主人公 next=0023] ---
+ははは、さすがに昼間
+じゃどうしようもない
+なあ
+-[FID:3C, TEXT:00FB] 哈哈哈，确实白天没什
+-[FID:3C, TEXT:00FC] 么办法呢
+
+--- Group 388 [left:主人公 next=0023] ---
+具体的にどうするのか
+聞いておくべきだった
+な・・・
++[FID:3C, TEXT:00FE] 应该事先问清楚具体要
++[FID:3C, TEXT:00FF] 怎么做才对啊……
+
+--- Group 389 [left:主人公 next=0023] ---
+具体的にどうするのか
+聞いておくべきだった
+な・・・
+-[FID:3C, TEXT:00FE] 应该事先问清楚具体要
+-[FID:3C, TEXT:00FF] 怎么做才对啊……
+
+--- Group 390 [left:主人公 next=0023] ---
+具体的にどうするのか
+聞いておくべきだった
+な・・・
+-[FID:3C, TEXT:00FE] 应该事先问清楚具体要
+-[FID:3C, TEXT:00FF] 怎么做才对啊……
+
+--- Group 391 [left:主人公 next=0023] ---
+う〜ん、昼間じゃ
+そんな情報あるわけ
+ないか・・・
++[FID:3C, TEXT:0101] 嗯——，白天的话
++[FID:3C, TEXT:0102] 应该不会有什么
++[FID:3C, TEXT:0103] 消息吧……
+
+--- Group 392 [left:主人公 next=0023] ---
+う〜ん、昼間じゃ
+そんな情報あるわけ
+ないか・・・
+-[FID:3C, TEXT:0101] 嗯——，白天的话
+-[FID:3C, TEXT:0102] 应该不会有什么
+-[FID:3C, TEXT:0103] 消息吧……
+
+--- Group 393 [left:主人公 next=0023] ---
+う〜ん、昼間じゃ
+そんな情報あるわけ
+ないか・・・
+-[FID:3C, TEXT:0101] 嗯——，白天的话
+-[FID:3C, TEXT:0102] 应该不会有什么
+-[FID:3C, TEXT:0103] 消息吧……
+
+--- Group 394 [left:主人公 next=2012] ---
+ガゼルさんの話だと
+情報収集なら繁華街が
+一番だって・・・
++[FID:3C, TEXT:0104] 听加泽尔先生说
++[FID:3C, TEXT:0105] 要收集情报的话繁华街
++[FID:3C, TEXT:0106] 是最好的……
+
+--- Group 395 [left:主人公 next=2012] ---
+ガゼルさんの話だと
+情報収集なら繁華街が
+一番だって・・・
+-[FID:3C, TEXT:0104] 听加泽尔先生说
+-[FID:3C, TEXT:0105] 要收集情报的话繁华街
+-[FID:3C, TEXT:0106] 是最好的……
+
+--- Group 396 [left:主人公 next=2012] ---
+ガゼルさんの話だと
+情報収集なら繁華街が
+一番だって・・・
+-[FID:3C, TEXT:0104] 听加泽尔先生说
+-[FID:3C, TEXT:0105] 要收集情报的话繁华街
+-[FID:3C, TEXT:0106] 是最好的……
+
+--- Group 397 [left:主人公 next=0023] ---
+とはいっても、
+こういうのは
+慣れていませんし・・
++[FID:3C, TEXT:0107] 话虽这么说，
++[FID:3C, TEXT:0108] 我对这种事
++[FID:3C, TEXT:0109] 也不太习惯啊……
+
+--- Group 398 [left:主人公 next=0023] ---
+とはいっても、
+こういうのは
+慣れていませんし・・
+-[FID:3C, TEXT:0107] 话虽这么说，
+-[FID:3C, TEXT:0108] 我对这种事
+-[FID:3C, TEXT:0109] 也不太习惯啊……
+
+--- Group 399 [left:主人公 next=0023] ---
+とはいっても、
+こういうのは
+慣れていませんし・・
+-[FID:3C, TEXT:0107] 话虽这么说，
+-[FID:3C, TEXT:0108] 我对这种事
+-[FID:3C, TEXT:0109] 也不太习惯啊……
+
+--- Group 400 [left:主人公 next=2012] ---
+そこの貴方？
++[FID:3C, TEXT:010A] 那边的你？
+
+--- Group 401 [left:主人公 next=2012] ---
+そこの貴方？
+-[FID:3C, TEXT:010A] 那边的你？
+
+--- Group 402 [left:主人公 next=2012] ---
+そこの貴方？
+-[FID:3C, TEXT:010A] 那边的你？
+
+--- Group 403 [left:主人公 next=0023] ---
+え？
++[FID:3C, TEXT:010B] 嗯？
+
+--- Group 404 [left:主人公 next=0023] ---
+え？
+-[FID:3C, TEXT:010B] 嗯？
+
+--- Group 405 [left:主人公 next=0023] ---
+え？
+-[FID:3C, TEXT:010B] 嗯？
+
+--- Group 406 [left:主人公 next=0023] ---
+はい？
++[FID:3C, TEXT:010C] 是？
+
+--- Group 407 [left:主人公 next=0023] ---
+はい？
+-[FID:3C, TEXT:010C] 是？
+
+--- Group 408 [left:主人公 next=0023] ---
+はい？
+-[FID:3C, TEXT:010C] 是？
+
+--- Group 409 [left:主人公 next=0023] ---
+うわ・・・
+すごくキレイな人
++[FID:3C, TEXT:010D] 哇……
++[FID:3C, TEXT:0110] 好漂亮的人
+
+--- Group 410 [left:主人公 next=0023] ---
+うわ・・・
+すごくキレイな人だ
+-[FID:3C, TEXT:010D] 哇……
++[FID:3C, TEXT:010E] 好漂亮的人啊
+
+--- Group 411 [left:主人公 next=0023] ---
+うわ・・・
+すごくキレイなひと
+-[FID:3C, TEXT:010D] 哇……
++[FID:3C, TEXT:010F] 好漂亮的人
+
+--- Group 412 [right:char_0043 next=2012] ---
+いくら昼間だからって
+こういう場所に子供が
+入ってきちゃダメよ
++[FID:3C, TEXT:0111] 就算是白天这种地方小
++[FID:3C, TEXT:0112] 孩子也不准进来哦
+
+--- Group 413 [left:主人公 next=0023] ---
+は、はいっ
++[FID:3C, TEXT:0114] 好的，好的！
+
+--- Group 414 [left:主人公 next=0023] ---
+は、はあ
++[FID:3C, TEXT:0115] 呃，嗯……
+
+--- Group 415 [left:主人公 next=0023] ---
+あ、はははい！
++[FID:3C, TEXT:0116] 啊，呵呵，好的！
+
+--- Group 416 [left:主人公 next=0023] ---
+あ、はい・・・
++[FID:3C, TEXT:0117] 啊，嗯……
+
+--- Group 417 [right:char_0043 next=2012] ---
+面倒なことに巻き込ま
+れる前に帰ること
++[FID:3C, TEXT:0118] 在卷入麻烦事之前快点
++[FID:3C, TEXT:0119] 回去
+
+--- Group 418 [right:char_0043 next=2012] ---
+いいわね？
++[FID:3C, TEXT:011A] 听见没？
+
+--- Group 419 [right:none next=2012] ---
+よお、散歩か？
++[FID:3C, TEXT:011B] 哟，散步呢？
+
+--- Group 420 [right:char_0041 next=2012] ---
+よお、散歩か？
+-[FID:3C, TEXT:011B] 哟，散步呢？
+
+--- Group 421 [right:char_0041 next=2012] ---
+よお、散歩か？
+-[FID:3C, TEXT:011B] 哟，散步呢？
+
+--- Group 422 [right:char_0043 next=2012] ---
+よお、散歩か？
+-[FID:3C, TEXT:011B] 哟，散步呢？
+
+--- Group 423 [right:none next=2012] ---
+よお、散歩か？
+-[FID:3C, TEXT:011B] 哟，散步呢？
+
+--- Group 424 [right:char_0043 next=2012] ---
+よお、散歩か？
+-[FID:3C, TEXT:011B] 哟，散步呢？
+
+--- Group 425 [left:主人公 next=0023] ---
+ああ
+なんならつきあうか？
++[FID:3C, TEXT:011C] 嗯，
++[FID:3C, TEXT:011D] 要是愿意的话，要不要
+-[FID:3C, TEXT:011D] 一起去？
+
+--- Group 426 [left:主人公 next=0023] ---
+ああ
+なんならつきあうか？
+-[FID:3C, TEXT:011C] 嗯，
+-[FID:3C, TEXT:011D] 要是愿意的话，要不要
+-[FID:3C, TEXT:011D] 一起去？
+
+--- Group 427 [left:none next=0023] ---
+ああ
+なんならつきあうか？
+-[FID:3C, TEXT:011C] 嗯，
+-[FID:3C, TEXT:011D] 要是愿意的话，要不要
+-[FID:3C, TEXT:011D] 一起去？
+
+--- Group 428 [left:none next=0023] ---
+ああ
+なんならつきあうか？
+-[FID:3C, TEXT:011C] 嗯，
+-[FID:3C, TEXT:011D] 要是愿意的话，要不要
+-[FID:3C, TEXT:011D] 一起去？
+
+--- Group 429 [left:主人公 next=0023] ---
+ああ
+なんならつきあうか？
+-[FID:3C, TEXT:011C] 嗯，
+-[FID:3C, TEXT:011D] 要是愿意的话，要不要
+-[FID:3C, TEXT:011D] 一起去？
+
+--- Group 430 [left:none next=0023] ---
+ああ
+なんならつきあうか？
+-[FID:3C, TEXT:011C] 嗯，
+-[FID:3C, TEXT:011D] 要是愿意的话，要不要
+-[FID:3C, TEXT:011D] 一起去？
+
+--- Group 431 [left:none next=0023] ---
+まあね
+なんならつきあうかい
++[FID:3C, TEXT:011E] 嗯哼，
++[FID:3C, TEXT:011F] 要是愿意的话，要不要
+-[FID:3C, TEXT:011F] 一起去啊？
+
+--- Group 432 [left:主人公 next=0023] ---
+まあね
+なんならつきあうかい
+-[FID:3C, TEXT:011E] 嗯哼，
+-[FID:3C, TEXT:011F] 要是愿意的话，要不要
+-[FID:3C, TEXT:011F] 一起去啊？
+
+--- Group 433 [left:none next=0023] ---
+まあね
+なんならつきあうかい
+-[FID:3C, TEXT:011E] 嗯哼，
+-[FID:3C, TEXT:011F] 要是愿意的话，要不要
+-[FID:3C, TEXT:011F] 一起去啊？
+
+--- Group 434 [left:主人公 next=0023] ---
+まあね
+なんならつきあうかい
+-[FID:3C, TEXT:011E] 嗯哼，
+-[FID:3C, TEXT:011F] 要是愿意的话，要不要
+-[FID:3C, TEXT:011F] 一起去啊？
+
+--- Group 435 [left:none next=0023] ---
+まあね
+なんならつきあうかい
+-[FID:3C, TEXT:011E] 嗯哼，
+-[FID:3C, TEXT:011F] 要是愿意的话，要不要
+-[FID:3C, TEXT:011F] 一起去啊？
+
+--- Group 436 [left:主人公 next=0023] ---
+うん、
+いっしょに行かない？
++[FID:3C, TEXT:0120] 嗯，
++[FID:3C, TEXT:0121] 要不要一起去？
+
+--- Group 437 [left:none next=0023] ---
+うん、
+いっしょに行かない？
+-[FID:3C, TEXT:0120] 嗯，
+-[FID:3C, TEXT:0121] 要不要一起去？
+
+--- Group 438 [left:none next=0023] ---
+うん、
+いっしょに行かない？
+-[FID:3C, TEXT:0120] 嗯，
+-[FID:3C, TEXT:0121] 要不要一起去？
+
+--- Group 439 [left:none next=0023] ---
+うん、
+いっしょに行かない？
+-[FID:3C, TEXT:0120] 嗯，
+-[FID:3C, TEXT:0121] 要不要一起去？
+
+--- Group 440 [left:主人公 next=0023] ---
+うん、
+いっしょに行かない？
+-[FID:3C, TEXT:0120] 嗯，
+-[FID:3C, TEXT:0121] 要不要一起去？
+
+--- Group 441 [left:none next=0023] ---
+ええ
+いっしょにどうです？
++[FID:3C, TEXT:0122] 嗯，
++[FID:3C, TEXT:0123] 一起去怎么样？
+
+--- Group 442 [left:主人公 next=0023] ---
+ええ
+いっしょにどうです？
+-[FID:3C, TEXT:0122] 嗯，
+-[FID:3C, TEXT:0123] 一起去怎么样？
+
+--- Group 443 [left:none next=0023] ---
+ええ
+いっしょにどうです？
+-[FID:3C, TEXT:0122] 嗯，
+-[FID:3C, TEXT:0123] 一起去怎么样？
+
+--- Group 444 [left:主人公 next=0023] ---
+ええ
+いっしょにどうです？
+-[FID:3C, TEXT:0122] 嗯，
+-[FID:3C, TEXT:0123] 一起去怎么样？
+
+--- Group 445 [left:none next=0023] ---
+ええ
+いっしょにどうです？
+-[FID:3C, TEXT:0122] 嗯，
+-[FID:3C, TEXT:0123] 一起去怎么样？
+
+--- Group 446 [right:char_0041 next=2012] ---
+ケッ、今さら街を散歩
+してもつまらねえよ
+パスだ、パス
++[FID:3C, TEXT:0124] 嘁，现在才去逛街也没
++[FID:3C, TEXT:0125] 什么意思
++[FID:3C, TEXT:0126] 不去了，不去了
+
+--- Group 447 [right:none next=2012] ---
+ケッ、今さら街を散歩
+してもつまらねえよ
+パスだ、パス
+-[FID:3C, TEXT:0124] 嘁，现在才去逛街也没
+-[FID:3C, TEXT:0125] 什么意思
+-[FID:3C, TEXT:0126] 不去了，不去了
+
+--- Group 448 [right:none next=2012] ---
+ケッ、今さら街を散歩
+してもつまらねえよ
+パスだ、パス
+-[FID:3C, TEXT:0124] 嘁，现在才去逛街也没
+-[FID:3C, TEXT:0125] 什么意思
+-[FID:3C, TEXT:0126] 不去了，不去了
+
+--- Group 449 [right:char_0041 next=2012] ---
+ケッ、今さら街を散歩
+してもつまらねえよ
+パスだ、パス
+-[FID:3C, TEXT:0124] 嘁，现在才去逛街也没
+-[FID:3C, TEXT:0125] 什么意思
+-[FID:3C, TEXT:0126] 不去了，不去了
+
+--- Group 450 [right:char_0043 next=2012] ---
+ケッ、今さら街を散歩
+してもつまらねえよ
+パスだ、パス
+-[FID:3C, TEXT:0124] 嘁，现在才去逛街也没
+-[FID:3C, TEXT:0125] 什么意思
+-[FID:3C, TEXT:0126] 不去了，不去了
+
+--- Group 451 [right:char_0043 next=2012] ---
+ケッ、今さら街を散歩
+してもつまらねえよ
+パスだ、パス
+-[FID:3C, TEXT:0124] 嘁，现在才去逛街也没
+-[FID:3C, TEXT:0125] 什么意思
+-[FID:3C, TEXT:0126] 不去了，不去了
+
+--- Group 452 [right:none next=2012] ---
+それより、調子にのっ
+てあんまり物騒な場所
+をうろつくなよ
++[FID:3C, TEXT:0127] 别得意忘形别到处乱逛
++[FID:3C, TEXT:0128] 危险的地方
+
+--- Group 453 [right:none next=2012] ---
+それより、調子にのっ
+てあんまり物騒な場所
+をうろつくなよ
+-[FID:3C, TEXT:0127] 别得意忘形别到处乱逛
+-[FID:3C, TEXT:0128] 危险的地方
+
+--- Group 454 [right:char_0041 next=2012] ---
+それより、調子にのっ
+てあんまり物騒な場所
+をうろつくなよ
+-[FID:3C, TEXT:0127] 别得意忘形别到处乱逛
+-[FID:3C, TEXT:0128] 危险的地方
+
+--- Group 455 [right:char_0043 next=2012] ---
+それより、調子にのっ
+てあんまり物騒な場所
+をうろつくなよ
+-[FID:3C, TEXT:0127] 别得意忘形别到处乱逛
+-[FID:3C, TEXT:0128] 危险的地方
+
+--- Group 456 [right:char_0043 next=2012] ---
+それより、調子にのっ
+てあんまり物騒な場所
+をうろつくなよ
+-[FID:3C, TEXT:0127] 别得意忘形别到处乱逛
+-[FID:3C, TEXT:0128] 危险的地方
+
+--- Group 457 [right:char_0041 next=2012] ---
+それより、調子にのっ
+てあんまり物騒な場所
+をうろつくなよ
+-[FID:3C, TEXT:0127] 别得意忘形别到处乱逛
+-[FID:3C, TEXT:0128] 危险的地方
+
+--- Group 458 [right:char_0043 next=2012] ---
+特に北スラムなんか、
+まちがってもな
++[FID:3C, TEXT:012A] 特别是北边的贫民窟千
++[FID:3C, TEXT:012B] 万别去
+
+--- Group 459 [right:char_0041 next=2012] ---
+特に北スラムなんか、
+まちがってもな
+-[FID:3C, TEXT:012A] 特别是北边的贫民窟千
+-[FID:3C, TEXT:012B] 万别去
+
+--- Group 460 [right:none next=2012] ---
+特に北スラムなんか、
+まちがってもな
+-[FID:3C, TEXT:012A] 特别是北边的贫民窟千
+-[FID:3C, TEXT:012B] 万别去
+
+--- Group 461 [right:char_0043 next=2012] ---
+特に北スラムなんか、
+まちがってもな
+-[FID:3C, TEXT:012A] 特别是北边的贫民窟千
+-[FID:3C, TEXT:012B] 万别去
+
+--- Group 462 [right:none next=2012] ---
+特に北スラムなんか、
+まちがってもな
+-[FID:3C, TEXT:012A] 特别是北边的贫民窟千
+-[FID:3C, TEXT:012B] 万别去
+
+--- Group 463 [right:char_0041 next=2012] ---
+特に北スラムなんか、
+まちがってもな
+-[FID:3C, TEXT:012A] 特别是北边的贫民窟千
+-[FID:3C, TEXT:012B] 万别去
+
+--- Group 464 [left:none next=0023] ---
+ああ、わかってるよ
++[FID:3C, TEXT:012C] 啊，我知道了
+
+--- Group 465 [left:主人公 next=0023] ---
+ああ、わかってるよ
+-[FID:3C, TEXT:012C] 啊，我知道了
+
+--- Group 466 [left:none next=0023] ---
+ああ、わかってるよ
+-[FID:3C, TEXT:012C] 啊，我知道了
+
+--- Group 467 [left:none next=0023] ---
+ああ、わかってるよ
+-[FID:3C, TEXT:012C] 啊，我知道了
+
+--- Group 468 [left:主人公 next=0023] ---
+ああ、わかってるよ
+-[FID:3C, TEXT:012C] 啊，我知道了
+
+--- Group 469 [left:主人公 next=0023] ---
+ああ、わかってるよ
+-[FID:3C, TEXT:012C] 啊，我知道了
+
+--- Group 470 [left:主人公 next=0023] ---
+ああ、わかってる
++[FID:3C, TEXT:012D] 啊，知道了
+
+--- Group 471 [left:none next=0023] ---
+ああ、わかってる
+-[FID:3C, TEXT:012D] 啊，知道了
+
+--- Group 472 [left:none next=0023] ---
+ああ、わかってる
+-[FID:3C, TEXT:012D] 啊，知道了
+
+--- Group 473 [left:none next=0023] ---
+ああ、わかってる
+-[FID:3C, TEXT:012D] 啊，知道了
+
+--- Group 474 [left:主人公 next=0023] ---
+ああ、わかってる
+-[FID:3C, TEXT:012D] 啊，知道了
+
+--- Group 475 [left:主人公 next=0023] ---
+うん、おっけ〜！
++[FID:3C, TEXT:012E] 嗯，没问题！
+
+--- Group 476 [left:none next=0023] ---
+うん、おっけ〜！
+-[FID:3C, TEXT:012E] 嗯，没问题！
+
+--- Group 477 [left:none next=0023] ---
+うん、おっけ〜！
+-[FID:3C, TEXT:012E] 嗯，没问题！
+
+--- Group 478 [left:主人公 next=0023] ---
+うん、おっけ〜！
+-[FID:3C, TEXT:012E] 嗯，没问题！
+
+--- Group 479 [left:none next=0023] ---
+うん、おっけ〜！
+-[FID:3C, TEXT:012E] 嗯，没问题！
+
+--- Group 480 [left:none next=0023] ---
+はい、わかりました
++[FID:3C, TEXT:012F] 是，明白了
+
+--- Group 481 [left:主人公 next=0023] ---
+はい、わかりました
+-[FID:3C, TEXT:012F] 是，明白了
+
+--- Group 482 [left:none next=0023] ---
+はい、わかりました
+-[FID:3C, TEXT:012F] 是，明白了
+
+--- Group 483 [left:none next=0023] ---
+はい、わかりました
+-[FID:3C, TEXT:012F] 是，明白了
+
+--- Group 484 [left:主人公 next=0023] ---
+はい、わかりました
+-[FID:3C, TEXT:012F] 是，明白了
+
+--- Group 485 [left:none next=0023] ---
+ガゼルがそう言っても
+説得力ないけど・・・
++[FID:3C, TEXT:0130] 就算加泽尔这么说也没
++[FID:3C, TEXT:0131] 什么说服力呢……
+
+--- Group 486 [left:主人公 next=0023] ---
+ガゼルがそう言っても
+説得力ないけど・・・
+-[FID:3C, TEXT:0130] 就算加泽尔这么说也没
+-[FID:3C, TEXT:0131] 什么说服力
+
+--- Group 561 [right:巴萨 next=2012] ---
+このへらへら笑ってる
+バカ野郎に感謝しな
+クソッ・・・！！
++[FID:3C, TEXT:017C] 别再傻笑了给我感谢那
++[FID:3C, TEXT:017D] 个笨蛋吧
++[FID:3C, TEXT:017E] 可恶……！！
+
+--- Group 562 [right:卡农 next=2012] ---
+へらへらしてるなんて
+ヒドイなぁ
++[FID:3C, TEXT:017F] 傻笑什么的太过分了
+
+--- Group 563 [left:卡农 next=0023] ---
+あ・・・ありがとう
++[FID:3C, TEXT:0181] 啊……谢谢
+
+--- Group 564 [left:卡农 next=0023] ---
+あ・・・ありがとね
++[FID:3C, TEXT:0182] 啊……谢谢你哦
+
+--- Group 565 [right:卡农 next=2012] ---
+あ、いえいえ
+いつものことだから、
+気にしないでください
++[FID:3C, TEXT:0183] 啊，没什么
++[FID:3C, TEXT:0184] 都是常有的事了请别在
++[FID:3C, TEXT:0185] 意
+
+--- Group 566 [right:卡农 next=2012] ---
+でも、お姉さんも気を
+つけてくださいよ
++[FID:3C, TEXT:0188] 不过，姐姐也要小心点
++[FID:3C, TEXT:0187] 哦
+
+--- Group 567 [right:卡农 next=2012] ---
+あんまりバノッサさん
+を刺激しないようにね
++[FID:3C, TEXT:0189] 别再那么刺激巴诺萨了
++[FID:3C, TEXT:018A] 哦
+
+--- Group 568 [left:主人公 next=0023] ---
+カノン、か
+バノッサと義兄弟なの
+が信じられないくらい
+礼儀正しいよなぁ
++[FID:3C, TEXT:018B] 卡农啊
++[FID:3C, TEXT:018C] 简直不敢相信她和巴诺
++[FID:3C, TEXT:018D] 萨是义兄弟真是太有礼
++[FID:3C, TEXT:018E] 貌了
+
+--- Group 569 [left:主人公 next=0023] ---
+カノン、か
+バノッサと義兄弟なの
+が信じられないくらい
+礼儀正しいな
+-[FID:3C, TEXT:018B] 卡农啊
+-[FID:3C, TEXT:018C] 简直不敢相信她和巴诺
+-[FID:3C, TEXT:018D] 萨是义兄弟真是太有礼
++[FID:3C, TEXT:018F] 貌了
+
+--- Group 570 [left:主人公 next=0023] ---
+う〜ん・・・
+カノンってあれで
+バノッサと義兄弟
+なんだよね・・・
++[FID:3C, TEXT:0190] 嗯……
++[FID:3C, TEXT:0191] 卡农啊
++[FID:3C, TEXT:0192] 和巴诺萨是义兄弟
++[FID:3C, TEXT:0193] 对吧……
+
+--- Group 571 [left:主人公 next=0023] ---
+カノンさん・・・
+バノッサさんと義兄弟
+だなんて・・・信じ
+られない人ですね
++[FID:3C, TEXT:0194] 卡农小姐……
++[FID:3C, TEXT:0195] 和巴诺萨是义兄弟真是
++[FID:3C, TEXT:0196] 让人难以置信
++[FID:3C, TEXT:0197] 啊
+
+--- Group 572 [right:none next=2012] ---
+お姉さん
+なにしてるんですか？
++[FID:3C, TEXT:019A] 姐姐
++[FID:3C, TEXT:0199] 你在做什么呢？
+
+--- Group 573 [right:char_0043 next=2012] ---
+お姉さん
+なにしてるんですか？
+-[FID:3C, TEXT:019A] 姐姐
+-[FID:3C, TEXT:0199] 你在做什么呢？
+
+--- Group 574 [right:char_0041 next=2012] ---
+お姉さん
+なにしてるんですか？
+-[FID:3C, TEXT:019A] 姐姐
+-[FID:3C, TEXT:0199] 你在做什么呢？
+
+--- Group 575 [right:char_0041 next=2012] ---
+お姉さん
+なにしてるんですか？
+-[FID:3C, TEXT:019A] 姐姐
+-[FID:3C, TEXT:0199] 你在做什么呢？
+
+--- Group 576 [right:none next=2012] ---
+お姉さん
+なにしてるんですか？
+-[FID:3C, TEXT:019A] 姐姐
+-[FID:3C, TEXT:0199] 你在做什么呢？
+
+--- Group 577 [right:char_0043 next=2012] ---
+お姉さん
+なにしてるんですか？
+-[FID:3C, TEXT:019A] 姐姐
+-[FID:3C, TEXT:0199] 你在做什么呢？
+
+--- Group 578 [left:主人公 next=0023] ---
+あ、カノン・・・
++[FID:3C, TEXT:019B] 啊，卡农……
+
+--- Group 579 [left:主人公 next=0023] ---
+あ、カノン・・・
+-[FID:3C, TEXT:019B] 啊，卡农……
+
+--- Group 580 [left:none next=0023] ---
+あ、カノン・・・
+-[FID:3C, TEXT:019B] 啊，卡农……
+
+--- Group 581 [left:主人公 next=0023] ---
+あ、カノン・・・
+-[FID:3C, TEXT:019B] 啊，卡农……
+
+--- Group 582 [left:none next=0023] ---
+あ、カノン・・・
+-[FID:3C, TEXT:019B] 啊，卡农……
+
+--- Group 583 [left:none next=0023] ---
+あ、カノン・・・
+-[FID:3C, TEXT:019B] 啊，卡农……
+
+--- Group 584 [left:主人公 next=0023] ---
+ああ、カノン・・・
++[FID:3C, TEXT:019C] 啊啊，卡农……
+
+--- Group 585 [left:none next=0023] ---
+ああ、カノン・・・
+-[FID:3C, TEXT:019C] 啊啊，卡农……
+
+--- Group 586 [left:none next=0023] ---
+ああ、カノン・・・
+-[FID:3C, TEXT:019C] 啊啊，卡农……
+
+--- Group 587 [left:none next=0023] ---
+ああ、カノン・・・
+-[FID:3C, TEXT:019C] 啊啊，卡农……
+
+--- Group 588 [left:主人公 next=0023] ---
+ああ、カノン・・・
+-[FID:3C, TEXT:019C] 啊啊，卡农……
+
+--- Group 589 [left:none next=0023] ---
+あ、カノンさん・・・
++[FID:3C, TEXT:019D] 啊，卡农小姐……
+
+--- Group 590 [left:主人公 next=0023] ---
+あ、カノンさん・・・
+-[FID:3C, TEXT:019D] 啊，卡农小姐……
+
+--- Group 591 [left:none next=0023] ---
+あ、カノンさん・・・
+-[FID:3C, TEXT:019D] 啊，卡农小姐……
+
+--- Group 592 [left:none next=0023] ---
+あ、カノンさん・・・
+-[FID:3C, TEXT:019D] 啊，卡农小姐……
+
+--- Group 593 [left:主人公 next=0023] ---
+あ、カノンさん・・・
+-[FID:3C, TEXT:019D] 啊，卡农小姐……
+
+--- Group 594 [right:char_0041 next=2012] ---
+前にも言ったでしょ
+あんまりバノッサさん
+を刺激しないでほしい
+って
++[FID:3C, TEXT:019E] 之前就跟你说过了吧
+-[FID:3C, TEXT:0189] 别那么刺激巴诺萨了[
++[FID:3C, TEXT:019F] FID:3C, TE
++[FID:3C, TEXT:01A0] XT:01A0]
+
+--- Group 595 [right:char_0043 next=2012] ---
+前にも言ったでしょ
+あんまりバノッサさん
+を刺激しないでほしい
+って
+-[FID:3C, TEXT:019E] 之前就跟你说过了吧
+-[FID:3C, TEXT:0189] 别那么刺激巴诺萨了[
+-[FID:3C, TEXT:019F] FID:3C, TE
+-[FID:3C, TEXT:01A0] XT:01A0]
+
+--- Group 596 [right:char_0043 next=2012] ---
+前にも言ったでしょ
+あんまりバノッサさん
+を刺激しないでほしい
+って
+-[FID:3C, TEXT:019E] 之前就跟你说过了吧
+-[FID:3C, TEXT:0189] 别那么刺激巴诺萨了[
+-[FID:3C, TEXT:019F] FID:3C, TE
+-[FID:3C, TEXT:01A0] XT:01A0]
+
+--- Group 597 [right:char_0041 next=2012] ---
+前にも言ったでしょ
+あんまりバノッサさん
+を刺激しないでほしい
+って
+-[FID:3C, TEXT:019E] 之前就跟你说过了吧
+-[FID:3C, TEXT:0189] 别那么刺激巴诺萨了[
+-[FID:3C, TEXT:019F] FID:3C, TE
+-[FID:3C, TEXT:01A0] XT:01A0]
+
+--- Group 598 [right:none next=2012] ---
+前にも言ったでしょ
+あんまりバノッサさん
+を刺激しないでほしい
+って
+-[FID:3C, TEXT:019E] 之前就跟你说过了吧
+-[FID:3C, TEXT:0189] 别那么刺激巴诺萨了[
+-[FID:3C, TEXT:019F] FID:3C, TE
+-[FID:3C, TEXT:01A0] XT:01A0]
+
+--- Group 599 [right:none next=2012] ---
+前にも言ったでしょ
+あんまりバノッサさん
+を刺激しないでほしい
+って
+-[FID:3C, TEXT:019E] 之前就跟你说过了吧
+-[FID:3C, TEXT:0189] 别那么刺激巴诺萨了[
+-[FID:3C, TEXT:019F] FID:3C, TE
+-[FID:3C, TEXT:01A0] XT:01A0]
+
+--- Group 600 [right:char_0041 next=2012] ---
+たまたま最初に見つけ
+たのがボクだったから
+よかったですけど
++[FID:3C, TEXT:01A1] 幸好最先发现我的是你
++[FID:3C, TEXT:01A2] [FID:3C, T
++[FID:3C, TEXT:01A3] EXT:01A3]
+
+--- Group 601 [right:char_0043 next=2012] ---
+たまたま最初に見つけ
+たのがボクだったから
+よかったですけど
+-[FID:3C, TEXT:01A1] 幸好最先发现我的是你
+-[FID:3C, TEXT:01A2] [FID:3C, T
+-[FID:3C, TEXT:01A3] EXT:01A3]
+
+--- Group 602 [right:none next=2012] ---
+たまたま最初に見つけ
+たのがボクだったから
+よかったですけど
+-[FID:3C, TEXT:01A1] 幸好最先发现我的是你
+-[FID:3C, TEXT:01A2] [FID:3C, T
+-[FID:3C, TEXT:01A3] EXT:01A3]
+
+--- Group 603 [right:char_0043 next=2012] ---
+たまたま最初に見つけ
+たのがボクだったから
+よかったですけど
+-[FID:3C, TEXT:01A1] 幸好最先发现我的是你
+-[FID:3C, TEXT:01A2] [FID:3C, T
+-[FID:3C, TEXT:01A3] EXT:01A3]
+
+--- Group 604 [right:none next=2012] ---
+たまたま最初に見つけ
+たのがボクだったから
+よかったですけど
+-[FID:3C, TEXT:01A1] 幸好最先发现我的是你
+-[FID:3C, TEXT:01A2] [FID:3C, T
+-[FID:3C, TEXT:01A3] EXT:01A3]
+
+--- Group 605 [right:char_0041 next=2012] ---
+たまたま最初に見つけ
+たのがボクだったから
+よかったですけど
+-[FID:3C, TEXT:01A1] 幸好最先发现我的是你
+-[FID:3C, TEXT:01A2] [FID:3C, T
+-[FID:3C, TEXT:01A3] EXT:01A3]
+
+--- Group 606 [right:char_0043 next=2012] ---
+さ、早いところ退散
+しちゃってくださいね
++[FID:3C, TEXT:01A4] 快点离开吧
++[FID:3C, TEXT:01A5] [FID:3C, T
+-[FID:3C, TEXT:01A5] EXT:01A5]
+
+--- Group 607 [right:none next=2012] ---
+さ、早いところ退散
+しちゃってくださいね
+-[FID:3C, TEXT:01A4] 快点离开吧
+-[FID:3C, TEXT:01A5] [FID:3C, T
+-[FID:3C, TEXT:01A5] EXT:01A5]
+
+--- Group 608 [right:none next=2012] ---
+さ、早いところ退散
+しちゃってくださいね
+-[FID:3C, TEXT:01A4] 快点离开吧
+-[FID:3C, TEXT:01A5] [FID:3C, T
+-[FID:3C, TEXT:01A5] EXT:01A5]
+
+--- Group 609 [right:char_0041 next=2012] ---
+さ、早いところ退散
+しちゃってくださいね
+-[FID:3C, TEXT:01A4] 快点离开吧
+-[FID:3C, TEXT:01A5] [FID:3C, T
+-[FID:3C, TEXT:01A5] EXT:01A5]
+
+--- Group 610 [right:char_0041 next=2012] ---
+さ、早いところ退散
+しちゃってくださいね
+-[FID:3C, TEXT:01A4] 快点离开吧
+-[FID:3C, TEXT:01A5] [FID:3C, T
+-[FID:3C, TEXT:01A5] EXT:01A5]
+
+--- Group 611 [right:char_0043 next=2012] ---
+さ、早いところ退散
+しちゃってくださいね
+-[FID:3C, TEXT:01A4] 快点离开吧
+-[FID:3C, TEXT:01A5] [FID:3C, T
+-[FID:3C, TEXT:01A5] EXT:01A5]
+
+--- Group 612 [right:none next=0023] ---
+どうしよう？
++[FID:3C, TEXT:01A6] 怎么办？
+
+--- Group 613 [left:主人公 next=2015] ---
+どうしよう？
+　放っておく
+　近づいてみる
+-[FID:3C, TEXT:01A6] 怎么办？
++[FID:3C, TEXT:029B] 　置之不理
++[FID:3C, TEXT:029C] 　上前搭话
+
+--- Group 614 [left:主人公 next=2015] ---
+どうしよう？
+　やめておく
+　魚釣りをする
+-[FID:3C, TEXT:01A6] 怎么办？
++[FID:3C, TEXT:02B5] 　还是算了吧
++[FID:3C, TEXT:02B6] 　去钓鱼
+
+--- Group 615 [right:char_0041 next=0023] ---
+どうしよう？
+-[FID:3C, TEXT:01A6] 怎么办？
+
+--- Group 616 [right:none next=0023] ---
+どうしよう？
+-[FID:3C, TEXT:01A6] 怎么办？
+
+--- Group 617 [left:主人公 next=2015] ---
+どうしよう？
+　やめておく
+　魚釣りをする
+-[FID:3C, TEXT:01A6] 怎么办？
+-[FID:3C, TEXT:02B5] 　还是算了吧
+-[FID:3C, TEXT:02B6] 　去钓鱼
+
+--- Group 618 [left:主人公 next=2015] ---
+どうしよう？
+　放っておく
+　近づいてみる
+-[FID:3C, TEXT:01A6] 怎么办？
+-[FID:3C, TEXT:029B] 　置之不理
+-[FID:3C, TEXT:029C] 　上前搭话
+
+--- Group 619 [right:char_0041 next=0023] ---
+どうしよう？
+-[FID:3C, TEXT:01A6] 怎么办？
+
+--- Group 620 [right:char_0043 next=0023] ---
+どうしよう？
+-[FID:3C, TEXT:01A6] 怎么办？
+
+--- Group 621 [right:char_0043 next=0023] ---
+どうしよう？
+-[FID:3C, TEXT:01A6] 怎么办？
+
+--- Group 622 [left:主人公 next=2015] ---
+どうしよう？
+　放っておく
+　近づいてみる
+-[FID:3C, TEXT:01A6] 怎么办？
+-[FID:3C, TEXT:029B] 　置之不理
+-[FID:3C, TEXT:029C] 　上前搭话
+
+--- Group 623 [left:主人公 next=2015] ---
+どうしよう？
+　やめておく
+　魚釣りをする
+-[FID:3C, TEXT:01A6] 怎么办？
+-[FID:3C, TEXT:02B5] 　还是算了吧
+-[FID:3C, TEXT:02B6] 　去钓鱼
+
+--- Group 624 [right:none next=0023] ---
+　素直にしたがう
+　あなたと話が・・・
++[FID:3C, TEXT:01A7] 　乖乖听从
++[FID:3C, TEXT:01AA] 　想和你谈谈……
+
+--- Group 625 [right:char_0041 next=0023] ---
+　素直にしたがう
+　あなたと話が・・・
+-[FID:3C, TEXT:01A7] 　乖乖听从
+-[FID:3C, TEXT:01AA] 　想和你谈谈……
+
+--- Group 626 [right:none next=0023] ---
+　素直にしたがう
+　カノンに話がある
+-[FID:3C, TEXT:01A7] 　乖乖听从
++[FID:3C, TEXT:01A9] 　有话跟卡农说
+
+--- Group 627 [right:none next=0023] ---
+　素直にしたがう
+　カノンに話がある
+-[FID:3C, TEXT:01A7] 　乖乖听从
+-[FID:3C, TEXT:01A9] 　有话跟卡农说
+
+--- Group 628 [right:none next=0023] ---
+　素直にしたがう
+　君に用があったんだ
+-[FID:3C, TEXT:01A7] 　乖乖听从
++[FID:3C, TEXT:01A8] 　我有事找你
+
+--- Group 629 [right:char_0041 next=0023] ---
+　素直にしたがう
+　君に用があったんだ
+-[FID:3C, TEXT:01A7] 　乖乖听从
+-[FID:3C, TEXT:01A8] 　我有事找你
+
+--- Group 630 [right:char_0043 next=0023] ---
+　素直にしたがう
+　君に用があったんだ
+-[FID:3C, TEXT:01A7] 　乖乖听从
+-[FID:3C, TEXT:01A8] 　我有事找你
+
+--- Group 631 [right:char_0041 next=0023] ---
+　素直にしたがう
+　カノンに話がある
+-[FID:3C, TEXT:01A7] 　乖乖听从
+-[FID:3C, TEXT:01A9] 　有话跟卡农说
+
+--- Group 632 [right:none next=0023] ---
+　素直にしたがう
+　君に用があったんだ
+-[FID:3C, TEXT:01A7] 　乖乖听从
+-[FID:3C, TEXT:01A8] 　我有事找你
+
+--- Group 633 [right:none next=0023] ---
+　素直にしたがう
+　あなたと話が・・・
+-[FID:3C, TEXT:01A7] 　乖乖听从
+-[FID:3C, TEXT:01AA] 　想和你谈谈……
+
+--- Group 634 [right:char_0043 next=0023] ---
+　素直にしたがう
+　君に用があったんだ
+-[FID:3C, TEXT:01A7] 　乖乖听从
+-[FID:3C, TEXT:01A8] 　我有事找你
+
+--- Group 635 [right:char_0041 next=0023] ---
+　素直にしたがう
+　君に用があったんだ
+-[FID:3C, TEXT:01A7] 　乖乖听从
+-[FID:3C, TEXT:01A8] 　我有事找你
+
+--- Group 636 [right:char_0041 next=0023] ---
+　素直にしたがう
+　カノンに話がある
+-[FID:3C, TEXT:01A7] 　乖乖听从
+-[FID:3C, TEXT:01A9] 　有话跟卡农说
+
+--- Group 637 [right:char_0043 next=0023] ---
+　素直にしたがう
+　カノンに話がある
+-[FID:3C, TEXT:01A7] 　乖乖听从
+-[FID:3C, TEXT:01A9] 　有话跟卡农说
+
+--- Group 638 [right:char_0041 next=0023] ---
+　素直にしたがう
+　あなたと話が・・・
+-[FID:3C, TEXT:01A7] 　乖乖听从
+-[FID:3C, TEXT:01AA] 　想和你谈谈……
+
+--- Group 639 [right:char_0043 next=0023] ---
+　素直にしたがう
+　あなたと話が・・・
+-[FID:3C, TEXT:01A7] 　乖乖听从
+-[FID:3C, TEXT:01AA] 　想和你谈谈……
+
+--- Group 640 [left:none next=0023] ---
+ああ、そうするよ
++[FID:3C, TEXT:01AB] 啊，知道了
+
+--- Group 641 [left:主人公 next=0023] ---
+ああ、そうするよ
+-[FID:3C, TEXT:01AB] 嗯，我会的。
+
+--- Group 642 [left:主人公 next=0023] ---
+ああ、そうするよ
+-[FID:3C, TEXT:01AB] 嗯，我会的。
+
+--- Group 643 [left:主人公 next=0023] ---
+ああ、そうするよ
+-[FID:3C, TEXT:01AB] 嗯，我会的。
+
+--- Group 644 [left:none next=0023] ---
+ああ、そうするよ
+-[FID:3C, TEXT:01AB] 嗯，我会的。
+
+--- Group 645 [left:none next=0023] ---
+ああ、そうするよ
+-[FID:3C, TEXT:01AB] 嗯，我会的。
+
+--- Group 646 [left:none next=0023] ---
+うん、ありがと！
++[FID:3C, TEXT:01AC] 嗯，谢谢！
+
+--- Group 647 [left:none next=0023] ---
+うん、ありがと！
+-[FID:3C, TEXT:01AC] 嗯，谢谢！
+
+--- Group 648 [left:主人公 next=0023] ---
+うん、ありがと！
+-[FID:3C, TEXT:01AC] 嗯，谢谢！
+
+--- Group 649 [left:none next=0023] ---
+うん、ありがと！
+-[FID:3C, TEXT:01AC] 嗯，谢谢！
+
+--- Group 650 [left:主人公 next=0023] ---
+うん、ありがと！
+-[FID:3C, TEXT:01AC] 嗯，谢谢！
+
+--- Group 651 [left:none next=0023] ---
+はい、そうします
++[FID:3C, TEXT:01AD] 是的，我会的。
+
+--- Group 652 [left:none next=0023] ---
+はい、そうします
+-[FID:3C, TEXT:01AD] 是的，我会的。
+
+--- Group 653 [left:none next=0023] ---
+はい、そうします
+-[FID:3C, TEXT:01AD] 是的，我会的。
+
+--- Group 654 [left:主人公 next=0023] ---
+はい、そうします
+-[FID:3C, TEXT:01AD] 是的，我会的。
+
+--- Group 655 [left:主人公 next=0023] ---
+はい、そうします
+-[FID:3C, TEXT:01AD] 是的，我会的。
+
+--- Group 656 [right:char_0041 next=2012] ---
+お気をつけて
++[FID:3C, TEXT:01AE] 请多保重。
+
+--- Group 657 [right:none next=2012] ---
+お気をつけて
+-[FID:3C, TEXT:01AE] 请多保重。
+
+--- Group 658 [right:none next=2012] ---
+お気をつけて
+-[FID:3C, TEXT:01AE] 请多保重。
+
+--- Group 659 [right:char_0043 next=2012] ---
+お気をつけて
+-[FID:3C, TEXT:01AE] 请多保重。
+
+--- Group 660 [right:char_0043 next=2012] ---
+お気をつけて
+-[FID:3C, TEXT:01AE] 请多保重。
+
+--- Group 661 [right:char_0041 next=2012] ---
+お気をつけて
+-[FID:3C, TEXT:01AE] 请多保重。
+
+--- Group 662 [left:none next=0023] ---
+いや、今日は君に用が
+あったんだ
++[FID:3C, TEXT:01AF] 不，我今天找你有事。
+
+--- Group 663 [left:主人公 next=0023] ---
+いや、今日は君に用が
+あったんだ
+-[FID:3C, TEXT:01AF] 不，我今天找你有事。
+
+--- Group 664 [left:none next=0023] ---
+いや、今日は君に用が
+あったんだ
+-[FID:3C, TEXT:01AF] 不，我今天找你有事。
+
+--- Group 665 [left:none next=0023] ---
+いや、今日は君に用が
+あったんだ
+-[FID:3C, TEXT:01AF] 不，我今天找你有事。
+
+--- Group 666 [left:主人公 next=0023] ---
+いや、今日は君に用が
+あったんだ
+-[FID:3C, TEXT:01AF] 不，我今天找你有事。
+
+--- Group 667 [left:主人公 next=0023] ---
+実はさ、ちょっと
+あなたと話を、ね
++[FID:3C, TEXT:01B1] 其实啊，我想
++[FID:3C, TEXT:01B2] 和你聊聊。
+
+--- Group 668 [left:none next=0023] ---
+実はさ、ちょっと
+あなたと話を、ね
+-[FID:3C, TEXT:01B1] 其实啊，我想
+-[FID:3C, TEXT:01B2] 和你聊聊。
+
+--- Group 669 [left:none next=0023] ---
+実はさ、ちょっと
+あなたと話を、ね
+-[FID:3C, TEXT:01B1] 其实啊，我想
+-[FID:3C, TEXT:01B2] 和你聊聊。
+
+--- Group 670 [left:主人公 next=0023] ---
+実はさ、ちょっと
+あなたと話を、ね
+-[FID:3C, TEXT:01B1] 其实啊，我想
+-[FID:3C, TEXT:01B2] 和你聊聊。
+
+--- Group 671 [left:none next=0023] ---
+実はさ、ちょっと
+あなたと話を、ね
+-[FID:3C, TEXT:01B1] 其实啊，我想
+-[FID:3C, TEXT:01B2] 和你聊聊。
+
+--- Group 672 [left:none next=0023] ---
+いえ、カノンさんと
+お話したくて・・・
++[FID:3C, TEXT:01B3] 不
+
+--- Group 721 [left:主人公 next=0023] ---
+しまった・・・
+また不審人物と思われ
+ちゃったのか・・・
++[FID:3C, TEXT:01D1] 糟了……
++[FID:3C, TEXT:01D2] 又被当成可疑人物了吗
++[FID:3C, TEXT:01D3] ……
+
+--- Group 722 [left:主人公 next=0023] ---
+あちゃ・・・
+また不審な人物に
+思われたかな？
++[FID:3C, TEXT:01D4] 哎呀……
++[FID:3C, TEXT:01D5] 又被当成可疑人物
++[FID:3C, TEXT:01D6] 了吗？
+
+--- Group 723 [left:主人公 next=2012] ---
+あ・・・
+リプレさんがいない
++[FID:3C, TEXT:01D7] 啊……
++[FID:3C, TEXT:02D9] 莉普蕾不在啊
+
+--- Group 724 [left:主人公 next=2012] ---
+あ・・・
+リプレさんがいない
+-[FID:3C, TEXT:01D7] 啊……
+-[FID:3C, TEXT:02D9] 莉普蕾不在啊
+
+--- Group 725 [left:主人公 next=0023] ---
+あ・・・
+また不審人物と思われ
+たでしょうか・・・
+-[FID:3C, TEXT:01D7] 啊……
+-[FID:3C, TEXT:01D2] 又被当成可疑人物了吗
++[FID:3C, TEXT:01D8] ……
+
+--- Group 726 [left:主人公 next=0023] ---
+あ・・・
+-[FID:3C, TEXT:01D7] 啊……
+
+--- Group 727 [left:主人公 next=2012] ---
+あ・・・
+リプレさんがいない
+-[FID:3C, TEXT:01D7] 啊……
+-[FID:3C, TEXT:02D9] 莉普蕾不在啊
+
+--- Group 728 [right:赛萨里斯 next=2012] ---
+一般市民の出入りは、
+裏門からですよ
+受付をしてきなさい
++[FID:3C, TEXT:01D9] 一般市民的进出，请从
++[FID:3C, TEXT:01DA] 后门进。
++[FID:3C, TEXT:01DB] 去登记一下。
+
+--- Group 729 [left:主人公 next=0023] ---
+あ、いえっ
+わたし、そんなんじゃ
+ないんですけど
++[FID:3C, TEXT:01DC] 啊，不、不是啦
++[FID:3C, TEXT:01E3] 我不是那种人啦……
+
+--- Group 730 [left:主人公 next=0023] ---
+あ、いえっ
+別に俺、そんなんじゃ
+ないんですけど
+-[FID:3C, TEXT:01DC] 啊，不、不是啦
++[FID:3C, TEXT:01DD] 我可不是那种人啦……
+
+--- Group 731 [left:主人公 next=0023] ---
+あ、いえっ
+あたし、別に用がある
+わけじゃなくて・・・
+-[FID:3C, TEXT:01DC] 啊，不、不是啦
++[FID:3C, TEXT:01E1] 我也不是特意要找什么
++[FID:3C, TEXT:01E2] 事……
+
+--- Group 732 [left:主人公 next=0023] ---
+あ、いえ
+別に僕は・・・
++[FID:3C, TEXT:01DF] 啊，不、
++[FID:3C, TEXT:01E0] 我、我不是……
+
+--- Group 733 [right:赛萨里斯 next=2012] ---
+・・・あやしいですね
++[FID:3C, TEXT:01E4] ……可疑呢。
+
+--- Group 734 [left:主人公 next=0023] ---
+げっ！？
++[FID:3C, TEXT:01E5] 糟了！？
+
+--- Group 735 [left:主人公 next=0023] ---
+しまったぁ・・・
++[FID:3C, TEXT:01E6] 完蛋了……
+
+--- Group 736 [right:赛萨里斯 next=2012] ---
+悪いけど詰め所まで
+来てもらいます
++[FID:3C, TEXT:01E7] 很抱歉，请跟我
++[FID:3C, TEXT:01E8] 去值班室一趟。
+
+--- Group 737 [left:主人公 next=0023] ---
+あわわわっ！
+こりゃマズイぞっ！？
++[FID:3C, TEXT:01E9] 哇哇哇！
++[FID:3C, TEXT:01EA] 这下麻烦大了！？
+
+--- Group 738 [left:主人公 next=0023] ---
+まいったな・・・
++[FID:3C, TEXT:01EB] 这可怎么办……
+
+--- Group 739 [left:主人公 next=0023] ---
+えっとあの・・・
+どうしよ・・・
++[FID:3C, TEXT:01EC] 嗯、那个……
++[FID:3C, TEXT:01ED] 该怎么办……
+
+--- Group 740 [left:主人公 next=0023] ---
+言い方を
+間違えました・・・
++[FID:3C, TEXT:01EE] 我说错话了……
++[FID:3C, TEXT:01EF] [FID:3C, T
+-[FID:3C, TEXT:01EF] EXT:01EF]
+
+--- Group 741 [left:伊利亚斯 next=2012] ---
+どうした、
+サイサリス？
++[FID:3C, TEXT:01F0] 怎么了，
++[FID:3C, TEXT:01F1] 赛萨里斯？
+
+--- Group 742 [right:赛萨里斯 next=2012] ---
+イリアス様・・・
++[FID:3C, TEXT:01F2] 伊利亚斯大人……
+
+--- Group 743 [right:赛萨里斯 next=2012] ---
+この者が先ほどから、
+城の前で不審な行動を
+とっていまして
++[FID:3C, TEXT:01F3] 这位刚才一直在城门前
++[FID:3C, TEXT:01F4] 做出可疑的行动。
+
+--- Group 744 [right:赛萨里斯 next=2012] ---
+しかし、もしこの者が
+よからぬことを企んで
+いたとしたら・・・
++[FID:3C, TEXT:01F8] 不过，万一这位是在策
++[FID:3C, TEXT:01F9] 划什么不轨之事的话…
++[FID:3C, TEXT:01FA] …
+
+--- Group 745 [left:伊利亚斯 next=2012] ---
+サイサリス
+騎士団長である自分が
+必要ないと判断して
+いるんだぞ？
++[FID:3C, TEXT:01FB] 赛萨里斯，
++[FID:3C, TEXT:01FC] 作为骑士团长，你自己
++[FID:3C, TEXT:01FD] 判断一下
++[FID:3C, TEXT:01FE] 不就好了吗？
+
+--- Group 746 [right:赛萨里斯 next=2012] ---
+・・・・・
++[FID:3C, TEXT:01FF] ……
+
+--- Group 747 [left:主人公 next=0023] ---
+どうしたんだい
+こんなところで？
++[FID:3C, TEXT:0215] 你怎么了
++[FID:3C, TEXT:0216] 在这里？
+
+--- Group 748 [left:none next=0023] ---
+どうしたんだい
+こんなところで？
+-[FID:3C, TEXT:0215] 你怎么了
+-[FID:3C, TEXT:0216] 在这里？
+
+--- Group 749 [left:none next=0023] ---
+どうしたんだい
+こんなところで？
+-[FID:3C, TEXT:0215] 你怎么了
+-[FID:3C, TEXT:0216] 在这里？
+
+--- Group 750 [left:主人公 next=0023] ---
+どうしたんだい
+こんなところで？
+-[FID:3C, TEXT:0215] 你怎么了
+-[FID:3C, TEXT:0216] 在这里？
+
+--- Group 751 [left:none next=0023] ---
+どうしたんだい
+こんなところで？
+-[FID:3C, TEXT:0215] 你怎么了
+-[FID:3C, TEXT:0216] 在这里？
+
+--- Group 752 [left:主人公 next=0023] ---
+どうしたんだい
+こんなところで？
+-[FID:3C, TEXT:0215] 你怎么了
+-[FID:3C, TEXT:0216] 在这里？
+
+--- Group 753 [left:none next=0023] ---
+あれ、どうしたの
+こんなところで？
++[FID:3C, TEXT:0217] 哎呀，怎么了
+-[FID:3C, TEXT:0216] 在这里？
+
+--- Group 754 [left:none next=0023] ---
+あれ、どうしたの
+こんなところで？
+-[FID:3C, TEXT:0217] 哎呀，怎么了
+-[FID:3C, TEXT:0216] 在这里？
+
+--- Group 755 [left:主人公 next=0023] ---
+あれ、どうしたの
+こんなところで？
+-[FID:3C, TEXT:0217] 哎呀，怎么了
+-[FID:3C, TEXT:0216] 在这里？
+
+--- Group 756 [left:none next=0023] ---
+あれ、どうしたの
+こんなところで？
+-[FID:3C, TEXT:0217] 哎呀，怎么了
+-[FID:3C, TEXT:0216] 在这里？
+
+--- Group 757 [left:主人公 next=0023] ---
+あれ、どうしたの
+こんなところで？
+-[FID:3C, TEXT:0217] 哎呀，怎么了
+-[FID:3C, TEXT:0216] 在这里？
+
+--- Group 758 [left:主人公 next=0023] ---
+どうしたんです
+こんなところで？
++[FID:3C, TEXT:0218] 您怎么了
+-[FID:3C, TEXT:0216] 在这里？
+
+--- Group 759 [left:none next=0023] ---
+どうしたんです
+こんなところで？
+-[FID:3C, TEXT:0218] 您怎么了
+-[FID:3C, TEXT:0216] 在这里？
+
+--- Group 760 [left:none next=0023] ---
+どうしたんです
+こんなところで？
+-[FID:3C, TEXT:0218] 您怎么了
+-[FID:3C, TEXT:0216] 在这里？
+
+--- Group 761 [left:主人公 next=0023] ---
+どうしたんです
+こんなところで？
+-[FID:3C, TEXT:0218] 您怎么了
+-[FID:3C, TEXT:0216] 在这里？
+
+--- Group 762 [left:none next=0023] ---
+どうしたんです
+こんなところで？
+-[FID:3C, TEXT:0218] 您怎么了
+-[FID:3C, TEXT:0216] 在这里？
+
+--- Group 763 [right:char_0041 next=2012] ---
+いや、ちょっと休んで
+いただけですよ
++[FID:3C, TEXT:0219] 不，只是稍微休息了一
++[FID:3C, TEXT:021A] 下。
+
+--- Group 764 [right:char_0041 next=2012] ---
+いや、ちょっと休んで
+いただけですよ
+-[FID:3C, TEXT:0219] 不，只是稍微休息了一
+-[FID:3C, TEXT:021A] 下。
+
+--- Group 765 [right:none next=2012] ---
+いや、ちょっと休んで
+いただけですよ
+-[FID:3C, TEXT:0219] 不，只是稍微休息了一
+-[FID:3C, TEXT:021A] 下。
+
+--- Group 766 [right:none next=2012] ---
+いや、ちょっと休んで
+いただけですよ
+-[FID:3C, TEXT:0219] 不，只是稍微休息了一
+-[FID:3C, TEXT:021A] 下。
+
+--- Group 767 [right:char_0043 next=2012] ---
+いや、ちょっと休んで
+いただけですよ
+-[FID:3C, TEXT:0219] 不，只是稍微休息了一
+-[FID:3C, TEXT:021A] 下。
+
+--- Group 768 [right:char_0043 next=2012] ---
+いや、ちょっと休んで
+いただけですよ
+-[FID:3C, TEXT:0219] 不，只是稍微休息了一
+-[FID:3C, TEXT:021A] 下。
+
+--- Group 769 [right:char_0043 next=2012] ---
+街の賑やかな人混みに
+酔っちゃって・・・
++[FID:3C, TEXT:021B] 被街上热闹的人群迷住
++[FID:3C, TEXT:021C] 了……
+
+--- Group 770 [right:char_0043 next=2012] ---
+街の賑やかな人混みに
+酔っちゃって・・・
+-[FID:3C, TEXT:021B] 被街上热闹的人群迷住
+-[FID:3C, TEXT:021C] 了……
+
+--- Group 771 [right:char_0041 next=2012] ---
+街の賑やかな人混みに
+酔っちゃって・・・
+-[FID:3C, TEXT:021B] 被街上热闹的人群迷住
+-[FID:3C, TEXT:021C] 了……
+
+--- Group 772 [right:none next=2012] ---
+街の賑やかな人混みに
+酔っちゃって・・・
+-[FID:3C, TEXT:021B] 被街上热闹的人群迷住
+-[FID:3C, TEXT:021C] 了……
+
+--- Group 773 [right:char_0041 next=2012] ---
+街の賑やかな人混みに
+酔っちゃって・・・
+-[FID:3C, TEXT:021B] 被街上热闹的人群迷住
+-[FID:3C, TEXT:021C] 了……
+
+--- Group 774 [right:none next=2012] ---
+街の賑やかな人混みに
+酔っちゃって・・・
+-[FID:3C, TEXT:021B] 被街上热闹的人群迷住
+-[FID:3C, TEXT:021C] 了……
+
+--- Group 775 [left:主人公 next=0023] ---
+無理もないよな
+ずっと森で暮らして
+たんだから
++[FID:3C, TEXT:021D] 也是没办法的事啦
++[FID:3C, TEXT:021E] 一直在森林里生活
++[FID:3C, TEXT:021F] 呢。
+
+--- Group 776 [left:none next=0023] ---
+無理もないよな
+ずっと森で暮らして
+たんだから
+-[FID:3C, TEXT:021D] 也是没办法的事啦
+-[FID:3C, TEXT:021E] 一直在森林里生活
+-[FID:3C, TEXT:021F] 呢。
+
+--- Group 777 [left:none next=0023] ---
+無理もないよな
+ずっと森で暮らして
+たんだから
+-[FID:3C, TEXT:021D] 也是没办法的事啦
+-[FID:3C, TEXT:021E] 一直在森林里生活
+-[FID:3C, TEXT:021F] 呢。
+
+--- Group 778 [left:主人公 next=0023] ---
+無理もないよな
+ずっと森で暮らして
+たんだから
+-[FID:3C, TEXT:021D] 也是没办法的事啦
+-[FID:3C, TEXT:021E] 一直在森林里生活
+-[FID:3C, TEXT:021F] 呢。
+
+--- Group 779 [left:主人公 next=0023] ---
+無理もないよな
+ずっと森で暮らして
+たんだから
+-[FID:3C, TEXT:021D] 也是没办法的事啦
+-[FID:3C, TEXT:021E] 一直在森林里生活
+-[FID:3C, TEXT:021F] 呢。
+
+--- Group 780 [left:none next=0023] ---
+無理もないよな
+ずっと森で暮らして
+たんだから
+-[FID:3C, TEXT:021D] 也是没办法的事啦
+-[FID:3C, TEXT:021E] 一直在森林里生活
+-[FID:3C, TEXT:021F] 呢。
+
+--- Group 781 [left:none next=0023] ---
+ずっと森で暮らしてた
+んだから、無理もない
+かもしれないな
++[FID:3C, TEXT:0220] 毕竟一直生活在森林里
++[FID:3C, TEXT:0221] ，也许是没办法的事吧
++[FID:3C, TEXT:0222] 。
+
+--- Group 782 [left:none next=0023] ---
+ずっと森で暮らしてた
+んだから、無理もない
+かもしれないな
+-[FID:3C, TEXT:0220] 毕竟一直生活在森林里
+-[FID:3C, TEXT:0221] ，也许是没办法的事吧
+-[FID:3C, TEXT:0222] 。
+
+--- Group 783 [left:主人公 next=0023] ---
+ずっと森で暮らしてた
+んだから、無理もない
+かもしれないな
+-[FID:3C, TEXT:0220] 毕竟一直生活在森林里
+-[FID:3C, TEXT:0221] ，也许是没办法的事吧
+-[FID:3C, TEXT:0222] 。
+
+--- Group 784 [left:none next=0023] ---
+ずっと森で暮らしてた
+んだから、無理もない
+かもしれないな
+-[FID:3C, TEXT:0220] 毕竟一直生活在森林里
+-[FID:3C, TEXT:0221] ，也许是没办法的事吧
+-[FID:3C, TEXT:0222] 。
+
+--- Group 785 [left:主人公 next=0023] ---
+ずっと森で暮らしてた
+んだから、無理もない
+かもしれないな
+-[FID:3C, TEXT:0220] 毕竟一直生活在森林里
+-[FID:3C, TEXT:0221] ，也许是没办法的事吧
+-[FID:3C, TEXT:0222] 。
+
+--- Group 786 [left:none next=0023] ---
+はは、スウォンは
+ずっと森で
+暮らしてたもんね
++[FID:3C, TEXT:0223] 哈哈，斯旺
++[FID:3C, TEXT:0224] 一直都在森林里
++[FID:3C, TEXT:0225] 生活嘛。
+
+--- Group 787 [left:none next=0023] ---
+はは、スウォンは
+ずっと森で
+暮らしてたもんね
+-[FID:3C, TEXT:0223] 哈哈，斯旺
+-[FID:3C, TEXT:0224] 一直都在森林里
+-[FID:3C, TEXT:0225] 生活嘛。
+
+--- Group 788 [left:主人公 next=0023] ---
+はは、スウォンは
+ずっと森で
+暮らしてたもんね
+-[FID:3C, TEXT:0223] 哈哈，斯旺
+-[FID:3C, TEXT:0224] 一直都在森林里
+-[FID:3C, TEXT:0225] 生活嘛。
+
+--- Group 789 [left:none next=0023] ---
+はは、スウォンは
+ずっと森で
+暮らしてたもんね
+-[FID:3C, TEXT:0223] 哈哈，斯旺
+-[FID:3C, TEXT:0224] 一直都在森林里
+-[FID:3C, TEXT:0225] 生活嘛。
+
+--- Group 790 [left:主人公 next=0023] ---
+はは、スウォンは
+ずっと森で
+暮らしてたもんね
+-[FID:3C, TEXT:0223] 哈哈，斯旺
+-[FID:3C, TEXT:0224] 一直都在森林里
+-[FID:3C, TEXT:0225] 生活嘛。
+
+--- Group 791 [left:none next=0023] ---
+無理もないですよね
+ずっと森で暮らしてた
+んですから
++[FID:3C, TEXT:0226] 也是没办法的事呢
+-[FID:3C, TEXT:0220] 毕竟一直生活在森林里
++[FID:3C, TEXT:0227] 。
+
+--- Group 792 [left:主人公 next=0023] ---
+無理もないですよね
+ずっと森で暮らしてた
+んですから
+-[FID:3C, TEXT:0226] 也是没办法的事呢
+-[FID:3C, TEXT:0220] 毕竟一直生活在森林里
+-[FID:3C, TEXT:0227] 。
+
+--- Group 793 [left:none next=0023] ---
+無理もないですよね
+ずっと森で暮らしてた
+んですから
+-[FID:3C, TEXT:0226] 也是没办法的事呢
+-[FID:3C, TEXT:0220] 毕竟一直生活在森林里
+-[FID:3C, TEXT:0227] 。
+
+--- Group 794 [left:none next=0023] ---
+無理もないですよね
+ずっと森で暮らしてた
+んですから
+-[FID:3C, TEXT:0226] 也是没办法的事呢
+-[FID:3C, TEXT:0220] 毕竟一直生活在森林里
+-[FID:3C, TEXT:0227] 。
+
+--- Group 795 [left:主人公 next=0023] ---
+無理もないですよね
+ずっと森で暮らしてた
+んですから
+-[FID:3C, TEXT:0226] 也是没办法的事呢
+-[FID:3C, TEXT:0220] 毕竟一直生活在森林里
+-[FID:3C, TEXT:0227] 。
+
+--- Group 796 [right:char_0043 next=2012] ---
+でも、この場所は
+いいですね
++[FID:3C, TEXT:0228] 不过，这里
++[FID:3C, TEXT:0229] 感觉不错呢。
+
+--- Group 797 [right:none next=2012] ---
+でも、この場所は
+いいですね
+-[FID:3C, TEXT:0228] 不过，这里
+-[FID:3C, TEXT:0229] 感觉不错呢。
+
+--- Group 798 [right:char_0043 next=2012] ---
+でも、この場所は
+いいですね
+-[FID:3C, TEXT:0228] 不过，这里
+-[FID:3C, TEXT:0229] 感觉不错呢。
+
+--- Group 799 [right:none next=2012] ---
+でも、この場所は
+いいですね
+-[FID:3C, TEXT:0228] 不过，这里
+-[FID:3C, TEXT:0229] 感觉不错呢。
+
+--- Group 800 [right:char_0041 next=2012] ---
+でも、この場所は
+いいですね
+-[FID:3C, TEXT:0228] 不过，这里
+-[FID:3C, TEXT:0229] 感觉不错呢。
+
+--- Group 801 [right:char_0041 next=2012] ---
+でも、この場所は
+いいですね
+-[FID:3C, TEXT:0228] 不过，这里
+-[FID:3C, TEXT:0229] 感觉真好啊
+
+--- Group 802 [right:char_0041 next=2012] ---
+川からの風が、
+すごく気持ちいいです
++[FID:3C, TEXT:022A] 从河边吹来的风，
++[FID:3C, TEXT:022B] 感觉好舒服啊
+
+--- Group 803 [right:char_0043 next=2012] ---
+川からの風が、
+すごく気持ちいいです
+-[FID:3C, TEXT:022A] 从河边吹来的风，
+-[FID:3C, TEXT:022B] 感觉好舒服啊
+
+--- Group 804 [right:none next=2012] ---
+川からの風が、
+すごく気持ちいいです
+-[FID:3C, TEXT:022A] 从河边吹来的风，
+-[FID:3C, TEXT:022B] 感觉好舒服啊
+
+--- Group 805 [right:char_0043 next=2012] ---
+川からの風が、
+すごく気持ちいいです
+-[FID:3C, TEXT:022A] 从河边吹来的风，
+-[FID:3C, TEXT:022B] 感觉好舒服啊
+
+--- Group 806 [right:char_0041 next=2012] ---
+川からの風が、
+すごく気持ちいいです
+-[FID:3C, TEXT:022A] 从河边吹来的风，
+-[FID:3C, TEXT:022B] 感觉好舒服啊
+
+--- Group 807 [right:none next=2012] ---
+川からの風が、
+すごく気持ちいいです
+-[FID:3C, TEXT:022A] 从河边吹来的风，
+-[FID:3C, TEXT:022B] 感觉好舒服啊
+
+--- Group 808 [left:none next=0023] ---
+そうだね・・・
++[FID:3C, TEXT:022C] 是啊……
+
+--- Group 809 [left:none next=0023] ---
+そうだね・・・
+-[FID:3C, TEXT:022C] 是啊……
+
+--- Group 810 [left:none next=0023] ---
+そうだね・・・
+-[FID:3C, TEXT:022C] 是啊……
+
+--- Group 811 [left:主人公 next=0023] ---
+そうだね・・・
+-[FID:3C, TEXT:022C] 是啊……
+
+--- Group 812 [left:主人公 next=0023] ---
+そうだね・・・
+-[FID:3C, TEXT:022C] 是啊……
+
+--- Group 813 [left:主人公 next=0023] ---
+そうだね・・・
+-[FID:3C, TEXT:022C] 是啊……
+
+--- Group 814 [left:none next=0023] ---
+そだね・・・
++[FID:3C, TEXT:022D] 是啊……
+
+--- Group 815 [left:none next=0023] ---
+そだね・・・
+-[FID:3C, TEXT:022D] 是啊……
+
+--- Group 816 [left:none next=0023] ---
+そだね・・・
+-[FID:3C, TEXT:022D] 是啊……
+
+--- Group 817 [left:主人公 next=0023] ---
+そだね・・・
+-[FID:3C, TEXT:022D] 是啊……
+
+--- Group 818 [left:主人公 next=0023] ---
+そだね・・・
+-[FID:3C, TEXT:022D] 是啊……
+
+--- Group 819 [left:none next=0023] ---
+そうですね・・・
++[FID:3C, TEXT:022E] 是呢……
+
+--- Group 820 [left:主人公 next=0023] ---
+そうですね・・・
+-[FID:3C, TEXT:022E] 是呢……
+
+--- Group 821 [left:none next=0023] ---
+そうですね・・・
+-[FID:3C, TEXT:022E] 是呢……
+
+--- Group 822 [left:主人公 next=0023] ---
+そうですね・・・
+-[FID:3C, TEXT:022E] 是呢……
+
+--- Group 823 [left:none next=0023] ---
+そうですね・・・
+-[FID:3C, TEXT:022E] 是呢……
+
+--- Group 824 [left:none next=0023] ---
+ありゃ、ジンガだ
+なにしてるんだろう
++[FID:3C, TEXT:022F] 哎呀，是ジンガ啊。
++[FID:3C, TEXT:0230] 他在做什么呢？
+
+--- Group 825 [left:主人公 next=0023] ---
+ありゃ、ジンガだ
+なにしてるんだろう
+-[FID:3C, TEXT:022F] 哎呀，是ジンガ啊。
+-[FID:3C, TEXT:0230] 他在做什么呢？
+
+--- Group 826 [left:none next=0023] ---
+ありゃ、ジンガだ
+なにしてるんだろう
+-[FID:3C, TEXT:022F] 哎呀，是ジンガ啊。
+-[FID:3C, TEXT:0230] 他在做什么呢？
+
+--- Group 827 [left:主人公 next=0023] ---
+ありゃ、ジンガだ
+なにしてるんだろう
+-[FID:3C, TEXT:022F] 哎呀，是ジンガ啊。
+-[FID:3C, TEXT:0230] 他在做什么呢？
+
+--- Group 828 [left:none next=0023] ---
+ありゃ、ジンガだ
+なにしてるんだろう
+-[FID:3C, TEXT:022F] 哎呀，是ジンガ啊。
+-[FID:3C, TEXT:0230] 他在做什么呢？
+
+--- Group 829 [left:主人公 next=0023] ---
+ありゃ、ジンガだ
+なにしてるんだろう
+-[FID:3C, TEXT:022F] 哎呀，是ジンガ啊。
+-[FID:3C, TEXT:0230] 他在做什么呢？
+
+--- Group 830 [left:主人公 next=0023] ---
+あれはジンガか？
+なにをしてるんだろう
++[FID:3C, TEXT:0231] 那是ジンガ吗？
++[FID:3C, TEXT:0232] 他在做什么呢？
+
+--- Group 831 [left:none next=0023] ---
+あれはジンガか？
+なにをしてるんだろう
+-[FID:3C, TEXT:0231] 那是ジンガ吗？
+-[FID:3C, TEXT:0232] 他在做什么呢？
+
+--- Group 832 [left:主人公 next=0023] ---
+あれはジンガか？
+なにをしてるんだろう
+-[FID:3C, TEXT:0231] 那是ジンガ吗？
+-[FID:3C, TEXT:0232] 他在做什么呢？
+
+--- Group 833 [left:none next=0023] ---
+あれはジンガか？
+なにをしてるんだろう
+-[FID:3C, TEXT:0231] 那是ジンガ吗？
+-[FID:3C, TEXT:0232] 他在做什么呢？
+
+--- Group 834 [left:none next=0023] ---
+あれはジンガか？
+なにをしてるんだろう
+-[FID:3C, TEXT:0231] 那是ジンガ吗？
+-[FID:3C, TEXT:0232] 他在做什么呢？
+
+--- Group 835 [left:none next=0023] ---
+あれ、ジンガさん
+なにしてるんでしょう
++[FID:3C, TEXT:0233] 哎，是ジンガ先生。
++[FID:3C, TEXT:0234] 他在做什么呢？
+
+--- Group 836 [left:none next=0023] ---
+あれ、ジンガさん
+なにしてるんでしょう
+-[FID:3C, TEXT:0233] 哎，是ジンガ先生。
+-[FID:3C, TEXT:0234] 他在做什么呢？
+
+--- Group 837 [left:主人公 next=0023] ---
+あれ、ジンガさん
+なにしてるんでしょう
+-[FID:3C, TEXT:0233] 哎，是ジンガ先生。
+-[FID:3C, TEXT:0234] 他在做什么呢？
+
+--- Group 838 [left:主人公 next=0023] ---
+あれ、ジンガさん
+なにしてるんでしょう
+-[FID:3C, TEXT:0233] 哎，是ジンガ先生。
+-[FID:3C, TEXT:0234] 他在做什么呢？
+
+--- Group 839 [left:none next=0023] ---
+あれ、ジンガさん
+なにしてるんでしょう
+-[FID:3C, TEXT:0233] 哎，是ジンガ先生。
+-[FID:3C, TEXT:0234] 他在做什么呢？
+
+--- Group 840 [left:主人公 next=0023] ---
+おーい、ジンガ！
++[FID:3C, TEXT:0235] 喂——，ジンガ！
+
+--- Group 841 [left:主人公 next=0023] ---
+おーい、ジンガ！
+-[FID:3C, TEXT:0235] 喂——，ジンガ！
+
+--- Group 842 [left:none next=0023] ---
+おーい、ジンガ！
+-[FID:3C, TEXT:0235] 喂——，ジンガ！
+
+--- Group 843 [left:none next=0023] ---
+おーい、ジンガ！
+-[FID:3C, TEXT:0235] 喂——，ジンガ！
+
+--- Group 844 [left:none next=0023] ---
+おーい、ジンガ！
+-[FID:3C, TEXT:0235] 喂——，ジンガ！
+
+--- Group 845 [left:主人公 next=0023] ---
+おーい、ジンガ！
+-[FID:3C, TEXT:0235] 喂——，ジンガ！
+
+--- Group 846 [left:主人公 next=0023] ---
+やあ、ジンガ
++[FID:3C, TEXT:0236] 嘿，ジンガ。
+
+--- Group 847 [left:none next=0023] ---
+やあ、ジンガ
+-[FID:3C, TEXT:0236] 嘿，ジンガ。
+
+--- Group 848 [left:none next=0023] ---
+やあ、ジンガ
+-[FID:3C, TEXT:0236] 嘿，ジンガ。
+
+--- Group 849 [left:主人公 next=0023] ---
+やあ、ジンガ
+-[FID:3C, TEXT:0236] 嘿，ジンガ。
+
+--- Group 850 [left:none next=0023] ---
+やあ、ジンガ
+-[FID:3C, TEXT:0236] 嘿，ジンガ。
+
+--- Group 851 [left:主人公 next=0023] ---
+ジンガさん！
++[FID:3C, TEXT:0237] ジンガ先生！
+
+--- Group 852 [left:主人公 next=0023] ---
+ジンガさん！
+-[FID:3C, TEXT:0237] ジンガ先生！
+
+--- Group 853 [left:none next=0023] ---
+ジンガさん！
+-[FID:3C, TEXT:0237] ジンガ先生！
+
+--- Group 854 [left:none next=0023] ---
+ジンガさん！
+-[FID:3C, TEXT:0237] ジンガ先生！
+
+--- Group 855 [left:none next=0023] ---
+ジンガさん！
+-[FID:3C, TEXT:0237] ジンガ先生！
+
+--- Group 856 [right:none next=2012] ---
+あ、アネゴ
++[FID:3C, TEXT:0239] 啊，大姐头。
+
+--- Group 857 [right:char_0041 next=2012] ---
+あ、アネゴ
+-[FID:3C, TEXT:0239] 啊，大姐头。
+
+--- Group 858 [right:char_0041 next=2012] ---
+あ、アネゴ
+-[FID:3C, TEXT:0239] 啊，大姐头。
+
+--- Group 859 [right:char_0043 next=2012] ---
+あ、アネゴ
+-[FID:3C, TEXT:0239] 啊，大姐头。
+
+--- Group 860 [right:none next=2012] ---
+あ、アネゴ
+-[FID:3C, TEXT:0239] 啊，大姐头。
+
+--- Group 861 [right:char_0043 next=2012] ---
+あ、アネゴ
+-[FID:3C, TEXT:0239] 啊，大姐头。
+
+--- Group 862 [left:none next=0023] ---
+何をしてたんだ？
++[FID:3C, TEXT:023A] 你在做什么呢？
+
+--- Group 863 [left:主人公 next=0023] ---
+何をしてたんだ？
+-[FID:3C, TEXT:023A] 你在做什么呢？
+
+--- Group 864 [left:none next=0023] ---
+何をしてたんだ？
+-[FID:3C, TEXT:023A] 你在做什么呢？
+
+--- Group 865 [left:主人公 next=0023] ---
+何をしてたんだ？
+-[FID:3C, TEXT:023A] 你在做什么呢？
+
+--- Group 866 [left:主人公 next=0023] ---
+何をしてたんだ？
+-[FID:3C, TEXT:023A] 你在做什么呢？
+
+--- Group 867 [left:none next=0023] ---
+何をしてたんだ？
+-[FID:3C, TEXT:023A] 你在做什么呢？
+
+--- Group 868 [left:none next=0023] ---
+何をしてたの？
++[FID:3C, TEXT:023B] 你在做什么呢？
+
+--- Group 869 [left:主人公 next=0023] ---
+何をしてたの？
+-[FID:3C, TEXT:023B] 你在做什么呢？
+
+--- Group 870 [left:none next=0023] ---
+何をしてたの？
+-[FID:3C, TEXT:023B] 你在做什么呢？
+
+--- Group 871 [left:none next=0023] ---
+何をしてたの？
+-[FID:3C, TEXT:023B] 你在做什么呢？
+
+--- Group 872 [left:主人公 next=0023] ---
+何をしてたの？
+-[FID:3C, TEXT:023B] 你在做什么呢？
+
+--- Group 873 [left:none next=0023] ---
+何をしてたんですか？
++[FID:3C, TEXT:023C] 您在做什么呢？
+
+--- Group 874 [left:none next=0023] ---
+何をしてたんですか？
+-[FID:3C, TEXT:023C] 您在做什么呢？
+
+--- Group 875 [left:主人公 next=0023] ---
+何をしてたんですか？
+-[FID:3C, TEXT:023C] 您在做什么呢？
+
+--- Group 876 [left:主人公 next=0023] ---
+何をしてたんですか？
+-[FID:3C, TEXT:023C] 您在做什么呢？
+
+--- Group 877 [left:none next=0023] ---
+何をしてたんですか？
+-[FID:3C, TEXT:023C] 您在做什么呢？
+
+--- Group 878 [right:none next=2012] ---
+【ストラ】の修行さ
++[FID:3C, TEXT:023D] 在进行【斯特拉】的修
+-[FID:3C, TEXT:023D] 行。
+
+--- Group 879 [right:char_0041 next=2012] ---
+【ストラ】の修行さ
+-[FID:3C, TEXT:023D] 在进行【斯特拉】的修
+-[FID:3C, TEXT:023D] 行。
+
+--- Group 880 [right:char_0041 next=2012] ---
+【ストラ】の修行さ
+-[FID:3C, TEXT:023D] 在进行【斯特拉】的修
+-[FID:3C, TEXT:023D] 行。
+
+--- Group 881 [right:char_0043 next=2012] ---
+【ストラ】の修行さ
+-[FID:3C, TEXT:023D] 是【ストラ】的修行啊
+-[FID:3C, TEXT:023D] 。
+
+--- Group 882 [right:none next=2012] ---
+【ストラ】の修行さ
+-[FID:3C, TEXT:023D] 是【ストラ】的修行啊
+-[FID:3C, TEXT:023D] 。
+
+--- Group 883 [right:char_0043 next=2012] ---
+【ストラ】の修行さ
+-[FID:3C, TEXT:023D] 是【ストラ】的修行啊
+-[FID:3C, TEXT:023D] 。
+
+--- Group 884 [right:char_0041 next=2012] ---
+こうやって自然の中で
+大きく深呼吸して心を
+落ち着けることで
++[FID:3C, TEXT:023E] 像这样在自然中大口深
++[FID:3C, TEXT:023F] 呼吸，让心情平静下来
++[FID:3C, TEXT:0240] ，
+
+--- Group 885 [right:char_0043 next=2012] ---
+こうやって自然の中で
+大きく深呼吸して心を
+落ち着けることで
+-[FID:3C, TEXT:023E] 像这样在自然中大口深
+-[FID:3C, TEXT:023F] 呼吸，让心情平静下来
+-[FID:3C, TEXT:0240] ，
+
+--- Group 886 [right:char_0041 next=2012] ---
+こうやって自然の中で
+大きく深呼吸して心を
+落ち着けることで
+-[FID:3C, TEXT:023E] 像这样在自然中大口深
+-[FID:3C, TEXT:023F] 呼吸，让心情平静下来
+-[FID:3C, TEXT:0240] ，
+
+--- Group 887 [right:none next=2012] ---
+こうやって自然の中で
+大きく深呼吸して心を
+落ち着けることで
+-[FID:3C, TEXT:023E] 像这样在自然中大口深
+-[FID:3C, TEXT:023F] 呼吸，让心情平静下来
+-[FID:3C, TEXT:0240] ，
+
+--- Group 888 [right:none next=2012] ---
+こうやって自然の中で
+大きく深呼吸して心を
+落ち着けることで
+-[FID:3C, TEXT:023E] 像这样在自然中大口深
+-[FID:3C, TEXT:023F] 呼吸，让心情平静下来
+-[FID:3C, TEXT:0240] ，
+
+--- Group 889 [right:char_0043 next=2012] ---
+こうやって自然の中で
+大きく深呼吸して心を
+落ち着けることで
+-[FID:3C, TEXT:023E] 像这样在自然中大口深
+-[FID:3C, TEXT:023F] 呼吸，让心情平静下来
+-[FID:3C, TEXT:0240] ，
+
+--- Group 890 [right:none next=2012] ---
+より強い【ストラ】を
+生み出せるように
+なるのさ
++[FID:3C, TEXT:0241] 就能变得能够创造出更
++[FID:3C, TEXT:0242] 强的【ストラ】了。
+
+--- Group 891 [right:none next=2012] ---
+より強い【ストラ】を
+生み出せるように
+なるのさ
+-[FID:3C, TEXT:0241] 就能变得能够创造出更
+-[FID:3C, TEXT:0242] 强的【ストラ】了。
+
+--- Group 892 [right:char_0041 next=2012] ---
+より強い【ストラ】を
+生み出せるように
+なるのさ
+-[FID:3C, TEXT:0241] 就能变得能够创造出更
+-[FID:3C, TEXT:0242] 强的【ストラ】了。
+
+--- Group 893 [right:char_0043 next=2012] ---
+より強い【ストラ】を
+生み出せるように
+なるのさ
+-[FID:3C, TEXT:0241] 就能变得能够创造出更
+-[FID:3C, TEXT:0242] 强的【ストラ】了。
+
+--- Group 894 [right:char_0043 next=2012] ---
+より強い【ストラ】を
+生み出せるように
+なるのさ
+-[FID:3C, TEXT:0241] 就能变得能够创造出更
+-[FID:3C, TEXT:0242] 强的【ストラ】了。
+
+--- Group 895 [right:char_0041 next=2012] ---
+より強い【ストラ】を
+生み出せるように
+なるのさ
+-[FID:3C, TEXT:0241] 就能变得能够创造出更
+-[FID:3C, TEXT:0242] 强的【ストラ】了。
+
+--- Group 896 [left:none next=0023] ---
+どうしてなんですか？
++[FID:3C, TEXT:0244] 为什么会这样呢？
+
+--- Group 897 [left:none next=0023] ---
+どうしてなんですか？
+-[FID:3C, TEXT:0244] 为什么会这样呢？
+
+--- Group 898 [left:none next=0023] ---
+どうしてなんですか？
+-[FID:3C, TEXT:0244] 为什么会这样呢？
+
+--- Group 899 [left:主人公 next=0023] ---
+どうしてなんですか？
+-[FID:3C, TEXT:0244] 为什么会这样呢？
+
+--- Group 900 [left:主人公 next=0023] ---
+どうしてなんですか？
+-[FID:3C, TEXT:0244] 为什么会这样呢？
+
+--- Group 901 [right:char_0043 next=2012] ---
+なんでそうなるのかは
+俺っちも知らないんだ
+けどさ
++[FID:3C, TEXT:0245] 为什么会这样，我也不
++[FID:3C, TEXT:0246] 知道啊，不过嘛……
+
+--- Group 902 [right:none next=2012] ---
+なんでそうなるのかは
+俺っちも知らないんだ
+けどさ
+-[FID:3C, TEXT:0245] 为什么会这样，我也不
+-[FID:3C, TEXT:0246] 知道啊，不过嘛……
+
+--- Group 903 [right:char_0043 next=2012] ---
+なんでそうなるのかは
+俺っちも知らないんだ
+けどさ
+-[FID:3C, TEXT:0245] 为什么会这样，我也不
+-[FID:3C, TEXT:0246] 知道啊，不过嘛……
+
+--- Group 904 [right:char_0041 next=2012] ---
+なんでそうなるのかは
+俺っちも知らないんだ
+けどさ
+-[FID:3C, TEXT:0245] 为什么会这样，我也不
+-[FID:3C, TEXT:0246] 知道啊，不过嘛……
+
+--- Group 905 [right:none next=2012] ---
+なんでそうなるのかは
+俺っちも知らないんだ
+けどさ
+-[FID:3C, TEXT:0245] 为什么会这样，我也不
+-[FID:3C, TEXT:0246] 知道啊，不过嘛……
+
+--- Group 906 [right:char_0041 next=2012] ---
+なんでそうなるのかは
+俺っちも知らないんだ
+けどさ
+-[FID:3C, TEXT:0245] 为什么会这样，我也不
+-[FID:3C, TEXT:0246] 知道啊，不过嘛……
+
+--- Group 907 [left:none next=0023] ---
+な、何だよそりゃ！？
++[FID:3C, TEXT:0248] 喂，那算什么啊！？
+
+--- Group 908 [left:主人公 next=0023] ---
+な、何だよそりゃ！？
+-[FID:3C, TEXT:0248] 喂，那算什么啊！？
+
+--- Group 909 [left:none next=0023] ---
+な、何だよそりゃ！？
+-[FID:3C, TEXT:0248] 喂，那算什么啊！？
+
+--- Group 910 [left:主人公 next=0023] ---
+な、何だよそりゃ！？
+-[FID:3C, TEXT:0248] 喂，那算什么啊！？
+
+--- Group 911 [left:主人公 next=0023] ---
+な、何だよそりゃ！？
+-[FID:3C, TEXT:0248] 喂，那算什么啊！？
+
+--- Group 912 [left:none next=0023] ---
+な、何だよそりゃ！？
+-[FID:3C, TEXT:0248] 喂，那算什么啊！？
+
+--- Group 913 [left:none next=0023] ---
+ええっ！？
++[FID:3C, TEXT:0249] 诶！？
+
+--- Group 914 [left:主人公 next=0023] ---
+ええっ！？
+-[FID:3C, TEXT:0249] 诶！？
+
+--- Group 915 [left:none next=0023] ---
+ええっ！？
+-[FID:3C, TEXT:0249] 诶！？
+
+--- Group 916 [left:主人公 next=0023] ---
+ええっ！？
+-[FID:3C, TEXT:0249] 诶！？
+
+--- Group 917 [left:none next=0023] ---
+ええっ！？
+-[FID:3C, TEXT:0249] 诶！？
+
+--- Group 918 [left:主人公 next=0023] ---
+な、ナニそれ・・・？
++[FID:3C, TEXT:024A] 这、这是什么啊……？
+
+--- Group 919 [left:none next=0023] ---
+な、ナニそれ・・・？
+-[FID:3C, TEXT:024A] 这、这是什么啊……？
+
+--- Group 920 [left:主人公 next=0023] ---
+な、ナニそれ・・・？
+-[FID:3C, TEXT:024A] 这、这是什么啊……？
+
+--- Group 921 [left:none next=0023] ---
+な、ナニそれ・・・？
+-[FID:3C, TEXT:024A] 这、这是什么啊……？
+
+--- Group 922 [left:none next=0023] ---
+な、ナニそれ・・・？
+-[FID:3C, TEXT:024A] 这、这是什么啊……？
+
+--- Group 923 [left:none next=0023] ---
+え・・・
++[FID:3C, TEXT:024B] 诶……
+
+--- Group 924 [left:主人公 next=0023] ---
+え・・・
+-[FID:3C, TEXT:024B] 诶……
+
+--- Group 925 [left:主人公 next=0023] ---
+え・・・
+-[FID:3C, TEXT:024B] 诶……
+
+--- Group 926 [left:none next=0023] ---
+え・・・
+-[FID:3C, TEXT:024B] 诶……
+
+--- Group 927 [left:none next=0023] ---
+え・・・
+-[FID:3C, TEXT:024B] 诶……
+
+--- Group 928 [right:char_0041 next=2012] ---
+別にいいじゃんか
+きちんと効果が
+出るんならさ
++[FID:3C, TEXT:024C] 没什么大不了的吧
++[FID:3C, TEXT:024D] 只要能确实
++[FID:3C, TEXT:024E] 看到效果就行了。
+
+--- Group 929 [right:char_0041 next=2012] ---
+別にいいじゃんか
+きちんと効果が
+出るんならさ
+-[FID:3C, TEXT:024C] 没什么大不了的吧
+-[FID:3C, TEXT:024D] 只要能确实
+-[FID:3C, TEXT:024E] 看到效果就行了。
+
+--- Group 930 [right:none next=2012] ---
+別にいいじゃんか
+きちんと効果が
+出るんならさ
+-[FID:3C, TEXT:024C] 没什么大不了的吧
+-[FID:3C, TEXT:024D] 只要能确实
+-[FID:3C, TEXT:024E] 看到效果就行了。
+
+--- Group 931 [right:char_0043 next=2012] ---
+別にいいじゃんか
+きちんと効果が
+出るんならさ
+-[FID:3C, TEXT:024C] 没什么大不了的吧
+-[FID:3C, TEXT:024D] 只要能确实
+-[FID:3C, TEXT:024E] 看到效果就行了。
+
+--- Group 932 [right:char_0043 next=2012] ---
+別にいいじゃんか
+きちんと効果が
+出るんならさ
+-[FID:3C, TEXT:024C] 没什么大不了的吧
+-[FID:3C, TEXT:024D] 只要能确实
+-[FID:3C, TEXT:024E] 看到效果就行了。
+
+--- Group 933 [right:none next=2012] ---
+別にいいじゃんか
+きちんと効果が
+出るんならさ
+-[FID:3C, TEXT:024C] 没什么大不了的吧
+-[FID:3C, TEXT:024D] 只要能确实
+-[FID:3C, TEXT:024E] 看到效果就行了。
+
+--- Group 934 [left:主人公 next=0023] ---
+なんだかなぁ・・・
++[FID:3C, TEXT:024F] 真是的……
+
+--- Group 935 [left:none next=0023] ---
+なんだかなぁ・・・
+-[FID:3C, TEXT:024F] 真是的……
+
+--- Group 936 [left:主人公 next=0023] ---
+なんだかなぁ・・・
+-[FID:3C, TEXT:024F] 真是的……
+
+--- Group 937 [left:none next=0023] ---
+なんだかなぁ・・・
+-[FID:3C, TEXT:024F] 真是的……
+
+--- Group 938 [left:none next=0023] ---
+なんだかなぁ・・・
+-[FID:3C, TEXT:024F] 真是的……
+
+--- Group 939 [left:主人公 next=0023] ---
+なんだかなぁ・・・
+-[FID:3C, TEXT:024F] 真是的……
+
+--- Group 940 [left:none next=0023] ---
+そんないい加減なこと
+でいいのか・・・？
++[FID:3C, TEXT:0250] 这样敷衍了事真的可以
++[FID:3C, TEXT:0251] 吗……？
+
+--- Group 941 [left:none next=0023] ---
+そんないい加減なこと
+でいいのか・・・？
+-[FID:3C, TEXT:0250] 这样敷衍了事真的可以
+-[FID:3C, TEXT:0251] 吗……？
+
+--- Group 942 [left:主人公 next=0023] ---
+そんないい加減なこと
+でいいのか・・・？
+-[FID:3C, TEXT:0250] 这样敷衍了事真的可以
+-[FID:3C, TEXT:0251] 吗……？
+
+--- Group 943 [left:none next=0023] ---
+そんないい加減なこと
+でいいのか・・・？
+-[FID:3C, TEXT:0250] 这样敷衍了事真的可以
+-[FID:3C, TEXT:0251] 吗……？
+
+--- Group 944 [left:主人公 next=0023] ---
+そんないい加減なこと
+でいいのか・・・？
+-[FID:3C, TEXT:0250] 这样敷衍了事真的可以
+-[FID:3C, TEXT:0251] 吗……？
+
+--- Group 945 [left:none next=2012] ---
+なりゆきで俺は君たち
+と対立しちゃっている
+けどさ
++[FID:3C, TEXT:0252] 虽说我是因为偶然的原
++[FID:3C, TEXT:0253] 因和你们对立着，不过
++[FID:3C, TEXT:0247] 嘛……
+
+--- Group 946 [left:none next=2012] ---
+なりゆきで俺は君たち
+と対立しちゃっている
+けどさ
+-[FID:3C, TEXT:0252] 虽说我是因为偶然的原
+-[FID:3C, TEXT:0253] 因和你们对立着，不过
+-[FID:3C, TEXT:0247] 嘛……
+
+--- Group 947 [left:主人公 next=2012] ---
+なりゆきで俺は君たち
+と対立しちゃっている
+けどさ
+-[FID:3C, TEXT:0252] 虽说我是因为偶然的原
+-[FID:3C, TEXT:0253] 因和你们对立着，不过
+-[FID:3C, TEXT:0247] 嘛……
+
+--- Group 948 [left:none next=2012] ---
+なりゆきで俺は君たち
+と対立しちゃっている
+けどさ
+-[FID:3C, TEXT:0252] 虽说我是因为偶然的原
+-[FID:3C, TEXT:0253] 因和你们对立着，不过
+-[FID:3C, TEXT:0247] 嘛……
+
+--- Group 949 [left:主人公 next=2012] ---
+なりゆきで俺は君たち
+と対立しちゃっている
+けどさ
+-[FID:3C, TEXT:0252] 虽说我是因为偶然的原
+-[FID:3C, TEXT:0253] 因和你们对立着，不过
+-[FID:3C, TEXT:0247] 嘛……
+
+--- Group 950 [left:主人公 next=0023] ---
+俺としては、これ以上
+君たちと争いたくない
+って思ってるんだ
++[FID:3C, TEXT:0254] 我呢，是不想再和你们
++[FID:3C, TEXT:0255] 争斗下去了。
+
+--- Group 951 [left:none next=0023] ---
+俺としては、これ以上
+君たちと争いたくない
+って思ってるんだ
+-[FID:3C, TEXT:0254] 我呢，是不想再和你们
+-[FID:3C, TEXT:0255] 争斗下去了。
+
+--- Group 952 [left:none next=0023] ---
+俺としては、これ以上
+君たちと争いたくない
+って思ってるんだ
+-[FID:3C, TEXT:0254] 我呢，是不想再和你们
+-[FID:3C, TEXT:0255] 争斗下去了。
+
+--- Group 953 [left:none next=0023] ---
+俺としては、これ以上
+君たちと争いたくない
+って思ってるんだ
+-[FID:3C, TEXT:0254] 我呢，是不想再和你们
+-[FID:3C, TEXT:0255] 争斗下去了。
+
+--- Group 954 [left:主人公 next=0023] ---
+俺としては、これ以上
+君たちと争いたくない
+って思ってるんだ
+-[FID:3C, TEXT:0254] 我呢，是不想再和你们
+-[FID:3C, TEXT:0255] 争斗下去了。
+
+--- Group 955 [left:none next=2012] ---
+なりゆきで僕は君たち
+と対立しているけど
++[FID:3C, TEXT:0257] 虽说我是因为偶然的原
++[FID:3C, TEXT:0258] 因和你们
+-[FID:3C, TEXT:0258] 对立着，不过嘛……
+
+--- Group 956 [left:主人公 next=2012] ---
+なりゆきで僕は君たち
+と対立しているけど
+-[FID:3C, TEXT:0257] 虽说我是因为偶然的原
+-[FID:3C, TEXT:0258] 因和你们
+-[FID:3C, TEXT:0258] 对立着，不过嘛……
+
+--- Group 957 [left:主人公 next=2012] ---
+なりゆきで僕は君たち
+と対立しているけど
+-[FID:3C, TEXT:0257] 虽说我是因为偶然的原
+-[FID:3C, TEXT:0258] 因和你们
+-[FID:3C, TEXT:0258] 对立着，不过嘛……
+
+--- Group 958 [left:none next=2012] ---
+なりゆきで僕は君たち
+と対立しているけど
+-[FID:3C, TEXT:0257] 虽说我是因为偶然的原
+-[FID:3C, TEXT:0258] 因和你们
+-[FID:3C, TEXT:0258] 对立着，不过嘛……
+
+--- Group 959 [left:none next=2012] ---
+なりゆきで僕は君たち
+と対立しているけど
+-[FID:3C, TEXT:0257] 虽说我是因为偶然的原
+-[FID:3C, TEXT:0258] 因和你们
+-[FID:3C, TEXT:0258] 对立着，不过嘛……
+
+--- Group 960 [left:none next=0023] ---
+できれば僕は、君たち
+と和解したいと思って
+いるんだ
++[FID:3C, TEXT:0259] 我呢，是希望能和你们
++[FID:3C, TEXT:025A] 和解的。
+
+--- Group 961 [left:主人公 next=0023] ---
+できれば僕は、君たち
+と和解したいと思って
+いるんだ
+-[FID:3C, TEXT:0259] 如果可以的话，我想要
+-[FID:3C, TEXT:025A] 和你们和解。
+
+--- Group 962 [left:主人公 next=0023] ---
+できれば僕は、君たち
+と和解したいと思って
+いるんだ
+-[FID:3C, TEXT:0259] 如果可以的话，我想要
+-[FID:3C, TEXT:025A] 和你们和解。
+
+--- Group 963 [left:none next=0023] ---
+できれば僕は、君たち
+と和解したいと思って
+いるんだ
+-[FID:3C, TEXT:0259] 如果可以的话，我想要
+-[FID:3C, TEXT:025A] 和你们和解。
+
+--- Group 964 [left:none next=0023] ---
+できれば僕は、君たち
+と和解したいと思って
+いるんだ
+-[FID:3C, TEXT:0259] 如果可以的话，我想要
+-[FID:3C, TEXT:025A] 和你们和解。
+
+--- Group 965 [left:none next=2012] ---
+あたしたちさ
+なんだか対立しちゃっ
+てるケドさ
++[FID:3C, TEXT:025C] 我们好像
++[FID:3C, TEXT:025D] 莫名其妙地对立了呢…
++[FID:3C, TEXT:025E] …
+
+--- Group 966 [left:主人公 next=2012] ---
+あたしたちさ
+なんだか対立しちゃっ
+てるケドさ
+-[FID:3C, TEXT:025C] 我们好像
+-[FID:3C, TEXT:025D] 莫名其妙地对立了呢…
+-[FID:3C, TEXT:025E] …
+
+--- Group 967 [left:none next=2012] ---
+あたしたちさ
+なんだか対立しちゃっ
+てるケドさ
+-[FID:3C, TEXT:025C] 我们好像
+-[FID:3C, TEXT:025D] 莫名其妙地对立了呢…
+-[FID:3C, TEXT:025E] …
+
+--- Group 968 [left:主人公 next=2012] ---
+あたしたちさ
+なんだか対立しちゃっ
+てるケドさ
+-[FID:3C, TEXT:025C] 我们好像
+-[FID:3C, TEXT:025D] 莫名其妙地对立了呢…
+-[FID:3C, TEXT:025E] …
+
+--- Group 969 [left:none next=2012] ---
+あたしたちさ
+なんだか対立しちゃっ
+てるケドさ
+-[FID:3C, TEXT:025C] 我们好像
+-[FID:3C, TEXT:025D] 莫名其妙地对立了呢…
+-[FID:3C, TEXT:025E] …
+
+--- Group 970 [left:主人公 next=0023] ---
+あたしはね、これ以上
+君たちと争いたくない
+って思ってるんだ
++[FID:3C, TEXT:025F] 我呢，不想再和你们争
+-[FID:3C, TEXT:0255] 斗下去了，是这么想的
++[FID:3C, TEXT:0256] 。
+
+--- Group 971 [left:none next=0023] ---
+あたしはね、これ以上
+君たちと争いたくない
+って思ってるんだ
+-[FID:3C, TEXT:025F] 我呢，不想再和你们争
+-[FID:3C, TEXT:0255] 斗下去了，是这么想的
+-[FID:3C, TEXT:0256] 。
+
+--- Group 972 [left:none next=0023] ---
+あたしはね、これ以上
+君たちと争いたくない
+って思ってるんだ
+-[FID:3C, TEXT:025F] 我呢，不想再和你们争
+-[FID:3C, TEXT:0255] 斗下去了，是这么想的
+-[FID:3C, TEXT:0256] 。
+
+--- Group 973 [left:主人公 next=0023] ---
+あたしはね、これ以上
+君たちと争いたくない
+って思ってるんだ
+-[FID:3C, TEXT:025F] 我呢，不想再和你们争
+-[FID:3C, TEXT:0255] 斗下去了，是这么想的
+-[FID:3C, TEXT:0256] 。
+
+--- Group 974 [left:none next=0023] ---
+あたしはね、これ以上
+君たちと争いたくない
+って思ってるんだ
+-[FID:3C, TEXT:025F] 我呢，不想再和你们争
+-[FID:3C, TEXT:0255] 斗下去了，是这么想的
+-[FID:3C, TEXT:0256] 。
+
+--- Group 975 [left:none next=2012] ---
+わたしたちが対立
+してるのはなりゆき
+ですけど・・・
++[FID:3C, TEXT:0260] 我们之所以对立，
++[FID:3C, TEXT:0261] 也是事出有因
++[FID:3C, TEXT:0262] 的……
+
+--- Group 976 [left:none next=2012] ---
+わたしたちが対立
+してるのはなりゆき
+ですけど・・・
+-[FID:3C, TEXT:0260] 我们之所以对立，
+-[FID:3C, TEXT:0261] 也是事出有因
+-[FID:3C, TEXT:0262] 的……
+
+--- Group 977 [left:none next=2012] ---
+わたしたちが対立
+してるのはなりゆき
+ですけど・・・
+-[FID:3C, TEXT:0260] 我们之所以对立，
+-[FID:3C, TEXT:0261] 也是事出有因
+-[FID:3C, TEXT:0262] 的……
+
+--- Group 978 [left:主人公 next=2012] ---
+わたしたちが対立
+してるのはなりゆき
+ですけど・・・
+-[FID:3C, TEXT:0260] 我们之所以对立，
+-[FID:3C, TEXT:0261] 也是事出有因
+-[FID:3C, TEXT:0262] 的……
+
+--- Group 979 [left:主人公 next=2012] ---
+わたしたちが対立
+してるのはなりゆき
+ですけど・・・
+-[FID:3C, TEXT:0260] 我们之所以对立，
+-[FID:3C, TEXT:0261] 也是事出有因
+-[FID:3C, TEXT:0262] 的……
+
+--- Group 980 [left:none next=0023] ---
+わたしは、これ以上
+争いを続けたくない
+って思ってるんです
++[FID:3C, TEXT:0263] 我呢，不想再
++[FID:3C, TEXT:0264] 继续争斗下去了
++[FID:3C, TEXT:0265] ，是这么想的。
+
+--- Group 981 [left:主人公 next=0023] ---
+わたしは、これ以上
+争いを続けたくない
+って思ってるんです
+-[FID:3C, TEXT:0263] 我呢，不想再
+-[FID:3C, TEXT:0264] 继续争斗下去了
+-[FID:3C, TEXT:0265] ，是这么想的。
+
+--- Group 982 [left:主人公 next=0023] ---
+わたしは、これ以上
+争いを続けたくない
+って思ってるんです
+-[FID:3C, TEXT:0263] 我呢，不想再
+-[FID:3C, TEXT:0264] 继续争斗下去了
+-[FID:3C, TEXT:0265] ，是这么想的。
+
+--- Group 983 [left:none next=0023] ---
+わたしは、これ以上
+争いを続けたくない
+って思ってるんです
+-[FID:3C, TEXT:0263] 我呢，不想再
+-[FID:3C, TEXT:0264] 继续争斗下去了
+-[FID:3C, TEXT:0265] ，是这么想的。
+
+--- Group 984 [left:none next=0023] ---
+わたしは、これ以上
+争いを続けたくない
+って思ってるんです
+-[FID:3C, TEXT:0263] 我呢，不想再
+-[FID:3C, TEXT:0264] 继续争斗下去了
+-[FID:3C, TEXT:0265] ，是这么想的。
+
+--- Group 985 [right:none next=2012] ---
+・・・ボクも同じです
++[FID:3C, TEXT:0266] ……我也是一样。
+
+--- Group 986 [right:none next=2012] ---
+・・・ボクも同じです
+-[FID:3C, TEXT:0266] ……我也是一样。
+
+--- Group 987 [right:char_0041 next=2012] ---
+・・・ボクも同じです
+-[FID:3C, TEXT:0266] ……我也是一样。
+
+--- Group 988 [right:char_0041 next=2012] ---
+・・・ボクも同じです
+-[FID:3C, TEXT:0266] ……我也是一样。
+
+--- Group 989 [right:char_0043 next=2012] ---
+・・・ボクも同じです
+-[FID:3C, TEXT:0266] ……我也是一样。
+
+--- Group 990 [right:none next=2012] ---
+けど、バノッサさんは
+そうじゃない
++[FID:3C, TEXT:0267] 但是，巴诺萨先生并不
++[FID:3C, TEXT:0268] 是这样。
+
+--- Group 991 [right:char_0043 next=2012] ---
+けど、バノッサさんは
+そうじゃない
+-[FID:3C, TEXT:0267] 但是，巴诺萨先生并不
+-[FID:3C, TEXT:0268] 是这样。
+
+--- Group 992 [right:char_0041 next=2012] ---
+けど、バノッサさんは
+そうじゃない
+-[FID:3C, TEXT:0267] 但是，巴诺萨先生并不
+-[FID:3C, TEXT:0268] 是这样。
+
+--- Group 993 [right:none next=2012] ---
+けど、バノッサさんは
+そうじゃない
+-[FID:3C, TEXT:0267] 但是，巴诺萨先生并不
+-[FID:3C, TEXT:0268] 是这样。
+
+--- Group 994 [right:char_0041 next=2012] ---
+けど、バノッサさんは
+そうじゃない
+-[FID:3C, TEXT:0267] 但是，巴诺萨先生并不
+-[FID:3C, TEXT:0268] 是这样。
+
+--- Group 995 [right:none next=2012] ---
+バノッサさんは、南の
+スラムを縄張りにする
+ために、フラットの人
+を狙ってました
++[FID:3C, TEXT:0269] 巴诺萨先生，为了占据
++[FID:3C, TEXT:026A] 南边的贫民窟，盯上了
++[FID:3C, TEXT:026B] 弗拉特的人。
+
+--- Group 996 [right:none next=2012] ---
+バノッサさんは、南の
+スラムを縄張りにする
+ために、フラットの人
+を狙ってました
+-[FID:3C, TEXT:0269] 巴诺萨先生，为了占据
+-[FID:3C, TEXT:026A] 南边的贫民窟，盯上了
+-[FID:3C, TEXT:026B] 弗拉特的人。
+
+--- Group 997 [right:char_0043 next=2012] ---
+バノッサさんは、南の
+スラムを縄張りにする
+ために、フラットの人
+を狙ってました
+-[FID:3C, TEXT:0269] 巴诺萨先生，为了占据
+-[FID:3C, TEXT:026A] 南边的贫民窟，盯上了
+-[FID:3C, TEXT:026B] 弗拉特的人。
+
+--- Group 998 [right:char_0041 next=2012] ---
+バノッサさんは、南の
+スラムを縄張りにする
+ために、フラットの人
+を狙ってました
+-[FID:3C, TEXT:0269] 巴诺萨先生，为了占据
+-[FID:3C, TEXT:026A] 南边的贫民窟，盯上了
+-[FID:3C, TEXT:026B] 弗拉特的人。
+
+--- Group 999 [right:char_0041 next=2012] ---
+バノッサさんは、南の
+スラムを縄張りにする
+ために、フラットの人
+を狙ってました
+-[FID:3C, TEXT:0269] 巴诺萨先生，为了占据
+-[FID:3C, TEXT:026A] 南边的贫民窟，盯上了
+-[FID:3C, TEXT:026B] 弗拉特的人。
+
+--- Group 1000 [right:char_0041 next=2012] ---
+お姉さんがフラットに
+入るまでは・・・
++[FID:3C, TEXT:026F] 在姐姐加入弗拉特之前
++[FID:3C, TEXT:026E] ……
+
+--- Group 1001 [right:none next=2012] ---
+お姉さんがフラットに
+入るまでは・・・
+-[FID:3C, TEXT:026F] 在姐姐加入弗拉特之前
+-[FID:3C, TEXT:026E] ……
+
+--- Group 1002 [right:char_0041 next=2012] ---
+お姉さんがフラットに
+入るまでは・・・
+-[FID:3C, TEXT:026F] 在姐姐加入弗拉特之前
+-[FID:3C, TEXT:026E] ……
+
+--- Group 1003 [right:char_0043 next=2012] ---
+お姉さんがフラットに
+入るまでは・・・
+-[FID:3C, TEXT:026F] 在姐姐加入弗拉特之前
+-[FID:3C, TEXT:026E] ……
+
+--- Group 1004 [right:none next=2012] ---
+お姉さんがフラットに
+入るまでは・・・
+-[FID:3C, TEXT:026F] 在姐姐加入弗拉特之前
+-[FID:3C, TEXT:026E] ……
+
+--- Group 1005 [left:none next=0023] ---
+えっ？
++[FID:3C, TEXT:0270] 嗯？
+
+--- Group 1006 [left:none next=0023] ---
+えっ？
+-[FID:3C, TEXT:0270] 嗯？
+
+--- Group 1007 [left:none next=0023] ---
+えっ？
+-[FID:3C, TEXT:0270] 嗯？
+
+--- Group 1008 [left:主人公 next=0023] ---
+えっ？
+-[FID:3C, TEXT:0270] 嗯？
+
+--- Group 1009 [left:主人公 next=0023] ---
+えっ？
+-[FID:3C, TEXT:0270] 嗯？
+
+--- Group 1010 [left:none next=0023] ---
+は？
++[FID:3C, TEXT:0271] 哈？
+
+--- Group 1011 [left:none next=0023] ---
+は？
+-[FID:3C, TEXT:0271] 哈？
+
+--- Group 1012 [left:主人公 next=0023] ---
+は？
+-[FID:3C, TEXT:0271] 哈？
+
+--- Group 1013 [left:none next=0023] ---
+は？
+-[FID:3C, TEXT:0271] 哈？
+
+--- Group 1014 [left:主人公 next=0023] ---
+は？
+-[FID:3C, TEXT:0271] 哈？
+
+--- Group 1015 [right:none next=2012] ---
+お姉さんの使ったって
+いう不思議な力・・・
+あれは【召喚術】
+なんでしょう？
++[FID:3C, TEXT:0276] 姐姐使用的那种不可思
++[FID:3C, TEXT:0273] 议的力量……是【召唤
++[FID:3C, TEXT:0274] 术】
++[FID:3C, TEXT:0275] 对吧？
+
+--- Group 1016 [right:char_0041 next=2012] ---
+お姉さんの使ったって
+いう不思議な力・・・
+あれは【召喚術】
+なんでしょう？
+-[FID:3C, TEXT:0276] 姐姐使用的那种不可思
+-[FID:3C, TEXT:0273] 议的力量……是【召唤
+-[FID:3C, TEXT:0274] 术】
+-[FID:3C, TEXT:0275] 对吧？
+
+--- Group 1017 [right:char_0043 next=2012] ---
+お姉さんの使ったって
+いう不思議な力・・・
+あれは【召喚術】
+なんでしょう？
+-[FID:3C, TEXT:0276] 姐姐使用的那种不可思
+-[FID:3C, TEXT:0273] 议的力量……是【召唤
+-[FID:3C, TEXT:0274] 术】
+-[FID:3C, TEXT:0275] 对吧？
+
+--- Group 1018 [right:none next=2012] ---
+お姉さんの使ったって
+いう不思議な力・・・
+あれは【召喚術】
+なんでしょう？
+-[FID:3C, TEXT:0276] 姐姐使用的那种不可思
+-[FID:3C, TEXT:0273] 议的力量……是【召唤
+-[FID:3C, TEXT:0274] 术】
+-[FID:3C, TEXT:0275] 对吧？
+
+--- Group 1019 [right:char_0041 next=2012] ---
+お姉さんの使ったって
+いう不思議な力・・・
+あれは【召喚術】
+なんでしょう？
+-[FID:3C, TEXT:0276] 姐姐使用的那种不可思
+-[FID:3C, TEXT:0273] 议的力量……是【召唤
+-[FID:3C, TEXT:0274] 术】
+-[FID:3C, TEXT:0275] 对吧？
+
+--- Group 1020 [right:none next=2012] ---
+今のバノッサさんは、
+それを狙っています
++[FID:3C, TEXT:0277] 现在，巴诺萨先生正瞄
++[FID:3C, TEXT:0278] 准着它。
+
+--- Group 1021 [right:none next=2012] ---
+今のバノッサさんは、
+それを狙っています
+-[FID:3C, TEXT:0277] 现在，巴诺萨先生正瞄
+-[FID:3C, TEXT:0278] 准着它。
+
+--- Group 1022 [right:char_0043 next=2012] ---
+今のバノッサさんは、
+それを狙っています
+-[FID:3C, TEXT:0277] 现在，巴诺萨先生正瞄
+-[FID:3C, TEXT:0278] 准着它。
+
+--- Group 1023 [right:char_0041 next=2012] ---
+今のバノッサさんは、
+それを狙っています
+-[FID:3C, TEXT:0277] 现在，巴诺萨先生正瞄
+-[FID:3C, TEXT:0278] 准着它。
+
+--- Group 1024 [right:char_0041 next=2012] ---
+今のバノッサさんは、
+それを狙っています
+-[FID:3C, TEXT:0277] 现在，巴诺萨先生正瞄
+-[FID:3C, TEXT:0278] 准着它。
+
+--- Group 1025 [right:char_0043 next=2012] ---
+お姉さんの使った力を
+手に入れたがっている
+んですよ
++[FID:3C, TEXT:027C] 他想得到姐姐使用过的
++[FID:3C, TEXT:027A] 力量。
+
+--- Group 1026 [right:char_0041 next=2012] ---
+お姉さんの使った力を
+手に入れたがっている
+んですよ
+-[FID:3C, TEXT:027C] 他想得到姐姐使用过的
+-[FID:3C, TEXT:027A] 力量。
+
+--- Group 1027 [right:char_0041 next=2012] ---
+お姉さんの使った力を
+手に入れたがっている
+んですよ
+-[FID:3C, TEXT:027C] 他想得到姐姐使用过的
+-[FID:3C, TEXT:027A] 力量。
+
+--- Group 1028 [right:none next=2012] ---
+お姉さんの使った力を
+手に入れたがっている
+んですよ
+-[FID:3C, TEXT:027C] 他想得到姐姐使用过的
+-[FID:3C, TEXT:027A] 力量。
+
+--- Group 1029 [right:none next=2012] ---
+お姉さんの使った力を
+手に入れたがっている
+んですよ
+-[FID:3C, TEXT:027C] 他想得到姐姐使用过的
+-[FID:3C, TEXT:027A] 力量。
+
+--- Group 1030 [left:主人公 next=2012] ---
+・・・！？
++[FID:3C, TEXT:027D] ……！？
+
+--- Group 1031 [left:主人公 next=2012] ---
+・・・！？
+-[FID:3C, TEXT:027D] ……！？
+
+--- Group 1032 [left:none next=2012] ---
+・・・！？
+-[FID:3C, TEXT:027D] ……！？
+
+--- Group 1033 [left:none next=2012] ---
+・・・！？
+-[FID:3C, TEXT:027D] ……！？
+
+--- Group 1034 [left:none next=2012] ---
+・・・！？
+-[FID:3C, TEXT:027D] ……！？
+
+--- Group 1035 [right:char_0041 next=2012] ---
+それがかなわない限り
+あの人はお姉さんたち
+をつけ狙います
++[FID:3C, TEXT:027E] 如果这个愿望无法实现
++[FID:3C, TEXT:0281] ，那个人就会一直盯上
++[FID:3C, TEXT:0280] 姐姐。
+
+--- Group 1036 [right:char_0043 next=2012] ---
+それがかなわない限り
+あの人はお姉さんたち
+をつけ狙います
+-[FID:3C, TEXT:027E] 如果这个愿望无法实现
+-[FID:3C, TEXT:0281] ，那个人就会一直盯上
+-[FID:3C, TEXT:0280] 姐姐。
+
+--- Group 1037 [right:char_0041 next=2012] ---
+それがかなわない限り
+あの人はお姉さんたち
+をつけ狙います
+-[FID:3C, TEXT:027E] 如果这个愿望无法实现
+-[FID:3C, TEXT:0281] ，那个人就会一直盯上
+-[FID:3C, TEXT:0280] 姐姐。
+
+--- Group 1038 [right:none next=2012] ---
+それがかなわない限り
+あの人はお姉さんたち
+をつけ狙います
+-[FID:3C, TEXT:027E] 如果这个愿望无法实现
+-[FID:3C, TEXT:0281] ，那个人就会一直盯上
+-[FID:3C, TEXT:0280] 姐姐。
+
+--- Group 1039 [right:none next=2012] ---
+それがかなわない限り
+あの人はお姉さんたち
+をつけ狙います
+-[FID:3C, TEXT:027E] 如果这个愿望无法实现
+-[FID:3C, TEXT:0281] ，那个人就会一直盯上
+-[FID:3C, TEXT:0280] 姐姐。
+
+--- Group 1040 [right:none next=2012] ---
+そういう人なんです
++[FID:3C, TEXT:0282] 他就是那样的人。
+
+--- Group 1041 [right:char_0043 next=2012] ---
+そういう人なんです
+-[FID:3C, TEXT:0282] 他就是那样的人。
+
+--- Group 1042 [right:char_0041 next=2012] ---
+そういう人なんです
+-[FID:3C, TEXT:0282] 他就是那样的人。
+
+--- Group 1043 [right:char_0041 next=2012] ---
+そういう人なんです
+-[FID:3C, TEXT:0282] 他就是那样的人。
+
+--- Group 1044 [right:none next=2012] ---
+そういう人なんです
+-[FID:3C, TEXT:0282] 他就是那样的人。
+
+--- Group 1045 [left:主人公 next=2012] ---
+そんなこと
+言われたって・・・
++[FID:3C, TEXT:0283] 就算
++[FID:3C, TEXT:0284] 这么说我……
+
+--- Group 1046 [left:none next=2012] ---
+そんなこと
+言われたって・・・
+-[FID:3C, TEXT:0283] 就算
+-[FID:3C, TEXT:0284] 这么说我……
+
+--- Group 1047 [left:none next=2012] ---
+そんなこと
+言われたって・・・
+-[FID:3C, TEXT:0283] 就算
+-[FID:3C, TEXT:0284] 这么说我……
+
+--- Group 1048 [left:主人公 next=2012] ---
+そんなこと
+言われたって・・・
+-[FID:3C, TEXT:0283] 就算
+-[FID:3C, TEXT:0284] 这么说我……
+
+--- Group 1049 [left:none next=2012] ---
+そんなこと
+言われたって・・・
+-[FID:3C, TEXT:0283] 就算
+-[FID:3C, TEXT:0284] 这么说我……
+
+--- Group 1050 [left:none next=2012] ---
+俺にだって、どうして
+あんなことができるか
+わからないんだぜ？
++[FID:3C, TEXT:0285] 我自己也不知道为什么
++[FID:3C, TEXT:0286] 能做到那种事啊？
+
+--- Group 1051 [left:none next=2012] ---
+俺にだって、どうして
+あんなことができるか
+わからないんだぜ？
+-[FID:3C, TEXT:0285] 我自己也不知道为什么
+-[FID:3C, TEXT:0286] 能做到那种事啊？
+
+--- Group 1052 [left:主人公 next=2012] ---
+俺にだって、どうして
+あんなことができるか
+わからないんだぜ？
+-[FID:3C, TEXT:0285] 我自己也不知道为什么
+-[FID:3C, TEXT:0286] 能做到那种事啊？
+
+--- Group 1053 [left:主人公 next=2012] ---
+俺にだって、どうして
+あんなことができるか
+わからないんだぜ？
+-[FID:3C, TEXT:0285] 我自己也不知道为什么
+-[FID:3C, TEXT:0286] 能做到那种事啊？
+
+--- Group 1054 [left:none next=2012] ---
+俺にだって、どうして
+あんなことができるか
+わからないんだぜ？
+-[FID:3C, TEXT:0285] 我自己也不知道为什么
+-[FID:3C, TEXT:0286] 能做到那种事啊？
+
+--- Group 1055 [left:none next=0023] ---
+いったい、どうしろっ
+ていうんだ・・・？
++[FID:3C, TEXT:0288] 到底要我怎么办啊……
++[FID:3C, TEXT:028D] ？
+
+--- Group 1056 [left:none next=0023] ---
+いったい、どうしろっ
+ていうんだ・・・？
+-[FID:3C, TEXT:0288] 到底要我怎么办啊……
+-[FID:3C, TEXT:028D] ？
+
+--- Group 1057 [left:none next=0023] ---
+いったい、どうしろっ
+ていうんだよ・・・？
+-[FID:3C, TEXT:0288] 到底要我怎么办啊……
++[FID:3C, TEXT:0289] ？
+
+--- Group 1058 [left:主人公 next=0023] ---
+いったい、どうしろっ
+ていうんだ・・・？
+-[FID:3C, TEXT:0288] 到底要我怎么办啊……
+-[FID:3C, TEXT:028D] ？
+
+--- Group 1059 [left:主人公 next=0023] ---
+いったい、どうしろっ
+ていうんだよ・・・？
+-[FID:3C, TEXT:0288] 到底要我怎么办啊……
+-[FID:3C, TEXT:0289] ？
+
+--- Group 1060 [left:主人公 next=0023] ---
+いったい、どうしろっ
+ていうんだよ・・・？
+-[FID:3C, TEXT:0288] 到底要我怎么办啊……
+-[FID:3C, TEXT:0289] ？
+
+--- Group 1061 [left:none next=0023] ---
+いったい、どうしろっ
+ていうんだよ・・・？
+-[FID:3C, TEXT:0288] 到底要我怎么办啊……
+-[FID:3C, TEXT:0289] ？
+
+--- Group 1062 [left:主人公 next=0023] ---
+いったい、どうしろっ
+ていうんだ・・・？
+-[FID:3C, TEXT:0288] 到底要我怎么办啊……
+-[FID:3C, TEXT:028D] ？
+
+--- Group 1063 [left:none next=0023] ---
+いったい、どうしろっ
+ていうんだ・・・？
+-[FID:3C, TEXT:0288] 到底要我怎么办啊……
+-[FID:3C, TEXT:028D] ？
+
+--- Group 1064 [left:none next=0023] ---
+いったい、どうしろっ
+ていうんだよ・・・？
+-[FID:3C, TEXT:0288] 到底要我怎么办啊……
+-[FID:3C, TEXT:0289] ？
+
+--- Group 1065 [left:主人公 next=2012] ---
+そんな・・・
++[FID:3C, TEXT:028A] 这种事……
+
+--- Group 1066 [left:none next=2012] ---
+そんな・・・
+-[FID:3C, TEXT:028A] 这种事……
+
+--- Group 1067 [left:主人公 next=2012] ---
+そんな・・・
+-[FID:3C, TEXT:028A] 这种事……
+
+--- Group 1068 [left:none next=2012] ---
+そんな・・・
+-[FID:3C, TEXT:028A] 这种事……
+
+--- Group 1069 [left:none next=2012] ---
+そんな・・・
+-[FID:3C, TEXT:028A] 这种事……
+
+--- Group 1070 [left:none next=2012] ---
+僕にだって、どうして
+あんなことができるか
+わからないのに・・・
++[FID:3C, TEXT:028B] 我自己也不知道为什么
+-[FID:3C, TEXT:0286] 能做到那种事啊……
+
+--- Group 1071 [left:none next=2012] ---
+僕にだって、どうして
+あんなことができるか
+わからないのに・・・
+-[FID:3C, TEXT:028B] 我自己也不知道为什么
+-[FID:3C, TEXT:0286] 能做到那种事啊……
+
+--- Group 1072 [left:主人公 next=2012] ---
+僕にだって、どうして
+あんなことができるか
+わからないのに・・・
+-[FID:3C, TEXT:028B] 我自己也不知道为什么
+-[FID:3C, TEXT:0286] 能做到那种事啊……
+
+--- Group 1073 [left:none next=2012] ---
+僕にだって、どうして
+あんなことができるか
+わからないのに・・・
+-[FID:3C, TEXT:028B] 我自己也不知道为什么
+-[FID:3C, TEXT:0286] 能做到那种事啊……
+
+--- Group 1074 [left:主人公 next=2012] ---
+僕にだって、どうして
+あんなことができるか
+わからないのに・・・
+-[FID:3C, TEXT:028B] 我自己也不知道为什么
+-[FID:3C, TEXT:0286] 能做到那种事啊……
+
+--- Group 1075 [left:none next=2012] ---
+でも・・・
+この力は・・・
++[FID:3C, TEXT:028E] 但是……
++[FID:3C, TEXT:028F] 这份力量……
+
+--- Group 1076 [left:none next=2012] ---
+でも・・・
+この力は・・・
+-[FID:3C, TEXT:028E] 但是……
+-[FID:3C, TEXT:028F] 这份力量……
+
+--- Group 1077 [left:主人公 next=0023] ---
+でも・・・
+釣りの餌がないわね
+餌を探さなくては
+いけないみたい・・
+-[FID:3C, TEXT:028E] 但是……
++[FID:3C, TEXT:02B2] 好像没有钓鱼的饵呢
++[FID:3C, TEXT:02B3] 我得去找点饵
++[FID:3C, TEXT:02B4] 才行呢……
+
+--- Group 1078 [left:none next=2012] ---
+でも・・・
+この力は・・・
+-[FID:3C, TEXT:028E] 但是……
+-[FID:3C, TEXT:028F] 这份力量……
+
+--- Group 1079 [left:主人公 next=2012] ---
+でも・・・
+この力は・・・
+-[FID:3C, TEXT:028E] 但是……
+-[FID:3C, TEXT:028F] 这份力量……
+
+--- Group 1080 [left:主人公 next=0023] ---
+でも・・・
+釣りの餌がないわね
+餌を探さなくては
+いけないみたい・・
+-[FID:3C, TEXT:028E] 但是……
+-[FID:3C, TEXT:02B2] 好像没有钓鱼的饵呢
+-[FID:3C, TEXT:02B3] 我得去找点饵
+-[FID:3C, TEXT:02B4] 才行呢……
+
+--- Group 1081 [left:主人公 next=2012] ---
+でも・・・
+この力は・・・
+-[FID:3C, TEXT:028E] 但是……
+-[FID:3C, TEXT:028F] 这份力量……
+
+--- Group 1082 [left:主人公 next=0023] ---
+でも・・・
+釣りの餌がないわね
+餌を探さなくては
+いけないみたい・・
+-[FID:3C, TEXT:028E] 但是……
+-[FID:3C, TEXT:02B2] 好像没有钓鱼的饵呢
+-[FID:3C, TEXT:02B3] 我得去找点饵
+-[FID:3C, TEXT:02B4] 才行呢……
+
+--- Group 1083 [left:主人公 next=2012] ---
+あたしも、修行とか
+して、手に入れたわけ
+じゃないから・・・
++[FID:3C, TEXT:0290] 我也不是
++[FID:3C, TEXT:0291] 通过修行之类的才得到
++[FID:3C, TEXT:0292] 这份力量的……
+
+--- Group 1084 [left:none next=2012] ---
+あたしも、修行とか
+して、手に入れたわけ
+じゃないから・・・
+-[FID:3C, TEXT:0290] 我也不是
+-[FID:3C, TEXT:0291] 通过修行之类的才得到
+-[FID:3C, TEXT:0292] 这份力量的……
+
+--- Group 1085 [left:none next=2012] ---
+あたしも、修行とか
+して、手に入れたわけ
+じゃないから・・・
+-[FID:3C, TEXT:0290] 我也不是
+-[FID:3C, TEXT:0291] 通过修行之类的才得到
+-[FID:3C, TEXT:0292] 这份力量的……
+
+--- Group 1086 [left:主人公 next=2012] ---
+あたしも、修行とか
+して、手に入れたわけ
+じゃないから・・・
+-[FID:3C, TEXT:0290] 我也不是
+-[FID:3C, TEXT:0291] 通过修行之类的才得到
+-[FID:3C, TEXT:0292] 这份力量的……
+
+--- Group 1087 [left:none next=2012] ---
+あたしも、修行とか
+して、手に入れたわけ
+じゃないから・・・
+-[FID:3C, TEXT:0290] 我也不是
+-[FID:3C, TEXT:0291] 通过修行之类的才得到
+-[FID:3C, TEXT:0292] 这份力量的……
+
+--- Group 1088 [left:none next=0023] ---
+あーもう！
+いったい
+どうすればいいの？？
++[FID:3C, TEXT:0293] 真是的！
++[FID:3C, TEXT:0294] 到底
++[FID:3C, TEXT:0295] 该怎么办才好啊？？
+
+--- Group 1089 [left:主人公 next=0023] ---
+あーもう！
+いったい
+どうすればいいの？？
+-[FID:3C, TEXT:0293] 真是的！
+-[FID:3C, TEXT:0294] 到底
+-[FID:3C, TEXT:0295] 该怎么办才好啊？？
+
+--- Group 1090 [left:none next=0023] ---
+あーもう！
+いったい
+どうすればいいの？？
+-[FID:3C, TEXT:0293] 真是的！
+-[FID:3C, TEXT:0294] 到底
+-[FID:3C, TEXT:0295] 该怎么办才好啊？？
+
+--- Group 1091 [left:主人公 next=0023] ---
+あーもう！
+いったい
+どうすればいいの？？
+-[FID:3C, TEXT:0293] 真是的！
+-[FID:3C, TEXT:0294] 到底
+-[FID:3C, TEXT:0295] 该怎么办才好啊？？
+
+--- Group 1092 [left:none next=0023] ---
+あーもう！
+いったい
+どうすればいいの？？
+-[FID:3C, TEXT:0293] 真是的！
+-[FID:3C, TEXT:0294] 到底
+-[FID:3C, TEXT:0295] 该怎么办才好啊？？
+
+--- Group 1093 [left:主人公 next=2012] ---
+わたしにも、どうして
+あんなことができるか
+わからないんですよ？
++[FID:3C, TEXT:0296] 我自己也不知道为什么
+-[FID:3C, TEXT:0286] 能做到那种事啊？
+
+--- Group 1094 [left:none next=2012] ---
+わたしにも、どうして
+あんなことができるか
+わからないんですよ？
+-[FID:3C, TEXT:0296] 我自己也不知道为什么
+-[FID:3C, TEXT:0286] 能做到那种事啊？
+
+--- Group 1095 [left:none next=2012] ---
+わたしにも、どうして
+あんなことができるか
+わからないんですよ？
+-[FID:3C, TEXT:0296] 我自己也不知道为什么
+-[FID:3C, TEXT:0286] 能做到那种事啊？
+
+--- Group 1096 [left:none next=2012] ---
+わたしにも、どうして
+あんなことができるか
+わからないんですよ？
+-[FID:3C, TEXT:0296] 我自己也不知道为什么
+-[FID:3C, TEXT:0286] 能做到那种事啊？
+
+--- Group 1097 [left:主人公 next=2012] ---
+わたしにも、どうして
+あんなことができるか
+わからないんですよ？
+-[FID:3C, TEXT:0296] 我自己也不知道为什么
+-[FID:3C, TEXT:0286] 能做到那种事啊？
+
+--- Group 1098 [left:none next=0023] ---
+わたしは・・・どうす
+ればいいんでしょうか
++[FID:3C, TEXT:0298] 我……该怎么办才好呢
+
+--- Group 1099 [left:主人公 next=0023] ---
+わたしは・・・どうす
+ればいいんでしょうか
+-[FID:3C, TEXT:0298] 我……该怎么办才好呢
+
+--- Group 1100 [left:主人公 next=0023] ---
+わたしは・・・どうす
+ればいいんでしょうか
+-[FID:3C, TEXT:0298] 我……该怎么办才好呢
+
+--- Group 1101 [left:none next=0023] ---
+わたしは・・・どうす
+ればいいんでしょうか
+-[FID:3C, TEXT:0298] 我……该怎么办才好呢
+
+--- Group 1102 [left:none next=0023] ---
+わたしは・・・どうす
+ればいいんでしょうか
+-[FID:3C, TEXT:0298] 我……该怎么办才好呢
+
+--- Group 1103 [left:主人公 next=2012] ---
+・・・猫？
++[FID:3C, TEXT:029A] ……猫？
+
+--- Group 1104 [left:主人公 next=2012] ---
+・・・猫？
+-[FID:3C, TEXT:029A] ……猫？
+
+--- Group 1105 [left:主人公 next=2012] ---
+・・・猫？
+-[FID:3C, TEXT:029A] ……猫？
+
+--- Group 1106 [left:主人公 next=0023] ---
+また、魚でも釣って
+みるかな？
++[FID:3C, TEXT:029D] 要不去
++[FID:3C, TEXT:02A0] 钓点鱼看看吧？
+
+--- Group 1107 [left:主人公 next=0023] ---
+また、魚でも釣って
+リプレを喜ばせて
+やろうかな？
+-[FID:3C, TEXT:029D] 要不去
++[FID:3C, TEXT:029E] 钓点鱼
++[FID:3C, TEXT:029F] 让利普雷高兴高兴吧？
+
+--- Group 1108 [left:主人公 next=0023] ---
+また、魚でも釣って
+リプレを喜ばせて
+やろうかな？
+-[FID:3C, TEXT:029D] 要不去
+-[FID:3C, TEXT:029E] 钓点鱼
+-[FID:3C, TEXT:029F] 让利普雷高兴高兴吧？
+
+--- Group 1109 [left:主人公 next=0023] ---
+また、魚でも釣って
+みるかな？
+-[FID:3C, TEXT:029D] 要不去
+-[FID:3C, TEXT:02A0] 钓点鱼看看吧？
+
+--- Group 1110 [left:主人公 next=0023] ---
+また、魚でも釣って
+リプレを喜ばせて
+やろうかな？
+-[FID:3C, TEXT:029D] 要不去
+-[FID:3C, TEXT:029E] 钓点鱼
+-[FID:3C, TEXT:029F] 让利普雷高兴高兴吧？
+
+--- Group 1111 [left:主人公 next=0023] ---
+また、魚でも釣って
+みるかな？
+-[FID:3C, TEXT:029D] 要不去
+-[FID:3C, TEXT:02A0] 钓点鱼看看吧？
+
+--- Group 1112 [left:主人公 next=0023] ---
+うーん
+魚釣りねぇ・・・
++[FID:3C, TEXT:02A1] 嗯……
++[FID:3C, TEXT:02A2] 钓鱼啊……
+
+--- Group 1113 [left:主人公 next=0023] ---
+うーん
+魚釣りねぇ・・・
+-[FID:3C, TEXT:02A1] 嗯……
+-[FID:3C, TEXT:02A2] 钓鱼啊……
+
+--- Group 1114 [left:主人公 next=0023] ---
+うーん
+魚釣りねぇ・・・
+-[FID:3C, TEXT:02A1] 嗯……
+-[FID:3C, TEXT:02A2] 钓鱼啊……
+
+--- Group 1115 [left:主人公 next=0023] ---
+また、魚を
+釣って帰ったら
+リプレさん
+喜ぶかしら・・・
++[FID:3C, TEXT:02A3] 如果
++[FID:3C, TEXT:02A4] 再钓些鱼回去
++[FID:3C, TEXT:02A5] 利普雷小姐
++[FID:3C, TEXT:02A6] 会高兴吧……
+
+--- Group 1116 [left:主人公 next=0023] ---
+また、魚を
+釣って帰ったら
+リプレさん
+喜ぶかしら・・・
+-[FID:3C, TEXT:02A3] 如果
+-[FID:3C, TEXT:02A4] 再钓些鱼回去
+-[FID:3C, TEXT:02A5] 利普雷小姐
+-[FID:3C, TEXT:02A6] 会高兴吧……
+
+--- Group 1117 [left:主人公 next=0023] ---
+また、魚を
+釣って帰ったら
+リプレさん
+喜ぶかしら・・・
+-[FID:3C, TEXT:02A3] 如果
+-[FID:3C, TEXT:02A4] 再钓些鱼回去
+-[FID:3C, TEXT:02A5] 利普雷小姐
+-[FID:3C, TEXT:02A6] 会高兴吧……
+
+--- Group 1118 [left:主人公 next=2012] ---
+あれ？
+リプレがいないぞ
++[FID:3C, TEXT:02A7] 咦？
++[FID:3C, TEXT:02CE] 利普雷不在啊
+
+--- Group 1119 [left:主人公 next=2012] ---
+あれ？
+リプレがいない
+-[FID:3C, TEXT:02A7] 咦？
++[FID:3C, TEXT:02D6] 利普雷不在
+
+--- Group 1120 [left:主人公 next=2012] ---
+あれ？
+リプレがいないぞ
+-[FID:3C, TEXT:02A7] 咦？
+-[FID:3C, TEXT:02CE] 利普雷不在啊
+
+--- Group 1121 [left:主人公 next=0023] ---
+あれ？
+釣りの餌がない・・・
+これじゃあ釣りは
+できないよな
+-[FID:3C, TEXT:02A7] 咦？
++[FID:3C, TEXT:02A8] 鱼饵用完了……这样的
++[FID:3C, TEXT:02A9] 话，钓鱼
++[FID:3C, TEXT:02AA] 就没办法进行了呢
+
+--- Group 1122 [left:主人公 next=2012] ---
+あれ？
+リプレがいないぞ
+-[FID:3C, TEXT:02A7] 咦？
+-[FID:3C, TEXT:02CE] 莉普蕾不在啊
+
+--- Group 1123 [left:主人公 next=2012] ---
+あれ？
+リプレがいない
+-[FID:3C, TEXT:02A7] 咦？
+-[FID:3C, TEXT:02D6] 莉普蕾不在
+
+--- Group 1124 [left:主人公 next=0023] ---
+あれ？
+釣りの餌がない・・・
+これじゃあ釣りは
+できないよな
+-[FID:3C, TEXT:02A7] 咦？
+-[FID:3C, TEXT:02A8] 鱼饵用完了……这样的
+-[FID:3C, TEXT:02A9] 话，钓鱼
+-[FID:3C, TEXT:02AA] 就没办法进行了呢
+
+--- Group 1125 [left:主人公 next=2012] ---
+あれ？
+リプレがいない
+-[FID:3C, TEXT:02A7] 咦？
+-[FID:3C, TEXT:02D6] 莉普蕾不在
+
+--- Group 1126 [left:主人公 next=0023] ---
+あれ？
+釣りの餌がない・・・
+これじゃあ釣りは
+できないよな
+-[FID:3C, TEXT:02A7] 咦？
+-[FID:3C, TEXT:02A8] 鱼饵用完了……这样的
+-[FID:3C, TEXT:02A9] 话，钓鱼
+-[FID:3C, TEXT:02AA] 就没办法进行了呢
+
+--- Group 1127 [left:主人公 next=0023] ---
+でも、まずは
+釣りの餌を探さないと
+いけないみたいだな
++[FID:3C, TEXT:02AB] 不过，首先
++[FID:3C, TEXT:02AC] 得先把鱼饵找出来才行
++[FID:3C, TEXT:02AD] 啊
+
+--- Group 1128 [left:主人公 next=0023] ---
+でも、まずは
+釣りの餌を探さないと
+いけないみたいだな
+-[FID:3C, TEXT:02AB] 不过，首先
+-[FID:3C, TEXT:02AC] 得先把鱼饵找出来才行
+-[FID:3C, TEXT:02AD] 啊
+
+--- Group 1129 [left:主人公 next=0023] ---
+でも、まずは
+釣りの餌を探さないと
+いけないみたいだな
+-[FID:3C, TEXT:02AB] 不过，首先
+-[FID:3C, TEXT:02AC] 得先把鱼饵找出来才行
+-[FID:3C, TEXT:02AD] 啊
+
+--- Group 1130 [left:主人公 next=0023] ---
+うーん・・・
+餌がないみたい
+さすがにこれじゃあ
+何も釣れないよね
++[FID:3C, TEXT:02AE] 嗯……
++[FID:3C, TEXT:02AF] 好像没有鱼饵了
++[FID:3C, TEXT:02B0] 这样的话，果然
++[FID:3C, TEXT:02B1] 什么也钓不到呢
+
+--- Group 1131 [left:主人公 next=0023] ---
+うーん・・・
+餌がないみたい
+さすがにこれじゃあ
+何も釣れないよね
+-[FID:3C, TEXT:02AE] 嗯……
+-[FID:3C, TEXT:02AF] 好像没有鱼饵了
+-[FID:3C, TEXT:02B0] 这样的话，果然
+-[FID:3C, TEXT:02B1] 什么也钓不到呢
+
+--- Group 1132 [left:主人公 next=0023] ---
+うーん・・・
+餌がないみたい
+さすがにこれじゃあ
+何も釣れないよね
+-[FID:3C, TEXT:02AE] 嗯……
+-[FID:3C, TEXT:02AF] 好像没有鱼饵了
+-[FID:3C, TEXT:02B0] 这样的话，果然
+-[FID:3C, TEXT:02B1] 什么也钓不到呢
+
+--- Group 1133 [right:char_0043 next=0023] ---
+気にしなくていいって
+こういう時もあるわ
++[FID:3C, TEXT:02B7] 不用在意啦这种事情偶
++[FID:3C, TEXT:02B8] 尔也会发生嘛
+
+--- Group 1134 [right:none next=0023] ---
+気にしなくていいって
+こういう時もあるわ
+-[FID:3C, TEXT:02B7] 不用在意啦这种事情偶
+-[FID:3C, TEXT:02B8] 尔也会发生嘛
+
+--- Group 1135 [right:none next=0023] ---
+気にしなくていいって
+こういう時もあるわ
+-[FID:3C, TEXT:02B7] 不用在意啦这种事情偶
+-[FID:3C, TEXT:02B8] 尔也会发生嘛
+
+--- Group 1136 [right:char_0041 next=0023] ---
+気にしなくていいって
+こういう時もあるわ
+-[FID:3C, TEXT:02B7] 不用在意啦这种事情偶
+-[FID:3C, TEXT:02B8] 尔也会发生嘛
+
+--- Group 1137 [right:char_0043 next=0023] ---
+気にしなくていいって
+こういう時もあるわ
+-[FID:3C, TEXT:02B7] 不用在意啦这种事情偶
+-[FID:3C, TEXT:02B8] 尔也会发生嘛
+
+--- Group 1138 [right:char_0041 next=0023] ---
+気にしなくていいって
+こういう時もあるわ
+-[FID:3C, TEXT:02B7] 不用在意啦这种事情偶
+-[FID:3C, TEXT:02B8] 尔也会发生嘛
+
+--- Group 1139 [right:char_0041 next=2012] ---
+また何か釣れた時は
+私のところに
+もってきてね
++[FID:3C, TEXT:02C8] 等你钓到什么东西的时
++[FID:3C, TEXT:02C9] 候
++[FID:3C, TEXT:02CA] 拿来我这里哦
+-[FID:3C, TEXT:02CA] [FID:3C, T
+-[FID:3C, TEXT:02CA] EXT:02CA]
+
+--- Group 1140 [right:none next=2012] ---
+また何か釣れた時は
+私のところに
+もってきてね
+-[FID:3C, TEXT:02C8] 等你钓到什么东西的时
+-[FID:3C, TEXT:02C9] 候
+-[FID:3C, TEXT:02CA] 拿来我这里哦
+-[FID:3C, TEXT:02CA] [FID:3C, T
+-[FID:3C, TEXT:02CA] EXT:02CA]
+
+--- Group 1141 [right:char_0041 next=2012] ---
+また何か釣れた時は
+私のところに
+もってきてね
+-[FID:3C, TEXT:02C8] 等你钓到什么东西的时
+-[FID:3C, TEXT:02C9] 候
+-[FID:3C, TEXT:02CA] 拿来我这里哦
+-[FID:3C, TEXT:02CA] [FID:3C, T
+-[FID:3C, TEXT:02CA] EXT:02CA]
+
+--- Group 1142 [right:char_0043 next=2012] ---
+また何か釣れた時は
+私のところに
+もってきてね
+-[FID:3C, TEXT:02C8] 等你钓到什么东西的时
+-[FID:3C, TEXT:02C9] 候
+-[FID:3C, TEXT:02CA] 拿来我这里哦
+-[FID:3C, TEXT:02CA] [FID:3C, T
+-[FID:3C, TEXT:02CA] EXT:02CA]
+
+--- Group 1143 [right:char_0043 next=2012] ---
+また何か釣れた時は
+私のところに
+もってきてね
+-[FID:3C, TEXT:02C8] 等你钓到什么东西的时
+-[FID:3C, TEXT:02C9] 候
+-[FID:3C, TEXT:02CA] 拿来我这里哦
+-[FID:3C, TEXT:02CA] [FID:3C, T
+-[FID:3C, TEXT:02CA] EXT:02CA]
+
+--- Group 1144 [right:none next=2012] ---
+また何か釣れた時は
+私のところに
+もってきてね
+-[FID:3C, TEXT:02C8] 等你钓到什么东西的时
+-[FID:3C, TEXT:02C9] 候
+-[FID:3C, TEXT:02CA] 拿来我这里哦
+-[FID:3C, TEXT:02CA] [FID:3C, T
+-[FID:3C, TEXT:02CA] EXT:02CA]
+
+--- Group 1145 [right:char_0041 next=2012] ---
+腕によりをかけて
+おいしい料理を作って
+あげるから、ね？
++[FID:3C, TEXT:02CB] 我会大展身手
++[FID:3C, TEXT:02CC] 做出美味的料理给你的
++[FID:3C, TEXT:02CD] 哦？
+
+--- Group 1146 [right:none next=2012] ---
+腕によりをかけて
+おいしい料理を作って
+あげるから、ね？
+-[FID:3C, TEXT:02CB] 我会大展身手
+-[FID:3C, TEXT:02CC] 做出美味的料理给你的
+-[FID:3C, TEXT:02CD] 哦？
+
+--- Group 1147 [right:none next=2012] ---
+腕によりをかけて
+おいしい料理を作って
+あげるから、ね？
+-[FID:3C, TEXT:02CB] 我

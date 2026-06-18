@@ -1,0 +1,332 @@
+--- Group 1 [right:none next=2012] ---
+バノッサさんが
+召喚術を欲しがる
+理由ですか？
++[FID:3F, TEXT:0001] 想要巴诺萨大人
++[FID:3F, TEXT:0002] 召唤术的
++[FID:3F, TEXT:0003] 理由吗？
+
+--- Group 2 [left:none next=0023] ---
+ああ、それがわからな
+いことには話にならな
+い気がするんだ
++[FID:3F, TEXT:0004] 啊，如果不知道那件事
++[FID:3F, TEXT:0007] 就没法谈了感觉
++[FID:3F, TEXT:0008] 
+
+--- Group 3 [left:none next=0023] ---
+ああ、それがわからな
+くては答えの出しよう
+がないんだ
+-[FID:3F, TEXT:0004] 啊，如果不知道那就无
++[FID:3F, TEXT:0005] 法得出答案了
++[FID:3F, TEXT:0006] 
+
+--- Group 4 [left:none next=0023] ---
+うん、それがわかんな
+いと、なんともならな
+いんだよね
++[FID:3F, TEXT:0009] 嗯，如果不知道那件事
++[FID:3F, TEXT:000A] ，就没办法了呢
++[FID:3F, TEXT:000B] 
+
+--- Group 5 [left:none next=0023] ---
+ええ、それがわからな
+いと、答えの出しよう
+がないんですよ
++[FID:3F, TEXT:000C] 哎，如果不知道那件事
++[FID:3F, TEXT:000D] ，就无法得出答案了哦
++[FID:3F, TEXT:000E] 
+
+--- Group 6 [right:none next=2012] ---
+・・・・・・
++[FID:3F, TEXT:000F] ・・・・・・
+
+--- Group 7 [left:卡农 next=2012] ---
+・・・・・・
+-[FID:3F, TEXT:000F] ・・・・・・
+
+--- Group 8 [left:none next=0023] ---
+教えてくれないか？
++[FID:3F, TEXT:0010] 能告诉我吗？
+
+--- Group 9 [left:none next=0023] ---
+ね、教えて！
++[FID:3F, TEXT:0011] 呐，告诉我！
+
+--- Group 10 [left:none next=0023] ---
+教えてください
++[FID:3F, TEXT:0012] 请告诉我
+
+--- Group 11 [right:none next=2012] ---
+きっと・・・
+自由になりたいから
+だと思います・・・
++[FID:3F, TEXT:0013] 一定是因为…
++[FID:3F, TEXT:0014] 想变得自由
++[FID:3F, TEXT:0015] 吧…
+
+--- Group 12 [left:none next=0023] ---
+自由になりたい？
++[FID:3F, TEXT:0016] 想变得自由？
+
+--- Group 13 [left:none next=0023] ---
+自由・・・に？
++[FID:3F, TEXT:0017] 自由…地？
+
+--- Group 14 [left:none next=0023] ---
+自由・・・ですか？
++[FID:3F, TEXT:0018] 自由…吗？
+
+--- Group 15 [right:none next=2012] ---
+誰にも負けない力を手
+に入れれば、誰からも
+邪魔をされることなく
+生きていける
++[FID:3F, TEXT:0019] 获得谁也无法匹敌的力
++[FID:3F, TEXT:001A] 量之后，就能不受任何
++[FID:3F, TEXT:001B] 人阻碍地生活下去
++[FID:3F, TEXT:001C] 
+
+--- Group 16 [right:none next=2012] ---
+バノッサさんはきっと
+そう思ってるんです
++[FID:3F, TEXT:001D] 巴诺萨大人一定是这么
++[FID:3F, TEXT:001E] 想的
+
+--- Group 17 [left:none next=2012] ---
+ちょっと待ってくれ
++[FID:3F, TEXT:001F] 等一下
+
+--- Group 18 [left:none next=0023] ---
+今だってバノッサは、
+好き放題に生きている
+じゃないか？
++[FID:3F, TEXT:0020] 现在巴诺萨不也是随心
++[FID:3F, TEXT:0021] 所欲地活着吗？
++[FID:3F, TEXT:0024] 
+
+--- Group 19 [left:none next=2012] ---
+今だってバノッサは、
+好き放題に生きている
+じゃないか
+-[FID:3F, TEXT:0020] 现在巴诺萨不也是随心
+-[FID:3F, TEXT:0021] 所欲地活着吗
++[FID:3F, TEXT:0022] 
+
+--- Group 20 [left:none next=0023] ---
+なのに、どうして！？
++[FID:3F, TEXT:0023] 可是，为什么！？
+
+--- Group 21 [left:none next=2012] ---
+待ってよ！
++[FID:3F, TEXT:0025] 别走！
+
+--- Group 22 [left:none next=2012] ---
+バノッサって・・・
+あたしには好き勝手に
+生きてるように
+見えるよ・・・？
++[FID:3F, TEXT:0026] 巴诺萨…
++[FID:3F, TEXT:0027] 在我看来，他就是随心
++[FID:3F, TEXT:0028] 所欲地
++[FID:3F, TEXT:0029] 活着啊…？
+
+--- Group 23 [left:none next=2012] ---
+あの・・・
++[FID:3F, TEXT:002A] 那…
+
+--- Group 24 [left:none next=2012] ---
+今でもバノッサさんは
+好き放題に生きている
+ように見えますが？
++[FID:3F, TEXT:002B] 即使现在，巴诺萨大人
+-[FID:3F, TEXT:0021] 看起来也像是在随心所
++[FID:3F, TEXT:002C] 欲地活着
+-[FID:3F, TEXT:002C] 呢？
+
+--- Group 25 [left:none next=0023] ---
+なぜでしょうか・・・
++[FID:3F, TEXT:002D] 为什么会这样呢…
+
+--- Group 26 [right:none next=2012] ---
+見かけはそうなのかも
+しれません
++[FID:3F, TEXT:002E] 外表上也许是那样吧
++[FID:3F, TEXT:002F] 
+
+--- Group 27 [right:none next=2012] ---
+だけど、バノッサさん
+は、本当は・・・
++[FID:3F, TEXT:0030] 但是，巴诺萨大人其实
++[FID:3F, TEXT:0031] …
+
+--- Group 28 [right:巴萨 next=2012] ---
+カノンッ！！
++[FID:3F, TEXT:0032] 卡农！！
+
+--- Group 29 [left:主人公 next=0023] ---
+！？
++[FID:3F, TEXT:0033] ！？
+
+--- Group 30 [left:主人公 next=2012] ---
+！？
+-[FID:3F, TEXT:0033] ！？
+
+--- Group 31 [right:巴萨 next=2012] ---
+そんな野郎と、なにを
+喋ってんだ・・・？
++[FID:3F, TEXT:0034] 和那种家伙，在聊什么
++[FID:3F, TEXT:0035] 呢…？
+
+--- Group 32 [left:卡农 next=2012] ---
+バノッサさん・・・
++[FID:3F, TEXT:0036] 巴诺萨大人…
+
+--- Group 33 [right:巴萨 next=2012] ---
+なにを喋ってんだって
+言ってるんだよッ！？
++[FID:3F, TEXT:0037] 我问你在聊什么啊！？
++[FID:3F, TEXT:0038] 喂！
+
+--- Group 34 [left:卡农 next=2012] ---
+うあっ！
++[FID:3F, TEXT:0039] 呜啊！
+
+--- Group 35 [left:主人公 next=0023] ---
+やめろっ、バノッサ！
++[FID:3F, TEXT:003A] 别这样，巴诺萨！
+
+--- Group 36 [left:主人公 next=0023] ---
+やめろ、バノッサ！
++[FID:3F, TEXT:003B] 别这样，巴诺萨！
+
+--- Group 37 [left:主人公 next=0023] ---
+やめてっ、バノッサ！
++[FID:3F, TEXT:003C] 别这样，巴诺萨！
+
+--- Group 38 [left:主人公 next=0023] ---
+バノッサさん！
+やめてください！
++[FID:3F, TEXT:003D] 巴诺萨大人！
++[FID:3F, TEXT:003E] 请住手！
+
+--- Group 39 [right:巴萨 next=2012] ---
+すっこんでろッ！
+はぐれ野郎ッ！！
++[FID:3F, TEXT:003F] 滚开！
++[FID:3F, TEXT:0040] 杂碎！！
+
+--- Group 40 [right:巴萨 next=2012] ---
+カノン・・・
+手前ェ、俺様を裏切る
+気なのか？
++[FID:3F, TEXT:0041] 卡农…
++[FID:3F, TEXT:0042] 你这家伙，是想背叛我
++[FID:3F, TEXT:0043] 吗？
+
+--- Group 41 [left:主人公 next=0023] ---
+カノン・・・
+-[FID:3F, TEXT:0041] 卡农…
+
+--- Group 42 [left:卡农 next=2012] ---
+そんな、こと・・・
++[FID:3F, TEXT:0044] 怎么会…
+
+--- Group 43 [right:巴萨 next=2012] ---
+口ではなんとでも
+言えるよなァ、
+カノン？
++[FID:3F, TEXT:0045] 口头上的话，怎么说
++[FID:3F, TEXT:0046] 都行吧，
++[FID:3F, TEXT:0047] 卡农？
+
+--- Group 44 [right:巴萨 next=2012] ---
+だがな、それだけじゃ
+納得できねェッ！！
++[FID:3F, TEXT:0048] 但是啊，光是那样我可
++[FID:3F, TEXT:0049] 不满意！！
+
+--- Group 45 [right:巴萨 next=2012] ---
+証明してくれよ・・・
++[FID:3F, TEXT:004A] 证明给我看…
+
+--- Group 46 [right:巴萨 next=2012] ---
+お前の手で、こいつを
+ぶちのめせッ！！
++[FID:3F, TEXT:004B] 用你的手，把这家伙给
++[FID:3F, TEXT:004C] 我打倒！！
+
+--- Group 47 [left:主人公 next=0023] ---
+え・・・
++[FID:3F, TEXT:004D] 诶…
+
+--- Group 48 [right:巴萨 next=2012] ---
+あの時の誓いを忘れて
+ねェなら、できるはず
+だよなァ？
++[FID:3F, TEXT:004E] 如果你没忘记那时的誓
++[FID:3F, TEXT:004F] 言，就应该能做到吧？
++[FID:3F, TEXT:0050] 
+
+--- Group 49 [right:巴萨 next=2012] ---
+返事はどうしたんだ
+カノンッ！？
++[FID:3F, TEXT:0051] 回答呢，卡农！？
++[FID:3F, TEXT:0052] 
+
+--- Group 50 [left:卡农 next=2012] ---
+・・・わかりました
++[FID:3F, TEXT:0053] ・・・明白了
+
+--- Group 51 [left:卡农 next=2012] ---
+お望みのとおり、ボク
+がこの人をやっつけて
+みせます
++[FID:3F, TEXT:0054] 遵命，我会把这个人打
++[FID:3F, TEXT:0055] 倒的给你看
++[FID:3F, TEXT:0056] 
+
+--- Group 52 [left:卡农 next=2012] ---
+あの誓いが嘘ではない
+と証明します
++[FID:3F, TEXT:0057] 我会证明那个誓言并非
++[FID:3F, TEXT:0058] 虚言
+
+--- Group 53 [left:主人公 next=0023] ---
+カノンさん・・・
++[FID:3F, TEXT:0059] 卡农先生…
+
+--- Group 54 [right:巴萨 next=2012] ---
+ククククッ！
+よく言った、カノン！
++[FID:3F, TEXT:005A] 库库库库！
++[FID:3F, TEXT:005B] 说得好，卡农！
+
+--- Group 55 [right:巴萨 next=2012] ---
+聞いてのとおりだ
+はぐれ野郎
++[FID:3F, TEXT:005C] 听到了吧
++[FID:3F, TEXT:005D] 杂碎
+
+--- Group 56 [right:巴萨 next=2012] ---
+さっさとお仲間を
+呼んでこいよ？
+俺様たちと手前ェらの
+決着をつけてやる
++[FID:3F, TEXT:005E] 快点叫你的同伴
++[FID:3F, TEXT:005F] 来吧？
++[FID:3F, TEXT:0060] 我要和你们做个了结
++[FID:3F, TEXT:0061] 
+
+--- Group 57 [right:巴萨 next=2012] ---
+手前ェが逃げたなら、
+カノンがどうなるかは
+わかるよなァ？
++[FID:3F, TEXT:0062] 如果你逃跑了，卡农会
++[FID:3F, TEXT:0063] 怎么样，你应该明白吧
++[FID:3F, TEXT:0064] ？
+
+--- Group 58 [right:巴萨 next=2012] ---
+楽しみに待ってるぜ！
++[FID:3F, TEXT:0065] 我等着你哦！
