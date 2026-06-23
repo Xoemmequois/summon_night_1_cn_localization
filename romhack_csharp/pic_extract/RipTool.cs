@@ -70,6 +70,7 @@ public static class RipTool
         ExtractMapImages(12);
         ExtractMapImages(13);
         ExtractMapscreenTitles();
+        ExtractChapterNameImages();
 
         Console.WriteLine("\nDone.");
     }
@@ -475,6 +476,108 @@ public static class RipTool
         SaveAct(bmp, path, is4bpp);
         ImageMetaWriter.Write(path, "CM2000.DAT", 1, 0x11);
         Console.WriteLine($"  mapscreen_titles: {bmp.Width}x{bmp.Height}, size=0x{size:X} saved");
+    }
+
+    private static void ExtractChapterNameImages()
+    {
+        var cm2000Path = "rom/CM2000.DAT";
+        if (!File.Exists(cm2000Path))
+        {
+            Console.WriteLine("\nCM2000.DAT not found, skipping tilemap UI images extraction.");
+            return;
+        }
+
+        Console.WriteLine("\n=== Extracting tilemap UI images (CM2000 ID 0x2D-0x2F) ===");
+        var cm2000 = File.ReadAllBytes(cm2000Path);
+
+        var outDir = "pic_output/chapter_titles";
+        Directory.CreateDirectory(outDir);
+
+        for (var id = 0x2D; id <= 0x4D; id++)
+        {
+            var dd = ExtractUtil.GetSubcontent(cm2000, id);
+            using var bmp = BuildTilemapImage(dd, out var is4bpp);
+            if (bmp == null)
+            {
+                Console.WriteLine($"  ui_{id:X2}: unsupported format (4bpp), skipping");
+                continue;
+            }
+
+            var path = Path.Combine(outDir, $"chapter_title_{id:X2}.gif");
+            bmp.Save(path, ImageFormat.Gif);
+            SaveAct(bmp, path, is4bpp);
+            ImageMetaWriter.Write(path, "CM2000.DAT", id, -1);
+            Console.WriteLine($"  ui_{id:X2}: {bmp.Width}x{bmp.Height} saved");
+        }
+    }
+
+    // {flags, clut, image, tilemap} encapsulation used by CM2000 ID 0x2D-0x2F.
+    // The 8bpp atlas is a sheet of 16x16 tiles; a 20x15 tilemap places them onto a
+    // 320x240 screen. Each ushort tilemap entry encodes the atlas texel coordinate:
+    //   U = (e & 0x1F) << 3,  V = ((e >> 5) & 0x1F) << 3
+    // and a 16x16 block is drawn at screen (col*16, row*16). entry 0 = empty cell.
+    private static Bitmap? BuildTilemapImage(byte[] dd, out bool is4bpp)
+    {
+        is4bpp = false;
+        var clutOff = BitConverter.ToInt32(dd, 4) & 0xFFFFFF;
+        var imageOff = BitConverter.ToInt32(dd, 8) & 0xFFFFFF;
+        var tilemapOff = BitConverter.ToInt32(dd, 12) & 0xFFFFFF;
+
+        var clutW = ReadU16(dd, clutOff);
+        var clutH = ReadU16(dd, clutOff + 2);
+        is4bpp = clutW != 256;
+        if (is4bpp) return null; // 0x2D-0x2F are all 8bpp; 4bpp atlas not handled here
+
+        var cluts = ParseCluts(dd, clutOff + 4, clutW, clutH);
+
+        var atlasW = ReadU16(dd, imageOff) * 2; // 8bpp: words * 2 = pixels per row
+        var atlasH = ReadU16(dd, imageOff + 2);
+        var atlasStart = imageOff + 4;
+
+        var mapW = ReadU16(dd, tilemapOff);
+        var mapH = ReadU16(dd, tilemapOff + 2);
+        var mapStart = tilemapOff + 4;
+
+        const int ts = 16;
+        var width = mapW * ts;
+        var height = mapH * ts;
+        var bitmap = new Bitmap(width, height, PixelFormat.Format8bppIndexed);
+
+        var palette = bitmap.Palette;
+        for (var i = 0; i < 256; i++)
+            palette.Entries[i] = i < cluts.Length ? cluts[i] : cluts[0];
+        bitmap.Palette = palette;
+
+        var rect = new Rectangle(0, 0, width, height);
+        var bmpData = bitmap.LockBits(rect, ImageLockMode.WriteOnly, PixelFormat.Format8bppIndexed);
+        var pixels = new byte[bmpData.Stride * height];
+
+        for (var r = 0; r < mapH; r++)
+        {
+            for (var c = 0; c < mapW; c++)
+            {
+                var e = ReadU16(dd, mapStart + (r * mapW + c) * 2);
+                if (e == 0) continue; // empty cell -> stays transparent (index 0)
+                var u = (e & 0x1F) << 3;
+                var v = ((e >> 5) & 0x1F) << 3;
+                for (var y = 0; y < ts; y++)
+                {
+                    var sy = v + y;
+                    if (sy >= atlasH) break;
+                    for (var x = 0; x < ts; x++)
+                    {
+                        var sx = u + x;
+                        if (sx >= atlasW) continue;
+                        pixels[(r * ts + y) * bmpData.Stride + c * ts + x] =
+                            dd[atlasStart + sy * atlasW + sx];
+                    }
+                }
+            }
+        }
+
+        Marshal.Copy(pixels, 0, bmpData.Scan0, pixels.Length);
+        bitmap.UnlockBits(bmpData);
+        return bitmap;
     }
 
     private record PartRect(byte U, byte V, byte W, byte H);
