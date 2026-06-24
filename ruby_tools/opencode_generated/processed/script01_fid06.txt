@@ -1,8 +1,8 @@
---- Group 1 [left:主人公 next=2012] ---
+--- Group 1 [left:主人公 next=2012] ---G
 うーん・・・
 +[FID:06, TEXT:0001] 嗯……
 
---- Group 4 [left:主人公 next=2012] ---
+--- Group 4 [left:主人公 next=2012] ---G
 なにかの穴の底みたい
 だけど・・・なんで、
 こんなとこに・・・？
@@ -10,7 +10,7 @@
 +[FID:06, TEXT:0006] 但是……为什么，会在
 +[FID:06, TEXT:0073] 这里……？
 
---- Group 7 [left:主人公 next=2015] ---
+--- Group 7 [left:主人公 next=2015] ---G
 どうしよう？
 　全部拾っておこうかな
 　そんな場合じゃないわ
@@ -18,7 +18,7 @@
 +[FID:06, TEXT:0081] 　要不要全部捡起来呢
 +[FID:06, TEXT:0082] 　现在可不是那种时候
 
---- Group 9 [left:主人公 next=2015] ---
+--- Group 9 [left:主人公 next=2015] ---G
 どうしよう？
 　とにかくここから出よう
 　これはそう、夢なのよ！
@@ -26,36 +26,35 @@
 +[FID:06, TEXT:0009] 　总之先从这里出去吧
 +[FID:06, TEXT:0074] 　这是，梦吧！
 
---- Group 13 [left:主人公 next=2012] ---
+--- Group 13 [left:主人公 next=2012] ---G
 ・・・！？
 +[FID:06, TEXT:000B] ……！？
 
---- Group 15 [left:主人公 next=2012] ---
+--- Group 15 [left:主人公 next=2012] ---G
 うーん、きっとこれは
 夢なんだわ
 だからほら、こうして
 ほほをつねれば・・
-+[FID:06, TEXT:000F] 嗯，这一定是梦吧所以
-+[FID:06, TEXT:0075] 你看，这样
++[FID:06, TEXT:000F] 嗯，这一定是梦吧
++[FID:06, TEXT:0075] 因为你看，像这样
 +[FID:06, TEXT:0011] 捏捏脸颊……
 +[FID:06, TEXT:0012] 
 
---- Group 17 [left:主人公 next=2012] ---
+--- Group 17 [left:主人公 next=2012] ---G
 ん？
 あそこにも何か落ちて
 いるぞ
 +[FID:06, TEXT:0019] 嗯？
 +[FID:06, TEXT:0044] 那边好像也掉落了什么
-+[FID:06, TEXT:0045] 东西
--[FID:06, TEXT:0045] 呢
++[FID:06, TEXT:0045] 东西呢
 
---- Group 18 [left:主人公 next=2012] ---
+--- Group 18 [left:主人公 next=2012] ---G
 ん？
 なんだろう、これ
 -[FID:06, TEXT:0019] 嗯？
 +[FID:06, TEXT:007C] 这是什么啊
 
---- Group 21 [left:主人公 next=2012] ---
+--- Group 21 [left:主人公 next=2012] ---G
 ん？
 あそこにも何か
 刺さっているようだが
@@ -63,13 +62,13 @@
 +[FID:06, TEXT:004F] 那边好像也插着什么东
 +[FID:06, TEXT:0050] 西呢
 
---- Group 25 [left:主人公 next=2012] ---
+--- Group 25 [left:主人公 next=2012] ---G
 何かの役にたつかも
 しれないしね
 +[FID:06, TEXT:002E] 也许能派上用场
 +[FID:06, TEXT:0086] 呢
 
---- Group 28 [left:主人公 next=2012] ---
+--- Group 28 [left:主人公 next=2012] ---G
 途中でひん曲がってる
 けど、これってもしか
 して・・・
@@ -77,17 +76,17 @@
 +[FID:06, TEXT:0047] 是……
 +[FID:06, TEXT:0048] 
 
---- Group 31 [left:主人公 next=2012] ---
+--- Group 31 [left:主人公 next=2012] ---G
 剣、じゃないのか？
-+[FID:06, TEXT:0049] 不是剑吧？
++[FID:06, TEXT:0049] 这不是剑吗？
 
---- Group 34 [left:主人公 next=2012] ---
+--- Group 34 [left:主人公 next=2012] ---G
 なんで、こんなとこに
 剣が刺さってんだ！？
 +[FID:06, TEXT:004A] 为什么，会在这里刺着
 +[FID:06, TEXT:004B] 一把剑啊！？
 
---- Group 37 [left:主人公 next=2012] ---
+--- Group 37 [left:主人公 next=2012] ---G
 この上に・・・
 いったい何があるって
 いうんだ！？
@@ -95,19 +94,19 @@
 +[FID:06, TEXT:004D] 到底有什么啊！？
 +[FID:06, TEXT:004E] 
 
---- Group 40 [left:主人公 next=2012] ---
+--- Group 40 [left:主人公 next=2012] ---G
 これは・・・
 剣じゃないか！？
 +[FID:06, TEXT:0051] 这个……
 +[FID:06, TEXT:0052] 不是剑吗！？
 
---- Group 42 [left:主人公 next=2012] ---
+--- Group 42 [left:主人公 next=2012] ---G
 どうして、こんな物が
 こんな場所に・・・
 +[FID:06, TEXT:0053] 为什么，这种东西会在
 +[FID:06, TEXT:0054] 这里……
 
---- Group 44 [left:主人公 next=2012] ---
+--- Group 44 [left:主人公 next=2012] ---G
 いや、それ以前にどう
 すればこんな金属の塊
 がひしゃげるんだ？
@@ -115,17 +114,17 @@
 +[FID:06, TEXT:0056] 这么一大块金属弄成这
 +[FID:06, TEXT:0057] 样啊？
 
---- Group 46 [left:主人公 next=2012] ---
+--- Group 46 [left:主人公 next=2012] ---G
 普通じゃないことだけ
 はたしかだ・・・
-+[FID:06, TEXT:0058] 至少可以确定这不是普
-+[FID:06, TEXT:0059] 通的事……
++[FID:06, TEXT:0058] 至少可以确定这绝对不
++[FID:06, TEXT:0059] 正常……
 
---- Group 48 [left:主人公 next=2012] ---
+--- Group 48 [left:主人公 next=2012] ---G
 ！？
 +[FID:06, TEXT:005A] ！？
 
---- Group 51 [left:主人公 next=2012] ---
+--- Group 51 [left:主人公 next=2012] ---G
 ・・・なんなんだよ
 まるで爆弾が爆発した
 みたいじゃないか
@@ -133,105 +132,105 @@
 +[FID:06, TEXT:005C] 简直就像炸弹爆炸了一
 +[FID:06, TEXT:005D] 样啊
 
---- Group 54 [left:主人公 next=2012] ---
+--- Group 54 [left:主人公 next=2012] ---G
 この人たち、
 大丈夫なのか？
 +[FID:06, TEXT:005E] 这些人，
 +[FID:06, TEXT:005F] 没事吧？
 
---- Group 57 [left:主人公 next=2012] ---
+--- Group 57 [left:主人公 next=2012] ---G
 もしもし！
 返事できますか？
 +[FID:06, TEXT:0060] 喂！
 +[FID:06, TEXT:0061] 能回应我吗？
 
---- Group 60 [left:主人公 next=2012] ---
+--- Group 60 [left:主人公 next=2012] ---G
 ・・・・・・
 死んで・・・るの？
 +[FID:06, TEXT:0062] ……
 +[FID:06, TEXT:009A] 死……了？
 
---- Group 65 [left:主人公 next=2012] ---
+--- Group 65 [left:主人公 next=2012] ---G
 死んじまってる・・・
 +[FID:06, TEXT:0063] 都死了……
 
---- Group 68 [left:主人公 next=2012] ---
+--- Group 68 [left:主人公 next=2012] ---G
 みんな、死んじまって
 るよ・・・
 +[FID:06, TEXT:0064] 大家，都死了……
 +[FID:06, TEXT:0065] 
 
---- Group 71 [left:主人公 next=2012] ---
+--- Group 71 [left:主人公 next=2012] ---G
 なんなんだよッ！？
 +[FID:06, TEXT:0066] 到底是怎么回事啊！？
 
---- Group 74 [left:主人公 next=2012] ---
+--- Group 74 [left:主人公 next=2012] ---G
 うっ・・・
 +[FID:06, TEXT:0067] 呜……
 
---- Group 77 [left:主人公 next=0023] ---
+--- Group 77 [left:主人公 next=0023] ---G
 うわあぁぁ〜〜っ！！
 +[FID:06, TEXT:0068] 哇啊啊啊——！！
 
---- Group 80 [left:主人公 next=2012] ---
+--- Group 80 [left:主人公 next=2012] ---G
 この人たち、みんな死
 んでしまってる・・・
 +[FID:06, TEXT:0069] 这些人，全都死了……
 +[FID:06, TEXT:006A] 
 
---- Group 82 [left:主人公 next=2012] ---
+--- Group 82 [left:主人公 next=2012] ---G
 いったい、何が起きた
 っていうんだ？
-+[FID:06, TEXT:006B] 到底，发生了什么事啊
-+[FID:06, TEXT:006C] ？
++[FID:06, TEXT:006B] 到底，发生了什么事
++[FID:06, TEXT:006C] 啊？
 
---- Group 84 [left:主人公 next=2012] ---
+--- Group 84 [left:主人公 next=2012] ---G
 僕のせい、なのか？
 +[FID:06, TEXT:006D] 是我的错吗？
 
---- Group 86 [left:主人公 next=2012] ---
+--- Group 86 [left:主人公 next=2012] ---G
 とにかく、急いでここ
 から立ち去ろう！
-+[FID:06, TEXT:006E] 总之，快点离开这里吧
-+[FID:06, TEXT:006F] ！
++[FID:06, TEXT:006E] 总之，快点离开这里
++[FID:06, TEXT:006F] 吧！
 
---- Group 88 [left:主人公 next=2012] ---
+--- Group 88 [left:主人公 next=2012] ---G
 今のはいったい・・・
 +[FID:06, TEXT:0070] 刚才那是什么……
 
---- Group 91 [left:主人公 next=2012] ---
+--- Group 91 [left:主人公 next=2012] ---G
 えっ！？
 ここはどこなの！？
 +[FID:06, TEXT:0071] 诶！？
 +[FID:06, TEXT:0072] 这里是哪里啊！？
 
---- Group 94 [left:主人公 next=2012] ---
+--- Group 94 [left:主人公 next=2012] ---G
 いたいっ！
 ・・・夢じゃない！？
 +[FID:06, TEXT:0076] 好痛！
 +[FID:06, TEXT:0077] ……不是梦！？
 
---- Group 96 [left:主人公 next=2012] ---
+--- Group 96 [left:主人公 next=2012] ---G
 ここにいても
 しかたがないわ
 まずは穴の上まで
 登ってみよう
-+[FID:06, TEXT:0078] 留在这里也
-+[FID:06, TEXT:0079] 没用
-+[FID:06, TEXT:007A] 先试着爬到洞口
-+[FID:06, TEXT:007B] 吧
++[FID:06, TEXT:0078] 留在这里
++[FID:06, TEXT:0079] 也没用
++[FID:06, TEXT:007A] 先试着爬到
++[FID:06, TEXT:007B] 洞口吧
 
---- Group 99 [left:主人公 next=2012] ---
+--- Group 99 [left:主人公 next=2012] ---G
 すごくキレイな石
 なんか、いろんな色の
 があちこちに飛びちっ
 ているみたいね
 +[FID:06, TEXT:007D] 好漂亮的石头
-+[FID:06, TEXT:007E] 好像有各种颜色的散落
-+[FID:06, TEXT:007F] 在各处呢っているみた
-+[FID:06, TEXT:0080] いね
++[FID:06, TEXT:007E] 看起来就像是把各种颜
++[FID:06, TEXT:007F] 色的碎片，随处散落在
++[FID:06, TEXT:0080] 各处一样呢
 
---- Group 102 [left:主人公 next=2012] ---
+--- Group 102 [left:主人公 next=2012] ---G
 宝石かもしれないし、
 とりあえず何種類ずつ
 かは拾っていこう
@@ -239,15 +238,15 @@
 +[FID:06, TEXT:0084] 样，每种拾几颗吧
 +[FID:06, TEXT:0085] 
 
---- Group 105 [left:主人公 next=2012] ---
+--- Group 105 [left:主人公 next=2012] ---G
 ううん、そんな
 場合じゃないわ・・・
 まずはここを出ないと
-+[FID:06, TEXT:0087] 不，现在不是
-+[FID:06, TEXT:0088] 那个时候……先得离开
-+[FID:06, TEXT:0089] 这里才行
++[FID:06, TEXT:0087] 不，现在不是干这个的
++[FID:06, TEXT:0088] 时候……先得离开这里
++[FID:06, TEXT:0089] 才行
 
---- Group 107 [left:主人公 next=2012] ---
+--- Group 107 [left:主人公 next=2012] ---G
 とりあえず、目につい
 たものだけ拾っておく
 ことにしよう
@@ -255,72 +254,72 @@
 +[FID:06, TEXT:008B] 到的捡起来好了
 +[FID:06, TEXT:008C] 
 
---- Group 109 [left:主人公 next=2012] ---
+--- Group 109 [left:主人公 next=2012] ---G
 ・・・なによ
 なんでみんな
 倒れてるのよ！？
-+[FID:06, TEXT:008D] ・・・なによ
-+[FID:06, TEXT:008E] なんでみんな
-+[FID:06, TEXT:008F] 倒れてるのよ！？
++[FID:06, TEXT:008D] ……怎么回事啊？
++[FID:06, TEXT:008E] 为什么大家都倒下
++[FID:06, TEXT:008F] 了！？
 
---- Group 111 [left:主人公 next=2012] ---
+--- Group 111 [left:主人公 next=2012] ---G
 ねえ、
 誰か返事をしてよ？
-+[FID:06, TEXT:0090] ねえ、
-+[FID:06, TEXT:0091] 誰か返事をしてよ？
++[FID:06, TEXT:0090] 喂，
++[FID:06, TEXT:0091] 谁来回应我一下啊？
 
---- Group 113 [left:主人公 next=2012] ---
+--- Group 113 [left:主人公 next=2012] ---G
 ねえってば！
-+[FID:06, TEXT:0092] ねえってば！
++[FID:06, TEXT:0092] 回应我啊！
 
---- Group 115 [left:主人公 next=2012] ---
+--- Group 115 [left:主人公 next=2012] ---G
 ・・・ウソでしょ？
-+[FID:06, TEXT:0093] ・・・ウソでしょ？
++[FID:06, TEXT:0093] ……骗人的吧？
 
---- Group 117 [left:主人公 next=2012] ---
+--- Group 117 [left:主人公 next=2012] ---G
 こんなのって、
 無責任じゃない・・・
-+[FID:06, TEXT:0094] こんなのって、
-+[FID:06, TEXT:0095] 無責任じゃない・・・
++[FID:06, TEXT:0094] 这种事情，
++[FID:06, TEXT:0095] 也太不负责任了吧……
 
---- Group 119 [left:主人公 next=2012] ---
+--- Group 119 [left:主人公 next=2012] ---G
 誰か説明してよ！？
-+[FID:06, TEXT:0096] 誰か説明してよ！？
++[FID:06, TEXT:0096] 谁来说明一下啊！？
 
---- Group 121 [left:主人公 next=2012] ---
+--- Group 121 [left:主人公 next=2012] ---G
 ・・・やだよぅ
-+[FID:06, TEXT:0097] ・・・やだよぅ
++[FID:06, TEXT:0097] ……不要啊
 
---- Group 123 [left:主人公 next=2012] ---
+--- Group 123 [left:主人公 next=2012] ---G
 こんなのやだようっ！
-+[FID:06, TEXT:0098] こんなのやだようっ！
++[FID:06, TEXT:0098] 我不要这样……啊啊！
 
---- Group 125 [left:主人公 next=2012] ---
+--- Group 125 [left:主人公 next=2012] ---G
 あのっ・・・
-+[FID:06, TEXT:0099] あのっ・・・
++[FID:06, TEXT:0099] 那个……
 
---- Group 127 [left:主人公 next=2012] ---
+--- Group 127 [left:主人公 next=2012] ---G
 ひどい・・・
-+[FID:06, TEXT:009B] ひどい・・・
++[FID:06, TEXT:009B] 太残酷了……
 
---- Group 129 [left:主人公 next=2012] ---
+--- Group 129 [left:主人公 next=2012] ---G
 どうして、こんなこと
 になってしまったの
-+[FID:06, TEXT:009C] どうして、こんなこと
-+[FID:06, TEXT:009D] になってしまったの
++[FID:06, TEXT:009C] 为什么……事情会变成
++[FID:06, TEXT:009D] 这样呢？
 
---- Group 131 [left:主人公 next=2012] ---
+--- Group 131 [left:主人公 next=2012] ---G
 ・・・
-+[FID:06, TEXT:009E] ・・・
++[FID:06, TEXT:009E] ……
 
---- Group 133 [left:主人公 next=2012] ---
+--- Group 133 [left:主人公 next=2012] ---G
 私のせいなの？
-+[FID:06, TEXT:009F] 私のせいなの？
++[FID:06, TEXT:009F] 是我的错吗？
 
---- Group 135 [left:主人公 next=2012] ---
+--- Group 135 [left:主人公 next=2012] ---G
 ・・・イヤっ！
-+[FID:06, TEXT:00A0] ・・・イヤっ！
++[FID:06, TEXT:00A0] ……不！
 
---- Group 137 [left:主人公 next=2012] ---
+--- Group 137 [left:主人公 next=2012] ---G
 イヤあぁぁっ！！
-+[FID:06, TEXT:00A1] イヤあぁぁっ！！
++[FID:06, TEXT:00A1] 不要啊！！

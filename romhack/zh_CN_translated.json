@@ -3596,27 +3596,32 @@
   {
     "key": "0005-0001",
     "original": "助けて・・・",
-    "translation": ""
+    "translation": "救救我……",
+    "stage": 3
   },
   {
     "key": "0005-0002",
     "original": "え？",
-    "translation": ""
+    "translation": "诶？",
+    "stage": 3
   },
   {
     "key": "0005-0003",
     "original": "誰か、助けて・・・",
-    "translation": ""
+    "translation": "谁来、救救我……",
+    "stage": 3
   },
   {
     "key": "0005-0004",
     "original": "頭の中で、誰かの声が",
-    "translation": ""
+    "translation": "脑海里，能听见谁的",
+    "stage": 3
   },
   {
     "key": "0005-0005",
     "original": "聞こえる・・・",
-    "translation": ""
+    "translation": "声音……",
+    "stage": 3
   },
   {
     "key": "0005-0006",
@@ -3631,22 +3636,26 @@
   {
     "key": "0005-0008",
     "original": "このままだと・・・",
-    "translation": ""
+    "translation": "这样下去的话……",
+    "stage": 3
   },
   {
     "key": "0005-0009",
     "original": "壊れてしまう・・・",
-    "translation": ""
+    "translation": "会坏掉的……",
+    "stage": 3
   },
   {
     "key": "0005-0010",
     "original": "何もかも・・・",
-    "translation": ""
+    "translation": "一切……",
+    "stage": 3
   },
   {
     "key": "0005-0011",
     "original": "消えてしまう・・・",
-    "translation": ""
+    "translation": "都会消失……",
+    "stage": 3
   },
   {
     "key": "0005-0012",
@@ -3666,7 +3675,8 @@
   {
     "key": "0005-0015",
     "original": "助けてくれ・・・",
-    "translation": ""
+    "translation": "救命啊……",
+    "stage": 3
   },
   {
     "key": "0005-0016",
@@ -3711,12 +3721,14 @@
   {
     "key": "0005-0024",
     "original": "運命をとめて・・・",
-    "translation": ""
+    "translation": "阻止命运吧……",
+    "stage": 3
   },
   {
     "key": "0005-0025",
     "original": "この世界を助けて！！",
-    "translation": ""
+    "translation": "救救这个世界！！",
+    "stage": 3
   },
   {
     "key": "0005-0026",
@@ -3726,22 +3738,26 @@
   {
     "key": "0005-0027",
     "original": "ねえ、誰なの！？",
-    "translation": ""
+    "translation": "喂，你是谁！？",
+    "stage": 3
   },
   {
     "key": "0005-0028",
     "original": "どうすればいいの！？",
-    "translation": ""
+    "translation": "该怎么办才好！？",
+    "stage": 3
   },
   {
     "key": "0005-0029",
     "original": "きゃああっ！？",
-    "translation": ""
+    "translation": "呀啊！？",
+    "stage": 3
   },
   {
     "key": "0006-0001",
     "original": "うーん・・・",
-    "translation": ""
+    "translation": "嗯……",
+    "stage": 3
   },
   {
     "key": "0006-0002",
@@ -3761,12 +3777,14 @@
   {
     "key": "0006-0005",
     "original": "なにかの穴の底みたい",
-    "translation": ""
+    "translation": "感觉像是某个洞的底部",
+    "stage": 3
   },
   {
     "key": "0006-0006",
     "original": "だけど・・・なんで、",
-    "translation": ""
+    "translation": "但是……为什么，会在",
+    "stage": 3
   },
   {
     "key": "0006-0007",
@@ -3776,12 +3794,14 @@
   {
     "key": "0006-0008",
     "original": "どうしよう？",
-    "translation": ""
+    "translation": "该怎么办呢？",
+    "stage": 3
   },
   {
     "key": "0006-0009",
     "original": "　とにかくここから出よう",
-    "translation": ""
+    "translation": "　总之先从这里出去吧",
+    "stage": 3
   },
   {
     "key": "0006-0010",
@@ -3791,7 +3811,8 @@
   {
     "key": "0006-0011",
     "original": "・・・！？",
-    "translation": ""
+    "translation": "……！？",
+    "stage": 3
   },
   {
     "key": "0006-0012",
@@ -3811,7 +3832,8 @@
   {
     "key": "0006-0015",
     "original": "うーん、きっとこれは",
-    "translation": ""
+    "translation": "嗯，这一定是梦吧",
+    "stage": 3
   },
   {
     "key": "0006-0016",
@@ -3821,12 +3843,14 @@
   {
     "key": "0006-0017",
     "original": "だからほら、こうして",
-    "translation": ""
+    "translation": "捏捏脸颊……",
+    "stage": 3
   },
   {
     "key": "0006-0018",
     "original": "ほほをつねれば・・",
-    "translation": ""
+    "translation": "",
+    "stage": 3
   },
   {
     "key": "0006-0019",
@@ -3861,7 +3885,8 @@
   {
     "key": "0006-0025",
     "original": "ん？",
-    "translation": ""
+    "translation": "嗯？",
+    "stage": 3
   },
   {
     "key": "0006-0026",
@@ -3966,7 +3991,8 @@
   {
     "key": "0006-0046",
     "original": "何かの役にたつかも",
-    "translation": ""
+    "translation": "也许能派上用场",
+    "stage": 3
   },
   {
     "key": "0006-0047",
@@ -4076,472 +4102,566 @@
   {
     "key": "0006-0068",
     "original": "あそこにも何か落ちて",
-    "translation": ""
+    "translation": "那边好像也掉落了什么",
+    "stage": 3
   },
   {
     "key": "0006-0069",
     "original": "いるぞ",
-    "translation": ""
+    "translation": "东西呢",
+    "stage": 3
   },
   {
     "key": "0006-0070",
     "original": "途中でひん曲がってる",
-    "translation": ""
+    "translation": "中间都弯了，这该不会",
+    "stage": 3
   },
   {
     "key": "0006-0071",
     "original": "けど、これってもしか",
-    "translation": ""
+    "translation": "是……",
+    "stage": 3
   },
   {
     "key": "0006-0072",
     "original": "して・・・",
-    "translation": ""
+    "translation": "",
+    "stage": 3
   },
   {
     "key": "0006-0073",
     "original": "剣、じゃないのか？",
-    "translation": ""
+    "translation": "这不是剑吗？",
+    "stage": 3
   },
   {
     "key": "0006-0074",
     "original": "なんで、こんなとこに",
-    "translation": ""
+    "translation": "为什么，会在这里刺着",
+    "stage": 3
   },
   {
     "key": "0006-0075",
     "original": "剣が刺さってんだ！？",
-    "translation": ""
+    "translation": "一把剑啊！？",
+    "stage": 3
   },
   {
     "key": "0006-0076",
     "original": "この上に・・・",
-    "translation": ""
+    "translation": "在这上面……",
+    "stage": 3
   },
   {
     "key": "0006-0077",
     "original": "いったい何があるって",
-    "translation": ""
+    "translation": "到底有什么啊！？",
+    "stage": 3
   },
   {
     "key": "0006-0078",
     "original": "いうんだ！？",
-    "translation": ""
+    "translation": "",
+    "stage": 3
   },
   {
     "key": "0006-0079",
     "original": "あそこにも何か",
-    "translation": ""
+    "translation": "那边好像也插着什么东",
+    "stage": 3
   },
   {
     "key": "0006-0080",
     "original": "刺さっているようだが",
-    "translation": ""
+    "translation": "西呢",
+    "stage": 3
   },
   {
     "key": "0006-0081",
     "original": "これは・・・",
-    "translation": ""
+    "translation": "这个……",
+    "stage": 3
   },
   {
     "key": "0006-0082",
     "original": "剣じゃないか！？",
-    "translation": ""
+    "translation": "不是剑吗！？",
+    "stage": 3
   },
   {
     "key": "0006-0083",
     "original": "どうして、こんな物が",
-    "translation": ""
+    "translation": "为什么，这种东西会在",
+    "stage": 3
   },
   {
     "key": "0006-0084",
     "original": "こんな場所に・・・",
-    "translation": ""
+    "translation": "这里……",
+    "stage": 3
   },
   {
     "key": "0006-0085",
     "original": "いや、それ以前にどう",
-    "translation": ""
+    "translation": "不，更别说，怎么能把",
+    "stage": 3
   },
   {
     "key": "0006-0086",
     "original": "すればこんな金属の塊",
-    "translation": ""
+    "translation": "这么一大块金属弄成这",
+    "stage": 3
   },
   {
     "key": "0006-0087",
     "original": "がひしゃげるんだ？",
-    "translation": ""
+    "translation": "样啊？",
+    "stage": 3
   },
   {
     "key": "0006-0088",
     "original": "普通じゃないことだけ",
-    "translation": ""
+    "translation": "至少可以确定这绝对不",
+    "stage": 3
   },
   {
     "key": "0006-0089",
     "original": "はたしかだ・・・",
-    "translation": ""
+    "translation": "正常……",
+    "stage": 3
   },
   {
     "key": "0006-0090",
     "original": "！？",
-    "translation": ""
+    "translation": "！？",
+    "stage": 3
   },
   {
     "key": "0006-0091",
     "original": "・・・なんなんだよ",
-    "translation": ""
+    "translation": "……这是怎么回事啊",
+    "stage": 3
   },
   {
     "key": "0006-0092",
     "original": "まるで爆弾が爆発した",
-    "translation": ""
+    "translation": "简直就像炸弹爆炸了一",
+    "stage": 3
   },
   {
     "key": "0006-0093",
     "original": "みたいじゃないか",
-    "translation": ""
+    "translation": "样啊",
+    "stage": 3
   },
   {
     "key": "0006-0094",
     "original": "この人たち、",
-    "translation": ""
+    "translation": "这些人，",
+    "stage": 3
   },
   {
     "key": "0006-0095",
     "original": "大丈夫なのか？",
-    "translation": ""
+    "translation": "没事吧？",
+    "stage": 3
   },
   {
     "key": "0006-0096",
     "original": "もしもし！",
-    "translation": ""
+    "translation": "喂！",
+    "stage": 3
   },
   {
     "key": "0006-0097",
     "original": "返事できますか？",
-    "translation": ""
+    "translation": "能回应我吗？",
+    "stage": 3
   },
   {
     "key": "0006-0098",
     "original": "・・・・・・",
-    "translation": ""
+    "translation": "……",
+    "stage": 3
   },
   {
     "key": "0006-0099",
     "original": "死んじまってる・・・",
-    "translation": ""
+    "translation": "都死了……",
+    "stage": 3
   },
   {
     "key": "0006-0100",
     "original": "みんな、死んじまって",
-    "translation": ""
+    "translation": "大家，都死了……",
+    "stage": 3
   },
   {
     "key": "0006-0101",
     "original": "るよ・・・",
-    "translation": ""
+    "translation": "",
+    "stage": 3
   },
   {
     "key": "0006-0102",
     "original": "なんなんだよッ！？",
-    "translation": ""
+    "translation": "到底是怎么回事啊！？",
+    "stage": 3
   },
   {
     "key": "0006-0103",
     "original": "うっ・・・",
-    "translation": ""
+    "translation": "呜……",
+    "stage": 3
   },
   {
     "key": "0006-0104",
     "original": "うわあぁぁ～～っ！！",
-    "translation": ""
+    "translation": "哇啊啊啊——！！",
+    "stage": 3
   },
   {
     "key": "0006-0105",
     "original": "この人たち、みんな死",
-    "translation": ""
+    "translation": "这些人，全都死了……",
+    "stage": 3
   },
   {
     "key": "0006-0106",
     "original": "んでしまってる・・・",
-    "translation": ""
+    "translation": "",
+    "stage": 3
   },
   {
     "key": "0006-0107",
     "original": "いったい、何が起きた",
-    "translation": ""
+    "translation": "到底，发生了什么事",
+    "stage": 3
   },
   {
     "key": "0006-0108",
     "original": "っていうんだ？",
-    "translation": ""
+    "translation": "啊？",
+    "stage": 3
   },
   {
     "key": "0006-0109",
     "original": "僕のせい、なのか？",
-    "translation": ""
+    "translation": "是我的错吗？",
+    "stage": 3
   },
   {
     "key": "0006-0110",
     "original": "とにかく、急いでここ",
-    "translation": ""
+    "translation": "总之，快点离开这里",
+    "stage": 3
   },
   {
     "key": "0006-0111",
     "original": "から立ち去ろう！",
-    "translation": ""
+    "translation": "吧！",
+    "stage": 3
   },
   {
     "key": "0006-0112",
     "original": "今のはいったい・・・",
-    "translation": ""
+    "translation": "刚才那是什么……",
+    "stage": 3
   },
   {
     "key": "0006-0113",
     "original": "えっ！？",
-    "translation": ""
+    "translation": "诶！？",
+    "stage": 3
   },
   {
     "key": "0006-0114",
     "original": "ここはどこなの！？",
-    "translation": ""
+    "translation": "这里是哪里啊！？",
+    "stage": 3
   },
   {
     "key": "0006-0115",
     "original": "こんなとこに・・・？",
-    "translation": ""
+    "translation": "这里……？",
+    "stage": 3
   },
   {
     "key": "0006-0116",
     "original": "　これはそう、夢なのよ！",
-    "translation": ""
+    "translation": "　这是，梦吧！",
+    "stage": 3
   },
   {
     "key": "0006-0117",
     "original": "夢なんだわ",
-    "translation": ""
+    "translation": "因为你看，像这样",
+    "stage": 3
   },
   {
     "key": "0006-0118",
     "original": "いたいっ！",
-    "translation": ""
+    "translation": "好痛！",
+    "stage": 3
   },
   {
     "key": "0006-0119",
     "original": "・・・夢じゃない！？",
-    "translation": ""
+    "translation": "……不是梦！？",
+    "stage": 3
   },
   {
     "key": "0006-0120",
     "original": "ここにいても",
-    "translation": ""
+    "translation": "留在这里",
+    "stage": 3
   },
   {
     "key": "0006-0121",
     "original": "しかたがないわ",
-    "translation": ""
+    "translation": "也没用",
+    "stage": 3
   },
   {
     "key": "0006-0122",
     "original": "まずは穴の上まで",
-    "translation": ""
+    "translation": "先试着爬到",
+    "stage": 3
   },
   {
     "key": "0006-0123",
     "original": "登ってみよう",
-    "translation": ""
+    "translation": "洞口吧",
+    "stage": 3
   },
   {
     "key": "0006-0124",
     "original": "なんだろう、これ",
-    "translation": ""
+    "translation": "这是什么啊",
+    "stage": 3
   },
   {
     "key": "0006-0125",
     "original": "すごくキレイな石",
-    "translation": ""
+    "translation": "好漂亮的石头",
+    "stage": 3
   },
   {
     "key": "0006-0126",
     "original": "なんか、いろんな色の",
-    "translation": ""
+    "translation": "看起来就像是把各种颜",
+    "stage": 3
   },
   {
     "key": "0006-0127",
     "original": "があちこちに飛びちっ",
-    "translation": ""
+    "translation": "色的碎片，随处散落在",
+    "stage": 3
   },
   {
     "key": "0006-0128",
     "original": "ているみたいね",
-    "translation": ""
+    "translation": "各处一样呢",
+    "stage": 3
   },
   {
     "key": "0006-0129",
     "original": "　全部拾っておこうかな",
-    "translation": ""
+    "translation": "　要不要全部捡起来呢",
+    "stage": 3
   },
   {
     "key": "0006-0130",
     "original": "　そんな場合じゃないわ",
-    "translation": ""
+    "translation": "　现在可不是那种时候",
+    "stage": 3
   },
   {
     "key": "0006-0131",
     "original": "宝石かもしれないし、",
-    "translation": ""
+    "translation": "也许是宝石，先不管怎",
+    "stage": 3
   },
   {
     "key": "0006-0132",
     "original": "とりあえず何種類ずつ",
-    "translation": ""
+    "translation": "样，每种拾几颗吧",
+    "stage": 3
   },
   {
     "key": "0006-0133",
     "original": "かは拾っていこう",
-    "translation": ""
+    "translation": "",
+    "stage": 3
   },
   {
     "key": "0006-0134",
     "original": "しれないしね",
-    "translation": ""
+    "translation": "呢",
+    "stage": 3
   },
   {
     "key": "0006-0135",
     "original": "ううん、そんな",
-    "translation": ""
+    "translation": "不，现在不是干这个的",
+    "stage": 3
   },
   {
     "key": "0006-0136",
     "original": "場合じゃないわ・・・",
-    "translation": ""
+    "translation": "时候……先得离开这里",
+    "stage": 3
   },
   {
     "key": "0006-0137",
     "original": "まずはここを出ないと",
-    "translation": ""
+    "translation": "才行",
+    "stage": 3
   },
   {
     "key": "0006-0138",
     "original": "とりあえず、目につい",
-    "translation": ""
+    "translation": "先这样吧，只把眼前看",
+    "stage": 3
   },
   {
     "key": "0006-0139",
     "original": "たものだけ拾っておく",
-    "translation": ""
+    "translation": "到的捡起来好了",
+    "stage": 3
   },
   {
     "key": "0006-0140",
     "original": "ことにしよう",
-    "translation": ""
+    "translation": "",
+    "stage": 3
   },
   {
     "key": "0006-0141",
     "original": "・・・なによ",
-    "translation": ""
+    "translation": "……怎么回事啊？",
+    "stage": 3
   },
   {
     "key": "0006-0142",
     "original": "なんでみんな",
-    "translation": ""
+    "translation": "为什么大家都倒下",
+    "stage": 3
   },
   {
     "key": "0006-0143",
     "original": "倒れてるのよ！？",
-    "translation": ""
+    "translation": "了！？",
+    "stage": 3
   },
   {
     "key": "0006-0144",
     "original": "ねえ、",
-    "translation": ""
+    "translation": "喂，",
+    "stage": 3
   },
   {
     "key": "0006-0145",
     "original": "誰か返事をしてよ？",
-    "translation": ""
+    "translation": "谁来回应我一下啊？",
+    "stage": 3
   },
   {
     "key": "0006-0146",
     "original": "ねえってば！",
-    "translation": ""
+    "translation": "回应我啊！",
+    "stage": 3
   },
   {
     "key": "0006-0147",
     "original": "・・・ウソでしょ？",
-    "translation": ""
+    "translation": "……骗人的吧？",
+    "stage": 3
   },
   {
     "key": "0006-0148",
     "original": "こんなのって、",
-    "translation": ""
+    "translation": "这种事情，",
+    "stage": 3
   },
   {
     "key": "0006-0149",
     "original": "無責任じゃない・・・",
-    "translation": ""
+    "translation": "也太不负责任了吧……",
+    "stage": 3
   },
   {
     "key": "0006-0150",
     "original": "誰か説明してよ！？",
-    "translation": ""
+    "translation": "谁来说明一下啊！？",
+    "stage": 3
   },
   {
     "key": "0006-0151",
     "original": "・・・やだよぅ",
-    "translation": ""
+    "translation": "……不要啊",
+    "stage": 3
   },
   {
     "key": "0006-0152",
     "original": "こんなのやだようっ！",
-    "translation": ""
+    "translation": "我不要这样……啊啊！",
+    "stage": 3
   },
   {
     "key": "0006-0153",
     "original": "あのっ・・・",
-    "translation": ""
+    "translation": "那个……",
+    "stage": 3
   },
   {
     "key": "0006-0154",
     "original": "死んで・・・るの？",
-    "translation": ""
+    "translation": "死……了？",
+    "stage": 3
   },
   {
     "key": "0006-0155",
     "original": "ひどい・・・",
-    "translation": ""
+    "translation": "太残酷了……",
+    "stage": 3
   },
   {
     "key": "0006-0156",
     "original": "どうして、こんなこと",
-    "translation": ""
+    "translation": "为什么……事情会变成",
+    "stage": 3
   },
   {
     "key": "0006-0157",
     "original": "になってしまったの",
-    "translation": ""
+    "translation": "这样呢？",
+    "stage": 3
   },
   {
     "key": "0006-0158",
     "original": "・・・",
-    "translation": ""
+    "translation": "……",
+    "stage": 3
   },
   {
     "key": "0006-0159",
     "original": "私のせいなの？",
-    "translation": ""
+    "translation": "是我的错吗？",
+    "stage": 3
   },
   {
     "key": "0006-0160",
     "original": "・・・イヤっ！",
-    "translation": ""
+    "translation": "……不！",
+    "stage": 3
   },
   {
     "key": "0006-0161",
     "original": "イヤあぁぁっ！！",
-    "translation": ""
+    "translation": "不要啊！！",
+    "stage": 3
   },
   {
     "key": "0007-0001",
