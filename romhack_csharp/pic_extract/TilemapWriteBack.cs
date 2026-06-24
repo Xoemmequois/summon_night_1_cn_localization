@@ -89,8 +89,10 @@ public static class TilemapWriteBack
                     uniqueTiles.Add(tile);
                 }
 
-                var sc = slot % atlasCols;
-                var sr = slot / atlasCols;
+                // Column-major slot placement (matches the original: fill down a column,
+                // then move right) so atlas/tilemap byte layout stays close to the game's.
+                var sc = slot / atlasRows;
+                var sr = slot % atlasRows;
                 var u = sc * Ts;
                 var v = sr * Ts;
                 // entry: bit15 visible; U=(e&0x1F)<<3, V=((e>>5)&0x1F)<<3
@@ -102,8 +104,8 @@ public static class TilemapWriteBack
         Array.Clear(dat, atlasPix, atlasW * atlasH);
         for (var slot = 0; slot < uniqueTiles.Count; slot++)
         {
-            var sc = slot % atlasCols;
-            var sr = slot / atlasCols;
+            var sc = slot / atlasRows;
+            var sr = slot % atlasRows;
             var tile = uniqueTiles[slot];
             for (var y = 0; y < Ts; y++)
                 for (var x = 0; x < Ts; x++)
