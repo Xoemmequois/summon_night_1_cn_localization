@@ -37,6 +37,40 @@ public static class ImagePreview
                 datCaches[meta.DatFile] = datBuffer;
             }
 
+            if (meta.Format == TilemapWriteBack.FormatTag)
+            {
+                var (cluts, origScreen, w, h) = TilemapWriteBack.RenderOriginal(datBuffer, meta);
+
+                using var tBmp = new Bitmap(translatedFile);
+                if (tBmp.PixelFormat != PixelFormat.Format8bppIndexed)
+                    continue;
+
+                var tRectTm = new Rectangle(0, 0, tBmp.Width, tBmp.Height);
+                var tDataTm = tBmp.LockBits(tRectTm, ImageLockMode.ReadOnly, tBmp.PixelFormat);
+                var tIdx = new byte[tDataTm.Stride * tBmp.Height];
+                Marshal.Copy(tDataTm.Scan0, tIdx, 0, tIdx.Length);
+                tBmp.UnlockBits(tDataTm);
+
+                // Use the write-back result for preview/diff: restore same-color index remaps
+                // so the index-based diff reflects what write-back will actually produce.
+                TilemapWriteBack.CanonicalizeSameColor(tIdx, tDataTm.Stride, origScreen, w, h, cluts);
+
+                var outRelDirTm = Path.GetDirectoryName(relativePath) ?? "";
+                var outDirTm = Path.Combine(previewDir, outRelDirTm);
+                Directory.CreateDirectory(outDirTm);
+                var filenameTm = Path.GetFileNameWithoutExtension(relativePath);
+
+                var previewPathTm = Path.Combine(outDirTm, filenameTm + ".gif");
+                SavePreview(tIdx, tDataTm.Stride, tBmp.Width, tBmp.Height, cluts, previewPathTm);
+
+                var diffPathTm = Path.Combine(outDirTm, filenameTm + "_diff.png");
+                SaveDiffRaw(origScreen, w, tIdx, tDataTm.Stride, tBmp.Width, tBmp.Height, diffPathTm);
+
+                Console.WriteLine($"  Preview: {previewPathTm}");
+                Console.WriteLine($"  Diff:    {diffPathTm}");
+                continue;
+            }
+
             var tim = TimPixelHelper.ParseTim(datBuffer, meta);
 
             using var translatedBmp = new Bitmap(translatedFile);
@@ -107,6 +141,35 @@ public static class ImagePreview
                 diffPixels[off + 2] = v;
             }
         }
+        Marshal.Copy(diffPixels, 0, diffData.Scan0, diffPixels.Length);
+        diffBmp.UnlockBits(diffData);
+
+        diffBmp.Save(path, ImageFormat.Png);
+    }
+
+    // Diff for tilemap previews: compares the rendered original screen against the
+    // translated image directly (both full-frame, no rect offset). White = unchanged.
+    private static void SaveDiffRaw(byte[] orig, int origStride, byte[] trans, int transStride,
+        int width, int height, string path)
+    {
+        using var diffBmp = new Bitmap(width, height, PixelFormat.Format24bppRgb);
+        var rect = new Rectangle(0, 0, width, height);
+        var diffData = diffBmp.LockBits(rect, ImageLockMode.WriteOnly, diffBmp.PixelFormat);
+        var diffPixels = new byte[diffData.Stride * height];
+
+        for (var y = 0; y < height; y++)
+        {
+            for (var x = 0; x < width; x++)
+            {
+                var same = orig[y * origStride + x] == trans[y * transStride + x];
+                var off = y * diffData.Stride + x * 3;
+                var v = same ? (byte)255 : (byte)0;
+                diffPixels[off] = v;
+                diffPixels[off + 1] = v;
+                diffPixels[off + 2] = v;
+            }
+        }
+
         Marshal.Copy(diffPixels, 0, diffData.Scan0, diffPixels.Length);
         diffBmp.UnlockBits(diffData);
 

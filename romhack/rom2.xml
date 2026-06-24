@@ -10,7 +10,7 @@
             <file name="CM1100.DAT" source="rom/CM1100.DAT.mod2" type="data"/>
             <file name="CM5000.DAT" source="rom/CM5000.DAT" type="data"/>
             <file name="CM1200.DAT" source="rom/CM1200.DAT.mod" type="data"/>
-            <file name="CM2000.DAT" source="rom/CM2000.DAT" type="data"/>
+            <file name="CM2000.DAT" source="rom/CM2000.DAT.mod2" type="data"/>
             <file name="CM4000.DAT" source="rom/CM4000.DAT" type="data"/>
             <file name="CM3000.DAT" source="rom/CM3000.DAT.mod2" type="data"/>
             <file name="CM5100.DAT" source="rom/CM5100.DAT" type="mixed"/>

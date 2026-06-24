@@ -496,7 +496,8 @@ public static class RipTool
         for (var id = 0x2D; id <= 0x4D; id++)
         {
             var dd = ExtractUtil.GetSubcontent(cm2000, id);
-            using var bmp = BuildTilemapImage(dd, out var is4bpp);
+            using var bmp = BuildTilemapImage(dd, out var is4bpp,
+                out var atlasCols, out var atlasRows, out var mapCols, out var mapRows);
             if (bmp == null)
             {
                 Console.WriteLine($"  ui_{id:X2}: unsupported format (4bpp), skipping");
@@ -506,8 +507,8 @@ public static class RipTool
             var path = Path.Combine(outDir, $"chapter_title_{id:X2}.gif");
             bmp.Save(path, ImageFormat.Gif);
             SaveAct(bmp, path, is4bpp);
-            ImageMetaWriter.Write(path, "CM2000.DAT", id, -1);
-            Console.WriteLine($"  ui_{id:X2}: {bmp.Width}x{bmp.Height} saved");
+            ImageMetaWriter.WriteTilemap(path, "CM2000.DAT", id, atlasCols, atlasRows, mapCols, mapRows);
+            Console.WriteLine($"  ui_{id:X2}: {bmp.Width}x{bmp.Height} saved ({atlasCols}x{atlasRows} atlas tiles)");
         }
     }
 
@@ -516,9 +517,11 @@ public static class RipTool
     // 320x240 screen. Each ushort tilemap entry encodes the atlas texel coordinate:
     //   U = (e & 0x1F) << 3,  V = ((e >> 5) & 0x1F) << 3
     // and a 16x16 block is drawn at screen (col*16, row*16). entry 0 = empty cell.
-    private static Bitmap? BuildTilemapImage(byte[] dd, out bool is4bpp)
+    private static Bitmap? BuildTilemapImage(byte[] dd, out bool is4bpp,
+        out int atlasCols, out int atlasRows, out int mapCols, out int mapRows)
     {
         is4bpp = false;
+        atlasCols = atlasRows = mapCols = mapRows = 0;
         var clutOff = BitConverter.ToInt32(dd, 4) & 0xFFFFFF;
         var imageOff = BitConverter.ToInt32(dd, 8) & 0xFFFFFF;
         var tilemapOff = BitConverter.ToInt32(dd, 12) & 0xFFFFFF;
@@ -526,7 +529,7 @@ public static class RipTool
         var clutW = ReadU16(dd, clutOff);
         var clutH = ReadU16(dd, clutOff + 2);
         is4bpp = clutW != 256;
-        if (is4bpp) return null; // 0x2D-0x2F are all 8bpp; 4bpp atlas not handled here
+        if (is4bpp) return null; // 0x2D-0x4D are all 8bpp; 4bpp atlas not handled here
 
         var cluts = ParseCluts(dd, clutOff + 4, clutW, clutH);
 
@@ -539,6 +542,10 @@ public static class RipTool
         var mapStart = tilemapOff + 4;
 
         const int ts = 16;
+        atlasCols = atlasW / ts;
+        atlasRows = atlasH / ts;
+        mapCols = mapW;
+        mapRows = mapH;
         var width = mapW * ts;
         var height = mapH * ts;
         var bitmap = new Bitmap(width, height, PixelFormat.Format8bppIndexed);

@@ -45,6 +45,12 @@ public static class ImageWriteBack
                 datBuffers[meta.DatFile] = datBuffer;
             }
 
+            if (meta.Format == TilemapWriteBack.FormatTag)
+            {
+                TilemapWriteBack.Apply(datBuffer, meta, translatedFile, relativePath);
+                continue;
+            }
+
             var tim = TimPixelHelper.ParseTim(datBuffer, meta);
 
             using var translatedBmp = new Bitmap(translatedFile);
