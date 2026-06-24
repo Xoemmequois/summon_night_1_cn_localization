@@ -42,10 +42,6 @@
 ・・・・・・
 +[FID:3F, TEXT:000F] ・・・・・・
 
---- Group 7 [left:卡农 next=2012] ---
-・・・・・・
--[FID:3F, TEXT:000F] ・・・・・・
-
 --- Group 8 [left:none next=0023] ---
 教えてくれないか？
 +[FID:3F, TEXT:0010] 能告诉我吗？
@@ -169,10 +165,6 @@
 ！？
 +[FID:3F, TEXT:0033] ！？
 
---- Group 30 [left:主人公 next=2012] ---
-！？
--[FID:3F, TEXT:0033] ！？
-
 --- Group 31 [right:巴萨 next=2012] ---
 そんな野郎と、なにを
 喋ってんだ・・・？
@@ -224,10 +216,6 @@
 +[FID:3F, TEXT:0041] 卡农…
 +[FID:3F, TEXT:0042] 你这家伙，是想背叛我
 +[FID:3F, TEXT:0043] 吗？
-
---- Group 41 [left:主人公 next=0023] ---
-カノン・・・
--[FID:3F, TEXT:0041] 卡农…
 
 --- Group 42 [left:卡农 next=2012] ---
 そんな、こと・・・

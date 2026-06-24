@@ -4,12 +4,6 @@
 +[FID:5C, TEXT:0001] 好了，这里就是我们的
 +[FID:5C, TEXT:0002] 秘密基地。
 
---- Group 2 [right:瞪羚 next=2012] ---
-さあ、ここが俺たちの
-隠れ家だ
--[FID:5C, TEXT:0001] 好了，这里就是我们的
--[FID:5C, TEXT:0002] 秘密基地。
-
 --- Group 3 [left:none next=0023] ---
 え、でも・・・
 ここは酒場じゃ
@@ -23,12 +17,6 @@
 ここは酒場じゃ？
 -[FID:5C, TEXT:0003] 诶，但是……
 +[FID:5C, TEXT:0004] 这里不是酒馆吗？
-
---- Group 5 [left:none next=0023] ---
-え、でも・・・
-ここは酒場じゃ？
--[FID:5C, TEXT:0003] 诶，但是……
--[FID:5C, TEXT:0004] 这里不是酒馆吗？
 
 --- Group 6 [left:none next=0023] ---
 ・・・ここ
@@ -47,44 +35,19 @@
 +[FID:5C, TEXT:000C] 这里是秘密基地。
 -[FID:5C, TEXT:000C] 罢了
 
---- Group 8 [right:主人公 next=2012] ---
-表向きは酒場ってこと
-になってるだけさ
-なんせ、隠れ家なんだ
-からな
--[FID:5C, TEXT:0009] 只是表面上说是酒馆而
--[FID:5C, TEXT:000A] 已。
--[FID:5C, TEXT:000B] 只是变成那样了毕竟，
--[FID:5C, TEXT:000C] 这里是秘密基地。
--[FID:5C, TEXT:000C] 罢了
-
 --- Group 9 [right:主人公 next=2012] ---
 さ、入るぜ？
 +[FID:5C, TEXT:000D] 走，进去吧？
 
---- Group 10 [right:瞪羚 next=2012] ---
-さ、入るぜ？
--[FID:5C, TEXT:000D] 走，进去吧？
-
 --- Group 11 [left:雷德 next=2012] ---
 ああ・・・
 +[FID:5C, TEXT:000E] 嗯……
-
---- Group 12 [left:雷德 next=2012] ---
-ああ・・・
--[FID:5C, TEXT:000E] 嗯……
 
 --- Group 13 [right:瞪羚 next=2012] ---
 おかえりなさい
 スタウト
 +[FID:5C, TEXT:000F] 欢迎回来，
 +[FID:5C, TEXT:0010] 斯塔乌特。
-
---- Group 14 [right:主人公 next=2012] ---
-おかえりなさい
-スタウト
--[FID:5C, TEXT:000F] 欢迎回来，
--[FID:5C, TEXT:0010] 斯塔乌特。
 
 --- Group 15 [right:塞西尔 next=2012] ---
 そっちの
@@ -187,10 +150,6 @@
 --- Group 32 [left:none next=2012] ---
 ・・・・・・・
 +[FID:5C, TEXT:0030] ……
-
---- Group 33 [left:none next=0023] ---
-・・・・・・・
--[FID:5C, TEXT:0030] ……
 
 --- Group 34 [left:none next=0023] ---
 ・・・沈黙がつらい
@@ -494,17 +453,9 @@
 待たせたな
 +[FID:5C, TEXT:008E] 让你久等了
 
---- Group 82 [right:拉姆达 next=2012] ---
-待たせたな
--[FID:5C, TEXT:008E] 让你久等了
-
 --- Group 83 [left:none next=2012] ---
 あ、いえ・・・
 +[FID:5C, TEXT:008F] 啊，那个……
-
---- Group 84 [left:none next=2012] ---
-あ、いえ・・・
--[FID:5C, TEXT:008F] 啊，那个……
 
 --- Group 85 [right:雷德 next=2012] ---
 さあ、帰ろう

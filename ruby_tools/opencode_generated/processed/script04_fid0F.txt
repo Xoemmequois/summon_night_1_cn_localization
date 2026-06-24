@@ -9,17 +9,6 @@
 +[FID:0F, TEXT:0004] 里
 -[FID:0F, TEXT:0004] 举办的哦
 
---- Group 2 [right:利布雷 next=2012] ---
-ここはサイジェントの
-市民公園
-お祭りなんかはここで
-行われるのよ
--[FID:0F, TEXT:0001] 这里是赛杰恩特的市民
--[FID:0F, TEXT:0002] 公园
--[FID:0F, TEXT:0003] 祭典之类的，都是在这
--[FID:0F, TEXT:0004] 里
--[FID:0F, TEXT:0004] 举办的哦
-
 --- Group 3 [left:主人公 next=0023] ---
 へえ、お祭りかぁ
 これだけ大きい場所
@@ -142,25 +131,11 @@
 +[FID:0F, TEXT:002E] 感觉是个很有成人氛围
 +[FID:0F, TEXT:002F] 的地方啊
 
---- Group 20 [left:主人公 next=0023] ---
-うーん・・・
-なんかいかにも雰囲気
-がオトナな場所だな
--[FID:0F, TEXT:002D] 嗯……
--[FID:0F, TEXT:002E] 感觉是个很有成人氛围
--[FID:0F, TEXT:002F] 的地方啊
-
 --- Group 21 [left:主人公 next=2012] ---
 なんかいかにも雰囲気
 がオトナな場所ね
 -[FID:0F, TEXT:002E] 感觉是个很有成人氛围
 +[FID:0F, TEXT:0036] 的地方呢
-
---- Group 22 [left:主人公 next=2012] ---
-なんかいかにも雰囲気
-がオトナな場所ね
--[FID:0F, TEXT:002E] 感觉是个很有成人氛围
--[FID:0F, TEXT:0036] 的地方呢
 
 --- Group 23 [left:主人公 next=0023] ---
 酒場や食べ物屋の看板
@@ -170,14 +145,6 @@
 +[FID:0F, TEXT:0031] 在一起说明是娱乐区啊
 +[FID:0F, TEXT:0032] ……
 
---- Group 24 [left:主人公 next=0023] ---
-酒場や食べ物屋の看板
-が並んでるってことは
-盛り場だな・・・
--[FID:0F, TEXT:0030] 酒馆和餐馆的招牌排列
--[FID:0F, TEXT:0031] 在一起说明是娱乐区啊
--[FID:0F, TEXT:0032] ……
-
 --- Group 25 [left:主人公 next=0023] ---
 うわぁ・・・
 なんだか、オトナな
@@ -185,14 +152,6 @@
 +[FID:0F, TEXT:0033] 哇……
 +[FID:0F, TEXT:0034] 感觉是个很有成人
 +[FID:0F, TEXT:0035] 氛围的地方呢
-
---- Group 26 [left:主人公 next=0023] ---
-うわぁ・・・
-なんだか、オトナな
-雰囲気のトコロだね
--[FID:0F, TEXT:0033] 哇……
--[FID:0F, TEXT:0034] 感觉是个很有成人
--[FID:0F, TEXT:0035] 氛围的地方呢
 
 --- Group 27 [left:主人公 next=0023] ---
 うわぁ・・・
@@ -218,14 +177,6 @@
 +[FID:0F, TEXT:0038] 这种地方呢
 +[FID:0F, TEXT:0039] ……
 
---- Group 30 [left:主人公 next=0023] ---
-あんまりこういった
-ところは好きじゃ
-ないな・・・
--[FID:0F, TEXT:0037] 我不太喜欢
--[FID:0F, TEXT:0038] 这种地方呢
--[FID:0F, TEXT:0039] ……
-
 --- Group 31 [right:瞪羚 next=2012] ---
 説明するまでもねえと
 は思うが、繁華街って
@@ -233,14 +184,6 @@
 +[FID:0F, TEXT:003A] 不用我多说你也知道，
 +[FID:0F, TEXT:003B] 这就是繁华街
 +[FID:0F, TEXT:003C] 
-
---- Group 32 [right:瞪羚 next=2012] ---
-説明するまでもねえと
-は思うが、繁華街って
-やつだ
--[FID:0F, TEXT:003A] 不用我多说你也知道，
--[FID:0F, TEXT:003B] 这就是繁华街
--[FID:0F, TEXT:003C] 
 
 --- Group 33 [right:瞪羚 next=2012] ---
 夜になると、街で一番
@@ -251,16 +194,6 @@
 +[FID:0F, TEXT:003E] 活气的地方
 +[FID:0F, TEXT:003F] 相应的，也更容易遇到
 +[FID:0F, TEXT:0040] 麻烦就是了
-
---- Group 34 [right:瞪羚 next=2012] ---
-夜になると、街で一番
-活気がある場所さ
-そのぶんトラブルにも
-出くわしやすいがな
--[FID:0F, TEXT:003D] 到了晚上，是城里最有
--[FID:0F, TEXT:003E] 活气的地方
--[FID:0F, TEXT:003F] 相应的，也更容易遇到
--[FID:0F, TEXT:0040] 麻烦就是了
 
 --- Group 35 [left:主人公 next=0023] ---
 ずいぶんと詳しいな
@@ -289,14 +222,6 @@
 --- Group 40 [left:主人公 next=0023] ---
 あ・・・
 +[FID:0F, TEXT:0048] 啊……
-
---- Group 41 [right:瞪羚 next=2012] ---
-あ・・・
--[FID:0F, TEXT:0048] 啊……
-
---- Group 42 [left:利布雷 next=2012] ---
-あ・・・
--[FID:0F, TEXT:0048] 啊……
 
 --- Group 43 [left:利布雷 next=2012] ---
 あんたひょっとして
@@ -353,18 +278,6 @@
 -[FID:0F, TEXT:0058] 怎么办？
 +[FID:0F, TEXT:01A2] 　放任不管
 +[FID:0F, TEXT:01A3] 　靠近看看
-
---- Group 52 [left:主人公 next=2015] ---
-どうしよう？
-　放っておく
-　近づいてみる
--[FID:0F, TEXT:0058] 怎么办？
--[FID:0F, TEXT:01A2] 　放任不管
--[FID:0F, TEXT:01A3] 　靠近看看
-
---- Group 53 [right:瞪羚 next=0023] ---
-どうしよう？
--[FID:0F, TEXT:0058] 怎么办？
 
 --- Group 54 [left:主人公 next=0023] ---
 　様子を見ている
@@ -505,14 +418,6 @@
 +[FID:0F, TEXT:0084] 有这么大的河流
 +[FID:0F, TEXT:0085] 啊
 
---- Group 72 [left:主人公 next=0023] ---
-街のすぐ側に
-こんな大きな川が
-あったんだな
--[FID:0F, TEXT:0083] 就在城边
--[FID:0F, TEXT:0084] 有这么大的河流
--[FID:0F, TEXT:0085] 啊
-
 --- Group 73 [left:主人公 next=0023] ---
 街のすぐ側に
 こんな大きな川が
@@ -520,14 +425,6 @@
 -[FID:0F, TEXT:0083] 就在城边
 -[FID:0F, TEXT:0084] 有这么大的河流
 +[FID:0F, TEXT:0086] 呢
-
---- Group 74 [left:主人公 next=0023] ---
-街のすぐ側に
-こんな大きな川が
-あったとはね
--[FID:0F, TEXT:0083] 就在城边
--[FID:0F, TEXT:0084] 有这么大的河流
--[FID:0F, TEXT:0086] 呢
 
 --- Group 75 [left:主人公 next=0023] ---
 わぁ
@@ -539,30 +436,12 @@
 +[FID:0F, TEXT:0089] 在城边有这样一条河呢
 +[FID:0F, TEXT:008A] ……
 
---- Group 76 [left:主人公 next=0023] ---
-わぁ
-大きな川だね
-街の側に、こんな川が
-あるなんて・・・
--[FID:0F, TEXT:0087] 哇
--[FID:0F, TEXT:0088] 好大的河啊
--[FID:0F, TEXT:0089] 在城边有这样一条河呢
--[FID:0F, TEXT:008A] ……
-
 --- Group 77 [left:主人公 next=0023] ---
 街のすぐ側にこんな
 大きな川があったん
 ですね・・・
 +[FID:0F, TEXT:008B] 就在城边有这么
 +[FID:0F, TEXT:008C] 大的河流
--[FID:0F, TEXT:008D] 呢……
-
---- Group 78 [left:主人公 next=0023] ---
-街のすぐ側にこんな
-大きな川があったん
-ですね・・・
--[FID:0F, TEXT:008B] 就在城边有这么
--[FID:0F, TEXT:008C] 大的河流
 -[FID:0F, TEXT:008D] 呢……
 
 --- Group 79 [right:利布雷 next=2012] ---
@@ -575,16 +454,6 @@
 +[FID:0F, TEXT:0090] 从一直往北的山脉
 +[FID:0F, TEXT:0091] 流下来的
 
---- Group 80 [right:利布雷 next=2012] ---
-アルク川っていう
-名前でね
-ずっと北の山脈から
-流れてきてるの
--[FID:0F, TEXT:008E] 叫做阿尔克河
--[FID:0F, TEXT:008F] 呢
--[FID:0F, TEXT:0090] 从一直往北的山脉
--[FID:0F, TEXT:0091] 流下来的
-
 --- Group 81 [right:利布雷 next=2012] ---
 この川があるおかげで
 サイジェントは
@@ -592,14 +461,6 @@
 +[FID:0F, TEXT:0092] 因为有这条河赛杰恩特
 +[FID:0F, TEXT:0093] 就不会缺水了
 +[FID:0F, TEXT:0094] 
-
---- Group 82 [right:利布雷 next=2012] ---
-この川があるおかげで
-サイジェントは
-水に困らないのよ
--[FID:0F, TEXT:0092] 因为有这条河赛杰恩特
--[FID:0F, TEXT:0093] 就不会缺水了
--[FID:0F, TEXT:0094] 
 
 --- Group 83 [left:主人公 next=2012] ---
 そうなのか
@@ -640,29 +501,11 @@
 -[FID:0F, TEXT:009E] 这里感觉湿乎乎的
 +[FID:0F, TEXT:00A5] 呢？
 
---- Group 89 [left:主人公 next=0023] ---
-なんか、ジメジメ
-してませんか？
--[FID:0F, TEXT:009E] 这里感觉湿乎乎的
--[FID:0F, TEXT:00A5] 呢？
-
---- Group 90 [left:主人公 next=0023] ---
-なんか、ジメジメ
-してないか？
--[FID:0F, TEXT:009E] 这里感觉湿乎乎的
--[FID:0F, TEXT:009F] 呢？
-
 --- Group 91 [left:主人公 next=0023] ---
 ここの空気はすこし
 よくないな
 +[FID:0F, TEXT:00A0] 这里空气有点
 +[FID:0F, TEXT:00A1] 不好啊
-
---- Group 92 [left:主人公 next=0023] ---
-ここの空気はすこし
-よくないな
--[FID:0F, TEXT:00A0] 这里空气有点
--[FID:0F, TEXT:00A1] 不好啊
 
 --- Group 93 [left:主人公 next=0023] ---
 なんか、空気が
@@ -671,14 +514,6 @@
 +[FID:0F, TEXT:00A2] 感觉空气
 +[FID:0F, TEXT:00A3] 湿乎乎的，
 +[FID:0F, TEXT:00A4] 让人很不舒服……
-
---- Group 94 [left:主人公 next=0023] ---
-なんか、空気が
-じめっとしてて、
-やな感じ・・・
--[FID:0F, TEXT:00A2] 感觉空气
--[FID:0F, TEXT:00A3] 湿乎乎的，
--[FID:0F, TEXT:00A4] 让人很不舒服……
 
 --- Group 95 [left:主人公 next=0023] ---
 ああ
@@ -742,12 +577,6 @@
 +[FID:0F, TEXT:00B6] 以前啊，这附近也是农
 +[FID:0F, TEXT:00B7] 田哦
 
---- Group 104 [right:利布雷 next=2012] ---
-昔はね、このあたりも
-畑だったのよ
--[FID:0F, TEXT:00B6] 以前啊，这附近也是农
--[FID:0F, TEXT:00B7] 田哦
-
 --- Group 105 [right:利布雷 next=2012] ---
 今みたいに、よその
 街から食料を買わな
@@ -758,51 +587,11 @@
 +[FID:0F, TEXT:00BA] 也能生活
 +[FID:0F, TEXT:00BB] 呢……
 
---- Group 106 [right:利布雷 next=2012] ---
-今みたいに、よその
-街から食料を買わな
-くたって暮らしてい
-けてたのにね・・・
--[FID:0F, TEXT:00B8] 就像现在这样，不用
--[FID:0F, TEXT:00B9] 从别的地方买粮食
--[FID:0F, TEXT:00BA] 也能生活
--[FID:0F, TEXT:00BB] 呢……
-
 --- Group 107 [right:利布雷 next=2012] ---
 サイジェントの領主
 さまが暮らすお城よ
 +[FID:0F, TEXT:00BC] 这里是赛杰恩特的
 +[FID:0F, TEXT:00BD] 领主大人居住的城堡
-
---- Group 108 [right:利布雷 next=2012] ---
-サイジェントの領主
-さまが暮らすお城よ
--[FID:0F, TEXT:00BC] 这里是赛杰恩特的
--[FID:0F, TEXT:00BD] 领主大人居住的城堡
-
---- Group 109 [left:主人公 next=0023] ---
-さすがに立派な建物
-ですね・・・
--[FID:0F, TEXT:00BE] 不愧是宏伟的建筑
--[FID:0F, TEXT:008D] 呢……
-
---- Group 110 [left:主人公 next=0023] ---
-さすがに立派な建物
-ですね・・・
--[FID:0F, TEXT:00BE] 不愧是宏伟的建筑
--[FID:0F, TEXT:008D] 呢……
-
---- Group 111 [left:主人公 next=0023] ---
-さすがに立派な建物
-だよなぁ
--[FID:0F, TEXT:00BE] 不愧是宏伟的建筑
--[FID:0F, TEXT:00BF] 啊
-
---- Group 112 [left:主人公 next=0023] ---
-さすがに立派な建物
-だよなぁ
--[FID:0F, TEXT:00BE] 不愧是宏伟的建筑
--[FID:0F, TEXT:00BF] 啊
 
 --- Group 113 [left:主人公 next=0023] ---
 なるほど・・・
@@ -816,18 +605,6 @@
 +[FID:0F, TEXT:00C1] 确实是宏伟的建筑
 +[FID:0F, TEXT:00C2] 呢
 
---- Group 115 [left:主人公 next=0023] ---
-たしかに立派な建物
-だな
--[FID:0F, TEXT:00C1] 确实是宏伟的建筑
--[FID:0F, TEXT:00C2] 呢
-
---- Group 116 [left:主人公 next=0023] ---
-たしかに立派な建物
-だな
--[FID:0F, TEXT:00C1] 确实是宏伟的建筑
--[FID:0F, TEXT:00C2] 呢
-
 --- Group 117 [left:主人公 next=0023] ---
 すごい・・・
 こんなに立派な建物
@@ -835,18 +612,6 @@
 +[FID:0F, TEXT:00C3] 好厉害……
 +[FID:0F, TEXT:00C4] 竟然有这么宏伟的建筑
 +[FID:0F, TEXT:00C5] 啊……
-
---- Group 118 [left:主人公 next=0023] ---
-こんなに立派な建物
-があるんだ・・・
--[FID:0F, TEXT:00C4] 竟然有这么宏伟的建筑
--[FID:0F, TEXT:00C5] 啊……
-
---- Group 119 [left:主人公 next=0023] ---
-こんなに立派な建物
-があるんだ・・・
--[FID:0F, TEXT:00C4] 竟然有这么宏伟的建筑
--[FID:0F, TEXT:00C5] 啊……
 
 --- Group 120 [right:利布雷 next=2012] ---
 うん、そうだよね
@@ -866,10 +631,6 @@
 ？
 +[FID:0F, TEXT:00CB] ？
 
---- Group 123 [left:主人公 next=0023] ---
-？
--[FID:0F, TEXT:00CB] ？
-
 --- Group 124 [left:主人公 next=0023] ---
 ・・・？
 なんで？
@@ -888,10 +649,6 @@
 ちょっと待った！
 +[FID:0F, TEXT:00D1] 等等！
 
---- Group 127 [right:瞪羚 next=2012] ---
-ちょっと待った！
--[FID:0F, TEXT:00D1] 等等！
-
 --- Group 128 [left:主人公 next=0023] ---
 え？
 +[FID:0F, TEXT:00D2] 诶？
@@ -903,14 +660,6 @@
 +[FID:0F, TEXT:00D3] 最好别去前面那里了
 +[FID:0F, TEXT:00D4] 
 +[FID:0F, TEXT:00D5] 
-
---- Group 130 [right:瞪羚 next=2012] ---
-ここから先に行くのは
-やめといたほうが
-いいぜ
--[FID:0F, TEXT:00D3] 最好别去前面那里了
--[FID:0F, TEXT:00D4] 
--[FID:0F, TEXT:00D5] 
 
 --- Group 131 [left:主人公 next=0023] ---
 どうしてだ？
@@ -955,14 +704,6 @@
 +[FID:0F, TEXT:00E2] 怎么样
 +[FID:0F, TEXT:00E3] 有稍微了解这个城市吗
 +[FID:0F, TEXT:00E4] ？
-
---- Group 138 [right:利布雷 next=2012] ---
-どう
-少しはこの街のことが
-わかった？
--[FID:0F, TEXT:00E2] 怎么样
--[FID:0F, TEXT:00E3] 有稍微了解这个城市吗
--[FID:0F, TEXT:00E4] ？
 
 --- Group 139 [left:主人公 next=0023] ---
 うん
@@ -1578,666 +1319,12 @@
 -[FID:0F, TEXT:0000] 
 -[FID:0F, TEXT:0000] 
 
---- Group 227 [left:none next=0026] ---
-【自分の部屋】
-
-
-【リプレと子供部屋】
-
-
-【玄関】
-
-
-【街へ】
-
-
-【レイドの部屋】
-
-
-【ガゼルの部屋】
-
-
-【部屋１】
-
-
-【部屋２】
-
-
-【部屋３】
-
-
-【部屋４】
-
-
-【部屋５】
-
-
-【屋根裏部屋】
-
-
-【広間】
-
-
-【庭】
-
-
-【台所】
-
-
--[FID:0F, TEXT:0190] 【自己的房间】
--[FID:0F, TEXT:0000] 
--[FID:0F, TEXT:0000] 
--[FID:0F, TEXT:0191] 【利布雷和儿童房】【
--[FID:0F, TEXT:0000] 玄关】
--[FID:0F, TEXT:0000] 
--[FID:0F, TEXT:0192] 
--[FID:0F, TEXT:0000] 【去街道】
--[FID:0F, TEXT:0000] 
--[FID:0F, TEXT:0193] 
--[FID:0F, TEXT:0000] 【雷德的房间】
--[FID:0F, TEXT:0000] 
--[FID:0F, TEXT:0194] 
--[FID:0F, TEXT:0000] 【加泽尔的房间】
--[FID:0F, TEXT:0000] 
--[FID:0F, TEXT:0195] 
--[FID:0F, TEXT:0000] 【房间1】
--[FID:0F, TEXT:0000] 
--[FID:0F, TEXT:0196] 
--[FID:0F, TEXT:0000] 【房间2】
--[FID:0F, TEXT:0000] 
--[FID:0F, TEXT:0197] 
--[FID:0F, TEXT:0000] 【房间3】
--[FID:0F, TEXT:0000] 
--[FID:0F, TEXT:0198] 
--[FID:0F, TEXT:0000] 【房间4】
--[FID:0F, TEXT:0000] 
--[FID:0F, TEXT:0199] 
--[FID:0F, TEXT:0000] 【房间5】
--[FID:0F, TEXT:0000] 
--[FID:0F, TEXT:019A] 
--[FID:0F, TEXT:0000] 【阁楼】
--[FID:0F, TEXT:0000] 
--[FID:0F, TEXT:019B] 
--[FID:0F, TEXT:0000] 【大厅】
--[FID:0F, TEXT:0000] 
--[FID:0F, TEXT:019C] 
--[FID:0F, TEXT:0000] 【庭院】
--[FID:0F, TEXT:0000] 
--[FID:0F, TEXT:019D] 
--[FID:0F, TEXT:0000] 【厨房】
--[FID:0F, TEXT:0000] 
--[FID:0F, TEXT:019E] 
--[FID:0F, TEXT:0000] 
--[FID:0F, TEXT:0000] 
-
---- Group 228 [right:none next=0026] ---
-【自分の部屋】
-
-
-【リプレと子供部屋】
-
-
-【玄関】
-
-
-【街へ】
-
-
-【レイドの部屋】
-
-
-【ガゼルの部屋】
-
-
-【部屋１】
-
-
-【部屋２】
-
-
-【部屋３】
-
-
-【部屋４】
-
-
-【部屋５】
-
-
-【屋根裏部屋】
-
-
-【広間】
-
-
-【庭】
-
-
-【台所】
-
-
--[FID:0F, TEXT:0190] 【自己的房间】
--[FID:0F, TEXT:0000] 
--[FID:0F, TEXT:0000] 
--[FID:0F, TEXT:0191] 【利布雷和儿童房】【
--[FID:0F, TEXT:0000] 玄关】
--[FID:0F, TEXT:0000] 
--[FID:0F, TEXT:0192] 
--[FID:0F, TEXT:0000] 【去街道】
--[FID:0F, TEXT:0000] 
--[FID:0F, TEXT:0193] 
--[FID:0F, TEXT:0000] 【雷德的房间】
--[FID:0F, TEXT:0000] 
--[FID:0F, TEXT:0194] 
--[FID:0F, TEXT:0000] 【加泽尔的房间】
--[FID:0F, TEXT:0000] 
--[FID:0F, TEXT:0195] 
--[FID:0F, TEXT:0000] 【房间1】
--[FID:0F, TEXT:0000] 
--[FID:0F, TEXT:0196] 
--[FID:0F, TEXT:0000] 【房间2】
--[FID:0F, TEXT:0000] 
--[FID:0F, TEXT:0197] 
--[FID:0F, TEXT:0000] 【房间3】
--[FID:0F, TEXT:0000] 
--[FID:0F, TEXT:0198] 
--[FID:0F, TEXT:0000] 【房间4】
--[FID:0F, TEXT:0000] 
--[FID:0F, TEXT:0199] 
--[FID:0F, TEXT:0000] 【房间5】
--[FID:0F, TEXT:0000] 
--[FID:0F, TEXT:019A] 
--[FID:0F, TEXT:0000] 【阁楼】
--[FID:0F, TEXT:0000] 
--[FID:0F, TEXT:019B] 
--[FID:0F, TEXT:0000] 【大厅】
--[FID:0F, TEXT:0000] 
--[FID:0F, TEXT:019C] 
--[FID:0F, TEXT:0000] 【庭院】
--[FID:0F, TEXT:0000] 
--[FID:0F, TEXT:019D] 
--[FID:0F, TEXT:0000] 【厨房】
--[FID:0F, TEXT:0000] 
--[FID:0F, TEXT:019E] 
--[FID:0F, TEXT:0000] 
--[FID:0F, TEXT:0000] 
-
---- Group 229 [right:瞪羚 next=0026] ---
-【自分の部屋】
-
-
-【リプレと子供部屋】
-
-
-【玄関】
-
-
-【街へ】
-
-
-【レイドの部屋】
-
-
-【ガゼルの部屋】
-
-
-【部屋１】
-
-
-【部屋２】
-
-
-【部屋３】
-
-
-【部屋４】
-
-
-【部屋５】
-
-
-【屋根裏部屋】
-
-
-【広間】
-
-
-【庭】
-
-
-【台所】
-
-
--[FID:0F, TEXT:0190] 【自己的房间】
--[FID:0F, TEXT:0000] 
--[FID:0F, TEXT:0000] 
--[FID:0F, TEXT:0191] 【利布雷和儿童房】【
--[FID:0F, TEXT:0000] 玄关】
--[FID:0F, TEXT:0000] 
--[FID:0F, TEXT:0192] 
--[FID:0F, TEXT:0000] 【去街道】
--[FID:0F, TEXT:0000] 
--[FID:0F, TEXT:0193] 
--[FID:0F, TEXT:0000] 【雷德的房间】
--[FID:0F, TEXT:0000] 
--[FID:0F, TEXT:0194] 
--[FID:0F, TEXT:0000] 【加泽尔的房间】
--[FID:0F, TEXT:0000] 
--[FID:0F, TEXT:0195] 
--[FID:0F, TEXT:0000] 【房间1】
--[FID:0F, TEXT:0000] 
--[FID:0F, TEXT:0196] 
--[FID:0F, TEXT:0000] 【房间2】
--[FID:0F, TEXT:0000] 
--[FID:0F, TEXT:0197] 
--[FID:0F, TEXT:0000] 【房间3】
--[FID:0F, TEXT:0000] 
--[FID:0F, TEXT:0198] 
--[FID:0F, TEXT:0000] 【房间4】
--[FID:0F, TEXT:0000] 
--[FID:0F, TEXT:0199] 
--[FID:0F, TEXT:0000] 【房间5】
--[FID:0F, TEXT:0000] 
--[FID:0F, TEXT:019A] 
--[FID:0F, TEXT:0000] 【阁楼】
--[FID:0F, TEXT:0000] 
--[FID:0F, TEXT:019B] 
--[FID:0F, TEXT:0000] 【大厅】
--[FID:0F, TEXT:0000] 
--[FID:0F, TEXT:019C] 
--[FID:0F, TEXT:0000] 【庭院】
--[FID:0F, TEXT:0000] 
--[FID:0F, TEXT:019D] 
--[FID:0F, TEXT:0000] 【厨房】
--[FID:0F, TEXT:0000] 
--[FID:0F, TEXT:019E] 
--[FID:0F, TEXT:0000] 
--[FID:0F, TEXT:0000] 
-
---- Group 230 [right:none next=0026] ---
-【自分の部屋】
-
-
-【リプレと子供部屋】
-
-
-【玄関】
-
-
-【街へ】
-
-
-【レイドの部屋】
-
-
-【ガゼルの部屋】
-
-
-【部屋１】
-
-
-【部屋２】
-
-
-【部屋３】
-
-
-【部屋４】
-
-
-【部屋５】
-
-
-【屋根裏部屋】
-
-
-【広間】
-
-
-【庭】
-
-
-【台所】
-
-
--[FID:0F, TEXT:0190] 【自己的房间】
--[FID:0F, TEXT:0000] 
--[FID:0F, TEXT:0000] 
--[FID:0F, TEXT:0191] 【利布雷和儿童房】【
--[FID:0F, TEXT:0000] 玄关】
--[FID:0F, TEXT:0000] 
--[FID:0F, TEXT:0192] 
--[FID:0F, TEXT:0000] 【去街道】
--[FID:0F, TEXT:0000] 
--[FID:0F, TEXT:0193] 
--[FID:0F, TEXT:0000] 【雷德的房间】
--[FID:0F, TEXT:0000] 
--[FID:0F, TEXT:0194] 
--[FID:0F, TEXT:0000] 【加泽尔的房间】
--[FID:0F, TEXT:0000] 
--[FID:0F, TEXT:0195] 
--[FID:0F, TEXT:0000] 【房间1】
--[FID:0F, TEXT:0000] 
--[FID:0F, TEXT:0196] 
--[FID:0F, TEXT:0000] 【房间2】
--[FID:0F, TEXT:0000] 
--[FID:0F, TEXT:0197] 
--[FID:0F, TEXT:0000] 【房间3】
--[FID:0F, TEXT:0000] 
--[FID:0F, TEXT:0198] 
--[FID:0F, TEXT:0000] 【房间4】
--[FID:0F, TEXT:0000] 
--[FID:0F, TEXT:0199] 
--[FID:0F, TEXT:0000] 【房间5】
--[FID:0F, TEXT:0000] 
--[FID:0F, TEXT:019A] 
--[FID:0F, TEXT:0000] 【阁楼】
--[FID:0F, TEXT:0000] 
--[FID:0F, TEXT:019B] 
--[FID:0F, TEXT:0000] 【大厅】
--[FID:0F, TEXT:0000] 
--[FID:0F, TEXT:019C] 
--[FID:0F, TEXT:0000] 【庭院】
--[FID:0F, TEXT:0000] 
--[FID:0F, TEXT:019D] 
--[FID:0F, TEXT:0000] 【厨房】
--[FID:0F, TEXT:0000] 
--[FID:0F, TEXT:019E] 
--[FID:0F, TEXT:0000] 
--[FID:0F, TEXT:0000] 
-
---- Group 231 [left:主人公 next=0026] ---
-【自分の部屋】
-
-
-【リプレと子供部屋】
-
-
-【玄関】
-
-
-【街へ】
-
-
-【レイドの部屋】
-
-
-【ガゼルの部屋】
-
-
-【部屋１】
-
-
-【部屋２】
-
-
-【部屋３】
-
-
-【部屋４】
-
-
-【部屋５】
-
-
-【屋根裏部屋】
-
-
-【広間】
-
-
-【庭】
-
-
-【台所】
-
-
--[FID:0F, TEXT:0190] 【自己的房间】
--[FID:0F, TEXT:0000] 
--[FID:0F, TEXT:0000] 
--[FID:0F, TEXT:0191] 【利布雷和儿童房】【
--[FID:0F, TEXT:0000] 玄关】
--[FID:0F, TEXT:0000] 
--[FID:0F, TEXT:0192] 
--[FID:0F, TEXT:0000] 【去街道】
--[FID:0F, TEXT:0000] 
--[FID:0F, TEXT:0193] 
--[FID:0F, TEXT:0000] 【雷德的房间】
--[FID:0F, TEXT:0000] 
--[FID:0F, TEXT:0194] 
--[FID:0F, TEXT:0000] 【加泽尔的房间】
--[FID:0F, TEXT:0000] 
--[FID:0F, TEXT:0195] 
--[FID:0F, TEXT:0000] 【房间1】
--[FID:0F, TEXT:0000] 
--[FID:0F, TEXT:0196] 
--[FID:0F, TEXT:0000] 【房间2】
--[FID:0F, TEXT:0000] 
--[FID:0F, TEXT:0197] 
--[FID:0F, TEXT:0000] 【房间3】
--[FID:0F, TEXT:0000] 
--[FID:0F, TEXT:0198] 
--[FID:0F, TEXT:0000] 【房间4】
--[FID:0F, TEXT:0000] 
--[FID:0F, TEXT:0199] 
--[FID:0F, TEXT:0000] 【房间5】
--[FID:0F, TEXT:0000] 
--[FID:0F, TEXT:019A] 
--[FID:0F, TEXT:0000] 【阁楼】
--[FID:0F, TEXT:0000] 
--[FID:0F, TEXT:019B] 
--[FID:0F, TEXT:0000] 【大厅】
--[FID:0F, TEXT:0000] 
--[FID:0F, TEXT:019C] 
--[FID:0F, TEXT:0000] 【庭院】
--[FID:0F, TEXT:0000] 
--[FID:0F, TEXT:019D] 
--[FID:0F, TEXT:0000] 【厨房】
--[FID:0F, TEXT:0000] 
--[FID:0F, TEXT:019E] 
--[FID:0F, TEXT:0000] 
--[FID:0F, TEXT:0000] 
-
---- Group 232 [left:none next=0026] ---
-【自分の部屋】
-
-
-【リプレと子供部屋】
-
-
-【玄関】
-
-
-【街へ】
-
-
-【レイドの部屋】
-
-
-【ガゼルの部屋】
-
-
-【部屋１】
-
-
-【部屋２】
-
-
-【部屋３】
-
-
-【部屋４】
-
-
-【部屋５】
-
-
-【屋根裏部屋】
-
-
-【広間】
-
-
-【庭】
-
-
-【台所】
-
-
--[FID:0F, TEXT:0190] 【自己的房间】
--[FID:0F, TEXT:0000] 
--[FID:0F, TEXT:0000] 
--[FID:0F, TEXT:0191] 【利布雷和儿童房】【
--[FID:0F, TEXT:0000] 玄关】
--[FID:0F, TEXT:0000] 
--[FID:0F, TEXT:0192] 
--[FID:0F, TEXT:0000] 【去街道】
--[FID:0F, TEXT:0000] 
--[FID:0F, TEXT:0193] 
--[FID:0F, TEXT:0000] 【雷德的房间】
--[FID:0F, TEXT:0000] 
--[FID:0F, TEXT:0194] 
--[FID:0F, TEXT:0000] 【加泽尔的房间】
--[FID:0F, TEXT:0000] 
--[FID:0F, TEXT:0195] 
--[FID:0F, TEXT:0000] 【房间1】
--[FID:0F, TEXT:0000] 
--[FID:0F, TEXT:0196] 
--[FID:0F, TEXT:0000] 【房间2】
--[FID:0F, TEXT:0000] 
--[FID:0F, TEXT:0197] 
--[FID:0F, TEXT:0000] 【房间3】
--[FID:0F, TEXT:0000] 
--[FID:0F, TEXT:0198] 
--[FID:0F, TEXT:0000] 【房间4】
--[FID:0F, TEXT:0000] 
--[FID:0F, TEXT:0199] 
--[FID:0F, TEXT:0000] 【房间5】
--[FID:0F, TEXT:0000] 
--[FID:0F, TEXT:019A] 
--[FID:0F, TEXT:0000] 【阁楼】
--[FID:0F, TEXT:0000] 
--[FID:0F, TEXT:019B] 
--[FID:0F, TEXT:0000] 【大厅】
--[FID:0F, TEXT:0000] 
--[FID:0F, TEXT:019C] 
--[FID:0F, TEXT:0000] 【庭院】
--[FID:0F, TEXT:0000] 
--[FID:0F, TEXT:019D] 
--[FID:0F, TEXT:0000] 【厨房】
--[FID:0F, TEXT:0000] 
--[FID:0F, TEXT:019E] 
--[FID:0F, TEXT:0000] 
--[FID:0F, TEXT:0000] 
-
---- Group 233 [right:利布雷 next=0026] ---
-【自分の部屋】
-
-
-【リプレと子供部屋】
-
-
-【玄関】
-
-
-【街へ】
-
-
-【レイドの部屋】
-
-
-【ガゼルの部屋】
-
-
-【部屋１】
-
-
-【部屋２】
-
-
-【部屋３】
-
-
-【部屋４】
-
-
-【部屋５】
-
-
-【屋根裏部屋】
-
-
-【広間】
-
-
-【庭】
-
-
-【台所】
-
-
--[FID:0F, TEXT:0190] 【自己的房间】
--[FID:0F, TEXT:0000] 
--[FID:0F, TEXT:0000] 
--[FID:0F, TEXT:0191] 【利布雷和儿童房】【
--[FID:0F, TEXT:0000] 玄关】
--[FID:0F, TEXT:0000] 
--[FID:0F, TEXT:0192] 
--[FID:0F, TEXT:0000] 【去街道】
--[FID:0F, TEXT:0000] 
--[FID:0F, TEXT:0193] 
--[FID:0F, TEXT:0000] 【雷德的房间】
--[FID:0F, TEXT:0000] 
--[FID:0F, TEXT:0194] 
--[FID:0F, TEXT:0000] 【加泽尔的房间】
--[FID:0F, TEXT:0000] 
--[FID:0F, TEXT:0195] 
--[FID:0F, TEXT:0000] 【房间1】
--[FID:0F, TEXT:0000] 
--[FID:0F, TEXT:0196] 
--[FID:0F, TEXT:0000] 【房间2】
--[FID:0F, TEXT:0000] 
--[FID:0F, TEXT:0197] 
--[FID:0F, TEXT:0000] 【房间3】
--[FID:0F, TEXT:0000] 
--[FID:0F, TEXT:0198] 
--[FID:0F, TEXT:0000] 【房间4】
--[FID:0F, TEXT:0000] 
--[FID:0F, TEXT:0199] 
--[FID:0F, TEXT:0000] 【房间5】
--[FID:0F, TEXT:0000] 
--[FID:0F, TEXT:019A] 
--[FID:0F, TEXT:0000] 【阁楼】
--[FID:0F, TEXT:0000] 
--[FID:0F, TEXT:019B] 
--[FID:0F, TEXT:0000] 【大厅】
--[FID:0F, TEXT:0000] 
--[FID:0F, TEXT:019C] 
--[FID:0F, TEXT:0000] 【庭院】
--[FID:0F, TEXT:0000] 
--[FID:0F, TEXT:019D] 
--[FID:0F, TEXT:0000] 【厨房】
--[FID:0F, TEXT:0000] 
--[FID:0F, TEXT:019E] 
--[FID:0F, TEXT:0000] 
--[FID:0F, TEXT:0000] 
-
 --- Group 234 [left:主人公 next=2012] ---
 ・・・猫？
 +[FID:0F, TEXT:019F] ……猫？
-
---- Group 235 [left:主人公 next=2012] ---
-・・・猫？
--[FID:0F, TEXT:019F] ……猫？
 
 --- Group 236 [left:主人公 next=2012] ---
 この世界にも
 猫がいるんだな・・・
 +[FID:0F, TEXT:01A0] 这个世界也有
 +[FID:0F, TEXT:01A1] 猫啊……
-
---- Group 237 [left:主人公 next=2012] ---
-この世界にも
-猫がいるんだな・・・
--[FID:0F, TEXT:01A0] 这个世界也有
--[FID:0F, TEXT:01A1] 猫啊……

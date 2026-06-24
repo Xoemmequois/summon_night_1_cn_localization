@@ -82,14 +82,6 @@
 どうしよう？
 +[FID:5B, TEXT:001D] 怎么办？
 
---- Group 16 [right:none next=0023] ---
-どうしよう？
--[FID:5B, TEXT:001D] 怎么办？
-
---- Group 17 [right:斯塔乌特 next=0023] ---
-どうしよう？
--[FID:5B, TEXT:001D] 怎么办？
-
 --- Group 18 [right:斯塔乌特 next=2015] ---
 どうしよう？
 　自分がついていく
@@ -176,10 +168,6 @@
 俺に何の用だ？
 +[FID:5B, TEXT:0035] 你找我有什么事？
 
---- Group 34 [left:none next=0023] ---
-俺に何の用だ？
--[FID:5B, TEXT:0035] 你找我有什么事？
-
 --- Group 35 [left:none next=0023] ---
 僕に何の用だ？
 +[FID:5B, TEXT:0036] 你找我有什么事？
@@ -204,35 +192,15 @@
 +[FID:5B, TEXT:003E] 小姑娘
 +[FID:5B, TEXT:003F] 做什么
 
---- Group 39 [right:斯塔乌特 next=2012] ---
-そうとんがるなって
-嬢ちゃん達をどうこう
-しようってんじゃ
-ねえよ
--[FID:5B, TEXT:003A] 别那么紧张嘛
--[FID:5B, TEXT:003D] 我又不是要对你们这些
--[FID:5B, TEXT:003E] 小姑娘
--[FID:5B, TEXT:003F] 做什么
-
 --- Group 40 [right:斯塔乌特 next=2012] ---
 用事があるのはな
 あのレイドって野郎だ
 +[FID:5B, TEXT:0040] 我有事找的是
 +[FID:5B, TEXT:0041] 那个叫雷德的家伙
 
---- Group 41 [right:none next=2012] ---
-用事があるのはな
-あのレイドって野郎だ
--[FID:5B, TEXT:0040] 我有事找的是
--[FID:5B, TEXT:0041] 那个叫雷德的家伙
-
 --- Group 42 [left:none next=0023] ---
 レイドに・・・
 +[FID:5B, TEXT:0042] 雷德……
-
---- Group 43 [left:none next=0023] ---
-レイドに・・・
--[FID:5B, TEXT:0042] 雷德……
 
 --- Group 44 [left:none next=0023] ---
 レイドに？
@@ -252,25 +220,11 @@
 +[FID:5B, TEXT:0047] 没那个胆子进你们的老
 +[FID:5B, TEXT:0048] 巢
 
---- Group 47 [right:斯塔乌特 next=2012] ---
-俺は臆病者だからな
-お前らのねぐらに入る
-度胸はねえんだよ
--[FID:5B, TEXT:0046] 我可是个胆小鬼
--[FID:5B, TEXT:0047] 没那个胆子进你们的老
--[FID:5B, TEXT:0048] 巢
-
 --- Group 48 [right:none next=2012] ---
 悪いがよ、呼んできて
 くれねえか？
 +[FID:5B, TEXT:0049] 不好意思啊，能麻烦你
 +[FID:5B, TEXT:004A] 把他叫出来吗？
-
---- Group 49 [right:斯塔乌特 next=2012] ---
-悪いがよ、呼んできて
-くれねえか？
--[FID:5B, TEXT:0049] 不好意思啊，能麻烦你
--[FID:5B, TEXT:004A] 把他叫出来吗？
 
 --- Group 50 [right:斯塔乌特 next=0023] ---
 　そこで待っててくれ
@@ -283,12 +237,6 @@
 　なんで僕が・・・
 -[FID:5B, TEXT:004B] 　就在这里等吧　为什
 +[FID:5B, TEXT:004D] 　么我要……
-
---- Group 52 [right:none next=0023] ---
-　そこで待っててくれ
-　なんで俺が・・・
--[FID:5B, TEXT:004B] 　就在这里等吧　为什
--[FID:5B, TEXT:004C] 　么我要……
 
 --- Group 53 [right:斯塔乌特 next=0023] ---
 　じゃあ、待ってて
@@ -308,12 +256,6 @@
 +[FID:5B, TEXT:0052] 就在这里等吧
 +[FID:5B, TEXT:0053] 我现在就去叫他
 
---- Group 56 [left:none next=0023] ---
-そこで待っててくれ
-今、呼んでくる
--[FID:5B, TEXT:0052] 就在这里等吧
--[FID:5B, TEXT:0053] 我现在就去叫他
-
 --- Group 57 [left:none next=0023] ---
 じゃあ、待っててよ
 今、呼んでくるからさ
@@ -329,10 +271,6 @@
 --- Group 59 [right:斯塔乌特 next=2012] ---
 おう、悪いな
 +[FID:5B, TEXT:0058] 嗯，麻烦你了
-
---- Group 60 [right:none next=2012] ---
-おう、悪いな
--[FID:5B, TEXT:0058] 嗯，麻烦你了
 
 --- Group 61 [left:none next=0023] ---
 なんで俺が、あんたの

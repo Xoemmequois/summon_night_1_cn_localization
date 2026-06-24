@@ -75,27 +75,25 @@ def process_texts(orig_texts, trans_texts):
     return result
 
 
-def load_g_groups(path):
+def load_g_translations(path):
     g = {}
     cur_num = None
-    cur_lines = None
+    cur_map = None
     is_g = False
     for line in path.read_text(encoding="utf-8").split("\n"):
         if line.startswith("--- Group "):
-            if cur_num is not None and is_g:
-                while cur_lines and cur_lines[-1].strip() == "":
-                    cur_lines.pop()
-                g[cur_num] = cur_lines
+            if cur_num is not None and is_g and cur_map is not None:
+                g[cur_num] = cur_map
             m = re.search(r"Group (\d+)", line)
             cur_num = int(m.group(1)) if m else None
-            cur_lines = [line]
+            cur_map = {}
             is_g = line.rstrip().endswith("G")
-        elif cur_num is not None:
-            cur_lines.append(line)
-    if cur_num is not None and is_g:
-        while cur_lines and cur_lines[-1].strip() == "":
-            cur_lines.pop()
-        g[cur_num] = cur_lines
+        elif cur_num is not None and is_g:
+            tm = re.match(r"^[+-](\[FID:[^\]]+\]) (.*)", line)
+            if tm:
+                cur_map[tm.group(1)] = tm.group(2)
+    if cur_num is not None and is_g and cur_map is not None:
+        g[cur_num] = cur_map
     return g
 
 
@@ -111,23 +109,24 @@ def process_file(orig_path, trans_path, out_path):
         if m:
             orig_map[int(m.group(1))] = g
 
-    old_g = load_g_groups(out_path) if out_path.exists() else {}
+    preserved = {}
+    g_headers = {}
+    if out_path.exists():
+        preserved = load_g_translations(out_path)
+        for line in out_path.read_text(encoding="utf-8").split("\n"):
+            if line.startswith("--- Group ") and line.rstrip().endswith("G"):
+                m = re.search(r"Group (\d+)", line)
+                if m:
+                    g_headers[int(m.group(1))] = line
 
+    # FIRST PASS: process all groups using translations/ as source,
+    # running process_texts (10-char splitting) on the translations
     blocks = []
     seen_tags = set()
 
     for tg in trans_groups:
         m = re.search(r"Group (\d+)", tg["header"])
         group_num = int(m.group(1)) if m else -1
-
-        if group_num in old_g:
-            block = list(old_g[group_num])
-            for ln in block:
-                tm = re.match(r"^[+-]?(\[FID:[^\]]+\])", ln)
-                if tm:
-                    seen_tags.add(tm.group(1))
-            blocks.append(block)
-            continue
 
         og = orig_map.get(group_num)
 
@@ -176,8 +175,34 @@ def process_file(orig_path, trans_path, out_path):
 
         blocks.append(block)
 
-    output_lines = []
+    # SECOND PASS: override G-groups with preserved translations from target file
+    if preserved:
+        for block in blocks:
+            m = re.search(r"Group (\d+)", block[0])
+            if not m:
+                continue
+            num = int(m.group(1))
+            if num not in preserved:
+                continue
+
+            block[0] = g_headers.get(num, block[0])
+            pmap = preserved[num]
+            for j, ln in enumerate(block):
+                tm = re.match(r"^([+-])(\[FID:[^\]]+\]) (.*)", ln)
+                if tm and tm.group(2) in pmap:
+                    block[j] = f"{tm.group(1)}{tm.group(2)} {pmap[tm.group(2)]}"
+
+    # THIRD: remove all-duplicate groups (except G-groups, always preserved)
+    filtered = []
     for block in blocks:
+        is_g = block[0].rstrip().endswith("G")
+        markers = [ln[0] for ln in block if ln and ln[0] in ("+", "-") and "[FID:" in ln]
+        if not is_g and markers and all(m == "-" for m in markers):
+            continue
+        filtered.append(block)
+
+    output_lines = []
+    for block in filtered:
         output_lines.extend(block)
         output_lines.append("")
 
