@@ -35,14 +35,15 @@
 ことか？
 +[FID:1F, TEXT:0007] 是指那道不可思议的光
 +[FID:1F, TEXT:0008] 吗？
+-[FID:1F, TEXT:0008] 吗？
 
 --- Group 9 [left:主人公 next=0023] ---
 使っておいて言うのも
 なんだが、あれは一体
 どういう力なんだ？
 +[FID:1F, TEXT:0009] 尽管我用过了，但那到
-+[FID:1F, TEXT:000A] 底是什么力量呢？
-+[FID:1F, TEXT:000B] 
++[FID:1F, TEXT:000A] 底是什么力量呢？是什
++[FID:1F, TEXT:000B] 么样的力量？
 
 --- Group 10 [left:主人公 next=2012] ---
 もしかして
@@ -83,7 +84,7 @@
 +[FID:1F, TEXT:0017] 我也不太清楚，但应该
 +[FID:1F, TEXT:0018] 是某种【召唤术】没错
 +[FID:1F, TEXT:0019] 。
-+[FID:1F, TEXT:001A] 
++[FID:1F, TEXT:001A] 毫无疑问是一种
 
 --- Group 15 [left:主人公 next=0023] ---
 ちょっと待ってくれ
@@ -92,7 +93,7 @@
 じゃないのか？
 +[FID:1F, TEXT:001B] 等等
 +[FID:1F, TEXT:001C] 召唤术不是只有召唤师
-+[FID:1F, TEXT:001D] 才能使用吗？
++[FID:1F, TEXT:001D] 才能使用吗？不是吗？
 +[FID:1F, TEXT:001E] 
 
 --- Group 16 [left:主人公 next=2012] ---
@@ -123,7 +124,7 @@
 +[FID:1F, TEXT:0027] 嗯...
 +[FID:1F, TEXT:0028] 我听说召唤术
 +[FID:1F, TEXT:0029] 是召唤师才能使用的。
-+[FID:1F, TEXT:002A] 
++[FID:1F, TEXT:002A] 我听说了
 
 --- Group 19 [right:索尔 next=2012] ---
 普通の奴等はそう思っ
@@ -132,6 +133,7 @@
 +[FID:1F, TEXT:002B] 一般人好像是这么想的
 +[FID:1F, TEXT:002C] ，
 +[FID:1F, TEXT:002D] 但那是不对的。
+-[FID:1F, TEXT:002D] 那是错的
 
 --- Group 20 [right:索尔 next=2012] ---
 方法さえ知っていれば
@@ -163,6 +165,7 @@
 +[FID:1F, TEXT:0035] 嗯...
 +[FID:1F, TEXT:0036] 详细的之后再说吧..
 +[FID:1F, TEXT:0037] .
+-[FID:1F, TEXT:0037] 来说的话……
 
 --- Group 25 [right:索尔 next=2012] ---
 ただ、お前の力は、
@@ -235,7 +238,7 @@
 うと思うんだが・・
 +[FID:1F, TEXT:004E] 所以，
 +[FID:1F, TEXT:004F] 我想教你初级的召唤术
-+[FID:1F, TEXT:0050] 步骤。
++[FID:1F, TEXT:0050] 步骤。我想应该是……
 +[FID:1F, TEXT:0051] 
 
 --- Group 36 [right:索尔 next=2012] ---
@@ -300,7 +303,7 @@
 +[FID:1F, TEXT:0064] 是这样没错...
 +[FID:1F, TEXT:0065] 但实际上，这个方法
 +[FID:1F, TEXT:0066] 并不太可靠。
-+[FID:1F, TEXT:0067] 
++[FID:1F, TEXT:0067] 的啦
 
 --- Group 44 [right:索尔 next=2012] ---
 いちいちサモナイト石
@@ -355,8 +358,8 @@
 ようになる
 +[FID:1F, TEXT:0077] 被赋予名字的召唤兽，
 +[FID:1F, TEXT:0078] 只需要消耗魔力，就可
-+[FID:1F, TEXT:0079] 以随时自由召唤。
-+[FID:1F, TEXT:007A] 
++[FID:1F, TEXT:0079] 以随时自由召唤。会变
++[FID:1F, TEXT:007A] 得
 
 --- Group 53 [right:索尔 next=2012] ---
 たとえ名づけた本人で
@@ -401,7 +404,7 @@
 ことにする
 +[FID:1F, TEXT:0086] 这次是特别的。
 +[FID:1F, TEXT:0087] 我选择相信你。
-+[FID:1F, TEXT:0088] 
++[FID:1F, TEXT:0088] 就这样吧
 
 --- Group 60 [left:主人公 next=0023] ---
 ソル・・・

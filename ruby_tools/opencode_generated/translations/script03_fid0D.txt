@@ -58,6 +58,7 @@
 --- Group 15 [left:主人公 next=2012] ---
 [FID:0D, TEXT:0012] ……
 [FID:0D, TEXT:0433] 好像也不是被讨厌……
+[FID:0D, TEXT:043E] 好像不太对劲……
 
 --- Group 16 [left:none next=0023] ---
 [FID:0D, TEXT:0012] ……
@@ -75,6 +76,7 @@
 --- Group 20 [left:none next=2012] ---
 [FID:0D, TEXT:0012] ……
 [FID:0D, TEXT:0433] 好像也不是被讨厌……
+[FID:0D, TEXT:043E] 好像不太对劲……
 
 --- Group 21 [left:主人公 next=0023] ---
 [FID:0D, TEXT:0012] ……
@@ -98,7 +100,6 @@
 
 --- Group 26 [right:瞪羚 next=2012] ---
 [FID:0D, TEXT:001A] 真不好意思啊。
-[FID:0D, TEXT:001B] 晚点我会好好教训
 [FID:0D, TEXT:001B] 他的。
 
 --- Group 27 [left:none next=0023] ---
@@ -141,7 +142,202 @@
 [FID:0D, TEXT:002F] 吗？
 
 --- Group 36 [left:none next=0023] ---
-[FID:0D, TEXT:003
+[FID:0D, TEXT:0030] 但是，事实上，我
+[FID:0D, TEXT:0031] 已经受您照顾了……
+[FID:0D, TEXT:0032] 啊，我来
+[FID:0D, TEXT:0033] 帮您做点什么吧
+
+--- Group 37 [left:主人公 next=0023] ---
+[FID:0D, TEXT:0033] 我来帮您做点什么吧
+[FID:0D, TEXT:01D9] 我觉得这样
+[FID:0D, TEXT:01DA] 比较好沟通
+
+--- Group 38 [left:none next=0023] ---
+[FID:0D, TEXT:0033] 我来帮您做点什么吧
+[FID:0D, TEXT:01D9] 我觉得这样
+[FID:0D, TEXT:01DA] 比较好沟通
+
+--- Group 39 [right:瞪羚 next=2012] ---
+[FID:0D, TEXT:0034] 啊，不用不用！
+[FID:0D, TEXT:0035] 你是客人啊
+
+--- Group 40 [right:瞪羚 next=2012] ---
+[FID:0D, TEXT:0037] 而且，你还需要
+[FID:0D, TEXT:0038] 时间来考虑接下来的
+[FID:0D, TEXT:0039] 事情吧？
+
+--- Group 41 [left:none next=0023] ---
+[FID:0D, TEXT:003A] ……说得也是
+[FID:0D, TEXT:003B] 那我就这么办了
+
+--- Group 42 [left:none next=0023] ---
+[FID:0D, TEXT:003A] ……说得也是
+[FID:0D, TEXT:003C] 那，就麻烦你了
+[FID:0D, TEXT:003D] 我就这么办了
+
+--- Group 43 [left:none next=0023] ---
+[FID:0D, TEXT:003E] 嗯，是啊
+[FID:0D, TEXT:003F] 是的呢……
+
+--- Group 44 [left:none next=0023] ---
+[FID:0D, TEXT:0040] ……是啊
+[FID:0D, TEXT:0041] 这样的话
+[FID:0D, TEXT:0042] 好像比较好
+
+--- Group 45 [right:瞪羚 next=2012] ---
+[FID:0D, TEXT:0043] 有什么不明白的
+[FID:0D, TEXT:0044] 话，尽管问我
+[FID:0D, TEXT:0045] 不要客气
+
+--- Group 46 [right:瞪羚 next=2012] ---
+[FID:0D, TEXT:0046] 我在厨房洗碗什么的
+[FID:0D, TEXT:0047] ，还有雷德和艾多斯
+[FID:0D, TEXT:0048] 应该也还没出去吧
+
+--- Group 47 [right:瞪羚 next=2012] ---
+[FID:0D, TEXT:004A] 啊，不过，最好
+[FID:0D, TEXT:004B] 还是别靠近瞪羚
+[FID:0D, TEXT:004C] 的东西比较好哦
+
+--- Group 48 [left:none next=0023] ---
+[FID:0D, TEXT:004D] 哈哈哈……
+
+--- Group 49 [left:none next=0023] ---
+[FID:0D, TEXT:004E] 确实……
+
+--- Group 50 [left:none next=0023] ---
+[FID:0D, TEXT:004F] 是吗？
+
+--- Group 51 [left:none next=0023] ---
+[FID:0D, TEXT:0050] 唉……
+
+--- Group 52 [left:none next=0023] ---
+[FID:0D, TEXT:0050] 唉……
+
+--- Group 53 [left:主人公 next=0023] ---
+[FID:0D, TEXT:0050] 唉……
+
+--- Group 54 [right:瞪羚 next=2012] ---
+[FID:0D, TEXT:0051] 还有，绝对
+[FID:0D, TEXT:0052] 不要一个人出去哦
+[FID:0D, TEXT:0053] 迷路了的话，会很
+[FID:0D, TEXT:0054] 麻烦的
+
+--- Group 55 [left:none next=0023] ---
+[FID:0D, TEXT:0055] 那么，该怎么办呢？
+
+--- Group 56 [left:none next=0023] ---
+[FID:0D, TEXT:0056] 那么，怎么办呢？
+
+--- Group 57 [left:none next=0023] ---
+[FID:0D, TEXT:0057] 那么
+[FID:0D, TEXT:0058] 该怎么办呢？
+
+--- Group 58 [left:主人公 next=2012] ---
+[FID:0D, TEXT:0059] 虽然利普雷说
+[FID:0D, TEXT:005A] 让我别管他……
+
+--- Group 59 [left:主人公 next=2012] ---
+[FID:0D, TEXT:0059] 虽然利普雷说
+[FID:0D, TEXT:005A] 让我别管他……
+
+--- Group 60 [left:主人公 next=2012] ---
+[FID:0D, TEXT:005B] 莫名其妙地被
+[FID:0D, TEXT:005C] 责难，果然
+[FID:0D, TEXT:005D] 还是让人心情
+[FID:0D, TEXT:005E] 不好啊
+
+--- Group 61 [left:主人公 next=2012] ---
+[FID:0D, TEXT:005B] 被莫名其妙地
+[FID:0D, TEXT:0074] 责难，心情
+[FID:0D, TEXT:0075] 并不愉快呢……
+
+--- Group 62 [left:主人公 next=2012] ---
+[FID:0D, TEXT:005B] 被莫名其妙地
+[FID:0D, TEXT:0074] 责难，心情
+[FID:0D, TEXT:0075] 并不愉快呢……
+
+--- Group 63 [left:主人公 next=2012] ---
+[FID:0D, TEXT:005B] 莫名其妙地被
+[FID:0D, TEXT:005C] 责难，果然
+[FID:0D, TEXT:005D] 还是让人心情
+[FID:0D, TEXT:005E] 不好啊
+
+--- Group 64 [left:主人公 next=0023] ---
+[FID:0D, TEXT:005F] 必须好好
+[FID:0D, TEXT:0060] 解释清楚误会
+
+--- Group 65 [left:主人公 next=0023] ---
+[FID:0D, TEXT:005F] 必须好好
+[FID:0D, TEXT:0060] 解释清楚误会
+
+--- Group 66 [left:主人公 next=2012] ---
+[FID:0D, TEXT:0061] 虽然利普雷说
+[FID:0D, TEXT:0062] 让我别管他……
+
+--- Group 67 [left:主人公 next=2012] ---
+[FID:0D, TEXT:0061] 虽然利普雷说
+[FID:0D, TEXT:0062] 让我别管他……
+
+--- Group 68 [left:主人公 next=2012] ---
+[FID:0D, TEXT:0063] 如果不把误会
+[FID:0D, TEXT:0064] 彻底解开的话，
+[FID:0D, TEXT:0065] 以后可能会
+[FID:0D, TEXT:0066] 变得很麻烦
+
+--- Group 69 [left:主人公 next=0023] ---
+[FID:0D, TEXT:0063] 如果不把误会
+[FID:0D, TEXT:0077] 彻底解开的话，
+[FID:0D, TEXT:0078] 后味也不好……
+
+--- Group 70 [left:主人公 next=0023] ---
+[FID:0D, TEXT:0063] 如果不把误会
+[FID:0D, TEXT:0077] 彻底解开的话，
+[FID:0D, TEXT:0078] 后味也不好……
+
+--- Group 71 [left:主人公 next=2012] ---
+[FID:0D, TEXT:0063] 如果不把误会
+[FID:0D, TEXT:0064] 彻底解开的话，
+[FID:0D, TEXT:0065] 以后可能会
+[FID:0D, TEXT:0066] 变得很麻烦
+
+--- Group 72 [left:主人公 next=0023] ---
+[FID:0D, TEXT:0067] 被误会而怨恨
+[FID:0D, TEXT:0068] 的感觉可不好受啊
+
+--- Group 73 [left:主人公 next=0023] ---
+[FID:0D, TEXT:0067] 被误会而怨恨
+[FID:0D, TEXT:0068] 的感觉可不好受啊
+
+--- Group 74 [left:主人公 next=2012] ---
+[FID:0D, TEXT:0069] 虽然利普雷先生
+[FID:0D, TEXT:006A] 说让我别管他……
+
+--- Group 75 [left:主人公 next=2012] ---
+[FID:0D, TEXT:0069] 虽然利普雷先生
+[FID:0D, TEXT:006A] 说让我别管他……
+
+--- Group 76 [left:主人公 next=2012] ---
+[FID:0D, TEXT:006B] 莫名其妙地被
+[FID:0D, TEXT:006C] 嘲笑，感觉
+[FID:0D, TEXT:006D] 糟透了！
+
+--- Group 77 [left:主人公 next=2012] ---
+[FID:0D, TEXT:006B] 莫名其妙地被
+[FID:0D, TEXT:006C] 嘲笑，感觉
+[FID:0D, TEXT:006D] 糟透了！
+
+--- Group 78 [left:主人公 next=0023] ---
+[FID:0D, TEXT:006F] 绝对要把误会
+[FID:0D, TEXT:0070] 彻底解开！
+
+--- Group 79 [left:主人公 next=0023] ---
+[FID:0D, TEXT:006F] 绝对要把误会
+[FID:0D, TEXT:0070] 彻底解开！
+
+--- Group 80 [left:主人公 next=2012] ---
+[FID:0D, TEXT:0071] 虽然利普雷先生
+[FID:0D, TEXT:0072] 说让我别管他……
 
 --- Group 81 [left:主人公 next=2012] ---
 [FID:0D, TEXT:0071] 里普蕾小姐
@@ -205,7 +401,7 @@
 [FID:0D, TEXT:008C] 那个……
 [FID:0D, TEXT:007B] 好像有什么误会
 [FID:0D, TEXT:008D] 所以我想解释一下
-[FID:0D, TEXT:008E]
+[FID:0D, TEXT:008E] 希望能让我……
 
 --- Group 93 [left:none next=0023] ---
 [FID:0D, TEXT:008C] 那个……
@@ -624,12 +820,12 @@
 --- Group 189 [right:none next=2012] ---
 [FID:0D, TEXT:010F] 昨天我们袭击你，
 [FID:0D, TEXT:0110] 可不是闹着玩的。
-[FID:0D, TEXT:0111]
+[FID:0D, TEXT:0111] 不是随便什么
 
 --- Group 190 [right:瞪羚 next=2012] ---
 [FID:0D, TEXT:010F] 昨天我们袭击你，
 [FID:0D, TEXT:0110] 可不是闹着玩的。
-[FID:0D, TEXT:0111]
+[FID:0D, TEXT:0111] 不是随便什么
 
 --- Group 191 [right:none next=2012] ---
 [FID:0D, TEXT:0112] 我们是想要钱
@@ -800,12 +996,12 @@
 --- Group 227 [left:none next=2012] ---
 [FID:0D, TEXT:013E] 如果你实在怀疑
 [FID:0D, TEXT:013F] 我，请告诉我理由。
-[FID:0D, TEXT:0140]
+[FID:0D, TEXT:0140] 给我解释清楚
 
 --- Group 228 [left:主人公 next=2012] ---
 [FID:0D, TEXT:013E] 如果你实在怀疑
 [FID:0D, TEXT:013F] 我，请告诉我理由。
-[FID:0D, TEXT:0140]
+[FID:0D, TEXT:0140] 给我解释清楚
 
 --- Group 229 [left:主人公 next=0023] ---
 [FID:0D, TEXT:0141] 如果那理由能让
@@ -860,21 +1056,21 @@
 --- Group 239 [left:none next=0023] ---
 [FID:0D, TEXT:0152] 为什么，你这么
 [FID:0D, TEXT:0153] 讨厌我呢？
-[FID:0D, TEXT:0154]
+[FID:0D, TEXT:0154] 打算怎么办？
 
 --- Group 240 [left:主人公 next=0023] ---
 [FID:0D, TEXT:0152] 为什么，你这么
 [FID:0D, TEXT:0153] 讨厌我呢？
-[FID:0D, TEXT:0154]
+[FID:0D, TEXT:0154] 打算怎么办？
 
 --- Group 241 [right:瞪羚 next=2012] ---
 [FID:0D, TEXT:0155] 哦，你说得倒是挺溜啊
-[FID:0D, TEXT:0156]
+[FID:0D, TEXT:0156] 不是吗？
 [FID:0D, TEXT:0157] 召唤师大人？
 
 --- Group 242 [right:none next=2012] ---
 [FID:0D, TEXT:0155] 哦，你说得倒是挺溜啊
-[FID:0D, TEXT:0156]
+[FID:0D, TEXT:0156] 不是吗？
 [FID:0D, TEXT:0157] 召唤师大人？
 
 --- Group 243 [left:none next=0023] ---
@@ -967,9 +1163,11 @@
 
 --- Group 263 [right:none next=2012] ---
 [FID:0D, TEXT:016E] 看吧，你无话可说了吧
+[FID:0D, TEXT:016F] 根本做不到吧
 
 --- Group 264 [right:瞪羚 next=2012] ---
 [FID:0D, TEXT:016E] 看吧，你无话可说了吧
+[FID:0D, TEXT:016F] 根本做不到吧
 
 --- Group 265 [left:主人公 next=0023] ---
 [FID:0D, TEXT:0170] 我也……
@@ -1492,12 +1690,12 @@
 --- Group 393 [right:none next=2012] ---
 [FID:0D, TEXT:01EB] 他只是不坦率而已，
 [FID:0D, TEXT:01EC] 并不是真的讨厌你。
-[FID:0D, TEXT:01ED]
+[FID:0D, TEXT:01ED] 并不是说……
 
 --- Group 394 [right:瞪羚 next=2012] ---
 [FID:0D, TEXT:01EB] 他只是不坦率而已，
 [FID:0D, TEXT:01EC] 并不是真的讨厌你。
-[FID:0D, TEXT:01ED]
+[FID:0D, TEXT:01ED] 并不是说……
 
 --- Group 395 [right:none next=2012] ---
 [FID:0D, TEXT:01EE] 虽然可能有点无聊，
@@ -1598,12 +1796,12 @@
 --- Group 419 [left:主人公 next=0023] ---
 [FID:0D, TEXT:0203] ……对不起。
 [FID:0D, TEXT:0204] 问了无心的话。
-[FID:0D, TEXT:0205]
+[FID:0D, TEXT:0205] 听到了
 
 --- Group 420 [left:none next=0023] ---
 [FID:0D, TEXT:0203] ……对不起。
 [FID:0D, TEXT:0204] 问了无心的话。
-[FID:0D, TEXT:0205]
+[FID:0D, TEXT:0205] 听到了
 
 --- Group 421 [left:none next=0023] ---
 [FID:0D, TEXT:0206] ……对不起。
@@ -1616,12 +1814,12 @@
 --- Group 423 [left:none next=0023] ---
 [FID:0D, TEXT:0208] ……对不起。
 [FID:0D, TEXT:0207] 好像问了奇怪的事。
-[FID:0D, TEXT:0209]
+[FID:0D, TEXT:0209] 好像是呢
 
 --- Group 424 [left:主人公 next=0023] ---
 [FID:0D, TEXT:0208] ……对不起。
 [FID:0D, TEXT:0207] 好像问了奇怪的事。
-[FID:0D, TEXT:0209]
+[FID:0D, TEXT:0209] 好像是呢
 
 --- Group 425 [right:瞪羚 next=2012] ---
 [FID:0D, TEXT:020A] 没关系啦。
@@ -1633,12 +1831,10 @@
 
 --- Group 427 [right:none next=2012] ---
 [FID:0D, TEXT:020C] 因为是刚出生的时候
-[FID:0D, TEXT:020D] 就被捡到了，所以完全
 [FID:0D, TEXT:020D] 没记忆了。
 
 --- Group 428 [right:瞪羚 next=2012] ---
 [FID:0D, TEXT:020C] 因为是刚出生的时候
-[FID:0D, TEXT:020D] 就被捡到了，所以完全
 [FID:0D, TEXT:020D] 没记忆了。
 
 --- Group 429 [right:瞪羚 next=2012] ---
@@ -1660,12 +1856,12 @@
 --- Group 433 [right:none next=2012] ---
 [FID:0D, TEXT:0212] 嗯，发生了一些事，
 [FID:0D, TEXT:0213] 孤儿院也关了……
-[FID:0D, TEXT:0214]
+[FID:0D, TEXT:0214] 说了……
 
 --- Group 434 [right:瞪羚 next=2012] ---
 [FID:0D, TEXT:0212] 嗯，发生了一些事，
 [FID:0D, TEXT:0213] 孤儿院也关了……
-[FID:0D, TEXT:0214]
+[FID:0D, TEXT:0214] 说了……
 
 --- Group 435 [right:瞪羚 next=2012] ---
 [FID:0D, TEXT:0215] 还有一些还不能
@@ -1681,35 +1877,35 @@
 
 --- Group 437 [left:主人公 next=0023] ---
 [FID:0D, TEXT:0219] 原来那些孩子是……
-[FID:0D, TEXT:021C]
+[FID:0D, TEXT:021C] 的事情啊……
 
 --- Group 438 [left:主人公 next=0023] ---
 [FID:0D, TEXT:0219] 原来那些孩子是……
-[FID:0D, TEXT:021B]
+[FID:0D, TEXT:021B] 的事情啊
 
 --- Group 439 [left:none next=0023] ---
 [FID:0D, TEXT:0219] 原来那些孩子是……
-[FID:0D, TEXT:021A]
+[FID:0D, TEXT:021A] 的事情啊……
 
 --- Group 440 [left:none next=0023] ---
 [FID:0D, TEXT:0219] 原来那些孩子是……
-[FID:0D, TEXT:021C]
+[FID:0D, TEXT:021C] 的事情啊……
 
 --- Group 441 [left:主人公 next=0023] ---
 [FID:0D, TEXT:0219] 原来那些孩子是……
-[FID:0D, TEXT:021A]
+[FID:0D, TEXT:021A] 的事情啊……
 
 --- Group 442 [left:none next=0023] ---
 [FID:0D, TEXT:0219] 原来那些孩子是……
-[FID:0D, TEXT:021B]
+[FID:0D, TEXT:021B] 的事情啊
 
 --- Group 443 [left:none next=0023] ---
 [FID:0D, TEXT:021D] 原来是那些孩子啊……
-[FID:0D, TEXT:021E]
+[FID:0D, TEXT:021E] 是呢……
 
 --- Group 444 [left:主人公 next=0023] ---
 [FID:0D, TEXT:021D] 原来是那些孩子啊……
-[FID:0D, TEXT:021E]
+[FID:0D, TEXT:021E] 是呢……
 
 --- Group 445 [right:瞪羚 next=2012] ---
 [FID:0D, TEXT:021F] 哎呀，
@@ -1774,12 +1970,12 @@
 --- Group 457 [right:none next=2012] ---
 [FID:0D, TEXT:0230] 反而，有客人来
 [FID:0D, TEXT:0231] 了，我更高兴呢？
-[FID:0D, TEXT:0232]
+[FID:0D, TEXT:0232] 会高兴吗？
 
 --- Group 458 [right:瞪羚 next=2012] ---
 [FID:0D, TEXT:0230] 反而，有客人来
 [FID:0D, TEXT:0231] 了，我更高兴呢？
-[FID:0D, TEXT:0232]
+[FID:0D, TEXT:0232] 会高兴吗？
 
 --- Group 459 [right:瞪羚 next=2012] ---
 [FID:0D, TEXT:0233] 从开始在这里生活
@@ -2058,7 +2254,130 @@
 [FID:0D, TEXT:026A] 啊，那样太不好意思了
 
 --- Group 531 [left:主人公 next=0023] ---
-[FID
+[FID:0D, TEXT:026B] 那样的话，很不好意思
+
+--- Group 532 [left:none next=0023] ---
+[FID:0D, TEXT:026B] 那样的话，很不好意思
+
+--- Group 533 [right:none next=2012] ---
+[FID:0D, TEXT:026C] 没关系，没关系
+[FID:0D, TEXT:026D] 这里还没打扫呢
+[FID:0D, TEXT:026E] 正好
+
+--- Group 534 [right:瞪羚 next=2012] ---
+[FID:0D, TEXT:026C] 没关系，没关系
+[FID:0D, TEXT:026D] 这里还没打扫呢
+[FID:0D, TEXT:026E] 正好
+
+--- Group 535 [right:瞪羚 next=2012] ---
+[FID:0D, TEXT:026F] 如果能出去的话，
+[FID:0D, TEXT:0270] 就叫我一声哦
+
+--- Group 536 [right:none next=2012] ---
+[FID:0D, TEXT:026F] 如果能出去的话，
+[FID:0D, TEXT:0270] 就叫我一声哦
+
+--- Group 537 [left:主人公 next=2012] ---
+[FID:0D, TEXT:0271] 嗯，我会去的。
+[FID:0D, TEXT:027B] 也许能换换心情，
+[FID:0D, TEXT:027C] 吧。
+
+--- Group 538 [left:主人公 next=2012] ---
+[FID:0D, TEXT:0271] 嗯，我会去的。
+[FID:0D, TEXT:0272] 感觉能散散心，
+[FID:0D, TEXT:0273] 呢。
+
+--- Group 539 [left:none next=2012] ---
+[FID:0D, TEXT:0271] 嗯，我会去的。
+[FID:0D, TEXT:027B] 也许能换换心情，
+[FID:0D, TEXT:027C] 吧。
+
+--- Group 540 [left:none next=2012] ---
+[FID:0D, TEXT:0271] 嗯，我会去的。
+[FID:0D, TEXT:0272] 感觉能散散心，
+[FID:0D, TEXT:0273] 呢。
+
+--- Group 541 [right:none next=2012] ---
+[FID:0D, TEXT:0274] 真的可以吗？
+[FID:0D, TEXT:0275] 我会让你拿东西的哦？
+
+--- Group 542 [right:瞪羚 next=2012] ---
+[FID:0D, TEXT:0274] 真的可以吗？
+[FID:0D, TEXT:0275] 我会让你拿东西的哦？
+
+--- Group 543 [left:主人公 next=2012] ---
+[FID:0D, TEXT:0276] 那点程度，理所当然的吧。
+
+--- Group 544 [left:none next=2012] ---
+[FID:0D, TEXT:0276] 那点程度，理所当然的吧。
+
+--- Group 545 [right:瞪羚 next=2012] ---
+[FID:0D, TEXT:0277] 呵呵呵。
+[FID:0D, TEXT:0278] 我才不会那样做哦。
+[FID:0D, TEXT:0279] 我有别人帮我拿东西。
+
+--- Group 546 [right:none next=2012] ---
+[FID:0D, TEXT:0277] 呵呵呵。
+[FID:0D, TEXT:0278] 我才不会那样做哦。
+[FID:0D, TEXT:0279] 我有别人帮我拿东西。
+
+--- Group 547 [left:none next=0023] ---
+[FID:0D, TEXT:027A] ……难道说
+
+--- Group 548 [left:主人公 next=0023] ---
+[FID:0D, TEXT:027A] ……难道说
+
+--- Group 549 [left:主人公 next=2012] ---
+[FID:0D, TEXT:027D] 那点程度，
+[FID:0D, TEXT:003D] 我会帮忙的。
+
+--- Group 550 [left:none next=2012] ---
+[FID:0D, TEXT:027D] 那点程度，
+[FID:0D, TEXT:003D] 我会帮忙的。
+
+--- Group 551 [left:none next=2012] ---
+[FID:0D, TEXT:027E] 啊，去去去！
+[FID:0D, TEXT:0272] 感觉能散散心，
+[FID:0D, TEXT:027F] 呢！
+
+--- Group 552 [left:主人公 next=2012] ---
+[FID:0D, TEXT:027E] 啊，去去去！
+[FID:0D, TEXT:0272] 感觉能散散心，
+[FID:0D, TEXT:027F] 呢！
+
+--- Group 553 [left:none next=2012] ---
+[FID:0D, TEXT:0280] 嗯，嘛，
+[FID:0D, TEXT:0281] 好像也没办法……？
+
+--- Group 554 [left:主人公 next=2012] ---
+[FID:0D, TEXT:0280] 嗯，嘛，
+[FID:0D, TEXT:0281] 好像也没办法……？
+
+--- Group 555 [left:none next=2012] ---
+[FID:0D, TEXT:0283] 好的，那么，
+[FID:0D, TEXT:0284] 我就一起去了。
+[FID:0D, TEXT:0285] 拜托了。
+
+--- Group 556 [left:主人公 next=2012] ---
+[FID:0D, TEXT:0283] 好的，那么，
+[FID:0D, TEXT:0284] 我就一起去了。
+[FID:0D, TEXT:0285] 拜托了。
+
+--- Group 557 [left:none next=2012] ---
+[FID:0D, TEXT:0286] 哎，重的东西，我
+[FID:0D, TEXT:0287] 可没自信……
+
+--- Group 558 [left:主人公 next=2012] ---
+[FID:0D, TEXT:0286] 哎，重的东西，我
+[FID:0D, TEXT:0287] 可没自信……
+
+--- Group 559 [right:none next=2012] ---
+[FID:0D, TEXT:0288] 加泽鲁——！
+[FID:0D, TEXT:0289] 快过来一下——！
+
+--- Group 560 [right:瞪羚 next=2012] ---
+[FID:0D, TEXT:0288] 加泽鲁——！
+[FID:0D, TEXT:0289] 快过来一下——！
 
 --- Group 561 [left:none next=0023] ---
 [FID:0D, TEXT:028A] 哇，果然……
@@ -2482,7 +2801,261 @@
 [FID:0D, TEXT:02F3] 诶？
 [FID:0D, TEXT:02F4] 为什么会这样呢？
 
---- Group 665 [right:瞪羚 next=
+--- Group 665 [right:瞪羚 next=2012] ---
+[FID:0D, TEXT:02F5] 详细的事情，
+[FID:0D, TEXT:02F6] 以后会说明的。
+
+--- Group 666 [right:none next=2012] ---
+[FID:0D, TEXT:02F5] 详细的事情，
+[FID:0D, TEXT:02F6] 以后会说明的。
+
+--- Group 667 [right:none next=2012] ---
+[FID:0D, TEXT:02F7] 哟，怎么样啊？
+
+--- Group 668 [right:瞪羚 next=2012] ---
+[FID:0D, TEXT:02F7] 哟，怎么样啊？
+
+--- Group 669 [left:主人公 next=0023] ---
+[FID:0D, TEXT:02F8] 唉，托您的福。
+
+--- Group 670 [left:none next=0023] ---
+[FID:0D, TEXT:02F8] 唉，托您的福。
+
+--- Group 671 [left:none next=0023] ---
+[FID:0D, TEXT:02F9] 啊，已经，我很好！
+
+--- Group 672 [left:主人公 next=0023] ---
+[FID:0D, TEXT:02F9] 啊，已经，我很好！
+
+--- Group 673 [right:none next=2012] ---
+[FID:0D, TEXT:02FA] 道歉来迟了，昨天
+[FID:0D, TEXT:02FB] 的事，真是抱歉啊。
+
+--- Group 674 [right:瞪羚 next=2012] ---
+[FID:0D, TEXT:02FA] 道歉来迟了，昨天
+[FID:0D, TEXT:02FB] 的事，真是抱歉啊。
+
+--- Group 675 [left:主人公 next=0023] ---
+[FID:0D, TEXT:02FD] 不，我才要说呢。
+[FID:0D, TEXT:02FE] 那个……您没受伤
+[FID:0D, TEXT:02FF] 吧？
+
+--- Group 676 [left:none next=0023] ---
+[FID:0D, TEXT:02FD] 不，我才要说呢。
+[FID:0D, TEXT:02FE] 那个……您没受伤
+[FID:0D, TEXT:02FF] 吧？
+
+--- Group 677 [left:主人公 next=0023] ---
+[FID:0D, TEXT:0300] 不，我才要说呢。
+[FID:0D, TEXT:0301] 没想到会变成那样……
+
+--- Group 678 [left:none next=0023] ---
+[FID:0D, TEXT:0300] 不，我才要说呢。
+[FID:0D, TEXT:0301] 没想到会变成那样……
+
+--- Group 679 [left:none next=0023] ---
+[FID:0D, TEXT:0303] 怎么会，我才要说呢！
+[FID:0D, TEXT:0304] 然后……您没受伤
+[FID:0D, TEXT:02FF] 吧？
+
+--- Group 680 [left:主人公 next=0023] ---
+[FID:0D, TEXT:0303] 怎么会，我才要说呢！
+[FID:0D, TEXT:0304] 然后……您没受伤
+[FID:0D, TEXT:02FF] 吧？
+
+--- Group 681 [left:none next=0023] ---
+[FID:0D, TEXT:0305] 不……比起那个，
+[FID:0D, TEXT:02FE] 您……没受伤
+[FID:0D, TEXT:02FF] 吧？
+
+--- Group 682 [left:主人公 next=0023] ---
+[FID:0D, TEXT:0305] 不……比起那个，
+[FID:0D, TEXT:02FE] 您……没受伤
+[FID:0D, TEXT:02FF] 吧？
+
+--- Group 683 [right:none next=2012] ---
+[FID:0D, TEXT:0306] 无需担心。
+[FID:0D, TEXT:0307] 就像你看到的，我的
+[FID:0D, TEXT:0308] 身体构造，
+[FID:0D, TEXT:0309] 就是很结实。
+
+--- Group 684 [right:瞪羚 next=2012] ---
+[FID:0D, TEXT:0306] 无需担心。
+[FID:0D, TEXT:0307] 就像你看到的，我的
+[FID:0D, TEXT:0308] 身体构造，
+[FID:0D, TEXT:0309] 就是很结实。
+
+--- Group 685 [left:主人公 next=0023] ---
+[FID:0D, TEXT:030D] 失礼了，您总是
+[FID:0D, TEXT:030E] 会做像昨天那样的事
+[FID:0D, TEXT:030F] 吗？
+
+--- Group 686 [left:none next=0023] ---
+[FID:0D, TEXT:030D] 失礼了，您总是
+[FID:0D, TEXT:030E] 会做像昨天那样的事
+[FID:0D, TEXT:030F] 吗？
+
+--- Group 687 [left:主人公 next=2012] ---
+[FID:0D, TEXT:0310] 太好了……
+
+--- Group 688 [left:none next=2012] ---
+[FID:0D, TEXT:0310] 太好了……
+
+--- Group 689 [left:none next=0023] ---
+[FID:0D, TEXT:0311] 话说回来……
+[FID:0D, TEXT:0312] 您总是
+[FID:0D, TEXT:0313] 做像昨天那样的事
+[FID:0D, TEXT:030F] 吗？
+
+--- Group 690 [left:主人公 next=0023] ---
+[FID:0D, TEXT:0311] 话说回来……
+[FID:0D, TEXT:0312] 您总是
+[FID:0D, TEXT:0313] 做像昨天那样的事
+[FID:0D, TEXT:030F] 吗？
+
+--- Group 691 [right:none next=2012] ---
+[FID:0D, TEXT:0316] 偶尔会吧。
+
+--- Group 692 [right:瞪羚 next=2012] ---
+[FID:0D, TEXT:0316] 偶尔会吧。
+
+--- Group 693 [right:none next=2012] ---
+[FID:0D, TEXT:0317] 这个城镇的税金很高，
+[FID:0D, TEXT:0318] 像我们这种
+[FID:0D, TEXT:0319] 年轻人的收入，
+[FID:0D, TEXT:031A] 根本无法生活。
+
+--- Group 694 [right:瞪羚 next=2012] ---
+[FID:0D, TEXT:0317] 这个城镇的税金很高，
+[FID:0D, TEXT:0318] 像我们这种
+[FID:0D, TEXT:0319] 年轻人的收入，
+[FID:0D, TEXT:031A] 根本无法生活。
+
+--- Group 695 [left:none next=0023] ---
+[FID:0D, TEXT:031B] 我无法想象，但一定
+[FID:0D, TEXT:031C] 很辛苦吧……
+
+--- Group 696 [left:主人公 next=0023] ---
+[FID:0D, TEXT:031B] 我无法想象，但一定
+[FID:0D, TEXT:031C] 很辛苦吧……
+
+--- Group 697 [left:none next=0023] ---
+[FID:0D, TEXT:031E] 是啊。
+[FID:0D, TEXT:031F] 看看城镇的样子，
+[FID:0D, TEXT:0320] 大概也能明白。
+
+--- Group 698 [left:主人公 next=0023] ---
+[FID:0D, TEXT:031E] 是啊。
+[FID:0D, TEXT:031F] 看看城镇的样子，
+[FID:0D, TEXT:0320] 大概也能明白。
+
+--- Group 699 [left:none next=0023] ---
+[FID:0D, TEXT:0321] ……感觉
+[FID:0D, TEXT:0322] 无法想象，但是
+[FID:0D, TEXT:0323] 好像很辛苦……
+
+--- Group 700 [left:主人公 next=0023] ---
+[FID:0D, TEXT:0321] ……感觉
+[FID:0D, TEXT:0322] 无法想象，但是
+[FID:0D, TEXT:0323] 好像很辛苦……
+
+--- Group 701 [left:none next=0023] ---
+[FID:0D, TEXT:0324] 是这样啊……
+[FID:0D, TEXT:0322] 无法想象，但是
+[FID:0D, TEXT:0325] 很辛苦呢……
+
+--- Group 702 [left:主人公 next=0023] ---
+[FID:0D, TEXT:0324] 是这样啊……
+[FID:0D, TEXT:0322] 无法想象，但是
+[FID:0D, TEXT:0325] 很辛苦呢……
+
+--- Group 703 [left:主人公 next=0023] ---
+[FID:0D, TEXT:0324] 是这样啊……
+[FID:0D, TEXT:0355] 那么，
+[FID:0D, TEXT:0356] 那些孩子们呢？
+
+--- Group 704 [left:none next=0023] ---
+[FID:0D, TEXT:0324] 是这样啊……
+[FID:0D, TEXT:0355] 那么，
+[FID:0D, TEXT:0356] 那些孩子们呢？
+
+--- Group 705 [right:瞪羚 next=2012] ---
+[FID:0D, TEXT:0326] 就算如此，
+[FID:0D, TEXT:0327] 也不代表可以做坏事。
+
+--- Group 706 [right:none next=2012] ---
+[FID:0D, TEXT:0326] 就算如此，
+[FID:0D, TEXT:0327] 也不代表可以做坏事。
+
+--- Group 707 [right:瞪羚 next=2012] ---
+[FID:0D, TEXT:0329] 就像雷德说的那样，
+[FID:0D, TEXT:032A] 也许总有一天会
+[FID:0D, TEXT:032B] 受到报应呢……
+
+--- Group 708 [right:none next=2012] ---
+[FID:0D, TEXT:0329] 就像雷德说的那样，
+[FID:0D, TEXT:032A] 也许总有一天会
+[FID:0D, TEXT:032B] 受到报应呢……
+
+--- Group 709 [left:主人公 next=0023] ---
+[FID:0D, TEXT:032C] 嗯……这里
+[FID:0D, TEXT:032D] 的大家，是怎样的
+[FID:0D, TEXT:032E] 伙伴呢？
+
+--- Group 710 [left:none next=0023] ---
+[FID:0D, TEXT:032C] 嗯……这里
+[FID:0D, TEXT:032D] 的大家，是怎样的
+[FID:0D, TEXT:032E] 伙伴呢？
+
+--- Group 711 [left:主人公 next=0023] ---
+[FID:0D, TEXT:032F] 这里的人们，是
+[FID:0D, TEXT:0330] 怎样的伙伴呢？
+
+--- Group 712 [left:none next=0023] ---
+[FID:0D, TEXT:032F] 这里的人们，是
+[FID:0D, TEXT:0330] 怎样的伙伴呢？
+
+--- Group 713 [left:主人公 next=2012] ---
+[FID:0D, TEXT:0331] 话说回来，有个浅显
+[FID:0D, TEXT:0332] 的疑问……
+
+--- Group 714 [left:none next=2012] ---
+[FID:0D, TEXT:0331] 话说回来，有个浅显
+[FID:0D, TEXT:0332] 的疑问……
+
+--- Group 715 [left:none next=0023] ---
+[FID:0D, TEXT:0333] 大家是，
+[FID:0D, TEXT:0334] 怎样的伙伴
+[FID:0D, TEXT:0335] 呢？
+
+--- Group 716 [left:主人公 next=0023] ---
+[FID:0D, TEXT:0333] 大家是，
+[FID:0D, TEXT:0334] 怎样的伙伴
+[FID:0D, TEXT:0335] 呢？
+
+--- Group 717 [left:主人公 next=0023] ---
+[FID:0D, TEXT:0336] 嗯……这里的
+[FID:0D, TEXT:0337] 各位，是怎样的
+[FID:0D, TEXT:0338] 伙伴
+[FID:0D, TEXT:0339] 呢？
+
+--- Group 718 [left:none next=0023] ---
+[FID:0D, TEXT:0336] 嗯……这里的
+[FID:0D, TEXT:0337] 各位，是怎样的
+[FID:0D, TEXT:0338] 伙伴
+[FID:0D, TEXT:0339] 呢？
+
+--- Group 719 [right:none next=2012] ---
+[FID:0D, TEXT:033A] 嗯……
+[FID:0D, TEXT:033B] 在这里的家伙们啊
+[FID:0D, TEXT:033C] 都是以加泽尔为中心
+[FID:0D, TEXT:033D] 聚集过来的哦
+
+--- Group 720 [right:瞪羚 next=2012] ---
+[FID:0D, TEXT:033A] 嗯……
+[FID:0D, TEXT:033B] 在这里的家伙们啊
+[FID:0D, TEXT:033C] 都是以加泽尔为中心
+[FID:0D, TEXT:033D] 聚集过来的哦
 
 --- Group 721 [right:none next=2012] ---
 [FID:0D, TEXT:033E] 我和那家伙是邻居
@@ -2531,7 +3104,7 @@
 [FID:0D, TEXT:0349] 呢
 
 --- Group 731 [left:主人公 next=0023] ---
-[FID:0D, TEXT:034A]诶！？
+[FID:0D, TEXT:034A] 诶！？
 
 --- Group 732 [left:none next=0023] ---
 [FID:0D, TEXT:034A] 诶！？
@@ -2842,6 +3415,7 @@
 --- Group 808 [left:主人公 next=0023] ---
 [FID:0D, TEXT:0395] 决定好要玩什么之后
 [FID:0D, TEXT:0396] 能不能再叫我一次呢？
+[FID:0D, TEXT:0397] 走了吗？
 
 --- Group 809 [left:主人公 next=2012] ---
 [FID:0D, TEXT:0398] 啊啊
@@ -2876,35 +3450,45 @@
 [FID:0D, TEXT:03A8] 啊啊，为什么女人
 [FID:0D, TEXT:03A9] 就是不懂海贼的帅气
 [FID:0D, TEXT:03AA] 呢？
+[FID:0D, TEXT:03AB] 是吧？
 
 --- Group 816 [right:瞪羚 next=2012] ---
 [FID:0D, TEXT:03A8] 啊啊，为什么女人
 [FID:0D, TEXT:03A9] 就是不懂海贼的帅气
 [FID:0D, TEXT:03AA] 呢？
+[FID:0D, TEXT:03AB] 是吧？
 
 --- Group 817 [left:主人公 next=0023] ---
 [FID:0D, TEXT:03AC] 阿尔巴想成为海贼吗？
+[FID:0D, TEXT:03AD] 你想成为那样的人吗？
 
 --- Group 818 [left:none next=0023] ---
 [FID:0D, TEXT:03AC] 阿尔巴想成为海贼吗？
+[FID:0D, TEXT:03AE] 你想成为那样的人吗？
 
 --- Group 819 [left:none next=0023] ---
 [FID:0D, TEXT:03AC] 阿尔巴想成为海贼吗？
+[FID:0D, TEXT:03AF] 想成为那样的人？
 
 --- Group 820 [left:none next=0023] ---
 [FID:0D, TEXT:03AC] 阿尔巴想成为海贼吗？
+[FID:0D, TEXT:03AD] 你想成为那样的人吗？
 
 --- Group 821 [left:主人公 next=0023] ---
 [FID:0D, TEXT:03AC] 阿尔巴想成为海贼吗？
+[FID:0D, TEXT:03AE] 你想成为那样的人吗？
 
 --- Group 822 [left:主人公 next=0023] ---
 [FID:0D, TEXT:03AC] 阿尔巴想成为海贼吗？
+[FID:0D, TEXT:03AF] 想成为那样的人？
 
 --- Group 823 [left:none next=0023] ---
 [FID:0D, TEXT:03B0] 阿尔巴君想成为海贼吗？
+[FID:0D, TEXT:03AF] 想成为那样的人？
 
 --- Group 824 [left:主人公 next=0023] ---
 [FID:0D, TEXT:03B0] 阿尔巴君想成为海贼吗？
+[FID:0D, TEXT:03AF] 想成为那样的人？
 
 --- Group 825 [right:瞪羚 next=2012] ---
 [FID:0D, TEXT:03B1] 嗯，不是哦
@@ -3281,6 +3865,7 @@
 --- Group 923 [left:主人公 next=0023] ---
 [FID:0D, TEXT:0403] ……难道说，
 [FID:0D, TEXT:0404] 我被你耍了？
+[FID:0D, TEXT:0405] 了吗？
 
 --- Group 924 [left:主人公 next=0023] ---
 [FID:0D, TEXT:0403] ……难道说，
@@ -3295,6 +3880,7 @@
 --- Group 926 [left:none next=0023] ---
 [FID:0D, TEXT:0403] ……难道说，
 [FID:0D, TEXT:0404] 我被你耍了？
+[FID:0D, TEXT:0405] 了吗？
 
 --- Group 927 [left:none next=0023] ---
 [FID:0D, TEXT:0406] 真是的……
@@ -4149,4 +4735,4 @@
 [FID:0D, TEXT:0000] 
 [FID:0D, TEXT:0490] 【厨房】
 [FID:0D, TEXT:0000] 
-[FID:0D, TEXT:0000]
+[FID:0D, TEXT:0000] 

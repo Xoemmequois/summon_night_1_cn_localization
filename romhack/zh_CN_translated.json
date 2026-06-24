@@ -2169,132 +2169,158 @@
   {
     "key": "0003-0007",
     "original": "それよりどうした？",
-    "translation": ""
+    "translation": "比起那个，你怎么了？",
+    "stage": 3
   },
   {
     "key": "0003-0008",
     "original": "悩みでもあるのか",
-    "translation": ""
+    "translation": "是有什么烦恼吗？",
+    "stage": 3
   },
   {
     "key": "0003-0009",
     "original": "お金のこと以外なら",
-    "translation": ""
+    "translation": "除了钱以外的事情",
+    "stage": 3
   },
   {
     "key": "0003-0010",
     "original": "相談にのるぜ！！",
-    "translation": ""
+    "translation": "我都可以听你倾诉哦！",
+    "stage": 3
   },
   {
     "key": "0003-0011",
     "original": "・・・",
-    "translation": ""
+    "translation": "……",
+    "stage": 3
   },
   {
     "key": "0003-0012",
     "original": "センパイがいつも貧乏",
-    "translation": ""
+    "translation": "我知道前辈你总是很穷",
+    "stage": 3
   },
   {
     "key": "0003-0013",
     "original": "なのは知ってますよ",
-    "translation": ""
+    "translation": "的啦",
+    "stage": 3
   },
   {
     "key": "0003-0014",
     "original": "ははは・・・",
-    "translation": ""
+    "translation": "哈哈哈……",
+    "stage": 3
   },
   {
     "key": "0003-0015",
     "original": "せんぱいのクラスに、",
-    "translation": ""
+    "translation": "在前辈的班里有",
+    "stage": 3
   },
   {
     "key": "0003-0016",
     "original": "図書委員のヒグチさん",
-    "translation": ""
+    "translation": "图书委员的樋口同学",
+    "stage": 3
   },
   {
     "key": "0003-0017",
     "original": "っていましたよね？",
-    "translation": ""
+    "translation": "在对吧？",
+    "stage": 3
   },
   {
     "key": "0003-0018",
     "original": "ああ、しってるよ",
-    "translation": ""
+    "translation": "啊，我知道",
+    "stage": 3
   },
   {
     "key": "0003-0019",
     "original": "ヒグチ・・・アヤ・・",
-    "translation": ""
+    "translation": "樋口……绫……是吧？",
+    "stage": 3
   },
   {
     "key": "0003-0020",
     "original": "だっけ？",
-    "translation": ""
+    "translation": "",
+    "stage": 3
   },
   {
     "key": "0003-0021",
     "original": "はい・・・",
-    "translation": ""
+    "translation": "是的……",
+    "stage": 3
   },
   {
     "key": "0003-0022",
     "original": "その・・・じつは俺、",
-    "translation": ""
+    "translation": "我……那个……其实我",
+    "stage": 3
   },
   {
     "key": "0003-0023",
     "original": "アヤ先輩に告白しよう",
-    "translation": ""
+    "translation": "是想对绫前辈告白的",
+    "stage": 3
   },
   {
     "key": "0003-0024",
     "original": "って思ってるんです",
-    "translation": ""
+    "translation": "",
+    "stage": 3
   },
   {
     "key": "0003-0025",
     "original": "ええ～っ！？",
-    "translation": ""
+    "translation": "诶——！？",
+    "stage": 3
   },
   {
     "key": "0003-0026",
     "original": "そんなにおどろかなく",
-    "translation": ""
+    "translation": "也不用这么惊讶吧！",
+    "stage": 3
   },
   {
     "key": "0003-0027",
     "original": "たっていいじゃない",
-    "translation": ""
+    "translation": "",
+    "stage": 3
   },
   {
     "key": "0003-0028",
     "original": "ですかぁ！",
-    "translation": ""
+    "translation": "",
+    "stage": 3
   },
   {
     "key": "0003-0029",
     "original": "あ、わりぃ・・・",
-    "translation": ""
+    "translation": "啊，抱歉…",
+    "stage": 3
   },
   {
     "key": "0003-0030",
     "original": "そりゃ、たしかに俺が",
-    "translation": ""
+    "translation": "确实，我是知道的",
+    "stage": 3
   },
   {
     "key": "0003-0031",
     "original": "お嬢様のアヤ先輩と",
-    "translation": ""
+    "translation": "我和大小姐绫前辈",
+    "stage": 3
   },
   {
     "key": "0003-0032",
     "original": "つり合わないことは",
-    "translation": ""
+    "translation": "不般配这件事",
+    "stage": 3
   },
   {
     "key": "0003-0033",
@@ -2359,19 +2385,19 @@
   {
     "key": "0003-0043",
     "original": "でも、いざ告白しよう",
-    "translation": "但是，真的要告白的时",
+    "translation": "可是，真的要告白的时",
     "stage": 3
   },
   {
     "key": "0003-0044",
     "original": "とすると、どうしても",
-    "translation": "候，不知怎么就提不起",
+    "translation": "候不知道为什么就是没",
     "stage": 3
   },
   {
     "key": "0003-0045",
     "original": "勇気がでなくて",
-    "translation": "勇气",
+    "translation": "有勇气",
     "stage": 3
   },
   {
@@ -2599,12 +2625,14 @@
   {
     "key": "0003-0083",
     "original": "バレー部のナツミさん",
-    "translation": ""
+    "translation": "排球部的夏美同学",
+    "stage": 3
   },
   {
     "key": "0003-0084",
     "original": "っていますよね？",
-    "translation": ""
+    "translation": "在对吧？",
+    "stage": 3
   },
   {
     "key": "0003-0085",
@@ -2621,12 +2649,14 @@
   {
     "key": "0003-0087",
     "original": "ナツミ先輩のことが",
-    "translation": ""
+    "translation": "是喜欢夏美前辈的",
+    "stage": 3
   },
   {
     "key": "0003-0088",
     "original": "好きなんです",
-    "translation": ""
+    "translation": "",
+    "stage": 3
   },
   {
     "key": "0003-0089",
@@ -2637,12 +2667,14 @@
   {
     "key": "0003-0090",
     "original": "ナツミ先輩にアタック",
-    "translation": ""
+    "translation": "我追求夏美前辈是件很",
+    "stage": 3
   },
   {
     "key": "0003-0091",
     "original": "するなんて無茶だって",
-    "translation": ""
+    "translation": "勉强的事情",
+    "stage": 3
   },
   {
     "key": "0003-0092",
@@ -2803,12 +2835,14 @@
   {
     "key": "0003-0118",
     "original": "誰にも言わないって",
-    "translation": ""
+    "translation": "你能答应我",
+    "stage": 3
   },
   {
     "key": "0003-0119",
     "original": "約束してくれます？",
-    "translation": ""
+    "translation": "不告诉任何人吗？",
+    "stage": 3
   },
   {
     "key": "0003-0120",
@@ -2837,7 +2871,8 @@
   {
     "key": "0003-0124",
     "original": "ああ、トウヤ君",
-    "translation": ""
+    "translation": "啊，是那个叫籐矢的",
+    "stage": 3
   },
   {
     "key": "0003-0125",
@@ -2848,27 +2883,32 @@
   {
     "key": "0003-0126",
     "original": "そのトウヤ先輩に",
-    "translation": ""
+    "translation": "我想对那位籘矢前辈",
+    "stage": 3
   },
   {
     "key": "0003-0127",
     "original": "私、告白したいなって",
-    "translation": ""
+    "translation": "告白呢",
+    "stage": 3
   },
   {
     "key": "0003-0128",
     "original": "思ってるんです",
-    "translation": ""
+    "translation": "",
+    "stage": 3
   },
   {
     "key": "0003-0129",
     "original": "たっていいじゃないで",
-    "translation": ""
+    "translation": "",
+    "stage": 3
   },
   {
     "key": "0003-0130",
     "original": "すかぁ！",
-    "translation": ""
+    "translation": "",
+    "stage": 3
   },
   {
     "key": "0003-0131",
@@ -3083,7 +3123,8 @@
   {
     "key": "0003-0166",
     "original": "そのハヤト先輩に",
-    "translation": ""
+    "translation": "我想对那位勇人前辈",
+    "stage": 3
   },
   {
     "key": "0003-0167",
@@ -3118,262 +3159,314 @@
   {
     "key": "0004-0001",
     "original": "　後輩と別れた俺は",
-    "translation": ""
+    "translation": "　与后辈分别后，",
+    "stage": 3
   },
   {
     "key": "0004-0002",
     "original": "　まっすぐ家には帰らなかった",
-    "translation": ""
+    "translation": "　我并没有直接回家",
+    "stage": 3
   },
   {
     "key": "0004-0003",
     "original": "　小高い丘の上にある公園",
-    "translation": ""
+    "translation": "　在小山丘上的公园",
+    "stage": 3
   },
   {
     "key": "0004-0004",
     "original": "　ここで考えごとをするように",
-    "translation": ""
+    "translation": "　开始在这里思考事情",
+    "stage": 3
   },
   {
     "key": "0004-0005",
     "original": "　なったのは、高校に入って",
-    "translation": ""
+    "translation": "　这个习惯是在进入高中",
+    "stage": 3
   },
   {
     "key": "0004-0006",
     "original": "　しばらく経ってからだった",
-    "translation": ""
+    "translation": "　一段时间之后有的",
+    "stage": 3
   },
   {
     "key": "0004-0007",
     "original": "　後輩と別れた僕は",
-    "translation": ""
+    "translation": "　与后辈分别后，",
+    "stage": 3
   },
   {
     "key": "0004-0008",
     "original": "　　　（いつからだろう？）",
-    "translation": ""
+    "translation": "　　　（是从什么时候开始的呢？）",
+    "stage": 3
   },
   {
     "key": "0004-0009",
     "original": "　　俺はなんとなくものたりない",
-    "translation": ""
+    "translation": "　　我总觉得有些怅然若失。",
+    "stage": 3
   },
   {
     "key": "0004-0010",
     "original": "　　僕はなんとなくものたりない",
-    "translation": ""
+    "translation": "　　我感到一种",
+    "stage": 3
   },
   {
     "key": "0004-0011",
     "original": "　　気持ちを感じていた",
-    "translation": ""
+    "translation": "　　莫名的失落",
+    "stage": 3
   },
   {
     "key": "0004-0012",
     "original": "　　決して毎日がつまらない",
-    "translation": ""
+    "translation": "　　并不是说每天都",
+    "stage": 3
   },
   {
     "key": "0004-0013",
     "original": "　　わけじゃない",
-    "translation": ""
+    "translation": "　　过得很无聊",
+    "stage": 3
   },
   {
     "key": "0004-0014",
     "original": "　　学校は楽しいし、",
-    "translation": ""
+    "translation": "　　学校生活很开心，",
+    "stage": 3
   },
   {
     "key": "0004-0015",
     "original": "　　友達や後輩とのつきあいも",
-    "translation": ""
+    "translation": "　　和朋友们以及后辈们",
+    "stage": 3
   },
   {
     "key": "0004-0016",
     "original": "　　うまくいっている",
-    "translation": ""
+    "translation": "　　的关系也很融洽　　",
+    "stage": 3
   },
   {
     "key": "0004-0017",
     "original": "　　だけど・・・",
-    "translation": ""
+    "translation": "　　但是……",
+    "stage": 3
   },
   {
     "key": "0004-0018",
     "original": "　（本当にこれでいいのか？）",
-    "translation": ""
+    "translation": "　（这样真的好吗？）",
+    "stage": 3
   },
   {
     "key": "0004-0019",
     "original": "　このまま大学に入って、",
-    "translation": ""
+    "translation": "　　就这样考上大学，",
+    "stage": 3
   },
   {
     "key": "0004-0020",
     "original": "　就職をして、結婚をして・・・",
-    "translation": ""
+    "translation": "　　找工作，结婚……",
+    "stage": 3
   },
   {
     "key": "0004-0021",
     "original": "　みんなと同じように",
-    "translation": ""
+    "translation": "　　像大家一样",
+    "stage": 3
   },
   {
     "key": "0004-0022",
     "original": "　生きていけば、それなりに",
-    "translation": ""
+    "translation": "　　生活下去",
+    "stage": 3
   },
   {
     "key": "0004-0023",
     "original": "　しあわせになれるのだろう",
-    "translation": ""
+    "translation": "　　大概也能过得还算幸福吧。",
+    "stage": 3
   },
   {
     "key": "0004-0024",
     "original": "　だけど・・・",
-    "translation": ""
+    "translation": "　　但是……",
+    "stage": 3
   },
   {
     "key": "0004-0025",
     "original": "　（それじゃ、なんかイヤだ）",
-    "translation": ""
+    "translation": "　（那样的事，我不太喜欢）",
+    "stage": 3
   },
   {
     "key": "0004-0026",
     "original": "　（それが本当に幸せだって",
-    "translation": ""
+    "translation": "　　（那样真的能称得上",
+    "stage": 3
   },
   {
     "key": "0004-0027",
     "original": "　　言えるんだろうか？）",
-    "translation": ""
+    "translation": "　　是幸福吗？）",
+    "stage": 3
   },
   {
     "key": "0004-0028",
     "original": "　　決められた道を進んでいく",
-    "translation": ""
+    "translation": "　　如果只是沿着既定",
+    "stage": 3
   },
   {
     "key": "0004-0029",
     "original": "　　だけじゃ、その横にある",
-    "translation": ""
+    "translation": "　　的道路前进，就无法",
+    "stage": 3
   },
   {
     "key": "0004-0030",
     "original": "　　大切なものに気づくことは",
-    "translation": ""
+    "translation": "　　注意到路旁的",
+    "stage": 3
   },
   {
     "key": "0004-0031",
     "original": "　　できない",
-    "translation": ""
+    "translation": "　　重要事物",
+    "stage": 3
   },
   {
     "key": "0004-0032",
     "original": "　　けれども、そんなものが",
-    "translation": ""
+    "translation": "　　但是，那种东西",
+    "stage": 3
   },
   {
     "key": "0004-0033",
     "original": "　　あるという保証だって",
-    "translation": ""
+    "translation": "　　是否真的存在，",
+    "stage": 3
   },
   {
     "key": "0004-0034",
     "original": "　　ないのだろう",
-    "translation": ""
+    "translation": "　　也没有保证吧",
+    "stage": 3
   },
   {
     "key": "0004-0035",
     "original": "　　可能性にかけてみることも、",
-    "translation": ""
+    "translation": "　　我无法选择去冒险尝试，",
+    "stage": 3
   },
   {
     "key": "0004-0036",
     "original": "　　あきらめることもできず、",
-    "translation": ""
+    "translation": "　　也无法选择放弃，",
+    "stage": 3
   },
   {
     "key": "0004-0037",
     "original": "　　俺はただこうして",
-    "translation": ""
+    "translation": "　　我只是这样",
+    "stage": 3
   },
   {
     "key": "0004-0038",
     "original": "　　僕はただこうして",
-    "translation": ""
+    "translation": "　　我只是这样",
+    "stage": 3
   },
   {
     "key": "0004-0039",
     "original": "　　迷いつづけている",
-    "translation": ""
+    "translation": "　　继续迷茫下去",
+    "stage": 3
   },
   {
     "key": "0004-0040",
     "original": "　　俺がここに存在する意味",
-    "translation": ""
+    "translation": "　　我存在的意义",
+    "stage": 3
   },
   {
     "key": "0004-0041",
     "original": "　　俺がここに存在する価値",
-    "translation": ""
+    "translation": "　　我存在的价值",
+    "stage": 3
   },
   {
     "key": "0004-0042",
     "original": "　　僕がここに存在する意味",
-    "translation": ""
+    "translation": "　　我存在的意义",
+    "stage": 3
   },
   {
     "key": "0004-0043",
     "original": "　　僕がここに存在する価値",
-    "translation": ""
+    "translation": "　　我存在的价值",
+    "stage": 3
   },
   {
     "key": "0004-0044",
     "original": "　　　　それを知りたい",
-    "translation": ""
+    "translation": "　　　　我想知道",
+    "stage": 3
   },
   {
     "key": "0004-0045",
     "original": "　　　　今すぐに",
-    "translation": ""
+    "translation": "　　　　就在现在",
+    "stage": 3
   },
   {
     "key": "0004-0046",
     "original": "　　（無茶苦茶だよな・・・）",
-    "translation": ""
+    "translation": "　　（真是太不讲道理了……）",
+    "stage": 3
   },
   {
     "key": "0004-0047",
     "original": "（情けないな・・・考えるだけで",
-    "translation": ""
+    "translation": "（真没用啊……只会胡思乱想",
+    "stage": 3
   },
   {
     "key": "0004-0048",
     "original": "　確かめようともしないくせに）",
-    "translation": ""
+    "translation": "　却连确认的勇气都没有）",
+    "stage": 3
   },
   {
     "key": "0004-0049",
     "original": "　そうつぶやいて、苦笑する",
-    "translation": ""
+    "translation": "　我这么嘟囔着，苦笑了一下",
+    "stage": 3
   },
   {
     "key": "0004-0050",
     "original": "　そんなことが簡単にわかれば、",
-    "translation": ""
+    "translation": "　如果能轻易知道那种事的话，",
+    "stage": 3
   },
   {
     "key": "0004-0051",
     "original": "　誰だって自分の生き方に",
-    "translation": ""
+    "translation": "　谁还会对自己的生活",
+    "stage": 3
   },
   {
     "key": "0004-0052",
     "original": "　迷ったりしないのだから",
-    "translation": ""
+    "translation": "　感到迷茫呢",
+    "stage": 3
   },
   {
     "key": "0004-0053",
@@ -3383,102 +3476,122 @@
   {
     "key": "0004-0054",
     "original": "　　　（いつからだっけ）",
-    "translation": ""
+    "translation": "　　　（是从什么时候开始的呢）",
+    "stage": 3
   },
   {
     "key": "0004-0055",
     "original": "　あたしはなんとなくもの",
-    "translation": ""
+    "translation": "　我感到一种",
+    "stage": 3
   },
   {
     "key": "0004-0056",
     "original": "　たりない気持ちを感じていた",
-    "translation": ""
+    "translation": "　莫名的失落",
+    "stage": 3
   },
   {
     "key": "0004-0057",
     "original": "　決して毎日がつまらない",
-    "translation": ""
+    "translation": "　并不是说每天都",
+    "stage": 3
   },
   {
     "key": "0004-0058",
     "original": "　わけじゃない",
-    "translation": ""
+    "translation": "　过得很无聊",
+    "stage": 3
   },
   {
     "key": "0004-0059",
     "original": "　（本当にこれでいいのかな？）",
-    "translation": ""
+    "translation": "　（这样真的好吗？）",
+    "stage": 3
   },
   {
     "key": "0004-0060",
     "original": "　　それ以上のしあわせは",
-    "translation": ""
+    "translation": "　　　　我绝对无法得到",
+    "stage": 3
   },
   {
     "key": "0004-0061",
     "original": "　　絶対に手に入らない",
-    "translation": ""
+    "translation": "　　　　比这更幸福的东西",
+    "stage": 3
   },
   {
     "key": "0004-0062",
     "original": "　　ありはしない",
-    "translation": ""
+    "translation": "　　也没有保证",
+    "stage": 3
   },
   {
     "key": "0004-0063",
     "original": "　　あたしはただこうして",
-    "translation": ""
+    "translation": "　　我只能这样",
+    "stage": 3
   },
   {
     "key": "0004-0064",
     "original": "　あたしにしかできないことって",
-    "translation": ""
+    "translation": "　　是不是有什么只有",
+    "stage": 3
   },
   {
     "key": "0004-0065",
     "original": "　どっかにないのかなぁ？",
-    "translation": ""
+    "translation": "　　我能做到的事呢？",
+    "stage": 3
   },
   {
     "key": "0004-0066",
     "original": "　後輩と別れた私は",
-    "translation": ""
+    "translation": "　　和后辈告别后，",
+    "stage": 3
   },
   {
     "key": "0004-0067",
     "original": "　　　（いつからだろう）",
-    "translation": ""
+    "translation": "　　　（是从什么时候开始的呢）",
+    "stage": 3
   },
   {
     "key": "0004-0068",
     "original": "　　私はなんとなくものたりない",
-    "translation": ""
+    "translation": "　　我感到一种",
+    "stage": 3
   },
   {
     "key": "0004-0069",
     "original": "（本当にこれでいいのかしら？）",
-    "translation": ""
+    "translation": "（这样真的好吗？）",
+    "stage": 3
   },
   {
     "key": "0004-0070",
     "original": "　　私はただこうして",
-    "translation": ""
+    "translation": "　　我只能这样　　",
+    "stage": 3
   },
   {
     "key": "0004-0071",
     "original": "　　　子供っぽいのかしら",
-    "translation": ""
+    "translation": "　　　我真是太孩子气了",
+    "stage": 3
   },
   {
     "key": "0004-0072",
     "original": "　　　夢みたいなことばかり",
-    "translation": ""
+    "translation": "　　　总是想着一些不切实际",
+    "stage": 3
   },
   {
     "key": "0004-0073",
     "original": "　　　考えてて・・・",
-    "translation": ""
+    "translation": "　　　的梦呢……",
+    "stage": 3
   },
   {
     "key": "0005-0001",

@@ -73,12 +73,12 @@
 --- Group 19 [left:主人公 next=0023] ---
 [FID:29, TEXT:0025] 以大欺小，难道不
 [FID:29, TEXT:0026] 觉得很丢脸吗……
-[FID:29, TEXT:0027]
+[FID:29, TEXT:0027] 我不这么觉得……
 
 --- Group 20 [left:主人公 next=0023] ---
 [FID:29, TEXT:0025] 以大欺小，难道不
 [FID:29, TEXT:0026] 觉得很丢脸吗……
-[FID:29, TEXT:0028]
+[FID:29, TEXT:0028] 我不这么觉得啊……
 
 --- Group 21 [left:主人公 next=0023] ---
 [FID:29, TEXT:0029] 以多欺少，难道不
@@ -233,9 +233,11 @@
 
 --- Group 57 [left:主人公 next=0023] ---
 [FID:29, TEXT:0069] 好像没必要救呢
+[FID:29, TEXT:006A] 好像是这样呢
 
 --- Group 58 [left:none next=0023] ---
 [FID:29, TEXT:0069] 好像没必要救呢
+[FID:29, TEXT:006A] 好像是这样呢
 
 --- Group 59 [left:主人公 next=0023] ---
 [FID:29, TEXT:0069] 好像没必要救呢
@@ -248,6 +250,7 @@
 --- Group 61 [left:主人公 next=0023] ---
 [FID:29, TEXT:006E] 不过……
 [FID:29, TEXT:0069] 好像没必要救呢
+[FID:29, TEXT:006F] 好像是这样呢
 
 --- Group 62 [right:none next=2012] ---
 [FID:29, TEXT:0070] 是啊
@@ -281,7 +284,7 @@
 [FID:29, TEXT:0079] 但是啊，跟这些人
 [FID:29, TEXT:007A] 为敌，好像有点
 [FID:29, TEXT:007B] 不妙哦……
-[FID:29, TEXT:007C]
+[FID:29, TEXT:007C] 我觉得……
 
 --- Group 68 [left:主人公 next=0023] ---
 [FID:29, TEXT:007D] 最好快点
@@ -297,11 +300,13 @@
 [FID:29, TEXT:0083] 为什么啊？
 [FID:29, TEXT:0084] 我还要去找住处
 [FID:29, TEXT:0085] 呢……
+[FID:29, TEXT:0032] 但是……
 
 --- Group 71 [right:none next=2012] ---
 [FID:29, TEXT:0083] 为什么啊？
 [FID:29, TEXT:0084] 我还要去找住处
 [FID:29, TEXT:0085] 呢……
+[FID:29, TEXT:0032] 但是……
 
 --- Group 72 [left:none next=0023] ---
 [FID:29, TEXT:0086] 晚点再解释，所以
@@ -317,7 +322,7 @@
 [FID:29, TEXT:0086] 晚点再解释，所以
 [FID:29, TEXT:008B] 现在先听
 [FID:29, TEXT:008C] 我的话，好吗
-[FID:29, TEXT:008D]
+[FID:29, TEXT:008D] 吧，呐
 
 --- Group 75 [left:主人公 next=0023] ---
 [FID:29, TEXT:0086] 晚点再解释，所以

@@ -913,22 +913,27 @@
 --- Group 236 [left:none next=0023] ---
 [FID:62, TEXT:00D5] 咦，真少见？
 [FID:62, TEXT:00D6] 雷德居然会来这里。
+[FID:62, TEXT:00D7] 这种事
 
 --- Group 237 [left:none next=0023] ---
 [FID:62, TEXT:00D5] 咦，真少见？
 [FID:62, TEXT:00D6] 雷德居然会来这里。
+[FID:62, TEXT:00D7] 这种事
 
 --- Group 238 [left:主人公 next=0023] ---
 [FID:62, TEXT:00D5] 咦，真少见？
 [FID:62, TEXT:00D6] 雷德居然会来这里。
+[FID:62, TEXT:00D7] 这种事
 
 --- Group 239 [left:none next=0023] ---
 [FID:62, TEXT:00D8] 咦，真少见呢？
 [FID:62, TEXT:00D6] 雷德居然会来这里。
+[FID:62, TEXT:00D7] 这种事
 
 --- Group 240 [left:主人公 next=0023] ---
 [FID:62, TEXT:00D8] 咦，真少见呢？
 [FID:62, TEXT:00D6] 雷德居然会来这里。
+[FID:62, TEXT:00D7] 这种事
 
 --- Group 241 [left:none next=0023] ---
 [FID:62, TEXT:00D8] 咦，真少见？
@@ -1555,12 +1560,15 @@
 
 --- Group 398 [left:主人公 next=0023] ---
 [FID:62, TEXT:0187] 你很努力呢！
+[FID:62, TEXT:0188] 呀！
 
 --- Group 399 [left:none next=0023] ---
 [FID:62, TEXT:0187] 你很努力呢！
+[FID:62, TEXT:0188] 呀！
 
 --- Group 400 [left:none next=0023] ---
 [FID:62, TEXT:0187] 你很努力呢！
+[FID:62, TEXT:0188] 呀！
 
 --- Group 401 [left:none next=0023] ---
 [FID:62, TEXT:0189] 看来你很努力呢。
@@ -1642,9 +1650,11 @@
 
 --- Group 420 [left:主人公 next=2012] ---
 [FID:62, TEXT:0198] 阿尔巴正在练习剑术。
+[FID:62, TEXT:0199] してる
 
 --- Group 421 [left:主人公 next=2012] ---
 [FID:62, TEXT:0198] 阿尔巴正在练习剑术。
+[FID:62, TEXT:0199] してる
 
 --- Group 422 [left:主人公 next=0023] ---
 [FID:62, TEXT:019A] 妨碍她练习
@@ -2185,13 +2195,11 @@
 --- Group 563 [left:主人公 next=0023] ---
 [FID:62, TEXT:020F] 嗯，知道，但是……
 [FID:62, TEXT:0210] 那……那种地方
-[FID:62, TEXT:0211] 不是女性一个人
 [FID:62, TEXT:0211] 该去的地方……
 
 --- Group 564 [left:none next=0023] ---
 [FID:62, TEXT:020F] 嗯，知道，但是……
 [FID:62, TEXT:0210] 那……那种地方
-[FID:62, TEXT:0211] 不是女性一个人
 [FID:62, TEXT:0211] 该去的地方……
 
 --- Group 565 [left:主人公 next=0023] ---
@@ -2203,7 +2211,6 @@
 --- Group 566 [left:none next=0023] ---
 [FID:62, TEXT:020F] 嗯，知道，但是……
 [FID:62, TEXT:0210] 那……那种地方
-[FID:62, TEXT:0211] 不是女性一个人
 [FID:62, TEXT:0211] 该去的地方……
 
 --- Group 567 [left:none next=0023] ---
@@ -2369,19 +2376,23 @@
 [FID:62, TEXT:0230] 就像雷德说的那样，
 [FID:62, TEXT:0231] 这里的人和巴诺萨
 [FID:62, TEXT:0232] 联手，真是难以置信啊……
+[FID:62, TEXT:0233] 难啊……
 
 --- Group 605 [left:主人公 next=0023] ---
 [FID:62, TEXT:0230] 就像雷德说的那样，
 [FID:62, TEXT:0231] 这里的人和巴诺萨
 [FID:62, TEXT:0232] 联手，真是难以置信啊……
+[FID:62, TEXT:0233] 难啊……
 
 --- Group 606 [left:主人公 next=0023] ---
 [FID:62, TEXT:0234] 巴诺萨和三兄弟联手，
 [FID:62, TEXT:0235] 我觉得是难以置信的。
+[FID:62, TEXT:0236] 难的吧
 
 --- Group 607 [left:主人公 next=0023] ---
 [FID:62, TEXT:0234] 巴诺萨和三兄弟联手，
 [FID:62, TEXT:0235] 我觉得是难以置信的。
+[FID:62, TEXT:0236] 难的吧
 
 --- Group 608 [left:主人公 next=0023] ---
 [FID:62, TEXT:0237] 嗯……
@@ -2536,17 +2547,17 @@
 --- Group 642 [right:none next=2012] ---
 [FID:62, TEXT:027D] 当时没想到，会以这种方式
 [FID:62, TEXT:027E] 和你扯上关系呢
-[FID:62, TEXT:027F]
+[FID:62, TEXT:027F] 也没有啊
 
 --- Group 643 [right:莫纳蒂 next=2012] ---
 [FID:62, TEXT:027D] 当时没想到，会以这种方式
 [FID:62, TEXT:027E] 和你扯上关系呢
-[FID:62, TEXT:027F]
+[FID:62, TEXT:027F] 也没有啊
 
 --- Group 644 [right:none next=2012] ---
 [FID:62, TEXT:027D] 当时没想到，会以这种方式
 [FID:62, TEXT:027E] 和你扯上关系呢
-[FID:62, TEXT:027F]
+[FID:62, TEXT:027F] 也没有啊
 
 --- Group 645 [left:none next=0023] ---
 [FID:62, TEXT:0280] 真的呢
@@ -2607,15 +2618,15 @@
 
 --- Group 660 [right:none next=2012] ---
 [FID:62, TEXT:0289] 因为我欠你一个人情啊
-[FID:62, TEXT:028A]
+[FID:62, TEXT:028A] 我欠你一个人情
 
 --- Group 661 [right:none next=2012] ---
 [FID:62, TEXT:0289] 因为我欠你一个人情啊
-[FID:62, TEXT:028A]
+[FID:62, TEXT:028A] 我欠你一个人情
 
 --- Group 662 [right:莫纳蒂 next=2012] ---
 [FID:62, TEXT:0289] 因为我欠你一个人情啊
-[FID:62, TEXT:028A]
+[FID:62, TEXT:028A] 我欠你一个人情
 
 --- Group 663 [left:主人公 next=2012] ---
 [FID:62, TEXT:028B] 如果要去练习的话……
@@ -2698,50 +2709,50 @@
 --- Group 684 [right:none next=2012] ---
 [FID:62, TEXT:0297] 因为姐姐，在这里
 [FID:62, TEXT:0295] 鼓励了我
-[FID:62, TEXT:0296]
+[FID:62, TEXT:0296] 因为是啊
 
 --- Group 685 [right:莫纳蒂 next=2012] ---
 [FID:62, TEXT:0297] 因为姐姐，在这里
 [FID:62, TEXT:0295] 鼓励了我
-[FID:62, TEXT:0296]
+[FID:62, TEXT:0296] 因为是啊
 
 --- Group 686 [right:none next=2012] ---
 [FID:62, TEXT:0297] 因为姐姐，在这里
 [FID:62, TEXT:0295] 鼓励了我
-[FID:62, TEXT:0296]
+[FID:62, TEXT:0296] 因为是啊
 
 --- Group 687 [right:none next=2012] ---
 [FID:62, TEXT:0298] 从那以后……
 [FID:62, TEXT:0299] 我觉得我没有错，
 [FID:62, TEXT:029A] 所以才努力的
-[FID:62, TEXT:029B]
+[FID:62, TEXT:029B] 我努力过了
 
 --- Group 688 [right:莫纳蒂 next=2012] ---
 [FID:62, TEXT:0298] 从那以后……
 [FID:62, TEXT:0299] 我觉得我没有错，
 [FID:62, TEXT:029A] 所以才努力的
-[FID:62, TEXT:029B]
+[FID:62, TEXT:029B] 我努力过了
 
 --- Group 689 [right:none next=2012] ---
 [FID:62, TEXT:0298] 从那以后……
 [FID:62, TEXT:0299] 我觉得我没有错，
 [FID:62, TEXT:029A] 所以才努力的
-[FID:62, TEXT:029B]
+[FID:62, TEXT:029B] 我努力过了
 
 --- Group 690 [right:none next=2012] ---
 [FID:62, TEXT:029C] 我好几次都告诉他们，
 [FID:62, TEXT:029D] 大家做的事情是错的
-[FID:62, TEXT:029E]
+[FID:62, TEXT:029E] 我已经说过了
 
 --- Group 691 [right:none next=2012] ---
 [FID:62, TEXT:029C] 我好几次都告诉他们，
 [FID:62, TEXT:029D] 大家做的事情是错的
-[FID:62, TEXT:029E]
+[FID:62, TEXT:029E] 我已经说过了
 
 --- Group 692 [right:莫纳蒂 next=2012] ---
 [FID:62, TEXT:029C] 我好几次都告诉他们，
 [FID:62, TEXT:029D] 大家做的事情是错的
-[FID:62, TEXT:029E]
+[FID:62, TEXT:029E] 我已经说过了
 
 --- Group 693 [right:none next=2012] ---
 [FID:62, TEXT:029F] 然后呢……
@@ -2807,55 +2818,55 @@
 [FID:62, TEXT:02AA] 阿尔巴拿出真正的勇气
 [FID:62, TEXT:02AB] 努力了，所以大家
 [FID:62, TEXT:02B5] 才意识到自己错了！
-[FID:62, TEXT:02B6]
+[FID:62, TEXT:02B6] 才注意到！
 
 --- Group 709 [left:none next=2012] ---
 [FID:62, TEXT:02AA] 阿尔巴拿出真正的勇气
 [FID:62, TEXT:02AB] 努力了，所以大家
 [FID:62, TEXT:02AC] 才意识到错误了
-[FID:62, TEXT:02AD]
+[FID:62, TEXT:02AD] 到了
 
 --- Group 710 [left:none next=2012] ---
 [FID:62, TEXT:02AA] 阿尔巴拿出真正的勇气
 [FID:62, TEXT:02AB] 努力了，所以大家
 [FID:62, TEXT:02AC] 才意识到错误了吧？
-[FID:62, TEXT:02BB]
+[FID:62, TEXT:02BB] 到了吧？
 
 --- Group 711 [left:主人公 next=2012] ---
 [FID:62, TEXT:02AA] 阿尔巴拿出真正的勇气
 [FID:62, TEXT:02AB] 努力了，所以大家
 [FID:62, TEXT:02AC] 才意识到错误了
-[FID:62, TEXT:02AD]
+[FID:62, TEXT:02AD] 到了
 
 --- Group 712 [left:none next=2012] ---
 [FID:62, TEXT:02AA] 阿尔巴拿出真正的勇气
 [FID:62, TEXT:02AB] 努力了，所以大家
 [FID:62, TEXT:02AC] 才意识到错误了
-[FID:62, TEXT:02AD]
+[FID:62, TEXT:02AD] 到了
 
 --- Group 713 [left:主人公 next=2012] ---
 [FID:62, TEXT:02AA] 阿尔巴拿出真正的勇气
 [FID:62, TEXT:02AB] 努力了，所以大家
 [FID:62, TEXT:02AC] 才意识到错误了吧？
-[FID:62, TEXT:02BB]
+[FID:62, TEXT:02BB] 到了吧？
 
 --- Group 714 [left:主人公 next=2012] ---
 [FID:62, TEXT:02AA] 阿尔巴拿出真正的勇气
 [FID:62, TEXT:02AB] 努力了，所以大家
 [FID:62, TEXT:02B5] 才意识到自己错了！
-[FID:62, TEXT:02B6]
+[FID:62, TEXT:02B6] 才注意到！
 
 --- Group 715 [left:none next=2012] ---
 [FID:62, TEXT:02AA] 阿尔巴拿出真正的勇气
 [FID:62, TEXT:02AB] 努力了，所以大家
 [FID:62, TEXT:02B5] 才意识到自己错了！
-[FID:62, TEXT:02B6]
+[FID:62, TEXT:02B6] 才注意到！
 
 --- Group 716 [left:none next=2012] ---
 [FID:62, TEXT:02AA] 阿尔巴拿出真正的勇气
 [FID:62, TEXT:02AB] 努力了，所以大家
 [FID:62, TEXT:02AC] 才意识到错误了吧？
-[FID:62, TEXT:02BB]
+[FID:62, TEXT:02BB] 到了吧？
 
 --- Group 717 [left:none next=0023] ---
 [FID:62, TEXT:02AE] 我什么都没做
@@ -3076,17 +3087,17 @@
 --- Group 767 [right:none next=2012] ---
 [FID:62, TEXT:02F0] 如果又钓到什么的话
 [FID:62, TEXT:02F1] 要带到我这里来哦
-[FID:62, TEXT:02F2]
+[FID:62, TEXT:02F2] 拿过来哦
 
 --- Group 768 [right:莫纳蒂 next=2012] ---
 [FID:62, TEXT:02F0] 如果又钓到什么的话
 [FID:62, TEXT:02F1] 要带到我这里来哦
-[FID:62, TEXT:02F2]
+[FID:62, TEXT:02F2] 拿过来哦
 
 --- Group 769 [right:none next=2012] ---
 [FID:62, TEXT:02F0] 如果又钓到什么的话
 [FID:62, TEXT:02F1] 要带到我这里来哦
-[FID:62, TEXT:02F2]
+[FID:62, TEXT:02F2] 拿过来哦
 
 --- Group 770 [right:none next=2012] ---
 [FID:62, TEXT:02F3] 我会施展浑身解数
@@ -3637,4 +3648,4 @@
 [FID:62, TEXT:0000] 
 [FID:62, TEXT:030E] 【厨房】
 [FID:62, TEXT:0000] 
-[FID:62, TEXT:0000]
+[FID:62, TEXT:0000] 

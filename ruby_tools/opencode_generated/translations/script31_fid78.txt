@@ -1,22 +1,27 @@
 --- Group 1 [left:主人公 next=0023] ---
 [FID:78, TEXT:0001] 好了，剩下的艾鲁多
 [FID:78, TEXT:0002] 得赶紧拿到手才行啊……
+[FID:78, TEXT:0003] 我得进去啊……
 
 --- Group 2 [left:主人公 next=0023] ---
 [FID:78, TEXT:0001] 好了，剩下的艾鲁多
 [FID:78, TEXT:0002] 得赶紧拿到手才行啊……
+[FID:78, TEXT:0003] 我得进去啊……
 
 --- Group 3 [left:主人公 next=0023] ---
 [FID:78, TEXT:0001] 好了，剩下的艾鲁多
 [FID:78, TEXT:0002] 得赶紧拿到手才行啊……
+[FID:78, TEXT:0003] 我得进去啊……
 
 --- Group 4 [left:主人公 next=0023] ---
 [FID:78, TEXT:0001] 好了，剩下的艾鲁多
 [FID:78, TEXT:0002] 得赶紧拿到手才行啊……
+[FID:78, TEXT:0003] 我得进去啊……
 
 --- Group 5 [left:主人公 next=0023] ---
 [FID:78, TEXT:0001] 好了，剩下的艾鲁多
 [FID:78, TEXT:0002] 得赶紧拿到手才行啊……
+[FID:78, TEXT:0003] 我得进去啊……
 
 --- Group 6 [left:主人公 next=0023] ---
 [FID:78, TEXT:0004] 好了，剩下的艾鲁多
@@ -41,42 +46,52 @@
 --- Group 11 [left:主人公 next=0023] ---
 [FID:78, TEXT:0006] 呐，剩下的艾鲁多
 [FID:78, TEXT:0002] 得赶紧拿到手才行啊
+[FID:78, TEXT:0007] 我得进去
 
 --- Group 12 [left:主人公 next=0023] ---
 [FID:78, TEXT:0006] 呐，剩下的艾鲁多
 [FID:78, TEXT:0002] 得赶紧拿到手才行啊
+[FID:78, TEXT:0007] 我得进去
 
 --- Group 13 [left:主人公 next=0023] ---
 [FID:78, TEXT:0006] 呐，剩下的艾鲁多
 [FID:78, TEXT:0002] 得赶紧拿到手才行啊
+[FID:78, TEXT:0007] 我得进去
 
 --- Group 14 [left:主人公 next=0023] ---
 [FID:78, TEXT:0006] 呐，剩下的艾鲁多
 [FID:78, TEXT:0002] 得赶紧拿到手才行啊
+[FID:78, TEXT:0007] 我得进去
 
 --- Group 15 [left:主人公 next=0023] ---
 [FID:78, TEXT:0006] 呐，剩下的艾鲁多
 [FID:78, TEXT:0002] 得赶紧拿到手才行啊
+[FID:78, TEXT:0007] 我得进去
 
 --- Group 16 [left:主人公 next=0023] ---
 [FID:78, TEXT:0008] 剩下的艾鲁多，
 [FID:78, TEXT:0009] 必须尽快拿到手……
+[FID:78, TEXT:000A] 我得进去……
 
 --- Group 17 [left:主人公 next=0023] ---
 [FID:78, TEXT:0008] 剩下的艾鲁多，
 [FID:78, TEXT:0009] 必须尽快拿到手……
+[FID:78, TEXT:000A] 我得进去……
 
 --- Group 18 [left:主人公 next=0023] ---
 [FID:78, TEXT:0008] 剩下的艾鲁多，
 [FID:78, TEXT:0009] 必须尽快拿到手……
+[FID:78, TEXT:000A] 我得进去……
 
 --- Group 19 [left:主人公 next=0023] ---
 [FID:78, TEXT:0008] 剩下的艾鲁多，
 [FID:78, TEXT:0009] 必须尽快拿到手……
+[FID:78, TEXT:000A] 我得进去……
 
 --- Group 20 [left:主人公 next=0023] ---
 [FID:78, TEXT:0008] 剩下的艾鲁多，
 [FID:78, TEXT:0009] 必须尽快拿到手……
+[FID:78, TEXT:000A] 我得进去……
 
 --- Group 21 [right:艾多斯 next=2012] ---
 [FID:78, TEXT:000B] 唉……
@@ -814,56 +829,56 @@
 --- Group 199 [right:凯娜 next=2012] ---
 [FID:78, TEXT:0031] 但是，说不定会因为受罚
 [FID:78, TEXT:0032] 而被禁止外出哦！？
-[FID:78, TEXT:0033]
-[FID:78, TEXT:0034]
+[FID:78, TEXT:0033] 可能会消失哦
+[FID:78, TEXT:0034] 知道吗！？
 
 --- Group 200 [right:埃尔金 next=2012] ---
 [FID:78, TEXT:0031] 但是，说不定会因为受罚
 [FID:78, TEXT:0032] 而被禁止外出哦！？
-[FID:78, TEXT:0033]
-[FID:78, TEXT:0034]
+[FID:78, TEXT:0033] 可能会消失哦
+[FID:78, TEXT:0034] 知道吗！？
 
 --- Group 201 [right:金加 next=2012] ---
 [FID:78, TEXT:0031] 但是，说不定会因为受罚
 [FID:78, TEXT:0032] 而被禁止外出哦！？
-[FID:78, TEXT:0033]
-[FID:78, TEXT:0034]
+[FID:78, TEXT:0033] 可能会消失哦
+[FID:78, TEXT:0034] 知道吗！？
 
 --- Group 202 [right:艾多斯 next=2012] ---
 [FID:78, TEXT:0031] 但是，说不定会因为受罚
 [FID:78, TEXT:0032] 而被禁止外出哦！？
-[FID:78, TEXT:0033]
-[FID:78, TEXT:0034]
+[FID:78, TEXT:0033] 可能会消失哦
+[FID:78, TEXT:0034] 知道吗！？
 
 --- Group 203 [right:雷德 next=2012] ---
 [FID:78, TEXT:0031] 但是，说不定会因为受罚
 [FID:78, TEXT:0032] 而被禁止外出哦！？
-[FID:78, TEXT:0033]
-[FID:78, TEXT:0034]
+[FID:78, TEXT:0033] 可能会消失哦
+[FID:78, TEXT:0034] 知道吗！？
 
 --- Group 204 [right:凯娜 next=2012] ---
 [FID:78, TEXT:0031] 但是，说不定会因为受罚
 [FID:78, TEXT:0032] 而被禁止外出哦！？
-[FID:78, TEXT:0033]
-[FID:78, TEXT:0034]
+[FID:78, TEXT:0033] 可能会消失哦
+[FID:78, TEXT:0034] 知道吗！？
 
 --- Group 205 [right:艾多斯 next=2012] ---
 [FID:78, TEXT:0031] 但是，说不定会因为受罚
 [FID:78, TEXT:0032] 而被禁止外出哦！？
-[FID:78, TEXT:0033]
-[FID:78, TEXT:0034]
+[FID:78, TEXT:0033] 可能会消失哦
+[FID:78, TEXT:0034] 知道吗！？
 
 --- Group 206 [right:埃尔金 next=2012] ---
 [FID:78, TEXT:0031] 但是，说不定会因为受罚
 [FID:78, TEXT:0032] 而被禁止外出哦！？
-[FID:78, TEXT:0033]
-[FID:78, TEXT:0034]
+[FID:78, TEXT:0033] 可能会消失哦
+[FID:78, TEXT:0034] 知道吗！？
 
 --- Group 207 [right:金加 next=2012] ---
 [FID:78, TEXT:0031] 但是，说不定会因为受罚
 [FID:78, TEXT:0032] 而被禁止外出哦！？
-[FID:78, TEXT:0033]
-[FID:78, TEXT:0034]
+[FID:78, TEXT:0033] 可能会消失哦
+[FID:78, TEXT:0034] 知道吗！？
 
 --- Group 208 [right:凯娜 next=2012] ---
 [FID:78, TEXT:0035] 那样的话，你也会
@@ -1363,38 +1378,47 @@
 --- Group 343 [left:none next=0023] ---
 [FID:78, TEXT:004D] 这是没办法的事
 [FID:78, TEXT:004E] 既然已经这样了，就下定决心吧
+[FID:78, TEXT:004F] 你要决定了呢
 
 --- Group 344 [left:none next=0023] ---
 [FID:78, TEXT:004D] 这是没办法的事
 [FID:78, TEXT:004E] 既然已经这样了，就下定决心吧
+[FID:78, TEXT:004F] 你要决定了呢
 
 --- Group 345 [left:none next=0023] ---
 [FID:78, TEXT:004D] 这是没办法的事
 [FID:78, TEXT:004E] 既然已经这样了，就下定决心吧
+[FID:78, TEXT:004F] 你要决定了呢
 
 --- Group 346 [left:主人公 next=0023] ---
 [FID:78, TEXT:004D] 这是没办法的事
 [FID:78, TEXT:004E] 既然已经这样了，就下定决心吧
+[FID:78, TEXT:004F] 我要决定了呢
 
 --- Group 347 [left:主人公 next=0023] ---
 [FID:78, TEXT:004D] 这是没办法的事
 [FID:78, TEXT:004E] 既然已经这样了，就下定决心吧
+[FID:78, TEXT:004F] 我要决定了呢
 
 --- Group 348 [left:主人公 next=0023] ---
 [FID:78, TEXT:004D] 这是没办法的事
 [FID:78, TEXT:004E] 既然已经这样了，就下定决心吧
+[FID:78, TEXT:004F] 我要决定了呢
 
 --- Group 349 [left:none next=0023] ---
 [FID:78, TEXT:004D] 这是没办法的事
 [FID:78, TEXT:004E] 既然已经这样了，就下定决心吧
+[FID:78, TEXT:004F] 你要决定了呢
 
 --- Group 350 [left:主人公 next=0023] ---
 [FID:78, TEXT:004D] 这是没办法的事
 [FID:78, TEXT:004E] 既然已经这样了，就下定决心吧
+[FID:78, TEXT:004F] 我要决定了呢
 
 --- Group 351 [left:主人公 next=0023] ---
 [FID:78, TEXT:004D] 这是没办法的事
 [FID:78, TEXT:004E] 既然已经这样了，就下定决心吧
+[FID:78, TEXT:004F] 我要决定了呢
 
 --- Group 352 [left:主人公 next=0023] ---
 [FID:78, TEXT:0050] 装傻吧！
@@ -2783,13 +2807,13 @@
 [FID:78, TEXT:00E0] 是叫巴诺萨的年轻人的
 [FID:78, TEXT:00E1] 憎恨，在责怪着宝玉
 [FID:78, TEXT:00E2] 吧……
-[FID:78, TEXT:00E3]
+[FID:78, TEXT:00E3] 吧……
 
 --- Group 681 [right:鼬 next=2012] ---
 [FID:78, TEXT:00E0] 是叫巴诺萨的年轻人的
 [FID:78, TEXT:00E1] 憎恨，在责怪着宝玉
 [FID:78, TEXT:00E2] 吧……
-[FID:78, TEXT:00E3]
+[FID:78, TEXT:00E3] 吧……
 
 --- Group 682 [left:主人公 next=2012] ---
 [FID:78, TEXT:00E4] 憎恨，吗……
@@ -2930,22 +2954,22 @@
 --- Group 714 [right:鼬 next=2012] ---
 [FID:78, TEXT:0104] 并且有人用它
 [FID:78, TEXT:0105] 毁灭了世界的话……
-[FID:78, TEXT:0106]
+[FID:78, TEXT:0106] 如果是这样的话……
 
 --- Group 715 [right:鼬 next=2012] ---
 [FID:78, TEXT:0104] 并且有人用它
 [FID:78, TEXT:0105] 毁灭了世界的话……
-[FID:78, TEXT:0106]
+[FID:78, TEXT:0106] 如果是这样的话……
 
 --- Group 716 [right:鼬 next=2012] ---
 [FID:78, TEXT:0107] 错的是使用它的人吗？
-[FID:78, TEXT:0108]
+[FID:78, TEXT:0108] 是谁呢？
 [FID:78, TEXT:0109] 还是，拥有强大力量的
 [FID:78, TEXT:010A] 物品呢？
 
 --- Group 717 [right:鼬 next=2012] ---
 [FID:78, TEXT:0107] 错的是使用它的人吗？
-[FID:78, TEXT:0108]
+[FID:78, TEXT:0108] 是谁呢？
 [FID:78, TEXT:0109] 还是，拥有强大力量的
 [FID:78, TEXT:010A] 物品呢？
 
@@ -3325,7 +3349,7 @@
 [FID:78, TEXT:0153] 这不是普通的剑
 [FID:78, TEXT:0154] 你应该知道这把剑
 [FID:78, TEXT:0155] 是用什么做的吧？
-[FID:78, TEXT:0156]
+[FID:78, TEXT:0156] 是吧？
 
 --- Group 802 [left:主人公 next=0023] ---
 [FID:78, TEXT:0157] 难道是
@@ -3382,22 +3406,22 @@
 --- Group 814 [right:鼬 next=2012] ---
 [FID:78, TEXT:0162] 这把剑如果使用不当
 [FID:78, TEXT:0163] 可能会毁灭世界
-[FID:78, TEXT:0164]
+[FID:78, TEXT:0164] 就变成了……
 
 --- Group 815 [right:鼬 next=2012] ---
 [FID:78, TEXT:0162] 这把剑如果使用不当
 [FID:78, TEXT:0163] 可能会毁灭世界
-[FID:78, TEXT:0164]
+[FID:78, TEXT:0164] 就变成了……
 
 --- Group 816 [right:鼬 next=2012] ---
 [FID:78, TEXT:0165] 那位召唤师知道这一点
 [FID:78, TEXT:0166] 所以才让我制作这把剑……
-[FID:78, TEXT:0167]
+[FID:78, TEXT:0167] 是你让他做的吧……
 
 --- Group 817 [right:鼬 next=2012] ---
 [FID:78, TEXT:0165] 那位召唤师知道这一点
 [FID:78, TEXT:0166] 所以才让我制作这把剑……
-[FID:78, TEXT:0167]
+[FID:78, TEXT:0167] 是你让他做的吧……
 
 --- Group 818 [right:鼬 next=2012] ---
 [FID:78, TEXT:0168] 是为了，毁灭世界
@@ -3448,12 +3472,12 @@
 --- Group 830 [right:鼬 next=2012] ---
 [FID:78, TEXT:0175] 能否不要让这把剑哭泣
 [FID:78, TEXT:0176] 并正确地使用它呢？
-[FID:78, TEXT:0177]
+[FID:78, TEXT:0177] 能帮我做吗？
 
 --- Group 831 [right:鼬 next=2012] ---
 [FID:78, TEXT:0175] 能否不要让这把剑哭泣
 [FID:78, TEXT:0176] 并正确地使用它呢？
-[FID:78, TEXT:0177]
+[FID:78, TEXT:0177] 能帮我做吗？
 
 --- Group 832 [left:主人公 next=0023] ---
 [FID:78, TEXT:0178] 可是，像我这样的人
@@ -3489,11 +3513,11 @@
 
 --- Group 840 [right:鼬 next=2012] ---
 [FID:78, TEXT:0180] 我认为你一定可以
-[FID:78, TEXT:0181]
+[FID:78, TEXT:0181] 我是这么想的
 
 --- Group 841 [right:鼬 next=2012] ---
 [FID:78, TEXT:0180] 我认为你一定可以
-[FID:78, TEXT:0181]
+[FID:78, TEXT:0181] 我是这么想的
 
 --- Group 842 [left:none next=2012] ---
 [FID:78, TEXT:0182] 明白了，老爷爷
@@ -3617,8 +3641,7 @@
 
 --- Group 869 [left:主人公 next=0023] ---
 [FID:78, TEXT:019A] 要不去
-[FID:78, TEXT:019B] 钓了鱼让
-[FID:78, TEXT:019C] 莉普蕾高兴高兴吧？
+[FID:78, TEXT:019D] 要试试看吗？
 
 --- Group 870 [left:主人公 next=0023] ---
 [FID:78, TEXT:019A] 要不去
@@ -3843,47 +3866,47 @@
 --- Group 913 [right:凯娜 next=2012] ---
 [FID:78, TEXT:01C6] 下次钓到什么的时候
 [FID:78, TEXT:01C7] 也要带到我这里来哦
-[FID:78, TEXT:01C8]
+[FID:78, TEXT:01C8] 拿来吧
 
 --- Group 914 [right:艾多斯 next=2012] ---
 [FID:78, TEXT:01C6] 下次钓到什么的时候
 [FID:78, TEXT:01C7] 也要带到我这里来哦
-[FID:78, TEXT:01C8]
+[FID:78, TEXT:01C8] 拿来吧
 
 --- Group 915 [right:金加 next=2012] ---
 [FID:78, TEXT:01C6] 下次钓到什么的时候
 [FID:78, TEXT:01C7] 也要带到我这里来哦
-[FID:78, TEXT:01C8]
+[FID:78, TEXT:01C8] 拿来吧
 
 --- Group 916 [right:雷德 next=2012] ---
 [FID:78, TEXT:01C6] 下次钓到什么的时候
 [FID:78, TEXT:01C7] 也要带到我这里来哦
-[FID:78, TEXT:01C8]
+[FID:78, TEXT:01C8] 拿来吧
 
 --- Group 917 [right:埃尔金 next=2012] ---
 [FID:78, TEXT:01C6] 下次钓到什么的时候
 [FID:78, TEXT:01C7] 也要带到我这里来哦
-[FID:78, TEXT:01C8]
+[FID:78, TEXT:01C8] 拿来吧
 
 --- Group 918 [right:金加 next=2012] ---
 [FID:78, TEXT:01C6] 下次钓到什么的时候
 [FID:78, TEXT:01C7] 也要带到我这里来哦
-[FID:78, TEXT:01C8]
+[FID:78, TEXT:01C8] 拿来吧
 
 --- Group 919 [right:凯娜 next=2012] ---
 [FID:78, TEXT:01C6] 下次钓到什么的时候
 [FID:78, TEXT:01C7] 也要带到我这里来哦
-[FID:78, TEXT:01C8]
+[FID:78, TEXT:01C8] 拿来吧
 
 --- Group 920 [right:埃尔金 next=2012] ---
 [FID:78, TEXT:01C6] 下次钓到什么的时候
 [FID:78, TEXT:01C7] 也要带到我这里来哦
-[FID:78, TEXT:01C8]
+[FID:78, TEXT:01C8] 拿来吧
 
 --- Group 921 [right:艾多斯 next=2012] ---
 [FID:78, TEXT:01C6] 下次钓到什么的时候
 [FID:78, TEXT:01C7] 也要带到我这里来哦
-[FID:78, TEXT:01C8]
+[FID:78, TEXT:01C8] 拿来吧
 
 --- Group 922 [right:金加 next=2012] ---
 [FID:78, TEXT:01C9] 我会拿出看家本领
@@ -4586,4 +4609,4 @@
 [FID:78, TEXT:0000] 
 [FID:78, TEXT:01DA] 【厨房】
 [FID:78, TEXT:0000] 
-[FID:78, TEXT:0000]
+[FID:78, TEXT:0000] 

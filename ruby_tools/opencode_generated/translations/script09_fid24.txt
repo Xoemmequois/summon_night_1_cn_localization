@@ -23,11 +23,13 @@
 [FID:24, TEXT:000A] 啊，毕竟是那个地方
 [FID:24, TEXT:000B] 嘛，士兵们也悠闲得很
 [FID:24, TEXT:000C] 还有喝醉的家伙呢
+[FID:24, TEXT:000D] 也有呢
 
 --- Group 7 [right:none next=2012] ---
 [FID:24, TEXT:000A] 啊，毕竟是那个地方
 [FID:24, TEXT:000B] 嘛，士兵们也悠闲得很
 [FID:24, TEXT:000C] 还有喝醉的家伙呢
+[FID:24, TEXT:000D] 也有呢
 
 --- Group 8 [left:none next=2012] ---
 [FID:24, TEXT:000E] 既然跟来了，也不能
@@ -37,10 +39,12 @@
 --- Group 9 [right:none next=2012] ---
 [FID:24, TEXT:0011] 那么，
 [FID:24, TEXT:0012] 好像在那里做料理呢
+[FID:24, TEXT:0013] 好像在做呢
 
 --- Group 10 [right:瞪羚 next=2012] ---
 [FID:24, TEXT:0011] 那么，
 [FID:24, TEXT:0012] 好像在那里做料理呢
+[FID:24, TEXT:0013] 好像在做呢
 
 --- Group 11 [left:none next=0023] ---
 [FID:24, TEXT:0014] 怎么办？
@@ -70,10 +74,12 @@
 --- Group 18 [left:瞪羚 next=2012] ---
 [FID:24, TEXT:001B] 你们好——！
 [FID:24, TEXT:001C] 我是来拿料理的——！！
+[FID:24, TEXT:001D] 来啦！！
 
 --- Group 19 [left:瞪羚 next=2012] ---
 [FID:24, TEXT:001B] 你们好——！
 [FID:24, TEXT:001C] 我是来拿料理的——！！
+[FID:24, TEXT:001D] 来啦！！
 
 --- Group 20 [left:瞪羚 next=2012] ---
 [FID:24, TEXT:001E] 不是在那边吗？
@@ -129,9 +135,11 @@
 
 --- Group 34 [right:瞪羚 next=2012] ---
 [FID:24, TEXT:002B] 我就是利用了这一点
+[FID:24, TEXT:002C] 这样啊
 
 --- Group 35 [right:none next=2012] ---
 [FID:24, TEXT:002B] 我就是利用了这一点
+[FID:24, TEXT:002C] 这样啊
 
 --- Group 36 [left:none next=0023] ---
 [FID:24, TEXT:002D] 呃，原来如此・・・
@@ -186,9 +194,11 @@
 
 --- Group 49 [right:none next=2012] ---
 [FID:24, TEXT:003E] 怎么，有什么不满吗？
+[FID:24, TEXT:003F] 有吗？
 
 --- Group 50 [right:瞪羚 next=2012] ---
 [FID:24, TEXT:003E] 怎么，有什么不满吗？
+[FID:24, TEXT:003F] 有吗？
 
 --- Group 51 [left:none next=0023] ---
 [FID:24, TEXT:0040] 不是啦，但是
@@ -301,13 +311,13 @@
 [FID:24, TEXT:0064] 是想让我蒙羞吗？
 [FID:24, TEXT:0065] 话说回来，那种小鬼
 [FID:24, TEXT:0066] 之类的・・・
-[FID:24, TEXT:0067]
+[FID:24, TEXT:0067] 等等……
 
 --- Group 75 [left:主人公 next=2012] ---
 [FID:24, TEXT:0064] 是想让我蒙羞吗？
 [FID:24, TEXT:0065] 话说回来，那种小鬼
 [FID:24, TEXT:0066] 之类的・・・
-[FID:24, TEXT:0067]
+[FID:24, TEXT:0067] 等等……
 
 --- Group 76 [right:伊姆兰 next=2012] ---
 [FID:24, TEXT:0068] 在这个会场哪里啊
@@ -339,37 +349,37 @@
 [FID:24, TEXT:0074] 的政务
 [FID:24, TEXT:0075] 由我来掌管，
 [FID:24, TEXT:0076] 伊姆兰·马恩大人
-[FID:24, TEXT:0077] 就是我！
 
 --- Group 84 [right:伊姆兰 next=2012] ---
+[FID:24, TEXT:0077] 哼，怎么样？
 [FID:24, TEXT:0078] 哼，怎么样？
-[FID:24, TEXT:0079] 吓得说不出话来了吧
 
 --- Group 85 [left:主人公 next=0023] ---
+[FID:24, TEXT:0079] 不，完全不像
 [FID:24, TEXT:007A] 呃，完全不像啊
-[FID:24, TEXT:007B] 呢……
 
 --- Group 86 [left:主人公 next=0023] ---
+[FID:24, TEXT:007B] 不……
 [FID:24, TEXT:007C] 呃……
 [FID:24, TEXT:007D] 我怎么看都不像
-[FID:24, TEXT:007E] 呢……
 
 --- Group 87 [left:主人公 next=0023] ---
-[FID:24, TEXT:007F] ……你是谁？
+[FID:24, TEXT:007E] ……谁啊？
 
 --- Group 88 [left:主人公 next=0023] ---
+[FID:24, TEXT:007F] 不……真正的
 [FID:24, TEXT:0080] 不……真正的
 [FID:24, TEXT:0081] 伊姆兰大人
-[FID:24, TEXT:0082] 在哪里……？
 
 --- Group 89 [right:伊姆兰 next=2012] ---
-[FID:24, TEXT:0083] 纳尼？！
+[FID:24, TEXT:0082] 怎么会——！？
 
 --- Group 90 [right:瞪羚 next=2012] ---
+[FID:24, TEXT:0083] 喂，@ n 
 [FID:24, TEXT:0084] 喂，@ n 
-[FID:24, TEXT:0085] 别说多余的话！
 
 --- Group 91 [right:瞪羚 next=2012] ---
+[FID:24, TEXT:0085] 大概是那样
 [FID:24, TEXT:0086] 就算不说
 [FID:24, TEXT:0087] 看看不就知道了嘛！
 

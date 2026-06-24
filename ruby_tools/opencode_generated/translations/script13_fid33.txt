@@ -64,7 +64,6 @@
 --- Group 17 [left:主人公 next=2012] ---
 [FID:33, TEXT:0038] 如果是这样的话，
 [FID:33, TEXT:0039] 之前对那个剑士
-[FID:33, TEXT:003A] 表现出的警戒也就
 [FID:33, TEXT:003A] 很好理解了
 
 --- Group 18 [left:主人公 next=2012] ---
@@ -224,18 +223,17 @@
 --- Group 56 [left:主人公 next=2012] ---
 [FID:33, TEXT:008B] 我之所以来到这里
 [FID:33, TEXT:008C] ，是不是因为
-[FID:33, TEXT:008D] 被那个声音的主人
 [FID:33, TEXT:008D] 呼唤的呢
 
 --- Group 57 [left:主人公 next=0023] ---
 [FID:33, TEXT:008E] 那时候的呼唤声
 [FID:33, TEXT:00A9] 那，不是你吗？
-[FID:33, TEXT:00AA]
+[FID:33, TEXT:00AA] 没有吗？
 
 --- Group 58 [left:主人公 next=0023] ---
 [FID:33, TEXT:008E] 那时候的呼唤声
 [FID:33, TEXT:008F] 那，不就是你吗？
-[FID:33, TEXT:0090]
+[FID:33, TEXT:0090] 不是吗？
 
 --- Group 59 [left:主人公 next=2012] ---
 [FID:33, TEXT:0091] “救救我”
@@ -357,4 +355,240 @@
 --- Group 87 [left:主人公 next=0023] ---
 [FID:33, TEXT:0152] 虽然有点不安，
 [FID:33, TEXT:0153] 但还是应该
-[FID:33, TEXT:015
+[FID:33, TEXT:0154] 应该……对吧……
+
+--- Group 88 [left:主人公 next=0023] ---
+[FID:33, TEXT:0155] 索尔
+[FID:33, TEXT:0158] 呐，请把事实
+[FID:33, TEXT:0159] 告诉我吧……
+
+--- Group 89 [left:主人公 next=0023] ---
+[FID:33, TEXT:0155] 索尔
+[FID:33, TEXT:0156] 把事实
+[FID:33, TEXT:0157] 告诉我好吗？
+
+--- Group 90 [left:主人公 next=0023] ---
+[FID:33, TEXT:015A] 索尔先生
+[FID:33, TEXT:015B] 请把事实告诉我
+[FID:33, TEXT:015C] 可以吗？
+
+--- Group 91 [right:索尔 next=2012] ---
+[FID:33, TEXT:015D] ………
+
+--- Group 92 [left:主人公 next=2012] ---
+[FID:33, TEXT:015E] 那时，在那个地方
+[FID:33, TEXT:0167] 你也在那里这件事
+
+--- Group 93 [left:主人公 next=2012] ---
+[FID:33, TEXT:015E] 那时，在那个地方
+[FID:33, TEXT:015F] 你在那里这件事
+
+--- Group 94 [left:主人公 next=0023] ---
+[FID:33, TEXT:0160] 我无论如何都觉得不是偶然
+
+--- Group 95 [left:主人公 next=2012] ---
+[FID:33, TEXT:0162] 那时……你
+[FID:33, TEXT:0163] 在那里这件事
+[FID:33, TEXT:0164] 呢……
+
+--- Group 96 [left:主人公 next=0023] ---
+[FID:33, TEXT:0165] 我觉得不是偶然
+
+--- Group 97 [left:主人公 next=0023] ---
+[FID:33, TEXT:0168] 我觉得不是偶然
+
+--- Group 98 [right:索尔 next=2012] ---
+[FID:33, TEXT:016A] 还在怀疑我吗？
+[FID:33, TEXT:016B] 我……！
+
+--- Group 99 [right:索尔 next=2012] ---
+[FID:33, TEXT:016C] 证据！？
+[FID:33, TEXT:016D] 有证据吗！？
+
+--- Group 100 [left:主人公 next=2012] ---
+[FID:33, TEXT:016E] ……有
+
+--- Group 101 [left:主人公 next=0023] ---
+[FID:33, TEXT:016F] 证据就是……你一开始
+[FID:33, TEXT:0170] 就知道我的名字
+[FID:33, TEXT:0171] 这件事
+
+--- Group 102 [left:主人公 next=2012] ---
+[FID:33, TEXT:0172] ……有哦
+
+--- Group 103 [left:主人公 next=0023] ---
+[FID:33, TEXT:0173] 因为，从一开始
+[FID:33, TEXT:0174] 你就知道我的名字
+[FID:33, TEXT:0175] 了嘛……
+
+--- Group 104 [left:主人公 next=2012] ---
+[FID:33, TEXT:0176] ……嗯
+
+--- Group 105 [left:主人公 next=0023] ---
+[FID:33, TEXT:0177] 证据是……
+[FID:33, TEXT:0178] 你，从一开始
+[FID:33, TEXT:0179] 就知道我的名字
+[FID:33, TEXT:017A] 这件事……
+
+--- Group 106 [left:主人公 next=2012] ---
+[FID:33, TEXT:017B] ！！
+
+--- Group 107 [right:索尔 next=2012] ---
+[FID:33, TEXT:017B] ！！
+
+--- Group 108 [left:主人公 next=2012] ---
+[FID:33, TEXT:017C] 不止如此
+[FID:33, TEXT:017D] 你还知道很多
+[FID:33, TEXT:017E] 不该知道的事情
+
+--- Group 109 [left:主人公 next=2012] ---
+[FID:33, TEXT:0180] 就像，一直监视
+[FID:33, TEXT:0181] 着我一样……
+
+--- Group 110 [left:主人公 next=0023] ---
+[FID:33, TEXT:0182] 不是吗？
+
+--- Group 111 [left:主人公 next=2012] ---
+[FID:33, TEXT:0183] 你知道的
+[FID:33, TEXT:0184] 不止我的名字
+[FID:33, TEXT:0185] 还知道很多
+[FID:33, TEXT:0186] 不该知道的事情……
+
+--- Group 112 [left:主人公 next=0023] ---
+[FID:33, TEXT:0187] 不是吗？
+
+--- Group 113 [left:主人公 next=2012] ---
+[FID:33, TEXT:0188] 不该知道的
+[FID:33, TEXT:0189] 事情……你
+[FID:33, TEXT:018A] 知道很多
+[FID:33, TEXT:018B] ……
+
+--- Group 114 [left:主人公 next=2012] ---
+[FID:33, TEXT:018C] 就像，一直看着
+[FID:33, TEXT:018D] 我一样……
+
+--- Group 115 [left:主人公 next=0023] ---
+[FID:33, TEXT:018E] 不是吗？
+
+--- Group 116 [right:索尔 next=2012] ---
+[FID:33, TEXT:018F] ……被发现了啊
+
+--- Group 117 [right:索尔 next=2012] ---
+[FID:33, TEXT:0190] 那时，我在那个地方
+[FID:33, TEXT:0191] 不是偶然的
+
+--- Group 118 [right:索尔 next=2012] ---
+[FID:33, TEXT:0193] 我是跟踪
+[FID:33, TEXT:0194] 你们来的……
+
+--- Group 119 [left:主人公 next=0023] ---
+[FID:33, TEXT:01E0] 为什么
+[FID:33, TEXT:01E2] 要那样做？
+
+--- Group 120 [left:主人公 next=0023] ---
+[FID:33, TEXT:01E0] 为什么
+[FID:33, TEXT:01E1] 要做那种事！？
+
+--- Group 121 [left:主人公 next=0023] ---
+[FID:33, TEXT:01E0] 为什么
+[FID:33, TEXT:01E3] 要做那种事……
+
+--- Group 122 [right:索尔 next=2012] ---
+[FID:33, TEXT:01E4] 因为有必要
+[FID:33, TEXT:01E5] 确认一下
+
+--- Group 123 [right:索尔 next=2012] ---
+[FID:33, TEXT:01E6] 你们是不是
+[FID:33, TEXT:01E7] 危险的存在
+[FID:33, TEXT:01E8] 呢
+
+--- Group 124 [right:索尔 next=2012] ---
+[FID:33, TEXT:01E9] 作为那个仪式的
+[FID:33, TEXT:01EA] 生还者，我
+[FID:33, TEXT:01EB] 有义务这样做
+
+--- Group 125 [right:索尔 next=2012] ---
+[FID:33, TEXT:01EC] 如果有必要，我
+[FID:33, TEXT:01ED] 打算处理掉你
+
+--- Group 126 [right:索尔 next=2012] ---
+[FID:33, TEXT:01EE] 没有任何人教我
+[FID:33, TEXT:01EF] 就使用了【召唤术】
+
+--- Group 127 [right:索尔 next=2012] ---
+[FID:33, TEXT:01F1] 我……
+[FID:33, TEXT:01F2] 判断你为危险
+[FID:33, TEXT:01F3] 而要消灭你
+[FID:33, TEXT:01F4] 是充分的理由吧？
+
+--- Group 128 [right:索尔 next=2012] ---
+[FID:33, TEXT:01F5] 但是啊……
+
+--- Group 129 [left:主人公 next=2012] ---
+[FID:33, TEXT:01F6] 但是？
+
+--- Group 130 [right:索尔 next=2012] ---
+[FID:33, TEXT:01F7] 不行啊，
+[FID:33, TEXT:01F8] 我无论如何都
+[FID:33, TEXT:01F9] 无法认为你
+[FID:33, TEXT:01FA] 是危险的存在
+
+--- Group 131 [right:索尔 next=2012] ---
+[FID:33, TEXT:01FC] 那个力量很危险，
+[FID:33, TEXT:01FD] 但你
+[FID:33, TEXT:01FE] 并不是危险的
+
+--- Group 132 [left:主人公 next=0023] ---
+[FID:33, TEXT:01FF] 索尔……
+
+--- Group 133 [left:主人公 next=0023] ---
+[FID:33, TEXT:0200] 索尔先生……
+
+--- Group 134 [right:索尔 next=2012] ---
+[FID:33, TEXT:0201] 所以我决定了
+[FID:33, TEXT:0202] 一定会把你
+[FID:33, TEXT:0203] 卷进来的你，送回
+[FID:33, TEXT:0204] 原来的世界……
+
+--- Group 135 [right:索尔 next=2012] ---
+[FID:33, TEXT:0205] 相信我
+[FID:33, TEXT:0206] 这就是全部了
+
+--- Group 136 [right:索尔 next=0023] ---
+[FID:33, TEXT:0207] 怎么办？
+
+--- Group 137 [right:索尔 next=0023] ---
+[FID:33, TEXT:0208] 　我相信
+[FID:33, TEXT:0209] 　怎么会……
+
+--- Group 138 [right:索尔 next=0023] ---
+[FID:33, TEXT:020A] 　我相信
+[FID:33, TEXT:0209] 　怎么会……
+
+--- Group 139 [left:主人公 next=2012] ---
+[FID:33, TEXT:0261] 我不知道
+[FID:33, TEXT:0262] 我竟然
+[FID:33, TEXT:0263] 处于那种立场……
+
+--- Group 140 [left:主人公 next=2012] ---
+[FID:33, TEXT:0261] 我不知道
+[FID:33, TEXT:0265] 我竟然处于那种
+[FID:33, TEXT:0266] 立场……
+
+--- Group 141 [left:主人公 next=0023] ---
+[FID:33, TEXT:0264] ……！？
+
+--- Group 142 [left:主人公 next=2012] ---
+[FID:33, TEXT:0267] 我不知道……
+[FID:33, TEXT:0268] 我……
+[FID:33, TEXT:0269] 竟然处于
+[FID:33, TEXT:026A] 那种状况……
+
+--- Group 143 [left:主人公 next=2012] ---
+[FID:33, TEXT:026B] 什么都不知道呢……
+[FID:33, TEXT:026C] 我
+[FID:33, TEXT:026D] 自己的立场
+[FID:33, TEXT:026E] 什么的……
+
+--- Group 144 [left:主人公 next=0023] ---
+[FID:33, TEXT:026F] ……？？

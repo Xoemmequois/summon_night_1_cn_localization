@@ -140,55 +140,172 @@ def save_progress(progress):
         json.dump(progress, f, ensure_ascii=False, indent=2)
 
 
+def parse_groups_dict(content):
+    groups = {}
+    order = []
+    cur_num = None
+    cur = None
+    for line in content.split("\n"):
+        if line.startswith("--- Group "):
+            if cur is not None and cur_num is not None:
+                groups[cur_num] = cur
+            m = re.search(r"Group (\d+)", line)
+            cur_num = int(m.group(1)) if m else None
+            cur = {"header": line, "lines": []}
+            if cur_num is not None:
+                order.append(cur_num)
+        elif cur is not None:
+            if not line.strip():
+                continue
+            m = re.match(r"^(\[FID:[^\]]+\]) (.*)", line)
+            if m:
+                cur["lines"].append((m.group(1), m.group(2)))
+            else:
+                cur["lines"].append(("", line))
+    if cur is not None and cur_num is not None:
+        groups[cur_num] = cur
+    return groups, order
+
+
+def build_block(header, lines):
+    out = [header]
+    for tag, text in lines:
+        out.append(f"{tag} {text}" if tag else text)
+    return "\n".join(out)
+
+
+def translate_missing(session, missing_blocks, name):
+    blocks_text = "\n\n".join(build_block(h, lines) for _, h, lines in missing_blocks)
+    chunks = split_into_chunks(blocks_text)
+    patch = {}
+    for i, chunk in enumerate(chunks):
+        print(f"  [{name}] Completing chunk {i + 1}/{len(chunks)} ...")
+        try:
+            result = call_api(session, chunk)
+        except Exception as e:
+            print(f"  [{name}] Completion chunk {i + 1} FAILED: {e}")
+            continue
+        if not result:
+            continue
+        rg, _ = parse_groups_dict(result)
+        for num, g in rg.items():
+            for tag, text in g["lines"]:
+                if tag:
+                    patch[(num, tag)] = text
+    return patch
+
+
+def complete_translation(session, replaced, final, name):
+    orig_groups, orig_order = parse_groups_dict(replaced)
+    trans_groups, _ = parse_groups_dict(final)
+
+    trans_lookup = {}
+    for num, g in trans_groups.items():
+        for tag, text in g["lines"]:
+            if tag:
+                trans_lookup[(num, tag)] = text
+
+    missing_blocks = []
+    for num in orig_order:
+        og = orig_groups[num]
+        missing_lines = [
+            (tag, text)
+            for tag, text in og["lines"]
+            if tag and (num, tag) not in trans_lookup
+        ]
+        if missing_lines:
+            missing_blocks.append((num, og["header"], missing_lines))
+
+    if not missing_blocks:
+        return final, False
+
+    total_missing = sum(len(b[2]) for b in missing_blocks)
+    print(f"  [{name}] {len(missing_blocks)} groups / {total_missing} lines missing, completing...")
+    patch = translate_missing(session, missing_blocks, name)
+    trans_lookup.update(patch)
+
+    out = []
+    still_missing = 0
+    for num in orig_order:
+        og = orig_groups[num]
+        out.append(og["header"])
+        for tag, text in og["lines"]:
+            if not tag:
+                out.append(text)
+            elif (num, tag) in trans_lookup:
+                out.append(f"{tag} {trans_lookup[(num, tag)]}")
+            else:
+                still_missing += 1
+        out.append("")
+
+    if still_missing:
+        print(f"  [{name}] WARNING: {still_missing} lines still untranslated (will retry next run)")
+    return "\n".join(out).rstrip("\n") + "\n", True
+
+
 def translate_file(session, filepath, char_map, progress):
     name = filepath.name
     output_path = OUTPUT_DIR / name
 
-    if name in progress and progress[name] == "done":
-        if output_path.exists():
-            return True
-
     with open(filepath, "r", encoding="utf-8") as f:
         content = f.read()
-
     replaced = replace_char_ids(content, char_map)
-    chunks = split_into_chunks(replaced)
-    total_chunks = len(chunks)
 
-    chunk_progress_key = f"{name}_chunks"
-    done_chunks = progress.get(chunk_progress_key, {})
-    translated_parts = []
+    is_done = progress.get(name) == "done" and output_path.exists()
 
-    for i, chunk in enumerate(chunks):
-        chunk_key = str(i)
-        if chunk_key in done_chunks:
-            translated_parts.append(done_chunks[chunk_key])
-            print(f"  [{name}] Chunk {i + 1}/{total_chunks} (cached)")
-            continue
+    if is_done:
+        with open(output_path, "r", encoding="utf-8") as f:
+            final = f.read()
+        new_file = False
+    else:
+        chunks = split_into_chunks(replaced)
+        total_chunks = len(chunks)
 
-        print(f"  [{name}] Chunk {i + 1}/{total_chunks} translating...")
-        try:
-            result = call_api(session, chunk)
-            if result:
-                translated_parts.append(result)
-                done_chunks[chunk_key] = result
-                progress[chunk_progress_key] = done_chunks
-                save_progress(progress)
-            else:
-                print(f"  [{name}] Chunk {i + 1} returned empty!")
+        chunk_progress_key = f"{name}_chunks"
+        done_chunks = progress.get(chunk_progress_key, {})
+        translated_parts = []
+
+        for i, chunk in enumerate(chunks):
+            chunk_key = str(i)
+            if chunk_key in done_chunks:
+                translated_parts.append(done_chunks[chunk_key])
+                print(f"  [{name}] Chunk {i + 1}/{total_chunks} (cached)")
+                continue
+
+            print(f"  [{name}] Chunk {i + 1}/{total_chunks} translating...")
+            try:
+                result = call_api(session, chunk)
+                if result:
+                    translated_parts.append(result)
+                    done_chunks[chunk_key] = result
+                    progress[chunk_progress_key] = done_chunks
+                    save_progress(progress)
+                else:
+                    print(f"  [{name}] Chunk {i + 1} returned empty!")
+                    translated_parts.append(chunk)
+            except Exception as e:
+                print(f"  [{name}] Chunk {i + 1} FAILED: {e}")
                 translated_parts.append(chunk)
-        except Exception as e:
-            print(f"  [{name}] Chunk {i + 1} FAILED: {e}")
-            translated_parts.append(chunk)
 
-    final = "\n\n".join(translated_parts) + "\n"
-    output_path.parent.mkdir(parents=True, exist_ok=True)
-    with open(output_path, "w", encoding="utf-8") as f:
-        f.write(final)
+        final = "\n\n".join(translated_parts) + "\n"
+        new_file = True
+
+    completed, changed = complete_translation(session, replaced, final, name)
+
+    if new_file or changed:
+        output_path.parent.mkdir(parents=True, exist_ok=True)
+        with open(output_path, "w", encoding="utf-8") as f:
+            f.write(completed)
 
     progress[name] = "done"
     save_progress(progress)
-    print(f"  [{name}] Done ({total_chunks} chunks)")
+
+    if new_file:
+        print(f"  [{name}] Done")
+    elif changed:
+        print(f"  [{name}] Completed missing translations")
+    else:
+        print(f"  [{name}] Already complete")
     return True
 
 
@@ -210,20 +327,16 @@ def main():
         sys.exit(1)
 
     progress = load_progress()
-    remaining = [f for f in files if f.name not in progress or progress[f.name] != "done"]
-    print(f"Total files: {len(files)}, Already done: {len(files) - len(remaining)}, Remaining: {len(remaining)}")
-
-    if not remaining:
-        print("All files translated!")
-        return
+    done = sum(1 for f in files if progress.get(f.name) == "done")
+    print(f"Total files: {len(files)}, Already done: {done} (all will be re-checked for missing translations)")
 
     session = requests.Session()
     if proxy_url:
         session.proxies = {"http": proxy_url, "https": proxy_url}
     session.headers["Authorization"] = f"Bearer {api_key}"
 
-    for i, filepath in enumerate(remaining):
-        print(f"\n[{i + 1}/{len(remaining)}] Processing {filepath.name}...")
+    for i, filepath in enumerate(files):
+        print(f"\n[{i + 1}/{len(files)}] Processing {filepath.name}...")
         translate_file(session, filepath, char_map, progress)
 
     done_count = sum(1 for f in files if f.name in progress and progress[f.name] == "done")

@@ -75,6 +75,30 @@ def process_texts(orig_texts, trans_texts):
     return result
 
 
+def load_g_groups(path):
+    g = {}
+    cur_num = None
+    cur_lines = None
+    is_g = False
+    for line in path.read_text(encoding="utf-8").split("\n"):
+        if line.startswith("--- Group "):
+            if cur_num is not None and is_g:
+                while cur_lines and cur_lines[-1].strip() == "":
+                    cur_lines.pop()
+                g[cur_num] = cur_lines
+            m = re.search(r"Group (\d+)", line)
+            cur_num = int(m.group(1)) if m else None
+            cur_lines = [line]
+            is_g = line.rstrip().endswith("G")
+        elif cur_num is not None:
+            cur_lines.append(line)
+    if cur_num is not None and is_g:
+        while cur_lines and cur_lines[-1].strip() == "":
+            cur_lines.pop()
+        g[cur_num] = cur_lines
+    return g
+
+
 def process_file(orig_path, trans_path, out_path):
     with open(orig_path, "r", encoding="utf-8") as f:
         orig_groups = parse_groups(f.read())
@@ -87,15 +111,27 @@ def process_file(orig_path, trans_path, out_path):
         if m:
             orig_map[int(m.group(1))] = g
 
-    output_lines = []
+    old_g = load_g_groups(out_path) if out_path.exists() else {}
+
+    blocks = []
     seen_tags = set()
 
     for tg in trans_groups:
         m = re.search(r"Group (\d+)", tg["header"])
         group_num = int(m.group(1)) if m else -1
+
+        if group_num in old_g:
+            block = list(old_g[group_num])
+            for ln in block:
+                tm = re.match(r"^[+-]?(\[FID:[^\]]+\])", ln)
+                if tm:
+                    seen_tags.add(tm.group(1))
+            blocks.append(block)
+            continue
+
         og = orig_map.get(group_num)
 
-        output_lines.append(tg["header"])
+        block = [tg["header"]]
 
         if og:
             orig_tags = [l["tag"] for l in og["lines"]]
@@ -114,7 +150,7 @@ def process_file(orig_path, trans_path, out_path):
             trans_texts = [trans_tag_map.get(tag, "") for tag in orig_tags]
 
             for text in orig_texts:
-                output_lines.append(text)
+                block.append(text)
 
             processed = process_texts(orig_texts, trans_texts)
 
@@ -126,18 +162,23 @@ def process_file(orig_path, trans_path, out_path):
                 if tag:
                     marker = "+" if tag not in seen_tags else "-"
                     seen_tags.add(tag)
-                    output_lines.append(f"{marker}{tag} {text}")
+                    block.append(f"{marker}{tag} {text}")
                 else:
-                    output_lines.append(text)
+                    block.append(text)
         else:
             for l in tg["lines"]:
                 if l["tag"]:
                     marker = "+" if l["tag"] not in seen_tags else "-"
                     seen_tags.add(l["tag"])
-                    output_lines.append(f"{marker}{l['tag']} {l['text']}")
+                    block.append(f"{marker}{l['tag']} {l['text']}")
                 else:
-                    output_lines.append(l["text"])
+                    block.append(l["text"])
 
+        blocks.append(block)
+
+    output_lines = []
+    for block in blocks:
+        output_lines.extend(block)
         output_lines.append("")
 
     out_path.parent.mkdir(parents=True, exist_ok=True)

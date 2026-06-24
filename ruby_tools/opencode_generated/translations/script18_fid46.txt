@@ -147,7 +147,7 @@
 --- Group 39 [left:主人公 next=0023] ---
 [FID:46, TEXT:0040] 和骑士团战斗的，
 [FID:46, TEXT:0041] 是您的前辈吧？
-[FID:46, TEXT:0042]
+[FID:46, TEXT:0042] 诶？
 
 --- Group 40 [left:主人公 next=2012] ---
 [FID:46, TEXT:0043] 雷德先生……
@@ -157,7 +157,6 @@
 [FID:46, TEXT:0044] 关于兰姆达先生
 [FID:46, TEXT:0045] 的事情，
 [FID:46, TEXT:0046] 就这么放着不管，
-[FID:46, TEXT:0047] 没关系吗？
 
 --- Group 42 [left:主人公 next=0023] ---
 [FID:46, TEXT:0047] 雷德先生的前辈
@@ -169,6 +168,7 @@
 
 --- Group 44 [right:雷德 next=2012] ---
 [FID:46, TEXT:004A] ……去了又能怎样？
+[FID:46, TEXT:004B] 你叫我怎么办啊
 
 --- Group 45 [right:雷德 next=2012] ---
 [FID:46, TEXT:004C] 和前辈兰姆达
@@ -190,7 +190,7 @@
 --- Group 49 [right:雷德 next=2012] ---
 [FID:46, TEXT:0055] 说实话，我现在，
 [FID:46, TEXT:0056] 不知道该怎么办。
-[FID:46, TEXT:0057]
+[FID:46, TEXT:0057] 我不知道啊
 
 --- Group 50 [right:雷德 next=2012] ---
 [FID:46, TEXT:0058] 该怎么做，
@@ -320,7 +320,7 @@
 --- Group 80 [left:艾多斯 next=2012] ---
 [FID:46, TEXT:0094] 之后再决定
 [FID:46, TEXT:009C] 该怎么做就可以了。
-[FID:46, TEXT:009D]
+[FID:46, TEXT:009D] 是这样的
 
 --- Group 81 [left:艾多斯 next=0023] ---
 [FID:46, TEXT:0097] 在为时已晚之前！

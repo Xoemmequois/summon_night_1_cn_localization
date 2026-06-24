@@ -9,7 +9,7 @@
 --- Group 3 [left:none next=0023] ---
 [FID:5C, TEXT:0003] 诶，但是……
 [FID:5C, TEXT:0007] 这里不是酒馆吗？
-[FID:5C, TEXT:0008]
+[FID:5C, TEXT:0008] 没有吗？
 
 --- Group 4 [left:none next=0023] ---
 [FID:5C, TEXT:0003] 诶，但是……
@@ -25,15 +25,15 @@
 
 --- Group 7 [right:瞪羚 next=2012] ---
 [FID:5C, TEXT:0009] 只是表面上说是酒馆而已。
-[FID:5C, TEXT:000A]
+[FID:5C, TEXT:000A] 只是变成那样了
 [FID:5C, TEXT:000B] 毕竟，这里是秘密基地。
-[FID:5C, TEXT:000C]
+[FID:5C, TEXT:000C] 罢了
 
 --- Group 8 [right:主人公 next=2012] ---
 [FID:5C, TEXT:0009] 只是表面上说是酒馆而已。
-[FID:5C, TEXT:000A]
+[FID:5C, TEXT:000A] 只是变成那样了
 [FID:5C, TEXT:000B] 毕竟，这里是秘密基地。
-[FID:5C, TEXT:000C]
+[FID:5C, TEXT:000C] 罢了
 
 --- Group 9 [right:主人公 next=2012] ---
 [FID:5C, TEXT:000D] 走，进去吧？
@@ -94,7 +94,7 @@
 --- Group 24 [right:佩尔戈 next=2012] ---
 [FID:5C, TEXT:0024] 既然都来到酒馆了，
 [FID:5C, TEXT:0025] 要不要喝点什么呢？
-[FID:5C, TEXT:0026]
+[FID:5C, TEXT:0026] 您看怎么样？
 
 --- Group 25 [left:none next=0023] ---
 [FID:5C, TEXT:0027] 呃，酒的话……
@@ -112,7 +112,7 @@
 --- Group 29 [right:佩尔戈 next=2012] ---
 [FID:5C, TEXT:002C] 哈哈，既然这样，
 [FID:5C, TEXT:002D] 就给您来杯水果汁吧。
-[FID:5C, TEXT:002E]
+[FID:5C, TEXT:002E] 我就送给您吧
 
 --- Group 30 [left:none next=2012] ---
 [FID:5C, TEXT:002F] ……
@@ -140,7 +140,7 @@
 
 --- Group 37 [right:塞西尔 next=2012] ---
 [FID:5C, TEXT:0037] 我们有那么可怕吗？
-[FID:5C, TEXT:0038]
+[FID:5C, TEXT:0038] 是不是有点可怕？
 
 --- Group 38 [left:none next=0023] ---
 [FID:5C, TEXT:0039] 呃，那个……
@@ -154,7 +154,7 @@
 
 --- Group 41 [left:none next=0023] ---
 [FID:5C, TEXT:003D] 啊，不，不是那个意思，
-[FID:5C, TEXT:003E]
+[FID:5C, TEXT:003E] 也不是说
 
 --- Group 42 [right:佩尔戈 next=2012] ---
 [FID:5C, TEXT:003F] 这是个难得的机会，
@@ -165,13 +165,13 @@
 [FID:5C, TEXT:0042] 是啊……
 [FID:5C, TEXT:0043] 这样的机会，
 [FID:5C, TEXT:0044] 可能再也不会有了……
-[FID:5C, TEXT:0045]
+[FID:5C, TEXT:0045] 也许会……
 
 --- Group 44 [left:none next=2012] ---
 [FID:5C, TEXT:0046] 对了，趁这个机会
 [FID:5C, TEXT:0047] 了解一下他们
 [FID:5C, TEXT:0048] 也许是必要的。
-[FID:5C, TEXT:0049]
+[FID:5C, TEXT:0049] 也许会呢
 
 --- Group 45 [left:none next=0023] ---
 [FID:5C, TEXT:004A] 不管以后会怎么样，
@@ -181,13 +181,13 @@
 [FID:5C, TEXT:004C] 啊，确实……
 [FID:5C, TEXT:0043] 这样的机会，
 [FID:5C, TEXT:0044] 可能再也不会有了……
-[FID:5C, TEXT:0045]
+[FID:5C, TEXT:0045] 也许会……
 
 --- Group 47 [left:none next=0023] ---
 [FID:5C, TEXT:004D] 说起来……
 [FID:5C, TEXT:0043] 这样的机会，
 [FID:5C, TEXT:0044] 可能再也不会有了……
-[FID:5C, TEXT:0045]
+[FID:5C, TEXT:0045] 也许会……
 
 --- Group 48 [left:none next=2015] ---
 [FID:5C, TEXT:004E] 怎么办？
@@ -196,11 +196,11 @@
 
 --- Group 49 [left:none next=0023] ---
 [FID:5C, TEXT:0051] 这里，真的是酒馆吗？
-[FID:5C, TEXT:0052]
+[FID:5C, TEXT:0052] 是什么啊？
 
 --- Group 50 [left:none next=0023] ---
 [FID:5C, TEXT:0053] 这家酒馆，真的在营业吗？
-[FID:5C, TEXT:0054]
+[FID:5C, TEXT:0054] 正在做什么呢？
 
 --- Group 51 [right:佩尔戈 next=2012] ---
 [FID:5C, TEXT:0055] 是的，当然。
@@ -210,7 +210,7 @@
 --- Group 52 [right:佩尔戈 next=2012] ---
 [FID:5C, TEXT:0058] 不过，基本上都是
 [FID:5C, TEXT:0059] 我一个人在经营就是了。
-[FID:5C, TEXT:005A]
+[FID:5C, TEXT:005A] 不过是
 
 --- Group 53 [left:none next=2012] ---
 [FID:5C, TEXT:005B] 诶？
@@ -221,12 +221,12 @@
 
 --- Group 55 [right:佩尔戈 next=2012] ---
 [FID:5C, TEXT:005E] 没什么了不起的。
-[FID:5C, TEXT:005F]
+[FID:5C, TEXT:005F] 没有哦
 
 --- Group 56 [left:塞西尔 next=2012] ---
 [FID:5C, TEXT:0060] 你这么说，
 [FID:5C, TEXT:0061] 我不就没面子了吗？
-[FID:5C, TEXT:0062]
+[FID:5C, TEXT:0062] 不是吗？
 
 --- Group 57 [right:佩尔戈 next=2012] ---
 [FID:5C, TEXT:0063] 哎呀，失礼了。
@@ -234,12 +234,12 @@
 --- Group 58 [left:none next=0023] ---
 [FID:5C, TEXT:0064] 你们是怎么
 [FID:5C, TEXT:0065] 来到阿库特的呢？
-[FID:5C, TEXT:0066]
+[FID:5C, TEXT:0066] 怎么了吗？
 
 --- Group 59 [left:none next=0023] ---
 [FID:5C, TEXT:0067] 为什么，你们
 [FID:5C, TEXT:0065] 来到阿库特的呢？
-[FID:5C, TEXT:0066]
+[FID:5C, TEXT:0066] 怎么了吗？
 
 --- Group 60 [right:斯塔乌特 next=2012] ---
 [FID:5C, TEXT:0068] ……这么问啊。

@@ -53,7 +53,6 @@
 
 --- Group 9 [left:none next=201D] ---
 [FID:86, TEXT:0000] 
-[FID:86, TEXT:0000] 
 [FID:86, TEXT:0018] 　　我，只要是为了守护重要之物
 [FID:86, TEXT:0019] 　　就能变得坚强
 [FID:86, TEXT:001A] 　　和相信我的伙伴们一起
@@ -759,9 +758,11 @@
 
 --- Group 157 [right:金加 next=2012] ---
 [FID:86, TEXT:00E1] 我，相信大姐的！
+[FID:86, TEXT:00E0] 我相信你！
 
 --- Group 158 [right:金加 next=2012] ---
 [FID:86, TEXT:00E1] 我，相信大姐的！
+[FID:86, TEXT:00E0] 我相信你！
 
 --- Group 159 [right:金加 next=2012] ---
 [FID:86, TEXT:00E2] 所以，别再多想了
@@ -857,13 +858,13 @@
 [FID:86, TEXT:00F4] 我很惊讶
 [FID:86, TEXT:00F5] 洛卡斯先生竟然为了我
 [FID:86, TEXT:00F2] 来到了这里
-[FID:86, TEXT:00F3]
+[FID:86, TEXT:00F3] 怎么会
 
 --- Group 184 [left:none next=2012] ---
 [FID:86, TEXT:00F4] 我很惊讶
 [FID:86, TEXT:00F5] 洛卡斯先生竟然为了我
 [FID:86, TEXT:00F2] 来到了这里
-[FID:86, TEXT:00F3]
+[FID:86, TEXT:00F3] 怎么会
 
 --- Group 185 [left:主人公 next=0023] ---
 [FID:86, TEXT:00F6] 非常感谢
@@ -875,13 +876,13 @@
 [FID:86, TEXT:00F7] 说到底啊
 [FID:86, TEXT:00F8] 我能像现在这样
 [FID:86, TEXT:00F9] 都是因为你啊
-[FID:86, TEXT:00FA]
+[FID:86, TEXT:00FA] 呢……
 
 --- Group 188 [right:洛卡斯 next=2012] ---
 [FID:86, TEXT:00F7] 说到底啊
 [FID:86, TEXT:00F8] 我能像现在这样
 [FID:86, TEXT:00F9] 都是因为你啊
-[FID:86, TEXT:00FA]
+[FID:86, TEXT:00FA] 呢……
 
 --- Group 189 [left:none next=0023] ---
 [FID:86, TEXT:00FB] 洛卡斯……
@@ -898,10 +899,12 @@
 --- Group 193 [right:洛卡斯 next=2012] ---
 [FID:86, TEXT:00FD] 而且，你拥有
 [FID:86, TEXT:00FE] 结束这场战斗的权利
+[FID:86, TEXT:00FF] 存在啊
 
 --- Group 194 [right:洛卡斯 next=2012] ---
 [FID:86, TEXT:00FD] 而且，你拥有
 [FID:86, TEXT:00FE] 结束这场战斗的权利
+[FID:86, TEXT:00FF] 存在啊
 
 --- Group 195 [right:洛卡斯 next=2012] ---
 [FID:86, TEXT:0100] 今后你会做出
@@ -939,21 +942,27 @@
 
 --- Group 203 [left:none next=0023] ---
 [FID:86, TEXT:0109] 可能会遇到危险哦？
+[FID:86, TEXT:010C] 不知道哦？
 
 --- Group 204 [left:主人公 next=0023] ---
 [FID:86, TEXT:0109] 可能会遇到危险哦？
+[FID:86, TEXT:010B] 不知道的哦？
 
 --- Group 205 [left:主人公 next=0023] ---
 [FID:86, TEXT:0109] 可能会遇到危险哦？
+[FID:86, TEXT:010C] 不知道哦？
 
 --- Group 206 [left:主人公 next=0023] ---
 [FID:86, TEXT:0109] 可能会遇到危险的哦？
+[FID:86, TEXT:010A] 不知道的哦？
 
 --- Group 207 [left:none next=0023] ---
 [FID:86, TEXT:0109] 可能会遇到危险哦？
+[FID:86, TEXT:010B] 不知道的哦？
 
 --- Group 208 [left:none next=0023] ---
 [FID:86, TEXT:0109] 可能会遇到危险的哦？
+[FID:86, TEXT:010A] 不知道的哦？
 
 --- Group 209 [right:莫纳蒂 next=2012] ---
 [FID:86, TEXT:010D] 那种事情没关系的！
@@ -1075,13 +1084,13 @@
 [FID:86, TEXT:0126] 你至今为止
 [FID:86, TEXT:0127] 用那股力量
 [FID:86, TEXT:0128] 帮助了很多人吧？
-[FID:86, TEXT:0129]
+[FID:86, TEXT:0129] 不是来帮忙的吗
 
 --- Group 240 [right:茜 next=2012] ---
 [FID:86, TEXT:0126] 你至今为止
 [FID:86, TEXT:0127] 用那股力量
 [FID:86, TEXT:0128] 帮助了很多人吧？
-[FID:86, TEXT:0129]
+[FID:86, TEXT:0129] 不是来帮忙的吗
 
 --- Group 241 [left:主人公 next=0023] ---
 [FID:86, TEXT:012A] 嗯…
@@ -1226,10 +1235,12 @@
 --- Group 279 [right:塞西尔 next=2012] ---
 [FID:86, TEXT:0145] 拉姆达大人说，
 [FID:86, TEXT:0146] 你拥有不可思议的力量。
+[FID:86, TEXT:0147] 这么说的
 
 --- Group 280 [right:塞西尔 next=2012] ---
 [FID:86, TEXT:0145] 拉姆达大人说，
 [FID:86, TEXT:0146] 你拥有不可思议的力量。
+[FID:86, TEXT:0147] 这么说的
 
 --- Group 281 [right:塞西尔 next=2012] ---
 [FID:86, TEXT:0148] 我呢，觉得那是因为
@@ -1325,17 +1336,21 @@
 [FID:86, TEXT:0160] 吓我一跳啊~
 [FID:86, TEXT:015E] 真没想到，连佩尔戈
 [FID:86, TEXT:0054] 都会做那么冲动的事…
+[FID:86, TEXT:0161] 怎么会……
 
 --- Group 304 [left:none next=0023] ---
 [FID:86, TEXT:0160] 吓我一跳啊~
 [FID:86, TEXT:015E] 真没想到，连佩尔戈
 [FID:86, TEXT:0054] 都会做那么冲动的事…
+[FID:86, TEXT:0161] 怎么会……
 
 --- Group 305 [right:佩尔戈 next=2012] ---
 [FID:86, TEXT:0164] 的确，也许是这样吧…
+[FID:86, TEXT:0165] 不知道呢……
 
 --- Group 306 [right:佩尔戈 next=2012] ---
 [FID:86, TEXT:0164] 的确，也许是这样吧…
+[FID:86, TEXT:0165] 不知道呢……
 
 --- Group 307 [right:佩尔戈 next=2012] ---
 [FID:86, TEXT:0166] 和你们在一起
@@ -1637,9 +1652,11 @@
 
 --- Group 379 [right:科莫扎 next=2012] ---
 [FID:86, TEXT:01B5] 我，没有理解吉布森
+[FID:86, TEXT:01B6] 我没明白
 
 --- Group 380 [right:科莫扎 next=2012] ---
 [FID:86, TEXT:01B5] 我，没有理解吉布森
+[FID:86, TEXT:01B6] 我没明白
 
 --- Group 381 [right:科莫扎 next=2012] ---
 [FID:86, TEXT:01B7] 他也是有他自己的
@@ -2802,20 +2819,19 @@
 
 --- Group 657 [left:主人公 next=0023] ---
 [FID:86, TEXT:02BE] 所以，我能相信你
-
-[FID:86, TEXT:02BF]
+[FID:86, TEXT:02BF] 能够相信
 
 --- Group 658 [left:none next=0023] ---
 [FID:86, TEXT:02BE] 所以，我能相信你
-[FID:86, TEXT:02BF]
+[FID:86, TEXT:02BF] 能够相信
 
 --- Group 659 [left:主人公 next=0023] ---
 [FID:86, TEXT:02BE] 所以，我能相信你
-[FID:86, TEXT:02BF]
+[FID:86, TEXT:02BF] 能够相信
 
 --- Group 660 [left:主人公 next=0023] ---
 [FID:86, TEXT:02BE] 所以，我能相信你
-[FID:86, TEXT:02BF]
+[FID:86, TEXT:02BF] 能够相信
 
 --- Group 661 [left:主人公 next=2012] ---
 [FID:86, TEXT:02C0] 因为你不仅仅是撒谎
@@ -2903,23 +2919,27 @@
 
 --- Group 680 [left:主人公 next=0023] ---
 [FID:86, TEXT:02C7] 所以啊，我能相信你
-[FID:86, TEXT:02C8]
+[FID:86, TEXT:02C8] 能够相信的事情
 
 --- Group 681 [left:主人公 next=0023] ---
 [FID:86, TEXT:02C7] 所以啊，我能相信你
-[FID:86, TEXT:02C8]
+[FID:86, TEXT:02C8] 能够相信的事情
 
 --- Group 682 [left:主人公 next=2012] ---
 [FID:86, TEXT:02C9] 大概，是因为你并不仅仅是撒谎……
+[FID:86, TEXT:02CA] 帮助了我……
 
 --- Group 683 [left:none next=2012] ---
 [FID:86, TEXT:02C9] 大概，是因为你并不仅仅是撒谎……
+[FID:86, TEXT:02CA] 帮助了我……
 
 --- Group 684 [left:主人公 next=2012] ---
 [FID:86, TEXT:02C9] 大概，是因为你并不仅仅是撒谎……
+[FID:86, TEXT:02CA] 帮助了我……
 
 --- Group 685 [left:主人公 next=2012] ---
 [FID:86, TEXT:02C9] 大概，是因为你并不仅仅是撒谎……
+[FID:86, TEXT:02CA] 帮助了我……
 
 --- Group 686 [left:none next=2012] ---
 [FID:86, TEXT:02CB] 的确，你或许对我
@@ -2945,25 +2965,25 @@
 [FID:86, TEXT:02CD] 但是，更重要的是，你
 [FID:86, TEXT:02CE] 作为伙伴，多次帮助
 [FID:86, TEXT:02CF] 了我们
-[FID:86, TEXT:02D0]
+[FID:86, TEXT:02D0] 帮助了我
 
 --- Group 691 [left:主人公 next=2012] ---
 [FID:86, TEXT:02CD] 但是，更重要的是，你
 [FID:86, TEXT:02CE] 作为伙伴，多次帮助
 [FID:86, TEXT:02CF] 了我们
-[FID:86, TEXT:02D0]
+[FID:86, TEXT:02D0] 帮助了我
 
 --- Group 692 [left:主人公 next=2012] ---
 [FID:86, TEXT:02CD] 但是，更重要的是，你
 [FID:86, TEXT:02CE] 作为伙伴，多次帮助
 [FID:86, TEXT:02CF] 了我们
-[FID:86, TEXT:02D0]
+[FID:86, TEXT:02D0] 帮助了我
 
 --- Group 693 [left:none next=2012] ---
 [FID:86, TEXT:02CD] 但是，更重要的是，你
 [FID:86, TEXT:02CE] 作为伙伴，多次帮助
 [FID:86, TEXT:02CF] 了我们
-[FID:86, TEXT:02D0]
+[FID:86, TEXT:02D0] 帮助了我
 
 --- Group 694 [left:主人公 next=0023] ---
 [FID:86, TEXT:02D1] 我相信你，因为你
@@ -3004,7 +3024,7 @@
 [FID:86, TEXT:02D7] 因为有你在，
 [FID:86, TEXT:02D8] 因为我不是一个人
 [FID:86, TEXT:02DC] 我才能这样笑着
-[FID:86, TEXT:02DD]
+[FID:86, TEXT:02DD] 才会这样嘛
 
 --- Group 704 [left:主人公 next=0023] ---
 [FID:86, TEXT:02D7] 因为有你在，
@@ -3022,7 +3042,7 @@
 [FID:86, TEXT:02D7] 因为有你在，
 [FID:86, TEXT:02D8] 因为我不是一个人
 [FID:86, TEXT:02DC] 我才能这样笑着
-[FID:86, TEXT:02DD]
+[FID:86, TEXT:02DD] 才会这样嘛
 
 --- Group 707 [left:主人公 next=0023] ---
 [FID:86, TEXT:02D7] 因为有你在，
@@ -3034,7 +3054,7 @@
 [FID:86, TEXT:02D7] 因为有你在，
 [FID:86, TEXT:02D8] 因为我不是一个人
 [FID:86, TEXT:02DC] 我才能这样笑着
-[FID:86, TEXT:02DD]
+[FID:86, TEXT:02DD] 才会这样嘛
 
 --- Group 709 [left:主人公 next=2012] ---
 [FID:86, TEXT:02DB] 我也是哦
@@ -3283,9 +3303,11 @@
 
 --- Group 769 [right:索尔 next=2012] ---
 [FID:86, TEXT:02FC] 而你，回应了那声音。
+[FID:86, TEXT:02FD] 给予了回应
 
 --- Group 770 [right:索尔 next=2012] ---
 [FID:86, TEXT:02FC] 而你，回应了那声音。
+[FID:86, TEXT:02FD] 给予了回应
 
 --- Group 771 [right:索尔 next=2012] ---
 [FID:86, TEXT:02FE] 真的非常感谢。
@@ -3499,10 +3521,12 @@
 --- Group 818 [right:基尔 next=2012] ---
 [FID:86, TEXT:0319] 我一直以为你、会
 [FID:86, TEXT:02AE] 恨我……
+[FID:86, TEXT:02AF] 存在着
 
 --- Group 819 [right:基尔 next=2012] ---
 [FID:86, TEXT:0319] 我一直以为你、会
 [FID:86, TEXT:02AE] 恨我……
+[FID:86, TEXT:02AF] 存在着
 
 --- Group 820 [right:基尔 next=2012] ---
 [FID:86, TEXT:031A] 但是、你却对我说了
@@ -3513,42 +3537,42 @@
 [FID:86, TEXT:02B1] 温柔的话……
 
 --- Group 822 [right:基尔 next=2012] ---
-[FID:86, TEXT:031B]明明我一直对你、
+[FID:86, TEXT:031B] 我一直对你，撒谎
 [FID:86, TEXT:02B4] 撒谎……
 
 --- Group 823 [right:基尔 next=2012] ---
-[FID:86, TEXT:031B]明明我一直对你、
+[FID:86, TEXT:031B] 我一直对你，撒谎
 [FID:86, TEXT:02B4] 撒谎……
 
 --- Group 824 [left:none next=2012] ---
 [FID:86, TEXT:031D] 确实你、可能对我
 [FID:86, TEXT:031E] 们撒过谎
-[FID:86, TEXT:02B9]
+[FID:86, TEXT:02B9] 不知道
 
 --- Group 825 [left:主人公 next=2012] ---
 [FID:86, TEXT:031D] 确实你、可能对我
 [FID:86, TEXT:031E] 们撒过谎
-[FID:86, TEXT:02B9]
+[FID:86, TEXT:02B9] 不知道
 
 --- Group 826 [left:none next=2012] ---
 [FID:86, TEXT:031D] 确实你、可能对我
 [FID:86, TEXT:031E] 们撒过谎
-[FID:86, TEXT:02B9]
+[FID:86, TEXT:02B9] 不知道
 
 --- Group 827 [left:主人公 next=2012] ---
 [FID:86, TEXT:031D] 确实你、可能对我
 [FID:86, TEXT:031E] 们撒过谎
-[FID:86, TEXT:02B9]
+[FID:86, TEXT:02B9] 不知道
 
 --- Group 828 [left:none next=2012] ---
 [FID:86, TEXT:031D] 确实你、可能对我
 [FID:86, TEXT:031E] 们撒过谎
-[FID:86, TEXT:02B9]
+[FID:86, TEXT:02B9] 不知道
 
 --- Group 829 [left:主人公 next=2012] ---
 [FID:86, TEXT:031D] 确实你、可能对我
 [FID:86, TEXT:031E] 们撒过谎
-[FID:86, TEXT:02B9]
+[FID:86, TEXT:02B9] 不知道
 
 --- Group 830 [left:none next=2012] ---
 [FID:86, TEXT:031F] 但是你、另外、
@@ -3624,21 +3648,27 @@
 
 --- Group 842 [left:主人公 next=0023] ---
 [FID:86, TEXT:0327] 所以、我能相信你
+[FID:86, TEXT:0328] 能够相信啊
 
 --- Group 843 [left:主人公 next=0023] ---
 [FID:86, TEXT:0327] 所以、我能相信你
+[FID:86, TEXT:0328] 能够相信啊
 
 --- Group 844 [left:主人公 next=0023] ---
 [FID:86, TEXT:0327] 所以、我能相信你
+[FID:86, TEXT:0328] 能够相信啊
 
 --- Group 845 [left:none next=0023] ---
 [FID:86, TEXT:0327] 所以、我能相信你
+[FID:86, TEXT:0328] 能够相信啊
 
 --- Group 846 [left:none next=0023] ---
 [FID:86, TEXT:0327] 所以、我能相信你
+[FID:86, TEXT:0328] 能够相信啊
 
 --- Group 847 [left:none next=0023] ---
 [FID:86, TEXT:0327] 所以、我能相信你
+[FID:86, TEXT:0328] 能够相信啊
 
 --- Group 848 [right:基尔 next=2012] ---
 [FID:86, TEXT:0329] 我……
@@ -4145,6 +4175,7 @@
 [FID:86, TEXT:0399] 这一次，轮到我
 [FID:86, TEXT:039A] 来保护你了
 [FID:86, TEXT:039B] 就像你曾经帮助我一样
+[FID:86, TEXT:039C] 就像你帮助了我一样
 
 --- Group 962 [left:主人公 next=0023] ---
 [FID:86, TEXT:039D] 能够这样和利布雷说话，
@@ -4483,7 +4514,7 @@
 [FID:86, TEXT:03F2] 这里来的
 
 --- Group 1040 [right:利布雷 next=2012] ---
-[FID:86, TEXT:03F4] 我会等你……
+[FID:86, TEXT:03F4] 等着你……
 [FID:86, TEXT:03F5] 我会做好很多好吃的
 [FID:86, TEXT:03F4] 等着你……
 
@@ -4524,6 +4555,7 @@
 [FID:86, TEXT:0401] 各种各样的偶然
 [FID:86, TEXT:0402] 如果没有重叠的话
 [FID:86, TEXT:0403] 就无法和大家相遇了呢
+[FID:86, TEXT:0404] 没有呢
 
 --- Group 1049 [right:瞪羚 next=2012] ---
 [FID:86, TEXT:0405] 笨蛋
@@ -4770,11 +4802,13 @@
 [FID:86, TEXT:04B8] 但更重要的是，
 [FID:86, TEXT:04B9] 你作为伙伴，
 [FID:86, TEXT:04BA] 帮助了我们吧
+[FID:86, TEXT:04BB] 帮助了我吧
 
 --- Group 1105 [left:none next=2012] ---
 [FID:86, TEXT:04B8] 但更重要的是，
 [FID:86, TEXT:04B9] 你作为伙伴，
 [FID:86, TEXT:04BA] 帮助了我们吧
+[FID:86, TEXT:04BB] 帮助了我吧
 
 --- Group 1106 [left:none next=0023] ---
 [FID:86, TEXT:04BC] …嗯
@@ -4934,13 +4968,13 @@
 [FID:86, TEXT:04EA] 啊……不只是你哦！
 [FID:86, TEXT:04EB] 还有利普雷先生和
 [FID:86, TEXT:04EC] 艾多斯先生他们！
-[FID:86, TEXT:04ED]
+[FID:86, TEXT:04ED] 们也！！
 
 --- Group 1141 [left:主人公 next=2012] ---
 [FID:86, TEXT:04EA] 啊……不只是你哦！
 [FID:86, TEXT:04EB] 还有利普雷先生和
 [FID:86, TEXT:04EC] 艾多斯先生他们！
-[FID:86, TEXT:04ED]
+[FID:86, TEXT:04ED] 们也！！
 
 --- Group 1142 [left:none next=2012] ---
 [FID:86, TEXT:04EE] 我，被大家温柔地

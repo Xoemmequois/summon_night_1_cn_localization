@@ -45,12 +45,15 @@
 
 --- Group 12 [left:none next=0023] ---
 [FID:30, TEXT:0017] 和大家相处得怎么样？
+[FID:30, TEXT:0018] 办到了吗？
 
 --- Group 13 [left:none next=0023] ---
 [FID:30, TEXT:0019] 和大家相处得好吗？
+[FID:30, TEXT:001B] 办到了吗？
 
 --- Group 14 [left:none next=0023] ---
 [FID:30, TEXT:0019] 和大家相处得好吗？
+[FID:30, TEXT:001A] 办到了？
 
 --- Group 15 [right:none next=2012] ---
 [FID:30, TEXT:001C] 还需要一点时间
@@ -160,3 +163,136 @@
 --- Group 39 [left:none next=2012] ---
 [FID:30, TEXT:00C6] 在我们要去的地方，
 [FID:30, TEXT:00C7] 我们是
+[FID:30, TEXT:00C8] 我们是在那里遇到的吧
+
+--- Group 40 [left:none next=2012] ---
+[FID:30, TEXT:00C9] 那时，如果不是你呼
+[FID:30, TEXT:00CA] 唤我的话，
+[FID:30, TEXT:00CB] 一定会发生很糟糕
+[FID:30, TEXT:00CC] 的事情的
+
+--- Group 41 [left:none next=0023] ---
+[FID:30, TEXT:00CD] 我真的很感谢你
+
+--- Group 42 [left:none next=2012] ---
+[FID:30, TEXT:00D0] 如果不是
+[FID:30, TEXT:00D1] 索尔的呼唤，
+[FID:30, TEXT:00D2] 我一定会迷路
+[FID:30, TEXT:00D3] 的……
+
+--- Group 43 [left:none next=2012] ---
+[FID:30, TEXT:00D6] 那时，如果不是你呼
+[FID:30, TEXT:00D7] 唤我的话，
+[FID:30, TEXT:00D8] 一定会发生很糟糕
+[FID:30, TEXT:00D9] 的事情的
+
+--- Group 44 [left:none next=0023] ---
+[FID:30, TEXT:00DA] 我非常感谢您……
+
+--- Group 45 [right:none next=2012] ---
+[FID:30, TEXT:00DB] 喂喂，我
+[FID:30, TEXT:00DC] 可什么都没做啊！
+
+--- Group 46 [left:none next=0023] ---
+[FID:30, TEXT:00DD] 哈哈哈
+
+--- Group 47 [left:none next=0023] ---
+[FID:30, TEXT:00DE] 呵呵呵
+[FID:30, TEXT:00DF] 在害羞呢，在害羞呢
+
+--- Group 48 [left:none next=0023] ---
+[FID:30, TEXT:00E0] 呼呼……
+[FID:30, TEXT:00E1] 在害羞呢，对吧？
+
+--- Group 49 [right:none next=2012] ---
+[FID:30, TEXT:00E2] 其实根本不需要
+[FID:30, TEXT:00E3] 感谢的……
+
+--- Group 50 [left:none next=2012] ---
+[FID:30, TEXT:0110] 我和索尔第一次相遇
+[FID:30, TEXT:0111] 的地方，就是我们
+[FID:30, TEXT:0112] 要去的地方吧
+
+--- Group 51 [left:none next=2012] ---
+[FID:30, TEXT:0113] 被巴诺萨他们欺负
+[FID:30, TEXT:0114] 的我们，被他救了
+[FID:30, TEXT:0115] ……
+
+--- Group 52 [left:none next=2012] ---
+[FID:30, TEXT:0116] 他为了让我回到
+[FID:30, TEXT:0117] 原来的世界，
+[FID:30, TEXT:0118] 加入了我们
+
+--- Group 53 [left:none next=2012] ---
+[FID:30, TEXT:0119] 但是……
+
+--- Group 54 [left:none next=0023] ---
+[FID:30, TEXT:011A] 他为什么会在那里
+[FID:30, TEXT:011B] 呢？
+[FID:30, TEXT:011C] 就像是知道我要来
+[FID:30, TEXT:011D] 一样
+
+--- Group 55 [left:none next=2012] ---
+[FID:30, TEXT:011E] 在我们要去的地方，
+[FID:30, TEXT:011F] 我和他
+[FID:30, TEXT:0120] 相遇了……
+
+--- Group 56 [left:none next=2012] ---
+[FID:30, TEXT:0121] 我们被
+[FID:30, TEXT:0122] 巴诺萨欺负的
+[FID:30, TEXT:0123] 时候，他救了
+[FID:30, TEXT:0124] 我们，是吧……
+
+--- Group 57 [left:none next=2012] ---
+[FID:30, TEXT:0125] 他加入我们，
+[FID:30, TEXT:0126] 也是为了让
+[FID:30, TEXT:0127] 我回到原来的世界
+[FID:30, TEXT:0128] 吧……
+
+--- Group 58 [left:none next=2012] ---
+[FID:30, TEXT:0129] 仔细想想，大家都是
+[FID:30, TEXT:012A] 为了帮助我
+[FID:30, TEXT:012B] 而来的……
+
+--- Group 59 [left:none next=0023] ---
+[FID:30, TEXT:012C] 他为什么会在
+[FID:30, TEXT:012D] 那里呢？
+[FID:30, TEXT:012E] 就像是知道我要
+[FID:30, TEXT:012F] 来一样
+
+--- Group 60 [left:none next=2012] ---
+[FID:30, TEXT:0130] 我们要去的地方，
+[FID:30, TEXT:0131] 就是和
+[FID:30, TEXT:0132] 索尔先生
+[FID:30, TEXT:0133] 第一次相遇的地方吧
+
+--- Group 61 [left:none next=2012] ---
+[FID:30, TEXT:0134] 被巴诺萨先生袭击
+[FID:30, TEXT:0135] 的我们，
+[FID:30, TEXT:0136] 被他救了……
+
+--- Group 62 [left:none next=2012] ---
+[FID:30, TEXT:0137] 他为了让我
+[FID:30, TEXT:0138] 回到原来的世界，
+[FID:30, TEXT:0139] 加入了我们
+
+--- Group 63 [left:none next=0023] ---
+[FID:30, TEXT:013A] 他为什么会在那里
+[FID:30, TEXT:013B] 呢？
+[FID:30, TEXT:013C] 就像是知道一切
+[FID:30, TEXT:013D] 一样……
+
+--- Group 64 [right:none next=2012] ---
+[FID:30, TEXT:013E] 怎么了？
+
+--- Group 65 [left:none next=0023] ---
+[FID:30, TEXT:013F] ……啊，不
+[FID:30, TEXT:0141] 没什么没什么！
+
+--- Group 66 [left:none next=0023] ---
+[FID:30, TEXT:013F] ……啊，不
+[FID:30, TEXT:0140] 没什么哦！
+
+--- Group 67 [left:none next=0023] ---
+[FID:30, TEXT:0142] ……啊，不
+[FID:30, TEXT:0143] 没什么……

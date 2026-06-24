@@ -104,7 +104,7 @@
 [FID:19, TEXT:002D] 那时候只顾着逃跑
 [FID:19, TEXT:002E] 了，怎么来到镇上
 [FID:19, TEXT:002F] 的都不记得了……
-[FID:19, TEXT:0030]
+[FID:19, TEXT:0030] 真是的……
 
 --- Group 24 [left:主人公 next=0023] ---
 [FID:19, TEXT:0031] 能不能再次到达那个
@@ -129,7 +129,7 @@
 --- Group 28 [left:主人公 next=2012] ---
 [FID:19, TEXT:0035] 怎么会呢
 [FID:19, TEXT:002B] 我只是在想被召唤来
-[FID:19, TEXT:002C] 的地方的事情
+[FID:19, TEXT:0036] 只是在想而已
 
 --- Group 29 [left:主人公 next=2012] ---
 [FID:19, TEXT:003C] 不是那样的
@@ -268,6 +268,7 @@
 [FID:19, TEXT:0081] 不，如果是那样的话
 [FID:19, TEXT:0082] 早就传到镇上去了。
 [FID:19, TEXT:0083] 不是他们干的
+[FID:19, TEXT:0084] 不是……干的
 
 --- Group 61 [right:雷德 next=2012] ---
 [FID:19, TEXT:0085] 而且如果不是他们
@@ -438,7 +439,7 @@
 [FID:19, TEXT:00CA] 我们自己再继续
 [FID:19, TEXT:00CB] 调查下去的话，
 [FID:19, TEXT:00CC] 说实话可能有点困难……
-[FID:19, TEXT:00CD]
+[FID:19, TEXT:00CD] 也许……
 
 --- Group 105 [right:雷德 next=2012] ---
 [FID:19, TEXT:00CE] 抱歉了。

@@ -16,7 +16,7 @@
 ないんですか？
 +[FID:5C, TEXT:0003] 诶，但是……
 +[FID:5C, TEXT:0007] 这里不是酒馆吗？
-+[FID:5C, TEXT:0008] 
++[FID:5C, TEXT:0008] 没有吗？
 
 --- Group 4 [left:none next=0023] ---
 え、でも・・・
@@ -43,8 +43,9 @@
 からな
 +[FID:5C, TEXT:0009] 只是表面上说是酒馆而
 +[FID:5C, TEXT:000A] 已。
-+[FID:5C, TEXT:000B] 毕竟，这里是秘密基地
-+[FID:5C, TEXT:000C] 。
++[FID:5C, TEXT:000B] 只是变成那样了毕竟，
++[FID:5C, TEXT:000C] 这里是秘密基地。
+-[FID:5C, TEXT:000C] 罢了
 
 --- Group 8 [right:主人公 next=2012] ---
 表向きは酒場ってこと
@@ -53,8 +54,9 @@
 からな
 -[FID:5C, TEXT:0009] 只是表面上说是酒馆而
 -[FID:5C, TEXT:000A] 已。
--[FID:5C, TEXT:000B] 毕竟，这里是秘密基地
--[FID:5C, TEXT:000C] 。
+-[FID:5C, TEXT:000B] 只是变成那样了毕竟，
+-[FID:5C, TEXT:000C] 这里是秘密基地。
+-[FID:5C, TEXT:000C] 罢了
 
 --- Group 9 [right:主人公 next=2012] ---
 さ、入るぜ？
@@ -143,8 +145,8 @@
 ですし、何か飲まれて
 はいかがです？
 +[FID:5C, TEXT:0024] 既然都来到酒馆了，要
-+[FID:5C, TEXT:0025] 不要喝点什么呢？
-+[FID:5C, TEXT:0026] 
++[FID:5C, TEXT:0025] 不要喝点什么呢？您看
++[FID:5C, TEXT:0026] 怎么样？
 
 --- Group 25 [left:none next=0023] ---
 お、お酒はちょっと
@@ -170,7 +172,7 @@
 さしあげますよ
 +[FID:5C, TEXT:002C] 哈哈，既然这样，就给
 +[FID:5C, TEXT:002D] 您来杯水果汁吧。
-+[FID:5C, TEXT:002E] 
++[FID:5C, TEXT:002E] 我就送给您吧
 
 --- Group 30 [left:none next=2012] ---
 ・・・
@@ -210,7 +212,7 @@
 そんなに私たちって
 こわいかしら？
 +[FID:5C, TEXT:0037] 我们有那么可怕吗？
-+[FID:5C, TEXT:0038] 
++[FID:5C, TEXT:0038] 是不是有点可怕？
 
 --- Group 38 [left:none next=0023] ---
 え、ええっと・・・
@@ -231,6 +233,7 @@
 わけじゃなくて
 +[FID:5C, TEXT:003D] 啊，不，不是那个意思
 +[FID:5C, TEXT:003E] ，
+-[FID:5C, TEXT:003E] 也不是说
 
 --- Group 42 [right:佩尔戈 next=2012] ---
 せっかくの機会です
@@ -248,7 +251,7 @@
 +[FID:5C, TEXT:0042] 是啊……
 +[FID:5C, TEXT:0043] 这样的机会，
 +[FID:5C, TEXT:0044] 可能再也不会有了……
-+[FID:5C, TEXT:0045] 
++[FID:5C, TEXT:0045] 也许会……
 
 --- Group 44 [left:none next=2012] ---
 そうだ、この機会に彼
@@ -258,7 +261,7 @@
 +[FID:5C, TEXT:0046] 对了，趁这个机会了解
 +[FID:5C, TEXT:0047] 一下他们也许是必要的
 +[FID:5C, TEXT:0048] 。
-+[FID:5C, TEXT:0049] 
++[FID:5C, TEXT:0049] 也许会呢
 
 --- Group 45 [left:none next=0023] ---
 彼らとどうなるにしろ
@@ -275,7 +278,7 @@
 +[FID:5C, TEXT:004C] 啊，确实……
 -[FID:5C, TEXT:0043] 这样的机会，
 -[FID:5C, TEXT:0044] 可能再也不会有了……
--[FID:5C, TEXT:0045] 
+-[FID:5C, TEXT:0045] 也许会……
 
 --- Group 47 [left:none next=0023] ---
 そういえば・・・
@@ -285,7 +288,7 @@
 +[FID:5C, TEXT:004D] 说起来……
 -[FID:5C, TEXT:0043] 这样的机会，
 -[FID:5C, TEXT:0044] 可能再也不会有了……
--[FID:5C, TEXT:0045] 
+-[FID:5C, TEXT:0045] 也许会……
 
 --- Group 48 [left:none next=2015] ---
 どうしよう？
@@ -299,13 +302,14 @@
 ここって、本当に酒場
 なんですか？
 +[FID:5C, TEXT:0051] 这里，真的是酒馆吗？
-+[FID:5C, TEXT:0052] 
++[FID:5C, TEXT:0052] 是什么啊？
 
 --- Group 50 [left:none next=0023] ---
 この酒場、本当に営業
 しているんですか？
 +[FID:5C, TEXT:0053] 这家酒馆，真的在营业
 +[FID:5C, TEXT:0054] 吗？
+-[FID:5C, TEXT:0054] 正在做什么呢？
 
 --- Group 51 [right:佩尔戈 next=2012] ---
 ええ、そうですよ
@@ -320,8 +324,8 @@
 やっているようなもの
 ですけどね
 +[FID:5C, TEXT:0058] 不过，基本上都是我一
-+[FID:5C, TEXT:0059] 个人在经营就是了。
-+[FID:5C, TEXT:005A] 
++[FID:5C, TEXT:0059] 个人在经营就是了。不
++[FID:5C, TEXT:005A] 过是
 
 --- Group 53 [left:none next=2012] ---
 えっ？
@@ -337,14 +341,14 @@
 大したものじゃ
 ありませんよ
 +[FID:5C, TEXT:005E] 没什么了不起的。
-+[FID:5C, TEXT:005F] 
++[FID:5C, TEXT:005F] 没有哦
 
 --- Group 56 [left:塞西尔 next=2012] ---
 そう言い切られると、
 私の立場がなくなっち
 ゃうじゃない？
 +[FID:5C, TEXT:0060] 你这么说，我不就没面
-+[FID:5C, TEXT:0061] 子了吗？
++[FID:5C, TEXT:0061] 子了吗？不是吗？
 +[FID:5C, TEXT:0062] 
 
 --- Group 57 [right:佩尔戈 next=2012] ---
@@ -356,7 +360,7 @@
 アキュートに来ること
 になったんですか？
 +[FID:5C, TEXT:0064] 你们是怎么来到阿库特
-+[FID:5C, TEXT:0065] 的呢？
++[FID:5C, TEXT:0065] 的呢？怎么了吗？
 +[FID:5C, TEXT:0066] 
 
 --- Group 59 [left:none next=0023] ---
@@ -364,8 +368,8 @@
 アキュートに来ること
 になったんですか？
 +[FID:5C, TEXT:0067] 为什么，你们
--[FID:5C, TEXT:0065] 来到阿库特的呢？
--[FID:5C, TEXT:0066] 
+-[FID:5C, TEXT:0065] 来到阿库特的呢？怎么
+-[FID:5C, TEXT:0066] 了吗？
 
 --- Group 60 [right:斯塔乌特 next=2012] ---
 ・・・そう来たか

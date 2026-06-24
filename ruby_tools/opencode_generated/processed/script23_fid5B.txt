@@ -28,6 +28,7 @@
 して節約しないとね
 +[FID:5B, TEXT:0008] 人多了，像这样一次买
 +[FID:5B, TEXT:0009] 齐才能省钱嘛
++[FID:5B, TEXT:000A] 
 
 --- Group 6 [right:none next=2012] ---
 自分のお腹に
@@ -159,6 +160,7 @@
 +[FID:5B, TEXT:002E] 没必要这么大喊吧……
 +[FID:5B, TEXT:002F] 我就在你身后
 +[FID:5B, TEXT:0030] 呢……
++[FID:5B, TEXT:0031] 
 
 --- Group 31 [right:none next=2012] ---
 きゃっ！？
@@ -337,13 +339,15 @@
 頼みを聞かなくちゃ
 ならないんだよ
 +[FID:5B, TEXT:0059] 为什么我得听你的话呢
++[FID:5B, TEXT:005A] 
++[FID:5B, TEXT:005B] 
 
 --- Group 62 [left:none next=0023] ---
 なんで僕が、お前の
 頼みを聞かなくちゃ
 ならないんだ
 +[FID:5B, TEXT:005C] 为什么我得
-+[FID:5B, TEXT:005A] 听你的话
+-[FID:5B, TEXT:005A] 听你的话
 +[FID:5B, TEXT:005D] 呢
 
 --- Group 63 [left:none next=0023] ---
@@ -384,6 +388,7 @@
 +[FID:5B, TEXT:006A] 用不着你操心啦！如果
 +[FID:5B, TEXT:006B] 你跟着来的话，我倒是
 +[FID:5B, TEXT:006C] 可以帮你通报一下的
++[FID:5B, TEXT:006D] 
 
 --- Group 68 [left:none next=2012] ---
 ・・・わかりました
@@ -421,6 +426,7 @@
 あ、どうやら終わった
 みたいだぜ？
 +[FID:5B, TEXT:007A] 啊，好像结束了呢？
++[FID:5B, TEXT:007B] 
 
 --- Group 75 [right:斯塔乌特 next=2012] ---
 邪魔したな
@@ -431,25 +437,26 @@
 せずに恐縮ですのー
 +[FID:5B, TEXT:007D] 哪里哪里，让您费心了
 +[FID:5B, TEXT:007E] ，真是
--[FID:5B, TEXT:007E] 惶恐呢
 
 --- Group 77 [left:主人公 next=2012] ---
 ・・・・・・
-+[FID:5B, TEXT:007F] ………
++[FID:5B, TEXT:007F] ・・・・・・
 
 --- Group 78 [right:雷德 next=2012] ---
 ラムダ先輩が
 会いたがってるらしい
 これから行って来るよ
-+[FID:5B, TEXT:0080] 好像拉姆达前辈
-+[FID:5B, TEXT:0081] 想见我我现在就过去
++[FID:5B, TEXT:0080] 兰姆达前辈她
++[FID:5B, TEXT:0081] 好像拉姆达前辈想见我
++[FID:5B, TEXT:0082] 
 
 --- Group 79 [left:洛卡斯 next=2012] ---
 おいおい、まさか一人
 で行くつもりなんじゃ
 ないだろうな？
-+[FID:5B, TEXT:0083] 喂喂，你不会是打算一
-+[FID:5B, TEXT:0084] 个人去吧？
++[FID:5B, TEXT:0083] 喂喂，不会吧，一个人
++[FID:5B, TEXT:0084] 喂喂，你不会是打算一
++[FID:5B, TEXT:0085] 个人去吧？
 
 --- Group 80 [right:雷德 next=2012] ---
 そのつもりだよ
@@ -475,16 +482,19 @@
 それは、そうかもしれ
 ませんけど・・・
 +[FID:5B, TEXT:008D] 也许是那样吧……
++[FID:5B, TEXT:0092] 
 
 --- Group 84 [left:主人公 next=0023] ---
 それは、そうかもしれ
 ないけど・・・
 -[FID:5B, TEXT:008D] 也许是那样吧……
++[FID:5B, TEXT:008E] 
 
 --- Group 85 [left:主人公 next=0023] ---
 それは、そうかもしれ
 ないが・・・
 -[FID:5B, TEXT:008D] 也许是那样吧……
++[FID:5B, TEXT:008F] 
 
 --- Group 86 [left:主人公 next=0023] ---
 そりゃ、
@@ -498,6 +508,7 @@
 もかまわねえんだぞ
 +[FID:5B, TEXT:0093] 如果你那么担心的话，
 +[FID:5B, TEXT:0094] 让谁陪你去都可以哦
++[FID:5B, TEXT:0095] 
 
 --- Group 88 [right:斯塔乌特 next=2012] ---
 こっちは別に後ろめた
@@ -505,6 +516,7 @@
 ねえからな
 +[FID:5B, TEXT:0096] 我这边又没什么见不得
 +[FID:5B, TEXT:0097] 人的事要做
++[FID:5B, TEXT:0098] 
 
 --- Group 89 [left:主人公 next=0023] ---
 俺が行くよ

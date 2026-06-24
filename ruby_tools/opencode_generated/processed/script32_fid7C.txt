@@ -297,8 +297,8 @@
 --- Group 52 [left:none next=0023] ---
 心配しなくても大丈夫
 ですよ
-+[FID:7C, TEXT:0059] 别担心，没事的。
-+[FID:7C, TEXT:005A] 
++[FID:7C, TEXT:0059] 别担心，没事的。是的
++[FID:7C, TEXT:005A] 哦
 
 --- Group 53 [right:none next=2012] ---
 わ、わかってるって！
@@ -333,8 +333,8 @@
 まして・・・
 +[FID:7C, TEXT:0062] 那个、那个！
 +[FID:7C, TEXT:0063] 这件事，是有相当的理
-+[FID:7C, TEXT:0064] 由的，所以……
-+[FID:7C, TEXT:0065] 
++[FID:7C, TEXT:0064] 由的，所以……更加…
++[FID:7C, TEXT:0065] …
 
 --- Group 59 [left:主人公 next=0023] ---
 彼女が帰れなかったの
@@ -344,7 +344,7 @@
 +[FID:7C, TEXT:0066] 她之所以没能回来，是
 +[FID:7C, TEXT:006B] 因为在帮助我们，所以
 +[FID:7C, TEXT:006C] 才……
-+[FID:7C, TEXT:0069] 
++[FID:7C, TEXT:0069] 是这样的
 
 --- Group 60 [left:主人公 next=0023] ---
 彼女が帰れなかったの
@@ -354,7 +354,7 @@
 -[FID:7C, TEXT:0066] 她之所以没能回来，是
 +[FID:7C, TEXT:006A] 因为在帮助我们，所以
 +[FID:7C, TEXT:0068] 才……
--[FID:7C, TEXT:0069] 
+-[FID:7C, TEXT:0069] 是这样的
 
 --- Group 61 [left:主人公 next=0023] ---
 彼女が帰れなかったの
@@ -364,7 +364,7 @@
 -[FID:7C, TEXT:0066] 她之所以没能回来，是
 +[FID:7C, TEXT:0067] 因为在帮助我们，所以
 -[FID:7C, TEXT:0068] 才……
--[FID:7C, TEXT:0069] 
+-[FID:7C, TEXT:0069] 是这样的
 
 --- Group 62 [left:主人公 next=0023] ---
 アカネさんは私たちを
