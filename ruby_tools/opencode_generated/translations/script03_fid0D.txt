@@ -160,6 +160,7 @@
 --- Group 39 [right:瞪羚 next=2012] ---
 [FID:0D, TEXT:0034] 啊，不用不用！
 [FID:0D, TEXT:0035] 你是客人啊
+[FID:0D, TEXT:0036] んだから
 
 --- Group 40 [right:瞪羚 next=2012] ---
 [FID:0D, TEXT:0037] 而且，你还需要
@@ -193,6 +194,7 @@
 [FID:0D, TEXT:0046] 我在厨房洗碗什么的
 [FID:0D, TEXT:0047] ，还有雷德和艾多斯
 [FID:0D, TEXT:0048] 应该也还没出去吧
+[FID:0D, TEXT:0049] はいないはずだから
 
 --- Group 47 [right:瞪羚 next=2012] ---
 [FID:0D, TEXT:004A] 啊，不过，最好
@@ -251,11 +253,13 @@
 [FID:0D, TEXT:005B] 被莫名其妙地
 [FID:0D, TEXT:0074] 责难，心情
 [FID:0D, TEXT:0075] 并不愉快呢……
+[FID:0D, TEXT:0076] 呢……
 
 --- Group 62 [left:主人公 next=2012] ---
 [FID:0D, TEXT:005B] 被莫名其妙地
 [FID:0D, TEXT:0074] 责难，心情
 [FID:0D, TEXT:0075] 并不愉快呢……
+[FID:0D, TEXT:0076] 呢……
 
 --- Group 63 [left:主人公 next=2012] ---
 [FID:0D, TEXT:005B] 莫名其妙地被
@@ -321,11 +325,13 @@
 [FID:0D, TEXT:006B] 莫名其妙地被
 [FID:0D, TEXT:006C] 嘲笑，感觉
 [FID:0D, TEXT:006D] 糟透了！
+[FID:0D, TEXT:006E] 感觉很不舒服呢！
 
 --- Group 77 [left:主人公 next=2012] ---
 [FID:0D, TEXT:006B] 莫名其妙地被
 [FID:0D, TEXT:006C] 嘲笑，感觉
 [FID:0D, TEXT:006D] 糟透了！
+[FID:0D, TEXT:006E] 感觉很不舒服呢！
 
 --- Group 78 [left:主人公 next=0023] ---
 [FID:0D, TEXT:006F] 绝对要把误会
@@ -338,6 +344,7 @@
 --- Group 80 [left:主人公 next=2012] ---
 [FID:0D, TEXT:0071] 虽然利普雷先生
 [FID:0D, TEXT:0072] 说让我别管他……
+[FID:0D, TEXT:0073] 这么说来……
 
 --- Group 81 [left:主人公 next=2012] ---
 [FID:0D, TEXT:0071] 里普蕾小姐
@@ -2830,10 +2837,12 @@
 --- Group 673 [right:none next=2012] ---
 [FID:0D, TEXT:02FA] 道歉来迟了，昨天
 [FID:0D, TEXT:02FB] 的事，真是抱歉啊。
+[FID:0D, TEXT:02FC] 对不起啊
 
 --- Group 674 [right:瞪羚 next=2012] ---
 [FID:0D, TEXT:02FA] 道歉来迟了，昨天
 [FID:0D, TEXT:02FB] 的事，真是抱歉啊。
+[FID:0D, TEXT:02FC] 对不起啊
 
 --- Group 675 [left:主人公 next=0023] ---
 [FID:0D, TEXT:02FD] 不，我才要说呢。
@@ -2848,10 +2857,12 @@
 --- Group 677 [left:主人公 next=0023] ---
 [FID:0D, TEXT:0300] 不，我才要说呢。
 [FID:0D, TEXT:0301] 没想到会变成那样……
+[FID:0D, TEXT:0302] 根本没那么想……
 
 --- Group 678 [left:none next=0023] ---
 [FID:0D, TEXT:0300] 不，我才要说呢。
 [FID:0D, TEXT:0301] 没想到会变成那样……
+[FID:0D, TEXT:0302] 根本没那么想……
 
 --- Group 679 [left:none next=0023] ---
 [FID:0D, TEXT:0303] 怎么会，我才要说呢！
@@ -2934,10 +2945,12 @@
 --- Group 695 [left:none next=0023] ---
 [FID:0D, TEXT:031B] 我无法想象，但一定
 [FID:0D, TEXT:031C] 很辛苦吧……
+[FID:0D, TEXT:031D] 吧……
 
 --- Group 696 [left:主人公 next=0023] ---
 [FID:0D, TEXT:031B] 我无法想象，但一定
 [FID:0D, TEXT:031C] 很辛苦吧……
+[FID:0D, TEXT:031D] 吧……
 
 --- Group 697 [left:none next=0023] ---
 [FID:0D, TEXT:031E] 是啊。
@@ -2982,10 +2995,12 @@
 --- Group 705 [right:瞪羚 next=2012] ---
 [FID:0D, TEXT:0326] 就算如此，
 [FID:0D, TEXT:0327] 也不代表可以做坏事。
+[FID:0D, TEXT:0328] 我可没那么想哦
 
 --- Group 706 [right:none next=2012] ---
 [FID:0D, TEXT:0326] 就算如此，
 [FID:0D, TEXT:0327] 也不代表可以做坏事。
+[FID:0D, TEXT:0328] 我可没那么想哦
 
 --- Group 707 [right:瞪羚 next=2012] ---
 [FID:0D, TEXT:0329] 就像雷德说的那样，
@@ -3010,10 +3025,12 @@
 --- Group 711 [left:主人公 next=0023] ---
 [FID:0D, TEXT:032F] 这里的人们，是
 [FID:0D, TEXT:0330] 怎样的伙伴呢？
+[FID:0D, TEXT:030C] 吗？
 
 --- Group 712 [left:none next=0023] ---
 [FID:0D, TEXT:032F] 这里的人们，是
 [FID:0D, TEXT:0330] 怎样的伙伴呢？
+[FID:0D, TEXT:030C] 吗？
 
 --- Group 713 [left:主人公 next=2012] ---
 [FID:0D, TEXT:0331] 话说回来，有个浅显

@@ -385,6 +385,7 @@
 
 --- Group 94 [left:主人公 next=0023] ---
 [FID:33, TEXT:0160] 我无论如何都觉得不是偶然
+[FID:33, TEXT:0161] 我不觉得是这样
 
 --- Group 95 [left:主人公 next=2012] ---
 [FID:33, TEXT:0162] 那时……你
@@ -393,9 +394,11 @@
 
 --- Group 96 [left:主人公 next=0023] ---
 [FID:33, TEXT:0165] 我觉得不是偶然
+[FID:33, TEXT:0166] 我不这么想哦
 
 --- Group 97 [left:主人公 next=0023] ---
 [FID:33, TEXT:0168] 我觉得不是偶然
+[FID:33, TEXT:0169] 我不这么认为
 
 --- Group 98 [right:索尔 next=2012] ---
 [FID:33, TEXT:016A] 还在怀疑我吗？
@@ -440,6 +443,7 @@
 [FID:33, TEXT:017C] 不止如此
 [FID:33, TEXT:017D] 你还知道很多
 [FID:33, TEXT:017E] 不该知道的事情
+[FID:33, TEXT:017F] 我知道
 
 --- Group 109 [left:主人公 next=2012] ---
 [FID:33, TEXT:0180] 就像，一直监视
@@ -476,6 +480,7 @@
 --- Group 117 [right:索尔 next=2012] ---
 [FID:33, TEXT:0190] 那时，我在那个地方
 [FID:33, TEXT:0191] 不是偶然的
+[FID:33, TEXT:0192] 不是这样的啦
 
 --- Group 118 [right:索尔 next=2012] ---
 [FID:33, TEXT:0193] 我是跟踪
@@ -514,6 +519,7 @@
 --- Group 126 [right:索尔 next=2012] ---
 [FID:33, TEXT:01EE] 没有任何人教我
 [FID:33, TEXT:01EF] 就使用了【召唤术】
+[FID:33, TEXT:01F0] 我会让你见识一下
 
 --- Group 127 [right:索尔 next=2012] ---
 [FID:33, TEXT:01F1] 我……

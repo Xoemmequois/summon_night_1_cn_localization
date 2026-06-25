@@ -1211,10 +1211,12 @@
 --- Group 290 [left:none next=0023] ---
 [FID:16, TEXT:0131] 呵呵……
 [FID:16, TEXT:0132] 好像很勉强呢
+[FID:16, TEXT:0133] 似的
 
 --- Group 291 [left:主人公 next=0023] ---
 [FID:16, TEXT:0131] 呵呵……
 [FID:16, TEXT:0132] 好像很勉强呢
+[FID:16, TEXT:0133] 似的
 
 --- Group 292 [left:主人公 next=0023] ---
 [FID:16, TEXT:0134] 　还不行啊
@@ -1306,9 +1308,11 @@
 
 --- Group 314 [left:主人公 next=0023] ---
 [FID:16, TEXT:0143] 要去哪里吗？
+[FID:16, TEXT:0144] 吗？
 
 --- Group 315 [left:none next=0023] ---
 [FID:16, TEXT:0143] 要去哪里吗？
+[FID:16, TEXT:0144] 吗？
 
 --- Group 316 [left:none next=0023] ---
 [FID:16, TEXT:0145] 要去哪里
@@ -1404,6 +1408,7 @@
 [FID:16, TEXT:0158] 在利姆巴姆，
 [FID:16, TEXT:0159] 拥有专业技术的人
 [FID:16, TEXT:015A] 很受欢迎呢……
+[FID:16, TEXT:015B] 来了呢……
 
 --- Group 340 [right:none next=2012] ---
 [FID:16, TEXT:015C] 工资也会
@@ -1444,28 +1449,36 @@
 --- Group 348 [left:none next=0023] ---
 [FID:16, TEXT:0167] 是利普雷给我做的哦
 [FID:16, TEXT:0168] 很好看吧！
+[FID:16, TEXT:016B] 不错吧！
 
 --- Group 349 [left:主人公 next=0023] ---
 [FID:16, TEXT:0167] 是利普雷给我做的哦
 [FID:16, TEXT:0168] 很好看吧！
+[FID:16, TEXT:016B] 不错吧！
 
 --- Group 350 [left:none next=0023] ---
 [FID:16, TEXT:0167] 是利普雷给我做的哦
+[FID:16, TEXT:0168] 送给我的哦
 
 --- Group 351 [left:主人公 next=0023] ---
 [FID:16, TEXT:0167] 是利普雷给我做的哦
+[FID:16, TEXT:0168] 送给我的哦
 
 --- Group 352 [left:主人公 next=0023] ---
 [FID:16, TEXT:0169] 是利普雷做的哦
+[FID:16, TEXT:016A] 我收到的哦
 
 --- Group 353 [left:none next=0023] ---
 [FID:16, TEXT:0169] 是利普雷做的哦
+[FID:16, TEXT:016A] 我收到的哦
 
 --- Group 354 [left:none next=0023] ---
 [FID:16, TEXT:016C] 是利普雷先生做的哦
+[FID:16, TEXT:0168] 送给我的哦
 
 --- Group 355 [left:主人公 next=0023] ---
 [FID:16, TEXT:016C] 是利普雷先生做的哦
+[FID:16, TEXT:0168] 送给我的哦
 
 --- Group 356 [right:none next=2012] ---
 [FID:16, TEXT:016D] 呢……
