@@ -3706,17 +3706,20 @@
   {
     "key": "0005-0021",
     "original": "運命をとめて・・",
-    "translation": ""
+    "translation": "阻止命运吧……",
+    "stage": 3
   },
   {
     "key": "0005-0022",
     "original": "この世界を",
-    "translation": ""
+    "translation": "救救这个",
+    "stage": 3
   },
   {
     "key": "0005-0023",
     "original": "助けてくれ！！",
-    "translation": ""
+    "translation": "世界！！",
+    "stage": 3
   },
   {
     "key": "0005-0024",
@@ -4672,55 +4675,55 @@
   {
     "key": "0007-0002",
     "original": "なんだったんだ、",
-    "translation": "到底是什么啊，",
+    "translation": "刚才那副惨状，",
     "stage": 3
   },
   {
     "key": "0007-0003",
     "original": "あのひどいありさまは",
-    "translation": "那惨不忍睹的场面",
+    "translation": "到底是怎么回事",
     "stage": 3
   },
   {
     "key": "0007-0004",
     "original": "それに、いったい",
-    "translation": "而且，这到底",
+    "translation": "而且，这里",
     "stage": 3
   },
   {
     "key": "0007-0005",
     "original": "ここはどこだ？",
-    "translation": "是哪儿啊？",
+    "translation": "究竟是什么地方？",
     "stage": 3
   },
   {
     "key": "0007-0006",
     "original": "どこかの街には違いな",
-    "translation": "应该是在某个城镇，可",
+    "translation": "应该是哪里的城镇",
     "stage": 3
   },
   {
     "key": "0007-0007",
     "original": "いんだろうけど",
-    "translation": "是",
+    "translation": "吧",
     "stage": 3
   },
   {
     "key": "0007-0008",
     "original": "とにかく必死で走って",
-    "translation": "总之拼命地跑啊跑甚至",
+    "translation": "总之拼命地跑啊跑，甚",
     "stage": 3
   },
   {
     "key": "0007-0009",
     "original": "きたから、どうやって",
-    "translation": "连是怎么到这里来的都",
+    "translation": "至连是怎么到这里来的",
     "stage": 3
   },
   {
     "key": "0007-0010",
     "original": "ここまで来たのかすら",
-    "translation": "不记得了",
+    "translation": "都不记得了",
     "stage": 3
   },
   {
@@ -4750,13 +4753,13 @@
   {
     "key": "0007-0015",
     "original": "とりあえず、ここまで",
-    "translation": "总之，到这里应该就没",
+    "translation": "总之，到了这里应该就",
     "stage": 3
   },
   {
     "key": "0007-0016",
     "original": "来れば大丈夫だろう",
-    "translation": "事了吧",
+    "translation": "安全了",
     "stage": 3
   },
   {
@@ -4774,25 +4777,25 @@
   {
     "key": "0007-0019",
     "original": "いんだろうけど・・・",
-    "translation": "是……",
+    "translation": "吧……",
     "stage": 3
   },
   {
     "key": "0007-0020",
     "original": "必死に走ってきたのは",
-    "translation": "拼命地跑过来是没错，",
+    "translation": "虽然拼命跑了过来，",
     "stage": 3
   },
   {
     "key": "0007-0021",
     "original": "いいけど、どうやって",
-    "translation": "但是是怎么到这里来的",
+    "translation": "但连我自己也不太清楚",
     "stage": 3
   },
   {
     "key": "0007-0022",
     "original": "ここに来たのかもよく",
-    "translation": "也不是很清楚",
+    "translation": "是怎么来到这里的。",
     "stage": 3
   },
   {
@@ -4834,13 +4837,13 @@
   {
     "key": "0007-0029",
     "original": "そもそも、何が原因で",
-    "translation": "说到底，是什么原因",
+    "translation": "说起来，到底是什么",
     "stage": 3
   },
   {
     "key": "0007-0030",
     "original": "こんなことになっち",
-    "translation": "导致变成了",
+    "translation": "原因才变成了",
     "stage": 3
   },
   {
@@ -4852,13 +4855,13 @@
   {
     "key": "0007-0032",
     "original": "・・・やっぱり、あの",
-    "translation": "……果然，是那个【不",
+    "translation": "……果然，还是因为那",
     "stage": 3
   },
   {
     "key": "0007-0033",
     "original": "【不思議な声】のせい",
-    "translation": "可思议的声音】的缘故",
+    "translation": "个【不可思议的声音】",
     "stage": 3
   },
   {
@@ -4870,7 +4873,7 @@
   {
     "key": "0007-0035",
     "original": "こんなことになってし",
-    "translation": "导致变成了",
+    "translation": "原因才变成了",
     "stage": 3
   },
   {
@@ -4882,19 +4885,19 @@
   {
     "key": "0007-0037",
     "original": "目の前が急にまぶしく",
-    "translation": "刚觉得眼前突然晃得睁",
+    "translation": "眼前忽然被耀眼的光芒",
     "stage": 3
   },
   {
     "key": "0007-0038",
     "original": "なったかと思ったら、",
-    "translation": "不开眼，身体就变得轻",
+    "translation": "笼罩，随后身体便轻飘",
     "stage": 3
   },
   {
     "key": "0007-0039",
     "original": "身体がすうっと",
-    "translation": "飘飘的……",
+    "translation": "飘地浮了起来……",
     "stage": 3
   },
   {
@@ -4930,13 +4933,13 @@
   {
     "key": "0007-0045",
     "original": "「助けて」って言って",
-    "translation": "好像在说「救命」呢，",
+    "translation": "虽然在喊着「救命」，",
     "stage": 3
   },
   {
     "key": "0007-0046",
     "original": "たけど、誰の声",
-    "translation": "那是谁的声音",
+    "translation": "但那究竟是谁的声音",
     "stage": 3
   },
   {
@@ -4948,61 +4951,61 @@
   {
     "key": "0007-0048",
     "original": "あの声が誰のもの",
-    "translation": "如果知道那个声音",
+    "translation": "如果能知道那个声音是",
     "stage": 3
   },
   {
     "key": "0007-0049",
     "original": "だったのかわかりゃ",
-    "translation": "是谁的，",
+    "translation": "谁的，说不定就能回到",
     "stage": 3
   },
   {
     "key": "0007-0050",
     "original": "もしかして元の世界に",
-    "translation": "说不定就能回到",
+    "translation": "原来的世界……",
     "stage": 3
   },
   {
     "key": "0007-0051",
     "original": "帰れるかもな",
-    "translation": "原来的世界了",
+    "translation": "",
     "stage": 3
   },
   {
     "key": "0007-0052",
     "original": "だったのかわかれば",
-    "translation": "是谁的，",
+    "translation": "谁的，说不定就能回到",
     "stage": 3
   },
   {
     "key": "0007-0053",
     "original": "元の世界に帰れるの",
-    "translation": "说不定就能回到",
+    "translation": "原来的世界了吧",
     "stage": 3
   },
   {
     "key": "0007-0054",
     "original": "かもしれないな",
-    "translation": "原来的世界了",
+    "translation": "",
     "stage": 3
   },
   {
     "key": "0007-0055",
     "original": "悩んでたって",
-    "translation": "烦恼也没用",
+    "translation": "就算烦恼也没用，",
     "stage": 3
   },
   {
     "key": "0007-0056",
     "original": "しかたがない",
-    "translation": "至少先找这里的人谈谈",
+    "translation": "总之先试着和这里的",
     "stage": 3
   },
   {
     "key": "0007-0057",
     "original": "とりあえず誰かここの",
-    "translation": "吧",
+    "translation": "人聊聊吧",
     "stage": 3
   },
   {
@@ -5014,73 +5017,73 @@
   {
     "key": "0007-0059",
     "original": "なにがどうなってるの",
-    "translation": "到底是怎么回事必须得",
+    "translation": "到底是怎么回事，不先",
     "stage": 3
   },
   {
     "key": "0007-0060",
     "original": "か、もうすこし状況を",
-    "translation": "先了解一下情况才行，",
+    "translation": "多了解一些情况的话，",
     "stage": 3
   },
   {
     "key": "0007-0061",
     "original": "知っとかなくちゃ先の",
-    "translation": "不然无法决定下一步啊",
+    "translation": "也没法决定下一步的",
     "stage": 3
   },
   {
     "key": "0007-0062",
     "original": "ことも決められない",
-    "translation": "",
+    "translation": "事",
     "stage": 3
   },
   {
     "key": "0007-0063",
     "original": "とりあえず、誰かここ",
-    "translation": "总之，先找这里的人问",
+    "translation": "总之，先向这里的人",
     "stage": 3
   },
   {
     "key": "0007-0064",
     "original": "の人に話を聞こう",
-    "translation": "问吧",
+    "translation": "打听一下情况吧",
     "stage": 3
   },
   {
     "key": "0007-0065",
     "original": "これからどうするのか",
-    "translation": "接下来该怎么办还没决",
+    "translation": "就算是想决定接下来该",
     "stage": 3
   },
   {
     "key": "0007-0066",
     "original": "決めるにも、情報不足",
-    "translation": "定，而且信息不足……",
+    "translation": "怎么办，信息也不够",
     "stage": 3
   },
   {
     "key": "0007-0067",
     "original": "だし・・・",
-    "translation": "",
+    "translation": "啊……",
     "stage": 3
   },
   {
     "key": "0007-0068",
     "original": "誰か、話を聞けそうな",
-    "translation": "有没有人，看起来像是",
+    "translation": "有没有谁看起来可以打",
     "stage": 3
   },
   {
     "key": "0007-0069",
     "original": "人はいないかな？",
-    "translation": "能听我说话的？",
+    "translation": "听一下情况呢？",
     "stage": 3
   },
   {
     "key": "0007-0070",
     "original": "人はいないだろうか？",
-    "translation": "能听我说话的？",
+    "translation": "听一下情况呢？",
     "stage": 3
   },
   {
@@ -5092,25 +5095,25 @@
   {
     "key": "0007-0072",
     "original": "死んでたんだ・・・？",
-    "translation": "掉了……？",
+    "translation": "了呢……？",
     "stage": 3
   },
   {
     "key": "0007-0073",
     "original": "何かが爆発したみたい",
-    "translation": "好像有什么东西爆炸了",
+    "translation": "好像什么东西爆炸了，",
     "stage": 3
   },
   {
     "key": "0007-0074",
     "original": "だったけど、それなら",
-    "translation": "可是，如果是那样的话",
+    "translation": "可是那样的话，为什么",
     "stage": 3
   },
   {
     "key": "0007-0075",
     "original": "どうして俺だけ平気",
-    "translation": "为什么只有我没事",
+    "translation": "只有我一点事都没有",
     "stage": 3
   },
   {
@@ -5131,79 +5134,79 @@
   {
     "key": "0007-0079",
     "original": "建物のつくりを見ても",
-    "translation": "从建筑的构造看这里和",
+    "translation": "光是看建筑物的构造，",
     "stage": 3
   },
   {
     "key": "0007-0080",
     "original": "ここが俺のいた世界と",
-    "translation": "我的世界确实是不同的",
+    "translation": "也能确定这里和我原来",
     "stage": 3
   },
   {
     "key": "0007-0081",
     "original": "違うのは確実だよな",
-    "translation": "呢",
+    "translation": "所处的世界不一样啊",
     "stage": 3
   },
   {
     "key": "0007-0082",
     "original": "ここが僕のいた世界と",
-    "translation": "我的世界确实是不同的",
+    "translation": "也能确定这里和我原来",
     "stage": 3
   },
   {
     "key": "0007-0083",
     "original": "違うのは確実だな",
-    "translation": "呢",
+    "translation": "所处的世界不一样啊",
     "stage": 3
   },
   {
     "key": "0007-0084",
     "original": "しかし・・・",
-    "translation": "不过……",
+    "translation": "但是……",
     "stage": 3
   },
   {
     "key": "0007-0085",
     "original": "なんていうか、あまり",
-    "translation": "怎么说呢，气氛不太好",
+    "translation": "该怎么说呢……",
     "stage": 3
   },
   {
     "key": "0007-0086",
     "original": "いい雰囲気じゃないな",
-    "translation": "啊。既昏暗，还有垃圾",
+    "translation": "气氛不太好啊",
     "stage": 3
   },
   {
     "key": "0007-0087",
     "original": "うす暗いし、ゴミとか",
-    "translation": "之类的散落着",
+    "translation": "又昏暗，还有垃圾散落",
     "stage": 3
   },
   {
     "key": "0007-0088",
     "original": "散らかってるし",
-    "translation": "",
+    "translation": "一地",
     "stage": 3
   },
   {
     "key": "0007-0089",
     "original": "なんというか、あまり",
-    "translation": "怎么说呢，气氛不太好",
+    "translation": "该怎么说呢……",
     "stage": 3
   },
   {
     "key": "0007-0090",
     "original": "いい雰囲気ではないな",
-    "translation": "啊。简直就像是贫民窟",
+    "translation": "气氛不太好啊",
     "stage": 3
   },
   {
     "key": "0007-0091",
     "original": "まるで、スラムみたい",
-    "translation": "一样呢",
+    "translation": "简直就像贫民窟一样",
     "stage": 3
   },
   {
@@ -5215,60 +5218,67 @@
   {
     "key": "0007-0093",
     "original": "人の姿が見あたらない",
-    "translation": ""
+    "translation": "看不到人影，",
+    "stage": 3
   },
   {
     "key": "0007-0094",
     "original": "のは、なぜだろう？",
-    "translation": ""
+    "translation": "是为什么呢？",
+    "stage": 3
   },
   {
     "key": "0007-0095",
     "original": "・・・なんだかイヤな",
-    "translation": ""
+    "translation": "……总觉得有种不祥的",
+    "stage": 3
   },
   {
     "key": "0007-0096",
     "original": "予感がするぞ",
-    "translation": ""
+    "translation": "预感啊",
+    "stage": 3
   },
   {
     "key": "0007-0097",
     "original": "予感がするな",
-    "translation": ""
+    "translation": "预感啊",
+    "stage": 3
   },
   {
     "key": "0007-0098",
     "original": "・・・！！",
-    "translation": ""
+    "translation": "……！！",
+    "stage": 3
   },
   {
     "key": "0007-0099",
     "original": "誰だっ！？",
-    "translation": ""
+    "translation": "是谁？！",
+    "stage": 3
   },
   {
     "key": "0007-0100",
     "original": "来れば大丈夫かな？",
-    "translation": "事了吧？",
+    "translation": "安全了吧？",
     "stage": 3
   },
   {
     "key": "0007-0101",
     "original": "でも、いったいここは",
-    "translation": "而且，这到底",
+    "translation": "但是，这里到底是哪里",
     "stage": 3
   },
   {
     "key": "0007-0102",
     "original": "どこなんだろう？",
-    "translation": "是那儿啊？",
+    "translation": "呢？",
     "stage": 3
   },
   {
     "key": "0007-0103",
     "original": "ここまで来たのかも、",
-    "translation": "也不是很清楚",
+    "translation": "是怎么来到这里的。",
     "stage": 3
   },
   {
@@ -5280,7 +5290,7 @@
   {
     "key": "0007-0105",
     "original": "こんなことになって",
-    "translation": "导致变成了",
+    "translation": "原因才变成了",
     "stage": 3
   },
   {
@@ -5298,19 +5308,19 @@
   {
     "key": "0007-0108",
     "original": "目の前がまぶしくなっ",
-    "translation": "刚觉得眼前突然晃得睁",
+    "translation": "眼前忽然被耀眼的光芒",
     "stage": 3
   },
   {
     "key": "0007-0109",
     "original": "たと思ったら、からだ",
-    "translation": "不开眼，身体就变得轻",
+    "translation": "笼罩，随后身体便轻飘",
     "stage": 3
   },
   {
     "key": "0007-0110",
     "original": "がすうっと軽くなって",
-    "translation": "飘飘的……",
+    "translation": "飘地浮了起来……",
     "stage": 3
   },
   {
@@ -5328,83 +5338,97 @@
   {
     "key": "0007-0113",
     "original": "も思いだせないよ",
-    "translation": "起来了啊",
+    "translation": "起来了",
     "stage": 3
   },
   {
     "key": "0007-0114",
     "original": "いたけど、誰の声だっ",
-    "translation": ""
+    "translation": "但那究竟是谁的声音",
+    "stage": 3
   },
   {
     "key": "0007-0115",
     "original": "たんだろう？",
-    "translation": ""
+    "translation": "呢？",
+    "stage": 3
   },
   {
     "key": "0007-0116",
     "original": "だったのかわかれば、",
-    "translation": ""
+    "translation": "谁的，说不定就能回到",
+    "stage": 3
   },
   {
     "key": "0007-0117",
     "original": "帰れるかも・・・",
-    "translation": ""
+    "translation": "",
+    "stage": 3
   },
   {
     "key": "0007-0118",
     "original": "うん、きっとそうよ！",
-    "translation": ""
+    "translation": "嗯，就是这样！",
+    "stage": 3
   },
   {
     "key": "0007-0119",
     "original": "悩んでたって他に",
-    "translation": ""
+    "translation": "就算烦恼也没用，",
+    "stage": 3
   },
   {
     "key": "0007-0120",
     "original": "アテがあるわけじゃ",
-    "translation": ""
+    "translation": "反正也没有别的线索",
+    "stage": 3
   },
   {
     "key": "0007-0121",
     "original": "ないんだし",
-    "translation": ""
+    "translation": "",
+    "stage": 3
   },
   {
     "key": "0007-0122",
     "original": "だけど、それならどう",
-    "translation": ""
+    "translation": "但是，如果真是这样的",
+    "stage": 3
   },
   {
     "key": "0007-0123",
     "original": "して、私を呼んだ人は",
-    "translation": ""
+    "translation": "话，那为什么那个呼唤",
+    "stage": 3
   },
   {
     "key": "0007-0124",
     "original": "あの場所にいなかった",
-    "translation": ""
+    "translation": "我的人，当时却不在那",
+    "stage": 3
   },
   {
     "key": "0007-0125",
     "original": "んだろう・・・？",
-    "translation": ""
+    "translation": "个地方呢……？",
+    "stage": 3
   },
   {
     "key": "0007-0126",
     "original": "まずは、誰かに話を",
-    "translation": ""
+    "translation": "首先，先找个人聊聊试",
+    "stage": 3
   },
   {
     "key": "0007-0127",
     "original": "聞いてみよう",
-    "translation": ""
+    "translation": "试看吧",
+    "stage": 3
   },
   {
     "key": "0007-0128",
     "original": "どうしてあんなひどい",
-    "translation": "为什么会发生那么可怕",
+    "translation": "为什么会发生那种残忍",
     "stage": 3
   },
   {
@@ -5476,79 +5500,86 @@
   {
     "key": "0007-0142",
     "original": "ここは街なのかな",
-    "translation": "这里是城镇吗",
+    "translation": "这里算是城市吗",
     "stage": 3
   },
   {
     "key": "0007-0143",
     "original": "見たことのないつくり",
-    "translation": "都是些没见过的建筑",
+    "translation": "不过周围全都是些从未",
     "stage": 3
   },
   {
     "key": "0007-0144",
     "original": "の建物ばかりだけど",
-    "translation": "风格",
+    "translation": "见过的样式的建筑",
     "stage": 3
   },
   {
     "key": "0007-0145",
     "original": "・・・なんていうか、",
-    "translation": "……怎么说呢，气氛不",
+    "translation": "……该怎么说呢",
     "stage": 3
   },
   {
     "key": "0007-0146",
     "original": "あまりいい雰囲気じゃ",
-    "translation": "太好啊。既昏暗，还有",
+    "translation": "气氛不太好啊",
     "stage": 3
   },
   {
     "key": "0007-0147",
     "original": "ないな。うす暗くて",
-    "translation": "垃圾之类的散落着",
+    "translation": "又昏暗，还有垃圾散落",
     "stage": 3
   },
   {
     "key": "0007-0148",
     "original": "ゴミも散らかってる",
-    "translation": "",
+    "translation": "一地",
     "stage": 3
   },
   {
     "key": "0007-0149",
     "original": "スラムかな？",
-    "translation": ""
+    "translation": "是贫民窟吗？",
+    "stage": 3
   },
   {
     "key": "0007-0150",
     "original": "新聞で見た写真とかに",
-    "translation": ""
+    "translation": "和报纸上看到的那些照",
+    "stage": 3
   },
   {
     "key": "0007-0151",
     "original": "よく似てるしね",
-    "translation": ""
+    "translation": "片挺像的呢",
+    "stage": 3
   },
   {
     "key": "0007-0152",
     "original": "スラム、なのかな？",
-    "translation": ""
+    "translation": "是贫民窟吗？",
+    "stage": 3
   },
   {
     "key": "0007-0153",
     "original": "よく似てるわ",
-    "translation": ""
+    "translation": "片挺像的呢",
+    "stage": 3
   },
   {
     "key": "0007-0154",
     "original": "のは、なぜかしら？",
-    "translation": ""
+    "translation": "是为什么呢？",
+    "stage": 3
   },
   {
     "key": "0007-0155",
     "original": "予感がするわ",
-    "translation": ""
+    "translation": "预感啊",
+    "stage": 3
   },
   {
     "key": "0007-0156",
