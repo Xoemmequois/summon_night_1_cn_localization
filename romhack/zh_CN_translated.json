@@ -6419,67 +6419,80 @@
   {
     "key": "0010-0001",
     "original": "てめぇ・・・",
-    "translation": ""
+    "translation": "你这家伙……",
+    "stage": 3
   },
   {
     "key": "0010-0002",
     "original": "よくもやってくれたな",
-    "translation": ""
+    "translation": "真是好大的胆子我绝对",
+    "stage": 3
   },
   {
     "key": "0010-0003",
     "original": "絶対にゆるさねえ！！",
-    "translation": ""
+    "translation": "不会原谅你！！",
+    "stage": 3
   },
   {
     "key": "0010-0004",
     "original": "・・・！",
-    "translation": ""
+    "translation": "……！",
+    "stage": 3
   },
   {
     "key": "0010-0005",
     "original": "・・・きゃっ！",
-    "translation": ""
+    "translation": "……呀！",
+    "stage": 3
   },
   {
     "key": "0010-0006",
     "original": "そこまでだ、ガゼル",
-    "translation": ""
+    "translation": "到此为止了，瞪羚",
+    "stage": 3
   },
   {
     "key": "0010-0007",
     "original": "レ、レイド・・・",
-    "translation": ""
+    "translation": "雷、雷德……",
+    "stage": 3
   },
   {
     "key": "0010-0008",
     "original": "なんでだよ！？",
-    "translation": ""
+    "translation": "为什么！？",
+    "stage": 3
   },
   {
     "key": "0010-0009",
     "original": "こいつのせいでエドス",
-    "translation": ""
+    "translation": "因为这家伙，艾多斯才",
+    "stage": 3
   },
   {
     "key": "0010-0010",
     "original": "はやられたんだぞ！！",
-    "translation": ""
+    "translation": "会被打倒的！！",
+    "stage": 3
   },
   {
     "key": "0010-0011",
     "original": "こっちが先に",
-    "translation": ""
+    "translation": "是我们这边",
+    "stage": 3
   },
   {
     "key": "0010-0012",
     "original": "手を出したんだ",
-    "translation": ""
+    "translation": "先出手的",
+    "stage": 3
   },
   {
     "key": "0010-0013",
     "original": "身を守ろうとした",
-    "translation": ""
+    "translation": "她只是为了保护自己",
+    "stage": 3
   },
   {
     "key": "0010-0014",
@@ -6489,237 +6502,284 @@
   {
     "key": "0010-0015",
     "original": "彼女は悪くない",
-    "translation": ""
+    "translation": "并没有错",
+    "stage": 3
   },
   {
     "key": "0010-0016",
     "original": "ぐっ・・・",
-    "translation": ""
+    "translation": "唔……",
+    "stage": 3
   },
   {
     "key": "0010-0017",
     "original": "ずっと、見てたのかよ",
-    "translation": ""
+    "translation": "你一直都在看吗",
+    "stage": 3
   },
   {
     "key": "0010-0018",
     "original": "まあ、な",
-    "translation": ""
+    "translation": "嗯，算是吧",
+    "stage": 3
   },
   {
     "key": "0010-0019",
     "original": "それにエドスだったら",
-    "translation": ""
+    "translation": "而且艾德斯的话只是晕",
+    "stage": 3
   },
   {
     "key": "0010-0020",
     "original": "気絶してるだけだ",
-    "translation": ""
+    "translation": "过去而已",
+    "stage": 3
   },
   {
     "key": "0010-0021",
     "original": "ちゃんと息もある",
-    "translation": ""
+    "translation": "还有呼吸的",
+    "stage": 3
   },
   {
     "key": "0010-0022",
     "original": "・・・わかったよ",
-    "translation": ""
+    "translation": "……我明白了",
+    "stage": 3
   },
   {
     "key": "0010-0023",
     "original": "とんだ言いがかりをつ",
-    "translation": ""
+    "translation": "真是抱歉，无理取闹说",
+    "stage": 3
   },
   {
     "key": "0010-0024",
     "original": "けてすまなかった",
-    "translation": ""
+    "translation": "了那样的话",
+    "stage": 3
   },
   {
     "key": "0010-0025",
     "original": "ゆるしてくれないか",
-    "translation": ""
+    "translation": "能原谅我吗",
+    "stage": 3
   },
   {
     "key": "0010-0026",
     "original": "えっ？",
-    "translation": ""
+    "translation": "嗯？",
+    "stage": 3
   },
   {
     "key": "0010-0027",
     "original": "あ、はあ",
-    "translation": ""
+    "translation": "啊，嗯",
+    "stage": 3
   },
   {
     "key": "0010-0028",
     "original": "いえ、こちらこそ",
-    "translation": ""
+    "translation": "不，我才是请你原谅",
+    "stage": 3
   },
   {
     "key": "0010-0029",
     "original": "あ、はい",
-    "translation": ""
+    "translation": "啊，是的",
+    "stage": 3
   },
   {
     "key": "0010-0030",
     "original": "ところで・・・",
-    "translation": ""
+    "translation": "话说回来……",
+    "stage": 3
   },
   {
     "key": "0010-0031",
     "original": "見かけない顔だが、君",
-    "translation": ""
+    "translation": "你的脸很陌生，你是从",
+    "stage": 3
   },
   {
     "key": "0010-0032",
     "original": "はどこから来たんだ？",
-    "translation": ""
+    "translation": "哪里来的？",
+    "stage": 3
   },
   {
     "key": "0010-0033",
     "original": "どうしよう？",
-    "translation": ""
+    "translation": "该怎么办？",
+    "stage": 3
   },
   {
     "key": "0010-0034",
     "original": "　素直に答える",
-    "translation": ""
+    "translation": "　老实回答",
+    "stage": 3
   },
   {
     "key": "0010-0035",
     "original": "　黙っている",
-    "translation": ""
+    "translation": "　保持沉默",
+    "stage": 3
   },
   {
     "key": "0010-0036",
     "original": "じつは・・・",
-    "translation": ""
+    "translation": "其实……",
+    "stage": 3
   },
   {
     "key": "0010-0037",
     "original": "俺もわかんないんです",
-    "translation": ""
+    "translation": "我也不知道",
+    "stage": 3
   },
   {
     "key": "0010-0038",
     "original": "僕にもわかりません",
-    "translation": ""
+    "translation": "我也不知道",
+    "stage": 3
   },
   {
     "key": "0010-0039",
     "original": "わかんないんです",
-    "translation": ""
+    "translation": "我也不知道",
+    "stage": 3
   },
   {
     "key": "0010-0040",
     "original": "はぁ？",
-    "translation": ""
+    "translation": "哈？",
+    "stage": 3
   },
   {
     "key": "0010-0041",
     "original": "すくなくとも、",
-    "translation": ""
+    "translation": "至少，",
+    "stage": 3
   },
   {
     "key": "0010-0042",
     "original": "こことは違う世界",
-    "translation": ""
+    "translation": "我认为我不是这个",
+    "stage": 3
   },
   {
     "key": "0010-0043",
     "original": "だとは思うんですが",
-    "translation": ""
+    "translation": "这个世界的人",
+    "stage": 3
   },
   {
     "key": "0010-0044",
     "original": "だとは思うんですけど",
-    "translation": ""
+    "translation": "这个世界的人",
+    "stage": 3
   },
   {
     "key": "0010-0045",
     "original": "・・・なるほどな",
-    "translation": ""
+    "translation": "……原来如此",
+    "stage": 3
   },
   {
     "key": "0010-0046",
     "original": "？？？",
-    "translation": ""
+    "translation": "？？？",
+    "stage": 3
   },
   {
     "key": "0010-0047",
     "original": "ついてきなさい",
-    "translation": ""
+    "translation": "跟我来吧",
+    "stage": 3
   },
   {
     "key": "0010-0048",
     "original": "君の知りたいことは、",
-    "translation": ""
+    "translation": "你想知道的事情，我想",
+    "stage": 3
   },
   {
     "key": "0010-0049",
     "original": "少しぐらいなら説明し",
-    "translation": ""
+    "translation": "我能解释一点给你听",
+    "stage": 3
   },
   {
     "key": "0010-0050",
     "original": "てあげられると思う",
-    "translation": ""
+    "translation": "",
+    "stage": 3
   },
   {
     "key": "0010-0051",
     "original": "・・・",
-    "translation": ""
+    "translation": "……",
+    "stage": 3
   },
   {
     "key": "0010-0052",
     "original": "おい、なんとか",
-    "translation": ""
+    "translation": "喂，你倒是",
+    "stage": 3
   },
   {
     "key": "0010-0053",
     "original": "言ったらどうだ！？",
-    "translation": ""
+    "translation": "说点什么啊！？",
+    "stage": 3
   },
   {
     "key": "0010-0054",
     "original": "ガゼル、少しだまって",
-    "translation": ""
+    "translation": "瞪羚，你先闭嘴吧",
+    "stage": 3
   },
   {
     "key": "0010-0055",
     "original": "いるんだ",
-    "translation": ""
+    "translation": "",
+    "stage": 3
   },
   {
     "key": "0010-0056",
     "original": "どうやら、いろいろと",
-    "translation": ""
+    "translation": "看来，你好像有",
+    "stage": 3
   },
   {
     "key": "0010-0057",
     "original": "事情があるようだな",
-    "translation": ""
+    "translation": "不少难处",
+    "stage": 3
   },
   {
     "key": "0010-0058",
     "original": "もしよかったら、",
-    "translation": ""
+    "translation": "如果可以的话，",
+    "stage": 3
   },
   {
     "key": "0010-0059",
     "original": "話してくれないか？",
-    "translation": ""
+    "translation": "能告诉我吗？",
+    "stage": 3
   },
   {
     "key": "0010-0060",
     "original": "ひょっとすると、力に",
-    "translation": ""
+    "translation": "说不定，我能帮上你的",
+    "stage": 3
   },
   {
     "key": "0010-0061",
     "original": "なれるかもしれない",
-    "translation": ""
+    "translation": "忙",
+    "stage": 3
   },
   {
     "key": "0011-0001",
