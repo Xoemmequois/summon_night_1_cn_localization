@@ -3471,7 +3471,8 @@
   {
     "key": "0004-0053",
     "original": "　後輩と別れたあたしは",
-    "translation": ""
+    "translation": "　和后辈告别后，",
+    "stage": 3
   },
   {
     "key": "0004-0054",
@@ -3548,7 +3549,7 @@
   {
     "key": "0004-0066",
     "original": "　後輩と別れた私は",
-    "translation": "　　和后辈告别后，",
+    "translation": "　和后辈告别后，",
     "stage": 3
   },
   {
@@ -3626,12 +3627,14 @@
   {
     "key": "0005-0006",
     "original": "なんだよ、この声！？",
-    "translation": ""
+    "translation": "什么啊，这个声音！？",
+    "stage": 3
   },
   {
     "key": "0005-0007",
     "original": "幻聴か・・・？",
-    "translation": ""
+    "translation": "是幻听吗……？",
+    "stage": 3
   },
   {
     "key": "0005-0008",
@@ -3660,17 +3663,20 @@
   {
     "key": "0005-0012",
     "original": "おい、",
-    "translation": ""
+    "translation": "喂，",
+    "stage": 3
   },
   {
     "key": "0005-0013",
     "original": "あんたは誰だ！？",
-    "translation": ""
+    "translation": "你是谁！？",
+    "stage": 3
   },
   {
     "key": "0005-0014",
     "original": "おい、君は誰だ！？",
-    "translation": ""
+    "translation": "喂，你是谁！？",
+    "stage": 3
   },
   {
     "key": "0005-0015",
@@ -3681,27 +3687,32 @@
   {
     "key": "0005-0016",
     "original": "くそっ、",
-    "translation": ""
+    "translation": "可恶，",
+    "stage": 3
   },
   {
     "key": "0005-0017",
     "original": "頭がいてぇ・・・",
-    "translation": ""
+    "translation": "头好痛……",
+    "stage": 3
   },
   {
     "key": "0005-0018",
     "original": "どうなってんだっ！？",
-    "translation": ""
+    "translation": "这是怎么回事！？",
+    "stage": 3
   },
   {
     "key": "0005-0019",
     "original": "ううっ、頭が痛む・・",
-    "translation": ""
+    "translation": "唔，头好痛……",
+    "stage": 3
   },
   {
     "key": "0005-0020",
     "original": "何が起こってるんだ？",
-    "translation": ""
+    "translation": "发生了什么事？",
+    "stage": 3
   },
   {
     "key": "0005-0021",
@@ -3736,7 +3747,8 @@
   {
     "key": "0005-0026",
     "original": "うっ、うわああっ！？",
-    "translation": ""
+    "translation": "唔、哇啊啊啊！？",
+    "stage": 3
   },
   {
     "key": "0005-0027",
@@ -5119,17 +5131,20 @@
   {
     "key": "0007-0076",
     "original": "あんまり思い出したく",
-    "translation": ""
+    "translation": "还是不太想要回忆起来",
+    "stage": 3
   },
   {
     "key": "0007-0077",
     "original": "ないよな",
-    "translation": ""
+    "translation": "啊",
+    "stage": 3
   },
   {
     "key": "0007-0078",
     "original": "ああいう光景は・・・",
-    "translation": ""
+    "translation": "那样的景象……",
+    "stage": 3
   },
   {
     "key": "0007-0079",
@@ -5440,62 +5455,74 @@
   {
     "key": "0007-0130",
     "original": "・・・ひょっとしたら",
-    "translation": ""
+    "translation": "……说不定",
+    "stage": 3
   },
   {
     "key": "0007-0131",
     "original": "あたしも、あんなふう",
-    "translation": ""
+    "translation": "我自己也会变成那个样",
+    "stage": 3
   },
   {
     "key": "0007-0132",
     "original": "になっちゃってたのか",
-    "translation": ""
+    "translation": "子吧",
+    "stage": 3
   },
   {
     "key": "0007-0133",
     "original": "もしれないな",
-    "translation": ""
+    "translation": "",
+    "stage": 3
   },
   {
     "key": "0007-0134",
     "original": "命が助かっただけでも",
-    "translation": ""
+    "translation": "光是捡回一条命，",
+    "stage": 3
   },
   {
     "key": "0007-0135",
     "original": "めっけもんだよね",
-    "translation": ""
+    "translation": "就已经算是走运了呢",
+    "stage": 3
   },
   {
     "key": "0007-0136",
     "original": "でもこの世界では、",
-    "translation": ""
+    "translation": "但是在这个世界里，",
+    "stage": 3
   },
   {
     "key": "0007-0137",
     "original": "あんなことがあたりま",
-    "translation": ""
+    "translation": "那种事情或许早就司空",
+    "stage": 3
   },
   {
     "key": "0007-0138",
     "original": "えなのかもしれないわ",
-    "translation": ""
+    "translation": "见惯了吧",
+    "stage": 3
   },
   {
     "key": "0007-0139",
     "original": "どうしよう・・・",
-    "translation": ""
+    "translation": "怎么办才好……",
+    "stage": 3
   },
   {
     "key": "0007-0140",
     "original": "あまり深く考えすぎる",
-    "translation": ""
+    "translation": "还是别想得太多了……",
+    "stage": 3
   },
   {
     "key": "0007-0141",
     "original": "のはよそう・・・",
-    "translation": ""
+    "translation": "",
+    "stage": 3
   },
   {
     "key": "0007-0142",
@@ -5584,7 +5611,7 @@
   {
     "key": "0007-0156",
     "original": "そこにいるのは誰！？",
-    "translation": ""
+    "translation": "在那里的是谁！？"
   },
   {
     "key": "0008-0001",
@@ -5841,22 +5868,26 @@
   {
     "key": "0008-0043",
     "original": "どうも俺たちのことを",
-    "translation": ""
+    "translation": "看来是在小瞧我们啊",
+    "stage": 3
   },
   {
     "key": "0008-0044",
     "original": "なめてるらしいな",
-    "translation": ""
+    "translation": "喂，用不着客气，陪他",
+    "stage": 3
   },
   {
     "key": "0008-0045",
     "original": "おい、かまわねえから",
-    "translation": ""
+    "translation": "好好玩玩",
+    "stage": 3
   },
   {
     "key": "0008-0046",
     "original": "ちょっと遊んでやれ",
-    "translation": ""
+    "translation": "",
+    "stage": 3
   },
   {
     "key": "0008-0047",

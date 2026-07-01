@@ -43,7 +43,8 @@ def main():
     trans = collect_translations()
     print(f"Collected {len(trans)} translations from processed files")
 
-    with open(ZH_CN_PATH, "r", encoding="utf-8") as f:
+    base_path = OUTPUT_PATH if OUTPUT_PATH.exists() else ZH_CN_PATH
+    with open(base_path, "r", encoding="utf-8") as f:
         data = json.load(f)
 
     updated = 0
