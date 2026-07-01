@@ -11,11 +11,11 @@
 
 --- Group 4 [left:char_0000 next=2012] ---
 [FID:07, TEXT:0006] どこかの街には違いな
-[FID:07, TEXT:0007] いんだろうけど
+[FID:07, TEXT:0013] いんだろうけど・・・
 
 --- Group 5 [left:char_0000 next=2012] ---
 [FID:07, TEXT:0006] どこかの街には違いな
-[FID:07, TEXT:0013] いんだろうけど・・・
+[FID:07, TEXT:0007] いんだろうけど
 
 --- Group 6 [left:char_0000 next=2012] ---
 [FID:07, TEXT:0008] とにかく必死で走って
@@ -34,11 +34,11 @@
 
 --- Group 9 [left:char_0000 next=2012] ---
 [FID:07, TEXT:000F] とりあえず、ここまで
-[FID:07, TEXT:0010] 来れば大丈夫だろう
+[FID:07, TEXT:0064] 来れば大丈夫かな？
 
 --- Group 10 [left:char_0000 next=2012] ---
 [FID:07, TEXT:000F] とりあえず、ここまで
-[FID:07, TEXT:0064] 来れば大丈夫かな？
+[FID:07, TEXT:0010] 来れば大丈夫だろう
 
 --- Group 11 [left:char_0000 next=2012] ---
 [FID:07, TEXT:0011] しかし、いったいここ
@@ -47,24 +47,24 @@
 --- Group 12 [left:char_0000 next=2012] ---
 [FID:07, TEXT:0014] 必死に走ってきたのは
 [FID:07, TEXT:0015] いいけど、どうやって
-[FID:07, TEXT:0016] ここに来たのかもよく
-[FID:07, TEXT:0017] わからないし
+[FID:07, TEXT:0067] ここまで来たのかも、
+[FID:07, TEXT:0068] よくわからないし
 
 --- Group 13 [left:char_0000 next=2012] ---
 [FID:07, TEXT:0014] 必死に走ってきたのは
 [FID:07, TEXT:0015] いいけど、どうやって
-[FID:07, TEXT:0067] ここまで来たのかも、
-[FID:07, TEXT:0068] よくわからないし
+[FID:07, TEXT:0016] ここに来たのかもよく
+[FID:07, TEXT:0017] わからないし
 
 --- Group 14 [left:char_0000 next=2015] ---
 [FID:07, TEXT:0019] どうしよう？
 [FID:07, TEXT:001A] 　今までのことをふりかえる
-[FID:07, TEXT:001B] 　さっきの光景を思い出す
 [FID:07, TEXT:001C] 　あたりの様子を見る
 
 --- Group 15 [left:char_0000 next=2015] ---
 [FID:07, TEXT:0019] どうしよう？
 [FID:07, TEXT:001A] 　今までのことをふりかえる
+[FID:07, TEXT:001B] 　さっきの光景を思い出す
 [FID:07, TEXT:001C] 　あたりの様子を見る
 
 --- Group 16 [left:char_0000 next=2012] ---
@@ -85,17 +85,17 @@
 --- Group 19 [left:char_0000 next=2012] ---
 [FID:07, TEXT:0020] ・・・やっぱり、あの
 [FID:07, TEXT:0021] 【不思議な声】のせい
-[FID:07, TEXT:006B] なのかな
-
---- Group 20 [left:char_0000 next=2012] ---
-[FID:07, TEXT:0020] ・・・やっぱり、あの
-[FID:07, TEXT:0021] 【不思議な声】のせい
 [FID:07, TEXT:0024] なんだろうか
 
---- Group 21 [left:char_0000 next=0023] ---
+--- Group 20 [left:char_0000 next=0023] ---
 [FID:07, TEXT:0020] ・・・やっぱり、あの
 [FID:07, TEXT:0021] 【不思議な声】のせい
 [FID:07, TEXT:0022] なんだろうな
+
+--- Group 21 [left:char_0000 next=2012] ---
+[FID:07, TEXT:0020] ・・・やっぱり、あの
+[FID:07, TEXT:0021] 【不思議な声】のせい
+[FID:07, TEXT:006B] なのかな
 
 --- Group 22 [left:char_0000 next=2012] ---
 [FID:07, TEXT:0025] 目の前が急にまぶしく
@@ -113,175 +113,112 @@
 
 --- Group 25 [left:char_0000 next=2012] ---
 [FID:07, TEXT:002D] 「助けて」って言って
-[FID:07, TEXT:0072] いたけど、誰の声だっ
-[FID:07, TEXT:0073] たんだろう？
-
---- Group 26 [left:char_0000 next=2012] ---
-[FID:07, TEXT:002D] 「助けて」って言って
 [FID:07, TEXT:002E] たけど、誰の声
 [FID:07, TEXT:002F] だったんだろう？
 
---- Group 27 [left:char_0000 next=2012] ---
-[FID:07, TEXT:0030] あの声が誰のもの
-[FID:07, TEXT:0074] だったのかわかれば、
-[FID:07, TEXT:0032] もしかして元の世界に
-[FID:07, TEXT:0075] 帰れるかも・・・
-
---- Group 28 [left:char_0000 next=2012] ---
-[FID:07, TEXT:0030] あの声が誰のもの
-[FID:07, TEXT:0034] だったのかわかれば
-[FID:07, TEXT:0035] 元の世界に帰れるの
-[FID:07, TEXT:0036] かもしれないな
-
---- Group 29 [left:char_0000 next=0023] ---
+--- Group 26 [left:char_0000 next=0023] ---
 [FID:07, TEXT:0030] あの声が誰のもの
 [FID:07, TEXT:0031] だったのかわかりゃ
 [FID:07, TEXT:0032] もしかして元の世界に
 [FID:07, TEXT:0033] 帰れるかもな
 
---- Group 30 [left:char_0000 next=2012] ---
+--- Group 27 [left:char_0000 next=2012] ---
+[FID:07, TEXT:0030] あの声が誰のもの
+[FID:07, TEXT:0034] だったのかわかれば
+[FID:07, TEXT:0035] 元の世界に帰れるの
+[FID:07, TEXT:0036] かもしれないな
+
+--- Group 28 [left:char_0000 next=2012] ---
 [FID:07, TEXT:0037] 悩んでたって
 [FID:07, TEXT:0038] しかたがない
 [FID:07, TEXT:0039] とりあえず誰かここの
 [FID:07, TEXT:003A] 人と話をしてみるか
 
---- Group 31 [left:char_0000 next=0023] ---
+--- Group 29 [left:char_0000 next=0023] ---
 [FID:07, TEXT:003B] なにがどうなってるの
 [FID:07, TEXT:003C] か、もうすこし状況を
 [FID:07, TEXT:003D] 知っとかなくちゃ先の
 [FID:07, TEXT:003E] ことも決められない
 
---- Group 32 [left:char_0000 next=2012] ---
+--- Group 30 [left:char_0000 next=2012] ---
 [FID:07, TEXT:003F] とりあえず、誰かここ
 [FID:07, TEXT:0040] の人に話を聞こう
 
---- Group 33 [left:char_0000 next=2012] ---
+--- Group 31 [left:char_0000 next=2012] ---
 [FID:07, TEXT:0041] これからどうするのか
 [FID:07, TEXT:0042] 決めるにも、情報不足
 [FID:07, TEXT:0043] だし・・・
 
---- Group 34 [left:char_0000 next=0023] ---
-[FID:07, TEXT:0044] 誰か、話を聞けそうな
-[FID:07, TEXT:0045] 人はいないかな？
-
---- Group 35 [left:char_0000 next=2012] ---
+--- Group 32 [left:char_0000 next=2012] ---
 [FID:07, TEXT:0044] 誰か、話を聞けそうな
 [FID:07, TEXT:0046] 人はいないだろうか？
 
---- Group 36 [left:char_0000 next=2012] ---
+--- Group 33 [left:char_0000 next=0023] ---
+[FID:07, TEXT:0044] 誰か、話を聞けそうな
+[FID:07, TEXT:0045] 人はいないかな？
+
+--- Group 34 [left:char_0000 next=2012] ---
 [FID:07, TEXT:0047] どうしてあんなに人が
 [FID:07, TEXT:0048] 死んでたんだ・・・？
 
---- Group 37 [left:char_0000 next=2012] ---
+--- Group 35 [left:char_0000 next=2012] ---
 [FID:07, TEXT:0049] 何かが爆発したみたい
 [FID:07, TEXT:004A] だったけど、それなら
 [FID:07, TEXT:004B] どうして俺だけ平気
 [FID:07, TEXT:002F] だったんだろう？
 
---- Group 38 [left:char_0000 next=2012] ---
-[FID:07, TEXT:004F] 建物のつくりを見ても
-[FID:07, TEXT:0052] ここが僕のいた世界と
-[FID:07, TEXT:0053] 違うのは確実だな
-
---- Group 39 [left:char_0000 next=0023] ---
+--- Group 36 [left:char_0000 next=0023] ---
 [FID:07, TEXT:004F] 建物のつくりを見ても
 [FID:07, TEXT:0050] ここが俺のいた世界と
 [FID:07, TEXT:0051] 違うのは確実だよな
 
---- Group 40 [left:char_0000 next=2012] ---
+--- Group 37 [left:char_0000 next=2012] ---
+[FID:07, TEXT:004F] 建物のつくりを見ても
+[FID:07, TEXT:0052] ここが僕のいた世界と
+[FID:07, TEXT:0053] 違うのは確実だな
+
+--- Group 38 [left:char_0000 next=2012] ---
 [FID:07, TEXT:0054] しかし・・・
 
---- Group 41 [left:char_0000 next=0023] ---
+--- Group 39 [left:char_0000 next=0023] ---
 [FID:07, TEXT:0055] なんていうか、あまり
 [FID:07, TEXT:0056] いい雰囲気じゃないな
 [FID:07, TEXT:0057] うす暗いし、ゴミとか
 [FID:07, TEXT:0058] 散らかってるし
 
---- Group 42 [left:char_0000 next=2012] ---
+--- Group 40 [left:char_0000 next=2012] ---
 [FID:07, TEXT:0059] なんというか、あまり
 [FID:07, TEXT:005A] いい雰囲気ではないな
 [FID:07, TEXT:005B] まるで、スラムみたい
 [FID:07, TEXT:005C] だ
 
---- Group 43 [left:char_0000 next=2012] ---
-[FID:07, TEXT:005D] 人の姿が見あたらない
-[FID:07, TEXT:005E] のは、なぜだろう？
-
---- Group 44 [left:char_0000 next=2012] ---
-[FID:07, TEXT:005D] 人の姿が見あたらない
-[FID:07, TEXT:009A] のは、なぜかしら？
-
---- Group 45 [left:char_0000 next=0023] ---
-[FID:07, TEXT:005F] ・・・なんだかイヤな
-[FID:07, TEXT:0060] 予感がするぞ
-
---- Group 46 [left:char_0000 next=2012] ---
-[FID:07, TEXT:005F] ・・・なんだかイヤな
-[FID:07, TEXT:0061] 予感がするな
-
---- Group 47 [left:char_0000 next=2012] ---
-[FID:07, TEXT:005F] ・・・なんだかイヤな
-[FID:07, TEXT:009B] 予感がするわ
-
---- Group 48 [left:char_0000 next=2012] ---
-[FID:07, TEXT:0062] ・・・！！
-
---- Group 49 [left:char_0000 next=2012] ---
-[FID:07, TEXT:0063] 誰だっ！？
-
---- Group 50 [left:char_0000 next=2012] ---
+--- Group 41 [left:char_0000 next=2012] ---
 [FID:07, TEXT:0065] でも、いったいここは
 [FID:07, TEXT:0066] どこなんだろう？
 
---- Group 51 [left:char_0000 next=2012] ---
+--- Group 42 [left:char_0000 next=2012] ---
 [FID:07, TEXT:006C] 目の前がまぶしくなっ
 [FID:07, TEXT:006D] たと思ったら、からだ
 [FID:07, TEXT:006E] がすうっと軽くなって
 [FID:07, TEXT:006F] ・・・
 
---- Group 52 [left:char_0000 next=2012] ---
+--- Group 43 [left:char_0000 next=2012] ---
 [FID:07, TEXT:0070] ・・・ダメ
 [FID:07, TEXT:002A] ここから先はどうして
 [FID:07, TEXT:0071] も思いだせないよ
 
---- Group 53 [left:char_0000 next=0023] ---
-[FID:07, TEXT:0076] うん、きっとそうよ！
-[FID:07, TEXT:0077] 悩んでたって他に
-[FID:07, TEXT:0078] アテがあるわけじゃ
-[FID:07, TEXT:0079] ないんだし
-
---- Group 54 [left:char_0000 next=0023] ---
-[FID:07, TEXT:007A] だけど、それならどう
-[FID:07, TEXT:007B] して、私を呼んだ人は
-[FID:07, TEXT:007C] あの場所にいなかった
-[FID:07, TEXT:007D] んだろう・・・？
-
---- Group 55 [left:char_0000 next=2012] ---
-[FID:07, TEXT:007E] まずは、誰かに話を
-[FID:07, TEXT:007F] 聞いてみよう
-
---- Group 56 [left:char_0000 next=2012] ---
+--- Group 44 [left:char_0000 next=2012] ---
 [FID:07, TEXT:0080] どうしてあんなひどい
 [FID:07, TEXT:0081] ことに・・・
 
---- Group 57 [left:char_0000 next=2012] ---
+--- Group 45 [left:char_0000 next=2012] ---
 [FID:07, TEXT:008E] ここは街なのかな
 [FID:07, TEXT:008F] 見たことのないつくり
 [FID:07, TEXT:0090] の建物ばかりだけど
 
---- Group 58 [left:char_0000 next=2012] ---
+--- Group 46 [left:char_0000 next=2012] ---
 [FID:07, TEXT:0091] ・・・なんていうか、
 [FID:07, TEXT:0092] あまりいい雰囲気じゃ
 [FID:07, TEXT:0093] ないな。うす暗くて
 [FID:07, TEXT:0094] ゴミも散らかってる
-
---- Group 59 [left:char_0000 next=0023] ---
-[FID:07, TEXT:0095] スラムかな？
-[FID:07, TEXT:0096] 新聞で見た写真とかに
-[FID:07, TEXT:0097] よく似てるしね
-
---- Group 60 [left:char_0000 next=0023] ---
-[FID:07, TEXT:0098] スラム、なのかな？
-[FID:07, TEXT:0096] 新聞で見た写真とかに
-[FID:07, TEXT:0099] よく似てるわ
 

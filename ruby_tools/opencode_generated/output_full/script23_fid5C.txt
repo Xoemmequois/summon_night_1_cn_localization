@@ -1,19 +1,19 @@
---- Group 1 [right:char_0004 next=2012] ---
+--- Group 1 [right:char_0013 next=2012] ---
 [FID:5C, TEXT:0001] さあ、ここが俺たちの
 [FID:5C, TEXT:0002] 隠れ家だ
 
---- Group 2 [right:char_0013 next=2012] ---
+--- Group 2 [right:char_0004 next=2012] ---
 [FID:5C, TEXT:0001] さあ、ここが俺たちの
 [FID:5C, TEXT:0002] 隠れ家だ
 
 --- Group 3 [left:none next=0023] ---
 [FID:5C, TEXT:0003] え、でも・・・
-[FID:5C, TEXT:0007] ここは酒場じゃ
-[FID:5C, TEXT:0008] ないんですか？
+[FID:5C, TEXT:0004] ここは酒場じゃ？
 
 --- Group 4 [left:none next=0023] ---
 [FID:5C, TEXT:0003] え、でも・・・
-[FID:5C, TEXT:0004] ここは酒場じゃ？
+[FID:5C, TEXT:0007] ここは酒場じゃ
+[FID:5C, TEXT:0008] ないんですか？
 
 --- Group 5 [left:none next=0023] ---
 [FID:5C, TEXT:0003] え、でも・・・
@@ -23,13 +23,13 @@
 [FID:5C, TEXT:0005] ・・・ここ
 [FID:5C, TEXT:0006] お酒のむとこじゃん
 
---- Group 7 [right:char_0013 next=2012] ---
+--- Group 7 [right:char_0004 next=2012] ---
 [FID:5C, TEXT:0009] 表向きは酒場ってこと
 [FID:5C, TEXT:000A] になってるだけさ
 [FID:5C, TEXT:000B] なんせ、隠れ家なんだ
 [FID:5C, TEXT:000C] からな
 
---- Group 8 [right:char_0004 next=2012] ---
+--- Group 8 [right:char_0013 next=2012] ---
 [FID:5C, TEXT:0009] 表向きは酒場ってこと
 [FID:5C, TEXT:000A] になってるだけさ
 [FID:5C, TEXT:000B] なんせ、隠れ家なんだ
@@ -55,312 +55,338 @@
 [FID:5C, TEXT:000F] おかえりなさい
 [FID:5C, TEXT:0010] スタウト
 
---- Group 15 [right:char_0019 next=2012] ---
+--- Group 15 [right:char_0019 next=0023] ---
+[FID:5C, TEXT:0011] そっちの坊やは？
+
+--- Group 16 [right:char_0019 next=2012] ---
 [FID:5C, TEXT:0012] そっちの
 [FID:5C, TEXT:0013] お嬢さんは？
 
---- Group 16 [left:none next=2012] ---
+--- Group 17 [left:none next=2012] ---
 [FID:5C, TEXT:0014] うーん、こちらさんの
 [FID:5C, TEXT:0015] 保護者みたいなもんだ
 
---- Group 17 [left:char_0004 next=0023] ---
+--- Group 18 [left:char_0004 next=0023] ---
 [FID:5C, TEXT:0016] 保護者って・・・
 
---- Group 18 [left:char_0004 next=0023] ---
+--- Group 19 [left:char_0004 next=0023] ---
 [FID:5C, TEXT:0016] 保護者って・・・
 [FID:5C, TEXT:0018] レイドさんに
 [FID:5C, TEXT:0019] 失礼なんじゃ・・・
 
---- Group 19 [left:char_0004 next=0023] ---
+--- Group 20 [left:char_0004 next=0023] ---
 [FID:5C, TEXT:0017] どこが保護者よ・・・
 
---- Group 20 [left:char_0012 next=2012] ---
+--- Group 21 [left:char_0012 next=2012] ---
 [FID:5C, TEXT:001A] ラムダは？
 
---- Group 21 [right:char_0019 next=2012] ---
+--- Group 22 [right:char_0019 next=2012] ---
 [FID:5C, TEXT:001B] ラムダ様は奥にいます
 [FID:5C, TEXT:001C] 私が案内しましょう
 
---- Group 22 [right:char_0019 next=2012] ---
+--- Group 23 [right:char_0019 next=0023] ---
+[FID:5C, TEXT:001D] おっと、坊主
+[FID:5C, TEXT:001E] 悪いが旦那はレイドと
+[FID:5C, TEXT:001F] 二人っきりが望みだ
+
+--- Group 24 [right:char_0019 next=2012] ---
 [FID:5C, TEXT:0020] おっと、嬢ちゃん
 [FID:5C, TEXT:001E] 悪いが旦那はレイドと
 [FID:5C, TEXT:001F] 二人っきりが望みだ
 
---- Group 23 [right:char_0019 next=2012] ---
+--- Group 25 [right:char_0019 next=2012] ---
 [FID:5C, TEXT:0021] 話が終わるまで、
 [FID:5C, TEXT:0022] ここで俺たちと
 [FID:5C, TEXT:0023] 待っていてくれよな
 
---- Group 24 [right:char_001A next=2012] ---
+--- Group 26 [right:char_001A next=2012] ---
 [FID:5C, TEXT:0024] せっかく酒場に来たの
 [FID:5C, TEXT:0025] ですし、何か飲まれて
 [FID:5C, TEXT:0026] はいかがです？
 
---- Group 25 [left:none next=0023] ---
+--- Group 27 [left:none next=0023] ---
 [FID:5C, TEXT:0027] お、お酒はちょっと
 
---- Group 26 [left:none next=0023] ---
+--- Group 28 [left:none next=0023] ---
 [FID:5C, TEXT:0028] いや、お酒は・・・
 
---- Group 27 [left:none next=0023] ---
+--- Group 29 [left:none next=0023] ---
 [FID:5C, TEXT:0029] お酒は飲めないんです
 
---- Group 28 [left:none next=0023] ---
+--- Group 30 [left:none next=0023] ---
 [FID:5C, TEXT:002A] すいません
 [FID:5C, TEXT:002B] 飲めないもので・・・
 
---- Group 29 [right:char_001A next=2012] ---
+--- Group 31 [right:char_001A next=2012] ---
 [FID:5C, TEXT:002C] ははは、それでしたら
 [FID:5C, TEXT:002D] 果物のジュースを
 [FID:5C, TEXT:002E] さしあげますよ
 
---- Group 30 [left:none next=2012] ---
+--- Group 32 [left:none next=2012] ---
 [FID:5C, TEXT:002F] ・・・
 
---- Group 31 [left:none next=0023] ---
+--- Group 33 [left:none next=0023] ---
 [FID:5C, TEXT:002F] ・・・
 [FID:5C, TEXT:0032] 沈黙は苦手なのに〜
 
---- Group 32 [left:none next=2012] ---
+--- Group 34 [left:none next=2012] ---
 [FID:5C, TEXT:0030] ・・・・・・・
-
---- Group 33 [left:none next=0023] ---
-[FID:5C, TEXT:0030] ・・・・・・・
-
---- Group 34 [left:none next=0023] ---
-[FID:5C, TEXT:0031] ・・・沈黙がつらい
 
 --- Group 35 [left:none next=0023] ---
+[FID:5C, TEXT:0030] ・・・・・・・
+
+--- Group 36 [left:none next=0023] ---
+[FID:5C, TEXT:0031] ・・・沈黙がつらい
+
+--- Group 37 [left:none next=0023] ---
 [FID:5C, TEXT:0033] ・・・・・・・・・・
 [FID:5C, TEXT:0034] ・・・長い沈黙・・・
 
---- Group 36 [right:char_001B next=2012] ---
+--- Group 38 [right:char_001B next=2012] ---
 [FID:5C, TEXT:0035] おい、ちっとは俺たち
 [FID:5C, TEXT:0036] を信用しろよ？
 
---- Group 37 [right:char_0019 next=2012] ---
+--- Group 39 [right:char_0019 next=2012] ---
 [FID:5C, TEXT:0037] そんなに私たちって
 [FID:5C, TEXT:0038] こわいかしら？
 
---- Group 38 [left:none next=0023] ---
+--- Group 40 [left:none next=0023] ---
 [FID:5C, TEXT:0039] え、ええっと・・・
 
---- Group 39 [left:none next=0023] ---
+--- Group 41 [left:none next=0023] ---
 [FID:5C, TEXT:003A] いや、そういうわけで
 [FID:5C, TEXT:003B] はないけど・・・
 
---- Group 40 [left:none next=0023] ---
+--- Group 42 [left:none next=0023] ---
 [FID:5C, TEXT:003C] ちょっと・・・
 
---- Group 41 [left:none next=0023] ---
+--- Group 43 [left:none next=0023] ---
 [FID:5C, TEXT:003D] あ、いえ、そういう
 [FID:5C, TEXT:003E] わけじゃなくて
 
---- Group 42 [right:char_001A next=2012] ---
+--- Group 44 [right:char_001A next=2012] ---
 [FID:5C, TEXT:003F] せっかくの機会です
 [FID:5C, TEXT:0040] そう警戒せず、
 [FID:5C, TEXT:0041] 世間話でもしましょう
 
---- Group 43 [left:none next=0023] ---
+--- Group 45 [left:none next=0023] ---
 [FID:5C, TEXT:0042] そうだよな・・・
 [FID:5C, TEXT:0043] こんなチャンス、
 [FID:5C, TEXT:0044] もう二度とないかも
 [FID:5C, TEXT:0045] しれないし・・・
 
---- Group 44 [left:none next=2012] ---
+--- Group 46 [left:none next=2012] ---
 [FID:5C, TEXT:0046] そうだ、この機会に彼
 [FID:5C, TEXT:0047] らのことを知っておく
 [FID:5C, TEXT:0048] 必要はあるかも
 [FID:5C, TEXT:0049] しれないな
 
---- Group 45 [left:none next=0023] ---
+--- Group 47 [left:none next=0023] ---
 [FID:5C, TEXT:004A] 彼らとどうなるにしろ
 [FID:5C, TEXT:004B] きっと役に立つはずだ
 
---- Group 46 [left:none next=0023] ---
+--- Group 48 [left:none next=0023] ---
 [FID:5C, TEXT:004C] あ、確かに・・・
 [FID:5C, TEXT:0043] こんなチャンス、
 [FID:5C, TEXT:0044] もう二度とないかも
 [FID:5C, TEXT:0045] しれないし・・・
 
---- Group 47 [left:none next=0023] ---
+--- Group 49 [left:none next=0023] ---
 [FID:5C, TEXT:004D] そういえば・・・
 [FID:5C, TEXT:0043] こんなチャンス、
 [FID:5C, TEXT:0044] もう二度とないかも
 [FID:5C, TEXT:0045] しれないし・・・
 
---- Group 48 [left:none next=2015] ---
+--- Group 50 [left:none next=2015] ---
 [FID:5C, TEXT:004E] どうしよう？
 [FID:5C, TEXT:004F] 　世間話をする
 [FID:5C, TEXT:0050] 　質問をしてみる
 
---- Group 49 [left:none next=0023] ---
+--- Group 51 [left:none next=0023] ---
 [FID:5C, TEXT:0051] ここって、本当に酒場
 [FID:5C, TEXT:0052] なんですか？
 
---- Group 50 [left:none next=0023] ---
+--- Group 52 [left:none next=0023] ---
 [FID:5C, TEXT:0053] この酒場、本当に営業
 [FID:5C, TEXT:0054] しているんですか？
 
---- Group 51 [right:char_001A next=2012] ---
+--- Group 53 [right:char_001A next=2012] ---
 [FID:5C, TEXT:0055] ええ、そうですよ
 [FID:5C, TEXT:0056] ちゃんと営業して
 [FID:5C, TEXT:0057] います
 
---- Group 52 [right:char_001A next=2012] ---
+--- Group 54 [right:char_001A next=2012] ---
 [FID:5C, TEXT:0058] もっとも、私が一人で
 [FID:5C, TEXT:0059] やっているようなもの
 [FID:5C, TEXT:005A] ですけどね
 
---- Group 53 [left:none next=2012] ---
+--- Group 55 [left:none next=2012] ---
 [FID:5C, TEXT:005B] えっ？
 
---- Group 54 [right:char_001B next=2012] ---
+--- Group 56 [right:char_001B next=2012] ---
 [FID:5C, TEXT:005C] 酒も料理も、ペルゴの
 [FID:5C, TEXT:005D] 奴のお手製なのさ
 
---- Group 55 [right:char_001A next=2012] ---
+--- Group 57 [right:char_001A next=2012] ---
 [FID:5C, TEXT:005E] 大したものじゃ
 [FID:5C, TEXT:005F] ありませんよ
 
---- Group 56 [left:char_0019 next=2012] ---
+--- Group 58 [left:char_0019 next=2012] ---
 [FID:5C, TEXT:0060] そう言い切られると、
 [FID:5C, TEXT:0061] 私の立場がなくなっち
 [FID:5C, TEXT:0062] ゃうじゃない？
 
---- Group 57 [right:char_001A next=2012] ---
+--- Group 59 [right:char_001A next=2012] ---
 [FID:5C, TEXT:0063] おや、これは失敬
 
---- Group 58 [left:none next=0023] ---
+--- Group 60 [left:none next=0023] ---
 [FID:5C, TEXT:0064] みなさんは、どうして
 [FID:5C, TEXT:0065] アキュートに来ること
 [FID:5C, TEXT:0066] になったんですか？
 
---- Group 59 [left:none next=0023] ---
+--- Group 61 [left:none next=0023] ---
 [FID:5C, TEXT:0067] なんで、みなさんは
 [FID:5C, TEXT:0065] アキュートに来ること
 [FID:5C, TEXT:0066] になったんですか？
 
---- Group 60 [right:char_001B next=2012] ---
+--- Group 62 [right:char_001B next=2012] ---
 [FID:5C, TEXT:0068] ・・・そう来たか
 [FID:5C, TEXT:0069] ったく、物好きな
 [FID:5C, TEXT:006B] 嬢ちゃんだぜ
 
---- Group 61 [right:char_001A next=2012] ---
+--- Group 63 [right:char_001B next=0023] ---
+[FID:5C, TEXT:0068] ・・・そう来たか
+[FID:5C, TEXT:0069] ったく、物好きな
+[FID:5C, TEXT:006A] 坊主だぜ
+
+--- Group 64 [right:char_001A next=2012] ---
 [FID:5C, TEXT:006C] 私はもともとラムダ様
 [FID:5C, TEXT:006D] の部下だったんです
 
---- Group 62 [right:char_001A next=2012] ---
+--- Group 65 [right:char_001A next=2012] ---
 [FID:5C, TEXT:006E] 彼が騎士団を追放され
 [FID:5C, TEXT:006F] た時、そのままついて
 [FID:5C, TEXT:0070] きたのですよ
 
---- Group 63 [right:char_001B next=2012] ---
+--- Group 66 [right:char_001B next=2012] ---
 [FID:5C, TEXT:0071] 俺は・・・
 [FID:5C, TEXT:0072] 拾われたんだよ
 
---- Group 64 [left:none next=0023] ---
+--- Group 67 [left:none next=0023] ---
 [FID:5C, TEXT:0073] 拾われた？
 
---- Group 65 [left:none next=0023] ---
+--- Group 68 [left:none next=0023] ---
 [FID:5C, TEXT:0074] 拾われたって？
 
---- Group 66 [left:none next=0023] ---
+--- Group 69 [left:none next=0023] ---
 [FID:5C, TEXT:0075] 拾われた・・・？
 
---- Group 67 [right:char_001B next=2012] ---
+--- Group 70 [right:char_001B next=2012] ---
 [FID:5C, TEXT:0076] ああ、みっともねえが
 [FID:5C, TEXT:0077] 酒浸りになっていたの
 [FID:5C, TEXT:0078] を旦那に拾われたのさ
 
---- Group 68 [right:char_0019 next=2012] ---
+--- Group 71 [right:char_0019 next=2012] ---
 [FID:5C, TEXT:0079] 私は・・・
 
---- Group 69 [right:char_001B next=2012] ---
+--- Group 72 [right:char_001B next=2012] ---
 [FID:5C, TEXT:007A] セシルはな、看護婦さ
 
---- Group 70 [left:none next=0023] ---
+--- Group 73 [left:none next=0023] ---
 [FID:5C, TEXT:007B] ええっ！？
 
---- Group 71 [left:none next=0023] ---
+--- Group 74 [left:none next=0023] ---
 [FID:5C, TEXT:007C] えっ！？
 
---- Group 72 [left:none next=0023] ---
+--- Group 75 [left:none next=0023] ---
 [FID:5C, TEXT:007D] はい？
 
---- Group 73 [left:none next=0023] ---
+--- Group 76 [left:none next=0023] ---
 [FID:5C, TEXT:007E] 看護婦さん！？
 
---- Group 74 [right:char_0019 next=2012] ---
+--- Group 77 [right:char_0019 next=2012] ---
 [FID:5C, TEXT:007F] スタウト！
 
---- Group 75 [right:char_001B next=2012] ---
+--- Group 78 [right:char_001B next=2012] ---
 [FID:5C, TEXT:0080] いいじゃねえか
 [FID:5C, TEXT:0081] 隠さなくたってよ
 
---- Group 76 [right:char_001A next=2012] ---
+--- Group 79 [right:char_001A next=2012] ---
 [FID:5C, TEXT:0082] 正確には女医ですよ
 [FID:5C, TEXT:0083] 彼女はストラを学んだ
 [FID:5C, TEXT:0084] 優秀な女医なんです
 
---- Group 77 [left:none next=0023] ---
+--- Group 80 [left:none next=0023] ---
+[FID:5C, TEXT:0085] じゃあ、ラムダさんの
+[FID:5C, TEXT:0086] 目を治したのは・・・
+
+--- Group 81 [left:none next=0023] ---
 [FID:5C, TEXT:0085] じゃあ、ラムダさんの
 [FID:5C, TEXT:0087] 目って、セシルさんが
 [FID:5C, TEXT:0088] なおしたんですか？
 
---- Group 78 [left:none next=0023] ---
-[FID:5C, TEXT:0085] じゃあ、ラムダさんの
-[FID:5C, TEXT:0086] 目を治したのは・・・
-
---- Group 79 [right:char_0019 next=2012] ---
+--- Group 82 [right:char_0019 next=2012] ---
 [FID:5C, TEXT:0089] そういうことよ
 [FID:5C, TEXT:008A] ただし、治したって
 [FID:5C, TEXT:008B] いうのは間違い
 
---- Group 80 [right:char_0019 next=2012] ---
+--- Group 83 [right:char_0019 next=2012] ---
 [FID:5C, TEXT:008C] 治してる、のよ
 [FID:5C, TEXT:008D] 今もね・・・
 
---- Group 81 [right:char_001A next=2012] ---
+--- Group 84 [right:char_0018 next=2012] ---
 [FID:5C, TEXT:008E] 待たせたな
 
---- Group 82 [right:char_0018 next=2012] ---
+--- Group 85 [right:char_001A next=2012] ---
 [FID:5C, TEXT:008E] 待たせたな
 
---- Group 83 [left:none next=2012] ---
+--- Group 86 [left:none next=2012] ---
 [FID:5C, TEXT:008F] あ、いえ・・・
 
---- Group 84 [left:none next=2012] ---
+--- Group 87 [left:none next=2012] ---
 [FID:5C, TEXT:008F] あ、いえ・・・
 
---- Group 85 [right:char_0012 next=2012] ---
+--- Group 88 [right:char_0012 next=2012] ---
 [FID:5C, TEXT:0090] さあ、帰ろう
 
---- Group 86 [left:none next=0023] ---
+--- Group 89 [left:none next=0023] ---
 [FID:5C, TEXT:0091] ラムダと、なんの話を
 [FID:5C, TEXT:0093] したんですか？
 
---- Group 87 [left:none next=0023] ---
+--- Group 90 [left:none next=0023] ---
 [FID:5C, TEXT:0091] ラムダと、なんの話を
 [FID:5C, TEXT:0092] したんです？
 
---- Group 88 [left:none next=0023] ---
+--- Group 91 [left:none next=0023] ---
 [FID:5C, TEXT:0094] ラムダとは、何の話を
 [FID:5C, TEXT:0093] したんですか？
 
---- Group 89 [left:none next=0023] ---
+--- Group 92 [left:none next=0023] ---
 [FID:5C, TEXT:0095] ラムダさんとは、
 [FID:5C, TEXT:0096] 何のお話を？
 
---- Group 90 [right:char_0012 next=2012] ---
+--- Group 93 [right:char_0012 next=2012] ---
 [FID:5C, TEXT:0097] この前のこと、そして
 [FID:5C, TEXT:0098] これからのことだよ
 
---- Group 91 [right:char_0012 next=2012] ---
+--- Group 94 [right:char_0012 next=2012] ---
 [FID:5C, TEXT:0099] もう、君たちが彼らと
 [FID:5C, TEXT:009A] 戦わなくてもいいよう
 [FID:5C, TEXT:009B] に話をつけたんだ
 
---- Group 92 [left:none next=2012] ---
+--- Group 95 [left:none next=2012] ---
 [FID:5C, TEXT:009C] そう、ですか・・・
+
+--- Group 96 [right:char_0012 next=2012] ---
+[FID:5C, TEXT:009D] @ n 
+
+--- Group 97 [left:none next=0023] ---
+[FID:5C, TEXT:009E] え？
+
+--- Group 98 [left:none next=0023] ---
+[FID:5C, TEXT:009F] え、あ、はい・・・？
+
+--- Group 99 [right:char_0012 next=2012] ---
+[FID:5C, TEXT:00A0] いや・・・
+[FID:5C, TEXT:00A1] なんでもない・・・
 

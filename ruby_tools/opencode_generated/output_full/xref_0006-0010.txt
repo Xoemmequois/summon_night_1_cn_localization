@@ -1,0 +1,157 @@
+﻿===========================================================================
+XREF STATIC ANALYSIS: 0006-0010 (FID=6, TEXT=000A)
+===========================================================================
+
+[1] ALL 0x2013 TEXT=000A LOCATIONS
+    Offset   Region  Context
+    0576     [dump      ]
+    1BC4     [FID=2     ]
+    1D22     [FID=2 alt ]
+    2164     [FID=3     ]
+    26A5     [FID=4     ]
+    29BB     [FID=5     ]
+    2B3C     [FID=5 alt ]
+    2CBA     [FID=6     ]
+
+[2] FID=6 SETTER: offset 0x0473
+    0473: 002F 0006          <- SetFID=6 (only place in whole script)
+    0475: 0010 00F9 0004     <- c4[0xF9]=4
+    0478: 0001 0002 0093     <- c4[0x93]=0
+    047B: 0023 0489          <- jump to returns
+    0489-048D: 0026 * 5      <- returns
+
+    This is case 5 of switch at 0x047D on c4[0x95]:
+    047D: 0027 0002 0095 ...
+      case 0鈫?421(FID=1)  1鈫?448(FID=2)  2鈫?452(FID=3)
+      case 3鈫?45C(FID=4)  4鈫?469(FID=5)  5鈫?473(FID=6)
+
+[3] FID=6 SUBROUTINE ENTRY & CONTROL FLOW
+    After FID=6 set, the outer loop (switch on F9 at 0x018F)
+    dispatches to 0x0161 鈫?0x048E 鈫?0x04EB 鈫?case 5 鈫?0x04E7
+    0x04E7: 0025 2BE5    <- CALL FID=6 subroutine
+
+    --- FID=6 subroutine (entry 0x2BE5) ---
+    2BE5: 0023 2C60
+    2C60: 0027 switch-on-93 鈫?always case0 鈫?2BE7
+    2C67: 0026 (return)
+
+    2BE7: 000A (complex compare, sets regA)
+    2BEE: 0020 2BF2  鈫?if regA & 1: jump to Path A
+    2BF0: 0023 2C15  鈫?else:         jump to Path B
+
+    *** PATH A (regA & 1 != 0): ***
+    2BF2: 0025 2C68  鈫?call dialog block at 2C68
+
+    --- Dialog block at 2C68 (Path A) ---
+    2C68: 200B 0000  
+    2C6A: 200C  
+    2C6B: 2019 098C  
+    2C6D: 2028 0000 00B4 001F 001F 001F  
+    2C73: 003E  
+    2C74: 0010 00FB 0004  
+    2C77: 0025 0346  
+    2C79: 2001 0000 0005  
+    2C7C: 2010 0000 0000 0000  
+    2C80: 2013 0001  
+    2C82: 2012  next page
+    2C83: 2013 0002  
+    2C85: 2012  next page
+    2C86: 2011  
+    2C87: 200B 001A  
+    2C89: 2023 0001 0000 0000 0000  
+    2C8E: 200C  
+    2C8F: 2022 001E 0000 0000 0000  
+    2C94: 2004 0006  
+    2C96: 2010 0000 0002 0004  
+    2C9A: 0003 0002 001D  
+    2C9D: 0021 2CA1  branch
+    2C9F: 0023 2CC1  jump
+    2CA1: 2013 0003  
+    2CA3: 2013 0004  
+    2CA5: 2012  next page
+    2CA6: 2010 0000 0000 0000  
+    2CAA: 2013 0005  
+    2CAC: 2013 0006  
+    2CAE: 2013 0007  
+    2CB0: 2012  next page
+    2CB1: 2011  
+    2CB2: 2016 0000 0004 0004  
+    2CB6: 2013 0008  
+    2CB8: 2013 0009  
+    2CBA: 2013 000A   <<< TARGET
+    2CBC: 2015 0002  wait for choice
+    2CBE: 2011  
+    2CBF: 0023 2CD4  jump
+    2CC1: 2013 000B  
+    2CC3: 2013 000C  
+    2CC5: 2012  next page
+    2CC6: 2010 0000 0000 0000  
+    2CCA: 2013 0005  
+    2CCC: 2013 000D  
+    2CCE: 2013 000E  
+    2CD0: 2012  next page
+    2CD1: 0001 0002 0019  
+    2CD4: 0026  return
+
+    *** PATH B (regA & 1 == 0): ***
+    2C15: 0025 2E70  鈫?call 2E70 (no 0x0A text here)
+    ...eventually 鈫?2C36 鈫?2C38 鈫?switch on 1D 鈫?
+    鈫?2C54(call 01FD) 鈫?2C59(0010 F9=0A) 鈫?2C5C(002C load sub-script 2)
+    鈫?2C67: 0026 (return)
+
+[4] REACHABILITY ANALYSIS (why VM can't reach 0006-0010)
+
+    The text at 0x2CBA is on PATH A, entered via:
+      2BE7: 000A (complex compare) 鈫?2BEE: 0020 (regA & 1 ? jump)
+
+    In the Ruby VM simulator:
+      - 0x000A is NOT in the ExecManager::HANDLERS table
+      - It is dispatched as 'unknown' 鈫?pc += 1 (skips it)
+      - The comparison result is NEVER computed
+      - regA remains 0 (VM initialized)
+      - 0x0020 at 2BEE sees regA & 1 == 0 鈫?fall through
+      - Execution goes to Path B (0x2C15) instead
+      - Path B does NOT contain 0x2013 text=0x0A
+
+    => VM MISSES 0006-0010 because 0x000A instruction is not simulated!
+
+    In the REAL game:
+      - 0x000A computes: c4[0x1D] comparison chain, sets regA accordingly
+      - If the condition matches (likely a specific story flag),
+        regA & 1 != 0 鈫?Path A taken 鈫?text 0x0A is displayed
+
+    ALTERNATE PATH (dump block):
+      - 0x0576: 2013 000A is in the sequential dump block
+      - This block is entered when c4[0x19] != 0 (external var fork)
+      - VM DOES explore this via external var forking
+      - But the text is recorded as part of a bulk-dump group
+      - It MAY appear in all_fid_covered[6] depending on coverage calc
+
+[5] TEXT 000A USAGE IN OTHER FIDs
+    This same text (銇撱倢銇あ銇仭銇屻亜銇亜锛? appears in:
+    - FID=2: 0x1BC4 (reachable via 0x04D7鈫?AEF鈫?..鈫?B84)
+    - FID=2 alt: 0x1D22
+    - FID=3: 0x2164 (reachable via 0x04DB鈫?0FC鈫?..鈫?129)
+    - FID=4: 0x26A5 (conditional path)
+    - FID=5: 0x29BB, 0x2B3C
+    - FID=6: 0x2CBA (Path A only, not simulated by VM)
+
+    Conclusion: text 0x0A is used in multiple character/story routes.
+    In FID=6, it is on a path gated by 0x000A (regA condition).
+
+[6] FIX SUGGESTION
+    To make the VM find 0006-0010, either:
+
+    a) Implement 0x000A simulation:
+       Parse the comparison chain at 2BE7 to determine regA
+       (complex, requires understanding of the variable semantics)
+
+    b) Fork at 0x0020 instruction:
+       When regA is unknown, fork both Path A and Path B
+       (similar to how external vars are handled at 0x0021/0x0022)
+
+    c) Manual marking:
+       Mark 0006-0010 and similar texts as 'reachable' in
+       the coverage report, knowing they are on alternate branches.
+
+===========================================================================

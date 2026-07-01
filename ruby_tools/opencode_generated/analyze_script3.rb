@@ -291,7 +291,7 @@ class VMState
     @tbl_c4 = {}   # A82C4 变量表
     @tbl_c8 = {}   # A82C8 变量表
     @stack = []
-    @regA = 0
+    @regA = 0    # Ghidra: GlobalScriptContextRegShortA
     @regB = 0
     @dialog_file_id = -1
     @pending_dialogs = []
@@ -336,7 +336,7 @@ class VMState
     key_vals = KEY_VARS.map { |v| read_c4(v) }
     c8_keys = [0x0A, 0x0B, 0x0C, 0x0D, 0x0E, 0x0F, 0x10]
     c8_vals = c8_keys.map { |v| read_c8(v) }
-    [@script_id, @pc, @stack.hash, @regB, @dialog_file_id, key_vals, c8_vals].hash
+    [@script_id, @pc, @stack.hash, @regB, @regA, @dialog_file_id, key_vals, c8_vals].hash
   end
 end
 
@@ -467,7 +467,7 @@ class ExecManager
         break if cmd.nil?
 
         # 路径内 visited 检查 (防止单个 state 内的死循环)
-        step_key = [state.pc, state.stack.hash, state.regB,
+        step_key = [state.pc, state.stack.hash, state.regB, state.regA,
                     state.read_c4(0xF8), state.read_c4(0xF9), state.read_c4(0xFA),
                     state.read_c4(0xFB), state.read_c4(0xFC), state.read_c4(0x95),
                     state.read_c4(0xC3), state.read_c4(0xC5), state.read_c4(0xC6),
@@ -518,10 +518,11 @@ class ExecManager
   HANDLERS = {
     0x0001 => :handle_0001,
     0x0003 => :handle_0003,
-    0x0005 => :handle_0005,
-    0x0008 => :handle_0008,
-    0x0009 => :handle_0009,
-    0x0010 => :handle_0010,
+     0x0005 => :handle_0005,
+     0x0008 => :handle_0008,
+     0x0009 => :handle_0009,
+     0x000A => :handle_000A,
+     0x0010 => :handle_0010,
     0x0011 => :handle_0011,
     0x0012 => :handle_0012,
     0x0013 => :handle_0013,
@@ -629,6 +630,24 @@ class ExecManager
       state.pc += 1; true
     }
 
+    # 0x000A: RPN 表达式求值。目前仅处理性别检查固定模式
+    # Pattern: 000A 0002 001D 0001 0002 0088 000B → c4[0x1D] < 2
+    # 0x1D = 1 (男) → regA=1 → 0x0020 跳转; 0x1D = 0x23 (女) → regA=0 → fall through
+    define_method(:handle_000A) { |state, cmd, mgr, cmds|
+      if cmd.params.size >= 6 &&
+         cmd.params[0] == 0x0002 && cmd.params[1] == 0x001D &&
+         cmd.params[2] == 0x0001 && cmd.params[3] == 0x0002 &&
+         cmd.params[4] == 0x0088 && cmd.params[5] == 0x000B
+        f = state.clone
+        f.regA = 1    # male path: c4[0x1D]=1 < 2 → jumps at 0x0020
+        f.pc = state.pc + 1
+        mgr.push(f)
+        state.regA = 0  # female path: c4[0x1D]=0x23 >= 2 → falls through
+      end
+      state.pc += 1
+      true
+    }
+
     define_method(:handle_0010) { |state, cmd, mgr, cmds|
       state.tbl_c4[cmd.params[0]] = cmd.params[1]; state.pc += 1; true
     }
@@ -646,13 +665,13 @@ class ExecManager
     }
 
     define_method(:handle_0020) { |state, cmd, mgr, cmds|
-      # 0x20: RegByteA & 1 == 0 → fall through; == 1 → jump
-      if (state.regA & 1) != 0
+      # 0x20: RegShortA == 0 → fall through; else → jump
+      if state.regA == 0
+        state.pc += 1; true
+      else
         t = mgr.index_to_pc[cmd.params[0]]
         return false unless t
         state.pc = t; true
-      else
-        state.pc += 1; true
       end
     }
 
@@ -891,7 +910,7 @@ def run_manager(manager, commands, script_id)
       cmd = commands[s.pc]
       break if cmd.nil?
 
-      step_key = [s.pc, s.stack.hash, s.regB,
+      step_key = [s.pc, s.stack.hash, s.regB, s.regA,
                   s.read_c4(0xF8), s.read_c4(0xF9), s.read_c4(0xFA),
                   s.read_c4(0xFB), s.read_c4(0xFC), s.read_c4(0x95),
                   s.read_c4(0xC3), s.read_c4(0xC5), s.read_c4(0xC6),
