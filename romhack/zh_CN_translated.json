@@ -6491,18 +6491,19 @@
   {
     "key": "0010-0013",
     "original": "身を守ろうとした",
-    "translation": "她只是为了保护自己",
+    "translation": "对方只是为了保护自己",
     "stage": 3
   },
   {
     "key": "0010-0014",
     "original": "彼は悪くない",
-    "translation": ""
+    "translation": "他并没有错",
+    "stage": 3
   },
   {
     "key": "0010-0015",
     "original": "彼女は悪くない",
-    "translation": "并没有错",
+    "translation": "她并没有错",
     "stage": 3
   },
   {
@@ -13036,7 +13037,8 @@
   {
     "key": "0013-0870",
     "original": "あ、お兄ちゃんだ",
-    "translation": ""
+    "translation": "啊，是哥哥",
+    "stage": 3
   },
   {
     "key": "0013-0871",
@@ -13869,12 +13871,14 @@
   {
     "key": "0013-1009",
     "original": "　え～と・・・",
-    "translation": ""
+    "translation": "　那个……",
+    "stage": 3
   },
   {
     "key": "0013-1010",
     "original": "　君みたいな女の子",
-    "translation": ""
+    "translation": "　你这样的女孩子",
+    "stage": 3
   },
   {
     "key": "0013-1011",
@@ -13945,7 +13949,8 @@
   {
     "key": "0013-1022",
     "original": "お兄ちゃん本気で悩み",
-    "translation": ""
+    "translation": "哥哥居然会认真烦恼呢",
+    "stage": 3
   },
   {
     "key": "0013-1023",
@@ -14358,7 +14363,8 @@
   {
     "key": "0013-1091",
     "original": "お兄ちゃん・・・",
-    "translation": ""
+    "translation": "哥哥……",
+    "stage": 3
   },
   {
     "key": "0013-1092",
