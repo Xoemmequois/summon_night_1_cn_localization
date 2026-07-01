@@ -1,153 +1,153 @@
 --- Group 1 [right:char_003A next=2012] ---
 へへへ、待ってたぜ
 お二人さんよォ
-+[FID:34, TEXT:0001] 嘿嘿嘿，我等你好久了
-+[FID:34, TEXT:0002] 你们俩啊
++[FID:34, TEXT:0001] 
++[FID:34, TEXT:0002] 
 
 --- Group 2 [left:主人公 next=0023] ---
 お前たち・・・
 こりもせず、まだ
 俺を狙ってるのか！？
-+[FID:34, TEXT:0003] 你们……
-+[FID:34, TEXT:0004] 不知悔改，还
-+[FID:34, TEXT:0005] 在打我的主意吗！？
++[FID:34, TEXT:0003] 
++[FID:34, TEXT:0004] 
++[FID:34, TEXT:0005] 
 
 --- Group 3 [left:主人公 next=0023] ---
 お前たち・・・
 こりもせず、まだ
 僕を狙ってるのか！？
--[FID:34, TEXT:0003] 你们……
--[FID:34, TEXT:0004] 不知悔改，还
-+[FID:34, TEXT:0006] 在打我的主意吗！？
+-[FID:34, TEXT:0003] 
+-[FID:34, TEXT:0004] 
++[FID:34, TEXT:0006] 
 
 --- Group 4 [left:主人公 next=0023] ---
 あんたたち
 まぁだ、あたしを
 狙ってるの？
-+[FID:34, TEXT:0007] 你们啊
-+[FID:34, TEXT:0008] 还，还在
-+[FID:34, TEXT:0009] 盯上我吗？
++[FID:34, TEXT:0007] 
++[FID:34, TEXT:0008] 
++[FID:34, TEXT:0009] 
 
 --- Group 5 [left:主人公 next=0023] ---
 あなたたち・・・
 まだ、わたしを
 狙ってるんですか？
-+[FID:34, TEXT:000A] 你们……
-+[FID:34, TEXT:000B] 还，还在
-+[FID:34, TEXT:000C] 盯上我吗？
++[FID:34, TEXT:000A] 
++[FID:34, TEXT:000B] 
++[FID:34, TEXT:000C] 
 
 --- Group 6 [right:char_0039 next=2012] ---
 当たりめぇだろ！？
 お前が来てからずっと
 バノッサの兄貴の機嫌
 は悪くなるばかりだ
-+[FID:34, TEXT:000D] 废话！
-+[FID:34, TEXT:000E] 自从你来了之后巴诺萨
-+[FID:34, TEXT:000F] 大哥的心情就一直很糟
-+[FID:34, TEXT:0010] 糕
++[FID:34, TEXT:000D] 
++[FID:34, TEXT:000E] 
++[FID:34, TEXT:000F] 
++[FID:34, TEXT:0010] 
 
 --- Group 7 [right:char_0039 next=2012] ---
 おかげで俺たちは迷惑
 しっぱなしさ・・・
 どうしてくれんだッ！
-+[FID:34, TEXT:0011] 害得我们倒霉透顶了…
-+[FID:34, TEXT:0012] …
-+[FID:34, TEXT:0013] 你打算怎么办啊！
++[FID:34, TEXT:0011] 
++[FID:34, TEXT:0012] 
++[FID:34, TEXT:0013] 
 
 --- Group 8 [left:主人公 next=0023] ---
 そんなの、俺の知った
 ことじゃないだろ！？
-+[FID:34, TEXT:0014] 那种事，我怎么知道啊
-+[FID:34, TEXT:0015] ！？
++[FID:34, TEXT:0014] 
++[FID:34, TEXT:0015] 
 
 --- Group 9 [left:主人公 next=0023] ---
 そんなことは
 僕の責任じゃない！
-+[FID:34, TEXT:0016] 那种事
-+[FID:34, TEXT:0017] 可不是我的责任！
++[FID:34, TEXT:0016] 
++[FID:34, TEXT:0017] 
 
 --- Group 10 [left:主人公 next=0023] ---
 関係ないじゃん！
-+[FID:34, TEXT:0018] 跟我没关系！
++[FID:34, TEXT:0018] 
 
 --- Group 11 [left:主人公 next=0023] ---
 わたしのせいだと
 言うんですね・・・？
-+[FID:34, TEXT:0019] 你们是说
-+[FID:34, TEXT:001A] 是我的错……？
++[FID:34, TEXT:0019] 
++[FID:34, TEXT:001A] 
 
 --- Group 12 [right:char_003A next=2012] ---
 おうおう、そんな口を
 聞いてもいいのかよ？
-+[FID:34, TEXT:001B] 哟哟哟，你敢这么说话
-+[FID:34, TEXT:001C] 吗？
++[FID:34, TEXT:001B] 
++[FID:34, TEXT:001C] 
 
 --- Group 13 [right:char_003A next=2012] ---
 たった二人っきりで、
 俺たちとやりあえると
 でも思ってんのか！？
-+[FID:34, TEXT:001D] 就凭你们两个，就以为
-+[FID:34, TEXT:001E] 能对付我们了吗！？
++[FID:34, TEXT:001D] 
++[FID:34, TEXT:001E] 
 +[FID:34, TEXT:001F] 
 
 --- Group 14 [left:char_003F next=2012] ---
 いや、三人だ
-+[FID:34, TEXT:0020] 不，是三个
++[FID:34, TEXT:0020] 
 
 --- Group 15 [left:主人公 next=0023] ---
 ・・・えっ！？
-+[FID:34, TEXT:0021] ……欸！？
++[FID:34, TEXT:0021] 
 
 --- Group 16 [left:主人公 next=0023] ---
 ・・・え？
-+[FID:34, TEXT:0022] ……嗯？
++[FID:34, TEXT:0022] 
 
 --- Group 17 [left:主人公 next=2012] ---
 俺も混ぜてもらおう
-+[FID:34, TEXT:0023] 我也来掺一脚吧
++[FID:34, TEXT:0023] 
 
 --- Group 18 [right:char_003A next=2012] ---
 なっ、なんなんだ
 てめぇはっ！？
-+[FID:34, TEXT:0024] 喂，你
-+[FID:34, TEXT:0025] 是谁啊！？
++[FID:34, TEXT:0024] 
++[FID:34, TEXT:0025] 
 
 --- Group 19 [left:主人公 next=0023] ---
 さっきの剣士
 どうして？
-+[FID:34, TEXT:0026] 刚才那个剑士
-+[FID:34, TEXT:0027] 怎么了？
++[FID:34, TEXT:0026] 
++[FID:34, TEXT:0027] 
 
 --- Group 20 [left:主人公 next=0023] ---
 さっきの剣士
 どうして！？
--[FID:34, TEXT:0026] 刚才那个剑士
-+[FID:34, TEXT:0028] 怎么了！？
+-[FID:34, TEXT:0026] 
++[FID:34, TEXT:0028] 
 
 --- Group 21 [left:主人公 next=0023] ---
 さっきの剣士さん
 どうして！？
-+[FID:34, TEXT:0029] 刚才那位剑士先生
--[FID:34, TEXT:0028] 怎么了！？
++[FID:34, TEXT:0029] 
+-[FID:34, TEXT:0028] 
 
 --- Group 22 [right:char_003A next=2012] ---
 数に任せたやり方は、
 好きじゃない
-+[FID:34, TEXT:002A] 我不喜欢以多欺少的做
-+[FID:34, TEXT:002B] 法
++[FID:34, TEXT:002A] 
++[FID:34, TEXT:002B] 
 
 --- Group 23 [right:char_003A next=2012] ---
 ・・・それだけだ
-+[FID:34, TEXT:002C] ……仅此而已
++[FID:34, TEXT:002C] 
 
 --- Group 24 [right:char_003A next=2012] ---
 ひっ、一人増えただけ
 でどうだってんだ！
-+[FID:34, TEXT:002D] 哼，多一个人有什么了
-+[FID:34, TEXT:002E] 不起的！
++[FID:34, TEXT:002D] 
++[FID:34, TEXT:002E] 
 
 --- Group 25 [right:char_003A next=2012] ---
 まとめて
 ぶちのめせえェッ！！
-+[FID:34, TEXT:002F] 一起
-+[FID:34, TEXT:0030] 把他们打趴下！！
++[FID:34, TEXT:002F] 
++[FID:34, TEXT:0030] 

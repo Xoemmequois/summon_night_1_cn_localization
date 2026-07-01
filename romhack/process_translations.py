@@ -5,8 +5,8 @@ from pathlib import Path
 
 SCRIPT_DIR = Path(__file__).parent
 ORIG_DIR = SCRIPT_DIR.parent / "ruby_tools" / "opencode_generated" / "output_full"
-TRANS_DIR = SCRIPT_DIR.parent / "ruby_tools" / "opencode_generated" / "translations"
 OUTPUT_DIR = SCRIPT_DIR.parent / "ruby_tools" / "opencode_generated" / "processed"
+CHAR_NAMES_PATH = SCRIPT_DIR / "char_names_translated.json"
 
 FULLWIDTH_SPACE = "\u3000"
 LINE_TAG_RE = re.compile(r"^(\[FID:[^\]]+\]) (.*)")
@@ -46,7 +46,7 @@ def process_texts(orig_texts, trans_texts):
         current = queue.pop(0)
         orig_len = len(orig)
 
-        if orig.startswith(FULLWIDTH_SPACE) and not current.startswith(FULLWIDTH_SPACE):
+        if orig.startswith(FULLWIDTH_SPACE) and current and not current.startswith(FULLWIDTH_SPACE):
             current = FULLWIDTH_SPACE + current
 
         if orig_len > 10:
@@ -76,121 +76,127 @@ def process_texts(orig_texts, trans_texts):
 
 
 def load_g_translations(path):
-    g = {}
-    cur_num = None
-    cur_map = None
+    results = []
+    cur_refs = []
+    cur_map = {}
+    cur_header = None
+    in_refs = True
     is_g = False
+
     for line in path.read_text(encoding="utf-8").split("\n"):
         if line.startswith("--- Group "):
-            if cur_num is not None and is_g and cur_map is not None:
-                g[cur_num] = cur_map
-            m = re.search(r"Group (\d+)", line)
-            cur_num = int(m.group(1)) if m else None
+            if cur_header is not None and is_g:
+                results.append((tuple(cur_refs), cur_header, cur_map))
+            cur_header = line
+            cur_refs = []
             cur_map = {}
             is_g = line.rstrip().endswith("G")
-        elif cur_num is not None and is_g:
-            tm = re.match(r"^[+-](\[FID:[^\]]+\]) (.*)", line)
-            if tm:
-                cur_map[tm.group(1)] = tm.group(2)
-    if cur_num is not None and is_g and cur_map is not None:
-        g[cur_num] = cur_map
-    return g
+            in_refs = True
+        elif is_g:
+            if in_refs:
+                tm = re.match(r"^[+-](\[FID:[^\]]+\]) (.*)", line)
+                if tm:
+                    in_refs = False
+                    cur_map[tm.group(1)] = tm.group(2)
+                else:
+                    cur_refs.append(line)
+            else:
+                tm = re.match(r"^[+-](\[FID:[^\]]+\]) (.*)", line)
+                if tm:
+                    cur_map[tm.group(1)] = tm.group(2)
+
+    if cur_header is not None and is_g:
+        results.append((tuple(cur_refs), cur_header, cur_map))
+    return results
 
 
-def process_file(orig_path, trans_path, out_path):
+def load_char_names():
+    with open(CHAR_NAMES_PATH, "r", encoding="utf-8") as f:
+        data = json.load(f)
+    mapping = {}
+    for dec_id, info in data.items():
+        hex_id = format(int(dec_id), "04X")
+        jp = info.get("japanese", "")
+        cn = info.get("chinese", "")
+        label = cn if cn else (jp if jp else f"角色{dec_id}")
+        mapping[hex_id] = label
+    return mapping
+
+
+def replace_char_ids(text, char_map):
+    def replacer(m):
+        hex_id = m.group(1).upper()
+        if hex_id in char_map:
+            return char_map[hex_id]
+        return m.group(0)
+    return re.sub(r"char_([0-9a-fA-F]{4})", replacer, text)
+
+
+def process_file(orig_path, out_path, char_map):
     with open(orig_path, "r", encoding="utf-8") as f:
-        orig_groups = parse_groups(f.read())
-    with open(trans_path, "r", encoding="utf-8") as f:
-        trans_groups = parse_groups(f.read())
+        content = replace_char_ids(f.read(), char_map)
+        orig_groups = parse_groups(content)
 
-    orig_map = {}
-    for g in orig_groups:
-        m = re.search(r"Group (\d+)", g["header"])
-        if m:
-            orig_map[int(m.group(1))] = g
-
-    preserved = {}
-    g_headers = {}
+    preserved = []
     if out_path.exists():
         preserved = load_g_translations(out_path)
-        for line in out_path.read_text(encoding="utf-8").split("\n"):
-            if line.startswith("--- Group ") and line.rstrip().endswith("G"):
-                m = re.search(r"Group (\d+)", line)
-                if m:
-                    g_headers[int(m.group(1))] = line
 
-    # FIRST PASS: process all groups using translations/ as source,
-    # running process_texts (10-char splitting) on the translations
+    # FIRST PASS: process all groups with empty translations (leave blank)
     blocks = []
     seen_tags = set()
 
-    for tg in trans_groups:
-        m = re.search(r"Group (\d+)", tg["header"])
+    for og in orig_groups:
+        m = re.search(r"Group (\d+)", og["header"])
         group_num = int(m.group(1)) if m else -1
 
-        og = orig_map.get(group_num)
+        orig_tags = [l["tag"] for l in og["lines"]]
+        orig_texts = [l["text"] for l in og["lines"]]
 
-        block = [tg["header"]]
+        block = [og["header"]]
 
-        if og:
-            orig_tags = [l["tag"] for l in og["lines"]]
-            orig_texts = [l["text"] for l in og["lines"]]
-            orig_tag_set = set(t for t in orig_tags if t)
+        for text in orig_texts:
+            block.append(text)
 
-            trans_tag_map = {}
-            for l in tg["lines"]:
-                if l["tag"]:
-                    if l["tag"] not in orig_tag_set:
-                        raise ValueError(
-                            f"Group {group_num}: tag {l['tag']} in translation not found in original"
-                        )
-                    trans_tag_map[l["tag"]] = l["text"]
+        empty_trans = [""] * len(orig_texts)
+        processed = process_texts(orig_texts, empty_trans)
 
-            trans_texts = [trans_tag_map.get(tag, "") for tag in orig_tags]
+        while len(processed) < len(orig_tags):
+            processed.append("")
 
-            for text in orig_texts:
+        for i, text in enumerate(processed):
+            tag = orig_tags[i] if i < len(orig_tags) else orig_tags[-1] if orig_tags else ""
+            if tag:
+                marker = "+" if tag not in seen_tags else "-"
+                seen_tags.add(tag)
+                block.append(f"{marker}{tag} {text}")
+            else:
                 block.append(text)
-
-            processed = process_texts(orig_texts, trans_texts)
-
-            while len(processed) < len(orig_tags):
-                processed.append("")
-
-            for i, text in enumerate(processed):
-                tag = orig_tags[i] if i < len(orig_tags) else orig_tags[-1] if orig_tags else ""
-                if tag:
-                    marker = "+" if tag not in seen_tags else "-"
-                    seen_tags.add(tag)
-                    block.append(f"{marker}{tag} {text}")
-                else:
-                    block.append(text)
-        else:
-            for l in tg["lines"]:
-                if l["tag"]:
-                    marker = "+" if l["tag"] not in seen_tags else "-"
-                    seen_tags.add(l["tag"])
-                    block.append(f"{marker}{l['tag']} {l['text']}")
-                else:
-                    block.append(l["text"])
 
         blocks.append(block)
 
-    # SECOND PASS: override G-groups with preserved translations from target file
+    # SECOND PASS: override G-groups with preserved translations, matched by reference texts
     if preserved:
+        used = set()
         for block in blocks:
-            m = re.search(r"Group (\d+)", block[0])
-            if not m:
-                continue
-            num = int(m.group(1))
-            if num not in preserved:
-                continue
+            ref_texts = []
+            for ln in block[1:]:
+                if re.match(r"^[+-](\[FID:[^\]]+\])", ln):
+                    break
+                ref_texts.append(ln)
+            ref_key = tuple(ref_texts)
 
-            block[0] = g_headers.get(num, block[0])
-            pmap = preserved[num]
-            for j, ln in enumerate(block):
-                tm = re.match(r"^([+-])(\[FID:[^\]]+\]) (.*)", ln)
-                if tm and tm.group(2) in pmap:
-                    block[j] = f"{tm.group(1)}{tm.group(2)} {pmap[tm.group(2)]}"
+            for pi, (pref_texts, pheader, pmap) in enumerate(preserved):
+                if pi in used:
+                    continue
+                if ref_key == pref_texts:
+                    used.add(pi)
+                    if not block[0].rstrip().endswith("G"):
+                        block[0] = block[0].rstrip() + "G"
+                    for j, ln in enumerate(block):
+                        tm = re.match(r"^([+-])(\[FID:[^\]]+\]) (.*)", ln)
+                        if tm and tm.group(2) in pmap:
+                            block[j] = f"{tm.group(1)}{tm.group(2)} {pmap[tm.group(2)]}"
+                    break
 
     # THIRD: remove all-duplicate groups (except G-groups, always preserved)
     filtered = []
@@ -200,6 +206,17 @@ def process_file(orig_path, trans_path, out_path):
         if not is_g and markers and all(m == "-" for m in markers):
             continue
         filtered.append(block)
+
+    # FOURTH: dedup consecutive identical TEXT IDs within each group
+    for block in filtered:
+        i = 1
+        while i < len(block) - 1:
+            cur_m = re.match(r"^[+-]\[FID:\d+, TEXT:([0-9A-Fa-f]+)\]", block[i])
+            next_m = re.match(r"^[+-]\[FID:\d+, TEXT:([0-9A-Fa-f]+)\]", block[i + 1])
+            if cur_m and next_m and cur_m.group(1) == next_m.group(1) and cur_m.group(1) != "0000":
+                block.pop(i + 1)
+            else:
+                i += 1
 
     output_lines = []
     for block in filtered:
@@ -212,30 +229,28 @@ def process_file(orig_path, trans_path, out_path):
 
 
 def main():
-    trans_files = sorted(TRANS_DIR.glob("script*_fid*.txt"))
-    if not trans_files:
-        print(f"No translated files found in {TRANS_DIR}")
+    char_map = load_char_names()
+    print(f"Loaded {len(char_map)} character name mappings")
+
+    orig_files = sorted(ORIG_DIR.glob("script*_fid*.txt"))
+    if not orig_files:
+        print(f"No original files found in {ORIG_DIR}")
         sys.exit(1)
 
-    print(f"Found {len(trans_files)} translated files")
+    print(f"Found {len(orig_files)} original files")
     processed = 0
 
-    for tf in trans_files:
-        orig_path = ORIG_DIR / tf.name
-        out_path = OUTPUT_DIR / tf.name
-
-        if not orig_path.exists():
-            print(f"  SKIP {tf.name}: original not found")
-            continue
+    for of in orig_files:
+        out_path = OUTPUT_DIR / of.name
 
         try:
-            process_file(orig_path, tf, out_path)
+            process_file(of, out_path, char_map)
             processed += 1
-            print(f"  OK: {tf.name}")
+            print(f"  OK: {of.name}")
         except Exception as e:
-            print(f"  ERR: {tf.name} ({e})")
+            print(f"  ERR: {of.name} ({e})")
 
-    print(f"\nDone. {processed}/{len(trans_files)} files processed.")
+    print(f"\nDone. {processed}/{len(orig_files)} files processed.")
     print(f"Output: {OUTPUT_DIR}")
 
 

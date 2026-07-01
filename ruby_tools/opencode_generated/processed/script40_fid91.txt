@@ -4,7 +4,7 @@
 
 
 
-+[FID:91, TEXT:0001] 0话 1
++[FID:91, TEXT:0001] 
 +[FID:91, TEXT:0000] 
 -[FID:91, TEXT:0000] 
 -[FID:91, TEXT:0000] 
@@ -16,11 +16,11 @@
 　イワ４１
 　コウゲン４３
 　ヌマ４５
-+[FID:91, TEXT:0002] 商店
-+[FID:91, TEXT:0019] 12话 18
-+[FID:91, TEXT:0013] 　	岩41
-+[FID:91, TEXT:0016] 　	高原43
-+[FID:91, TEXT:001A] 　	沼45
++[FID:91, TEXT:0002] 
++[FID:91, TEXT:0019] 
++[FID:91, TEXT:0013] 
++[FID:91, TEXT:0016] 
++[FID:91, TEXT:001A] 
 
 --- Group 3 [left:none next=2017] ---
 ショップ
@@ -28,8 +28,8 @@
 
 
 
--[FID:91, TEXT:0002] 商店
-+[FID:91, TEXT:0003] 1话 2
+-[FID:91, TEXT:0002] 
++[FID:91, TEXT:0003] 
 -[FID:91, TEXT:0000] 
 -[FID:91, TEXT:0000] 
 -[FID:91, TEXT:0000] 
@@ -40,8 +40,8 @@
 
 
 
--[FID:91, TEXT:0002] 商店
-+[FID:91, TEXT:0004] 1话 3
+-[FID:91, TEXT:0002] 
++[FID:91, TEXT:0004] 
 -[FID:91, TEXT:0000] 
 -[FID:91, TEXT:0000] 
 -[FID:91, TEXT:0000] 
@@ -52,9 +52,9 @@
 　ヘイゲン４２
 
 
--[FID:91, TEXT:0002] 商店
-+[FID:91, TEXT:0005] 2话 4
-+[FID:91, TEXT:0006] 　	平原42
+-[FID:91, TEXT:0002] 
++[FID:91, TEXT:0005] 
++[FID:91, TEXT:0006] 
 -[FID:91, TEXT:0000] 
 -[FID:91, TEXT:0000] 
 
@@ -64,11 +64,11 @@
 　イワ４１
 　コウゲン４３
 　ヌマ４５
--[FID:91, TEXT:0002] 商店
-+[FID:91, TEXT:001D] 13话 21
--[FID:91, TEXT:0013] 　	岩41
--[FID:91, TEXT:0016] 　	高原43
--[FID:91, TEXT:001A] 　	沼45
+-[FID:91, TEXT:0002] 
++[FID:91, TEXT:001D] 
+-[FID:91, TEXT:0013] 
+-[FID:91, TEXT:0016] 
+-[FID:91, TEXT:001A] 
 
 --- Group 7 [left:none next=2017] ---
 ショップ
@@ -76,11 +76,11 @@
 　ヘイゲン４２
 　コウヤ３９
 　召喚跡４０
--[FID:91, TEXT:0002] 商店
-+[FID:91, TEXT:0008] 3话 6
--[FID:91, TEXT:0006] 　	平原42
-+[FID:91, TEXT:0009] 　	荒野39
-+[FID:91, TEXT:000A] 　	召唤迹40
+-[FID:91, TEXT:0002] 
++[FID:91, TEXT:0008] 
+-[FID:91, TEXT:0006] 
++[FID:91, TEXT:0009] 
++[FID:91, TEXT:000A] 
 
 --- Group 8 [left:none next=2017] ---
 ショップ
@@ -88,21 +88,21 @@
 　ヘイゲン４２
 　コウヤ３９
 　召喚跡４０
--[FID:91, TEXT:0002] 商店
-+[FID:91, TEXT:000B] 4话 7
--[FID:91, TEXT:0006] 　	平原42
--[FID:91, TEXT:0009] 　	荒野39
--[FID:91, TEXT:000A] 　	召唤迹40
+-[FID:91, TEXT:0002] 
++[FID:91, TEXT:000B] 
+-[FID:91, TEXT:0006] 
+-[FID:91, TEXT:0009] 
+-[FID:91, TEXT:000A] 
 
 --- Group 9 [left:none next=0003] ---
 ショップ
 ５話　８
 　召喚跡４０
 　森４６
--[FID:91, TEXT:0002] 商店
-+[FID:91, TEXT:000C] 5话 8
--[FID:91, TEXT:000A] 　	召唤迹40
-+[FID:91, TEXT:000D] 　	森46
+-[FID:91, TEXT:0002] 
++[FID:91, TEXT:000C] 
+-[FID:91, TEXT:000A] 
++[FID:91, TEXT:000D] 
 
 --- Group 10 [left:none next=2017] ---
 ショップ
@@ -110,11 +110,11 @@
 　ミネ４８
 　タニ４９
 　キカイ５０
--[FID:91, TEXT:0002] 商店
-+[FID:91, TEXT:0028] 16话 29
-+[FID:91, TEXT:0022] 　	峰48
-+[FID:91, TEXT:0024] 　	谷49
-+[FID:91, TEXT:0026] 　	机械50
+-[FID:91, TEXT:0002] 
++[FID:91, TEXT:0028] 
++[FID:91, TEXT:0022] 
++[FID:91, TEXT:0024] 
++[FID:91, TEXT:0026] 
 
 --- Group 11 [left:none next=2017] ---
 ショップ
@@ -122,9 +122,9 @@
 　召喚跡４０
 
 
--[FID:91, TEXT:0002] 商店
-+[FID:91, TEXT:000F] A话 10
--[FID:91, TEXT:000A] 　	召唤迹40
+-[FID:91, TEXT:0002] 
++[FID:91, TEXT:000F] 
+-[FID:91, TEXT:000A] 
 -[FID:91, TEXT:0000] 
 -[FID:91, TEXT:0000] 
 
@@ -134,10 +134,10 @@
 　森４６
 　ドウクツ４４
 
--[FID:91, TEXT:0002] 商店
-+[FID:91, TEXT:0010] 6话 11
--[FID:91, TEXT:000D] 　	森46
-+[FID:91, TEXT:0011] 　	洞窟44
+-[FID:91, TEXT:0002] 
++[FID:91, TEXT:0010] 
+-[FID:91, TEXT:000D] 
++[FID:91, TEXT:0011] 
 -[FID:91, TEXT:0000] 
 
 --- Group 13 [left:none next=2017] ---
@@ -146,11 +146,11 @@
 　森４６
 　ドウクツ４４
 　イワ４１
--[FID:91, TEXT:0002] 商店
-+[FID:91, TEXT:0012] 8话 13
--[FID:91, TEXT:000D] 　	森46
--[FID:91, TEXT:0011] 　	洞窟44
--[FID:91, TEXT:0013] 　	岩41
+-[FID:91, TEXT:0002] 
++[FID:91, TEXT:0012] 
+-[FID:91, TEXT:000D] 
+-[FID:91, TEXT:0011] 
+-[FID:91, TEXT:0013] 
 
 --- Group 14 [left:none next=2017] ---
 ショップ
@@ -158,10 +158,10 @@
 　ドウクツ４４
 　イワ４１
 
--[FID:91, TEXT:0002] 商店
-+[FID:91, TEXT:0014] 9话 14
--[FID:91, TEXT:0011] 　	洞窟44
--[FID:91, TEXT:0013] 　	岩41
+-[FID:91, TEXT:0002] 
++[FID:91, TEXT:0014] 
+-[FID:91, TEXT:0011] 
+-[FID:91, TEXT:0013] 
 -[FID:91, TEXT:0000] 
 
 --- Group 15 [left:none next=2017] ---
@@ -170,11 +170,11 @@
 　ドウクツ４４
 　イワ４１
 　コウゲン４３
--[FID:91, TEXT:0002] 商店
-+[FID:91, TEXT:0015] 10话 15
--[FID:91, TEXT:0011] 　	洞窟44
--[FID:91, TEXT:0013] 　	岩41
--[FID:91, TEXT:0016] 　	高原43
+-[FID:91, TEXT:0002] 
++[FID:91, TEXT:0015] 
+-[FID:91, TEXT:0011] 
+-[FID:91, TEXT:0013] 
+-[FID:91, TEXT:0016] 
 
 --- Group 16 [left:none next=2017] ---
 ショップ
@@ -182,10 +182,10 @@
 　イワ４１
 　コウゲン４３
 
--[FID:91, TEXT:0002] 商店
-+[FID:91, TEXT:0017] 11话 16
--[FID:91, TEXT:0013] 　	岩41
--[FID:91, TEXT:0016] 　	高原43
+-[FID:91, TEXT:0002] 
++[FID:91, TEXT:0017] 
+-[FID:91, TEXT:0013] 
+-[FID:91, TEXT:0016] 
 -[FID:91, TEXT:0000] 
 
 --- Group 17 [left:none next=2017] ---
@@ -194,11 +194,11 @@
 　ミネ４８
 　タニ４９
 　キカイ５０
--[FID:91, TEXT:0002] 商店
-+[FID:91, TEXT:002B] 18话 32
--[FID:91, TEXT:0022] 　	峰48
--[FID:91, TEXT:0024] 　	谷49
--[FID:91, TEXT:0026] 　	机械50
+-[FID:91, TEXT:0002] 
++[FID:91, TEXT:002B] 
+-[FID:91, TEXT:0022] 
+-[FID:91, TEXT:0024] 
+-[FID:91, TEXT:0026] 
 
 --- Group 19 [left:none next=2017] ---
 ２話　戦闘５
@@ -206,7 +206,7 @@
 
 
 
-+[FID:91, TEXT:0007] 2话 战斗5
++[FID:91, TEXT:0007] 
 -[FID:91, TEXT:0000] 
 -[FID:91, TEXT:0000] 
 -[FID:91, TEXT:0000] 
@@ -214,7 +214,7 @@
 
 --- Group 20 [left:none next=0023] ---
 スウォン９
-+[FID:91, TEXT:000E] 斯旺9
++[FID:91, TEXT:000E] 
 
 --- Group 21 [left:none next=2017] ---
 １１話　１７
@@ -222,7 +222,7 @@
 
 
 
-+[FID:91, TEXT:0018] 11话 17
++[FID:91, TEXT:0018] 
 -[FID:91, TEXT:0000] 
 -[FID:91, TEXT:0000] 
 -[FID:91, TEXT:0000] 
@@ -230,7 +230,7 @@
 
 --- Group 22 [left:none next=2017] ---
 エルカ２０
-+[FID:91, TEXT:001B] 艾尔卡20
++[FID:91, TEXT:001B] 
 
 --- Group 23 [left:none next=2017] ---
 １２話　１９
@@ -238,7 +238,7 @@
 
 
 
-+[FID:91, TEXT:001C] 12话 19
++[FID:91, TEXT:001C] 
 -[FID:91, TEXT:0000] 
 -[FID:91, TEXT:0000] 
 -[FID:91, TEXT:0000] 
@@ -246,7 +246,7 @@
 
 --- Group 24 [left:none next=2017] ---
 リプレ２８
-+[FID:91, TEXT:001E] 莉普蕾28
++[FID:91, TEXT:001E] 
 
 --- Group 25 [left:none next=2017] ---
 １３話　２２
@@ -254,7 +254,7 @@
 
 
 
-+[FID:91, TEXT:001F] 13话 22
++[FID:91, TEXT:001F] 
 -[FID:91, TEXT:0000] 
 -[FID:91, TEXT:0000] 
 -[FID:91, TEXT:0000] 
@@ -266,7 +266,7 @@
 
 
 
-+[FID:91, TEXT:0020] 14话 23
++[FID:91, TEXT:0020] 
 -[FID:91, TEXT:0000] 
 -[FID:91, TEXT:0000] 
 -[FID:91, TEXT:0000] 
@@ -274,19 +274,19 @@
 
 --- Group 27 [left:none next=0023] ---
 １５話ミネ２４
-+[FID:91, TEXT:0021] 15话 峰24
++[FID:91, TEXT:0021] 
 
 --- Group 28 [left:none next=0023] ---
 １５話タニ２６
-+[FID:91, TEXT:0023] 15话 谷26
++[FID:91, TEXT:0023] 
 
 --- Group 29 [left:none next=0023] ---
 １５話キカイ２７
-+[FID:91, TEXT:0025] 15话 机械27
++[FID:91, TEXT:0025] 
 
 --- Group 30 [left:none next=0023] ---
 アカネ２５
-+[FID:91, TEXT:0027] 茜25
++[FID:91, TEXT:0027] 
 
 --- Group 31 [left:none next=2017] ---
 １６話　３０
@@ -294,7 +294,7 @@
 
 
 
-+[FID:91, TEXT:0029] 16话 30
++[FID:91, TEXT:0029] 
 -[FID:91, TEXT:0000] 
 -[FID:91, TEXT:0000] 
 -[FID:91, TEXT:0000] 
@@ -306,7 +306,7 @@
 
 
 
-+[FID:91, TEXT:002A] 17话 31
++[FID:91, TEXT:002A] 
 -[FID:91, TEXT:0000] 
 -[FID:91, TEXT:0000] 
 -[FID:91, TEXT:0000] 
@@ -318,8 +318,8 @@
 
 
 
-+[FID:91, TEXT:002C] 18话 33
-+[FID:91, TEXT:002D] 魔王路线38
++[FID:91, TEXT:002C] 
++[FID:91, TEXT:002D] 
 -[FID:91, TEXT:0000] 
 -[FID:91, TEXT:0000] 
 -[FID:91, TEXT:0000] 
@@ -330,7 +330,7 @@
 
 
 
-+[FID:91, TEXT:002E] 18话 34
++[FID:91, TEXT:002E] 
 -[FID:91, TEXT:0000] 
 -[FID:91, TEXT:0000] 
 -[FID:91, TEXT:0000] 
@@ -342,9 +342,9 @@
 Ｃルート　３７
 
 
-+[FID:91, TEXT:0030] A路线 35
-+[FID:91, TEXT:0031] B路线 36
-+[FID:91, TEXT:0032] C路线 37
++[FID:91, TEXT:0030] 
++[FID:91, TEXT:0031] 
++[FID:91, TEXT:0032] 
 -[FID:91, TEXT:0000] 
 -[FID:91, TEXT:0000] 
 
@@ -369,23 +369,23 @@
 １７話
 １８話
 ２０話
-+[FID:91, TEXT:0033] 从头开始
-+[FID:91, TEXT:0034] 1话
-+[FID:91, TEXT:0035] 2话
-+[FID:91, TEXT:0036] 3话
-+[FID:91, TEXT:0037] 4话
-+[FID:91, TEXT:0038] 5话
-+[FID:91, TEXT:0039] 6话
-+[FID:91, TEXT:003A] 7话
-+[FID:91, TEXT:003B] 8话
-+[FID:91, TEXT:003C] 9话
-+[FID:91, TEXT:003D] 10话
-+[FID:91, TEXT:003E] 11话
-+[FID:91, TEXT:003F] 12话
-+[FID:91, TEXT:0040] 13话
-+[FID:91, TEXT:0041] 14话
-+[FID:91, TEXT:0042] 15话
-+[FID:91, TEXT:0043] 16话
-+[FID:91, TEXT:0044] 17话
-+[FID:91, TEXT:0045] 18话
-+[FID:91, TEXT:0046] 20话
++[FID:91, TEXT:0033] 
++[FID:91, TEXT:0034] 
++[FID:91, TEXT:0035] 
++[FID:91, TEXT:0036] 
++[FID:91, TEXT:0037] 
++[FID:91, TEXT:0038] 
++[FID:91, TEXT:0039] 
++[FID:91, TEXT:003A] 
++[FID:91, TEXT:003B] 
++[FID:91, TEXT:003C] 
++[FID:91, TEXT:003D] 
++[FID:91, TEXT:003E] 
++[FID:91, TEXT:003F] 
++[FID:91, TEXT:0040] 
++[FID:91, TEXT:0041] 
++[FID:91, TEXT:0042] 
++[FID:91, TEXT:0043] 
++[FID:91, TEXT:0044] 
++[FID:91, TEXT:0045] 
++[FID:91, TEXT:0046] 

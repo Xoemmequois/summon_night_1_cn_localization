@@ -2,456 +2,456 @@
 いてててっ・・・！
 このガキ、手を離しや
 がれっ！！
-+[FID:29, TEXT:0001] 哎哟，好痛……！
-+[FID:29, TEXT:0002] 你这小鬼，快放开我啊
-+[FID:29, TEXT:0003] ！！
++[FID:29, TEXT:0001] 
++[FID:29, TEXT:0002] 
++[FID:29, TEXT:0003] 
 
---- Group 2 [left:主人公 next=2012] ---
+--- Group 3 [left:主人公 next=2012] ---
 アンタが謝るほうが先
 だろ？
-+[FID:29, TEXT:0004] 应该是你先道歉吧？
++[FID:29, TEXT:0004] 
 +[FID:29, TEXT:0005] 
 
---- Group 3 [right:none next=2012] ---
+--- Group 5 [right:none next=2012] ---
 てめぇ、俺たちが何者
 だかわかってて言って
 んのかっ！？
-+[FID:29, TEXT:0006] 喂，你知道我们是谁吗
-+[FID:29, TEXT:0007] ，就敢这么说话！？
++[FID:29, TEXT:0006] 
++[FID:29, TEXT:0007] 
 +[FID:29, TEXT:0008] 
 
---- Group 4 [left:主人公 next=2012] ---
+--- Group 7 [left:主人公 next=2012] ---
 そんなこと関係ねえよ
-+[FID:29, TEXT:0009] 那种事无关紧要！
++[FID:29, TEXT:0009] 
 
---- Group 5 [left:主人公 next=2012] ---
+--- Group 9 [left:主人公 next=2012] ---
 人を突き飛ばしといて
 謝りもせずに行こうっ
 てほうが悪い！
-+[FID:29, TEXT:000A] 推了别人之后，连道歉
-+[FID:29, TEXT:000B] 都不说就想走，这才是
-+[FID:29, TEXT:000C] 错的！
++[FID:29, TEXT:000A] 
++[FID:29, TEXT:000B] 
++[FID:29, TEXT:000C] 
 
---- Group 6 [left:主人公 next=2012] ---
+--- Group 11 [left:主人公 next=2012] ---
 ほら、そこのジイさん
 に謝れよ？
-+[FID:29, TEXT:000D] 喂，那位大叔，快道歉
-+[FID:29, TEXT:000E] 啊？
++[FID:29, TEXT:000D] 
++[FID:29, TEXT:000E] 
 
---- Group 7 [left:老人 next=2012] ---
+--- Group 13 [left:老人 next=2012] ---
 ぼ、坊や・・・
 もういい、やめとくれ
-+[FID:29, TEXT:000F] 孩、孩子……
-+[FID:29, TEXT:0010] 算了，别这样了
++[FID:29, TEXT:000F] 
++[FID:29, TEXT:0010] 
 
---- Group 8 [left:老人 next=2012] ---
+--- Group 15 [left:老人 next=2012] ---
 あァ？
 良くないだろ、悪いの
 はこいつらなんだぜ
-+[FID:29, TEXT:0011] 啊？
-+[FID:29, TEXT:0012] 别这样？明明是他们不
-+[FID:29, TEXT:0013] 对啊
++[FID:29, TEXT:0011] 
++[FID:29, TEXT:0012] 
++[FID:29, TEXT:0013] 
 
---- Group 9 [right:none next=2012] ---
+--- Group 17 [right:伊利亚斯 next=2012] ---
 あーあ、あの子供
 黙ってりゃいいのに
-+[FID:29, TEXT:0014] 唉，那孩子
-+[FID:29, TEXT:0015] 闭嘴不就好了
++[FID:29, TEXT:0014] 
++[FID:29, TEXT:0015] 
 
---- Group 10 [left:none next=2012] ---
+--- Group 19 [left:none next=2012] ---
 余計なことしちまって
 タダじゃすまないよ
-+[FID:29, TEXT:0016] 多管闲事的话可不会有
-+[FID:29, TEXT:0017] 好下场
++[FID:29, TEXT:0016] 
++[FID:29, TEXT:0017] 
 
---- Group 11 [left:none next=2012] ---
+--- Group 21 [left:none next=2012] ---
 さあ、謝れッ！！
-+[FID:29, TEXT:0018] 喂，快道歉！！
++[FID:29, TEXT:0018] 
 
---- Group 12 [right:none next=2012] ---
+--- Group 23 [right:none next=2012] ---
 このガキ・・・
 みんな、やっちまえ！
-+[FID:29, TEXT:0019] 这小鬼……
-+[FID:29, TEXT:001A] 大家，给我上！
++[FID:29, TEXT:0019] 
++[FID:29, TEXT:001A] 
 
---- Group 13 [right:none next=2015] ---
+--- Group 25 [right:伊利亚斯 next=2015] ---
 どうしよう？
 　助けに入る
 　呆然と見ている
-+[FID:29, TEXT:001B] 怎么办？
-+[FID:29, TEXT:001C] 　介入帮忙
-+[FID:29, TEXT:001D] 　呆然地看着
++[FID:29, TEXT:001B] 
++[FID:29, TEXT:001C] 
++[FID:29, TEXT:001D] 
 
---- Group 14 [left:主人公 next=0023] ---
+--- Group 27 [left:主人公 next=0023] ---
 待てよっ、お前ら！
-+[FID:29, TEXT:001E] 站住，你们！
++[FID:29, TEXT:001E] 
 
---- Group 15 [left:主人公 next=0023] ---
+--- Group 29 [left:主人公 next=0023] ---
 やめるんだ！
-+[FID:29, TEXT:001F] 停下！
++[FID:29, TEXT:001F] 
 
---- Group 16 [left:主人公 next=0023] ---
+--- Group 31 [left:主人公 next=0023] ---
 ちょっと待ちなさい！
-+[FID:29, TEXT:0020] 你们等等！
++[FID:29, TEXT:0020] 
 
---- Group 17 [left:主人公 next=0023] ---
+--- Group 33 [left:主人公 next=0023] ---
 待ってください！
-+[FID:29, TEXT:0021] 请等等！
++[FID:29, TEXT:0021] 
 
---- Group 18 [right:char_0039 next=2012] ---
+--- Group 35 [right:char_0039 next=2012] ---
 お前は・・・
 また俺たちの邪魔を
 する気かっ！？
-+[FID:29, TEXT:0022] 你……
-+[FID:29, TEXT:0023] 又要来妨碍我们
-+[FID:29, TEXT:0024] 了吗！？
++[FID:29, TEXT:0022] 
++[FID:29, TEXT:0023] 
++[FID:29, TEXT:0024] 
 
---- Group 19 [left:主人公 next=0023] ---
+--- Group 36 [left:主人公 next=0023] ---
 子供相手によってたか
 って、恥ずかしいとは
 思わ・・・
-+[FID:29, TEXT:0025] 以大欺小，难道不觉得
-+[FID:29, TEXT:0026] 很丢脸吗……我不这么
-+[FID:29, TEXT:0027] 觉得……
++[FID:29, TEXT:0025] 
++[FID:29, TEXT:0026] 
++[FID:29, TEXT:0027] 
 
---- Group 20 [left:主人公 next=0023] ---
+--- Group 37 [left:主人公 next=0023] ---
 子供相手によってたか
 って、恥ずかしいとは
 思わないのっ・・・
--[FID:29, TEXT:0025] 以大欺小，难道不觉得
--[FID:29, TEXT:0026] 很丢脸吗……我不这么
-+[FID:29, TEXT:0028] 觉得啊……
+-[FID:29, TEXT:0025] 
+-[FID:29, TEXT:0026] 
++[FID:29, TEXT:0028] 
 
---- Group 21 [left:主人公 next=0023] ---
+--- Group 38 [left:主人公 next=0023] ---
 子供相手に大勢で
 恥ずかしくは
 ありませんか・・・？
-+[FID:29, TEXT:0029] 以多欺少，难道不
-+[FID:29, TEXT:002A] 觉得很羞耻
-+[FID:29, TEXT:002B] 吗……？
++[FID:29, TEXT:0029] 
++[FID:29, TEXT:002A] 
++[FID:29, TEXT:002B] 
 
---- Group 22 [right:char_003A next=2012] ---
+--- Group 39 [right:char_003A next=2012] ---
 ぎゃあっ！
-+[FID:29, TEXT:002C] 哇啊！
++[FID:29, TEXT:002C] 
 
---- Group 23 [left:主人公 next=2012] ---
+--- Group 40 [left:主人公 next=2012] ---
 え・・・？
-+[FID:29, TEXT:002D] 诶……？
++[FID:29, TEXT:002D] 
 
---- Group 25 [left:主人公 next=0023] ---
+--- Group 42 [left:主人公 next=0023] ---
 な、なんだ！？
 なにが起きたんだ
-+[FID:29, TEXT:002E] 什、什么！？
-+[FID:29, TEXT:002F] 发生什么事了
++[FID:29, TEXT:002E] 
++[FID:29, TEXT:002F] 
 
---- Group 26 [left:主人公 next=0023] ---
+--- Group 43 [left:主人公 next=0023] ---
 あ、あれ！？
 あたしなにもしてない
 んだけど・・・
-+[FID:29, TEXT:0030] 啊，咦！？
-+[FID:29, TEXT:0031] 我什么都没做呢……
++[FID:29, TEXT:0030] 
++[FID:29, TEXT:0031] 
 +[FID:29, TEXT:0032] 
 
---- Group 27 [left:主人公 next=0023] ---
+--- Group 44 [left:主人公 next=0023] ---
 いったいなにが？
 わたしはなにもして
 いないのに・・・
-+[FID:29, TEXT:0033] 到底怎么了？
-+[FID:29, TEXT:0034] 我什么都没做
-+[FID:29, TEXT:0035] 呢……
++[FID:29, TEXT:0033] 
++[FID:29, TEXT:0034] 
++[FID:29, TEXT:0035] 
 
---- Group 28 [left:金加 next=2012] ---
+--- Group 45 [left:金加 next=2012] ---
 なーんだ
 大口叩いたわりには、
 弱いじゃんか
-+[FID:29, TEXT:0036] 哎呀
-+[FID:29, TEXT:0037] 吹得那么厉害，原来这
-+[FID:29, TEXT:0038] 么弱啊
++[FID:29, TEXT:0036] 
++[FID:29, TEXT:0037] 
++[FID:29, TEXT:0038] 
 
---- Group 30 [left:主人公 next=0023] ---
+--- Group 47 [left:主人公 next=0023] ---
 この子が
 やったの・・・？
-+[FID:29, TEXT:0039] 是这个孩子
-+[FID:29, TEXT:003D] 做的……？
++[FID:29, TEXT:0039] 
++[FID:29, TEXT:003D] 
 
---- Group 31 [left:主人公 next=0023] ---
+--- Group 48 [left:主人公 next=0023] ---
 この子が
 やったのか！？
--[FID:29, TEXT:0039] 是这个孩子
-+[FID:29, TEXT:003A] 做的！？
+-[FID:29, TEXT:0039] 
++[FID:29, TEXT:003A] 
 
---- Group 32 [left:主人公 next=0023] ---
+--- Group 49 [left:主人公 next=0023] ---
 ええ！？
 この子がやったの！？
-+[FID:29, TEXT:003B] 诶！？
-+[FID:29, TEXT:003C] 是这个孩子做的！？
++[FID:29, TEXT:003B] 
++[FID:29, TEXT:003C] 
 
---- Group 33 [left:主人公 next=2012] ---
+--- Group 50 [left:主人公 next=2012] ---
 さあ、あとはお前だけ
 だぜ？
-+[FID:29, TEXT:003E] 好了，接下来就轮到你
-+[FID:29, TEXT:003F] 了？
++[FID:29, TEXT:003E] 
++[FID:29, TEXT:003F] 
 
---- Group 35 [left:主人公 next=2012] ---
+--- Group 52 [left:主人公 next=2012] ---
 お、お、お・・・
 おぼえてやがれえぇ！
-+[FID:29, TEXT:0040] 我、我、我……
-+[FID:29, TEXT:0041] 我会记住的！！
++[FID:29, TEXT:0040] 
++[FID:29, TEXT:0041] 
 
---- Group 36 [left:主人公 next=2012] ---
+--- Group 53 [left:主人公 next=2012] ---
 あ、コラっ！
 ちゃんと謝れえッ！！
-+[FID:29, TEXT:0042] 喂，站住！
-+[FID:29, TEXT:0043] 快道歉啊！！
++[FID:29, TEXT:0042] 
++[FID:29, TEXT:0043] 
 
---- Group 37 [left:主人公 next=0023] ---
+--- Group 54 [left:主人公 next=0023] ---
 この子、めちゃくちゃ
 強い・・・
-+[FID:29, TEXT:0044] 这个孩子，太强了……
++[FID:29, TEXT:0044] 
 +[FID:29, TEXT:0045] 
 
---- Group 38 [left:主人公 next=0023] ---
+--- Group 55 [left:主人公 next=0023] ---
 うわ、この子めっちゃ
 強いじゃん・・・
-+[FID:29, TEXT:0046] 哇，这孩子好强啊……
++[FID:29, TEXT:0046] 
 +[FID:29, TEXT:0047] 
 
---- Group 39 [left:主人公 next=0023] ---
+--- Group 56 [left:主人公 next=0023] ---
 この子、すごく
 強い・・・
-+[FID:29, TEXT:0048] 这个孩子，非常
--[FID:29, TEXT:0045] 强……
++[FID:29, TEXT:0048] 
+-[FID:29, TEXT:0045] 
 
---- Group 40 [right:char_003A next=2012] ---
+--- Group 57 [right:char_003A next=2012] ---
 ぐぐぐ・・・
 ちくしょおっ！！
-+[FID:29, TEXT:0049] 呜呜……
-+[FID:29, TEXT:004A] 可恶！！
++[FID:29, TEXT:0049] 
++[FID:29, TEXT:004A] 
 
---- Group 41 [right:老人 next=2012] ---
+--- Group 58 [right:老人 next=2012] ---
 ひいっ！
-+[FID:29, TEXT:004B] 呀！
++[FID:29, TEXT:004B] 
 
---- Group 42 [left:主人公 next=2012] ---
+--- Group 59 [left:主人公 next=2012] ---
 あっ、オマエ
 人質とるなんて
 きたねーぞっ！？
-+[FID:29, TEXT:004C] 喂，你
-+[FID:29, TEXT:004D] 挟持人质，太卑
-+[FID:29, TEXT:004E] 鄙了吧！？
++[FID:29, TEXT:004C] 
++[FID:29, TEXT:004D] 
++[FID:29, TEXT:004E] 
 
---- Group 43 [right:char_0039 next=2012] ---
+--- Group 60 [right:char_0039 next=2012] ---
 うるせえっ！
 ちょっとでも動いたら
 こいつの・・・
-+[FID:29, TEXT:004F] 吵死了！
-+[FID:29, TEXT:0050] 只要你敢动一下这家伙
-+[FID:29, TEXT:0051] 的……
++[FID:29, TEXT:004F] 
++[FID:29, TEXT:0050] 
++[FID:29, TEXT:0051] 
 
---- Group 44 [right:char_0039 next=2012] ---
+--- Group 61 [right:char_0039 next=2012] ---
 ぎゃっ！
-+[FID:29, TEXT:0052] 哇！
++[FID:29, TEXT:0052] 
 
---- Group 45 [right:主人公 next=0023] ---
-さすがにここまでされ
-たら、黙ってはいられ
-ないな・・・
-+[FID:29, TEXT:0053] 连我都看不下去了，不
-+[FID:29, TEXT:0056] 能再袖手旁观了……
-+[FID:29, TEXT:0057] 
-
---- Group 46 [right:主人公 next=0023] ---
+--- Group 62 [right:主人公 next=0023] ---
 さすがにここまでされ
 たら、黙って見てられ
 ないぜ・・・
--[FID:29, TEXT:0053] 连我都看不下去了，不
-+[FID:29, TEXT:0054] 能再袖手旁观了……
++[FID:29, TEXT:0053] 
++[FID:29, TEXT:0054] 
 +[FID:29, TEXT:0055] 
 
---- Group 47 [right:主人公 next=2012] ---
+--- Group 63 [right:主人公 next=0023] ---
+さすがにここまでされ
+たら、黙ってはいられ
+ないな・・・
+-[FID:29, TEXT:0053] 
++[FID:29, TEXT:0056] 
++[FID:29, TEXT:0057] 
+
+--- Group 64 [right:主人公 next=2012] ---
 ちょっと！
 こんなの卑怯じゃん！
-+[FID:29, TEXT:0058] 喂！
-+[FID:29, TEXT:0059] 这样太犯规了吧！
++[FID:29, TEXT:0058] 
++[FID:29, TEXT:0059] 
 
---- Group 48 [right:主人公 next=0023] ---
+--- Group 65 [right:主人公 next=0023] ---
 黙っているのが
 無理ってもの
 じゃない・・・
-+[FID:29, TEXT:005A] 已经不能
-+[FID:29, TEXT:005B] 保持沉默了
-+[FID:29, TEXT:005C] ……
++[FID:29, TEXT:005A] 
++[FID:29, TEXT:005B] 
++[FID:29, TEXT:005C] 
 
---- Group 49 [right:主人公 next=0023] ---
+--- Group 66 [right:主人公 next=0023] ---
 ・・・だめです
 いくらなんでも
 ほうっておけません！
-+[FID:29, TEXT:005D] ……不行
-+[FID:29, TEXT:005E] 这样实在太过分了
-+[FID:29, TEXT:005F] 不能放着不管！
++[FID:29, TEXT:005D] 
++[FID:29, TEXT:005E] 
++[FID:29, TEXT:005F] 
 
---- Group 50 [left:none next=2012] ---
+--- Group 67 [left:none next=2012] ---
 大丈夫ですか？
-+[FID:29, TEXT:0060] 你没事吧？
++[FID:29, TEXT:0060] 
 
---- Group 51 [right:主人公 next=2012] ---
+--- Group 68 [right:主人公 next=2012] ---
 ひいいいっ！！
-+[FID:29, TEXT:0061] 呀啊啊！！
++[FID:29, TEXT:0061] 
 
---- Group 52 [left:none next=0023] ---
+--- Group 69 [left:none next=0023] ---
 あ・・・
 まあ、あれだけ走れる
 なら大丈夫かな？
-+[FID:29, TEXT:0062] 啊……
-+[FID:29, TEXT:0063] 嘛，能跑那么快的话应
-+[FID:29, TEXT:0064] 该没事吧？
++[FID:29, TEXT:0062] 
++[FID:29, TEXT:0063] 
++[FID:29, TEXT:0064] 
 
---- Group 53 [left:none next=0023] ---
+--- Group 70 [left:none next=0023] ---
 あ・・・
 まあ、あれだけ走れる
 なら大丈夫ですよね
--[FID:29, TEXT:0062] 啊……
--[FID:29, TEXT:0063] 嘛，能跑那么快的话应
-+[FID:29, TEXT:0066] 该没事的吧
+-[FID:29, TEXT:0062] 
+-[FID:29, TEXT:0063] 
++[FID:29, TEXT:0066] 
 
---- Group 54 [left:none next=0023] ---
+--- Group 71 [left:none next=0023] ---
 あ・・・
 まあ、あれだけ走れる
 なら大丈夫だろう
--[FID:29, TEXT:0062] 啊……
--[FID:29, TEXT:0063] 嘛，能跑那么快的话应
-+[FID:29, TEXT:0065] 该没事吧
+-[FID:29, TEXT:0062] 
+-[FID:29, TEXT:0063] 
++[FID:29, TEXT:0065] 
 
---- Group 55 [right:none next=2012] ---
+--- Group 72 [right:none next=2012] ---
 へへへ、助けてもらっ
 ちまったみたいだな
-+[FID:29, TEXT:0067] 嘿嘿，好像被你救了呢
++[FID:29, TEXT:0067] 
 +[FID:29, TEXT:0068] 
 
---- Group 57 [left:主人公 next=0023] ---
+--- Group 74 [left:none next=0023] ---
 助ける必要はなかった
 みたいだけどね
-+[FID:29, TEXT:0069] 好像没必要救呢好像是
-+[FID:29, TEXT:006A] 这样呢
++[FID:29, TEXT:0069] 
++[FID:29, TEXT:006A] 
 
---- Group 59 [left:主人公 next=0023] ---
+--- Group 76 [left:主人公 next=0023] ---
 助ける必要はなかった
 みたいだけど、ね
--[FID:29, TEXT:0069] 好像没必要救呢，不过
-+[FID:29, TEXT:006D] 呢
+-[FID:29, TEXT:0069] 
++[FID:29, TEXT:006D] 
 
---- Group 60 [left:主人公 next=0023] ---
+--- Group 77 [left:主人公 next=0023] ---
 余計なお世話だった
 気もするけどね
-+[FID:29, TEXT:006B] 感觉有点多管闲
-+[FID:29, TEXT:006C] 事了呢
++[FID:29, TEXT:006B] 
++[FID:29, TEXT:006C] 
 
---- Group 61 [left:主人公 next=0023] ---
+--- Group 78 [left:主人公 next=0023] ---
 でも・・・
 助ける必要はなかった
 みたいですね
-+[FID:29, TEXT:006E] 不过……
--[FID:29, TEXT:0069] 好像没必要救呢好像是
-+[FID:29, TEXT:006F] 这样呢
++[FID:29, TEXT:006E] 
+-[FID:29, TEXT:0069] 
++[FID:29, TEXT:006F] 
 
---- Group 62 [right:none next=2012] ---
+--- Group 79 [right:none next=2012] ---
 まあな
 でも、アンタの心意気
 は嬉しかったぜ！
-+[FID:29, TEXT:0070] 是啊
-+[FID:29, TEXT:0071] 不过，你的心意我很高
-+[FID:29, TEXT:0072] 兴啊！
++[FID:29, TEXT:0070] 
++[FID:29, TEXT:0071] 
++[FID:29, TEXT:0072] 
 
---- Group 64 [left:none next=0023] ---
+--- Group 81 [left:主人公 next=0023] ---
 けど、こいつらを敵に
 回したのはまずいよ
 早いとこ、立ち去った
 ほうがいい
-+[FID:29, TEXT:0073] 不过，跟他们为敌可不
-+[FID:29, TEXT:0074] 妙啊
-+[FID:29, TEXT:0075] 最好快点离开这里
++[FID:29, TEXT:0073] 
++[FID:29, TEXT:0074] 
++[FID:29, TEXT:0075] 
 +[FID:29, TEXT:0076] 
 
---- Group 65 [left:主人公 next=0023] ---
+--- Group 83 [left:主人公 next=0023] ---
 けど、こいつらを敵に
 回したのはまずい
 早いとこ、立ち去った
 ほうがいいな
--[FID:29, TEXT:0073] 不过，跟他们为敌可不
-+[FID:29, TEXT:0077] 妙
--[FID:29, TEXT:0075] 最好快点离开这里啊
+-[FID:29, TEXT:0073] 
++[FID:29, TEXT:0077] 
+-[FID:29, TEXT:0075] 
 +[FID:29, TEXT:0078] 
 
---- Group 67 [left:主人公 next=2012] ---
+--- Group 84 [left:主人公 next=2012] ---
 でもさ、この人たちを
 敵に回したのは、ちょ
 っとばかり、まずかっ
 たと思う・・・
-+[FID:29, TEXT:0079] 但是啊，跟这些人为敌
-+[FID:29, TEXT:007A] ，好像有点不妙哦……
-+[FID:29, TEXT:007B] 我觉得……
++[FID:29, TEXT:0079] 
++[FID:29, TEXT:007A] 
++[FID:29, TEXT:007B] 
 +[FID:29, TEXT:007C] 
 
---- Group 68 [left:主人公 next=0023] ---
+--- Group 85 [left:主人公 next=0023] ---
 はやいとこ
 逃げた方がいいよ
-+[FID:29, TEXT:007D] 最好快点
-+[FID:29, TEXT:007E] 逃走哦
++[FID:29, TEXT:007D] 
++[FID:29, TEXT:007E] 
 
---- Group 69 [left:主人公 next=0023] ---
+--- Group 86 [left:主人公 next=0023] ---
 それはいいのですけど
 彼らを敵に回したのは
 よくないですよ・・・
 早く立ち去らないと
-+[FID:29, TEXT:007F] 虽然是这样啦但跟他们
-+[FID:29, TEXT:0080] 为敌是不好的哦……要
-+[FID:29, TEXT:0081] 赶紧离开才行
++[FID:29, TEXT:007F] 
++[FID:29, TEXT:0080] 
++[FID:29, TEXT:0081] 
 +[FID:29, TEXT:0082] 
 
---- Group 70 [right:none next=2012] ---
+--- Group 87 [right:none next=2012] ---
 なんでだ？
 俺っち、これから宿を
 探さなくちゃならねえ
 んだけど・・・
-+[FID:29, TEXT:0083] 为什么啊？
-+[FID:29, TEXT:0084] 我还要去找住处呢……
-+[FID:29, TEXT:0085] 但是……
++[FID:29, TEXT:0083] 
++[FID:29, TEXT:0084] 
++[FID:29, TEXT:0085] 
 -[FID:29, TEXT:0032] 
 
---- Group 72 [left:none next=0023] ---
+--- Group 89 [left:主人公 next=0023] ---
 説明はあとでするから
 とりあえず、俺の言う
 とおりにしてくれよ
-+[FID:29, TEXT:0086] 晚点再解释，所以先听
-+[FID:29, TEXT:0087] 我的话吧
++[FID:29, TEXT:0086] 
++[FID:29, TEXT:0087] 
 +[FID:29, TEXT:0088] 
 
---- Group 73 [left:主人公 next=0023] ---
+--- Group 91 [left:主人公 next=0023] ---
 説明はあとでするから
 とりあえず、ここから
 離れよう
--[FID:29, TEXT:0086] 晚点再解释，所以先从
-+[FID:29, TEXT:0089] 这里离开吧
+-[FID:29, TEXT:0086] 
++[FID:29, TEXT:0089] 
 +[FID:29, TEXT:008A] 
 
---- Group 74 [left:主人公 next=0023] ---
+--- Group 92 [left:主人公 next=0023] ---
 説明はあとでするから
 今はとりあえず
 あたしの言うとおりに
 して、ね
--[FID:29, TEXT:0086] 晚点再解释，所以现在
-+[FID:29, TEXT:008B] 先听
-+[FID:29, TEXT:008C] 我的话，好吗吧，呐
+-[FID:29, TEXT:0086] 
++[FID:29, TEXT:008B] 
++[FID:29, TEXT:008C] 
 +[FID:29, TEXT:008D] 
 
---- Group 76 [left:主人公 next=0023] ---
+--- Group 93 [left:主人公 next=0023] ---
 説明は後回しです
 今は、わたしについて
 きてください
-+[FID:29, TEXT:008E] 晚点再解释
-+[FID:29, TEXT:008F] 现在，请跟我来
++[FID:29, TEXT:008E] 
++[FID:29, TEXT:008F] 
 +[FID:29, TEXT:0090] 
 
---- Group 77 [right:none next=2012] ---
+--- Group 94 [right:none next=2012] ---
 ・・・わかった
-+[FID:29, TEXT:0091] ……知道了
++[FID:29, TEXT:0091] 

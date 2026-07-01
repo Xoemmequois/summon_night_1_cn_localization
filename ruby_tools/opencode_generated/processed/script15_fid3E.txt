@@ -2,360 +2,400 @@
 ・・・ということなん
 だけど、俺はどうした
 らいいんだろう
-+[FID:3E, TEXT:0001] ・・・ということなん
-+[FID:3E, TEXT:0002] だけど、俺はどうした
-+[FID:3E, TEXT:0003] らいいんだろう
++[FID:3E, TEXT:0001] 
++[FID:3E, TEXT:0002] 
++[FID:3E, TEXT:0003] 
 
---- Group 4 [left:主人公 next=0023] ---
+--- Group 3 [left:主人公 next=0023] ---
 ・・・ということなん
 だけど、僕はどうした
 らいいんだろう
--[FID:3E, TEXT:0001] ・・・ということなん
-+[FID:3E, TEXT:0004] だけど、僕はどうした
--[FID:3E, TEXT:0003] らいいんだろう
+-[FID:3E, TEXT:0001] 
++[FID:3E, TEXT:0004] 
+-[FID:3E, TEXT:0003] 
 
 --- Group 5 [left:主人公 next=0023] ---
-・・・ということ
-なんだけどさ・・・
-あたしには、もう
-どうしようもないよ
-+[FID:3E, TEXT:0005] ・・・ということ
-+[FID:3E, TEXT:0006] なんだけどさ・・・
-+[FID:3E, TEXT:0007] あたしには、もう
-+[FID:3E, TEXT:0008] どうしようもないよ
-
---- Group 6 [left:主人公 next=0023] ---
 ・・・ということ
 なんですが・・・
 わたしはどうするべき
 なんでしょうか？
--[FID:3E, TEXT:0005] ・・・ということ
-+[FID:3E, TEXT:0009] なんですが・・・
-+[FID:3E, TEXT:000A] わたしはどうするべき
-+[FID:3E, TEXT:000B] なんでしょうか？
++[FID:3E, TEXT:0005] 
++[FID:3E, TEXT:0009] 
++[FID:3E, TEXT:000A] 
++[FID:3E, TEXT:000B] 
+
+--- Group 6 [left:主人公 next=0023] ---
+・・・ということ
+なんだけどさ・・・
+あたしには、もう
+どうしようもないよ
+-[FID:3E, TEXT:0005] 
++[FID:3E, TEXT:0006] 
++[FID:3E, TEXT:0007] 
++[FID:3E, TEXT:0008] 
 
 --- Group 7 [right:加泽尔 next=2012] ---
 どうもこうもあるか
 そんな無茶な要求
 かなえられるかよ！？
-+[FID:3E, TEXT:000C] どうもこうもあるか
-+[FID:3E, TEXT:000D] そんな無茶な要求
-+[FID:3E, TEXT:000E] かなえられるかよ！？
++[FID:3E, TEXT:000C] 
++[FID:3E, TEXT:000D] 
++[FID:3E, TEXT:000E] 
 
 --- Group 8 [right:艾多斯 next=2012] ---
 しかし、このまま永久
 に奴らとやりあうのも
 困りものだな
-+[FID:3E, TEXT:000F] しかし、このまま永久
-+[FID:3E, TEXT:0010] に奴らとやりあうのも
-+[FID:3E, TEXT:0011] 困りものだな
++[FID:3E, TEXT:000F] 
++[FID:3E, TEXT:0010] 
++[FID:3E, TEXT:0011] 
 
 --- Group 9 [left:主人公 next=0023] ---
 きちんと説明をしたら
-バノッサも納得しては
-くれないかな？
-+[FID:3E, TEXT:0012] きちんと説明をしたら
-+[FID:3E, TEXT:0015] バノッサも納得しては
-+[FID:3E, TEXT:0016] くれないかな？
+バノッサも納得するん
+じゃないかな？
++[FID:3E, TEXT:0012] 
++[FID:3E, TEXT:0013] 
++[FID:3E, TEXT:0014] 
 
 --- Group 10 [left:主人公 next=0023] ---
 きちんと説明をしたら
-バノッサも納得するん
-じゃないかな？
--[FID:3E, TEXT:0012] きちんと説明をしたら
-+[FID:3E, TEXT:0013] バノッサも納得するん
-+[FID:3E, TEXT:0014] じゃないかな？
+バノッサさんは納得
+してくれませんか？
+-[FID:3E, TEXT:0012] 
++[FID:3E, TEXT:001B] 
++[FID:3E, TEXT:001C] 
 
 --- Group 11 [left:主人公 next=0023] ---
 きちんと説明をしたら
-バノッサさんは納得
-してくれませんか？
--[FID:3E, TEXT:0012] きちんと説明をしたら
-+[FID:3E, TEXT:001B] バノッサさんは納得
-+[FID:3E, TEXT:001C] してくれませんか？
+バノッサも納得しては
+くれないかな？
+-[FID:3E, TEXT:0012] 
++[FID:3E, TEXT:0015] 
++[FID:3E, TEXT:0016] 
 
 --- Group 12 [left:主人公 next=2012] ---
 バノッサにもワケを
 説明したら
 わかってもらえるかな
-+[FID:3E, TEXT:0017] バノッサにもワケを
-+[FID:3E, TEXT:0018] 説明したら
-+[FID:3E, TEXT:0019] わかってもらえるかな
++[FID:3E, TEXT:0017] 
++[FID:3E, TEXT:0018] 
++[FID:3E, TEXT:0019] 
 
 --- Group 13 [left:主人公 next=0023] ---
 ・・・ムリ？
-+[FID:3E, TEXT:001A] ・・・ムリ？
++[FID:3E, TEXT:001A] 
 
 --- Group 14 [right:雷德 next=2012] ---
 彼にとって重要なのは
 召喚術が自分のものに
 なるかどうかだ
-+[FID:3E, TEXT:001D] 彼にとって重要なのは
-+[FID:3E, TEXT:001E] 召喚術が自分のものに
-+[FID:3E, TEXT:001F] なるかどうかだ
++[FID:3E, TEXT:001D] 
++[FID:3E, TEXT:001E] 
++[FID:3E, TEXT:001F] 
 
 --- Group 15 [right:雷德 next=2012] ---
 説明をしたところで、
 納得するとは思えない
-+[FID:3E, TEXT:0020] 説明をしたところで、
-+[FID:3E, TEXT:0021] 納得するとは思えない
++[FID:3E, TEXT:0020] 
++[FID:3E, TEXT:0021] 
 
 --- Group 16 [right:艾多斯 next=2012] ---
 むしろお前さんの力を
 ねたんで、より敵意を
 燃やすかもしれんし
-+[FID:3E, TEXT:0022] むしろお前さんの力を
-+[FID:3E, TEXT:0023] ねたんで、より敵意を
-+[FID:3E, TEXT:0024] 燃やすかもしれんし
++[FID:3E, TEXT:0022] 
++[FID:3E, TEXT:0023] 
++[FID:3E, TEXT:0024] 
 
 --- Group 17 [left:主人公 next=0023] ---
 ううっ・・・
-+[FID:3E, TEXT:0025] ううっ・・・
++[FID:3E, TEXT:0025] 
 
 --- Group 18 [left:主人公 next=0023] ---
 そうか・・・
-+[FID:3E, TEXT:0026] そうか・・・
++[FID:3E, TEXT:0026] 
 
 --- Group 19 [left:主人公 next=0023] ---
 あぁもぉ・・・
-+[FID:3E, TEXT:0027] あぁもぉ・・・
++[FID:3E, TEXT:0027] 
 
 --- Group 20 [left:主人公 next=0023] ---
 ・・・
-+[FID:3E, TEXT:0028] ・・・
++[FID:3E, TEXT:0028] 
 
 --- Group 21 [right:加泽尔 next=2012] ---
 そもそも、バノッサの
 野郎はなんで召喚術に
 こだわるんだ？
-+[FID:3E, TEXT:0029] そもそも、バノッサの
-+[FID:3E, TEXT:002A] 野郎はなんで召喚術に
-+[FID:3E, TEXT:002B] こだわるんだ？
++[FID:3E, TEXT:0029] 
++[FID:3E, TEXT:002A] 
++[FID:3E, TEXT:002B] 
 
 --- Group 22 [right:雷德 next=2012] ---
 それはわからないが、
 彼が力に対して異常な
 こだわりを持っている
 ことは間違いないな
-+[FID:3E, TEXT:002C] それはわからないが、
-+[FID:3E, TEXT:002D] 彼が力に対して異常な
-+[FID:3E, TEXT:002E] こだわりを持っている
-+[FID:3E, TEXT:002F] ことは間違いないな
++[FID:3E, TEXT:002C] 
++[FID:3E, TEXT:002D] 
++[FID:3E, TEXT:002E] 
++[FID:3E, TEXT:002F] 
 
 --- Group 23 [right:艾多斯 next=2012] ---
 ・・・・・・
-+[FID:3E, TEXT:0030] ・・・・・・
++[FID:3E, TEXT:0030] 
 
 --- Group 24 [right:雷德 next=2012] ---
 今の状態で結論を出す
 ことは無理だろう
 続きは、またにしよう
-+[FID:3E, TEXT:0031] 今の状態で結論を出す
-+[FID:3E, TEXT:0032] ことは無理だろう
-+[FID:3E, TEXT:0033] 続きは、またにしよう
++[FID:3E, TEXT:0031] 
++[FID:3E, TEXT:0032] 
++[FID:3E, TEXT:0033] 
 
 --- Group 25 [left:主人公 next=2012] ---
 力へのこだわり、か
 たしかに召喚術の力は
 とんでもないものだと
-は思うが・・・
-+[FID:3E, TEXT:0034] 力へのこだわり、か
-+[FID:3E, TEXT:0035] たしかに召喚術の力は
-+[FID:3E, TEXT:0036] とんでもないものだと
-+[FID:3E, TEXT:003D] は思うが・・・
+は思うけど・・・
++[FID:3E, TEXT:0034] 
++[FID:3E, TEXT:0035] 
++[FID:3E, TEXT:0036] 
++[FID:3E, TEXT:0037] 
 
 --- Group 26 [left:主人公 next=2012] ---
 力へのこだわり、か
 たしかに召喚術の力は
 とんでもないものだと
-は思うけど・・・
--[FID:3E, TEXT:0034] 力へのこだわり、か
--[FID:3E, TEXT:0035] たしかに召喚術の力は
--[FID:3E, TEXT:0036] とんでもないものだと
-+[FID:3E, TEXT:0037] は思うけど・・・
+は思うが・・・
+-[FID:3E, TEXT:0034] 
+-[FID:3E, TEXT:0035] 
+-[FID:3E, TEXT:0036] 
++[FID:3E, TEXT:003D] 
 
 --- Group 27 [left:主人公 next=2012] ---
 こだわってまで欲しい
 ものなんだろうか
-+[FID:3E, TEXT:0038] こだわってまで欲しい
-+[FID:3E, TEXT:0039] ものなんだろうか
++[FID:3E, TEXT:0038] 
++[FID:3E, TEXT:0039] 
 
 --- Group 28 [left:主人公 next=0023] ---
+召喚術を手に入れて、
+バノッサはどうする気
+なんだろう？
++[FID:3E, TEXT:003A] 
++[FID:3E, TEXT:003B] 
++[FID:3E, TEXT:003C] 
+
+--- Group 29 [left:主人公 next=0023] ---
 召喚術を手に入れて、
 バノッサさんは、
 どうする気なんで
 しょうか？
-+[FID:3E, TEXT:003A] 召喚術を手に入れて、
-+[FID:3E, TEXT:004A] バノッサさんは、
-+[FID:3E, TEXT:004B] どうする気なんで
-+[FID:3E, TEXT:004C] しょうか？
-
---- Group 29 [left:主人公 next=0023] ---
-召喚術を手に入れて、
-バノッサはどうする気
-なんだろう？
--[FID:3E, TEXT:003A] 召喚術を手に入れて、
-+[FID:3E, TEXT:003B] バノッサはどうする気
-+[FID:3E, TEXT:003C] なんだろう？
+-[FID:3E, TEXT:003A] 
++[FID:3E, TEXT:004A] 
++[FID:3E, TEXT:004B] 
++[FID:3E, TEXT:004C] 
 
 --- Group 30 [left:主人公 next=2012] ---
 力にこだわるバノッサ
 か・・・召喚術の力は
 すごいとは思うけど
-+[FID:3E, TEXT:003E] 力にこだわるバノッサ
-+[FID:3E, TEXT:003F] か・・・召喚術の力は
-+[FID:3E, TEXT:0040] すごいとは思うけど
++[FID:3E, TEXT:003E] 
++[FID:3E, TEXT:003F] 
++[FID:3E, TEXT:0040] 
 
 --- Group 31 [left:主人公 next=2012] ---
 そんなに欲しい
 ものなのかなぁ？
-+[FID:3E, TEXT:0041] そんなに欲しい
-+[FID:3E, TEXT:0042] ものなのかなぁ？
++[FID:3E, TEXT:0041] 
++[FID:3E, TEXT:0042] 
 
 --- Group 32 [left:主人公 next=0023] ---
 召喚術なんかで
 バノッサは何をする気
 なんだろう？
-+[FID:3E, TEXT:0043] 召喚術なんかで
-+[FID:3E, TEXT:0044] バノッサは何をする気
--[FID:3E, TEXT:003C] なんだろう？
++[FID:3E, TEXT:0043] 
++[FID:3E, TEXT:0044] 
+-[FID:3E, TEXT:003C] 
 
 --- Group 33 [left:主人公 next=2012] ---
 力へのこだわり・・・
 たしかに召喚術の力は
 すごいものだと
 思いますけど・・・
-+[FID:3E, TEXT:0045] 力へのこだわり・・・
--[FID:3E, TEXT:0035] たしかに召喚術の力は
-+[FID:3E, TEXT:0046] すごいものだと
-+[FID:3E, TEXT:0047] 思いますけど・・・
++[FID:3E, TEXT:0045] 
+-[FID:3E, TEXT:0035] 
++[FID:3E, TEXT:0046] 
++[FID:3E, TEXT:0047] 
 
 --- Group 34 [left:主人公 next=2012] ---
 そんなにまでして、
 欲しいものでしょうか
-+[FID:3E, TEXT:0048] そんなにまでして、
-+[FID:3E, TEXT:0049] 欲しいものでしょうか
++[FID:3E, TEXT:0048] 
++[FID:3E, TEXT:0049] 
 
 --- Group 35 [right:索尔 next=2012] ---
 手にいれること
 そのものが目的だろ
-+[FID:3E, TEXT:004D] 手にいれること
-+[FID:3E, TEXT:004E] そのものが目的だろ
++[FID:3E, TEXT:004D] 
++[FID:3E, TEXT:004E] 
 
 --- Group 36 [left:主人公 next=0023] ---
 ソル！？
-+[FID:3E, TEXT:004F] ソル！？
++[FID:3E, TEXT:004F] 
 
 --- Group 37 [left:主人公 next=0023] ---
 ソルさん！？
-+[FID:3E, TEXT:0050] ソルさん！？
++[FID:3E, TEXT:0050] 
 
 --- Group 38 [right:索尔 next=2012] ---
 ノックはしたよ、
 返事がなかったんで
 勝手に入った
-+[FID:3E, TEXT:0051] ノックはしたよ、
-+[FID:3E, TEXT:0052] 返事がなかったんで
-+[FID:3E, TEXT:0053] 勝手に入った
++[FID:3E, TEXT:0051] 
++[FID:3E, TEXT:0052] 
++[FID:3E, TEXT:0053] 
 
 --- Group 39 [left:主人公 next=0023] ---
 かまわないけど・・・
 今のはどういう意味だ
-+[FID:3E, TEXT:0054] かまわないけど・・・
-+[FID:3E, TEXT:0055] 今のはどういう意味だ
++[FID:3E, TEXT:0054] 
++[FID:3E, TEXT:0055] 
 
 --- Group 40 [left:主人公 next=0023] ---
 う〜ん、ま、いいケド
 ・・・それよりも
 今のどういう意味？
-+[FID:3E, TEXT:0056] う〜ん、ま、いいケド
-+[FID:3E, TEXT:0057] ・・・それよりも
-+[FID:3E, TEXT:0058] 今のどういう意味？
++[FID:3E, TEXT:0056] 
++[FID:3E, TEXT:0057] 
++[FID:3E, TEXT:0058] 
 
 --- Group 41 [left:主人公 next=0023] ---
 それはいいですけど
 今のはどういう意味
 なんですか？
-+[FID:3E, TEXT:0059] それはいいですけど
-+[FID:3E, TEXT:005A] 今のはどういう意味
-+[FID:3E, TEXT:005B] なんですか？
++[FID:3E, TEXT:0059] 
++[FID:3E, TEXT:005A] 
++[FID:3E, TEXT:005B] 
 
 --- Group 42 [right:索尔 next=2012] ---
 召喚術ってのは使える
 だけで武器になる
 実際に使わなくてもな
-+[FID:3E, TEXT:005C] 召喚術ってのは使える
-+[FID:3E, TEXT:005D] だけで武器になる
-+[FID:3E, TEXT:005E] 実際に使わなくてもな
++[FID:3E, TEXT:005C] 
++[FID:3E, TEXT:005D] 
++[FID:3E, TEXT:005E] 
 
 --- Group 43 [right:索尔 next=2012] ---
 召喚術の絶大な威力は
 あちこちに知れ渡って
 いるからな
-+[FID:3E, TEXT:005F] 召喚術の絶大な威力は
-+[FID:3E, TEXT:0060] あちこちに知れ渡って
-+[FID:3E, TEXT:0061] いるからな
++[FID:3E, TEXT:005F] 
++[FID:3E, TEXT:0060] 
++[FID:3E, TEXT:0061] 
 
 --- Group 44 [left:主人公 next=0023] ---
 使えるだけで、おどし
 になるってことか
-+[FID:3E, TEXT:0062] 使えるだけで、おどし
-+[FID:3E, TEXT:0063] になるってことか
++[FID:3E, TEXT:0062] 
++[FID:3E, TEXT:0063] 
 
 --- Group 45 [left:主人公 next=0023] ---
 つまり、使えるだけで
 相手が勝手に怖がる？
-+[FID:3E, TEXT:0064] つまり、使えるだけで
-+[FID:3E, TEXT:0065] 相手が勝手に怖がる？
++[FID:3E, TEXT:0064] 
++[FID:3E, TEXT:0065] 
 
 --- Group 46 [left:主人公 next=0023] ---
 使えるだけで、
 おどしになる・・・？
-+[FID:3E, TEXT:0066] 使えるだけで、
-+[FID:3E, TEXT:0067] おどしになる・・・？
++[FID:3E, TEXT:0066] 
++[FID:3E, TEXT:0067] 
 
 --- Group 47 [right:索尔 next=2012] ---
 それだけじゃない
-+[FID:3E, TEXT:0068] それだけじゃない
++[FID:3E, TEXT:0068] 
 
 --- Group 48 [right:索尔 next=2012] ---
 召喚術は金にもなる
 権力者に力を貸せば、
 出世なんてお手のもの
 なんだよ
-+[FID:3E, TEXT:0069] 召喚術は金にもなる
-+[FID:3E, TEXT:006A] 権力者に力を貸せば、
-+[FID:3E, TEXT:006B] 出世なんてお手のもの
-+[FID:3E, TEXT:006C] なんだよ
++[FID:3E, TEXT:0069] 
++[FID:3E, TEXT:006A] 
++[FID:3E, TEXT:006B] 
++[FID:3E, TEXT:006C] 
 
 --- Group 49 [right:索尔 next=2012] ---
 この街の召喚師たちも
 そういう奴らだろ
-+[FID:3E, TEXT:006D] この街の召喚師たちも
-+[FID:3E, TEXT:006E] そういう奴らだろ
++[FID:3E, TEXT:006D] 
++[FID:3E, TEXT:006E] 
 
 --- Group 50 [left:主人公 next=0023] ---
 あ・・・
-+[FID:3E, TEXT:006F] あ・・・
++[FID:3E, TEXT:006F] 
 
 --- Group 51 [left:主人公 next=0023] ---
 あ、そういえば・・・
-+[FID:3E, TEXT:0070] あ、そういえば・・・
++[FID:3E, TEXT:0070] 
 
 --- Group 52 [right:索尔 next=2012] ---
 異世界から来た
 お前には難しいかも
 しれないが
-+[FID:3E, TEXT:0071] 異世界から来た
-+[FID:3E, TEXT:0072] お前には難しいかも
-+[FID:3E, TEXT:0073] しれないが
++[FID:3E, TEXT:0071] 
++[FID:3E, TEXT:0072] 
++[FID:3E, TEXT:0073] 
 
 --- Group 53 [right:索尔 next=2012] ---
 お前のその力には
 それだけの価値がある
 それをわかって
 おくことだ
-+[FID:3E, TEXT:0074] お前のその力には
-+[FID:3E, TEXT:0075] それだけの価値がある
-+[FID:3E, TEXT:0076] それをわかって
-+[FID:3E, TEXT:0077] おくことだ
++[FID:3E, TEXT:0074] 
++[FID:3E, TEXT:0075] 
++[FID:3E, TEXT:0076] 
++[FID:3E, TEXT:0077] 
+
+--- Group 54 [right:艾多斯 next=2012] ---
+・・・復讐だろう
++[FID:3E, TEXT:00C2] 
+
+--- Group 55 [left:主人公 next=0023] ---
+エドス！？
++[FID:3E, TEXT:00C3] 
+
+--- Group 56 [left:主人公 next=0023] ---
+エドスさん！？
++[FID:3E, TEXT:00C4] 
+
+--- Group 57 [right:艾多斯 next=2012] ---
+あいつの口癖さ
+「復讐してやる」って
+いつも繰り返しとった
++[FID:3E, TEXT:00C5] 
++[FID:3E, TEXT:00C6] 
++[FID:3E, TEXT:00C7] 
+
+--- Group 58 [right:艾多斯 next=2012] ---
+なにに復讐したいのか
+までは知らんがな
++[FID:3E, TEXT:00C8] 
++[FID:3E, TEXT:00C9] 
+
+--- Group 59 [right:艾多斯 next=2012] ---
+くだらん理由だよな
+本当に・・・
++[FID:3E, TEXT:00CA] 
++[FID:3E, TEXT:00CB] 
+
+--- Group 60 [left:主人公 next=0023] ---
+エドス・・・？
++[FID:3E, TEXT:00CC] 
+
+--- Group 61 [left:主人公 next=0023] ---
+エドスさん・・・
++[FID:3E, TEXT:00CD] 

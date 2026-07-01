@@ -1,441 +1,441 @@
 --- Group 1 [left:主人公 next=0023] ---
 ふう、やっと着いた
-+[FID:33, TEXT:0001] 呼，终于到了
++[FID:33, TEXT:0001] 
 
 --- Group 2 [left:主人公 next=0023] ---
 ああ、やっと着いた
-+[FID:33, TEXT:0002] 啊，终于到了
++[FID:33, TEXT:0002] 
 
 --- Group 3 [right:索尔 next=2012] ---
 じゃあ、調べて
 みるとしますか・・・
-+[FID:33, TEXT:0003] 那么，就来调查
-+[FID:33, TEXT:0004] 一下吧……
++[FID:33, TEXT:0003] 
++[FID:33, TEXT:0004] 
 
 --- Group 4 [left:主人公 next=0023] ---
 なにか手伝えることは
 あるかな？
-+[FID:33, TEXT:0005] 有什么能帮上忙的吗？
++[FID:33, TEXT:0005] 
 +[FID:33, TEXT:0006] 
 
 --- Group 5 [left:主人公 next=0023] ---
 なにか手伝えることは
 ありますか？
--[FID:33, TEXT:0005] 有什么能帮上忙的吗？
+-[FID:33, TEXT:0005] 
 +[FID:33, TEXT:0008] 
 
 --- Group 6 [left:主人公 next=0023] ---
 なんか手伝うこと
 あるかな？
-+[FID:33, TEXT:0007] 有什么能帮上忙的
--[FID:33, TEXT:0006] 吗？
++[FID:33, TEXT:0007] 
+-[FID:33, TEXT:0006] 
 
 --- Group 7 [right:索尔 next=2012] ---
 ないよ
 俺ひとりで充分
-+[FID:33, TEXT:0009] 没有
-+[FID:33, TEXT:000A] 我一个人就够了
++[FID:33, TEXT:0009] 
++[FID:33, TEXT:000A] 
 
 --- Group 8 [left:主人公 next=0023] ---
 そうか・・・
 なら、僕は見張りでも
 してるよ
-+[FID:33, TEXT:000B] 是吗……
-+[FID:33, TEXT:000C] 那，我就去放哨吧
++[FID:33, TEXT:000B] 
++[FID:33, TEXT:000C] 
 +[FID:33, TEXT:000D] 
 
 --- Group 9 [left:主人公 next=0023] ---
 そっか・・・
 じゃ、あたしは
 見張り役ってことで！
-+[FID:33, TEXT:000E] 这样啊……
-+[FID:33, TEXT:000F] 那么，我就负责
-+[FID:33, TEXT:0010] 放哨了！
++[FID:33, TEXT:000E] 
++[FID:33, TEXT:000F] 
++[FID:33, TEXT:0010] 
 
 --- Group 10 [left:主人公 next=0023] ---
 そうですか・・・
 なら、わたしはここで
 待ってますから
-+[FID:33, TEXT:0011] 是这样啊……
-+[FID:33, TEXT:0012] 那么，我就在这里等着
-+[FID:33, TEXT:0013] 了
++[FID:33, TEXT:0011] 
++[FID:33, TEXT:0012] 
++[FID:33, TEXT:0013] 
 
 --- Group 11 [left:主人公 next=2012] ---
 あまり考えたくない
 ことだが・・・
-+[FID:33, TEXT:0030] 虽然不想
-+[FID:33, TEXT:003F] 多想……
++[FID:33, TEXT:0030] 
++[FID:33, TEXT:003F] 
 
 --- Group 12 [left:主人公 next=2012] ---
 あまり考えたくない
 ことだけど・・・
--[FID:33, TEXT:0030] 虽然不想
-+[FID:33, TEXT:0031] 多想……
+-[FID:33, TEXT:0030] 
++[FID:33, TEXT:0031] 
 
 --- Group 13 [left:主人公 next=0023] ---
 ソルは
-+[FID:33, TEXT:0032] 索尔他
++[FID:33, TEXT:0032] 
 
 --- Group 15 [left:主人公 next=2012] ---
 やっぱり、なにかを
 隠してる気がする
-+[FID:33, TEXT:0036] 总觉得，他好像
-+[FID:33, TEXT:0037] 在隐藏着什么
++[FID:33, TEXT:0036] 
++[FID:33, TEXT:0037] 
 
 --- Group 16 [left:主人公 next=2012] ---
 やっぱり、なにかを
 隠してるような・・・
--[FID:33, TEXT:0036] 总觉得，他好像
-+[FID:33, TEXT:0057] 在隐藏着什么……
+-[FID:33, TEXT:0036] 
++[FID:33, TEXT:0057] 
 
 --- Group 17 [left:主人公 next=2012] ---
 だとしたら、さっきの
 剣士に見せた警戒ぶり
 もよくわかる
-+[FID:33, TEXT:0038] 如果是这样的话，之前
-+[FID:33, TEXT:0039] 对那个剑士很好理解了
++[FID:33, TEXT:0038] 
++[FID:33, TEXT:0039] 
 +[FID:33, TEXT:003A] 
 
 --- Group 18 [left:主人公 next=2012] ---
 ・・・でも
-+[FID:33, TEXT:003B] ……但是
++[FID:33, TEXT:003B] 
 
 --- Group 19 [left:主人公 next=0023] ---
 そこまでして隠す必要
 があることって、
 なんなんだろうか？
-+[FID:33, TEXT:003C] 到底有什么事，需要他
-+[FID:33, TEXT:003D] 如此
-+[FID:33, TEXT:0040] 隐藏呢？
++[FID:33, TEXT:003C] 
++[FID:33, TEXT:003D] 
++[FID:33, TEXT:0040] 
 
 --- Group 20 [left:主人公 next=0023] ---
 そこまでして隠す必要
 があることって、
 なんなんだ？
--[FID:33, TEXT:003C] 到底有什么事，需要他
--[FID:33, TEXT:003D] 如此
-+[FID:33, TEXT:003E] 隐藏呢？
+-[FID:33, TEXT:003C] 
+-[FID:33, TEXT:003D] 
++[FID:33, TEXT:003E] 
 
 --- Group 21 [left:主人公 next=2012] ---
 う〜ん・・・
 気のせいだとは
 思うけど・・・
-+[FID:33, TEXT:0041] 嗯……
-+[FID:33, TEXT:0042] 虽然觉得
-+[FID:33, TEXT:0043] 可能是我想多了……
++[FID:33, TEXT:0041] 
++[FID:33, TEXT:0042] 
++[FID:33, TEXT:0043] 
 
 --- Group 22 [left:主人公 next=0023] ---
 ソルってば
-+[FID:33, TEXT:0044] 索尔这家伙
++[FID:33, TEXT:0044] 
 
 --- Group 23 [left:主人公 next=2012] ---
 なんか隠しごとしてる
 ような気がする・・・
-+[FID:33, TEXT:0048] 感觉好像有什么事情瞒
-+[FID:33, TEXT:0049] 着我……
++[FID:33, TEXT:0048] 
++[FID:33, TEXT:0049] 
 
 --- Group 24 [left:主人公 next=2012] ---
 じゃないと
 さっきの剣士の人に
 見せた警戒の意味が
 理解できないし
-+[FID:33, TEXT:004A] 要不然，
-+[FID:33, TEXT:004B] 之前对那位剑士
-+[FID:33, TEXT:004C] 表现出的那种警戒
-+[FID:33, TEXT:004D] 就说不通了
++[FID:33, TEXT:004A] 
++[FID:33, TEXT:004B] 
++[FID:33, TEXT:004C] 
++[FID:33, TEXT:004D] 
 
 --- Group 25 [left:主人公 next=0023] ---
 なにを隠してるんだろ
 ・・・そこまでして
 隠す意味なんて
 あるのかな？
-+[FID:33, TEXT:004E] 他到底在隐藏什么呢…
-+[FID:33, TEXT:004F] …真的有必要
-+[FID:33, TEXT:0050] 如此隐藏吗？
-+[FID:33, TEXT:0051] 值得吗？
++[FID:33, TEXT:004E] 
++[FID:33, TEXT:004F] 
++[FID:33, TEXT:0050] 
++[FID:33, TEXT:0051] 
 
 --- Group 26 [left:主人公 next=2012] ---
 あまり考えたくは
 ありませんが・・・
-+[FID:33, TEXT:0052] 虽然不太想
-+[FID:33, TEXT:0053] 去想……
++[FID:33, TEXT:0052] 
++[FID:33, TEXT:0053] 
 
 --- Group 27 [left:主人公 next=0023] ---
 ソルさんは
-+[FID:33, TEXT:0054] 索尔先生
++[FID:33, TEXT:0054] 
 
 --- Group 29 [left:主人公 next=2012] ---
 そう考えないと
 剣士さんに見せた
 強い警戒心の説明が
 つかない気がします
-+[FID:33, TEXT:0058] 不然的话，
-+[FID:33, TEXT:0059] 就无法解释
-+[FID:33, TEXT:005A] 他对那位剑士
-+[FID:33, TEXT:005B] 表现出的强烈警戒了
++[FID:33, TEXT:0058] 
++[FID:33, TEXT:0059] 
++[FID:33, TEXT:005A] 
++[FID:33, TEXT:005B] 
 
 --- Group 30 [left:主人公 next=0023] ---
 そこまでして隠す
 必要があることって
 あるものでしょうか？
-+[FID:33, TEXT:005C] 到底有什么事，
-+[FID:33, TEXT:005D] 需要如此
-+[FID:33, TEXT:005E] 隐藏呢？
++[FID:33, TEXT:005C] 
++[FID:33, TEXT:005D] 
++[FID:33, TEXT:005E] 
 
 --- Group 31 [right:索尔 next=2012] ---
 悪い！待たせた！
-+[FID:33, TEXT:005F] 抱歉！让你久等了！
++[FID:33, TEXT:005F] 
 
 --- Group 32 [left:主人公 next=0023] ---
 どうだった？
-+[FID:33, TEXT:0060] 怎么样了？
++[FID:33, TEXT:0060] 
 
 --- Group 33 [left:主人公 next=0023] ---
 どうでしたか？
-+[FID:33, TEXT:0061] 怎么样了？
++[FID:33, TEXT:0061] 
 
 --- Group 34 [right:索尔 next=2012] ---
 ダメだ
 俺の知識じゃ限界だ
 ・・・すまないな
-+[FID:33, TEXT:0062] 没用
-+[FID:33, TEXT:0063] 我的知识也到此为止了
-+[FID:33, TEXT:0064] ……抱歉啊
++[FID:33, TEXT:0062] 
++[FID:33, TEXT:0063] 
++[FID:33, TEXT:0064] 
 
 --- Group 35 [left:主人公 next=0023] ---
 いや、いいんだ
-+[FID:33, TEXT:0065] 不，没关系
++[FID:33, TEXT:0065] 
 
 --- Group 36 [left:主人公 next=0023] ---
 おっけ！
 問題なし！
-+[FID:33, TEXT:0066] 好的！
-+[FID:33, TEXT:0067] 没问题！
++[FID:33, TEXT:0066] 
++[FID:33, TEXT:0067] 
 
 --- Group 37 [left:主人公 next=0023] ---
 いえ、いいんです
-+[FID:33, TEXT:0068] 不，没关系
++[FID:33, TEXT:0068] 
 
 --- Group 38 [right:索尔 next=2012] ---
 これからどうする？
-+[FID:33, TEXT:0069] 接下来怎么办？
++[FID:33, TEXT:0069] 
 
 --- Group 39 [left:主人公 next=0023] ---
 少し休んで、それから
 街へ戻りましょう
-+[FID:33, TEXT:006A] 休息一下，然后回城镇
-+[FID:33, TEXT:006F] 吧
++[FID:33, TEXT:006A] 
++[FID:33, TEXT:006F] 
 
 --- Group 40 [left:主人公 next=0023] ---
 少し休んで、それから
 街へ戻ろう
--[FID:33, TEXT:006A] 休息一下，然后回城镇
-+[FID:33, TEXT:006B] 吧
+-[FID:33, TEXT:006A] 
++[FID:33, TEXT:006B] 
 
 --- Group 41 [left:主人公 next=0023] ---
 街へ帰ろ・・・
 でも、その前に
 一休みさせて、ね！
-+[FID:33, TEXT:006C] 回城镇吧……
-+[FID:33, TEXT:006D] 不过，在那之前
-+[FID:33, TEXT:006E] 先休息一下，好吗！
++[FID:33, TEXT:006C] 
++[FID:33, TEXT:006D] 
++[FID:33, TEXT:006E] 
 
 --- Group 42 [left:主人公 next=0023] ---
 ソル？
-+[FID:33, TEXT:0070] 索尔？
++[FID:33, TEXT:0070] 
 
 --- Group 43 [left:主人公 next=0023] ---
 ねえ
-+[FID:33, TEXT:0071] 喂
++[FID:33, TEXT:0071] 
 
 --- Group 44 [left:主人公 next=0023] ---
 あの・・・
-+[FID:33, TEXT:0072] 那个……
++[FID:33, TEXT:0072] 
 
 --- Group 45 [right:索尔 next=2012] ---
 ん？　なんだ？
-+[FID:33, TEXT:0073] 嗯？ 什么事？
++[FID:33, TEXT:0073] 
 
 --- Group 46 [left:主人公 next=2012] ---
 今まで忘れていたこと
 だったんだけど・・・
-+[FID:33, TEXT:0074] 有件事，我之前都忘了
-+[FID:33, TEXT:0075] ……
++[FID:33, TEXT:0074] 
++[FID:33, TEXT:0075] 
 
 --- Group 47 [left:主人公 next=0023] ---
 僕がこの世界に呼ばれ
 た時・・・頭の中に声
 が聞こえたんだ
-+[FID:33, TEXT:0076] 我被召唤到这个世界的
-+[FID:33, TEXT:0077] 时候……脑子里听到了
-+[FID:33, TEXT:0078] 一个声音
++[FID:33, TEXT:0076] 
++[FID:33, TEXT:0077] 
++[FID:33, TEXT:0078] 
 
 --- Group 48 [left:主人公 next=2012] ---
 僕がこの世界に呼ばれ
 てきたのは事故だって
 君は言うけど・・・
--[FID:33, TEXT:0076] 你说我是因为事故才来
-+[FID:33, TEXT:0087] 到这个世界的……
+-[FID:33, TEXT:0076] 
++[FID:33, TEXT:0087] 
 +[FID:33, TEXT:0088] 
 
 --- Group 49 [left:主人公 next=2012] ---
 今まで忘れてたん
 だけどさ・・・
-+[FID:33, TEXT:0079] 我之前都忘了，
-+[FID:33, TEXT:007A] 但是……
++[FID:33, TEXT:0079] 
++[FID:33, TEXT:007A] 
 
 --- Group 50 [left:主人公 next=0023] ---
 あたしがこの世界に
 呼ばれたときね・・・
 声が聞こえたの
-+[FID:33, TEXT:007B] 我被召唤到这个
-+[FID:33, TEXT:007C] 世界的时候啊……脑子
-+[FID:33, TEXT:007D] 里听到了声音
++[FID:33, TEXT:007B] 
++[FID:33, TEXT:007C] 
++[FID:33, TEXT:007D] 
 
 --- Group 51 [left:主人公 next=2012] ---
 今まで忘れていたんで
 すけれど・・・
-+[FID:33, TEXT:007E] 我之前都忘了，但是…
-+[FID:33, TEXT:007F] …
++[FID:33, TEXT:007E] 
++[FID:33, TEXT:007F] 
 
 --- Group 52 [left:主人公 next=0023] ---
 わたしが、この世界に
 来たとき・・・頭の中
 に声が聞こえたんです
-+[FID:33, TEXT:0080] 我来到这个世界的时候
-+[FID:33, TEXT:0081] ……脑子里听到了一个
-+[FID:33, TEXT:0082] 声音
++[FID:33, TEXT:0080] 
++[FID:33, TEXT:0081] 
++[FID:33, TEXT:0082] 
 
 --- Group 53 [right:索尔 next=2012] ---
 なんの声だ？
-+[FID:33, TEXT:0083] 什么声音？
++[FID:33, TEXT:0083] 
 
 --- Group 54 [left:主人公 next=2012] ---
 誰かが、僕に向かって
 「助けてくれ」って、
 呼びかけてきたんだ
-+[FID:33, TEXT:0084] 有人对我“救救我”地
-+[FID:33, TEXT:0085] 呼唤着我
++[FID:33, TEXT:0084] 
++[FID:33, TEXT:0085] 
 +[FID:33, TEXT:0086] 
 
 --- Group 55 [left:主人公 next=2012] ---
 僕はその声の主に関係
 があると思うんだ
-+[FID:33, TEXT:0089] 我觉得，这和我听到的
-+[FID:33, TEXT:008A] 声音有关
++[FID:33, TEXT:0089] 
++[FID:33, TEXT:008A] 
 
 --- Group 56 [left:主人公 next=2012] ---
 その声の主に呼ばれた
 から、僕はここに来た
 んじゃないだろうか
-+[FID:33, TEXT:008B] 我之所以来到这里，是
-+[FID:33, TEXT:008C] 不是因为呼唤的呢
++[FID:33, TEXT:008B] 
++[FID:33, TEXT:008C] 
 +[FID:33, TEXT:008D] 
 
 --- Group 57 [left:主人公 next=0023] ---
 あの時の呼び声
 あれは、あなたじゃ
 なかったんですか？
-+[FID:33, TEXT:008E] 那时候的呼唤声
-+[FID:33, TEXT:00A9] 那，不是你吗？
-+[FID:33, TEXT:00AA] 没有吗？
++[FID:33, TEXT:008E] 
++[FID:33, TEXT:00A9] 
++[FID:33, TEXT:00AA] 
 
 --- Group 58 [left:主人公 next=0023] ---
 あの時の呼び声
 あれは、君だったんじ
 ゃないのか？
--[FID:33, TEXT:008E] 那时候的呼唤声
-+[FID:33, TEXT:008F] 那，不就是你吗？不是
-+[FID:33, TEXT:0090] 吗？
+-[FID:33, TEXT:008E] 
++[FID:33, TEXT:008F] 
++[FID:33, TEXT:0090] 
 
 --- Group 59 [left:主人公 next=2012] ---
 「助けてくれ」って
 いう声・・・だれの声
 だか、わかんないけど
-+[FID:33, TEXT:0091] “救救我”
-+[FID:33, TEXT:0092] 的声音……虽然不知道
-+[FID:33, TEXT:0093] 是谁的声音，但
++[FID:33, TEXT:0091] 
++[FID:33, TEXT:0092] 
++[FID:33, TEXT:0093] 
 
 --- Group 60 [left:主人公 next=2012] ---
 あたし、事故でここ
 に来たってあんたは
 言ったけど・・・
-+[FID:33, TEXT:0094] 你说我是因为
-+[FID:33, TEXT:0095] 事故才来到这里
-+[FID:33, TEXT:0096] 的……
++[FID:33, TEXT:0094] 
++[FID:33, TEXT:0095] 
++[FID:33, TEXT:0096] 
 
 --- Group 61 [left:主人公 next=2012] ---
 なんだか・・・
 違う気がする・・・
-+[FID:33, TEXT:0097] 总觉得……
-+[FID:33, TEXT:0098] 好像不是那样……
++[FID:33, TEXT:0097] 
++[FID:33, TEXT:0098] 
 
 --- Group 62 [left:主人公 next=2012] ---
 その人が、あたしを
 呼んだんじゃない
 かなって・・・
-+[FID:33, TEXT:0099] 我觉得，是那个人
-+[FID:33, TEXT:009A] 呼唤了我
-+[FID:33, TEXT:009B] 吧……
++[FID:33, TEXT:0099] 
++[FID:33, TEXT:009A] 
++[FID:33, TEXT:009B] 
 
 --- Group 63 [left:主人公 next=0023] ---
 あれってさ・・・
 ソルの声に思えて
 仕方がないんだ
-+[FID:33, TEXT:009C] 那时候的声音……
-+[FID:33, TEXT:009D] 怎么听都觉得
-+[FID:33, TEXT:009E] 像是索尔的声音
++[FID:33, TEXT:009C] 
++[FID:33, TEXT:009D] 
++[FID:33, TEXT:009E] 
 
 --- Group 64 [left:主人公 next=2012] ---
 誰かが、わたしに
 「助けてくれ」って、
 呼びかけてきたんです
-+[FID:33, TEXT:009F] 有人对我
--[FID:33, TEXT:0085] “救救我”地呼唤着我
++[FID:33, TEXT:009F] 
+-[FID:33, TEXT:0085] 
 +[FID:33, TEXT:00A0] 
 
 --- Group 65 [left:主人公 next=2012] ---
 わたしがこの世界に
 呼ばれてきたのは事故
 だと言いましたが
-+[FID:33, TEXT:00A1] 我说我是因为
-+[FID:33, TEXT:00A2] 事故才来到这个世界的
-+[FID:33, TEXT:00A3] ……
++[FID:33, TEXT:00A1] 
++[FID:33, TEXT:00A2] 
++[FID:33, TEXT:00A3] 
 
 --- Group 66 [left:主人公 next=2012] ---
 わたし、違う気が
 するんです・・・
-+[FID:33, TEXT:00A4] 我觉得，
-+[FID:33, TEXT:00A5] 好像不是那样……
++[FID:33, TEXT:00A4] 
++[FID:33, TEXT:00A5] 
 
 --- Group 67 [left:主人公 next=2012] ---
 その声の主が、わたし
 を、ここに呼んだんだ
 と思うんです
-+[FID:33, TEXT:00A6] 我觉得，是那个声音的
-+[FID:33, TEXT:00A7] 主人，把我呼唤到这里
-+[FID:33, TEXT:00A8] 的
++[FID:33, TEXT:00A6] 
++[FID:33, TEXT:00A7] 
++[FID:33, TEXT:00A8] 
 
 --- Group 68 [right:索尔 next=2012] ---
 ・・・なんで
 そう思う？
-+[FID:33, TEXT:00AB] ……为什么
-+[FID:33, TEXT:00AC] 你这么觉得？
++[FID:33, TEXT:00AB] 
++[FID:33, TEXT:00AC] 
 
 --- Group 69 [left:主人公 next=0023] ---
 証明できるものは
 なにもないけど・・・
 でも、そんな気がして
 仕方がないんだ
-+[FID:33, TEXT:00AD] 虽然没有什么
-+[FID:33, TEXT:00AE] 能证明什么……但我就
-+[FID:33, TEXT:00AF] 是这么觉得无法停止
++[FID:33, TEXT:00AD] 
++[FID:33, TEXT:00AE] 
++[FID:33, TEXT:00AF] 
 -[FID:33, TEXT:009E] 
 
 --- Group 70 [left:主人公 next=0023] ---
 オンナのカンってやつ
 ・・・かな？
-+[FID:33, TEXT:00B0] 女人的直觉……吧？
++[FID:33, TEXT:00B0] 
 +[FID:33, TEXT:00B1] 
 
 --- Group 71 [left:主人公 next=0023] ---
@@ -443,450 +443,449 @@
 でも・・・
 そんな気がして
 仕方がないんです
-+[FID:33, TEXT:00B2] 虽然没有确证
-+[FID:33, TEXT:00B3] 但是……
-+[FID:33, TEXT:00B4] 我就是这么觉得
-+[FID:33, TEXT:00B5] 无法停止
++[FID:33, TEXT:00B2] 
++[FID:33, TEXT:00B3] 
++[FID:33, TEXT:00B4] 
++[FID:33, TEXT:00B5] 
 
 --- Group 72 [right:索尔 next=2012] ---
 でも・・・
 今じゃ確信してるよ
--[FID:33, TEXT:00B3] 但是……
-+[FID:33, TEXT:01FB] 现在我确信了
+-[FID:33, TEXT:00B3] 
++[FID:33, TEXT:01FB] 
 
 --- Group 73 [right:索尔 next=2012] ---
 ・・・・・・
-+[FID:33, TEXT:00B6] ………
++[FID:33, TEXT:00B6] 
 
 --- Group 75 [left:主人公 next=0023] ---
 あれっきり、
-+[FID:33, TEXT:0140] 从那之后，
++[FID:33, TEXT:0140] 
 
 --- Group 76 [left:主人公 next=2012] ---
 黙ったままだ
-+[FID:33, TEXT:0141] 就一直沉默着
++[FID:33, TEXT:0141] 
 
 --- Group 77 [left:主人公 next=2012] ---
 やっぱり、このまま
 じゃよくないよ
-+[FID:33, TEXT:0142] 果然，这样下去
-+[FID:33, TEXT:0143] 不好
++[FID:33, TEXT:0142] 
++[FID:33, TEXT:0143] 
 
 --- Group 78 [left:主人公 next=2012] ---
 ちょっと不安だけど、
 はっきりさせよう！
-+[FID:33, TEXT:0144] 虽然有点不安，但还是
-+[FID:33, TEXT:0145] 弄清楚吧！
++[FID:33, TEXT:0144] 
++[FID:33, TEXT:0145] 
 
 --- Group 80 [left:主人公 next=2012] ---
 このままじゃいけない
 気がする
-+[FID:33, TEXT:0146] 感觉不能这样下去了
++[FID:33, TEXT:0146] 
 +[FID:33, TEXT:0147] 
 
 --- Group 81 [left:主人公 next=0023] ---
 はっきりさせなくちゃ
-+[FID:33, TEXT:0148] 必须弄个明白
++[FID:33, TEXT:0148] 
 
 --- Group 82 [left:主人公 next=2012] ---
 なんにも話して
 くれない・・・
-+[FID:33, TEXT:0149] 什么都不说
-+[FID:33, TEXT:014A] ...
++[FID:33, TEXT:0149] 
++[FID:33, TEXT:014A] 
 
 --- Group 83 [left:主人公 next=2012] ---
 やっぱり、このままじ
 ゃよくないよね
-+[FID:33, TEXT:014B] 果然，这样下去不好呢
++[FID:33, TEXT:014B] 
 +[FID:33, TEXT:014C] 
 
 --- Group 84 [left:主人公 next=0023] ---
 うん、決めた！
-+[FID:33, TEXT:014D] 嗯，决定了！
++[FID:33, TEXT:014D] 
 
 --- Group 85 [left:主人公 next=2012] ---
 黙ったまま・・・
-+[FID:33, TEXT:014E] 一直沉默着...
++[FID:33, TEXT:014E] 
 
 --- Group 86 [left:主人公 next=2012] ---
 やっぱり、こんなこと
 繰り返していては
 だめです
-+[FID:33, TEXT:014F] 果然，这样反复下去不
-+[FID:33, TEXT:0150] 行
++[FID:33, TEXT:014F] 
++[FID:33, TEXT:0150] 
 +[FID:33, TEXT:0151] 
 
 --- Group 87 [left:主人公 next=0023] ---
 ちょっと不安ですが、
 はっきりさせる
 べきですよね・・・
-+[FID:33, TEXT:0152] 虽然有点不安，但还是
-+[FID:33, TEXT:0153] 应该
-+[FID:33, TEXT:0154] 应该……对吧……
++[FID:33, TEXT:0152] 
++[FID:33, TEXT:0153] 
++[FID:33, TEXT:0154] 
 
 --- Group 88 [left:主人公 next=0023] ---
 ソル
 ねえ、ホントのこと
 教えてほしい・・・
-+[FID:33, TEXT:0155] 索尔
-+[FID:33, TEXT:0158] 呐，请把事实
-+[FID:33, TEXT:0159] 告诉我吧……
++[FID:33, TEXT:0155] 
++[FID:33, TEXT:0158] 
++[FID:33, TEXT:0159] 
 
 --- Group 89 [left:主人公 next=0023] ---
 ソル
 本当のことを
 教えてくれないか？
--[FID:33, TEXT:0155] 索尔
-+[FID:33, TEXT:0156] 把事实
-+[FID:33, TEXT:0157] 告诉我好吗？
+-[FID:33, TEXT:0155] 
++[FID:33, TEXT:0156] 
++[FID:33, TEXT:0157] 
 
 --- Group 90 [left:主人公 next=0023] ---
 ソルさん
 本当のことを教えて
 くださいませんか？
-+[FID:33, TEXT:015A] 索尔先生
-+[FID:33, TEXT:015B] 请把事实告诉我
-+[FID:33, TEXT:015C] 可以吗？
++[FID:33, TEXT:015A] 
++[FID:33, TEXT:015B] 
++[FID:33, TEXT:015C] 
 
 --- Group 91 [right:索尔 next=2012] ---
 ・・・・・
-+[FID:33, TEXT:015D] ………
++[FID:33, TEXT:015D] 
 
 --- Group 92 [left:主人公 next=2012] ---
 あの時、あの場所に
 あなたがいたことも
-+[FID:33, TEXT:015E] 那时，在那个地方
-+[FID:33, TEXT:0167] 你也在那里这件事
++[FID:33, TEXT:015E] 
++[FID:33, TEXT:0167] 
 
 --- Group 93 [left:主人公 next=2012] ---
 あの時、あの場所に
 君がいたことが
--[FID:33, TEXT:015E] 那时，在那个地方
-+[FID:33, TEXT:015F] 你在那里这件事
+-[FID:33, TEXT:015E] 
++[FID:33, TEXT:015F] 
 
 --- Group 94 [left:主人公 next=0023] ---
 僕にはどうしても偶然
 だとは思えないんだ
-+[FID:33, TEXT:0160] 我无论如何都觉得不是
-+[FID:33, TEXT:0161] 偶然
--[FID:33, TEXT:0161] 我不觉得是这样
++[FID:33, TEXT:0160] 
++[FID:33, TEXT:0161] 
 
 --- Group 95 [left:主人公 next=2012] ---
 あの時さ・・・あなた
 があそこにいたこと
 がね・・・
-+[FID:33, TEXT:0162] 那时……你在那里这件
-+[FID:33, TEXT:0163] 事
-+[FID:33, TEXT:0164] 呢……
++[FID:33, TEXT:0162] 
++[FID:33, TEXT:0163] 
++[FID:33, TEXT:0164] 
 
 --- Group 96 [left:主人公 next=0023] ---
 あたしには偶然だ
 なんて思えないの
-+[FID:33, TEXT:0165] 我觉得不是偶然
-+[FID:33, TEXT:0166] 我不这么想哦
++[FID:33, TEXT:0165] 
++[FID:33, TEXT:0166] 
 
 --- Group 97 [left:主人公 next=0023] ---
 わたしには偶然だと
 思えないんです
-+[FID:33, TEXT:0168] 我觉得不是偶然
-+[FID:33, TEXT:0169] 我不这么认为
++[FID:33, TEXT:0168] 
++[FID:33, TEXT:0169] 
 
 --- Group 98 [right:索尔 next=2012] ---
 まだ疑ってるのか？
 俺のこと・・・！
-+[FID:33, TEXT:016A] 还在怀疑我吗？
-+[FID:33, TEXT:016B] 我……！
++[FID:33, TEXT:016A] 
++[FID:33, TEXT:016B] 
 
 --- Group 99 [right:索尔 next=2012] ---
 証拠は！？
 証拠はあるのかよ！？
-+[FID:33, TEXT:016C] 证据！？
-+[FID:33, TEXT:016D] 有证据吗！？
++[FID:33, TEXT:016C] 
++[FID:33, TEXT:016D] 
 
 --- Group 100 [left:主人公 next=2012] ---
 ・・・ある
-+[FID:33, TEXT:016E] ……有
++[FID:33, TEXT:016E] 
 
 --- Group 101 [left:主人公 next=0023] ---
 証拠は・・・君が最初
 から僕の名前を知って
 いたってことだ
-+[FID:33, TEXT:016F] 证据就是……你一开始
-+[FID:33, TEXT:0170] 就知道我的名字这件事
++[FID:33, TEXT:016F] 
++[FID:33, TEXT:0170] 
 +[FID:33, TEXT:0171] 
 
 --- Group 102 [left:主人公 next=2012] ---
 ・・・あるよ
-+[FID:33, TEXT:0172] ……有哦
++[FID:33, TEXT:0172] 
 
 --- Group 103 [left:主人公 next=0023] ---
 だって、はじめっから
 あたしの名前を知って
 たじゃない・・・
-+[FID:33, TEXT:0173] 因为，从一开始你就知
-+[FID:33, TEXT:0174] 道我的名字了嘛……
++[FID:33, TEXT:0173] 
++[FID:33, TEXT:0174] 
 +[FID:33, TEXT:0175] 
 
 --- Group 104 [left:主人公 next=2012] ---
 ・・・はい
-+[FID:33, TEXT:0176] ……嗯
++[FID:33, TEXT:0176] 
 
 --- Group 105 [left:主人公 next=0023] ---
 証拠は・・・
 あなたが、はじめから
 わたしの名前を
 知っていたこと・・
-+[FID:33, TEXT:0177] 证据是……
-+[FID:33, TEXT:0178] 你，从一开始就知道我
-+[FID:33, TEXT:0179] 的名字
-+[FID:33, TEXT:017A] 这件事……
++[FID:33, TEXT:0177] 
++[FID:33, TEXT:0178] 
++[FID:33, TEXT:0179] 
++[FID:33, TEXT:017A] 
 
 --- Group 106 [left:主人公 next=2012] ---
 ！！
-+[FID:33, TEXT:017B] ！！
++[FID:33, TEXT:017B] 
 
 --- Group 108 [left:主人公 next=2012] ---
 それだけじゃない
 君は他にも、知らない
 はずのことをいくつも
 知っていた
-+[FID:33, TEXT:017C] 不止如此
-+[FID:33, TEXT:017D] 你还知道很多不该知道
-+[FID:33, TEXT:017E] 的事情我知道
++[FID:33, TEXT:017C] 
++[FID:33, TEXT:017D] 
++[FID:33, TEXT:017E] 
 +[FID:33, TEXT:017F] 
 
 --- Group 109 [left:主人公 next=2012] ---
 まるで、ずっと見張っ
 ていたみたいに・・・
-+[FID:33, TEXT:0180] 就像，一直监视着我一
-+[FID:33, TEXT:0181] 样……
++[FID:33, TEXT:0180] 
++[FID:33, TEXT:0181] 
 
 --- Group 110 [left:主人公 next=0023] ---
 違うかい？
-+[FID:33, TEXT:0182] 不是吗？
++[FID:33, TEXT:0182] 
 
 --- Group 111 [left:主人公 next=2012] ---
 あなたが知ってたのは
 あたしの名前だけじゃ
 ない。知らないはずの
 ことをいっぱい・・
-+[FID:33, TEXT:0183] 你知道的不止我的名字
-+[FID:33, TEXT:0184] 还知道很多不该知道的
-+[FID:33, TEXT:0185] 事情……
++[FID:33, TEXT:0183] 
++[FID:33, TEXT:0184] 
++[FID:33, TEXT:0185] 
 +[FID:33, TEXT:0186] 
 
 --- Group 112 [left:主人公 next=0023] ---
 違う？
-+[FID:33, TEXT:0187] 不是吗？
++[FID:33, TEXT:0187] 
 
 --- Group 113 [left:主人公 next=2012] ---
 しらないはずの
 ことを・・・あなたは
 いくつも知って
 いました・・・
-+[FID:33, TEXT:0188] 不该知道的
-+[FID:33, TEXT:0189] 事情……你知道很多…
-+[FID:33, TEXT:018A] …
++[FID:33, TEXT:0188] 
++[FID:33, TEXT:0189] 
++[FID:33, TEXT:018A] 
 +[FID:33, TEXT:018B] 
 
 --- Group 114 [left:主人公 next=2012] ---
 まるで、ずっと見て
 いたみたいに・・・
-+[FID:33, TEXT:018C] 就像，一直看着
-+[FID:33, TEXT:018D] 我一样……
++[FID:33, TEXT:018C] 
++[FID:33, TEXT:018D] 
 
 --- Group 115 [left:主人公 next=0023] ---
 違いますか？
-+[FID:33, TEXT:018E] 不是吗？
++[FID:33, TEXT:018E] 
 
 --- Group 116 [right:索尔 next=2012] ---
 ・・・ばれたか
-+[FID:33, TEXT:018F] ……被发现了啊
++[FID:33, TEXT:018F] 
 
 --- Group 117 [right:索尔 next=2012] ---
 あの時、あの場所に俺
 がいたのは偶然なんか
 じゃないんだよ
-+[FID:33, TEXT:0190] 那时，我在那个地方不
-+[FID:33, TEXT:0191] 是偶然的不是这样的啦
++[FID:33, TEXT:0190] 
++[FID:33, TEXT:0191] 
 +[FID:33, TEXT:0192] 
 
 --- Group 118 [right:索尔 next=2012] ---
 お前たちの後をつけて
 いたのさ・・・
-+[FID:33, TEXT:0193] 我是跟踪你们来的……
++[FID:33, TEXT:0193] 
 +[FID:33, TEXT:0194] 
 
 --- Group 119 [left:主人公 next=0023] ---
 どうして
 そんなこと？
-+[FID:33, TEXT:01E0] 为什么
-+[FID:33, TEXT:01E2] 要那样做？
++[FID:33, TEXT:01E0] 
++[FID:33, TEXT:01E2] 
 
 --- Group 120 [left:主人公 next=0023] ---
 どうして
 そんなことを！？
--[FID:33, TEXT:01E0] 为什么
-+[FID:33, TEXT:01E1] 要做那种事！？
+-[FID:33, TEXT:01E0] 
++[FID:33, TEXT:01E1] 
 
 --- Group 121 [left:主人公 next=0023] ---
 どうして
 そんなことを・・・
--[FID:33, TEXT:01E0] 为什么
-+[FID:33, TEXT:01E3] 要做那种事……
+-[FID:33, TEXT:01E0] 
++[FID:33, TEXT:01E3] 
 
 --- Group 122 [right:索尔 next=2012] ---
 確かめる必要があった
 からさ
-+[FID:33, TEXT:01E4] 因为有必要确认一下
++[FID:33, TEXT:01E4] 
 +[FID:33, TEXT:01E5] 
 
 --- Group 123 [right:索尔 next=2012] ---
 予期せぬ事故で呼ばれ
 たお前が危険な存在で
 ないかどうかをね
-+[FID:33, TEXT:01E6] 你们是不是危险的存在
-+[FID:33, TEXT:01E7] 呢
++[FID:33, TEXT:01E6] 
++[FID:33, TEXT:01E7] 
 +[FID:33, TEXT:01E8] 
 
 --- Group 124 [right:索尔 next=2012] ---
 あの儀式の生き残りと
 して、俺にはそうする
 義務があった
-+[FID:33, TEXT:01E9] 作为那个仪式的生还者
-+[FID:33, TEXT:01EA] ，我有义务这样做
++[FID:33, TEXT:01E9] 
++[FID:33, TEXT:01EA] 
 +[FID:33, TEXT:01EB] 
 
 --- Group 125 [right:索尔 next=2012] ---
 必要なら、お前を
 処分するつもりだった
-+[FID:33, TEXT:01EC] 如果有必要，我
-+[FID:33, TEXT:01ED] 打算处理掉你
++[FID:33, TEXT:01EC] 
++[FID:33, TEXT:01ED] 
 
 --- Group 126 [right:索尔 next=2012] ---
 誰に教わることも
 なく【召喚術】を
 使ってみせた
-+[FID:33, TEXT:01EE] 没有任何人教我
-+[FID:33, TEXT:01EF] 就使用了【召唤术】
-+[FID:33, TEXT:01F0] 我会让你见识一下
++[FID:33, TEXT:01EE] 
++[FID:33, TEXT:01EF] 
++[FID:33, TEXT:01F0] 
 
 --- Group 127 [right:索尔 next=2012] ---
 お前を・・・
 危険だと判断して
 消すには充分な
 理由だろ？
-+[FID:33, TEXT:01F1] 我……
-+[FID:33, TEXT:01F2] 判断你为危险
-+[FID:33, TEXT:01F3] 而要消灭你
-+[FID:33, TEXT:01F4] 是充分的理由吧？
++[FID:33, TEXT:01F1] 
++[FID:33, TEXT:01F2] 
++[FID:33, TEXT:01F3] 
++[FID:33, TEXT:01F4] 
 
 --- Group 128 [right:索尔 next=2012] ---
 でもさ・・・
-+[FID:33, TEXT:01F5] 但是啊……
++[FID:33, TEXT:01F5] 
 
 --- Group 129 [left:主人公 next=2012] ---
 でも？
-+[FID:33, TEXT:01F6] 但是？
++[FID:33, TEXT:01F6] 
 
 --- Group 130 [right:索尔 next=2012] ---
 だめだな、
 俺にはどうしても
 お前が危険な存在
 だと思えなかった
-+[FID:33, TEXT:01F7] 不行啊，
-+[FID:33, TEXT:01F8] 我无论如何都
-+[FID:33, TEXT:01F9] 无法认为你
-+[FID:33, TEXT:01FA] 是危险的存在
++[FID:33, TEXT:01F7] 
++[FID:33, TEXT:01F8] 
++[FID:33, TEXT:01F9] 
++[FID:33, TEXT:01FA] 
 
 --- Group 131 [right:索尔 next=2012] ---
 その力は危険だけど、
 お前は危険でも
 なんでもない
-+[FID:33, TEXT:01FC] 那个力量很危险，但你
-+[FID:33, TEXT:01FD] 并不是危险的
++[FID:33, TEXT:01FC] 
++[FID:33, TEXT:01FD] 
 +[FID:33, TEXT:01FE] 
 
 --- Group 132 [left:主人公 next=0023] ---
 ソル・・・
-+[FID:33, TEXT:01FF] 索尔……
++[FID:33, TEXT:01FF] 
 
 --- Group 133 [left:主人公 next=0023] ---
 ソルさん・・・
-+[FID:33, TEXT:0200] 索尔先生……
++[FID:33, TEXT:0200] 
 
 --- Group 134 [right:索尔 next=2012] ---
 だから俺は決めた
 巻きこんでしまった
 お前を必ず元の世界へ
 帰すってね・・・
-+[FID:33, TEXT:0201] 所以我决定了
-+[FID:33, TEXT:0202] 一定会把你
-+[FID:33, TEXT:0203] 卷进来的你，送回原来
-+[FID:33, TEXT:0204] 的世界……
++[FID:33, TEXT:0201] 
++[FID:33, TEXT:0202] 
++[FID:33, TEXT:0203] 
++[FID:33, TEXT:0204] 
 
 --- Group 135 [right:索尔 next=2012] ---
 信じてくれ
 これが全てだ
-+[FID:33, TEXT:0205] 相信我
-+[FID:33, TEXT:0206] 这就是全部了
++[FID:33, TEXT:0205] 
++[FID:33, TEXT:0206] 
 
 --- Group 136 [right:索尔 next=0023] ---
 どうしよう？
-+[FID:33, TEXT:0207] 怎么办？
++[FID:33, TEXT:0207] 
 
 --- Group 137 [right:索尔 next=0023] ---
 　信じるよ
 　そんな・・・
-+[FID:33, TEXT:0208] 　我相信
-+[FID:33, TEXT:0209] 　怎么会……
++[FID:33, TEXT:0208] 
++[FID:33, TEXT:0209] 
 
 --- Group 138 [right:索尔 next=0023] ---
 　信じます
 　そんな・・・
-+[FID:33, TEXT:020A] 　我相信
--[FID:33, TEXT:0209] 　怎么会……
++[FID:33, TEXT:020A] 
+-[FID:33, TEXT:0209] 
 
 --- Group 139 [left:主人公 next=2012] ---
 知らなかった
 俺がそんな立場に
 いたなんて・・・
-+[FID:33, TEXT:0261] 我不知道
-+[FID:33, TEXT:0262] 我竟然
-+[FID:33, TEXT:0263] 处于那种立场……
++[FID:33, TEXT:0261] 
++[FID:33, TEXT:0262] 
++[FID:33, TEXT:0263] 
 
 --- Group 140 [left:主人公 next=2012] ---
 知らなかった
 僕がそんな立場にいた
 なんて・・・
--[FID:33, TEXT:0261] 我不知道
-+[FID:33, TEXT:0265] 我竟然处于那种立场…
-+[FID:33, TEXT:0266] …
+-[FID:33, TEXT:0261] 
++[FID:33, TEXT:0265] 
++[FID:33, TEXT:0266] 
 
 --- Group 141 [left:主人公 next=0023] ---
 ・・・っ！？
-+[FID:33, TEXT:0264] ……！？
++[FID:33, TEXT:0264] 
 
 --- Group 142 [left:主人公 next=2012] ---
 知らなかった・・・
 あたし・・・
 そんな状況に
 置かれてたなんて
-+[FID:33, TEXT:0267] 我不知道……
-+[FID:33, TEXT:0268] 我……
-+[FID:33, TEXT:0269] 竟然处于
-+[FID:33, TEXT:026A] 那种状况……
++[FID:33, TEXT:0267] 
++[FID:33, TEXT:0268] 
++[FID:33, TEXT:0269] 
++[FID:33, TEXT:026A] 
 
 --- Group 143 [left:主人公 next=2012] ---
 なにも知らなかったん
 ですね・・・
 わたし、自分の立場も
 なにも・・・
-+[FID:33, TEXT:026B] 什么都不知道呢……我
-+[FID:33, TEXT:026C] 自己的立场
-+[FID:33, TEXT:026D] 什么的……
++[FID:33, TEXT:026B] 
++[FID:33, TEXT:026C] 
++[FID:33, TEXT:026D] 
 +[FID:33, TEXT:026E] 
 
 --- Group 144 [left:主人公 next=0023] ---
 ・・・？？
-+[FID:33, TEXT:026F] ……？？
++[FID:33, TEXT:026F] 
