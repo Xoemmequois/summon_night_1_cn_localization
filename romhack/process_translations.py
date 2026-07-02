@@ -77,36 +77,30 @@ def process_texts(orig_texts, trans_texts):
 
 def load_g_translations(path):
     results = []
-    cur_refs = []
+    cur_ids = set()
     cur_map = {}
     cur_header = None
-    in_refs = True
     is_g = False
 
     for line in path.read_text(encoding="utf-8").split("\n"):
         if line.startswith("--- Group "):
             if cur_header is not None and is_g:
-                results.append((tuple(cur_refs), cur_header, cur_map))
+                results.append((cur_ids, cur_header, cur_map))
             cur_header = line
-            cur_refs = []
+            cur_ids = set()
             cur_map = {}
             is_g = line.rstrip().endswith("G")
-            in_refs = True
         elif is_g:
-            if in_refs:
-                tm = re.match(r"^[+-](\[FID:[^\]]+\]) (.*)", line)
-                if tm:
-                    in_refs = False
-                    cur_map[tm.group(1)] = tm.group(2)
-                else:
-                    cur_refs.append(line)
-            else:
-                tm = re.match(r"^[+-](\[FID:[^\]]+\]) (.*)", line)
-                if tm:
-                    cur_map[tm.group(1)] = tm.group(2)
+            tm = re.match(r"^[+-](\[FID:[^\]]+\]) (.*)", line)
+            if tm:
+                tag = tm.group(1)
+                cur_map[tag] = tm.group(2)
+                m = re.search(r"TEXT:([0-9A-Fa-f]+)", tag)
+                if m:
+                    cur_ids.add(m.group(1))
 
     if cur_header is not None and is_g:
-        results.append((tuple(cur_refs), cur_header, cur_map))
+        results.append((cur_ids, cur_header, cur_map))
     return results
 
 
@@ -174,21 +168,20 @@ def process_file(orig_path, out_path, char_map):
 
         blocks.append(block)
 
-    # SECOND PASS: override G-groups with preserved translations, matched by reference texts
+    # SECOND PASS: override G-groups with preserved translations, matched by TEXT IDs
     if preserved:
         used = set()
         for block in blocks:
-            ref_texts = []
-            for ln in block[1:]:
-                if re.match(r"^[+-](\[FID:[^\]]+\])", ln):
-                    break
-                ref_texts.append(ln)
-            ref_key = tuple(ref_texts)
+            block_ids = set()
+            for ln in block:
+                m = re.match(r"^[+-]\[FID:[0-9A-F]+, TEXT:([0-9A-Fa-f]+)\]", ln)
+                if m:
+                    block_ids.add(m.group(1))
 
-            for pi, (pref_texts, pheader, pmap) in enumerate(preserved):
+            for pi, (pref_ids, pheader, pmap) in enumerate(preserved):
                 if pi in used:
                     continue
-                if ref_key == pref_texts:
+                if block_ids == pref_ids:
                     used.add(pi)
                     if not block[0].rstrip().endswith("G"):
                         block[0] = block[0].rstrip() + "G"
@@ -211,8 +204,8 @@ def process_file(orig_path, out_path, char_map):
     for block in filtered:
         i = 1
         while i < len(block) - 1:
-            cur_m = re.match(r"^[+-]\[FID:\d+, TEXT:([0-9A-Fa-f]+)\]", block[i])
-            next_m = re.match(r"^[+-]\[FID:\d+, TEXT:([0-9A-Fa-f]+)\]", block[i + 1])
+            cur_m = re.match(r"^[+-]\[FID:[0-9A-F]+, TEXT:([0-9A-Fa-f]+)\]", block[i])
+            next_m = re.match(r"^[+-]\[FID:[0-9A-F]+, TEXT:([0-9A-Fa-f]+)\]", block[i + 1])
             if cur_m and next_m and cur_m.group(1) == next_m.group(1) and cur_m.group(1) != "0000":
                 block.pop(i + 1)
             else:

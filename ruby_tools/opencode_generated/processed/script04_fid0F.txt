@@ -130,13 +130,13 @@
 +[FID:0F, TEXT:002E] 总感觉是个
 +[FID:0F, TEXT:002F] 很有大人氛围的地方啊
 
---- Group 21 [left:主人公 next=2012] ---G
+--- Group 23 [left:主人公 next=2012] ---G
 なんかいかにも雰囲気
 がオトナな場所ね
 -[FID:0F, TEXT:002E] 总感觉是个
 +[FID:0F, TEXT:0036] 很有大人氛围的地方呢
 
---- Group 23 [left:主人公 next=0023] ---G
+--- Group 26 [left:主人公 next=0023] ---G
 酒場や食べ物屋の看板
 が並んでるってことは
 盛り場だな・・・
@@ -144,23 +144,23 @@
 +[FID:0F, TEXT:0031] 排成一排，看来是
 +[FID:0F, TEXT:0032] 闹市区啊……
 
---- Group 25 [left:主人公 next=0023] ---G
-うわぁ・・・
-なんだか、オトナな
-雰囲気のトコロだね
-+[FID:0F, TEXT:0033] 哇……
-+[FID:0F, TEXT:0034] 总觉得是个
-+[FID:0F, TEXT:0035] 很有大人氛围的地方呢
-
---- Group 27 [left:主人公 next=0023] ---G
+--- Group 29 [left:主人公 next=0023] ---G
 うわぁ・・・
 さすがに立派な建物
 だよなぁ
--[FID:0F, TEXT:0033] 哇……
++[FID:0F, TEXT:0033] 哇……
 +[FID:0F, TEXT:00BE] 果然是很气派的建筑
 +[FID:0F, TEXT:00BF] 啊
 
---- Group 28 [left:主人公 next=0023] ---G
+--- Group 30 [left:主人公 next=0023] ---G
+うわぁ・・・
+なんだか、オトナな
+雰囲気のトコロだね
+-[FID:0F, TEXT:0033] 哇……
++[FID:0F, TEXT:0034] 总觉得是个
++[FID:0F, TEXT:0035] 很有大人氛围的地方呢
+
+--- Group 31 [left:主人公 next=0023] ---G
 うわぁ・・・
 さすがに立派な建物
 ですね・・・
@@ -168,7 +168,7 @@
 -[FID:0F, TEXT:00BE] 果然是很气派的建筑
 +[FID:0F, TEXT:008D] 呢……
 
---- Group 29 [left:主人公 next=0023] ---G
+--- Group 34 [left:主人公 next=0023] ---G
 あんまりこういった
 ところは好きじゃ
 ないな・・・
@@ -176,7 +176,7 @@
 +[FID:0F, TEXT:0038] 这种地方啊……
 +[FID:0F, TEXT:0039] 没有啊……
 
---- Group 31 [right:加泽尔 next=2012] ---G
+--- Group 37 [right:加泽尔 next=2012] ---G
 説明するまでもねえと
 は思うが、繁華街って
 やつだ
@@ -184,7 +184,7 @@
 +[FID:0F, TEXT:003B] 知道这就是商业街
 +[FID:0F, TEXT:003C] 啦
 
---- Group 33 [right:加泽尔 next=2012] ---G
+--- Group 39 [right:加泽尔 next=2012] ---G
 夜になると、街で一番
 活気がある場所さ
 そのぶんトラブルにも
@@ -194,19 +194,19 @@
 +[FID:0F, TEXT:003F] 不过也正因为如此
 +[FID:0F, TEXT:0040] 容易遇到麻烦就是了
 
---- Group 35 [left:主人公 next=0023] ---G
+--- Group 41 [left:主人公 next=0023] ---G
 ずいぶんと詳しいな
 +[FID:0F, TEXT:0041] 你知道得真详细啊
 
---- Group 36 [left:主人公 next=0023] ---G
+--- Group 42 [left:主人公 next=0023] ---G
 へぇ、くわしぃんだ
 +[FID:0F, TEXT:0042] 哦，真懂行啊
 
---- Group 37 [left:主人公 next=0023] ---G
+--- Group 43 [left:主人公 next=0023] ---G
 詳しいんですね
 +[FID:0F, TEXT:0043] 您真了解呢
 
---- Group 38 [right:加泽尔 next=2012] ---G
+--- Group 44 [right:加泽尔 next=2012] ---G
 へっ、俺は盗賊だぜ？
 このあたりは
 庭みたいなもんさ
@@ -214,15 +214,15 @@
 +[FID:0F, TEXT:0045] 这一带
 +[FID:0F, TEXT:0046] 就跟自家院子一样
 
---- Group 39 [left:利布雷 next=2012] ---G
+--- Group 45 [left:利布雷 next=2012] ---G
 ・・・ねぇ、ガゼル？
 +[FID:0F, TEXT:0047] ……喂，加泽尔？
 
---- Group 40 [left:主人公 next=0023] ---G
+--- Group 46 [right:加泽尔 next=2012] ---G
 あ・・・
 +[FID:0F, TEXT:0048] 啊……
 
---- Group 43 [left:利布雷 next=2012] ---G
+--- Group 49 [left:利布雷 next=2012] ---G
 あんたひょっとして
 まだ、悪さしてるん
 じゃないでしょうね？
@@ -230,15 +230,15 @@
 +[FID:0F, TEXT:004A] 还在干坏事
 +[FID:0F, TEXT:004B] 吧？
 
---- Group 44 [right:加泽尔 next=2012] ---G
+--- Group 50 [right:加泽尔 next=2012] ---G
 あ、いや・・・
 +[FID:0F, TEXT:004C] 啊，不……
 
---- Group 45 [left:利布雷 next=2012] ---G
+--- Group 51 [left:利布雷 next=2012] ---G
 どうなのっ！？
 +[FID:0F, TEXT:004D] 说啊！？
 
---- Group 46 [left:主人公 next=0023] ---G
+--- Group 52 [left:主人公 next=0023] ---G
 これって、思いっきり
 墓穴を掘ったってやつ
 だよなぁ・・・
@@ -246,13 +246,13 @@
 +[FID:0F, TEXT:004F] 自掘坟墓
 +[FID:0F, TEXT:0050] 啊……
 
---- Group 47 [left:主人公 next=0023] ---G
+--- Group 53 [left:主人公 next=0023] ---G
 やれやれ、語るに落ち
 るとはこのことだな
 +[FID:0F, TEXT:0051] 唉，这就叫
 +[FID:0F, TEXT:0052] 说漏嘴了吧
 
---- Group 48 [left:主人公 next=0023] ---G
+--- Group 54 [left:主人公 next=0023] ---G
 ・・・ガゼルったら
 思いっきり墓穴
 掘ってるんだから
@@ -260,43 +260,43 @@
 +[FID:0F, TEXT:0054] 真是自掘
 +[FID:0F, TEXT:0055] 坟墓啊
 
---- Group 49 [left:主人公 next=0023] ---G
+--- Group 55 [left:主人公 next=0023] ---G
 ガゼルさん・・・
 墓穴を掘ってますね
 +[FID:0F, TEXT:0056] 加泽尔先生……
 +[FID:0F, TEXT:0057] 您这是在自掘坟墓啊
 
---- Group 50 [left:主人公 next=0023] ---G
-どうしよう？
-+[FID:0F, TEXT:0058] 怎么办？
-
---- Group 51 [left:主人公 next=2015] ---G
+--- Group 56 [left:主人公 next=2015] ---G
 どうしよう？
 　放っておく
 　近づいてみる
--[FID:0F, TEXT:0058] 怎么办？
++[FID:0F, TEXT:0058] 怎么办？
 +[FID:0F, TEXT:01A2] 　放着不管
 +[FID:0F, TEXT:01A3] 　上前看看
 
---- Group 54 [left:主人公 next=0023] ---G
-　様子を見ている
-　助けてやるか
-+[FID:0F, TEXT:0059] 　先看看情况
-+[FID:0F, TEXT:005A] 　帮他一把
+--- Group 57 [right:加泽尔 next=0023] ---G
+どうしよう？
+-[FID:0F, TEXT:0058] 怎么办？
 
---- Group 55 [left:主人公 next=0023] ---G
+--- Group 62 [left:主人公 next=0023] ---G
 　様子を見ている
 　助けてあげよっかな
--[FID:0F, TEXT:0059] 　先看看情况
++[FID:0F, TEXT:0059] 　先看看情况
 +[FID:0F, TEXT:005B] 　还是帮帮他吧
 
---- Group 56 [left:主人公 next=0023] ---G
+--- Group 63 [left:主人公 next=0023] ---G
 　様子を見ている
 　助けよう
 -[FID:0F, TEXT:0059] 　先看看情况
 +[FID:0F, TEXT:005C] 　帮他一把
 
---- Group 57 [right:加泽尔 next=2012] ---G
+--- Group 64 [left:主人公 next=0023] ---G
+　様子を見ている
+　助けてやるか
+-[FID:0F, TEXT:0059] 　先看看情况
++[FID:0F, TEXT:005A] 　帮他一把
+
+--- Group 65 [right:加泽尔 next=2012] ---G
 な、なあ、リプレ
 そんなことより今は
 こいつに街を案内する
@@ -306,11 +306,11 @@
 +[FID:0F, TEXT:005F] 应该先带这家伙
 +[FID:0F, TEXT:0060] 逛逛城里吧？
 
---- Group 58 [left:主人公 next=2012] ---G
+--- Group 66 [left:主人公 next=2012] ---G
 ・・・そうね
 +[FID:0F, TEXT:0061] 说的也是呢
 
---- Group 59 [left:主人公 next=2012] ---G
+--- Group 67 [left:主人公 next=2012] ---G
 とりあえず
 その件については、
 帰ってからきっちり
@@ -320,11 +320,11 @@
 +[FID:0F, TEXT:0064] 等回去之后
 +[FID:0F, TEXT:0065] 你得给我好好解释清楚
 
---- Group 60 [right:加泽尔 next=2012] ---G
+--- Group 68 [right:加泽尔 next=2012] ---G
 とほほ・・・
 +[FID:0F, TEXT:0066] 哎呀呀……
 
---- Group 61 [left:主人公 next=2012] ---G
+--- Group 69 [left:主人公 next=2012] ---G
 まあ、どうやらここは
 近づかないほうが
 よさそうな場所って
@@ -334,7 +334,7 @@
 +[FID:0F, TEXT:0069] 比较好吧
 +[FID:0F, TEXT:006A] 
 
---- Group 62 [left:主人公 next=0023] ---G
+--- Group 70 [left:主人公 next=0023] ---G
 そうとわかったら、
 長居は無用です
 次を案内してください
@@ -344,7 +344,7 @@
 +[FID:0F, TEXT:0080] 请带我们去下一处吧
 +[FID:0F, TEXT:0081] 利布雷小姐
 
---- Group 63 [left:主人公 next=0023] ---G
+--- Group 71 [left:主人公 next=0023] ---G
 そうとわかったら、
 長居は無用だ
 次を案内してくれよ、
@@ -354,7 +354,7 @@
 +[FID:0F, TEXT:006D] 带我们去下一处吧
 +[FID:0F, TEXT:006E] 利布雷？
 
---- Group 64 [left:主人公 next=2012] ---G
+--- Group 72 [left:主人公 next=2012] ---G
 どうやらここは僕に
 は無縁の場所だって
 ことか
@@ -362,7 +362,7 @@
 +[FID:0F, TEXT:0070] 跟我无缘呢
 +[FID:0F, TEXT:0071] 
 
---- Group 65 [left:主人公 next=0023] ---G
+--- Group 73 [left:主人公 next=0023] ---G
 ここはもういいから
 次の場所を案内して
 くれないか、リプレ
@@ -370,7 +370,7 @@
 +[FID:0F, TEXT:0073] 能带我们去
 +[FID:0F, TEXT:0074] 下一个地方吗，利布雷
 
---- Group 66 [left:主人公 next=2012] ---G
+--- Group 74 [left:主人公 next=2012] ---G
 ねぇねぇ、
 やっぱりここ
 ちょっといづらいな
@@ -378,7 +378,7 @@
 +[FID:0F, TEXT:0076] 果然还是觉得
 +[FID:0F, TEXT:0077] 这里有点待不下去啊
 
---- Group 67 [left:主人公 next=0023] ---G
+--- Group 75 [left:主人公 next=0023] ---G
 ねぇリプレ
 こんなところより、
 次を案内してくれ
@@ -388,7 +388,7 @@
 +[FID:0F, TEXT:007A] 不如带我们去
 +[FID:0F, TEXT:007B] 下一处吧？
 
---- Group 68 [left:主人公 next=2012] ---G
+--- Group 76 [left:主人公 next=2012] ---G
 どうやらここは
 近づかないほうが
 よさそうな場所
@@ -398,33 +398,33 @@
 +[FID:0F, TEXT:007D] 比较好呢……
 +[FID:0F, TEXT:007E] 
 
---- Group 69 [left:none next=0023] ---G
+--- Group 77 [left:none next=0023] ---G
 リプレさん
 逃げて！
 -[FID:0F, TEXT:0081] 利布雷小姐
 +[FID:0F, TEXT:014D] 快逃！
 
---- Group 70 [right:利布雷 next=2012] ---G
+--- Group 78 [right:利布雷 next=2012] ---G
 あ、うん・・・
 +[FID:0F, TEXT:0082] 啊、嗯……
 
---- Group 71 [left:主人公 next=0023] ---G
-街のすぐ側に
-こんな大きな川が
-あったんだな
-+[FID:0F, TEXT:0083] 城边上
-+[FID:0F, TEXT:0084] 居然有这么大一条河
-+[FID:0F, TEXT:0085] 啊
-
---- Group 73 [left:主人公 next=0023] ---G
+--- Group 79 [left:主人公 next=0023] ---G
 街のすぐ側に
 こんな大きな川が
 あったとはね
--[FID:0F, TEXT:0083] 城边上
--[FID:0F, TEXT:0084] 居然有这么大一条河
++[FID:0F, TEXT:0083] 城边上
++[FID:0F, TEXT:0084] 居然有这么大一条河
 +[FID:0F, TEXT:0086] 真没想到啊
 
---- Group 75 [left:主人公 next=0023] ---G
+--- Group 80 [left:主人公 next=0023] ---G
+街のすぐ側に
+こんな大きな川が
+あったんだな
+-[FID:0F, TEXT:0083] 城边上
+-[FID:0F, TEXT:0084] 居然有这么大一条河
++[FID:0F, TEXT:0085] 啊
+
+--- Group 86 [left:主人公 next=0023] ---G
 わぁ
 大きな川だね
 街の側に、こんな川が
@@ -434,7 +434,7 @@
 +[FID:0F, TEXT:0089] 城附近居然有
 +[FID:0F, TEXT:008A] 这么大的河……
 
---- Group 77 [left:主人公 next=0023] ---G
+--- Group 89 [left:主人公 next=0023] ---G
 街のすぐ側にこんな
 大きな川があったん
 ですね・・・
@@ -442,7 +442,7 @@
 +[FID:0F, TEXT:008C] 这么大一条河
 -[FID:0F, TEXT:008D] 呢……
 
---- Group 79 [right:利布雷 next=2012] ---G
+--- Group 92 [right:利布雷 next=2012] ---G
 アルク川っていう
 名前でね
 ずっと北の山脈から
@@ -452,7 +452,7 @@
 +[FID:0F, TEXT:0090] 从北面的山脉一直
 +[FID:0F, TEXT:0091] 流下来的
 
---- Group 81 [right:利布雷 next=2012] ---G
+--- Group 94 [right:利布雷 next=2012] ---G
 この川があるおかげで
 サイジェントは
 水に困らないのよ
@@ -460,15 +460,15 @@
 +[FID:0F, TEXT:0093] 赛杰特
 +[FID:0F, TEXT:0094] 用水才不愁呢
 
---- Group 83 [left:主人公 next=2012] ---G
+--- Group 96 [left:主人公 next=2012] ---G
 そうなのか
 +[FID:0F, TEXT:0095] 是这样啊
 
---- Group 84 [left:主人公 next=2012] ---G
+--- Group 97 [left:主人公 next=2012] ---G
 そうなんだぁ
 +[FID:0F, TEXT:0096] 原来是这样啊
 
---- Group 85 [right:加泽尔 next=2012] ---G
+--- Group 98 [right:加泽尔 next=2012] ---G
 ここらの水はきれい
 だがな、下流のほうに
 いくほど、この川は
@@ -478,7 +478,7 @@
 +[FID:0F, TEXT:0099] 这条河就
 +[FID:0F, TEXT:009A] 越脏
 
---- Group 86 [right:加泽尔 next=2012] ---G
+--- Group 99 [right:加泽尔 next=2012] ---G
 工場や民家から出た
 下水を流してる
 せいでな
@@ -486,25 +486,25 @@
 +[FID:0F, TEXT:009C] 排出的污水
 +[FID:0F, TEXT:009D] 一直在流啊
 
---- Group 87 [left:主人公 next=0023] ---G
-なんか、ジメジメ
-してないか？
-+[FID:0F, TEXT:009E] 有没有觉得
-+[FID:0F, TEXT:009F] 有点潮乎乎的？
-
---- Group 88 [left:主人公 next=0023] ---G
+--- Group 100 [left:主人公 next=0023] ---G
 なんか、ジメジメ
 してませんか？
--[FID:0F, TEXT:009E] 有没有觉得
++[FID:0F, TEXT:009E] 有没有觉得
 +[FID:0F, TEXT:00A5] 有点潮湿吗？
 
---- Group 91 [left:主人公 next=0023] ---G
+--- Group 102 [left:主人公 next=0023] ---G
+なんか、ジメジメ
+してないか？
+-[FID:0F, TEXT:009E] 有没有觉得
++[FID:0F, TEXT:009F] 有点潮乎乎的？
+
+--- Group 107 [left:主人公 next=0023] ---G
 ここの空気はすこし
 よくないな
 +[FID:0F, TEXT:00A0] 这里的空气
 +[FID:0F, TEXT:00A1] 不太好呢
 
---- Group 93 [left:主人公 next=0023] ---G
+--- Group 110 [left:主人公 next=0023] ---G
 なんか、空気が
 じめっとしてて、
 やな感じ・・・
@@ -512,7 +512,7 @@
 +[FID:0F, TEXT:00A3] 湿漉漉的
 +[FID:0F, TEXT:00A4] 真不舒服……
 
---- Group 95 [right:加泽尔 next=2012] ---G
+--- Group 113 [right:加泽尔 next=2012] ---G
 ああ
 工場から出る蒸気の
 せいだ
@@ -520,27 +520,27 @@
 +[FID:0F, TEXT:00A7] 是因为工厂冒出的蒸汽
 +[FID:0F, TEXT:00A8] 没错
 
---- Group 96 [left:主人公 next=0023] ---G
+--- Group 114 [left:主人公 next=0023] ---G
 ああ
 二人のおかげだよ
 -[FID:0F, TEXT:00A6] 嗯
 +[FID:0F, TEXT:00E5] 多亏了你们俩
 
---- Group 97 [left:主人公 next=0023] ---G
+--- Group 115 [left:主人公 next=0023] ---G
 ああ
 二人のおかげでね
 -[FID:0F, TEXT:00A6] 嗯
 +[FID:0F, TEXT:00E6] 多亏了你们俩啊
 
---- Group 98 [left:主人公 next=2012] ---G
+--- Group 116 [left:主人公 next=2012] ---G
 工場？
 +[FID:0F, TEXT:00A9] 工厂？
 
---- Group 99 [right:利布雷 next=2012] ---G
+--- Group 117 [right:利布雷 next=2012] ---G
 織物を作ってるのよ
 +[FID:0F, TEXT:00AA] 是在制作纺织品哦
 
---- Group 100 [right:加泽尔 next=2012] ---G
+--- Group 118 [right:加泽尔 next=2012] ---G
 【キルカ虫】ってのが
 吐き出す糸を紡いだ
 ものでよ、ここらの
@@ -550,7 +550,7 @@
 +[FID:0F, TEXT:00AD] 东西，算是这里的
 +[FID:0F, TEXT:00AE] 特产呢
 
---- Group 101 [right:加泽尔 next=2012] ---G
+--- Group 119 [right:加泽尔 next=2012] ---G
 そいつを使った交易が
 サイジェントの大きな
 収入源なのさ
@@ -558,7 +558,7 @@
 +[FID:0F, TEXT:00B0] 是赛杰特很大的
 +[FID:0F, TEXT:00B1] 收入来源
 
---- Group 102 [right:加泽尔 next=2012] ---G
+--- Group 120 [right:加泽尔 next=2012] ---G
 もっとも、そのせいで
 すっかりここらの
 自然はダメに
@@ -568,13 +568,13 @@
 +[FID:0F, TEXT:00B4] 已经完全
 +[FID:0F, TEXT:00B5] 被破坏掉了
 
---- Group 103 [right:利布雷 next=2012] ---G
+--- Group 121 [right:利布雷 next=2012] ---G
 昔はね、このあたりも
 畑だったのよ
 +[FID:0F, TEXT:00B6] 以前啊，这一带也
 +[FID:0F, TEXT:00B7] 都是农田呢
 
---- Group 105 [right:利布雷 next=2012] ---G
+--- Group 123 [right:利布雷 next=2012] ---G
 今みたいに、よその
 街から食料を買わな
 くたって暮らしてい
@@ -584,17 +584,17 @@
 +[FID:0F, TEXT:00BA] 才能过活
 +[FID:0F, TEXT:00BB] 呢……
 
---- Group 107 [right:利布雷 next=2012] ---G
+--- Group 125 [right:利布雷 next=2012] ---G
 サイジェントの領主
 さまが暮らすお城よ
 +[FID:0F, TEXT:00BC] 那是赛杰特领主
 +[FID:0F, TEXT:00BD] 大人住的城堡哦
 
---- Group 113 [left:主人公 next=0023] ---G
+--- Group 134 [left:主人公 next=0023] ---G
 なるほど・・・
 +[FID:0F, TEXT:00C0] 原来如此……
 
---- Group 114 [left:主人公 next=0023] ---G
+--- Group 135 [left:主人公 next=0023] ---G
 なるほど・・・
 たしかに立派な建物
 だな
@@ -602,7 +602,7 @@
 +[FID:0F, TEXT:00C1] 确实是一座
 +[FID:0F, TEXT:00C2] 宏伟的建筑啊
 
---- Group 117 [left:主人公 next=0023] ---G
+--- Group 139 [left:主人公 next=0023] ---G
 すごい・・・
 こんなに立派な建物
 があるんだ・・・
@@ -610,7 +610,7 @@
 +[FID:0F, TEXT:00C4] 居然有这么
 +[FID:0F, TEXT:00C5] 宏伟的建筑……
 
---- Group 120 [right:利布雷 next=2012] ---G
+--- Group 143 [right:利布雷 next=2012] ---G
 うん、そうだよね
 ちょっと前に改修さ
 れたばかりだし
@@ -618,23 +618,23 @@
 +[FID:0F, TEXT:00C7] 毕竟前不久
 +[FID:0F, TEXT:00C8] 刚翻修过
 
---- Group 121 [right:利布雷 next=2012] ---G
+--- Group 144 [right:利布雷 next=2012] ---G
 でも、私はあまり
 好きじゃないな
 +[FID:0F, TEXT:00C9] 不过，我却不怎么
 +[FID:0F, TEXT:00CA] 喜欢它呢
 
---- Group 122 [left:主人公 next=0023] ---G
+--- Group 145 [left:主人公 next=0023] ---G
 ？
 +[FID:0F, TEXT:00CB] ？
 
---- Group 124 [left:主人公 next=0023] ---G
+--- Group 147 [left:主人公 next=0023] ---G
 ・・・？
 なんで？
 +[FID:0F, TEXT:00CC] ……？
 +[FID:0F, TEXT:00CD] 为什么？
 
---- Group 125 [right:加泽尔 next=2012] ---G
+--- Group 148 [right:加泽尔 next=2012] ---G
 この城を造った金を
 誰が払ったか、って
 ことさ
@@ -642,15 +642,15 @@
 +[FID:0F, TEXT:00CF] 是谁付的
 +[FID:0F, TEXT:00D0] 啊
 
---- Group 126 [right:加泽尔 next=2012] ---G
+--- Group 149 [right:加泽尔 next=2012] ---G
 ちょっと待った！
 +[FID:0F, TEXT:00D1] 等一下！
 
---- Group 128 [left:主人公 next=0023] ---G
+--- Group 151 [left:主人公 next=0023] ---G
 え？
 +[FID:0F, TEXT:00D2] 诶？
 
---- Group 129 [right:加泽尔 next=2012] ---G
+--- Group 152 [right:加泽尔 next=2012] ---G
 ここから先に行くのは
 やめといたほうが
 いいぜ
@@ -658,19 +658,19 @@
 +[FID:0F, TEXT:00D4] 还是别往
 +[FID:0F, TEXT:00D5] 前面走了
 
---- Group 131 [left:主人公 next=0023] ---G
+--- Group 154 [left:主人公 next=0023] ---G
 どうしてだ？
 +[FID:0F, TEXT:00D6] 为什么？
 
---- Group 132 [left:主人公 next=0023] ---G
+--- Group 155 [left:主人公 next=0023] ---G
 どうして？？
 +[FID:0F, TEXT:00D7] 为什么？？
 
---- Group 133 [left:主人公 next=0023] ---G
+--- Group 156 [left:主人公 next=0023] ---G
 どうしてですか
 +[FID:0F, TEXT:00D8] 为什么呢？
 
---- Group 134 [right:加泽尔 next=2012] ---G
+--- Group 157 [right:加泽尔 next=2012] ---G
 このあたりもスラム
 なんだが、俺たちの
 暮らす南側の場所とは
@@ -680,7 +680,7 @@
 +[FID:0F, TEXT:00DB] 住的南边
 +[FID:0F, TEXT:00DC] 完全不一样
 
---- Group 135 [right:加泽尔 next=2012] ---G
+--- Group 158 [right:加泽尔 next=2012] ---G
 【オプテュス】って
 物騒なゴロツキたちが
 いるのさ
@@ -688,13 +688,13 @@
 +[FID:0F, TEXT:00DE] 的危险混混
 +[FID:0F, TEXT:00DF] 在那里
 
---- Group 136 [right:加泽尔 next=2012] ---G
+--- Group 159 [right:加泽尔 next=2012] ---G
 関わりあいになる前に
 さっさと引き返そうぜ
 +[FID:0F, TEXT:00E0] 趁还没跟他们
 +[FID:0F, TEXT:00E1] 扯上关系，赶紧撤吧
 
---- Group 137 [right:利布雷 next=2012] ---G
+--- Group 160 [right:利布雷 next=2012] ---G
 どう
 少しはこの街のことが
 わかった？
@@ -702,7 +702,7 @@
 +[FID:0F, TEXT:00E3] 稍微了解一点
 +[FID:0F, TEXT:00E4] 这座城镇了吧？
 
---- Group 139 [left:主人公 next=0023] ---G
+--- Group 162 [left:主人公 next=0023] ---G
 うん
 ガゼルとリプレの
 おかげで、ね！
@@ -710,19 +710,19 @@
 +[FID:0F, TEXT:00E8] 多亏了加泽尔
 +[FID:0F, TEXT:00E9] 和利布雷呢！
 
---- Group 140 [left:主人公 next=0023] ---G
+--- Group 163 [left:主人公 next=0023] ---G
 ええ
 二人のおかげです
 +[FID:0F, TEXT:00EA] 嗯
 +[FID:0F, TEXT:00EB] 多亏了两位
 
---- Group 141 [right:char_0039 next=2012] ---G
+--- Group 164 [right:char_0039 next=2012] ---G
 おい、おまえら
 ちょっと待ちな！
 +[FID:0F, TEXT:00EC] 喂，你们几个
 +[FID:0F, TEXT:00ED] 给我站住！
 
---- Group 142 [right:char_0039 next=2012] ---G
+--- Group 165 [right:char_0039 next=2012] ---G
 おう
 そこのお前、ここら
 じゃ見かけねえツラ
@@ -732,33 +732,33 @@
 +[FID:0F, TEXT:00F0] 没见过你
 +[FID:0F, TEXT:00F1] 啊？
 
---- Group 143 [left:主人公 next=0023] ---G
+--- Group 166 [left:主人公 next=0023] ---G
 なんのつもりだ
 コイツ？
 +[FID:0F, TEXT:00F2] 这家伙
 +[FID:0F, TEXT:00F3] 想干什么？
 
---- Group 144 [left:主人公 next=0023] ---G
+--- Group 167 [left:主人公 next=0023] ---G
 何者だ、こいつら？
 +[FID:0F, TEXT:00F4] 他们是什么人？
 
---- Group 145 [left:主人公 next=0023] ---G
+--- Group 168 [left:主人公 next=0023] ---G
 なに？
 コイツら？
 +[FID:0F, TEXT:00F5] 是谁？
 +[FID:0F, TEXT:00F6] 这些人？
 
---- Group 146 [left:主人公 next=0023] ---G
+--- Group 169 [left:主人公 next=0023] ---G
 なんなんでしょう
 この人たち・・・
 +[FID:0F, TEXT:00F7] 这些人
 +[FID:0F, TEXT:00F8] 到底是干什么的……
 
---- Group 147 [right:加泽尔 next=2012] ---G
+--- Group 170 [right:加泽尔 next=2012] ---G
 ・・・無視しろっ！
 +[FID:0F, TEXT:00F9] ……别理他们！
 
---- Group 148 [right:加泽尔 next=2012] ---G
+--- Group 171 [right:加泽尔 next=2012] ---G
 こいつらがさっき
 話した【オプテュス】
 の連中なんだよっ！
@@ -766,7 +766,7 @@
 +[FID:0F, TEXT:00FB] 【奥普提斯】
 +[FID:0F, TEXT:00FC] 那帮人！
 
---- Group 149 [right:加泽尔 next=2012] ---G
+--- Group 172 [right:加泽尔 next=2012] ---G
 関わるとロクなこと
 にはならねえ
 無視するんだ
@@ -774,7 +774,7 @@
 +[FID:0F, TEXT:00FE] 关系的话没好事
 +[FID:0F, TEXT:00FF] 别搭理他们
 
---- Group 150 [right:char_003A next=2012] ---G
+--- Group 173 [right:char_003A next=2012] ---G
 なに黙ってんだよ、
 オラ！
 口がきけねえのか？
@@ -782,7 +782,7 @@
 +[FID:0F, TEXT:0101] 喂！
 +[FID:0F, TEXT:0102] 哑巴了？
 
---- Group 151 [left:加泽尔 next=2012] ---G
+--- Group 174 [left:加泽尔 next=2012] ---G
 おまえらと関わってる
 ヒマはねえんだ
 わかったら、とっとと
@@ -792,7 +792,7 @@
 +[FID:0F, TEXT:0105] 知道了就
 +[FID:0F, TEXT:0106] 赶紧滚开
 
---- Group 152 [right:char_0039 next=2012] ---G
+--- Group 175 [right:char_0039 next=2012] ---G
 おお、誰かと思えば
 コソ泥のガゼルじゃ
 ねえか？
@@ -800,7 +800,7 @@
 +[FID:0F, TEXT:0108] 这不是小偷
 +[FID:0F, TEXT:0109] 加泽尔吗？
 
---- Group 153 [right:char_003A next=0023] ---G
+--- Group 176 [right:char_003A next=0023] ---G
 女と子分をはべらせて
 いいご身分じゃ
 ねえか・・・
@@ -808,7 +808,7 @@
 +[FID:0F, TEXT:010B] 你这日子过得
 +[FID:0F, TEXT:010C] 可真不赖啊……
 
---- Group 154 [right:char_003A next=2012] ---G
+--- Group 177 [right:char_003A next=2012] ---G
 女を二人もはべらせて
 いいご身分じゃ
 ねえか・・・
@@ -816,25 +816,25 @@
 -[FID:0F, TEXT:010B] 你这日子过得
 -[FID:0F, TEXT:010C] 可真不赖啊……
 
---- Group 155 [left:加泽尔 next=2012] ---G
+--- Group 178 [left:加泽尔 next=2012] ---G
 こいつらは、そんなん
 じゃねえッ！！
 +[FID:0F, TEXT:010E] 她们才不是
 +[FID:0F, TEXT:010F] 那种关系！！
 
---- Group 156 [right:char_003A next=2012] ---G
+--- Group 179 [right:char_003A next=2012] ---G
 いいからいいから
 照れんなよ、チビ？
 +[FID:0F, TEXT:0110] 好啦好啦
 +[FID:0F, TEXT:0111] 别害羞嘛，小不点？
 
---- Group 157 [right:char_0039 next=2012] ---G
+--- Group 180 [right:char_0039 next=2012] ---G
 そうだぜ？
 つれなくすんなよ？
 +[FID:0F, TEXT:0112] 就是啊？
 +[FID:0F, TEXT:0115] 别这么冷淡嘛？
 
---- Group 158 [right:char_003A next=2012] ---G
+--- Group 181 [right:char_003A next=2012] ---G
 ひっひっひ
 いくら乳臭くっても
 女は女じゃねえか
@@ -844,13 +844,13 @@
 +[FID:0F, TEXT:0118] 女人还是女人嘛
 +[FID:0F, TEXT:0119] 嘿嘿嘿……
 
---- Group 159 [right:char_003A next=2012] ---G
+--- Group 182 [right:char_003A next=2012] ---G
 ひっひっひ
 逃がしゃしねえぜ！
 -[FID:0F, TEXT:0116] 嘿嘿嘿
 +[FID:0F, TEXT:016F] 休想逃掉！
 
---- Group 160 [left:加泽尔 next=2012] ---G
+--- Group 183 [left:加泽尔 next=2012] ---G
 関係ねえって
 言ってんのが
 聞こえねえのか！？
@@ -860,23 +860,23 @@
 +[FID:0F, TEXT:011C] 没听见吗？！
 +[FID:0F, TEXT:011D] 你这傻帽！
 
---- Group 161 [right:char_0039 next=2012] ---G
+--- Group 184 [right:char_0039 next=2012] ---G
 お・・・なんだよ
 やるっていうのか？
 +[FID:0F, TEXT:011E] 哦……想干嘛
 +[FID:0F, TEXT:011F] 要动手吗？
 
---- Group 162 [right:char_003A next=2012] ---G
+--- Group 185 [right:char_003A next=2012] ---G
 うひひっ
 望むところだぜ！！
 +[FID:0F, TEXT:0120] 嘻嘻嘻
 +[FID:0F, TEXT:0121] 正合我意！！
 
---- Group 163 [right:加泽尔 next=2012] ---G
+--- Group 186 [right:加泽尔 next=2012] ---G
 おい、@ n 
 +[FID:0F, TEXT:0122] 喂，@n
 
---- Group 164 [right:加泽尔 next=2012] ---G
+--- Group 187 [right:加泽尔 next=2012] ---G
 ぼけっとしてないで
 リプレを連れて
 ここから逃げろッ！！
@@ -884,11 +884,11 @@
 +[FID:0F, TEXT:0124] 快带利普蕾
 +[FID:0F, TEXT:0125] 从这里逃出去！！
 
---- Group 165 [left:主人公 next=2012] ---G
+--- Group 188 [left:主人公 next=2012] ---G
 え！？
 +[FID:0F, TEXT:0126] 哎？！
 
---- Group 166 [right:加泽尔 next=2012] ---G
+--- Group 189 [right:加泽尔 next=2012] ---G
 乗せられちまったのは
 俺だ・・・
 お前らには関係ねえ
@@ -896,49 +896,49 @@
 +[FID:0F, TEXT:0128] 是我……
 +[FID:0F, TEXT:0129] 跟你们没关系
 
---- Group 167 [right:加泽尔 next=2012] ---G
+--- Group 190 [right:加泽尔 next=2012] ---G
 さっさと行けっ！！
 +[FID:0F, TEXT:012A] 快走！！
 
---- Group 168 [right:加泽尔 next=0023] ---G
+--- Group 191 [right:加泽尔 next=0023] ---G
 　わかった
 　俺も残るぞ
 +[FID:0F, TEXT:012B] 　知道了
 +[FID:0F, TEXT:012C] 　我也留下
 
---- Group 169 [right:加泽尔 next=0023] ---G
+--- Group 192 [right:加泽尔 next=0023] ---G
 　うん、わかった
 　あたしも残る！
 +[FID:0F, TEXT:012D] 　嗯，知道了
 +[FID:0F, TEXT:012E] 　我也留下！
 
---- Group 170 [right:加泽尔 next=0023] ---G
+--- Group 193 [right:加泽尔 next=0023] ---G
 　はい！
 　いやです！
 +[FID:0F, TEXT:012F] 　是！
 +[FID:0F, TEXT:0130] 　不要！
 
---- Group 171 [left:none next=0023] ---G
+--- Group 194 [left:none next=0023] ---G
 リプレ、行くぞっ！
 +[FID:0F, TEXT:0131] 利普蕾，走了！
 
---- Group 172 [left:none next=0023] ---G
+--- Group 195 [left:none next=0023] ---G
 リプレ、走るんだ！
 +[FID:0F, TEXT:0132] 利普蕾，快跑！
 
---- Group 173 [left:none next=0023] ---G
+--- Group 196 [left:none next=0023] ---G
 リプレ、行こう！
 +[FID:0F, TEXT:0133] 利普蕾，我们走！
 
---- Group 174 [left:none next=0023] ---G
+--- Group 197 [left:none next=0023] ---G
 リプレさん！
 +[FID:0F, TEXT:0134] 利普蕾小姐！
 
---- Group 175 [right:加泽尔 next=2012] ---G
+--- Group 198 [right:加泽尔 next=2012] ---G
 でも、ガゼルが！
 +[FID:0F, TEXT:0135] 但是，加泽尔他！
 
---- Group 176 [left:none next=0023] ---G
+--- Group 199 [left:none next=0023] ---G
 俺や君が残っても、
 足手まといになるだけ
 だろう！？
@@ -946,7 +946,7 @@
 +[FID:0F, TEXT:0137] 也只会成为累赘
 +[FID:0F, TEXT:0138] 对吧！？
 
---- Group 177 [left:none next=0023] ---G
+--- Group 200 [left:none next=0023] ---G
 僕や君が残っても、
 足手まといになるだ
 けだ・・・違うか？
@@ -954,7 +954,7 @@
 +[FID:0F, TEXT:013A] 也只会成为累赘
 +[FID:0F, TEXT:013B] 吧……难道不对吗？
 
---- Group 178 [left:none next=0023] ---G
+--- Group 201 [left:none next=0023] ---G
 あたしたちが残っ
 たって、足手まとい
 になるだけだよ！
@@ -962,7 +962,7 @@
 +[FID:0F, TEXT:013D] 也只会成为累赘
 +[FID:0F, TEXT:013E] 罢了！
 
---- Group 179 [left:none next=0023] ---G
+--- Group 202 [left:none next=0023] ---G
 わたしたちは
 足手まといになる
 だけです！
@@ -970,79 +970,79 @@
 +[FID:0F, TEXT:0140] 只会成为累赘
 +[FID:0F, TEXT:0141] 而已！
 
---- Group 180 [right:加泽尔 next=2012] ---G
+--- Group 203 [right:加泽尔 next=2012] ---G
 ・・・
 +[FID:0F, TEXT:0142] ……
 
---- Group 181 [left:none next=0023] ---G
+--- Group 204 [left:none next=0023] ---G
 逃げて、助けを
 呼んできましょう！
 +[FID:0F, TEXT:0143] 快逃，
 +[FID:0F, TEXT:0148] 去叫人来帮忙吧！
 
---- Group 182 [left:none next=0023] ---G
+--- Group 205 [left:none next=0023] ---G
 逃げて、助けを
 呼んでくるんだ
 -[FID:0F, TEXT:0143] 快逃，
 +[FID:0F, TEXT:0144] 去叫人来帮忙
 
---- Group 183 [left:none next=0023] ---G
-逃げて、助けを呼ん
-でこなきゃ！
-+[FID:0F, TEXT:0145] 快逃，去
-+[FID:0F, TEXT:0147] 叫人来帮忙！
-
---- Group 184 [left:none next=0023] ---G
+--- Group 206 [left:none next=0023] ---G
 逃げて、助けを呼ん
 でくるんだ
--[FID:0F, TEXT:0145] 快逃，去
++[FID:0F, TEXT:0145] 快逃，去
 +[FID:0F, TEXT:0146] 叫人来帮忙
 
---- Group 185 [right:加泽尔 next=2012] ---G
+--- Group 207 [left:none next=0023] ---G
+逃げて、助けを呼ん
+でこなきゃ！
+-[FID:0F, TEXT:0145] 快逃，去
++[FID:0F, TEXT:0147] 叫人来帮忙！
+
+--- Group 208 [right:加泽尔 next=2012] ---G
 ・・・うんっ！
 +[FID:0F, TEXT:0149] ……嗯！
 
---- Group 186 [left:none next=0023] ---G
-リプレ・・・
-君は逃げてくれ
-+[FID:0F, TEXT:014A] 利普蕾……
-+[FID:0F, TEXT:014B] 你逃吧
-
---- Group 187 [left:none next=0023] ---G
+--- Group 209 [left:none next=0023] ---G
 リプレ・・・
 あなたは逃げて！
--[FID:0F, TEXT:014A] 利普蕾……
++[FID:0F, TEXT:014A] 利普蕾……
 +[FID:0F, TEXT:014C] 你快逃！
 
---- Group 188 [right:加泽尔 next=2012] ---G
+--- Group 210 [left:none next=0023] ---G
+リプレ・・・
+君は逃げてくれ
+-[FID:0F, TEXT:014A] 利普蕾……
++[FID:0F, TEXT:014B] 你逃吧
+
+--- Group 211 [right:加泽尔 next=2012] ---G
 えっ！？
 +[FID:0F, TEXT:014E] 哎？！
 
---- Group 189 [left:none next=0023] ---G
+--- Group 212 [left:none next=0023] ---G
 俺はガゼルと一緒に
 ここに残る
 +[FID:0F, TEXT:014F] 我要和加泽尔一起
 +[FID:0F, TEXT:0150] 留在这里
 
---- Group 190 [left:none next=0023] ---G
+--- Group 213 [left:none next=0023] ---G
 僕はガゼルと一緒に
 ここに残る
 +[FID:0F, TEXT:0151] 我要和加泽尔一起
 -[FID:0F, TEXT:0150] 留在这里
 
---- Group 191 [left:none next=0023] ---G
+--- Group 214 [left:none next=0023] ---G
 ガゼルといっしょに
 あたしは残るから！
 +[FID:0F, TEXT:0152] 我要和加泽尔一起
 +[FID:0F, TEXT:0153] 我会留下的！
 
---- Group 192 [left:none next=0023] ---G
+--- Group 215 [left:none next=0023] ---G
 わたしはガゼルさんと
 ここに残ります！
 +[FID:0F, TEXT:0154] 我要和加泽尔先生一起
 +[FID:0F, TEXT:0155] 留在这里！
 
---- Group 193 [right:加泽尔 next=2012] ---G
+--- Group 216 [right:加泽尔 next=2012] ---G
 馬鹿野郎ッ！
 武器の扱いも知らない
 くせに、どうする気
@@ -1052,7 +1052,7 @@
 +[FID:0F, TEXT:0158] 你想干什么？！
 +[FID:0F, TEXT:0159] 想干什么？！
 
---- Group 194 [left:none next=2012] ---G
+--- Group 217 [left:none next=2012] ---G
 さあな・・・
 でも、なんかの役に
 立つかもしれねえぜ
@@ -1060,11 +1060,11 @@
 +[FID:0F, TEXT:015B] 不过，也许
 +[FID:0F, TEXT:015C] 能派上点用场呢
 
---- Group 195 [left:none next=0023] ---G
+--- Group 218 [left:none next=0023] ---G
 さあ、リプレ！！
 +[FID:0F, TEXT:015D] 快，利普蕾！！
 
---- Group 196 [left:none next=2012] ---G
+--- Group 219 [left:none next=2012] ---G
 これだけの人数を、
 一人で相手にしよう
 というのは無理だ
@@ -1072,7 +1072,7 @@
 +[FID:0F, TEXT:015F] 这么多人，
 +[FID:0F, TEXT:0160] 是不可能的
 
---- Group 197 [left:none next=2012] ---G
+--- Group 220 [left:none next=2012] ---G
 いいじゃないの
 あたしだって役に
 立つかもしれない
@@ -1082,11 +1082,11 @@
 +[FID:0F, TEXT:0163] 能派上用场
 +[FID:0F, TEXT:0164] 对吧！
 
---- Group 198 [left:none next=0023] ---G
+--- Group 221 [left:none next=0023] ---G
 リプレはやく！
 +[FID:0F, TEXT:0165] 快点，利布雷！
 
---- Group 199 [left:none next=2012] ---G
+--- Group 222 [left:none next=2012] ---G
 わかりません・・・
 でも、なにかの役に
 立つかもしれない
@@ -1096,15 +1096,15 @@
 -[FID:0F, TEXT:0163] 能派上用场
 +[FID:0F, TEXT:0168] 呢……
 
---- Group 200 [left:none next=0023] ---G
+--- Group 223 [left:none next=0023] ---G
 さあ、リプレさん！
 +[FID:0F, TEXT:0169] 快点，利布雷小姐！
 
---- Group 201 [right:利布雷 next=2012] ---G
+--- Group 224 [right:利布雷 next=2012] ---G
 ・・・わかった
 +[FID:0F, TEXT:016A] ……明白了
 
---- Group 202 [right:利布雷 next=2012] ---G
+--- Group 225 [right:利布雷 next=2012] ---G
 レイドたちを呼んで
 くるから、二人とも
 絶対に無事でいてよ
@@ -1114,107 +1114,107 @@
 +[FID:0F, TEXT:016D] 一定要平安无事
 +[FID:0F, TEXT:016E] 绝对哦！！
 
---- Group 203 [left:主人公 next=0023] ---G
+--- Group 226 [left:主人公 next=0023] ---G
 どけえぇッ！！
 +[FID:0F, TEXT:0170] 给我让开！！
 
---- Group 204 [left:主人公 next=0023] ---G
+--- Group 227 [left:主人公 next=0023] ---G
 させるか！！
 +[FID:0F, TEXT:0171] 休想！！
 
---- Group 205 [left:主人公 next=0023] ---G
+--- Group 228 [left:主人公 next=0023] ---G
 ジャマっ！！
 +[FID:0F, TEXT:0172] 碍事！！
 
---- Group 206 [left:主人公 next=0023] ---G
+--- Group 229 [left:主人公 next=0023] ---G
 どいてください！
 +[FID:0F, TEXT:0173] 请让开！
 
---- Group 207 [right:char_003A next=2012] ---G
+--- Group 230 [right:char_003A next=2012] ---G
 うぎゃあっ！？
 +[FID:0F, TEXT:0174] 呜哇啊！？
 
---- Group 208 [right:加泽尔 next=2012] ---G
+--- Group 231 [right:加泽尔 next=2012] ---G
 急げっ！！
 +[FID:0F, TEXT:0175] 快走！！
 
---- Group 209 [left:利布雷 next=2012] ---G
+--- Group 232 [left:利布雷 next=2012] ---G
 う、うんっ！
 +[FID:0F, TEXT:0176] 嗯、嗯！
 
---- Group 210 [left:主人公 next=2012] ---G
+--- Group 233 [left:主人公 next=2012] ---G
 同じだ・・・
 +[FID:0F, TEXT:0177] 同样的……
 
---- Group 211 [left:主人公 next=2012] ---G
+--- Group 234 [left:主人公 next=2012] ---G
 よくわからないけど
 昨日と同じ・・・
 +[FID:0F, TEXT:0178] 虽然不太明白
 +[FID:0F, TEXT:0183] 但和昨天一样……
 
---- Group 212 [left:主人公 next=2012] ---G
+--- Group 235 [left:主人公 next=2012] ---G
 よくわからないけど
 昨日と同じだ・・・
 -[FID:0F, TEXT:0178] 虽然不太明白
 +[FID:0F, TEXT:0179] 和昨天一样……
 
---- Group 213 [left:主人公 next=0023] ---G
+--- Group 236 [left:主人公 next=0023] ---G
 身体の中から、力が
 わいてくる
 +[FID:0F, TEXT:017A] 从身体内部，
 +[FID:0F, TEXT:017B] 涌出力量
 
---- Group 214 [left:主人公 next=2012] ---G
+--- Group 237 [left:主人公 next=2012] ---G
 この感覚は・・・
 昨日と同じだ・・・
 +[FID:0F, TEXT:017C] 这种感觉……
 -[FID:0F, TEXT:0179] 和昨天一样……
 
---- Group 215 [left:主人公 next=2012] ---G
+--- Group 238 [left:主人公 next=2012] ---G
 おんなじ・・・
 +[FID:0F, TEXT:017D] 同样的……
 
---- Group 216 [left:主人公 next=2012] ---G
+--- Group 239 [left:主人公 next=2012] ---G
 昨日と・・・
 全くおんなじだ・・・
 +[FID:0F, TEXT:017E] 和昨天……
 +[FID:0F, TEXT:017F] 完全一样……
 
---- Group 217 [left:主人公 next=0023] ---G
+--- Group 240 [left:主人公 next=0023] ---G
 身体の中から、
 力がわいてくるよ
 +[FID:0F, TEXT:0180] 从身体内部，
 +[FID:0F, TEXT:0181] 涌出力量啊
 
---- Group 218 [left:主人公 next=2012] ---G
+--- Group 241 [left:主人公 next=2012] ---G
 同じ・・・
 +[FID:0F, TEXT:0182] 同样的……
 
---- Group 219 [left:主人公 next=2012] ---G
+--- Group 242 [left:主人公 next=2012] ---G
 わかるぜ・・・
 +[FID:0F, TEXT:0184] 我懂了……
 
---- Group 220 [left:主人公 next=0023] ---G
+--- Group 243 [left:主人公 next=0023] ---G
 今の俺なら、こいつ
 らに負けない・・・
 +[FID:0F, TEXT:0185] 现在的我，不会输给
 +[FID:0F, TEXT:0186] 这些家伙……
 
---- Group 221 [left:主人公 next=2012] ---G
+--- Group 244 [left:主人公 next=2012] ---G
 わかる・・・
 +[FID:0F, TEXT:0187] 我懂了……
 
---- Group 222 [left:主人公 next=0023] ---G
+--- Group 245 [left:主人公 next=0023] ---G
 今の僕なら、こいつ
 らに負けない・・・
 +[FID:0F, TEXT:0188] 现在的我，不会输给
 -[FID:0F, TEXT:0186] 这些家伙……
 
---- Group 223 [left:主人公 next=2012] ---G
+--- Group 246 [left:主人公 next=2012] ---G
 イける・・・！
 +[FID:0F, TEXT:0189] 能行……！
 
---- Group 224 [left:主人公 next=0023] ---G
+--- Group 247 [left:主人公 next=0023] ---G
 これなら
 こんなやつらになんか
 負けっこない・・・
@@ -1222,17 +1222,17 @@
 +[FID:0F, TEXT:018B] 才不会输给
 +[FID:0F, TEXT:018C] 这种家伙呢……
 
---- Group 225 [left:主人公 next=0023] ---G
+--- Group 248 [left:主人公 next=0023] ---G
 今なら・・・この人
 たちにも勝てる！
 +[FID:0F, TEXT:018D] 现在的话……连这些人
 +[FID:0F, TEXT:018E] 也能战胜！
 
---- Group 226 [left:主人公 next=2012] ---G
+--- Group 249 [left:主人公 next=2012] ---G
 絶対に、負けない！
 +[FID:0F, TEXT:018F] 绝对，不会输！
 
---- Group 227 [left:主人公 next=0026] ---G
+--- Group 250 [left:none next=0026] ---G
 【自分の部屋】
 
 
@@ -1276,6 +1276,8 @@
 
 
 【台所】
+
+
 +[FID:0F, TEXT:0190] 【自己的房间】
 +[FID:0F, TEXT:0000] 
 -[FID:0F, TEXT:0000] 
@@ -1322,11 +1324,11 @@
 -[FID:0F, TEXT:0000] 
 -[FID:0F, TEXT:0000] 
 
---- Group 235 [left:主人公 next=2012] ---G
+--- Group 264 [left:主人公 next=2012] ---G
 ・・・猫？
 +[FID:0F, TEXT:019F] ……猫？
 
---- Group 237 [left:主人公 next=2012] ---G
+--- Group 268 [left:主人公 next=2012] ---G
 この世界にも
 猫がいるんだな・・・
 +[FID:0F, TEXT:01A0] 这个世界里
