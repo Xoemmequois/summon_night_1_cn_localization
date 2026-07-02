@@ -2,252 +2,252 @@
 あれ？
 街の外へ出るんなら、
 門はこっちでしょ？
-+[FID:17, TEXT:0001] 
-+[FID:17, TEXT:0002] 
-+[FID:17, TEXT:0006] 
++[FID:17, TEXT:0001] 咦？
++[FID:17, TEXT:0002] 如果要出城的话，
++[FID:17, TEXT:0006] 门在这边吧？
 
 --- Group [left:none next=0023] ---
 あれ？
 街の外へ出るんなら、
 門はこっちだろ？
--[FID:17, TEXT:0001] 
--[FID:17, TEXT:0002] 
-+[FID:17, TEXT:0003] 
+-[FID:17, TEXT:0001] 咦？
+-[FID:17, TEXT:0002] 如果要出城的话，
++[FID:17, TEXT:0003] 门在这边吧？
 
 --- Group [left:none next=0023] ---
 街の外に出るのなら、
 門はこっちだろう？
-+[FID:17, TEXT:0004] 
-+[FID:17, TEXT:0005] 
++[FID:17, TEXT:0004] 如果要出城的话，
++[FID:17, TEXT:0005] 门在这边吧？
 
 --- Group [left:none next=0023] ---
 あら？
 街の外へ出るんなら、
 門はこっちじゃ？
-+[FID:17, TEXT:0007] 
--[FID:17, TEXT:0002] 
-+[FID:17, TEXT:0008] 
++[FID:17, TEXT:0007] 哎呀？
+-[FID:17, TEXT:0002] 如果要出城的话，
++[FID:17, TEXT:0008] 门在这边吧？
 
 --- Group [right:none next=2012] ---
 ちっちっ・・・
 アレを見ろよ
-+[FID:17, TEXT:0009] 
-+[FID:17, TEXT:000A] 
++[FID:17, TEXT:0009] 啧啧……
++[FID:17, TEXT:000A] 你看那个
 
 --- Group [left:none next=0023] ---
 あ・・・
 街の壁が壊れてる
-+[FID:17, TEXT:000B] 
-+[FID:17, TEXT:000C] 
++[FID:17, TEXT:000B] 啊……
++[FID:17, TEXT:000C] 城墙坏了
 
 --- Group [left:none next=0023] ---
 街の外壁に大きな穴が
 あいてる・・・
-+[FID:17, TEXT:000D] 
-+[FID:17, TEXT:000E] 
++[FID:17, TEXT:000D] 城墙上有个大洞
++[FID:17, TEXT:000E] 开着……
 
 --- Group [left:none next=0023] ---
 あれ・・・！
 街の壁が壊れてる
-+[FID:17, TEXT:000F] 
--[FID:17, TEXT:000C] 
++[FID:17, TEXT:000F] 那个……！
+-[FID:17, TEXT:000C] 城墙坏了
 
 --- Group [right:none next=2012] ---
 あそこから出たほうが
 楽だろ？
-+[FID:17, TEXT:0010] 
-+[FID:17, TEXT:0011] 
++[FID:17, TEXT:0010] 从那边出去
++[FID:17, TEXT:0011] 更轻松吧？
 
 --- Group [right:none next=2012] ---
 ・・・ってわけでな
 戦争の時に壊された
 壁がほったらかしに
 なってるのさ
-+[FID:17, TEXT:0012] 
-+[FID:17, TEXT:0013] 
-+[FID:17, TEXT:0014] 
-+[FID:17, TEXT:0015] 
++[FID:17, TEXT:0012] ……就是这么回事
++[FID:17, TEXT:0013] 战争时被破坏的
++[FID:17, TEXT:0014] 城墙就那么
++[FID:17, TEXT:0015] 一直放着没人管
 
 --- Group [left:none next=0023] ---
 そこを勝手に出入り
 してるわけか
-+[FID:17, TEXT:0016] 
-+[FID:17, TEXT:0017] 
++[FID:17, TEXT:0016] 所以你们就随便
++[FID:17, TEXT:0017] 从那里进出啊
 
 --- Group [left:none next=0023] ---
 で、そっから出入り
 してるわけね
-+[FID:17, TEXT:0018] 
-+[FID:17, TEXT:0019] 
++[FID:17, TEXT:0018] 所以，就从那里
++[FID:17, TEXT:0019] 进出是吧
 
 --- Group [left:none next=0023] ---
 そこから出入り
 してるわけですね
-+[FID:17, TEXT:001A] 
-+[FID:17, TEXT:001B] 
++[FID:17, TEXT:001A] 所以是从那里
++[FID:17, TEXT:001B] 进出的啊
 
 --- Group [right:none next=2012] ---
 まあな
 この街にあるスラム
 は、みんな壊れた壁
 の側にあるんだぜ
-+[FID:17, TEXT:001C] 
-+[FID:17, TEXT:001D] 
-+[FID:17, TEXT:001E] 
-+[FID:17, TEXT:001F] 
++[FID:17, TEXT:001C] 是啊
++[FID:17, TEXT:001D] 这个城里的贫民窟
++[FID:17, TEXT:001E] 全都在破损的城墙
++[FID:17, TEXT:001F] 旁边呢
 
 --- Group [right:none next=2012] ---
 外敵が襲ってきた時
 に一番ヤバイ場所だ
 から、誰も住みたい
 と思わねえんだよな
-+[FID:17, TEXT:0020] 
-+[FID:17, TEXT:0021] 
-+[FID:17, TEXT:0022] 
-+[FID:17, TEXT:0023] 
++[FID:17, TEXT:0020] 外敌来袭的时候
++[FID:17, TEXT:0021] 是最危险的地方
++[FID:17, TEXT:0022] 所以没人想住
++[FID:17, TEXT:0023] 在那里啊
 
 --- Group [left:none next=2012] ---
 そっか・・・
-+[FID:17, TEXT:0024] 
++[FID:17, TEXT:0024] 这样啊……
 
 --- Group [left:none next=0023] ---
 俺もたぶん、あそこ
 から街に入ってきた
 んだろうな・・・
-+[FID:17, TEXT:0025] 
-+[FID:17, TEXT:0026] 
-+[FID:17, TEXT:0027] 
++[FID:17, TEXT:0025] 我大概也是
++[FID:17, TEXT:0026] 从那里进城的
++[FID:17, TEXT:0027] 吧……
 
 --- Group [left:none next=2012] ---
 なるほど・・・
-+[FID:17, TEXT:0028] 
++[FID:17, TEXT:0028] 原来如此……
 
 --- Group [left:none next=0023] ---
 おそらく僕も、あの
 穴から街に入ってき
 たようだな・・・
-+[FID:17, TEXT:0029] 
-+[FID:17, TEXT:002A] 
-+[FID:17, TEXT:002B] 
++[FID:17, TEXT:0029] 恐怕我也是
++[FID:17, TEXT:002A] 从那个洞进城的
++[FID:17, TEXT:002B] 样子啊……
 
 --- Group [left:none next=0023] ---
 あたしもたぶん、
 この穴から街に入って
 きたんだ・・・
-+[FID:17, TEXT:002C] 
-+[FID:17, TEXT:002D] 
-+[FID:17, TEXT:002E] 
++[FID:17, TEXT:002C] 我大概也是
++[FID:17, TEXT:002D] 从这个洞进城的
++[FID:17, TEXT:002E] 吧……
 
 --- Group [left:none next=0023] ---
 わたしが入ってきた
 のも、きっとこの
 辺りなんでしょうか
-+[FID:17, TEXT:002F] 
-+[FID:17, TEXT:0030] 
-+[FID:17, TEXT:0031] 
++[FID:17, TEXT:002F] 我进来的地方
++[FID:17, TEXT:0030] 也一定是这
++[FID:17, TEXT:0031] 附近吧
 
 --- Group [right:none next=2012] ---
 間違いねえだろうな
 ・・・ほれ、こっち
 に来てみな？
-+[FID:17, TEXT:0032] 
-+[FID:17, TEXT:0033] 
-+[FID:17, TEXT:0034] 
++[FID:17, TEXT:0032] 肯定没错
++[FID:17, TEXT:0033] ……喂，到这边
++[FID:17, TEXT:0034] 来看看？
 
 --- Group [right:none next=2012] ---
 どうだ？
 見覚えあるか？
-+[FID:17, TEXT:0035] 
-+[FID:17, TEXT:0036] 
++[FID:17, TEXT:0035] 怎么样？
++[FID:17, TEXT:0036] 有印象吗？
 
 --- Group [left:none next=0023] ---
 ・・・なんとなく
-+[FID:17, TEXT:0037] 
++[FID:17, TEXT:0037] ……好像有点
 
 --- Group [left:none next=0023] ---
 なんとなく・・・
 だけど・・・
-+[FID:17, TEXT:0038] 
-+[FID:17, TEXT:0039] 
++[FID:17, TEXT:0038] 好像有点……
++[FID:17, TEXT:0039] 不过……
 
 --- Group [left:none next=0023] ---
 なんとなく
 ・・・ですけど
-+[FID:17, TEXT:003A] 
-+[FID:17, TEXT:003B] 
++[FID:17, TEXT:003A] 好像有点
++[FID:17, TEXT:003B] ……不过
 
 --- Group [right:none next=2012] ---
 ここから南は全部、
 こういう荒野さ
 街の工場が流してる
 毒の水のせいでな
-+[FID:17, TEXT:003C] 
-+[FID:17, TEXT:003D] 
-+[FID:17, TEXT:003E] 
-+[FID:17, TEXT:003F] 
++[FID:17, TEXT:003C] 从这里往南全是
++[FID:17, TEXT:003D] 这样的荒野
++[FID:17, TEXT:003E] 因为城里工厂排放的
++[FID:17, TEXT:003F] 毒水啊
 
 --- Group [left:none next=0023] ---
 この荒野のどこかに
 俺が最初に呼ばれた
 場所があるのか・・・
-+[FID:17, TEXT:0040] 
-+[FID:17, TEXT:0041] 
-+[FID:17, TEXT:0042] 
++[FID:17, TEXT:0040] 这片荒野的某处
++[FID:17, TEXT:0041] 有我最初被召唤的
++[FID:17, TEXT:0042] 地方吗……
 
 --- Group [left:none next=0023] ---
 この荒野のどこかに
 僕が最初に呼ばれた
 場所があるのか・・・
--[FID:17, TEXT:0040] 
-+[FID:17, TEXT:0043] 
--[FID:17, TEXT:0042] 
+-[FID:17, TEXT:0040] 这片荒野的某处
++[FID:17, TEXT:0043] 有我最初被召唤的
+-[FID:17, TEXT:0042] 地方吗……
 
 --- Group [left:none next=0023] ---
 この荒野のどこかに
 あたしが最初に
 呼ばれた場所が
 あるんだ・・・
--[FID:17, TEXT:0040] 
-+[FID:17, TEXT:0044] 
-+[FID:17, TEXT:0045] 
-+[FID:17, TEXT:0046] 
+-[FID:17, TEXT:0040] 这片荒野的某处
++[FID:17, TEXT:0044] 有我被最初
++[FID:17, TEXT:0045] 召唤的地方
++[FID:17, TEXT:0046] 啊……
 
 --- Group [left:none next=0023] ---
 この荒野のどこかに
 私が最初に呼ばれた
 場所が・・・
--[FID:17, TEXT:0040] 
-+[FID:17, TEXT:0047] 
-+[FID:17, TEXT:0048] 
+-[FID:17, TEXT:0040] 这片荒野的某处
++[FID:17, TEXT:0047] 有我被最初召唤的
++[FID:17, TEXT:0048] 地方……
 
 --- Group [right:none next=2012] ---
 ・・・なぁ
 行ってみっか？
-+[FID:17, TEXT:0049] 
-+[FID:17, TEXT:004A] 
++[FID:17, TEXT:0049] ……喂
++[FID:17, TEXT:004A] 要不要去看看？
 
 --- Group [left:none next=2012] ---
 え！？
-+[FID:17, TEXT:004B] 
++[FID:17, TEXT:004B] 诶！？
 
 --- Group [right:none next=2012] ---
 明日にでも
 みんなに声かけてよ
 何か手がかりがある
 かもしれねえだろ？
-+[FID:17, TEXT:004C] 
-+[FID:17, TEXT:004D] 
-+[FID:17, TEXT:004E] 
-+[FID:17, TEXT:004F] 
++[FID:17, TEXT:004C] 明天
++[FID:17, TEXT:004D] 跟大家说一声吧
++[FID:17, TEXT:004E] 说不定能找到
++[FID:17, TEXT:004F] 什么线索呢？
 
 --- Group [left:none next=0023] ---
 ・・・ああ
-+[FID:17, TEXT:0050] 
++[FID:17, TEXT:0050] ……嗯
 
 --- Group [left:none next=0023] ---
 ・・・う〜ん
-+[FID:17, TEXT:0051] 
++[FID:17, TEXT:0051] ……嗯~
 
 --- Group [left:none next=0023] ---
 ・・・はい
-+[FID:17, TEXT:0052] 
++[FID:17, TEXT:0052] ……好的

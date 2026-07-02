@@ -20,6 +20,7 @@ import json
 import re
 import sys
 import time
+from datetime import datetime
 from pathlib import Path
 from concurrent.futures import ThreadPoolExecutor, as_completed
 import threading
@@ -27,10 +28,12 @@ import threading
 import requests
 
 SCRIPT_DIR = Path(__file__).parent
+ROOT_DIR = SCRIPT_DIR.parent
 CONFIG_PATH = SCRIPT_DIR / "config.json"
-INPUT_DIR = SCRIPT_DIR.parent / "ruby_tools" / "opencode_generated" / "processed"
+INPUT_DIR = ROOT_DIR / "ruby_tools" / "opencode_generated" / "processed"
 CACHE_PATH = SCRIPT_DIR / "translation_cache.json"
-GLOSSARY_PATH = SCRIPT_DIR.parent / "专有名词.txt"
+GLOSSARY_PATH = ROOT_DIR / "专有名词.txt"
+LOG_DIR = ROOT_DIR / "logs"
 FULLWIDTH_SPACE = "\u3000"
 
 API_URL = "https://openrouter.ai/api/v1/chat/completions"
@@ -39,6 +42,9 @@ MAX_RETRIES = 3
 MAX_WORKERS = 4
 GROUPS_PER_BATCH = 40
 UNIFY_BATCH = 50
+
+LOG_PATH = None
+LOG_LOCK = threading.Lock()
 
 SYSTEM_PROMPT = """\
 你是一个专业的日语游戏翻译。你正在翻译PS1游戏《サモンナイト》（召唤之夜）的对话脚本。
@@ -61,10 +67,11 @@ SYSTEM_PROMPT = """\
 
 UNIFY_SYSTEM_PROMPT = """\
 你是一个专业的游戏翻译校正人员。以下是同一句日文在游戏不同上下文中被翻译成了不同版本。
-请为每句选择一个最合适、最自然的中文译文作为统一译文。
+每个冲突条目会展示其所在的完整对话组上下文，标记 <UNIFY> 的行是需要你统一处理的条目。
+同一 text_id 在所有 group 中出现时，必须使用完全相同的中文译文。
 
-你必须严格输出JSON，格式如下：
-{"translations": [{"text_id": "0048", "translation": "为什么就不办了呢？"}, {"text_id": "000A", "translation": "身体好像自己学会了"}]}
+你必须严格输出JSON，为每个group输出其所有条目的完整译文：
+{"groups": [{"entries": [{"text_id": "0048", "translation": "为什么就不办了呢？"}, {"text_id": "0049", "translation": "是啊"}]}, {"entries": [{"text_id": "0048", "translation": "为什么就不办了呢？"}, {"text_id": "0150", "translation": "嗯"}]}]}
 只输出JSON，不要加任何其他文字。"""
 
 GLOSSARY = ""
@@ -91,6 +98,25 @@ def load_glossary():
         with open(GLOSSARY_PATH, "r", encoding="utf-8") as f:
             GLOSSARY = f.read().strip()
     return GLOSSARY
+
+
+def init_log():
+    global LOG_PATH
+    LOG_DIR.mkdir(parents=True, exist_ok=True)
+    ts = datetime.now().strftime("%Y%m%d_%H%M%S")
+    LOG_PATH = LOG_DIR / f"translate_{ts}.log"
+
+
+def log_write(label, content):
+    if LOG_PATH is None:
+        return
+    with LOG_LOCK:
+        with open(LOG_PATH, "a", encoding="utf-8") as f:
+            f.write(f"\n{'='*60}\n")
+            f.write(f"=== {label} ===\n")
+            f.write(f"{'='*60}\n")
+            f.write(content)
+            f.write("\n")
 
 
 def save_cache(cache):
@@ -186,6 +212,7 @@ def call_api(session, prompt, desc=""):
 
     for attempt in range(MAX_RETRIES):
         try:
+            log_write(f"REQUEST {desc}", f"System:\n{system[:500]}...\n\nPrompt:\n{prompt[:2000]}")
             resp = session.post(API_URL, json=payload, timeout=180)
             resp.raise_for_status()
             data = resp.json()
@@ -194,6 +221,7 @@ def call_api(session, prompt, desc=""):
             if content.startswith("```"):
                 content = re.sub(r"^```[^\n]*\n?", "", content)
                 content = re.sub(r"\n?```$", "", content)
+            log_write(f"RESPONSE {desc}", content[:3000])
             return content
         except Exception as e:
             print(f"    {desc} Attempt {attempt + 1} failed: {e}")
@@ -345,50 +373,96 @@ def apply_line_length(original_lines, translations, tagged_entries):
 
 
 def unify_translations(name, groups, cache, cache_lock, proxy_url, api_key):
-    """Find TEXT entries translated differently across groups and unify via LLM."""
-    text_map = {}
+    """Find TEXT entries translated differently across groups and unify via LLM.
+    Sends full group context; LLM outputs all entries per group to ensure consistency."""
+    text_index = {}
+    group_data = []
 
     for header, is_g, original_lines, tagged_entries in groups:
         if is_g or not tagged_entries:
             continue
         text_key = get_cache_key(tagged_entries)
         translations = cache.get(text_key, {})
+        group_data.append((text_key, header, original_lines, tagged_entries, translations))
         for idx, (marker, full_tag, text_num, existing) in enumerate(tagged_entries):
             trans = translations.get(text_num, "")
             if not trans:
                 continue
-            jp = original_lines[idx] if idx < len(original_lines) else ""
-            if text_num not in text_map:
-                text_map[text_num] = {"jp": jp, "text_keys": set(), "variants": {}}
-            text_map[text_num]["text_keys"].add(text_key)
-            text_map[text_num]["variants"][trans] = True
+            if text_num not in text_index:
+                text_index[text_num] = {"jp": original_lines[idx] if idx < len(original_lines) else "",
+                                        "text_keys": set(), "variants": {}}
+            text_index[text_num]["text_keys"].add(text_key)
+            text_index[text_num]["variants"][trans] = True
 
-    conflicts = {}
-    for text_num, info in text_map.items():
-        if len(info["variants"]) > 1:
-            conflicts[text_num] = info
-
+    conflicts = {tn: info for tn, info in text_index.items() if len(info["variants"]) > 1}
     if not conflicts:
         return
 
     print(f"  [{name}] Unifying {len(conflicts)} conflicting TEXT entries...")
 
-    conflict_items = list(conflicts.items())
     unified = {}
-
     session = requests.Session()
     if proxy_url:
         session.proxies = {"http": proxy_url, "https": proxy_url}
     session.headers["Authorization"] = f"Bearer {api_key}"
 
+    conflict_items = list(conflicts.items())
+
     for i in range(0, len(conflict_items), UNIFY_BATCH):
         batch = conflict_items[i:i + UNIFY_BATCH]
+        batch_tns = {tn for tn, _ in batch}
 
+        # Build fresh group index from current cache (picks up updates from prev batches)
+        group_by_key = {}
+        for header, is_g, original_lines, tagged_entries in groups:
+            if is_g or not tagged_entries:
+                continue
+            text_key = get_cache_key(tagged_entries)
+            translations = cache.get(text_key, {})
+            group_by_key[text_key] = (header, original_lines, tagged_entries, translations)
+
+        # Collect groups involved in this batch
+        involved_keys = set()
+        for tk, (gh, gol, gt, gtr) in group_by_key.items():
+            for _, _, tn, _ in gt:
+                if tn in batch_tns and gtr.get(tn, ""):
+                    involved_keys.add(tk)
+        involved_keys = list(involved_keys)
+
+        # Find shared TEXT IDs across these groups (mark as UNIFY)
+        key_texts = {}
+        for tk in involved_keys:
+            if tk not in group_by_key:
+                continue
+            _, _, gt, _ = group_by_key[tk]
+            key_texts[tk] = {tn for _, _, tn, _ in gt}
+        shared_text_ids = set()
+        all_keys = list(key_texts.keys())
+        for a in range(len(all_keys)):
+            for b in range(a + 1, len(all_keys)):
+                shared_text_ids.update(key_texts[all_keys[a]] & key_texts[all_keys[b]])
+
+        # Also include the conflicting TEXT IDs (they might not be shared if only one group has them)
+        unify_ids = shared_text_ids | {tn for tn, _ in batch}
+
+        # Build prompt: full group content
         lines = []
-        for text_num, info in batch:
-            lines.append(f"TEXT:{text_num} | 日文: {info['jp']}")
-            for vi, v in enumerate(info["variants"], 1):
-                lines.append(f"  版本{vi}: {v}")
+        group_idx = 0
+        for tk in involved_keys:
+            if tk not in group_by_key:
+                continue
+            gh, gol, gt, gtr = group_by_key[tk]
+            group_idx += 1
+            lines.append(f"\n=== GROUP {group_idx} ===")
+            speaker_m = re.findall(r"\[(left|right):([^\]]+)\]", gh)
+            if speaker_m:
+                speakers = "，".join(f"{pos}({nm})" for pos, nm in speaker_m)
+                lines.append(f"SPEAKER: {speakers}")
+            for idx, (mk, ft, tn, ex) in enumerate(gt):
+                jp = gol[idx] if idx < len(gol) else ""
+                t = gtr.get(tn, "")
+                mark = " <UNIFY>" if tn in unify_ids else ""
+                lines.append(f"TEXT:{tn} | {t}{mark} | 日文: {jp}")
 
         prompt = "\n".join(lines)
 
@@ -404,29 +478,36 @@ def unify_translations(name, groups, cache, cache_lock, proxy_url, api_key):
                 "temperature": 0.3,
                 "response_format": {"type": "json_object"},
             }
+            desc = f"[{name}] unify batch"
+            log_write(f"REQUEST {desc}", f"System:\n{system[:500]}...\n\nPrompt:\n{prompt[:3000]}")
             resp = session.post(API_URL, json=payload, timeout=180)
             resp.raise_for_status()
             data = resp.json()
             content = data["choices"][0]["message"]["content"]
             content = content.strip()
+            log_write(f"RESPONSE {desc}", content[:3000])
             if content.startswith("```"):
                 content = re.sub(r"^```[^\n]*\n?", "", content)
                 content = re.sub(r"\n?```$", "", content)
 
             result = json.loads(content)
-            for item in result.get("translations", []):
-                unified[item["text_id"].upper()] = item["translation"]
+            resp_groups = result.get("groups", [])
+            # Apply: each group's entries map text_id -> translation
+            for gi, g in enumerate(resp_groups):
+                if gi >= len(involved_keys):
+                    break
+                tk = involved_keys[gi]
+                for item in g.get("entries", []):
+                    unified[(tk, item["text_id"].upper())] = item["translation"]
         except Exception as e:
             print(f"  [{name}] Unify batch failed: {e}")
             continue
 
     if unified:
         with cache_lock:
-            for text_num, unified_trans in unified.items():
-                if text_num in conflicts:
-                    for text_key in conflicts[text_num]["text_keys"]:
-                        if text_key in cache:
-                            cache[text_key][text_num] = unified_trans
+            for (text_key, text_num), unified_trans in unified.items():
+                if text_key in cache:
+                    cache[text_key][text_num] = unified_trans
             save_cache(cache)
         print(f"  [{name}] Unified {len(unified)} TEXT entries")
 
@@ -561,6 +642,7 @@ def main():
 
     cache = load_cache()
     glossary = load_glossary()
+    init_log()
     print(f"Loaded {len(cache)} cached group translations")
     if glossary:
         print(f"Loaded glossary: {len(glossary.split(chr(10)))} terms")
