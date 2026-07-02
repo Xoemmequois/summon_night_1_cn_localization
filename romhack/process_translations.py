@@ -83,7 +83,7 @@ def load_g_translations(path):
     is_g = False
 
     for line in path.read_text(encoding="utf-8").split("\n"):
-        if line.startswith("--- Group "):
+        if re.match(r"^--- Group .* ---G?$", line):
             if cur_header is not None and is_g:
                 results.append((cur_ids, cur_header, cur_map))
             cur_header = line
@@ -213,6 +213,7 @@ def process_file(orig_path, out_path, char_map):
 
     output_lines = []
     for block in filtered:
+        block[0] = re.sub(r"Group \d+", "Group", block[0])
         output_lines.extend(block)
         output_lines.append("")
 

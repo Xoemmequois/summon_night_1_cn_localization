@@ -106,7 +106,7 @@ def parse_processed_content(content):
     in_original = True
 
     for line in content.split("\n"):
-        if line.startswith("--- Group "):
+        if re.match(r"^--- Group .* ---G?$", line):
             if current_header is not None:
                 groups.append((current_header, current_is_g,
                                current_original, current_tagged))
