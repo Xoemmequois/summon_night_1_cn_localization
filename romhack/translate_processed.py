@@ -298,7 +298,8 @@ def translate_batch(session, full_batch, desc=""):
 
 def apply_line_length(original_lines, translations, tagged_entries):
     """Enforce ≤10-char-per-line rule for original lines ≤10 chars long.
-    Overflow spills to the next tag slot."""
+    Overflow spills forward to next slot only (never backfills earlier lines).
+    If overflow can't fit by the last slot, append '【超出】' marker."""
     ordered = []
     for marker, full_tag, text_num, existing in tagged_entries:
         ordered.append(translations.get(text_num, ""))
@@ -321,17 +322,18 @@ def apply_line_length(original_lines, translations, tagged_entries):
 
         result.append(trans)
 
-    # Try to absorb overflow into remaining short-line slots
-    while overflow and len(result) < len(original_lines):
-        result.append("")
-    for i in range(len(result)):
-        if not overflow:
-            break
-        if len(original_lines[i]) <= 10 and len(result[i]) < 10:
-            space = 10 - len(result[i])
-            take = min(space, len(overflow))
-            result[i] += overflow[:take]
-            overflow = overflow[take:]
+    # Forward-only: push overflow into extra tagged slots
+    while overflow and len(result) < len(tagged_entries):
+        take = overflow[:10]
+        overflow = overflow[10:]
+        result.append(take)
+
+    # If overflow still remains, mark it
+    if overflow:
+        if len(result) < len(tagged_entries):
+            result.append(overflow + "【超出】")
+        elif result:
+            result[-1] = result[-1] + overflow + "【超出】"
 
     while len(result) < len(tagged_entries):
         result.append("")
@@ -410,7 +412,9 @@ def unify_translations(name, groups, cache, cache_lock, proxy_url, api_key):
             for line in content.split("\n"):
                 m = re.match(r"TEXT:([0-9A-Fa-f]+)\s*\|\s*(.*)", line.strip())
                 if m:
-                    unified[m.group(1).upper()] = m.group(2).strip()
+                    text = m.group(2).strip()
+                    text = re.sub(r'^统一中文译文[：:]\s*', '', text)
+                    unified[m.group(1).upper()] = text
         except Exception as e:
             print(f"  [{name}] Unify batch failed: {e}")
             continue
