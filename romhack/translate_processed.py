@@ -214,7 +214,7 @@ def call_api(session, prompt, desc=""):
 
     for attempt in range(MAX_RETRIES):
         try:
-            log_write(f"REQUEST {desc}", f"System:\n{system[:500]}...\n\nPrompt:\n{prompt[:2000]}")
+            log_write(f"REQUEST {desc}", f"System:\n{system}\n\nPrompt:\n{prompt}")
             resp = session.post(API_URL, json=payload, timeout=180)
             resp.raise_for_status()
             data = resp.json()
@@ -223,7 +223,7 @@ def call_api(session, prompt, desc=""):
             if content.startswith("```"):
                 content = re.sub(r"^```[^\n]*\n?", "", content)
                 content = re.sub(r"\n?```$", "", content)
-            log_write(f"RESPONSE {desc}", content[:3000])
+            log_write(f"RESPONSE {desc}", content)
             return content
         except Exception as e:
             print(f"    {desc} Attempt {attempt + 1} failed: {e}")
@@ -483,13 +483,13 @@ def unify_translations(name, groups, cache, cache_lock, proxy_url, api_key):
                 "response_format": {"type": "json_object"},
             }
             desc = f"[{name}] unify batch"
-            log_write(f"REQUEST {desc}", f"System:\n{system[:500]}...\n\nPrompt:\n{prompt[:3000]}")
+            log_write(f"REQUEST {desc}", f"System:\n{system}\n\nPrompt:\n{prompt}")
             resp = session.post(API_URL, json=payload, timeout=180)
             resp.raise_for_status()
             data = resp.json()
             content = data["choices"][0]["message"]["content"]
             content = content.strip()
-            log_write(f"RESPONSE {desc}", content[:3000])
+            log_write(f"RESPONSE {desc}", content)
             if content.startswith("```"):
                 content = re.sub(r"^```[^\n]*\n?", "", content)
                 content = re.sub(r"\n?```$", "", content)
