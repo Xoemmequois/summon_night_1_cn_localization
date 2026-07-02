@@ -150,6 +150,8 @@ def parse_processed_content(content):
             continue
 
         if not line.strip():
+            if in_original:
+                current_original.append(line)
             continue
 
         m = re.match(r"^([+-])(\[FID:[0-9A-Fa-f]+, TEXT:([0-9A-Fa-f]+)\])[ \t]*(.*)", line)
