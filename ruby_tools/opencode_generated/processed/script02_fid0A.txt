@@ -40,17 +40,27 @@
 +[FID:0A, TEXT:000D] 对方只是为了保护自己
 +[FID:0A, TEXT:000F] 她并没有错
 
---- Group 8 [right:加泽尔 next=2012] ---G
+--- Group 8 [left:雷德 next=0023] ---G
+こっちが先に
+手を出したんだ
+身を守ろうとした
+彼は悪くない
+-[FID:0A, TEXT:000B] 是我们这边
+-[FID:0A, TEXT:000C] 先出手的
+-[FID:0A, TEXT:000D] 对方只是为了保护自己
++[FID:0A, TEXT:000E] 他并没有错
+
+--- Group 9 [right:加泽尔 next=2012] ---G
 ぐっ・・・
 ずっと、見てたのかよ
 +[FID:0A, TEXT:0010] 唔……
 +[FID:0A, TEXT:0011] 你一直都在看吗
 
---- Group 9 [left:雷德 next=2012] ---G
+--- Group 10 [left:雷德 next=2012] ---G
 まあ、な
 +[FID:0A, TEXT:0012] 嗯，算是吧
 
---- Group 10 [left:雷德 next=2012] ---G
+--- Group 11 [left:雷德 next=2012] ---G
 それにエドスだったら
 気絶してるだけだ
 ちゃんと息もある
@@ -58,11 +68,11 @@
 +[FID:0A, TEXT:0014] 过去而已
 +[FID:0A, TEXT:0015] 还有呼吸的
 
---- Group 11 [right:加泽尔 next=2012] ---G
+--- Group 12 [right:加泽尔 next=2012] ---G
 ・・・わかったよ
 +[FID:0A, TEXT:0016] ……我明白了
 
---- Group 12 [right:加泽尔 next=2012] ---G
+--- Group 13 [right:加泽尔 next=2012] ---G
 とんだ言いがかりをつ
 けてすまなかった
 ゆるしてくれないか
@@ -70,23 +80,23 @@
 +[FID:0A, TEXT:0018] 了那样的话
 +[FID:0A, TEXT:0019] 能原谅我吗
 
---- Group 13 [left:none next=0023] ---G
-えっ？
-あ、はあ
-+[FID:0A, TEXT:001A] 嗯？
-+[FID:0A, TEXT:001B] 啊，嗯
-
 --- Group 14 [left:none next=0023] ---G
 えっ？
 あ、はい
--[FID:0A, TEXT:001A] 嗯？
++[FID:0A, TEXT:001A] 嗯？
 +[FID:0A, TEXT:001D] 啊，是的
 
 --- Group 15 [left:none next=0023] ---G
+えっ？
+あ、はあ
+-[FID:0A, TEXT:001A] 嗯？
++[FID:0A, TEXT:001B] 啊，嗯
+
+--- Group 16 [left:none next=0023] ---G
 いえ、こちらこそ
 +[FID:0A, TEXT:001C] 不，我才是请你原谅
 
---- Group 16 [right:加泽尔 next=2012] ---G
+--- Group 17 [right:加泽尔 next=2012] ---G
 ところで・・・
 見かけない顔だが、君
 はどこから来たんだ？
@@ -94,7 +104,7 @@
 +[FID:0A, TEXT:001F] 你的脸很陌生，你是从
 +[FID:0A, TEXT:0020] 哪里来的？
 
---- Group 17 [right:加泽尔 next=2015] ---G
+--- Group 18 [right:加泽尔 next=2015] ---G
 どうしよう？
 　素直に答える
 　黙っている
@@ -102,53 +112,53 @@
 +[FID:0A, TEXT:0022] 　老实回答
 +[FID:0A, TEXT:0023] 　保持沉默
 
---- Group 18 [left:none next=0023] ---G
+--- Group 19 [left:none next=0023] ---G
 じつは・・・
 俺もわかんないんです
 +[FID:0A, TEXT:0024] 其实……
 +[FID:0A, TEXT:0025] 我也不知道
 
---- Group 19 [left:none next=0023] ---G
+--- Group 20 [left:none next=0023] ---G
 じつは・・・
 わかんないんです
 -[FID:0A, TEXT:0024] 其实……
 +[FID:0A, TEXT:0027] 我也不知道
 
---- Group 20 [left:none next=0023] ---G
+--- Group 21 [left:none next=0023] ---G
 じつは・・・
 僕にもわかりません
 -[FID:0A, TEXT:0024] 其实……
 +[FID:0A, TEXT:0026] 我也不知道
 
---- Group 21 [right:加泽尔 next=2012] ---G
+--- Group 22 [right:加泽尔 next=2012] ---G
 はぁ？
 +[FID:0A, TEXT:0028] 哈？
-
---- Group 22 [left:none next=0023] ---G
-すくなくとも、
-こことは違う世界
-だとは思うんですが
-+[FID:0A, TEXT:0029] 至少，
-+[FID:0A, TEXT:002A] 我认为我不是这个
-+[FID:0A, TEXT:002B] 这个世界的人
 
 --- Group 23 [left:none next=0023] ---G
 すくなくとも、
 こことは違う世界
 だとは思うんですけど
--[FID:0A, TEXT:0029] 至少，
--[FID:0A, TEXT:002A] 我认为我不是这个
++[FID:0A, TEXT:0029] 至少，
++[FID:0A, TEXT:002A] 我认为我不是这个
 +[FID:0A, TEXT:002C] 这个世界的人
 
---- Group 24 [right:雷德 next=2012] ---G
+--- Group 24 [left:none next=0023] ---G
+すくなくとも、
+こことは違う世界
+だとは思うんですが
+-[FID:0A, TEXT:0029] 至少，
+-[FID:0A, TEXT:002A] 我认为我不是这个
++[FID:0A, TEXT:002B] 这个世界的人
+
+--- Group 25 [right:雷德 next=2012] ---G
 ・・・なるほどな
 +[FID:0A, TEXT:002D] ……原来如此
 
---- Group 25 [left:none next=2012] ---G
+--- Group 26 [left:none next=2012] ---G
 ？？？
 +[FID:0A, TEXT:002E] ？？？
 
---- Group 26 [right:雷德 next=2012] ---G
+--- Group 27 [right:雷德 next=2012] ---G
 ついてきなさい
 君の知りたいことは、
 少しぐらいなら説明し
@@ -158,23 +168,23 @@
 +[FID:0A, TEXT:0031] 我能解释一点给你听
 +[FID:0A, TEXT:0032] 
 
---- Group 27 [left:none next=2012] ---G
+--- Group 28 [left:none next=2012] ---G
 ・・・
 +[FID:0A, TEXT:0033] ……
 
---- Group 28 [right:加泽尔 next=2012] ---G
+--- Group 29 [right:加泽尔 next=2012] ---G
 おい、なんとか
 言ったらどうだ！？
 +[FID:0A, TEXT:0034] 喂，你倒是
 +[FID:0A, TEXT:0035] 说点什么啊！？
 
---- Group 29 [left:雷德 next=2012] ---G
+--- Group 30 [left:雷德 next=2012] ---G
 ガゼル、少しだまって
 いるんだ
 +[FID:0A, TEXT:0036] 加泽尔，你先闭嘴吧
 +[FID:0A, TEXT:0037] 
 
---- Group 30 [right:加泽尔 next=2012] ---G
+--- Group 31 [right:加泽尔 next=2012] ---G
 どうやら、いろいろと
 事情があるようだな
 もしよかったら、
@@ -184,7 +194,7 @@
 +[FID:0A, TEXT:003A] 如果可以的话，
 +[FID:0A, TEXT:003B] 能告诉我吗？
 
---- Group 31 [right:加泽尔 next=2012] ---G
+--- Group 32 [right:加泽尔 next=2012] ---G
 ひょっとすると、力に
 なれるかもしれない
 +[FID:0A, TEXT:003C] 说不定，我能帮上你的

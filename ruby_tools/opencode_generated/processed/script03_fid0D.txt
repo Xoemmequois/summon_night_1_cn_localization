@@ -788,9 +788,9 @@
 ・・・わかったよ
 +[FID:0D, TEXT:0102] ……我明白了
 
---- Group 213 [right:none next=2012] ---
+--- Group 213 [right:none next=2012] ---G
 え？
-+[FID:0D, TEXT:0103] 
++[FID:0D, TEXT:0103] 啊？
 
 --- Group 215 [left:主人公 next=2012] ---G
 え？
@@ -1828,11 +1828,11 @@
 +[FID:0D, TEXT:0253] 　稍微等一下
 +[FID:0D, TEXT:0254] 　好的
 
---- Group 714 [right:none next=0023] ---
+--- Group 714 [right:none next=0023] ---G
 　ちょっと待って
 　いいよ
-+[FID:0D, TEXT:0255] 
--[FID:0D, TEXT:0254] 
++[FID:0D, TEXT:0255] 　稍微等一下
+-[FID:0D, TEXT:0254] 　好的
 
 --- Group 715 [right:加泽尔 next=0023] ---G
 　ちょっと待って
@@ -2656,9 +2656,9 @@
 +[FID:0D, TEXT:0364] 但实际上就是这样
 +[FID:0D, TEXT:0365] 啦
 
---- Group 1098 [right:加泽尔 next=0023] ---
+--- Group 1098 [right:加泽尔 next=0023] ---G
 あ、お兄ちゃんだ
-+[FID:0D, TEXT:0366] 
++[FID:0D, TEXT:0366] 啊，是哥哥
 
 --- Group 1101 [right:none next=2012] ---G
 あ、お姉ちゃんだ
@@ -3148,11 +3148,11 @@
 何が聞きたいの？
 +[FID:0D, TEXT:03F0] 想问什么呢？
 
---- Group 1295 [left:none next=0023] ---
+--- Group 1295 [left:none next=0023] ---G
 　え〜と・・・
 　君みたいな女の子
-+[FID:0D, TEXT:03F1] 
-+[FID:0D, TEXT:03F2] 
++[FID:0D, TEXT:03F1] 　那个……
++[FID:0D, TEXT:03F2] 　你这样的女孩子
 
 --- Group 1298 [left:none next=0023] ---G
 え、えーっと・・・
@@ -3202,12 +3202,12 @@
 +[FID:0D, TEXT:0400] 姐姐居然会认真烦恼呢
 +[FID:0D, TEXT:03FF] 
 
---- Group 1322 [right:拉米 next=0023] ---
+--- Group 1322 [right:拉米 next=0023] ---G
 やだなぁ
 お兄ちゃん本気で悩み
 だすんだもん
--[FID:0D, TEXT:03FD] 
-+[FID:0D, TEXT:03FE] 
+-[FID:0D, TEXT:03FD] 讨厌啦
++[FID:0D, TEXT:03FE] 哥哥居然会认真烦恼呢
 -[FID:0D, TEXT:03FF] 
 
 --- Group 1326 [right:拉米 next=2012] ---G
@@ -3422,11 +3422,11 @@
 ・・・え、あ、なに？
 +[FID:0D, TEXT:0442] ……嗯，啊，什么？
 
---- Group 1440 [right:none next=0023] ---
+--- Group 1440 [right:none next=0023] ---G
 お兄ちゃん・・・
 おうち、ある・・・？
-+[FID:0D, TEXT:0443] 
-+[FID:0D, TEXT:0444] 
++[FID:0D, TEXT:0443] 哥哥……
++[FID:0D, TEXT:0444] 你有家吗……？
 
 --- Group 1443 [right:拉米 next=2012] ---G
 お姉ちゃん・・・
