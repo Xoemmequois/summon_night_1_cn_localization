@@ -1,2072 +1,2042 @@
 --- Group [left:主人公 next=0023] ---
 ・・・どうかな？
-+[FID:16, TEXT:0001] 
++[FID:16, TEXT:0001] ……怎么样？
 
 --- Group [left:主人公 next=0023] ---
 ・・・いかがですか？
-+[FID:16, TEXT:0002] 
++[FID:16, TEXT:0002] ……您觉得如何？
 
 --- Group [right:艾多斯 next=2012] ---
 うんうん
 よく似合っとるぞ
-+[FID:16, TEXT:0003] 
-+[FID:16, TEXT:0004] 
++[FID:16, TEXT:0003] 嗯嗯
++[FID:16, TEXT:0004] 很合身嘛
 
 --- Group [right:加泽尔 next=2012] ---
 これならお前も、立派
 にこの街の住人だぜ
-+[FID:16, TEXT:0005] 
-+[FID:16, TEXT:0006] 
++[FID:16, TEXT:0005] 这样一来，你也是
++[FID:16, TEXT:0006] 这街上合格的居民啦
 
 --- Group [right:利布雷 next=2012] ---
 寸法とかはどう？
 きつくない？
-+[FID:16, TEXT:0007] 
-+[FID:16, TEXT:0008] 
++[FID:16, TEXT:0007] 尺寸怎么样？
++[FID:16, TEXT:0008] 会不会太紧了？
 
 --- Group [left:主人公 next=0023] ---
 ああ、あつらえたみた
 いにピッタリだぜ
-+[FID:16, TEXT:0009] 
-+[FID:16, TEXT:000A] 
++[FID:16, TEXT:0009] 啊，就像是量身
++[FID:16, TEXT:000A] 定做的一样合身呢
 
 --- Group [left:主人公 next=0023] ---
 ああ、大丈夫だよ
 ありがとう
-+[FID:16, TEXT:000B] 
-+[FID:16, TEXT:000C] 
++[FID:16, TEXT:000B] 啊，没事
++[FID:16, TEXT:000C] 谢谢
 
 --- Group [left:主人公 next=0023] ---
 うん、信じられない
 くらいぴったり
-+[FID:16, TEXT:000D] 
-+[FID:16, TEXT:000E] 
++[FID:16, TEXT:000D] 嗯，简直让人
++[FID:16, TEXT:000E] 难以置信的合身
 
 --- Group [left:主人公 next=0023] ---
 ええ・・・
 本当にぴったりです
-+[FID:16, TEXT:000F] 
-+[FID:16, TEXT:0010] 
++[FID:16, TEXT:000F] 嗯……
++[FID:16, TEXT:0010] 真的非常合身
 
 --- Group [left:主人公 next=2012] ---
 しかし
 なんだよな・・・
-+[FID:16, TEXT:0011] 
-+[FID:16, TEXT:0012] 
++[FID:16, TEXT:0011] 不过……
++[FID:16, TEXT:0012] 总觉得有点……
 
 --- Group [left:主人公 next=2012] ---
 みんなは気にしなくて
 もいいって言ってくれ
 ているけれど・・・
 お世話になる以上は
-+[FID:16, TEXT:0013] 
-+[FID:16, TEXT:0026] 
-+[FID:16, TEXT:002C] 
-+[FID:16, TEXT:002D] 
++[FID:16, TEXT:0013] 大家都说不用在意
++[FID:16, TEXT:0026] 尽管住下来就好
++[FID:16, TEXT:002C] 可是……
++[FID:16, TEXT:002D] 既然受了照顾
 
 --- Group [left:主人公 next=2012] ---
 みんなは気にしなくて
 もいいって言ってくれ
 てるけど・・・
--[FID:16, TEXT:0013] 
--[FID:16, TEXT:0026] 
-+[FID:16, TEXT:0027] 
+-[FID:16, TEXT:0013] 大家都说不用在意
+-[FID:16, TEXT:0026] 尽管住下来就好
++[FID:16, TEXT:0027] 可是……
 
 --- Group [left:主人公 next=2012] ---
 みんなは気にしなくて
 もいいって言ってるけ
 ど、俺もここの一員に
 なったんだから
--[FID:16, TEXT:0013] 
-+[FID:16, TEXT:0014] 
-+[FID:16, TEXT:0015] 
-+[FID:16, TEXT:0016] 
+-[FID:16, TEXT:0013] 大家都说不用在意
++[FID:16, TEXT:0014] 尽管住下来就好
++[FID:16, TEXT:0015] 但既然我也成了
++[FID:16, TEXT:0016] 这里的一份子
 
 --- Group [left:主人公 next=0023] ---
 何かの役に立たないと
 気がひけちゃうなぁ
-+[FID:16, TEXT:0017] 
-+[FID:16, TEXT:002E] 
++[FID:16, TEXT:0017] 总得出点力才行
++[FID:16, TEXT:002E] 不然心里过意不去
 
 --- Group [left:主人公 next=2012] ---
 何かの役に立たないと
 いけない気がするなぁ
--[FID:16, TEXT:0017] 
-+[FID:16, TEXT:0018] 
+-[FID:16, TEXT:0017] 总得出点力才行
++[FID:16, TEXT:0018] 不然总觉得过意不去
 
 --- Group [left:主人公 next=2012] ---
 とはいっても、今の俺
 じゃ仕事につくことも
 難しいだろうし・・・
-+[FID:16, TEXT:0019] 
-+[FID:16, TEXT:001A] 
-+[FID:16, TEXT:001B] 
++[FID:16, TEXT:0019] 话虽如此，以我现在
++[FID:16, TEXT:001A] 这样子，要找工作
++[FID:16, TEXT:001B] 恐怕也很难……
 
 --- Group [left:主人公 next=0023] ---
 どうしたもんかねぇ
-+[FID:16, TEXT:001C] 
++[FID:16, TEXT:001C] 这可怎么办呢
 
 --- Group [left:主人公 next=2012] ---
 さて、問題はこれから
 のことだが・・・
-+[FID:16, TEXT:001D] 
-+[FID:16, TEXT:001E] 
++[FID:16, TEXT:001D] 好了，接下来
++[FID:16, TEXT:001E] 的问题就是……
 
 --- Group [left:主人公 next=2012] ---
 みんなは気にするなと
 言うけれど、僕もここ
 の一員になったんだ
-+[FID:16, TEXT:001F] 
-+[FID:16, TEXT:0020] 
-+[FID:16, TEXT:0021] 
++[FID:16, TEXT:001F] 虽然大家都说不用
++[FID:16, TEXT:0020] 在意，但我也成了
++[FID:16, TEXT:0021] 这里的一份子
 
 --- Group [left:主人公 next=0023] ---
 何か、役に立てること
 を探さないとな
-+[FID:16, TEXT:0022] 
-+[FID:16, TEXT:0023] 
++[FID:16, TEXT:0022] 得找点自己能
++[FID:16, TEXT:0023] 帮上忙的事才行
 
 --- Group [left:主人公 next=2012] ---
 う〜ん
 でもなぁ・・・
-+[FID:16, TEXT:0024] 
-+[FID:16, TEXT:0025] 
++[FID:16, TEXT:0024] 嗯~
++[FID:16, TEXT:0025] 不过啊……
 
 --- Group [left:主人公 next=0023] ---
 いつまでも役立たず
 ってわけにも
 いかないよね
-+[FID:16, TEXT:0028] 
-+[FID:16, TEXT:0029] 
-+[FID:16, TEXT:002A] 
++[FID:16, TEXT:0028] 总不能一直
++[FID:16, TEXT:0029] 当个没用的人
++[FID:16, TEXT:002A] 对吧
 
 --- Group [left:none next=0023] ---
 ・・・
 お断りします
-+[FID:16, TEXT:002B] 
-+[FID:16, TEXT:010F] 
++[FID:16, TEXT:002B] ……
++[FID:16, TEXT:010F] 我拒绝
 
 --- Group [left:none next=0023] ---
 あ、剣の手入れをして
 たんですか？
-+[FID:16, TEXT:002F] 
-+[FID:16, TEXT:0030] 
++[FID:16, TEXT:002F] 啊，你在保养剑吗？
++[FID:16, TEXT:0030] 是你做的吗？
 
 --- Group [left:none next=0023] ---
 あれ、剣のお手入れの
 途中ですか？
-+[FID:16, TEXT:0031] 
-+[FID:16, TEXT:0032] 
++[FID:16, TEXT:0031] 咦，剑的保养
++[FID:16, TEXT:0032] 做到一半吗？
 
 --- Group [right:none next=2012] ---
 ああ
 習慣みたいなものさ
-+[FID:16, TEXT:0033] 
-+[FID:16, TEXT:0034] 
++[FID:16, TEXT:0033] 啊
++[FID:16, TEXT:0034] 算是种习惯吧
 
 --- Group [right:none next=2012] ---
 自分の命をあずける物
 だからね
-+[FID:16, TEXT:0035] 
-+[FID:16, TEXT:0036] 
++[FID:16, TEXT:0035] 毕竟是托付性命的家伙
++[FID:16, TEXT:0036] 嘛
 
 --- Group [left:主人公 next=0023] ---
 どうしよう？
-+[FID:16, TEXT:0037] 
++[FID:16, TEXT:0037] 怎么办？
 
 --- Group [left:主人公 next=2015] ---
 どうしよう？
 　放っておく
 　近づいてみる
--[FID:16, TEXT:0037] 
-+[FID:16, TEXT:0281] 
-+[FID:16, TEXT:0282] 
+-[FID:16, TEXT:0037] 怎么办？
++[FID:16, TEXT:0281] 　别管了
++[FID:16, TEXT:0282] 　靠近看看
 
 --- Group [left:主人公 next=2015] ---
 どうしよう？
 　やめておく
 　魚釣りをする
--[FID:16, TEXT:0037] 
-+[FID:16, TEXT:0298] 
-+[FID:16, TEXT:0299] 
+-[FID:16, TEXT:0037] 怎么办？
++[FID:16, TEXT:0298] 　还是算了
++[FID:16, TEXT:0299] 　钓鱼
 
 --- Group [right:none next=0023] ---
 　貴重な剣なんですか？
 　レイドさんは強いですよね
-+[FID:16, TEXT:0038] 
-+[FID:16, TEXT:003A] 
++[FID:16, TEXT:0038] 　是把珍贵的剑吗？
++[FID:16, TEXT:003A] 　雷德先生很强呢
 
 --- Group [right:none next=0023] ---
 　貴重な剣なんですか？
 　レイドさんて強いですよね
--[FID:16, TEXT:0038] 
-+[FID:16, TEXT:0039] 
+-[FID:16, TEXT:0038] 　是把珍贵的剑吗？
++[FID:16, TEXT:0039] 　雷德先生很强呢
 
 --- Group [right:none next=0023] ---
 　貴重な剣なんですか？
 　レイドさんって強いですよね
--[FID:16, TEXT:0038] 
-+[FID:16, TEXT:003B] 
+-[FID:16, TEXT:0038] 　是把珍贵的剑吗？
++[FID:16, TEXT:003B] 　雷德先生很强呢
 
 --- Group [left:none next=2012] ---
 貴重な剣なんですか？
-+[FID:16, TEXT:003C] 
++[FID:16, TEXT:003C] 是把珍贵的剑吗？
 
 --- Group [right:none next=2012] ---
 どうしてだい？
-+[FID:16, TEXT:003D] 
++[FID:16, TEXT:003D] 为什么这么问？
 
 --- Group [left:none next=2012] ---
 俺はシロウトだから、
 善し悪しはわかんない
 ですけど・・・
-+[FID:16, TEXT:003E] 
-+[FID:16, TEXT:003F] 
-+[FID:16, TEXT:0040] 
++[FID:16, TEXT:003E] 我是外行人
++[FID:16, TEXT:003F] 分不出好坏
++[FID:16, TEXT:0040] 不过……
 
 --- Group [left:none next=0023] ---
 なんか、レイドさんが
 とても大切にしてる気
 がして
-+[FID:16, TEXT:0041] 
-+[FID:16, TEXT:0042] 
-+[FID:16, TEXT:0043] 
++[FID:16, TEXT:0041] 总觉得，雷德先生
++[FID:16, TEXT:0042] 非常珍视它的样子
++[FID:16, TEXT:0043] 做吧
 
 --- Group [left:none next=2012] ---
 いや、なんとなくなん
 ですけど・・・
-+[FID:16, TEXT:0044] 
--[FID:16, TEXT:0040] 
++[FID:16, TEXT:0044] 不，只是凭感觉
+-[FID:16, TEXT:0040] 不过……
 
 --- Group [left:none next=2012] ---
 あたしはよく
 わかんないんですけど
-+[FID:16, TEXT:0045] 
-+[FID:16, TEXT:0046] 
++[FID:16, TEXT:0045] 我不太
++[FID:16, TEXT:0046] 懂这些
 
 --- Group [left:主人公 next=2012] ---
 わたし、剣とかの
 善し悪しはわかんない
 ですけど・・・
-+[FID:16, TEXT:0047] 
--[FID:16, TEXT:003F] 
--[FID:16, TEXT:0040] 
++[FID:16, TEXT:0047] 我虽然对剑什么的
+-[FID:16, TEXT:003F] 分不出好坏
+-[FID:16, TEXT:0040] 不过……
 
 --- Group [right:none next=2012] ---
 ・・・こいつは、私が
 騎士見習いだった時に
 先輩からもらったもの
 なんだよ
-+[FID:16, TEXT:0048] 
-+[FID:16, TEXT:0049] 
-+[FID:16, TEXT:004A] 
-+[FID:16, TEXT:004B] 
++[FID:16, TEXT:0048] ……这是，我在
++[FID:16, TEXT:0049] 当见习骑士的时候
++[FID:16, TEXT:004A] 前辈给我的东西
++[FID:16, TEXT:004B] 干嘛啊
 
 --- Group [right:none next=2012] ---
 だいぶ古くなって
 しまったけれど、
 愛着だけはあってね
-+[FID:16, TEXT:004C] 
-+[FID:16, TEXT:004D] 
-+[FID:16, TEXT:004E] 
++[FID:16, TEXT:004C] 虽然已经很旧了，
++[FID:16, TEXT:004D] 虽然搞砸了，
++[FID:16, TEXT:004E] 但我对它很有感情
 
 --- Group [right:none next=2012] ---
 今も使っているのさ
-+[FID:16, TEXT:004F] 
++[FID:16, TEXT:004F] 现在也还在用呢
 
 --- Group [left:主人公 next=2012] ---
 レイドさんってすごく
 強いですよね
-+[FID:16, TEXT:0050] 
-+[FID:16, TEXT:0051] 
++[FID:16, TEXT:0050] 雷德先生真的很
++[FID:16, TEXT:0051] 很强啊
 
 --- Group [left:none next=0023] ---
 この前の戦いなんかを
 見てても、あきらかに
 レベルが違っていたし
-+[FID:16, TEXT:0052] 
-+[FID:16, TEXT:0053] 
-+[FID:16, TEXT:0054] 
++[FID:16, TEXT:0052] 之前那场战斗
++[FID:16, TEXT:0053] 也能看出来，水平
++[FID:16, TEXT:0054] 明显不一样
 
 --- Group [left:主人公 next=0023] ---
 この前の戦いなんかを
 見てても、あきらかに
 みなさんとはレベルが
 違うっていうか・・
--[FID:16, TEXT:0052] 
--[FID:16, TEXT:0053] 
-+[FID:16, TEXT:005A] 
-+[FID:16, TEXT:005B] 
+-[FID:16, TEXT:0052] 之前那场战斗
+-[FID:16, TEXT:0053] 也能看出来，水平
++[FID:16, TEXT:005A] 大家的水平
++[FID:16, TEXT:005B] 完全不一样，或者说……【超出】
 
 --- Group [left:主人公 next=2012] ---
 レイドさんはやっぱり
 強いですよね
-+[FID:16, TEXT:0055] 
--[FID:16, TEXT:0051] 
++[FID:16, TEXT:0055] 雷德先生果然
+-[FID:16, TEXT:0051] 很强啊
 
 --- Group [left:none next=0023] ---
 この前の戦いでも、僕
 たちとは、あきらかに
 レベルが違っていたし
-+[FID:16, TEXT:0056] 
-+[FID:16, TEXT:0057] 
--[FID:16, TEXT:0054] 
++[FID:16, TEXT:0056] 之前那场战斗，和我们
++[FID:16, TEXT:0057] 水平明显
+-[FID:16, TEXT:0054] 明显不一样
 
 --- Group [left:none next=0023] ---
 この前の戦いだって、
 明らかにみんなとは
 レベルが違っていたし
-+[FID:16, TEXT:0058] 
-+[FID:16, TEXT:0059] 
--[FID:16, TEXT:0054] 
++[FID:16, TEXT:0058] 之前那场战斗，
++[FID:16, TEXT:0059] 明显和大家
+-[FID:16, TEXT:0054] 明显不一样
 
 --- Group [right:none next=2012] ---
 ははは
 正式な剣術を学んでる
 かどうかの違いだけさ
-+[FID:16, TEXT:005C] 
-+[FID:16, TEXT:005D] 
-+[FID:16, TEXT:005E] 
++[FID:16, TEXT:005C] 哈哈哈
++[FID:16, TEXT:005D] 只是有没有学过正式
++[FID:16, TEXT:005E] 剑术的区别而已
 
 --- Group [right:none next=2012] ---
 それに・・・
 私の腕では及びもつか
 ない人が、騎士団には
 いたんだよ
-+[FID:16, TEXT:005F] 
-+[FID:16, TEXT:0060] 
-+[FID:16, TEXT:0061] 
-+[FID:16, TEXT:0062] 
++[FID:16, TEXT:005F] 而且……
++[FID:16, TEXT:0060] 骑士团里还有我
++[FID:16, TEXT:0061] 望尘莫及的
++[FID:16, TEXT:0062] 人在呢
 
 --- Group [left:主人公 next=2012] ---
 そうなんですか？
-+[FID:16, TEXT:0063] 
++[FID:16, TEXT:0063] 这样啊？
 
 --- Group [right:none next=2012] ---
 あまりの剣撃の重さに
 【断頭台】と呼ばれて
 いたんだ・・・
-+[FID:16, TEXT:0064] 
-+[FID:16, TEXT:0065] 
-+[FID:16, TEXT:0066] 
++[FID:16, TEXT:0064] 因为剑击太重，
++[FID:16, TEXT:0065] 被称为【断头台】
++[FID:16, TEXT:0066] ……
 
 --- Group [left:主人公 next=0023] ---
 レイドさんにそこまで
 言わせるなんて
 相当、すごい人だった
 んだろうなぁ
-+[FID:16, TEXT:0067] 
-+[FID:16, TEXT:0068] 
-+[FID:16, TEXT:0069] 
-+[FID:16, TEXT:006A] 
++[FID:16, TEXT:0067] 连雷德先生都
++[FID:16, TEXT:0068] 这么说
++[FID:16, TEXT:0069] 个相当厉害的人
++[FID:16, TEXT:006A] 吧
 
 --- Group [left:主人公 next=0023] ---
 この人にそこまで言わ
 せるなんて
 相当、すごい人なんだ
 ろうな・・・
-+[FID:16, TEXT:006B] 
-+[FID:16, TEXT:006C] 
-+[FID:16, TEXT:006D] 
-+[FID:16, TEXT:006E] 
++[FID:16, TEXT:006B] 能让这个人
++[FID:16, TEXT:006C] 这么评价，那一定是
++[FID:16, TEXT:006D] 个相当厉害的人
++[FID:16, TEXT:006E] 吧……
 
 --- Group [left:主人公 next=0023] ---
 すごいひともいる
 ものなんですね・・・
 レイドさんにそこまで
 言わせるなんて
-+[FID:16, TEXT:006F] 
-+[FID:16, TEXT:0070] 
--[FID:16, TEXT:0067] 
--[FID:16, TEXT:0068] 
++[FID:16, TEXT:006F] 真是人外有人
++[FID:16, TEXT:0070] 啊……
+-[FID:16, TEXT:0067] 连雷德先生都
+-[FID:16, TEXT:0068] 这么说
 
 --- Group [left:主人公 next=0023] ---
 バノッサたち・・・
 あれから
 姿を見せませんね
-+[FID:16, TEXT:0071] 
-+[FID:16, TEXT:0072] 
-+[FID:16, TEXT:0073] 
++[FID:16, TEXT:0071] 巴诺萨他们……
++[FID:16, TEXT:0072] 从那之后
++[FID:16, TEXT:0073] 就没再出现了呢
 
 --- Group [left:主人公 next=0023] ---
 バノッサたち・・・
 あれから姿を
 見せませんよね
--[FID:16, TEXT:0071] 
-+[FID:16, TEXT:0074] 
-+[FID:16, TEXT:0075] 
+-[FID:16, TEXT:0071] 巴诺萨他们……
++[FID:16, TEXT:0074] 从那之后
++[FID:16, TEXT:0075] 就没再出现过了吧
 
 --- Group [left:none next=0023] ---
 バノッサさんたち
 あれから
 姿を見せませんね
-+[FID:16, TEXT:0076] 
--[FID:16, TEXT:0072] 
--[FID:16, TEXT:0073] 
++[FID:16, TEXT:0076] 巴诺萨先生他们
+-[FID:16, TEXT:0072] 从那之后
+-[FID:16, TEXT:0073] 就没再出现了呢
 
 --- Group [right:none next=2012] ---
 おいおい、それじゃ
 まるで彼らが襲って
 くるのを期待している
 ように聞こえるぞ
-+[FID:16, TEXT:0077] 
-+[FID:16, TEXT:0078] 
-+[FID:16, TEXT:0079] 
-+[FID:16, TEXT:007A] 
++[FID:16, TEXT:0077] 喂喂，这听起来
++[FID:16, TEXT:0078] 简直像是在期待他们
++[FID:16, TEXT:0079] 来袭击一样哦
++[FID:16, TEXT:007A] 听起来像是这样
 
 --- Group [right:none next=2012] ---
 平和なのに
 こしたことはないよ
-+[FID:16, TEXT:007B] 
-+[FID:16, TEXT:007C] 
++[FID:16, TEXT:007B] 和平无事
++[FID:16, TEXT:007C] 最好不过了
 
 --- Group [left:主人公 next=2012] ---
 剣の手入れをしていた
 んだっけ・・・
-+[FID:16, TEXT:007D] 
-+[FID:16, TEXT:007E] 
++[FID:16, TEXT:007D] 原来是在保养剑
++[FID:16, TEXT:007E] 啊……
 
 --- Group [left:主人公 next=0023] ---
 邪魔しちゃ悪いな
-+[FID:16, TEXT:007F] 
++[FID:16, TEXT:007F] 打扰了不太好
 
 --- Group [left:主人公 next=2012] ---
 剣の手入れをしている
 んだったな
-+[FID:16, TEXT:0080] 
-+[FID:16, TEXT:0081] 
++[FID:16, TEXT:0080] 是在保养剑
++[FID:16, TEXT:0081] 啊
 
 --- Group [left:主人公 next=0023] ---
 邪魔するのはよそう
-+[FID:16, TEXT:0082] 
++[FID:16, TEXT:0082] 还是别打扰了吧
 
 --- Group [left:主人公 next=2012] ---
 あ、レイドさん、剣の
 お手入れ中だよね
-+[FID:16, TEXT:0083] 
-+[FID:16, TEXT:0084] 
++[FID:16, TEXT:0083] 啊，雷德先生正在
++[FID:16, TEXT:0084] 保养剑吧
 
 --- Group [left:主人公 next=0023] ---
 邪魔しちゃ悪いね
-+[FID:16, TEXT:0085] 
++[FID:16, TEXT:0085] 打扰了不好
 
 --- Group [left:主人公 next=0023] ---
 邪魔しちゃ
 悪いですよね
-+[FID:16, TEXT:0086] 
-+[FID:16, TEXT:0087] 
++[FID:16, TEXT:0086] 打扰了
++[FID:16, TEXT:0087] 不好呢
 
 --- Group [right:none next=2012] ---
 よぉ、どうした？
-+[FID:16, TEXT:0088] 
++[FID:16, TEXT:0088] 哟，怎么了？
 
 --- Group [left:none next=0023] ---
 俺にでもできる仕事っ
 て、何かないかな？
-+[FID:16, TEXT:0089] 
-+[FID:16, TEXT:008A] 
++[FID:16, TEXT:0089] 有没有什么我能
++[FID:16, TEXT:008A] 做的工作？
 
 --- Group [left:none next=0023] ---
 僕にでもできる仕事は
 ないかな？
-+[FID:16, TEXT:008B] 
-+[FID:16, TEXT:008C] 
++[FID:16, TEXT:008B] 有没有我能
++[FID:16, TEXT:008C] 做的工作啊？
 
 --- Group [left:none next=0023] ---
 なんか、あたしにも
 できることない？
-+[FID:16, TEXT:008D] 
-+[FID:16, TEXT:008E] 
++[FID:16, TEXT:008D] 有没有什么我也
++[FID:16, TEXT:008E] 能做的事？
 
 --- Group [left:主人公 next=0023] ---
 わたしにもできる
 ことって、なにか
 ないでしょうか？
-+[FID:16, TEXT:008F] 
-+[FID:16, TEXT:0090] 
-+[FID:16, TEXT:0091] 
++[FID:16, TEXT:008F] 有没有什么
++[FID:16, TEXT:0090] 我能做的
++[FID:16, TEXT:0091] 事呢？
 
 --- Group [right:none next=2012] ---
 わかってねえなぁ
-+[FID:16, TEXT:0092] 
++[FID:16, TEXT:0092] 真是不懂啊
 
 --- Group [left:none next=2012] ---
 え？
-+[FID:16, TEXT:0093] 
++[FID:16, TEXT:0093] 诶？
 
 --- Group [right:none next=2012] ---
 お前の仕事は、ここで
 留守を守るってことだ
 ろうが！？
-+[FID:16, TEXT:0094] 
-+[FID:16, TEXT:0095] 
-+[FID:16, TEXT:0096] 
++[FID:16, TEXT:0094] 你的工作就是在这里
++[FID:16, TEXT:0095] 留守吧！？
++[FID:16, TEXT:0096] 是吧！？
 
 --- Group [left:none next=0023] ---
 そうだけど・・・
-+[FID:16, TEXT:0097] 
++[FID:16, TEXT:0097] 虽然是这样……
 
 --- Group [left:none next=0023] ---
 でもさ・・・
-+[FID:16, TEXT:0098] 
++[FID:16, TEXT:0098] 可是啊……
 
 --- Group [left:主人公 next=0023] ---
 でも・・・
-+[FID:16, TEXT:0099] 
++[FID:16, TEXT:0099] 可是……
 
 --- Group [left:主人公 next=0023] ---
 でも・・・
 釣りの餌がないわね
 餌を探さなくては
 いけないみたい・・
--[FID:16, TEXT:0099] 
-+[FID:16, TEXT:0295] 
-+[FID:16, TEXT:0296] 
-+[FID:16, TEXT:0297] 
+-[FID:16, TEXT:0099] 可是……
++[FID:16, TEXT:0295] 没有鱼饵呢
++[FID:16, TEXT:0296] 得去找鱼饵
++[FID:16, TEXT:0297] 才行
 
 --- Group [right:none next=2012] ---
 言いたいことはわかる
 俺だって、仕事につけ
 なくてブラブラしてる
 身分だしな・・・
-+[FID:16, TEXT:009A] 
-+[FID:16, TEXT:009B] 
-+[FID:16, TEXT:009C] 
-+[FID:16, TEXT:009D] 
++[FID:16, TEXT:009A] 我明白你想说什么
++[FID:16, TEXT:009B] 我也是，找不到工作
++[FID:16, TEXT:009C] 整天无所事事
++[FID:16, TEXT:009D] 的身份啊……
 
 --- Group [right:none next=2012] ---
 どうしても気まずいと
 思うんなら、リプレの
 仕事を手伝ってやるの
 はどうだ？
-+[FID:16, TEXT:009E] 
-+[FID:16, TEXT:009F] 
-+[FID:16, TEXT:00A0] 
-+[FID:16, TEXT:00A1] 
++[FID:16, TEXT:009E] 要是实在觉得别扭
++[FID:16, TEXT:009F] 不如去帮莉普蕾
++[FID:16, TEXT:00A0] 干活怎么样？
++[FID:16, TEXT:00A1] 怎么样？
 
 --- Group [right:none next=2012] ---
 チビどもと遊んでやる
 とかよ・・・
-+[FID:16, TEXT:00A2] 
-+[FID:16, TEXT:00A3] 
++[FID:16, TEXT:00A2] 陪那些小鬼玩
++[FID:16, TEXT:00A3] 之类的……
 
 --- Group [left:none next=2012] ---
 レイドさんが騎士だ
 ったって、前に話を
 してくれましたよね
-+[FID:16, TEXT:00A4] 
-+[FID:16, TEXT:00A5] 
-+[FID:16, TEXT:00A6] 
++[FID:16, TEXT:00A4] 雷德先生以前是骑士
++[FID:16, TEXT:00A5] 这事儿您之前
++[FID:16, TEXT:00A6] 跟我说过吧
 
 --- Group [right:none next=2012] ---
 ああ、しかも普通の
 騎士じゃないぞ
 騎士団長の候補にも
 あがっていた
-+[FID:16, TEXT:00A7] 
-+[FID:16, TEXT:00A8] 
-+[FID:16, TEXT:00A9] 
-+[FID:16, TEXT:00AA] 
++[FID:16, TEXT:00A7] 嗯，而且可不是
++[FID:16, TEXT:00A8] 普通的骑士
++[FID:16, TEXT:00A9] 他还曾被提名为
++[FID:16, TEXT:00AA] 骑士团长的候选人呢
 
 --- Group [left:主人公 next=0023] ---
 それって・・・
 ひょっとしてめちゃ
 くちゃすごいんじゃ
 ないんですか！？
-+[FID:16, TEXT:00AB] 
-+[FID:16, TEXT:00AC] 
-+[FID:16, TEXT:00AD] 
-+[FID:16, TEXT:00AE] 
++[FID:16, TEXT:00AB] 那岂不是……
++[FID:16, TEXT:00AC] 厉害得不得了
++[FID:16, TEXT:00AD] 吗！？
++[FID:16, TEXT:00AE] 没有吗！？
 
 --- Group [left:none next=0023] ---
 それって・・・
 ひょっとしてすごい
 ことなんじゃ
 ないんですか？
--[FID:16, TEXT:00AB] 
-+[FID:16, TEXT:00B3] 
-+[FID:16, TEXT:00B4] 
-+[FID:16, TEXT:00B5] 
+-[FID:16, TEXT:00AB] 那岂不是……
++[FID:16, TEXT:00B3] 非常了不起的
++[FID:16, TEXT:00B4] 事情吗？
++[FID:16, TEXT:00B5] 没有吗？
 
 --- Group [left:主人公 next=0023] ---
 騎士団長・・・！
 そう簡単に、なれる
 ものではないんでし
 ょう？
-+[FID:16, TEXT:00AF] 
-+[FID:16, TEXT:00B0] 
-+[FID:16, TEXT:00B1] 
-+[FID:16, TEXT:00B2] 
++[FID:16, TEXT:00AF] 骑士团长……！
++[FID:16, TEXT:00B0] 那可不是随随便便
++[FID:16, TEXT:00B1] 就能当上的吧？
++[FID:16, TEXT:00B2] 这样吗？
 
 --- Group [right:none next=2012] ---
 ま、そうだわな
-+[FID:16, TEXT:00B6] 
++[FID:16, TEXT:00B6] 嘛，是啊
 
 --- Group [left:none next=0023] ---
 でも、それならどう
 して辞めたりなんか
 したんです？
-+[FID:16, TEXT:00B7] 
-+[FID:16, TEXT:00B8] 
-+[FID:16, TEXT:00BA] 
++[FID:16, TEXT:00B7] 可是，既然这样
++[FID:16, TEXT:00B8] 又为什么要辞职呢
++[FID:16, TEXT:00BA] ？
 
 --- Group [left:none next=0023] ---
 でも、それならどう
 して辞めたりなんか
 したんでしょう？
--[FID:16, TEXT:00B7] 
--[FID:16, TEXT:00B8] 
-+[FID:16, TEXT:00BD] 
+-[FID:16, TEXT:00B7] 可是，既然这样
+-[FID:16, TEXT:00B8] 又为什么要辞职呢
++[FID:16, TEXT:00BD] ？
 
 --- Group [left:none next=0023] ---
 でも、それならどう
 して辞めたりなんか
 したんだろう？
--[FID:16, TEXT:00B7] 
--[FID:16, TEXT:00B8] 
-+[FID:16, TEXT:00B9] 
+-[FID:16, TEXT:00B7] 可是，既然这样
+-[FID:16, TEXT:00B8] 又为什么要辞职呢
++[FID:16, TEXT:00B9] ？
 
 --- Group [left:none next=0023] ---
 でも、なんで
 やめちゃったのかな
-+[FID:16, TEXT:00BB] 
-+[FID:16, TEXT:00BC] 
++[FID:16, TEXT:00BB] 可是，为什么
++[FID:16, TEXT:00BC] 要辞职呢
 
 --- Group [right:none next=2012] ---
 さあな・・・
 そのへんの事情は、
 一度も聞いたことが
 ないからなぁ
-+[FID:16, TEXT:00BE] 
-+[FID:16, TEXT:00BF] 
-+[FID:16, TEXT:00C0] 
-+[FID:16, TEXT:00C1] 
++[FID:16, TEXT:00BE] 谁知道呢……
++[FID:16, TEXT:00BF] 关于那方面的内情
++[FID:16, TEXT:00C0] 我一次都没听过
++[FID:16, TEXT:00C1] 啊
 
 --- Group [right:none next=2012] ---
 本人が黙っているの
 をみると、あんまり
 思い出したくない訳が
 あるのかもしれんな
-+[FID:16, TEXT:00C2] 
-+[FID:16, TEXT:00C3] 
-+[FID:16, TEXT:00C4] 
-+[FID:16, TEXT:00C5] 
++[FID:16, TEXT:00C2] 看他自己闭口不谈
++[FID:16, TEXT:00C3] 可能是有什么
++[FID:16, TEXT:00C4] 不太想回忆的
++[FID:16, TEXT:00C5] 缘由吧
 
 --- Group [left:主人公 next=2012] ---
 ラミちゃん
-+[FID:16, TEXT:00C6] 
++[FID:16, TEXT:00C6] 拉米酱
 
 --- Group [left:none next=2012] ---
 あ・・・
-+[FID:16, TEXT:00C7] 
++[FID:16, TEXT:00C7] 啊……
 
 --- Group [left:none next=2012] ---
 あ・・・
 今、気づいたけど
--[FID:16, TEXT:00C7] 
-+[FID:16, TEXT:00CD] 
+-[FID:16, TEXT:00C7] 啊……
++[FID:16, TEXT:00CD] 现在才注意到
 
 --- Group [left:主人公 next=0023] ---
 あ・・・
 ちょっと待って！
--[FID:16, TEXT:00C7] 
-+[FID:16, TEXT:0247] 
+-[FID:16, TEXT:00C7] 啊……
++[FID:16, TEXT:0247] 等等！
 
 --- Group [left:none next=0023] ---
 本、読んでたんだ？
-+[FID:16, TEXT:00C8] 
++[FID:16, TEXT:00C8] 你在看书？
 
 --- Group [left:主人公 next=0023] ---
 本を読んでたのかい
-+[FID:16, TEXT:00C9] 
++[FID:16, TEXT:00C9] 你在看书吗？
 
 --- Group [right:none next=2012] ---
 ・・・（こくん）
-+[FID:16, TEXT:00CA] 
++[FID:16, TEXT:00CA] ……（点点头）
 
 --- Group [left:主人公 next=2012] ---
 どれどれ？
 ・・・童話だな
-+[FID:16, TEXT:00CB] 
-+[FID:16, TEXT:00CC] 
++[FID:16, TEXT:00CB] 让我看看？
++[FID:16, TEXT:00CC] ……是童话啊
 
 --- Group [left:none next=0023] ---
 俺、この世界の言葉を
 平然と理解してるよな
-+[FID:16, TEXT:00CE] 
-+[FID:16, TEXT:00CF] 
++[FID:16, TEXT:00CE] 我居然能若无其事地
++[FID:16, TEXT:00CF] 理解这个世界的语言啊
 
 --- Group [left:主人公 next=2012] ---
 ああ、そう言えば
 今まで気づかなかった
 けれど・・・
-+[FID:16, TEXT:00D0] 
-+[FID:16, TEXT:00D1] 
-+[FID:16, TEXT:00D2] 
++[FID:16, TEXT:00D0] 啊，说起来
++[FID:16, TEXT:00D1] 一直没注意到
++[FID:16, TEXT:00D2] 呢……
 
 --- Group [left:主人公 next=0023] ---
 僕はこの世界の言葉を
 平然と理解している
-+[FID:16, TEXT:00D3] 
-+[FID:16, TEXT:00D4] 
++[FID:16, TEXT:00D3] 我能若无其事地
++[FID:16, TEXT:00D4] 理解这个世界的语言
 
 --- Group [left:主人公 next=2012] ---
 なになに？
 ・・・へぇ
 童話なんだ
-+[FID:16, TEXT:00D5] 
-+[FID:16, TEXT:00D6] 
-+[FID:16, TEXT:00D7] 
++[FID:16, TEXT:00D5] 什么什么？
++[FID:16, TEXT:00D6] ……嚯
++[FID:16, TEXT:00D7] 是童话啊
 
 --- Group [left:none next=2012] ---
 あれ・・・
 今、気づいたけど
-+[FID:16, TEXT:00D8] 
--[FID:16, TEXT:00CD] 
++[FID:16, TEXT:00D8] 咦……
+-[FID:16, TEXT:00CD] 现在才注意到
 
 --- Group [left:主人公 next=0023] ---
 あたし、この世界の
 言葉がわかってる
-+[FID:16, TEXT:00D9] 
-+[FID:16, TEXT:00DA] 
++[FID:16, TEXT:00D9] 我能听懂
++[FID:16, TEXT:00DA] 这个世界的语言
 
 --- Group [left:none next=2012] ---
 これは・・・
 ・・・童話ですね
-+[FID:16, TEXT:00DB] 
-+[FID:16, TEXT:00DC] 
++[FID:16, TEXT:00DB] 这是……
++[FID:16, TEXT:00DC] ……是童话呢
 
 --- Group [left:none next=0023] ---
 わたし、この世界の
 言葉をいつの間にか
 理解できてる・・・
-+[FID:16, TEXT:00DD] 
-+[FID:16, TEXT:00DE] 
-+[FID:16, TEXT:00DF] 
++[FID:16, TEXT:00DD] 我不知什么时候
++[FID:16, TEXT:00DE] 居然能理解
++[FID:16, TEXT:00DF] 这个世界的语言了……
 
 --- Group [right:none next=2012] ---
 ・・・？
-+[FID:16, TEXT:00E0] 
++[FID:16, TEXT:00E0] ……？
 
 --- Group [left:主人公 next=0023] ---
 なんでだろ？
-+[FID:16, TEXT:00E1] 
++[FID:16, TEXT:00E1] 为什么呢？
 
 --- Group [left:none next=0023] ---
 どうしてだろう？
-+[FID:16, TEXT:00E2] 
++[FID:16, TEXT:00E2] 为什么会这样呢？
 
 --- Group [right:none next=2012] ---
 どうしたの・・・？
-+[FID:16, TEXT:00E3] 
++[FID:16, TEXT:00E3] 怎么了……？
 
 --- Group [left:主人公 next=2012] ---
 あ、何でもないよ！
-+[FID:16, TEXT:00E4] 
++[FID:16, TEXT:00E4] 啊，没什么！
 
 --- Group [left:none next=0023] ---
 魔法の力ってやつかも
 しれないなぁ・・・
-+[FID:16, TEXT:00E5] 
-+[FID:16, TEXT:00E6] 
++[FID:16, TEXT:00E5] 说不定是
++[FID:16, TEXT:00E6] 魔法的力量吧……
 
 --- Group [left:主人公 next=2012] ---
 いや、何でもないよ
-+[FID:16, TEXT:00E7] 
++[FID:16, TEXT:00E7] 不，没什么
 
 --- Group [left:none next=0023] ---
 これも召喚術とやらの
 力なのかもな
-+[FID:16, TEXT:00E8] 
-+[FID:16, TEXT:00E9] 
++[FID:16, TEXT:00E8] 这也是所谓的
++[FID:16, TEXT:00E9] 召唤术的力量吧
 
 --- Group [left:none next=2012] ---
 あ、何でもないない！
-+[FID:16, TEXT:00EA] 
++[FID:16, TEXT:00EA] 啊，没什么没什么！
 
 --- Group [left:none next=0023] ---
 これって魔法の力
 ってやつかな・・・
-+[FID:16, TEXT:00EB] 
-+[FID:16, TEXT:00EC] 
++[FID:16, TEXT:00EB] 这就是所谓的魔法力量
++[FID:16, TEXT:00EC] 吗……
 
 --- Group [left:主人公 next=2012] ---
 あ、何でもないの
-+[FID:16, TEXT:00ED] 
++[FID:16, TEXT:00ED] 啊，没什么
 
 --- Group [left:主人公 next=0023] ---
 ・・・これは、魔法の
 力なのかも・・・
-+[FID:16, TEXT:00EE] 
-+[FID:16, TEXT:00EF] 
++[FID:16, TEXT:00EE] ……这，也许是魔法
++[FID:16, TEXT:00EF] 的力量吧……
 
 --- Group [right:none next=2012] ---
 よお、@ n 
-+[FID:16, TEXT:00F0] 
++[FID:16, TEXT:00F0] 喂，@n
 
 --- Group [right:none next=2012] ---
 お前、さっき何か仕事
 がしたいっていってた
 よなぁ？
-+[FID:16, TEXT:00F1] 
-+[FID:16, TEXT:00F2] 
-+[FID:16, TEXT:00F3] 
++[FID:16, TEXT:00F1] 你刚才不是说想找点
++[FID:16, TEXT:00F2] 活儿干吗？
++[FID:16, TEXT:00F3] 是吧？
 
 --- Group [left:none next=0023] ---
 あ、ああ
-+[FID:16, TEXT:00F4] 
++[FID:16, TEXT:00F4] 啊，嗯
 
 --- Group [left:主人公 next=0023] ---
 う、うん
-+[FID:16, TEXT:00F5] 
++[FID:16, TEXT:00F5] 呃，嗯
 
 --- Group [left:主人公 next=0023] ---
 え、はい
-+[FID:16, TEXT:00F6] 
++[FID:16, TEXT:00F6] 嗯，是的
 
 --- Group [right:none next=2012] ---
 ふっふっふ
 だったら、俺につきあ
 ってもらうぜ！
-+[FID:16, TEXT:00F7] 
-+[FID:16, TEXT:00F8] 
-+[FID:16, TEXT:00F9] 
++[FID:16, TEXT:00F7] 嘿嘿嘿
++[FID:16, TEXT:00F8] 那就跟我来吧！
++[FID:16, TEXT:00F9] 就交给你了！
 
 --- Group [right:none next=2012] ---
 薪が切れちまったんで
 取りにいくんだ
 つきあうよなっ？
-+[FID:16, TEXT:00FA] 
-+[FID:16, TEXT:00FB] 
-+[FID:16, TEXT:00FC] 
++[FID:16, TEXT:00FA] 柴火用完了
++[FID:16, TEXT:00FB] 要去捡一些
++[FID:16, TEXT:00FC] 你也一起来吧？
 
 --- Group [right:none next=0023] ---
 　悪いけどパスだ
 　いいぜ
-+[FID:16, TEXT:00FD] 
-+[FID:16, TEXT:00FE] 
++[FID:16, TEXT:00FD] 　抱歉，我pass
++[FID:16, TEXT:00FE] 　行啊
 
 --- Group [right:none next=0023] ---
 　遠慮させてもらう
 　つきあうよ
-+[FID:16, TEXT:00FF] 
-+[FID:16, TEXT:0100] 
++[FID:16, TEXT:00FF] 　我还是算了
++[FID:16, TEXT:0100] 　我陪你吧
 
 --- Group [right:none next=0023] ---
 　悪いけどパス！
 　うん、おっけー
-+[FID:16, TEXT:0101] 
-+[FID:16, TEXT:0102] 
++[FID:16, TEXT:0101] 　抱歉，pass！
++[FID:16, TEXT:0102] 　嗯，ok
 
 --- Group [right:none next=0023] ---
 　お断りします
 　はい
-+[FID:16, TEXT:0103] 
-+[FID:16, TEXT:0104] 
++[FID:16, TEXT:0103] 　我拒绝
++[FID:16, TEXT:0104] 　好的
 
 --- Group [left:主人公 next=0023] ---
 ああ、いいぜ
-+[FID:16, TEXT:0105] 
++[FID:16, TEXT:0105] 啊，行啊
 
 --- Group [left:none next=0023] ---
 ああ、つきあうよ
-+[FID:16, TEXT:0106] 
++[FID:16, TEXT:0106] 啊，我跟你去
 
 --- Group [left:none next=0023] ---
 うん、つき合う
-+[FID:16, TEXT:0107] 
++[FID:16, TEXT:0107] 嗯，奉陪
 
 --- Group [left:主人公 next=0023] ---
 はい、つき合います
-+[FID:16, TEXT:0108] 
++[FID:16, TEXT:0108] 好的，我陪你去
 
 --- Group [right:none next=2012] ---
 よっしゃ！
-+[FID:16, TEXT:0109] 
++[FID:16, TEXT:0109] 好嘞！
 
 --- Group [left:主人公 next=0023] ---
 うーん
 悪いけどパス！
-+[FID:16, TEXT:010A] 
-+[FID:16, TEXT:010E] 
++[FID:16, TEXT:010A] 嗯……
++[FID:16, TEXT:010E] 抱歉，我pass！
 
 --- Group [left:none next=0023] ---
 うーん
 悪いけどパスだな
--[FID:16, TEXT:010A] 
-+[FID:16, TEXT:010B] 
+-[FID:16, TEXT:010A] 嗯……
++[FID:16, TEXT:010B] 抱歉，还是算了
 
 --- Group [left:主人公 next=0023] ---
 うーん
 魚釣りねぇ・・・
--[FID:16, TEXT:010A] 
-+[FID:16, TEXT:0287] 
+-[FID:16, TEXT:010A] 嗯……
++[FID:16, TEXT:0287] 钓鱼啊……
 
 --- Group [left:none next=0023] ---
 悪いけれど、
 遠慮させてもらうよ
-+[FID:16, TEXT:010C] 
-+[FID:16, TEXT:010D] 
++[FID:16, TEXT:010C] 抱歉，
++[FID:16, TEXT:010D] 我就不奉陪了
 
 --- Group [right:none next=2012] ---
 何でだよっ！
-+[FID:16, TEXT:0110] 
++[FID:16, TEXT:0110] 为什么啊！
 
 --- Group [left:none next=0023] ---
 人に物を頼むときは、
 もうちょっと言い方っ
 てもんがあるだろう？
-+[FID:16, TEXT:0111] 
-+[FID:16, TEXT:0112] 
-+[FID:16, TEXT:0113] 
++[FID:16, TEXT:0111] 求人办事的时候，
++[FID:16, TEXT:0112] 说话也该有点
++[FID:16, TEXT:0113] 分寸吧？
 
 --- Group [left:none next=0023] ---
 人に物を頼むときは、
 礼儀をまもって
 ください！
--[FID:16, TEXT:0111] 
-+[FID:16, TEXT:011A] 
-+[FID:16, TEXT:011B] 
+-[FID:16, TEXT:0111] 求人办事的时候，
++[FID:16, TEXT:011A] 应该懂点
++[FID:16, TEXT:011B] 礼貌吧！
 
 --- Group [left:none next=0023] ---
 人に物を頼むときには
 それなりの言い方が
 あるだろう？
-+[FID:16, TEXT:0114] 
-+[FID:16, TEXT:0115] 
-+[FID:16, TEXT:0116] 
++[FID:16, TEXT:0114] 求人帮忙的时候，
++[FID:16, TEXT:0115] 总得有点
++[FID:16, TEXT:0116] 像样的说法吧？
 
 --- Group [left:主人公 next=0023] ---
 それって、全然人に、
 モノを頼む言い方じゃ
 ないよ！
-+[FID:16, TEXT:0117] 
-+[FID:16, TEXT:0118] 
-+[FID:16, TEXT:0119] 
++[FID:16, TEXT:0117] 这根本不是
++[FID:16, TEXT:0118] 求人帮忙
++[FID:16, TEXT:0119] 的说法嘛！
 
 --- Group [right:none next=2012] ---
 ぐっ・・・
-+[FID:16, TEXT:011C] 
++[FID:16, TEXT:011C] 呃……
 
 --- Group [left:none next=0023] ---
 そこんとこを考えてか
 ら誘ってくれよ
-+[FID:16, TEXT:011D] 
-+[FID:16, TEXT:011E] 
++[FID:16, TEXT:011D] 至少得先想想
++[FID:16, TEXT:011E] 再邀请我吧
 
 --- Group [left:主人公 next=0023] ---
 親しい仲にも礼儀あり
 ってことだよ
-+[FID:16, TEXT:011F] 
-+[FID:16, TEXT:0120] 
++[FID:16, TEXT:011F] 就算是熟人
++[FID:16, TEXT:0120] 也要讲礼貌啊
 
 --- Group [left:none next=0023] ---
 ひとを誘いたいなら
 その辺、考えなきゃ！
-+[FID:16, TEXT:0121] 
-+[FID:16, TEXT:0122] 
++[FID:16, TEXT:0121] 想邀请别人的话
++[FID:16, TEXT:0122] 就得考虑一下！
 
 --- Group [left:主人公 next=0023] ---
 きちんと頭を下げて
 くれれば、おつきあい
 しますよ
-+[FID:16, TEXT:0123] 
-+[FID:16, TEXT:0124] 
-+[FID:16, TEXT:0125] 
++[FID:16, TEXT:0123] 要是你好好
++[FID:16, TEXT:0124] 低头求我，
++[FID:16, TEXT:0125] 我就陪你
 
 --- Group [right:none next=2012] ---
 なあ・・・
 薪拾いにつきあえよ
-+[FID:16, TEXT:0126] 
-+[FID:16, TEXT:0127] 
++[FID:16, TEXT:0126] 喂……
++[FID:16, TEXT:0127] 陪我去捡柴火吧
 
 --- Group [left:none next=0023] ---
 うーん・・・
 それなりの改善はみら
 れるけどなぁ
-+[FID:16, TEXT:0128] 
-+[FID:16, TEXT:0129] 
-+[FID:16, TEXT:012A] 
++[FID:16, TEXT:0128] 嗯……
++[FID:16, TEXT:0129] 倒是有点进步了
++[FID:16, TEXT:012A] 但是会被说啊……
 
 --- Group [left:none next=0023] ---
 うーん・・・
 いっしょけんめい
 たのんでるつもり
 なんだろうけど・・
--[FID:16, TEXT:0128] 
-+[FID:16, TEXT:012E] 
-+[FID:16, TEXT:012F] 
-+[FID:16, TEXT:0130] 
+-[FID:16, TEXT:0128] 嗯……
++[FID:16, TEXT:012E] 虽然你好像
++[FID:16, TEXT:012F] 很努力地在
++[FID:16, TEXT:0130] 求我了……
 
 --- Group [left:主人公 next=0023] ---
 うーん・・・
 餌がないみたい
 さすがにこれじゃあ
 何も釣れないよね
--[FID:16, TEXT:0128] 
-+[FID:16, TEXT:0292] 
-+[FID:16, TEXT:0293] 
-+[FID:16, TEXT:0294] 
+-[FID:16, TEXT:0128] 嗯……
++[FID:16, TEXT:0292] 好像没饵料啊
++[FID:16, TEXT:0293] 这样的话
++[FID:16, TEXT:0294] 肯定什么也钓不到
 
 --- Group [left:none next=0023] ---
 ふむ・・・
 それなりの改善は
 みられるかな
-+[FID:16, TEXT:012B] 
-+[FID:16, TEXT:012C] 
-+[FID:16, TEXT:012D] 
++[FID:16, TEXT:012B] 嗯……
++[FID:16, TEXT:012C] 倒是有点
++[FID:16, TEXT:012D] 进步了吧
 
 --- Group [left:none next=0023] ---
 ふふ・・・
 かなり、むりしている
 みたい
-+[FID:16, TEXT:0131] 
-+[FID:16, TEXT:0132] 
-+[FID:16, TEXT:0133] 
++[FID:16, TEXT:0131] 呵呵……
++[FID:16, TEXT:0132] 好像挺勉强的
++[FID:16, TEXT:0133] 看起来是这样呢
 
 --- Group [left:none next=0023] ---
 　まだダメだな
 　いいぜ
-+[FID:16, TEXT:0134] 
--[FID:16, TEXT:00FE] 
++[FID:16, TEXT:0134] 　还是不行
+-[FID:16, TEXT:00FE] 　行啊
 
 --- Group [left:none next=0023] ---
 　やっぱりダメ
 　つきあうよ
-+[FID:16, TEXT:0135] 
--[FID:16, TEXT:0100] 
++[FID:16, TEXT:0135] 　果然还是不行
+-[FID:16, TEXT:0100] 　我陪你吧
 
 --- Group [left:none next=0023] ---
 　やっぱりダメ
 　行きましょうか
--[FID:16, TEXT:0135] 
-+[FID:16, TEXT:0142] 
+-[FID:16, TEXT:0135] 　果然还是不行
++[FID:16, TEXT:0142] 　我们走吧
 
 --- Group [left:主人公 next=0023] ---
 　まだダメー！
 　いいよ
-+[FID:16, TEXT:0136] 
-+[FID:16, TEXT:0137] 
++[FID:16, TEXT:0136] 　还不行！
++[FID:16, TEXT:0137] 　好吧
 
 --- Group [left:主人公 next=0023] ---
 　まだダメです
 　はい、行きましょう
-+[FID:16, TEXT:0138] 
-+[FID:16, TEXT:0139] 
++[FID:16, TEXT:0138] 　还不行
++[FID:16, TEXT:0139] 　好的，走吧
 
 --- Group [right:none next=2012] ---
 頼むからさぁ・・・
 つきあってくれよぉ
-+[FID:16, TEXT:013A] 
-+[FID:16, TEXT:013B] 
++[FID:16, TEXT:013A] 拜托了嘛……
++[FID:16, TEXT:013B] 陪陪我吧～
 
 --- Group [left:主人公 next=0023] ---
 さすがに、そろそろ
 許してあげようかな？
-+[FID:16, TEXT:013C] 
-+[FID:16, TEXT:013E] 
++[FID:16, TEXT:013C] 说起来，差不多
++[FID:16, TEXT:013E] 该原谅他了吧？
 
 --- Group [left:none next=0023] ---
 さすがに、そろそろ
 許してやるかな？
--[FID:16, TEXT:013C] 
-+[FID:16, TEXT:013D] 
+-[FID:16, TEXT:013C] 说起来，差不多
++[FID:16, TEXT:013D] 该原谅他了吧？
 
 --- Group [left:none next=0023] ---
 そろそろ
 許してあげましょう
-+[FID:16, TEXT:013F] 
-+[FID:16, TEXT:0140] 
++[FID:16, TEXT:013F] 差不多
++[FID:16, TEXT:0140] 原谅他吧
 
 --- Group [left:主人公 next=0023] ---
 　やっぱりヤダ
 　いいよ
-+[FID:16, TEXT:0141] 
--[FID:16, TEXT:0137] 
++[FID:16, TEXT:0141] 　果然还是不要
+-[FID:16, TEXT:0137] 　好吧
 
 --- Group [left:主人公 next=0023] ---
 どこかへ出かける
 んですか？
-+[FID:16, TEXT:0143] 
-+[FID:16, TEXT:0144] 
++[FID:16, TEXT:0143] 要出门去哪里吗？
++[FID:16, TEXT:0144] 是吗？
 
 --- Group [left:none next=0023] ---
 どこかへお出かけ
 ですか？
-+[FID:16, TEXT:0145] 
-+[FID:16, TEXT:0146] 
++[FID:16, TEXT:0145] 要出门去哪里吗？
++[FID:16, TEXT:0146] 是吗？
 
 --- Group [right:none next=2012] ---
 おお、仕事だよ
 建物用の石材の切り出
 しを、たまに手伝って
 いるのさ
-+[FID:16, TEXT:0147] 
-+[FID:16, TEXT:0148] 
-+[FID:16, TEXT:0149] 
-+[FID:16, TEXT:014A] 
++[FID:16, TEXT:0147] 哦，是工作啊
++[FID:16, TEXT:0148] 建筑用的石材切割
++[FID:16, TEXT:0149] 偶尔会帮忙
++[FID:16, TEXT:014A] 的啦
 
 --- Group [right:none next=2012] ---
 稼ぎはしれとるがな
-+[FID:16, TEXT:014B] 
++[FID:16, TEXT:014B] 不过赚不了几个钱就是了【超出】
 
 --- Group [left:none next=0023] ---
 石の切り出しって、
 かなり大変な仕事な
 んじゃないですか？
-+[FID:16, TEXT:014C] 
-+[FID:16, TEXT:014D] 
-+[FID:16, TEXT:014E] 
++[FID:16, TEXT:014C] 切割石头，
++[FID:16, TEXT:014D] 应该是很辛苦的工作吧
++[FID:16, TEXT:014E] ？不是吗？
 
 --- Group [left:主人公 next=0023] ---
 石の切り出しって、
 大変なんですよね
--[FID:16, TEXT:014C] 
-+[FID:16, TEXT:014F] 
+-[FID:16, TEXT:014C] 切割石头，
++[FID:16, TEXT:014F] 很辛苦呢
 
 --- Group [right:none next=2012] ---
 まあ、そうかもな
-+[FID:16, TEXT:0150] 
++[FID:16, TEXT:0150] 嗯，也许吧
 
 --- Group [right:none next=2012] ---
 しかし、どんな仕事
 にしても、それなり
 に苦労はあるさ
-+[FID:16, TEXT:0151] 
-+[FID:16, TEXT:0152] 
-+[FID:16, TEXT:0153] 
++[FID:16, TEXT:0151] 不过，无论什么工作
++[FID:16, TEXT:0152] 都有它相应的
++[FID:16, TEXT:0153] 辛苦之处啊
 
 --- Group [left:none next=0023] ---
 まあ、確かに
-+[FID:16, TEXT:0154] 
++[FID:16, TEXT:0154] 嗯，确实
 
 --- Group [left:主人公 next=0023] ---
 たしかにそうですね
-+[FID:16, TEXT:0155] 
++[FID:16, TEXT:0155] 确实是这样呢
 
 --- Group [left:none next=0023] ---
 確かにそうですけど
-+[FID:16, TEXT:0156] 
++[FID:16, TEXT:0156] 确实是这样，不过
 
 --- Group [left:none next=0023] ---
 そうですけど
-+[FID:16, TEXT:0157] 
++[FID:16, TEXT:0157] 是这样啦
 
 --- Group [right:none next=2012] ---
 リィンバウムでは、
 専門の技術をもって
 いる人間が重宝がら
 れていてな・・・
-+[FID:16, TEXT:0158] 
-+[FID:16, TEXT:0159] 
-+[FID:16, TEXT:015A] 
-+[FID:16, TEXT:015B] 
++[FID:16, TEXT:0158] 在林巴姆，
++[FID:16, TEXT:0159] 拥有专业技术的人
++[FID:16, TEXT:015A] 会很受重视，
++[FID:16, TEXT:015B] 所以……
 
 --- Group [right:none next=2012] ---
 ほんの少しだが、
 給金も高くなるのさ
-+[FID:16, TEXT:015C] 
-+[FID:16, TEXT:015D] 
++[FID:16, TEXT:015C] 虽然只是一点点，
++[FID:16, TEXT:015D] 工资也会高一些的
 
 --- Group [right:none next=2012] ---
 ワシは石工の見習い
 だったことがあるん
 で、それを活用して
 るってわけだ
-+[FID:16, TEXT:015E] 
-+[FID:16, TEXT:015F] 
-+[FID:16, TEXT:0160] 
-+[FID:16, TEXT:0161] 
++[FID:16, TEXT:015E] 我以前当过石匠的学徒
++[FID:16, TEXT:015F] ，所以
++[FID:16, TEXT:0160] 就活用这个技能
++[FID:16, TEXT:0161] 就是这样
 
 --- Group [left:主人公 next=0023] ---
 なるほど・・・
-+[FID:16, TEXT:0162] 
++[FID:16, TEXT:0162] 原来如此……
 
 --- Group [right:none next=0023] ---
 あれぇ！？
 お兄ちゃん、どうした
 のその服？
-+[FID:16, TEXT:0163] 
-+[FID:16, TEXT:0164] 
-+[FID:16, TEXT:0165] 
++[FID:16, TEXT:0163] 哎呀！？
++[FID:16, TEXT:0164] 哥哥，你怎么了
++[FID:16, TEXT:0165] 那件衣服？
 
 --- Group [right:none next=2012] ---
 あれぇ！？
 お姉ちゃん、どうした
 のその服？
--[FID:16, TEXT:0163] 
-+[FID:16, TEXT:0166] 
--[FID:16, TEXT:0165] 
+-[FID:16, TEXT:0163] 哎呀！？
++[FID:16, TEXT:0166] 姐姐，你怎么了
+-[FID:16, TEXT:0165] 那件衣服？
 
 --- Group [left:主人公 next=0023] ---
 リプレが作って
 くれたんだよ
-+[FID:16, TEXT:0167] 
-+[FID:16, TEXT:0168] 
++[FID:16, TEXT:0167] 是莉普蕾给我做的
++[FID:16, TEXT:0168] 哦
 
 --- Group [left:主人公 next=0023] ---
 リプレが作って
 くれたんだよ
 いいでしょ！
--[FID:16, TEXT:0167] 
--[FID:16, TEXT:0168] 
-+[FID:16, TEXT:016B] 
+-[FID:16, TEXT:0167] 是莉普蕾给我做的
+-[FID:16, TEXT:0168] 哦
++[FID:16, TEXT:016B] 不错吧！
 
 --- Group [left:none next=0023] ---
 リプレに作って
 もらったんだよ
-+[FID:16, TEXT:0169] 
-+[FID:16, TEXT:016A] 
++[FID:16, TEXT:0169] 是让莉普蕾做的
++[FID:16, TEXT:016A] 哦
 
 --- Group [left:none next=0023] ---
 リプレさんが作って
 くれたんだよ
-+[FID:16, TEXT:016C] 
--[FID:16, TEXT:0168] 
++[FID:16, TEXT:016C] 是莉普蕾小姐做的
+-[FID:16, TEXT:0168] 哦
 
 --- Group [right:none next=0023] ---
 へえ・・・
 かっこいいじゃない
-+[FID:16, TEXT:016D] 
-+[FID:16, TEXT:016E] 
++[FID:16, TEXT:016D] 嘿……
++[FID:16, TEXT:016E] 挺帅的嘛
 
 --- Group [right:none next=2012] ---
 へえ・・・
 すてきねぇ
--[FID:16, TEXT:016D] 
-+[FID:16, TEXT:016F] 
+-[FID:16, TEXT:016D] 嘿……
++[FID:16, TEXT:016F] 真不错呢
 
 --- Group [left:none next=0023] ---
 ははは、そうかい？
 ありがとな
-+[FID:16, TEXT:0170] 
-+[FID:16, TEXT:0171] 
++[FID:16, TEXT:0170] 哈哈哈，是吗？
++[FID:16, TEXT:0171] 谢啦
 
 --- Group [left:主人公 next=0023] ---
 ははは、ありがとう
-+[FID:16, TEXT:0172] 
++[FID:16, TEXT:0172] 哈哈哈，谢谢
 
 --- Group [left:none next=0023] ---
 え、そう？
 照れちゃうなぁ、もう
-+[FID:16, TEXT:0173] 
-+[FID:16, TEXT:0174] 
++[FID:16, TEXT:0173] 哎，是吗？
++[FID:16, TEXT:0174] 真让人害羞呢，真是的
 
 --- Group [left:主人公 next=0023] ---
 そう？
 うれしいな
-+[FID:16, TEXT:0175] 
-+[FID:16, TEXT:0176] 
++[FID:16, TEXT:0175] 是吗？
++[FID:16, TEXT:0176] 真开心
 
 --- Group [left:none next=0023] ---
 何してるんだい？
-+[FID:16, TEXT:0177] 
++[FID:16, TEXT:0177] 你在干什么呢？
 
 --- Group [left:none next=0023] ---
 何してるの、リプレ
-+[FID:16, TEXT:0178] 
++[FID:16, TEXT:0178] 你在干什么呢，莉普蕾
 
 --- Group [left:主人公 next=0023] ---
 何してるんですか？
-+[FID:16, TEXT:0179] 
++[FID:16, TEXT:0179] 您在干什么呢？
 
 --- Group [right:none next=2012] ---
 あ、うん・・・
 パンを・・・ね・・・
-+[FID:16, TEXT:017A] 
-+[FID:16, TEXT:017B] 
++[FID:16, TEXT:017A] 啊，嗯……
++[FID:16, TEXT:017B] 面包……呢……
 
 --- Group [left:主人公 next=0023] ---
 見るからに大変そうだ
 なあ・・・
-+[FID:16, TEXT:017C] 
--[FID:16, TEXT:0126] 
++[FID:16, TEXT:017C] 一看就很辛苦啊
+-[FID:16, TEXT:0126] 喂……
 
 --- Group [left:none next=0023] ---
 女の子には大変そうな
 仕事だな・・・
-+[FID:16, TEXT:017D] 
-+[FID:16, TEXT:017E] 
++[FID:16, TEXT:017D] 对女孩子来说
++[FID:16, TEXT:017E] 挺吃力的活儿呢……
 
 --- Group [left:none next=0023] ---
 うわぁ
 見るからに大変そうだ
 なあ・・・
-+[FID:16, TEXT:017F] 
--[FID:16, TEXT:017C] 
--[FID:16, TEXT:0126] 
++[FID:16, TEXT:017F] 哇啊
+-[FID:16, TEXT:017C] 一看就很辛苦啊
+-[FID:16, TEXT:0126] 喂……
 
 --- Group [left:none next=0023] ---
 ・・・大変そうな
 作業・・・・
-+[FID:16, TEXT:0180] 
-+[FID:16, TEXT:0181] 
++[FID:16, TEXT:0180] ……看起来很辛苦的
++[FID:16, TEXT:0181] 活儿……
 
 --- Group [left:none next=0023] ---
 　手伝うよ
 　手作りだったのか！？
-+[FID:16, TEXT:0182] 
-+[FID:16, TEXT:0183] 
++[FID:16, TEXT:0182] 　我来帮忙吧
++[FID:16, TEXT:0183] 　原来是手工做的！？
 
 --- Group [left:none next=0023] ---
 　手伝わせて！
 　手作りだったんだ！？
-+[FID:16, TEXT:0184] 
-+[FID:16, TEXT:0185] 
++[FID:16, TEXT:0184] 　让我也帮忙！
++[FID:16, TEXT:0185] 　原来是手工做的啊！？
 
 --- Group [left:主人公 next=0023] ---
 　手伝います
 　手作りだったの！？
-+[FID:16, TEXT:0186] 
-+[FID:16, TEXT:0187] 
++[FID:16, TEXT:0186] 　我来帮忙
++[FID:16, TEXT:0187] 　原来是手工做的！？
 
 --- Group [left:none next=0023] ---
 女の子にはきついだろ
 手伝うよ
-+[FID:16, TEXT:0188] 
-+[FID:16, TEXT:0189] 
++[FID:16, TEXT:0188] 对女孩子来说太累了吧
++[FID:16, TEXT:0189] 我来帮忙
 
 --- Group [left:none next=0023] ---
 こういう力仕事なら、
 僕がやるよ
-+[FID:16, TEXT:018A] 
-+[FID:16, TEXT:018B] 
++[FID:16, TEXT:018A] 这种力气活的话，
++[FID:16, TEXT:018B] 我来干吧
 
 --- Group [left:主人公 next=0023] ---
 ねえ、ちょっと
 あたしにも手伝わせて
-+[FID:16, TEXT:018C] 
-+[FID:16, TEXT:018D] 
++[FID:16, TEXT:018C] 喂，等一下
++[FID:16, TEXT:018D] 也让我帮忙吧
 
 --- Group [left:主人公 next=0023] ---
 わたしにも
 手伝わせてください
-+[FID:16, TEXT:018E] 
-+[FID:16, TEXT:018F] 
++[FID:16, TEXT:018E] 也让我
++[FID:16, TEXT:018F] 帮忙吧
 
 --- Group [right:none next=2012] ---
 いいのよ、そんな
-+[FID:16, TEXT:0190] 
++[FID:16, TEXT:0190] 不用了啦，这样
 
 --- Group [left:主人公 next=0023] ---
 いいから、いいから
 手伝わせてくれよ
-+[FID:16, TEXT:0191] 
-+[FID:16, TEXT:0192] 
++[FID:16, TEXT:0191] 没事没事
++[FID:16, TEXT:0192] 让我帮帮你嘛
 
 --- Group [left:none next=0023] ---
 いいから、いいから
 ね！
--[FID:16, TEXT:0191] 
-+[FID:16, TEXT:0195] 
+-[FID:16, TEXT:0191] 没事没事
++[FID:16, TEXT:0195] 对吧！
 
 --- Group [left:none next=0023] ---
 遠慮しないで
 ほら、貸してごらん
-+[FID:16, TEXT:0193] 
-+[FID:16, TEXT:0194] 
++[FID:16, TEXT:0193] 别客气了
++[FID:16, TEXT:0194] 来，让我试试看
 
 --- Group [left:none next=0023] ---
 すこしだけ・・・
 役に立たせて
 ほしいんです！
-+[FID:16, TEXT:0196] 
-+[FID:16, TEXT:0197] 
-+[FID:16, TEXT:0198] 
++[FID:16, TEXT:0196] 哪怕一点点……
++[FID:16, TEXT:0197] 也让我帮上忙
++[FID:16, TEXT:0198] 拜托了！
 
 --- Group [right:none next=2012] ---
 う、うん・・・
-+[FID:16, TEXT:0199] 
++[FID:16, TEXT:0199] 唔、嗯……
 
 --- Group [left:none next=2012] ---
 って、これ・・・
-+[FID:16, TEXT:019A] 
++[FID:16, TEXT:019A] 话说，这个……
 
 --- Group [left:none next=0023] ---
 見た目より、けっこう
 力がいるんじゃ
 ないの！
-+[FID:16, TEXT:019B] 
-+[FID:16, TEXT:01A0] 
-+[FID:16, TEXT:01A1] 
++[FID:16, TEXT:019B] 比看起来
++[FID:16, TEXT:01A0] 要费力
++[FID:16, TEXT:01A1] 不是吗！
 
 --- Group [left:主人公 next=0023] ---
 見た目より、けっこう
 力がいるぞ！？
--[FID:16, TEXT:019B] 
-+[FID:16, TEXT:019C] 
+-[FID:16, TEXT:019B] 比看起来
++[FID:16, TEXT:019C] 要费力气啊！？
 
 --- Group [left:主人公 next=0023] ---
 見た目より、けっこう
 力がいるみたい・・・
--[FID:16, TEXT:019B] 
-+[FID:16, TEXT:01A4] 
+-[FID:16, TEXT:019B] 比看起来
++[FID:16, TEXT:01A4] 好像挺费力的……
 
 --- Group [left:none next=2012] ---
 う、これは・・・？
-+[FID:16, TEXT:019D] 
++[FID:16, TEXT:019D] 唔、这是……？
 
 --- Group [left:none next=0023] ---
 見た目より、
 けっこう大変だぞ！？
-+[FID:16, TEXT:019E] 
-+[FID:16, TEXT:019F] 
++[FID:16, TEXT:019E] 比看起来
++[FID:16, TEXT:019F] 辛苦多了啊！？
 
 --- Group [left:none next=2012] ---
 ・・・あら？
 ・・・うそ！？
-+[FID:16, TEXT:01A2] 
-+[FID:16, TEXT:01A3] 
++[FID:16, TEXT:01A2] ……哎呀？
++[FID:16, TEXT:01A3] ……不会吧！？
 
 --- Group [left:主人公 next=0023] ---
 ・・・うそ！？
 きゃぁっ！
--[FID:16, TEXT:01A3] 
-+[FID:16, TEXT:0239] 
+-[FID:16, TEXT:01A3] ……不会吧！？
++[FID:16, TEXT:0239] 呀啊！
 
 --- Group [right:char_0041 next=2012] ---
 ああっ！
 大事な荷物がぁっ！！
-+[FID:16, TEXT:01A5] 
-+[FID:16, TEXT:023A] 
++[FID:16, TEXT:01A5] 啊啊！
++[FID:16, TEXT:023A] 重要的行李啊！！
 
 --- Group [right:none next=2012] ---
 ああっ！
 それじゃダメだよっ
--[FID:16, TEXT:01A5] 
-+[FID:16, TEXT:01A6] 
+-[FID:16, TEXT:01A5] 啊啊！
++[FID:16, TEXT:01A6] 那样不行啦
 
 --- Group [right:none next=2012] ---
 えっ？
-+[FID:16, TEXT:01A7] 
++[FID:16, TEXT:01A7] 诶？
 
 --- Group [left:主人公 next=0023] ---
 へ？
-+[FID:16, TEXT:01A8] 
++[FID:16, TEXT:01A8] 嗯？
 
 --- Group [right:none next=2012] ---
 生地に空気をよく混ぜ
 ないと、膨らみにくく
 なっちゃうんだから
-+[FID:16, TEXT:01A9] 
-+[FID:16, TEXT:01AA] 
-+[FID:16, TEXT:01AB] 
++[FID:16, TEXT:01A9] 不把空气充分揉进面团
++[FID:16, TEXT:01AA] 里的话，就不容易膨胀
++[FID:16, TEXT:01AB] 起来呀
 
 --- Group [right:none next=2012] ---
 ほら
 ちょっと貸して・・・
-+[FID:16, TEXT:01AC] 
-+[FID:16, TEXT:01AD] 
++[FID:16, TEXT:01AC] 你看
++[FID:16, TEXT:01AD] 稍微借我一下……
 
 --- Group [right:none next=2012] ---
 よいしょっ！
-+[FID:16, TEXT:01AE] 
++[FID:16, TEXT:01AE] 嘿咻！
 
 --- Group [left:主人公 next=0023] ---
 うおっ！！
 いとも簡単にっ！？
-+[FID:16, TEXT:01AF] 
-+[FID:16, TEXT:01B0] 
++[FID:16, TEXT:01AF] 喔哦！！
++[FID:16, TEXT:01B0] 这么轻松就！？
 
 --- Group [left:主人公 next=0023] ---
 僕がやるよりも
 手際がいい・・・
-+[FID:16, TEXT:01B1] 
-+[FID:16, TEXT:01B2] 
++[FID:16, TEXT:01B1] 比我做得
++[FID:16, TEXT:01B2] 利索多了……
 
 --- Group [left:none next=0023] ---
 ううっ！
 そんな簡単に・・・
-+[FID:16, TEXT:01B3] 
-+[FID:16, TEXT:01B4] 
++[FID:16, TEXT:01B3] 唔唔！
++[FID:16, TEXT:01B4] 这么轻松就……
 
 --- Group [left:none next=0023] ---
 すごい・・・
 いとも簡単に・・・
-+[FID:16, TEXT:01B5] 
-+[FID:16, TEXT:01B6] 
++[FID:16, TEXT:01B5] 好厉害……
++[FID:16, TEXT:01B6] 这么轻松就……
 
 --- Group [right:none next=2012] ---
 どう？
 感心してくれた？
-+[FID:16, TEXT:01B7] 
-+[FID:16, TEXT:01B8] 
++[FID:16, TEXT:01B7] 怎么样？
++[FID:16, TEXT:01B8] 服气了吧？
 
 --- Group [left:主人公 next=0023] ---
 まいりました
-+[FID:16, TEXT:01B9] 
++[FID:16, TEXT:01B9] 服了你了
 
 --- Group [left:主人公 next=0023] ---
 ああ、いらぬ心配
 だったみたいだね
-+[FID:16, TEXT:01BA] 
-+[FID:16, TEXT:01BB] 
++[FID:16, TEXT:01BA] 啊，看来是
++[FID:16, TEXT:01BB] 白担心了一场呢
 
 --- Group [left:主人公 next=0023] ---
 女として敗北って
 カンジ・・・
-+[FID:16, TEXT:01BC] 
-+[FID:16, TEXT:01BD] 
++[FID:16, TEXT:01BC] 作为女人真是败了
++[FID:16, TEXT:01BD] 的感觉……
 
 --- Group [left:none next=0023] ---
 ほんと
 すごいんですね・・・
-+[FID:16, TEXT:01BE] 
-+[FID:16, TEXT:01BF] 
++[FID:16, TEXT:01BE] 真的
++[FID:16, TEXT:01BF] 好厉害啊……
 
 --- Group [right:none next=2012] ---
 うふふっ
 手伝おうとしてくれた
 気持ちだけ受け取って
 おくね
-+[FID:16, TEXT:01C0] 
-+[FID:16, TEXT:01C1] 
-+[FID:16, TEXT:01C2] 
-+[FID:16, TEXT:01C3] 
++[FID:16, TEXT:01C0] 唔呼呼
++[FID:16, TEXT:01C1] 你想帮忙的
++[FID:16, TEXT:01C2] 心意我就收下啦
++[FID:16, TEXT:01C3] 小奥
 
 --- Group [left:none next=0023] ---
 ひょっとして、今まで
 のパンって手作りだっ
 たのか！？
-+[FID:16, TEXT:01C4] 
-+[FID:16, TEXT:01C5] 
-+[FID:16, TEXT:01C6] 
++[FID:16, TEXT:01C4] 难道说，之前
++[FID:16, TEXT:01C5] 的面包都是手工做的吗
++[FID:16, TEXT:01C6] ！？真的假的！？
 
 --- Group [left:主人公 next=0023] ---
 もしかして、今までの
 パンは、君の手作りだ
 ったのかい？
-+[FID:16, TEXT:01C7] 
-+[FID:16, TEXT:01C8] 
-+[FID:16, TEXT:01C9] 
++[FID:16, TEXT:01C7] 难道说，之前
++[FID:16, TEXT:01C8] 的面包，都是你手工做
++[FID:16, TEXT:01C9] 的吗？你吃了吗？
 
 --- Group [left:主人公 next=0023] ---
 ひょっとして、
 今までのパンって
 手作りだったの！？
-+[FID:16, TEXT:01CA] 
-+[FID:16, TEXT:01CB] 
-+[FID:16, TEXT:01CC] 
++[FID:16, TEXT:01CA] 难道说，
++[FID:16, TEXT:01CB] 之前的面包都是
++[FID:16, TEXT:01CC] 手工做的！？
 
 --- Group [left:主人公 next=0023] ---
 ひょっとして、
 今までのパンって
 手作りだったの・・・
--[FID:16, TEXT:01CA] 
--[FID:16, TEXT:01CB] 
-+[FID:16, TEXT:01CD] 
+-[FID:16, TEXT:01CA] 难道说，
+-[FID:16, TEXT:01CB] 之前的面包都是
++[FID:16, TEXT:01CD] 手工做的……
 
 --- Group [right:none next=2012] ---
 へへへ・・・
 じつは、そうなの
-+[FID:16, TEXT:01CE] 
-+[FID:16, TEXT:01CF] 
++[FID:16, TEXT:01CE] 嘿嘿嘿……
++[FID:16, TEXT:01CF] 其实，是的
 
 --- Group [right:none next=2012] ---
 ちょっと形がいびつ
 だったでしょ？
-+[FID:16, TEXT:01D0] 
-+[FID:16, TEXT:01D1] 
++[FID:16, TEXT:01D0] 形状有点歪歪扭扭的
++[FID:16, TEXT:01D1] 对吧？
 
 --- Group [left:主人公 next=0023] ---
 うん
-+[FID:16, TEXT:01D2] 
++[FID:16, TEXT:01D2] 嗯
 
 --- Group [left:主人公 next=0023] ---
 そんなことないよぉ
-+[FID:16, TEXT:01D3] 
++[FID:16, TEXT:01D3] 没有那回事啦
 
 --- Group [left:none next=0023] ---
 あ、たしかに・・・
-+[FID:16, TEXT:01D4] 
++[FID:16, TEXT:01D4] 啊，确实……
 
 --- Group [right:none next=2012] ---
 お店で買ったほうがい
 いのはわかってるんだ
 けどね
-+[FID:16, TEXT:01D5] 
-+[FID:16, TEXT:01D6] 
-+[FID:16, TEXT:01D7] 
++[FID:16, TEXT:01D5] 我也知道买店里的
++[FID:16, TEXT:01D6] 会更好
++[FID:16, TEXT:01D7] 但是啊
 
 --- Group [right:none next=2012] ---
 お財布と相談すると、
 手作りが一番いい方法
 なもんで・・・
-+[FID:16, TEXT:01D8] 
-+[FID:16, TEXT:01D9] 
-+[FID:16, TEXT:01DA] 
++[FID:16, TEXT:01D8] 跟钱包商量一下的话
++[FID:16, TEXT:01D9] 手工做是最好的办法
++[FID:16, TEXT:01DA] 所以……
 
 --- Group [right:none next=2012] ---
 ごめんね
 変な物食べさせて
-+[FID:16, TEXT:01DB] 
-+[FID:16, TEXT:01DC] 
++[FID:16, TEXT:01DB] 对不起啊
++[FID:16, TEXT:01DC] 让你吃了奇怪的东西
 
 --- Group [left:none next=0023] ---
 ・・・うまかった
-+[FID:16, TEXT:01DD] 
++[FID:16, TEXT:01DD] ……很好吃
 
 --- Group [left:none next=0023] ---
 いや、そうじゃない
-+[FID:16, TEXT:01DE] 
++[FID:16, TEXT:01DE] 不，不是那样
 
 --- Group [left:none next=0023] ---
 ・・・ううん！
 おいしかった！
 とっても！
-+[FID:16, TEXT:01DF] 
-+[FID:16, TEXT:01E0] 
-+[FID:16, TEXT:01E1] 
++[FID:16, TEXT:01DF] ……不会啊！
++[FID:16, TEXT:01E0] 很好吃！
++[FID:16, TEXT:01E1] 非常好吃！
 
 --- Group [left:none next=0023] ---
 おいしかった
 とっても・・・
-+[FID:16, TEXT:01E2] 
-+[FID:16, TEXT:01E3] 
++[FID:16, TEXT:01E2] 很好吃
++[FID:16, TEXT:01E3] 非常……
 
 --- Group [left:主人公 next=0023] ---
 めちゃめちゃに！
 それこそ今までで一番
 うまいパンだった！！
-+[FID:16, TEXT:01E4] 
-+[FID:16, TEXT:01E5] 
-+[FID:16, TEXT:01E6] 
++[FID:16, TEXT:01E4] 超级好吃！
++[FID:16, TEXT:01E5] 简直是我吃过最好吃的
++[FID:16, TEXT:01E6] 面包！！这面包真好吃！！【超出】
 
 --- Group [left:none next=0023] ---
 あんなに美味しいパン
 が、手作りだったこと
 に驚いてるんだ
-+[FID:16, TEXT:01E7] 
-+[FID:16, TEXT:01E8] 
-+[FID:16, TEXT:01E9] 
++[FID:16, TEXT:01E7] 我是惊讶于那么好吃的
++[FID:16, TEXT:01E8] 面包居然是手工做的
++[FID:16, TEXT:01E9] 我正惊讶呢
 
 --- Group [left:none next=0023] ---
 ホント！
 それこそ今までで一番
 おいしかったよ！
-+[FID:16, TEXT:01EA] 
--[FID:16, TEXT:01E5] 
-+[FID:16, TEXT:01EB] 
++[FID:16, TEXT:01EA] 真的！
+-[FID:16, TEXT:01E5] 简直是我吃过最好吃的
++[FID:16, TEXT:01EB] 面包！！很好吃哦！
 
 --- Group [left:none next=0023] ---
 わたしのいた世界の
 どんなにおいしい
 お店のパンよりも
 おいしかったと思う
-+[FID:16, TEXT:01EC] 
-+[FID:16, TEXT:01ED] 
-+[FID:16, TEXT:01EE] 
-+[FID:16, TEXT:01EF] 
++[FID:16, TEXT:01EC] 我觉得比我原来世界的
++[FID:16, TEXT:01ED] 任何好吃的
++[FID:16, TEXT:01EE] 面包店里的面包
++[FID:16, TEXT:01EF] 都要好吃
 
 --- Group [right:none next=2012] ---
 や、やだっ
 からかわないでよっ
-+[FID:16, TEXT:01F0] 
-+[FID:16, TEXT:01F1] 
++[FID:16, TEXT:01F0] 呀，讨厌
++[FID:16, TEXT:01F1] 别取笑我啦
 
 --- Group [left:主人公 next=2012] ---
 嘘じゃないって！
-+[FID:16, TEXT:01F2] 
++[FID:16, TEXT:01F2] 我没说谎啊！
 
 --- Group [left:none next=0023] ---
 すごいぜ、リプレ
 尊敬しちゃうよ
-+[FID:16, TEXT:01F3] 
-+[FID:16, TEXT:01F4] 
++[FID:16, TEXT:01F3] 太厉害了，莉普蕾
++[FID:16, TEXT:01F4] 我都佩服你了
 
 --- Group [left:none next=2012] ---
 いや、本当さ
-+[FID:16, TEXT:01F5] 
++[FID:16, TEXT:01F5] 不，是真的
 
 --- Group [left:none next=0023] ---
 すごいな、リプレ
 感心するよ・・・
-+[FID:16, TEXT:01F6] 
-+[FID:16, TEXT:01F7] 
++[FID:16, TEXT:01F6] 真厉害啊，莉普蕾
++[FID:16, TEXT:01F7] 真让人佩服……
 
 --- Group [left:none next=2012] ---
 嘘じゃないよ！
-+[FID:16, TEXT:01F8] 
++[FID:16, TEXT:01F8] 我没说谎啊！
 
 --- Group [left:none next=0023] ---
 リプレ
 尊敬しちゃう！
-+[FID:16, TEXT:01F9] 
-+[FID:16, TEXT:01FA] 
++[FID:16, TEXT:01F9] 莉普蕾
++[FID:16, TEXT:01FA] 我佩服你！
 
 --- Group [left:none next=2012] ---
 嘘じゃないです
-+[FID:16, TEXT:01FB] 
++[FID:16, TEXT:01FB] 我没说谎
 
 --- Group [left:主人公 next=0023] ---
 ちょっと
 尊敬するな・・・
-+[FID:16, TEXT:01FC] 
-+[FID:16, TEXT:01FD] 
++[FID:16, TEXT:01FC] 有点
++[FID:16, TEXT:01FD] 佩服你了……
 
 --- Group [right:none next=2012] ---
 ああっ、もぉっ！
-+[FID:16, TEXT:01FE] 
++[FID:16, TEXT:01FE] 啊啊，真是的！
 
 --- Group [left:主人公 next=2012] ---
 あ・・・？
-+[FID:16, TEXT:01FF] 
++[FID:16, TEXT:01FF] 啊……？
 
 --- Group [left:主人公 next=0023] ---
 行っちゃったよ
-+[FID:16, TEXT:0200] 
++[FID:16, TEXT:0200] 跑掉了啊
 
 --- Group [left:主人公 next=0023] ---
 照れなくてもいいのに
-+[FID:16, TEXT:0201] 
++[FID:16, TEXT:0201] 明明不用害羞的嘛
 
 --- Group [left:none next=0023] ---
 行っちゃった・・・
-+[FID:16, TEXT:0202] 
++[FID:16, TEXT:0202] 跑掉了……
 
 --- Group [left:主人公 next=2012] ---
 え・・・？
 あ、リプレさん！
 どこへ！？
-+[FID:16, TEXT:0203] 
-+[FID:16, TEXT:0204] 
-+[FID:16, TEXT:0205] 
++[FID:16, TEXT:0203] 诶……？
++[FID:16, TEXT:0204] 啊，莉普蕾小姐！
++[FID:16, TEXT:0205] 你去哪儿！？
 
 --- Group [left:主人公 next=0023] ---
 パンを作ってる
 途中なのに・・・
-+[FID:16, TEXT:0206] 
-+[FID:16, TEXT:0207] 
++[FID:16, TEXT:0206] 明明还在
++[FID:16, TEXT:0207] 做面包呢……
 
 --- Group [right:none next=2012] ---
 えいっ！
 やあぁっ！！
-+[FID:16, TEXT:0208] 
-+[FID:16, TEXT:0209] 
++[FID:16, TEXT:0208] 嘿！
++[FID:16, TEXT:0209] 呀啊！！
 
 --- Group [left:none next=0023] ---
 お、騎士ごっこか？
-+[FID:16, TEXT:020A] 
++[FID:16, TEXT:020A] 哦，玩骑士游戏吗？
 
 --- Group [left:none next=0023] ---
 騎士ごっこかい？
-+[FID:16, TEXT:020B] 
++[FID:16, TEXT:020B] 是玩骑士游戏吗？
 
 --- Group [left:主人公 next=0023] ---
 ありゃ、騎士ごっこ？
-+[FID:16, TEXT:020C] 
++[FID:16, TEXT:020C] 哎呀，玩骑士游戏？
 
 --- Group [left:主人公 next=0023] ---
 アルバ、騎士ごっこ？
-+[FID:16, TEXT:020D] 
++[FID:16, TEXT:020D] 阿尔巴，玩骑士游戏？
 
 --- Group [right:none next=2012] ---
 ごっこじゃないぞ！
 訓練だ！！
-+[FID:16, TEXT:020E] 
-+[FID:16, TEXT:020F] 
++[FID:16, TEXT:020E] 才不是游戏！
++[FID:16, TEXT:020F] 是训练！！
 
 --- Group [right:none next=2012] ---
 こんど悪いヤツが来た
 ら、オイラも姉ちゃん
 たちと一緒に戦う！！
-+[FID:16, TEXT:0210] 
-+[FID:16, TEXT:0213] 
-+[FID:16, TEXT:0212] 
++[FID:16, TEXT:0210] 下次坏蛋来了，
++[FID:16, TEXT:0213] 我也要跟姐姐们
++[FID:16, TEXT:0212] 一起战斗！！
 
 --- Group [right:none next=0023] ---
 こんど悪いヤツが来た
 ら、オイラも兄ちゃん
 たちと一緒に戦う！！
--[FID:16, TEXT:0210] 
-+[FID:16, TEXT:0211] 
--[FID:16, TEXT:0212] 
+-[FID:16, TEXT:0210] 下次坏蛋来了，
++[FID:16, TEXT:0211] 我也要跟哥哥们
+-[FID:16, TEXT:0212] 一起战斗！！
 
 --- Group [right:none next=2012] ---
 そのための訓練だい！
-+[FID:16, TEXT:0214] 
++[FID:16, TEXT:0214] 就是为了这个才训练的！【超出】
 
 --- Group [left:主人公 next=0023] ---
 ははは、がんばれよ
-+[FID:16, TEXT:0215] 
++[FID:16, TEXT:0215] 哈哈哈，加油啊
 
 --- Group [left:none next=0023] ---
 それは頼もしいな
-+[FID:16, TEXT:0216] 
++[FID:16, TEXT:0216] 那可真可靠啊
 
 --- Group [left:主人公 next=0023] ---
 がんばれ！
-+[FID:16, TEXT:0217] 
++[FID:16, TEXT:0217] 加油！
 
 --- Group [left:none next=0023] ---
 うん、がんばってね
-+[FID:16, TEXT:0218] 
++[FID:16, TEXT:0218] 嗯，加油哦
 
 --- Group [right:none next=2012] ---
 おう！！
-+[FID:16, TEXT:0219] 
++[FID:16, TEXT:0219] 哦！！
 
 --- Group [left:主人公 next=2012] ---
 アルバ、夢中になって
 やってる・・・
-+[FID:16, TEXT:021A] 
-+[FID:16, TEXT:021F] 
++[FID:16, TEXT:021A] 阿尔巴，练得
++[FID:16, TEXT:021F] 真投入啊……
 
 --- Group [left:主人公 next=2012] ---
 アルバ、夢中になって
 やってるなぁ・・・
--[FID:16, TEXT:021A] 
-+[FID:16, TEXT:021B] 
+-[FID:16, TEXT:021A] 阿尔巴，练得
++[FID:16, TEXT:021B] 真投入呢……
 
 --- Group [left:主人公 next=2012] ---
 アルバ、夢中でやって
 るな・・・
-+[FID:16, TEXT:021C] 
-+[FID:16, TEXT:021D] 
++[FID:16, TEXT:021C] 阿尔巴，完全
++[FID:16, TEXT:021D] 沉浸其中了……
 
 --- Group [left:主人公 next=0023] ---
 邪魔しちゃ悪いよね
-+[FID:16, TEXT:021E] 
++[FID:16, TEXT:021E] 打扰他不太好吧
 
 --- Group [left:主人公 next=0023] ---
 邪魔はよくないよね
-+[FID:16, TEXT:0220] 
++[FID:16, TEXT:0220] 打扰别人不好吧
 
 --- Group [left:主人公 next=2012] ---
 あいかわらず、ここは
 賑やかですね・・・
-+[FID:16, TEXT:0221] 
-+[FID:16, TEXT:0228] 
++[FID:16, TEXT:0221] 这里还是一如既往地
++[FID:16, TEXT:0228] 热闹啊……
 
 --- Group [left:主人公 next=2012] ---
 あいかわらず、ここは
 賑やかだなあ
--[FID:16, TEXT:0221] 
-+[FID:16, TEXT:0222] 
+-[FID:16, TEXT:0221] 这里还是一如既往地
++[FID:16, TEXT:0222] 热闹啊
 
 --- Group [left:主人公 next=2012] ---
 あいかわらず、ここは
 賑やかだな
--[FID:16, TEXT:0221] 
-+[FID:16, TEXT:0224] 
+-[FID:16, TEXT:0221] 这里还是一如既往地
++[FID:16, TEXT:0224] 热闹啊
 
 --- Group [left:主人公 next=0023] ---
 お？
-+[FID:16, TEXT:0223] 
++[FID:16, TEXT:0223] 哦？
 
 --- Group [left:主人公 next=0023] ---
 あれ？
-+[FID:16, TEXT:0225] 
++[FID:16, TEXT:0225] 咦？
 
 --- Group [left:主人公 next=0023] ---
 あれ？
 釣りの餌がない・・・
 これじゃあ釣りは
 できないよな
--[FID:16, TEXT:0225] 
-+[FID:16, TEXT:028C] 
-+[FID:16, TEXT:028D] 
-+[FID:16, TEXT:028E] 
+-[FID:16, TEXT:0225] 咦？
++[FID:16, TEXT:028C] 钓鱼的饵料没了……
++[FID:16, TEXT:028D] 这样没法
++[FID:16, TEXT:028E] 钓鱼啊
 
 --- Group [left:主人公 next=2012] ---
 ほんと、ここは
 いっつもにぎやかだね
-+[FID:16, TEXT:0226] 
-+[FID:16, TEXT:0227] 
++[FID:16, TEXT:0226] 真是的，这里
++[FID:16, TEXT:0227] 总是这么热闹啊
 
 --- Group [left:主人公 next=0023] ---
 あ？
-+[FID:16, TEXT:0229] 
++[FID:16, TEXT:0229] 啊？
 
 --- Group [right:char_0041 next=2012] ---
 よっ、とととっ・・・
-+[FID:16, TEXT:022A] 
++[FID:16, TEXT:022A] 哟，跌跌撞撞……
 
 --- Group [left:主人公 next=0023] ---
 あんないっぱい荷物を
 抱えて・・・
 大丈夫かな？
-+[FID:16, TEXT:022B] 
-+[FID:16, TEXT:022C] 
-+[FID:16, TEXT:0231] 
++[FID:16, TEXT:022B] 抱着那么多行李……
++[FID:16, TEXT:022C] 抱着……
++[FID:16, TEXT:0231] 没事吧？
 
 --- Group [left:主人公 next=0023] ---
 あんないっぱい荷物を
 抱えて・・・
 大丈夫か？
--[FID:16, TEXT:022B] 
--[FID:16, TEXT:022C] 
-+[FID:16, TEXT:022D] 
+-[FID:16, TEXT:022B] 抱着那么多行李……
+-[FID:16, TEXT:022C] 抱着……
++[FID:16, TEXT:022D] 没事吧？
 
 --- Group [left:主人公 next=0023] ---
 危ないな・・・
 あれじゃ抱えた荷物で
 前が見えてないぞ
-+[FID:16, TEXT:022E] 
-+[FID:16, TEXT:022F] 
-+[FID:16, TEXT:0230] 
++[FID:16, TEXT:022E] 好危险啊……
++[FID:16, TEXT:022F] 那样抱着行李
++[FID:16, TEXT:0230] 都看不见前面了
 
 --- Group [left:主人公 next=0023] ---
 あんなに荷物を
 抱えて・・・
 大丈夫でしょうか？
-+[FID:16, TEXT:0232] 
--[FID:16, TEXT:022C] 
-+[FID:16, TEXT:0233] 
++[FID:16, TEXT:0232] 抱着那么多行李……
+-[FID:16, TEXT:022C] 抱着……
++[FID:16, TEXT:0233] 不要紧吗？
 
 --- Group [right:char_0041 next=2012] ---
 うわっ、あわわっ！
-+[FID:16, TEXT:0234] 
++[FID:16, TEXT:0234] 哇，哎呀呀！
 
 --- Group [right:char_0041 next=2012] ---
 うひゃあ！！
-+[FID:16, TEXT:0235] 
++[FID:16, TEXT:0235] 呜哇！！
 
 --- Group [left:主人公 next=0023] ---
 って・・・
 うわああっ！！
-+[FID:16, TEXT:0236] 
-+[FID:16, TEXT:0237] 
++[FID:16, TEXT:0236] 喂……
++[FID:16, TEXT:0237] 哇啊啊！！
 
 --- Group [left:主人公 next=0023] ---
 ちょっ・・・
 うわああっ！！
-+[FID:16, TEXT:0238] 
--[FID:16, TEXT:0237] 
++[FID:16, TEXT:0238] 等一下……
+-[FID:16, TEXT:0237] 哇啊啊！！
 
 --- Group [left:主人公 next=0023] ---
 いってぇ・・・
-+[FID:16, TEXT:023B] 
++[FID:16, TEXT:023B] 好痛……
 
 --- Group [left:主人公 next=0023] ---
 ううっ・・・
-+[FID:16, TEXT:023C] 
++[FID:16, TEXT:023C] 呜呜……
 
 --- Group [left:主人公 next=0023] ---
 いったぁ・・・
-+[FID:16, TEXT:023D] 
++[FID:16, TEXT:023D] 痛啊……
 
 --- Group [left:主人公 next=0023] ---
 いたたた・・・
-+[FID:16, TEXT:023E] 
++[FID:16, TEXT:023E] 痛痛痛……
 
 --- Group [right:char_0041 next=2012] ---
 ・・・良かったぁ
 とりあえず無事だよぉ
-+[FID:16, TEXT:023F] 
-+[FID:16, TEXT:0240] 
++[FID:16, TEXT:023F] ……太好了
++[FID:16, TEXT:0240] 总算是没事啊
 
 --- Group [right:char_0041 next=2012] ---
 さ、急げ急げ！！
 お師匠に叱られるぅ！
-+[FID:16, TEXT:0241] 
-+[FID:16, TEXT:0242] 
++[FID:16, TEXT:0241] 快，快走快走！！
++[FID:16, TEXT:0242] 会被师父骂的！
 
 --- Group [left:主人公 next=0023] ---
 あ、おいっ！
 ちょっと待てっ！！
-+[FID:16, TEXT:0243] 
-+[FID:16, TEXT:0244] 
++[FID:16, TEXT:0243] 啊，喂！
++[FID:16, TEXT:0244] 等一下！！
 
 --- Group [left:主人公 next=0023] ---
 あ、ちょっと！
-+[FID:16, TEXT:0245] 
++[FID:16, TEXT:0245] 啊，等等！
 
 --- Group [left:主人公 next=0023] ---
 あ、ねぇっ！
 ちょっと待って！
-+[FID:16, TEXT:0246] 
--[FID:16, TEXT:0247] 
++[FID:16, TEXT:0246] 啊，喂！
+-[FID:16, TEXT:0247] 等等！
 
 --- Group [right:char_0041 next=2012] ---
 しっからっれるぅ〜！
-+[FID:16, TEXT:0248] 
++[FID:16, TEXT:0248] 要被骂了〜！
 
 --- Group [left:主人公 next=0023] ---
 ・・・行っちまった
 なんなんだ、まったく
-+[FID:16, TEXT:0249] 
-+[FID:16, TEXT:024A] 
++[FID:16, TEXT:0249] ……跑掉了
++[FID:16, TEXT:024A] 搞什么啊，真是的
 
 --- Group [left:主人公 next=0023] ---
 せめて一言ぐらい、
 謝るのが普通だろうに
 まったく・・・
-+[FID:16, TEXT:024B] 
-+[FID:16, TEXT:024C] 
-+[FID:16, TEXT:024D] 
++[FID:16, TEXT:024B] 至少说句话，
++[FID:16, TEXT:024C] 道个歉才是常理吧
++[FID:16, TEXT:024D] 真是的……
 
 --- Group [left:主人公 next=0023] ---
 ・・・いったぁぁ
 いったいなんなの〜？
-+[FID:16, TEXT:024E] 
-+[FID:16, TEXT:024F] 
++[FID:16, TEXT:024E] ……好痛啊
++[FID:16, TEXT:024F] 到底搞什么啊〜？
 
 --- Group [left:主人公 next=0023] ---
 ・・・なんだった
 んでしょうか・・・？
-+[FID:16, TEXT:0250] 
-+[FID:16, TEXT:0251] 
++[FID:16, TEXT:0250] ……刚才那是
++[FID:16, TEXT:0251] 怎么回事呢……？
 
 --- Group [left:主人公 next=0026] ---
 【自分の部屋】
-
-
 【リプレと子供部屋】
-
-
 【玄関】
-
-
 【街へ】
-
-
 【レイドの部屋】
-
-
 【ガゼルの部屋】
-
-
 【部屋１】
-
-
 【部屋２】
-
-
 【部屋３】
-
-
 【部屋４】
-
-
 【部屋５】
-
-
 【屋根裏部屋】
-
-
 【広間】
-
-
 【庭】
-
-
 【台所】
-
-
-+[FID:16, TEXT:0252] 
++[FID:16, TEXT:0252] 【自己的房间】
 +[FID:16, TEXT:0000] 
 -[FID:16, TEXT:0000] 
-+[FID:16, TEXT:0253] 
++[FID:16, TEXT:0253] 【去街上】
 -[FID:16, TEXT:0000] 
 -[FID:16, TEXT:0000] 
-+[FID:16, TEXT:0254] 
++[FID:16, TEXT:0254] 【房间1】
 -[FID:16, TEXT:0000] 
 -[FID:16, TEXT:0000] 
-+[FID:16, TEXT:0255] 
++[FID:16, TEXT:0255] 【房间4】
 -[FID:16, TEXT:0000] 
 -[FID:16, TEXT:0000] 
-+[FID:16, TEXT:0256] 
++[FID:16, TEXT:0256] 【大厅】
 -[FID:16, TEXT:0000] 
 -[FID:16, TEXT:0000] 
 +[FID:16, TEXT:0257] 
@@ -2104,152 +2074,152 @@
 さて、と
 今夜のメニューは
 何にしようかしら？
-+[FID:16, TEXT:0261] 
-+[FID:16, TEXT:0262] 
-+[FID:16, TEXT:0263] 
++[FID:16, TEXT:0261] 好了
++[FID:16, TEXT:0262] 今晚的菜单
++[FID:16, TEXT:0263] 做什么好呢？
 
 --- Group [left:主人公 next=0023] ---
 魚料理なんて
 どうだい
-+[FID:16, TEXT:0264] 
-+[FID:16, TEXT:0265] 
++[FID:16, TEXT:0264] 鱼料理怎么样？
++[FID:16, TEXT:0265] 怎么样？
 
 --- Group [left:主人公 next=0023] ---
 魚料理なんて
 どうですか？
--[FID:16, TEXT:0264] 
-+[FID:16, TEXT:0268] 
+-[FID:16, TEXT:0264] 鱼料理怎么样？
++[FID:16, TEXT:0268] 你觉得怎么样？
 
 --- Group [left:主人公 next=0023] ---
 魚料理
 なんてどう？
-+[FID:16, TEXT:0266] 
-+[FID:16, TEXT:0267] 
++[FID:16, TEXT:0266] 鱼料理
++[FID:16, TEXT:0267] 怎么样？
 
 --- Group [right:none next=2012] ---
 うーん、お魚か・・・
 でも、新鮮なものって
 なかなか手に入らない
 のよねえ・・・
-+[FID:16, TEXT:0269] 
-+[FID:16, TEXT:026A] 
-+[FID:16, TEXT:026B] 
-+[FID:16, TEXT:026C] 
++[FID:16, TEXT:0269] 嗯，鱼啊……
++[FID:16, TEXT:026A] 但是新鲜的东西
++[FID:16, TEXT:026B] 不太容易弄到呢
++[FID:16, TEXT:026C] 呢……
 
 --- Group [left:none next=0023] ---
 だったら
 俺が釣ってくるよ
 道具もあることだしさ
-+[FID:16, TEXT:026D] 
-+[FID:16, TEXT:026E] 
-+[FID:16, TEXT:026F] 
++[FID:16, TEXT:026D] 那
++[FID:16, TEXT:026E] 我去钓吧
++[FID:16, TEXT:026F] 反正工具也有
 
 --- Group [left:主人公 next=0023] ---
 だったら
 あたしが釣ってくるよ
 道具もあるしね
--[FID:16, TEXT:026D] 
-+[FID:16, TEXT:0272] 
-+[FID:16, TEXT:0273] 
+-[FID:16, TEXT:026D] 那
++[FID:16, TEXT:0272] 我去钓吧
++[FID:16, TEXT:0273] 反正工具也有嘛
 
 --- Group [left:none next=0023] ---
 だったら
 僕が釣ってくるよ
 道具もあることだしね
--[FID:16, TEXT:026D] 
-+[FID:16, TEXT:0270] 
-+[FID:16, TEXT:0271] 
+-[FID:16, TEXT:026D] 那
++[FID:16, TEXT:0270] 我去钓吧
++[FID:16, TEXT:0271] 反正工具也有
 
 --- Group [left:none next=0023] ---
 でしたら
 私が釣ってきます
 道具もあることですし
-+[FID:16, TEXT:0274] 
-+[FID:16, TEXT:0275] 
-+[FID:16, TEXT:0276] 
++[FID:16, TEXT:0274] 那
++[FID:16, TEXT:0275] 我去钓上来
++[FID:16, TEXT:0276] 反正工具也有
 
 --- Group [right:none next=2012] ---
 本当？
 じゃあ、お願いしても
 いいかな
-+[FID:16, TEXT:0277] 
-+[FID:16, TEXT:0278] 
-+[FID:16, TEXT:0279] 
++[FID:16, TEXT:0277] 真的？
++[FID:16, TEXT:0278] 那就拜托你了
++[FID:16, TEXT:0279] 可以吗
 
 --- Group [left:主人公 next=0023] ---
 ああ、任せといてくれ
-+[FID:16, TEXT:027A] 
++[FID:16, TEXT:027A] 嗯，交给我吧
 
 --- Group [left:none next=0023] ---
 努力してみるよ
-+[FID:16, TEXT:027B] 
++[FID:16, TEXT:027B] 我努力试试
 
 --- Group [left:主人公 next=0023] ---
 釣れなかったら
 ゴメンね
-+[FID:16, TEXT:027C] 
-+[FID:16, TEXT:027D] 
++[FID:16, TEXT:027C] 要是钓不到
++[FID:16, TEXT:027D] 就抱歉了
 
 --- Group [left:none next=0023] ---
 ええ、なんとか
 がんばってみます
-+[FID:16, TEXT:027E] 
-+[FID:16, TEXT:027F] 
++[FID:16, TEXT:027E] 嗯，我会
++[FID:16, TEXT:027F] 尽力试试的
 
 --- Group [left:主人公 next=2012] ---
 ・・・猫？
-+[FID:16, TEXT:0280] 
++[FID:16, TEXT:0280] ……猫？
 
 --- Group [left:主人公 next=0023] ---
 また、魚でも釣って
 リプレを喜ばせて
 やろうかな？
-+[FID:16, TEXT:0283] 
-+[FID:16, TEXT:0284] 
-+[FID:16, TEXT:0285] 
++[FID:16, TEXT:0283] 再去钓条鱼
++[FID:16, TEXT:0284] 让莉普蕾高兴一下
++[FID:16, TEXT:0285] 吧？
 
 --- Group [left:主人公 next=0023] ---
 また、魚でも釣って
 みるかな？
--[FID:16, TEXT:0283] 
-+[FID:16, TEXT:0286] 
+-[FID:16, TEXT:0283] 再去钓条鱼
++[FID:16, TEXT:0286] 试试？
 
 --- Group [left:主人公 next=0023] ---
 また、魚を
 釣って帰ったら
 リプレさん
 喜ぶかしら・・・
-+[FID:16, TEXT:0288] 
-+[FID:16, TEXT:0289] 
-+[FID:16, TEXT:028A] 
-+[FID:16, TEXT:028B] 
++[FID:16, TEXT:0288] 要是再钓到鱼
++[FID:16, TEXT:0289] 带回来的话
++[FID:16, TEXT:028A] 莉普蕾小姐
++[FID:16, TEXT:028B] 会高兴吗……
 
 --- Group [left:主人公 next=0023] ---
 でも、まずは
 釣りの餌を探さないと
 いけないみたいだな
-+[FID:16, TEXT:028F] 
-+[FID:16, TEXT:0290] 
-+[FID:16, TEXT:0291] 
++[FID:16, TEXT:028F] 不过首先
++[FID:16, TEXT:0290] 得先找鱼饵
++[FID:16, TEXT:0291] 才行啊
 
 --- Group [right:none next=0023] ---
 気にしなくていいって
 こういう時もあるわ
-+[FID:16, TEXT:029A] 
-+[FID:16, TEXT:029B] 
++[FID:16, TEXT:029A] 不用在意啦
++[FID:16, TEXT:029B] 这种事也常有
 
 --- Group [right:none next=2012] ---
 また何か釣れた時は
 私のところに
 もってきてね
-+[FID:16, TEXT:02AB] 
-+[FID:16, TEXT:02AC] 
-+[FID:16, TEXT:02AD] 
++[FID:16, TEXT:02AB] 要是再钓到什么
++[FID:16, TEXT:02AC] 就拿到我这里
++[FID:16, TEXT:02AD] 来吧
 
 --- Group [right:none next=2012] ---
 腕によりをかけて
 おいしい料理を作って
 あげるから、ね？
-+[FID:16, TEXT:02AE] 
-+[FID:16, TEXT:02AF] 
-+[FID:16, TEXT:02B0] 
++[FID:16, TEXT:02AE] 我会使出浑身解数
++[FID:16, TEXT:02AF] 给你做好吃的料理
++[FID:16, TEXT:02B0] 所以，好吗？

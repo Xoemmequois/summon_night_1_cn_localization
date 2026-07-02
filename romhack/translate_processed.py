@@ -55,14 +55,17 @@ SYSTEM_PROMPT = """\
 - 只翻译日文为中文，翻译要口语化、自然，符合游戏对话风格
 - @n 是游戏内的名字替换控制符，翻译时原样保留
 - 不要修改任何标识符
+- 原文如果没有句号（。），翻译也不要添加句号
+- 日文的「・・・」统一翻译为中文省略号「……」
 - 只输出翻译结果，不要加任何额外说明或解释"""
 
 UNIFY_SYSTEM_PROMPT = """\
 你是一个专业的游戏翻译校正人员。以下是同一句日文在游戏不同上下文中被翻译成了不同版本。
 请为每句选择一个最合适、最自然的中文译文作为统一译文。
 
-输出格式：每行 `TEXT:XXXX | 统一中文译文`
-只输出结果，不要加任何解释。"""
+你必须严格输出JSON，格式如下：
+{"translations": [{"text_id": "0048", "translation": "为什么就不办了呢？"}, {"text_id": "000A", "translation": "身体好像自己学会了"}]}
+只输出JSON，不要加任何其他文字。"""
 
 GLOSSARY = ""
 
@@ -399,6 +402,7 @@ def unify_translations(name, groups, cache, cache_lock, proxy_url, api_key):
                 ],
                 "max_tokens": 16384,
                 "temperature": 0.3,
+                "response_format": {"type": "json_object"},
             }
             resp = session.post(API_URL, json=payload, timeout=180)
             resp.raise_for_status()
@@ -409,12 +413,9 @@ def unify_translations(name, groups, cache, cache_lock, proxy_url, api_key):
                 content = re.sub(r"^```[^\n]*\n?", "", content)
                 content = re.sub(r"\n?```$", "", content)
 
-            for line in content.split("\n"):
-                m = re.match(r"TEXT:([0-9A-Fa-f]+)\s*\|\s*(.*)", line.strip())
-                if m:
-                    text = m.group(2).strip()
-                    text = re.sub(r'^统一中文译文[：:]\s*', '', text)
-                    unified[m.group(1).upper()] = text
+            result = json.loads(content)
+            for item in result.get("translations", []):
+                unified[item["text_id"].upper()] = item["translation"]
         except Exception as e:
             print(f"  [{name}] Unify batch failed: {e}")
             continue
