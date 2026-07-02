@@ -346,8 +346,10 @@ def apply_line_length(original_lines, translations, tagged_entries):
             trans = overflow + trans
             overflow = ""
 
-        if orig.startswith(FULLWIDTH_SPACE) and not trans.startswith(FULLWIDTH_SPACE):
-            trans = FULLWIDTH_SPACE + trans
+        if orig.startswith(FULLWIDTH_SPACE):
+            leading = len(orig) - len(orig.lstrip(FULLWIDTH_SPACE))
+            trans = trans.lstrip(FULLWIDTH_SPACE)
+            trans = FULLWIDTH_SPACE * leading + trans
 
         if len(orig) <= 10 and len(trans) > 10:
             overflow = trans[10:]

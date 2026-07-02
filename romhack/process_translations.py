@@ -46,8 +46,10 @@ def process_texts(orig_texts, trans_texts):
         current = queue.pop(0)
         orig_len = len(orig)
 
-        if orig.startswith(FULLWIDTH_SPACE) and current and not current.startswith(FULLWIDTH_SPACE):
-            current = FULLWIDTH_SPACE + current
+        if orig.startswith(FULLWIDTH_SPACE) and current:
+            leading = len(orig) - len(orig.lstrip(FULLWIDTH_SPACE))
+            current = current.lstrip(FULLWIDTH_SPACE)
+            current = FULLWIDTH_SPACE * leading + current
 
         if orig_len > 10:
             result.append(current)
