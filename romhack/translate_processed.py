@@ -30,6 +30,7 @@ SCRIPT_DIR = Path(__file__).parent
 CONFIG_PATH = SCRIPT_DIR / "config.json"
 INPUT_DIR = SCRIPT_DIR.parent / "ruby_tools" / "opencode_generated" / "processed"
 CACHE_PATH = SCRIPT_DIR / "translation_cache.json"
+GLOSSARY_PATH = SCRIPT_DIR.parent / "专有名词.txt"
 FULLWIDTH_SPACE = "\u3000"
 
 API_URL = "https://openrouter.ai/api/v1/chat/completions"
@@ -63,6 +64,8 @@ UNIFY_SYSTEM_PROMPT = """\
 输出格式：每行 `TEXT:XXXX | 统一中文译文`
 只输出结果，不要加任何解释。"""
 
+GLOSSARY = ""
+
 
 def load_config():
     with open(CONFIG_PATH, "r", encoding="utf-8") as f:
@@ -79,10 +82,12 @@ def load_cache():
     return {}
 
 
-def save_cache(cache):
-    CACHE_PATH.parent.mkdir(parents=True, exist_ok=True)
-    with open(CACHE_PATH, "w", encoding="utf-8") as f:
-        json.dump(cache, f, ensure_ascii=False, indent=2)
+def load_glossary():
+    global GLOSSARY
+    if GLOSSARY_PATH.exists():
+        with open(GLOSSARY_PATH, "r", encoding="utf-8") as f:
+            GLOSSARY = f.read().strip()
+    return GLOSSARY
 
 
 def parse_processed_content(content):
@@ -157,10 +162,13 @@ def build_prompt(batch):
 
 
 def call_api(session, prompt, desc=""):
+    system = SYSTEM_PROMPT
+    if GLOSSARY:
+        system = "专有名词翻译参考：\n" + GLOSSARY + "\n\n" + SYSTEM_PROMPT
     payload = {
         "model": MODEL,
         "messages": [
-            {"role": "system", "content": SYSTEM_PROMPT},
+            {"role": "system", "content": system},
             {"role": "user", "content": prompt},
         ],
         "max_tokens": 16384,
@@ -374,10 +382,11 @@ def unify_translations(name, groups, cache, cache_lock, proxy_url, api_key):
         prompt = "\n".join(lines)
 
         try:
+            system = "专有名词翻译参考：\n" + GLOSSARY + "\n\n" + UNIFY_SYSTEM_PROMPT if GLOSSARY else UNIFY_SYSTEM_PROMPT
             payload = {
                 "model": MODEL,
                 "messages": [
-                    {"role": "system", "content": UNIFY_SYSTEM_PROMPT},
+                    {"role": "system", "content": system},
                     {"role": "user", "content": prompt},
                 ],
                 "max_tokens": 16384,
@@ -540,7 +549,10 @@ def main():
             sys.exit(1)
 
     cache = load_cache()
+    glossary = load_glossary()
     print(f"Loaded {len(cache)} cached group translations")
+    if glossary:
+        print(f"Loaded glossary: {len(glossary.split(chr(10)))} terms")
     print(f"Total files: {len(files)}")
     print(f"Max workers: {MAX_WORKERS}\n")
 
