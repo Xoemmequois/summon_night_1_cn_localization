@@ -90,6 +90,12 @@ def load_glossary():
     return GLOSSARY
 
 
+def save_cache(cache):
+    CACHE_PATH.parent.mkdir(parents=True, exist_ok=True)
+    with open(CACHE_PATH, "w", encoding="utf-8") as f:
+        json.dump(cache, f, ensure_ascii=False, indent=2)
+
+
 def parse_processed_content(content):
     """Parse processed file content into groups."""
     groups = []
