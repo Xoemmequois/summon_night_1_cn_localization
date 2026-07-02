@@ -3777,17 +3777,20 @@
   {
     "key": "0006-0002",
     "original": "今のはいったい？",
-    "translation": ""
+    "translation": "刚才那是怎么回事？",
+    "stage": 3
   },
   {
     "key": "0006-0003",
     "original": "げっ！",
-    "translation": ""
+    "translation": "哎！",
+    "stage": 3
   },
   {
     "key": "0006-0004",
     "original": "なんだこりゃ！？",
-    "translation": ""
+    "translation": "这是什么啊！？",
+    "stage": 3
   },
   {
     "key": "0006-0005",
@@ -3798,13 +3801,14 @@
   {
     "key": "0006-0006",
     "original": "だけど・・・なんで、",
-    "translation": "但是……为什么，会在",
+    "translation": "但是……为什么",
     "stage": 3
   },
   {
     "key": "0006-0007",
     "original": "こんなとこに？",
-    "translation": ""
+    "translation": "会跑到这种地方来？",
+    "stage": 3
   },
   {
     "key": "0006-0008",
@@ -3821,7 +3825,8 @@
   {
     "key": "0006-0010",
     "original": "　これは夢にちがいない！",
-    "translation": ""
+    "translation": "　这肯定是做梦！",
+    "stage": 3
   },
   {
     "key": "0006-0011",
@@ -3832,17 +3837,20 @@
   {
     "key": "0006-0012",
     "original": "なんだここは！？",
-    "translation": ""
+    "translation": "这里到底是什么地方！",
+    "stage": 3
   },
   {
     "key": "0006-0013",
     "original": "だけど・・・どうして",
-    "translation": ""
+    "translation": "但是……为什么",
+    "stage": 3
   },
   {
     "key": "0006-0014",
     "original": "僕はここに？",
-    "translation": ""
+    "translation": "我会在这里？",
+    "stage": 3
   },
   {
     "key": "0006-0015",
@@ -3853,7 +3861,8 @@
   {
     "key": "0006-0016",
     "original": "夢なんだな",
-    "translation": ""
+    "translation": "所以你看，只要我这样",
+    "stage": 3
   },
   {
     "key": "0006-0017",
@@ -3870,32 +3879,38 @@
   {
     "key": "0006-0019",
     "original": "いてっ！！",
-    "translation": ""
+    "translation": "好痛！！",
+    "stage": 3
   },
   {
     "key": "0006-0020",
     "original": "・・・夢じゃねえ！？",
-    "translation": ""
+    "translation": "……不是做梦！？",
+    "stage": 3
   },
   {
     "key": "0006-0021",
     "original": "ここにいてもしかたが",
-    "translation": ""
+    "translation": "一直待在这里也不是办",
+    "stage": 3
   },
   {
     "key": "0006-0022",
     "original": "ないよなぁ",
-    "translation": ""
+    "translation": "法没有啊",
+    "stage": 3
   },
   {
     "key": "0006-0023",
     "original": "とりあえずは、上まで",
-    "translation": ""
+    "translation": "总之先试着",
+    "stage": 3
   },
   {
     "key": "0006-0024",
     "original": "登ってみるか",
-    "translation": ""
+    "translation": "爬到上面去吧",
+    "stage": 3
   },
   {
     "key": "0006-0025",
@@ -3906,102 +3921,122 @@
   {
     "key": "0006-0026",
     "original": "なんだこりゃ",
-    "translation": ""
+    "translation": "这是啥",
+    "stage": 3
   },
   {
     "key": "0006-0027",
     "original": "キレイな石だな",
-    "translation": ""
+    "translation": "好漂亮的石头",
+    "stage": 3
   },
   {
     "key": "0006-0028",
     "original": "なんか、いろんな",
-    "translation": ""
+    "translation": "各种颜色的都四处散落",
+    "stage": 3
   },
   {
     "key": "0006-0029",
     "original": "色のがあちこちに飛び",
-    "translation": ""
+    "translation": "着……",
+    "stage": 3
   },
   {
     "key": "0006-0030",
     "original": "ちってるけど・・・",
-    "translation": ""
+    "translation": "",
+    "stage": 3
   },
   {
     "key": "0006-0031",
     "original": "・・・ともかく、上に",
-    "translation": ""
+    "translation": "……总之，先爬上去",
+    "stage": 3
   },
   {
     "key": "0006-0032",
     "original": "登ることが先決だな",
-    "translation": ""
+    "translation": "才是当务之急",
+    "stage": 3
   },
   {
     "key": "0006-0033",
     "original": "あれ・・・",
-    "translation": ""
+    "translation": "咦……",
+    "stage": 3
   },
   {
     "key": "0006-0034",
     "original": "これはなんだろう？",
-    "translation": ""
+    "translation": "这个是什么呢？",
+    "stage": 3
   },
   {
     "key": "0006-0035",
     "original": "ずいぶんとキレイな",
-    "translation": ""
+    "translation": "散落着很多",
+    "stage": 3
   },
   {
     "key": "0006-0036",
     "original": "石がちらばってる・・",
-    "translation": ""
+    "translation": "相当漂亮的石头……",
+    "stage": 3
   },
   {
     "key": "0006-0037",
     "original": "　なんだろう、この石？",
-    "translation": ""
+    "translation": "　这石头是什么？",
+    "stage": 3
   },
   {
     "key": "0006-0038",
     "original": "　そんな場合じゃないぞ",
-    "translation": ""
+    "translation": "　现在不是管这个的时候吧",
+    "stage": 3
   },
   {
     "key": "0006-0039",
     "original": "宝石みたいな気もする",
-    "translation": ""
+    "translation": "感觉像宝石",
+    "stage": 3
   },
   {
     "key": "0006-0040",
     "original": "けど、それにしちゃあ",
-    "translation": ""
+    "translation": "不过如果是的话，",
+    "stage": 3
   },
   {
     "key": "0006-0041",
     "original": "無造作に捨ててあるの",
-    "translation": ""
+    "translation": "就这样随便扔在地上",
+    "stage": 3
   },
   {
     "key": "0006-0042",
     "original": "が変だよな",
-    "translation": ""
+    "translation": "也太奇怪了",
+    "stage": 3
   },
   {
     "key": "0006-0043",
     "original": "・・・まぁ、いいや",
-    "translation": ""
+    "translation": "……算了，不管了",
+    "stage": 3
   },
   {
     "key": "0006-0044",
     "original": "せっかくだから",
-    "translation": ""
+    "translation": "难得遇到",
+    "stage": 3
   },
   {
     "key": "0006-0045",
     "original": "拾っておこう",
-    "translation": ""
+    "translation": "还是捡起来吧",
+    "stage": 3
   },
   {
     "key": "0006-0046",
@@ -4012,107 +4047,128 @@
   {
     "key": "0006-0047",
     "original": "しれないしな",
-    "translation": ""
+    "translation": "呢",
+    "stage": 3
   },
   {
     "key": "0006-0048",
     "original": "宝石のような気もする",
-    "translation": ""
+    "translation": "感觉像宝石",
+    "stage": 3
   },
   {
     "key": "0006-0049",
     "original": "けど、だったら無造作",
-    "translation": ""
+    "translation": "不过如果是的话，",
+    "stage": 3
   },
   {
     "key": "0006-0050",
     "original": "に捨ててあるはずがな",
-    "translation": ""
+    "translation": "不可能就这样随便",
+    "stage": 3
   },
   {
     "key": "0006-0051",
     "original": "いな",
-    "translation": ""
+    "translation": "扔在这里",
+    "stage": 3
   },
   {
     "key": "0006-0052",
     "original": "・・・まぁ、いいか",
-    "translation": ""
+    "translation": "……算了，随便吧",
+    "stage": 3
   },
   {
     "key": "0006-0053",
     "original": "せっかくだから拾って",
-    "translation": ""
+    "translation": "难得遇到还是",
+    "stage": 3
   },
   {
     "key": "0006-0054",
     "original": "おこう",
-    "translation": ""
+    "translation": "捡起来吧",
+    "stage": 3
   },
   {
     "key": "0006-0055",
     "original": "何かの役にたつかもし",
-    "translation": ""
+    "translation": "说不定以后",
+    "stage": 3
   },
   {
     "key": "0006-0056",
     "original": "れない",
-    "translation": ""
+    "translation": "能派上用场",
+    "stage": 3
   },
   {
     "key": "0006-0057",
     "original": "おっと、見とれている",
-    "translation": ""
+    "translation": "哎呀，现在可不是",
+    "stage": 3
   },
   {
     "key": "0006-0058",
     "original": "場合じゃない",
-    "translation": ""
+    "translation": "发呆的时候",
+    "stage": 3
   },
   {
     "key": "0006-0059",
     "original": "まずはここから",
-    "translation": ""
+    "translation": "得先从这里",
+    "stage": 3
   },
   {
     "key": "0006-0060",
     "original": "出ないと・・・",
-    "translation": ""
+    "translation": "出去才行……",
+    "stage": 3
   },
   {
     "key": "0006-0061",
     "original": "とりあえずポケットに",
-    "translation": ""
+    "translation": "先装进口袋里",
+    "stage": 3
   },
   {
     "key": "0006-0062",
     "original": "しまっておいて、まず",
-    "translation": ""
+    "translation": "然后首先得",
+    "stage": 3
   },
   {
     "key": "0006-0063",
     "original": "はとっとと上に登ろう",
-    "translation": ""
+    "translation": "赶紧爬上去",
+    "stage": 3
   },
   {
     "key": "0006-0064",
     "original": "考えるのは後にしよう",
-    "translation": ""
+    "translation": "这些事之后再说吧",
+    "stage": 3
   },
   {
     "key": "0006-0065",
     "original": "まずはここから出ない",
-    "translation": ""
+    "translation": "首先得离开这里",
+    "stage": 3
   },
   {
     "key": "0006-0066",
     "original": "と・・・",
-    "translation": ""
+    "translation": "才行……",
+    "stage": 3
   },
   {
     "key": "0006-0067",
     "original": "はこの穴の外へ出よう",
-    "translation": ""
+    "translation": "从这个洞窟出去",
+    "stage": 3
   },
   {
     "key": "0006-0068",
@@ -4399,7 +4455,7 @@
   {
     "key": "0006-0115",
     "original": "こんなとこに・・・？",
-    "translation": "这里……？",
+    "translation": "会在这里……？",
     "stage": 3
   },
   {
