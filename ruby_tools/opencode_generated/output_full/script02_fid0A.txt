@@ -26,102 +26,108 @@
 [FID:0A, TEXT:000D] 身を守ろうとした
 [FID:0A, TEXT:000F] 彼女は悪くない
 
---- Group 8 [right:char_0013 next=2012] ---
+--- Group 8 [left:char_0012 next=0023] ---
+[FID:0A, TEXT:000B] こっちが先に
+[FID:0A, TEXT:000C] 手を出したんだ
+[FID:0A, TEXT:000D] 身を守ろうとした
+[FID:0A, TEXT:000E] 彼は悪くない
+
+--- Group 9 [right:char_0013 next=2012] ---
 [FID:0A, TEXT:0010] ぐっ・・・
 [FID:0A, TEXT:0011] ずっと、見てたのかよ
 
---- Group 9 [left:char_0012 next=2012] ---
+--- Group 10 [left:char_0012 next=2012] ---
 [FID:0A, TEXT:0012] まあ、な
 
---- Group 10 [left:char_0012 next=2012] ---
+--- Group 11 [left:char_0012 next=2012] ---
 [FID:0A, TEXT:0013] それにエドスだったら
 [FID:0A, TEXT:0014] 気絶してるだけだ
 [FID:0A, TEXT:0015] ちゃんと息もある
 
---- Group 11 [right:char_0013 next=2012] ---
+--- Group 12 [right:char_0013 next=2012] ---
 [FID:0A, TEXT:0016] ・・・わかったよ
 
---- Group 12 [right:char_0013 next=2012] ---
+--- Group 13 [right:char_0013 next=2012] ---
 [FID:0A, TEXT:0017] とんだ言いがかりをつ
 [FID:0A, TEXT:0018] けてすまなかった
 [FID:0A, TEXT:0019] ゆるしてくれないか
-
---- Group 13 [left:none next=0023] ---
-[FID:0A, TEXT:001A] えっ？
-[FID:0A, TEXT:001B] あ、はあ
 
 --- Group 14 [left:none next=0023] ---
 [FID:0A, TEXT:001A] えっ？
 [FID:0A, TEXT:001D] あ、はい
 
 --- Group 15 [left:none next=0023] ---
+[FID:0A, TEXT:001A] えっ？
+[FID:0A, TEXT:001B] あ、はあ
+
+--- Group 16 [left:none next=0023] ---
 [FID:0A, TEXT:001C] いえ、こちらこそ
 
---- Group 16 [right:char_0013 next=2012] ---
+--- Group 17 [right:char_0013 next=2012] ---
 [FID:0A, TEXT:001E] ところで・・・
 [FID:0A, TEXT:001F] 見かけない顔だが、君
 [FID:0A, TEXT:0020] はどこから来たんだ？
 
---- Group 17 [right:char_0013 next=2015] ---
+--- Group 18 [right:char_0013 next=2015] ---
 [FID:0A, TEXT:0021] どうしよう？
 [FID:0A, TEXT:0022] 　素直に答える
 [FID:0A, TEXT:0023] 　黙っている
 
---- Group 18 [left:none next=0023] ---
+--- Group 19 [left:none next=0023] ---
 [FID:0A, TEXT:0024] じつは・・・
 [FID:0A, TEXT:0025] 俺もわかんないんです
 
---- Group 19 [left:none next=0023] ---
+--- Group 20 [left:none next=0023] ---
 [FID:0A, TEXT:0024] じつは・・・
 [FID:0A, TEXT:0027] わかんないんです
 
---- Group 20 [left:none next=0023] ---
+--- Group 21 [left:none next=0023] ---
 [FID:0A, TEXT:0024] じつは・・・
 [FID:0A, TEXT:0026] 僕にもわかりません
 
---- Group 21 [right:char_0013 next=2012] ---
+--- Group 22 [right:char_0013 next=2012] ---
 [FID:0A, TEXT:0028] はぁ？
-
---- Group 22 [left:none next=0023] ---
-[FID:0A, TEXT:0029] すくなくとも、
-[FID:0A, TEXT:002A] こことは違う世界
-[FID:0A, TEXT:002B] だとは思うんですが
 
 --- Group 23 [left:none next=0023] ---
 [FID:0A, TEXT:0029] すくなくとも、
 [FID:0A, TEXT:002A] こことは違う世界
 [FID:0A, TEXT:002C] だとは思うんですけど
 
---- Group 24 [right:char_0012 next=2012] ---
+--- Group 24 [left:none next=0023] ---
+[FID:0A, TEXT:0029] すくなくとも、
+[FID:0A, TEXT:002A] こことは違う世界
+[FID:0A, TEXT:002B] だとは思うんですが
+
+--- Group 25 [right:char_0012 next=2012] ---
 [FID:0A, TEXT:002D] ・・・なるほどな
 
---- Group 25 [left:none next=2012] ---
+--- Group 26 [left:none next=2012] ---
 [FID:0A, TEXT:002E] ？？？
 
---- Group 26 [right:char_0012 next=2012] ---
+--- Group 27 [right:char_0012 next=2012] ---
 [FID:0A, TEXT:002F] ついてきなさい
 [FID:0A, TEXT:0030] 君の知りたいことは、
 [FID:0A, TEXT:0031] 少しぐらいなら説明し
 [FID:0A, TEXT:0032] てあげられると思う
 
---- Group 27 [left:none next=2012] ---
+--- Group 28 [left:none next=2012] ---
 [FID:0A, TEXT:0033] ・・・
 
---- Group 28 [right:char_0013 next=2012] ---
+--- Group 29 [right:char_0013 next=2012] ---
 [FID:0A, TEXT:0034] おい、なんとか
 [FID:0A, TEXT:0035] 言ったらどうだ！？
 
---- Group 29 [left:char_0012 next=2012] ---
+--- Group 30 [left:char_0012 next=2012] ---
 [FID:0A, TEXT:0036] ガゼル、少しだまって
 [FID:0A, TEXT:0037] いるんだ
 
---- Group 30 [right:char_0013 next=2012] ---
+--- Group 31 [right:char_0013 next=2012] ---
 [FID:0A, TEXT:0038] どうやら、いろいろと
 [FID:0A, TEXT:0039] 事情があるようだな
 [FID:0A, TEXT:003A] もしよかったら、
 [FID:0A, TEXT:003B] 話してくれないか？
 
---- Group 31 [right:char_0013 next=2012] ---
+--- Group 32 [right:char_0013 next=2012] ---
 [FID:0A, TEXT:003C] ひょっとすると、力に
 [FID:0A, TEXT:003D] なれるかもしれない
 
