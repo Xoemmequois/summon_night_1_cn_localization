@@ -37,6 +37,7 @@ MODEL = "deepseek/deepseek-v4-flash"
 MAX_RETRIES = 3
 MAX_WORKERS = 4
 GROUPS_PER_BATCH = 40
+UNIFY_BATCH = 50
 
 SYSTEM_PROMPT = """\
 你是一个专业的日语游戏翻译。你正在翻译PS1游戏《サモンナイト》（召唤之夜）的对话脚本。
@@ -54,6 +55,13 @@ SYSTEM_PROMPT = """\
 - @n 是游戏内的名字替换控制符，翻译时原样保留
 - 不要修改任何标识符
 - 只输出翻译结果，不要加任何额外说明或解释"""
+
+UNIFY_SYSTEM_PROMPT = """\
+你是一个专业的游戏翻译校正人员。以下是同一句日文在游戏不同上下文中被翻译成了不同版本。
+请为每句选择一个最合适、最自然的中文译文作为统一译文。
+
+输出格式：每行 `TEXT:XXXX | 统一中文译文`
+只输出结果，不要加任何解释。"""
 
 
 def load_config():
@@ -104,7 +112,7 @@ def parse_processed_content(content):
         if not line.strip():
             continue
 
-        m = re.match(r"^([+-])(\[FID:\d+, TEXT:([0-9A-Fa-f]+)\])[ \t]*(.*)", line)
+        m = re.match(r"^([+-])(\[FID:[0-9A-Fa-f]+, TEXT:([0-9A-Fa-f]+)\])[ \t]*(.*)", line)
         if m:
             in_original = False
             existing = m.group(4).rstrip(" \t")
@@ -124,7 +132,7 @@ def get_cache_key(tagged_entries):
     """Build cache key from FID + TEXT-number sequence to avoid cross-file collisions."""
     parts = []
     for marker, full_tag, text_num, existing in tagged_entries:
-        m = re.search(r"FID:(\d+)\b.*TEXT:([0-9A-Fa-f]+)", full_tag)
+        m = re.search(r"FID:([0-9A-Fa-f]+)\b.*TEXT:([0-9A-Fa-f]+)", full_tag)
         if m:
             parts.append(f"F{m.group(1)}_T{m.group(2)}")
         else:
@@ -317,6 +325,92 @@ def apply_line_length(original_lines, translations, tagged_entries):
     return result[:len(tagged_entries)]
 
 
+def unify_translations(name, groups, cache, cache_lock, proxy_url, api_key):
+    """Find TEXT entries translated differently across groups and unify via LLM."""
+    text_map = {}
+
+    for header, is_g, original_lines, tagged_entries in groups:
+        if is_g or not tagged_entries:
+            continue
+        text_key = get_cache_key(tagged_entries)
+        translations = cache.get(text_key, {})
+        for idx, (marker, full_tag, text_num, existing) in enumerate(tagged_entries):
+            trans = translations.get(text_num, "")
+            if not trans:
+                continue
+            jp = original_lines[idx] if idx < len(original_lines) else ""
+            if text_num not in text_map:
+                text_map[text_num] = {"jp": jp, "text_keys": set(), "variants": {}}
+            text_map[text_num]["text_keys"].add(text_key)
+            text_map[text_num]["variants"][trans] = True
+
+    conflicts = {}
+    for text_num, info in text_map.items():
+        if len(info["variants"]) > 1:
+            conflicts[text_num] = info
+
+    if not conflicts:
+        return
+
+    print(f"  [{name}] Unifying {len(conflicts)} conflicting TEXT entries...")
+
+    conflict_items = list(conflicts.items())
+    unified = {}
+
+    session = requests.Session()
+    if proxy_url:
+        session.proxies = {"http": proxy_url, "https": proxy_url}
+    session.headers["Authorization"] = f"Bearer {api_key}"
+
+    for i in range(0, len(conflict_items), UNIFY_BATCH):
+        batch = conflict_items[i:i + UNIFY_BATCH]
+
+        lines = []
+        for text_num, info in batch:
+            lines.append(f"TEXT:{text_num} | 日文: {info['jp']}")
+            for vi, v in enumerate(info["variants"], 1):
+                lines.append(f"  版本{vi}: {v}")
+
+        prompt = "\n".join(lines)
+
+        try:
+            payload = {
+                "model": MODEL,
+                "messages": [
+                    {"role": "system", "content": UNIFY_SYSTEM_PROMPT},
+                    {"role": "user", "content": prompt},
+                ],
+                "max_tokens": 16384,
+                "temperature": 0.3,
+            }
+            resp = session.post(API_URL, json=payload, timeout=180)
+            resp.raise_for_status()
+            data = resp.json()
+            content = data["choices"][0]["message"]["content"]
+            content = content.strip()
+            if content.startswith("```"):
+                content = re.sub(r"^```[^\n]*\n?", "", content)
+                content = re.sub(r"\n?```$", "", content)
+
+            for line in content.split("\n"):
+                m = re.match(r"TEXT:([0-9A-Fa-f]+)\s*\|\s*(.*)", line.strip())
+                if m:
+                    unified[m.group(1).upper()] = m.group(2).strip()
+        except Exception as e:
+            print(f"  [{name}] Unify batch failed: {e}")
+            continue
+
+    if unified:
+        with cache_lock:
+            for text_num, unified_trans in unified.items():
+                if text_num in conflicts:
+                    for text_key in conflicts[text_num]["text_keys"]:
+                        if text_key in cache:
+                            cache[text_key][text_num] = unified_trans
+            save_cache(cache)
+        print(f"  [{name}] Unified {len(unified)} TEXT entries")
+
+
 def process_file(filepath, cache, cache_lock, proxy_url, api_key):
     name = filepath.name
 
@@ -327,13 +421,20 @@ def process_file(filepath, cache, cache_lock, proxy_url, api_key):
 
     # Collect non-G groups that have tagged entries
     non_g = []
+    g_count = 0
+    no_tag = 0
     for header, is_g, original_lines, tagged_entries in groups:
-        if not is_g and tagged_entries:
+        if is_g:
+            g_count += 1
+        elif not tagged_entries:
+            no_tag += 1
+        else:
             text_key = get_cache_key(tagged_entries)
             non_g.append((text_key, header, original_lines, tagged_entries))
 
     if not non_g:
-        print(f"  [{name}] No non-G groups to translate")
+        print(f"  [{name}] Total groups: {len(groups)}, G: {g_count}, "
+              f"no-tag: {no_tag}, non-G-with-tag: {len(non_g)}")
         return
 
     # Check cache
@@ -370,6 +471,8 @@ def process_file(filepath, cache, cache_lock, proxy_url, api_key):
         with cache_lock:
             cache.update(new_results)
             save_cache(cache)
+
+    unify_translations(name, groups, cache, cache_lock, proxy_url, api_key)
 
     # Build output file
     output_lines = []
