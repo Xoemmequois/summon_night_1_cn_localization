@@ -1,4 +1,4 @@
---- Group 1 [left:none next=0023] ---
+--- Group [left:none next=0023] ---
 あれ？
 街の外へ出るんなら、
 門はこっちでしょ？
@@ -6,7 +6,7 @@
 +[FID:17, TEXT:0002] 
 +[FID:17, TEXT:0006] 
 
---- Group 2 [left:none next=0023] ---
+--- Group [left:none next=0023] ---
 あれ？
 街の外へ出るんなら、
 門はこっちだろ？
@@ -14,13 +14,13 @@
 -[FID:17, TEXT:0002] 
 +[FID:17, TEXT:0003] 
 
---- Group 3 [left:none next=0023] ---
+--- Group [left:none next=0023] ---
 街の外に出るのなら、
 門はこっちだろう？
 +[FID:17, TEXT:0004] 
 +[FID:17, TEXT:0005] 
 
---- Group 4 [left:none next=0023] ---
+--- Group [left:none next=0023] ---
 あら？
 街の外へ出るんなら、
 門はこっちじゃ？
@@ -28,37 +28,37 @@
 -[FID:17, TEXT:0002] 
 +[FID:17, TEXT:0008] 
 
---- Group 5 [right:none next=2012] ---
+--- Group [right:none next=2012] ---
 ちっちっ・・・
 アレを見ろよ
 +[FID:17, TEXT:0009] 
 +[FID:17, TEXT:000A] 
 
---- Group 6 [left:none next=0023] ---
+--- Group [left:none next=0023] ---
 あ・・・
 街の壁が壊れてる
 +[FID:17, TEXT:000B] 
 +[FID:17, TEXT:000C] 
 
---- Group 7 [left:none next=0023] ---
+--- Group [left:none next=0023] ---
 街の外壁に大きな穴が
 あいてる・・・
 +[FID:17, TEXT:000D] 
 +[FID:17, TEXT:000E] 
 
---- Group 8 [left:none next=0023] ---
+--- Group [left:none next=0023] ---
 あれ・・・！
 街の壁が壊れてる
 +[FID:17, TEXT:000F] 
 -[FID:17, TEXT:000C] 
 
---- Group 9 [right:none next=2012] ---
+--- Group [right:none next=2012] ---
 あそこから出たほうが
 楽だろ？
 +[FID:17, TEXT:0010] 
 +[FID:17, TEXT:0011] 
 
---- Group 10 [right:none next=2012] ---
+--- Group [right:none next=2012] ---
 ・・・ってわけでな
 戦争の時に壊された
 壁がほったらかしに
@@ -68,25 +68,25 @@
 +[FID:17, TEXT:0014] 
 +[FID:17, TEXT:0015] 
 
---- Group 11 [left:none next=0023] ---
+--- Group [left:none next=0023] ---
 そこを勝手に出入り
 してるわけか
 +[FID:17, TEXT:0016] 
 +[FID:17, TEXT:0017] 
 
---- Group 12 [left:none next=0023] ---
+--- Group [left:none next=0023] ---
 で、そっから出入り
 してるわけね
 +[FID:17, TEXT:0018] 
 +[FID:17, TEXT:0019] 
 
---- Group 13 [left:none next=0023] ---
+--- Group [left:none next=0023] ---
 そこから出入り
 してるわけですね
 +[FID:17, TEXT:001A] 
 +[FID:17, TEXT:001B] 
 
---- Group 14 [right:none next=2012] ---
+--- Group [right:none next=2012] ---
 まあな
 この街にあるスラム
 は、みんな壊れた壁
@@ -96,7 +96,7 @@
 +[FID:17, TEXT:001E] 
 +[FID:17, TEXT:001F] 
 
---- Group 15 [right:none next=2012] ---
+--- Group [right:none next=2012] ---
 外敵が襲ってきた時
 に一番ヤバイ場所だ
 から、誰も住みたい
@@ -106,11 +106,11 @@
 +[FID:17, TEXT:0022] 
 +[FID:17, TEXT:0023] 
 
---- Group 16 [left:none next=2012] ---
+--- Group [left:none next=2012] ---
 そっか・・・
 +[FID:17, TEXT:0024] 
 
---- Group 17 [left:none next=0023] ---
+--- Group [left:none next=0023] ---
 俺もたぶん、あそこ
 から街に入ってきた
 んだろうな・・・
@@ -118,11 +118,11 @@
 +[FID:17, TEXT:0026] 
 +[FID:17, TEXT:0027] 
 
---- Group 18 [left:none next=2012] ---
+--- Group [left:none next=2012] ---
 なるほど・・・
 +[FID:17, TEXT:0028] 
 
---- Group 19 [left:none next=0023] ---
+--- Group [left:none next=0023] ---
 おそらく僕も、あの
 穴から街に入ってき
 たようだな・・・
@@ -130,7 +130,7 @@
 +[FID:17, TEXT:002A] 
 +[FID:17, TEXT:002B] 
 
---- Group 20 [left:none next=0023] ---
+--- Group [left:none next=0023] ---
 あたしもたぶん、
 この穴から街に入って
 きたんだ・・・
@@ -138,7 +138,7 @@
 +[FID:17, TEXT:002D] 
 +[FID:17, TEXT:002E] 
 
---- Group 21 [left:none next=0023] ---
+--- Group [left:none next=0023] ---
 わたしが入ってきた
 のも、きっとこの
 辺りなんでしょうか
@@ -146,7 +146,7 @@
 +[FID:17, TEXT:0030] 
 +[FID:17, TEXT:0031] 
 
---- Group 22 [right:none next=2012] ---
+--- Group [right:none next=2012] ---
 間違いねえだろうな
 ・・・ほれ、こっち
 に来てみな？
@@ -154,29 +154,29 @@
 +[FID:17, TEXT:0033] 
 +[FID:17, TEXT:0034] 
 
---- Group 23 [right:none next=2012] ---
+--- Group [right:none next=2012] ---
 どうだ？
 見覚えあるか？
 +[FID:17, TEXT:0035] 
 +[FID:17, TEXT:0036] 
 
---- Group 24 [left:none next=0023] ---
+--- Group [left:none next=0023] ---
 ・・・なんとなく
 +[FID:17, TEXT:0037] 
 
---- Group 25 [left:none next=0023] ---
+--- Group [left:none next=0023] ---
 なんとなく・・・
 だけど・・・
 +[FID:17, TEXT:0038] 
 +[FID:17, TEXT:0039] 
 
---- Group 26 [left:none next=0023] ---
+--- Group [left:none next=0023] ---
 なんとなく
 ・・・ですけど
 +[FID:17, TEXT:003A] 
 +[FID:17, TEXT:003B] 
 
---- Group 27 [right:none next=2012] ---
+--- Group [right:none next=2012] ---
 ここから南は全部、
 こういう荒野さ
 街の工場が流してる
@@ -186,7 +186,7 @@
 +[FID:17, TEXT:003E] 
 +[FID:17, TEXT:003F] 
 
---- Group 28 [left:none next=0023] ---
+--- Group [left:none next=0023] ---
 この荒野のどこかに
 俺が最初に呼ばれた
 場所があるのか・・・
@@ -194,7 +194,7 @@
 +[FID:17, TEXT:0041] 
 +[FID:17, TEXT:0042] 
 
---- Group 29 [left:none next=0023] ---
+--- Group [left:none next=0023] ---
 この荒野のどこかに
 僕が最初に呼ばれた
 場所があるのか・・・
@@ -202,7 +202,7 @@
 +[FID:17, TEXT:0043] 
 -[FID:17, TEXT:0042] 
 
---- Group 30 [left:none next=0023] ---
+--- Group [left:none next=0023] ---
 この荒野のどこかに
 あたしが最初に
 呼ばれた場所が
@@ -212,7 +212,7 @@
 +[FID:17, TEXT:0045] 
 +[FID:17, TEXT:0046] 
 
---- Group 31 [left:none next=0023] ---
+--- Group [left:none next=0023] ---
 この荒野のどこかに
 私が最初に呼ばれた
 場所が・・・
@@ -220,17 +220,17 @@
 +[FID:17, TEXT:0047] 
 +[FID:17, TEXT:0048] 
 
---- Group 32 [right:none next=2012] ---
+--- Group [right:none next=2012] ---
 ・・・なぁ
 行ってみっか？
 +[FID:17, TEXT:0049] 
 +[FID:17, TEXT:004A] 
 
---- Group 33 [left:none next=2012] ---
+--- Group [left:none next=2012] ---
 え！？
 +[FID:17, TEXT:004B] 
 
---- Group 34 [right:none next=2012] ---
+--- Group [right:none next=2012] ---
 明日にでも
 みんなに声かけてよ
 何か手がかりがある
@@ -240,14 +240,14 @@
 +[FID:17, TEXT:004E] 
 +[FID:17, TEXT:004F] 
 
---- Group 35 [left:none next=0023] ---
+--- Group [left:none next=0023] ---
 ・・・ああ
 +[FID:17, TEXT:0050] 
 
---- Group 36 [left:none next=0023] ---
+--- Group [left:none next=0023] ---
 ・・・う〜ん
 +[FID:17, TEXT:0051] 
 
---- Group 37 [left:none next=0023] ---
+--- Group [left:none next=0023] ---
 ・・・はい
 +[FID:17, TEXT:0052] 

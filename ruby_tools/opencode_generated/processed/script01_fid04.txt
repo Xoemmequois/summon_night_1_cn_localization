@@ -1,4 +1,4 @@
---- Group 1 [left:主人公 next=201D] ---G
+--- Group [left:主人公 next=201D] ---G
 
 　　私はなんとなくものたりない
 　　気持ちを感じていた
@@ -10,7 +10,7 @@
 +[FID:04, TEXT:000C] 　　并不是说每天都
 +[FID:04, TEXT:000D] 　　过得很无聊
 
---- Group 2 [left:主人公 next=201D] ---G
+--- Group [left:主人公 next=201D] ---G
 
 
 
@@ -20,7 +20,7 @@
 -[FID:04, TEXT:0000] 
 +[FID:04, TEXT:0008] 　　　（是从什么时候开始的呢？）
 
---- Group 4 [right:克也 next=201D] ---G
+--- Group [right:克也 next=201D] ---G
 
 
 　　　子供っぽいのかしら
@@ -32,7 +32,7 @@
 +[FID:04, TEXT:0048] 　　　总是想着一些不切实际
 +[FID:04, TEXT:0049] 　　　的梦呢……
 
---- Group 5 [right:克也 next=201D] ---G
+--- Group [right:克也 next=201D] ---G
 
 　　可能性にかけてみることも、
 　　あきらめることもできず、
@@ -44,7 +44,7 @@
 +[FID:04, TEXT:0046] 　　我只能这样　　
 +[FID:04, TEXT:0027] 　　继续迷茫下去
 
---- Group 6 [left:主人公 next=201D] ---G
+--- Group [left:主人公 next=201D] ---G
 
 　　学校は楽しいし、
 　　友達や後輩とのつきあいも
@@ -56,7 +56,7 @@
 +[FID:04, TEXT:0010] 　　的关系也很融洽　　
 +[FID:04, TEXT:0011] 　　但是……
 
---- Group 7 [left:主人公 next=201D] ---G
+--- Group [left:主人公 next=201D] ---G
 
 
 
@@ -66,7 +66,7 @@
 -[FID:04, TEXT:0000] 
 +[FID:04, TEXT:0012] 　（这样真的好吗？）
 
---- Group 8 [right:克也 next=201D] ---G
+--- Group [right:克也 next=201D] ---G
 
 
 
@@ -76,13 +76,13 @@
 -[FID:04, TEXT:0000] 
 +[FID:04, TEXT:0045] （这样真的好吗？）
 
---- Group 10 [left:主人公 next=0023] ---G
+--- Group [left:主人公 next=0023] ---G
 
 　（それじゃ、なんかイヤだ）
 -[FID:04, TEXT:0000] 
 +[FID:04, TEXT:0019] 　（那样的事，我不太喜欢）
 
---- Group 11 [left:主人公 next=201D] ---G
+--- Group [left:主人公 next=201D] ---G
 
 　　決められた道を進んでいく
 　　だけじゃ、その横にある
@@ -94,7 +94,7 @@
 +[FID:04, TEXT:001E] 　　注意到路旁的
 +[FID:04, TEXT:001F] 　　重要事物
 
---- Group 12 [left:主人公 next=201D] ---G
+--- Group [left:主人公 next=201D] ---G
 
 
 　　けれども、そんなものが
@@ -106,7 +106,7 @@
 +[FID:04, TEXT:0021] 　　是否真的存在，
 +[FID:04, TEXT:0022] 　　也没有保证吧
 
---- Group 15 [right:克也 next=201D] ---G
+--- Group [right:克也 next=201D] ---G
 
 
 
@@ -116,7 +116,7 @@
 -[FID:04, TEXT:0000] 
 +[FID:04, TEXT:0043] 　　　（是从什么时候开始的呢）
 
---- Group 16 [right:克也 next=201D] ---G
+--- Group [right:克也 next=201D] ---G
 
 
 　あたしにしかできないことって
@@ -126,7 +126,7 @@
 +[FID:04, TEXT:0040] 　　是不是有什么只有
 +[FID:04, TEXT:0041] 　　我能做到的事呢？
 
---- Group 17 [left:主人公 next=201D] ---G
+--- Group [left:主人公 next=201D] ---G
 
 
 　　　　それを知りたい
@@ -136,13 +136,13 @@
 +[FID:04, TEXT:002C] 　　　　我想知道
 +[FID:04, TEXT:002D] 　　　　就在现在
 
---- Group 18 [left:主人公 next=0023] ---G
+--- Group [left:主人公 next=0023] ---G
 
 　　（無茶苦茶だよな・・・）
 -[FID:04, TEXT:0000] 
 +[FID:04, TEXT:002E] 　　（真是太不讲道理了……）
 
---- Group 19 [left:主人公 next=201D] ---G
+--- Group [left:主人公 next=201D] ---G
 
 　そうつぶやいて、苦笑する
 　そんなことが簡単にわかれば、
@@ -154,7 +154,7 @@
 +[FID:04, TEXT:0033] 　谁还会对自己的生活
 +[FID:04, TEXT:0034] 　感到迷茫呢
 
---- Group 23 [right:克也 next=201D] ---G
+--- Group [right:克也 next=201D] ---G
 
 　　可能性にかけてみることも、
 　　あきらめることもできず、
@@ -166,7 +166,7 @@
 +[FID:04, TEXT:003F] 　　我只能这样
 -[FID:04, TEXT:0027] 　　继续迷茫下去
 
---- Group 24 [right:克也 next=201D] ---G
+--- Group [right:克也 next=201D] ---G
 
 
 　　けれども、そんなものが
@@ -178,7 +178,7 @@
 -[FID:04, TEXT:0021] 　　是否真的存在，
 +[FID:04, TEXT:003E] 　　也没有保证
 
---- Group 27 [right:克也 next=201D] ---G
+--- Group [right:克也 next=201D] ---G
 
 
 　　それ以上のしあわせは
@@ -188,7 +188,7 @@
 +[FID:04, TEXT:003C] 　　　　我绝对无法得到
 +[FID:04, TEXT:003D] 　　　　比这更幸福的东西
 
---- Group 33 [right:克也 next=201D] ---G
+--- Group [right:克也 next=201D] ---G
 
 
 
@@ -198,7 +198,7 @@
 -[FID:04, TEXT:0000] 
 +[FID:04, TEXT:003B] 　（这样真的好吗？）
 
---- Group 34 [right:克也 next=201D] ---G
+--- Group [right:克也 next=201D] ---G
 
 　あたしはなんとなくもの
 　たりない気持ちを感じていた
@@ -210,7 +210,7 @@
 +[FID:04, TEXT:0039] 　并不是说每天都
 +[FID:04, TEXT:003A] 　过得很无聊
 
---- Group 35 [right:克也 next=201D] ---G
+--- Group [right:克也 next=201D] ---G
 
 
 
@@ -220,7 +220,7 @@
 -[FID:04, TEXT:0000] 
 +[FID:04, TEXT:0036] 　　　（是从什么时候开始的呢）
 
---- Group 85 [left:主人公 next=0023] ---G
+--- Group [left:主人公 next=0023] ---G
 　後輩と別れた俺は
 　まっすぐ家には帰らなかった
 　小高い丘の上にある公園
@@ -234,7 +234,7 @@
 +[FID:04, TEXT:0005] 　这个习惯是在进入高中
 +[FID:04, TEXT:0006] 　一段时间之后有的
 
---- Group 90 [right:克也 next=201D] ---G
+--- Group [right:克也 next=201D] ---G
 　後輩と別れた僕は
 　まっすぐ家には帰らなかった
 　小高い丘の上にある公園
@@ -248,11 +248,11 @@
 -[FID:04, TEXT:0005] 　这个习惯是在进入高中
 -[FID:04, TEXT:0006] 　一段时间之后有的
 
---- Group 92 [right:none next=0023] ---G
+--- Group [right:none next=0023] ---G
 　　俺はなんとなくものたりない
 +[FID:04, TEXT:0009] 　　我总觉得有些怅然若失。
 
---- Group 97 [right:克也 next=201D] ---G
+--- Group [right:克也 next=201D] ---G
 　　僕はなんとなくものたりない
 　　気持ちを感じていた
 　　決して毎日がつまらない
@@ -262,7 +262,7 @@
 -[FID:04, TEXT:000C] 　　并不是说每天都
 -[FID:04, TEXT:000D] 　　过得很无聊
 
---- Group 104 [left:none next=201D] ---G
+--- Group [left:none next=201D] ---G
 　このまま大学に入って、
 　就職をして、結婚をして・・・
 　みんなと同じように
@@ -276,41 +276,41 @@
 +[FID:04, TEXT:0017] 　　大概也能过得还算幸福吧。
 +[FID:04, TEXT:0018] 　　但是……
 
---- Group 109 [left:主人公 next=201D] ---G
+--- Group [left:主人公 next=201D] ---G
 　（それが本当に幸せだって
 　　言えるんだろうか？）
 +[FID:04, TEXT:001A] 　　（那样真的能称得上
 +[FID:04, TEXT:001B] 　　是幸福吗？）
 
---- Group 111 [right:none next=0023] ---G
+--- Group [right:none next=0023] ---G
 　　俺はただこうして
 +[FID:04, TEXT:0025] 　　我只是这样
 
---- Group 116 [right:克也 next=201D] ---G
+--- Group [right:克也 next=201D] ---G
 　　僕はただこうして
 　　迷いつづけている
 +[FID:04, TEXT:0026] 　　我只是这样
 -[FID:04, TEXT:0027] 　　继续迷茫下去
 
---- Group 123 [right:none next=0023] ---G
+--- Group [right:none next=0023] ---G
 　　俺がここに存在する意味
 　　俺がここに存在する価値
 +[FID:04, TEXT:0028] 　　我存在的意义
 +[FID:04, TEXT:0029] 　　我存在的价值
 
---- Group 128 [left:主人公 next=201D] ---G
+--- Group [left:主人公 next=201D] ---G
 　　僕がここに存在する意味
 　　僕がここに存在する価値
 +[FID:04, TEXT:002A] 　　我存在的意义
 +[FID:04, TEXT:002B] 　　我存在的价值
 
---- Group 130 [right:克也 next=201D] ---G
+--- Group [right:克也 next=201D] ---G
 （情けないな・・・考えるだけで
 　確かめようともしないくせに）
 +[FID:04, TEXT:002F] （真没用啊……只会胡思乱想
 +[FID:04, TEXT:0030] 　却连确认的勇气都没有）
 
---- Group 132 [right:克也 next=201D] ---G
+--- Group [right:克也 next=201D] ---G
 　後輩と別れたあたしは
 　まっすぐ家には帰らなかった
 　小高い丘の上にある公園
@@ -324,7 +324,7 @@
 -[FID:04, TEXT:0005] 　这个习惯是在进入高中
 -[FID:04, TEXT:0006] 　一段时间之后有的
 
---- Group 134 [left:主人公 next=201D] ---G
+--- Group [left:主人公 next=201D] ---G
 　後輩と別れた私は
 　まっすぐ家には帰らなかった
 　小高い丘の上にある公園

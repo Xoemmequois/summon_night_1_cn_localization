@@ -1,40 +1,40 @@
---- Group 1 [right:巴萨 next=2012] ---
+--- Group [right:巴萨 next=2012] ---
 ザマぁ・・・
 みヤがレ・・・
 +[FID:8C, TEXT:0001] 
 +[FID:8C, TEXT:0002] 
 
---- Group 2 [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---
 バノッサ・・・
 君は、まだ意識を？
 +[FID:8C, TEXT:0003] 
 +[FID:8C, TEXT:0005] 
 
---- Group 3 [left:主人公 next=2012] ---
+--- Group [left:主人公 next=2012] ---
 バノッサ・・・
 まだ意識が！？
 -[FID:8C, TEXT:0003] 
 +[FID:8C, TEXT:0006] 
 
---- Group 4 [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---
 バノッサ・・・
 お前、まだ意識が？
 -[FID:8C, TEXT:0003] 
 +[FID:8C, TEXT:0004] 
 
---- Group 5 [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---
 待ってて！
 今、助けるから！
 +[FID:8C, TEXT:0007] 
 +[FID:8C, TEXT:0008] 
 
---- Group 6 [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---
 待ってて！
 今、助けますから！
 -[FID:8C, TEXT:0007] 
 +[FID:8C, TEXT:000C] 
 
---- Group 7 [left:主人公 next=2012] ---
+--- Group [left:主人公 next=2012] ---
 バノッサさん・・・
 まだ意識が
 残っているんですね！
@@ -42,7 +42,7 @@
 +[FID:8C, TEXT:000A] 
 +[FID:8C, TEXT:000B] 
 
---- Group 8 [right:巴萨 next=2012] ---
+--- Group [right:巴萨 next=2012] ---
 クククッ・・・
 余計ナコトは考えるナ
 ヨ・・・はぐれ野郎？
@@ -50,7 +50,7 @@
 +[FID:8C, TEXT:000E] 
 +[FID:8C, TEXT:000F] 
 
---- Group 9 [right:巴萨 next=2012] ---
+--- Group [right:巴萨 next=2012] ---
 もウスグ、俺様ハ魔王
 ニナっちまウ・・・
 もウ、誰にモ止メらレ
@@ -60,7 +60,7 @@
 +[FID:8C, TEXT:0012] 
 +[FID:8C, TEXT:0013] 
 
---- Group 10 [left:艾多斯 next=2012] ---
+--- Group [left:艾多斯 next=2012] ---
 あきらめるな！
 バノッサ、お前はワシ
 が助けてみせる！！
@@ -68,23 +68,23 @@
 +[FID:8C, TEXT:0015] 
 +[FID:8C, TEXT:0016] 
 
---- Group 11 [right:巴萨 next=2012] ---
+--- Group [right:巴萨 next=2012] ---
 ヘヘヘ・・・ッ
 アリがトよ、エドス
 +[FID:8C, TEXT:0017] 
 +[FID:8C, TEXT:0018] 
 
---- Group 12 [right:巴萨 next=2012] ---
+--- Group [right:巴萨 next=2012] ---
 泣くンじゃネェよ？
 俺なンかノタメニさ
 +[FID:8C, TEXT:0019] 
 +[FID:8C, TEXT:001A] 
 
---- Group 13 [left:艾多斯 next=2012] ---
+--- Group [left:艾多斯 next=2012] ---
 バノッサ・・・っ
 +[FID:8C, TEXT:001B] 
 
---- Group 14 [right:巴萨 next=2012] ---
+--- Group [right:巴萨 next=2012] ---
 はグれ野郎よ・・・
 手前ェに・・・ッ
 頼みガあル・・・
@@ -92,7 +92,7 @@
 +[FID:8C, TEXT:001D] 
 +[FID:8C, TEXT:001E] 
 
---- Group 15 [right:巴萨 next=2012] ---
+--- Group [right:巴萨 next=2012] ---
 そノちかラで・・・
 俺ヲ・・・
 殺シテクれッ！！
@@ -100,7 +100,7 @@
 +[FID:8C, TEXT:0020] 
 +[FID:8C, TEXT:0021] 
 
---- Group 16 [right:巴萨 next=2012] ---
+--- Group [right:巴萨 next=2012] ---
 まダ、俺ガ・・・
 俺でいルうちニ・・・
 頼ム・・・ッ！！
@@ -108,43 +108,43 @@
 +[FID:8C, TEXT:0023] 
 +[FID:8C, TEXT:0024] 
 
---- Group 17 [left:主人公 next=2012] ---
+--- Group [left:主人公 next=2012] ---
 ・・・っ！！
 +[FID:8C, TEXT:0025] 
 
---- Group 18 [left:主人公 next=2012] ---
+--- Group [left:主人公 next=2012] ---
 できない・・・
 +[FID:8C, TEXT:0026] 
 
---- Group 19 [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---
 バノッサ、俺には君を
 殺せない！！
 +[FID:8C, TEXT:0027] 
 +[FID:8C, TEXT:0028] 
 
---- Group 20 [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---
 バノッサ、僕には君を
 殺せない！！
 +[FID:8C, TEXT:0029] 
 -[FID:8C, TEXT:0028] 
 
---- Group 21 [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---
 あたしにはバノッサを
 殺せない！！
 +[FID:8C, TEXT:002A] 
 -[FID:8C, TEXT:0028] 
 
---- Group 22 [left:主人公 next=2012] ---
+--- Group [left:主人公 next=2012] ---
 だめです・・・
 +[FID:8C, TEXT:002B] 
 
---- Group 23 [left:主人公 next=2012] ---
+--- Group [left:主人公 next=2012] ---
 できません・・・
 そんなこと・・・
 +[FID:8C, TEXT:002C] 
 +[FID:8C, TEXT:002D] 
 
---- Group 24 [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---
 バノッサさんを殺す
 ・・・そんなこと、
 わたしにはできない！
@@ -152,68 +152,68 @@
 +[FID:8C, TEXT:002F] 
 +[FID:8C, TEXT:0030] 
 
---- Group 25 [right:巴萨 next=2012] ---
+--- Group [right:巴萨 next=2012] ---
 バカ・・・や・・・
 ろ・・・
 +[FID:8C, TEXT:0031] 
 +[FID:8C, TEXT:0032] 
 
---- Group 26 [right:巴萨 next=2012] ---
+--- Group [right:巴萨 next=2012] ---
 ぐウッ！？
 +[FID:8C, TEXT:0033] 
 
---- Group 27 [right:巴萨 next=2012] ---
+--- Group [right:巴萨 next=2012] ---
 グアアアァァァッ！！
 +[FID:8C, TEXT:0034] 
 
---- Group 28 [right:雷德 next=2012] ---
+--- Group [right:雷德 next=2012] ---
 空が・・・
 空が割れていく！？
 +[FID:8C, TEXT:0035] 
 +[FID:8C, TEXT:0036] 
 
---- Group 29 [left:艾多斯 next=2012] ---
+--- Group [left:艾多斯 next=2012] ---
 バノッサぁぁっ！
 +[FID:8C, TEXT:0037] 
 
---- Group 30 [right:主人公 next=0023] ---
+--- Group [right:主人公 next=0023] ---
 バノッサの姿が・・・
 +[FID:8C, TEXT:0038] 
 
---- Group 31 [right:主人公 next=0023] ---
+--- Group [right:主人公 next=0023] ---
 バノッサさんが・・・
 +[FID:8C, TEXT:0039] 
 
---- Group 32 [right:char_0037 next=2012] ---
+--- Group [right:char_0037 next=2012] ---
 ウゥゥ・・・ッ
 ウオオォォォォッ！！
 +[FID:8C, TEXT:003A] 
 +[FID:8C, TEXT:003B] 
 
---- Group 33 [left:加泽尔 next=2012] ---
+--- Group [left:加泽尔 next=2012] ---
 こいつが・・・
 魔王だってのか・・・
 +[FID:8C, TEXT:003C] 
 +[FID:8C, TEXT:003D] 
 
---- Group 34 [right:索尔 next=2012] ---
+--- Group [right:索尔 next=2012] ---
 みんな、危ないっ！
 +[FID:8C, TEXT:003E] 
 
---- Group 35 [right:char_0037 next=2012] ---
+--- Group [right:char_0037 next=2012] ---
 ウオオオオオォォォォ
 ォォォォッ！！！！
 +[FID:8C, TEXT:003F] 
 +[FID:8C, TEXT:0040] 
 
---- Group 36 [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---
 うわあぁっ！？
 +[FID:8C, TEXT:0041] 
 
---- Group 37 [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---
 きゃぁっ！？
 +[FID:8C, TEXT:0042] 
 
---- Group 38 [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---
 きゃあっ！？
 +[FID:8C, TEXT:0043] 

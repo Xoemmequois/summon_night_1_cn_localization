@@ -1,4 +1,4 @@
---- Group 1 [left:none next=2017] ---
+--- Group [left:none next=2017] ---
 ０話　１
 
 
@@ -10,7 +10,7 @@
 -[FID:91, TEXT:0000] 
 -[FID:91, TEXT:0000] 
 
---- Group 2 [left:none next=0003] ---
+--- Group [left:none next=0003] ---
 ショップ
 １２話　１８
 　イワ４１
@@ -22,7 +22,7 @@
 +[FID:91, TEXT:0016] 
 +[FID:91, TEXT:001A] 
 
---- Group 3 [left:none next=2017] ---
+--- Group [left:none next=2017] ---
 ショップ
 １話　２
 
@@ -34,7 +34,7 @@
 -[FID:91, TEXT:0000] 
 -[FID:91, TEXT:0000] 
 
---- Group 4 [left:none next=2017] ---
+--- Group [left:none next=2017] ---
 ショップ
 １話　３
 
@@ -46,7 +46,7 @@
 -[FID:91, TEXT:0000] 
 -[FID:91, TEXT:0000] 
 
---- Group 5 [left:none next=2017] ---
+--- Group [left:none next=2017] ---
 ショップ
 ２話　４
 　ヘイゲン４２
@@ -58,7 +58,7 @@
 -[FID:91, TEXT:0000] 
 -[FID:91, TEXT:0000] 
 
---- Group 6 [left:none next=0003] ---
+--- Group [left:none next=0003] ---
 ショップ
 １３話　２１
 　イワ４１
@@ -70,7 +70,7 @@
 -[FID:91, TEXT:0016] 
 -[FID:91, TEXT:001A] 
 
---- Group 7 [left:none next=2017] ---
+--- Group [left:none next=2017] ---
 ショップ
 ３話　６
 　ヘイゲン４２
@@ -82,7 +82,7 @@
 +[FID:91, TEXT:0009] 
 +[FID:91, TEXT:000A] 
 
---- Group 8 [left:none next=2017] ---
+--- Group [left:none next=2017] ---
 ショップ
 ４話　７
 　ヘイゲン４２
@@ -94,7 +94,7 @@
 -[FID:91, TEXT:0009] 
 -[FID:91, TEXT:000A] 
 
---- Group 9 [left:none next=0003] ---
+--- Group [left:none next=0003] ---
 ショップ
 ５話　８
 　召喚跡４０
@@ -104,7 +104,7 @@
 -[FID:91, TEXT:000A] 
 +[FID:91, TEXT:000D] 
 
---- Group 10 [left:none next=2017] ---
+--- Group [left:none next=2017] ---
 ショップ
 １６話　２９
 　ミネ４８
@@ -116,7 +116,7 @@
 +[FID:91, TEXT:0024] 
 +[FID:91, TEXT:0026] 
 
---- Group 11 [left:none next=2017] ---
+--- Group [left:none next=2017] ---
 ショップ
 Ａ話　１０
 　召喚跡４０
@@ -128,7 +128,7 @@
 -[FID:91, TEXT:0000] 
 -[FID:91, TEXT:0000] 
 
---- Group 12 [left:none next=2017] ---
+--- Group [left:none next=2017] ---
 ショップ
 ６話　１１
 　森４６
@@ -140,7 +140,7 @@
 +[FID:91, TEXT:0011] 
 -[FID:91, TEXT:0000] 
 
---- Group 13 [left:none next=2017] ---
+--- Group [left:none next=2017] ---
 ショップ
 ８話　１３
 　森４６
@@ -152,7 +152,7 @@
 -[FID:91, TEXT:0011] 
 -[FID:91, TEXT:0013] 
 
---- Group 14 [left:none next=2017] ---
+--- Group [left:none next=2017] ---
 ショップ
 ９話　１４
 　ドウクツ４４
@@ -164,7 +164,7 @@
 -[FID:91, TEXT:0013] 
 -[FID:91, TEXT:0000] 
 
---- Group 15 [left:none next=2017] ---
+--- Group [left:none next=2017] ---
 ショップ
 １０話　１５
 　ドウクツ４４
@@ -176,7 +176,7 @@
 -[FID:91, TEXT:0013] 
 -[FID:91, TEXT:0016] 
 
---- Group 16 [left:none next=2017] ---
+--- Group [left:none next=2017] ---
 ショップ
 １１話　１６
 　イワ４１
@@ -188,7 +188,7 @@
 -[FID:91, TEXT:0016] 
 -[FID:91, TEXT:0000] 
 
---- Group 17 [left:none next=2017] ---
+--- Group [left:none next=2017] ---
 ショップ
 １８話　３２
 　ミネ４８
@@ -200,7 +200,7 @@
 -[FID:91, TEXT:0024] 
 -[FID:91, TEXT:0026] 
 
---- Group 19 [left:none next=2017] ---
+--- Group [left:none next=2017] ---
 ２話　戦闘５
 
 
@@ -212,11 +212,11 @@
 -[FID:91, TEXT:0000] 
 -[FID:91, TEXT:0000] 
 
---- Group 20 [left:none next=0023] ---
+--- Group [left:none next=0023] ---
 スウォン９
 +[FID:91, TEXT:000E] 
 
---- Group 21 [left:none next=2017] ---
+--- Group [left:none next=2017] ---
 １１話　１７
 
 
@@ -228,11 +228,11 @@
 -[FID:91, TEXT:0000] 
 -[FID:91, TEXT:0000] 
 
---- Group 22 [left:none next=2017] ---
+--- Group [left:none next=2017] ---
 エルカ２０
 +[FID:91, TEXT:001B] 
 
---- Group 23 [left:none next=2017] ---
+--- Group [left:none next=2017] ---
 １２話　１９
 
 
@@ -244,11 +244,11 @@
 -[FID:91, TEXT:0000] 
 -[FID:91, TEXT:0000] 
 
---- Group 24 [left:none next=2017] ---
+--- Group [left:none next=2017] ---
 リプレ２８
 +[FID:91, TEXT:001E] 
 
---- Group 25 [left:none next=2017] ---
+--- Group [left:none next=2017] ---
 １３話　２２
 
 
@@ -260,7 +260,7 @@
 -[FID:91, TEXT:0000] 
 -[FID:91, TEXT:0000] 
 
---- Group 26 [left:none next=2017] ---
+--- Group [left:none next=2017] ---
 １４話　２３
 
 
@@ -272,23 +272,23 @@
 -[FID:91, TEXT:0000] 
 -[FID:91, TEXT:0000] 
 
---- Group 27 [left:none next=0023] ---
+--- Group [left:none next=0023] ---
 １５話ミネ２４
 +[FID:91, TEXT:0021] 
 
---- Group 28 [left:none next=0023] ---
+--- Group [left:none next=0023] ---
 １５話タニ２６
 +[FID:91, TEXT:0023] 
 
---- Group 29 [left:none next=0023] ---
+--- Group [left:none next=0023] ---
 １５話キカイ２７
 +[FID:91, TEXT:0025] 
 
---- Group 30 [left:none next=0023] ---
+--- Group [left:none next=0023] ---
 アカネ２５
 +[FID:91, TEXT:0027] 
 
---- Group 31 [left:none next=2017] ---
+--- Group [left:none next=2017] ---
 １６話　３０
 
 
@@ -300,7 +300,7 @@
 -[FID:91, TEXT:0000] 
 -[FID:91, TEXT:0000] 
 
---- Group 32 [left:none next=2017] ---
+--- Group [left:none next=2017] ---
 １７話　３１
 
 
@@ -312,7 +312,7 @@
 -[FID:91, TEXT:0000] 
 -[FID:91, TEXT:0000] 
 
---- Group 33 [left:none next=2017] ---
+--- Group [left:none next=2017] ---
 １８話　３３
 魔王ルート３８
 
@@ -324,7 +324,7 @@
 -[FID:91, TEXT:0000] 
 -[FID:91, TEXT:0000] 
 
---- Group 34 [left:none next=2017] ---
+--- Group [left:none next=2017] ---
 １８話　３４
 
 
@@ -336,7 +336,7 @@
 -[FID:91, TEXT:0000] 
 -[FID:91, TEXT:0000] 
 
---- Group 35 [left:none next=2017] ---
+--- Group [left:none next=2017] ---
 Ａルート　３５
 Ｂルート　３６
 Ｃルート　３７
@@ -348,7 +348,7 @@
 -[FID:91, TEXT:0000] 
 -[FID:91, TEXT:0000] 
 
---- Group 36 [left:none next=2017] ---
+--- Group [left:none next=2017] ---
 はじめから
 １話
 ２話

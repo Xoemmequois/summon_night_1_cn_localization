@@ -1,4 +1,4 @@
---- Group 1 [left:none next=2012] ---
+--- Group [left:none next=2012] ---
 アカネと出会ったのは
 ここでぶつかったのが
 はじまりだっけ
@@ -6,7 +6,7 @@
 +[FID:7C, TEXT:0008] 
 +[FID:7C, TEXT:0009] 
 
---- Group 2 [left:none next=2012] ---
+--- Group [left:none next=2012] ---
 アカネと出会ったのは
 ここで正面衝突をした
 のがきっかけだったな
@@ -14,11 +14,11 @@
 +[FID:7C, TEXT:0002] 
 +[FID:7C, TEXT:0003] 
 
---- Group 3 [left:none next=2012] ---
+--- Group [left:none next=2012] ---
 ・・・・・・
 +[FID:7C, TEXT:0004] 
 
---- Group 5 [left:none next=0023] ---
+--- Group [left:none next=0023] ---
 そういや、最近はお店
 の手伝いとかしなくて
 もいいのか？
@@ -26,7 +26,7 @@
 +[FID:7C, TEXT:0006] 
 +[FID:7C, TEXT:0007] 
 
---- Group 6 [left:none next=0023] ---
+--- Group [left:none next=0023] ---
 そういえば、もうお店
 の手伝いはしなくても
 いいの？
@@ -34,7 +34,7 @@
 +[FID:7C, TEXT:000B] 
 +[FID:7C, TEXT:000C] 
 
---- Group 7 [left:none next=2012] ---
+--- Group [left:none next=2012] ---
 彼女と知りあったのは
 ここでぶつかったのが
 きっかけだったよね
@@ -42,7 +42,7 @@
 -[FID:7C, TEXT:0008] 
 +[FID:7C, TEXT:000E] 
 
---- Group 8 [left:none next=0023] ---
+--- Group [left:none next=0023] ---
 そういえば、もう
 お店は手伝わなくて
 いいんですか？
@@ -50,11 +50,11 @@
 +[FID:7C, TEXT:0010] 
 +[FID:7C, TEXT:0011] 
 
---- Group 9 [right:none next=2012] ---
+--- Group [right:none next=2012] ---
 うん、それがね
 +[FID:7C, TEXT:0012] 
 
---- Group 10 [right:none next=2012] ---
+--- Group [right:none next=2012] ---
 お師匠ったら、アタシ
 にほとんど用事を頼ま
 なくなってきたんだ
@@ -62,7 +62,7 @@
 +[FID:7C, TEXT:0014] 
 +[FID:7C, TEXT:0015] 
 
---- Group 11 [right:none next=2012] ---
+--- Group [right:none next=2012] ---
 私が行ったほうが早い
 って、自分で薬草とか
 も取ってきちゃうのよ
@@ -70,23 +70,23 @@
 +[FID:7C, TEXT:0017] 
 +[FID:7C, TEXT:0018] 
 
---- Group 12 [right:none next=2012] ---
+--- Group [right:none next=2012] ---
 なんだかなぁ・・・
 +[FID:7C, TEXT:0019] 
 
---- Group 13 [left:none next=0023] ---
+--- Group [left:none next=0023] ---
 あれ、もしかすると
 アカネは・・・
 +[FID:7C, TEXT:001A] 
 +[FID:7C, TEXT:001C] 
 
---- Group 14 [left:none next=0023] ---
+--- Group [left:none next=0023] ---
 あれ、もしかすると
 アカネってば
 -[FID:7C, TEXT:001A] 
 +[FID:7C, TEXT:001B] 
 
---- Group 15 [left:none next=0023] ---
+--- Group [left:none next=0023] ---
 あれっ？
 もしかして
 アカネってば・・・
@@ -94,63 +94,63 @@
 +[FID:7C, TEXT:001E] 
 +[FID:7C, TEXT:001F] 
 
---- Group 16 [left:none next=0023] ---
+--- Group [left:none next=0023] ---
 あれ、もしかして
 アカネさん・・・
 +[FID:7C, TEXT:0020] 
 +[FID:7C, TEXT:0021] 
 
---- Group 19 [left:none next=0023] ---
+--- Group [left:none next=0023] ---
 どうしよう？
 +[FID:7C, TEXT:0022] 
 
---- Group 20 [left:none next=0023] ---
+--- Group [left:none next=0023] ---
 　さみしいんだ？
 　不満なのか？
 +[FID:7C, TEXT:0023] 
 +[FID:7C, TEXT:0024] 
 
---- Group 21 [left:none next=0023] ---
+--- Group [left:none next=0023] ---
 　さみしいのか？
 　不満なのか？
 +[FID:7C, TEXT:0025] 
 -[FID:7C, TEXT:0024] 
 
---- Group 22 [left:none next=0023] ---
+--- Group [left:none next=0023] ---
 　さみしいの？
 　不満なの？
 +[FID:7C, TEXT:0026] 
 +[FID:7C, TEXT:0027] 
 
---- Group 23 [left:none next=0023] ---
+--- Group [left:none next=0023] ---
 　さみしいですか？
 　不満なんですか？
 +[FID:7C, TEXT:0028] 
 +[FID:7C, TEXT:0029] 
 
---- Group 24 [left:none next=0023] ---
+--- Group [left:none next=0023] ---
 さみしいんだ？
 +[FID:7C, TEXT:002A] 
 
---- Group 25 [left:none next=0023] ---
+--- Group [left:none next=0023] ---
 さみしいのか？
 +[FID:7C, TEXT:002B] 
 
---- Group 26 [left:none next=0023] ---
+--- Group [left:none next=0023] ---
 さみしいの？
 +[FID:7C, TEXT:002C] 
 
---- Group 27 [left:none next=0023] ---
+--- Group [left:none next=0023] ---
 さみしいですか？
 +[FID:7C, TEXT:002D] 
 
---- Group 28 [right:none next=2012] ---
+--- Group [right:none next=2012] ---
 ななな、なっ・・・
 なに言ってんのよ！？
 +[FID:7C, TEXT:002E] 
 +[FID:7C, TEXT:002F] 
 
---- Group 29 [right:none next=2012] ---
+--- Group [right:none next=2012] ---
 ちっちゃな子じゃない
 んだし、そんなことあ
 るわけないでしょ！？
@@ -158,49 +158,49 @@
 +[FID:7C, TEXT:0031] 
 +[FID:7C, TEXT:0032] 
 
---- Group 30 [left:none next=0023] ---
+--- Group [left:none next=0023] ---
 そのわりには、ムキ
 になってるが・・・
 +[FID:7C, TEXT:0033] 
 +[FID:7C, TEXT:0035] 
 
---- Group 31 [left:none next=0023] ---
+--- Group [left:none next=0023] ---
 そのわりには、ムキ
 になってるよな・・・
 -[FID:7C, TEXT:0033] 
 +[FID:7C, TEXT:0034] 
 
---- Group 32 [left:none next=0023] ---
+--- Group [left:none next=0023] ---
 あははっ、図星だね
 これは・・・
 +[FID:7C, TEXT:0036] 
 +[FID:7C, TEXT:0037] 
 
---- Group 33 [left:none next=0023] ---
+--- Group [left:none next=0023] ---
 ふふっ、そういうこと
 にしておきましょうか
 +[FID:7C, TEXT:0038] 
 +[FID:7C, TEXT:0039] 
 
---- Group 34 [left:none next=0023] ---
+--- Group [left:none next=0023] ---
 不満なのか？
 +[FID:7C, TEXT:003A] 
 
---- Group 35 [left:none next=0023] ---
+--- Group [left:none next=0023] ---
 不満なの？
 +[FID:7C, TEXT:003B] 
 
---- Group 36 [left:none next=0023] ---
+--- Group [left:none next=0023] ---
 不満なのですか？
 +[FID:7C, TEXT:003C] 
 
---- Group 37 [right:none next=2012] ---
+--- Group [right:none next=2012] ---
 不満っていうより
 不安かな・・・
 +[FID:7C, TEXT:003D] 
 +[FID:7C, TEXT:003E] 
 
---- Group 38 [right:none next=2012] ---
+--- Group [right:none next=2012] ---
 アタシがいなくてもさ
 お師匠は自分で何でも
 できちゃうんだよね
@@ -208,7 +208,7 @@
 +[FID:7C, TEXT:0040] 
 +[FID:7C, TEXT:0041] 
 
---- Group 39 [right:none next=2012] ---
+--- Group [right:none next=2012] ---
 わかってたつもりだっ
 たんだけどね、なんか
 実感しちゃうとさ
@@ -216,7 +216,7 @@
 +[FID:7C, TEXT:0043] 
 +[FID:7C, TEXT:0044] 
 
---- Group 40 [right:none next=2012] ---
+--- Group [right:none next=2012] ---
 アタシって、やっぱり
 お師匠のお荷物なのか
 なって思っちゃうよ
@@ -224,11 +224,11 @@
 +[FID:7C, TEXT:0046] 
 +[FID:7C, TEXT:0047] 
 
---- Group 41 [right:主人公 next=0023] ---
+--- Group [right:主人公 next=0023] ---
 アカネ・・・
 +[FID:7C, TEXT:0048] 
 
---- Group 43 [right:none next=2012] ---
+--- Group [right:none next=2012] ---
 まあ、そのおかげで
 アンタたちのところに
 顔が出せるんだけどね
@@ -236,63 +236,63 @@
 +[FID:7C, TEXT:004A] 
 +[FID:7C, TEXT:004B] 
 
---- Group 44 [left:none next=0023] ---
+--- Group [left:none next=0023] ---
 そうだな
 +[FID:7C, TEXT:004C] 
 
---- Group 45 [left:none next=0023] ---
+--- Group [left:none next=0023] ---
 うん、そうだね
 +[FID:7C, TEXT:004D] 
 
---- Group 46 [left:none next=0023] ---
+--- Group [left:none next=0023] ---
 そうですね
 +[FID:7C, TEXT:004E] 
 
---- Group 47 [right:none next=2012] ---
+--- Group [right:none next=2012] ---
 って、しゃべってたら
 もうお店の前だ
 +[FID:7C, TEXT:004F] 
 +[FID:7C, TEXT:0050] 
 
---- Group 48 [right:none next=2012] ---
+--- Group [right:none next=2012] ---
 ううっ、やっぱ不安だ
 なぁ・・・
 +[FID:7C, TEXT:0051] 
 +[FID:7C, TEXT:0052] 
 
---- Group 49 [left:none next=0023] ---
+--- Group [left:none next=0023] ---
 おいおい、今さら
 逃げ出すなよ
 +[FID:7C, TEXT:0053] 
 +[FID:7C, TEXT:0054] 
 
---- Group 50 [left:none next=0023] ---
+--- Group [left:none next=0023] ---
 おいおい、今さら逃げ
 出すんじゃないぞ
 +[FID:7C, TEXT:0055] 
 +[FID:7C, TEXT:0056] 
 
---- Group 51 [left:none next=0023] ---
+--- Group [left:none next=0023] ---
 コラコラ、今さら逃げ
 たりしないでよ？
 +[FID:7C, TEXT:0057] 
 +[FID:7C, TEXT:0058] 
 
---- Group 52 [left:none next=0023] ---
+--- Group [left:none next=0023] ---
 心配しなくても大丈夫
 ですよ
 +[FID:7C, TEXT:0059] 
 +[FID:7C, TEXT:005A] 
 
---- Group 53 [right:none next=2012] ---
+--- Group [right:none next=2012] ---
 わ、わかってるって！
 +[FID:7C, TEXT:005B] 
 
---- Group 54 [left:茜 next=2012] ---
+--- Group [left:茜 next=2012] ---
 お、お師匠・・・
 +[FID:7C, TEXT:005C] 
 
---- Group 55 [right:none next=2012] ---
+--- Group [right:none next=2012] ---
 お、お師匠・・・
 アカネ、ただいま戻り
 ましたぁっ！
@@ -300,17 +300,17 @@
 +[FID:7C, TEXT:005D] 
 +[FID:7C, TEXT:005E] 
 
---- Group 56 [right:none next=2012] ---
+--- Group [right:none next=2012] ---
 おや、アカネさん
 お帰りなさい
 +[FID:7C, TEXT:005F] 
 +[FID:7C, TEXT:0060] 
 
---- Group 57 [right:none next=2012] ---
+--- Group [right:none next=2012] ---
 何日ぶりですかね？
 +[FID:7C, TEXT:0061] 
 
---- Group 58 [left:none next=2012] ---
+--- Group [left:none next=2012] ---
 あ、あのっ！
 これには、それなりの
 理由というものがあり
@@ -320,7 +320,7 @@
 +[FID:7C, TEXT:0064] 
 +[FID:7C, TEXT:0065] 
 
---- Group 59 [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---
 彼女が帰れなかったの
 は、あたしたちを手伝
 ってくれていたから
@@ -330,7 +330,7 @@
 +[FID:7C, TEXT:006C] 
 +[FID:7C, TEXT:0069] 
 
---- Group 60 [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---
 彼女が帰れなかったの
 は、僕たちの手伝いを
 してくれていたから
@@ -340,7 +340,7 @@
 +[FID:7C, TEXT:0068] 
 -[FID:7C, TEXT:0069] 
 
---- Group 61 [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---
 彼女が帰れなかったの
 は、俺たちの手伝いを
 してくれていたから
@@ -350,7 +350,7 @@
 -[FID:7C, TEXT:0068] 
 -[FID:7C, TEXT:0069] 
 
---- Group 62 [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---
 アカネさんは私たちを
 手伝ってくれたせいで
 帰れなかったんです
@@ -358,17 +358,17 @@
 +[FID:7C, TEXT:006E] 
 +[FID:7C, TEXT:006F] 
 
---- Group 63 [right:none next=2012] ---
+--- Group [right:none next=2012] ---
 ほう？
 +[FID:7C, TEXT:0070] 
 
---- Group 64 [left:茜 next=2012] ---
+--- Group [left:茜 next=2012] ---
 そそっ、そうなんです
 お師匠っ！
 +[FID:7C, TEXT:0071] 
 +[FID:7C, TEXT:0072] 
 
---- Group 65 [left:茜 next=2012] ---
+--- Group [left:茜 next=2012] ---
 お手伝いについ夢中に
 なっちゃって、それで
 こんなことに・・・
@@ -376,25 +376,25 @@
 +[FID:7C, TEXT:0074] 
 +[FID:7C, TEXT:0075] 
 
---- Group 66 [left:茜 next=2012] ---
+--- Group [left:茜 next=2012] ---
 ごめんなさいっ！！
 +[FID:7C, TEXT:0076] 
 
---- Group 67 [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---
 本当にすいません
 +[FID:7C, TEXT:0077] 
 
---- Group 68 [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---
 すいませんでした
 +[FID:7C, TEXT:0078] 
 
---- Group 69 [right:none next=2012] ---
+--- Group [right:none next=2012] ---
 そういうことなら
 仕方がないでしょうね
 +[FID:7C, TEXT:0079] 
 +[FID:7C, TEXT:007A] 
 
---- Group 70 [right:none next=2012] ---
+--- Group [right:none next=2012] ---
 しかし、アカネさんが
 お手伝いに夢中になる
 とは驚きですねえ
@@ -402,45 +402,45 @@
 +[FID:7C, TEXT:007C] 
 +[FID:7C, TEXT:007D] 
 
---- Group 71 [left:茜 next=2012] ---
+--- Group [left:茜 next=2012] ---
 あ、あはははっ
 +[FID:7C, TEXT:007E] 
 
---- Group 72 [right:none next=2012] ---
+--- Group [right:none next=2012] ---
 もっとも、お手伝いの
 内容が・・・
 +[FID:7C, TEXT:007F] 
 +[FID:7C, TEXT:0080] 
 
---- Group 73 [right:none next=2012] ---
+--- Group [right:none next=2012] ---
 戦いだというのなら、
 それも当然ですがね
 +[FID:7C, TEXT:0081] 
 +[FID:7C, TEXT:0082] 
 
---- Group 74 [left:茜 next=2012] ---
+--- Group [left:茜 next=2012] ---
 ・・・！！
 +[FID:7C, TEXT:0083] 
 
---- Group 75 [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---
 シオンさん・・・
 知っていたんですか？
 +[FID:7C, TEXT:0084] 
 +[FID:7C, TEXT:0086] 
 
---- Group 76 [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---
 シオンさん・・・
 知ってたんですか？
 -[FID:7C, TEXT:0084] 
 +[FID:7C, TEXT:0085] 
 
---- Group 77 [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---
 シオンさん・・・
 知ってらしたんですか
 -[FID:7C, TEXT:0084] 
 +[FID:7C, TEXT:0087] 
 
---- Group 78 [right:none next=2012] ---
+--- Group [right:none next=2012] ---
 出かけるたびに生傷が
 増えていたり
 さぼっていた稽古を
@@ -450,7 +450,7 @@
 +[FID:7C, TEXT:008A] 
 +[FID:7C, TEXT:008B] 
 
---- Group 79 [right:none next=2012] ---
+--- Group [right:none next=2012] ---
 気になったのでね
 こっそり、様子を見せ
 てもらっていたんです
@@ -458,7 +458,7 @@
 +[FID:7C, TEXT:008D] 
 +[FID:7C, TEXT:008E] 
 
---- Group 80 [right:none next=2012] ---
+--- Group [right:none next=2012] ---
 アカネさん
 この世界に来た時に、
 私は言いましたよね？
@@ -466,7 +466,7 @@
 +[FID:7C, TEXT:0090] 
 +[FID:7C, TEXT:0091] 
 
---- Group 81 [right:none next=2012] ---
+--- Group [right:none next=2012] ---
 私たちの忍者としての
 力は、隠していかねば
 ならないものだと
@@ -474,11 +474,11 @@
 +[FID:7C, TEXT:0093] 
 +[FID:7C, TEXT:0094] 
 
---- Group 82 [left:茜 next=2012] ---
+--- Group [left:茜 next=2012] ---
 はい・・・
 +[FID:7C, TEXT:0095] 
 
---- Group 83 [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---
 待ってください！
 アカネはただ、僕たち
 を助けようとして
@@ -488,7 +488,7 @@
 +[FID:7C, TEXT:0098] 
 +[FID:7C, TEXT:0099] 
 
---- Group 84 [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---
 待ってください！
 アカネはただ、俺たち
 を助けようとして
@@ -498,7 +498,7 @@
 -[FID:7C, TEXT:0098] 
 -[FID:7C, TEXT:0099] 
 
---- Group 85 [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---
 待ってください！
 彼女はただ、私たちを
 助けようとしてくれた
@@ -508,7 +508,7 @@
 +[FID:7C, TEXT:009D] 
 +[FID:7C, TEXT:009E] 
 
---- Group 86 [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---
 ちょっと待ってよ！
 彼女はあたしたちを
 助けようとしてくれた
@@ -518,7 +518,7 @@
 -[FID:7C, TEXT:009D] 
 -[FID:7C, TEXT:009E] 
 
---- Group 87 [right:none next=2012] ---
+--- Group [right:none next=2012] ---
 わかっています
 だから今までは、私も
 気がつかないふりをし
@@ -528,13 +528,13 @@
 +[FID:7C, TEXT:00A2] 
 +[FID:7C, TEXT:00A3] 
 
---- Group 88 [right:none next=2012] ---
+--- Group [right:none next=2012] ---
 ですが、黙っていられ
 るのもここまでです
 +[FID:7C, TEXT:00A4] 
 +[FID:7C, TEXT:00A5] 
 
---- Group 89 [right:none next=2012] ---
+--- Group [right:none next=2012] ---
 ここから先の戦いは、
 本当に命がけのものに
 なるでしょう
@@ -542,7 +542,7 @@
 +[FID:7C, TEXT:00A7] 
 +[FID:7C, TEXT:00A8] 
 
---- Group 90 [right:none next=2012] ---
+--- Group [right:none next=2012] ---
 中途半端な気持ちでは
 あなたたちに迷惑をか
 けるだけです
@@ -550,7 +550,7 @@
 +[FID:7C, TEXT:00AA] 
 +[FID:7C, TEXT:00AB] 
 
---- Group 91 [right:none next=2012] ---
+--- Group [right:none next=2012] ---
 そして忍びが命をかけ
 て戦うのは、それだけ
 の価値を認めた主君の
@@ -560,7 +560,7 @@
 +[FID:7C, TEXT:00AE] 
 +[FID:7C, TEXT:00AF] 
 
---- Group 92 [right:none next=2012] ---
+--- Group [right:none next=2012] ---
 我が弟子、アカネよ
 お前はこの人のために
 命をかけて戦う覚悟が
@@ -570,11 +570,11 @@
 +[FID:7C, TEXT:00B2] 
 +[FID:7C, TEXT:00B3] 
 
---- Group 93 [left:茜 next=2012] ---
+--- Group [left:茜 next=2012] ---
 アタシは・・・
 +[FID:7C, TEXT:00B4] 
 
---- Group 94 [left:茜 next=2012] ---
+--- Group [left:茜 next=2012] ---
 覚悟とか、主君とか、
 そんなこと考えたこと
 もない、けど・・・
@@ -582,7 +582,7 @@
 +[FID:7C, TEXT:00B6] 
 +[FID:7C, TEXT:00B7] 
 
---- Group 95 [left:茜 next=2012] ---
+--- Group [left:茜 next=2012] ---
 アタシはっ
 @ n 
 好きだって思ってる！
@@ -590,7 +590,7 @@
 +[FID:7C, TEXT:00B9] 
 +[FID:7C, TEXT:00BA] 
 
---- Group 96 [left:茜 next=2012] ---
+--- Group [left:茜 next=2012] ---
 あの場所にいるみんな
 のことが好き・・・
 みんな、アタシの大切
@@ -600,7 +600,7 @@
 +[FID:7C, TEXT:00BD] 
 +[FID:7C, TEXT:00BE] 
 
---- Group 97 [left:茜 next=2012] ---
+--- Group [left:茜 next=2012] ---
 それを守るためなら、
 アタシは自分の全てを
 賭けたっていい
@@ -608,7 +608,7 @@
 +[FID:7C, TEXT:00C0] 
 +[FID:7C, TEXT:00C1] 
 
---- Group 98 [right:希翁 next=2012] ---
+--- Group [right:希翁 next=2012] ---
 なるほど・・・それが
 アカネという
 くのいちが
@@ -618,7 +618,7 @@
 +[FID:7C, TEXT:00C4] 
 +[FID:7C, TEXT:00C5] 
 
---- Group 99 [right:希翁 next=2012] ---
+--- Group [right:希翁 next=2012] ---
 その決意がどれほどの
 ものか、この私に見せ
 てもらいましょう！

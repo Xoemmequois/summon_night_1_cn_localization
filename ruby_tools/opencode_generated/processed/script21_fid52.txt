@@ -1,4 +1,4 @@
---- Group 1 [right:none next=2012] ---
+--- Group [right:none next=2012] ---
 くそっ！
 ヤツら、本当に町中の
 薬を買い占めやがった
@@ -8,7 +8,7 @@
 +[FID:52, TEXT:0003] 
 +[FID:52, TEXT:0004] 
 
---- Group 2 [left:none next=0023] ---
+--- Group [left:none next=0023] ---
 これだけ探したのに、
 ひとつも見つからない
 なんて・・・
@@ -16,7 +16,7 @@
 +[FID:52, TEXT:0006] 
 +[FID:52, TEXT:0007] 
 
---- Group 3 [left:none next=0023] ---
+--- Group [left:none next=0023] ---
 これだけ探したのに、
 ひとつも見つからない
 とはな・・・
@@ -24,7 +24,7 @@
 -[FID:52, TEXT:0006] 
 +[FID:52, TEXT:0008] 
 
---- Group 4 [left:none next=0023] ---
+--- Group [left:none next=0023] ---
 なんで、こんだけ
 探してるのに！
 ひとつも
@@ -34,13 +34,13 @@
 +[FID:52, TEXT:000B] 
 +[FID:52, TEXT:000C] 
 
---- Group 5 [right:none next=2012] ---
+--- Group [right:none next=2012] ---
 こうなりゃ・・・
 盗むしかねえ！！
 +[FID:52, TEXT:000D] 
 +[FID:52, TEXT:000E] 
 
---- Group 6 [left:none next=0023] ---
+--- Group [left:none next=0023] ---
 無茶だ、ガゼル
 相手は城の中にいるん
 だぞ！？
@@ -48,7 +48,7 @@
 +[FID:52, TEXT:0010] 
 +[FID:52, TEXT:0011] 
 
---- Group 7 [left:none next=0023] ---
+--- Group [left:none next=0023] ---
 無茶だよガゼル！
 相手は城の中にいるん
 だよ！？
@@ -56,7 +56,7 @@
 -[FID:52, TEXT:0010] 
 +[FID:52, TEXT:0013] 
 
---- Group 8 [left:none next=0023] ---
+--- Group [left:none next=0023] ---
 だめです！
 それに、相手は城の中
 なんですよ！
@@ -64,7 +64,7 @@
 +[FID:52, TEXT:0015] 
 +[FID:52, TEXT:0016] 
 
---- Group 9 [right:none next=2012] ---
+--- Group [right:none next=2012] ---
 無茶でもなんでも
 チビどもを助けるため
 にはやるしかねえだろ
@@ -74,19 +74,19 @@
 +[FID:52, TEXT:0019] 
 +[FID:52, TEXT:001A] 
 
---- Group 10 [left:none next=0023] ---
+--- Group [left:none next=0023] ---
 ガゼルっ！
 +[FID:52, TEXT:001B] 
 
---- Group 11 [left:none next=0023] ---
+--- Group [left:none next=0023] ---
 ガゼルさん！
 +[FID:52, TEXT:001C] 
 
---- Group 12 [right:none next=2012] ---
+--- Group [right:none next=2012] ---
 うわあぁぁっ！？
 +[FID:52, TEXT:001D] 
 
---- Group 13 [left:none next=2012] ---
+--- Group [left:none next=2012] ---
 ・・・っ
 馬鹿野郎、どこに目
 つけて歩いてやがる！
@@ -94,7 +94,7 @@
 +[FID:52, TEXT:001F] 
 +[FID:52, TEXT:0020] 
 
---- Group 14 [right:none next=2012] ---
+--- Group [right:none next=2012] ---
 そっちからぶつかって
 おいて、そーいうこと
 言うわけっ！？
@@ -102,11 +102,11 @@
 +[FID:52, TEXT:0022] 
 +[FID:52, TEXT:0023] 
 
---- Group 15 [right:茜 next=2012] ---
+--- Group [right:茜 next=2012] ---
 アカネさん？
 +[FID:52, TEXT:0025] 
 
---- Group 16 [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---
 ぶつかったのは謝るよ
 俺たち、ちょっと急い
 でいたから・・・
@@ -114,7 +114,7 @@
 +[FID:52, TEXT:002C] 
 +[FID:52, TEXT:002D] 
 
---- Group 17 [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---
 ぶつかったのは謝るよ
 僕たち、ちょっと急い
 でいたから・・・
@@ -122,7 +122,7 @@
 +[FID:52, TEXT:002E] 
 -[FID:52, TEXT:002D] 
 
---- Group 18 [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---
 ごめんね、ぶつかって
 ・・・あたしたち、
 ちょっと急いでて
@@ -130,7 +130,7 @@
 +[FID:52, TEXT:0030] 
 +[FID:52, TEXT:0031] 
 
---- Group 19 [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---
 ごめんなさい
 わたしたち、いま
 急いでいたから・・・
@@ -138,13 +138,13 @@
 +[FID:52, TEXT:0033] 
 +[FID:52, TEXT:0034] 
 
---- Group 20 [right:none next=2012] ---
+--- Group [right:none next=2012] ---
 急いでるのは、アタシ
 も同じだよっ
 +[FID:52, TEXT:0035] 
 +[FID:52, TEXT:0036] 
 
---- Group 21 [right:none next=2012] ---
+--- Group [right:none next=2012] ---
 お師匠の言いつけで、
 これから薬草を採って
 こなくちゃならないっ
@@ -154,23 +154,23 @@
 +[FID:52, TEXT:0039] 
 +[FID:52, TEXT:003A] 
 
---- Group 22 [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---
 薬草だって？
 +[FID:52, TEXT:003B] 
 
---- Group 23 [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---
 薬草？？
 +[FID:52, TEXT:003C] 
 
---- Group 24 [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---
 薬草ですか？
 +[FID:52, TEXT:003D] 
 
---- Group 25 [left:加泽尔 next=2012] ---
+--- Group [left:加泽尔 next=2012] ---
 お前、医者かっ！？
 +[FID:52, TEXT:003E] 
 
---- Group 26 [right:none next=2012] ---
+--- Group [right:none next=2012] ---
 いえいえ
 アタシはただの可愛い
 店員さん
@@ -178,7 +178,7 @@
 +[FID:52, TEXT:0040] 
 +[FID:52, TEXT:0041] 
 
---- Group 27 [right:none next=2012] ---
+--- Group [right:none next=2012] ---
 そこの角に建ってる
 「あかなべ」って薬屋
 に勤めてる店員だよ
@@ -186,17 +186,17 @@
 +[FID:52, TEXT:0043] 
 +[FID:52, TEXT:0044] 
 
---- Group 28 [left:加泽尔 next=2012] ---
+--- Group [left:加泽尔 next=2012] ---
 薬屋だって！？
 +[FID:52, TEXT:0045] 
 
---- Group 29 [left:加泽尔 next=2012] ---
+--- Group [left:加泽尔 next=2012] ---
 まさかこの店が、薬屋
 だったなんて・・・
 +[FID:52, TEXT:0046] 
 +[FID:52, TEXT:0047] 
 
---- Group 30 [right:茜 next=2012] ---
+--- Group [right:茜 next=2012] ---
 失礼ねぇ
 まあ、確かにお店の中
 の趣味は悪いけどさ
@@ -204,7 +204,7 @@
 +[FID:52, TEXT:0049] 
 +[FID:52, TEXT:004A] 
 
---- Group 31 [left:希翁 next=2012] ---
+--- Group [left:希翁 next=2012] ---
 趣味が悪いというのは
 誰のことですかね？
 アカネさん・・・
@@ -212,11 +212,11 @@
 +[FID:52, TEXT:004C] 
 +[FID:52, TEXT:004D] 
 
---- Group 32 [right:茜 next=2012] ---
+--- Group [right:茜 next=2012] ---
 おっ、お師匠っ！？
 +[FID:52, TEXT:004E] 
 
---- Group 33 [left:希翁 next=2012] ---
+--- Group [left:希翁 next=2012] ---
 あなたには、お使いを
 頼んだと思っていたの
 ですがね・・・
@@ -224,7 +224,7 @@
 +[FID:52, TEXT:0050] 
 +[FID:52, TEXT:0051] 
 
---- Group 34 [right:茜 next=2012] ---
+--- Group [right:茜 next=2012] ---
 あ、あのっ・・・
 こここ、この人たちが
 シオン師匠に用事があ
@@ -234,7 +234,7 @@
 +[FID:52, TEXT:0054] 
 +[FID:52, TEXT:0055] 
 
---- Group 35 [left:none next=0023] ---
+--- Group [left:none next=0023] ---
 ここに、死の眠りって
 病気に効く薬は
 ありませんか？
@@ -242,7 +242,7 @@
 +[FID:52, TEXT:005C] 
 +[FID:52, TEXT:005D] 
 
---- Group 36 [left:none next=0023] ---
+--- Group [left:none next=0023] ---
 ここに、死の眠りって
 病気に効く薬はありま
 せんか？
@@ -250,7 +250,7 @@
 +[FID:52, TEXT:0057] 
 +[FID:52, TEXT:0058] 
 
---- Group 37 [left:none next=0023] ---
+--- Group [left:none next=0023] ---
 ここに、死の眠りとい
 う病気に効く薬は
 ありませんか？
@@ -258,7 +258,7 @@
 +[FID:52, TEXT:005E] 
 -[FID:52, TEXT:005D] 
 
---- Group 38 [left:none next=0023] ---
+--- Group [left:none next=0023] ---
 ここに、死の眠りとい
 う病気に効く薬はない
 でしょうか？
@@ -266,35 +266,35 @@
 +[FID:52, TEXT:005A] 
 +[FID:52, TEXT:005B] 
 
---- Group 39 [right:茜 next=2012] ---
+--- Group [right:茜 next=2012] ---
 残念ですが
 今はありません
 +[FID:52, TEXT:005F] 
 +[FID:52, TEXT:0060] 
 
---- Group 40 [right:茜 next=2012] ---
+--- Group [right:茜 next=2012] ---
 ただし、作ることなら
 できますよ
 +[FID:52, TEXT:0061] 
 +[FID:52, TEXT:0062] 
 
---- Group 41 [left:none next=0023] ---
+--- Group [left:none next=0023] ---
 えっ！？
 +[FID:52, TEXT:0063] 
 
---- Group 42 [left:none next=0023] ---
+--- Group [left:none next=0023] ---
 本当ですか！？
 +[FID:52, TEXT:0064] 
 
---- Group 43 [left:none next=0023] ---
+--- Group [left:none next=0023] ---
 ホントに！？
 +[FID:52, TEXT:0065] 
 
---- Group 44 [left:none next=0023] ---
+--- Group [left:none next=0023] ---
 本当ですか？
 +[FID:52, TEXT:0066] 
 
---- Group 45 [right:茜 next=2012] ---
+--- Group [right:茜 next=2012] ---
 そのために必要な材料
 を、そこの不肖の弟子
 に取りに行かせようと
@@ -304,35 +304,35 @@
 +[FID:52, TEXT:0069] 
 +[FID:52, TEXT:006A] 
 
---- Group 46 [left:加泽尔 next=2012] ---
+--- Group [left:加泽尔 next=2012] ---
 その薬を、俺たちにも
 売ってくれっ！
 +[FID:52, TEXT:006B] 
 +[FID:52, TEXT:006C] 
 
---- Group 47 [right:茜 next=2012] ---
+--- Group [right:茜 next=2012] ---
 それは構いませんが、
 お金はあるんですか？
 +[FID:52, TEXT:006D] 
 +[FID:52, TEXT:006E] 
 
---- Group 48 [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---
 これだけなら・・・
 +[FID:52, TEXT:006F] 
 
---- Group 49 [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---
 これだけですが・・・
 +[FID:52, TEXT:0070] 
 
---- Group 50 [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---
 これで・・・
 +[FID:52, TEXT:0071] 
 
---- Group 51 [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---
 これだけしか・・・
 +[FID:52, TEXT:0072] 
 
---- Group 52 [right:茜 next=2012] ---
+--- Group [right:茜 next=2012] ---
 ふむ・・・
 残念ですが、これでは
 足りませんね
@@ -340,35 +340,35 @@
 +[FID:52, TEXT:0074] 
 +[FID:52, TEXT:0075] 
 
---- Group 53 [right:茜 next=2012] ---
+--- Group [right:茜 next=2012] ---
 ふむ・・・
 なら、こうしましょう
 -[FID:52, TEXT:0073] 
 +[FID:52, TEXT:0085] 
 
---- Group 54 [left:加泽尔 next=2012] ---
+--- Group [left:加泽尔 next=2012] ---
 どういう値段のつけ方
 してんだよっ！？
 +[FID:52, TEXT:0076] 
 +[FID:52, TEXT:0077] 
 
---- Group 55 [left:茜 next=2012] ---
+--- Group [left:茜 next=2012] ---
 お師匠の作る薬は
 特別な物だからねえ
 +[FID:52, TEXT:0078] 
 +[FID:52, TEXT:0079] 
 
---- Group 56 [left:茜 next=2012] ---
+--- Group [left:茜 next=2012] ---
 本当はしの・・・
 +[FID:52, TEXT:007A] 
 
---- Group 57 [left:茜 next=2012] ---
+--- Group [left:茜 next=2012] ---
 あわわっ！
 な、なんでもないです
 +[FID:52, TEXT:007B] 
 +[FID:52, TEXT:007C] 
 
---- Group 58 [left:加泽尔 next=2012] ---
+--- Group [left:加泽尔 next=2012] ---
 金は絶対に払う
 だから、頼むから薬を
 俺たちに分けてくれ！
@@ -376,23 +376,23 @@
 +[FID:52, TEXT:007E] 
 +[FID:52, TEXT:007F] 
 
---- Group 59 [left:加泽尔 next=2012] ---
+--- Group [left:加泽尔 next=2012] ---
 そうしねえと
 チビたちが・・・
 +[FID:52, TEXT:0080] 
 +[FID:52, TEXT:0081] 
 
---- Group 60 [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---
 お願いします！
 +[FID:52, TEXT:0082] 
 
---- Group 61 [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---
 なんとかして、
 お願いできませんか？
 +[FID:52, TEXT:0083] 
 +[FID:52, TEXT:0084] 
 
---- Group 62 [right:茜 next=2012] ---
+--- Group [right:茜 next=2012] ---
 アカネさんと一緒に、
 薬草を採ってきてくれ
 ませんか？
@@ -400,13 +400,13 @@
 +[FID:52, TEXT:0087] 
 +[FID:52, TEXT:0088] 
 
---- Group 63 [right:茜 next=2012] ---
+--- Group [right:茜 next=2012] ---
 足りない分は、それで
 まけてさしあげます
 +[FID:52, TEXT:0089] 
 +[FID:52, TEXT:008A] 
 
---- Group 64 [right:茜 next=2012] ---
+--- Group [right:茜 next=2012] ---
 あーあ、アタシ一人で
 もこんな用事は朝飯前
 だってのに
@@ -414,7 +414,7 @@
 +[FID:52, TEXT:008C] 
 +[FID:52, TEXT:008D] 
 
---- Group 65 [right:茜 next=2012] ---
+--- Group [right:茜 next=2012] ---
 お師匠ってば、そんな
 にアタシのことが信用
 できないかなー？
@@ -422,39 +422,39 @@
 +[FID:52, TEXT:008F] 
 +[FID:52, TEXT:0090] 
 
---- Group 66 [right:茜 next=0023] ---
+--- Group [right:茜 next=0023] ---
 どうしよう？
 +[FID:52, TEXT:0091] 
 
---- Group 67 [right:茜 next=0023] ---
+--- Group [right:茜 next=0023] ---
 　そうじゃないよ
 　そうかもね〜？
 +[FID:52, TEXT:0092] 
 +[FID:52, TEXT:0095] 
 
---- Group 68 [right:茜 next=0023] ---
+--- Group [right:茜 next=0023] ---
 　そうじゃないよ
 　本当にそうなのか？
 -[FID:52, TEXT:0092] 
 +[FID:52, TEXT:0093] 
 
---- Group 69 [right:茜 next=0023] ---
+--- Group [right:茜 next=0023] ---
 　そうじゃない
 　本当にそうなのか？
 +[FID:52, TEXT:0094] 
 -[FID:52, TEXT:0093] 
 
---- Group 70 [right:茜 next=0023] ---
+--- Group [right:茜 next=0023] ---
 　それは違います
 　本当にそうなのかな？
 +[FID:52, TEXT:0096] 
 +[FID:52, TEXT:0097] 
 
---- Group 71 [left:none next=2012] ---
+--- Group [left:none next=2012] ---
 そうじゃないよ
 +[FID:52, TEXT:0098] 
 
---- Group 72 [left:none next=0023] ---
+--- Group [left:none next=0023] ---
 シオンさんは俺たちに
 薬を渡してくれるため
 に、わざとこんな用事
@@ -464,11 +464,11 @@
 +[FID:52, TEXT:009B] 
 +[FID:52, TEXT:009C] 
 
---- Group 73 [left:none next=2012] ---
+--- Group [left:none next=2012] ---
 そうじゃない
 +[FID:52, TEXT:009D] 
 
---- Group 74 [left:none next=0023] ---
+--- Group [left:none next=0023] ---
 シオンさんは僕たちに
 薬を渡してくれるため
 に、わざとこんな用事
@@ -478,7 +478,7 @@
 -[FID:52, TEXT:009B] 
 +[FID:52, TEXT:009F] 
 
---- Group 75 [left:none next=0023] ---
+--- Group [left:none next=0023] ---
 シオンさんは
 あたしたちに薬を
 くれるために、こんな
@@ -488,11 +488,11 @@
 +[FID:52, TEXT:00A2] 
 +[FID:52, TEXT:00A3] 
 
---- Group 76 [left:none next=2012] ---
+--- Group [left:none next=2012] ---
 それは違います
 +[FID:52, TEXT:00A4] 
 
---- Group 77 [left:none next=0023] ---
+--- Group [left:none next=0023] ---
 お金のないわたしたち
 に薬をくれるために、
 シオンさんはこんな
@@ -502,31 +502,31 @@
 +[FID:52, TEXT:00A7] 
 +[FID:52, TEXT:00A8] 
 
---- Group 78 [right:加泽尔 next=2012] ---
+--- Group [right:加泽尔 next=2012] ---
 ああ、多分な
 +[FID:52, TEXT:00A9] 
 
---- Group 79 [right:茜 next=2012] ---
+--- Group [right:茜 next=2012] ---
 ・・・そっか
 +[FID:52, TEXT:00AA] 
 
---- Group 80 [left:none next=0023] ---
+--- Group [left:none next=0023] ---
 本当にそうなのか？
 +[FID:52, TEXT:00AB] 
 
---- Group 81 [left:none next=0023] ---
+--- Group [left:none next=0023] ---
 そうかもね〜？
 +[FID:52, TEXT:00AC] 
 
---- Group 82 [left:none next=0023] ---
+--- Group [left:none next=0023] ---
 本当にそうなのかな？
 +[FID:52, TEXT:00AD] 
 
---- Group 83 [right:茜 next=2012] ---
+--- Group [right:茜 next=2012] ---
 あーっ、疑ってる
 +[FID:52, TEXT:00AE] 
 
---- Group 84 [left:加泽尔 next=2012] ---
+--- Group [left:加泽尔 next=2012] ---
 でもよ、女が一人で街
 の外を出歩くってのは
 かなりヤバイぜ
@@ -534,23 +534,23 @@
 +[FID:52, TEXT:00B0] 
 +[FID:52, TEXT:00B1] 
 
---- Group 85 [right:茜 next=2012] ---
+--- Group [right:茜 next=2012] ---
 フフン、それが素人の
 浅はかさってものよ
 +[FID:52, TEXT:00B2] 
 +[FID:52, TEXT:00B3] 
 
---- Group 86 [right:茜 next=2012] ---
+--- Group [right:茜 next=2012] ---
 こう見えてもアタシは
 くの・・・
 +[FID:52, TEXT:00B4] 
 +[FID:52, TEXT:00B5] 
 
---- Group 87 [left:主人公 next=2012] ---
+--- Group [left:主人公 next=2012] ---
 くの・・・？
 +[FID:52, TEXT:00B6] 
 
---- Group 88 [right:茜 next=2012] ---
+--- Group [right:茜 next=2012] ---
 あっ、あはははっ
 なんでもありませ〜ん
 +[FID:52, TEXT:00B7] 

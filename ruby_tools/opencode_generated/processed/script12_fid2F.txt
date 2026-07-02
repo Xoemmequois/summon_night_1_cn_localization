@@ -1,14 +1,14 @@
---- Group 1 [left:none next=2012] ---
+--- Group [left:none next=2012] ---
 はあ・・・
 +[FID:2F, TEXT:0001] 
 
---- Group 5 [right:none next=2012] ---
+--- Group [right:none next=2012] ---
 どうかしたのか
 ため息なんかついて
 +[FID:2F, TEXT:0002] 
 +[FID:2F, TEXT:0003] 
 
---- Group 9 [left:none next=2012] ---
+--- Group [left:none next=2012] ---
 いや、ちょっと向こう
 の世界のことを考えて
 たんですよ
@@ -16,13 +16,13 @@
 +[FID:2F, TEXT:0005] 
 +[FID:2F, TEXT:0006] 
 
---- Group 13 [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---
 みんなどうしてるのか
 なあ、って
 +[FID:2F, TEXT:0007] 
 +[FID:2F, TEXT:0008] 
 
---- Group 17 [left:主人公 next=2012] ---
+--- Group [left:主人公 next=2012] ---
 いえ、ちょっと向こう
 の世界のことを考えて
 いただけですよ
@@ -30,13 +30,13 @@
 -[FID:2F, TEXT:0005] 
 +[FID:2F, TEXT:000A] 
 
---- Group 21 [left:none next=0023] ---
+--- Group [left:none next=0023] ---
 みんなはどうしている
 んだろうか、って
 +[FID:2F, TEXT:000B] 
 +[FID:2F, TEXT:000C] 
 
---- Group 25 [left:主人公 next=2012] ---
+--- Group [left:主人公 next=2012] ---
 え、あの・・・自分の
 住んでた世界のことを
 考えてて・・・
@@ -44,7 +44,7 @@
 +[FID:2F, TEXT:000E] 
 +[FID:2F, TEXT:000F] 
 
---- Group 29 [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---
 みんな・・・今なに
 やってるのかなぁ
 なんて思ったり
@@ -52,7 +52,7 @@
 +[FID:2F, TEXT:0011] 
 +[FID:2F, TEXT:0012] 
 
---- Group 33 [left:主人公 next=2012] ---
+--- Group [left:主人公 next=2012] ---
 いえ、向こうの世界の
 ことを、考えていたら
 ぼうっとして・・・
@@ -60,31 +60,31 @@
 +[FID:2F, TEXT:0014] 
 +[FID:2F, TEXT:0015] 
 
---- Group 37 [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---
 みんな、元気にして
 いるかなって・・・
 +[FID:2F, TEXT:0016] 
 +[FID:2F, TEXT:0017] 
 
---- Group 41 [right:怀兹 next=2012] ---
+--- Group [right:怀兹 next=2012] ---
 帰る方法は、
 見つかりそうか？
 +[FID:2F, TEXT:0018] 
 +[FID:2F, TEXT:0019] 
 
---- Group 45 [left:none next=0023] ---
+--- Group [left:none next=0023] ---
 ははは、さっぱりです
 +[FID:2F, TEXT:001A] 
 
---- Group 49 [left:none next=0023] ---
+--- Group [left:none next=0023] ---
 残念ですが、まだ
 +[FID:2F, TEXT:001B] 
 
---- Group 53 [left:none next=0023] ---
+--- Group [left:none next=0023] ---
 全然みつかんないです
 +[FID:2F, TEXT:001C] 
 
---- Group 57 [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---
 いえ、全く
 見つかりません・・・
 いまのところ・・・
@@ -92,11 +92,11 @@
 +[FID:2F, TEXT:001E] 
 +[FID:2F, TEXT:001F] 
 
---- Group 61 [right:怀兹 next=0023] ---
+--- Group [right:怀兹 next=0023] ---
 ソルと、
 +[FID:2F, TEXT:0020] 
 
---- Group 65 [right:怀兹 next=2012] ---
+--- Group [right:怀兹 next=2012] ---
 一度きちんと相談
 したほうがいいのかも
 しれないな
@@ -104,37 +104,37 @@
 +[FID:2F, TEXT:0025] 
 +[FID:2F, TEXT:0026] 
 
---- Group 69 [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---
 ソルさんとですか・・
 +[FID:2F, TEXT:0027] 
 
---- Group 73 [left:none next=0023] ---
+--- Group [left:none next=0023] ---
 ソルとですか・・・
 +[FID:2F, TEXT:0028] 
 
---- Group 77 [left:none next=0023] ---
+--- Group [left:none next=0023] ---
 あれ、
 出かけるんですか？
 +[FID:2F, TEXT:002F] 
 +[FID:2F, TEXT:0030] 
 
---- Group 81 [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---
 お出かけですか？
 +[FID:2F, TEXT:0031] 
 
---- Group 85 [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---
 レイドさん・・・
 おでかけですか？
 +[FID:2F, TEXT:0032] 
 +[FID:2F, TEXT:0033] 
 
---- Group 89 [right:none next=2012] ---
+--- Group [right:none next=2012] ---
 ああ、今日は剣術道場
 に行く日だからね
 +[FID:2F, TEXT:0034] 
 +[FID:2F, TEXT:0035] 
 
---- Group 93 [left:none next=0023] ---
+--- Group [left:none next=0023] ---
 そういえば、アルバが
 前に中庭で剣の練習を
 してましたよ
@@ -142,7 +142,7 @@
 +[FID:2F, TEXT:0037] 
 +[FID:2F, TEXT:0038] 
 
---- Group 94 [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---
 そういえば、アルバが
 前に中庭で剣の練習を
 してましたけど・・・
@@ -150,7 +150,7 @@
 -[FID:2F, TEXT:0037] 
 +[FID:2F, TEXT:003C] 
 
---- Group 97 [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---
 あ、そうそう
 中庭で、アルバが
 剣振ってましたよ
@@ -158,19 +158,19 @@
 +[FID:2F, TEXT:003A] 
 +[FID:2F, TEXT:003B] 
 
---- Group 99 [right:怀兹 next=2012] ---
+--- Group [right:怀兹 next=2012] ---
 ああ、せがまれて基本
 の型を教えたんだが
 +[FID:2F, TEXT:003D] 
 +[FID:2F, TEXT:003E] 
 
---- Group 101 [right:怀兹 next=2012] ---
+--- Group [right:怀兹 next=2012] ---
 そうか、きちんと
 続けていたか・・・
 +[FID:2F, TEXT:003F] 
 +[FID:2F, TEXT:0040] 
 
---- Group 103 [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---
 騎士になりたいって、
 がんばってるみたい
 ですよ
@@ -178,7 +178,7 @@
 +[FID:2F, TEXT:0042] 
 +[FID:2F, TEXT:0043] 
 
---- Group 105 [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---
 アルバはずいぶん
 騎士に憧れている
 ようですね
@@ -186,7 +186,7 @@
 +[FID:2F, TEXT:0045] 
 +[FID:2F, TEXT:0046] 
 
---- Group 107 [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---
 がんばってるんですね
 夢があるって・・・
 うらやましいな
@@ -194,15 +194,15 @@
 +[FID:2F, TEXT:0048] 
 +[FID:2F, TEXT:0049] 
 
---- Group 109 [right:怀兹 next=2012] ---
+--- Group [right:怀兹 next=2012] ---
 ・・・・・・
 +[FID:2F, TEXT:004A] 
 
---- Group 117 [left:none next=2012] ---
+--- Group [left:none next=2012] ---
 ？
 +[FID:2F, TEXT:004B] 
 
---- Group 119 [right:怀兹 next=2012] ---
+--- Group [right:怀兹 next=2012] ---
 いや、そろそろアルバ
 にも正式に剣を教えて
 いい時期なのかもな
@@ -210,19 +210,19 @@
 +[FID:2F, TEXT:004D] 
 +[FID:2F, TEXT:004E] 
 
---- Group 121 [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---
 二人とも真剣な顔して
 なんの話してるんだ？
 +[FID:2F, TEXT:004F] 
 +[FID:2F, TEXT:0050] 
 
---- Group 123 [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---
 二人とも真剣な顔で
 なにを話してるんだ？
 +[FID:2F, TEXT:0051] 
 +[FID:2F, TEXT:0052] 
 
---- Group 125 [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---
 どうしたの？
 ふたりとも、難しい
 顔して？
@@ -230,7 +230,7 @@
 +[FID:2F, TEXT:0054] 
 +[FID:2F, TEXT:0055] 
 
---- Group 127 [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---
 どうしたんですか？
 ふたりとも、真剣な
 顔をして・・・？
@@ -238,11 +238,11 @@
 +[FID:2F, TEXT:0057] 
 +[FID:2F, TEXT:0058] 
 
---- Group 129 [right:怀兹 next=2012] ---
+--- Group [right:怀兹 next=2012] ---
 いや、ちょっとな
 +[FID:2F, TEXT:0059] 
 
---- Group 131 [left:主人公 next=2012] ---
+--- Group [left:主人公 next=2012] ---
 どうやって
 金を貯めていくのかを
 相談してたのさ
@@ -250,29 +250,29 @@
 +[FID:2F, TEXT:005B] 
 +[FID:2F, TEXT:005C] 
 
---- Group 133 [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---
 そんなに苦しいのか？
 +[FID:2F, TEXT:005D] 
 
---- Group 135 [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---
 ・・・そんな、ジリ貧
 なの・・・
 +[FID:2F, TEXT:005E] 
 +[FID:2F, TEXT:005F] 
 
---- Group 137 [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---
 そんなに苦しいの
 ですか
 +[FID:2F, TEXT:0060] 
 +[FID:2F, TEXT:0061] 
 
---- Group 139 [right:怀兹 next=2012] ---
+--- Group [right:怀兹 next=2012] ---
 いや、今すぐどうこう
 ってわけじゃないさ
 +[FID:2F, TEXT:0062] 
 +[FID:2F, TEXT:0063] 
 
---- Group 141 [right:怀兹 next=2012] ---
+--- Group [right:怀兹 next=2012] ---
 これから先、チビたち
 が大きくなったときの
 ための話だよ
@@ -280,7 +280,7 @@
 +[FID:2F, TEXT:0065] 
 +[FID:2F, TEXT:0066] 
 
---- Group 143 [right:加泽尔 next=2012] ---
+--- Group [right:加泽尔 next=2012] ---
 ・・・いっそ前みたい
 に、そこらの連中から
 脅しとってくるか？
@@ -288,25 +288,25 @@
 +[FID:2F, TEXT:0068] 
 +[FID:2F, TEXT:0069] 
 
---- Group 144 [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---
 いっ！？
 +[FID:2F, TEXT:006A] 
 
---- Group 145 [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---
 ！？
 +[FID:2F, TEXT:006B] 
 
---- Group 150 [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---
 ちょ！
 ちょっと！
 +[FID:2F, TEXT:006C] 
 +[FID:2F, TEXT:006D] 
 
---- Group 151 [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---
 え・・・それは・・・
 +[FID:2F, TEXT:006E] 
 
---- Group 152 [left:艾多斯 next=2012] ---
+--- Group [left:艾多斯 next=2012] ---
 おいおい、ガゼル
 それはもうやめるって
 レイドと約束したろう
@@ -314,7 +314,7 @@
 +[FID:2F, TEXT:0070] 
 +[FID:2F, TEXT:0071] 
 
---- Group 153 [right:加泽尔 next=2012] ---
+--- Group [right:加泽尔 next=2012] ---
 わかってるさ・・・
 けどよ、他にいい方法
 があんのか？
@@ -322,7 +322,7 @@
 +[FID:2F, TEXT:0073] 
 +[FID:2F, TEXT:0074] 
 
---- Group 154 [right:加泽尔 next=2012] ---
+--- Group [right:加泽尔 next=2012] ---
 今のままじゃ、毎日を
 食っていくのが精一杯
 じゃねえかよ
@@ -330,11 +330,11 @@
 +[FID:2F, TEXT:0076] 
 +[FID:2F, TEXT:0077] 
 
---- Group 155 [left:艾多斯 next=2012] ---
+--- Group [left:艾多斯 next=2012] ---
 ・・・
 +[FID:2F, TEXT:0078] 
 
---- Group 161 [right:加泽尔 next=2012] ---
+--- Group [right:加泽尔 next=2012] ---
 結局のところ、世の中
 の仕組みが変わらねえ
 ことにはどうしようも
@@ -344,31 +344,31 @@
 +[FID:2F, TEXT:007B] 
 +[FID:2F, TEXT:007C] 
 
---- Group 162 [left:主人公 next=2012] ---
+--- Group [left:主人公 next=2012] ---
 二人はまだ相談してる
 みたいですね
 +[FID:2F, TEXT:007D] 
 +[FID:2F, TEXT:0089] 
 
---- Group 163 [left:主人公 next=2012] ---
+--- Group [left:主人公 next=2012] ---
 二人はまだ相談してる
 みたいだ
 -[FID:2F, TEXT:007D] 
 +[FID:2F, TEXT:007E] 
 
---- Group 166 [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---
 俺がいても邪魔にしか
 ならない気がするな
 +[FID:2F, TEXT:007F] 
 +[FID:2F, TEXT:0080] 
 
---- Group 168 [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---
 僕がいても邪魔になる
 だけだろう
 +[FID:2F, TEXT:0081] 
 +[FID:2F, TEXT:0082] 
 
---- Group 170 [left:主人公 next=2012] ---
+--- Group [left:主人公 next=2012] ---
 まだ、ふたりとも
 お金を貯める相談
 してるんだ・・・
@@ -376,7 +376,7 @@
 +[FID:2F, TEXT:0084] 
 +[FID:2F, TEXT:0085] 
 
---- Group 172 [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---
 あたし、なんにも
 できそうにないし
 邪魔しないようにしよ
@@ -384,43 +384,43 @@
 +[FID:2F, TEXT:0087] 
 +[FID:2F, TEXT:0088] 
 
---- Group 174 [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---
 わたしがいても
 邪魔なだけですね・・
 +[FID:2F, TEXT:008A] 
 +[FID:2F, TEXT:008B] 
 
---- Group 176 [right:怀兹 next=0023] ---
+--- Group [right:怀兹 next=0023] ---
 あ、お兄ちゃん
 +[FID:2F, TEXT:008C] 
 
---- Group 180 [right:怀兹 next=2012] ---
+--- Group [right:怀兹 next=2012] ---
 あ、お姉ちゃん
 +[FID:2F, TEXT:008D] 
 
---- Group 184 [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---
 なにしてるんだ？
 +[FID:2F, TEXT:008E] 
 
---- Group 188 [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---
 なにをしてるんだい？
 +[FID:2F, TEXT:008F] 
 
---- Group 192 [left:none next=0023] ---
+--- Group [left:none next=0023] ---
 なにしてるの？
 +[FID:2F, TEXT:0090] 
 
---- Group 196 [right:none next=2012] ---
+--- Group [right:none next=2012] ---
 ラミと勉強してるの
 文字のお勉強
 +[FID:2F, TEXT:0091] 
 +[FID:2F, TEXT:0092] 
 
---- Group 200 [right:拉米 next=2012] ---
+--- Group [right:拉米 next=2012] ---
 ・・・（コクン）
 +[FID:2F, TEXT:0093] 
 
---- Group 202 [right:怀兹 next=0023] ---
+--- Group [right:怀兹 next=0023] ---
 お兄ちゃんも、自分の
 名前ぐらい書けるよう
 に勉強したほうが
@@ -430,7 +430,7 @@
 +[FID:2F, TEXT:0096] 
 +[FID:2F, TEXT:0097] 
 
---- Group 204 [right:怀兹 next=2012] ---
+--- Group [right:怀兹 next=2012] ---
 お姉ちゃんも、自分の
 名前ぐらい書けるよう
 に勉強したほうが
@@ -440,11 +440,11 @@
 -[FID:2F, TEXT:0096] 
 -[FID:2F, TEXT:0097] 
 
---- Group 206 [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---
 うーん・・・
 +[FID:2F, TEXT:0099] 
 
---- Group 211 [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---
 うーん・・・
 餌がないみたい
 さすがにこれじゃあ
@@ -454,7 +454,7 @@
 +[FID:2F, TEXT:02DC] 
 +[FID:2F, TEXT:02DD] 
 
---- Group 216 [left:none next=0023] ---
+--- Group [left:none next=0023] ---
 たしかに読めたって、
 書けないのは問題かも
 しれないなぁ
@@ -462,11 +462,11 @@
 +[FID:2F, TEXT:009B] 
 +[FID:2F, TEXT:009C] 
 
---- Group 218 [left:主人公 next=2012] ---
+--- Group [left:主人公 next=2012] ---
 ああ・・・
 +[FID:2F, TEXT:009D] 
 
---- Group 220 [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---
 たしかに読むだけじゃ
 なくて、書けるように
 なっておく必要もある
@@ -476,7 +476,7 @@
 +[FID:2F, TEXT:00A0] 
 +[FID:2F, TEXT:00A1] 
 
---- Group 222 [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---
 読めるけど書けない
 って、やっぱり問題
 あるかなぁ？
@@ -484,7 +484,7 @@
 +[FID:2F, TEXT:00A3] 
 +[FID:2F, TEXT:00A4] 
 
---- Group 224 [left:none next=2012] ---
+--- Group [left:none next=2012] ---
 そうですね・・・
 話を大きくしても
 なんですし・・・
@@ -492,7 +492,7 @@
 +[FID:2F, TEXT:01C0] 
 +[FID:2F, TEXT:01C1] 
 
---- Group 230 [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---
 読めはしますが、
 書けないというのも
 問題かもしれませんね
@@ -500,7 +500,7 @@
 +[FID:2F, TEXT:00A7] 
 +[FID:2F, TEXT:00A8] 
 
---- Group 232 [right:怀兹 next=2012] ---
+--- Group [right:怀兹 next=2012] ---
 このお手本あげるから
 遊んでばかりいないで
 勉強しなさいよね
@@ -508,99 +508,99 @@
 +[FID:2F, TEXT:00AA] 
 +[FID:2F, TEXT:00AB] 
 
---- Group 234 [right:none next=2012] ---
+--- Group [right:none next=2012] ---
 ・・・はい
 +[FID:2F, TEXT:00AC] 
 
---- Group 240 [left:none next=0023] ---
+--- Group [left:none next=0023] ---
 ・・・うん
 +[FID:2F, TEXT:00AD] 
 
---- Group 242 [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---
 ・・・あ、うん
 +[FID:2F, TEXT:00AE] 
 
---- Group 244 [left:none next=0023] ---
+--- Group [left:none next=0023] ---
 じゃあ、そうするね
 +[FID:2F, TEXT:00AF] 
 
---- Group 246 [left:none next=0023] ---
+--- Group [left:none next=0023] ---
 あれ、フィズは？
 +[FID:2F, TEXT:00B0] 
 
---- Group 250 [left:none next=0023] ---
+--- Group [left:none next=0023] ---
 あれ、フィズちゃんは
 +[FID:2F, TEXT:00B1] 
 
---- Group 254 [right:怀兹 next=2012] ---
+--- Group [right:怀兹 next=2012] ---
 ・・・おそと
 +[FID:2F, TEXT:00B2] 
 
---- Group 258 [right:none next=2012] ---
+--- Group [right:none next=2012] ---
 あとはひとりでがんば
 りなさい・・・って
 +[FID:2F, TEXT:00B3] 
 +[FID:2F, TEXT:00B4] 
 
---- Group 262 [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---
 しょうがないなぁ
 +[FID:2F, TEXT:00B5] 
 
---- Group 266 [left:none next=0023] ---
+--- Group [left:none next=0023] ---
 しょうがないねぇ
 +[FID:2F, TEXT:00B6] 
 
---- Group 270 [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---
 仕方ないですね・・・
 +[FID:2F, TEXT:00B7] 
 
---- Group 274 [right:none next=2012] ---
+--- Group [right:none next=2012] ---
 ・・・（くいくい）
 +[FID:2F, TEXT:00B8] 
 
---- Group 278 [left:主人公 next=2012] ---
+--- Group [left:主人公 next=2012] ---
 ん？
 +[FID:2F, TEXT:00B9] 
 
---- Group 282 [right:怀兹 next=0023] ---
+--- Group [right:怀兹 next=0023] ---
 これ、おにいちゃんの
 なまえ・・・
 +[FID:2F, TEXT:00BA] 
 +[FID:2F, TEXT:00BB] 
 
---- Group 286 [right:none next=2012] ---
+--- Group [right:none next=2012] ---
 これ、おねえちゃんの
 なまえ・・・
 +[FID:2F, TEXT:00BC] 
 -[FID:2F, TEXT:00BB] 
 
---- Group 290 [left:none next=2012] ---
+--- Group [left:none next=2012] ---
 へえ、こう書くんだ？
 +[FID:2F, TEXT:00BD] 
 
---- Group 294 [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---
 おぼえとこ・・・
 +[FID:2F, TEXT:00BE] 
 
---- Group 298 [left:主人公 next=2012] ---
+--- Group [left:主人公 next=2012] ---
 ああ、こう書くのか
 +[FID:2F, TEXT:00BF] 
 
---- Group 302 [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---
 おぼえておこう・・・
 +[FID:2F, TEXT:00C0] 
 
---- Group 306 [left:none next=2012] ---
+--- Group [left:none next=2012] ---
 こう、書くんですね？
 +[FID:2F, TEXT:00C1] 
 
---- Group 310 [left:none next=0023] ---
+--- Group [left:none next=0023] ---
 おぼえておかないと
 いけませんね
 +[FID:2F, TEXT:00C2] 
 +[FID:2F, TEXT:00C3] 
 
---- Group 314 [right:怀兹 next=2012] ---
+--- Group [right:怀兹 next=2012] ---
 ねえ、@ n 
 世界のお料理って、
 どんなのがあるの？
@@ -608,23 +608,23 @@
 +[FID:2F, TEXT:00C5] 
 +[FID:2F, TEXT:00C6] 
 
---- Group 318 [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---
 どんなのって・・・
 どうして？
 +[FID:2F, TEXT:00C7] 
 +[FID:2F, TEXT:00C8] 
 
---- Group 319 [left:none next=0023] ---
+--- Group [left:none next=0023] ---
 どんなのって・・・
 どうしてですか？
 -[FID:2F, TEXT:00C7] 
 +[FID:2F, TEXT:00CC] 
 
---- Group 324 [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---
 え？
 +[FID:2F, TEXT:00C9] 
 
---- Group 326 [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---
 え？
 あたしたちの
 世界の料理？
@@ -632,7 +632,7 @@
 +[FID:2F, TEXT:00CA] 
 +[FID:2F, TEXT:00CB] 
 
---- Group 333 [left:none next=0023] ---
+--- Group [left:none next=0023] ---
 どうしてですか？
 狩りなら別の場所でも
 できますよ？
@@ -640,7 +640,7 @@
 +[FID:2F, TEXT:0242] 
 +[FID:2F, TEXT:0249] 
 
---- Group 337 [right:none next=2012] ---
+--- Group [right:none next=2012] ---
 うん、私たちの食べて
 るものと、どう違うの
 かなー・・・って
@@ -648,7 +648,7 @@
 +[FID:2F, TEXT:00CE] 
 +[FID:2F, TEXT:00CF] 
 
---- Group 340 [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---
 うーん、名前が違って
 るだけで、そんなには
 変わらないよ
@@ -656,7 +656,7 @@
 +[FID:2F, TEXT:00D1] 
 +[FID:2F, TEXT:00D2] 
 
---- Group 341 [left:none next=0023] ---
+--- Group [left:none next=0023] ---
 うーん、名前が違って
 るだけで、そんなには
 変わらないかなぁ
@@ -664,7 +664,7 @@
 -[FID:2F, TEXT:00D1] 
 +[FID:2F, TEXT:00D6] 
 
---- Group 346 [left:none next=0023] ---
+--- Group [left:none next=0023] ---
 大した違いはないよ
 名前が違っているだけ
 の料理も多いし
@@ -672,7 +672,7 @@
 +[FID:2F, TEXT:00D4] 
 +[FID:2F, TEXT:00D5] 
 
---- Group 349 [left:none next=0023] ---
+--- Group [left:none next=0023] ---
 そうですね、名前が
 違うくらいでしょうか
 変わりませんよ
@@ -680,11 +680,11 @@
 +[FID:2F, TEXT:00D8] 
 +[FID:2F, TEXT:00D9] 
 
---- Group 352 [right:怀兹 next=2012] ---
+--- Group [right:怀兹 next=2012] ---
 そうなんだ・・・
 +[FID:2F, TEXT:00DA] 
 
---- Group 355 [left:none next=0023] ---
+--- Group [left:none next=0023] ---
 うーん、そう言われて
 も国ごとにいろいろと
 あるからなぁ
@@ -692,7 +692,7 @@
 +[FID:2F, TEXT:00DC] 
 +[FID:2F, TEXT:00DD] 
 
---- Group 357 [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---
 そう言われても、
 国ごとにいろいろな
 料理があるからね
@@ -700,7 +700,7 @@
 +[FID:2F, TEXT:00DF] 
 +[FID:2F, TEXT:00E0] 
 
---- Group 359 [left:none next=0023] ---
+--- Group [left:none next=0023] ---
 うーん、いっぱい
 あるからね・・・
 国によって違うし
@@ -708,7 +708,7 @@
 +[FID:2F, TEXT:00E2] 
 +[FID:2F, TEXT:00E3] 
 
---- Group 361 [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---
 そうですね、ただ
 国ごとにいろいろな
 料理がありますし
@@ -716,13 +716,13 @@
 -[FID:2F, TEXT:00DF] 
 +[FID:2F, TEXT:00E5] 
 
---- Group 363 [right:怀兹 next=2012] ---
+--- Group [right:怀兹 next=2012] ---
 あなたの暮らしていた
 国だったら？
 +[FID:2F, TEXT:00E6] 
 +[FID:2F, TEXT:00E7] 
 
---- Group 365 [left:主人公 next=2012] ---
+--- Group [left:主人公 next=2012] ---
 まずパンじゃなくて、
 お米というものが
 主食で・・・
@@ -730,7 +730,7 @@
 +[FID:2F, TEXT:00ED] 
 +[FID:2F, TEXT:00EE] 
 
---- Group 367 [left:none next=2012] ---
+--- Group [left:none next=2012] ---
 まずパンじゃなくて、
 お米っていうのを
 食べてて・・・
@@ -738,25 +738,25 @@
 +[FID:2F, TEXT:00E9] 
 +[FID:2F, TEXT:00EA] 
 
---- Group 369 [left:none next=0023] ---
+--- Group [left:none next=0023] ---
 ・・・だいたい
 こんなものだけど？
 +[FID:2F, TEXT:00EB] 
 +[FID:2F, TEXT:00EF] 
 
---- Group 371 [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---
 ・・・だいたい
 こんなカンジかな？
 -[FID:2F, TEXT:00EB] 
 +[FID:2F, TEXT:00EC] 
 
---- Group 373 [left:none next=0023] ---
+--- Group [left:none next=0023] ---
 ・・・だいたい
 こんな感じでしょうか
 -[FID:2F, TEXT:00EB] 
 +[FID:2F, TEXT:00F3] 
 
---- Group 375 [left:主人公 next=2012] ---
+--- Group [left:主人公 next=2012] ---
 まず主食が違うんです
 パンじゃなくて
 お米を・・・
@@ -764,25 +764,25 @@
 +[FID:2F, TEXT:00F1] 
 +[FID:2F, TEXT:00F2] 
 
---- Group 377 [right:怀兹 next=2012] ---
+--- Group [right:怀兹 next=2012] ---
 お魚を生で
 食べちゃうんだ・・・
 +[FID:2F, TEXT:00F4] 
 +[FID:2F, TEXT:00F5] 
 
---- Group 379 [left:none next=0023] ---
+--- Group [left:none next=0023] ---
 あ、ショック受けてる
 +[FID:2F, TEXT:00F6] 
 
---- Group 381 [left:none next=0023] ---
+--- Group [left:none next=0023] ---
 おいしいよ
 +[FID:2F, TEXT:00F7] 
 
---- Group 383 [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---
 驚きましたか？
 +[FID:2F, TEXT:00F8] 
 
---- Group 385 [right:怀兹 next=2012] ---
+--- Group [right:怀兹 next=2012] ---
 わ、私にも作れそうな
 料理ってない？
 できれば、貴方が好き
@@ -792,35 +792,35 @@
 +[FID:2F, TEXT:00FB] 
 +[FID:2F, TEXT:00FC] 
 
---- Group 387 [left:主人公 next=2012] ---
+--- Group [left:主人公 next=2012] ---
 俺が好きなもの・・・
 +[FID:2F, TEXT:00FD] 
 
---- Group 389 [left:none next=0023] ---
+--- Group [left:none next=0023] ---
 ラーメン、かな？
 +[FID:2F, TEXT:00FE] 
 
---- Group 391 [left:主人公 next=2012] ---
+--- Group [left:主人公 next=2012] ---
 僕が好きなもの・・・
 +[FID:2F, TEXT:00FF] 
 
---- Group 393 [left:主人公 next=2012] ---
+--- Group [left:主人公 next=2012] ---
 あたしの好物は・・・
 +[FID:2F, TEXT:0100] 
 
---- Group 395 [left:none next=0023] ---
+--- Group [left:none next=0023] ---
 ラーメン、だね！
 +[FID:2F, TEXT:0101] 
 
---- Group 397 [left:none next=0023] ---
+--- Group [left:none next=0023] ---
 ラーメンはどうですか
 +[FID:2F, TEXT:0102] 
 
---- Group 399 [right:怀兹 next=2012] ---
+--- Group [right:怀兹 next=2012] ---
 らーめん？
 +[FID:2F, TEXT:0103] 
 
---- Group 401 [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---
 うん
 部活の帰りとかに
 友達とよく食べたっけ
@@ -828,7 +828,7 @@
 +[FID:2F, TEXT:0105] 
 +[FID:2F, TEXT:0106] 
 
---- Group 403 [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---
 ああ
 生徒会で遅くなると、
 後輩に連れられて
@@ -838,7 +838,7 @@
 +[FID:2F, TEXT:0109] 
 +[FID:2F, TEXT:010A] 
 
---- Group 405 [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---
 学校の帰りに、
 友達みんなで、
 よく食べてたんだ
@@ -846,7 +846,7 @@
 +[FID:2F, TEXT:010C] 
 +[FID:2F, TEXT:010D] 
 
---- Group 407 [left:none next=0023] ---
+--- Group [left:none next=0023] ---
 はい、父が好きで
 よく、食べに連れて
 いってもらって
@@ -856,65 +856,65 @@
 +[FID:2F, TEXT:0110] 
 +[FID:2F, TEXT:0111] 
 
---- Group 409 [right:怀兹 next=2012] ---
+--- Group [right:怀兹 next=2012] ---
 らーめん、ね？
 うん、それに決めたわ
 +[FID:2F, TEXT:0112] 
 +[FID:2F, TEXT:0113] 
 
---- Group 411 [left:none next=0023] ---
+--- Group [left:none next=0023] ---
 ・・・え？
 聞いていますよ
 +[FID:2F, TEXT:0114] 
 +[FID:2F, TEXT:01EE] 
 
---- Group 417 [right:怀兹 next=2012] ---
+--- Group [right:怀兹 next=2012] ---
 作り方、教えてっ！
 +[FID:2F, TEXT:0115] 
 
---- Group 419 [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---
 うわっ、リプレの目が
 燃えてる・・・？
 +[FID:2F, TEXT:0116] 
 +[FID:2F, TEXT:0117] 
 
---- Group 421 [left:none next=0023] ---
+--- Group [left:none next=0023] ---
 ・・・リプレ、
 本気だ・・・
 +[FID:2F, TEXT:0118] 
 +[FID:2F, TEXT:0119] 
 
---- Group 423 [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---
 リプレさん・・・
 本気なんだ・・・
 +[FID:2F, TEXT:011A] 
 +[FID:2F, TEXT:011B] 
 
---- Group 425 [left:none next=0023] ---
+--- Group [left:none next=0023] ---
 おっ、アニキじゃん
 +[FID:2F, TEXT:011C] 
 
---- Group 429 [left:主人公 next=2012] ---
+--- Group [left:主人公 next=2012] ---
 おっ、アネゴじゃん
 +[FID:2F, TEXT:011D] 
 
---- Group 433 [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---
 二人でなんの話を
 していたんですか？
 +[FID:2F, TEXT:011E] 
 +[FID:2F, TEXT:0121] 
 
---- Group 435 [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---
 二人でなんの話を
 してるんだ
 -[FID:2F, TEXT:011E] 
 +[FID:2F, TEXT:011F] 
 
---- Group 437 [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---
 ねね、なんの話？
 +[FID:2F, TEXT:0120] 
 
---- Group 439 [right:阿尔巴 next=2012] ---
+--- Group [right:阿尔巴 next=2012] ---
 ジンガから修行の旅の
 話を聞かせて
 もらったんだよ
@@ -922,15 +922,15 @@
 +[FID:2F, TEXT:0123] 
 +[FID:2F, TEXT:0124] 
 
---- Group 440 [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---
 たとえば？
 +[FID:2F, TEXT:0125] 
 
---- Group 441 [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---
 どんなどんな？
 +[FID:2F, TEXT:0126] 
 
---- Group 442 [right:阿尔巴 next=2012] ---
+--- Group [right:阿尔巴 next=2012] ---
 酒場で船乗りを相手に
 大暴れした話とかね、
 山賊退治で大暴れした
@@ -940,59 +940,59 @@
 +[FID:2F, TEXT:0129] 
 +[FID:2F, TEXT:012A] 
 
---- Group 443 [right:金加 next=2012] ---
+--- Group [right:金加 next=2012] ---
 あはは、たいしたこと
 ない話でしょ？
 +[FID:2F, TEXT:012B] 
 +[FID:2F, TEXT:012C] 
 
---- Group 444 [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---
 いや、充分にすごいと
 思うんだが・・・
 +[FID:2F, TEXT:012D] 
 +[FID:2F, TEXT:012E] 
 
---- Group 445 [left:阿尔巴 next=2012] ---
+--- Group [left:阿尔巴 next=2012] ---
 ほんとに、ジンガって
 強いんだねぇ
 +[FID:2F, TEXT:012F] 
 +[FID:2F, TEXT:0130] 
 
---- Group 446 [right:金加 next=2012] ---
+--- Group [right:金加 next=2012] ---
 へへへへっ
 +[FID:2F, TEXT:0131] 
 
---- Group 447 [left:主人公 next=2012] ---
+--- Group [left:主人公 next=2012] ---
 アルバがジンガの話を
 夢中になって聞いてる
 +[FID:2F, TEXT:0132] 
 +[FID:2F, TEXT:0133] 
 
---- Group 449 [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---
 悪い影響を受けなきゃ
 いいけどなぁ・・・
 +[FID:2F, TEXT:0134] 
 +[FID:2F, TEXT:0135] 
 
---- Group 451 [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---
 悪い影響を受けないと
 いいけど・・・
 +[FID:2F, TEXT:0136] 
 +[FID:2F, TEXT:0137] 
 
---- Group 453 [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---
 悪い影響を受けないと
 いいのだけれど・・・
 -[FID:2F, TEXT:0136] 
 +[FID:2F, TEXT:0139] 
 
---- Group 455 [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---
 変な影響を受けなきゃ
 いいけど・・・
 +[FID:2F, TEXT:0138] 
 -[FID:2F, TEXT:0137] 
 
---- Group 457 [left:none next=0023] ---
+--- Group [left:none next=0023] ---
 俺がこの世界に
 呼ばれたのは事故
 だったんだよな？
@@ -1000,7 +1000,7 @@
 +[FID:2F, TEXT:013B] 
 +[FID:2F, TEXT:013C] 
 
---- Group 461 [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---
 僕がこの世界に呼ばれ
 たのは事故だったって
 聞いたけど
@@ -1008,7 +1008,7 @@
 +[FID:2F, TEXT:013E] 
 +[FID:2F, TEXT:013F] 
 
---- Group 465 [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---
 あたしがここに呼ばれ
 たのは事故だったんだ
 よね？
@@ -1016,7 +1016,7 @@
 +[FID:2F, TEXT:0141] 
 +[FID:2F, TEXT:0142] 
 
---- Group 469 [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---
 事故で、わたしは
 この世界に呼ばれた
 んですよね
@@ -1024,31 +1024,31 @@
 +[FID:2F, TEXT:0144] 
 +[FID:2F, TEXT:0145] 
 
---- Group 473 [right:怀兹 next=2012] ---
+--- Group [right:怀兹 next=2012] ---
 前にそう言った
 はずだろ？
 +[FID:2F, TEXT:0146] 
 +[FID:2F, TEXT:0147] 
 
---- Group 477 [right:怀兹 next=2012] ---
+--- Group [right:怀兹 next=2012] ---
 まさか、まだ疑って
 いるのか？
 +[FID:2F, TEXT:0148] 
 +[FID:2F, TEXT:0149] 
 
---- Group 481 [left:主人公 next=2012] ---
+--- Group [left:主人公 next=2012] ---
 いや
 そういうわけじゃない
 +[FID:2F, TEXT:014A] 
 +[FID:2F, TEXT:014B] 
 
---- Group 484 [left:主人公 next=2012] ---
+--- Group [left:主人公 next=2012] ---
 いや
 そうじゃなくって！
 -[FID:2F, TEXT:014A] 
 +[FID:2F, TEXT:0150] 
 
---- Group 489 [left:none next=0023] ---
+--- Group [left:none next=0023] ---
 事故だったなら、現場
 を調べればなにか帰る
 手がかりが見つからな
@@ -1058,7 +1058,7 @@
 +[FID:2F, TEXT:014E] 
 +[FID:2F, TEXT:014F] 
 
---- Group 493 [left:none next=0023] ---
+--- Group [left:none next=0023] ---
 事故だったんならさ、
 その現場を調べていけ
 ば、なにか手がかりが
@@ -1068,7 +1068,7 @@
 +[FID:2F, TEXT:0153] 
 +[FID:2F, TEXT:0154] 
 
---- Group 497 [left:none next=2012] ---
+--- Group [left:none next=2012] ---
 いえ、
 疑っているわけでは
 ないのですけれど
@@ -1076,7 +1076,7 @@
 +[FID:2F, TEXT:0156] 
 +[FID:2F, TEXT:0157] 
 
---- Group 501 [left:none next=0023] ---
+--- Group [left:none next=0023] ---
 事故だったのなら、
 その現場を調べていけ
 ば、なにか手がかりが
@@ -1086,25 +1086,25 @@
 -[FID:2F, TEXT:0153] 
 +[FID:2F, TEXT:0159] 
 
---- Group 505 [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---
 どうだろう？
 +[FID:2F, TEXT:015A] 
 
---- Group 509 [left:none next=0023] ---
+--- Group [left:none next=0023] ---
 ははは、無駄かな？
 +[FID:2F, TEXT:015B] 
 
---- Group 513 [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---
 無駄でしょうか？
 +[FID:2F, TEXT:015C] 
 
---- Group 517 [right:怀兹 next=2012] ---
+--- Group [right:怀兹 next=2012] ---
 いや、やってみる価値
 はあるかもしれないな
 +[FID:2F, TEXT:015D] 
 +[FID:2F, TEXT:015E] 
 
---- Group 521 [right:怀兹 next=2012] ---
+--- Group [right:怀兹 next=2012] ---
 ただ、調べられるのは
 俺がわかる範囲内の
 ことだけだぜ・・・
@@ -1112,19 +1112,19 @@
 +[FID:2F, TEXT:0160] 
 +[FID:2F, TEXT:0161] 
 
---- Group 525 [left:主人公 next=2012] ---
+--- Group [left:主人公 next=2012] ---
 それでも、何もやらな
 いよりはマシだろう
 +[FID:2F, TEXT:0162] 
 +[FID:2F, TEXT:0163] 
 
---- Group 529 [left:none next=0023] ---
+--- Group [left:none next=0023] ---
 よし、そうと決まれば
 みんなに・・・
 +[FID:2F, TEXT:0164] 
 +[FID:2F, TEXT:0165] 
 
---- Group 533 [left:主人公 next=2012] ---
+--- Group [left:主人公 next=2012] ---
 それでも、何も知らな
 いあたしよりはマシだ
 と思うんだ
@@ -1132,11 +1132,11 @@
 +[FID:2F, TEXT:0167] 
 +[FID:2F, TEXT:0168] 
 
---- Group 537 [left:none next=2012] ---
+--- Group [left:none next=2012] ---
 いえ、心強いです
 +[FID:2F, TEXT:0169] 
 
---- Group 541 [left:none next=0023] ---
+--- Group [left:none next=0023] ---
 じゃあ、わたし
 みなさんに伝えて
 来ますね・・・
@@ -1144,13 +1144,13 @@
 +[FID:2F, TEXT:016B] 
 +[FID:2F, TEXT:016C] 
 
---- Group 545 [right:怀兹 next=2012] ---
+--- Group [right:怀兹 next=2012] ---
 やめたほうがいい
 俺たちだけでやろう
 +[FID:2F, TEXT:016D] 
 +[FID:2F, TEXT:016E] 
 
---- Group 549 [right:none next=2012] ---
+--- Group [right:none next=2012] ---
 みんなに無駄足を
 踏ませることに
 なるかもしれないだろ
@@ -1158,15 +1158,15 @@
 +[FID:2F, TEXT:0170] 
 +[FID:2F, TEXT:0171] 
 
---- Group 553 [left:none next=0023] ---
+--- Group [left:none next=0023] ---
 たしかに・・・
 +[FID:2F, TEXT:0172] 
 
---- Group 557 [left:none next=0023] ---
+--- Group [left:none next=0023] ---
 どうしよう？
 +[FID:2F, TEXT:0173] 
 
---- Group 558 [left:主人公 next=2015] ---
+--- Group [left:主人公 next=2015] ---
 どうしよう？
 　やめておく
 　魚釣りをする
@@ -1174,7 +1174,7 @@
 +[FID:2F, TEXT:02E1] 
 +[FID:2F, TEXT:02E2] 
 
---- Group 562 [left:主人公 next=2015] ---
+--- Group [left:主人公 next=2015] ---
 どうしよう？
 　放っておく
 　近づいてみる
@@ -1182,57 +1182,57 @@
 +[FID:2F, TEXT:02C8] 
 +[FID:2F, TEXT:02C9] 
 
---- Group 569 [right:none next=0023] ---
+--- Group [right:none next=0023] ---
 　・・・大丈夫かな？
 　行こう！
 +[FID:2F, TEXT:0174] 
 +[FID:2F, TEXT:01B7] 
 
---- Group 570 [left:none next=0023] ---
+--- Group [left:none next=0023] ---
 　・・・大丈夫かな？
 　そうだな・・・
 -[FID:2F, TEXT:0174] 
 +[FID:2F, TEXT:0175] 
 
---- Group 571 [left:none next=0023] ---
+--- Group [left:none next=0023] ---
 　・・・大丈夫かな？
 　そうですね・・・
 -[FID:2F, TEXT:0174] 
 +[FID:2F, TEXT:0177] 
 
---- Group 575 [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---
 　・・・大丈夫かな？
 　そうだね・・・
 -[FID:2F, TEXT:0174] 
 +[FID:2F, TEXT:0176] 
 
---- Group 585 [right:怀兹 next=0023] ---
+--- Group [right:怀兹 next=0023] ---
 　大丈夫でしょうか？
 　行きましょう
 +[FID:2F, TEXT:0192] 
 +[FID:2F, TEXT:01B8] 
 
---- Group 589 [right:怀兹 next=2012] ---
+--- Group [right:怀兹 next=2012] ---
 で、どうするんだ？
 +[FID:2F, TEXT:01B6] 
 
---- Group 593 [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---
 そうだな・・・
 まずは二人で行こうか
 +[FID:2F, TEXT:01BC] 
 +[FID:2F, TEXT:01BD] 
 
---- Group 597 [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---
 そうだね・・・
 じゃあ二人で行こう！
 +[FID:2F, TEXT:01BE] 
 +[FID:2F, TEXT:01BF] 
 
---- Group 601 [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---
 二人で行きましょう！
 +[FID:2F, TEXT:01C2] 
 
---- Group 605 [right:怀兹 next=2012] ---
+--- Group [right:怀兹 next=2012] ---
 じゃあ
 明日の朝出発だ
 いいな？
@@ -1240,15 +1240,15 @@
 +[FID:2F, TEXT:01C4] 
 +[FID:2F, TEXT:01C5] 
 
---- Group 609 [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---
 ・・・大丈夫かな？
 +[FID:2F, TEXT:01CE] 
 
---- Group 613 [left:none next=0023] ---
+--- Group [left:none next=0023] ---
 大丈夫でしょうか？
 +[FID:2F, TEXT:01CF] 
 
---- Group 617 [right:none next=2012] ---
+--- Group [right:none next=2012] ---
 だったらやめるか？
 まあ、決めるのは
 お前だからな
@@ -1256,25 +1256,25 @@
 +[FID:2F, TEXT:01D1] 
 +[FID:2F, TEXT:01D2] 
 
---- Group 621 [right:none next=2012] ---
+--- Group [right:none next=2012] ---
 決まったら教えてくれ
 なるべく早めに、な
 +[FID:2F, TEXT:01D3] 
 +[FID:2F, TEXT:01D4] 
 
---- Group 625 [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---
 やあ、スウォン
 +[FID:2F, TEXT:01E2] 
 
---- Group 629 [left:none next=0023] ---
+--- Group [left:none next=0023] ---
 あ、やぁスウォン！
 +[FID:2F, TEXT:01E3] 
 
---- Group 633 [left:主人公 next=2012] ---
+--- Group [left:主人公 next=2012] ---
 こんにちは・・・
 +[FID:2F, TEXT:01E4] 
 
---- Group 637 [left:none next=0023] ---
+--- Group [left:none next=0023] ---
 ・・・こういうときは
 「やあ」の方が
 自然ですか？
@@ -1282,7 +1282,7 @@
 +[FID:2F, TEXT:01E6] 
 +[FID:2F, TEXT:01E7] 
 
---- Group 641 [right:怀兹 next=2012] ---
+--- Group [right:怀兹 next=2012] ---
 やあ、じゃないですよ
 言ったでしょ！？
 この森には凶暴な獣が
@@ -1292,37 +1292,37 @@
 +[FID:2F, TEXT:01EA] 
 +[FID:2F, TEXT:01EB] 
 
---- Group 645 [left:none next=0023] ---
+--- Group [left:none next=0023] ---
 ああ、聞いたよ
 +[FID:2F, TEXT:01EC] 
 
---- Group 649 [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---
 あ、聞いたけどさ
 +[FID:2F, TEXT:01ED] 
 
---- Group 653 [right:none next=2012] ---
+--- Group [right:none next=2012] ---
 だったらどうして！？
 +[FID:2F, TEXT:01EF] 
 
---- Group 657 [right:怀兹 next=0023] ---
+--- Group [right:怀兹 next=0023] ---
 　そいつを見たいんだ
 　君が心配だったんだ
 +[FID:2F, TEXT:01F0] 
 +[FID:2F, TEXT:01F1] 
 
---- Group 661 [right:none next=0023] ---
+--- Group [right:none next=0023] ---
 　それを見たいなって
 　あなたが心配で・・・
 +[FID:2F, TEXT:01F2] 
 +[FID:2F, TEXT:01F3] 
 
---- Group 665 [right:none next=0023] ---
+--- Group [right:none next=0023] ---
 　見てみたくて・・・
 　あなたが心配で・・・
 +[FID:2F, TEXT:01F4] 
 -[FID:2F, TEXT:01F3] 
 
---- Group 669 [left:none next=0023] ---
+--- Group [left:none next=0023] ---
 そいつを見たいんだ
 どれほどすごい獣なの
 かをね
@@ -1330,7 +1330,7 @@
 +[FID:2F, TEXT:01F6] 
 +[FID:2F, TEXT:01F7] 
 
---- Group 672 [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---
 そいつを見たいんだ
 どれほどすごい
 獣なのかをね
@@ -1338,7 +1338,7 @@
 +[FID:2F, TEXT:01F8] 
 +[FID:2F, TEXT:01F9] 
 
---- Group 677 [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---
 それを見たいなって
 思ったの・・・すごい
 獣なんだよね
@@ -1346,7 +1346,7 @@
 +[FID:2F, TEXT:01FB] 
 +[FID:2F, TEXT:01FC] 
 
---- Group 681 [left:none next=0023] ---
+--- Group [left:none next=0023] ---
 ちょっと、その獣と
 いうのを見てみたくて
 ・・・好奇心が・・・
@@ -1354,11 +1354,11 @@
 +[FID:2F, TEXT:01FE] 
 +[FID:2F, TEXT:01FF] 
 
---- Group 685 [right:怀兹 next=2012] ---
+--- Group [right:怀兹 next=2012] ---
 ・・・！
 +[FID:2F, TEXT:0200] 
 
---- Group 689 [right:none next=2012] ---
+--- Group [right:none next=2012] ---
 貴方、自分がどれだけ
 無謀なことを言ってる
 のかわかってませんね
@@ -1366,7 +1366,7 @@
 +[FID:2F, TEXT:0202] 
 +[FID:2F, TEXT:0203] 
 
---- Group 693 [right:none next=2012] ---
+--- Group [right:none next=2012] ---
 僕の言っていることは
 冗談なんかじゃないん
 ですよ！
@@ -1374,7 +1374,7 @@
 +[FID:2F, TEXT:0205] 
 +[FID:2F, TEXT:0206] 
 
---- Group 697 [right:怀兹 next=2012] ---
+--- Group [right:怀兹 next=2012] ---
 相手はこの森の主とも
 呼ばれてる獣なんです
 子分だって、たくさん
@@ -1384,7 +1384,7 @@
 +[FID:2F, TEXT:0209] 
 +[FID:2F, TEXT:020A] 
 
---- Group 701 [right:none next=2012] ---
+--- Group [right:none next=2012] ---
 囲まれてしまったら、
 腕利きの狩人でも絶対
 に助かりません！！
@@ -1392,7 +1392,7 @@
 +[FID:2F, TEXT:020C] 
 +[FID:2F, TEXT:020D] 
 
---- Group 705 [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---
 だったら、どうして君
 は一人でそんな場所に
 来てるんだ？
@@ -1400,7 +1400,7 @@
 +[FID:2F, TEXT:020F] 
 +[FID:2F, TEXT:0210] 
 
---- Group 709 [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---
 だったらさ、なんで
 スウォンはこんな所に
 ひとりでいるの？
@@ -1408,11 +1408,11 @@
 +[FID:2F, TEXT:0212] 
 +[FID:2F, TEXT:0213] 
 
---- Group 713 [left:none next=2012] ---
+--- Group [left:none next=2012] ---
 ・・・ごめんなさい
 +[FID:2F, TEXT:0214] 
 
---- Group 717 [left:none next=0023] ---
+--- Group [left:none next=0023] ---
 でも、スウォンくんも
 そんなところに、
 一人で来て
@@ -1422,11 +1422,11 @@
 +[FID:2F, TEXT:0217] 
 +[FID:2F, TEXT:0218] 
 
---- Group 721 [right:怀兹 next=2012] ---
+--- Group [right:怀兹 next=2012] ---
 ・・・っ
 +[FID:2F, TEXT:0219] 
 
---- Group 725 [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---
 おかしいじゃないか
 そんなに危険な相手が
 いるのに、どうして君
@@ -1436,7 +1436,7 @@
 +[FID:2F, TEXT:021C] 
 +[FID:2F, TEXT:021D] 
 
---- Group 729 [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---
 おかしいじゃん
 そんなに危険な相手が
 いるのに、どうして？
@@ -1444,7 +1444,7 @@
 -[FID:2F, TEXT:021B] 
 +[FID:2F, TEXT:021F] 
 
---- Group 733 [left:none next=0023] ---
+--- Group [left:none next=0023] ---
 おかしいですよ
 そんなに危険な相手が
 いるのに・・・
@@ -1452,41 +1452,41 @@
 -[FID:2F, TEXT:021B] 
 +[FID:2F, TEXT:0221] 
 
---- Group 737 [right:怀兹 next=2012] ---
+--- Group [right:怀兹 next=2012] ---
 それは・・・
 +[FID:2F, TEXT:0222] 
 
---- Group 741 [left:none next=0023] ---
+--- Group [left:none next=0023] ---
 なにか理由があるんじ
 ゃないのかい？
 +[FID:2F, TEXT:0223] 
 +[FID:2F, TEXT:0224] 
 
---- Group 745 [left:none next=0023] ---
+--- Group [left:none next=0023] ---
 なんかワケあり？
 +[FID:2F, TEXT:0225] 
 
---- Group 749 [left:none next=0023] ---
+--- Group [left:none next=0023] ---
 理由が・・・
 あるんですね？
 +[FID:2F, TEXT:0226] 
 +[FID:2F, TEXT:0227] 
 
---- Group 753 [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---
 君が心配だったんだよ
 +[FID:2F, TEXT:0228] 
 
---- Group 757 [left:none next=0023] ---
+--- Group [left:none next=0023] ---
 君が心配だったからね
 +[FID:2F, TEXT:0229] 
 
---- Group 761 [left:none next=0023] ---
+--- Group [left:none next=0023] ---
 スウォンが
 心配だったの！
 +[FID:2F, TEXT:022A] 
 +[FID:2F, TEXT:022B] 
 
---- Group 765 [left:none next=0023] ---
+--- Group [left:none next=0023] ---
 スウォンくんが心配で
 ついて来て
 しまいました・・・
@@ -1494,7 +1494,7 @@
 +[FID:2F, TEXT:022D] 
 +[FID:2F, TEXT:022E] 
 
---- Group 769 [left:主人公 next=2012] ---
+--- Group [left:主人公 next=2012] ---
 いくら君が森に慣れて
 いるといっても、
 一人じゃ危険すぎるよ
@@ -1502,7 +1502,7 @@
 +[FID:2F, TEXT:0230] 
 +[FID:2F, TEXT:0231] 
 
---- Group 772 [left:none next=2012] ---
+--- Group [left:none next=2012] ---
 いくら君が森に慣れて
 いるといっても、
 一人じゃ危険すぎる
@@ -1510,25 +1510,25 @@
 -[FID:2F, TEXT:0230] 
 +[FID:2F, TEXT:0234] 
 
---- Group 777 [left:none next=0023] ---
+--- Group [left:none next=0023] ---
 さあ、一緒にここから
 出ようぜ？
 +[FID:2F, TEXT:0232] 
 +[FID:2F, TEXT:0233] 
 
---- Group 779 [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---
 さあ、一緒にここから
 出ましょう？
 -[FID:2F, TEXT:0232] 
 +[FID:2F, TEXT:023F] 
 
---- Group 785 [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---
 もう君も、この森には
 近づかないほうがいい
 +[FID:2F, TEXT:0235] 
 +[FID:2F, TEXT:0236] 
 
---- Group 789 [left:主人公 next=2012] ---
+--- Group [left:主人公 next=2012] ---
 スウォンが森に慣れて
 いるっていっても、
 一人じゃ危険でしょ？
@@ -1536,11 +1536,11 @@
 +[FID:2F, TEXT:0238] 
 +[FID:2F, TEXT:0239] 
 
---- Group 793 [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---
 いっしょに森を出よ？
 +[FID:2F, TEXT:023A] 
 
---- Group 797 [left:主人公 next=2012] ---
+--- Group [left:主人公 next=2012] ---
 いくらあなたが
 森に慣れていても
 やっぱり、ひとりじゃ
@@ -1550,11 +1550,11 @@
 +[FID:2F, TEXT:023D] 
 +[FID:2F, TEXT:023E] 
 
---- Group 801 [right:怀兹 next=2012] ---
+--- Group [right:怀兹 next=2012] ---
 ・・・駄目なんです
 +[FID:2F, TEXT:0240] 
 
---- Group 805 [left:none next=0023] ---
+--- Group [left:none next=0023] ---
 どうしてだよ
 狩りなら別の場所でも
 できるじゃないか？
@@ -1562,7 +1562,7 @@
 -[FID:2F, TEXT:0242] 
 +[FID:2F, TEXT:0243] 
 
---- Group 809 [left:none next=0023] ---
+--- Group [left:none next=0023] ---
 どうしてだい
 狩りなら別の場所でも
 できるだろう？
@@ -1570,7 +1570,7 @@
 -[FID:2F, TEXT:0242] 
 +[FID:2F, TEXT:0245] 
 
---- Group 813 [left:none next=0023] ---
+--- Group [left:none next=0023] ---
 なんで？
 狩りをするだけなら、
 別のところにしようよ
@@ -1578,37 +1578,37 @@
 +[FID:2F, TEXT:0247] 
 +[FID:2F, TEXT:0248] 
 
---- Group 817 [right:none next=2012] ---
+--- Group [right:none next=2012] ---
 ここでなければ、駄目
 なんです！！
 +[FID:2F, TEXT:024A] 
 +[FID:2F, TEXT:024B] 
 
---- Group 821 [right:怀兹 next=2012] ---
+--- Group [right:怀兹 next=2012] ---
 僕はその獣に復讐する
 んですから・・・
 +[FID:2F, TEXT:024C] 
 +[FID:2F, TEXT:024D] 
 
---- Group 825 [left:none next=0023] ---
+--- Group [left:none next=0023] ---
 復讐！？
 +[FID:2F, TEXT:024E] 
 
---- Group 829 [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---
 ふくしゅ〜って・・・
 +[FID:2F, TEXT:024F] 
 
---- Group 833 [left:none next=0023] ---
+--- Group [left:none next=0023] ---
 え・・・復讐？
 +[FID:2F, TEXT:0250] 
 
---- Group 837 [right:none next=2012] ---
+--- Group [right:none next=2012] ---
 僕の父さんが、最初の
 犠牲者なんです・・・
 +[FID:2F, TEXT:0251] 
 +[FID:2F, TEXT:0252] 
 
---- Group 841 [right:怀兹 next=2012] ---
+--- Group [right:怀兹 next=2012] ---
 この森の主と呼ばれる
 【朱のガレフ】に
 殺されたんです！！
@@ -1616,7 +1616,7 @@
 +[FID:2F, TEXT:0254] 
 +[FID:2F, TEXT:0255] 
 
---- Group 845 [right:none next=2012] ---
+--- Group [right:none next=2012] ---
 僕たち狩人とガレフは
 今まではこの森で共存
 してきました
@@ -1624,7 +1624,7 @@
 +[FID:2F, TEXT:0257] 
 +[FID:2F, TEXT:0258] 
 
---- Group 849 [right:怀兹 next=2012] ---
+--- Group [right:怀兹 next=2012] ---
 縄張りに入りさえしな
 ければ、ガレフたちは
 僕らを襲わないはずだ
@@ -1634,27 +1634,27 @@
 +[FID:2F, TEXT:025B] 
 +[FID:2F, TEXT:025C] 
 
---- Group 853 [right:none next=2012] ---
+--- Group [right:none next=2012] ---
 なのに・・・っ
 +[FID:2F, TEXT:025D] 
 
---- Group 857 [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---
 君の父さんは、襲われ
 てしまったんだね
 +[FID:2F, TEXT:025E] 
 +[FID:2F, TEXT:025F] 
 
---- Group 861 [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---
 お父さんは襲われた？
 +[FID:2F, TEXT:0260] 
 
---- Group 865 [left:none next=0023] ---
+--- Group [left:none next=0023] ---
 あなたの父さまは
 襲われた・・・
 +[FID:2F, TEXT:0261] 
 +[FID:2F, TEXT:0262] 
 
---- Group 869 [right:none next=2012] ---
+--- Group [right:none next=2012] ---
 僕は絶対に許さない！
 父さんを、僕の大好き
 な父さんをっ、あんな
@@ -1664,7 +1664,7 @@
 +[FID:2F, TEXT:0265] 
 +[FID:2F, TEXT:0266] 
 
---- Group 873 [right:怀兹 next=2012] ---
+--- Group [right:怀兹 next=2012] ---
 絶対に復讐してやる
 この父さんの弓で
 仇をとってやる・・・
@@ -1672,43 +1672,43 @@
 +[FID:2F, TEXT:0268] 
 +[FID:2F, TEXT:0269] 
 
---- Group 877 [left:主人公 next=2012] ---
+--- Group [left:主人公 next=2012] ---
 事情はわかったよ
 +[FID:2F, TEXT:026A] 
 
---- Group 881 [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---
 でも、一人で仇をとる
 なんて無茶ですよ
 +[FID:2F, TEXT:026B] 
 +[FID:2F, TEXT:0271] 
 
---- Group 882 [left:none next=0023] ---
+--- Group [left:none next=0023] ---
 でも、一人で仇をとる
 なんて無茶だ
 -[FID:2F, TEXT:026B] 
 +[FID:2F, TEXT:026C] 
 
---- Group 883 [left:none next=0023] ---
+--- Group [left:none next=0023] ---
 でも、一人で仇をとる
 なんて無茶じゃない！
 -[FID:2F, TEXT:026B] 
 +[FID:2F, TEXT:026E] 
 
---- Group 893 [left:主人公 next=2012] ---
+--- Group [left:主人公 next=2012] ---
 事情はわかったけど
 +[FID:2F, TEXT:026D] 
 
---- Group 897 [left:none next=2012] ---
+--- Group [left:none next=2012] ---
 そういうこと
 だったんですか・・・
 +[FID:2F, TEXT:026F] 
 +[FID:2F, TEXT:0270] 
 
---- Group 901 [right:怀兹 next=2012] ---
+--- Group [right:怀兹 next=2012] ---
 わかってます
 +[FID:2F, TEXT:0272] 
 
---- Group 905 [right:怀兹 next=2012] ---
+--- Group [right:怀兹 next=2012] ---
 でも他の狩人たちは、
 ガレフを恐れて森から
 逃げてしまいました
@@ -1716,7 +1716,7 @@
 +[FID:2F, TEXT:0274] 
 +[FID:2F, TEXT:0275] 
 
---- Group 909 [right:none next=2012] ---
+--- Group [right:none next=2012] ---
 あいつと戦おうとして
 いるのは、もう僕だけ
 なんです・・・
@@ -1724,35 +1724,35 @@
 +[FID:2F, TEXT:0277] 
 +[FID:2F, TEXT:0278] 
 
---- Group 913 [right:怀兹 next=0023] ---
+--- Group [right:怀兹 next=0023] ---
 　なら、俺が手伝うよ
 　そうか・・・
 +[FID:2F, TEXT:0279] 
 +[FID:2F, TEXT:027A] 
 
---- Group 917 [right:none next=0023] ---
+--- Group [right:none next=0023] ---
 　なら、僕が手伝おう
 　そうか・・・
 +[FID:2F, TEXT:027B] 
 -[FID:2F, TEXT:027A] 
 
---- Group 921 [right:怀兹 next=0023] ---
+--- Group [right:怀兹 next=0023] ---
 　手伝うよ
 　そっか・・・
 +[FID:2F, TEXT:027C] 
 +[FID:2F, TEXT:027D] 
 
---- Group 925 [right:none next=0023] ---
+--- Group [right:none next=0023] ---
 　いっしょに戦いましょう
 　そうなんですか・・・
 +[FID:2F, TEXT:027E] 
 +[FID:2F, TEXT:027F] 
 
---- Group 929 [left:none next=2012] ---
+--- Group [left:none next=2012] ---
 なら、俺が手伝うよ
 +[FID:2F, TEXT:0280] 
 
---- Group 933 [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---
 俺だけじゃない
 事情を話せば、きっと
 俺の仲間も力を貸して
@@ -1762,11 +1762,11 @@
 +[FID:2F, TEXT:0283] 
 +[FID:2F, TEXT:0284] 
 
---- Group 937 [left:none next=2012] ---
+--- Group [left:none next=2012] ---
 なら、僕が手伝おう
 +[FID:2F, TEXT:0285] 
 
---- Group 941 [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---
 僕だけじゃない
 事情を話せば、きっと
 僕の仲間も力を貸して
@@ -1776,11 +1776,11 @@
 +[FID:2F, TEXT:0287] 
 -[FID:2F, TEXT:0284] 
 
---- Group 945 [left:none next=2012] ---
+--- Group [left:none next=2012] ---
 あたしが手伝うよ
 +[FID:2F, TEXT:0288] 
 
---- Group 949 [left:none next=0023] ---
+--- Group [left:none next=0023] ---
 あたしだけじゃないよ
 事情を話せば、きっと
 みんなも力を貸して
@@ -1790,7 +1790,7 @@
 +[FID:2F, TEXT:028A] 
 -[FID:2F, TEXT:0284] 
 
---- Group 953 [left:none next=2012] ---
+--- Group [left:none next=2012] ---
 なら・・・
 いっしょに
 戦いましょう
@@ -1798,7 +1798,7 @@
 +[FID:2F, TEXT:028C] 
 +[FID:2F, TEXT:028D] 
 
---- Group 957 [left:none next=0023] ---
+--- Group [left:none next=0023] ---
 わたしだけじゃない
 事情を話せば、きっと
 みんなも助けてくれる
@@ -1808,7 +1808,7 @@
 +[FID:2F, TEXT:028F] 
 +[FID:2F, TEXT:0290] 
 
---- Group 961 [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---
 でも・・・
 釣りの餌がないわね
 餌を探さなくては
@@ -1818,19 +1818,19 @@
 +[FID:2F, TEXT:02DF] 
 +[FID:2F, TEXT:02E0] 
 
---- Group 967 [left:none next=2012] ---
+--- Group [left:none next=2012] ---
 ガレフは子分を連れて
 いるんだろ？
 +[FID:2F, TEXT:0292] 
 +[FID:2F, TEXT:0293] 
 
---- Group 968 [left:none next=2012] ---
+--- Group [left:none next=2012] ---
 ガレフは子分を連れて
 いるんだろう？
 -[FID:2F, TEXT:0292] 
 +[FID:2F, TEXT:029C] 
 
---- Group 975 [left:none next=2012] ---
+--- Group [left:none next=2012] ---
 たった一人で戦うのは
 命を捨てるようなもの
 じゃないか
@@ -1838,19 +1838,19 @@
 +[FID:2F, TEXT:029D] 
 +[FID:2F, TEXT:029E] 
 
---- Group 976 [left:主人公 next=2012] ---
+--- Group [left:主人公 next=2012] ---
 たった一人で戦うのは
 絶対に無茶だと思うぜ
 -[FID:2F, TEXT:0294] 
 +[FID:2F, TEXT:0295] 
 
---- Group 978 [left:主人公 next=2012] ---
+--- Group [left:主人公 next=2012] ---
 たった一人で戦うのは
 絶対に無理ですよ
 -[FID:2F, TEXT:0294] 
 +[FID:2F, TEXT:02B0] 
 
---- Group 987 [left:主人公 next=2012] ---
+--- Group [left:主人公 next=2012] ---
 森に不慣れな俺たちが
 どれだけ役に立つかは
 不安だろうけど・・・
@@ -1858,7 +1858,7 @@
 +[FID:2F, TEXT:0297] 
 +[FID:2F, TEXT:0298] 
 
---- Group 991 [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---
 君の背中を
 守るくらいの助けなら
 できると思うんだ
@@ -1866,7 +1866,7 @@
 +[FID:2F, TEXT:029A] 
 +[FID:2F, TEXT:029B] 
 
---- Group 995 [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---
 君の背中を守るくらい
 の助けなら、できると
 思う
@@ -1874,7 +1874,7 @@
 +[FID:2F, TEXT:02A0] 
 +[FID:2F, TEXT:02A1] 
 
---- Group 999 [left:主人公 next=2012] ---
+--- Group [left:主人公 next=2012] ---
 ガレフってさ、
 一匹じゃないん
 でしょ？
@@ -1882,13 +1882,13 @@
 +[FID:2F, TEXT:02A3] 
 +[FID:2F, TEXT:02A4] 
 
---- Group 1003 [left:none next=2012] ---
+--- Group [left:none next=2012] ---
 ひとりじゃ勝てないよ
 そう思わない？
 +[FID:2F, TEXT:02A5] 
 +[FID:2F, TEXT:02A6] 
 
---- Group 1007 [left:主人公 next=2012] ---
+--- Group [left:主人公 next=2012] ---
 そりゃ、あたしは
 役にたたないかも
 しれないけど・・・
@@ -1896,7 +1896,7 @@
 +[FID:2F, TEXT:02A8] 
 +[FID:2F, TEXT:02A9] 
 
---- Group 1011 [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---
 ね、いっしょに
 戦おうよ！
 スウォン！
@@ -1904,7 +1904,7 @@
 +[FID:2F, TEXT:02AB] 
 +[FID:2F, TEXT:02AC] 
 
---- Group 1015 [left:主人公 next=2012] ---
+--- Group [left:主人公 next=2012] ---
 ガレフは一匹だけで
 いるわけじゃないんで
 すよね？
@@ -1912,7 +1912,7 @@
 +[FID:2F, TEXT:02AE] 
 +[FID:2F, TEXT:02AF] 
 
---- Group 1019 [left:none next=2012] ---
+--- Group [left:none next=2012] ---
 森に不慣れなわたし
 たちが、役に立つかは
 不安だと思いますけど
@@ -1922,7 +1922,7 @@
 +[FID:2F, TEXT:02B3] 
 -[FID:2F, TEXT:0078] 
 
---- Group 1023 [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---
 背中を守るくらい
 の助けなら、できると
 思いますよ
@@ -1930,7 +1930,7 @@
 -[FID:2F, TEXT:02A0] 
 +[FID:2F, TEXT:02B5] 
 
---- Group 1027 [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---
 決めるのは今すぐじゃ
 なくていいから、まず
 はみんなと会ってみて
@@ -1940,7 +1940,7 @@
 +[FID:2F, TEXT:02B8] 
 +[FID:2F, TEXT:02B9] 
 
---- Group 1030 [left:none next=0023] ---
+--- Group [left:none next=0023] ---
 決めるのは今すぐじゃ
 なくていいですから
 いちど、みなさんと
@@ -1950,7 +1950,7 @@
 +[FID:2F, TEXT:02BE] 
 +[FID:2F, TEXT:02BF] 
 
---- Group 1035 [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---
 そうだ！
 ものはためしで、まず
 はみんなと会ってみて
@@ -1960,41 +1960,41 @@
 -[FID:2F, TEXT:02B8] 
 +[FID:2F, TEXT:02BC] 
 
---- Group 1039 [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---
 そうか・・・
 +[FID:2F, TEXT:02C0] 
 
---- Group 1043 [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---
 そっか・・・
 +[FID:2F, TEXT:02C1] 
 
---- Group 1047 [left:none next=0023] ---
+--- Group [left:none next=0023] ---
 そうなんですか・・・
 +[FID:2F, TEXT:02C2] 
 
---- Group 1051 [right:none next=2012] ---
+--- Group [right:none next=2012] ---
 心配しないでください
 無茶はしませんから
 +[FID:2F, TEXT:02C3] 
 +[FID:2F, TEXT:02C4] 
 
---- Group 1055 [right:怀兹 next=2012] ---
+--- Group [right:怀兹 next=2012] ---
 それじゃ、気をつけて
 帰ってくださいね
 +[FID:2F, TEXT:02C5] 
 +[FID:2F, TEXT:02C6] 
 
---- Group 1059 [left:主人公 next=2012] ---
+--- Group [left:主人公 next=2012] ---
 ・・・猫？
 +[FID:2F, TEXT:02C7] 
 
---- Group 1061 [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---
 また、魚でも釣って
 みるかな？
 +[FID:2F, TEXT:02CA] 
 +[FID:2F, TEXT:02CD] 
 
---- Group 1062 [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---
 また、魚でも釣って
 リプレを喜ばせて
 やろうかな？
@@ -2002,13 +2002,13 @@
 +[FID:2F, TEXT:02CB] 
 +[FID:2F, TEXT:02CC] 
 
---- Group 1065 [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---
 うーん
 魚釣りねぇ・・・
 +[FID:2F, TEXT:02CE] 
 +[FID:2F, TEXT:02CF] 
 
---- Group 1067 [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---
 また、魚を
 釣って帰ったら
 リプレさん
@@ -2018,7 +2018,7 @@
 +[FID:2F, TEXT:02D2] 
 +[FID:2F, TEXT:02D3] 
 
---- Group 1069 [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---
 あれ？
 釣りの餌がない・・・
 これじゃあ釣りは
@@ -2028,7 +2028,7 @@
 +[FID:2F, TEXT:02D6] 
 +[FID:2F, TEXT:02D7] 
 
---- Group 1071 [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---
 でも、まずは
 釣りの餌を探さないと
 いけないみたいだな
@@ -2036,13 +2036,13 @@
 +[FID:2F, TEXT:02D9] 
 +[FID:2F, TEXT:02DA] 
 
---- Group 1073 [right:none next=0023] ---
+--- Group [right:none next=0023] ---
 気にしなくていいって
 こういう時もあるわ
 +[FID:2F, TEXT:02E3] 
 +[FID:2F, TEXT:02E4] 
 
---- Group 1077 [right:none next=2012] ---
+--- Group [right:none next=2012] ---
 また何か釣れた時は
 私のところに
 もってきてね
@@ -2050,7 +2050,7 @@
 +[FID:2F, TEXT:02F5] 
 +[FID:2F, TEXT:02F6] 
 
---- Group 1081 [right:怀兹 next=2012] ---
+--- Group [right:怀兹 next=2012] ---
 腕によりをかけて
 おいしい料理を作って
 あげるから、ね？
@@ -2058,7 +2058,7 @@
 +[FID:2F, TEXT:02F8] 
 +[FID:2F, TEXT:02F9] 
 
---- Group 1085 [right:金加 next=0026] ---
+--- Group [right:金加 next=0026] ---
 【自分の部屋】
 
 

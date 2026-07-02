@@ -1,4 +1,4 @@
---- Group 1 [left:none next=2012] ---
+--- Group [left:none next=2012] ---
 魅魔の宝玉の力が、
 そこまで強いもの
 だとはな・・・
@@ -6,7 +6,7 @@
 +[FID:7F, TEXT:0002] 
 +[FID:7F, TEXT:0003] 
 
---- Group 2 [right:none next=2012] ---
+--- Group [right:none next=2012] ---
 いや、むしろバノッサ
 が宝玉の力をここまで
 高めたのだろう
@@ -14,7 +14,7 @@
 +[FID:7F, TEXT:0005] 
 +[FID:7F, TEXT:0006] 
 
---- Group 3 [left:none next=2012] ---
+--- Group [left:none next=2012] ---
 でも、なんでバノッサ
 は結界を壊そうとして
 るんだ？
@@ -22,13 +22,13 @@
 +[FID:7F, TEXT:0008] 
 +[FID:7F, TEXT:0009] 
 
---- Group 4 [right:none next=2012] ---
+--- Group [right:none next=2012] ---
 意識して壊しているの
 ではないでしょうね
 +[FID:7F, TEXT:000A] 
 +[FID:7F, TEXT:000B] 
 
---- Group 5 [right:none next=2012] ---
+--- Group [right:none next=2012] ---
 悪魔を召喚することが
 結果としてこうなって
 いるだけです
@@ -36,15 +36,15 @@
 +[FID:7F, TEXT:000D] 
 +[FID:7F, TEXT:000E] 
 
---- Group 6 [right:none next=2012] ---
+--- Group [right:none next=2012] ---
 ・・・おかしいわね
 +[FID:7F, TEXT:000F] 
 
---- Group 7 [left:none next=2012] ---
+--- Group [left:none next=2012] ---
 え？
 +[FID:7F, TEXT:0010] 
 
---- Group 8 [right:none next=2012] ---
+--- Group [right:none next=2012] ---
 黒装束の召喚師たちは
 結界のことに気づいて
 いないのかしら？
@@ -52,7 +52,7 @@
 +[FID:7F, TEXT:0012] 
 +[FID:7F, TEXT:0013] 
 
---- Group 9 [right:拉姆达 next=2012] ---
+--- Group [right:拉姆达 next=2012] ---
 いや、むしろ俺には
 知っていてバノッサの
 好きにさせているよう
@@ -62,7 +62,7 @@
 +[FID:7F, TEXT:0016] 
 +[FID:7F, TEXT:0017] 
 
---- Group 10 [left:洛卡斯 next=2012] ---
+--- Group [left:洛卡斯 next=2012] ---
 待てよ
 それじゃ、黒装束たち
 は結界を壊そうとして
@@ -72,7 +72,7 @@
 -[FID:7F, TEXT:0008] 
 +[FID:7F, TEXT:001A] 
 
---- Group 11 [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---
 そんなことして
 なんの得にもならない
 じゃないですか・・・
@@ -80,13 +80,13 @@
 +[FID:7F, TEXT:002C] 
 +[FID:7F, TEXT:002D] 
 
---- Group 12 [left:洛卡斯 next=2012] ---
+--- Group [left:洛卡斯 next=2012] ---
 そんなことして
 何の得があるんだ！？
 -[FID:7F, TEXT:001B] 
 +[FID:7F, TEXT:001C] 
 
---- Group 13 [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---
 そうだよ
 結界が壊れたら、この
 世界が滅びるかもしれ
@@ -96,7 +96,7 @@
 +[FID:7F, TEXT:001F] 
 +[FID:7F, TEXT:0020] 
 
---- Group 14 [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---
 どういうことなんだ
 結界が壊れたら、この
 世界が滅びてしまうの
@@ -106,7 +106,7 @@
 +[FID:7F, TEXT:0022] 
 +[FID:7F, TEXT:0023] 
 
---- Group 15 [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---
 結界が壊れたら
 この世界も滅びるかも
 知れないんでしょ
@@ -116,7 +116,7 @@
 +[FID:7F, TEXT:0026] 
 +[FID:7F, TEXT:0027] 
 
---- Group 16 [left:主人公 next=2012] ---
+--- Group [left:主人公 next=2012] ---
 そうですよ！
 結界が壊れたら、
 この世界が滅びるかも
@@ -126,33 +126,33 @@
 +[FID:7F, TEXT:002A] 
 +[FID:7F, TEXT:002B] 
 
---- Group 17 [right:索尔 next=2012] ---
+--- Group [right:索尔 next=2012] ---
 滅ぼす気でいると
 したら？
 +[FID:7F, TEXT:002E] 
 +[FID:7F, TEXT:002F] 
 
---- Group 18 [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---
 ・・・！？
 +[FID:7F, TEXT:0030] 
 
---- Group 19 [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---
 ちょっと！
 どういう・・・！？
 +[FID:7F, TEXT:0031] 
 +[FID:7F, TEXT:0032] 
 
---- Group 20 [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---
 え・・・？
 +[FID:7F, TEXT:0033] 
 
---- Group 21 [left:吉布森 next=2012] ---
+--- Group [left:吉布森 next=2012] ---
 馬鹿な・・・
 いくらなんでも・・・
 +[FID:7F, TEXT:0034] 
 +[FID:7F, TEXT:0035] 
 
---- Group 22 [right:加泽尔 next=2012] ---
+--- Group [right:加泽尔 next=2012] ---
 ケッ！
 奴らが何を企んでいよ
 うが、宝玉を取り返せ
@@ -162,13 +162,13 @@
 +[FID:7F, TEXT:0038] 
 +[FID:7F, TEXT:0039] 
 
---- Group 23 [right:加泽尔 next=2012] ---
+--- Group [right:加泽尔 next=2012] ---
 早いとこ、バノッサの
 いる城へ行こうぜ！！
 +[FID:7F, TEXT:003A] 
 +[FID:7F, TEXT:003B] 
 
---- Group 24 [right:加泽尔 next=0026] ---
+--- Group [right:加泽尔 next=0026] ---
 【自分の部屋】
 
 

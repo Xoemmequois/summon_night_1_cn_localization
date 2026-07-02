@@ -1,10 +1,10 @@
---- Group 1 [right:艾多斯 next=2012] ---
+--- Group [right:艾多斯 next=2012] ---
 リプレたちだけに留守
 を任せて大丈夫かな
 +[FID:18, TEXT:0001] 
 +[FID:18, TEXT:0002] 
 
---- Group 3 [left:加泽尔 next=2012] ---
+--- Group [left:加泽尔 next=2012] ---
 心配ねえよ
 あいつなら何かあって
 もうまくやれるさ
@@ -12,7 +12,7 @@
 +[FID:18, TEXT:0004] 
 +[FID:18, TEXT:0005] 
 
---- Group 4 [right:艾多斯 next=2012] ---
+--- Group [right:艾多斯 next=2012] ---
 まあ、確かにお前さん
 よりは何倍もしっかり
 しとるがな
@@ -20,23 +20,23 @@
 +[FID:18, TEXT:0007] 
 +[FID:18, TEXT:0008] 
 
---- Group 5 [left:加泽尔 next=2012] ---
+--- Group [left:加泽尔 next=2012] ---
 ・・・なんだよ、それ
 +[FID:18, TEXT:0009] 
 
---- Group 6 [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---
 あははは
 +[FID:18, TEXT:000A] 
 
---- Group 7 [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---
 ははは
 +[FID:18, TEXT:000B] 
 
---- Group 8 [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---
 ふふふ
 +[FID:18, TEXT:000C] 
 
---- Group 9 [right:雷德 next=2012] ---
+--- Group [right:雷德 next=2012] ---
 まあ、一緒に連れてい
 くほうが、間違いなく
 危険だからな
@@ -44,7 +44,7 @@
 +[FID:18, TEXT:000E] 
 +[FID:18, TEXT:000F] 
 
---- Group 10 [right:艾多斯 next=2012] ---
+--- Group [right:艾多斯 next=2012] ---
 ああ・・・
 外にゃあ【はぐれ】も
 出るしなぁ
@@ -52,23 +52,23 @@
 +[FID:18, TEXT:0011] 
 +[FID:18, TEXT:0012] 
 
---- Group 11 [left:主人公 next=2012] ---
+--- Group [left:主人公 next=2012] ---
 【はぐれ】？
 +[FID:18, TEXT:0013] 
 
---- Group 12 [right:加泽尔 next=2012] ---
+--- Group [right:加泽尔 next=2012] ---
 ま、化け物ってヤツだ
 +[FID:18, TEXT:0014] 
 
---- Group 13 [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---
 ええっ！？
 +[FID:18, TEXT:0015] 
 
---- Group 14 [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---
 化け物！？
 +[FID:18, TEXT:0016] 
 
---- Group 15 [right:艾多斯 next=2012] ---
+--- Group [right:艾多斯 next=2012] ---
 ははは、滅多なことで
 は出くわさんよ
 心配せんでいい
@@ -76,7 +76,7 @@
 +[FID:18, TEXT:0018] 
 +[FID:18, TEXT:0019] 
 
---- Group 16 [right:雷德 next=2012] ---
+--- Group [right:雷德 next=2012] ---
 だが、用心するに越し
 たことはない
 それなりの準備をして
@@ -86,17 +86,17 @@
 +[FID:18, TEXT:001C] 
 +[FID:18, TEXT:001D] 
 
---- Group 17 [right:雷德 next=2012] ---
+--- Group [right:雷德 next=2012] ---
 支度がすんだら、また
 【玄関】に集合だ
 +[FID:18, TEXT:001E] 
 +[FID:18, TEXT:001F] 
 
---- Group 18 [right:雷德 next=2012] ---
+--- Group [right:雷德 next=2012] ---
 ん、どうかしたのか？
 +[FID:18, TEXT:0020] 
 
---- Group 22 [left:none next=0023] ---
+--- Group [left:none next=0023] ---
 あの・・・
 さっきの【はぐれ】っ
 て・・・どんなヤツ
@@ -106,7 +106,7 @@
 +[FID:18, TEXT:0023] 
 +[FID:18, TEXT:0024] 
 
---- Group 23 [left:none next=0023] ---
+--- Group [left:none next=0023] ---
 あの・・・
 さっきの【はぐれ】っ
 て・・・どんなの
@@ -116,7 +116,7 @@
 +[FID:18, TEXT:0029] 
 +[FID:18, TEXT:002A] 
 
---- Group 30 [left:none next=0023] ---
+--- Group [left:none next=0023] ---
 いえ・・・
 さっきの【はぐれ】
 って・・・どんな
@@ -126,7 +126,7 @@
 +[FID:18, TEXT:0027] 
 +[FID:18, TEXT:0028] 
 
---- Group 34 [right:none next=2012] ---
+--- Group [right:none next=2012] ---
 【はぐれ】というのは
 【はぐれ召喚獣】を略
 した言葉だよ
@@ -134,7 +134,7 @@
 +[FID:18, TEXT:002C] 
 +[FID:18, TEXT:002D] 
 
---- Group 38 [right:none next=2012] ---
+--- Group [right:none next=2012] ---
 召喚師の手から逃げた
 召喚獣が、野生化して
 な・・・人を襲ったり
@@ -144,11 +144,11 @@
 +[FID:18, TEXT:0030] 
 +[FID:18, TEXT:0031] 
 
---- Group 42 [right:none next=2012] ---
+--- Group [right:none next=2012] ---
 ・・・
 +[FID:18, TEXT:0032] 
 
---- Group 50 [right:雷德 next=2012] ---
+--- Group [right:雷德 next=2012] ---
 まあ、出かける場所が
 場所だからな
 山奥とかにでも行かん
@@ -158,13 +158,13 @@
 +[FID:18, TEXT:0035] 
 +[FID:18, TEXT:0036] 
 
---- Group 54 [right:none next=0023] ---
+--- Group [right:none next=0023] ---
 男だけで集まって、何
 をするつもりなの！？
 +[FID:18, TEXT:0037] 
 +[FID:18, TEXT:0038] 
 
---- Group 58 [right:雷德 next=2012] ---
+--- Group [right:雷德 next=2012] ---
 お姉ちゃんたちだけで
 集まって、何を
 するつもりなの！？
@@ -172,15 +172,15 @@
 +[FID:18, TEXT:003A] 
 +[FID:18, TEXT:003B] 
 
---- Group 62 [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---
 へ？
 +[FID:18, TEXT:003C] 
 
---- Group 66 [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---
 え？
 +[FID:18, TEXT:003D] 
 
---- Group 70 [right:none next=0023] ---
+--- Group [right:none next=0023] ---
 あーっ！きっと
 女の子が絶対にいけ
 ない楽しい場所にいく
@@ -190,7 +190,7 @@
 +[FID:18, TEXT:0040] 
 +[FID:18, TEXT:0041] 
 
---- Group 74 [right:none next=2012] ---
+--- Group [right:none next=2012] ---
 あー、
 あたしたちに内緒で
 楽しい場所に
@@ -200,7 +200,7 @@
 +[FID:18, TEXT:0044] 
 +[FID:18, TEXT:0045] 
 
---- Group 78 [left:none next=0023] ---
+--- Group [left:none next=0023] ---
 おいおい・・・
 俺たちは荒野に行くん
 だって言ったろ？
@@ -208,7 +208,7 @@
 +[FID:18, TEXT:0047] 
 +[FID:18, TEXT:0048] 
 
---- Group 82 [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---
 それはフィズの
 考えすぎだよ
 僕らは荒野に行くだけ
@@ -218,7 +218,7 @@
 +[FID:18, TEXT:004B] 
 +[FID:18, TEXT:004C] 
 
---- Group 86 [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---
 え〜とねぇ・・・
 あたしたちは荒野に
 行くだけなの
@@ -226,7 +226,7 @@
 +[FID:18, TEXT:004E] 
 +[FID:18, TEXT:004F] 
 
---- Group 90 [left:none next=0023] ---
+--- Group [left:none next=0023] ---
 あのね、フィズちゃん
 わたしたちは、
 荒野に行くの
@@ -234,13 +234,13 @@
 +[FID:18, TEXT:0051] 
 +[FID:18, TEXT:0052] 
 
---- Group 94 [right:雷德 next=2012] ---
+--- Group [right:雷德 next=2012] ---
 ふーんだ！
 信用できるもんですか
 +[FID:18, TEXT:0053] 
 +[FID:18, TEXT:0054] 
 
---- Group 98 [right:雷德 next=2012] ---
+--- Group [right:雷德 next=2012] ---
 身の潔白をしょーめい
 したかったら、あたし
 も連れてくことね！
@@ -248,31 +248,31 @@
 +[FID:18, TEXT:0056] 
 +[FID:18, TEXT:0057] 
 
---- Group 102 [left:none next=0023] ---
+--- Group [left:none next=0023] ---
 ・・・だーめ！
 +[FID:18, TEXT:0058] 
 
---- Group 106 [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---
 その手にはのらないよ
 +[FID:18, TEXT:0059] 
 
---- Group 110 [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---
 ・・・だめ
 +[FID:18, TEXT:005A] 
 
---- Group 114 [right:none next=2012] ---
+--- Group [right:none next=2012] ---
 ・・・ケチっ！！
 +[FID:18, TEXT:005B] 
 
---- Group 118 [right:none next=2012] ---
+--- Group [right:none next=2012] ---
 準備はできたかい？
 +[FID:18, TEXT:005C] 
 
---- Group 122 [right:雷德 next=0023] ---
+--- Group [right:雷德 next=0023] ---
 どうしよう？
 +[FID:18, TEXT:005D] 
 
---- Group 123 [left:主人公 next=2015] ---
+--- Group [left:主人公 next=2015] ---
 どうしよう？
 　やめておく
 　魚釣りをする
@@ -280,83 +280,83 @@
 +[FID:18, TEXT:00C5] 
 +[FID:18, TEXT:00C6] 
 
---- Group 128 [right:none next=0023] ---
+--- Group [right:none next=0023] ---
 　まだです
 　はい
 +[FID:18, TEXT:005E] 
 +[FID:18, TEXT:0061] 
 
---- Group 130 [right:none next=0023] ---
+--- Group [right:none next=0023] ---
 　まだです
 　は〜い！
 -[FID:18, TEXT:005E] 
 +[FID:18, TEXT:0060] 
 
---- Group 132 [right:雷德 next=0023] ---
+--- Group [right:雷德 next=0023] ---
 　まだです
 　できました
 -[FID:18, TEXT:005E] 
 +[FID:18, TEXT:005F] 
 
---- Group 140 [right:none next=2012] ---
+--- Group [right:none next=2012] ---
 それじゃ
 行くとしようか
 +[FID:18, TEXT:0062] 
 +[FID:18, TEXT:0063] 
 
---- Group 144 [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---
 すいません
 まだちょっと・・・
 +[FID:18, TEXT:0064] 
 +[FID:18, TEXT:0065] 
 
---- Group 148 [left:none next=0023] ---
+--- Group [left:none next=0023] ---
 ごめんなさい！
 まだちょっと・・・
 +[FID:18, TEXT:0066] 
 -[FID:18, TEXT:0065] 
 
---- Group 152 [right:雷德 next=2012] ---
+--- Group [right:雷德 next=2012] ---
 そうか
 +[FID:18, TEXT:0067] 
 
---- Group 156 [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---
 留守番なんて頼んじゃ
 って、ごめんなさいね
 +[FID:18, TEXT:0068] 
 +[FID:18, TEXT:006E] 
 
---- Group 157 [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---
 留守番なんて頼んじゃ
 って悪いな
 -[FID:18, TEXT:0068] 
 +[FID:18, TEXT:0069] 
 
---- Group 164 [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---
 留守番なんて
 頼んじゃって悪いな
 +[FID:18, TEXT:006A] 
 +[FID:18, TEXT:006B] 
 
---- Group 168 [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---
 留守番頼んじゃって
 ごめんね！
 +[FID:18, TEXT:006C] 
 +[FID:18, TEXT:006D] 
 
---- Group 172 [right:none next=2012] ---
+--- Group [right:none next=2012] ---
 いいのよ
 それより気をつけてね
 +[FID:18, TEXT:006F] 
 +[FID:18, TEXT:0070] 
 
---- Group 176 [right:none next=2012] ---
+--- Group [right:none next=2012] ---
 留守のことは任せて
 いってらっしゃい
 +[FID:18, TEXT:007C] 
 +[FID:18, TEXT:007D] 
 
---- Group 180 [right:雷德 next=0023] ---
+--- Group [right:雷德 next=0023] ---
 兄ちゃん達が
 出かけてる間は、
 おいらがここを守る！
@@ -364,7 +364,7 @@
 +[FID:18, TEXT:007F] 
 +[FID:18, TEXT:0080] 
 
---- Group 184 [right:none next=2012] ---
+--- Group [right:none next=2012] ---
 姉ちゃん達が
 出かけてる間は、
 おいらがここを守る！
@@ -372,57 +372,57 @@
 -[FID:18, TEXT:007F] 
 -[FID:18, TEXT:0080] 
 
---- Group 188 [right:none next=2012] ---
+--- Group [right:none next=2012] ---
 留守は任せてよ！！
 +[FID:18, TEXT:0082] 
 
---- Group 192 [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---
 ああ、頼んだぞ？
 +[FID:18, TEXT:0083] 
 
---- Group 196 [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---
 ああ、頼んだよ
 +[FID:18, TEXT:0084] 
 
---- Group 200 [left:none next=0023] ---
+--- Group [left:none next=0023] ---
 うん、おねがいね〜！
 +[FID:18, TEXT:0085] 
 
---- Group 204 [left:none next=0023] ---
+--- Group [left:none next=0023] ---
 ええ、お願いね
 +[FID:18, TEXT:0086] 
 
---- Group 208 [right:雷德 next=2012] ---
+--- Group [right:雷德 next=2012] ---
 あ・・・
 +[FID:18, TEXT:0087] 
 
---- Group 212 [left:主人公 next=2012] ---
+--- Group [left:主人公 next=2012] ---
 ラミちゃん
 留守番お願いするね？
 +[FID:18, TEXT:0088] 
 +[FID:18, TEXT:0089] 
 
---- Group 216 [right:none next=2012] ---
+--- Group [right:none next=2012] ---
 ・・・（こくん）
 +[FID:18, TEXT:008A] 
 
---- Group 220 [right:none next=2012] ---
+--- Group [right:none next=2012] ---
 きをつけて、ね
 +[FID:18, TEXT:0091] 
 
---- Group 224 [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---
 どうかしたのか？
 +[FID:18, TEXT:0092] 
 
---- Group 228 [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---
 どうしたの？
 +[FID:18, TEXT:0093] 
 
---- Group 232 [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---
 どうかしました？
 +[FID:18, TEXT:0094] 
 
---- Group 236 [right:雷德 next=2012] ---
+--- Group [right:雷德 next=2012] ---
 あ、あぁ・・・
 やたらと鼻がむずむず
 するんだよ
@@ -430,25 +430,25 @@
 +[FID:18, TEXT:0096] 
 +[FID:18, TEXT:0097] 
 
---- Group 240 [left:none next=0023] ---
+--- Group [left:none next=0023] ---
 カゼじゃないのか？
 +[FID:18, TEXT:0098] 
 
---- Group 244 [left:none next=0023] ---
+--- Group [left:none next=0023] ---
 カゼ？
 +[FID:18, TEXT:0099] 
 
---- Group 245 [left:none next=0023] ---
+--- Group [left:none next=0023] ---
 カゼ？
 それとも乾いてる？
 -[FID:18, TEXT:0099] 
 +[FID:18, TEXT:009A] 
 
---- Group 252 [right:none next=2012] ---
+--- Group [right:none next=2012] ---
 そんならいいけどよ
 +[FID:18, TEXT:009B] 
 
---- Group 256 [right:雷德 next=2012] ---
+--- Group [right:雷德 next=2012] ---
 虫の知らせってのか？
 俺はあれが、鼻にくる
 んだよ
@@ -456,57 +456,57 @@
 +[FID:18, TEXT:009D] 
 +[FID:18, TEXT:009E] 
 
---- Group 260 [right:none next=2012] ---
+--- Group [right:none next=2012] ---
 ほんとにカゼだったら
 いいんだがな
 +[FID:18, TEXT:009F] 
 +[FID:18, TEXT:00A0] 
 
---- Group 264 [left:主人公 next=2012] ---
+--- Group [left:主人公 next=2012] ---
 ・・・気のせいかな？
 +[FID:18, TEXT:00A1] 
 
---- Group 266 [left:主人公 next=2012] ---
+--- Group [left:主人公 next=2012] ---
 いつもと比べて、
 今日は静かな気がする
 +[FID:18, TEXT:00A2] 
 +[FID:18, TEXT:00A3] 
 
---- Group 268 [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---
 朝だから、なのかな？
 +[FID:18, TEXT:00A4] 
 
---- Group 270 [left:主人公 next=2012] ---
+--- Group [left:主人公 next=2012] ---
 いつもと比べて、今日
 は静かな気がする
 +[FID:18, TEXT:00A5] 
 +[FID:18, TEXT:00A6] 
 
---- Group 272 [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---
 まあ、朝だからかな
 +[FID:18, TEXT:00A7] 
 
---- Group 274 [left:主人公 next=2012] ---
+--- Group [left:主人公 next=2012] ---
 なんか、いつもよりも
 静か・・・
 +[FID:18, TEXT:00A8] 
 +[FID:18, TEXT:00A9] 
 
---- Group 276 [left:主人公 next=2012] ---
+--- Group [left:主人公 next=2012] ---
 ・・・気のせい？
 +[FID:18, TEXT:00AA] 
 
---- Group 278 [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---
 朝だから、なの？
 +[FID:18, TEXT:00AB] 
 
---- Group 280 [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---
 また、魚でも釣って
 みるかな？
 +[FID:18, TEXT:00AC] 
 +[FID:18, TEXT:00AF] 
 
---- Group 281 [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---
 また、魚でも釣って
 リプレを喜ばせて
 やろうかな？
@@ -514,13 +514,13 @@
 +[FID:18, TEXT:00AD] 
 +[FID:18, TEXT:00AE] 
 
---- Group 284 [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---
 うーん
 魚釣りねぇ・・・
 +[FID:18, TEXT:00B0] 
 +[FID:18, TEXT:00B1] 
 
---- Group 286 [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---
 また、魚を
 釣って帰ったら
 リプレさん
@@ -530,7 +530,7 @@
 +[FID:18, TEXT:00B4] 
 +[FID:18, TEXT:00B5] 
 
---- Group 288 [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---
 あれ？
 釣りの餌がない・・・
 これじゃあ釣りは
@@ -540,7 +540,7 @@
 +[FID:18, TEXT:00B8] 
 +[FID:18, TEXT:00B9] 
 
---- Group 290 [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---
 でも、まずは
 釣りの餌を探さないと
 いけないみたいだな
@@ -548,7 +548,7 @@
 +[FID:18, TEXT:00BB] 
 +[FID:18, TEXT:00BC] 
 
---- Group 292 [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---
 うーん・・・
 餌がないみたい
 さすがにこれじゃあ
@@ -558,7 +558,7 @@
 +[FID:18, TEXT:00BF] 
 +[FID:18, TEXT:00C0] 
 
---- Group 294 [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---
 でも・・・
 釣りの餌がないわね
 餌を探さなくては
@@ -568,13 +568,13 @@
 +[FID:18, TEXT:00C3] 
 +[FID:18, TEXT:00C4] 
 
---- Group 296 [right:雷德 next=0023] ---
+--- Group [right:雷德 next=0023] ---
 気にしなくていいって
 こういう時もあるわ
 +[FID:18, TEXT:00C7] 
 +[FID:18, TEXT:00C8] 
 
---- Group 300 [right:雷德 next=2012] ---
+--- Group [right:雷德 next=2012] ---
 また何か釣れた時は
 私のところに
 もってきてね
@@ -582,7 +582,7 @@
 +[FID:18, TEXT:00D9] 
 +[FID:18, TEXT:00DA] 
 
---- Group 304 [right:雷德 next=2012] ---
+--- Group [right:雷德 next=2012] ---
 腕によりをかけて
 おいしい料理を作って
 あげるから、ね？
@@ -590,7 +590,7 @@
 +[FID:18, TEXT:00DC] 
 +[FID:18, TEXT:00DD] 
 
---- Group 308 [left:none next=0026] ---
+--- Group [left:none next=0026] ---
 【自分の部屋】
 
 

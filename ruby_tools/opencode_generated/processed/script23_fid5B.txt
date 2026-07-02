@@ -1,28 +1,28 @@
---- Group 1 [left:none next=0023] ---
+--- Group [left:none next=0023] ---
 しかしまた、ずいぶん
 と買いこんだね
 +[FID:5B, TEXT:0001] 
 +[FID:5B, TEXT:0003] 
 
---- Group 2 [left:none next=0023] ---
+--- Group [left:none next=0023] ---
 しかしまた、ずいぶん
 と買いこんだよなあ
 -[FID:5B, TEXT:0001] 
 +[FID:5B, TEXT:0002] 
 
---- Group 3 [left:none next=0023] ---
+--- Group [left:none next=0023] ---
 なんか、すごく
 たくさん買ったね
 +[FID:5B, TEXT:0004] 
 +[FID:5B, TEXT:0005] 
 
---- Group 4 [left:none next=0023] ---
+--- Group [left:none next=0023] ---
 でも、ずいぶんと
 買いこみましたね
 +[FID:5B, TEXT:0006] 
 +[FID:5B, TEXT:0007] 
 
---- Group 5 [right:none next=2012] ---
+--- Group [right:none next=2012] ---
 大人数になったぶん、
 こうやってまとめ買い
 して節約しないとね
@@ -30,7 +30,7 @@
 +[FID:5B, TEXT:0009] 
 +[FID:5B, TEXT:000A] 
 
---- Group 6 [right:none next=2012] ---
+--- Group [right:none next=2012] ---
 自分のお腹に
 入るものなんだから、
 がんばれるでしょ？
@@ -38,23 +38,23 @@
 +[FID:5B, TEXT:000C] 
 +[FID:5B, TEXT:000D] 
 
---- Group 7 [left:none next=0023] ---
+--- Group [left:none next=0023] ---
 とほほ・・・
 +[FID:5B, TEXT:000E] 
 
---- Group 8 [left:none next=0023] ---
+--- Group [left:none next=0023] ---
 まあ、ね
 +[FID:5B, TEXT:000F] 
 
---- Group 9 [left:none next=0023] ---
+--- Group [left:none next=0023] ---
 あ、それを言われると
 +[FID:5B, TEXT:0010] 
 
---- Group 10 [left:none next=2012] ---
+--- Group [left:none next=2012] ---
 そうですね・・・
 +[FID:5B, TEXT:0011] 
 
---- Group 11 [left:none next=0023] ---
+--- Group [left:none next=0023] ---
 あんまり、食べる方
 だとは、思わないの
 だけれど・・・
@@ -62,7 +62,7 @@
 +[FID:5B, TEXT:0013] 
 +[FID:5B, TEXT:0014] 
 
---- Group 12 [left:none next=2012] ---
+--- Group [left:none next=2012] ---
 おいおい、坊主
 今から女の尻に
 しかれてんのか？
@@ -70,7 +70,7 @@
 +[FID:5B, TEXT:0016] 
 +[FID:5B, TEXT:0017] 
 
---- Group 13 [left:none next=2012] ---
+--- Group [left:none next=2012] ---
 おやおや
 仲良くお買い物でも
 してきたのかい？
@@ -78,19 +78,19 @@
 +[FID:5B, TEXT:0019] 
 +[FID:5B, TEXT:001A] 
 
---- Group 14 [left:none next=0023] ---
+--- Group [left:none next=0023] ---
 この声は・・・
 +[FID:5B, TEXT:001B] 
 
---- Group 15 [left:none next=0023] ---
+--- Group [left:none next=0023] ---
 この声・・・？
 +[FID:5B, TEXT:001C] 
 
---- Group 16 [left:none next=0023] ---
+--- Group [left:none next=0023] ---
 どうしよう？
 +[FID:5B, TEXT:001D] 
 
---- Group 19 [right:斯塔乌特 next=2015] ---
+--- Group [right:斯塔乌特 next=2015] ---
 どうしよう？
 　自分がついていく
 　レイドに選ばせる
@@ -98,61 +98,61 @@
 +[FID:5B, TEXT:0099] 
 +[FID:5B, TEXT:009A] 
 
---- Group 20 [left:none next=0023] ---
+--- Group [left:none next=0023] ---
 　スタウトか！？
 　姿を見せろっ！
 +[FID:5B, TEXT:001E] 
 +[FID:5B, TEXT:001F] 
 
---- Group 21 [left:none next=0023] ---
+--- Group [left:none next=0023] ---
 　スタウト！？
 　姿を見せなさい！
 +[FID:5B, TEXT:0020] 
 +[FID:5B, TEXT:0021] 
 
---- Group 22 [left:none next=0023] ---
+--- Group [left:none next=0023] ---
 　スタウトさん？
 　誰ですか？
 +[FID:5B, TEXT:0022] 
 +[FID:5B, TEXT:0023] 
 
---- Group 23 [left:none next=0023] ---
+--- Group [left:none next=0023] ---
 スタウトか！？
 +[FID:5B, TEXT:0024] 
 
---- Group 24 [left:none next=0023] ---
+--- Group [left:none next=0023] ---
 スタウト！？
 +[FID:5B, TEXT:0025] 
 
---- Group 25 [left:none next=0023] ---
+--- Group [left:none next=0023] ---
 スタウトさん？
 +[FID:5B, TEXT:0026] 
 
---- Group 26 [right:斯塔乌特 next=2012] ---
+--- Group [right:斯塔乌特 next=2012] ---
 へへへっ
 大当たりってかぁ
 +[FID:5B, TEXT:0027] 
 +[FID:5B, TEXT:0028] 
 
---- Group 27 [right:斯塔乌特 next=2012] ---
+--- Group [right:斯塔乌特 next=2012] ---
 うそ・・・
 屋根の上にいたなんて
 +[FID:5B, TEXT:0029] 
 +[FID:5B, TEXT:002A] 
 
---- Group 28 [left:none next=0023] ---
+--- Group [left:none next=0023] ---
 姿を見せろっ！
 +[FID:5B, TEXT:002B] 
 
---- Group 29 [left:none next=0023] ---
+--- Group [left:none next=0023] ---
 姿を見せなさい！
 +[FID:5B, TEXT:002C] 
 
---- Group 30 [left:none next=0023] ---
+--- Group [left:none next=0023] ---
 誰ですか！？
 +[FID:5B, TEXT:002D] 
 
---- Group 31 [left:斯塔乌特 next=2012] ---
+--- Group [left:斯塔乌特 next=2012] ---
 別に怒鳴らなくたって
 いいだろ・・・
 あんたの真後ろに
@@ -162,35 +162,35 @@
 +[FID:5B, TEXT:0030] 
 +[FID:5B, TEXT:0031] 
 
---- Group 32 [right:none next=2012] ---
+--- Group [right:none next=2012] ---
 きゃっ！？
 +[FID:5B, TEXT:0032] 
 
---- Group 33 [right:none next=2012] ---
+--- Group [right:none next=2012] ---
 へへへっ、悪いな
 悪趣味な登場でよ
 +[FID:5B, TEXT:0033] 
 +[FID:5B, TEXT:0034] 
 
---- Group 34 [left:none next=0023] ---
+--- Group [left:none next=0023] ---
 俺に何の用だ？
 +[FID:5B, TEXT:0035] 
 
---- Group 36 [left:none next=0023] ---
+--- Group [left:none next=0023] ---
 僕に何の用だ？
 +[FID:5B, TEXT:0036] 
 
---- Group 37 [left:none next=0023] ---
+--- Group [left:none next=0023] ---
 何の用？
 こっちは忙しいの！
 +[FID:5B, TEXT:0037] 
 +[FID:5B, TEXT:0038] 
 
---- Group 38 [left:none next=0023] ---
+--- Group [left:none next=0023] ---
 なんでしょうか？
 +[FID:5B, TEXT:0039] 
 
---- Group 39 [right:斯塔乌特 next=0023] ---
+--- Group [right:斯塔乌特 next=0023] ---
 そうとんがるなって
 坊主たちをどうこうし
 ようってんじゃねえよ
@@ -198,7 +198,7 @@
 +[FID:5B, TEXT:003B] 
 +[FID:5B, TEXT:003C] 
 
---- Group 40 [right:斯塔乌特 next=2012] ---
+--- Group [right:斯塔乌特 next=2012] ---
 そうとんがるなって
 嬢ちゃん達をどうこう
 しようってんじゃ
@@ -208,27 +208,27 @@
 +[FID:5B, TEXT:003E] 
 +[FID:5B, TEXT:003F] 
 
---- Group 42 [right:斯塔乌特 next=2012] ---
+--- Group [right:斯塔乌特 next=2012] ---
 用事があるのはな
 あのレイドって野郎だ
 +[FID:5B, TEXT:0040] 
 +[FID:5B, TEXT:0041] 
 
---- Group 44 [left:none next=0023] ---
+--- Group [left:none next=0023] ---
 レイドに・・・
 +[FID:5B, TEXT:0042] 
 
---- Group 46 [left:none next=0023] ---
+--- Group [left:none next=0023] ---
 レイドに？
 なんで？
 +[FID:5B, TEXT:0043] 
 +[FID:5B, TEXT:0044] 
 
---- Group 47 [left:none next=0023] ---
+--- Group [left:none next=0023] ---
 レイドさんですか？
 +[FID:5B, TEXT:0045] 
 
---- Group 48 [right:none next=2012] ---
+--- Group [right:none next=2012] ---
 俺は臆病者だからな
 お前らのねぐらに入る
 度胸はねえんだよ
@@ -236,59 +236,59 @@
 +[FID:5B, TEXT:0047] 
 +[FID:5B, TEXT:0048] 
 
---- Group 50 [right:none next=2012] ---
+--- Group [right:none next=2012] ---
 悪いがよ、呼んできて
 くれねえか？
 +[FID:5B, TEXT:0049] 
 +[FID:5B, TEXT:004A] 
 
---- Group 52 [right:斯塔乌特 next=0023] ---
+--- Group [right:斯塔乌特 next=0023] ---
 　そこで待っててくれ
 　なんで俺が・・・
 +[FID:5B, TEXT:004B] 
 +[FID:5B, TEXT:004C] 
 
---- Group 53 [right:斯塔乌特 next=0023] ---
+--- Group [right:斯塔乌特 next=0023] ---
 　そこで待っててくれ
 　なんで僕が・・・
 -[FID:5B, TEXT:004B] 
 +[FID:5B, TEXT:004D] 
 
---- Group 55 [right:斯塔乌特 next=0023] ---
+--- Group [right:斯塔乌特 next=0023] ---
 　じゃあ、待ってて
 　なんであたしが？
 +[FID:5B, TEXT:004E] 
 +[FID:5B, TEXT:004F] 
 
---- Group 56 [right:斯塔乌特 next=0023] ---
+--- Group [right:斯塔乌特 next=0023] ---
 　まっててください
 　わたしがですか？
 +[FID:5B, TEXT:0050] 
 +[FID:5B, TEXT:0051] 
 
---- Group 57 [left:none next=0023] ---
+--- Group [left:none next=0023] ---
 そこで待っててくれ
 今、呼んでくる
 +[FID:5B, TEXT:0052] 
 +[FID:5B, TEXT:0053] 
 
---- Group 59 [left:none next=0023] ---
+--- Group [left:none next=0023] ---
 じゃあ、待っててよ
 今、呼んでくるからさ
 +[FID:5B, TEXT:0054] 
 +[FID:5B, TEXT:0055] 
 
---- Group 60 [left:none next=0023] ---
+--- Group [left:none next=0023] ---
 待っててください
 今、呼んできます
 +[FID:5B, TEXT:0056] 
 +[FID:5B, TEXT:0057] 
 
---- Group 61 [right:none next=2012] ---
+--- Group [right:none next=2012] ---
 おう、悪いな
 +[FID:5B, TEXT:0058] 
 
---- Group 63 [left:none next=0023] ---
+--- Group [left:none next=0023] ---
 なんで俺が、あんたの
 頼みを聞かなくちゃ
 ならないんだよ
@@ -296,7 +296,7 @@
 +[FID:5B, TEXT:005A] 
 +[FID:5B, TEXT:005B] 
 
---- Group 64 [left:none next=0023] ---
+--- Group [left:none next=0023] ---
 なんで僕が、お前の
 頼みを聞かなくちゃ
 ならないんだ
@@ -304,7 +304,7 @@
 -[FID:5B, TEXT:005A] 
 +[FID:5B, TEXT:005D] 
 
---- Group 65 [left:none next=0023] ---
+--- Group [left:none next=0023] ---
 なんであたしが？
 人にモノを頼む態度
 じゃないでしょ、それ
@@ -312,7 +312,7 @@
 +[FID:5B, TEXT:005F] 
 +[FID:5B, TEXT:0060] 
 
---- Group 66 [left:none next=0023] ---
+--- Group [left:none next=0023] ---
 わたしが、ですか？
 なぜです？
 理由がわかりません
@@ -320,17 +320,17 @@
 +[FID:5B, TEXT:0062] 
 +[FID:5B, TEXT:0063] 
 
---- Group 67 [right:斯塔乌特 next=0023] ---
+--- Group [right:斯塔乌特 next=0023] ---
 ・・・ケチな坊主だな
 +[FID:5B, TEXT:0064] 
 
---- Group 68 [right:斯塔乌特 next=2012] ---
+--- Group [right:斯塔乌特 next=2012] ---
 ・・・ケチな嬢ちゃん
 だな
 +[FID:5B, TEXT:0065] 
 +[FID:5B, TEXT:0066] 
 
---- Group 69 [left:none next=0023] ---
+--- Group [left:none next=0023] ---
 余計なお世話だ
 取り次ぎはするから、
 ついて来てくれ
@@ -338,7 +338,7 @@
 +[FID:5B, TEXT:0068] 
 +[FID:5B, TEXT:0069] 
 
---- Group 70 [left:none next=0023] ---
+--- Group [left:none next=0023] ---
 余計なお世話です〜！
 付いてきたら、用件の
 とりつぎくらいはして
@@ -348,23 +348,23 @@
 +[FID:5B, TEXT:006C] 
 +[FID:5B, TEXT:006D] 
 
---- Group 71 [left:none next=2012] ---
+--- Group [left:none next=2012] ---
 ・・・わかりました
 取り次ぎはします
 +[FID:5B, TEXT:006E] 
 +[FID:5B, TEXT:006F] 
 
---- Group 72 [left:none next=0023] ---
+--- Group [left:none next=0023] ---
 でも、レイドさんが
 来てくれるかは別です
 +[FID:5B, TEXT:0070] 
 +[FID:5B, TEXT:0071] 
 
---- Group 73 [right:斯塔乌特 next=2012] ---
+--- Group [right:斯塔乌特 next=2012] ---
 へいへい・・・
 +[FID:5B, TEXT:0072] 
 
---- Group 74 [right:艾多斯 next=2012] ---
+--- Group [right:艾多斯 next=2012] ---
 しかし、レイドは
 あの男と何を
 話しとるんだろうな
@@ -372,41 +372,41 @@
 +[FID:5B, TEXT:0074] 
 +[FID:5B, TEXT:0075] 
 
---- Group 75 [left:茜 next=2012] ---
+--- Group [left:茜 next=2012] ---
 なんなら、偵察
 してきたげよっか？
 +[FID:5B, TEXT:0076] 
 +[FID:5B, TEXT:0077] 
 
---- Group 76 [left:利布雷 next=2012] ---
+--- Group [left:利布雷 next=2012] ---
 盗み聞きはダメよ
 +[FID:5B, TEXT:0078] 
 
---- Group 77 [right:加泽尔 next=2012] ---
+--- Group [right:加泽尔 next=2012] ---
 ケッ・・・
 +[FID:5B, TEXT:0079] 
 
---- Group 78 [right:金加 next=2012] ---
+--- Group [right:金加 next=2012] ---
 あ、どうやら終わった
 みたいだぜ？
 +[FID:5B, TEXT:007A] 
 +[FID:5B, TEXT:007B] 
 
---- Group 79 [right:斯塔乌特 next=2012] ---
+--- Group [right:斯塔乌特 next=2012] ---
 邪魔したな
 +[FID:5B, TEXT:007C] 
 
---- Group 80 [left:莫纳蒂 next=2012] ---
+--- Group [left:莫纳蒂 next=2012] ---
 いえいえ、おかまいも
 せずに恐縮ですのー
 +[FID:5B, TEXT:007D] 
 +[FID:5B, TEXT:007E] 
 
---- Group 81 [left:主人公 next=2012] ---
+--- Group [left:主人公 next=2012] ---
 ・・・・・・
 +[FID:5B, TEXT:007F] 
 
---- Group 82 [right:雷德 next=2012] ---
+--- Group [right:雷德 next=2012] ---
 ラムダ先輩が
 会いたがってるらしい
 これから行って来るよ
@@ -414,7 +414,7 @@
 +[FID:5B, TEXT:0081] 
 +[FID:5B, TEXT:0082] 
 
---- Group 83 [left:洛卡斯 next=2012] ---
+--- Group [left:洛卡斯 next=2012] ---
 おいおい、まさか一人
 で行くつもりなんじゃ
 ないだろうな？
@@ -422,11 +422,11 @@
 +[FID:5B, TEXT:0084] 
 +[FID:5B, TEXT:0085] 
 
---- Group 84 [right:雷德 next=2012] ---
+--- Group [right:雷德 next=2012] ---
 そのつもりだよ
 +[FID:5B, TEXT:0086] 
 
---- Group 85 [left:加泽尔 next=2012] ---
+--- Group [left:加泽尔 next=2012] ---
 馬鹿いうなよ
 何があるか
 わかんないんだぜ！？
@@ -434,7 +434,7 @@
 +[FID:5B, TEXT:0088] 
 +[FID:5B, TEXT:0089] 
 
---- Group 86 [right:雷德 next=2012] ---
+--- Group [right:雷德 next=2012] ---
 心配しなくても、
 あの人はそんな
 卑怯なことはしないさ
@@ -442,31 +442,31 @@
 +[FID:5B, TEXT:008B] 
 +[FID:5B, TEXT:008C] 
 
---- Group 87 [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---
 それは、そうかもしれ
 ませんけど・・・
 +[FID:5B, TEXT:008D] 
 +[FID:5B, TEXT:0092] 
 
---- Group 88 [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---
 それは、そうかもしれ
 ないけど・・・
 -[FID:5B, TEXT:008D] 
 +[FID:5B, TEXT:008E] 
 
---- Group 89 [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---
 それは、そうかもしれ
 ないが・・・
 -[FID:5B, TEXT:008D] 
 +[FID:5B, TEXT:008F] 
 
---- Group 90 [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---
 そりゃ、
 そうだろうケド・・・
 +[FID:5B, TEXT:0090] 
 +[FID:5B, TEXT:0091] 
 
---- Group 91 [right:斯塔乌特 next=2012] ---
+--- Group [right:斯塔乌特 next=2012] ---
 そんなに心配だってん
 なら、誰か一緒に来て
 もかまわねえんだぞ
@@ -474,7 +474,7 @@
 +[FID:5B, TEXT:0094] 
 +[FID:5B, TEXT:0095] 
 
---- Group 92 [right:斯塔乌特 next=2012] ---
+--- Group [right:斯塔乌特 next=2012] ---
 こっちは別に後ろめた
 い用事があるわけじゃ
 ねえからな
@@ -482,60 +482,60 @@
 +[FID:5B, TEXT:0097] 
 +[FID:5B, TEXT:0098] 
 
---- Group 93 [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---
 俺が行くよ
 +[FID:5B, TEXT:009B] 
 
---- Group 94 [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---
 僕が行こう
 +[FID:5B, TEXT:009C] 
 
---- Group 95 [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---
 あたし、行くよ
 +[FID:5B, TEXT:009D] 
 
---- Group 96 [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---
 わたし、行きます
 +[FID:5B, TEXT:009E] 
 
---- Group 97 [right:雷德 next=2012] ---
+--- Group [right:雷德 next=2012] ---
 ・・・わかった
 そうしてもらおう
 +[FID:5B, TEXT:009F] 
 +[FID:5B, TEXT:00A0] 
 
---- Group 98 [right:加泽尔 next=2012] ---
+--- Group [right:加泽尔 next=2012] ---
 頼んだぜ？
 @ n 
 +[FID:5B, TEXT:00A1] 
 +[FID:5B, TEXT:00A2] 
 
---- Group 99 [left:雷德 next=2012] ---
+--- Group [left:雷德 next=2012] ---
 @ n 
 ついて来てくれるか？
 -[FID:5B, TEXT:00A2] 
 +[FID:5B, TEXT:00A7] 
 
---- Group 100 [left:雷德 next=2012] ---
+--- Group [left:雷德 next=2012] ---
 すまんな、スタウト
 余計な気をつかわせて
 +[FID:5B, TEXT:00A3] 
 +[FID:5B, TEXT:00A4] 
 
---- Group 101 [right:斯塔乌特 next=2012] ---
+--- Group [right:斯塔乌特 next=2012] ---
 ま、こいつらが
 疑うのも当然だろうさ
 +[FID:5B, TEXT:00A5] 
 +[FID:5B, TEXT:00A6] 
 
---- Group 102 [right:主人公 next=0023] ---
+--- Group [right:主人公 next=0023] ---
 ええ
 +[FID:5B, TEXT:00A8] 
 
---- Group 103 [right:主人公 next=0023] ---
+--- Group [right:主人公 next=0023] ---
 うん
 +[FID:5B, TEXT:00A9] 
 
---- Group 104 [right:主人公 next=0023] ---
+--- Group [right:主人公 next=0023] ---
 あ、はい
 +[FID:5B, TEXT:00AA] 

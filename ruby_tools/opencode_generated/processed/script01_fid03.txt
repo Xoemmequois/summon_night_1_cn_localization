@@ -1,4 +1,4 @@
---- Group 1 [right:克也 next=2012] ---G
+--- Group [right:克也 next=2012] ---G
 すいません
 エミと帰るところ
 だったのに
@@ -6,7 +6,7 @@
 +[FID:03, TEXT:0002] 我正要和绘美一起回去
 +[FID:03, TEXT:0003] 呢
 
---- Group 4 [right:克也 next=2012] ---G
+--- Group [right:克也 next=2012] ---G
 すいません
 カツヤと帰るところ
 だったのに
@@ -14,7 +14,7 @@
 +[FID:03, TEXT:0072] 我正要和克也一起回去
 -[FID:03, TEXT:0003] 呢
 
---- Group 8 [left:none next=2012] ---G
+--- Group [left:none next=2012] ---G
 気にしなくていいぜ
 とくに大事な用がある
 わけでもなかったし
@@ -22,19 +22,19 @@
 +[FID:03, TEXT:0005] 我也没什么特别重要的
 +[FID:03, TEXT:0006] 事情啦
 
---- Group 11 [left:none next=2012] ---G
+--- Group [left:none next=2012] ---G
 それよりどうした？
 悩みでもあるのか
 +[FID:03, TEXT:0007] 比起那个，你怎么了？
 +[FID:03, TEXT:0008] 是有什么烦恼吗？
 
---- Group 14 [left:none next=2012] ---G
+--- Group [left:none next=2012] ---G
 お金のこと以外なら
 相談にのるぜ！！
 +[FID:03, TEXT:0009] 除了钱以外的事情
 +[FID:03, TEXT:000A] 我都可以听你倾诉哦！
 
---- Group 17 [right:none next=2012] ---G
+--- Group [right:none next=2012] ---G
 ・・・
 誰にも言わないって
 約束してくれます？
@@ -42,7 +42,7 @@
 +[FID:03, TEXT:0076] 你能答应我
 +[FID:03, TEXT:0077] 不告诉任何人吗？
 
---- Group 18 [right:none next=2012] ---G
+--- Group [right:none next=2012] ---G
 ・・・
 でも、いざ告白しよう
 とすると、どうしても
@@ -52,7 +52,7 @@
 +[FID:03, TEXT:002C] 候不知道为什么就是没
 +[FID:03, TEXT:002D] 有勇气
 
---- Group 19 [right:克也 next=2012] ---G
+--- Group [right:克也 next=2012] ---G
 ・・・
 センパイがいつも貧乏
 なのは知ってますよ
@@ -60,11 +60,11 @@
 +[FID:03, TEXT:000C] 我知道前辈你总是很穷
 +[FID:03, TEXT:000D] 的啦
 
---- Group 31 [left:none next=2012] ---G
+--- Group [left:none next=2012] ---G
 ははは・・・
 +[FID:03, TEXT:000E] 哈哈哈……
 
---- Group 34 [right:none next=2012] ---G
+--- Group [right:none next=2012] ---G
 せんぱいのクラスに、
 図書委員のヒグチさん
 っていましたよね？
@@ -72,7 +72,7 @@
 +[FID:03, TEXT:0010] 图书委员的樋口同学
 +[FID:03, TEXT:0011] 在对吧？
 
---- Group 36 [right:none next=2012] ---G
+--- Group [right:none next=2012] ---G
 せんぱいのクラスに、
 バレー部のナツミさん
 っていますよね？
@@ -80,7 +80,7 @@
 +[FID:03, TEXT:0053] 排球部的夏美同学
 +[FID:03, TEXT:0054] 在对吧？
 
---- Group 40 [left:none next=2012] ---G
+--- Group [left:none next=2012] ---G
 ああ、しってるよ
 ヒグチ・・・アヤ・・
 だっけ？
@@ -88,7 +88,7 @@
 +[FID:03, TEXT:0013] 樋口……绫……是吧？
 +[FID:03, TEXT:0014] 
 
---- Group 43 [right:none next=2012] ---G
+--- Group [right:none next=2012] ---G
 はい・・・
 そのトウヤ先輩に
 私、告白したいなって
@@ -98,7 +98,7 @@
 +[FID:03, TEXT:007F] 告白呢
 +[FID:03, TEXT:0080] 
 
---- Group 44 [right:none next=2012] ---G
+--- Group [right:none next=2012] ---G
 はい・・・
 そのハヤト先輩に
 私、告白したいなって
@@ -108,7 +108,7 @@
 -[FID:03, TEXT:007F] 告白呢
 -[FID:03, TEXT:0080] 
 
---- Group 48 [right:none next=2012] ---G
+--- Group [right:none next=2012] ---G
 はい・・・
 その・・・じつは俺、
 アヤ先輩に告白しよう
@@ -118,7 +118,7 @@
 +[FID:03, TEXT:0017] 是想对绫前辈告白的
 +[FID:03, TEXT:0018] 
 
---- Group 54 [right:克也 next=2012] ---G
+--- Group [right:克也 next=2012] ---G
 その・・・じつは俺、
 ナツミ先輩のことが
 好きなんです
@@ -126,11 +126,11 @@
 +[FID:03, TEXT:0057] 是喜欢夏美前辈的
 +[FID:03, TEXT:0058] 
 
---- Group 57 [left:絵美 next=2012] ---G
+--- Group [left:絵美 next=2012] ---G
 ええ〜っ！？
 +[FID:03, TEXT:0019] 诶——！？
 
---- Group 64 [right:克也 next=2012] ---G
+--- Group [right:克也 next=2012] ---G
 そんなにおどろかなく
 たっていいじゃない
 ですかぁ！
@@ -138,7 +138,7 @@
 +[FID:03, TEXT:001B] 
 +[FID:03, TEXT:001C] 
 
---- Group 65 [right:克也 next=2012] ---G
+--- Group [right:克也 next=2012] ---G
 そんなにおどろかなく
 たっていいじゃないで
 すかぁ！
@@ -146,11 +146,11 @@
 +[FID:03, TEXT:0081] 
 +[FID:03, TEXT:0082] 
 
---- Group 71 [left:none next=2012] ---G
+--- Group [left:none next=2012] ---G
 あ、わりぃ・・・
 +[FID:03, TEXT:001D] 啊，抱歉…
 
---- Group 74 [right:克也 next=2012] ---G
+--- Group [right:克也 next=2012] ---G
 そりゃ、たしかに俺が
 ナツミ先輩にアタック
 するなんて無茶だって
@@ -160,7 +160,7 @@
 +[FID:03, TEXT:005B] 勉强的事情
 +[FID:03, TEXT:0021] 
 
---- Group 75 [right:none next=2012] ---G
+--- Group [right:none next=2012] ---G
 そりゃ、たしかに俺が
 お嬢様のアヤ先輩と
 つり合わないことは
@@ -170,13 +170,13 @@
 +[FID:03, TEXT:0020] 不般配这件事
 -[FID:03, TEXT:0021] 
 
---- Group 80 [right:none next=2012] ---G
+--- Group [right:none next=2012] ---G
 ライバルがいーっぱい
 いるのも知ってます
 +[FID:03, TEXT:0022] 我也知道有很多竞争对
 +[FID:03, TEXT:0023] 手呢
 
---- Group 87 [right:克也 next=2012] ---G
+--- Group [right:克也 next=2012] ---G
 でも、あきらめるのは
 アタックしてからでも
 いいって思いません？
@@ -184,7 +184,7 @@
 +[FID:03, TEXT:0025] 试过之后再放弃也不
 +[FID:03, TEXT:0026] 迟，你觉得呢？
 
---- Group 90 [left:none next=2012] ---G
+--- Group [left:none next=2012] ---G
 ああ、
 カツヤにしては前向き
 でいいんじゃないか？
@@ -194,19 +194,19 @@
 +[FID:03, TEXT:0029] 很积极了嘛？我对你刮
 +[FID:03, TEXT:002A] 目相看了
 
---- Group 96 [left:主人公 next=2012] ---G
+--- Group [left:主人公 next=2012] ---G
 なるほど、それで
 悩んでたって訳ね
 +[FID:03, TEXT:002E] 原来如此，所以
 +[FID:03, TEXT:008B] 你才一直在烦恼呀
 
---- Group 97 [left:none next=2012] ---G
+--- Group [left:none next=2012] ---G
 なるほど、それで
 悩んでたってわけか
 -[FID:03, TEXT:002E] 原来如此，所以
 +[FID:03, TEXT:002F] 你才一直在烦恼啊
 
---- Group 103 [right:克也 next=2012] ---G
+--- Group [right:克也 next=2012] ---G
 ねえ、センパイ
 あの人が誰かとつきあ
 ってる話とか、聞いて
@@ -216,7 +216,7 @@
 +[FID:03, TEXT:0032] 在和谁交往之类的
 +[FID:03, TEXT:0062] 传闻对吧！？
 
---- Group 104 [right:克也 next=2012] ---G
+--- Group [right:克也 next=2012] ---G
 ねえ、センパイ
 あの人が誰かとつきあ
 ってる話とか、聞いて
@@ -226,7 +226,7 @@
 -[FID:03, TEXT:0032] 在和谁交往之类的
 +[FID:03, TEXT:0033] 传闻吧！？
 
---- Group 107 [right:none next=2012] ---G
+--- Group [right:none next=2012] ---G
 ねえ、センパイ
 あの人が誰かとつき
 あってる話とか、聞い
@@ -236,7 +236,7 @@
 +[FID:03, TEXT:008D] 在和谁交往之类的
 +[FID:03, TEXT:008E] 传闻对不对！？
 
---- Group 113 [left:none next=2012] ---G
+--- Group [left:none next=2012] ---G
 悪いな
 俺、あんまりアイツと
 親しいわけじゃ
@@ -246,17 +246,17 @@
 +[FID:03, TEXT:0036] 呢
 +[FID:03, TEXT:0037] 
 
---- Group 116 [left:none next=2012] ---G
+--- Group [left:none next=2012] ---G
 ほら、性格なんかモロ
 に正反対っぽいだろ？
 +[FID:03, TEXT:0038] 你看，性格就完全是相
 +[FID:03, TEXT:0039] 反的吧？
 
---- Group 119 [right:none next=2012] ---G
+--- Group [right:none next=2012] ---G
 ・・・たしかに
 +[FID:03, TEXT:003A] ……说得也是
 
---- Group 122 [left:主人公 next=2012] ---G
+--- Group [left:主人公 next=2012] ---G
 でも、ウワサにもなっ
 てないし、チャンスは
 まだあると思うよ
@@ -264,7 +264,7 @@
 +[FID:03, TEXT:003C] 我觉得机会还是有的哦
 +[FID:03, TEXT:0095] 
 
---- Group 124 [left:none next=2012] ---G
+--- Group [left:none next=2012] ---G
 でも、ウワサにもなっ
 てないし、チャンスは
 まだあると思うぜ
@@ -272,7 +272,7 @@
 -[FID:03, TEXT:003C] 我觉得机会还是有的哦
 +[FID:03, TEXT:003D] 
 
---- Group 129 [left:絵美 next=2012] ---G
+--- Group [left:絵美 next=2012] ---G
 せっかく勇気を出した
 んだからさ、ダメもと
 で告白してみたら？
@@ -280,7 +280,7 @@
 +[FID:03, TEXT:0096] 不如抱着试试看的心情
 +[FID:03, TEXT:0097] 告白试试？
 
---- Group 130 [left:none next=2012] ---G
+--- Group [left:none next=2012] ---G
 せっかく勇気を出した
 んだからさ、とにかく
 アタックしてみろよ
@@ -288,11 +288,11 @@
 +[FID:03, TEXT:003F] 反正先发起进攻试试看
 +[FID:03, TEXT:0040] 吧
 
---- Group 136 [left:none next=2012] ---G
+--- Group [left:none next=2012] ---G
 俺も応援してやっから
 +[FID:03, TEXT:0041] 我也会为你加油的
 
---- Group 139 [right:none next=2012] ---G
+--- Group [right:none next=2012] ---G
 うーん・・・
 よし、やるだけ
 やってみるか！
@@ -300,11 +300,11 @@
 +[FID:03, TEXT:0043] 好吧，就试试看
 +[FID:03, TEXT:0044] 吧！
 
---- Group 142 [left:none next=2012] ---G
+--- Group [left:none next=2012] ---G
 がんばれよ
 +[FID:03, TEXT:0045] 加油啊
 
---- Group 145 [right:none next=2012] ---G
+--- Group [right:none next=2012] ---G
 それじゃ、センパイ
 相談にのってくれて
 ありがとう
@@ -314,7 +314,7 @@
 +[FID:03, TEXT:0048] 谢谢啦！
 +[FID:03, TEXT:0049] 
 
---- Group 148 [left:絵美 next=2012] ---G
+--- Group [left:絵美 next=2012] ---G
 気にしなくていいよ
 とくに大事な用がある
 わけでもなかったし
@@ -322,7 +322,7 @@
 -[FID:03, TEXT:0005] 我也没什么特别重要的
 -[FID:03, TEXT:0006] 事情啦
 
---- Group 150 [left:none next=2012] ---G
+--- Group [left:none next=2012] ---G
 気にしなくていいよ
 大した用事があったわ
 けじゃないんだ
@@ -330,7 +330,7 @@
 +[FID:03, TEXT:004B] 我也没什么重要的事情
 +[FID:03, TEXT:004C] 啦
 
---- Group 158 [left:none next=2012] ---G
+--- Group [left:none next=2012] ---G
 それよりどうしたんだ
 僕でよかったら相談に
 のるけど？
@@ -338,7 +338,7 @@
 +[FID:03, TEXT:004E] 如果我能帮上忙的话也
 +[FID:03, TEXT:004F] 可以听你倾诉哦？
 
---- Group 161 [right:克也 next=2012] ---G
+--- Group [right:克也 next=2012] ---G
 ・・・すいません
 いつもセンパイには
 甘えてばかりで・・・
@@ -346,17 +346,17 @@
 +[FID:03, TEXT:0051] 总是给前辈添麻烦
 +[FID:03, TEXT:0052] 真是过意不去……
 
---- Group 164 [left:none next=2012] ---G
+--- Group [left:none next=2012] ---G
 彼女がどうかした
 のかい？
 +[FID:03, TEXT:0055] 是她怎么了吗？
 +[FID:03, TEXT:0056] 
 
---- Group 167 [left:none next=2012] ---G
+--- Group [left:none next=2012] ---G
 え！？
 +[FID:03, TEXT:0059] 诶！？
 
---- Group 170 [right:none next=2012] ---G
+--- Group [right:none next=2012] ---G
 でも、好きになっちま
 ったものはどうしよう
 もないでしょう？
@@ -364,7 +364,7 @@
 +[FID:03, TEXT:005D] 欢上了，这种事也是没
 +[FID:03, TEXT:005E] 办法的吧？
 
---- Group 173 [left:none next=2012] ---G
+--- Group [left:none next=2012] ---G
 それで、いつも元気な
 キミが悩んでいたわけ
 だ
@@ -372,7 +372,7 @@
 +[FID:03, TEXT:0060] 泼的你，原来是因为这
 +[FID:03, TEXT:0061] 个在烦恼啊
 
---- Group 176 [left:none next=2012] ---G
+--- Group [left:none next=2012] ---G
 すまない
 僕は、あんまり彼女と
 は親しいわけじゃない
@@ -382,11 +382,11 @@
 +[FID:03, TEXT:0065] 近呢
 +[FID:03, TEXT:0066] 
 
---- Group 179 [right:克也 next=2012] ---G
+--- Group [right:克也 next=2012] ---G
 そうですか・・・
 +[FID:03, TEXT:0067] 是这样吗……
 
---- Group 182 [left:none next=2012] ---G
+--- Group [left:none next=2012] ---G
 あ、でも、恋人がいる
 って話はまだ聞いた事
 はないよ
@@ -394,21 +394,21 @@
 +[FID:03, TEXT:0069] 听说过那个人有恋人这
 +[FID:03, TEXT:006A] 件事哦
 
---- Group 185 [right:克也 next=2012] ---G
+--- Group [right:克也 next=2012] ---G
 え、ホントですか！？
 +[FID:03, TEXT:006B] 诶，真的吗！？
 
---- Group 188 [left:none next=2012] ---G
+--- Group [left:none next=2012] ---G
 いや、保証はできない
 けど・・・
 +[FID:03, TEXT:006C] 恩，虽然不能保证
 +[FID:03, TEXT:006D] 啦……
 
---- Group 191 [right:none next=2012] ---G
+--- Group [right:none next=2012] ---G
 よーし、がんばるぞ！
 +[FID:03, TEXT:006E] 好吧，我要加油了！
 
---- Group 194 [left:none next=2012] ---G
+--- Group [left:none next=2012] ---G
 あ・・・
 これで本当に
 よかったのかな・・・
@@ -416,21 +416,21 @@
 +[FID:03, TEXT:0070] 这样真的
 +[FID:03, TEXT:0071] 好吗・・・
 
---- Group 195 [left:絵美 next=2012] ---G
+--- Group [left:絵美 next=2012] ---G
 それよりどうしたの？
 +[FID:03, TEXT:0073] 话说回来，怎么了？
 
---- Group 199 [left:絵美 next=2012] ---G
+--- Group [left:絵美 next=2012] ---G
 あたしでよかったら
 力になるよ
 +[FID:03, TEXT:0074] 如果我能帮上忙的话
 +[FID:03, TEXT:0075] 我会努力的
 
---- Group 203 [left:主人公 next=2012] ---G
+--- Group [left:主人公 next=2012] ---G
 うん、信用してよ
 +[FID:03, TEXT:0078] 嗯，相信我吧
 
---- Group 207 [right:克也 next=2012] ---G
+--- Group [right:克也 next=2012] ---G
 センパイのクラスに、
 バスケ部の部長さんが
 いましたよね？
@@ -438,7 +438,7 @@
 +[FID:03, TEXT:00A4] 有个篮球部的部长在
 +[FID:03, TEXT:007B] 对吧？
 
---- Group 209 [right:none next=2012] ---G
+--- Group [right:none next=2012] ---G
 センパイのクラスに、
 生徒会の副会長さんが
 いましたよね？
@@ -446,17 +446,17 @@
 +[FID:03, TEXT:007A] 有个学生会的副会长在
 -[FID:03, TEXT:007B] 对吧？
 
---- Group 215 [left:主人公 next=2012] ---G
+--- Group [left:主人公 next=2012] ---G
 ああ、トウヤ君
 彼がどうかしたの？
 +[FID:03, TEXT:007C] 啊，是那个叫籐矢的
 +[FID:03, TEXT:007D] 他怎么了？
 
---- Group 219 [left:絵美 next=2012] ---G
+--- Group [left:絵美 next=2012] ---G
 あ、ゴメン
 +[FID:03, TEXT:0083] 啊，抱歉
 
---- Group 223 [right:none next=2012] ---G
+--- Group [right:none next=2012] ---G
 そりゃ、たしかに私が
 ハヤト先輩にアタック
 するなんて無茶だとは
@@ -466,7 +466,7 @@
 +[FID:03, TEXT:0086] 我知道很勉强
 -[FID:03, TEXT:0021] 
 
---- Group 225 [right:克也 next=2012] ---G
+--- Group [right:克也 next=2012] ---G
 そりゃ、たしかに私が
 トウヤ先輩にアタック
 するなんて無茶だとは
@@ -476,7 +476,7 @@
 -[FID:03, TEXT:0086] 我知道很勉强
 -[FID:03, TEXT:0021] 
 
---- Group 231 [right:none next=2012] ---G
+--- Group [right:none next=2012] ---G
 でも、好きになっちゃ
 ったんだもの・・・
 しかたないじゃない
@@ -486,7 +486,7 @@
 +[FID:03, TEXT:0089] 这也是没办法的事
 +[FID:03, TEXT:008A] 吧？
 
---- Group 235 [left:主人公 next=2012] ---G
+--- Group [left:主人公 next=2012] ---G
 うーん
 あたし、とくに彼と
 親しいわけじゃ
@@ -496,21 +496,21 @@
 -[FID:03, TEXT:0036] 呢
 +[FID:03, TEXT:0091] 
 
---- Group 239 [left:絵美 next=2012] ---G
+--- Group [left:絵美 next=2012] ---G
 ほら、性格とか正反対
 みたいなもんでしょ
 +[FID:03, TEXT:0092] 对吧，性格也是完全相
 +[FID:03, TEXT:0093] 反的吧
 
---- Group 243 [right:none next=2012] ---G
+--- Group [right:none next=2012] ---G
 そうですね・・・
 +[FID:03, TEXT:0094] 是呢……
 
---- Group 247 [left:主人公 next=2012] ---G
+--- Group [left:主人公 next=2012] ---G
 意外と、ＯＫかもよ？
 +[FID:03, TEXT:0098] 意外地，也许可以哦？
 
---- Group 251 [right:none next=2012] ---G
+--- Group [right:none next=2012] ---G
 えへへ
 せんぱいにそう言って
 もらえたら、なんだか
@@ -520,15 +520,15 @@
 +[FID:03, TEXT:009B] 的话，不知怎么就鼓起
 +[FID:03, TEXT:009C] 勇气了
 
---- Group 255 [left:主人公 next=2012] ---G
+--- Group [left:主人公 next=2012] ---G
 その意気、その意気！
 +[FID:03, TEXT:009D] 就是这个气势！
 
---- Group 259 [right:none next=2012] ---G
+--- Group [right:none next=2012] ---G
 はいっ！
 +[FID:03, TEXT:009E] 好！
 
---- Group 263 [right:克也 next=2012] ---G
+--- Group [right:克也 next=2012] ---G
 それじゃ先輩
 相談にのってくださ
 って本当にありがとう
@@ -538,19 +538,19 @@
 +[FID:03, TEXT:00A1] 真的非常感谢您！！
 +[FID:03, TEXT:00A2] 
 
---- Group 267 [left:絵美 next=2012] ---G
+--- Group [left:絵美 next=2012] ---G
 わたしでよかったら
 力になるよ
 +[FID:03, TEXT:00A3] 如果我能帮上忙的话
 -[FID:03, TEXT:0075] 我会努力的
 
---- Group 271 [left:絵美 next=2012] ---G
+--- Group [left:絵美 next=2012] ---G
 ああ、ハヤト君
 彼がどうかしたの？
 +[FID:03, TEXT:00A5] 啊，勇人君
 -[FID:03, TEXT:007D] 他怎么了？
 
---- Group 275 [right:none next=2012] ---G
+--- Group [right:none next=2012] ---G
 それじゃ、先輩
 相談にのってくだ
 さって本当にありが

@@ -1,22 +1,22 @@
---- Group 1 [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---
 おーい、ジンガ
 どこにいるんだー？
 +[FID:2B, TEXT:0001] 
 +[FID:2B, TEXT:0002] 
 
---- Group 2 [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---
 おーい、ジンガ
 どこいったの〜！？
 -[FID:2B, TEXT:0001] 
 +[FID:2B, TEXT:0005] 
 
---- Group 4 [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---
 ジンガのやつ
 どこに行ったんだ？
 +[FID:2B, TEXT:0003] 
 +[FID:2B, TEXT:0004] 
 
---- Group 5 [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---
 あら？
 ジンガさん
 どこですかー？
@@ -24,31 +24,31 @@
 +[FID:2B, TEXT:0007] 
 +[FID:2B, TEXT:0008] 
 
---- Group 6 [right:加泽尔 next=2012] ---
+--- Group [right:加泽尔 next=2012] ---
 あいつだったら、外に
 出てったぜ
 +[FID:2B, TEXT:0009] 
 +[FID:2B, TEXT:000A] 
 
---- Group 7 [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---
 まさか・・・
 +[FID:2B, TEXT:000B] 
 
---- Group 8 [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---
 ガゼル、あんた！？
 +[FID:2B, TEXT:000C] 
 
---- Group 9 [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---
 まさか、ガゼルさん？
 +[FID:2B, TEXT:000D] 
 
---- Group 10 [right:加泽尔 next=2012] ---
+--- Group [right:加泽尔 next=2012] ---
 おいおい、言っとくが
 俺は無実だぞ！？
 +[FID:2B, TEXT:000E] 
 +[FID:2B, TEXT:000F] 
 
---- Group 11 [right:加泽尔 next=2012] ---
+--- Group [right:加泽尔 next=2012] ---
 なんだかしらねえけど
 「宿代を作ってくる」
 とか言ってたから
@@ -56,13 +56,13 @@
 +[FID:2B, TEXT:0011] 
 +[FID:2B, TEXT:0012] 
 
---- Group 12 [right:加泽尔 next=2012] ---
+--- Group [right:加泽尔 next=2012] ---
 仕事でも探しにいった
 んじゃねえのか？
 +[FID:2B, TEXT:0013] 
 +[FID:2B, TEXT:0014] 
 
---- Group 13 [right:怀兹 next=2012] ---
+--- Group [right:怀兹 next=2012] ---
 あのハチマキ小僧だっ
 たら、繁華街にいると
 思うわよ
@@ -70,17 +70,17 @@
 +[FID:2B, TEXT:0016] 
 +[FID:2B, TEXT:0017] 
 
---- Group 14 [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---
 ハチマキ小僧・・・
 +[FID:2B, TEXT:0018] 
 
---- Group 15 [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---
 ハチマキ小僧ですか
 たしかにそうですね
 +[FID:2B, TEXT:0019] 
 +[FID:2B, TEXT:001A] 
 
---- Group 16 [right:怀兹 next=2012] ---
+--- Group [right:怀兹 next=2012] ---
 この街で一番にぎやか
 な所を教えてくれって
 言われたから
@@ -88,31 +88,31 @@
 +[FID:2B, TEXT:001C] 
 +[FID:2B, TEXT:001D] 
 
---- Group 17 [right:怀兹 next=2012] ---
+--- Group [right:怀兹 next=2012] ---
 あたし、
 教えてあげたもん
 +[FID:2B, TEXT:001E] 
 +[FID:2B, TEXT:001F] 
 
---- Group 18 [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---
 ・・・まずいぞ
 連れ戻してこなきゃ！
 +[FID:2B, TEXT:0020] 
 +[FID:2B, TEXT:0021] 
 
---- Group 19 [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---
 ・・・まずいぞ
 連れ戻してこないと！
 -[FID:2B, TEXT:0020] 
 +[FID:2B, TEXT:0022] 
 
---- Group 20 [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---
 ・・・え？
 連れ戻してこなきゃ！
 +[FID:2B, TEXT:0023] 
 -[FID:2B, TEXT:0021] 
 
---- Group 21 [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---
 ・・・え？
 連れ戻さないと！
 また・・・
@@ -120,13 +120,13 @@
 +[FID:2B, TEXT:0024] 
 +[FID:2B, TEXT:0025] 
 
---- Group 22 [right:加泽尔 next=2012] ---
+--- Group [right:加泽尔 next=2012] ---
 おいおい、慌てるよう
 なことかよ？
 +[FID:2B, TEXT:0026] 
 +[FID:2B, TEXT:0027] 
 
---- Group 23 [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---
 あいつがオプテュスと
 喧嘩してたのもあそこ
 なんだよ！
@@ -134,7 +134,7 @@
 +[FID:2B, TEXT:0029] 
 +[FID:2B, TEXT:002A] 
 
---- Group 24 [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---
 ジンガがオプテュスと
 喧嘩してたとこなの！
 繁華街って！
@@ -142,7 +142,7 @@
 +[FID:2B, TEXT:002D] 
 +[FID:2B, TEXT:002E] 
 
---- Group 25 [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---
 ジンガがオプテュスと
 喧嘩してたのは繁華街
 なんだよ！
@@ -150,7 +150,7 @@
 +[FID:2B, TEXT:002C] 
 -[FID:2B, TEXT:002A] 
 
---- Group 26 [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---
 彼がオプテュスの人
 たちと喧嘩していたの
 が、繁華街なんです！
@@ -158,11 +158,11 @@
 +[FID:2B, TEXT:0030] 
 +[FID:2B, TEXT:0031] 
 
---- Group 27 [right:加泽尔 next=2012] ---
+--- Group [right:加泽尔 next=2012] ---
 いっ！？
 +[FID:2B, TEXT:0032] 
 
---- Group 28 [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---
 連中のことだ
 間違いなく、仕返しに
 来るに決まってる！
@@ -170,7 +170,7 @@
 +[FID:2B, TEXT:0034] 
 +[FID:2B, TEXT:0035] 
 
---- Group 29 [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---
 間違いないよ！
 間違いなく、仕返しに
 来るに決まってる！
@@ -178,7 +178,7 @@
 -[FID:2B, TEXT:0034] 
 -[FID:2B, TEXT:0035] 
 
---- Group 30 [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---
 彼らのことです
 間違いなくジンガさん
 に復讐に来ます！
@@ -186,7 +186,7 @@
 +[FID:2B, TEXT:0038] 
 +[FID:2B, TEXT:0039] 
 
---- Group 31 [right:加泽尔 next=2012] ---
+--- Group [right:加泽尔 next=2012] ---
 あのガキ・・・
 そこまで面倒かけさせ
 るかぁっ！？
@@ -194,7 +194,7 @@
 +[FID:2B, TEXT:003B] 
 +[FID:2B, TEXT:003C] 
 
---- Group 32 [right:加泽尔 next=2012] ---
+--- Group [right:加泽尔 next=2012] ---
 ありゃりゃ
 そんなに慌ててどうか
 したのかい？
@@ -202,37 +202,37 @@
 +[FID:2B, TEXT:003E] 
 +[FID:2B, TEXT:003F] 
 
---- Group 33 [left:none next=0023] ---
+--- Group [left:none next=0023] ---
 どうもこうも・・・
 +[FID:2B, TEXT:0040] 
 
---- Group 34 [left:none next=0023] ---
+--- Group [left:none next=0023] ---
 どうかしたかって
 あんたねぇ・・・
 +[FID:2B, TEXT:0041] 
 +[FID:2B, TEXT:0042] 
 
---- Group 35 [left:none next=0023] ---
+--- Group [left:none next=0023] ---
 いえ、それが・・・
 +[FID:2B, TEXT:0043] 
 
---- Group 36 [left:加泽尔 next=2012] ---
+--- Group [left:加泽尔 next=2012] ---
 な、なんだこりゃ！？
 +[FID:2B, TEXT:0044] 
 
---- Group 37 [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---
 へ？
 +[FID:2B, TEXT:0045] 
 
---- Group 38 [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---
 ！？
 +[FID:2B, TEXT:0046] 
 
---- Group 39 [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---
 ・・・
 +[FID:2B, TEXT:0047] 
 
---- Group 40 [left:加泽尔 next=2012] ---
+--- Group [left:加泽尔 next=2012] ---
 おいガキっ！
 こんな看板を出して、
 どうする気だっ！？
@@ -240,13 +240,13 @@
 +[FID:2B, TEXT:0049] 
 +[FID:2B, TEXT:004A] 
 
---- Group 41 [right:加泽尔 next=2012] ---
+--- Group [right:加泽尔 next=2012] ---
 どうするって・・・
 書いてあるだろ？
 +[FID:2B, TEXT:004B] 
 +[FID:2B, TEXT:004C] 
 
---- Group 42 [right:加泽尔 next=2012] ---
+--- Group [right:加泽尔 next=2012] ---
 賭試合だよ
 俺っちに挑戦して勝て
 ば、賞金がもらえる
@@ -254,37 +254,37 @@
 +[FID:2B, TEXT:004E] 
 +[FID:2B, TEXT:004F] 
 
---- Group 43 [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---
 賭試合〜〜っ！？
 +[FID:2B, TEXT:0050] 
 
---- Group 44 [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---
 な・・・
 +[FID:2B, TEXT:0051] 
 
---- Group 45 [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---
 賭試合なんて・・・
 +[FID:2B, TEXT:0052] 
 
---- Group 46 [right:加泽尔 next=2012] ---
+--- Group [right:加泽尔 next=2012] ---
 てっとり早く稼ぐには
 これが一番なんだ
 +[FID:2B, TEXT:0053] 
 +[FID:2B, TEXT:0054] 
 
---- Group 47 [right:加泽尔 next=2012] ---
+--- Group [right:加泽尔 next=2012] ---
 修行にもなるし
 いいことづくめだろ？
 +[FID:2B, TEXT:0055] 
 +[FID:2B, TEXT:0056] 
 
---- Group 48 [left:加泽尔 next=2012] ---
+--- Group [left:加泽尔 next=2012] ---
 ううっ・・・
 頭が痛くなってきた
 +[FID:2B, TEXT:0057] 
 +[FID:2B, TEXT:0058] 
 
---- Group 49 [right:加泽尔 next=2012] ---
+--- Group [right:加泽尔 next=2012] ---
 心配すんなよ
 これでも今まで、
 負け知らずなんだから
@@ -292,35 +292,35 @@
 +[FID:2B, TEXT:005A] 
 +[FID:2B, TEXT:005B] 
 
---- Group 50 [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---
 そ、そういう問題じゃ
 ないんだが・・・
 +[FID:2B, TEXT:005C] 
 +[FID:2B, TEXT:005E] 
 
---- Group 51 [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---
 そ、そういう問題じゃ
 なくて・・・
 -[FID:2B, TEXT:005C] 
 +[FID:2B, TEXT:005D] 
 
---- Group 52 [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---
 いや・・・そういう
 問題じゃなくて・・・
 +[FID:2B, TEXT:005F] 
 +[FID:2B, TEXT:0060] 
 
---- Group 53 [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---
 あの、そういう問題
 じゃ、ないんですが？
 +[FID:2B, TEXT:0061] 
 +[FID:2B, TEXT:0062] 
 
---- Group 54 [right:巴萨 next=2012] ---
+--- Group [right:巴萨 next=2012] ---
 ほォ、賭試合ねェ
 +[FID:2B, TEXT:0063] 
 
---- Group 55 [right:巴萨 next=2012] ---
+--- Group [right:巴萨 next=2012] ---
 なかなか楽しい商売を
 考えたじゃねェか
 はぐれ野郎？
@@ -328,21 +328,21 @@
 +[FID:2B, TEXT:0065] 
 +[FID:2B, TEXT:0066] 
 
---- Group 56 [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---
 ああ・・・
 言わんこっちゃない
 +[FID:2B, TEXT:0067] 
 +[FID:2B, TEXT:0068] 
 
---- Group 57 [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---
 ああ、最悪の展開だ
 +[FID:2B, TEXT:0069] 
 
---- Group 58 [left:主人公 next=2012] ---
+--- Group [left:主人公 next=2012] ---
 あぁ・・・
 +[FID:2B, TEXT:006A] 
 
---- Group 59 [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---
 よりによって、
 一番面倒なのが
 来ちゃったよぉ・・・
@@ -350,19 +350,19 @@
 +[FID:2B, TEXT:006C] 
 +[FID:2B, TEXT:006D] 
 
---- Group 60 [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---
 あ・・・いちばん
 会いたくない人・・・
 +[FID:2B, TEXT:006E] 
 +[FID:2B, TEXT:006F] 
 
---- Group 61 [left:金加 next=2012] ---
+--- Group [left:金加 next=2012] ---
 そこの兄ちゃん、挑戦
 するかい？
 +[FID:2B, TEXT:0070] 
 +[FID:2B, TEXT:0071] 
 
---- Group 62 [right:巴萨 next=2012] ---
+--- Group [right:巴萨 next=2012] ---
 えらく強いガキがいる
 って聞かされて来てみ
 ればよォ・・・
@@ -370,27 +370,27 @@
 +[FID:2B, TEXT:0073] 
 +[FID:2B, TEXT:0074] 
 
---- Group 63 [right:巴萨 next=2012] ---
+--- Group [right:巴萨 next=2012] ---
 手前ェの差し金かッ！
 +[FID:2B, TEXT:0075] 
 
---- Group 64 [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---
 ご、誤解だっ！
 +[FID:2B, TEXT:0076] 
 
---- Group 65 [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---
 それは誤解だ！
 +[FID:2B, TEXT:0077] 
 
---- Group 66 [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---
 ご、誤解だってば！
 +[FID:2B, TEXT:0078] 
 
---- Group 67 [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---
 あの・・・誤解です
 +[FID:2B, TEXT:0079] 
 
---- Group 68 [right:加泽尔 next=2012] ---
+--- Group [right:加泽尔 next=2012] ---
 @ n 
 話の通じる相手じゃあ
 ねえだろうが！
@@ -398,7 +398,7 @@
 +[FID:2B, TEXT:007B] 
 +[FID:2B, TEXT:007C] 
 
---- Group 69 [left:主人公 next=2012] ---
+--- Group [left:主人公 next=2012] ---
 おいおい、戦う相手は
 そっちじゃねえぞ
 俺っちだ
@@ -406,7 +406,7 @@
 +[FID:2B, TEXT:007E] 
 +[FID:2B, TEXT:007F] 
 
---- Group 70 [right:加泽尔 next=2012] ---
+--- Group [right:加泽尔 next=2012] ---
 うるせェ！
 まとめてぶちのめして
 やるッ！！

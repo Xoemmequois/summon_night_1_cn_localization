@@ -1,10 +1,10 @@
---- Group 1 [right:none next=2012] ---
+--- Group [right:none next=2012] ---
 さて、どこから話した
 ものかな・・・
 +[FID:6C, TEXT:0001] 
 +[FID:6C, TEXT:0002] 
 
---- Group 2 [left:none next=0023] ---
+--- Group [left:none next=0023] ---
 あの宝玉がどんなもの
 なのか、くわしく説明
 してください
@@ -12,7 +12,7 @@
 +[FID:6C, TEXT:0004] 
 +[FID:6C, TEXT:0005] 
 
---- Group 3 [left:none next=0023] ---
+--- Group [left:none next=0023] ---
 あの宝玉・・・
 あれがなんなのか
 まずはそれから
@@ -20,7 +20,7 @@
 +[FID:6C, TEXT:0007] 
 +[FID:6C, TEXT:0008] 
 
---- Group 4 [right:科莫扎 next=2012] ---
+--- Group [right:科莫扎 next=2012] ---
 【魅魔の宝玉】はね
 ずっと昔の召喚師たち
 が作った道具なの
@@ -28,7 +28,7 @@
 +[FID:6C, TEXT:000A] 
 +[FID:6C, TEXT:000B] 
 
---- Group 5 [right:科莫扎 next=2012] ---
+--- Group [right:科莫扎 next=2012] ---
 サプレスの世界に住む
 ありとあらゆる悪魔を
 従えるためにね
@@ -36,29 +36,29 @@
 +[FID:6C, TEXT:000D] 
 +[FID:6C, TEXT:000E] 
 
---- Group 6 [left:加泽尔 next=2012] ---
+--- Group [left:加泽尔 next=2012] ---
 なんで、そんな物騒な
 もんがあるんだよ
 +[FID:6C, TEXT:000F] 
 +[FID:6C, TEXT:0010] 
 
---- Group 7 [right:吉布森 next=2012] ---
+--- Group [right:吉布森 next=2012] ---
 戦争の名残だよ
 +[FID:6C, TEXT:0011] 
 
---- Group 8 [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---
 戦争？
 +[FID:6C, TEXT:0012] 
 
---- Group 9 [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---
 せん・・そう？
 +[FID:6C, TEXT:0013] 
 
---- Group 10 [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---
 戦争ですか
 +[FID:6C, TEXT:0014] 
 
---- Group 11 [right:吉布森 next=2012] ---
+--- Group [right:吉布森 next=2012] ---
 気の遠くなるような昔
 リィンバウムは異世界
 の侵略者と戦っていた
@@ -66,7 +66,7 @@
 +[FID:6C, TEXT:0016] 
 +[FID:6C, TEXT:0017] 
 
---- Group 12 [right:吉布森 next=2012] ---
+--- Group [right:吉布森 next=2012] ---
 今でこそ召喚獣として
 呼び出されている
 鬼神や悪魔たちとね
@@ -74,13 +74,13 @@
 +[FID:6C, TEXT:0019] 
 +[FID:6C, TEXT:001A] 
 
---- Group 13 [left:雷德 next=2012] ---
+--- Group [left:雷德 next=2012] ---
 しかし、それは伝説や
 おとぎ話では・・・？
 +[FID:6C, TEXT:001B] 
 +[FID:6C, TEXT:001C] 
 
---- Group 14 [right:科莫扎 next=2012] ---
+--- Group [right:科莫扎 next=2012] ---
 普通の人は知らなくて
 も仕方ないわね
 召喚師たちの手で秘密
@@ -90,7 +90,7 @@
 +[FID:6C, TEXT:001F] 
 +[FID:6C, TEXT:0020] 
 
---- Group 15 [right:索尔 next=2012] ---
+--- Group [right:索尔 next=2012] ---
 なんたって
 召喚術の起源に関わる
 ことだからな・・・
@@ -98,15 +98,15 @@
 +[FID:6C, TEXT:0022] 
 +[FID:6C, TEXT:0023] 
 
---- Group 16 [right:吉布森 next=0023] ---
+--- Group [right:吉布森 next=0023] ---
 ソルの
 +[FID:6C, TEXT:0026] 
 
---- Group 17 [right:吉布森 next=2012] ---
+--- Group [right:吉布森 next=2012] ---
 言うとおりだ
 +[FID:6C, TEXT:002A] 
 
---- Group 18 [right:吉布森 next=2012] ---
+--- Group [right:吉布森 next=2012] ---
 もともと召喚術という
 ものは、そういった
 敵をさけるために
@@ -116,7 +116,7 @@
 +[FID:6C, TEXT:002D] 
 +[FID:6C, TEXT:002E] 
 
---- Group 19 [right:科莫扎 next=2012] ---
+--- Group [right:科莫扎 next=2012] ---
 呪文と魔力で異世界の
 生物の意識を支配して
 元の世界に送り返す
@@ -124,7 +124,7 @@
 +[FID:6C, TEXT:0030] 
 +[FID:6C, TEXT:0031] 
 
---- Group 20 [right:科莫扎 next=2012] ---
+--- Group [right:科莫扎 next=2012] ---
 【送還術】と呼ばれる
 その技法を逆利用した
 ものが【召喚術】なの
@@ -132,7 +132,7 @@
 +[FID:6C, TEXT:0033] 
 +[FID:6C, TEXT:0034] 
 
---- Group 21 [right:科莫扎 next=2012] ---
+--- Group [right:科莫扎 next=2012] ---
 【送還術】のほうは、
 今じゃほとんど失われ
 てしまってるけどね
@@ -140,15 +140,15 @@
 +[FID:6C, TEXT:0036] 
 +[FID:6C, TEXT:0037] 
 
---- Group 22 [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---
 どうしてですか？
 +[FID:6C, TEXT:0038] 
 
---- Group 23 [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---
 なんでです？
 +[FID:6C, TEXT:0039] 
 
---- Group 24 [right:吉布森 next=2012] ---
+--- Group [right:吉布森 next=2012] ---
 このリィンバウムに、
 強力な結界が張られた
 からさ
@@ -156,7 +156,7 @@
 +[FID:6C, TEXT:003B] 
 +[FID:6C, TEXT:003C] 
 
---- Group 25 [right:吉布森 next=2012] ---
+--- Group [right:吉布森 next=2012] ---
 その力で異世界の敵は
 リィンバウムに自力で
 入れなくなった
@@ -164,17 +164,17 @@
 +[FID:6C, TEXT:003E] 
 +[FID:6C, TEXT:003F] 
 
---- Group 26 [right:科莫扎 next=2012] ---
+--- Group [right:科莫扎 next=2012] ---
 だから送還術は必要が
 なくなってしまったの
 +[FID:6C, TEXT:0040] 
 +[FID:6C, TEXT:0041] 
 
---- Group 27 [left:艾多斯 next=2012] ---
+--- Group [left:艾多斯 next=2012] ---
 なるほど・・・
 +[FID:6C, TEXT:0042] 
 
---- Group 28 [right:吉布森 next=2012] ---
+--- Group [right:吉布森 next=2012] ---
 【魅魔の宝玉】は
 サプレスの悪魔の意識
 を支配し、元の世界へ
@@ -184,13 +184,13 @@
 +[FID:6C, TEXT:0045] 
 +[FID:6C, TEXT:0046] 
 
---- Group 29 [right:吉布森 next=2012] ---
+--- Group [right:吉布森 next=2012] ---
 だが、送り返すための
 力を逆に使えば・・・
 +[FID:6C, TEXT:0047] 
 +[FID:6C, TEXT:0048] 
 
---- Group 30 [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---
 悪魔を召喚するための
 道具になる・・・
 そういうことですか？
@@ -198,13 +198,13 @@
 +[FID:6C, TEXT:004F] 
 +[FID:6C, TEXT:0050] 
 
---- Group 31 [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---
 悪魔を召喚するための
 道具になるってことか
 -[FID:6C, TEXT:0049] 
 +[FID:6C, TEXT:004A] 
 
---- Group 32 [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---
 そっか！
 悪魔たちをこっちの
 世界に召喚する
@@ -214,7 +214,7 @@
 +[FID:6C, TEXT:004D] 
 +[FID:6C, TEXT:004E] 
 
---- Group 33 [right:科莫扎 next=2012] ---
+--- Group [right:科莫扎 next=2012] ---
 宝玉の力は、使う者の
 意志の強さに比例して
 強くなってしまうの
@@ -222,7 +222,7 @@
 +[FID:6C, TEXT:0052] 
 +[FID:6C, TEXT:0053] 
 
---- Group 34 [right:加泽尔 next=2012] ---
+--- Group [right:加泽尔 next=2012] ---
 最悪だな・・・
 バノッサは蛇みたいに
 しつこい性格だぜ
@@ -230,7 +230,7 @@
 +[FID:6C, TEXT:0055] 
 +[FID:6C, TEXT:0056] 
 
---- Group 35 [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---
 手分けして
 バノッサをさがそう
 早くしないと取り返し
@@ -240,13 +240,13 @@
 +[FID:6C, TEXT:0059] 
 +[FID:6C, TEXT:005A] 
 
---- Group 36 [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---
 早くしないと取り返し
 がつかなくなっちゃう
 -[FID:6C, TEXT:0059] 
 +[FID:6C, TEXT:005E] 
 
---- Group 37 [left:主人公 next=2012] ---
+--- Group [left:主人公 next=2012] ---
 まずいよ！
 手分けしてバノッサを
 さがさなきゃ！
@@ -254,7 +254,7 @@
 +[FID:6C, TEXT:005C] 
 +[FID:6C, TEXT:005D] 
 
---- Group 38 [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---
 手分けしてバノッサさ
 んを探しましょう
 早くしないと取り返し

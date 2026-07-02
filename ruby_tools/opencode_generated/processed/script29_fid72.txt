@@ -1,22 +1,22 @@
---- Group 1 [left:none next=0023] ---
+--- Group [left:none next=0023] ---
 ３人とも、どこへ
 行ったのかな？
 +[FID:72, TEXT:0001] 
 +[FID:72, TEXT:0003] 
 
---- Group 2 [left:none next=0023] ---
+--- Group [left:none next=0023] ---
 ３人とも、どこへ
 行ったんでしょう？
 -[FID:72, TEXT:0001] 
 +[FID:72, TEXT:0004] 
 
---- Group 3 [left:none next=0023] ---
+--- Group [left:none next=0023] ---
 ３人とも、どこへ
 行ったんだろう？
 -[FID:72, TEXT:0001] 
 +[FID:72, TEXT:0002] 
 
---- Group 4 [right:none next=2012] ---
+--- Group [right:none next=2012] ---
 川原とか、あの子たち
 のいそうな場所は全部
 回ったつもりだけど
@@ -24,35 +24,35 @@
 +[FID:72, TEXT:0006] 
 +[FID:72, TEXT:0007] 
 
---- Group 5 [left:none next=0023] ---
+--- Group [left:none next=0023] ---
 街の外とかに出たって
 ことはないよね
 +[FID:72, TEXT:0008] 
 +[FID:72, TEXT:000A] 
 
---- Group 6 [left:none next=0023] ---
+--- Group [left:none next=0023] ---
 街の外とかに出たって
 ことはないよな
 -[FID:72, TEXT:0008] 
 +[FID:72, TEXT:0009] 
 
---- Group 7 [left:none next=0023] ---
+--- Group [left:none next=0023] ---
 街の外に出ているって
 ことはないよね
 +[FID:72, TEXT:000B] 
 -[FID:72, TEXT:000A] 
 
---- Group 8 [left:none next=0023] ---
+--- Group [left:none next=0023] ---
 街の外に出ているって
 ことはありませんか
 -[FID:72, TEXT:000B] 
 +[FID:72, TEXT:000C] 
 
---- Group 9 [right:none next=2012] ---
+--- Group [right:none next=2012] ---
 それはないと思うわ
 +[FID:72, TEXT:000D] 
 
---- Group 10 [right:none next=2012] ---
+--- Group [right:none next=2012] ---
 ほら、前にフィズが
 貴方たちについてって
 捕まったことがあった
@@ -62,41 +62,41 @@
 +[FID:72, TEXT:0010] 
 +[FID:72, TEXT:0011] 
 
---- Group 11 [right:none next=2012] ---
+--- Group [right:none next=2012] ---
 あの時にきつく言い
 聞かせたから・・・
 +[FID:72, TEXT:0012] 
 +[FID:72, TEXT:0013] 
 
---- Group 12 [left:none next=0023] ---
+--- Group [left:none next=0023] ---
 そういや、そんなこと
 もあったよな
 +[FID:72, TEXT:0014] 
 +[FID:72, TEXT:0015] 
 
---- Group 13 [left:none next=0023] ---
+--- Group [left:none next=0023] ---
 ああ、そんなことも
 あったっけ・・・
 +[FID:72, TEXT:0016] 
 +[FID:72, TEXT:0018] 
 
---- Group 14 [left:none next=0023] ---
+--- Group [left:none next=0023] ---
 ああ、そんなことも
 あったな・・・
 -[FID:72, TEXT:0016] 
 +[FID:72, TEXT:0017] 
 
---- Group 15 [left:none next=0023] ---
+--- Group [left:none next=0023] ---
 ああ、そうでしたね
 +[FID:72, TEXT:0019] 
 
---- Group 16 [right:none next=2012] ---
+--- Group [right:none next=2012] ---
 まさか、またバノッサ
 に捕まって・・・
 +[FID:72, TEXT:001A] 
 +[FID:72, TEXT:001B] 
 
---- Group 17 [left:none next=2012] ---
+--- Group [left:none next=2012] ---
 だとしたら、とっくに
 あたしにちょっかいを
 かけてるって
@@ -104,7 +104,7 @@
 +[FID:72, TEXT:0025] 
 +[FID:72, TEXT:0026] 
 
---- Group 18 [left:none next=2012] ---
+--- Group [left:none next=2012] ---
 だとしたら、とっくに
 僕に何か仕掛けている
 はずだ
@@ -112,7 +112,7 @@
 +[FID:72, TEXT:0021] 
 +[FID:72, TEXT:0022] 
 
---- Group 19 [left:none next=2012] ---
+--- Group [left:none next=2012] ---
 だとしたら、とっくに
 俺に何か仕掛けている
 はずだよ
@@ -120,13 +120,13 @@
 +[FID:72, TEXT:001D] 
 +[FID:72, TEXT:001E] 
 
---- Group 20 [left:none next=0023] ---
+--- Group [left:none next=0023] ---
 まだ街の全部を探した
 わけじゃないんだしさ
 +[FID:72, TEXT:001F] 
 +[FID:72, TEXT:0020] 
 
---- Group 21 [left:none next=0023] ---
+--- Group [left:none next=0023] ---
 まだ街の全部を探した
 わけじゃないし
 大丈夫だよ
@@ -134,7 +134,7 @@
 +[FID:72, TEXT:0027] 
 +[FID:72, TEXT:0024] 
 
---- Group 22 [left:none next=0023] ---
+--- Group [left:none next=0023] ---
 まだ街の全部を探した
 わけじゃないんだ
 大丈夫だよ
@@ -142,7 +142,7 @@
 +[FID:72, TEXT:0023] 
 -[FID:72, TEXT:0024] 
 
---- Group 23 [left:none next=0023] ---
+--- Group [left:none next=0023] ---
 まだ街の全部を探した
 わけじゃありません
 大丈夫ですよ
@@ -150,17 +150,17 @@
 +[FID:72, TEXT:002A] 
 +[FID:72, TEXT:002B] 
 
---- Group 24 [left:none next=2012] ---
+--- Group [left:none next=2012] ---
 だとしたら、何か反応
 があるはずですよ
 +[FID:72, TEXT:0028] 
 +[FID:72, TEXT:0029] 
 
---- Group 25 [right:none next=2012] ---
+--- Group [right:none next=2012] ---
 うん・・・
 +[FID:72, TEXT:002C] 
 
---- Group 26 [left:none next=0023] ---
+--- Group [left:none next=0023] ---
 考え方を変えよう
 あの子たちが行きそう
 にない場所を探すんだ
@@ -168,7 +168,7 @@
 +[FID:72, TEXT:002E] 
 +[FID:72, TEXT:002F] 
 
---- Group 27 [left:none next=0023] ---
+--- Group [left:none next=0023] ---
 考え方を変えてみよ？
 あの子たちが行きそう
 にない場所を探すとか
@@ -176,7 +176,7 @@
 -[FID:72, TEXT:002E] 
 +[FID:72, TEXT:0031] 
 
---- Group 28 [left:none next=0023] ---
+--- Group [left:none next=0023] ---
 考え方を変えましょう
 あの子たちが
 行きそうにない場所を
@@ -186,7 +186,7 @@
 +[FID:72, TEXT:0034] 
 +[FID:72, TEXT:0035] 
 
---- Group 29 [right:none next=2012] ---
+--- Group [right:none next=2012] ---
 ごめんね
 こんな大変な時なのに
 貴方に迷惑かけて
@@ -194,7 +194,7 @@
 +[FID:72, TEXT:0037] 
 +[FID:72, TEXT:0038] 
 
---- Group 30 [right:none next=2012] ---
+--- Group [right:none next=2012] ---
 私がしっかり子供たち
 を見ていれば、こんな
 ことにはならなかった
@@ -204,55 +204,55 @@
 +[FID:72, TEXT:003B] 
 +[FID:72, TEXT:003C] 
 
---- Group 31 [right:none next=0023] ---
+--- Group [right:none next=0023] ---
 どうしよう？
 +[FID:72, TEXT:003D] 
 
---- Group 32 [right:none next=0023] ---
+--- Group [right:none next=0023] ---
 　迷惑なんて言うなよ
 　リプレのせいじゃない
 +[FID:72, TEXT:003E] 
 +[FID:72, TEXT:003F] 
 
---- Group 33 [right:none next=0023] ---
+--- Group [right:none next=0023] ---
 　迷惑なんかじゃないさ
 　リプレのせいじゃない
 +[FID:72, TEXT:0040] 
 -[FID:72, TEXT:003F] 
 
---- Group 34 [right:none next=0023] ---
+--- Group [right:none next=0023] ---
 　迷惑なんかじゃないよ
 　リプレのせいじゃない
 +[FID:72, TEXT:0041] 
 -[FID:72, TEXT:003F] 
 
---- Group 35 [right:none next=0023] ---
+--- Group [right:none next=0023] ---
 　迷惑じゃないですよ
 　それは違います
 +[FID:72, TEXT:0042] 
 +[FID:72, TEXT:0043] 
 
---- Group 36 [left:none next=0023] ---
+--- Group [left:none next=0023] ---
 迷惑なんて言うなよ
 +[FID:72, TEXT:0044] 
 
---- Group 37 [left:none next=0023] ---
+--- Group [left:none next=0023] ---
 迷惑なんかじゃないさ
 +[FID:72, TEXT:0045] 
 
---- Group 38 [left:none next=0023] ---
+--- Group [left:none next=0023] ---
 迷惑なんかじゃないよ
 +[FID:72, TEXT:0046] 
 
---- Group 39 [left:none next=0023] ---
+--- Group [left:none next=0023] ---
 迷惑じゃないですよ
 +[FID:72, TEXT:0047] 
 
---- Group 40 [right:金姆兰 next=2012] ---
+--- Group [right:金姆兰 next=2012] ---
 ・・・・・・
 +[FID:72, TEXT:0048] 
 
---- Group 42 [left:none next=2012] ---
+--- Group [left:none next=2012] ---
 ずっといろいろなこと
 続きで、忘れちゃって
 たかもしれないけど
@@ -260,7 +260,7 @@
 +[FID:72, TEXT:0053] 
 +[FID:72, TEXT:0050] 
 
---- Group 43 [left:none next=2012] ---
+--- Group [left:none next=2012] ---
 ずっといろいろなこと
 続きで、忘れてしまっ
 たかもしれないけど
@@ -268,7 +268,7 @@
 +[FID:72, TEXT:004F] 
 -[FID:72, TEXT:0050] 
 
---- Group 44 [left:none next=2012] ---
+--- Group [left:none next=2012] ---
 ずっといろいろなこと
 続きで、忘れちまって
 るかもしれないけどさ
@@ -276,7 +276,7 @@
 +[FID:72, TEXT:004A] 
 +[FID:72, TEXT:004B] 
 
---- Group 45 [left:none next=0023] ---
+--- Group [left:none next=0023] ---
 こういう時のために、
 あたしたち、みんなで
 暮らしてるんでしょ？
@@ -284,7 +284,7 @@
 +[FID:72, TEXT:0054] 
 +[FID:72, TEXT:0055] 
 
---- Group 46 [left:none next=0023] ---
+--- Group [left:none next=0023] ---
 こういう時のために、
 私たちは一緒に暮らし
 てるんでしょう？
@@ -292,7 +292,7 @@
 +[FID:72, TEXT:0056] 
 +[FID:72, TEXT:0057] 
 
---- Group 47 [left:none next=0023] ---
+--- Group [left:none next=0023] ---
 こういう時のために、
 俺たちは一緒に暮らし
 てるんだぜ？
@@ -300,7 +300,7 @@
 +[FID:72, TEXT:004D] 
 +[FID:72, TEXT:004E] 
 
---- Group 48 [left:none next=0023] ---
+--- Group [left:none next=0023] ---
 こういう時のために、
 僕たちは一緒に暮らし
 てるんだろう？
@@ -308,23 +308,23 @@
 +[FID:72, TEXT:0051] 
 +[FID:72, TEXT:0052] 
 
---- Group 49 [right:none next=2012] ---
+--- Group [right:none next=2012] ---
 そう、だよね・・・
 +[FID:72, TEXT:0058] 
 
---- Group 50 [left:none next=0023] ---
+--- Group [left:none next=0023] ---
 もっと気軽に、頼って
 くれればいいんだよ
 +[FID:72, TEXT:0059] 
 +[FID:72, TEXT:005A] 
 
---- Group 51 [left:none next=0023] ---
+--- Group [left:none next=0023] ---
 もっと気軽に、頼って
 くれればいいのよ
 -[FID:72, TEXT:0059] 
 +[FID:72, TEXT:005B] 
 
---- Group 52 [left:none next=0023] ---
+--- Group [left:none next=0023] ---
 困った時には、
 いつだって頼って
 くれていいんですよ
@@ -332,7 +332,7 @@
 +[FID:72, TEXT:005D] 
 +[FID:72, TEXT:005E] 
 
---- Group 53 [left:none next=0023] ---
+--- Group [left:none next=0023] ---
 リプレのせいじゃない
 僕たちだって、責任は
 あるんだ
@@ -340,7 +340,7 @@
 +[FID:72, TEXT:0062] 
 +[FID:72, TEXT:0063] 
 
---- Group 54 [left:none next=0023] ---
+--- Group [left:none next=0023] ---
 リプレのせいじゃない
 あたしたちにだって、
 責任はあるよ
@@ -348,7 +348,7 @@
 +[FID:72, TEXT:0064] 
 +[FID:72, TEXT:0065] 
 
---- Group 55 [left:none next=0023] ---
+--- Group [left:none next=0023] ---
 リプレのせいじゃない
 俺たちだって、責任は
 あるよ
@@ -356,7 +356,7 @@
 +[FID:72, TEXT:0060] 
 +[FID:72, TEXT:0061] 
 
---- Group 56 [left:none next=0023] ---
+--- Group [left:none next=0023] ---
 それは違います
 私たちにも、責任は
 あるはずです
@@ -364,7 +364,7 @@
 +[FID:72, TEXT:0067] 
 +[FID:72, TEXT:0068] 
 
---- Group 57 [left:none next=2012] ---
+--- Group [left:none next=2012] ---
 ずっと思ってたんだ
 俺たちは君の優しさに
 甘えすぎていたんじゃ
@@ -374,7 +374,7 @@
 +[FID:72, TEXT:006B] 
 +[FID:72, TEXT:006C] 
 
---- Group 58 [left:none next=2012] ---
+--- Group [left:none next=2012] ---
 ずっと思ってたんだ
 僕たちは君の優しさに
 甘えすぎているんじゃ
@@ -384,7 +384,7 @@
 +[FID:72, TEXT:0071] 
 +[FID:72, TEXT:0072] 
 
---- Group 59 [left:none next=0023] ---
+--- Group [left:none next=0023] ---
 戦いにかまけてばかり
 で、子供たちのことを
 君だけに押しつけてさ
@@ -392,7 +392,7 @@
 +[FID:72, TEXT:006E] 
 +[FID:72, TEXT:006F] 
 
---- Group 60 [left:none next=0023] ---
+--- Group [left:none next=0023] ---
 戦いにかまけてばかり
 で、子供たちのことを
 君だけに押しつけて
@@ -400,7 +400,7 @@
 -[FID:72, TEXT:006E] 
 +[FID:72, TEXT:0073] 
 
---- Group 61 [left:none next=0023] ---
+--- Group [left:none next=0023] ---
 戦いにかまけてばかり
 で、子供たちのことは
 あなたに任せっきりで
@@ -408,7 +408,7 @@
 +[FID:72, TEXT:0078] 
 +[FID:72, TEXT:0079] 
 
---- Group 62 [left:none next=0023] ---
+--- Group [left:none next=0023] ---
 戦いにかまけてばかり
 で、子供たちの世話を
 貴方一人に任せてしま
@@ -418,7 +418,7 @@
 +[FID:72, TEXT:007D] 
 +[FID:72, TEXT:007E] 
 
---- Group 63 [left:none next=2012] ---
+--- Group [left:none next=2012] ---
 ずっと思ってた
 あたしたち、あなたの
 優しさに甘えすぎてる
@@ -428,7 +428,7 @@
 +[FID:72, TEXT:0076] 
 +[FID:72, TEXT:0077] 
 
---- Group 64 [left:none next=2012] ---
+--- Group [left:none next=2012] ---
 ずっと思ってました
 私たちはリプレさんに
 甘えすぎているんじゃ
@@ -438,19 +438,19 @@
 -[FID:72, TEXT:0071] 
 -[FID:72, TEXT:0072] 
 
---- Group 65 [right:none next=2012] ---
+--- Group [right:none next=2012] ---
 そんなこと、
 気にしなくていいよ
 +[FID:72, TEXT:007F] 
 +[FID:72, TEXT:0080] 
 
---- Group 66 [left:none next=0023] ---
+--- Group [left:none next=0023] ---
 ほら、そうやって君は
 優しいから
 +[FID:72, TEXT:0081] 
 +[FID:72, TEXT:0082] 
 
---- Group 67 [left:none next=0023] ---
+--- Group [left:none next=0023] ---
 ほら、リプレはそうや
 って優しいから、つい
 あたしたちは甘えちゃ
@@ -460,47 +460,47 @@
 +[FID:72, TEXT:0085] 
 +[FID:72, TEXT:0086] 
 
---- Group 68 [left:none next=0023] ---
+--- Group [left:none next=0023] ---
 ほら、そうやって貴方
 は優しいから
 +[FID:72, TEXT:0087] 
 +[FID:72, TEXT:0088] 
 
---- Group 69 [right:none next=2012] ---
+--- Group [right:none next=2012] ---
 あ・・・
 +[FID:72, TEXT:0089] 
 
---- Group 70 [left:none next=2012] ---
+--- Group [left:none next=2012] ---
 こんな時ぐらいしか、
 僕は役に立たないけど
 +[FID:72, TEXT:008A] 
 +[FID:72, TEXT:008E] 
 
---- Group 71 [left:none next=2012] ---
+--- Group [left:none next=2012] ---
 こんな時ぐらいしか、
 俺は役に立たないけど
 -[FID:72, TEXT:008A] 
 +[FID:72, TEXT:008B] 
 
---- Group 72 [left:none next=0023] ---
+--- Group [left:none next=0023] ---
 せめて、これぐらいの
 手助けはさせてくれ
 +[FID:72, TEXT:008C] 
 +[FID:72, TEXT:008F] 
 
---- Group 73 [left:none next=0023] ---
+--- Group [left:none next=0023] ---
 せめて、これぐらいの
 手助けはさせてくれよ
 -[FID:72, TEXT:008C] 
 +[FID:72, TEXT:008D] 
 
---- Group 74 [left:none next=2012] ---
+--- Group [left:none next=2012] ---
 でもね、それだけじゃ
 やっぱりダメだと思う
 +[FID:72, TEXT:0090] 
 +[FID:72, TEXT:0091] 
 
---- Group 75 [left:none next=0023] ---
+--- Group [left:none next=0023] ---
 あたしたちも、もっと
 子供たちのことを考え
 なくちゃね
@@ -508,7 +508,7 @@
 +[FID:72, TEXT:0093] 
 +[FID:72, TEXT:0094] 
 
---- Group 76 [left:none next=2012] ---
+--- Group [left:none next=2012] ---
 だけど、私たちはそれ
 に甘えているだけでは
 ダメなんですよ
@@ -516,7 +516,7 @@
 +[FID:72, TEXT:0096] 
 +[FID:72, TEXT:0097] 
 
---- Group 77 [left:none next=0023] ---
+--- Group [left:none next=0023] ---
 もっと子供たちのこと
 も考えるようにしない
 といけないんです
@@ -524,35 +524,35 @@
 +[FID:72, TEXT:0099] 
 +[FID:72, TEXT:009A] 
 
---- Group 78 [left:none next=2012] ---
+--- Group [left:none next=2012] ---
 きゅーっ！！
 +[FID:72, TEXT:009B] 
 
---- Group 79 [right:none next=2012] ---
+--- Group [right:none next=2012] ---
 今の・・・
 ガウムの声じゃない？
 +[FID:72, TEXT:009C] 
 +[FID:72, TEXT:009D] 
 
---- Group 80 [left:none next=2012] ---
+--- Group [left:none next=2012] ---
 あっち行けよっ！
 行けったら！！
 +[FID:72, TEXT:009E] 
 +[FID:72, TEXT:009F] 
 
---- Group 81 [left:none next=2012] ---
+--- Group [left:none next=2012] ---
 きゃああ〜っ！
 +[FID:72, TEXT:00A0] 
 
---- Group 82 [left:none next=0023] ---
+--- Group [left:none next=0023] ---
 屋敷の庭からだ！
 +[FID:72, TEXT:00A1] 
 
---- Group 83 [left:none next=0023] ---
+--- Group [left:none next=0023] ---
 屋敷の庭からです！
 +[FID:72, TEXT:00A2] 
 
---- Group 84 [right:金姆兰 next=2012] ---
+--- Group [right:金姆兰 next=2012] ---
 このクソガキども
 勝手に人様の屋敷に
 入ったうえに・・・
@@ -560,17 +560,17 @@
 +[FID:72, TEXT:00A4] 
 +[FID:72, TEXT:00A5] 
 
---- Group 85 [right:金姆兰 next=2012] ---
+--- Group [right:金姆兰 next=2012] ---
 この美しい花園を荒ら
 しやがって！
 +[FID:72, TEXT:00A6] 
 +[FID:72, TEXT:00A7] 
 
---- Group 86 [left:拉米 next=2012] ---
+--- Group [left:拉米 next=2012] ---
 ひっ・・・
 +[FID:72, TEXT:00A8] 
 
---- Group 87 [left:阿尔巴 next=2012] ---
+--- Group [left:阿尔巴 next=2012] ---
 な、なんだよ・・・
 こんなにあるんだから
 分けてくれたっていい
@@ -580,7 +580,7 @@
 +[FID:72, TEXT:00AB] 
 +[FID:72, TEXT:00AC] 
 
---- Group 88 [left:怀兹 next=2012] ---
+--- Group [left:怀兹 next=2012] ---
 そーよっ！
 金持ちのくせに、ケチ
 くさいこと言わないで
@@ -590,13 +590,13 @@
 +[FID:72, TEXT:00AF] 
 +[FID:72, TEXT:00B0] 
 
---- Group 89 [right:金姆兰 next=2012] ---
+--- Group [right:金姆兰 next=2012] ---
 反省もせずに、
 居直りやがるかよ
 +[FID:72, TEXT:00B1] 
 +[FID:72, TEXT:00B2] 
 
---- Group 90 [right:金姆兰 next=2012] ---
+--- Group [right:金姆兰 next=2012] ---
 そういう態度のガキは
 ちっとばかしコワイ目
 に会ってもらうぜ！
@@ -604,15 +604,15 @@
 +[FID:72, TEXT:00B4] 
 +[FID:72, TEXT:00B5] 
 
---- Group 91 [left:利布雷 next=2012] ---
+--- Group [left:利布雷 next=2012] ---
 待ちなさいっ！
 +[FID:72, TEXT:00B6] 
 
---- Group 92 [right:拉米 next=2012] ---
+--- Group [right:拉米 next=2012] ---
 リプレママ・・・
 +[FID:72, TEXT:00B7] 
 
---- Group 93 [left:利布雷 next=2012] ---
+--- Group [left:利布雷 next=2012] ---
 うちの子供たちに手を
 だしたら、私が承知し
 ないからっ！！
@@ -620,7 +620,7 @@
 +[FID:72, TEXT:00B9] 
 +[FID:72, TEXT:00BA] 
 
---- Group 94 [right:金姆兰 next=2012] ---
+--- Group [right:金姆兰 next=2012] ---
 あァん？
 そうか、お前が保護者
 ってわけか・・・
@@ -628,7 +628,7 @@
 +[FID:72, TEXT:00BC] 
 +[FID:72, TEXT:00BD] 
 
---- Group 95 [right:金姆兰 next=2012] ---
+--- Group [right:金姆兰 next=2012] ---
 言っとくが、悪いのは
 ひとんちの花を盗もう
 としたこいつらだぜ？
@@ -636,39 +636,39 @@
 +[FID:72, TEXT:00BF] 
 +[FID:72, TEXT:00C0] 
 
---- Group 96 [left:利布雷 next=2012] ---
+--- Group [left:利布雷 next=2012] ---
 えっ！？
 +[FID:72, TEXT:00C1] 
 
---- Group 97 [left:none next=0023] ---
+--- Group [left:none next=0023] ---
 本当なのか？
 +[FID:72, TEXT:00C2] 
 
---- Group 98 [left:none next=0023] ---
+--- Group [left:none next=0023] ---
 それ、ホントなの？
 +[FID:72, TEXT:00C3] 
 
---- Group 99 [left:none next=0023] ---
+--- Group [left:none next=0023] ---
 本当ですか？
 +[FID:72, TEXT:00C4] 
 
---- Group 100 [right:金姆兰 next=2012] ---
+--- Group [right:金姆兰 next=2012] ---
 う、うん・・・
 +[FID:72, TEXT:00C5] 
 
---- Group 101 [left:none next=2012] ---
+--- Group [left:none next=2012] ---
 どうしてそんなこと
 したの！？
 +[FID:72, TEXT:00C6] 
 +[FID:72, TEXT:00C7] 
 
---- Group 102 [right:主人公 next=2012] ---
+--- Group [right:主人公 next=2012] ---
 落ち着けよ、リプレ
 叱るのは後でいいから
 +[FID:72, TEXT:00C8] 
 +[FID:72, TEXT:00C9] 
 
---- Group 103 [left:none next=0023] ---
+--- Group [left:none next=0023] ---
 子供たちには俺たちが
 よく言って聞かせるか
 ら、今回は許してくれ
@@ -678,13 +678,13 @@
 +[FID:72, TEXT:00CC] 
 +[FID:72, TEXT:00CD] 
 
---- Group 104 [right:主人公 next=2012] ---
+--- Group [right:主人公 next=2012] ---
 落ち着くんだ、リプレ
 叱るのは後でいい
 +[FID:72, TEXT:00CE] 
 +[FID:72, TEXT:00CF] 
 
---- Group 105 [left:none next=0023] ---
+--- Group [left:none next=0023] ---
 子供たちには僕たちが
 よく言って聞かせるか
 ら、今回は許してもら
@@ -694,13 +694,13 @@
 +[FID:72, TEXT:00D1] 
 +[FID:72, TEXT:00D2] 
 
---- Group 106 [right:主人公 next=2012] ---
+--- Group [right:主人公 next=2012] ---
 落ち着いてよ、リプレ
 叱るのは後でいいから
 +[FID:72, TEXT:00D3] 
 -[FID:72, TEXT:00C9] 
 
---- Group 107 [left:none next=0023] ---
+--- Group [left:none next=0023] ---
 子供たちにはあたしが
 よく言って聞かせるか
 らさ、許してくれない
@@ -710,13 +710,13 @@
 +[FID:72, TEXT:00D5] 
 +[FID:72, TEXT:00D6] 
 
---- Group 108 [right:主人公 next=2012] ---
+--- Group [right:主人公 next=2012] ---
 落ち着いてください
 リプレさん
 +[FID:72, TEXT:00D7] 
 +[FID:72, TEXT:00D8] 
 
---- Group 109 [left:none next=0023] ---
+--- Group [left:none next=0023] ---
 子供たちには私たちが
 よく言って聞かせます
 から、許してはもらえ
@@ -726,13 +726,13 @@
 +[FID:72, TEXT:00DB] 
 +[FID:72, TEXT:00DC] 
 
---- Group 110 [right:主人公 next=2012] ---
+--- Group [right:主人公 next=2012] ---
 いいや、許すわけには
 いかねえ・・・
 +[FID:72, TEXT:00DD] 
 +[FID:72, TEXT:00DE] 
 
---- Group 111 [right:主人公 next=2012] ---
+--- Group [right:主人公 next=2012] ---
 この花園の花は、俺が
 愛情をたっぷりこめて
 育てたものなんだ！
@@ -740,57 +740,57 @@
 +[FID:72, TEXT:00E0] 
 +[FID:72, TEXT:00E1] 
 
---- Group 112 [left:利布雷 next=2012] ---
+--- Group [left:利布雷 next=2012] ---
 え？
 +[FID:72, TEXT:00E2] 
 
---- Group 113 [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---
 キムランが・・・
 愛情をこめて・・・？
 +[FID:72, TEXT:00E3] 
 +[FID:72, TEXT:00E4] 
 
---- Group 114 [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---
 キムランさんが・・・
 愛情をこめて・・・？
 +[FID:72, TEXT:00E5] 
 -[FID:72, TEXT:00E4] 
 
---- Group 115 [right:主人公 next=2012] ---
+--- Group [right:主人公 next=2012] ---
 あッ！？
 +[FID:72, TEXT:00E6] 
 
---- Group 116 [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---
 ぷっ・・・
 くくくっ・・・
 +[FID:72, TEXT:00E7] 
 +[FID:72, TEXT:00E8] 
 
---- Group 117 [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---
 ぶっ・・・
 くくくっ・・・
 +[FID:72, TEXT:00E9] 
 -[FID:72, TEXT:00E8] 
 
---- Group 118 [right:主人公 next=2012] ---
+--- Group [right:主人公 next=2012] ---
 わ、笑いやがったなッ
 +[FID:72, TEXT:00EA] 
 
---- Group 119 [left:阿尔巴 next=2012] ---
+--- Group [left:阿尔巴 next=2012] ---
 だ、だって・・・
 あははははははっ！
 +[FID:72, TEXT:00EB] 
 +[FID:72, TEXT:00EC] 
 
---- Group 120 [left:怀兹 next=2012] ---
+--- Group [left:怀兹 next=2012] ---
 に、似合わなーい！
 +[FID:72, TEXT:00ED] 
 
---- Group 121 [left:加姆 next=2012] ---
+--- Group [left:加姆 next=2012] ---
 きゅーっ！
 +[FID:72, TEXT:00EE] 
 
---- Group 122 [right:主人公 next=2012] ---
+--- Group [right:主人公 next=2012] ---
 許さねえ・・・
 この俺のささやかな
 趣味を笑いやがって！
@@ -798,7 +798,7 @@
 +[FID:72, TEXT:00F0] 
 +[FID:72, TEXT:00F1] 
 
---- Group 123 [right:主人公 next=2012] ---
+--- Group [right:主人公 next=2012] ---
 お前ら、絶対に生きて
 ここから帰さねぇ！！
 +[FID:72, TEXT:00F2] 

@@ -1,4 +1,4 @@
---- Group 1 [right:none next=2012] ---
+--- Group [right:none next=2012] ---
 バノッサさんが
 召喚術を欲しがる
 理由ですか？
@@ -6,7 +6,7 @@
 +[FID:3F, TEXT:0002] 
 +[FID:3F, TEXT:0003] 
 
---- Group 2 [left:none next=0023] ---
+--- Group [left:none next=0023] ---
 ああ、それがわからな
 いことには話にならな
 い気がするんだ
@@ -14,7 +14,7 @@
 +[FID:3F, TEXT:0007] 
 +[FID:3F, TEXT:0008] 
 
---- Group 3 [left:none next=0023] ---
+--- Group [left:none next=0023] ---
 ああ、それがわからな
 くては答えの出しよう
 がないんだ
@@ -22,7 +22,7 @@
 +[FID:3F, TEXT:0005] 
 +[FID:3F, TEXT:0006] 
 
---- Group 4 [left:none next=0023] ---
+--- Group [left:none next=0023] ---
 うん、それがわかんな
 いと、なんともならな
 いんだよね
@@ -30,7 +30,7 @@
 +[FID:3F, TEXT:000A] 
 +[FID:3F, TEXT:000B] 
 
---- Group 5 [left:none next=0023] ---
+--- Group [left:none next=0023] ---
 ええ、それがわからな
 いと、答えの出しよう
 がないんですよ
@@ -38,23 +38,23 @@
 +[FID:3F, TEXT:000D] 
 +[FID:3F, TEXT:000E] 
 
---- Group 6 [right:none next=2012] ---
+--- Group [right:none next=2012] ---
 ・・・・・・
 +[FID:3F, TEXT:000F] 
 
---- Group 8 [left:none next=0023] ---
+--- Group [left:none next=0023] ---
 教えてくれないか？
 +[FID:3F, TEXT:0010] 
 
---- Group 9 [left:none next=0023] ---
+--- Group [left:none next=0023] ---
 ね、教えて！
 +[FID:3F, TEXT:0011] 
 
---- Group 10 [left:none next=0023] ---
+--- Group [left:none next=0023] ---
 教えてください
 +[FID:3F, TEXT:0012] 
 
---- Group 11 [right:none next=2012] ---
+--- Group [right:none next=2012] ---
 きっと・・・
 自由になりたいから
 だと思います・・・
@@ -62,19 +62,19 @@
 +[FID:3F, TEXT:0014] 
 +[FID:3F, TEXT:0015] 
 
---- Group 12 [left:none next=0023] ---
+--- Group [left:none next=0023] ---
 自由になりたい？
 +[FID:3F, TEXT:0016] 
 
---- Group 13 [left:none next=0023] ---
+--- Group [left:none next=0023] ---
 自由・・・に？
 +[FID:3F, TEXT:0017] 
 
---- Group 14 [left:none next=0023] ---
+--- Group [left:none next=0023] ---
 自由・・・ですか？
 +[FID:3F, TEXT:0018] 
 
---- Group 15 [right:none next=2012] ---
+--- Group [right:none next=2012] ---
 誰にも負けない力を手
 に入れれば、誰からも
 邪魔をされることなく
@@ -84,17 +84,17 @@
 +[FID:3F, TEXT:001B] 
 +[FID:3F, TEXT:001C] 
 
---- Group 16 [right:none next=2012] ---
+--- Group [right:none next=2012] ---
 バノッサさんはきっと
 そう思ってるんです
 +[FID:3F, TEXT:001D] 
 +[FID:3F, TEXT:001E] 
 
---- Group 17 [left:none next=2012] ---
+--- Group [left:none next=2012] ---
 ちょっと待ってくれ
 +[FID:3F, TEXT:001F] 
 
---- Group 18 [left:none next=0023] ---
+--- Group [left:none next=0023] ---
 今だってバノッサは、
 好き放題に生きている
 じゃないか？
@@ -102,7 +102,7 @@
 +[FID:3F, TEXT:0021] 
 +[FID:3F, TEXT:0024] 
 
---- Group 19 [left:none next=2012] ---
+--- Group [left:none next=2012] ---
 今だってバノッサは、
 好き放題に生きている
 じゃないか
@@ -110,15 +110,15 @@
 -[FID:3F, TEXT:0021] 
 +[FID:3F, TEXT:0022] 
 
---- Group 20 [left:none next=0023] ---
+--- Group [left:none next=0023] ---
 なのに、どうして！？
 +[FID:3F, TEXT:0023] 
 
---- Group 21 [left:none next=2012] ---
+--- Group [left:none next=2012] ---
 待ってよ！
 +[FID:3F, TEXT:0025] 
 
---- Group 22 [left:none next=2012] ---
+--- Group [left:none next=2012] ---
 バノッサって・・・
 あたしには好き勝手に
 生きてるように
@@ -128,11 +128,11 @@
 +[FID:3F, TEXT:0028] 
 +[FID:3F, TEXT:0029] 
 
---- Group 23 [left:none next=2012] ---
+--- Group [left:none next=2012] ---
 あの・・・
 +[FID:3F, TEXT:002A] 
 
---- Group 24 [left:none next=2012] ---
+--- Group [left:none next=2012] ---
 今でもバノッサさんは
 好き放題に生きている
 ように見えますが？
@@ -140,75 +140,75 @@
 -[FID:3F, TEXT:0021] 
 +[FID:3F, TEXT:002C] 
 
---- Group 25 [left:none next=0023] ---
+--- Group [left:none next=0023] ---
 なぜでしょうか・・・
 +[FID:3F, TEXT:002D] 
 
---- Group 26 [right:none next=2012] ---
+--- Group [right:none next=2012] ---
 見かけはそうなのかも
 しれません
 +[FID:3F, TEXT:002E] 
 +[FID:3F, TEXT:002F] 
 
---- Group 27 [right:none next=2012] ---
+--- Group [right:none next=2012] ---
 だけど、バノッサさん
 は、本当は・・・
 +[FID:3F, TEXT:0030] 
 +[FID:3F, TEXT:0031] 
 
---- Group 28 [right:巴萨 next=2012] ---
+--- Group [right:巴萨 next=2012] ---
 カノンッ！！
 +[FID:3F, TEXT:0032] 
 
---- Group 29 [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---
 ！？
 +[FID:3F, TEXT:0033] 
 
---- Group 31 [right:巴萨 next=2012] ---
+--- Group [right:巴萨 next=2012] ---
 そんな野郎と、なにを
 喋ってんだ・・・？
 +[FID:3F, TEXT:0034] 
 +[FID:3F, TEXT:0035] 
 
---- Group 32 [left:卡农 next=2012] ---
+--- Group [left:卡农 next=2012] ---
 バノッサさん・・・
 +[FID:3F, TEXT:0036] 
 
---- Group 33 [right:巴萨 next=2012] ---
+--- Group [right:巴萨 next=2012] ---
 なにを喋ってんだって
 言ってるんだよッ！？
 +[FID:3F, TEXT:0037] 
 +[FID:3F, TEXT:0038] 
 
---- Group 34 [left:卡农 next=2012] ---
+--- Group [left:卡农 next=2012] ---
 うあっ！
 +[FID:3F, TEXT:0039] 
 
---- Group 35 [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---
 やめろっ、バノッサ！
 +[FID:3F, TEXT:003A] 
 
---- Group 36 [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---
 やめろ、バノッサ！
 +[FID:3F, TEXT:003B] 
 
---- Group 37 [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---
 やめてっ、バノッサ！
 +[FID:3F, TEXT:003C] 
 
---- Group 38 [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---
 バノッサさん！
 やめてください！
 +[FID:3F, TEXT:003D] 
 +[FID:3F, TEXT:003E] 
 
---- Group 39 [right:巴萨 next=2012] ---
+--- Group [right:巴萨 next=2012] ---
 すっこんでろッ！
 はぐれ野郎ッ！！
 +[FID:3F, TEXT:003F] 
 +[FID:3F, TEXT:0040] 
 
---- Group 40 [right:巴萨 next=2012] ---
+--- Group [right:巴萨 next=2012] ---
 カノン・・・
 手前ェ、俺様を裏切る
 気なのか？
@@ -216,11 +216,11 @@
 +[FID:3F, TEXT:0042] 
 +[FID:3F, TEXT:0043] 
 
---- Group 42 [left:卡农 next=2012] ---
+--- Group [left:卡农 next=2012] ---
 そんな、こと・・・
 +[FID:3F, TEXT:0044] 
 
---- Group 43 [right:巴萨 next=2012] ---
+--- Group [right:巴萨 next=2012] ---
 口ではなんとでも
 言えるよなァ、
 カノン？
@@ -228,27 +228,27 @@
 +[FID:3F, TEXT:0046] 
 +[FID:3F, TEXT:0047] 
 
---- Group 44 [right:巴萨 next=2012] ---
+--- Group [right:巴萨 next=2012] ---
 だがな、それだけじゃ
 納得できねェッ！！
 +[FID:3F, TEXT:0048] 
 +[FID:3F, TEXT:0049] 
 
---- Group 45 [right:巴萨 next=2012] ---
+--- Group [right:巴萨 next=2012] ---
 証明してくれよ・・・
 +[FID:3F, TEXT:004A] 
 
---- Group 46 [right:巴萨 next=2012] ---
+--- Group [right:巴萨 next=2012] ---
 お前の手で、こいつを
 ぶちのめせッ！！
 +[FID:3F, TEXT:004B] 
 +[FID:3F, TEXT:004C] 
 
---- Group 47 [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---
 え・・・
 +[FID:3F, TEXT:004D] 
 
---- Group 48 [right:巴萨 next=2012] ---
+--- Group [right:巴萨 next=2012] ---
 あの時の誓いを忘れて
 ねェなら、できるはず
 だよなァ？
@@ -256,17 +256,17 @@
 +[FID:3F, TEXT:004F] 
 +[FID:3F, TEXT:0050] 
 
---- Group 49 [right:巴萨 next=2012] ---
+--- Group [right:巴萨 next=2012] ---
 返事はどうしたんだ
 カノンッ！？
 +[FID:3F, TEXT:0051] 
 +[FID:3F, TEXT:0052] 
 
---- Group 50 [left:卡农 next=2012] ---
+--- Group [left:卡农 next=2012] ---
 ・・・わかりました
 +[FID:3F, TEXT:0053] 
 
---- Group 51 [left:卡农 next=2012] ---
+--- Group [left:卡农 next=2012] ---
 お望みのとおり、ボク
 がこの人をやっつけて
 みせます
@@ -274,29 +274,29 @@
 +[FID:3F, TEXT:0055] 
 +[FID:3F, TEXT:0056] 
 
---- Group 52 [left:卡农 next=2012] ---
+--- Group [left:卡农 next=2012] ---
 あの誓いが嘘ではない
 と証明します
 +[FID:3F, TEXT:0057] 
 +[FID:3F, TEXT:0058] 
 
---- Group 53 [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---
 カノンさん・・・
 +[FID:3F, TEXT:0059] 
 
---- Group 54 [right:巴萨 next=2012] ---
+--- Group [right:巴萨 next=2012] ---
 ククククッ！
 よく言った、カノン！
 +[FID:3F, TEXT:005A] 
 +[FID:3F, TEXT:005B] 
 
---- Group 55 [right:巴萨 next=2012] ---
+--- Group [right:巴萨 next=2012] ---
 聞いてのとおりだ
 はぐれ野郎
 +[FID:3F, TEXT:005C] 
 +[FID:3F, TEXT:005D] 
 
---- Group 56 [right:巴萨 next=2012] ---
+--- Group [right:巴萨 next=2012] ---
 さっさとお仲間を
 呼んでこいよ？
 俺様たちと手前ェらの
@@ -306,7 +306,7 @@
 +[FID:3F, TEXT:0060] 
 +[FID:3F, TEXT:0061] 
 
---- Group 57 [right:巴萨 next=2012] ---
+--- Group [right:巴萨 next=2012] ---
 手前ェが逃げたなら、
 カノンがどうなるかは
 わかるよなァ？
@@ -314,6 +314,6 @@
 +[FID:3F, TEXT:0063] 
 +[FID:3F, TEXT:0064] 
 
---- Group 58 [right:巴萨 next=2012] ---
+--- Group [right:巴萨 next=2012] ---
 楽しみに待ってるぜ！
 +[FID:3F, TEXT:0065] 

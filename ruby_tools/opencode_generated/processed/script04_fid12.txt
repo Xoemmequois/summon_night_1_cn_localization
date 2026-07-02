@@ -1,14 +1,14 @@
---- Group 1 [left:艾多斯 next=2012] ---
+--- Group [left:艾多斯 next=2012] ---
 しかし、まずいことに
 なっちまったな
 +[FID:12, TEXT:0001] 
 +[FID:12, TEXT:0002] 
 
---- Group 3 [right:雷德 next=2012] ---
+--- Group [right:雷德 next=2012] ---
 ああ、そうだな
 +[FID:12, TEXT:0003] 
 
---- Group 4 [left:加泽尔 next=2012] ---
+--- Group [left:加泽尔 next=2012] ---
 ケッ！
 どうせ最初から、お前
 らは俺らを叩きのめす
@@ -18,7 +18,7 @@
 +[FID:12, TEXT:00E7] 
 +[FID:12, TEXT:00E8] 
 
---- Group 6 [left:加泽尔 next=2012] ---
+--- Group [left:加泽尔 next=2012] ---
 あいつらが俺らを
 目の仇にしているのは
 今に始まったこと
@@ -28,13 +28,13 @@
 +[FID:12, TEXT:0007] 
 +[FID:12, TEXT:0008] 
 
---- Group 7 [right:雷德 next=2012] ---
+--- Group [right:雷德 next=2012] ---
 だが、今までは
 それだけですんでいた
 +[FID:12, TEXT:0009] 
 +[FID:12, TEXT:000A] 
 
---- Group 8 [right:雷德 next=2012] ---
+--- Group [right:雷德 next=2012] ---
 おそらく連中は、今日
 のことを口実にして、
 直接手を出してくる気
@@ -44,21 +44,21 @@
 +[FID:12, TEXT:000D] 
 +[FID:12, TEXT:000E] 
 
---- Group 9 [right:艾多斯 next=2012] ---
+--- Group [right:艾多斯 next=2012] ---
 ワシらだけが狙われる
 のならまだいいが
 +[FID:12, TEXT:000F] 
 +[FID:12, TEXT:0010] 
 
---- Group 10 [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---
 ・・・まさか！？
 +[FID:12, TEXT:0011] 
 
---- Group 11 [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---
 え・・・まさか？
 +[FID:12, TEXT:0012] 
 
---- Group 12 [right:艾多斯 next=2012] ---
+--- Group [right:艾多斯 next=2012] ---
 ああ
 奴らは女子供であろう
 と、容赦はせん
@@ -66,15 +66,15 @@
 +[FID:12, TEXT:0014] 
 +[FID:12, TEXT:0015] 
 
---- Group 13 [right:艾多斯 next=2012] ---
+--- Group [right:艾多斯 next=2012] ---
 そういう連中なのさ
 +[FID:12, TEXT:0016] 
 
---- Group 14 [right:加泽尔 next=2012] ---
+--- Group [right:加泽尔 next=2012] ---
 くそっ！！
 +[FID:12, TEXT:0017] 
 
---- Group 15 [left:主人公 next=2012] ---
+--- Group [left:主人公 next=2012] ---
 そういえば・・・
 【オプテュス】のこと
 あたしは何も知らない
@@ -84,7 +84,7 @@
 +[FID:12, TEXT:0021] 
 +[FID:12, TEXT:0022] 
 
---- Group 16 [left:主人公 next=2012] ---
+--- Group [left:主人公 next=2012] ---
 そういえば・・・
 僕は【オプテュス】に
 ついて、何も知らない
@@ -94,7 +94,7 @@
 +[FID:12, TEXT:001A] 
 +[FID:12, TEXT:001F] 
 
---- Group 17 [left:主人公 next=2012] ---
+--- Group [left:主人公 next=2012] ---
 そういえば・・・
 わたし【オプテュス】
 のこと、何も知らない
@@ -104,7 +104,7 @@
 +[FID:12, TEXT:0026] 
 -[FID:12, TEXT:001F] 
 
---- Group 18 [left:主人公 next=2012] ---
+--- Group [left:主人公 next=2012] ---
 そういえば・・・
 俺は【オプテュス】に
 ついて、何も知らない
@@ -114,25 +114,25 @@
 -[FID:12, TEXT:001A] 
 +[FID:12, TEXT:001B] 
 
---- Group 19 [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---
 くわしく聞いておいた
 ほうが良さそうですね
 +[FID:12, TEXT:001C] 
 +[FID:12, TEXT:0027] 
 
---- Group 20 [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---
 くわしく聞いておいた
 ほうが良さそうだな
 -[FID:12, TEXT:001C] 
 +[FID:12, TEXT:001D] 
 
---- Group 21 [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---
 聞いておかなきゃ
 ダメだよね・・・
 +[FID:12, TEXT:0023] 
 +[FID:12, TEXT:0024] 
 
---- Group 22 [right:巴萨 next=2015] ---
+--- Group [right:巴萨 next=2015] ---
 どうしよう？
 　黙っている
 　自ら名乗り出る
@@ -140,7 +140,7 @@
 +[FID:12, TEXT:008E] 
 +[FID:12, TEXT:008F] 
 
---- Group 23 [left:主人公 next=2015] ---
+--- Group [left:主人公 next=2015] ---
 どうしよう？
 　レイドに聞く
 　ガゼルに聞く
@@ -150,19 +150,19 @@
 +[FID:12, TEXT:002A] 
 +[FID:12, TEXT:002B] 
 
---- Group 24 [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---
 【オプテュス】って、
 どんな連中なんです？
 +[FID:12, TEXT:002C] 
 +[FID:12, TEXT:002D] 
 
---- Group 25 [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---
 【オプテュス】って、
 どんな人たちですか？
 -[FID:12, TEXT:002C] 
 +[FID:12, TEXT:0032] 
 
---- Group 26 [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---
 あの・・・
 【オプテュス】って
 どんな人たち
@@ -172,7 +172,7 @@
 +[FID:12, TEXT:0030] 
 +[FID:12, TEXT:0031] 
 
---- Group 27 [right:雷德 next=2012] ---
+--- Group [right:雷德 next=2012] ---
 バノッサという頭目が
 率いている犯罪集団の
 ことさ
@@ -180,7 +180,7 @@
 +[FID:12, TEXT:0034] 
 +[FID:12, TEXT:0035] 
 
---- Group 28 [right:雷德 next=2012] ---
+--- Group [right:雷德 next=2012] ---
 繁華街に集まってくる
 ならず者のグループで
 北スラムではそれなり
@@ -190,25 +190,25 @@
 +[FID:12, TEXT:0038] 
 +[FID:12, TEXT:0039] 
 
---- Group 29 [right:雷德 next=2012] ---
+--- Group [right:雷德 next=2012] ---
 正直、関わり合いたく
 なかった相手だよ
 +[FID:12, TEXT:003A] 
 +[FID:12, TEXT:003B] 
 
---- Group 30 [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---
 そんな物騒な連中
 だったのか・・・！？
 +[FID:12, TEXT:003C] 
 +[FID:12, TEXT:003D] 
 
---- Group 31 [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---
 そんな物騒な連中だっ
 たのか・・・
 +[FID:12, TEXT:003E] 
 +[FID:12, TEXT:003F] 
 
---- Group 32 [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---
 うそ、めちゃめちゃ
 アブないひとたち
 だったんだ・・・
@@ -216,19 +216,19 @@
 +[FID:12, TEXT:0041] 
 +[FID:12, TEXT:0042] 
 
---- Group 33 [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---
 そんな危険な人たち
 だったんですか・・・
 +[FID:12, TEXT:0043] 
 +[FID:12, TEXT:0044] 
 
---- Group 34 [right:加泽尔 next=2012] ---
+--- Group [right:加泽尔 next=2012] ---
 連中はスラムの支配者
 をきどってやがる
 +[FID:12, TEXT:0045] 
 +[FID:12, TEXT:0046] 
 
---- Group 35 [right:加泽尔 next=2012] ---
+--- Group [right:加泽尔 next=2012] ---
 この南スラムも縄張り
 に欲しがっていて、前
 から色々とちょっかい
@@ -238,7 +238,7 @@
 +[FID:12, TEXT:0049] 
 +[FID:12, TEXT:004A] 
 
---- Group 36 [right:加泽尔 next=2012] ---
+--- Group [right:加泽尔 next=2012] ---
 今日のことは、連中に
 絶好の口実を与えちま
 ったのかもしれねえ
@@ -246,11 +246,11 @@
 +[FID:12, TEXT:004C] 
 +[FID:12, TEXT:004D] 
 
---- Group 37 [right:加泽尔 next=2012] ---
+--- Group [right:加泽尔 next=2012] ---
 ・・・クソッ！
 +[FID:12, TEXT:004E] 
 
---- Group 38 [right:艾多斯 next=2012] ---
+--- Group [right:艾多斯 next=2012] ---
 とにかく相手は徒党を
 組んどるからな
 つけ狙われると面倒な
@@ -260,7 +260,7 @@
 +[FID:12, TEXT:0051] 
 +[FID:12, TEXT:0052] 
 
---- Group 39 [right:艾多斯 next=2012] ---
+--- Group [right:艾多斯 next=2012] ---
 奴らのずる賢さと執念
 深さはハンパじゃない
 からな
@@ -268,7 +268,7 @@
 +[FID:12, TEXT:0054] 
 +[FID:12, TEXT:0055] 
 
---- Group 40 [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---
 街の軍隊に助けを求め
 たりとか、できないん
 ですか？
@@ -276,7 +276,7 @@
 +[FID:12, TEXT:0057] 
 +[FID:12, TEXT:0058] 
 
---- Group 41 [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---
 この街の軍隊とかは、
 彼らを取り締まらない
 んですか？
@@ -284,13 +284,13 @@
 +[FID:12, TEXT:005A] 
 +[FID:12, TEXT:005B] 
 
---- Group 42 [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---
 街の軍隊とかには
 助けてもらえないの？
 +[FID:12, TEXT:005C] 
 +[FID:12, TEXT:005D] 
 
---- Group 43 [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---
 街の軍隊に助けを
 求めたりとか、
 できないんですか？
@@ -298,7 +298,7 @@
 +[FID:12, TEXT:005F] 
 +[FID:12, TEXT:0060] 
 
---- Group 44 [right:艾多斯 next=2012] ---
+--- Group [right:艾多斯 next=2012] ---
 兵士たちが守る相手は
 きちんと税金を納めて
 いる善良な市民さ
@@ -306,7 +306,7 @@
 +[FID:12, TEXT:0062] 
 +[FID:12, TEXT:0063] 
 
---- Group 45 [right:艾多斯 next=2012] ---
+--- Group [right:艾多斯 next=2012] ---
 ワシらのようなスラム
 に隠れ住んでいる奴ら
 など眼中にありゃせん
@@ -314,11 +314,11 @@
 +[FID:12, TEXT:0065] 
 +[FID:12, TEXT:0066] 
 
---- Group 46 [left:主人公 next=2012] ---
+--- Group [left:主人公 next=2012] ---
 そんな・・・
 +[FID:12, TEXT:0067] 
 
---- Group 47 [right:艾多斯 next=2012] ---
+--- Group [right:艾多斯 next=2012] ---
 自分の身は自分で守る
 それがスラムで暮らす
 者の常識ってやつさ
@@ -326,7 +326,7 @@
 +[FID:12, TEXT:0069] 
 +[FID:12, TEXT:006A] 
 
---- Group 48 [right:雷德 next=2012] ---
+--- Group [right:雷德 next=2012] ---
 ち、ちょっと！？
 あんたたち、いったい
 何のつもりよっ！！
@@ -334,11 +334,11 @@
 +[FID:12, TEXT:006C] 
 +[FID:12, TEXT:006D] 
 
---- Group 51 [left:加泽尔 next=2012] ---
+--- Group [left:加泽尔 next=2012] ---
 ・・・来やがった！！
 +[FID:12, TEXT:006E] 
 
---- Group 54 [right:巴萨 next=2012] ---
+--- Group [right:巴萨 next=2012] ---
 よォ
 昼間のことで挨拶しに
 来てやったぜ？
@@ -346,11 +346,11 @@
 +[FID:12, TEXT:0070] 
 +[FID:12, TEXT:0071] 
 
---- Group 55 [left:艾多斯 next=2012] ---
+--- Group [left:艾多斯 next=2012] ---
 バノッサ・・・
 +[FID:12, TEXT:0072] 
 
---- Group 56 [right:巴萨 next=2012] ---
+--- Group [right:巴萨 next=2012] ---
 聞けば俺様の子分ども
 を、ずいぶんとかわい
 がってくれたそうじゃ
@@ -360,7 +360,7 @@
 +[FID:12, TEXT:0075] 
 +[FID:12, TEXT:0076] 
 
---- Group 57 [right:巴萨 next=2012] ---
+--- Group [right:巴萨 next=2012] ---
 いったいどういうこと
 なのか、きっちり説明
 してもらわねェとな？
@@ -368,7 +368,7 @@
 +[FID:12, TEXT:0078] 
 +[FID:12, TEXT:0079] 
 
---- Group 58 [left:加泽尔 next=2012] ---
+--- Group [left:加泽尔 next=2012] ---
 説明も何も、先に俺ら
 にちょっかい出して
 きたのはお前らのほう
@@ -378,13 +378,13 @@
 +[FID:12, TEXT:007C] 
 +[FID:12, TEXT:007D] 
 
---- Group 59 [right:巴萨 next=2012] ---
+--- Group [right:巴萨 next=2012] ---
 きっかけなんざ、関係
 ねェんだよ
 +[FID:12, TEXT:007E] 
 +[FID:12, TEXT:007F] 
 
---- Group 60 [right:巴萨 next=2012] ---
+--- Group [right:巴萨 next=2012] ---
 ただ問題なのは、俺様
 のメンツにお前らが泥
 を塗ったってことよ！
@@ -392,11 +392,11 @@
 +[FID:12, TEXT:0081] 
 +[FID:12, TEXT:0082] 
 
---- Group 61 [left:雷德 next=2012] ---
+--- Group [left:雷德 next=2012] ---
 ・・・何が望みだ？
 +[FID:12, TEXT:0083] 
 
---- Group 62 [right:巴萨 next=2012] ---
+--- Group [right:巴萨 next=2012] ---
 ことの張本人を、
 俺様に引き渡しな
 今ならそいつの始末だ
@@ -406,11 +406,11 @@
 +[FID:12, TEXT:0086] 
 +[FID:12, TEXT:0087] 
 
---- Group 63 [left:雷德 next=2012] ---
+--- Group [left:雷德 next=2012] ---
 断る、と言ったら？
 +[FID:12, TEXT:0088] 
 
---- Group 64 [right:巴萨 next=2012] ---
+--- Group [right:巴萨 next=2012] ---
 クククッ
 震えてるわりにカッコ
 イイこと言うなァ？
@@ -418,7 +418,7 @@
 +[FID:12, TEXT:00CC] 
 +[FID:12, TEXT:00CD] 
 
---- Group 65 [right:巴萨 next=2012] ---
+--- Group [right:巴萨 next=2012] ---
 クククッ
 言わなくても、手前ェ
 ならわかるだろう？
@@ -426,29 +426,29 @@
 +[FID:12, TEXT:008A] 
 +[FID:12, TEXT:008B] 
 
---- Group 66 [right:巴萨 next=2012] ---
+--- Group [right:巴萨 next=2012] ---
 クククッ
 予想どおりの展開だな
 -[FID:12, TEXT:0089] 
 +[FID:12, TEXT:0093] 
 
---- Group 67 [right:巴萨 next=2012] ---
+--- Group [right:巴萨 next=2012] ---
 それなりの覚悟はして
 もらうことになるぜェ
 +[FID:12, TEXT:008C] 
 +[FID:12, TEXT:008D] 
 
---- Group 68 [right:巴萨 next=2012] ---
+--- Group [right:巴萨 next=2012] ---
 さあ、どうする！？
 +[FID:12, TEXT:0090] 
 
---- Group 69 [left:雷德 next=2012] ---
+--- Group [left:雷德 next=2012] ---
 ・・・お前の言うこと
 には従えん！
 +[FID:12, TEXT:0091] 
 +[FID:12, TEXT:0092] 
 
---- Group 70 [right:巴萨 next=2012] ---
+--- Group [right:巴萨 next=2012] ---
 いいだろう
 手前ェがそう言うなら
 そういうことにするさ
@@ -456,7 +456,7 @@
 +[FID:12, TEXT:00CF] 
 +[FID:12, TEXT:00D0] 
 
---- Group 71 [right:巴萨 next=2012] ---
+--- Group [right:巴萨 next=2012] ---
 いいだろう
 それなら予定どおり、
 貴様ら全員ブチのめし
@@ -466,39 +466,39 @@
 +[FID:12, TEXT:0096] 
 +[FID:12, TEXT:0097] 
 
---- Group 72 [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---
 ・・・俺がそうだよ
 +[FID:12, TEXT:0098] 
 
---- Group 73 [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---
 ・・・僕だよ
 +[FID:12, TEXT:0099] 
 
---- Group 74 [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---
 ・・・あたしだよ
 +[FID:12, TEXT:009A] 
 
---- Group 75 [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---
 ・・・わたしです！
 +[FID:12, TEXT:009B] 
 
---- Group 76 [left:艾多斯 next=2012] ---
+--- Group [left:艾多斯 next=2012] ---
 @ n 
 +[FID:12, TEXT:009C] 
 
---- Group 77 [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---
 あんたの子分に最初に
 手を出したのは俺だ
 +[FID:12, TEXT:009D] 
 +[FID:12, TEXT:009E] 
 
---- Group 78 [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---
 おまえの子分に最初に
 手を出したのは僕だ
 +[FID:12, TEXT:009F] 
 +[FID:12, TEXT:00A0] 
 
---- Group 79 [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---
 あなたの手下に最初に
 手を出したのはあたし
 ・・・これで満足？
@@ -506,7 +506,7 @@
 +[FID:12, TEXT:00A2] 
 +[FID:12, TEXT:00A3] 
 
---- Group 80 [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---
 あなたの仲間に
 手を出したのは・・・
 わたしなんです！
@@ -514,11 +514,11 @@
 +[FID:12, TEXT:00A5] 
 +[FID:12, TEXT:00A6] 
 
---- Group 81 [right:巴萨 next=2012] ---
+--- Group [right:巴萨 next=2012] ---
 ん？見かけん顔だな
 +[FID:12, TEXT:00A7] 
 
---- Group 82 [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---
 この街には来たばかり
 なんだよ
 だから、あんたたちの
@@ -528,7 +528,7 @@
 +[FID:12, TEXT:00AA] 
 +[FID:12, TEXT:00AB] 
 
---- Group 83 [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---
 この街には来たばかり
 だからな
 だから、おまえたちの
@@ -538,7 +538,7 @@
 +[FID:12, TEXT:00AD] 
 -[FID:12, TEXT:00AB] 
 
---- Group 84 [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---
 この街には来たばかり
 だもの・・・だから
 あなたたちのこと
@@ -548,13 +548,13 @@
 +[FID:12, TEXT:00AF] 
 +[FID:12, TEXT:00B0] 
 
---- Group 85 [left:主人公 next=2012] ---
+--- Group [left:主人公 next=2012] ---
 この街には
 来たばかりなんです
 +[FID:12, TEXT:00B1] 
 +[FID:12, TEXT:00B2] 
 
---- Group 86 [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---
 だから、あなたたちの
 ことも知りません
 でした
@@ -562,11 +562,11 @@
 +[FID:12, TEXT:00B4] 
 +[FID:12, TEXT:00B5] 
 
---- Group 87 [right:巴萨 next=2012] ---
+--- Group [right:巴萨 next=2012] ---
 ほォ・・・
 +[FID:12, TEXT:00B6] 
 
---- Group 88 [left:主人公 next=2012] ---
+--- Group [left:主人公 next=2012] ---
 たまたまここに泊めて
 もらっていただけで、
 彼らと俺とは無関係だ
@@ -574,7 +574,7 @@
 +[FID:12, TEXT:00B8] 
 +[FID:12, TEXT:00B9] 
 
---- Group 89 [left:主人公 next=2012] ---
+--- Group [left:主人公 next=2012] ---
 たまたまここに泊めて
 もらっていただけで、
 わたしと彼らは
@@ -584,7 +584,7 @@
 +[FID:12, TEXT:00C7] 
 +[FID:12, TEXT:00C8] 
 
---- Group 90 [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---
 だから、あんたが始末
 をつけるのは俺だけで
 いい
@@ -592,7 +592,7 @@
 +[FID:12, TEXT:00BB] 
 +[FID:12, TEXT:00BC] 
 
---- Group 91 [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---
 つまり、これはおまえ
 たちと僕の問題なんだ
 彼らには関係ない
@@ -600,7 +600,7 @@
 +[FID:12, TEXT:00BE] 
 +[FID:12, TEXT:00BF] 
 
---- Group 92 [left:主人公 next=2012] ---
+--- Group [left:主人公 next=2012] ---
 あたしはここに泊めて
 もらっていただけで、
 この人たちとあたしは
@@ -610,7 +610,7 @@
 +[FID:12, TEXT:00C1] 
 +[FID:12, TEXT:00C2] 
 
---- Group 93 [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---
 だから、
 恨みを晴らすなら
 この人たちじゃなくて
@@ -620,7 +620,7 @@
 +[FID:12, TEXT:00C5] 
 +[FID:12, TEXT:00C6] 
 
---- Group 94 [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---
 だから、狙うなら
 わたしだけに
 してください！
@@ -628,33 +628,33 @@
 +[FID:12, TEXT:00CA] 
 +[FID:12, TEXT:00CB] 
 
---- Group 95 [left:主人公 next=2012] ---
+--- Group [left:主人公 next=2012] ---
 ・・・っ
 +[FID:12, TEXT:00CE] 
 
---- Group 96 [right:巴萨 next=2012] ---
+--- Group [right:巴萨 next=2012] ---
 さあ、来てもらうぜ！
 +[FID:12, TEXT:00D1] 
 
---- Group 97 [right:加泽尔 next=2012] ---
+--- Group [right:加泽尔 next=2012] ---
 ・・・待てよっ！
 +[FID:12, TEXT:00D2] 
 
---- Group 98 [right:加泽尔 next=2012] ---
+--- Group [right:加泽尔 next=2012] ---
 何を二人で勝手に話を
 進めてんだよ！！
 +[FID:12, TEXT:00D3] 
 +[FID:12, TEXT:00D4] 
 
---- Group 99 [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---
 ガゼル！？
 +[FID:12, TEXT:00D5] 
 
---- Group 100 [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---
 ガゼルさん！？
 +[FID:12, TEXT:00D6] 
 
---- Group 101 [left:主人公 next=2012] ---
+--- Group [left:主人公 next=2012] ---
 そいつはな、ワシらの
 大事な客人なのさ
 無断で連れて行かれる
@@ -664,15 +664,15 @@
 +[FID:12, TEXT:00D9] 
 +[FID:12, TEXT:00DA] 
 
---- Group 102 [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---
 エドス・・・？
 +[FID:12, TEXT:00DB] 
 
---- Group 103 [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---
 エドスさん・・・？
 +[FID:12, TEXT:00DC] 
 
---- Group 104 [left:none next=2012] ---
+--- Group [left:none next=2012] ---
 私たちはまだ、お前の
 要求に従うとは言って
 いない
@@ -680,17 +680,17 @@
 +[FID:12, TEXT:00DE] 
 +[FID:12, TEXT:00DF] 
 
---- Group 105 [left:none next=2012] ---
+--- Group [left:none next=2012] ---
 つけ加えるなら、
 従うつもりもない！
 +[FID:12, TEXT:00E0] 
 +[FID:12, TEXT:00E1] 
 
---- Group 106 [left:主人公 next=2012] ---
+--- Group [left:主人公 next=2012] ---
 レイド・・・さん
 +[FID:12, TEXT:00E2] 
 
---- Group 107 [right:巴萨 next=2012] ---
+--- Group [right:巴萨 next=2012] ---
 手前ェら・・・
 俺様たちと本気でやり
 あうつもりかよッ！？
@@ -698,7 +698,7 @@
 +[FID:12, TEXT:00E4] 
 +[FID:12, TEXT:00E5] 
 
---- Group 108 [left:加泽尔 next=2012] ---
+--- Group [left:加泽尔 next=2012] ---
 小細工せずに、ケンカ
 ぐらい正々堂々と売れ
 ねえのかよっ！！
@@ -706,7 +706,7 @@
 +[FID:12, TEXT:00EA] 
 +[FID:12, TEXT:00EB] 
 
---- Group 109 [right:巴萨 next=2012] ---
+--- Group [right:巴萨 next=2012] ---
 吠えやがったな・・・
 いいぜ、やってやろう
 じゃねェかッ！！
@@ -714,7 +714,7 @@
 +[FID:12, TEXT:00ED] 
 +[FID:12, TEXT:00EE] 
 
---- Group 110 [right:艾多斯 next=0026] ---
+--- Group [right:艾多斯 next=0026] ---
 【自分の部屋】
 
 

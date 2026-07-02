@@ -1,4 +1,4 @@
---- Group 1 [right:莫纳蒂 next=2012] ---
+--- Group [right:莫纳蒂 next=2012] ---
 すいませんですのっ！
 ほんとにごめんなさい
 ですのっ！！
@@ -6,7 +6,7 @@
 +[FID:4C, TEXT:0002] 
 +[FID:4C, TEXT:0003] 
 
---- Group 2 [right:莫纳蒂 next=2012] ---
+--- Group [right:莫纳蒂 next=2012] ---
 モナティのせいで
 お客さんに迷惑かけて
 しまって・・・
@@ -14,7 +14,7 @@
 +[FID:4C, TEXT:0005] 
 +[FID:4C, TEXT:0006] 
 
---- Group 3 [left:none next=2012] ---
+--- Group [left:none next=2012] ---
 おいおい、そんなに
 気にしなくていいって
 こっちはケガもして
@@ -24,7 +24,7 @@
 +[FID:4C, TEXT:0009] 
 +[FID:4C, TEXT:000A] 
 
---- Group 4 [left:none next=0023] ---
+--- Group [left:none next=0023] ---
 ガウム、だっけか？
 あいつが楯になって
 くれたおかげだな？
@@ -32,7 +32,7 @@
 +[FID:4C, TEXT:000C] 
 +[FID:4C, TEXT:000D] 
 
---- Group 5 [left:none next=2012] ---
+--- Group [left:none next=2012] ---
 そんなに謝らなくても
 平気だよ
 別にケガをしたわけで
@@ -42,7 +42,7 @@
 +[FID:4C, TEXT:0010] 
 +[FID:4C, TEXT:0011] 
 
---- Group 6 [left:none next=0023] ---
+--- Group [left:none next=0023] ---
 ガウム、だったかい？
 あの子が楯になってく
 れたおかげでね
@@ -50,7 +50,7 @@
 +[FID:4C, TEXT:0013] 
 +[FID:4C, TEXT:0014] 
 
---- Group 7 [left:none next=2012] ---
+--- Group [left:none next=2012] ---
 そんなに気にしなく
 てもいいから・・・
 けがもしてないし、ね
@@ -58,7 +58,7 @@
 +[FID:4C, TEXT:001C] 
 +[FID:4C, TEXT:001D] 
 
---- Group 8 [left:none next=2012] ---
+--- Group [left:none next=2012] ---
 そんなに気にしなく
 てもいいって！
 ほら、けがもないしさ
@@ -68,7 +68,7 @@
 +[FID:4C, TEXT:0017] 
 +[FID:4C, TEXT:0018] 
 
---- Group 9 [left:none next=0023] ---
+--- Group [left:none next=0023] ---
 ガウム、だっけ？
 彼がかばってくれて
 助かったし・・・
@@ -76,15 +76,15 @@
 +[FID:4C, TEXT:001A] 
 +[FID:4C, TEXT:001B] 
 
---- Group 10 [left:none next=2012] ---
+--- Group [left:none next=2012] ---
 あはははっ！
 +[FID:4C, TEXT:001E] 
 
---- Group 11 [right:莫纳蒂 next=2012] ---
+--- Group [right:莫纳蒂 next=2012] ---
 きゅっきゅーっ！
 +[FID:4C, TEXT:001F] 
 
---- Group 12 [left:none next=0023] ---
+--- Group [left:none next=0023] ---
 子供たちの遊び相手も
 してもらって、こっち
 こそ感謝しなくちゃ
@@ -92,7 +92,7 @@
 +[FID:4C, TEXT:0021] 
 +[FID:4C, TEXT:0022] 
 
---- Group 13 [left:none next=0023] ---
+--- Group [left:none next=0023] ---
 子供たちの遊び相手も
 してもらって、こっち
 こそ感謝しなくちゃ！
@@ -100,7 +100,7 @@
 -[FID:4C, TEXT:0021] 
 +[FID:4C, TEXT:0023] 
 
---- Group 14 [left:none next=0023] ---
+--- Group [left:none next=0023] ---
 子供たちの遊び相手も
 してもらって、こっち
 こそ感謝してるの
@@ -108,11 +108,11 @@
 -[FID:4C, TEXT:0021] 
 +[FID:4C, TEXT:0024] 
 
---- Group 15 [right:莫纳蒂 next=2012] ---
+--- Group [right:莫纳蒂 next=2012] ---
 そんな・・・
 +[FID:4C, TEXT:0025] 
 
---- Group 16 [left:none next=0023] ---
+--- Group [left:none next=0023] ---
 それよりさ、
 君に聞きたいことが
 あるんだよ
@@ -120,19 +120,19 @@
 +[FID:4C, TEXT:0027] 
 +[FID:4C, TEXT:0028] 
 
---- Group 17 [left:none next=0023] ---
+--- Group [left:none next=0023] ---
 それよりも、君に聞き
 たいことがあるんだ
 +[FID:4C, TEXT:0029] 
 +[FID:4C, TEXT:002A] 
 
---- Group 18 [left:none next=0023] ---
+--- Group [left:none next=0023] ---
 それより・・・
 聞きたいことがあるの
 +[FID:4C, TEXT:002B] 
 +[FID:4C, TEXT:002C] 
 
---- Group 19 [right:莫纳蒂 next=2012] ---
+--- Group [right:莫纳蒂 next=2012] ---
 は、はいっ・・・
 モナティにわかること
 でしたらっ！
@@ -140,41 +140,41 @@
 +[FID:4C, TEXT:002E] 
 +[FID:4C, TEXT:002F] 
 
---- Group 20 [right:莫纳蒂 next=0023] ---
+--- Group [right:莫纳蒂 next=0023] ---
 どうしよう？
 +[FID:4C, TEXT:0030] 
 
---- Group 21 [right:莫纳蒂 next=0023] ---
+--- Group [right:莫纳蒂 next=0023] ---
 　君は召喚獣なの？
 　いつも失敗してるの？
 +[FID:4C, TEXT:0031] 
 +[FID:4C, TEXT:0032] 
 
---- Group 22 [right:莫纳蒂 next=0023] ---
+--- Group [right:莫纳蒂 next=0023] ---
 　君は召喚獣なのか？
 　いつも失敗してるの？
 +[FID:4C, TEXT:0033] 
 -[FID:4C, TEXT:0032] 
 
---- Group 23 [right:莫纳蒂 next=0023] ---
+--- Group [right:莫纳蒂 next=0023] ---
 　あなた、召喚獣？
 　いつも失敗してるの？
 +[FID:4C, TEXT:0034] 
 -[FID:4C, TEXT:0032] 
 
---- Group 24 [left:none next=0023] ---
+--- Group [left:none next=0023] ---
 君は召喚獣なの？
 +[FID:4C, TEXT:0035] 
 
---- Group 25 [left:none next=0023] ---
+--- Group [left:none next=0023] ---
 君は召喚獣なのか？
 +[FID:4C, TEXT:0036] 
 
---- Group 26 [left:none next=0023] ---
+--- Group [left:none next=0023] ---
 あなた、召喚獣？
 +[FID:4C, TEXT:0037] 
 
---- Group 27 [right:莫纳蒂 next=2012] ---
+--- Group [right:莫纳蒂 next=2012] ---
 はいですの
 モナティもガウムも、
 召喚獣なんですの
@@ -182,7 +182,7 @@
 +[FID:4C, TEXT:0039] 
 +[FID:4C, TEXT:003A] 
 
---- Group 28 [right:莫纳蒂 next=2012] ---
+--- Group [right:莫纳蒂 next=2012] ---
 ご主人様のお役に立つ
 ために、他の世界から
 呼ばれたんですのっ！
@@ -190,63 +190,63 @@
 +[FID:4C, TEXT:003C] 
 +[FID:4C, TEXT:003D] 
 
---- Group 29 [left:none next=0023] ---
+--- Group [left:none next=0023] ---
 サーカスに出て、
 芸をするために？
 +[FID:4C, TEXT:003E] 
 +[FID:4C, TEXT:003F] 
 
---- Group 30 [right:莫纳蒂 next=2012] ---
+--- Group [right:莫纳蒂 next=2012] ---
 うにゅ・・・
 そ、それは・・・
 +[FID:4C, TEXT:0040] 
 +[FID:4C, TEXT:0041] 
 
---- Group 31 [left:none next=0023] ---
+--- Group [left:none next=0023] ---
 何か理由があるみたい
 だな？
 +[FID:4C, TEXT:0042] 
 +[FID:4C, TEXT:0043] 
 
---- Group 32 [left:none next=0023] ---
+--- Group [left:none next=0023] ---
 何か理由があるみたい
 ね・・・？
 -[FID:4C, TEXT:0042] 
 +[FID:4C, TEXT:0044] 
 
---- Group 33 [left:none next=0023] ---
+--- Group [left:none next=0023] ---
 いつもあんな調子で、
 失敗してるのか？
 +[FID:4C, TEXT:0045] 
 +[FID:4C, TEXT:0046] 
 
---- Group 34 [left:none next=0023] ---
+--- Group [left:none next=0023] ---
 いつもあんな調子で、
 失敗してるの？
 -[FID:4C, TEXT:0045] 
 +[FID:4C, TEXT:0047] 
 
---- Group 35 [right:莫纳蒂 next=2012] ---
+--- Group [right:莫纳蒂 next=2012] ---
 う、うにゅうぅ・・・
 +[FID:4C, TEXT:0048] 
 
---- Group 36 [left:none next=0023] ---
+--- Group [left:none next=0023] ---
 図星かいっ！？
 +[FID:4C, TEXT:0049] 
 
---- Group 37 [left:none next=0023] ---
+--- Group [left:none next=0023] ---
 図星なのか・・・
 +[FID:4C, TEXT:004A] 
 
---- Group 38 [left:none next=0023] ---
+--- Group [left:none next=0023] ---
 当たり〜？？
 +[FID:4C, TEXT:004B] 
 
---- Group 39 [left:none next=0023] ---
+--- Group [left:none next=0023] ---
 はは、やっぱり
 +[FID:4C, TEXT:004C] 
 
---- Group 40 [right:莫纳蒂 next=2012] ---
+--- Group [right:莫纳蒂 next=2012] ---
 モナティたちをお呼び
 になったご主人様は、
 もう死んでしまったん
@@ -256,7 +256,7 @@
 +[FID:4C, TEXT:004F] 
 +[FID:4C, TEXT:0050] 
 
---- Group 41 [right:莫纳蒂 next=2012] ---
+--- Group [right:莫纳蒂 next=2012] ---
 行く場所がなくなった
 モナティたちを、
 団長さんが拾って
@@ -266,15 +266,15 @@
 +[FID:4C, TEXT:0053] 
 +[FID:4C, TEXT:0054] 
 
---- Group 42 [left:none next=2012] ---
+--- Group [left:none next=2012] ---
 それで、サーカスに？
 +[FID:4C, TEXT:0055] 
 
---- Group 43 [right:莫纳蒂 next=2012] ---
+--- Group [right:莫纳蒂 next=2012] ---
 はい・・・
 +[FID:4C, TEXT:0056] 
 
---- Group 44 [right:莫纳蒂 next=2012] ---
+--- Group [right:莫纳蒂 next=2012] ---
 モナティたちのような
 召喚獣は、はぐれって
 呼ばれるらしいですの
@@ -282,7 +282,7 @@
 +[FID:4C, TEXT:0058] 
 +[FID:4C, TEXT:0059] 
 
---- Group 45 [right:莫纳蒂 next=2012] ---
+--- Group [right:莫纳蒂 next=2012] ---
 でも、団長さんのおか
 げでモナティたちは、
 はぐれにならずに
@@ -292,7 +292,7 @@
 +[FID:4C, TEXT:005C] 
 +[FID:4C, TEXT:005D] 
 
---- Group 46 [right:莫纳蒂 next=2012] ---
+--- Group [right:莫纳蒂 next=2012] ---
 モナティは失敗ばかり
 で、ちっともご恩返し
 できてないけど・・・
@@ -300,7 +300,7 @@
 +[FID:4C, TEXT:005F] 
 +[FID:4C, TEXT:0060] 
 
---- Group 47 [right:莫纳蒂 next=2012] ---
+--- Group [right:莫纳蒂 next=2012] ---
 いつか団長さんの
 お役にたちたいと
 思ってるんですのっ！
@@ -308,14 +308,14 @@
 +[FID:4C, TEXT:0062] 
 +[FID:4C, TEXT:0063] 
 
---- Group 48 [left:none next=0023] ---
+--- Group [left:none next=0023] ---
 ・・・そっか
 +[FID:4C, TEXT:0064] 
 
---- Group 49 [left:none next=0023] ---
+--- Group [left:none next=0023] ---
 ・・・なるほどな
 +[FID:4C, TEXT:0065] 
 
---- Group 50 [left:none next=0023] ---
+--- Group [left:none next=0023] ---
 ・・・そうなんだ
 +[FID:4C, TEXT:0066] 

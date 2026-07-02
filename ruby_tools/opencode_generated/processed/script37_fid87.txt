@@ -1,14 +1,14 @@
---- Group 1 [right:伊利亚斯 next=2012] ---
+--- Group [right:伊利亚斯 next=2012] ---
 みんな、覚悟はいいか
 +[FID:87, TEXT:0001] 
 
---- Group 3 [left:none next=2012] ---
+--- Group [left:none next=2012] ---
 ケッ、今さらそんなの
 聞くまでもねえよ
 +[FID:87, TEXT:0002] 
 +[FID:87, TEXT:0003] 
 
---- Group 5 [left:艾多斯 next=2012] ---
+--- Group [left:艾多斯 next=2012] ---
 しかし、ワシらが全員
 ここを離れても大丈夫
 だろうか・・・
@@ -16,7 +16,7 @@
 +[FID:87, TEXT:0005] 
 +[FID:87, TEXT:0006] 
 
---- Group 7 [right:伊利亚斯 next=2012] ---
+--- Group [right:伊利亚斯 next=2012] ---
 今の彼らは魔王を召喚
 する儀式を最優先に
 しているはずです
@@ -24,7 +24,7 @@
 +[FID:87, TEXT:0008] 
 +[FID:87, TEXT:0009] 
 
---- Group 9 [left:艾多斯 next=2012] ---
+--- Group [left:艾多斯 next=2012] ---
 守りを固めて、俺たち
 を待ちかまえているの
 が関の山だろう
@@ -32,7 +32,7 @@
 +[FID:87, TEXT:000B] 
 +[FID:87, TEXT:000C] 
 
---- Group 11 [right:赛萨里斯 next=2012] ---
+--- Group [right:赛萨里斯 next=2012] ---
 生き残った騎士たちに
 も、警戒をするように
 指示を出しました
@@ -40,13 +40,13 @@
 +[FID:87, TEXT:000E] 
 +[FID:87, TEXT:000F] 
 
---- Group 12 [right:科莫扎 next=2012] ---
+--- Group [right:科莫扎 next=2012] ---
 蒼の派閥の召喚師たち
 だって、来てるしね
 +[FID:87, TEXT:0010] 
 +[FID:87, TEXT:0011] 
 
---- Group 13 [right:伊利亚斯 next=2012] ---
+--- Group [right:伊利亚斯 next=2012] ---
 あとは一刻も早く、
 自分たちが決着を
 つけるだけです
@@ -54,25 +54,25 @@
 +[FID:87, TEXT:0013] 
 +[FID:87, TEXT:0014] 
 
---- Group 14 [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---
 よし、それじゃあ
 出発しよう！
 +[FID:87, TEXT:0015] 
 +[FID:87, TEXT:0016] 
 
---- Group 15 [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---
 うん、それじゃあ
 出発・・・しよう！
 +[FID:87, TEXT:0017] 
 +[FID:87, TEXT:0018] 
 
---- Group 16 [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---
 ・・・それじゃあ
 出発しましょう・・・
 +[FID:87, TEXT:0019] 
 +[FID:87, TEXT:001A] 
 
---- Group 17 [left:金加 next=2012] ---
+--- Group [left:金加 next=2012] ---
 薄気味の悪い森だな
 空気はよどんでるし、
 木もほとんど枯れてる
@@ -80,13 +80,13 @@
 +[FID:87, TEXT:001C] 
 +[FID:87, TEXT:001D] 
 
---- Group 19 [right:索尔 next=2012] ---
+--- Group [right:索尔 next=2012] ---
 悪魔を呼び出す実験を
 続けてきたせいだ
 +[FID:87, TEXT:001F] 
 +[FID:87, TEXT:0020] 
 
---- Group 20 [right:索尔 next=2012] ---
+--- Group [right:索尔 next=2012] ---
 森そのものが
 悪魔の力で・・・
 歪んでるってわけさ
@@ -94,17 +94,17 @@
 +[FID:87, TEXT:0022] 
 +[FID:87, TEXT:0023] 
 
---- Group 21 [left:洛卡斯 next=2012] ---
+--- Group [left:洛卡斯 next=2012] ---
 くわしいな？
 +[FID:87, TEXT:0024] 
 
---- Group 22 [right:索尔 next=2012] ---
+--- Group [right:索尔 next=2012] ---
 俺は、この森で
 召喚術を学んだからな
 +[FID:87, TEXT:0025] 
 +[FID:87, TEXT:0026] 
 
---- Group 23 [right:索尔 next=2012] ---
+--- Group [right:索尔 next=2012] ---
 魔王を召喚するために
 必要な準備の全てが、
 この森の奥で行われて
@@ -114,23 +114,23 @@
 +[FID:87, TEXT:0029] 
 +[FID:87, TEXT:002A] 
 
---- Group 24 [right:索尔 next=2012] ---
+--- Group [right:索尔 next=2012] ---
 儀式はきっと、ここで
 行われるはずだ
 +[FID:87, TEXT:002B] 
 +[FID:87, TEXT:002C] 
 
---- Group 25 [right:索尔 next=2012] ---
+--- Group [right:索尔 next=2012] ---
 どうやら・・・
 大当たりのようだぜ？
 +[FID:87, TEXT:002D] 
 +[FID:87, TEXT:002E] 
 
---- Group 26 [left:洛卡斯 next=2012] ---
+--- Group [left:洛卡斯 next=2012] ---
 ・・・！！
 +[FID:87, TEXT:002F] 
 
---- Group 27 [right:金加 next=2012] ---
+--- Group [right:金加 next=2012] ---
 くそっ・・・
 この森のせいで、気配
 が読めなかった！！
@@ -138,17 +138,17 @@
 +[FID:87, TEXT:0032] 
 +[FID:87, TEXT:0033] 
 
---- Group 28 [right:金加 next=2012] ---
+--- Group [right:金加 next=2012] ---
 黒装束に、悪魔どもか
 大層な歓迎だぜ
 +[FID:87, TEXT:0034] 
 +[FID:87, TEXT:0035] 
 
---- Group 29 [left:洛卡斯 next=2012] ---
+--- Group [left:洛卡斯 next=2012] ---
 ！！
 +[FID:87, TEXT:0036] 
 
---- Group 30 [left:none next=0026] ---
+--- Group [left:none next=0026] ---
 【自分の部屋】
 
 

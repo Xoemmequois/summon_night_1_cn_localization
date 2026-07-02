@@ -1,4 +1,4 @@
---- Group 1 [right:艾多斯 next=2012] ---
+--- Group [right:艾多斯 next=2012] ---
 いったい何があった？
 急に街のほうが騒がし
 くなったようだが
@@ -6,51 +6,51 @@
 +[FID:46, TEXT:0002] 
 +[FID:46, TEXT:0003] 
 
---- Group 2 [left:金加 next=2012] ---
+--- Group [left:金加 next=2012] ---
 暴動が起きたんだよ！
 +[FID:46, TEXT:0004] 
 
---- Group 3 [right:艾多斯 next=2012] ---
+--- Group [right:艾多斯 next=2012] ---
 暴動！？
 +[FID:46, TEXT:0005] 
 
---- Group 4 [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---
 とにかく、詳しいこと
 は中で説明するよ
 +[FID:46, TEXT:0006] 
 +[FID:46, TEXT:0007] 
 
---- Group 5 [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---
 とにかく、詳しいこと
 は中で説明します
 -[FID:46, TEXT:0006] 
 +[FID:46, TEXT:0008] 
 
---- Group 6 [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---
 ・・・というわけさ
 +[FID:46, TEXT:0009] 
 
---- Group 7 [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---
 ・・・てなわけ
 +[FID:46, TEXT:000A] 
 
---- Group 8 [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---
 ・・・というわけです
 +[FID:46, TEXT:000B] 
 
---- Group 9 [right:艾多斯 next=2012] ---
+--- Group [right:艾多斯 next=2012] ---
 その義賊の男の話は、
 ワシも知っとるぞ
 +[FID:46, TEXT:000C] 
 +[FID:46, TEXT:000D] 
 
---- Group 10 [right:艾多斯 next=2012] ---
+--- Group [right:艾多斯 next=2012] ---
 たしかローカスという
 名前だったかな
 +[FID:46, TEXT:000E] 
 +[FID:46, TEXT:000F] 
 
---- Group 11 [right:艾多斯 next=2012] ---
+--- Group [right:艾多斯 next=2012] ---
 貴族の屋敷から財宝を
 強奪しては、人々へと
 配っていたって話だ
@@ -58,11 +58,11 @@
 +[FID:46, TEXT:0011] 
 +[FID:46, TEXT:0012] 
 
---- Group 12 [left:金加 next=2012] ---
+--- Group [left:金加 next=2012] ---
 へえ、気前いいなぁ
 +[FID:46, TEXT:0013] 
 
---- Group 13 [right:加泽尔 next=2012] ---
+--- Group [right:加泽尔 next=2012] ---
 ケッ！
 単に善意の押し売りを
 してるだけじゃねえか
@@ -70,21 +70,21 @@
 +[FID:46, TEXT:0015] 
 +[FID:46, TEXT:0016] 
 
---- Group 14 [right:加泽尔 next=2012] ---
+--- Group [right:加泽尔 next=2012] ---
 そういうのを、
 偽善者ってんだよ
 +[FID:46, TEXT:0017] 
 +[FID:46, TEXT:0018] 
 
---- Group 15 [left:主人公 next=2012] ---
+--- Group [left:主人公 next=2012] ---
 まあまあ、ガゼル
 +[FID:46, TEXT:0019] 
 
---- Group 16 [left:主人公 next=2012] ---
+--- Group [left:主人公 next=2012] ---
 まあまあ、ガゼルさん
 +[FID:46, TEXT:001A] 
 
---- Group 17 [right:索尔 next=2012] ---
+--- Group [right:索尔 next=2012] ---
 それよりも
 暴動を扇動したという
 連中が気になる・・・
@@ -92,7 +92,7 @@
 +[FID:46, TEXT:001C] 
 +[FID:46, TEXT:001D] 
 
---- Group 18 [left:主人公 next=2012] ---
+--- Group [left:主人公 next=2012] ---
 うん・・・
 荒野で会ったあの剣士
 がリーダーだったんだ
@@ -100,7 +100,7 @@
 +[FID:46, TEXT:0022] 
 +[FID:46, TEXT:0023] 
 
---- Group 19 [left:主人公 next=2012] ---
+--- Group [left:主人公 next=2012] ---
 うん・・・
 荒野で会ったあの剣士
 がリーダーみたい
@@ -108,29 +108,29 @@
 -[FID:46, TEXT:0022] 
 +[FID:46, TEXT:0028] 
 
---- Group 20 [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---
 たしかラムダっていう
 名前だったと思うけど
 +[FID:46, TEXT:0024] 
 +[FID:46, TEXT:0025] 
 
---- Group 21 [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---
 たしかラムダっていう
 名前だったな
 -[FID:46, TEXT:0024] 
 +[FID:46, TEXT:0027] 
 
---- Group 22 [right:雷德 next=2012] ---
+--- Group [right:雷德 next=2012] ---
 ああ・・・
 +[FID:46, TEXT:0026] 
 
---- Group 24 [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---
 ラムダとかっていう
 名前だったと思うけど
 +[FID:46, TEXT:0029] 
 -[FID:46, TEXT:0025] 
 
---- Group 25 [left:主人公 next=2012] ---
+--- Group [left:主人公 next=2012] ---
 ええ・・・
 荒野で会ったあの剣士
 がリーダーのような
@@ -140,73 +140,73 @@
 +[FID:46, TEXT:002B] 
 +[FID:46, TEXT:002C] 
 
---- Group 26 [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---
 たしか、ラムダと
 呼ばれていました
 +[FID:46, TEXT:002D] 
 +[FID:46, TEXT:002E] 
 
---- Group 27 [right:雷德 next=2012] ---
+--- Group [right:雷德 next=2012] ---
 ラムダだって！？
 +[FID:46, TEXT:002F] 
 
---- Group 28 [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---
 レイドさん、
 お知り合いですか？
 +[FID:46, TEXT:0030] 
 +[FID:46, TEXT:0036] 
 
---- Group 29 [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---
 レイドさん、
 知ってるんですか？
 -[FID:46, TEXT:0030] 
 +[FID:46, TEXT:0031] 
 
---- Group 30 [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---
 レイドさん、知ってる
 んですか？
 +[FID:46, TEXT:0032] 
 +[FID:46, TEXT:0033] 
 
---- Group 31 [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---
 あ、レイドさん
 知ってる人ですか？
 +[FID:46, TEXT:0034] 
 +[FID:46, TEXT:0035] 
 
---- Group 32 [right:雷德 next=2012] ---
+--- Group [right:雷德 next=2012] ---
 ああ、よく知っている
 +[FID:46, TEXT:0037] 
 
---- Group 33 [right:雷德 next=2012] ---
+--- Group [right:雷德 next=2012] ---
 私が騎士団にいた
 時の先輩だよ・・・
 +[FID:46, TEXT:0038] 
 +[FID:46, TEXT:0039] 
 
---- Group 34 [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---
 ええっ！？
 +[FID:46, TEXT:003A] 
 
---- Group 35 [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---
 ！？
 +[FID:46, TEXT:003B] 
 
---- Group 36 [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---
 ええっ、先輩！？
 +[FID:46, TEXT:003C] 
 
---- Group 37 [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---
 レイドさんの先輩？
 +[FID:46, TEXT:003D] 
 
---- Group 38 [left:主人公 next=2012] ---
+--- Group [left:主人公 next=2012] ---
 ・・・いいんですか？
 レイドさん
 +[FID:46, TEXT:003E] 
 +[FID:46, TEXT:003F] 
 
---- Group 39 [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---
 騎士団と戦っているの
 は、貴方の先輩なんで
 しょう？
@@ -214,11 +214,11 @@
 +[FID:46, TEXT:0041] 
 +[FID:46, TEXT:0042] 
 
---- Group 40 [left:主人公 next=2012] ---
+--- Group [left:主人公 next=2012] ---
 レイドさん・・・
 +[FID:46, TEXT:0043] 
 
---- Group 41 [left:主人公 next=2012] ---
+--- Group [left:主人公 next=2012] ---
 レイドさん・・・
 ラムダさんのこと
 ほっといても
@@ -228,31 +228,31 @@
 +[FID:46, TEXT:0045] 
 +[FID:46, TEXT:0046] 
 
---- Group 42 [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---
 レイドさんの先輩が
 戦っているんですよ
 +[FID:46, TEXT:0047] 
 +[FID:46, TEXT:0049] 
 
---- Group 43 [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---
 レイドさんの先輩が
 戦っているんですよ！
 -[FID:46, TEXT:0047] 
 +[FID:46, TEXT:0048] 
 
---- Group 44 [right:雷德 next=2012] ---
+--- Group [right:雷德 next=2012] ---
 ・・・行ったところで
 どうしろと言うんだ
 +[FID:46, TEXT:004A] 
 +[FID:46, TEXT:004B] 
 
---- Group 45 [right:雷德 next=2012] ---
+--- Group [right:雷德 next=2012] ---
 先輩であるラムダと
 共に戦えと言うのか？
 +[FID:46, TEXT:004C] 
 +[FID:46, TEXT:004D] 
 
---- Group 46 [right:雷德 next=2012] ---
+--- Group [right:雷德 next=2012] ---
 後輩である騎士たちを
 敵に回して、戦えと
 君は言うのか！？
@@ -260,19 +260,19 @@
 +[FID:46, TEXT:004F] 
 +[FID:46, TEXT:0050] 
 
---- Group 47 [left:加泽尔 next=2012] ---
+--- Group [left:加泽尔 next=2012] ---
 おい、レイド
 落ち着けよっ！
 +[FID:46, TEXT:0051] 
 +[FID:46, TEXT:0052] 
 
---- Group 48 [right:雷德 next=2012] ---
+--- Group [right:雷德 next=2012] ---
 ・・・すまない
 君に当たってしまって
 +[FID:46, TEXT:0053] 
 +[FID:46, TEXT:0054] 
 
---- Group 49 [right:雷德 next=2012] ---
+--- Group [right:雷德 next=2012] ---
 正直、私は今、自分が
 どうしたらいいのか
 わからないんだよ
@@ -280,13 +280,13 @@
 +[FID:46, TEXT:0056] 
 +[FID:46, TEXT:0057] 
 
---- Group 50 [right:雷德 next=2012] ---
+--- Group [right:雷德 next=2012] ---
 どうするべきなのか、
 わからないんだ
 +[FID:46, TEXT:0058] 
 +[FID:46, TEXT:0059] 
 
---- Group 51 [left:艾多斯 next=2012] ---
+--- Group [left:艾多斯 next=2012] ---
 ラムダは、お前さんに
 とって大切な先輩
 だったようだな
@@ -294,7 +294,7 @@
 +[FID:46, TEXT:005B] 
 +[FID:46, TEXT:005C] 
 
---- Group 52 [right:雷德 next=2012] ---
+--- Group [right:雷德 next=2012] ---
 ラムダという人ほど、
 騎士の名がふさわしい
 人間はいなかった
@@ -302,7 +302,7 @@
 +[FID:46, TEXT:005E] 
 +[FID:46, TEXT:005F] 
 
---- Group 53 [right:雷德 next=2012] ---
+--- Group [right:雷德 next=2012] ---
 剣技に優れ、高潔な心
 をもったあの人に、
 私は憧れていたんだ
@@ -310,7 +310,7 @@
 +[FID:46, TEXT:0061] 
 +[FID:46, TEXT:0062] 
 
---- Group 54 [left:加泽尔 next=2012] ---
+--- Group [left:加泽尔 next=2012] ---
 そんなすげえヤツが、
 どうして騎士を
 辞めちまったんだ？
@@ -318,19 +318,19 @@
 +[FID:46, TEXT:0064] 
 +[FID:46, TEXT:0065] 
 
---- Group 55 [right:雷德 next=2012] ---
+--- Group [right:雷德 next=2012] ---
 辞めさせられたんだ
 +[FID:46, TEXT:0066] 
 
---- Group 56 [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---
 えっ！？
 +[FID:46, TEXT:0067] 
 
---- Group 57 [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---
 ・・・？
 +[FID:46, TEXT:0068] 
 
---- Group 58 [right:雷德 next=2012] ---
+--- Group [right:雷德 next=2012] ---
 召喚師たちにとって、
 あの人は邪魔な存在
 だったからね
@@ -338,7 +338,7 @@
 +[FID:46, TEXT:006A] 
 +[FID:46, TEXT:006B] 
 
---- Group 59 [right:雷德 next=2012] ---
+--- Group [right:雷德 next=2012] ---
 ある任務の失敗の責任
 をとって、退役させら
 れてしまったんだよ
@@ -346,23 +346,23 @@
 +[FID:46, TEXT:006D] 
 +[FID:46, TEXT:006E] 
 
---- Group 60 [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---
 そんな・・・
 +[FID:46, TEXT:006F] 
 
---- Group 61 [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---
 そうなんですか・・・
 なんか、ひどい・・・
 +[FID:46, TEXT:0070] 
 +[FID:46, TEXT:0071] 
 
---- Group 62 [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---
 そうなんですか・・・
 ひどいことをしますね
 -[FID:46, TEXT:0070] 
 +[FID:46, TEXT:0072] 
 
---- Group 63 [right:雷德 next=2012] ---
+--- Group [right:雷德 next=2012] ---
 ラムダがいなくなった
 ことで、召喚師たちは
 ますます力を強めた
@@ -370,17 +370,17 @@
 +[FID:46, TEXT:0074] 
 +[FID:46, TEXT:0075] 
 
---- Group 64 [right:雷德 next=2012] ---
+--- Group [right:雷德 next=2012] ---
 絶望した騎士は次々と
 城を去っていった
 +[FID:46, TEXT:0076] 
 +[FID:46, TEXT:0077] 
 
---- Group 65 [right:雷德 next=2012] ---
+--- Group [right:雷德 next=2012] ---
 私も、その一人さ
 +[FID:46, TEXT:0078] 
 
---- Group 66 [left:艾多斯 next=2012] ---
+--- Group [left:艾多斯 next=2012] ---
 なるほど、な
 それがお前さんが騎士
 を辞めた理由か・・・
@@ -388,13 +388,13 @@
 +[FID:46, TEXT:007A] 
 +[FID:46, TEXT:007B] 
 
---- Group 67 [right:雷德 next=2012] ---
+--- Group [right:雷德 next=2012] ---
 あの人が立ち上がった
 理由はよくわかる
 +[FID:46, TEXT:007C] 
 +[FID:46, TEXT:007D] 
 
---- Group 68 [right:雷德 next=2012] ---
+--- Group [right:雷德 next=2012] ---
 召喚師に頼るあまり、
 民衆のことを考えなく
 なった領主と
@@ -402,7 +402,7 @@
 +[FID:46, TEXT:007F] 
 +[FID:46, TEXT:0080] 
 
---- Group 69 [right:雷德 next=2012] ---
+--- Group [right:雷德 next=2012] ---
 それを止められなかっ
 た我々のことを、あの
 人は許せないんだろう
@@ -410,17 +410,17 @@
 +[FID:46, TEXT:0082] 
 +[FID:46, TEXT:0083] 
 
---- Group 70 [right:金加 next=2012] ---
+--- Group [right:金加 next=2012] ---
 なぁ、このまま暴動は
 成功すんのかな？
 +[FID:46, TEXT:0084] 
 +[FID:46, TEXT:0085] 
 
---- Group 71 [left:艾多斯 next=2012] ---
+--- Group [left:艾多斯 next=2012] ---
 いや、無理だ・・・
 +[FID:46, TEXT:0086] 
 
---- Group 72 [left:艾多斯 next=2012] ---
+--- Group [left:艾多斯 next=2012] ---
 軍隊だけならまだしも
 召喚師が出て来れば、
 ひとたまりもあるまい
@@ -428,31 +428,31 @@
 +[FID:46, TEXT:0088] 
 +[FID:46, TEXT:0089] 
 
---- Group 73 [left:艾多斯 next=2012] ---
+--- Group [left:艾多斯 next=2012] ---
 ・・・レイドさん
 +[FID:46, TEXT:008A] 
 
---- Group 74 [left:艾多斯 next=0023] ---
+--- Group [left:艾多斯 next=0023] ---
 ラムダに会いに行こう
 +[FID:46, TEXT:008B] 
 
---- Group 75 [left:艾多斯 next=0023] ---
+--- Group [left:艾多斯 next=0023] ---
 ラムダさんに会いに
 行きましょう
 +[FID:46, TEXT:008C] 
 +[FID:46, TEXT:008E] 
 
---- Group 76 [left:艾多斯 next=0023] ---
+--- Group [left:艾多斯 next=0023] ---
 ラムダさんに会いに
 行こうよ
 -[FID:46, TEXT:008C] 
 +[FID:46, TEXT:008D] 
 
---- Group 77 [right:金加 next=2012] ---
+--- Group [right:金加 next=2012] ---
 @ n 
 +[FID:46, TEXT:008F] 
 
---- Group 78 [left:艾多斯 next=2012] ---
+--- Group [left:艾多斯 next=2012] ---
 ラムダがどうして
 暴動を起こしたのか、
 何を望んでいるのかを
@@ -462,7 +462,7 @@
 +[FID:46, TEXT:0092] 
 +[FID:46, TEXT:0093] 
 
---- Group 79 [left:艾多斯 next=2012] ---
+--- Group [left:艾多斯 next=2012] ---
 どうすればいいのかは
 それから決めれば
 いいんだよ
@@ -470,7 +470,7 @@
 +[FID:46, TEXT:0095] 
 +[FID:46, TEXT:0096] 
 
---- Group 80 [left:艾多斯 next=2012] ---
+--- Group [left:艾多斯 next=2012] ---
 どうすればいいのかは
 それから決めればいい
 んですよ
@@ -478,11 +478,11 @@
 +[FID:46, TEXT:009C] 
 +[FID:46, TEXT:009D] 
 
---- Group 81 [left:艾多斯 next=0023] ---
+--- Group [left:艾多斯 next=0023] ---
 手遅れになる前に！
 +[FID:46, TEXT:0097] 
 
---- Group 82 [left:艾多斯 next=2012] ---
+--- Group [left:艾多斯 next=2012] ---
 ラムダがどうして暴動
 を起こしたのか、何を
 望んでいるのかを確か
@@ -492,7 +492,7 @@
 +[FID:46, TEXT:009A] 
 +[FID:46, TEXT:009B] 
 
---- Group 83 [left:艾多斯 next=2012] ---
+--- Group [left:艾多斯 next=2012] ---
 なんで暴動なんか
 起こしたのか・・・
 ラムダさんの考えを
@@ -502,7 +502,7 @@
 +[FID:46, TEXT:00A9] 
 +[FID:46, TEXT:00AA] 
 
---- Group 84 [left:艾多斯 next=2012] ---
+--- Group [left:艾多斯 next=2012] ---
 なんで暴動なんか
 起こしたのか・・・彼
 の望みを確かめないと
@@ -512,7 +512,7 @@
 +[FID:46, TEXT:00A0] 
 +[FID:46, TEXT:00A1] 
 
---- Group 85 [left:艾多斯 next=2012] ---
+--- Group [left:艾多斯 next=2012] ---
 その結果次第で
 どうするか
 決めるんです
@@ -520,7 +520,7 @@
 +[FID:46, TEXT:00A3] 
 +[FID:46, TEXT:00AB] 
 
---- Group 86 [left:艾多斯 next=2012] ---
+--- Group [left:艾多斯 next=2012] ---
 その結果次第で
 どうするか
 決めましょうよ！
@@ -528,7 +528,7 @@
 -[FID:46, TEXT:00A3] 
 +[FID:46, TEXT:00A4] 
 
---- Group 87 [left:艾多斯 next=0023] ---
+--- Group [left:艾多斯 next=0023] ---
 手遅れに
 なってからじゃ・・・
 遅いと思います！
@@ -536,7 +536,7 @@
 +[FID:46, TEXT:00A6] 
 +[FID:46, TEXT:00A7] 
 
---- Group 88 [left:艾多斯 next=0023] ---
+--- Group [left:艾多斯 next=0023] ---
 どんな結果が出ても
 手遅れになるよりは
 いいと思います

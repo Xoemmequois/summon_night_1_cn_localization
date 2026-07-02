@@ -1,16 +1,16 @@
---- Group 1 [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---
 話ってなんだい？
 +[FID:1F, TEXT:0001] 
 
---- Group 3 [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---
 話って？
 +[FID:1F, TEXT:0002] 
 
---- Group 5 [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---
 話ってなんですか？
 +[FID:1F, TEXT:0003] 
 
---- Group 7 [right:索尔 next=2012] ---
+--- Group [right:索尔 next=2012] ---
 お前の持ってる力
 説明しとかなけりゃ
 ならないだろ？
@@ -18,13 +18,13 @@
 +[FID:1F, TEXT:0005] 
 +[FID:1F, TEXT:0006] 
 
---- Group 8 [left:主人公 next=2012] ---
+--- Group [left:主人公 next=2012] ---
 あの不思議な光の
 ことか？
 +[FID:1F, TEXT:0007] 
 +[FID:1F, TEXT:0008] 
 
---- Group 9 [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---
 使っておいて言うのも
 なんだが、あれは一体
 どういう力なんだ？
@@ -32,13 +32,13 @@
 +[FID:1F, TEXT:000A] 
 +[FID:1F, TEXT:000B] 
 
---- Group 10 [left:主人公 next=2012] ---
+--- Group [left:主人公 next=2012] ---
 もしかして
 あの光のこと？
 +[FID:1F, TEXT:000C] 
 +[FID:1F, TEXT:000D] 
 
---- Group 11 [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---
 自分でやっといて
 言うのもなんだけど
 なにあれ？
@@ -46,13 +46,13 @@
 +[FID:1F, TEXT:000F] 
 +[FID:1F, TEXT:0010] 
 
---- Group 12 [left:主人公 next=2012] ---
+--- Group [left:主人公 next=2012] ---
 ええ、あの不思議な
 光のことですね
 +[FID:1F, TEXT:0011] 
 +[FID:1F, TEXT:0012] 
 
---- Group 13 [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---
 自分で使っておいて、
 こういうのも
 なんなんですが・・・
@@ -62,7 +62,7 @@
 +[FID:1F, TEXT:0015] 
 +[FID:1F, TEXT:0016] 
 
---- Group 14 [right:索尔 next=2012] ---
+--- Group [right:索尔 next=2012] ---
 俺にもはっきりとした
 ことはわからないが、
 たぶん【召喚術】の
@@ -72,7 +72,7 @@
 +[FID:1F, TEXT:0019] 
 +[FID:1F, TEXT:001A] 
 
---- Group 15 [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---
 ちょっと待ってくれ
 召喚術ってのは召喚師
 しか使えないものなん
@@ -82,7 +82,7 @@
 +[FID:1F, TEXT:001D] 
 +[FID:1F, TEXT:001E] 
 
---- Group 16 [left:主人公 next=2012] ---
+--- Group [left:主人公 next=2012] ---
 ・・・
 それってさ
 わかんないも
@@ -92,7 +92,7 @@
 +[FID:1F, TEXT:0021] 
 +[FID:1F, TEXT:0022] 
 
---- Group 17 [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---
 だいたい召喚術って
 召喚師しか
 使えないって
@@ -102,7 +102,7 @@
 +[FID:1F, TEXT:0025] 
 +[FID:1F, TEXT:0026] 
 
---- Group 18 [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---
 え・・・
 召喚術というのは
 召喚師しか使えないと
@@ -112,7 +112,7 @@
 +[FID:1F, TEXT:0029] 
 +[FID:1F, TEXT:002A] 
 
---- Group 19 [right:索尔 next=2012] ---
+--- Group [right:索尔 next=2012] ---
 普通の奴等はそう思っ
 ているようだけど、
 それは違ってる
@@ -120,21 +120,21 @@
 +[FID:1F, TEXT:002C] 
 +[FID:1F, TEXT:002D] 
 
---- Group 20 [right:索尔 next=2012] ---
+--- Group [right:索尔 next=2012] ---
 方法さえ知っていれば
 召喚術は誰でも使える
 +[FID:1F, TEXT:002E] 
 +[FID:1F, TEXT:002F] 
 
---- Group 21 [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---
 ！？
 +[FID:1F, TEXT:0030] 
 
---- Group 22 [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---
 そうなの！？
 +[FID:1F, TEXT:0031] 
 
---- Group 23 [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---
 そうなんですか？
 でも、わたし召喚術
 の使い方なんて・・・
@@ -142,7 +142,7 @@
 +[FID:1F, TEXT:0033] 
 +[FID:1F, TEXT:0034] 
 
---- Group 24 [right:索尔 next=2012] ---
+--- Group [right:索尔 next=2012] ---
 ま・・・
 詳しくはあとで説明
 するとして・・・
@@ -150,7 +150,7 @@
 +[FID:1F, TEXT:0036] 
 +[FID:1F, TEXT:0037] 
 
---- Group 25 [right:索尔 next=2012] ---
+--- Group [right:索尔 next=2012] ---
 ただ、お前の力は、
 どうも違うみたいだ
 呪文も儀式も必要とし
@@ -160,7 +160,7 @@
 +[FID:1F, TEXT:003A] 
 +[FID:1F, TEXT:003B] 
 
---- Group 26 [right:索尔 next=2012] ---
+--- Group [right:索尔 next=2012] ---
 あんなことは熟達した
 召喚師でも
 できっこない
@@ -168,19 +168,19 @@
 +[FID:1F, TEXT:003D] 
 +[FID:1F, TEXT:003E] 
 
---- Group 27 [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---
 そんなに、すごいこと
 だったのか・・・
 +[FID:1F, TEXT:003F] 
 +[FID:1F, TEXT:0040] 
 
---- Group 28 [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---
 あたしって
 もしかしてすごいかな
 +[FID:1F, TEXT:0041] 
 +[FID:1F, TEXT:0042] 
 
---- Group 29 [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---
 ・・・そんなにも
 すごいこと
 ・・・なんですか？
@@ -188,11 +188,11 @@
 +[FID:1F, TEXT:0044] 
 +[FID:1F, TEXT:0045] 
 
---- Group 30 [right:索尔 next=2012] ---
+--- Group [right:索尔 next=2012] ---
 ただし、問題もある
 +[FID:1F, TEXT:0046] 
 
---- Group 31 [right:索尔 next=2012] ---
+--- Group [right:索尔 next=2012] ---
 お前の召喚術はまだ
 未熟なんだ。きっちり
 制御しないと、暴発を
@@ -202,19 +202,19 @@
 +[FID:1F, TEXT:0049] 
 +[FID:1F, TEXT:004A] 
 
---- Group 32 [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---
 それは困るな・・・
 +[FID:1F, TEXT:004B] 
 
---- Group 33 [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---
 ・・・あ、やっぱり？
 +[FID:1F, TEXT:004C] 
 
---- Group 34 [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---
 そんな！？
 +[FID:1F, TEXT:004D] 
 
---- Group 35 [right:索尔 next=2012] ---
+--- Group [right:索尔 next=2012] ---
 そこで、だ
 これから俺が、初歩の
 召喚術の手順を教えよ
@@ -224,11 +224,11 @@
 +[FID:1F, TEXT:0050] 
 +[FID:1F, TEXT:0051] 
 
---- Group 36 [right:索尔 next=2012] ---
+--- Group [right:索尔 next=2012] ---
 覚えたか？
 +[FID:1F, TEXT:0052] 
 
---- Group 37 [left:主人公 next=2012] ---
+--- Group [left:主人公 next=2012] ---
 ああ、まず
 【サモナイト石】に
 精神を集中して・・・
@@ -236,7 +236,7 @@
 +[FID:1F, TEXT:0054] 
 +[FID:1F, TEXT:0055] 
 
---- Group 38 [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---
 次に何かの行動を起こ
 せば【召喚術】が発動
 するんだな？
@@ -244,7 +244,7 @@
 +[FID:1F, TEXT:0057] 
 +[FID:1F, TEXT:0058] 
 
---- Group 39 [left:主人公 next=2012] ---
+--- Group [left:主人公 next=2012] ---
 簡単だよ
 まず【サモナイト石】
 に精神を集中して、と
@@ -252,7 +252,7 @@
 +[FID:1F, TEXT:005A] 
 +[FID:1F, TEXT:005B] 
 
---- Group 40 [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---
 で、なにか行動を起こ
 せば【召喚術】が発動
 する、と
@@ -260,7 +260,7 @@
 -[FID:1F, TEXT:0057] 
 +[FID:1F, TEXT:005D] 
 
---- Group 41 [left:主人公 next=2012] ---
+--- Group [left:主人公 next=2012] ---
 え、はいなんとか
 まず【サモナイト石】
 に精神を集中して・・
@@ -268,7 +268,7 @@
 -[FID:1F, TEXT:005A] 
 +[FID:1F, TEXT:005F] 
 
---- Group 42 [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---
 次に何かの行動を
 起こせば【召喚術】が
 発動する
@@ -278,7 +278,7 @@
 +[FID:1F, TEXT:0062] 
 +[FID:1F, TEXT:0063] 
 
---- Group 43 [right:索尔 next=2012] ---
+--- Group [right:索尔 next=2012] ---
 なんだけどな・・・
 実はこの方法は
 あまり確実じゃない
@@ -288,7 +288,7 @@
 +[FID:1F, TEXT:0066] 
 +[FID:1F, TEXT:0067] 
 
---- Group 44 [right:索尔 next=2012] ---
+--- Group [right:索尔 next=2012] ---
 いちいちサモナイト石
 を消耗するし、望んだ
 召喚術が確実に使える
@@ -298,19 +298,19 @@
 +[FID:1F, TEXT:006A] 
 +[FID:1F, TEXT:006B] 
 
---- Group 45 [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---
 たしかに・・・
 +[FID:1F, TEXT:006C] 
 
---- Group 46 [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---
 ・・・だめじゃん
 +[FID:1F, TEXT:006D] 
 
---- Group 47 [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---
 そうですね・・・
 +[FID:1F, TEXT:006E] 
 
---- Group 48 [right:索尔 next=2012] ---
+--- Group [right:索尔 next=2012] ---
 だから召喚師たちは、
 【誓約】という儀式を
 一緒に行うのさ
@@ -318,15 +318,15 @@
 +[FID:1F, TEXT:0070] 
 +[FID:1F, TEXT:0071] 
 
---- Group 49 [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---
 誓約？
 +[FID:1F, TEXT:0072] 
 
---- Group 50 [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---
 誓・・・約？
 +[FID:1F, TEXT:0073] 
 
---- Group 51 [right:索尔 next=2012] ---
+--- Group [right:索尔 next=2012] ---
 そう
 呼び出された召喚獣に
 名前をつける儀式さ
@@ -334,7 +334,7 @@
 +[FID:1F, TEXT:0075] 
 +[FID:1F, TEXT:0076] 
 
---- Group 52 [right:索尔 next=2012] ---
+--- Group [right:索尔 next=2012] ---
 名前をつけた召喚獣は
 魔力を消費するだけで
 いつでも自由に呼べる
@@ -344,35 +344,35 @@
 +[FID:1F, TEXT:0079] 
 +[FID:1F, TEXT:007A] 
 
---- Group 53 [right:索尔 next=2012] ---
+--- Group [right:索尔 next=2012] ---
 たとえ名づけた本人で
 なくても、だけどな
 +[FID:1F, TEXT:007B] 
 +[FID:1F, TEXT:007C] 
 
---- Group 54 [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---
 それが、さっき言って
 た特別な方法ですか？
 +[FID:1F, TEXT:007D] 
 +[FID:1F, TEXT:0081] 
 
---- Group 55 [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---
 それが、さっき言って
 た特別な方法か・・・
 -[FID:1F, TEXT:007D] 
 +[FID:1F, TEXT:007E] 
 
---- Group 56 [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---
 これが
 もうひとつの方法ね
 +[FID:1F, TEXT:007F] 
 +[FID:1F, TEXT:0080] 
 
---- Group 57 [right:索尔 next=2012] ---
+--- Group [right:索尔 next=2012] ---
 ああ、ご名答、だ
 +[FID:1F, TEXT:0082] 
 
---- Group 58 [right:索尔 next=2012] ---
+--- Group [right:索尔 next=2012] ---
 本当なら、こんなこと
 普通の奴に教えちゃ
 いけないんだが・・・
@@ -380,7 +380,7 @@
 +[FID:1F, TEXT:0084] 
 +[FID:1F, TEXT:0085] 
 
---- Group 59 [right:索尔 next=2012] ---
+--- Group [right:索尔 next=2012] ---
 今回は特別だ
 俺はお前を信じる
 ことにする
@@ -388,15 +388,15 @@
 +[FID:1F, TEXT:0087] 
 +[FID:1F, TEXT:0088] 
 
---- Group 60 [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---
 ソル・・・
 +[FID:1F, TEXT:0089] 
 
---- Group 61 [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---
 ありがとう・・・
 +[FID:1F, TEXT:008A] 
 
---- Group 62 [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---
 ・・・というわけでさ
 理由はわからないけど
 俺は【召喚術】が使え
@@ -406,7 +406,7 @@
 +[FID:1F, TEXT:0135] 
 +[FID:1F, TEXT:0136] 
 
---- Group 64 [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---
 ・・・というわけだ
 理由はわからないが、
 僕は【召喚術】が使え
@@ -416,7 +416,7 @@
 +[FID:1F, TEXT:0139] 
 +[FID:1F, TEXT:013A] 
 
---- Group 66 [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---
 ・・・でさ
 理由はわからないけど
 【召喚術】が使える
@@ -426,7 +426,7 @@
 +[FID:1F, TEXT:013C] 
 +[FID:1F, TEXT:013D] 
 
---- Group 68 [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---
 ・・というわけで、
 理由はわからないけど
 わたしは【召喚術】が
@@ -436,17 +436,17 @@
 +[FID:1F, TEXT:013F] 
 +[FID:1F, TEXT:0140] 
 
---- Group 70 [right:雷德 next=2012] ---
+--- Group [right:雷德 next=2012] ---
 にわかには信じがたい
 話だが・・・
 +[FID:1F, TEXT:0141] 
 +[FID:1F, TEXT:0142] 
 
---- Group 71 [right:艾多斯 next=2012] ---
+--- Group [right:艾多斯 next=2012] ---
 で、なんだ
 +[FID:1F, TEXT:0143] 
 
---- Group 72 [right:艾多斯 next=2012] ---
+--- Group [right:艾多斯 next=2012] ---
 お前さんが【誓約】
 とやらをすれば、
 ワシらにも召喚術が
@@ -456,7 +456,7 @@
 +[FID:1F, TEXT:0146] 
 +[FID:1F, TEXT:0147] 
 
---- Group 73 [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---
 俺がきちんと【誓約】
 ができればね
 まだ、試してないから
@@ -464,7 +464,7 @@
 +[FID:1F, TEXT:0149] 
 +[FID:1F, TEXT:014A] 
 
---- Group 74 [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---
 僕がきちんと【誓約】
 ができるのならね
 試してみないとわから
@@ -474,7 +474,7 @@
 +[FID:1F, TEXT:014D] 
 +[FID:1F, TEXT:014E] 
 
---- Group 75 [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---
 できれば、だけどね
 あたし、まだ【誓約】
 って、試してないから
@@ -482,7 +482,7 @@
 +[FID:1F, TEXT:0150] 
 +[FID:1F, TEXT:0151] 
 
---- Group 76 [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---
 わたしがきちんと
 【誓約】ができれば
 ですけど・・・
@@ -492,7 +492,7 @@
 +[FID:1F, TEXT:0154] 
 +[FID:1F, TEXT:0155] 
 
---- Group 77 [left:加泽尔 next=2012] ---
+--- Group [left:加泽尔 next=2012] ---
 心配なんかいらねえと
 俺は思うぜ
 今までだって、無意識
@@ -502,15 +502,15 @@
 +[FID:1F, TEXT:0158] 
 +[FID:1F, TEXT:0159] 
 
---- Group 78 [right:雷德 next=2012] ---
+--- Group [right:雷德 next=2012] ---
 ・・・・・・
 +[FID:1F, TEXT:015A] 
 
---- Group 79 [left:加泽尔 next=2012] ---
+--- Group [left:加泽尔 next=2012] ---
 ん、どうしたレイド？
 +[FID:1F, TEXT:015B] 
 
---- Group 80 [right:雷德 next=2012] ---
+--- Group [right:雷德 next=2012] ---
 あ、いや
 ちょっと、な・・・
 +[FID:1F, TEXT:015C] 

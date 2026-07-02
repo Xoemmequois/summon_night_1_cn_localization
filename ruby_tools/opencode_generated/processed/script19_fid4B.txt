@@ -1,42 +1,42 @@
---- Group 1 [right:怀兹 next=2012] ---
+--- Group [right:怀兹 next=2012] ---
 うわぁ・・・
 +[FID:4B, TEXT:0001] 
 
---- Group 2 [left:阿尔巴 next=2012] ---
+--- Group [left:阿尔巴 next=2012] ---
 おいら、サーカス
 なんて初めてだよっ！
 +[FID:4B, TEXT:0002] 
 +[FID:4B, TEXT:0003] 
 
---- Group 3 [left:主人公 next=2012] ---
+--- Group [left:主人公 next=2012] ---
 ふふっ、始まる前から
 こんなにはしゃいでる
 +[FID:4B, TEXT:0004] 
 +[FID:4B, TEXT:0005] 
 
---- Group 4 [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---
 さあ、中に入ろう？
 +[FID:4B, TEXT:0006] 
 
---- Group 5 [left:主人公 next=2012] ---
+--- Group [left:主人公 next=2012] ---
 ははっ、始まる前から
 こんなにはしゃいでる
 +[FID:4B, TEXT:0007] 
 -[FID:4B, TEXT:0005] 
 
---- Group 6 [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---
 さあ、中に入ろ！
 +[FID:4B, TEXT:0008] 
 
---- Group 7 [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---
 さあ、中に入ろう
 +[FID:4B, TEXT:0009] 
 
---- Group 8 [right:拉米 next=2012] ---
+--- Group [right:拉米 next=2012] ---
 ・・・（こくん）
 +[FID:4B, TEXT:000A] 
 
---- Group 9 [left:阿尔巴 next=0023] ---
+--- Group [left:阿尔巴 next=0023] ---
 兄ちゃん
 今の空中ブランコって
 のすごかったね！？
@@ -44,7 +44,7 @@
 +[FID:4B, TEXT:000C] 
 +[FID:4B, TEXT:000D] 
 
---- Group 10 [left:阿尔巴 next=2012] ---
+--- Group [left:阿尔巴 next=2012] ---
 姉ちゃん
 今の空中ブランコって
 のすごかったね！？
@@ -52,19 +52,19 @@
 -[FID:4B, TEXT:000C] 
 -[FID:4B, TEXT:000D] 
 
---- Group 11 [left:阿尔巴 next=2012] ---
+--- Group [left:阿尔巴 next=2012] ---
 あんな高いところで、
 宙返りしちゃってさ！
 +[FID:4B, TEXT:000F] 
 +[FID:4B, TEXT:0010] 
 
---- Group 12 [right:怀兹 next=2012] ---
+--- Group [right:怀兹 next=2012] ---
 あら、あんなの練習を
 すればできて当然よ
 +[FID:4B, TEXT:0011] 
 +[FID:4B, TEXT:0012] 
 
---- Group 13 [right:怀兹 next=2012] ---
+--- Group [right:怀兹 next=2012] ---
 あたしは断然、
 さっきの手品のほうが
 すごいって思うわ
@@ -72,13 +72,13 @@
 +[FID:4B, TEXT:0014] 
 +[FID:4B, TEXT:0015] 
 
---- Group 14 [right:怀兹 next=2012] ---
+--- Group [right:怀兹 next=2012] ---
 箱の中から一瞬で
 消えちゃったのよ？
 +[FID:4B, TEXT:0016] 
 +[FID:4B, TEXT:0017] 
 
---- Group 15 [left:阿尔巴 next=2012] ---
+--- Group [left:阿尔巴 next=2012] ---
 そんなの、やり方さえ
 知ってれば誰にだって
 できるじゃないか
@@ -86,33 +86,33 @@
 +[FID:4B, TEXT:0019] 
 +[FID:4B, TEXT:001A] 
 
---- Group 16 [right:怀兹 next=2012] ---
+--- Group [right:怀兹 next=2012] ---
 ・・・なによ！
 +[FID:4B, TEXT:001B] 
 
---- Group 17 [left:阿尔巴 next=2012] ---
+--- Group [left:阿尔巴 next=2012] ---
 ・・・なんだよ！
 +[FID:4B, TEXT:001C] 
 
---- Group 18 [left:主人公 next=2012] ---
+--- Group [left:主人公 next=2012] ---
 こらこら二人とも、
 ケンカはやめるんだ
 +[FID:4B, TEXT:001D] 
 +[FID:4B, TEXT:001E] 
 
---- Group 19 [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---
 ほらっ、次の出し物が
 が始まっちゃうぞ？
 +[FID:4B, TEXT:001F] 
 +[FID:4B, TEXT:0020] 
 
---- Group 20 [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---
 ほら、次の出し物が
 始まるぞ？
 +[FID:4B, TEXT:0021] 
 +[FID:4B, TEXT:0022] 
 
---- Group 21 [left:主人公 next=2012] ---
+--- Group [left:主人公 next=2012] ---
 あ〜！
 もう！
 ケンカはやめやめ！
@@ -120,19 +120,19 @@
 +[FID:4B, TEXT:0024] 
 +[FID:4B, TEXT:0025] 
 
---- Group 22 [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---
 ほらっ、次の出し物
 が始まりますよ
 +[FID:4B, TEXT:0026] 
 +[FID:4B, TEXT:0029] 
 
---- Group 24 [left:主人公 next=2012] ---
+--- Group [left:主人公 next=2012] ---
 ・・・だめでしょ
 ケンカしちゃ
 +[FID:4B, TEXT:0027] 
 +[FID:4B, TEXT:0028] 
 
---- Group 25 [right:团长 next=2012] ---
+--- Group [right:团长 next=2012] ---
 さあ、お次はここでし
 か見られない、不思議
 な生き物たちをお目に
@@ -142,7 +142,7 @@
 +[FID:4B, TEXT:002C] 
 +[FID:4B, TEXT:002D] 
 
---- Group 26 [right:团长 next=2012] ---
+--- Group [right:团长 next=2012] ---
 さあ出番だぞ・・・
 モナティ！
 ガウム！
@@ -150,31 +150,31 @@
 +[FID:4B, TEXT:002F] 
 +[FID:4B, TEXT:0030] 
 
---- Group 27 [right:none next=2012] ---
+--- Group [right:none next=2012] ---
 はいですのーっ！
 +[FID:4B, TEXT:0031] 
 
---- Group 28 [right:none next=2012] ---
+--- Group [right:none next=2012] ---
 きゅーっ！
 +[FID:4B, TEXT:0032] 
 
---- Group 29 [right:none next=2012] ---
+--- Group [right:none next=2012] ---
 はじめましてぇ
 モナティですのっ！
 +[FID:4B, TEXT:0033] 
 +[FID:4B, TEXT:0034] 
 
---- Group 30 [right:none next=2012] ---
+--- Group [right:none next=2012] ---
 で、この子はガウム
 モナティのお友達なの
 +[FID:4B, TEXT:0035] 
 +[FID:4B, TEXT:0036] 
 
---- Group 31 [left:none next=2012] ---
+--- Group [left:none next=2012] ---
 きゅー！
 +[FID:4B, TEXT:0037] 
 
---- Group 32 [right:none next=2012] ---
+--- Group [right:none next=2012] ---
 モナティたちはねぇ
 よその世界から呼ばれ
 て来たんですのー
@@ -182,7 +182,7 @@
 +[FID:4B, TEXT:0039] 
 +[FID:4B, TEXT:003A] 
 
---- Group 33 [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---
 よその世界から呼ばれ
 たってことは、あの子
 たちも召喚獣ってこと
@@ -192,7 +192,7 @@
 +[FID:4B, TEXT:0041] 
 +[FID:4B, TEXT:0044] 
 
---- Group 34 [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---
 よその世界から呼ばれ
 たってことは、あの子
 たちも召喚獣ってこと
@@ -202,7 +202,7 @@
 -[FID:4B, TEXT:0041] 
 +[FID:4B, TEXT:0043] 
 
---- Group 35 [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---
 よその世界から呼ばれ
 たってことは、あの子
 たちも召喚獣・・・？
@@ -210,7 +210,7 @@
 -[FID:4B, TEXT:0040] 
 +[FID:4B, TEXT:0045] 
 
---- Group 36 [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---
 よその世界から呼ばれ
 たってことは、あの子
 たちも召喚獣ってこと
@@ -220,15 +220,15 @@
 -[FID:4B, TEXT:0041] 
 +[FID:4B, TEXT:0042] 
 
---- Group 37 [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---
 え！？
 +[FID:4B, TEXT:003B] 
 
---- Group 38 [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---
 ！？
 +[FID:4B, TEXT:003C] 
 
---- Group 39 [right:none next=2012] ---
+--- Group [right:none next=2012] ---
 一生懸命がんばります
 から、応援して
 くださいですのー！
@@ -236,7 +236,7 @@
 +[FID:4B, TEXT:003E] 
 +[FID:4B, TEXT:003F] 
 
---- Group 40 [right:none next=2012] ---
+--- Group [right:none next=2012] ---
 じゃあ次はモナティが
 ガウムの変身した玉に
 乗りますですーっ！
@@ -244,88 +244,88 @@
 +[FID:4B, TEXT:0047] 
 +[FID:4B, TEXT:0048] 
 
---- Group 41 [right:怀兹 next=2012] ---
+--- Group [right:怀兹 next=2012] ---
 すごいわねぇ・・・
 +[FID:4B, TEXT:0049] 
 
---- Group 42 [right:莫纳蒂 next=2012] ---
+--- Group [right:莫纳蒂 next=2012] ---
 よ、よっとと・・・
 +[FID:4B, TEXT:004A] 
 
---- Group 43 [right:莫纳蒂 next=0023] ---
+--- Group [right:莫纳蒂 next=0023] ---
 おにいちゃん？
 +[FID:4B, TEXT:004B] 
 
---- Group 44 [right:莫纳蒂 next=2012] ---
+--- Group [right:莫纳蒂 next=2012] ---
 おねえちゃん？
 +[FID:4B, TEXT:004C] 
 
---- Group 45 [left:none next=0023] ---
+--- Group [left:none next=0023] ---
 あ・・・う、うん
 +[FID:4B, TEXT:004D] 
 
---- Group 46 [left:none next=0023] ---
+--- Group [left:none next=0023] ---
 あ・・・ああ
 +[FID:4B, TEXT:004E] 
 
---- Group 47 [left:none next=0023] ---
+--- Group [left:none next=0023] ---
 え、あ、なに
 +[FID:4B, TEXT:004F] 
 
---- Group 48 [right:莫纳蒂 next=2012] ---
+--- Group [right:莫纳蒂 next=2012] ---
 ととっ・・・
 とっとっとっとっ！？
 +[FID:4B, TEXT:0050] 
 +[FID:4B, TEXT:0051] 
 
---- Group 49 [left:none next=0023] ---
+--- Group [left:none next=0023] ---
 でも、なんでサーカス
 なんかに・・・？
 +[FID:4B, TEXT:0052] 
 +[FID:4B, TEXT:0053] 
 
---- Group 50 [right:莫纳蒂 next=0023] ---
+--- Group [right:莫纳蒂 next=0023] ---
 おにいちゃんっ！
 +[FID:4B, TEXT:0054] 
 
---- Group 51 [right:莫纳蒂 next=2012] ---
+--- Group [right:莫纳蒂 next=2012] ---
 おねえちゃんっ！
 +[FID:4B, TEXT:0055] 
 
---- Group 52 [left:none next=2012] ---
+--- Group [left:none next=2012] ---
 ああ、なんでも・・・
 +[FID:4B, TEXT:0056] 
 
---- Group 53 [left:none next=0023] ---
+--- Group [left:none next=0023] ---
 いいっ！？
 +[FID:4B, TEXT:0057] 
 
---- Group 54 [left:none next=0023] ---
+--- Group [left:none next=0023] ---
 えっ！？
 +[FID:4B, TEXT:0058] 
 
---- Group 55 [left:none next=2012] ---
+--- Group [left:none next=2012] ---
 え、なになに・・・？
 +[FID:4B, TEXT:0059] 
 
---- Group 56 [left:none next=0023] ---
+--- Group [left:none next=0023] ---
 いぃっ！？
 +[FID:4B, TEXT:005A] 
 
---- Group 57 [left:none next=0023] ---
+--- Group [left:none next=0023] ---
 え・・・うそ！？
 +[FID:4B, TEXT:005B] 
 
---- Group 58 [left:none next=2012] ---
+--- Group [left:none next=2012] ---
 とととととっ
 止まらないのーっ！？
 +[FID:4B, TEXT:005C] 
 +[FID:4B, TEXT:005D] 
 
---- Group 59 [left:none next=0023] ---
+--- Group [left:none next=0023] ---
 うわあぁぁっ！！
 +[FID:4B, TEXT:005E] 
 
---- Group 60 [left:none next=0023] ---
+--- Group [left:none next=0023] ---
 きゃあぁぁぁっ！
 +[FID:4B, TEXT:005F] 

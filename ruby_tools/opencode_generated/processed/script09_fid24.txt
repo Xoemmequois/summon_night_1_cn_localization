@@ -1,22 +1,22 @@
---- Group 1 [left:none next=0023] ---
+--- Group [left:none next=0023] ---
 うーん、思ったよりも
 簡単に忍びこめたな
 +[FID:24, TEXT:0001] 
 +[FID:24, TEXT:0002] 
 
---- Group 3 [left:none next=0023] ---
+--- Group [left:none next=0023] ---
 まさか、こんな簡単に
 入れてしまうなんて
 +[FID:24, TEXT:0003] 
 +[FID:24, TEXT:0004] 
 
---- Group 4 [left:none next=0023] ---
+--- Group [left:none next=0023] ---
 ・・・なにこれ、
 警備アマアマじゃん
 +[FID:24, TEXT:0005] 
 +[FID:24, TEXT:0006] 
 
---- Group 5 [left:none next=0023] ---
+--- Group [left:none next=0023] ---
 なんか、簡単に
 忍び込めちゃい
 ましたね・・・
@@ -24,7 +24,7 @@
 +[FID:24, TEXT:0008] 
 +[FID:24, TEXT:0009] 
 
---- Group 6 [right:加泽尔 next=2012] ---
+--- Group [right:加泽尔 next=2012] ---
 ああ、場所が場所だけ
 に兵士たちものんきな
 もんだ。酔ってるヤツ
@@ -34,7 +34,7 @@
 +[FID:24, TEXT:000C] 
 +[FID:24, TEXT:000D] 
 
---- Group 8 [left:none next=2012] ---
+--- Group [left:none next=2012] ---
 ついて来た手前、止め
 るわけにもいかないし
 まいったな・・・
@@ -42,7 +42,7 @@
 +[FID:24, TEXT:000F] 
 +[FID:24, TEXT:0010] 
 
---- Group 9 [right:none next=2012] ---
+--- Group [right:none next=2012] ---
 さて、と
 どうやらあそこで料理
 を作ってるみたいだな
@@ -50,23 +50,23 @@
 +[FID:24, TEXT:0012] 
 +[FID:24, TEXT:0013] 
 
---- Group 11 [left:none next=0023] ---
+--- Group [left:none next=0023] ---
 どうするんだ？
 +[FID:24, TEXT:0014] 
 
---- Group 13 [left:none next=0023] ---
+--- Group [left:none next=0023] ---
 どうする気なんだ
 +[FID:24, TEXT:0015] 
 
---- Group 14 [left:none next=0023] ---
+--- Group [left:none next=0023] ---
 どうする気？
 +[FID:24, TEXT:0016] 
 
---- Group 15 [left:none next=0023] ---
+--- Group [left:none next=0023] ---
 どうする気ですか？
 +[FID:24, TEXT:0017] 
 
---- Group 16 [right:none next=2012] ---
+--- Group [right:none next=2012] ---
 へへへ
 まあ、黙って俺に
 ついてこいよ
@@ -74,7 +74,7 @@
 +[FID:24, TEXT:0019] 
 +[FID:24, TEXT:001A] 
 
---- Group 18 [left:加泽尔 next=2012] ---
+--- Group [left:加泽尔 next=2012] ---
 すいませーん！
 料理を取りに
 きたんですがー！！
@@ -82,39 +82,39 @@
 +[FID:24, TEXT:001C] 
 +[FID:24, TEXT:001D] 
 
---- Group 20 [left:加泽尔 next=2012] ---
+--- Group [left:加泽尔 next=2012] ---
 そこにあるだろ？
 さっさと持ってきな！
 +[FID:24, TEXT:001E] 
 +[FID:24, TEXT:001F] 
 
---- Group 22 [left:加泽尔 next=2012] ---
+--- Group [left:加泽尔 next=2012] ---
 わかりました！
 +[FID:24, TEXT:0020] 
 
---- Group 24 [right:加泽尔 next=2012] ---
+--- Group [right:加泽尔 next=2012] ---
 ほれっ、お前は
 そっちの皿を持てよ！
 +[FID:24, TEXT:0021] 
 +[FID:24, TEXT:0022] 
 
---- Group 26 [right:加泽尔 next=2012] ---
+--- Group [right:加泽尔 next=2012] ---
 うまくいっただろ
 +[FID:24, TEXT:0023] 
 
---- Group 28 [left:none next=0023] ---
+--- Group [left:none next=0023] ---
 なんで！？
 +[FID:24, TEXT:0024] 
 
---- Group 30 [left:none next=0023] ---
+--- Group [left:none next=0023] ---
 そんな・・・
 +[FID:24, TEXT:0025] 
 
---- Group 31 [left:none next=0023] ---
+--- Group [left:none next=0023] ---
 なぜでしょうか？
 +[FID:24, TEXT:0026] 
 
---- Group 32 [right:none next=2012] ---
+--- Group [right:none next=2012] ---
 これだけいっぱい貴族
 が来てるってことは、
 当然その召使いたちも
@@ -124,17 +124,17 @@
 +[FID:24, TEXT:0029] 
 +[FID:24, TEXT:002A] 
 
---- Group 34 [right:加泽尔 next=2012] ---
+--- Group [right:加泽尔 next=2012] ---
 そこにつけこんだって
 わけだよ
 +[FID:24, TEXT:002B] 
 +[FID:24, TEXT:002C] 
 
---- Group 36 [left:none next=0023] ---
+--- Group [left:none next=0023] ---
 な、なるほど・・・
 +[FID:24, TEXT:002D] 
 
---- Group 38 [left:none next=0023] ---
+--- Group [left:none next=0023] ---
 やれやれ・・・
 こういう時の君の知恵
 には感心するな
@@ -142,7 +142,7 @@
 +[FID:24, TEXT:002F] 
 +[FID:24, TEXT:0030] 
 
---- Group 39 [left:none next=0023] ---
+--- Group [left:none next=0023] ---
 あ〜なんていうか
 あんたこういう知恵
 ばっか働くんだね
@@ -150,11 +150,11 @@
 +[FID:24, TEXT:0032] 
 +[FID:24, TEXT:0033] 
 
---- Group 40 [left:none next=0023] ---
+--- Group [left:none next=0023] ---
 あ、なるほど・・・
 +[FID:24, TEXT:0034] 
 
---- Group 41 [right:加泽尔 next=2012] ---
+--- Group [right:加泽尔 next=2012] ---
 感心するのはあとにし
 て、とりあえず獲物を
 いただくとしようぜ
@@ -162,7 +162,7 @@
 +[FID:24, TEXT:0036] 
 +[FID:24, TEXT:0037] 
 
---- Group 43 [right:none next=2012] ---
+--- Group [right:none next=2012] ---
 うーん
 さすがは貴族だぜ
 いいもの食ってやがる
@@ -170,25 +170,25 @@
 +[FID:24, TEXT:0039] 
 +[FID:24, TEXT:003A] 
 
---- Group 45 [left:none next=0023] ---
+--- Group [left:none next=0023] ---
 うん・・・
 +[FID:24, TEXT:003B] 
 
---- Group 47 [left:none next=0023] ---
+--- Group [left:none next=0023] ---
 ああ・・・
 +[FID:24, TEXT:003C] 
 
---- Group 48 [left:none next=0023] ---
+--- Group [left:none next=0023] ---
 ですねぇ・・・
 +[FID:24, TEXT:003D] 
 
---- Group 49 [right:none next=2012] ---
+--- Group [right:none next=2012] ---
 なんだ、不満でも
 あんのか？
 +[FID:24, TEXT:003E] 
 +[FID:24, TEXT:003F] 
 
---- Group 51 [left:none next=0023] ---
+--- Group [left:none next=0023] ---
 そうじゃないけど
 なんか、みんなに
 悪い気がしてさ
@@ -196,7 +196,7 @@
 +[FID:24, TEXT:0041] 
 +[FID:24, TEXT:0042] 
 
---- Group 53 [left:none next=2012] ---
+--- Group [left:none next=2012] ---
 こういうことをしたの
 は初めてだからさ
 なんだか落ち着かない
@@ -206,13 +206,13 @@
 +[FID:24, TEXT:0045] 
 +[FID:24, TEXT:0046] 
 
---- Group 54 [left:none next=0023] ---
+--- Group [left:none next=0023] ---
 それに、なんだか他の
 みんなに悪い気がする
 +[FID:24, TEXT:0047] 
 +[FID:24, TEXT:0048] 
 
---- Group 55 [left:none next=0023] ---
+--- Group [left:none next=0023] ---
 う〜ん、
 あたしたちだけで
 食べてもね〜
@@ -220,7 +220,7 @@
 +[FID:24, TEXT:004A] 
 +[FID:24, TEXT:004B] 
 
---- Group 56 [left:none next=0023] ---
+--- Group [left:none next=0023] ---
 いえ・・・
 みんなも食べたい
 だろうなって・・・
@@ -228,13 +228,13 @@
 +[FID:24, TEXT:004D] 
 +[FID:24, TEXT:004E] 
 
---- Group 57 [right:none next=2012] ---
+--- Group [right:none next=2012] ---
 ・・・
 じつはよ、俺もなんだ
 +[FID:24, TEXT:004F] 
 +[FID:24, TEXT:0050] 
 
---- Group 60 [right:none next=2012] ---
+--- Group [right:none next=2012] ---
 いくら豪華なメシでも
 こそこそと食べてちゃ
 うまくねえ
@@ -242,7 +242,7 @@
 +[FID:24, TEXT:0052] 
 +[FID:24, TEXT:0053] 
 
---- Group 62 [right:none next=2012] ---
+--- Group [right:none next=2012] ---
 よし！
 みやげに菓子でもくす
 ねてから、引き上げる
@@ -252,7 +252,7 @@
 +[FID:24, TEXT:0056] 
 +[FID:24, TEXT:0057] 
 
---- Group 64 [left:none next=2012] ---
+--- Group [left:none next=2012] ---
 自分の不手際をそんな
 理由でごまかすつもり
 か、貴様は！
@@ -260,11 +260,11 @@
 +[FID:24, TEXT:0059] 
 +[FID:24, TEXT:005A] 
 
---- Group 66 [left:加泽尔 next=2012] ---
+--- Group [left:加泽尔 next=2012] ---
 な、なんだ？
 +[FID:24, TEXT:005B] 
 
---- Group 68 [left:加泽尔 next=2012] ---
+--- Group [left:加泽尔 next=2012] ---
 いいわけはいい！
 現にお客様方のところ
 に料理が届いていない
@@ -274,25 +274,25 @@
 +[FID:24, TEXT:005E] 
 +[FID:24, TEXT:005F] 
 
---- Group 70 [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---
 これって・・・
 もしかして・・・
 +[FID:24, TEXT:0060] 
 +[FID:24, TEXT:0061] 
 
---- Group 72 [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---
 これは・・・
 もしかして・・・
 +[FID:24, TEXT:0062] 
 -[FID:24, TEXT:0061] 
 
---- Group 73 [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---
 あちゃ〜
 これって・・・
 +[FID:24, TEXT:0063] 
 -[FID:24, TEXT:0060] 
 
---- Group 74 [left:主人公 next=2012] ---
+--- Group [left:主人公 next=2012] ---
 この私に恥をかかせる
 つもりか？
 だいたい、そんなガキ
@@ -302,43 +302,43 @@
 +[FID:24, TEXT:0066] 
 +[FID:24, TEXT:0067] 
 
---- Group 76 [right:伊姆兰 next=2012] ---
+--- Group [right:伊姆兰 next=2012] ---
 この会場のどこにいる
 と・・・！？
 +[FID:24, TEXT:0068] 
 +[FID:24, TEXT:0069] 
 
---- Group 77 [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---
 あ・・・
 +[FID:24, TEXT:006A] 
 
---- Group 78 [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---
 あ、ども〜・・・
 +[FID:24, TEXT:006B] 
 
---- Group 79 [right:伊姆兰 next=2012] ---
+--- Group [right:伊姆兰 next=2012] ---
 貴様らかあぁぁっ！？
 +[FID:24, TEXT:006C] 
 
---- Group 80 [right:伊姆兰 next=2012] ---
+--- Group [right:伊姆兰 next=2012] ---
 薄汚い平民どもめっ、
 どこから入ってきた！
 +[FID:24, TEXT:006D] 
 +[FID:24, TEXT:006E] 
 
---- Group 81 [left:加泽尔 next=2012] ---
+--- Group [left:加泽尔 next=2012] ---
 おっさんには関係ねえ
 だろ
 +[FID:24, TEXT:006F] 
 +[FID:24, TEXT:0070] 
 
---- Group 82 [right:伊姆兰 next=2012] ---
+--- Group [right:伊姆兰 next=2012] ---
 おっさんではないっ！
 イムラン様と呼べ！！
 +[FID:24, TEXT:0071] 
 +[FID:24, TEXT:0072] 
 
---- Group 83 [right:伊姆兰 next=2012] ---
+--- Group [right:伊姆兰 next=2012] ---
 このサイジェントの街
 の政務をとりしきる、
 イムラン・マーン様と
@@ -348,19 +348,19 @@
 +[FID:24, TEXT:0075] 
 +[FID:24, TEXT:0076] 
 
---- Group 84 [right:伊姆兰 next=2012] ---
+--- Group [right:伊姆兰 next=2012] ---
 フンッ、どうだ？
 恐れ入って声も出まい
 +[FID:24, TEXT:0077] 
 +[FID:24, TEXT:0078] 
 
---- Group 85 [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---
 いや、全然それっぽく
 見えないなって・・・
 +[FID:24, TEXT:0079] 
 +[FID:24, TEXT:007A] 
 
---- Group 86 [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---
 いや・・・
 とてもそうは見えない
 んだが・・・
@@ -368,11 +368,11 @@
 +[FID:24, TEXT:007C] 
 +[FID:24, TEXT:007D] 
 
---- Group 87 [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---
 ・・・だれ？
 +[FID:24, TEXT:007E] 
 
---- Group 88 [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---
 いえ・・・本当の
 イムランさんは
 どちらに・・・？
@@ -380,17 +380,17 @@
 +[FID:24, TEXT:0080] 
 +[FID:24, TEXT:0081] 
 
---- Group 89 [right:伊姆兰 next=2012] ---
+--- Group [right:伊姆兰 next=2012] ---
 なぁんだとぉ〜っ！？
 +[FID:24, TEXT:0082] 
 
---- Group 90 [right:加泽尔 next=2012] ---
+--- Group [right:加泽尔 next=2012] ---
 おいっ、@ n 
 余計なこと言うな！
 +[FID:24, TEXT:0083] 
 +[FID:24, TEXT:0084] 
 
---- Group 91 [right:加泽尔 next=2012] ---
+--- Group [right:加泽尔 next=2012] ---
 だいたいそんなこと
 口に出さなくても、
 見ればわかるだろっ
@@ -398,11 +398,11 @@
 +[FID:24, TEXT:0086] 
 +[FID:24, TEXT:0087] 
 
---- Group 92 [left:主人公 next=2012] ---
+--- Group [left:主人公 next=2012] ---
 え・・・えっ・・・？
 +[FID:24, TEXT:0088] 
 
---- Group 93 [right:加泽尔 next=2012] ---
+--- Group [right:加泽尔 next=2012] ---
 ど・・・どうやら私を
 本気で怒らせたいよう
 だな、平民どもっ！
@@ -410,7 +410,7 @@
 +[FID:24, TEXT:008A] 
 +[FID:24, TEXT:008B] 
 
---- Group 94 [left:主人公 next=2012] ---
+--- Group [left:主人公 next=2012] ---
 ケッ！
 だったらどうしたって
 んだよ、おっさん？
@@ -418,7 +418,7 @@
 +[FID:24, TEXT:008D] 
 +[FID:24, TEXT:008E] 
 
---- Group 95 [right:加泽尔 next=2012] ---
+--- Group [right:加泽尔 next=2012] ---
 マーン三兄弟・長兄の
 イムランが【誓約】の
 もとに命じる・・・
@@ -426,37 +426,37 @@
 +[FID:24, TEXT:0090] 
 +[FID:24, TEXT:0091] 
 
---- Group 96 [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---
 ガゼルっ
 こいつ召喚師だぞ！！
 +[FID:24, TEXT:0092] 
 +[FID:24, TEXT:0093] 
 
---- Group 97 [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---
 まずいぞ、ガゼル
 こいつは召喚師だ！
 +[FID:24, TEXT:0094] 
 +[FID:24, TEXT:0095] 
 
---- Group 98 [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---
 ええ！？
 うそっ召喚師！？
 +[FID:24, TEXT:0096] 
 +[FID:24, TEXT:0097] 
 
---- Group 99 [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---
 え・・・まさか
 召喚師さんですか！？
 +[FID:24, TEXT:0098] 
 +[FID:24, TEXT:0099] 
 
---- Group 100 [left:加泽尔 next=2012] ---
+--- Group [left:加泽尔 next=2012] ---
 おいおい、そりゃ冗談
 だろっ！？
 +[FID:24, TEXT:009A] 
 +[FID:24, TEXT:009B] 
 
---- Group 101 [right:加泽尔 next=2012] ---
+--- Group [right:加泽尔 next=2012] ---
 フハハハハッ！
 今さら後悔しようと
 遅いわ！
@@ -464,7 +464,7 @@
 +[FID:24, TEXT:009D] 
 +[FID:24, TEXT:009E] 
 
---- Group 102 [right:加泽尔 next=2012] ---
+--- Group [right:加泽尔 next=2012] ---
 金の派閥の召喚師
 イムラン・マーン様に
 たてついた報いを

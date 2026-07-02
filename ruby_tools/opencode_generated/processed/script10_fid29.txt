@@ -1,4 +1,4 @@
---- Group 1 [right:none next=2012] ---
+--- Group [right:none next=2012] ---
 いてててっ・・・！
 このガキ、手を離しや
 がれっ！！
@@ -6,13 +6,13 @@
 +[FID:29, TEXT:0002] 
 +[FID:29, TEXT:0003] 
 
---- Group 3 [left:主人公 next=2012] ---
+--- Group [left:主人公 next=2012] ---
 アンタが謝るほうが先
 だろ？
 +[FID:29, TEXT:0004] 
 +[FID:29, TEXT:0005] 
 
---- Group 5 [right:none next=2012] ---
+--- Group [right:none next=2012] ---
 てめぇ、俺たちが何者
 だかわかってて言って
 んのかっ！？
@@ -20,11 +20,11 @@
 +[FID:29, TEXT:0007] 
 +[FID:29, TEXT:0008] 
 
---- Group 7 [left:主人公 next=2012] ---
+--- Group [left:主人公 next=2012] ---
 そんなこと関係ねえよ
 +[FID:29, TEXT:0009] 
 
---- Group 9 [left:主人公 next=2012] ---
+--- Group [left:主人公 next=2012] ---
 人を突き飛ばしといて
 謝りもせずに行こうっ
 てほうが悪い！
@@ -32,19 +32,19 @@
 +[FID:29, TEXT:000B] 
 +[FID:29, TEXT:000C] 
 
---- Group 11 [left:主人公 next=2012] ---
+--- Group [left:主人公 next=2012] ---
 ほら、そこのジイさん
 に謝れよ？
 +[FID:29, TEXT:000D] 
 +[FID:29, TEXT:000E] 
 
---- Group 13 [left:老人 next=2012] ---
+--- Group [left:老人 next=2012] ---
 ぼ、坊や・・・
 もういい、やめとくれ
 +[FID:29, TEXT:000F] 
 +[FID:29, TEXT:0010] 
 
---- Group 15 [left:老人 next=2012] ---
+--- Group [left:老人 next=2012] ---
 あァ？
 良くないだろ、悪いの
 はこいつらなんだぜ
@@ -52,29 +52,29 @@
 +[FID:29, TEXT:0012] 
 +[FID:29, TEXT:0013] 
 
---- Group 17 [right:伊利亚斯 next=2012] ---
+--- Group [right:伊利亚斯 next=2012] ---
 あーあ、あの子供
 黙ってりゃいいのに
 +[FID:29, TEXT:0014] 
 +[FID:29, TEXT:0015] 
 
---- Group 19 [left:none next=2012] ---
+--- Group [left:none next=2012] ---
 余計なことしちまって
 タダじゃすまないよ
 +[FID:29, TEXT:0016] 
 +[FID:29, TEXT:0017] 
 
---- Group 21 [left:none next=2012] ---
+--- Group [left:none next=2012] ---
 さあ、謝れッ！！
 +[FID:29, TEXT:0018] 
 
---- Group 23 [right:none next=2012] ---
+--- Group [right:none next=2012] ---
 このガキ・・・
 みんな、やっちまえ！
 +[FID:29, TEXT:0019] 
 +[FID:29, TEXT:001A] 
 
---- Group 25 [right:伊利亚斯 next=2015] ---
+--- Group [right:伊利亚斯 next=2015] ---
 どうしよう？
 　助けに入る
 　呆然と見ている
@@ -82,23 +82,23 @@
 +[FID:29, TEXT:001C] 
 +[FID:29, TEXT:001D] 
 
---- Group 27 [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---
 待てよっ、お前ら！
 +[FID:29, TEXT:001E] 
 
---- Group 29 [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---
 やめるんだ！
 +[FID:29, TEXT:001F] 
 
---- Group 31 [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---
 ちょっと待ちなさい！
 +[FID:29, TEXT:0020] 
 
---- Group 33 [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---
 待ってください！
 +[FID:29, TEXT:0021] 
 
---- Group 35 [right:char_0039 next=2012] ---
+--- Group [right:char_0039 next=2012] ---
 お前は・・・
 また俺たちの邪魔を
 する気かっ！？
@@ -106,7 +106,7 @@
 +[FID:29, TEXT:0023] 
 +[FID:29, TEXT:0024] 
 
---- Group 36 [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---
 子供相手によってたか
 って、恥ずかしいとは
 思わ・・・
@@ -114,7 +114,7 @@
 +[FID:29, TEXT:0026] 
 +[FID:29, TEXT:0027] 
 
---- Group 37 [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---
 子供相手によってたか
 って、恥ずかしいとは
 思わないのっ・・・
@@ -122,7 +122,7 @@
 -[FID:29, TEXT:0026] 
 +[FID:29, TEXT:0028] 
 
---- Group 38 [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---
 子供相手に大勢で
 恥ずかしくは
 ありませんか・・・？
@@ -130,21 +130,21 @@
 +[FID:29, TEXT:002A] 
 +[FID:29, TEXT:002B] 
 
---- Group 39 [right:char_003A next=2012] ---
+--- Group [right:char_003A next=2012] ---
 ぎゃあっ！
 +[FID:29, TEXT:002C] 
 
---- Group 40 [left:主人公 next=2012] ---
+--- Group [left:主人公 next=2012] ---
 え・・・？
 +[FID:29, TEXT:002D] 
 
---- Group 42 [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---
 な、なんだ！？
 なにが起きたんだ
 +[FID:29, TEXT:002E] 
 +[FID:29, TEXT:002F] 
 
---- Group 43 [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---
 あ、あれ！？
 あたしなにもしてない
 んだけど・・・
@@ -152,7 +152,7 @@
 +[FID:29, TEXT:0031] 
 +[FID:29, TEXT:0032] 
 
---- Group 44 [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---
 いったいなにが？
 わたしはなにもして
 いないのに・・・
@@ -160,7 +160,7 @@
 +[FID:29, TEXT:0034] 
 +[FID:29, TEXT:0035] 
 
---- Group 45 [left:金加 next=2012] ---
+--- Group [left:金加 next=2012] ---
 なーんだ
 大口叩いたわりには、
 弱いじゃんか
@@ -168,71 +168,71 @@
 +[FID:29, TEXT:0037] 
 +[FID:29, TEXT:0038] 
 
---- Group 47 [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---
 この子が
 やったの・・・？
 +[FID:29, TEXT:0039] 
 +[FID:29, TEXT:003D] 
 
---- Group 48 [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---
 この子が
 やったのか！？
 -[FID:29, TEXT:0039] 
 +[FID:29, TEXT:003A] 
 
---- Group 49 [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---
 ええ！？
 この子がやったの！？
 +[FID:29, TEXT:003B] 
 +[FID:29, TEXT:003C] 
 
---- Group 50 [left:主人公 next=2012] ---
+--- Group [left:主人公 next=2012] ---
 さあ、あとはお前だけ
 だぜ？
 +[FID:29, TEXT:003E] 
 +[FID:29, TEXT:003F] 
 
---- Group 52 [left:主人公 next=2012] ---
+--- Group [left:主人公 next=2012] ---
 お、お、お・・・
 おぼえてやがれえぇ！
 +[FID:29, TEXT:0040] 
 +[FID:29, TEXT:0041] 
 
---- Group 53 [left:主人公 next=2012] ---
+--- Group [left:主人公 next=2012] ---
 あ、コラっ！
 ちゃんと謝れえッ！！
 +[FID:29, TEXT:0042] 
 +[FID:29, TEXT:0043] 
 
---- Group 54 [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---
 この子、めちゃくちゃ
 強い・・・
 +[FID:29, TEXT:0044] 
 +[FID:29, TEXT:0045] 
 
---- Group 55 [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---
 うわ、この子めっちゃ
 強いじゃん・・・
 +[FID:29, TEXT:0046] 
 +[FID:29, TEXT:0047] 
 
---- Group 56 [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---
 この子、すごく
 強い・・・
 +[FID:29, TEXT:0048] 
 -[FID:29, TEXT:0045] 
 
---- Group 57 [right:char_003A next=2012] ---
+--- Group [right:char_003A next=2012] ---
 ぐぐぐ・・・
 ちくしょおっ！！
 +[FID:29, TEXT:0049] 
 +[FID:29, TEXT:004A] 
 
---- Group 58 [right:老人 next=2012] ---
+--- Group [right:老人 next=2012] ---
 ひいっ！
 +[FID:29, TEXT:004B] 
 
---- Group 59 [left:主人公 next=2012] ---
+--- Group [left:主人公 next=2012] ---
 あっ、オマエ
 人質とるなんて
 きたねーぞっ！？
@@ -240,7 +240,7 @@
 +[FID:29, TEXT:004D] 
 +[FID:29, TEXT:004E] 
 
---- Group 60 [right:char_0039 next=2012] ---
+--- Group [right:char_0039 next=2012] ---
 うるせえっ！
 ちょっとでも動いたら
 こいつの・・・
@@ -248,11 +248,11 @@
 +[FID:29, TEXT:0050] 
 +[FID:29, TEXT:0051] 
 
---- Group 61 [right:char_0039 next=2012] ---
+--- Group [right:char_0039 next=2012] ---
 ぎゃっ！
 +[FID:29, TEXT:0052] 
 
---- Group 62 [right:主人公 next=0023] ---
+--- Group [right:主人公 next=0023] ---
 さすがにここまでされ
 たら、黙って見てられ
 ないぜ・・・
@@ -260,7 +260,7 @@
 +[FID:29, TEXT:0054] 
 +[FID:29, TEXT:0055] 
 
---- Group 63 [right:主人公 next=0023] ---
+--- Group [right:主人公 next=0023] ---
 さすがにここまでされ
 たら、黙ってはいられ
 ないな・・・
@@ -268,13 +268,13 @@
 +[FID:29, TEXT:0056] 
 +[FID:29, TEXT:0057] 
 
---- Group 64 [right:主人公 next=2012] ---
+--- Group [right:主人公 next=2012] ---
 ちょっと！
 こんなの卑怯じゃん！
 +[FID:29, TEXT:0058] 
 +[FID:29, TEXT:0059] 
 
---- Group 65 [right:主人公 next=0023] ---
+--- Group [right:主人公 next=0023] ---
 黙っているのが
 無理ってもの
 じゃない・・・
@@ -282,7 +282,7 @@
 +[FID:29, TEXT:005B] 
 +[FID:29, TEXT:005C] 
 
---- Group 66 [right:主人公 next=0023] ---
+--- Group [right:主人公 next=0023] ---
 ・・・だめです
 いくらなんでも
 ほうっておけません！
@@ -290,15 +290,15 @@
 +[FID:29, TEXT:005E] 
 +[FID:29, TEXT:005F] 
 
---- Group 67 [left:none next=2012] ---
+--- Group [left:none next=2012] ---
 大丈夫ですか？
 +[FID:29, TEXT:0060] 
 
---- Group 68 [right:主人公 next=2012] ---
+--- Group [right:主人公 next=2012] ---
 ひいいいっ！！
 +[FID:29, TEXT:0061] 
 
---- Group 69 [left:none next=0023] ---
+--- Group [left:none next=0023] ---
 あ・・・
 まあ、あれだけ走れる
 なら大丈夫かな？
@@ -306,7 +306,7 @@
 +[FID:29, TEXT:0063] 
 +[FID:29, TEXT:0064] 
 
---- Group 70 [left:none next=0023] ---
+--- Group [left:none next=0023] ---
 あ・・・
 まあ、あれだけ走れる
 なら大丈夫ですよね
@@ -314,7 +314,7 @@
 -[FID:29, TEXT:0063] 
 +[FID:29, TEXT:0066] 
 
---- Group 71 [left:none next=0023] ---
+--- Group [left:none next=0023] ---
 あ・・・
 まあ、あれだけ走れる
 なら大丈夫だろう
@@ -322,31 +322,31 @@
 -[FID:29, TEXT:0063] 
 +[FID:29, TEXT:0065] 
 
---- Group 72 [right:none next=2012] ---
+--- Group [right:none next=2012] ---
 へへへ、助けてもらっ
 ちまったみたいだな
 +[FID:29, TEXT:0067] 
 +[FID:29, TEXT:0068] 
 
---- Group 74 [left:none next=0023] ---
+--- Group [left:none next=0023] ---
 助ける必要はなかった
 みたいだけどね
 +[FID:29, TEXT:0069] 
 +[FID:29, TEXT:006A] 
 
---- Group 76 [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---
 助ける必要はなかった
 みたいだけど、ね
 -[FID:29, TEXT:0069] 
 +[FID:29, TEXT:006D] 
 
---- Group 77 [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---
 余計なお世話だった
 気もするけどね
 +[FID:29, TEXT:006B] 
 +[FID:29, TEXT:006C] 
 
---- Group 78 [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---
 でも・・・
 助ける必要はなかった
 みたいですね
@@ -354,7 +354,7 @@
 -[FID:29, TEXT:0069] 
 +[FID:29, TEXT:006F] 
 
---- Group 79 [right:none next=2012] ---
+--- Group [right:none next=2012] ---
 まあな
 でも、アンタの心意気
 は嬉しかったぜ！
@@ -362,7 +362,7 @@
 +[FID:29, TEXT:0071] 
 +[FID:29, TEXT:0072] 
 
---- Group 81 [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---
 けど、こいつらを敵に
 回したのはまずいよ
 早いとこ、立ち去った
@@ -372,7 +372,7 @@
 +[FID:29, TEXT:0075] 
 +[FID:29, TEXT:0076] 
 
---- Group 83 [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---
 けど、こいつらを敵に
 回したのはまずい
 早いとこ、立ち去った
@@ -382,7 +382,7 @@
 -[FID:29, TEXT:0075] 
 +[FID:29, TEXT:0078] 
 
---- Group 84 [left:主人公 next=2012] ---
+--- Group [left:主人公 next=2012] ---
 でもさ、この人たちを
 敵に回したのは、ちょ
 っとばかり、まずかっ
@@ -392,13 +392,13 @@
 +[FID:29, TEXT:007B] 
 +[FID:29, TEXT:007C] 
 
---- Group 85 [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---
 はやいとこ
 逃げた方がいいよ
 +[FID:29, TEXT:007D] 
 +[FID:29, TEXT:007E] 
 
---- Group 86 [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---
 それはいいのですけど
 彼らを敵に回したのは
 よくないですよ・・・
@@ -408,7 +408,7 @@
 +[FID:29, TEXT:0081] 
 +[FID:29, TEXT:0082] 
 
---- Group 87 [right:none next=2012] ---
+--- Group [right:none next=2012] ---
 なんでだ？
 俺っち、これから宿を
 探さなくちゃならねえ
@@ -418,7 +418,7 @@
 +[FID:29, TEXT:0085] 
 -[FID:29, TEXT:0032] 
 
---- Group 89 [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---
 説明はあとでするから
 とりあえず、俺の言う
 とおりにしてくれよ
@@ -426,7 +426,7 @@
 +[FID:29, TEXT:0087] 
 +[FID:29, TEXT:0088] 
 
---- Group 91 [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---
 説明はあとでするから
 とりあえず、ここから
 離れよう
@@ -434,7 +434,7 @@
 +[FID:29, TEXT:0089] 
 +[FID:29, TEXT:008A] 
 
---- Group 92 [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---
 説明はあとでするから
 今はとりあえず
 あたしの言うとおりに
@@ -444,7 +444,7 @@
 +[FID:29, TEXT:008C] 
 +[FID:29, TEXT:008D] 
 
---- Group 93 [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---
 説明は後回しです
 今は、わたしについて
 きてください
@@ -452,6 +452,6 @@
 +[FID:29, TEXT:008F] 
 +[FID:29, TEXT:0090] 
 
---- Group 94 [right:none next=2012] ---
+--- Group [right:none next=2012] ---
 ・・・わかった
 +[FID:29, TEXT:0091] 

@@ -1,4 +1,4 @@
---- Group 1 [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---
 本当だ
 すごい数の警備の兵士
 が広場を囲んでる
@@ -6,7 +6,7 @@
 +[FID:45, TEXT:0002] 
 +[FID:45, TEXT:0003] 
 
---- Group 4 [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---
 本当だ
 すごい数の兵隊さんが
 広場を囲んでるよ
@@ -14,25 +14,25 @@
 +[FID:45, TEXT:0004] 
 +[FID:45, TEXT:0005] 
 
---- Group 6 [right:none next=2012] ---
+--- Group [right:none next=2012] ---
 罪人たちの点呼は
 完了しましたか？
 +[FID:45, TEXT:0006] 
 +[FID:45, TEXT:0007] 
 
---- Group 9 [left:主人公 next=2012] ---
+--- Group [left:主人公 next=2012] ---
 はッ、完了しました！
 +[FID:45, TEXT:0008] 
 
---- Group 12 [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---
 罪人だって・・・？
 +[FID:45, TEXT:0009] 
 
---- Group 15 [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---
 罪人・・・？
 +[FID:45, TEXT:000A] 
 
---- Group 17 [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---
 罪人？
 なにか事件でも
 起きたの・・・？
@@ -40,13 +40,13 @@
 +[FID:45, TEXT:000D] 
 +[FID:45, TEXT:000E] 
 
---- Group 18 [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---
 罪人？
 事件・・・？
 -[FID:45, TEXT:000B] 
 +[FID:45, TEXT:000C] 
 
---- Group 21 [right:none next=0023] ---
+--- Group [right:none next=0023] ---
 なあ、アニキ
 あの人たち
 本当に罪人なのかなぁ
@@ -54,7 +54,7 @@
 +[FID:45, TEXT:0010] 
 +[FID:45, TEXT:0011] 
 
---- Group 23 [right:none next=2012] ---
+--- Group [right:none next=2012] ---
 なあ、アネゴ
 あの人たち
 本当に罪人なのかなぁ
@@ -62,7 +62,7 @@
 -[FID:45, TEXT:0010] 
 -[FID:45, TEXT:0011] 
 
---- Group 26 [right:none next=2012] ---
+--- Group [right:none next=2012] ---
 見るからに
 よぼよぼの爺さんとか
 女子供も並んでるぜ？
@@ -70,15 +70,15 @@
 +[FID:45, TEXT:0014] 
 +[FID:45, TEXT:0015] 
 
---- Group 29 [right:佩尔戈 next=2012] ---
+--- Group [right:佩尔戈 next=2012] ---
 ・・・罪人ですよ
 +[FID:45, TEXT:0016] 
 
---- Group 30 [left:主人公 next=2012] ---
+--- Group [left:主人公 next=2012] ---
 えっ？
 +[FID:45, TEXT:0017] 
 
---- Group 31 [right:佩尔戈 next=2012] ---
+--- Group [right:佩尔戈 next=2012] ---
 彼らは税金を払えなか
 った罪で、捕まった
 人たちなのです
@@ -86,29 +86,29 @@
 +[FID:45, TEXT:0019] 
 +[FID:45, TEXT:001A] 
 
---- Group 32 [left:金加 next=2012] ---
+--- Group [left:金加 next=2012] ---
 なんだよそりゃ！？
 +[FID:45, TEXT:001B] 
 
---- Group 33 [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---
 あの人たち、
 どうなるんですか？
 +[FID:45, TEXT:001C] 
 +[FID:45, TEXT:001D] 
 
---- Group 34 [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---
 あの人たち、どうなる
 んですか？
 +[FID:45, TEXT:001E] 
 +[FID:45, TEXT:001F] 
 
---- Group 35 [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---
 ・・・あの人たち
 これからどうなるの？
 +[FID:45, TEXT:0020] 
 +[FID:45, TEXT:0021] 
 
---- Group 36 [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---
 ・・・あの人たち
 これからどうなるん
 ですか？
@@ -116,7 +116,7 @@
 +[FID:45, TEXT:0022] 
 +[FID:45, TEXT:0023] 
 
---- Group 37 [right:佩尔戈 next=2012] ---
+--- Group [right:佩尔戈 next=2012] ---
 この広場で見せしめに
 された後、足りない分
 を労働奉仕で払うこと
@@ -126,7 +126,7 @@
 +[FID:45, TEXT:0026] 
 +[FID:45, TEXT:0027] 
 
---- Group 38 [right:佩尔戈 next=2012] ---
+--- Group [right:佩尔戈 next=2012] ---
 男は鉱山、女は工場の
 一番過酷な場所で
 働かされますね
@@ -134,15 +134,15 @@
 +[FID:45, TEXT:0029] 
 +[FID:45, TEXT:002A] 
 
---- Group 39 [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---
 そんなのって・・・
 +[FID:45, TEXT:002B] 
 
---- Group 40 [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---
 そんな・・・
 +[FID:45, TEXT:002C] 
 
---- Group 41 [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---
 ちょっと！
 めちゃめちゃじゃない
 そんなの！
@@ -150,7 +150,7 @@
 +[FID:45, TEXT:002E] 
 +[FID:45, TEXT:002F] 
 
---- Group 42 [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---
 そんなことが
 この世界では、まだ
 許されてるんですか？
@@ -158,7 +158,7 @@
 +[FID:45, TEXT:0031] 
 +[FID:45, TEXT:0032] 
 
---- Group 43 [right:佩尔戈 next=2012] ---
+--- Group [right:佩尔戈 next=2012] ---
 仕方ないんですよ
 そう領主が決めたの
 ですから
@@ -166,7 +166,7 @@
 +[FID:45, TEXT:0034] 
 +[FID:45, TEXT:0035] 
 
---- Group 44 [right:佩尔戈 next=2012] ---
+--- Group [right:佩尔戈 next=2012] ---
 ふむ、正確には領主を
 利用して召喚師たちが
 決めたんでしたか
@@ -174,25 +174,25 @@
 +[FID:45, TEXT:0037] 
 +[FID:45, TEXT:0038] 
 
---- Group 45 [right:金加 next=2012] ---
+--- Group [right:金加 next=2012] ---
 なんでみんな、そんな
 無茶に従ってんだ！？
 +[FID:45, TEXT:0039] 
 +[FID:45, TEXT:003A] 
 
---- Group 46 [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---
 落ち着けよ、ジンガ！
 +[FID:45, TEXT:003B] 
 
---- Group 47 [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---
 落ち着くんだ、ジンガ
 +[FID:45, TEXT:003C] 
 
---- Group 48 [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---
 ジンガ、落ち着いて！
 +[FID:45, TEXT:003D] 
 
---- Group 49 [right:佩尔戈 next=2012] ---
+--- Group [right:佩尔戈 next=2012] ---
 召喚師の力が怖くて、
 泣き寝入りをしている
 んでしょう
@@ -200,7 +200,7 @@
 +[FID:45, TEXT:003F] 
 +[FID:45, TEXT:0040] 
 
---- Group 50 [right:佩尔戈 next=2012] ---
+--- Group [right:佩尔戈 next=2012] ---
 ですが・・・
 全員が全員、そうして
 いるわけでもないよう
@@ -210,7 +210,7 @@
 +[FID:45, TEXT:0043] 
 +[FID:45, TEXT:0044] 
 
---- Group 51 [left:洛卡斯 next=2012] ---
+--- Group [left:洛卡斯 next=2012] ---
 もう我慢できん！
 俺たちが、一体なにを
 したって言うんだ！？
@@ -218,7 +218,7 @@
 +[FID:45, TEXT:0046] 
 +[FID:45, TEXT:0047] 
 
---- Group 52 [left:洛卡斯 next=2012] ---
+--- Group [left:洛卡斯 next=2012] ---
 働けば働くほどに高く
 なる税金なんて、払え
 るわけがあるまい！！
@@ -226,17 +226,17 @@
 +[FID:45, TEXT:0049] 
 +[FID:45, TEXT:004A] 
 
---- Group 53 [right:佩尔戈 next=2012] ---
+--- Group [right:佩尔戈 next=2012] ---
 ・・・あの者は？
 +[FID:45, TEXT:004B] 
 
---- Group 54 [left:洛卡斯 next=2012] ---
+--- Group [left:洛卡斯 next=2012] ---
 はッ、義賊をきどって
 いた盗人の頭目です
 +[FID:45, TEXT:004C] 
 +[FID:45, TEXT:004D] 
 
---- Group 55 [right:佩尔戈 next=2012] ---
+--- Group [right:佩尔戈 next=2012] ---
 人の富を盗んだこと
 それが貴方の罪では
 ありませんか？
@@ -244,13 +244,13 @@
 +[FID:45, TEXT:004F] 
 +[FID:45, TEXT:0050] 
 
---- Group 56 [left:洛卡斯 next=2012] ---
+--- Group [left:洛卡斯 next=2012] ---
 ハッ、だったら貴様ら
 の親玉も同罪だろう？
 +[FID:45, TEXT:0051] 
 +[FID:45, TEXT:0052] 
 
---- Group 57 [left:洛卡斯 next=2012] ---
+--- Group [left:洛卡斯 next=2012] ---
 市民からの税金を力で
 奪い取ってる、立派な
 盗人様だろうが！？
@@ -258,13 +258,13 @@
 +[FID:45, TEXT:0054] 
 +[FID:45, TEXT:0055] 
 
---- Group 58 [right:士兵 next=2012] ---
+--- Group [right:士兵 next=2012] ---
 こいつッ！
 口を慎めッ！！
 +[FID:45, TEXT:0056] 
 +[FID:45, TEXT:0057] 
 
---- Group 59 [left:洛卡斯 next=2012] ---
+--- Group [left:洛卡斯 next=2012] ---
 ・・・殺せよ
 殺さなきゃ、俺の口は
 止まらんぞ！？
@@ -272,11 +272,11 @@
 +[FID:45, TEXT:0059] 
 +[FID:45, TEXT:005A] 
 
---- Group 60 [right:士兵 next=2012] ---
+--- Group [right:士兵 next=2012] ---
 ほざいたなッ！
 +[FID:45, TEXT:005B] 
 
---- Group 61 [right:士兵 next=2015] ---
+--- Group [right:士兵 next=2015] ---
 どうしよう？
 　止めに入る
 　呆然と見ている
@@ -284,27 +284,27 @@
 +[FID:45, TEXT:005D] 
 +[FID:45, TEXT:005E] 
 
---- Group 62 [right:士兵 next=0023] ---
+--- Group [right:士兵 next=0023] ---
 アニキ！
 +[FID:45, TEXT:005F] 
 
---- Group 63 [right:士兵 next=2012] ---
+--- Group [right:士兵 next=2012] ---
 アネゴ！
 +[FID:45, TEXT:0060] 
 
---- Group 64 [left:洛卡斯 next=0023] ---
+--- Group [left:洛卡斯 next=0023] ---
 ああ・・・
 行くぞ、ジンガ！
 +[FID:45, TEXT:0061] 
 +[FID:45, TEXT:0062] 
 
---- Group 65 [left:洛卡斯 next=0023] ---
+--- Group [left:洛卡斯 next=0023] ---
 ああ・・・
 行こう、ジンガ！
 -[FID:45, TEXT:0061] 
 +[FID:45, TEXT:0063] 
 
---- Group 66 [left:洛卡斯 next=0023] ---
+--- Group [left:洛卡斯 next=0023] ---
 ・・・あれはないよ
 ジンガ！
 止めに行こう！
@@ -312,7 +312,7 @@
 +[FID:45, TEXT:0065] 
 +[FID:45, TEXT:0066] 
 
---- Group 67 [left:洛卡斯 next=0023] ---
+--- Group [left:洛卡斯 next=0023] ---
 ・・・見ていられない
 ジンガ！
 止めに行きましょう
@@ -320,25 +320,25 @@
 -[FID:45, TEXT:0065] 
 +[FID:45, TEXT:0068] 
 
---- Group 68 [right:佩尔戈 next=2012] ---
+--- Group [right:佩尔戈 next=2012] ---
 お待ちなさい！
 +[FID:45, TEXT:0069] 
 
---- Group 69 [right:佩尔戈 next=2012] ---
+--- Group [right:佩尔戈 next=2012] ---
 貴方が行かなくても、
 大丈夫です・・・
 +[FID:45, TEXT:006A] 
 +[FID:45, TEXT:006B] 
 
---- Group 70 [left:洛卡斯 next=2012] ---
+--- Group [left:洛卡斯 next=2012] ---
 え？
 +[FID:45, TEXT:006C] 
 
---- Group 71 [right:士兵 next=2012] ---
+--- Group [right:士兵 next=2012] ---
 ぎゃあっ！
 +[FID:45, TEXT:006D] 
 
---- Group 73 [right:拉姆达 next=2012] ---
+--- Group [right:拉姆达 next=2012] ---
 呆れたものだな
 都合の悪いことを力で
 消し去ろうとは
@@ -346,7 +346,7 @@
 +[FID:45, TEXT:006F] 
 +[FID:45, TEXT:0070] 
 
---- Group 75 [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---
 あの人は・・・
 荒野で俺を助けてくれ
 た剣士！？
@@ -354,7 +354,7 @@
 +[FID:45, TEXT:0072] 
 +[FID:45, TEXT:0073] 
 
---- Group 76 [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---
 あの人は・・・
 このあいだ、わたしを
 助けてくれた剣士？
@@ -362,7 +362,7 @@
 +[FID:45, TEXT:0076] 
 +[FID:45, TEXT:0077] 
 
---- Group 77 [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---
 あの人は・・・
 このあいだ、あたしを
 助けてくれた剣士！？
@@ -370,13 +370,13 @@
 +[FID:45, TEXT:0074] 
 +[FID:45, TEXT:0075] 
 
---- Group 78 [right:拉姆达 next=2012] ---
+--- Group [right:拉姆达 next=2012] ---
 それが市民を守るべき
 者としての姿か！？
 +[FID:45, TEXT:0078] 
 +[FID:45, TEXT:0079] 
 
---- Group 79 [right:拉姆达 next=2012] ---
+--- Group [right:拉姆达 next=2012] ---
 ラムダだ！
 【アキュート】のボス
 のラムダだぞっ！！
@@ -384,25 +384,25 @@
 +[FID:45, TEXT:007B] 
 +[FID:45, TEXT:007C] 
 
---- Group 80 [left:主人公 next=2012] ---
+--- Group [left:主人公 next=2012] ---
 アキュートの・・・
 ラムダ・・・
 +[FID:45, TEXT:007D] 
 +[FID:45, TEXT:007E] 
 
---- Group 81 [right:金加 next=0023] ---
+--- Group [right:金加 next=0023] ---
 アニキっ
 あのオッサンが！？
 +[FID:45, TEXT:007F] 
 +[FID:45, TEXT:0080] 
 
---- Group 82 [right:金加 next=2012] ---
+--- Group [right:金加 next=2012] ---
 アネゴっ
 あのオッサンが！？
 +[FID:45, TEXT:0081] 
 -[FID:45, TEXT:0080] 
 
---- Group 83 [right:佩尔戈 next=2012] ---
+--- Group [right:佩尔戈 next=2012] ---
 罪なき人々よ！
 さあ、今こそ
 立ち上がるのです！！
@@ -410,7 +410,7 @@
 +[FID:45, TEXT:0083] 
 +[FID:45, TEXT:0084] 
 
---- Group 84 [left:塞西尔 next=2012] ---
+--- Group [left:塞西尔 next=2012] ---
 貴方たちの生きる権利
 は、貴方たち自身の力
 で守りなさい！！
@@ -418,7 +418,7 @@
 +[FID:45, TEXT:0086] 
 +[FID:45, TEXT:0087] 
 
---- Group 85 [right:斯塔乌特 next=2012] ---
+--- Group [right:斯塔乌特 next=2012] ---
 アキュートは、戦う者
 たちの味方だ！
 召喚師の手先になった
@@ -428,17 +428,17 @@
 +[FID:45, TEXT:008A] 
 +[FID:45, TEXT:008B] 
 
---- Group 86 [right:赛萨里斯 next=2012] ---
+--- Group [right:赛萨里斯 next=2012] ---
 反乱分子・・・
 凝りもせずに・・・
 +[FID:45, TEXT:008C] 
 +[FID:45, TEXT:008D] 
 
---- Group 87 [right:赛萨里斯 next=2012] ---
+--- Group [right:赛萨里斯 next=2012] ---
 追い払いなさい！！
 +[FID:45, TEXT:008E] 
 
---- Group 88 [right:none next=2012] ---
+--- Group [right:none next=2012] ---
 ひゃー、すっげえ！
 あのオッサンたちは、
 反乱分子だったのかよ
@@ -446,7 +446,7 @@
 +[FID:45, TEXT:0090] 
 +[FID:45, TEXT:0091] 
 
---- Group 89 [left:none next=0023] ---
+--- Group [left:none next=0023] ---
 感心してる場合じゃあ
 ないぞ、ジンガ
 逃げないと俺たちまで
@@ -456,7 +456,7 @@
 +[FID:45, TEXT:0094] 
 +[FID:45, TEXT:0095] 
 
---- Group 90 [left:none next=0023] ---
+--- Group [left:none next=0023] ---
 感心してる場合じゃな
 いぞ、ジンガ
 逃げたほうがいい
@@ -464,7 +464,7 @@
 +[FID:45, TEXT:0097] 
 +[FID:45, TEXT:0098] 
 
---- Group 91 [left:none next=0023] ---
+--- Group [left:none next=0023] ---
 ・・・逃げようジンガ
 はやくしないと
 わたしたちも
@@ -474,7 +474,7 @@
 +[FID:45, TEXT:009D] 
 +[FID:45, TEXT:009E] 
 
---- Group 92 [left:none next=0023] ---
+--- Group [left:none next=0023] ---
 ・・・逃げようジンガ
 はやくしないと
 あたしたちも
@@ -484,19 +484,19 @@
 +[FID:45, TEXT:009B] 
 +[FID:45, TEXT:009C] 
 
---- Group 93 [right:none next=2012] ---
+--- Group [right:none next=2012] ---
 いいじゃんか
 ついでに暴れてこうぜ
 +[FID:45, TEXT:009F] 
 +[FID:45, TEXT:00A0] 
 
---- Group 94 [left:none next=0023] ---
+--- Group [left:none next=0023] ---
 バカ言ってないで、
 逃げるぞ！
 +[FID:45, TEXT:00A1] 
 +[FID:45, TEXT:00A2] 
 
---- Group 95 [left:none next=0023] ---
+--- Group [left:none next=0023] ---
 バカなことを
 言ってるんじゃない
 さあ、急ぐんだ！
@@ -504,13 +504,13 @@
 +[FID:45, TEXT:00A4] 
 +[FID:45, TEXT:00A5] 
 
---- Group 96 [left:none next=0023] ---
+--- Group [left:none next=0023] ---
 バカ言ってないで！
 ほらはやく！
 +[FID:45, TEXT:00A6] 
 +[FID:45, TEXT:00A7] 
 
---- Group 97 [left:none next=0023] ---
+--- Group [left:none next=0023] ---
 だめ！
 馬鹿なこと言わないで
 +[FID:45, TEXT:00A8] 

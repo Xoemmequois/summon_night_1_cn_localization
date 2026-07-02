@@ -1,20 +1,20 @@
---- Group 1 [right:char_0039 next=2012] ---
+--- Group [right:char_0039 next=2012] ---
 お、覚えてやがれ！！
 +[FID:11, TEXT:0001] 
 
---- Group 3 [right:char_0039 next=2012] ---
+--- Group [right:char_0039 next=2012] ---
 ケッ！
 負け犬が吠えてやがる
 +[FID:11, TEXT:0002] 
 +[FID:11, TEXT:0003] 
 
---- Group 5 [right:char_0039 next=2012] ---
+--- Group [right:char_0039 next=2012] ---
 それにしても・・・
 意外にやるな、おまえ
 +[FID:11, TEXT:0004] 
 +[FID:11, TEXT:0005] 
 
---- Group 7 [left:none next=2012] ---
+--- Group [left:none next=2012] ---
 いや
 正直言って、自分でも
 不思議なくらいだよ
@@ -22,7 +22,7 @@
 +[FID:11, TEXT:0007] 
 +[FID:11, TEXT:0008] 
 
---- Group 9 [left:none next=0023] ---
+--- Group [left:none next=0023] ---
 よくわからないけど、
 身体が勝手に戦い方を
 覚えてるみたいで
@@ -30,13 +30,13 @@
 +[FID:11, TEXT:000A] 
 +[FID:11, TEXT:000B] 
 
---- Group 11 [left:none next=2012] ---
+--- Group [left:none next=2012] ---
 正直に言えば、あまり
 喧嘩は得意じゃないが
 +[FID:11, TEXT:000C] 
 +[FID:11, TEXT:000D] 
 
---- Group 13 [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---
 どういうわけか、身体
 が勝手に動いてくれた
 みたいなんだ
@@ -44,7 +44,7 @@
 +[FID:11, TEXT:000F] 
 +[FID:11, TEXT:0010] 
 
---- Group 15 [left:none next=2012] ---
+--- Group [left:none next=2012] ---
 うん・・・なんか
 よくわかんない
 んだけど・・・
@@ -52,7 +52,7 @@
 +[FID:11, TEXT:0012] 
 +[FID:11, TEXT:0013] 
 
---- Group 17 [left:none next=0023] ---
+--- Group [left:none next=0023] ---
 なんか
 身体が勝手に戦い方を
 覚えてるみたいで
@@ -60,13 +60,13 @@
 -[FID:11, TEXT:000A] 
 -[FID:11, TEXT:000B] 
 
---- Group 19 [left:none next=2012] ---
+--- Group [left:none next=2012] ---
 正直言うと、自分でも
 不思議なんです
 +[FID:11, TEXT:0015] 
 +[FID:11, TEXT:0016] 
 
---- Group 21 [left:加泽尔 next=2012] ---
+--- Group [left:加泽尔 next=2012] ---
 へへっ
 ピンピンしてるぜ
 なあ？
@@ -74,7 +74,7 @@
 +[FID:11, TEXT:0020] 
 +[FID:11, TEXT:0021] 
 
---- Group 22 [right:char_0039 next=2012] ---
+--- Group [right:char_0039 next=2012] ---
 へへっ
 まあ何にせよ、おかげ
 で楽させてもらえたぜ
@@ -82,11 +82,11 @@
 +[FID:11, TEXT:0018] 
 +[FID:11, TEXT:0019] 
 
---- Group 24 [right:char_0039 next=2012] ---
+--- Group [right:char_0039 next=2012] ---
 へへっ、ありがとよ
 +[FID:11, TEXT:001A] 
 
---- Group 26 [right:char_0039 next=2012] ---
+--- Group [right:char_0039 next=2012] ---
 さあ、帰ろうぜ
 リプレのやつが心配
 してるだろうからな
@@ -94,39 +94,39 @@
 +[FID:11, TEXT:001C] 
 +[FID:11, TEXT:001D] 
 
---- Group 28 [right:利布雷 next=2012] ---
+--- Group [right:利布雷 next=2012] ---
 二人とも、大丈夫！？
 ケガはない！？
 +[FID:11, TEXT:001E] 
 +[FID:11, TEXT:001F] 
 
---- Group 29 [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---
 ああ、平気だよ
 +[FID:11, TEXT:0022] 
 
---- Group 30 [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---
 ああ、平気だ
 +[FID:11, TEXT:0023] 
 
---- Group 31 [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---
 うん、平気平気！
 +[FID:11, TEXT:0024] 
 
---- Group 32 [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---
 はい平気です
 +[FID:11, TEXT:0025] 
 
---- Group 33 [right:利布雷 next=2012] ---
+--- Group [right:利布雷 next=2012] ---
 ・・・良かったぁ
 +[FID:11, TEXT:0026] 
 
---- Group 34 [right:利布雷 next=2012] ---
+--- Group [right:利布雷 next=2012] ---
 本当にもう、
 心配したんだからね！
 +[FID:11, TEXT:0027] 
 +[FID:11, TEXT:0028] 
 
---- Group 35 [right:利布雷 next=2012] ---
+--- Group [right:利布雷 next=2012] ---
 レイドとエドスにも、
 あとでちゃんとお礼を
 言っておくのよ？
@@ -134,27 +134,27 @@
 +[FID:11, TEXT:002A] 
 +[FID:11, TEXT:002B] 
 
---- Group 36 [left:加泽尔 next=2012] ---
+--- Group [left:加泽尔 next=2012] ---
 って、あいつらは？
 +[FID:11, TEXT:002C] 
 
---- Group 37 [right:利布雷 next=2012] ---
+--- Group [right:利布雷 next=2012] ---
 え、一緒じゃないの？
 +[FID:11, TEXT:002D] 
 
---- Group 38 [left:加泽尔 next=2012] ---
+--- Group [left:加泽尔 next=2012] ---
 すれ違っちまったのか
 しゃあねぇな・・・
 +[FID:11, TEXT:002E] 
 +[FID:11, TEXT:002F] 
 
---- Group 39 [right:利布雷 next=2012] ---
+--- Group [right:利布雷 next=2012] ---
 俺とお前で手分けして
 呼びにいくか
 +[FID:11, TEXT:0030] 
 +[FID:11, TEXT:0031] 
 
---- Group 40 [right:利布雷 next=2015] ---
+--- Group [right:利布雷 next=2015] ---
 誰を捜そう？
 　レイドを捜す
 　エドスを捜す
@@ -162,45 +162,45 @@
 +[FID:11, TEXT:0033] 
 +[FID:11, TEXT:0034] 
 
---- Group 41 [right:利布雷 next=2012] ---
+--- Group [right:利布雷 next=2012] ---
 よし、そんじゃ
 レイドの方は頼んだぜ
 +[FID:11, TEXT:0035] 
 +[FID:11, TEXT:0036] 
 
---- Group 42 [right:利布雷 next=2012] ---
+--- Group [right:利布雷 next=2012] ---
 よし、そんじゃ
 エドスの方は頼んだぜ
 -[FID:11, TEXT:0035] 
 +[FID:11, TEXT:0037] 
 
---- Group 43 [left:主人公 next=2012] ---
+--- Group [left:主人公 next=2012] ---
 ここにはいないな
 +[FID:11, TEXT:0038] 
 
---- Group 45 [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---
 別の場所を探そう
 +[FID:11, TEXT:0039] 
 
---- Group 47 [left:主人公 next=2012] ---
+--- Group [left:主人公 next=2012] ---
 ここにはいないみたい
 +[FID:11, TEXT:003A] 
 
---- Group 49 [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---
 別の場所かな？
 +[FID:11, TEXT:003B] 
 
---- Group 51 [left:主人公 next=2012] ---
+--- Group [left:主人公 next=2012] ---
 ここにはいませんね
 +[FID:11, TEXT:003C] 
 
---- Group 53 [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---
 別の場所を探した方が
 いいみたいですね
 +[FID:11, TEXT:003D] 
 +[FID:11, TEXT:003E] 
 
---- Group 55 [left:主人公 next=2012] ---
+--- Group [left:主人公 next=2012] ---
 以前はここで
 お祭りが行われて
 いたんですよね
@@ -208,7 +208,7 @@
 +[FID:11, TEXT:0040] 
 +[FID:11, TEXT:0041] 
 
---- Group 59 [right:none next=2012] ---
+--- Group [right:none next=2012] ---
 祭りか・・・
 そういえば、そんなの
 もあったんだな
@@ -216,31 +216,31 @@
 +[FID:11, TEXT:0043] 
 +[FID:11, TEXT:0044] 
 
---- Group 63 [left:none next=0023] ---
+--- Group [left:none next=0023] ---
 どうしてやらなくなっ
 たんですか？
 +[FID:11, TEXT:0045] 
 +[FID:11, TEXT:0046] 
 
---- Group 64 [left:none next=0023] ---
+--- Group [left:none next=0023] ---
 どうしてやらなくなっ
 てしまったんですか？
 -[FID:11, TEXT:0045] 
 +[FID:11, TEXT:0047] 
 
---- Group 70 [left:none next=0023] ---
+--- Group [left:none next=0023] ---
 どうしてやらなく
 なったんですか？
 +[FID:11, TEXT:0048] 
 +[FID:11, TEXT:004A] 
 
---- Group 71 [left:none next=0023] ---
+--- Group [left:none next=0023] ---
 どうしてやらなく
 なっちゃったんです？
 -[FID:11, TEXT:0048] 
 +[FID:11, TEXT:0049] 
 
---- Group 76 [right:利布雷 next=2012] ---
+--- Group [right:利布雷 next=2012] ---
 領主さまに、祭りを
 やめるように進言した
 者たちがいたのさ
@@ -248,29 +248,29 @@
 +[FID:11, TEXT:004C] 
 +[FID:11, TEXT:004D] 
 
---- Group 80 [right:none next=2012] ---
+--- Group [right:none next=2012] ---
 無意味なことは省いて
 いくべきだ・・・とね
 +[FID:11, TEXT:004E] 
 +[FID:11, TEXT:004F] 
 
---- Group 84 [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---
 無意味だなんて！
 +[FID:11, TEXT:0050] 
 
---- Group 85 [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---
 無意味だなんて！
 そんなことありません
 -[FID:11, TEXT:0050] 
 +[FID:11, TEXT:0056] 
 
---- Group 91 [left:none next=0023] ---
+--- Group [left:none next=0023] ---
 無意味だなんて、
 僕は思いませんけど
 +[FID:11, TEXT:0051] 
 +[FID:11, TEXT:0052] 
 
---- Group 94 [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---
 無意味ぃ？？？
 そんなわけ
 ないじゃない！
@@ -278,13 +278,13 @@
 +[FID:11, TEXT:0054] 
 +[FID:11, TEXT:0055] 
 
---- Group 97 [right:雷德 next=2012] ---
+--- Group [right:雷德 next=2012] ---
 ああ
 無事だったようだね
 +[FID:11, TEXT:0057] 
 +[FID:11, TEXT:007D] 
 
---- Group 98 [right:none next=2012] ---
+--- Group [right:none next=2012] ---
 ああ
 君の言うとおりだよ
 無意味なはずがない
@@ -292,23 +292,23 @@
 +[FID:11, TEXT:0058] 
 +[FID:11, TEXT:0059] 
 
---- Group 102 [right:利布雷 next=2012] ---
+--- Group [right:利布雷 next=2012] ---
 だけど、彼らの決めた
 ことは絶対なんだよ
 +[FID:11, TEXT:005A] 
 +[FID:11, TEXT:005B] 
 
---- Group 106 [left:none next=0023] ---
+--- Group [left:none next=0023] ---
 そんな・・・
 +[FID:11, TEXT:005C] 
 
---- Group 107 [left:none next=0023] ---
+--- Group [left:none next=0023] ---
 そんな・・・
 それって無茶苦茶だ！
 -[FID:11, TEXT:005C] 
 +[FID:11, TEXT:00AD] 
 
---- Group 109 [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---
 そんな・・・
 それって無茶苦茶じゃ
 ないですか
@@ -316,7 +316,7 @@
 +[FID:11, TEXT:00B2] 
 +[FID:11, TEXT:00B3] 
 
---- Group 111 [left:none next=0023] ---
+--- Group [left:none next=0023] ---
 そんな・・・
 そんなの労働基準法
 違反じゃない
@@ -324,21 +324,21 @@
 +[FID:11, TEXT:00B0] 
 +[FID:11, TEXT:00B1] 
 
---- Group 120 [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---
 ・・・
 +[FID:11, TEXT:005D] 
 
---- Group 123 [left:none next=0023] ---
+--- Group [left:none next=0023] ---
 ひどい・・・
 +[FID:11, TEXT:005E] 
 
---- Group 126 [left:none next=0023] ---
+--- Group [left:none next=0023] ---
 レイドさんは、お城に
 勤めてたんでしたね
 +[FID:11, TEXT:005F] 
 +[FID:11, TEXT:0060] 
 
---- Group 128 [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---
 レイドさんは、お城に
 おつとめしてた
 んでしょ？
@@ -346,29 +346,29 @@
 +[FID:11, TEXT:0062] 
 +[FID:11, TEXT:0063] 
 
---- Group 129 [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---
 レイドさんは、お城に
 勤めていたんですね
 -[FID:11, TEXT:005F] 
 +[FID:11, TEXT:0061] 
 
---- Group 136 [right:利布雷 next=2012] ---
+--- Group [right:利布雷 next=2012] ---
 ああ・・・
 +[FID:11, TEXT:0064] 
 
---- Group 140 [right:none next=2012] ---
+--- Group [right:none next=2012] ---
 そんなに長いことでは
 ないんだけれどね
 +[FID:11, TEXT:0065] 
 +[FID:11, TEXT:0066] 
 
---- Group 144 [left:none next=2012] ---
+--- Group [left:none next=2012] ---
 どうして辞めたのか、
 聞きたいけど・・・
 +[FID:11, TEXT:0067] 
 +[FID:11, TEXT:0068] 
 
---- Group 148 [left:none next=0023] ---
+--- Group [left:none next=0023] ---
 今はまだ
 聞かないほうが
 よさそうだな・・・
@@ -376,7 +376,7 @@
 +[FID:11, TEXT:006A] 
 +[FID:11, TEXT:006B] 
 
---- Group 149 [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---
 今はまだ
 聞かないほうがよさそ
 そうですね・・・
@@ -384,19 +384,19 @@
 +[FID:11, TEXT:0072] 
 +[FID:11, TEXT:0073] 
 
---- Group 155 [left:none next=2012] ---
+--- Group [left:none next=2012] ---
 でも、どうして辞めて
 しまったんだろうか
 +[FID:11, TEXT:006C] 
 +[FID:11, TEXT:006D] 
 
---- Group 158 [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---
 機会を見つけて、話を
 聞いてみよう・・・
 +[FID:11, TEXT:006E] 
 +[FID:11, TEXT:006F] 
 
---- Group 161 [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---
 なんか、今はまだ
 聞かないほうが
 いいかも・・・
@@ -404,7 +404,7 @@
 -[FID:11, TEXT:006A] 
 +[FID:11, TEXT:0071] 
 
---- Group 164 [right:none next=2012] ---
+--- Group [right:none next=2012] ---
 そろそろ帰ろう
 リプレたちが
 心配するといけない
@@ -412,61 +412,61 @@
 +[FID:11, TEXT:0075] 
 +[FID:11, TEXT:0076] 
 
---- Group 168 [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---
 あ・・・いた！
 +[FID:11, TEXT:0077] 
 
---- Group 172 [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---
 レイドさーん！！
 +[FID:11, TEXT:0078] 
 
---- Group 174 [left:主人公 next=2012] ---
+--- Group [left:主人公 next=2012] ---
 あそこだな・・・
 +[FID:11, TEXT:0079] 
 
---- Group 176 [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---
 レイドさーん！
 +[FID:11, TEXT:007A] 
 
---- Group 178 [left:主人公 next=2012] ---
+--- Group [left:主人公 next=2012] ---
 あ・・・発見！
 +[FID:11, TEXT:007B] 
 
---- Group 182 [left:主人公 next=2012] ---
+--- Group [left:主人公 next=2012] ---
 あ、あの人・・・
 +[FID:11, TEXT:007C] 
 
---- Group 184 [right:雷德 next=2012] ---
+--- Group [right:雷德 next=2012] ---
 リプレが飛びこんで
 きた時は、あせったよ
 +[FID:11, TEXT:007E] 
 +[FID:11, TEXT:007F] 
 
---- Group 185 [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---
 すいません
 迷惑かけちゃって
 +[FID:11, TEXT:0080] 
 +[FID:11, TEXT:0081] 
 
---- Group 186 [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---
 どうもすいません
 迷惑をかけてしまって
 +[FID:11, TEXT:0082] 
 +[FID:11, TEXT:0083] 
 
---- Group 187 [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---
 ごめんなさい
 ご迷惑おかけして
 +[FID:11, TEXT:0084] 
 +[FID:11, TEXT:0085] 
 
---- Group 188 [right:雷德 next=2012] ---
+--- Group [right:雷德 next=2012] ---
 ははは
 無事ならそれでいいさ
 +[FID:11, TEXT:0086] 
 +[FID:11, TEXT:0087] 
 
---- Group 189 [left:主人公 next=2015] ---
+--- Group [left:主人公 next=2015] ---
 どうしよう？
 　放っておく
 　近づいてみる
@@ -474,7 +474,7 @@
 +[FID:11, TEXT:00DE] 
 +[FID:11, TEXT:00DF] 
 
---- Group 190 [right:艾多斯 next=2015] ---
+--- Group [right:艾多斯 next=2015] ---
 どうしよう？
 　寄り道していく
 　さっさと帰る
@@ -482,25 +482,25 @@
 +[FID:11, TEXT:0089] 
 +[FID:11, TEXT:008A] 
 
---- Group 193 [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---
 少しだけ寄り道しても
 いいかな？
 +[FID:11, TEXT:008B] 
 +[FID:11, TEXT:00C9] 
 
---- Group 194 [left:主人公 next=2012] ---
+--- Group [left:主人公 next=2012] ---
 少しだけ寄り道しても
 いいですか？
 -[FID:11, TEXT:008B] 
 +[FID:11, TEXT:008C] 
 
---- Group 195 [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---
 少しだけ寄り道しても
 いい？
 -[FID:11, TEXT:008B] 
 +[FID:11, TEXT:00CA] 
 
---- Group 197 [right:雷德 next=2012] ---
+--- Group [right:雷德 next=2012] ---
 別にかまわないよ
 あまり遅く
 ならなければね
@@ -508,23 +508,23 @@
 +[FID:11, TEXT:008E] 
 +[FID:11, TEXT:008F] 
 
---- Group 198 [left:主人公 next=2012] ---
+--- Group [left:主人公 next=2012] ---
 いないなぁ
 +[FID:11, TEXT:0090] 
 
---- Group 200 [right:利布雷 next=2012] ---
+--- Group [right:利布雷 next=2012] ---
 川が汚れちまったのは
 つい最近だよ
 +[FID:11, TEXT:0091] 
 +[FID:11, TEXT:0092] 
 
---- Group 204 [right:none next=2012] ---
+--- Group [right:none next=2012] ---
 あっちに大きな工場が
 並んでるだろう？
 +[FID:11, TEXT:0093] 
 +[FID:11, TEXT:0094] 
 
---- Group 208 [right:none next=2012] ---
+--- Group [right:none next=2012] ---
 あそこで染め物に使っ
 た汚水が、どんどん
 川に捨てられてる
@@ -532,7 +532,7 @@
 +[FID:11, TEXT:0096] 
 +[FID:11, TEXT:0097] 
 
---- Group 212 [right:利布雷 next=2012] ---
+--- Group [right:利布雷 next=2012] ---
 川の水が毒になって、
 下流はほとんど荒野に
 なっちまった
@@ -540,13 +540,13 @@
 +[FID:11, TEXT:0099] 
 +[FID:11, TEXT:009A] 
 
---- Group 216 [right:none next=2012] ---
+--- Group [right:none next=2012] ---
 前は一面の草原だった
 のにな・・・
 +[FID:11, TEXT:009B] 
 +[FID:11, TEXT:009C] 
 
---- Group 220 [left:none next=0023] ---
+--- Group [left:none next=0023] ---
 そろそろ夕暮れだけど
 工場はまだ動いてる
 みたいだな
@@ -554,7 +554,7 @@
 +[FID:11, TEXT:009E] 
 +[FID:11, TEXT:009F] 
 
---- Group 224 [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---
 ずいぶんと遅くまで、
 どの工場も動いている
 んですね
@@ -562,7 +562,7 @@
 +[FID:11, TEXT:00A1] 
 +[FID:11, TEXT:00A2] 
 
---- Group 227 [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---
 そろそろ夕暮れなのに
 工場はまだ動いてる
 みたい・・・
@@ -570,7 +570,7 @@
 -[FID:11, TEXT:009E] 
 +[FID:11, TEXT:00A6] 
 
---- Group 229 [left:none next=0023] ---
+--- Group [left:none next=0023] ---
 そろそろ夕暮れなのに
 工場ってば、まだ
 うごいてるんだ
@@ -578,7 +578,7 @@
 +[FID:11, TEXT:00A4] 
 +[FID:11, TEXT:00A5] 
 
---- Group 233 [right:none next=2012] ---
+--- Group [right:none next=2012] ---
 決められた量の仕事を
 終わらせるまで、
 工場で働くやつらは
@@ -588,19 +588,19 @@
 +[FID:11, TEXT:00A9] 
 +[FID:11, TEXT:00AA] 
 
---- Group 237 [right:利布雷 next=2012] ---
+--- Group [right:利布雷 next=2012] ---
 ひどいときには、徹夜
 で作業をさせられる
 +[FID:11, TEXT:00AB] 
 +[FID:11, TEXT:00AC] 
 
---- Group 241 [left:none next=0023] ---
+--- Group [left:none next=0023] ---
 それは・・・
 ちょっとひどいな
 +[FID:11, TEXT:00AE] 
 +[FID:11, TEXT:00AF] 
 
---- Group 244 [right:利布雷 next=2012] ---
+--- Group [right:利布雷 next=2012] ---
 お前さんのいた世界と
 ここは、ずいぶん違う
 らしいなぁ
@@ -608,13 +608,13 @@
 +[FID:11, TEXT:00B5] 
 +[FID:11, TEXT:00B6] 
 
---- Group 248 [right:利布雷 next=2012] ---
+--- Group [right:利布雷 next=2012] ---
 けどな、ここではそれ
 が当たり前なんだよ
 +[FID:11, TEXT:00B7] 
 +[FID:11, TEXT:00B8] 
 
---- Group 252 [right:利布雷 next=2012] ---
+--- Group [right:利布雷 next=2012] ---
 そろそろ戻らんか？
 ワシは腹が減って
 きちまったよ
@@ -622,31 +622,31 @@
 +[FID:11, TEXT:00BA] 
 +[FID:11, TEXT:00BB] 
 
---- Group 256 [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---
 ああ、見つけた
 +[FID:11, TEXT:00BC] 
 
---- Group 258 [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---
 あ・・・エドスさん！
 +[FID:11, TEXT:00BD] 
 
---- Group 260 [right:艾多斯 next=2012] ---
+--- Group [right:艾多斯 next=2012] ---
 おお、無事だったか
 +[FID:11, TEXT:00BE] 
 
---- Group 261 [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---
 ええ
 ガゼルのおかげで
 +[FID:11, TEXT:00BF] 
 +[FID:11, TEXT:00C0] 
 
---- Group 262 [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---
 はい、ガゼルさんの
 おかげで・・・
 +[FID:11, TEXT:00C1] 
 +[FID:11, TEXT:00C2] 
 
---- Group 263 [right:艾多斯 next=2012] ---
+--- Group [right:艾多斯 next=2012] ---
 やれやれ・・・
 先に挑発に乗ったの
 もあいつだろう？
@@ -656,17 +656,17 @@
 +[FID:11, TEXT:00C5] 
 +[FID:11, TEXT:00C6] 
 
---- Group 264 [right:艾多斯 next=2012] ---
+--- Group [right:艾多斯 next=2012] ---
 まあ、無事にすんだ
 のならいいがな
 +[FID:11, TEXT:00C7] 
 +[FID:11, TEXT:00C8] 
 
---- Group 265 [right:艾多斯 next=2012] ---
+--- Group [right:艾多斯 next=2012] ---
 別にかまわんよ
 +[FID:11, TEXT:00CB] 
 
---- Group 266 [left:主人公 next=0026] ---
+--- Group [left:主人公 next=0026] ---
 【自分の部屋】
 
 
@@ -758,11 +758,11 @@
 -[FID:11, TEXT:0000] 
 -[FID:11, TEXT:0000] 
 
---- Group 274 [left:主人公 next=2012] ---
+--- Group [left:主人公 next=2012] ---
 ・・・猫？
 +[FID:11, TEXT:00DB] 
 
---- Group 276 [left:主人公 next=2012] ---
+--- Group [left:主人公 next=2012] ---
 この世界にも
 猫がいるんだな・・・
 +[FID:11, TEXT:00DC] 

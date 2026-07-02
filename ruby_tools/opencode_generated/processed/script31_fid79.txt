@@ -1,10 +1,10 @@
---- Group 1 [left:艾多斯 next=2012] ---
+--- Group [left:艾多斯 next=2012] ---
 こりゃまた、
 険しい山だなあ
 +[FID:79, TEXT:0001] 
 +[FID:79, TEXT:0002] 
 
---- Group 5 [right:鼬 next=2012] ---
+--- Group [right:鼬 next=2012] ---
 イリアス様、
 もしかして
 ここは・・・
@@ -12,7 +12,7 @@
 +[FID:79, TEXT:0004] 
 +[FID:79, TEXT:0005] 
 
---- Group 9 [left:艾多斯 next=2012] ---
+--- Group [left:艾多斯 next=2012] ---
 ああ、間違いない
 多分ここは、剣竜の峰
 と呼ばれる場所だろう
@@ -20,11 +20,11 @@
 +[FID:79, TEXT:0007] 
 +[FID:79, TEXT:0008] 
 
---- Group 13 [right:金加 next=2012] ---
+--- Group [right:金加 next=2012] ---
 剣竜？
 +[FID:79, TEXT:0009] 
 
---- Group 14 [left:艾多斯 next=2012] ---
+--- Group [left:艾多斯 next=2012] ---
 剣士たちに昔から伝わ
 っている話に出てくる
 場所だよ
@@ -32,7 +32,7 @@
 +[FID:79, TEXT:000B] 
 +[FID:79, TEXT:000C] 
 
---- Group 15 [right:赛萨里斯 next=2012] ---
+--- Group [right:赛萨里斯 next=2012] ---
 剣の奥義を極めし竜、
 彼の地にて眠る
 数多の剣士が挑むも
@@ -42,7 +42,7 @@
 +[FID:79, TEXT:000F] 
 +[FID:79, TEXT:0010] 
 
---- Group 16 [right:赛萨里斯 next=0023] ---
+--- Group [right:赛萨里斯 next=0023] ---
 なあ、アニキ
 剣の奥義を極めた竜っ
 て、なんのことだろ？
@@ -50,7 +50,7 @@
 +[FID:79, TEXT:0013] 
 +[FID:79, TEXT:0014] 
 
---- Group 17 [right:赛萨里斯 next=2012] ---
+--- Group [right:赛萨里斯 next=2012] ---
 なあ、アネゴ
 剣の奥義を極めた竜っ
 て、なんのことだろ？
@@ -58,7 +58,7 @@
 -[FID:79, TEXT:0013] 
 -[FID:79, TEXT:0014] 
 
---- Group 18 [left:艾多斯 next=0023] ---
+--- Group [left:艾多斯 next=0023] ---
 うーん・・・
 まさか、竜が剣を使う
 わけはないし・・・
@@ -66,7 +66,7 @@
 +[FID:79, TEXT:0017] 
 +[FID:79, TEXT:0018] 
 
---- Group 19 [left:艾多斯 next=0023] ---
+--- Group [left:艾多斯 next=0023] ---
 うーん・・・
 竜が剣を使うなんて
 聞いたことないし
@@ -74,7 +74,7 @@
 +[FID:79, TEXT:001C] 
 +[FID:79, TEXT:001D] 
 
---- Group 20 [left:艾多斯 next=0023] ---
+--- Group [left:艾多斯 next=0023] ---
 さあね
 だけど、まさか竜が
 剣を使うわけは・・・
@@ -82,7 +82,7 @@
 +[FID:79, TEXT:001A] 
 +[FID:79, TEXT:001B] 
 
---- Group 21 [left:艾多斯 next=0023] ---
+--- Group [left:艾多斯 next=0023] ---
 わかりません、剣を
 使う龍なんて、想像
 できませんし・・・
@@ -90,11 +90,11 @@
 +[FID:79, TEXT:001F] 
 +[FID:79, TEXT:0020] 
 
---- Group 22 [right:风峰 next=2012] ---
+--- Group [right:风峰 next=2012] ---
 使うのでござるよ
 +[FID:79, TEXT:0021] 
 
---- Group 23 [right:风峰 next=2012] ---
+--- Group [right:风峰 next=2012] ---
 剣竜はその不思議な力
 で、触れることなく
 剣を操るのでござる
@@ -102,21 +102,21 @@
 +[FID:79, TEXT:0023] 
 +[FID:79, TEXT:0024] 
 
---- Group 24 [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---
 あの、貴方は？
 +[FID:79, TEXT:0025] 
 
---- Group 25 [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---
 貴方は？
 +[FID:79, TEXT:0026] 
 
---- Group 26 [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---
 あなたは・・・
 だれですか？
 +[FID:79, TEXT:0027] 
 +[FID:79, TEXT:0028] 
 
---- Group 27 [right:风峰 next=2012] ---
+--- Group [right:风峰 next=2012] ---
 拙者の名はカザミネ
 この山で修行しておる
 剣士でござるよ
@@ -124,7 +124,7 @@
 +[FID:79, TEXT:002A] 
 +[FID:79, TEXT:002B] 
 
---- Group 28 [left:吉布森 next=2012] ---
+--- Group [left:吉布森 next=2012] ---
 それでは、貴方がここ
 のエルゴの守護者なの
 ですか？
@@ -132,7 +132,7 @@
 +[FID:79, TEXT:002D] 
 +[FID:79, TEXT:002E] 
 
---- Group 29 [right:风峰 next=2012] ---
+--- Group [right:风峰 next=2012] ---
 えるご・・・？
 そのように面妖な
 名前のものは知らぬが
@@ -140,41 +140,41 @@
 +[FID:79, TEXT:0030] 
 +[FID:79, TEXT:0031] 
 
---- Group 30 [right:风峰 next=2012] ---
+--- Group [right:风峰 next=2012] ---
 剣竜の守るという
 宝のことかも知れぬな
 +[FID:79, TEXT:0032] 
 +[FID:79, TEXT:0033] 
 
---- Group 31 [right:金加 next=2012] ---
+--- Group [right:金加 next=2012] ---
 きっとそいつだぜ！
 +[FID:79, TEXT:0034] 
 
---- Group 32 [left:拉姆达 next=2012] ---
+--- Group [left:拉姆达 next=2012] ---
 ならば、やはり剣竜と
 の戦いは避けられんな
 +[FID:79, TEXT:0035] 
 +[FID:79, TEXT:0036] 
 
---- Group 33 [right:金加 next=2012] ---
+--- Group [right:金加 next=2012] ---
 お主ら、まさか剣竜と
 戦うつもりか？
 +[FID:79, TEXT:0037] 
 +[FID:79, TEXT:0038] 
 
---- Group 34 [left:拉姆达 next=0023] ---
+--- Group [left:拉姆达 next=0023] ---
 そうですけど
 +[FID:79, TEXT:0039] 
 
---- Group 35 [left:拉姆达 next=0023] ---
+--- Group [left:拉姆达 next=0023] ---
 そうです
 +[FID:79, TEXT:003A] 
 
---- Group 36 [left:拉姆达 next=0023] ---
+--- Group [left:拉姆达 next=0023] ---
 そのつもりですけど
 +[FID:79, TEXT:003B] 
 
---- Group 37 [right:金加 next=2012] ---
+--- Group [right:金加 next=2012] ---
 やめておけ
 生半可な腕では、
 絶対に勝てはせん
@@ -182,13 +182,13 @@
 +[FID:79, TEXT:003D] 
 +[FID:79, TEXT:003E] 
 
---- Group 38 [left:伊利亚斯 next=2012] ---
+--- Group [left:伊利亚斯 next=2012] ---
 それは、自分たちの剣
 に対する侮辱ですか？
 +[FID:79, TEXT:003F] 
 +[FID:79, TEXT:0040] 
 
---- Group 39 [right:金加 next=2012] ---
+--- Group [right:金加 next=2012] ---
 侮辱ではござらん
 拙者はただ真実を口に
 したまで・・・
@@ -196,31 +196,31 @@
 +[FID:79, TEXT:0042] 
 +[FID:79, TEXT:0043] 
 
---- Group 40 [left:伊利亚斯 next=2012] ---
+--- Group [left:伊利亚斯 next=2012] ---
 ならば、真実かどうか
 確かめてみるがいい！
 +[FID:79, TEXT:0044] 
 +[FID:79, TEXT:0045] 
 
---- Group 41 [left:雷德 next=2012] ---
+--- Group [left:雷德 next=2012] ---
 よせ、イリアス！
 +[FID:79, TEXT:0046] 
 
---- Group 42 [left:伊利亚斯 next=2012] ---
+--- Group [left:伊利亚斯 next=2012] ---
 うあっ！！
 +[FID:79, TEXT:0047] 
 
---- Group 43 [right:金加 next=2012] ---
+--- Group [right:金加 next=2012] ---
 ・・・納得したか？
 +[FID:79, TEXT:0048] 
 
---- Group 44 [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---
 剣を抜くのが
 見えなかった！？
 +[FID:79, TEXT:0049] 
 +[FID:79, TEXT:004A] 
 
---- Group 45 [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---
 うそ・・・
 剣を抜いたのが
 見えなかった！？
@@ -228,17 +228,17 @@
 +[FID:79, TEXT:004C] 
 -[FID:79, TEXT:004A] 
 
---- Group 46 [right:茜 next=2012] ---
+--- Group [right:茜 next=2012] ---
 こいつ、シルターンの
 侍だよっ！
 +[FID:79, TEXT:004E] 
 +[FID:79, TEXT:004F] 
 
---- Group 47 [left:艾多斯 next=2012] ---
+--- Group [left:艾多斯 next=2012] ---
 サムライ？
 +[FID:79, TEXT:0050] 
 
---- Group 48 [right:索尔 next=2012] ---
+--- Group [right:索尔 next=2012] ---
 この世界の騎士
 みたいなもんだ
 しかし・・・この剣術
@@ -248,7 +248,7 @@
 +[FID:79, TEXT:0053] 
 +[FID:79, TEXT:0054] 
 
---- Group 49 [left:艾多斯 next=2012] ---
+--- Group [left:艾多斯 next=2012] ---
 異界の剣術、か
 それも、かなり訓練を
 積んでいるな
@@ -256,13 +256,13 @@
 +[FID:79, TEXT:0060] 
 +[FID:79, TEXT:0061] 
 
---- Group 50 [right:索尔 next=2012] ---
+--- Group [right:索尔 next=2012] ---
 それがわかるならば、
 お主には納得できよう
 +[FID:79, TEXT:0062] 
 +[FID:79, TEXT:0063] 
 
---- Group 51 [right:索尔 next=2012] ---
+--- Group [right:索尔 next=2012] ---
 拙者の腕をもってして
 も、剣竜には勝てぬ
 ましてや・・・
@@ -270,7 +270,7 @@
 +[FID:79, TEXT:0065] 
 +[FID:79, TEXT:0066] 
 
---- Group 52 [right:索尔 next=2012] ---
+--- Group [right:索尔 next=2012] ---
 拙者ごときに負けるの
 では、剣竜を倒すこと
 など夢のまた夢
@@ -278,11 +278,11 @@
 +[FID:79, TEXT:0068] 
 +[FID:79, TEXT:0069] 
 
---- Group 53 [left:伊利亚斯 next=2012] ---
+--- Group [left:伊利亚斯 next=2012] ---
 くっ・・・
 +[FID:79, TEXT:006A] 
 
---- Group 54 [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---
 だけど、俺たちは剣竜
 にどうしても勝たなく
 ちゃならないんだ！
@@ -290,7 +290,7 @@
 +[FID:79, TEXT:006C] 
 +[FID:79, TEXT:006D] 
 
---- Group 55 [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---
 しかし、僕たちは剣竜
 にどうしても勝たなく
 てはならないんです
@@ -298,7 +298,7 @@
 -[FID:79, TEXT:006C] 
 +[FID:79, TEXT:006F] 
 
---- Group 56 [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---
 でも、あたしたちは
 剣竜に勝たなきゃ
 いけないんだから！
@@ -306,7 +306,7 @@
 +[FID:79, TEXT:0071] 
 +[FID:79, TEXT:0072] 
 
---- Group 57 [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---
 でも、わたしたち
 剣竜と、どうしても
 戦わなくては
@@ -316,11 +316,11 @@
 +[FID:79, TEXT:0075] 
 +[FID:79, TEXT:0076] 
 
---- Group 58 [right:索尔 next=2012] ---
+--- Group [right:索尔 next=2012] ---
 ・・・・・・
 +[FID:79, TEXT:0077] 
 
---- Group 59 [right:索尔 next=2012] ---
+--- Group [right:索尔 next=2012] ---
 どうやら、それなりの
 事情があるようで
 ござるな
@@ -328,19 +328,19 @@
 +[FID:79, TEXT:0079] 
 +[FID:79, TEXT:007A] 
 
---- Group 60 [right:索尔 next=2012] ---
+--- Group [right:索尔 next=2012] ---
 よければ、詳しく話を
 聞かせてもらえぬか？
 +[FID:79, TEXT:007B] 
 +[FID:79, TEXT:007C] 
 
---- Group 61 [right:索尔 next=2012] ---
+--- Group [right:索尔 next=2012] ---
 なるほど、事情は承知
 したでござる
 +[FID:79, TEXT:007D] 
 +[FID:79, TEXT:007E] 
 
---- Group 62 [right:索尔 next=2012] ---
+--- Group [right:索尔 next=2012] ---
 お主たちが剣竜に勝て
 なければ、この世界が
 危ないのでござるな？
@@ -348,31 +348,31 @@
 +[FID:79, TEXT:0080] 
 +[FID:79, TEXT:0081] 
 
---- Group 63 [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---
 はい
 +[FID:79, TEXT:0082] 
 
---- Group 64 [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---
 はい・・・
 +[FID:79, TEXT:0083] 
 
---- Group 65 [right:索尔 next=2012] ---
+--- Group [right:索尔 next=2012] ---
 ならば、案内しよう
 剣竜の居場所へ
 +[FID:79, TEXT:0084] 
 +[FID:79, TEXT:0085] 
 
---- Group 66 [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---
 本当ですか！
 +[FID:79, TEXT:0086] 
 
---- Group 67 [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---
 え！？
 本当ですか？
 +[FID:79, TEXT:0087] 
 +[FID:79, TEXT:0088] 
 
---- Group 68 [right:索尔 next=2012] ---
+--- Group [right:索尔 next=2012] ---
 ただし、拙者も剣竜と
 の戦いに加えてもらう
 ことが条件でござる
@@ -380,7 +380,7 @@
 +[FID:79, TEXT:008A] 
 +[FID:79, TEXT:008B] 
 
---- Group 69 [right:索尔 next=2012] ---
+--- Group [right:索尔 next=2012] ---
 これまで拙者が目標と
 していた相手だ
 これだけはゆずれぬ
@@ -388,17 +388,17 @@
 +[FID:79, TEXT:008D] 
 +[FID:79, TEXT:008E] 
 
---- Group 70 [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---
 わかりました
 +[FID:79, TEXT:008F] 
 
---- Group 71 [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---
 え、ええ
 喜んで！
 +[FID:79, TEXT:0090] 
 +[FID:79, TEXT:0091] 
 
---- Group 72 [left:加泽尔 next=2012] ---
+--- Group [left:加泽尔 next=2012] ---
 なんなんだよ
 この地面に刺さった
 剣の山は！？
@@ -406,39 +406,39 @@
 +[FID:79, TEXT:0093] 
 +[FID:79, TEXT:0094] 
 
---- Group 73 [right:风峰 next=2012] ---
+--- Group [right:风峰 next=2012] ---
 剣竜に挑み、敗れた者
 たちのものでござる
 +[FID:79, TEXT:0095] 
 +[FID:79, TEXT:0096] 
 
---- Group 74 [left:赛萨里斯 next=2012] ---
+--- Group [left:赛萨里斯 next=2012] ---
 これほどの数の剣士が
 敗れたなんて・・・
 +[FID:79, TEXT:0097] 
 +[FID:79, TEXT:0098] 
 
---- Group 75 [left:主人公 next=2012] ---
+--- Group [left:主人公 next=2012] ---
 ・・・！？
 +[FID:79, TEXT:0099] 
 
---- Group 76 [right:伊利亚斯 next=2012] ---
+--- Group [right:伊利亚斯 next=2012] ---
 剣が、ひとりでに！？
 +[FID:79, TEXT:009A] 
 
---- Group 77 [left:拉姆达 next=2012] ---
+--- Group [left:拉姆达 next=2012] ---
 これが、剣竜の力だと
 いうわけか
 +[FID:79, TEXT:009B] 
 +[FID:79, TEXT:009C] 
 
---- Group 78 [right:风峰 next=2012] ---
+--- Group [right:风峰 next=2012] ---
 剣竜の・・・
 お出ましでござる！！
 +[FID:79, TEXT:009D] 
 +[FID:79, TEXT:009E] 
 
---- Group 79 [left:主人公 next=2012] ---
+--- Group [left:主人公 next=2012] ---
 よくぞ守護者を倒した
 お前の力は、誓約者の
 名にふさわしい
@@ -446,7 +446,7 @@
 +[FID:79, TEXT:00A0] 
 +[FID:79, TEXT:00A1] 
 
---- Group 81 [left:主人公 next=2012] ---
+--- Group [left:主人公 next=2012] ---
 我が力・・・
 メイトルパのエルゴを
 受け取るがいい
@@ -454,43 +454,43 @@
 +[FID:79, TEXT:00A3] 
 +[FID:79, TEXT:00A4] 
 
---- Group 83 [right:雷德 next=2012] ---
+--- Group [right:雷德 next=2012] ---
 まさか、本当に剣竜を
 倒してしまうとはな
 +[FID:79, TEXT:00A5] 
 +[FID:79, TEXT:00A6] 
 
---- Group 85 [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---
 カザミネさんの助けが
 あったからです
 +[FID:79, TEXT:00A7] 
 +[FID:79, TEXT:00AB] 
 
---- Group 86 [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---
 カザミネさんの助けが
 あったからです・・・
 -[FID:79, TEXT:00A7] 
 +[FID:79, TEXT:00AC] 
 
---- Group 87 [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---
 カザミネさんの助けが
 あったからですよ
 -[FID:79, TEXT:00A7] 
 +[FID:79, TEXT:00A8] 
 
---- Group 91 [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---
 貴方の助けがあったか
 らですよ
 +[FID:79, TEXT:00A9] 
 +[FID:79, TEXT:00AA] 
 
---- Group 93 [left:茜 next=2012] ---
+--- Group [left:茜 next=2012] ---
 ねえ、カザミネはこれ
 からどうすんの？
 +[FID:79, TEXT:00AD] 
 +[FID:79, TEXT:00AE] 
 
---- Group 95 [right:雷德 next=2012] ---
+--- Group [right:雷德 next=2012] ---
 さて、な
 また別の場所で剣術の
 修行でもするか・・・
@@ -498,7 +498,7 @@
 +[FID:79, TEXT:00B0] 
 +[FID:79, TEXT:00B1] 
 
---- Group 97 [right:鼬 next=2012] ---
+--- Group [right:鼬 next=2012] ---
 あるいは、お主らの力
 になるというのも一興
 かもしれんな
@@ -506,20 +506,20 @@
 +[FID:79, TEXT:00B3] 
 +[FID:79, TEXT:00B4] 
 
---- Group 99 [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---
 いいんですか？
 +[FID:79, TEXT:00B5] 
 
---- Group 101 [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---
 え・・・本当に
 いいんですか？
 +[FID:79, TEXT:00B6] 
 -[FID:79, TEXT:00B5] 
 
---- Group 103 [right:雷德 next=2012] ---
+--- Group [right:雷德 next=2012] ---
 お主たちさえ良ければ
 +[FID:79, TEXT:00B7] 
 
---- Group 105 [right:艾多斯 next=2012] ---
+--- Group [right:艾多斯 next=2012] ---
 なら、決まりだな？
 +[FID:79, TEXT:00B8] 
