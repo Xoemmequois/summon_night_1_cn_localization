@@ -7,7 +7,7 @@ PROCESSED_DIR = SCRIPT_DIR.parent / "ruby_tools" / "opencode_generated" / "proce
 ZH_CN_PATH = SCRIPT_DIR / "zh_CN.json"
 OUTPUT_PATH = SCRIPT_DIR / "zh_CN_translated.json"
 
-GROUP_RE = re.compile(r"^--- Group \d+ .+---G\s*$")
+GROUP_RE = re.compile(r"^--- Group \[(?:left|right):[^\]]* next=\d+\] ---G\s*$")
 FID_TEXT_RE = re.compile(r"^[+-]?\[FID:([0-9A-Fa-f]+), TEXT:([0-9A-Fa-f]+)\] (.*)")
 
 
