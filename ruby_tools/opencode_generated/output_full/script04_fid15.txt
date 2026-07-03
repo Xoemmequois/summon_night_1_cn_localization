@@ -2,111 +2,104 @@
 [FID:15, TEXT:0000] 
 [FID:15, TEXT:0000] 
 [FID:15, TEXT:0001] 　こういった経緯があって、
-[FID:15, TEXT:0002] 　俺は【フラット】の仲間たちと
+[FID:15, TEXT:000B] 　僕は【フラット】の仲間たちと
 [FID:15, TEXT:0003] 　暮らすことになったわけだ
 
---- Group 2 [left:none next=0023] ---
+--- Group 2 [right:char_0012 next=0023] ---
 [FID:15, TEXT:0000] 
 [FID:15, TEXT:0000] 
-[FID:15, TEXT:000C] 　眠れずにいた僕は、
+[FID:15, TEXT:0008] 　眠れずにいた俺は、
 [FID:15, TEXT:0009] 　屋根の上に座って、ぼんやりと
 [FID:15, TEXT:000A] 　考え事をしていたんだ・・・
 
---- Group 3 [left:none next=201D] ---
-[FID:15, TEXT:0000] 
-[FID:15, TEXT:0000] 
-[FID:15, TEXT:000D] 　こうしてあたしと【フラット】の
-[FID:15, TEXT:000E] 　仲間たちの生活がはじまった
-
---- Group 4 [left:none next=201D] ---
-[FID:15, TEXT:0000] 
-[FID:15, TEXT:000F] 　なかば成り行きみたいに
-[FID:15, TEXT:0010] 　なっちゃったけど
-[FID:15, TEXT:0011] 　これはこれでいいのかなって
-[FID:15, TEXT:0012] 　思ってる
-
---- Group 5 [left:none next=0014] ---
+--- Group 3 [right:char_0012 next=201D] ---
 [FID:15, TEXT:0000] 
 [FID:15, TEXT:0004] 　そんな目まぐるしい
-[FID:15, TEXT:0013] 　一日も終わって・・・
-[FID:15, TEXT:0014] 　眠れなかったあたしは
-[FID:15, TEXT:0015] 　屋根の上でぼんやりと考え事に
-[FID:15, TEXT:0016] 　ふけっていたんだけど・・・
-
---- Group 6 [left:none next=201D] ---
-[FID:15, TEXT:0000] 
-[FID:15, TEXT:0000] 
-[FID:15, TEXT:0017] 　こうしてわたしは
-[FID:15, TEXT:0018] 　【フラット】の方たちと
-[FID:15, TEXT:0019] 　一緒に暮らすことになりました
-
---- Group 7 [left:none next=201D] ---
-[FID:15, TEXT:0000] 
-[FID:15, TEXT:001A] 　つかれたわたしを
 [FID:15, TEXT:0005] 　一日の最後に待っていたのは、
-[FID:15, TEXT:001B] 　月明かりの下の
-[FID:15, TEXT:001C] 　おだやかなひととき・・・
+[FID:15, TEXT:0006] 　月明かりの下でのおだやかな
+[FID:15, TEXT:0007] 　ひとときだった
 
---- Group 8 [left:none next=0023] ---
-[FID:15, TEXT:0000] 
-[FID:15, TEXT:0000] 
-[FID:15, TEXT:001D] 　眠れずにいたわたしは、
-[FID:15, TEXT:001E] 　屋根の上に腰掛けて
-[FID:15, TEXT:001F] 　考え事をしていたんです・・・
-
---- Group 9 [left:none next=201D] ---
+--- Group 4 [right:char_0012 next=201D] ---
 [FID:15, TEXT:0000] 
 [FID:15, TEXT:0000] 
 [FID:15, TEXT:0001] 　こういった経緯があって、
 [FID:15, TEXT:0002] 　俺は【フラット】の仲間たちと
 [FID:15, TEXT:0003] 　暮らすことになったわけだ
 
---- Group 10 [left:none next=201D] ---
+--- Group 5 [left:none next=201D] ---
+[FID:15, TEXT:0000] 
+[FID:15, TEXT:0000] 
+[FID:15, TEXT:0017] 　こうしてわたしは
+[FID:15, TEXT:0018] 　【フラット】の方たちと
+[FID:15, TEXT:0019] 　一緒に暮らすことになりました
+
+--- Group 6 [left:none next=201D] ---
+[FID:15, TEXT:0000] 
+[FID:15, TEXT:001A] 　つかれたわたしを
+[FID:15, TEXT:0005] 　一日の最後に待っていたのは、
+[FID:15, TEXT:001B] 　月明かりの下の
+[FID:15, TEXT:001C] 　おだやかなひととき・・・
+
+--- Group 7 [left:none next=0023] ---
+[FID:15, TEXT:0000] 
+[FID:15, TEXT:0000] 
+[FID:15, TEXT:001D] 　眠れずにいたわたしは、
+[FID:15, TEXT:001E] 　屋根の上に腰掛けて
+[FID:15, TEXT:001F] 　考え事をしていたんです・・・
+
+--- Group 8 [left:none next=201D] ---
+[FID:15, TEXT:0000] 
+[FID:15, TEXT:0000] 
+[FID:15, TEXT:0001] 　こういった経緯があって、
+[FID:15, TEXT:0002] 　俺は【フラット】の仲間たちと
+[FID:15, TEXT:0003] 　暮らすことになったわけだ
+
+--- Group 9 [left:none next=201D] ---
 [FID:15, TEXT:0000] 
 [FID:15, TEXT:0004] 　そんな目まぐるしい
 [FID:15, TEXT:0005] 　一日の最後に待っていたのは、
 [FID:15, TEXT:0006] 　月明かりの下でのおだやかな
 [FID:15, TEXT:0007] 　ひとときだった
+
+--- Group 10 [left:none next=0023] ---
+[FID:15, TEXT:0000] 
+[FID:15, TEXT:0000] 
+[FID:15, TEXT:0008] 　眠れずにいた俺は、
+[FID:15, TEXT:0009] 　屋根の上に座って、ぼんやりと
+[FID:15, TEXT:000A] 　考え事をしていたんだ・・・
 
 --- Group 11 [left:none next=0023] ---
 [FID:15, TEXT:0000] 
 [FID:15, TEXT:0000] 
-[FID:15, TEXT:0008] 　眠れずにいた俺は、
-[FID:15, TEXT:0009] 　屋根の上に座って、ぼんやりと
-[FID:15, TEXT:000A] 　考え事をしていたんだ・・・
 
---- Group 12 [left:none next=0023] ---
-[FID:15, TEXT:0000] 
-[FID:15, TEXT:0000] 
-
---- Group 13 [left:none next=201D] ---
+--- Group 12 [left:none next=201D] ---
 [FID:15, TEXT:0000] 
 [FID:15, TEXT:0000] 
 [FID:15, TEXT:0001] 　こういった経緯があって、
 [FID:15, TEXT:000B] 　僕は【フラット】の仲間たちと
 [FID:15, TEXT:0003] 　暮らすことになったわけだ
 
---- Group 14 [left:none next=0023] ---
+--- Group 13 [left:none next=0023] ---
 [FID:15, TEXT:0000] 
 [FID:15, TEXT:0000] 
 [FID:15, TEXT:000C] 　眠れずにいた僕は、
 [FID:15, TEXT:0009] 　屋根の上に座って、ぼんやりと
 [FID:15, TEXT:000A] 　考え事をしていたんだ・・・
 
---- Group 15 [left:none next=201D] ---
+--- Group 14 [left:none next=201D] ---
 [FID:15, TEXT:0000] 
 [FID:15, TEXT:0000] 
 [FID:15, TEXT:000D] 　こうしてあたしと【フラット】の
 [FID:15, TEXT:000E] 　仲間たちの生活がはじまった
 
---- Group 16 [left:none next=201D] ---
+--- Group 15 [left:none next=201D] ---
 [FID:15, TEXT:0000] 
 [FID:15, TEXT:000F] 　なかば成り行きみたいに
 [FID:15, TEXT:0010] 　なっちゃったけど
 [FID:15, TEXT:0011] 　これはこれでいいのかなって
 [FID:15, TEXT:0012] 　思ってる
 
---- Group 17 [left:none next=0014] ---
+--- Group 16 [left:none next=0014] ---
 [FID:15, TEXT:0000] 
 [FID:15, TEXT:0004] 　そんな目まぐるしい
 [FID:15, TEXT:0013] 　一日も終わって・・・
@@ -114,165 +107,122 @@
 [FID:15, TEXT:0015] 　屋根の上でぼんやりと考え事に
 [FID:15, TEXT:0016] 　ふけっていたんだけど・・・
 
---- Group 18 [right:char_0012 next=201D] ---
+--- Group 17 [left:none next=201D] ---
 [FID:15, TEXT:0000] 
-[FID:15, TEXT:0004] 　そんな目まぐるしい
+[FID:15, TEXT:0000] 
+[FID:15, TEXT:0017] 　こうしてわたしは
+[FID:15, TEXT:0018] 　【フラット】の方たちと
+[FID:15, TEXT:0019] 　一緒に暮らすことになりました
+
+--- Group 18 [left:none next=201D] ---
+[FID:15, TEXT:0000] 
+[FID:15, TEXT:001A] 　つかれたわたしを
 [FID:15, TEXT:0005] 　一日の最後に待っていたのは、
-[FID:15, TEXT:0006] 　月明かりの下でのおだやかな
-[FID:15, TEXT:0007] 　ひとときだった
+[FID:15, TEXT:001B] 　月明かりの下の
+[FID:15, TEXT:001C] 　おだやかなひととき・・・
 
 --- Group 19 [right:char_0012 next=0023] ---
 [FID:15, TEXT:0000] 
 [FID:15, TEXT:0000] 
-[FID:15, TEXT:0008] 　眠れずにいた俺は、
-[FID:15, TEXT:0009] 　屋根の上に座って、ぼんやりと
-[FID:15, TEXT:000A] 　考え事をしていたんだ・・・
-
---- Group 20 [right:char_0012 next=0023] ---
-[FID:15, TEXT:0000] 
-[FID:15, TEXT:0000] 
-
---- Group 21 [right:char_0012 next=201D] ---
-[FID:15, TEXT:0000] 
-[FID:15, TEXT:0000] 
-[FID:15, TEXT:0001] 　こういった経緯があって、
-[FID:15, TEXT:000B] 　僕は【フラット】の仲間たちと
-[FID:15, TEXT:0003] 　暮らすことになったわけだ
-
---- Group 22 [right:char_0012 next=0023] ---
-[FID:15, TEXT:0000] 
-[FID:15, TEXT:0000] 
 [FID:15, TEXT:000C] 　眠れずにいた僕は、
 [FID:15, TEXT:0009] 　屋根の上に座って、ぼんやりと
 [FID:15, TEXT:000A] 　考え事をしていたんだ・・・
+
+--- Group 20 [right:char_0012 next=201D] ---
+[FID:15, TEXT:0000] 
+[FID:15, TEXT:0000] 
+[FID:15, TEXT:000D] 　こうしてあたしと【フラット】の
+[FID:15, TEXT:000E] 　仲間たちの生活がはじまった
+
+--- Group 21 [right:char_0012 next=201D] ---
+[FID:15, TEXT:0000] 
+[FID:15, TEXT:000F] 　なかば成り行きみたいに
+[FID:15, TEXT:0010] 　なっちゃったけど
+[FID:15, TEXT:0011] 　これはこれでいいのかなって
+[FID:15, TEXT:0012] 　思ってる
+
+--- Group 22 [right:char_0012 next=0014] ---
+[FID:15, TEXT:0000] 
+[FID:15, TEXT:0004] 　そんな目まぐるしい
+[FID:15, TEXT:0013] 　一日も終わって・・・
+[FID:15, TEXT:0014] 　眠れなかったあたしは
+[FID:15, TEXT:0015] 　屋根の上でぼんやりと考え事に
+[FID:15, TEXT:0016] 　ふけっていたんだけど・・・
 
 --- Group 23 [right:char_0012 next=201D] ---
 [FID:15, TEXT:0000] 
 [FID:15, TEXT:0000] 
-[FID:15, TEXT:000D] 　こうしてあたしと【フラット】の
-[FID:15, TEXT:000E] 　仲間たちの生活がはじまった
-
---- Group 24 [right:char_0012 next=201D] ---
-[FID:15, TEXT:0000] 
-[FID:15, TEXT:000F] 　なかば成り行きみたいに
-[FID:15, TEXT:0010] 　なっちゃったけど
-[FID:15, TEXT:0011] 　これはこれでいいのかなって
-[FID:15, TEXT:0012] 　思ってる
-
---- Group 25 [right:char_0012 next=0014] ---
-[FID:15, TEXT:0000] 
-[FID:15, TEXT:0004] 　そんな目まぐるしい
-[FID:15, TEXT:0013] 　一日も終わって・・・
-[FID:15, TEXT:0014] 　眠れなかったあたしは
-[FID:15, TEXT:0015] 　屋根の上でぼんやりと考え事に
-[FID:15, TEXT:0016] 　ふけっていたんだけど・・・
-
---- Group 26 [right:char_0012 next=201D] ---
-[FID:15, TEXT:0000] 
-[FID:15, TEXT:0000] 
 [FID:15, TEXT:0017] 　こうしてわたしは
 [FID:15, TEXT:0018] 　【フラット】の方たちと
 [FID:15, TEXT:0019] 　一緒に暮らすことになりました
 
---- Group 27 [right:char_0012 next=201D] ---
+--- Group 24 [right:char_0012 next=201D] ---
 [FID:15, TEXT:0000] 
 [FID:15, TEXT:001A] 　つかれたわたしを
 [FID:15, TEXT:0005] 　一日の最後に待っていたのは、
 [FID:15, TEXT:001B] 　月明かりの下の
 [FID:15, TEXT:001C] 　おだやかなひととき・・・
 
---- Group 28 [right:char_0012 next=0023] ---
+--- Group 25 [right:char_0012 next=0023] ---
 [FID:15, TEXT:0000] 
 [FID:15, TEXT:0000] 
 [FID:15, TEXT:001D] 　眠れずにいたわたしは、
 [FID:15, TEXT:001E] 　屋根の上に腰掛けて
 [FID:15, TEXT:001F] 　考え事をしていたんです・・・
 
---- Group 29 [left:none next=201D] ---
+--- Group 26 [left:none next=201D] ---
 [FID:15, TEXT:0000] 
 [FID:15, TEXT:0000] 
 [FID:15, TEXT:0001] 　こういった経緯があって、
 [FID:15, TEXT:0002] 　俺は【フラット】の仲間たちと
 [FID:15, TEXT:0003] 　暮らすことになったわけだ
 
+--- Group 27 [left:none next=201D] ---
+[FID:15, TEXT:0000] 
+[FID:15, TEXT:0004] 　そんな目まぐるしい
+[FID:15, TEXT:0005] 　一日の最後に待っていたのは、
+[FID:15, TEXT:0006] 　月明かりの下でのおだやかな
+[FID:15, TEXT:0007] 　ひとときだった
+
+--- Group 28 [left:none next=0023] ---
+[FID:15, TEXT:0000] 
+[FID:15, TEXT:0000] 
+[FID:15, TEXT:0008] 　眠れずにいた俺は、
+[FID:15, TEXT:0009] 　屋根の上に座って、ぼんやりと
+[FID:15, TEXT:000A] 　考え事をしていたんだ・・・
+
+--- Group 29 [left:none next=0023] ---
+[FID:15, TEXT:0000] 
+[FID:15, TEXT:0000] 
+
 --- Group 30 [left:none next=201D] ---
 [FID:15, TEXT:0000] 
-[FID:15, TEXT:0004] 　そんな目まぐるしい
-[FID:15, TEXT:0005] 　一日の最後に待っていたのは、
-[FID:15, TEXT:0006] 　月明かりの下でのおだやかな
-[FID:15, TEXT:0007] 　ひとときだった
+[FID:15, TEXT:0000] 
+[FID:15, TEXT:0001] 　こういった経緯があって、
+[FID:15, TEXT:000B] 　僕は【フラット】の仲間たちと
+[FID:15, TEXT:0003] 　暮らすことになったわけだ
 
 --- Group 31 [left:none next=0023] ---
-[FID:15, TEXT:0000] 
-[FID:15, TEXT:0000] 
-[FID:15, TEXT:0008] 　眠れずにいた俺は、
-[FID:15, TEXT:0009] 　屋根の上に座って、ぼんやりと
-[FID:15, TEXT:000A] 　考え事をしていたんだ・・・
-
---- Group 32 [left:none next=0023] ---
-[FID:15, TEXT:0000] 
-[FID:15, TEXT:0000] 
-
---- Group 33 [left:none next=201D] ---
-[FID:15, TEXT:0000] 
-[FID:15, TEXT:0000] 
-[FID:15, TEXT:0001] 　こういった経緯があって、
-[FID:15, TEXT:000B] 　僕は【フラット】の仲間たちと
-[FID:15, TEXT:0003] 　暮らすことになったわけだ
-
---- Group 34 [left:none next=0023] ---
-[FID:15, TEXT:0000] 
-[FID:15, TEXT:0000] 
-[FID:15, TEXT:0008] 　眠れずにいた俺は、
-[FID:15, TEXT:0009] 　屋根の上に座って、ぼんやりと
-[FID:15, TEXT:000A] 　考え事をしていたんだ・・・
-
---- Group 35 [left:none next=201D] ---
-[FID:15, TEXT:0000] 
-[FID:15, TEXT:0004] 　そんな目まぐるしい
-[FID:15, TEXT:0005] 　一日の最後に待っていたのは、
-[FID:15, TEXT:0006] 　月明かりの下でのおだやかな
-[FID:15, TEXT:0007] 　ひとときだった
-
---- Group 36 [left:none next=0023] ---
-[FID:15, TEXT:0000] 
-[FID:15, TEXT:0000] 
-
---- Group 37 [left:none next=0023] ---
-[FID:15, TEXT:0000] 
-[FID:15, TEXT:0000] 
-[FID:15, TEXT:001D] 　眠れずにいたわたしは、
-[FID:15, TEXT:001E] 　屋根の上に腰掛けて
-[FID:15, TEXT:001F] 　考え事をしていたんです・・・
-
---- Group 38 [left:none next=201D] ---
-[FID:15, TEXT:0000] 
-[FID:15, TEXT:0000] 
-[FID:15, TEXT:0001] 　こういった経緯があって、
-[FID:15, TEXT:000B] 　僕は【フラット】の仲間たちと
-[FID:15, TEXT:0003] 　暮らすことになったわけだ
-
---- Group 39 [left:none next=0023] ---
 [FID:15, TEXT:0000] 
 [FID:15, TEXT:0000] 
 [FID:15, TEXT:000C] 　眠れずにいた僕は、
 [FID:15, TEXT:0009] 　屋根の上に座って、ぼんやりと
 [FID:15, TEXT:000A] 　考え事をしていたんだ・・・
 
---- Group 40 [left:none next=201D] ---
+--- Group 32 [left:none next=201D] ---
 [FID:15, TEXT:0000] 
 [FID:15, TEXT:0000] 
 [FID:15, TEXT:000D] 　こうしてあたしと【フラット】の
 [FID:15, TEXT:000E] 　仲間たちの生活がはじまった
 
---- Group 41 [left:none next=201D] ---
+--- Group 33 [left:none next=201D] ---
 [FID:15, TEXT:0000] 
 [FID:15, TEXT:000F] 　なかば成り行きみたいに
 [FID:15, TEXT:0010] 　なっちゃったけど
 [FID:15, TEXT:0011] 　これはこれでいいのかなって
 [FID:15, TEXT:0012] 　思ってる
 
---- Group 42 [left:none next=0014] ---
+--- Group 34 [left:none next=0014] ---
 [FID:15, TEXT:0000] 
 [FID:15, TEXT:0004] 　そんな目まぐるしい
 [FID:15, TEXT:0013] 　一日も終わって・・・
@@ -280,49 +230,99 @@
 [FID:15, TEXT:0015] 　屋根の上でぼんやりと考え事に
 [FID:15, TEXT:0016] 　ふけっていたんだけど・・・
 
---- Group 43 [left:none next=201D] ---
+--- Group 35 [right:char_0012 next=0023] ---
 [FID:15, TEXT:0000] 
 [FID:15, TEXT:0000] 
-[FID:15, TEXT:0017] 　こうしてわたしは
-[FID:15, TEXT:0018] 　【フラット】の方たちと
-[FID:15, TEXT:0019] 　一緒に暮らすことになりました
 
---- Group 44 [left:none next=201D] ---
-[FID:15, TEXT:0000] 
-[FID:15, TEXT:001A] 　つかれたわたしを
-[FID:15, TEXT:0005] 　一日の最後に待っていたのは、
-[FID:15, TEXT:001B] 　月明かりの下の
-[FID:15, TEXT:001C] 　おだやかなひととき・・・
-
---- Group 45 [left:none next=201D] ---
-[FID:15, TEXT:0000] 
-[FID:15, TEXT:0000] 
-[FID:15, TEXT:0017] 　こうしてわたしは
-[FID:15, TEXT:0018] 　【フラット】の方たちと
-[FID:15, TEXT:0019] 　一緒に暮らすことになりました
-
---- Group 46 [left:none next=201D] ---
-[FID:15, TEXT:0000] 
-[FID:15, TEXT:001A] 　つかれたわたしを
-[FID:15, TEXT:0005] 　一日の最後に待っていたのは、
-[FID:15, TEXT:001B] 　月明かりの下の
-[FID:15, TEXT:001C] 　おだやかなひととき・・・
-
---- Group 47 [left:none next=0023] ---
+--- Group 36 [left:none next=0023] ---
 [FID:15, TEXT:0000] 
 [FID:15, TEXT:0000] 
 [FID:15, TEXT:001D] 　眠れずにいたわたしは、
 [FID:15, TEXT:001E] 　屋根の上に腰掛けて
 [FID:15, TEXT:001F] 　考え事をしていたんです・・・
 
---- Group 48 [left:none next=201D] ---
+--- Group 37 [left:none next=201D] ---
+[FID:15, TEXT:0000] 
+[FID:15, TEXT:0000] 
+[FID:15, TEXT:0001] 　こういった経緯があって、
+[FID:15, TEXT:000B] 　僕は【フラット】の仲間たちと
+[FID:15, TEXT:0003] 　暮らすことになったわけだ
+
+--- Group 38 [left:none next=0023] ---
+[FID:15, TEXT:0000] 
+[FID:15, TEXT:0000] 
+[FID:15, TEXT:000C] 　眠れずにいた僕は、
+[FID:15, TEXT:0009] 　屋根の上に座って、ぼんやりと
+[FID:15, TEXT:000A] 　考え事をしていたんだ・・・
+
+--- Group 39 [left:none next=201D] ---
+[FID:15, TEXT:0000] 
+[FID:15, TEXT:0000] 
+[FID:15, TEXT:000D] 　こうしてあたしと【フラット】の
+[FID:15, TEXT:000E] 　仲間たちの生活がはじまった
+
+--- Group 40 [left:none next=201D] ---
+[FID:15, TEXT:0000] 
+[FID:15, TEXT:000F] 　なかば成り行きみたいに
+[FID:15, TEXT:0010] 　なっちゃったけど
+[FID:15, TEXT:0011] 　これはこれでいいのかなって
+[FID:15, TEXT:0012] 　思ってる
+
+--- Group 41 [left:none next=0014] ---
+[FID:15, TEXT:0000] 
+[FID:15, TEXT:0004] 　そんな目まぐるしい
+[FID:15, TEXT:0013] 　一日も終わって・・・
+[FID:15, TEXT:0014] 　眠れなかったあたしは
+[FID:15, TEXT:0015] 　屋根の上でぼんやりと考え事に
+[FID:15, TEXT:0016] 　ふけっていたんだけど・・・
+
+--- Group 42 [left:none next=201D] ---
+[FID:15, TEXT:0000] 
+[FID:15, TEXT:0000] 
+[FID:15, TEXT:0017] 　こうしてわたしは
+[FID:15, TEXT:0018] 　【フラット】の方たちと
+[FID:15, TEXT:0019] 　一緒に暮らすことになりました
+
+--- Group 43 [left:none next=201D] ---
+[FID:15, TEXT:0000] 
+[FID:15, TEXT:001A] 　つかれたわたしを
+[FID:15, TEXT:0005] 　一日の最後に待っていたのは、
+[FID:15, TEXT:001B] 　月明かりの下の
+[FID:15, TEXT:001C] 　おだやかなひととき・・・
+
+--- Group 44 [left:none next=0023] ---
+[FID:15, TEXT:0000] 
+[FID:15, TEXT:0000] 
+[FID:15, TEXT:001D] 　眠れずにいたわたしは、
+[FID:15, TEXT:001E] 　屋根の上に腰掛けて
+[FID:15, TEXT:001F] 　考え事をしていたんです・・・
+
+--- Group 45 [left:none next=0023] ---
+[FID:15, TEXT:0000] 
+[FID:15, TEXT:0000] 
+
+--- Group 46 [left:none next=201D] ---
 [FID:15, TEXT:0000] 
 [FID:15, TEXT:0000] 
 [FID:15, TEXT:0001] 　こういった経緯があって、
 [FID:15, TEXT:0002] 　俺は【フラット】の仲間たちと
 [FID:15, TEXT:0003] 　暮らすことになったわけだ
 
---- Group 49 [left:none next=2017] ---
+--- Group 47 [left:none next=201D] ---
+[FID:15, TEXT:0000] 
+[FID:15, TEXT:0004] 　そんな目まぐるしい
+[FID:15, TEXT:0005] 　一日の最後に待っていたのは、
+[FID:15, TEXT:0006] 　月明かりの下でのおだやかな
+[FID:15, TEXT:0007] 　ひとときだった
+
+--- Group 48 [left:none next=0023] ---
+[FID:15, TEXT:0000] 
+[FID:15, TEXT:0000] 
+[FID:15, TEXT:0008] 　眠れずにいた俺は、
+[FID:15, TEXT:0009] 　屋根の上に座って、ぼんやりと
+[FID:15, TEXT:000A] 　考え事をしていたんだ・・・
+
+--- Group 49 [right:char_0012 next=2017] ---
 [FID:15, TEXT:0020] レイド
 [FID:15, TEXT:0021] ガゼル
 [FID:15, TEXT:0022] エドス
@@ -340,7 +340,7 @@
 [FID:15, TEXT:0025] フィズ
 [FID:15, TEXT:0026] ラミ
 
---- Group 51 [right:char_0012 next=2017] ---
+--- Group 51 [left:none next=2017] ---
 [FID:15, TEXT:0020] レイド
 [FID:15, TEXT:0021] ガゼル
 [FID:15, TEXT:0022] エドス
@@ -367,10 +367,10 @@
 
 --- Group 55 [left:char_0000 next=0023] ---
 [FID:15, TEXT:0029] ああ・・・
+[FID:15, TEXT:0028] すごく大きな月ですね
 
 --- Group 56 [left:char_0000 next=0023] ---
 [FID:15, TEXT:0029] ああ・・・
-[FID:15, TEXT:0028] すごく大きな月ですね
 
 --- Group 57 [left:char_0000 next=0023] ---
 [FID:15, TEXT:002A] わぁ・・・
@@ -486,7 +486,7 @@
 --- Group 82 [left:char_0000 next=2012] ---
 [FID:15, TEXT:005E] あの不思議な光だって
 [FID:15, TEXT:005F] 自分の意志で使ってる
-[FID:15, TEXT:0066] わけじゃないんです
+[FID:15, TEXT:0063] わけじゃないのよ
 
 --- Group 83 [left:char_0000 next=2012] ---
 [FID:15, TEXT:005E] あの不思議な光だって
@@ -496,7 +496,7 @@
 --- Group 84 [left:char_0000 next=2012] ---
 [FID:15, TEXT:005E] あの不思議な光だって
 [FID:15, TEXT:005F] 自分の意志で使ってる
-[FID:15, TEXT:0063] わけじゃないのよ
+[FID:15, TEXT:0066] わけじゃないんです
 
 --- Group 85 [left:char_0000 next=0023] ---
 [FID:15, TEXT:0061] 信じてくれるか？
@@ -622,11 +622,11 @@
 
 --- Group 117 [left:char_0000 next=0023] ---
 [FID:15, TEXT:009D] え？
-[FID:15, TEXT:0108] なに・・・
-[FID:15, TEXT:0109] 心配してくれてたんだ
 
 --- Group 118 [left:char_0000 next=0023] ---
 [FID:15, TEXT:009D] え？
+[FID:15, TEXT:0108] なに・・・
+[FID:15, TEXT:0109] 心配してくれてたんだ
 
 --- Group 119 [left:char_0000 next=0023] ---
 [FID:15, TEXT:009E] え、なに？
@@ -662,14 +662,14 @@
 
 --- Group 126 [left:char_0000 next=0023] ---
 [FID:15, TEXT:00A8] だから、リプレたちが
-[FID:15, TEXT:00B0] 僕を迎えてくれたこと
-[FID:15, TEXT:00B1] には感謝してるよ
-
---- Group 127 [left:char_0000 next=0023] ---
-[FID:15, TEXT:00A8] だから、リプレたちが
 [FID:15, TEXT:00A9] ここにいて欲しいって
 [FID:15, TEXT:00B7] 言ってくれたとき
 [FID:15, TEXT:00B8] あたし、うれしくて
+
+--- Group 127 [left:char_0000 next=0023] ---
+[FID:15, TEXT:00A8] だから、リプレたちが
+[FID:15, TEXT:00B0] 僕を迎えてくれたこと
+[FID:15, TEXT:00B1] には感謝してるよ
 
 --- Group 128 [left:char_0000 next=2012] ---
 [FID:15, TEXT:00AC] でも、方法が見つかる
@@ -786,12 +786,12 @@
 --- Group 154 [left:char_0000 next=0023] ---
 [FID:15, TEXT:00E7] う〜ん・・・
 [FID:15, TEXT:00E2] どう説明したら納得し
-[FID:15, TEXT:00E3] てくれるかなぁ？
+[FID:15, TEXT:00E8] てもらえるかしら？
 
 --- Group 155 [left:char_0000 next=0023] ---
 [FID:15, TEXT:00E7] う〜ん・・・
 [FID:15, TEXT:00E2] どう説明したら納得し
-[FID:15, TEXT:00E8] てもらえるかしら？
+[FID:15, TEXT:00E3] てくれるかなぁ？
 
 --- Group 156 [right:char_002B next=0023] ---
 [FID:15, TEXT:00E9] お兄ちゃん、強いのね
@@ -815,11 +815,11 @@
 
 --- Group 160 [left:char_0000 next=0023] ---
 [FID:15, TEXT:00F2] あはは・・・
-[FID:15, TEXT:00F3] そ、そうかい
+[FID:15, TEXT:00F6] そ、そう・・・
 
 --- Group 161 [left:char_0000 next=0023] ---
 [FID:15, TEXT:00F2] あはは・・・
-[FID:15, TEXT:00F6] そ、そう・・・
+[FID:15, TEXT:00F3] そ、そうかい
 
 --- Group 162 [left:char_0000 next=0023] ---
 [FID:15, TEXT:00F4] ははは・・・
@@ -830,15 +830,15 @@
 
 --- Group 164 [left:char_0000 next=0023] ---
 [FID:15, TEXT:00F8] ラミちゃん
-[FID:15, TEXT:00F9] 俺に何か用事かい？
+[FID:15, TEXT:00FA] 僕に何か用事かい？
 
 --- Group 165 [left:char_0000 next=0023] ---
 [FID:15, TEXT:00F8] ラミちゃん
-[FID:15, TEXT:00FD] 会いに来てくれたの？
+[FID:15, TEXT:00F9] 俺に何か用事かい？
 
 --- Group 166 [left:char_0000 next=0023] ---
 [FID:15, TEXT:00F8] ラミちゃん
-[FID:15, TEXT:00FA] 僕に何か用事かい？
+[FID:15, TEXT:00FD] 会いに来てくれたの？
 
 --- Group 167 [left:char_0000 next=0023] ---
 [FID:15, TEXT:00FB] あ、ラミちゃん
@@ -884,7 +884,7 @@
 [FID:15, TEXT:010E] 　レイドさん、なんだか複雑な
 [FID:15, TEXT:010F] 　顔してたよなぁ
 
---- Group 180 [left:none next=0023] ---
+--- Group 180 [right:char_0012 next=0023] ---
 [FID:15, TEXT:010D] 　三人の召喚師か・・・
 [FID:15, TEXT:010E] 　レイドさん、なんだか複雑な
 [FID:15, TEXT:0113] 　顔してたなぁ
@@ -892,12 +892,12 @@
 --- Group 181 [left:none next=0023] ---
 [FID:15, TEXT:010D] 　三人の召喚師か・・・
 [FID:15, TEXT:010E] 　レイドさん、なんだか複雑な
-[FID:15, TEXT:0113] 　顔してたなぁ
+[FID:15, TEXT:010F] 　顔してたよなぁ
 
 --- Group 182 [left:none next=0023] ---
 [FID:15, TEXT:010D] 　三人の召喚師か・・・
 [FID:15, TEXT:010E] 　レイドさん、なんだか複雑な
-[FID:15, TEXT:010F] 　顔してたよなぁ
+[FID:15, TEXT:0113] 　顔してたなぁ
 
 --- Group 183 [right:char_0012 next=0023] ---
 [FID:15, TEXT:010D] 　三人の召喚師か・・・
@@ -907,14 +907,14 @@
 --- Group 184 [left:none next=0023] ---
 [FID:15, TEXT:010D] 　三人の召喚師か・・・
 [FID:15, TEXT:010E] 　レイドさん、なんだか複雑な
-[FID:15, TEXT:0113] 　顔してたなぁ
+[FID:15, TEXT:010F] 　顔してたよなぁ
 
 --- Group 185 [left:none next=0023] ---
 [FID:15, TEXT:010D] 　三人の召喚師か・・・
 [FID:15, TEXT:010E] 　レイドさん、なんだか複雑な
-[FID:15, TEXT:010F] 　顔してたよなぁ
+[FID:15, TEXT:0113] 　顔してたなぁ
 
---- Group 186 [right:char_0012 next=0023] ---
+--- Group 186 [left:none next=0023] ---
 [FID:15, TEXT:010D] 　三人の召喚師か・・・
 [FID:15, TEXT:010E] 　レイドさん、なんだか複雑な
 [FID:15, TEXT:0113] 　顔してたなぁ
@@ -944,7 +944,7 @@
 [FID:15, TEXT:0115] 　　　レイドさん、なんだか
 [FID:15, TEXT:0116] 　　　複雑な顔しましたけど
 
---- Group 192 [right:char_0012 next=0023] ---
+--- Group 192 [left:none next=0023] ---
 [FID:15, TEXT:0114] 　　　三人の召喚師・・・
 [FID:15, TEXT:0115] 　　　レイドさん、なんだか
 [FID:15, TEXT:0116] 　　　複雑な顔しましたけど
@@ -954,28 +954,344 @@
 [FID:15, TEXT:0115] 　　　レイドさん、なんだか
 [FID:15, TEXT:0116] 　　　複雑な顔しましたけど
 
---- Group 194 [left:none next=0023] ---
+--- Group 194 [right:char_0012 next=0023] ---
 [FID:15, TEXT:0114] 　　　三人の召喚師・・・
 [FID:15, TEXT:0115] 　　　レイドさん、なんだか
 [FID:15, TEXT:0116] 　　　複雑な顔しましたけど
 
 --- Group 195 [right:char_0012 next=0023] ---
-[FID:15, TEXT:0129] 　あんなに喜んでくれるなんて、
-[FID:15, TEXT:012A] 　なんか照れちまうよなぁ
+[FID:15, TEXT:0117] 　ガゼルって、
+[FID:15, TEXT:0118] 　やっぱり根はいいやつなんだな
 
---- Group 196 [right:char_0012 next=0023] ---
+--- Group 196 [left:none next=0023] ---
+[FID:15, TEXT:0117] 　ガゼルって、
+[FID:15, TEXT:0118] 　やっぱり根はいいやつなんだな
+
+--- Group 197 [left:none next=0023] ---
+[FID:15, TEXT:0117] 　ガゼルって、
+[FID:15, TEXT:0118] 　やっぱり根はいいやつなんだな
+
+--- Group 198 [left:none next=0023] ---
+[FID:15, TEXT:0117] 　ガゼルって、
+[FID:15, TEXT:0118] 　やっぱり根はいいやつなんだな
+
+--- Group 199 [left:none next=0023] ---
+[FID:15, TEXT:0119] 　ガゼルってば、あんなだけど
+[FID:15, TEXT:011A] 　根はいいやつだよね
+
+--- Group 200 [left:none next=0023] ---
+[FID:15, TEXT:0119] 　ガゼルってば、あんなだけど
+[FID:15, TEXT:011A] 　根はいいやつだよね
+
+--- Group 201 [right:char_0012 next=0023] ---
+[FID:15, TEXT:0119] 　ガゼルってば、あんなだけど
+[FID:15, TEXT:011A] 　根はいいやつだよね
+
+--- Group 202 [left:none next=0023] ---
+[FID:15, TEXT:0119] 　ガゼルってば、あんなだけど
+[FID:15, TEXT:011A] 　根はいいやつだよね
+
+--- Group 203 [left:none next=0023] ---
+[FID:15, TEXT:011B] 　　　ガゼルさん、やっぱり
+[FID:15, TEXT:011C] 　　　根はいい人なんですね
+
+--- Group 204 [left:none next=0023] ---
+[FID:15, TEXT:011B] 　　　ガゼルさん、やっぱり
+[FID:15, TEXT:011C] 　　　根はいい人なんですね
+
+--- Group 205 [right:char_0012 next=0023] ---
+[FID:15, TEXT:011B] 　　　ガゼルさん、やっぱり
+[FID:15, TEXT:011C] 　　　根はいい人なんですね
+
+--- Group 206 [left:none next=0023] ---
+[FID:15, TEXT:011B] 　　　ガゼルさん、やっぱり
+[FID:15, TEXT:011C] 　　　根はいい人なんですね
+
+--- Group 207 [left:none next=0023] ---
+[FID:15, TEXT:011D] 　　まいったよな
+[FID:15, TEXT:011E] 　　俺が思ってたことを、
+[FID:15, TEXT:011F] 　　見抜かれてたなんてね
+
+--- Group 208 [right:char_0012 next=0023] ---
+[FID:15, TEXT:011D] 　　まいったよな
+[FID:15, TEXT:011E] 　　俺が思ってたことを、
+[FID:15, TEXT:011F] 　　見抜かれてたなんてね
+
+--- Group 209 [left:none next=0023] ---
+[FID:15, TEXT:011D] 　　まいったよな
+[FID:15, TEXT:011E] 　　俺が思ってたことを、
+[FID:15, TEXT:011F] 　　見抜かれてたなんてね
+
+--- Group 210 [left:none next=0023] ---
+[FID:15, TEXT:011D] 　　まいったよな
+[FID:15, TEXT:011E] 　　俺が思ってたことを、
+[FID:15, TEXT:011F] 　　見抜かれてたなんてね
+
+--- Group 211 [left:none next=0023] ---
+[FID:15, TEXT:0120] 　　驚いたな
+[FID:15, TEXT:0121] 　　僕が思ってたことを、
+[FID:15, TEXT:0122] 　　見抜かれてたなんて
+
+--- Group 212 [left:none next=0023] ---
+[FID:15, TEXT:0120] 　　驚いたな
+[FID:15, TEXT:0121] 　　僕が思ってたことを、
+[FID:15, TEXT:0122] 　　見抜かれてたなんて
+
+--- Group 213 [right:char_0012 next=0023] ---
+[FID:15, TEXT:0120] 　　驚いたな
+[FID:15, TEXT:0121] 　　僕が思ってたことを、
+[FID:15, TEXT:0122] 　　見抜かれてたなんて
+
+--- Group 214 [left:none next=0023] ---
+[FID:15, TEXT:0120] 　　驚いたな
+[FID:15, TEXT:0121] 　　僕が思ってたことを、
+[FID:15, TEXT:0122] 　　見抜かれてたなんて
+
+--- Group 215 [right:char_0012 next=0023] ---
+[FID:15, TEXT:0123] 　　まいったなぁ
+[FID:15, TEXT:0124] 　　なんかエドスってなんでも
+[FID:15, TEXT:0125] 　　お見通しなんだよね・・・
+
+--- Group 216 [left:none next=0023] ---
+[FID:15, TEXT:0123] 　　まいったなぁ
+[FID:15, TEXT:0124] 　　なんかエドスってなんでも
+[FID:15, TEXT:0125] 　　お見通しなんだよね・・・
+
+--- Group 217 [left:none next=0023] ---
+[FID:15, TEXT:0123] 　　まいったなぁ
+[FID:15, TEXT:0124] 　　なんかエドスってなんでも
+[FID:15, TEXT:0125] 　　お見通しなんだよね・・・
+
+--- Group 218 [left:none next=0023] ---
+[FID:15, TEXT:0123] 　　まいったなぁ
+[FID:15, TEXT:0124] 　　なんかエドスってなんでも
+[FID:15, TEXT:0125] 　　お見通しなんだよね・・・
+
+--- Group 219 [left:none next=0023] ---
+[FID:15, TEXT:0126] 　　　鋭いんですね
+[FID:15, TEXT:0127] 　　　すっかり考えを
+[FID:15, TEXT:0128] 　　　見抜かれていました
+
+--- Group 220 [left:none next=0023] ---
+[FID:15, TEXT:0126] 　　　鋭いんですね
+[FID:15, TEXT:0127] 　　　すっかり考えを
+[FID:15, TEXT:0128] 　　　見抜かれていました
+
+--- Group 221 [left:none next=0023] ---
+[FID:15, TEXT:0126] 　　　鋭いんですね
+[FID:15, TEXT:0127] 　　　すっかり考えを
+[FID:15, TEXT:0128] 　　　見抜かれていました
+
+--- Group 222 [right:char_0012 next=0023] ---
+[FID:15, TEXT:0126] 　　　鋭いんですね
+[FID:15, TEXT:0127] 　　　すっかり考えを
+[FID:15, TEXT:0128] 　　　見抜かれていました
+
+--- Group 223 [right:char_0012 next=0023] ---
 [FID:15, TEXT:0129] 　あんなに喜んでくれるなんて、
 [FID:15, TEXT:012B] 　ちょっとだけ照れくさいな
 
---- Group 197 [left:none next=0023] ---
+--- Group 224 [left:none next=0023] ---
+[FID:15, TEXT:0129] 　あんなに喜んでくれるなんて、
+[FID:15, TEXT:012B] 　ちょっとだけ照れくさいな
+
+--- Group 225 [left:none next=0023] ---
 [FID:15, TEXT:0129] 　あんなに喜んでくれるなんて、
 [FID:15, TEXT:012A] 　なんか照れちまうよなぁ
 
---- Group 198 [right:char_0012 next=0023] ---
+--- Group 226 [right:char_0012 next=0023] ---
+[FID:15, TEXT:0129] 　あんなに喜んでくれるなんて、
+[FID:15, TEXT:012A] 　なんか照れちまうよなぁ
+
+--- Group 227 [left:none next=0023] ---
+[FID:15, TEXT:0129] 　あんなに喜んでくれるなんて、
+[FID:15, TEXT:012B] 　ちょっとだけ照れくさいな
+
+--- Group 228 [left:none next=0023] ---
+[FID:15, TEXT:0129] 　あんなに喜んでくれるなんて、
+[FID:15, TEXT:012A] 　なんか照れちまうよなぁ
+
+--- Group 229 [left:none next=0023] ---
+[FID:15, TEXT:0129] 　あんなに喜んでくれるなんて、
+[FID:15, TEXT:012A] 　なんか照れちまうよなぁ
+
+--- Group 230 [left:none next=0023] ---
+[FID:15, TEXT:0129] 　あんなに喜んでくれるなんて、
+[FID:15, TEXT:012B] 　ちょっとだけ照れくさいな
+
+--- Group 231 [left:none next=0023] ---
 [FID:15, TEXT:012C] 　あんなに喜んでもらうと、
 [FID:15, TEXT:012D] 　照れちゃうなぁ・・・
 
---- Group 199 [right:char_0012 next=0023] ---
+--- Group 232 [left:none next=0023] ---
+[FID:15, TEXT:012C] 　あんなに喜んでもらうと、
+[FID:15, TEXT:012D] 　照れちゃうなぁ・・・
+
+--- Group 233 [right:char_0012 next=0023] ---
+[FID:15, TEXT:012C] 　あんなに喜んでもらうと、
+[FID:15, TEXT:012D] 　照れちゃうなぁ・・・
+
+--- Group 234 [left:none next=0023] ---
+[FID:15, TEXT:012C] 　あんなに喜んでもらうと、
+[FID:15, TEXT:012D] 　照れちゃうなぁ・・・
+
+--- Group 235 [left:none next=0023] ---
 [FID:15, TEXT:012E] 　あんなに喜んでくれるなんて
 [FID:15, TEXT:012F] 　照れてしまいます・・・
+
+--- Group 236 [right:char_0012 next=0023] ---
+[FID:15, TEXT:012E] 　あんなに喜んでくれるなんて
+[FID:15, TEXT:012F] 　照れてしまいます・・・
+
+--- Group 237 [left:none next=0023] ---
+[FID:15, TEXT:012E] 　あんなに喜んでくれるなんて
+[FID:15, TEXT:012F] 　照れてしまいます・・・
+
+--- Group 238 [left:none next=0023] ---
+[FID:15, TEXT:012E] 　あんなに喜んでくれるなんて
+[FID:15, TEXT:012F] 　照れてしまいます・・・
+
+--- Group 239 [right:char_0012 next=0023] ---
+[FID:15, TEXT:0130] 　　ほめられたのは嬉しいけど
+[FID:15, TEXT:0131] 　　・・・ねぇ
+
+--- Group 240 [left:none next=0023] ---
+[FID:15, TEXT:0130] 　　ほめられたのは嬉しいけど
+[FID:15, TEXT:0131] 　　・・・ねぇ
+
+--- Group 241 [left:none next=0023] ---
+[FID:15, TEXT:0130] 　　ほめられたのは嬉しいけど
+[FID:15, TEXT:0131] 　　・・・ねぇ
+
+--- Group 242 [left:none next=0023] ---
+[FID:15, TEXT:0130] 　　ほめられたのは嬉しいけど
+[FID:15, TEXT:0131] 　　・・・ねぇ
+
+--- Group 243 [left:none next=0023] ---
+[FID:15, TEXT:0132] 　　ほめられたのはいいんだが
+[FID:15, TEXT:0133] 　　・・・なぁ
+
+--- Group 244 [left:none next=0023] ---
+[FID:15, TEXT:0132] 　　ほめられたのはいいんだが
+[FID:15, TEXT:0133] 　　・・・なぁ
+
+--- Group 245 [right:char_0012 next=0023] ---
+[FID:15, TEXT:0132] 　　ほめられたのはいいんだが
+[FID:15, TEXT:0133] 　　・・・なぁ
+
+--- Group 246 [left:none next=0023] ---
+[FID:15, TEXT:0132] 　　ほめられたのはいいんだが
+[FID:15, TEXT:0133] 　　・・・なぁ
+
+--- Group 247 [left:none next=0023] ---
+[FID:15, TEXT:0134] 　　　ほめてくれたのは
+[FID:15, TEXT:0138] 　　　嬉しかったけど・・・
+
+--- Group 248 [left:none next=0023] ---
+[FID:15, TEXT:0134] 　　　ほめてくれたのは
+[FID:15, TEXT:0135] 　　　嬉しいけど・・・
+
+--- Group 249 [left:none next=0023] ---
+[FID:15, TEXT:0134] 　　　ほめてくれたのは
+[FID:15, TEXT:0135] 　　　嬉しいけど・・・
+
+--- Group 250 [left:none next=0023] ---
+[FID:15, TEXT:0134] 　　　ほめてくれたのは
+[FID:15, TEXT:0138] 　　　嬉しかったけど・・・
+
+--- Group 251 [right:char_0012 next=0023] ---
+[FID:15, TEXT:0134] 　　　ほめてくれたのは
+[FID:15, TEXT:0135] 　　　嬉しいけど・・・
+
+--- Group 252 [right:char_0012 next=0023] ---
+[FID:15, TEXT:0134] 　　　ほめてくれたのは
+[FID:15, TEXT:0138] 　　　嬉しかったけど・・・
+
+--- Group 253 [left:none next=0023] ---
+[FID:15, TEXT:0134] 　　　ほめてくれたのは
+[FID:15, TEXT:0135] 　　　嬉しいけど・・・
+
+--- Group 254 [left:none next=0023] ---
+[FID:15, TEXT:0134] 　　　ほめてくれたのは
+[FID:15, TEXT:0138] 　　　嬉しかったけど・・・
+
+--- Group 255 [left:none next=0023] ---
+[FID:15, TEXT:0136] 　　　　ほめられたのは
+[FID:15, TEXT:0137] 　　　　嬉しいけど・・・
+
+--- Group 256 [right:char_0012 next=0023] ---
+[FID:15, TEXT:0136] 　　　　ほめられたのは
+[FID:15, TEXT:0137] 　　　　嬉しいけど・・・
+
+--- Group 257 [left:none next=0023] ---
+[FID:15, TEXT:0136] 　　　　ほめられたのは
+[FID:15, TEXT:0137] 　　　　嬉しいけど・・・
+
+--- Group 258 [left:none next=0023] ---
+[FID:15, TEXT:0136] 　　　　ほめられたのは
+[FID:15, TEXT:0137] 　　　　嬉しいけど・・・
+
+--- Group 259 [left:none next=0023] ---
+[FID:15, TEXT:0139] 　　あの子なりに俺のことを
+[FID:15, TEXT:013A] 　　心配しててくれたんだなぁ
+
+--- Group 260 [right:char_0012 next=0023] ---
+[FID:15, TEXT:0139] 　　あの子なりに俺のことを
+[FID:15, TEXT:013A] 　　心配しててくれたんだなぁ
+
+--- Group 261 [left:none next=0023] ---
+[FID:15, TEXT:0139] 　　あの子なりに俺のことを
+[FID:15, TEXT:013A] 　　心配しててくれたんだなぁ
+
+--- Group 262 [left:none next=0023] ---
+[FID:15, TEXT:0139] 　　あの子なりに俺のことを
+[FID:15, TEXT:013A] 　　心配しててくれたんだなぁ
+
+--- Group 263 [left:none next=0023] ---
+[FID:15, TEXT:013B] 　　あの子なりに僕のことを
+[FID:15, TEXT:013C] 　　心配しててくれたんだな
+
+--- Group 264 [left:none next=0023] ---
+[FID:15, TEXT:013B] 　　あの子なりに僕のことを
+[FID:15, TEXT:013C] 　　心配しててくれたんだな
+
+--- Group 265 [left:none next=0023] ---
+[FID:15, TEXT:013B] 　　あの子なりに僕のことを
+[FID:15, TEXT:013C] 　　心配しててくれたんだな
+
+--- Group 266 [right:char_0012 next=0023] ---
+[FID:15, TEXT:013B] 　　あの子なりに僕のことを
+[FID:15, TEXT:013C] 　　心配しててくれたんだな
+
+--- Group 267 [left:none next=0023] ---
+[FID:15, TEXT:013D] 　あたしのこと、あの子なりに
+[FID:15, TEXT:013E] 　心配してくれてたんだね・・・
+
+--- Group 268 [right:char_0012 next=0023] ---
+[FID:15, TEXT:013D] 　あたしのこと、あの子なりに
+[FID:15, TEXT:013E] 　心配してくれてたんだね・・・
+
+--- Group 269 [left:none next=0023] ---
+[FID:15, TEXT:013D] 　あたしのこと、あの子なりに
+[FID:15, TEXT:013E] 　心配してくれてたんだね・・・
+
+--- Group 270 [left:none next=0023] ---
+[FID:15, TEXT:013D] 　あたしのこと、あの子なりに
+[FID:15, TEXT:013E] 　心配してくれてたんだね・・・
+
+--- Group 271 [left:none next=0023] ---
+[FID:15, TEXT:013F] 　あの子なりにわたしを
+[FID:15, TEXT:0140] 　心配しててくれたんですね・・
+
+--- Group 272 [left:none next=0023] ---
+[FID:15, TEXT:013F] 　あの子なりにわたしを
+[FID:15, TEXT:0140] 　心配しててくれたんですね・・
+
+--- Group 273 [right:char_0012 next=0023] ---
+[FID:15, TEXT:013F] 　あの子なりにわたしを
+[FID:15, TEXT:0140] 　心配しててくれたんですね・・
+
+--- Group 274 [left:none next=0023] ---
+[FID:15, TEXT:013F] 　あの子なりにわたしを
+[FID:15, TEXT:0140] 　心配しててくれたんですね・・
 

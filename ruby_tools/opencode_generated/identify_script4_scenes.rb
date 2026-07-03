@@ -18,7 +18,7 @@ require "set"
 
 SID = 4
 OUT_DIR = File.join(__dir__, "output_full")
-SCENE_VARS = [0xF9]  # 场景派发器
+SCENE_VARS = [0xF9, 0xC7]  # 场景派发器 + 对话块选择器
 
 # 0x95 是多状态机核心, 游戏引擎经多轮循环逐步改变其值。
 # 静态分析无法模拟多轮循环, 故枚举所有有效 c4[0x95] 值,
