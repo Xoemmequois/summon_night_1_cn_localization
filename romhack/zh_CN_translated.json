@@ -5667,7 +5667,8 @@
   {
     "key": "0007-0156",
     "original": "そこにいるのは誰！？",
-    "translation": "在那里的是谁！？"
+    "translation": "在那里的是谁！？",
+    "stage": 3
   },
   {
     "key": "0008-0001",
@@ -17978,1117 +17979,1340 @@
   {
     "key": "0017-0001",
     "original": "お、覚えてやがれ！！",
-    "translation": ""
+    "translation": "喂，给我记住！！",
+    "stage": 3
   },
   {
     "key": "0017-0002",
     "original": "ケッ！",
-    "translation": ""
+    "translation": "切！",
+    "stage": 3
   },
   {
     "key": "0017-0003",
     "original": "負け犬が吠えてやがる",
-    "translation": ""
+    "translation": "丧家犬在狂吠",
+    "stage": 3
   },
   {
     "key": "0017-0004",
     "original": "それにしても・・・",
-    "translation": ""
+    "translation": "不过话说回来……",
+    "stage": 3
   },
   {
     "key": "0017-0005",
     "original": "意外にやるな、おまえ",
-    "translation": ""
+    "translation": "你倒是挺能打的嘛",
+    "stage": 3
   },
   {
     "key": "0017-0006",
     "original": "いや",
-    "translation": ""
+    "translation": "不",
+    "stage": 3
   },
   {
     "key": "0017-0007",
     "original": "正直言って、自分でも",
-    "translation": ""
+    "translation": "说实话，连我自己",
+    "stage": 3
   },
   {
     "key": "0017-0008",
     "original": "不思議なくらいだよ",
-    "translation": ""
+    "translation": "都觉得不可思议",
+    "stage": 3
   },
   {
     "key": "0017-0009",
     "original": "よくわからないけど、",
-    "translation": ""
+    "translation": "虽然不太清楚，",
+    "stage": 3
   },
   {
     "key": "0017-0010",
     "original": "身体が勝手に戦い方を",
-    "translation": ""
+    "translation": "身体好像自己",
+    "stage": 3
   },
   {
     "key": "0017-0011",
     "original": "覚えてるみたいで",
-    "translation": ""
+    "translation": "就记住了怎么战斗",
+    "stage": 3
   },
   {
     "key": "0017-0012",
     "original": "正直に言えば、あまり",
-    "translation": ""
+    "translation": "老实说，我其实",
+    "stage": 3
   },
   {
     "key": "0017-0013",
     "original": "喧嘩は得意じゃないが",
-    "translation": ""
+    "translation": "不太擅长打架",
+    "stage": 3
   },
   {
     "key": "0017-0014",
     "original": "どういうわけか、身体",
-    "translation": ""
+    "translation": "不知为何，身体",
+    "stage": 3
   },
   {
     "key": "0017-0015",
     "original": "が勝手に動いてくれた",
-    "translation": ""
+    "translation": "就自己动起来了",
+    "stage": 3
   },
   {
     "key": "0017-0016",
     "original": "みたいなんだ",
-    "translation": ""
+    "translation": "的感觉",
+    "stage": 3
   },
   {
     "key": "0017-0017",
     "original": "うん・・・なんか",
-    "translation": ""
+    "translation": "嗯……总觉得",
+    "stage": 3
   },
   {
     "key": "0017-0018",
     "original": "よくわかんない",
-    "translation": ""
+    "translation": "搞不太懂",
+    "stage": 3
   },
   {
     "key": "0017-0019",
     "original": "んだけど・・・",
-    "translation": ""
+    "translation": "啊……",
+    "stage": 3
   },
   {
     "key": "0017-0020",
     "original": "なんか",
-    "translation": ""
+    "translation": "总觉得",
+    "stage": 3
   },
   {
     "key": "0017-0021",
     "original": "正直言うと、自分でも",
-    "translation": ""
+    "translation": "说实话，连我自己",
+    "stage": 3
   },
   {
     "key": "0017-0022",
     "original": "不思議なんです",
-    "translation": ""
+    "translation": "都觉得不可思议",
+    "stage": 3
   },
   {
     "key": "0017-0023",
     "original": "へへっ",
-    "translation": ""
+    "translation": "嘿嘿",
+    "stage": 3
   },
   {
     "key": "0017-0024",
     "original": "まあ何にせよ、おかげ",
-    "translation": ""
+    "translation": "不管怎么说，多亏了你",
+    "stage": 3
   },
   {
     "key": "0017-0025",
     "original": "で楽させてもらえたぜ",
-    "translation": ""
+    "translation": "我也轻松了不少",
+    "stage": 3
   },
   {
     "key": "0017-0026",
     "original": "へへっ、ありがとよ",
-    "translation": ""
+    "translation": "嘿嘿，谢啦",
+    "stage": 3
   },
   {
     "key": "0017-0027",
     "original": "さあ、帰ろうぜ",
-    "translation": ""
+    "translation": "好了，我们回去吧",
+    "stage": 3
   },
   {
     "key": "0017-0028",
     "original": "リプレのやつが心配",
-    "translation": ""
+    "translation": "莉普蕾那家伙",
+    "stage": 3
   },
   {
     "key": "0017-0029",
     "original": "してるだろうからな",
-    "translation": ""
+    "translation": "肯定在担心呢",
+    "stage": 3
   },
   {
     "key": "0017-0030",
     "original": "二人とも、大丈夫！？",
-    "translation": ""
+    "translation": "你们两个，没事吧！？",
+    "stage": 3
   },
   {
     "key": "0017-0031",
     "original": "ケガはない！？",
-    "translation": ""
+    "translation": "没受伤吧！？",
+    "stage": 3
   },
   {
     "key": "0017-0032",
     "original": "ピンピンしてるぜ",
-    "translation": ""
+    "translation": "精神着呢",
+    "stage": 3
   },
   {
     "key": "0017-0033",
     "original": "なあ？",
-    "translation": ""
+    "translation": "对吧？",
+    "stage": 3
   },
   {
     "key": "0017-0034",
     "original": "ああ、平気だよ",
-    "translation": ""
+    "translation": "啊，没事的",
+    "stage": 3
   },
   {
     "key": "0017-0035",
     "original": "ああ、平気だ",
-    "translation": ""
+    "translation": "啊，没事",
+    "stage": 3
   },
   {
     "key": "0017-0036",
     "original": "うん、平気平気！",
-    "translation": ""
+    "translation": "嗯，没事没事！",
+    "stage": 3
   },
   {
     "key": "0017-0037",
     "original": "はい平気です",
-    "translation": ""
+    "translation": "是，没事",
+    "stage": 3
   },
   {
     "key": "0017-0038",
     "original": "・・・良かったぁ",
-    "translation": ""
+    "translation": "……太好了",
+    "stage": 3
   },
   {
     "key": "0017-0039",
     "original": "本当にもう、",
-    "translation": ""
+    "translation": "真是的，",
+    "stage": 3
   },
   {
     "key": "0017-0040",
     "original": "心配したんだからね！",
-    "translation": ""
+    "translation": "我可担心死了！",
+    "stage": 3
   },
   {
     "key": "0017-0041",
     "original": "レイドとエドスにも、",
-    "translation": ""
+    "translation": "对雷德和艾多斯，",
+    "stage": 3
   },
   {
     "key": "0017-0042",
     "original": "あとでちゃんとお礼を",
-    "translation": ""
+    "translation": "之后也要好好",
+    "stage": 3
   },
   {
     "key": "0017-0043",
     "original": "言っておくのよ？",
-    "translation": ""
+    "translation": "道谢哦？",
+    "stage": 3
   },
   {
     "key": "0017-0044",
     "original": "って、あいつらは？",
-    "translation": ""
+    "translation": "话说，他们俩呢？",
+    "stage": 3
   },
   {
     "key": "0017-0045",
     "original": "え、一緒じゃないの？",
-    "translation": ""
+    "translation": "诶，没在一起吗？",
+    "stage": 3
   },
   {
     "key": "0017-0046",
     "original": "すれ違っちまったのか",
-    "translation": ""
+    "translation": "是走岔了吗",
+    "stage": 3
   },
   {
     "key": "0017-0047",
     "original": "しゃあねぇな・・・",
-    "translation": ""
+    "translation": "真是没办法啊……",
+    "stage": 3
   },
   {
     "key": "0017-0048",
     "original": "俺とお前で手分けして",
-    "translation": ""
+    "translation": "我和你分头去找",
+    "stage": 3
   },
   {
     "key": "0017-0049",
     "original": "呼びにいくか",
-    "translation": ""
+    "translation": "把他们叫回来吧",
+    "stage": 3
   },
   {
     "key": "0017-0050",
     "original": "誰を捜そう？",
-    "translation": ""
+    "translation": "找谁呢？",
+    "stage": 3
   },
   {
     "key": "0017-0051",
     "original": "　レイドを捜す",
-    "translation": ""
+    "translation": "　找雷德",
+    "stage": 3
   },
   {
     "key": "0017-0052",
     "original": "　エドスを捜す",
-    "translation": ""
+    "translation": "　找艾多斯",
+    "stage": 3
   },
   {
     "key": "0017-0053",
     "original": "よし、そんじゃ",
-    "translation": ""
+    "translation": "好，那",
+    "stage": 3
   },
   {
     "key": "0017-0054",
     "original": "レイドの方は頼んだぜ",
-    "translation": ""
+    "translation": "雷德那边就拜托了",
+    "stage": 3
   },
   {
     "key": "0017-0055",
     "original": "エドスの方は頼んだぜ",
-    "translation": ""
+    "translation": "艾多斯那边就拜托了",
+    "stage": 3
   },
   {
     "key": "0017-0056",
     "original": "ここにはいないな",
-    "translation": ""
+    "translation": "不在这里啊",
+    "stage": 3
   },
   {
     "key": "0017-0057",
     "original": "別の場所を探そう",
-    "translation": ""
+    "translation": "去别的地方找找吧",
+    "stage": 3
   },
   {
     "key": "0017-0058",
     "original": "ここにはいないみたい",
-    "translation": ""
+    "translation": "好像不在这里",
+    "stage": 3
   },
   {
     "key": "0017-0059",
     "original": "別の場所かな？",
-    "translation": ""
+    "translation": "在别的地方吗？",
+    "stage": 3
   },
   {
     "key": "0017-0060",
     "original": "ここにはいませんね",
-    "translation": ""
+    "translation": "不在这里呢",
+    "stage": 3
   },
   {
     "key": "0017-0061",
     "original": "別の場所を探した方が",
-    "translation": ""
+    "translation": "看来还是",
+    "stage": 3
   },
   {
     "key": "0017-0062",
     "original": "いいみたいですね",
-    "translation": ""
+    "translation": "去别的地方找找比较好",
+    "stage": 3
   },
   {
     "key": "0017-0063",
     "original": "以前はここで",
-    "translation": ""
+    "translation": "以前这里",
+    "stage": 3
   },
   {
     "key": "0017-0064",
     "original": "お祭りが行われて",
-    "translation": ""
+    "translation": "举办过",
+    "stage": 3
   },
   {
     "key": "0017-0065",
     "original": "いたんですよね",
-    "translation": ""
+    "translation": "祭典对吧",
+    "stage": 3
   },
   {
     "key": "0017-0066",
     "original": "祭りか・・・",
-    "translation": ""
+    "translation": "祭典啊……",
+    "stage": 3
   },
   {
     "key": "0017-0067",
     "original": "そういえば、そんなの",
-    "translation": ""
+    "translation": "说起来，还有过",
+    "stage": 3
   },
   {
     "key": "0017-0068",
     "original": "もあったんだな",
-    "translation": ""
+    "translation": "那种事呢",
+    "stage": 3
   },
   {
     "key": "0017-0069",
     "original": "どうしてやらなくなっ",
-    "translation": ""
+    "translation": "为什么",
+    "stage": 3
   },
   {
     "key": "0017-0070",
     "original": "たんですか？",
-    "translation": ""
+    "translation": "不办了呢？",
+    "stage": 3
   },
   {
     "key": "0017-0071",
     "original": "てしまったんですか？",
-    "translation": ""
+    "translation": "不再办了呢？",
+    "stage": 3
   },
   {
     "key": "0017-0072",
     "original": "どうしてやらなく",
-    "translation": ""
+    "translation": "为什么后来",
+    "stage": 3
   },
   {
     "key": "0017-0073",
     "original": "なっちゃったんです？",
-    "translation": ""
+    "translation": "不办了呢？",
+    "stage": 3
   },
   {
     "key": "0017-0074",
     "original": "なったんですか？",
-    "translation": ""
+    "translation": "不办了呢？",
+    "stage": 3
   },
   {
     "key": "0017-0075",
     "original": "領主さまに、祭りを",
-    "translation": ""
+    "translation": "因为曾经有人向领主大",
+    "stage": 3
   },
   {
     "key": "0017-0076",
     "original": "やめるように進言した",
-    "translation": ""
+    "translation": "人进言建议停办祭典",
+    "stage": 3
   },
   {
     "key": "0017-0077",
     "original": "者たちがいたのさ",
-    "translation": ""
+    "translation": "",
+    "stage": 3
   },
   {
     "key": "0017-0078",
     "original": "無意味なことは省いて",
-    "translation": ""
+    "translation": "说应该省去那些无意义",
+    "stage": 3
   },
   {
     "key": "0017-0079",
     "original": "いくべきだ・・・とね",
-    "translation": ""
+    "translation": "的事……之类的",
+    "stage": 3
   },
   {
     "key": "0017-0080",
     "original": "無意味だなんて！",
-    "translation": ""
+    "translation": "怎么能说是无意义呢！",
+    "stage": 3
   },
   {
     "key": "0017-0081",
     "original": "無意味だなんて、",
-    "translation": ""
+    "translation": "我不觉得",
+    "stage": 3
   },
   {
     "key": "0017-0082",
     "original": "僕は思いませんけど",
-    "translation": ""
+    "translation": "那是无意义的事",
+    "stage": 3
   },
   {
     "key": "0017-0083",
     "original": "無意味ぃ？？？",
-    "translation": ""
+    "translation": "无意义？？？",
+    "stage": 3
   },
   {
     "key": "0017-0084",
     "original": "そんなわけ",
-    "translation": ""
+    "translation": "怎么可能",
+    "stage": 3
   },
   {
     "key": "0017-0085",
     "original": "ないじゃない！",
-    "translation": ""
+    "translation": "会没意义啊！",
+    "stage": 3
   },
   {
     "key": "0017-0086",
     "original": "そんなことありません",
-    "translation": ""
+    "translation": "才不是那样呢",
+    "stage": 3
   },
   {
     "key": "0017-0087",
     "original": "ああ",
-    "translation": ""
+    "translation": "啊",
+    "stage": 3
   },
   {
     "key": "0017-0088",
     "original": "君の言うとおりだよ",
-    "translation": ""
+    "translation": "你说得对",
+    "stage": 3
   },
   {
     "key": "0017-0089",
     "original": "無意味なはずがない",
-    "translation": ""
+    "translation": "不可能没有意义",
+    "stage": 3
   },
   {
     "key": "0017-0090",
     "original": "だけど、彼らの決めた",
-    "translation": ""
+    "translation": "但是，他们决定的事",
+    "stage": 3
   },
   {
     "key": "0017-0091",
     "original": "ことは絶対なんだよ",
-    "translation": ""
+    "translation": "是绝对的啊",
+    "stage": 3
   },
   {
     "key": "0017-0092",
     "original": "そんな・・・",
-    "translation": ""
+    "translation": "怎么会……",
+    "stage": 3
   },
   {
     "key": "0017-0093",
     "original": "・・・",
-    "translation": ""
+    "translation": "……",
+    "stage": 3
   },
   {
     "key": "0017-0094",
     "original": "ひどい・・・",
-    "translation": ""
+    "translation": "太过分了……",
+    "stage": 3
   },
   {
     "key": "0017-0095",
     "original": "レイドさんは、お城に",
-    "translation": ""
+    "translation": "雷德先生，你以前在城",
+    "stage": 3
   },
   {
     "key": "0017-0096",
     "original": "勤めてたんでしたね",
-    "translation": ""
+    "translation": "堡工作过吧",
+    "stage": 3
   },
   {
     "key": "0017-0097",
     "original": "勤めていたんですね",
-    "translation": ""
+    "translation": "堡工作过呢",
+    "stage": 3
   },
   {
     "key": "0017-0098",
     "original": "おつとめしてた",
-    "translation": ""
+    "translation": "堡工作过的",
+    "stage": 3
   },
   {
     "key": "0017-0099",
     "original": "んでしょ？",
-    "translation": ""
+    "translation": "对吧？",
+    "stage": 3
   },
   {
     "key": "0017-0100",
     "original": "ああ・・・",
-    "translation": ""
+    "translation": "啊……",
+    "stage": 3
   },
   {
     "key": "0017-0101",
     "original": "そんなに長いことでは",
-    "translation": ""
+    "translation": "不过也没干",
+    "stage": 3
   },
   {
     "key": "0017-0102",
     "original": "ないんだけれどね",
-    "translation": ""
+    "translation": "多久就是了",
+    "stage": 3
   },
   {
     "key": "0017-0103",
     "original": "どうして辞めたのか、",
-    "translation": ""
+    "translation": "虽然想问",
+    "stage": 3
   },
   {
     "key": "0017-0104",
     "original": "聞きたいけど・・・",
-    "translation": ""
+    "translation": "为什么辞职……",
+    "stage": 3
   },
   {
     "key": "0017-0105",
     "original": "今はまだ",
-    "translation": ""
+    "translation": "现在还是",
+    "stage": 3
   },
   {
     "key": "0017-0106",
     "original": "聞かないほうが",
-    "translation": ""
+    "translation": "别问比较好啊……",
+    "stage": 3
   },
   {
     "key": "0017-0107",
     "original": "よさそうだな・・・",
-    "translation": ""
+    "translation": "",
+    "stage": 3
   },
   {
     "key": "0017-0108",
     "original": "でも、どうして辞めて",
-    "translation": ""
+    "translation": "但是，他到底为什么",
+    "stage": 3
   },
   {
     "key": "0017-0109",
     "original": "しまったんだろうか",
-    "translation": ""
+    "translation": "辞职了呢",
+    "stage": 3
   },
   {
     "key": "0017-0110",
     "original": "機会を見つけて、話を",
-    "translation": ""
+    "translation": "找个机会",
+    "stage": 3
   },
   {
     "key": "0017-0111",
     "original": "聞いてみよう・・・",
-    "translation": ""
+    "translation": "问问看吧……",
+    "stage": 3
   },
   {
     "key": "0017-0112",
     "original": "なんか、今はまだ",
-    "translation": ""
+    "translation": "总觉得，现在还是",
+    "stage": 3
   },
   {
     "key": "0017-0113",
     "original": "いいかも・・・",
-    "translation": ""
+    "translation": "比较好……",
+    "stage": 3
   },
   {
     "key": "0017-0114",
     "original": "聞かないほうがよさそ",
-    "translation": ""
+    "translation": "别问比较",
+    "stage": 3
   },
   {
     "key": "0017-0115",
     "original": "そうですね・・・",
-    "translation": ""
+    "translation": "好吧……",
+    "stage": 3
   },
   {
     "key": "0017-0116",
     "original": "そろそろ帰ろう",
-    "translation": ""
+    "translation": "差不多该回去了",
+    "stage": 3
   },
   {
     "key": "0017-0117",
     "original": "リプレたちが",
-    "translation": ""
+    "translation": "不然莉普蕾她们",
+    "stage": 3
   },
   {
     "key": "0017-0118",
     "original": "心配するといけない",
-    "translation": ""
+    "translation": "该担心了",
+    "stage": 3
   },
   {
     "key": "0017-0119",
     "original": "あ・・・いた！",
-    "translation": ""
+    "translation": "啊……找到了！",
+    "stage": 3
   },
   {
     "key": "0017-0120",
     "original": "レイドさーん！！",
-    "translation": ""
+    "translation": "雷德先生！！",
+    "stage": 3
   },
   {
     "key": "0017-0121",
     "original": "あそこだな・・・",
-    "translation": ""
+    "translation": "在那边啊……",
+    "stage": 3
   },
   {
     "key": "0017-0122",
     "original": "レイドさーん！",
-    "translation": ""
+    "translation": "雷德先生！",
+    "stage": 3
   },
   {
     "key": "0017-0123",
     "original": "あ・・・発見！",
-    "translation": ""
+    "translation": "啊……找到了！",
+    "stage": 3
   },
   {
     "key": "0017-0124",
     "original": "あ、あの人・・・",
-    "translation": ""
+    "translation": "啊，那个人……",
+    "stage": 3
   },
   {
     "key": "0017-0125",
     "original": "無事だったようだね",
-    "translation": ""
+    "translation": "看来你没事啊",
+    "stage": 3
   },
   {
     "key": "0017-0126",
     "original": "リプレが飛びこんで",
-    "translation": ""
+    "translation": "莉普蕾冲进来的时候",
+    "stage": 3
   },
   {
     "key": "0017-0127",
     "original": "きた時は、あせったよ",
-    "translation": ""
+    "translation": "可真把我吓到了",
+    "stage": 3
   },
   {
     "key": "0017-0128",
     "original": "すいません",
-    "translation": ""
+    "translation": "对不起",
+    "stage": 3
   },
   {
     "key": "0017-0129",
     "original": "迷惑かけちゃって",
-    "translation": ""
+    "translation": "给您添麻烦了",
+    "stage": 3
   },
   {
     "key": "0017-0130",
     "original": "どうもすいません",
-    "translation": ""
+    "translation": "真是太抱歉了",
+    "stage": 3
   },
   {
     "key": "0017-0131",
     "original": "迷惑をかけてしまって",
-    "translation": ""
+    "translation": "给您添麻烦了",
+    "stage": 3
   },
   {
     "key": "0017-0132",
     "original": "ごめんなさい",
-    "translation": ""
+    "translation": "对不起",
+    "stage": 3
   },
   {
     "key": "0017-0133",
     "original": "ご迷惑おかけして",
-    "translation": ""
+    "translation": "给您添麻烦了",
+    "stage": 3
   },
   {
     "key": "0017-0134",
     "original": "ははは",
-    "translation": ""
+    "translation": "哈哈哈",
+    "stage": 3
   },
   {
     "key": "0017-0135",
     "original": "無事ならそれでいいさ",
-    "translation": ""
+    "translation": "没事就好",
+    "stage": 3
   },
   {
     "key": "0017-0136",
     "original": "どうしよう？",
-    "translation": ""
+    "translation": "怎么办？",
+    "stage": 3
   },
   {
     "key": "0017-0137",
     "original": "　寄り道していく",
-    "translation": ""
+    "translation": "　绕个路再走",
+    "stage": 3
   },
   {
     "key": "0017-0138",
     "original": "　さっさと帰る",
-    "translation": ""
+    "translation": "　赶紧回去",
+    "stage": 3
   },
   {
     "key": "0017-0139",
     "original": "少しだけ寄り道しても",
-    "translation": ""
+    "translation": "稍微绕个路",
+    "stage": 3
   },
   {
     "key": "0017-0140",
     "original": "いいですか？",
-    "translation": ""
+    "translation": "可以吗？",
+    "stage": 3
   },
   {
     "key": "0017-0141",
     "original": "別にかまわないよ",
-    "translation": ""
+    "translation": "我倒是不介意",
+    "stage": 3
   },
   {
     "key": "0017-0142",
     "original": "あまり遅く",
-    "translation": ""
+    "translation": "只要别太晚",
+    "stage": 3
   },
   {
     "key": "0017-0143",
     "original": "ならなければね",
-    "translation": ""
+    "translation": "就行",
+    "stage": 3
   },
   {
     "key": "0017-0144",
     "original": "いないなぁ",
-    "translation": ""
+    "translation": "不在啊……",
+    "stage": 3
   },
   {
     "key": "0017-0145",
     "original": "川が汚れちまったのは",
-    "translation": ""
+    "translation": "河水被弄脏",
+    "stage": 3
   },
   {
     "key": "0017-0146",
     "original": "つい最近だよ",
-    "translation": ""
+    "translation": "也就是最近的事",
+    "stage": 3
   },
   {
     "key": "0017-0147",
     "original": "あっちに大きな工場が",
-    "translation": ""
+    "translation": "那边有好多大工厂",
+    "stage": 3
   },
   {
     "key": "0017-0148",
     "original": "並んでるだろう？",
-    "translation": ""
+    "translation": "排成一排，对吧？",
+    "stage": 3
   },
   {
     "key": "0017-0149",
     "original": "あそこで染め物に使っ",
-    "translation": ""
+    "translation": "那里用来染布的",
+    "stage": 3
   },
   {
     "key": "0017-0150",
     "original": "た汚水が、どんどん",
-    "translation": ""
+    "translation": "污水，不断地",
+    "stage": 3
   },
   {
     "key": "0017-0151",
     "original": "川に捨てられてる",
-    "translation": ""
+    "translation": "被排放到河里",
+    "stage": 3
   },
   {
     "key": "0017-0152",
     "original": "川の水が毒になって、",
-    "translation": ""
+    "translation": "河水变成了毒水，",
+    "stage": 3
   },
   {
     "key": "0017-0153",
     "original": "下流はほとんど荒野に",
-    "translation": ""
+    "translation": "下游几乎都变成了荒野",
+    "stage": 3
   },
   {
     "key": "0017-0154",
     "original": "なっちまった",
-    "translation": ""
+    "translation": "了",
+    "stage": 3
   },
   {
     "key": "0017-0155",
     "original": "前は一面の草原だった",
-    "translation": ""
+    "translation": "以前还是一片草原",
+    "stage": 3
   },
   {
     "key": "0017-0156",
     "original": "のにな・・・",
-    "translation": ""
+    "translation": "来着……",
+    "stage": 3
   },
   {
     "key": "0017-0157",
     "original": "そろそろ夕暮れだけど",
-    "translation": ""
+    "translation": "虽然快到黄昏了",
+    "stage": 3
   },
   {
     "key": "0017-0158",
     "original": "工場はまだ動いてる",
-    "translation": ""
+    "translation": "工厂还在运转",
+    "stage": 3
   },
   {
     "key": "0017-0159",
     "original": "みたいだな",
-    "translation": ""
+    "translation": "的样子啊",
+    "stage": 3
   },
   {
     "key": "0017-0160",
     "original": "ずいぶんと遅くまで、",
-    "translation": ""
+    "translation": "都这么晚了，",
+    "stage": 3
   },
   {
     "key": "0017-0161",
     "original": "どの工場も動いている",
-    "translation": ""
+    "translation": "每个工厂都还在运转",
+    "stage": 3
   },
   {
     "key": "0017-0162",
     "original": "んですね",
-    "translation": ""
+    "translation": "呢",
+    "stage": 3
   },
   {
     "key": "0017-0163",
     "original": "そろそろ夕暮れなのに",
-    "translation": ""
+    "translation": "明明快到黄昏了",
+    "stage": 3
   },
   {
     "key": "0017-0164",
     "original": "工場ってば、まだ",
-    "translation": ""
+    "translation": "工厂啊，还在",
+    "stage": 3
   },
   {
     "key": "0017-0165",
     "original": "うごいてるんだ",
-    "translation": ""
+    "translation": "运转着呢",
+    "stage": 3
   },
   {
     "key": "0017-0166",
     "original": "みたい・・・",
-    "translation": ""
+    "translation": "的样子……",
+    "stage": 3
   },
   {
     "key": "0017-0167",
     "original": "決められた量の仕事を",
-    "translation": ""
+    "translation": "在完成规定的工作量之",
+    "stage": 3
   },
   {
     "key": "0017-0168",
     "original": "終わらせるまで、",
-    "translation": ""
+    "translation": "前，直到结束为止",
+    "stage": 3
   },
   {
     "key": "0017-0169",
     "original": "工場で働くやつらは",
-    "translation": ""
+    "translation": "在工厂干活的人们",
+    "stage": 3
   },
   {
     "key": "0017-0170",
     "original": "帰れないのさ",
-    "translation": ""
+    "translation": "是回不了家的",
+    "stage": 3
   },
   {
     "key": "0017-0171",
     "original": "ひどいときには、徹夜",
-    "translation": ""
+    "translation": "严重的时候，还会被逼",
+    "stage": 3
   },
   {
     "key": "0017-0172",
     "original": "で作業をさせられる",
-    "translation": ""
+    "translation": "着通宵干活",
+    "stage": 3
   },
   {
     "key": "0017-0173",
     "original": "それって無茶苦茶だ！",
-    "translation": ""
+    "translation": "这也太乱来了！",
+    "stage": 3
   },
   {
     "key": "0017-0174",
     "original": "それは・・・",
-    "translation": ""
+    "translation": "那……",
+    "stage": 3
   },
   {
     "key": "0017-0175",
     "original": "ちょっとひどいな",
-    "translation": ""
+    "translation": "有点过分啊",
+    "stage": 3
   },
   {
     "key": "0017-0176",
     "original": "そんなの労働基準法",
-    "translation": ""
+    "translation": "这不违反",
+    "stage": 3
   },
   {
     "key": "0017-0177",
     "original": "違反じゃない",
-    "translation": ""
+    "translation": "劳动基准法吗",
+    "stage": 3
   },
   {
     "key": "0017-0178",
     "original": "それって無茶苦茶じゃ",
-    "translation": ""
+    "translation": "这也太乱来了",
+    "stage": 3
   },
   {
     "key": "0017-0179",
     "original": "ないですか",
-    "translation": ""
+    "translation": "不是吗？",
+    "stage": 3
   },
   {
     "key": "0017-0180",
     "original": "お前さんのいた世界と",
-    "translation": ""
+    "translation": "你之前所在的世界",
+    "stage": 3
   },
   {
     "key": "0017-0181",
     "original": "ここは、ずいぶん違う",
-    "translation": ""
+    "translation": "和这里，好像很不一样",
+    "stage": 3
   },
   {
     "key": "0017-0182",
     "original": "らしいなぁ",
-    "translation": ""
+    "translation": "啊",
+    "stage": 3
   },
   {
     "key": "0017-0183",
     "original": "けどな、ここではそれ",
-    "translation": ""
+    "translation": "但是呢，在这里",
+    "stage": 3
   },
   {
     "key": "0017-0184",
     "original": "が当たり前なんだよ",
-    "translation": ""
+    "translation": "那是理所当然的",
+    "stage": 3
   },
   {
     "key": "0017-0185",
     "original": "そろそろ戻らんか？",
-    "translation": ""
+    "translation": "差不多该回去了吧？",
+    "stage": 3
   },
   {
     "key": "0017-0186",
     "original": "ワシは腹が減って",
-    "translation": ""
+    "translation": "我肚子都饿了",
+    "stage": 3
   },
   {
     "key": "0017-0187",
     "original": "きちまったよ",
-    "translation": ""
+    "translation": "啊",
+    "stage": 3
   },
   {
     "key": "0017-0188",
     "original": "ああ、見つけた",
-    "translation": ""
+    "translation": "啊，找到了",
+    "stage": 3
   },
   {
     "key": "0017-0189",
     "original": "あ・・・エドスさん！",
-    "translation": ""
+    "translation": "啊……艾多斯先生！",
+    "stage": 3
   },
   {
     "key": "0017-0190",
     "original": "おお、無事だったか",
-    "translation": ""
+    "translation": "哦，你没事啊",
+    "stage": 3
   },
   {
     "key": "0017-0191",
     "original": "ええ",
-    "translation": ""
+    "translation": "嗯",
+    "stage": 3
   },
   {
     "key": "0017-0192",
     "original": "ガゼルのおかげで",
-    "translation": ""
+    "translation": "多亏了加泽尔",
+    "stage": 3
   },
   {
     "key": "0017-0193",
     "original": "はい、ガゼルさんの",
-    "translation": ""
+    "translation": "是的，多亏了加泽尔先",
+    "stage": 3
   },
   {
     "key": "0017-0194",
     "original": "おかげで・・・",
-    "translation": ""
+    "translation": "生的帮助……",
+    "stage": 3
   },
   {
     "key": "0017-0195",
     "original": "やれやれ・・・",
-    "translation": ""
+    "translation": "哎呀呀……",
+    "stage": 3
   },
   {
     "key": "0017-0196",
     "original": "先に挑発に乗ったの",
-    "translation": ""
+    "translation": "先被挑衅激怒的",
+    "stage": 3
   },
   {
     "key": "0017-0197",
     "original": "もあいつだろう？",
-    "translation": ""
+    "translation": "也是那家伙吧？",
+    "stage": 3
   },
   {
     "key": "0017-0198",
     "original": "仕方がないやつだ",
-    "translation": ""
+    "translation": "真是拿他没办法",
+    "stage": 3
   },
   {
     "key": "0017-0199",
     "original": "まあ、無事にすんだ",
-    "translation": ""
+    "translation": "嘛，平安无事地解决了",
+    "stage": 3
   },
   {
     "key": "0017-0200",
     "original": "のならいいがな",
-    "translation": ""
+    "translation": "就好",
+    "stage": 3
   },
   {
     "key": "0017-0201",
     "original": "いいかな？",
-    "translation": ""
+    "translation": "可以吗？",
+    "stage": 3
   },
   {
     "key": "0017-0202",
     "original": "いい？",
-    "translation": ""
+    "translation": "行吗？",
+    "stage": 3
   },
   {
     "key": "0017-0203",
     "original": "別にかまわんよ",
-    "translation": ""
+    "translation": "我倒是不介意",
+    "stage": 3
   },
   {
     "key": "0017-0204",
     "original": "【自分の部屋】",
-    "translation": ""
+    "translation": "【自己的房间】",
+    "stage": 3
   },
   {
     "key": "0017-0205",
     "original": "【リプレと子供部屋】",
-    "translation": ""
+    "translation": "【利普雷和儿童房】",
+    "stage": 3
   },
   {
     "key": "0017-0206",
     "original": "【玄関】",
-    "translation": ""
+    "translation": "【玄关】",
+    "stage": 3
   },
   {
     "key": "0017-0207",
     "original": "【街へ】",
-    "translation": ""
+    "translation": "【去街上】",
+    "stage": 3
   },
   {
     "key": "0017-0208",
     "original": "【レイドの部屋】",
-    "translation": ""
+    "translation": "【雷德的房间】",
+    "stage": 3
   },
   {
     "key": "0017-0209",
     "original": "【ガゼルの部屋】",
-    "translation": ""
+    "translation": "【加泽尔的房间】",
+    "stage": 3
   },
   {
     "key": "0017-0210",
     "original": "【部屋１】",
-    "translation": ""
+    "translation": "【房间１】",
+    "stage": 3
   },
   {
     "key": "0017-0211",
     "original": "【部屋２】",
-    "translation": ""
+    "translation": "【房间２】",
+    "stage": 3
   },
   {
     "key": "0017-0212",
     "original": "【部屋３】",
-    "translation": ""
+    "translation": "【房间３】",
+    "stage": 3
   },
   {
     "key": "0017-0213",
     "original": "【部屋４】",
-    "translation": ""
+    "translation": "【房间４】",
+    "stage": 3
   },
   {
     "key": "0017-0214",
     "original": "【部屋５】",
-    "translation": ""
+    "translation": "【房间５】",
+    "stage": 3
   },
   {
     "key": "0017-0215",
     "original": "【屋根裏部屋】",
-    "translation": ""
+    "translation": "【阁楼房间】",
+    "stage": 3
   },
   {
     "key": "0017-0216",
     "original": "【広間】",
-    "translation": ""
+    "translation": "【大厅】",
+    "stage": 3
   },
   {
     "key": "0017-0217",
     "original": "【庭】",
-    "translation": ""
+    "translation": "【庭院】",
+    "stage": 3
   },
   {
     "key": "0017-0218",
     "original": "【台所】",
-    "translation": ""
+    "translation": "【厨房】",
+    "stage": 3
   },
   {
     "key": "0017-0219",
     "original": "・・・猫？",
-    "translation": ""
+    "translation": "……猫？",
+    "stage": 3
   },
   {
     "key": "0017-0220",
     "original": "この世界にも",
-    "translation": ""
+    "translation": "这个世界也有",
+    "stage": 3
   },
   {
     "key": "0017-0221",
     "original": "猫がいるんだな・・・",
-    "translation": ""
+    "translation": "猫啊……",
+    "stage": 3
   },
   {
     "key": "0017-0222",
     "original": "　放っておく",
-    "translation": ""
+    "translation": "　放着不管",
+    "stage": 3
   },
   {
     "key": "0017-0223",
     "original": "　近づいてみる",
-    "translation": ""
+    "translation": "　靠近看看",
+    "stage": 3
   },
   {
     "key": "0018-0001",
