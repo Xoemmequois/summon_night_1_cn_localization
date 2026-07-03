@@ -1,14 +1,14 @@
---- Group [left:艾多斯 next=2012] ---
+--- Group [left:艾多斯 next=2012] ---G
 しかし、まずいことに
 なっちまったな
-+[FID:12, TEXT:0001] 不过，这下可麻烦了
-+[FID:12, TEXT:0002] 事情闹大了啊
++[FID:12, TEXT:0001] 不过，这下可变成
++[FID:12, TEXT:0002] 麻烦事了啊
 
---- Group [right:雷德 next=2012] ---
+--- Group [right:雷德 next=2012] ---G
 ああ、そうだな
 +[FID:12, TEXT:0003] 啊，是啊
 
---- Group [left:加泽尔 next=2012] ---
+--- Group [left:加泽尔 next=2012] ---G
 ケッ！
 どうせ最初から、お前
 らは俺らを叩きのめす
@@ -18,7 +18,7 @@
 +[FID:12, TEXT:00E7] 就想把我们往死里整
 +[FID:12, TEXT:00E8] 对吧……
 
---- Group [left:加泽尔 next=2012] ---
+--- Group [left:加泽尔 next=2012] ---G
 あいつらが俺らを
 目の仇にしているのは
 今に始まったこと
@@ -28,13 +28,13 @@
 +[FID:12, TEXT:0007] 也不是一天两天
 +[FID:12, TEXT:0008] 的事了吧？
 
---- Group [right:雷德 next=2012] ---
+--- Group [right:雷德 next=2012] ---G
 だが、今までは
 それだけですんでいた
 +[FID:12, TEXT:0009] 但以前
 +[FID:12, TEXT:000A] 也就那样了
 
---- Group [right:雷德 next=2012] ---
+--- Group [right:雷德 next=2012] ---G
 おそらく連中は、今日
 のことを口実にして、
 直接手を出してくる気
@@ -44,21 +44,21 @@
 +[FID:12, TEXT:000D] 直接动手
 +[FID:12, TEXT:000E] 了
 
---- Group [right:艾多斯 next=2012] ---
+--- Group [right:艾多斯 next=2012] ---G
 ワシらだけが狙われる
 のならまだいいが
 +[FID:12, TEXT:000F] 要是只冲着我们
 +[FID:12, TEXT:0010] 来倒还好
 
---- Group [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---G
 ・・・まさか！？
 +[FID:12, TEXT:0011] ……不会吧！？
 
---- Group [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---G
 え・・・まさか？
 +[FID:12, TEXT:0012] 呃……不会吧？
 
---- Group [right:艾多斯 next=2012] ---
+--- Group [right:艾多斯 next=2012] ---G
 ああ
 奴らは女子供であろう
 と、容赦はせん
@@ -66,15 +66,15 @@
 +[FID:12, TEXT:0014] 那些家伙就算对女人孩
 +[FID:12, TEXT:0015] 子也不会手下留情
 
---- Group [right:艾多斯 next=2012] ---
+--- Group [right:艾多斯 next=2012] ---G
 そういう連中なのさ
 +[FID:12, TEXT:0016] 他们就是那种人
 
---- Group [right:加泽尔 next=2012] ---
+--- Group [right:加泽尔 next=2012] ---G
 くそっ！！
 +[FID:12, TEXT:0017] 可恶！！
 
---- Group [left:主人公 next=2012] ---
+--- Group [left:主人公 next=2012] ---G
 そういえば・・・
 【オプテュス】のこと
 あたしは何も知らない
@@ -84,7 +84,7 @@
 +[FID:12, TEXT:0021] 我什么都不知道
 +[FID:12, TEXT:0022] 啊……
 
---- Group [left:主人公 next=2012] ---
+--- Group [left:主人公 next=2012] ---G
 そういえば・・・
 僕は【オプテュス】に
 ついて、何も知らない
@@ -94,7 +94,7 @@
 +[FID:12, TEXT:001A] 一无所知
 +[FID:12, TEXT:001F] ……
 
---- Group [left:主人公 next=2012] ---
+--- Group [left:主人公 next=2012] ---G
 そういえば・・・
 わたし【オプテュス】
 のこと、何も知らない
@@ -104,7 +104,7 @@
 +[FID:12, TEXT:0026] 什么都不知道
 -[FID:12, TEXT:001F] ……
 
---- Group [left:主人公 next=2012] ---
+--- Group [left:主人公 next=2012] ---G
 そういえば・・・
 俺は【オプテュス】に
 ついて、何も知らない
@@ -114,25 +114,25 @@
 -[FID:12, TEXT:001A] 一无所知
 +[FID:12, TEXT:001B] 来着
 
---- Group [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---G
 くわしく聞いておいた
 ほうが良さそうですね
 +[FID:12, TEXT:001C] 还是详细问问
 +[FID:12, TEXT:0027] 比较好呢
 
---- Group [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---G
 くわしく聞いておいた
 ほうが良さそうだな
 -[FID:12, TEXT:001C] 还是详细问问
 +[FID:12, TEXT:001D] 比较好啊
 
---- Group [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---G
 聞いておかなきゃ
 ダメだよね・・・
 +[FID:12, TEXT:0023] 必须得问问
 +[FID:12, TEXT:0024] 才行吧……
 
---- Group [right:巴萨 next=2015] ---
+--- Group [right:巴萨 next=2015] ---G
 どうしよう？
 　黙っている
 　自ら名乗り出る
@@ -140,7 +140,7 @@
 +[FID:12, TEXT:008E] 　保持沉默
 +[FID:12, TEXT:008F] 　自己站出来
 
---- Group [left:主人公 next=2015] ---
+--- Group [left:主人公 next=2015] ---G
 どうしよう？
 　レイドに聞く
 　ガゼルに聞く
@@ -150,19 +150,19 @@
 +[FID:12, TEXT:002A] 　问加泽尔
 +[FID:12, TEXT:002B] 　问艾多斯
 
---- Group [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---G
 【オプテュス】って、
 どんな連中なんです？
 +[FID:12, TEXT:002C] 【奥普提斯】是
 +[FID:12, TEXT:002D] 什么样的家伙？
 
---- Group [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---G
 【オプテュス】って、
 どんな人たちですか？
 -[FID:12, TEXT:002C] 【奥普提斯】是
 +[FID:12, TEXT:0032] 什么样的人？
 
---- Group [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---G
 あの・・・
 【オプテュス】って
 どんな人たち
@@ -172,7 +172,7 @@
 +[FID:12, TEXT:0030] 什么样的人
 +[FID:12, TEXT:0031] 啊？
 
---- Group [right:雷德 next=2012] ---
+--- Group [right:雷德 next=2012] ---G
 バノッサという頭目が
 率いている犯罪集団の
 ことさ
@@ -180,7 +180,7 @@
 +[FID:12, TEXT:0034] 目率领的犯罪集团
 +[FID:12, TEXT:0035] 啊
 
---- Group [right:雷德 next=2012] ---
+--- Group [right:雷德 next=2012] ---G
 繁華街に集まってくる
 ならず者のグループで
 北スラムではそれなり
@@ -190,25 +190,25 @@
 +[FID:12, TEXT:0038] 在北贫民窟也算
 +[FID:12, TEXT:0039] 有点势力
 
---- Group [right:雷德 next=2012] ---
+--- Group [right:雷德 next=2012] ---G
 正直、関わり合いたく
 なかった相手だよ
 +[FID:12, TEXT:003A] 说实话，真不想
 +[FID:12, TEXT:003B] 跟他们扯上关系
 
---- Group [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---G
 そんな物騒な連中
 だったのか・・・！？
 +[FID:12, TEXT:003C] 原来是这么危险的家伙
 +[FID:12, TEXT:003D] 吗……！？
 
---- Group [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---G
 そんな物騒な連中だっ
 たのか・・・
 +[FID:12, TEXT:003E] 原来是这么危险的家伙
 +[FID:12, TEXT:003F] 啊……
 
---- Group [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---G
 うそ、めちゃめちゃ
 アブないひとたち
 だったんだ・・・
@@ -216,19 +216,19 @@
 +[FID:12, TEXT:0041] 危险的人
 +[FID:12, TEXT:0042] 啊……
 
---- Group [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---G
 そんな危険な人たち
 だったんですか・・・
 +[FID:12, TEXT:0043] 原来是这么危险的人
 +[FID:12, TEXT:0044] 吗……
 
---- Group [right:加泽尔 next=2012] ---
+--- Group [right:加泽尔 next=2012] ---G
 連中はスラムの支配者
 をきどってやがる
 +[FID:12, TEXT:0045] 那些家伙自以为是
 +[FID:12, TEXT:0046] 贫民窟的统治者
 
---- Group [right:加泽尔 next=2012] ---
+--- Group [right:加泽尔 next=2012] ---G
 この南スラムも縄張り
 に欲しがっていて、前
 から色々とちょっかい
@@ -238,7 +238,7 @@
 +[FID:12, TEXT:0049] 一直来找茬
 +[FID:12, TEXT:004A] 了
 
---- Group [right:加泽尔 next=2012] ---
+--- Group [right:加泽尔 next=2012] ---G
 今日のことは、連中に
 絶好の口実を与えちま
 ったのかもしれねえ
@@ -246,29 +246,29 @@
 +[FID:12, TEXT:004C] 们绝好的借口
 +[FID:12, TEXT:004D] 了
 
---- Group [right:加泽尔 next=2012] ---
+--- Group [right:加泽尔 next=2012] ---G
 ・・・クソッ！
 +[FID:12, TEXT:004E] ……该死！
 
---- Group [right:艾多斯 next=2012] ---
+--- Group [right:艾多斯 next=2012] ---G
 とにかく相手は徒党を
 組んどるからな
 つけ狙われると面倒な
 ことになる
 +[FID:12, TEXT:004F] 总之对方是拉帮结派的
 +[FID:12, TEXT:0050] 啊
-+[FID:12, TEXT:0051] 被盯上就麻烦了
-+[FID:12, TEXT:0052] 就这么定了
++[FID:12, TEXT:0051] 要是被盯上了
++[FID:12, TEXT:0052] 可就有得麻烦了
 
---- Group [right:艾多斯 next=2012] ---
+--- Group [right:艾多斯 next=2012] ---G
 奴らのずる賢さと執念
 深さはハンパじゃない
 からな
 +[FID:12, TEXT:0053] 他们的狡猾和执着
 +[FID:12, TEXT:0054] 可不是一般的
-+[FID:12, TEXT:0055] 因为啊
++[FID:12, TEXT:0055] 程度啊
 
---- Group [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---G
 街の軍隊に助けを求め
 たりとか、できないん
 ですか？
@@ -276,7 +276,7 @@
 +[FID:12, TEXT:0057] 求助什么的
 +[FID:12, TEXT:0058] 吗？
 
---- Group [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---G
 この街の軍隊とかは、
 彼らを取り締まらない
 んですか？
@@ -284,13 +284,13 @@
 +[FID:12, TEXT:005A] 不管管他们
 +[FID:12, TEXT:005B] 吗？
 
---- Group [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---G
 街の軍隊とかには
 助けてもらえないの？
 +[FID:12, TEXT:005C] 不能找城里的军队
 +[FID:12, TEXT:005D] 帮忙吗？
 
---- Group [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---G
 街の軍隊に助けを
 求めたりとか、
 できないんですか？
@@ -298,7 +298,7 @@
 +[FID:12, TEXT:005F] 求助吗？
 +[FID:12, TEXT:0060] 或者别的什么办法？
 
---- Group [right:艾多斯 next=2012] ---
+--- Group [right:艾多斯 next=2012] ---G
 兵士たちが守る相手は
 きちんと税金を納めて
 いる善良な市民さ
@@ -306,7 +306,7 @@
 +[FID:12, TEXT:0062] 是那些按时纳税的
 +[FID:12, TEXT:0063] 善良市民
 
---- Group [right:艾多斯 next=2012] ---
+--- Group [right:艾多斯 next=2012] ---G
 ワシらのようなスラム
 に隠れ住んでいる奴ら
 など眼中にありゃせん
@@ -314,11 +314,11 @@
 +[FID:12, TEXT:0065] 贫民窟的家伙
 +[FID:12, TEXT:0066] 他们根本不会放在眼里
 
---- Group [left:主人公 next=2012] ---
+--- Group [left:主人公 next=2012] ---G
 そんな・・・
 +[FID:12, TEXT:0067] 怎么会这样……
 
---- Group [right:艾多斯 next=2012] ---
+--- Group [right:艾多斯 next=2012] ---G
 自分の身は自分で守る
 それがスラムで暮らす
 者の常識ってやつさ
@@ -326,7 +326,7 @@
 +[FID:12, TEXT:0069] 这就是在贫民窟
 +[FID:12, TEXT:006A] 生活的常识
 
---- Group [right:雷德 next=2012] ---
+--- Group [right:雷德 next=2012] ---G
 ち、ちょっと！？
 あんたたち、いったい
 何のつもりよっ！！
@@ -334,11 +334,11 @@
 +[FID:12, TEXT:006C] 你们几个
 +[FID:12, TEXT:006D] 到底想干什么！！
 
---- Group [left:加泽尔 next=2012] ---
+--- Group [left:加泽尔 next=2012] ---G
 ・・・来やがった！！
 +[FID:12, TEXT:006E] ……他们来了！！
 
---- Group [right:巴萨 next=2012] ---
+--- Group [right:巴萨 next=2012] ---G
 よォ
 昼間のことで挨拶しに
 来てやったぜ？
@@ -346,11 +346,11 @@
 +[FID:12, TEXT:0070] 我来为白天的事
 +[FID:12, TEXT:0071] 打个招呼啊？
 
---- Group [left:艾多斯 next=2012] ---
+--- Group [left:艾多斯 next=2012] ---G
 バノッサ・・・
 +[FID:12, TEXT:0072] 巴诺萨……
 
---- Group [right:巴萨 next=2012] ---
+--- Group [right:巴萨 next=2012] ---G
 聞けば俺様の子分ども
 を、ずいぶんとかわい
 がってくれたそうじゃ
@@ -360,7 +360,7 @@
 +[FID:12, TEXT:0075] 照顾得挺好啊
 +[FID:12, TEXT:0076] 是不是？
 
---- Group [right:巴萨 next=2012] ---
+--- Group [right:巴萨 next=2012] ---G
 いったいどういうこと
 なのか、きっちり説明
 してもらわねェとな？
@@ -368,7 +368,7 @@
 +[FID:12, TEXT:0078] 得给我好好
 +[FID:12, TEXT:0079] 解释清楚吧？
 
---- Group [left:加泽尔 next=2012] ---
+--- Group [left:加泽尔 next=2012] ---G
 説明も何も、先に俺ら
 にちょっかい出して
 きたのはお前らのほう
@@ -378,13 +378,13 @@
 +[FID:12, TEXT:007C] 来找我们麻烦的
 +[FID:12, TEXT:007D] 不是吗！
 
---- Group [right:巴萨 next=2012] ---
+--- Group [right:巴萨 next=2012] ---G
 きっかけなんざ、関係
 ねェんだよ
 +[FID:12, TEXT:007E] 起因什么的
 +[FID:12, TEXT:007F] 根本不重要
 
---- Group [right:巴萨 next=2012] ---
+--- Group [right:巴萨 next=2012] ---G
 ただ問題なのは、俺様
 のメンツにお前らが泥
 を塗ったってことよ！
@@ -392,11 +392,11 @@
 +[FID:12, TEXT:0081] 你们让老子
 +[FID:12, TEXT:0082] 丢了面子！
 
---- Group [left:雷德 next=2012] ---
+--- Group [left:雷德 next=2012] ---G
 ・・・何が望みだ？
 +[FID:12, TEXT:0083] ……你想要什么？
 
---- Group [right:巴萨 next=2012] ---
+--- Group [right:巴萨 next=2012] ---G
 ことの張本人を、
 俺様に引き渡しな
 今ならそいつの始末だ
@@ -406,11 +406,11 @@
 +[FID:12, TEXT:0086] 现在的话，只收拾他
 +[FID:12, TEXT:0087] 一个就算了
 
---- Group [left:雷德 next=2012] ---
+--- Group [left:雷德 next=2012] ---G
 断る、と言ったら？
 +[FID:12, TEXT:0088] 要是我们说“不”呢？
 
---- Group [right:巴萨 next=2012] ---
+--- Group [right:巴萨 next=2012] ---G
 クククッ
 震えてるわりにカッコ
 イイこと言うなァ？
@@ -418,7 +418,7 @@
 +[FID:12, TEXT:00CC] 明明在发抖
 +[FID:12, TEXT:00CD] 说话还挺拽的嘛？
 
---- Group [right:巴萨 next=2012] ---
+--- Group [right:巴萨 next=2012] ---G
 クククッ
 言わなくても、手前ェ
 ならわかるだろう？
@@ -426,29 +426,29 @@
 +[FID:12, TEXT:008A] 不用你说
 +[FID:12, TEXT:008B] 你自己也该明白吧？
 
---- Group [right:巴萨 next=2012] ---
+--- Group [right:巴萨 next=2012] ---G
 クククッ
 予想どおりの展開だな
 -[FID:12, TEXT:0089] 嘿嘿嘿
 +[FID:12, TEXT:0093] 跟预想的一样啊
 
---- Group [right:巴萨 next=2012] ---
+--- Group [right:巴萨 next=2012] ---G
 それなりの覚悟はして
 もらうことになるぜェ
 +[FID:12, TEXT:008C] 那你们就得
 +[FID:12, TEXT:008D] 做好相应的觉悟了
 
---- Group [right:巴萨 next=2012] ---
+--- Group [right:巴萨 next=2012] ---G
 さあ、どうする！？
 +[FID:12, TEXT:0090] 来吧，怎么办！？
 
---- Group [left:雷德 next=2012] ---
+--- Group [left:雷德 next=2012] ---G
 ・・・お前の言うこと
 には従えん！
 +[FID:12, TEXT:0091] ……我
 +[FID:12, TEXT:0092] 不能听你的！
 
---- Group [right:巴萨 next=2012] ---
+--- Group [right:巴萨 next=2012] ---G
 いいだろう
 手前ェがそう言うなら
 そういうことにするさ
@@ -456,7 +456,7 @@
 +[FID:12, TEXT:00CF] 既然你这么说
 +[FID:12, TEXT:00D0] 那就这么办吧
 
---- Group [right:巴萨 next=2012] ---
+--- Group [right:巴萨 next=2012] ---G
 いいだろう
 それなら予定どおり、
 貴様ら全員ブチのめし
@@ -466,39 +466,39 @@
 +[FID:12, TEXT:0096] 把你们全部
 +[FID:12, TEXT:0097] 揍趴下！！
 
---- Group [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---G
 ・・・俺がそうだよ
 +[FID:12, TEXT:0098] ……是我干的
 
---- Group [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---G
 ・・・僕だよ
 +[FID:12, TEXT:0099] ……是我
 
---- Group [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---G
 ・・・あたしだよ
 +[FID:12, TEXT:009A] ……是我干的
 
---- Group [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---G
 ・・・わたしです！
 +[FID:12, TEXT:009B] ……是我！
 
---- Group [left:艾多斯 next=2012] ---
+--- Group [left:艾多斯 next=2012] ---G
 @ n 
 +[FID:12, TEXT:009C] @n
 
---- Group [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---G
 あんたの子分に最初に
 手を出したのは俺だ
 +[FID:12, TEXT:009D] 先对你小弟动手的
 +[FID:12, TEXT:009E] 是我
 
---- Group [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---G
 おまえの子分に最初に
 手を出したのは僕だ
 +[FID:12, TEXT:009F] 先对你小弟动手的
 +[FID:12, TEXT:00A0] 是我
 
---- Group [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---G
 あなたの手下に最初に
 手を出したのはあたし
 ・・・これで満足？
@@ -506,7 +506,7 @@
 +[FID:12, TEXT:00A2] 是我
 +[FID:12, TEXT:00A3] ……这下满意了吧？
 
---- Group [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---G
 あなたの仲間に
 手を出したのは・・・
 わたしなんです！
@@ -514,11 +514,11 @@
 +[FID:12, TEXT:00A5] 动手的……
 +[FID:12, TEXT:00A6] 是我！
 
---- Group [right:巴萨 next=2012] ---
+--- Group [right:巴萨 next=2012] ---G
 ん？見かけん顔だな
 +[FID:12, TEXT:00A7] 嗯？没见过你啊
 
---- Group [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---G
 この街には来たばかり
 なんだよ
 だから、あんたたちの
@@ -528,7 +528,7 @@
 +[FID:12, TEXT:00AA] 所以
 +[FID:12, TEXT:00AB] 也不知道你们的事
 
---- Group [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---G
 この街には来たばかり
 だからな
 だから、おまえたちの
@@ -538,79 +538,79 @@
 +[FID:12, TEXT:00AD] 所以不知道
 -[FID:12, TEXT:00AB] 也不知道你们的事
 
---- Group [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---G
 この街には来たばかり
 だもの・・・だから
 あなたたちのこと
 だって知らなかった
 -[FID:12, TEXT:00A8] 我刚来
-+[FID:12, TEXT:00AE] 这个城市……所以
-+[FID:12, TEXT:00AF] 不知道
++[FID:12, TEXT:00AE] 这个城市……
++[FID:12, TEXT:00AF] 所以不知道
 +[FID:12, TEXT:00B0] 你们的事
 
---- Group [left:主人公 next=2012] ---
+--- Group [left:主人公 next=2012] ---G
 この街には
 来たばかりなんです
 +[FID:12, TEXT:00B1] 我刚来
 +[FID:12, TEXT:00B2] 这个城市
 
---- Group [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---G
 だから、あなたたちの
 ことも知りません
 でした
 +[FID:12, TEXT:00B3] 所以
-+[FID:12, TEXT:00B4] 不知道你们的事
-+[FID:12, TEXT:00B5] 之前不知道
++[FID:12, TEXT:00B4] 之前不知道你们的事
++[FID:12, TEXT:00B5] 
 
---- Group [right:巴萨 next=2012] ---
+--- Group [right:巴萨 next=2012] ---G
 ほォ・・・
 +[FID:12, TEXT:00B6] 哦……
 
---- Group [left:主人公 next=2012] ---
+--- Group [left:主人公 next=2012] ---G
 たまたまここに泊めて
 もらっていただけで、
 彼らと俺とは無関係だ
-+[FID:12, TEXT:00B7] 只是偶然在这里借宿，
-+[FID:12, TEXT:00B8] 我和他们无关。
++[FID:12, TEXT:00B7] 我只是碰巧在这里借宿
++[FID:12, TEXT:00B8] 而已
 +[FID:12, TEXT:00B9] 我和他们没关系
 
---- Group [left:主人公 next=2012] ---
+--- Group [left:主人公 next=2012] ---G
 たまたまここに泊めて
 もらっていただけで、
 わたしと彼らは
 無関係なんです！
--[FID:12, TEXT:00B7] 只是偶然在这里借宿，
--[FID:12, TEXT:00B8] 我和他们无关。
+-[FID:12, TEXT:00B7] 我只是碰巧在这里借宿
+-[FID:12, TEXT:00B8] 而已
 +[FID:12, TEXT:00C7] 我和他们
-+[FID:12, TEXT:00C8] 没有关系！
++[FID:12, TEXT:00C8] 没有任何关系！
 
---- Group [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---G
 だから、あんたが始末
 をつけるのは俺だけで
 いい
 +[FID:12, TEXT:00BA] 所以，你要解决的人
-+[FID:12, TEXT:00BB] 只有我一个就够了。
-+[FID:12, TEXT:00BC] 好
++[FID:12, TEXT:00BB] 只有我一个就够了
++[FID:12, TEXT:00BC] 
 
---- Group [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---G
 つまり、これはおまえ
 たちと僕の問題なんだ
 彼らには関係ない
 +[FID:12, TEXT:00BD] 也就是说，这是
 +[FID:12, TEXT:00BE] 我和你们之间的问题，
-+[FID:12, TEXT:00BF] 与他们无关。
++[FID:12, TEXT:00BF] 与他们无关
 
---- Group [left:主人公 next=2012] ---
+--- Group [left:主人公 next=2012] ---G
 あたしはここに泊めて
 もらっていただけで、
 この人たちとあたしは
 無関係なの！
-+[FID:12, TEXT:00C0] 我只是在这里借宿，
--[FID:12, TEXT:00B8] 我和他们无关。
++[FID:12, TEXT:00C0] 我只是碰巧在这里借宿
+-[FID:12, TEXT:00B8] 而已
 +[FID:12, TEXT:00C1] 我和这些人
 +[FID:12, TEXT:00C2] 没有关系！
 
---- Group [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---G
 だから、
 恨みを晴らすなら
 この人たちじゃなくて
@@ -620,77 +620,77 @@
 +[FID:12, TEXT:00C5] 不是这些人，
 +[FID:12, TEXT:00C6] 而是我吧！
 
---- Group [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---G
 だから、狙うなら
 わたしだけに
 してください！
-+[FID:12, TEXT:00C9] 所以，如果要瞄准的话
-+[FID:12, TEXT:00CA] ，请只瞄着我一个人！
-+[FID:12, TEXT:00CB] 请这么做！
++[FID:12, TEXT:00C9] 所以，如果要下手的话
++[FID:12, TEXT:00CA] 请只针对我一个人！
++[FID:12, TEXT:00CB] 
 
---- Group [left:主人公 next=2012] ---
+--- Group [left:主人公 next=2012] ---G
 ・・・っ
 +[FID:12, TEXT:00CE] ……！
 
---- Group [right:巴萨 next=2012] ---
+--- Group [right:巴萨 next=2012] ---G
 さあ、来てもらうぜ！
 +[FID:12, TEXT:00D1] 来吧，跟我走一趟！
 
---- Group [right:加泽尔 next=2012] ---
+--- Group [right:加泽尔 next=2012] ---G
 ・・・待てよっ！
 +[FID:12, TEXT:00D2] ……等等！
 
---- Group [right:加泽尔 next=2012] ---
+--- Group [right:加泽尔 next=2012] ---G
 何を二人で勝手に話を
 進めてんだよ！！
 +[FID:12, TEXT:00D3] 你们两个
 +[FID:12, TEXT:00D4] 擅自决定什么啊！！
 
---- Group [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---G
 ガゼル！？
 +[FID:12, TEXT:00D5] 加泽尔！？
 
---- Group [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---G
 ガゼルさん！？
 +[FID:12, TEXT:00D6] 加泽尔先生！？
 
---- Group [left:主人公 next=2012] ---
+--- Group [left:主人公 next=2012] ---G
 そいつはな、ワシらの
 大事な客人なのさ
 無断で連れて行かれる
 わけにはいかんな
 +[FID:12, TEXT:00D7] 这家伙啊，
-+[FID:12, TEXT:00D8] 可是我们重要的客人。
++[FID:12, TEXT:00D8] 可是我们重要的客人
 +[FID:12, TEXT:00D9] 可不能让你
-+[FID:12, TEXT:00DA] 随便带走。
++[FID:12, TEXT:00DA] 随便带走
 
---- Group [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---G
 エドス・・・？
 +[FID:12, TEXT:00DB] 艾多斯……？
 
---- Group [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---G
 エドスさん・・・？
 +[FID:12, TEXT:00DC] 艾多斯先生……？
 
---- Group [left:none next=2012] ---
+--- Group [left:none next=2012] ---G
 私たちはまだ、お前の
 要求に従うとは言って
 いない
 +[FID:12, TEXT:00DD] 我们还没有
-+[FID:12, TEXT:00DE] 说要听从你的要求。
-+[FID:12, TEXT:00DF] 不在
++[FID:12, TEXT:00DE] 说要听从你的要求
++[FID:12, TEXT:00DF] 
 
---- Group [left:none next=2012] ---
+--- Group [left:none next=2012] ---G
 つけ加えるなら、
 従うつもりもない！
 +[FID:12, TEXT:00E0] 再补充一句，
 +[FID:12, TEXT:00E1] 也没打算听从！
 
---- Group [left:主人公 next=2012] ---
+--- Group [left:主人公 next=2012] ---G
 レイド・・・さん
 +[FID:12, TEXT:00E2] 雷德……先生
 
---- Group [right:巴萨 next=2012] ---
+--- Group [right:巴萨 next=2012] ---G
 手前ェら・・・
 俺様たちと本気でやり
 あうつもりかよッ！？
@@ -698,23 +698,23 @@
 +[FID:12, TEXT:00E4] 是想跟我们
 +[FID:12, TEXT:00E5] 真刀真枪地干吗！？
 
---- Group [left:加泽尔 next=2012] ---
+--- Group [left:加泽尔 next=2012] ---G
 小細工せずに、ケンカ
 ぐらい正々堂々と売れ
 ねえのかよっ！！
-+[FID:12, TEXT:00E9] 别耍花招，！！
++[FID:12, TEXT:00E9] 别耍花招
 +[FID:12, TEXT:00EA] 要打架就堂堂正正地来
-+[FID:12, TEXT:00EB] 啊！！你到底有没有啊
++[FID:12, TEXT:00EB] 啊！！
 
---- Group [right:巴萨 next=2012] ---
+--- Group [right:巴萨 next=2012] ---G
 吠えやがったな・・・
 いいぜ、やってやろう
 じゃねェかッ！！
 +[FID:12, TEXT:00EC] 叫唤得挺欢啊……
 +[FID:12, TEXT:00ED] 行啊，那就干一场吧！
-+[FID:12, TEXT:00EE] ！不是没有吗！！
++[FID:12, TEXT:00EE] 
 
---- Group [right:艾多斯 next=0026] ---
+--- Group [right:艾多斯 next=0026] ---G
 【自分の部屋】
 【リプレと子供部屋】
 【玄関】
@@ -733,45 +733,45 @@
 +[FID:12, TEXT:00EF] 【自己的房间】
 +[FID:12, TEXT:0000] 
 -[FID:12, TEXT:0000] 
-+[FID:12, TEXT:00F0] 【前往街道】
++[FID:12, TEXT:00F0] 【利普雷和儿童房】
 -[FID:12, TEXT:0000] 
 -[FID:12, TEXT:0000] 
-+[FID:12, TEXT:00F1] 【房间1】
++[FID:12, TEXT:00F1] 【玄关】
 -[FID:12, TEXT:0000] 
 -[FID:12, TEXT:0000] 
-+[FID:12, TEXT:00F2] 【房间4】
++[FID:12, TEXT:00F2] 【去街上】
 -[FID:12, TEXT:0000] 
 -[FID:12, TEXT:0000] 
-+[FID:12, TEXT:00F3] 【大厅】
++[FID:12, TEXT:00F3] 【雷德的房间】
 -[FID:12, TEXT:0000] 
 -[FID:12, TEXT:0000] 
-+[FID:12, TEXT:00F4] 
++[FID:12, TEXT:00F4] 【加泽尔的房间】
 -[FID:12, TEXT:0000] 
 -[FID:12, TEXT:0000] 
-+[FID:12, TEXT:00F5] 
++[FID:12, TEXT:00F5] 【房间１】
 -[FID:12, TEXT:0000] 
 -[FID:12, TEXT:0000] 
-+[FID:12, TEXT:00F6] 
++[FID:12, TEXT:00F6] 【房间２】
 -[FID:12, TEXT:0000] 
 -[FID:12, TEXT:0000] 
-+[FID:12, TEXT:00F7] 
++[FID:12, TEXT:00F7] 【房间３】
 -[FID:12, TEXT:0000] 
 -[FID:12, TEXT:0000] 
-+[FID:12, TEXT:00F8] 
++[FID:12, TEXT:00F8] 【房间４】
 -[FID:12, TEXT:0000] 
 -[FID:12, TEXT:0000] 
-+[FID:12, TEXT:00F9] 
++[FID:12, TEXT:00F9] 【房间５】
 -[FID:12, TEXT:0000] 
 -[FID:12, TEXT:0000] 
-+[FID:12, TEXT:00FA] 
++[FID:12, TEXT:00FA] 【阁楼房间】
 -[FID:12, TEXT:0000] 
 -[FID:12, TEXT:0000] 
-+[FID:12, TEXT:00FB] 
++[FID:12, TEXT:00FB] 【大厅】
 -[FID:12, TEXT:0000] 
 -[FID:12, TEXT:0000] 
-+[FID:12, TEXT:00FC] 
++[FID:12, TEXT:00FC] 【庭院】
 -[FID:12, TEXT:0000] 
 -[FID:12, TEXT:0000] 
-+[FID:12, TEXT:00FD] 
++[FID:12, TEXT:00FD] 【厨房】
 -[FID:12, TEXT:0000] 
 -[FID:12, TEXT:0000] 
