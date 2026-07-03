@@ -534,7 +534,7 @@
 
 --- Group [left:主人公 next=0023] ---
 え？
-+[FID:15, TEXT:009D] 
++[FID:15, TEXT:009D] 嗯？
 
 --- Group [left:主人公 next=0023] ---G
 え？
@@ -954,55 +954,55 @@
 +[FID:15, TEXT:0115] 　　　雷德先生，表情
 +[FID:15, TEXT:0116] 　　　有点复杂呢
 
---- Group [right:雷德 next=0023] ---
+--- Group [right:雷德 next=0023] ---G
 　ガゼルって、
 　やっぱり根はいいやつなんだな
-+[FID:15, TEXT:0117] 
-+[FID:15, TEXT:0118] 
++[FID:15, TEXT:0117] 　加泽尔这家伙，
++[FID:15, TEXT:0118] 　果然本质上是个好人啊
 
---- Group [left:none next=0023] ---
+--- Group [left:none next=0023] ---G
 　ガゼルってば、あんなだけど
 　根はいいやつだよね
-+[FID:15, TEXT:0119] 
-+[FID:15, TEXT:011A] 
++[FID:15, TEXT:0119] 　加泽尔虽然那样，
++[FID:15, TEXT:011A] 　但本质上是个好人呢
 
---- Group [left:none next=0023] ---
+--- Group [left:none next=0023] ---G
 　　　ガゼルさん、やっぱり
 　　　根はいい人なんですね
-+[FID:15, TEXT:011B] 
-+[FID:15, TEXT:011C] 
++[FID:15, TEXT:011B] 　　　加泽尔先生，果然
++[FID:15, TEXT:011C] 　　　本质上是个好人啊
 
---- Group [left:none next=0023] ---
+--- Group [left:none next=0023] ---G
 　　まいったよな
 　　俺が思ってたことを、
 　　見抜かれてたなんてね
-+[FID:15, TEXT:011D] 
-+[FID:15, TEXT:011E] 
-+[FID:15, TEXT:011F] 
++[FID:15, TEXT:011D] 　　真是的
++[FID:15, TEXT:011E] 　　我一直在想的事情，
++[FID:15, TEXT:011F] 　　居然被看穿了呢
 
---- Group [left:none next=0023] ---
+--- Group [left:none next=0023] ---G
 　　驚いたな
 　　僕が思ってたことを、
 　　見抜かれてたなんて
-+[FID:15, TEXT:0120] 
-+[FID:15, TEXT:0121] 
-+[FID:15, TEXT:0122] 
++[FID:15, TEXT:0120] 　　吓了一跳
++[FID:15, TEXT:0121] 　　我一直在想的事情，
++[FID:15, TEXT:0122] 　　居然被看穿了
 
---- Group [right:雷德 next=0023] ---
+--- Group [right:雷德 next=0023] ---G
 　　まいったなぁ
 　　なんかエドスってなんでも
 　　お見通しなんだよね・・・
-+[FID:15, TEXT:0123] 
-+[FID:15, TEXT:0124] 
-+[FID:15, TEXT:0125] 
++[FID:15, TEXT:0123] 　　真是的
++[FID:15, TEXT:0124] 　　总觉得艾多斯什么都能
++[FID:15, TEXT:0125] 　　看透呢……
 
---- Group [left:none next=0023] ---
+--- Group [left:none next=0023] ---G
 　　　鋭いんですね
 　　　すっかり考えを
 　　　見抜かれていました
-+[FID:15, TEXT:0126] 
-+[FID:15, TEXT:0127] 
-+[FID:15, TEXT:0128] 
++[FID:15, TEXT:0126] 　　　真敏锐啊
++[FID:15, TEXT:0127] 　　　我的想法完全
++[FID:15, TEXT:0128] 　　　被看穿了
 
 --- Group [right:雷德 next=0023] ---G
 　あんなに喜んでくれるなんて、
@@ -1028,56 +1028,56 @@
 +[FID:15, TEXT:012E] 　被那么开心地感谢，
 +[FID:15, TEXT:012F] 　让我很不好意思……
 
---- Group [right:雷德 next=0023] ---
+--- Group [right:雷德 next=0023] ---G
 　　ほめられたのは嬉しいけど
 　　・・・ねぇ
-+[FID:15, TEXT:0130] 
-+[FID:15, TEXT:0131] 
++[FID:15, TEXT:0130] 　　被夸奖是挺开心的
++[FID:15, TEXT:0131] 　　没错啦……
 
---- Group [left:none next=0023] ---
+--- Group [left:none next=0023] ---G
 　　ほめられたのはいいんだが
 　　・・・なぁ
-+[FID:15, TEXT:0132] 
-+[FID:15, TEXT:0133] 
++[FID:15, TEXT:0132] 　　被夸奖是挺好的
++[FID:15, TEXT:0133] 　　没错啦……
 
---- Group [left:none next=0023] ---
+--- Group [left:none next=0023] ---G
 　　　ほめてくれたのは
 　　　嬉しかったけど・・・
-+[FID:15, TEXT:0134] 
-+[FID:15, TEXT:0138] 
++[FID:15, TEXT:0134] 　　　被夸奖
++[FID:15, TEXT:0138] 　　　我是很开心没错啦……
 
---- Group [left:none next=0023] ---
+--- Group [left:none next=0023] ---G
 　　　ほめてくれたのは
 　　　嬉しいけど・・・
--[FID:15, TEXT:0134] 
-+[FID:15, TEXT:0135] 
+-[FID:15, TEXT:0134] 　　　被夸奖
++[FID:15, TEXT:0135] 　　　我是很开心没错啦……
 
---- Group [left:none next=0023] ---
+--- Group [left:none next=0023] ---G
 　　　　ほめられたのは
 　　　　嬉しいけど・・・
-+[FID:15, TEXT:0136] 
-+[FID:15, TEXT:0137] 
++[FID:15, TEXT:0136] 　　　　被夸奖是
++[FID:15, TEXT:0137] 　　　　挺开心的……
 
---- Group [left:none next=0023] ---
+--- Group [left:none next=0023] ---G
 　　あの子なりに俺のことを
 　　心配しててくれたんだなぁ
-+[FID:15, TEXT:0139] 
-+[FID:15, TEXT:013A] 
++[FID:15, TEXT:0139] 　　那孩子也在用他自己的方式，
++[FID:15, TEXT:013A] 　　在为我担心呢
 
---- Group [left:none next=0023] ---
+--- Group [left:none next=0023] ---G
 　　あの子なりに僕のことを
 　　心配しててくれたんだな
-+[FID:15, TEXT:013B] 
-+[FID:15, TEXT:013C] 
++[FID:15, TEXT:013B] 　　那孩子也在用他自己的方式，
++[FID:15, TEXT:013C] 　　在为我担心呢
 
---- Group [left:none next=0023] ---
+--- Group [left:none next=0023] ---G
 　あたしのこと、あの子なりに
 　心配してくれてたんだね・・・
-+[FID:15, TEXT:013D] 
-+[FID:15, TEXT:013E] 
++[FID:15, TEXT:013D] 　那孩子也在用他自己的方式，
++[FID:15, TEXT:013E] 　在为我担心呢……
 
---- Group [left:none next=0023] ---
+--- Group [left:none next=0023] ---G
 　あの子なりにわたしを
 　心配しててくれたんですね・・
-+[FID:15, TEXT:013F] 
-+[FID:15, TEXT:0140] 
++[FID:15, TEXT:013F] 　那孩子也在用他自己的方式，
++[FID:15, TEXT:0140] 　在为我担心呢……
