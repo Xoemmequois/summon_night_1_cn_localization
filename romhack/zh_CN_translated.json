@@ -27837,13 +27837,13 @@
   {
     "key": "0022-0673",
     "original": "どう料理したらいいか",
-    "translation": "连料理方法",
+    "translation": "该怎么做才好",
     "stage": 3
   },
   {
     "key": "0022-0674",
     "original": "迷っちゃいそう",
-    "translation": "都拿不定主意了",
+    "translation": "真让人犯愁",
     "stage": 3
   },
   {
@@ -27855,13 +27855,13 @@
   {
     "key": "0022-0676",
     "original": "これならきっと、おい",
-    "translation": "这样的话一定能做出美味的",
+    "translation": "这样的话一定能做出",
     "stage": 3
   },
   {
     "key": "0022-0677",
     "original": "しいお料理ができるわ",
-    "translation": "料理呢",
+    "translation": "美味的料理呢",
     "stage": 3
   },
   {
@@ -27885,7 +27885,7 @@
   {
     "key": "0022-0681",
     "original": "きっとみんなも喜んで",
-    "translation": "大家一定也会很高兴地",
+    "translation": "大家一定会开心地",
     "stage": 3
   },
   {
@@ -28071,13 +28071,13 @@
   {
     "key": "0023-0024",
     "original": "で、そっから出入り",
-    "translation": "那么，就是从那里",
+    "translation": "就是说，你们是从那",
     "stage": 3
   },
   {
     "key": "0023-0025",
     "original": "してるわけね",
-    "translation": "进出的啊",
+    "translation": "进出啊",
     "stage": 3
   },
   {
@@ -29097,57 +29097,68 @@
   {
     "key": "0024-0113",
     "original": "あ、そうだ！",
-    "translation": ""
+    "translation": "啊，对了！",
+    "stage": 3
   },
   {
     "key": "0024-0114",
     "original": "これ、朝の残りのパン",
-    "translation": ""
+    "translation": "这是早上剩下的面包",
+    "stage": 3
   },
   {
     "key": "0024-0115",
     "original": "なんだけど・・・",
-    "translation": ""
+    "translation": "不过……",
+    "stage": 3
   },
   {
     "key": "0024-0116",
     "original": "いいの？",
-    "translation": ""
+    "translation": "可以吗？",
+    "stage": 3
   },
   {
     "key": "0024-0117",
     "original": "いいのかい？",
-    "translation": ""
+    "translation": "可以吗？",
+    "stage": 3
   },
   {
     "key": "0024-0118",
     "original": "うん",
-    "translation": ""
+    "translation": "嗯",
+    "stage": 3
   },
   {
     "key": "0024-0119",
     "original": "ホントはお弁当ぐらい",
-    "translation": ""
+    "translation": "其实本来想给你带个便",
+    "stage": 3
   },
   {
     "key": "0024-0120",
     "original": "もたせてあげたかった",
-    "translation": ""
+    "translation": "当什么的",
+    "stage": 3
   },
   {
     "key": "0024-0121",
     "original": "んだけど・・・",
-    "translation": ""
+    "translation": "但……",
+    "stage": 3
   },
   {
     "key": "0024-0122",
     "original": "１個しか余らなかった",
-    "translation": ""
+    "translation": "因为只多了一个",
+    "stage": 3
   },
   {
     "key": "0024-0123",
     "original": "から、ないしょね？",
-    "translation": ""
+    "translation": "所以要保密哦？",
+    "stage": 3
   },
   {
     "key": "0024-0124",
@@ -29242,32 +29253,38 @@
   {
     "key": "0024-0139",
     "original": "・・・これ",
-    "translation": ""
+    "translation": "……这个",
+    "stage": 3
   },
   {
     "key": "0024-0140",
     "original": "このキャンディ",
-    "translation": ""
+    "translation": "这个糖果",
+    "stage": 3
   },
   {
     "key": "0024-0141",
     "original": "・・・くれるの？",
-    "translation": ""
+    "translation": "……给我吗？",
+    "stage": 3
   },
   {
     "key": "0024-0142",
     "original": "・・・くれるのかい？",
-    "translation": ""
+    "translation": "……给我吗？",
+    "stage": 3
   },
   {
     "key": "0024-0143",
     "original": "ああ、キャンディね",
-    "translation": ""
+    "translation": "啊，糖果啊",
+    "stage": 3
   },
   {
     "key": "0024-0144",
     "original": "ありがとう",
-    "translation": ""
+    "translation": "谢谢",
+    "stage": 3
   },
   {
     "key": "0024-0145",
@@ -29608,94 +29625,109 @@
   {
     "key": "0024-0201",
     "original": "うん、これだけあれば",
-    "translation": ""
+    "translation": "嗯，有这些的话",
+    "stage": 3
   },
   {
     "key": "0024-0202",
     "original": "充分だよ",
-    "translation": ""
+    "translation": "就足够了",
+    "stage": 3
   },
   {
     "key": "0024-0203",
     "original": "わぁ、ずいぶん",
-    "translation": ""
+    "translation": "哇，真是",
+    "stage": 3
   },
   {
     "key": "0024-0204",
     "original": "たくさん釣れたのね",
-    "translation": ""
+    "translation": "钓了好多呢",
+    "stage": 3
   },
   {
     "key": "0024-0205",
     "original": "こんな大物",
-    "translation": ""
+    "translation": "这么大的家伙",
+    "stage": 3
   },
   {
     "key": "0024-0206",
     "original": "どう料理したらいいか",
-    "translation": ""
+    "translation": "该怎么做才好",
+    "stage": 3
   },
   {
     "key": "0024-0207",
     "original": "迷っちゃいそう",
-    "translation": ""
+    "translation": "真让人犯愁",
+    "stage": 3
   },
   {
     "key": "0024-0208",
     "original": "すごいじゃない！",
-    "translation": ""
+    "translation": "真厉害！",
+    "stage": 3
   },
   {
     "key": "0024-0209",
     "original": "これならきっと、おい",
-    "translation": ""
+    "translation": "这样的话一定能做出",
+    "stage": 3
   },
   {
     "key": "0024-0210",
     "original": "しいお料理ができるわ",
-    "translation": ""
+    "translation": "美味的料理呢",
+    "stage": 3
   },
   {
     "key": "0024-0211",
     "original": "これって・・・",
-    "translation": ""
+    "translation": "这个……",
+    "stage": 3
   },
   {
     "key": "0024-0212",
     "original": "食べられるのかしら？",
-    "translation": ""
+    "translation": "能吃吗？",
+    "stage": 3
   },
   {
     "key": "0024-0213",
     "original": "ごくろうさま",
-    "translation": ""
+    "translation": "辛苦了",
+    "stage": 3
   },
   {
     "key": "0024-0214",
     "original": "きっとみんなも喜んで",
-    "translation": ""
+    "translation": "大家一定会开心地",
+    "stage": 3
   },
   {
     "key": "0024-0215",
     "original": "食べてくれるよ",
-    "translation": ""
+    "translation": "享用的",
+    "stage": 3
   },
   {
     "key": "0024-0216",
     "original": "また何か釣れた時は",
-    "translation": "要是再钓到什么的话",
+    "translation": "要是再钓到什么",
     "stage": 3
   },
   {
     "key": "0024-0217",
     "original": "私のところに",
-    "translation": "就拿到我这儿来哦",
+    "translation": "就拿到我这里",
     "stage": 3
   },
   {
     "key": "0024-0218",
     "original": "もってきてね",
-    "translation": "带过来哦",
+    "translation": "来吧",
     "stage": 3
   },
   {
