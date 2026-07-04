@@ -79,9 +79,82 @@ manager.push(state)
 run_manager(manager, commands, script_id)
 ```
 
-### Step 7: Verify
+### Step 7: Verify completeness and crossover
 
-Compare new extraction against the dialog file. Expected: all non-empty strings covered.
+Compare new extraction against the dialog file. Expected: all non-empty strings covered AND no cross-FID contamination.
+
+**Crossover detection**: After extraction, verify that each FID's output ONLY contains TEXT indices that exist in that FID's own dialog file.
+
+```ruby
+require "set"
+fid = 0x1E
+dialog_fn = "../../exported/CM1100.DAT_#{fid + 0x29}"
+contents = IO.binread(dialog_fn)
+len = contents.unpack1("S!<")
+indices = contents.unpack("S!<#{len}")
+
+# Get valid TEXT indices from this FID's dialog file
+valid_texts = Set.new
+(0...len).each do |ti|
+  next if ti >= indices.size
+  s = indices[ti]
+  str = ""; p = 0
+  loop do
+    break if contents[s * 2 + p] == "\x0" && contents[s * 2 + p + 1] == "\x0"
+    str += contents[s * 2 + p] + contents[s * 2 + p + 1]
+    p += 2
+    break if p > 200
+  end
+  valid_texts.add(ti) unless str.strip.empty?
+end
+
+# Check output file
+fn = "output_full/script06_fid1E.txt"
+extracted = File.read(fn).scan(/TEXT:([0-9A-F]{4})/).map { |m| m[0].to_i(16) }.to_set
+
+crossover = extracted - valid_texts
+missing   = valid_texts - extracted
+
+puts "Crossover (from other FIDs): #{crossover.size}"  # should be 0 or near 0
+puts "Missing (not extracted):    #{missing.size}"      # should be 0
+```
+
+**Crossover symptoms**: lines like `[FID:1C, TEXT:0000]` or `[FID:1C, TEXT:000B]` in a FID file where those TEXT indices don't exist — this means dialogs from other FIDs are leaking in.
+
+**Common causes of crossover**:
+- FID set AFTER the dialog dispatch runs (0x4B8 runs before 0x002F at idx 479)
+- 0x002E handler in VM sets `dialog_file_id = -1`, but the real game computes it from a variable
+- `c4[0x95]` hardcoded to a fixed value (`0x0010` at entry), overriding per-FID init
+
+### Step 8: Fix crossover with monkey-patches (script-specific)
+
+When the script's FID dispatch runs AFTER dialog playback, monkey-patch the VM to set FID at the correct point:
+
+```ruby
+old_dispatch = manager.method(:dispatch)
+manager.define_singleton_method(:dispatch) do |state, cmd, cmds|
+  # Skip hardcoded c4[0x95]=N that overrides our per-FID init value
+  if cmd.code == 0x0010 && cmd.index == OFFSET && cmd.params[0] == 0x95
+    state.pc += 1
+    return true
+  end
+  # Override 0x002E to set FID from c4[0x95] instead of -1
+  if cmd.code == 0x002E && cmd.index == OFFSET
+    state.dialog_file_id = FID_MAP[state.read_c4(0x95)]
+  end
+  old_dispatch.call(state, cmd, cmds)
+end
+```
+
+Then iterate per-FID with dedicated `c4[0x95]` values:
+
+```ruby
+FID_MAP = { 3 => 0x19, 4 => 0x1A, 5 => 0x1B, ... }
+FID_MAP.each do |val, fid|
+  state.tbl_c4[0x95] = val
+  # run VM, dialogs will be attributed to correct FID
+end
+```
 
 ## Key patterns
 
@@ -89,11 +162,14 @@ Compare new extraction against the dialog file. Expected: all non-empty strings 
 |---------|---------|-----|
 | Switch variable not external | `switch var[0x22]` in sub 0x2ADD | Add to `EXTERNAL_VARS` |
 | Conditional guard | `test c4[0x9D]==0` before sub | Add to `EXTERNAL_VARS` |
-| Write unreachable from this FID | `inc c4[0x9D]` only in case0, read in case2 | That path never triggers for this FID |
+| Write unreachable from this FID | `inc c4[0x9D]` in case0, read in case2 | That path never triggers for this FID |
 | Switch IS external but starved | `switch var[0x93]` with 21 cases | Use direct entry (Step 6) |
+| FID set after dispatch (crossover) | `0x002E` sets -1, 0x4B8 plays, switch sets FID too late | Monkey-patch 0x002E + skip c4[0x95] hardcode |
+| Missing on different entry path | sub 0x3449 only reached from F8=0 | Direct entry with `dialog_file_id` set manually |
 
 ## Pitfalls
 
 - **Linear FID tracking is unreliable**: control flow matters, not file layout
 - **`var[0x95]` changes runtime but FID stays**: the loop iterates through cases, but `dialog_file_id` is set once at entry
 - **200k visited state limit** can starve correct forks when a high-case-count switch dominates
+- **Always verify crossover after extraction**: run the validation check in Step 7. A file showing 100% coverage with crossover is still wrong.
