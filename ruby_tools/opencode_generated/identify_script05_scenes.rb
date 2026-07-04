@@ -62,11 +62,10 @@ def load_dialog_strings(fid)
       p += 2
       break if p > 200
     end
-    next if str.strip.empty?
     begin
       strs[ti] = str.force_encoding("shift_jis").encode("utf-8")
     rescue
-      strs[ti] = "(encoding error)"
+      strs[ti] = ""
     end
   end
   strs
