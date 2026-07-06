@@ -34215,87 +34215,104 @@
   {
     "key": "0029-0001",
     "original": "どうして連れてきちま",
-    "translation": ""
+    "translation": "为什么把他带过来了！",
+    "stage": 3
   },
   {
     "key": "0029-0002",
     "original": "ったんだよ！？",
-    "translation": ""
+    "translation": "？",
+    "stage": 3
   },
   {
     "key": "0029-0003",
     "original": "だって・・・",
-    "translation": ""
+    "translation": "可是……",
+    "stage": 3
   },
   {
     "key": "0029-0004",
     "original": "あのまま放っておける",
-    "translation": ""
+    "translation": "怎么能就那么扔下不管",
+    "stage": 3
   },
   {
     "key": "0029-0005",
     "original": "わけがないだろ！？",
-    "translation": ""
+    "translation": "呢！？",
+    "stage": 3
   },
   {
     "key": "0029-0006",
     "original": "そう言われても・・・",
-    "translation": ""
+    "translation": "就算你这么说……",
+    "stage": 3
   },
   {
     "key": "0029-0007",
     "original": "わけないじゃん！？",
-    "translation": ""
+    "translation": "呢！？",
+    "stage": 3
   },
   {
     "key": "0029-0008",
     "original": "あのまま",
-    "translation": ""
+    "translation": "就那么放着不管",
+    "stage": 3
   },
   {
     "key": "0029-0009",
     "original": "放っておけるわけが",
-    "translation": ""
+    "translation": "怎么可能呢！",
+    "stage": 3
   },
   {
     "key": "0029-0010",
     "original": "ないじゃないですか！",
-    "translation": ""
+    "translation": "",
+    "stage": 3
   },
   {
     "key": "0029-0011",
     "original": "うーん",
-    "translation": ""
+    "translation": "嗯……",
+    "stage": 3
   },
   {
     "key": "0029-0012",
     "original": "助けてもらったことは",
-    "translation": ""
+    "translation": "被他救了是事实嘛",
+    "stage": 3
   },
   {
     "key": "0029-0013",
     "original": "事実だしなぁ",
-    "translation": ""
+    "translation": "",
+    "stage": 3
   },
   {
     "key": "0029-0014",
     "original": "・・・リプレには事情",
-    "translation": ""
+    "translation": "……我已经跟莉普蕾说",
+    "stage": 3
   },
   {
     "key": "0029-0015",
     "original": "を説明してきたよ",
-    "translation": ""
+    "translation": "明情况了",
+    "stage": 3
   },
   {
     "key": "0029-0016",
     "original": "なんて言ってた？",
-    "translation": ""
+    "translation": "她怎么说？",
+    "stage": 3
   },
   {
     "key": "0029-0017",
     "original": "特には、な",
-    "translation": ""
+    "translation": "没什么特别的",
+    "stage": 3
   },
   {
     "key": "0029-0018",
@@ -34355,347 +34372,416 @@
   {
     "key": "0029-0029",
     "original": "こうしていても",
-    "translation": ""
+    "translation": "光这样下去",
+    "stage": 3
   },
   {
     "key": "0029-0030",
     "original": "始まらない",
-    "translation": ""
+    "translation": "也不是办法",
+    "stage": 3
   },
   {
     "key": "0029-0031",
     "original": "@n",
-    "translation": ""
+    "translation": "@n",
+    "stage": 3
   },
   {
     "key": "0029-0032",
     "original": "考えを教えてほしい",
-    "translation": ""
+    "translation": "想听听你的想法",
+    "stage": 3
   },
   {
     "key": "0029-0033",
     "original": "俺が決めるんですか？",
-    "translation": ""
+    "translation": "要我决定吗？",
+    "stage": 3
   },
   {
     "key": "0029-0034",
     "original": "僕が決めるんですか？",
-    "translation": ""
+    "translation": "要我决定吗？",
+    "stage": 3
   },
   {
     "key": "0029-0035",
     "original": "あたしが決めるの！？",
-    "translation": ""
+    "translation": "要我决定！？",
+    "stage": 3
   },
   {
     "key": "0029-0036",
     "original": "わたしに、決めろと",
-    "translation": ""
+    "translation": "您是说要我来决定吗？",
+    "stage": 3
   },
   {
     "key": "0029-0037",
     "original": "いうんですか？",
-    "translation": ""
+    "translation": "",
+    "stage": 3
   },
   {
     "key": "0029-0038",
     "original": "そうじゃない",
-    "translation": ""
+    "translation": "不是这样",
+    "stage": 3
   },
   {
     "key": "0029-0039",
     "original": "決めるのは全員で、だ",
-    "translation": ""
+    "translation": "决定是由大家一起做的",
+    "stage": 3
   },
   {
     "key": "0029-0040",
     "original": "ただ、君にとって一番",
-    "translation": ""
+    "translation": "只是，这对你来说是最",
+    "stage": 3
   },
   {
     "key": "0029-0041",
     "original": "大切な問題だからね",
-    "translation": ""
+    "translation": "重要的问题所以想尊重",
+    "stage": 3
   },
   {
     "key": "0029-0042",
     "original": "考えは尊重したい",
-    "translation": ""
+    "translation": "你的想法",
+    "stage": 3
   },
   {
     "key": "0029-0043",
     "original": "難しく考えるな",
-    "translation": ""
+    "translation": "别想得太复杂",
+    "stage": 3
   },
   {
     "key": "0029-0044",
     "original": "要はお前さんが、あの",
-    "translation": ""
+    "translation": "关键就是你相不相信那",
+    "stage": 3
   },
   {
     "key": "0029-0045",
     "original": "人を信じるかどうかさ",
-    "translation": ""
+    "translation": "个人",
+    "stage": 3
   },
   {
     "key": "0029-0046",
     "original": "俺は・・・",
-    "translation": ""
+    "translation": "我……",
+    "stage": 3
   },
   {
     "key": "0029-0047",
     "original": "僕は・・・",
-    "translation": ""
+    "translation": "我……",
+    "stage": 3
   },
   {
     "key": "0029-0048",
     "original": "そうですね・・・",
-    "translation": ""
+    "translation": "说的也是……",
+    "stage": 3
   },
   {
     "key": "0029-0049",
     "original": "わたし・・・",
-    "translation": ""
+    "translation": "我……",
+    "stage": 3
   },
   {
     "key": "0029-0050",
     "original": "わたしは・・・",
-    "translation": ""
+    "translation": "我……",
+    "stage": 3
   },
   {
     "key": "0029-0051",
     "original": "どうしよう？",
-    "translation": ""
+    "translation": "怎么办？",
+    "stage": 3
   },
   {
     "key": "0029-0052",
     "original": "　信じたい・・・",
-    "translation": ""
+    "translation": "　想相信他……",
+    "stage": 3
   },
   {
     "key": "0029-0053",
     "original": "　正直、信じられません",
-    "translation": ""
+    "translation": "　老实说，我不相信",
+    "stage": 3
   },
   {
     "key": "0029-0054",
     "original": "信じたい・・・",
-    "translation": ""
+    "translation": "想相信……",
+    "stage": 3
   },
   {
     "key": "0029-0055",
     "original": "あの人のことを・・・",
-    "translation": ""
+    "translation": "那个人……",
+    "stage": 3
   },
   {
     "key": "0029-0056",
     "original": "信じたいな",
-    "translation": ""
+    "translation": "想要相信",
+    "stage": 3
   },
   {
     "key": "0029-0057",
     "original": "あの人のこと・・・",
-    "translation": ""
+    "translation": "那个人……",
+    "stage": 3
   },
   {
     "key": "0029-0058",
     "original": "私も、信じてもいいと",
-    "translation": ""
+    "translation": "我也觉得可以相信",
+    "stage": 3
   },
   {
     "key": "0029-0059",
     "original": "思うよ",
-    "translation": ""
+    "translation": "我是这么想的",
+    "stage": 3
   },
   {
     "key": "0029-0060",
     "original": "同感だ",
-    "translation": ""
+    "translation": "同感",
+    "stage": 3
   },
   {
     "key": "0029-0061",
     "original": "・・・ガゼルは？",
-    "translation": ""
+    "translation": "……加泽尔呢？",
+    "stage": 3
   },
   {
     "key": "0029-0062",
     "original": "・・・ガゼルさんは？",
-    "translation": ""
+    "translation": "……加泽尔先生呢？",
+    "stage": 3
   },
   {
     "key": "0029-0063",
     "original": "ケッ！",
-    "translation": ""
+    "translation": "切！",
+    "stage": 3
   },
   {
     "key": "0029-0064",
     "original": "この時点で、多数決で",
-    "translation": ""
+    "translation": "到了这一步，多数决不",
+    "stage": 3
   },
   {
     "key": "0029-0065",
     "original": "負けてるだろうが！",
-    "translation": ""
+    "translation": "是已经输了吗！",
+    "stage": 3
   },
   {
     "key": "0029-0066",
     "original": "信じてやるよ",
-    "translation": ""
+    "translation": "我就相信",
+    "stage": 3
   },
   {
     "key": "0029-0067",
     "original": "お前の決断を、な？",
-    "translation": ""
+    "translation": "你的决定，行了吧？",
+    "stage": 3
   },
   {
     "key": "0029-0068",
     "original": "・・・ありがとう",
-    "translation": ""
+    "translation": "……谢谢",
+    "stage": 3
   },
   {
     "key": "0029-0069",
     "original": "・・・ありがと",
-    "translation": ""
+    "translation": "……谢啦",
+    "stage": 3
   },
   {
     "key": "0029-0070",
     "original": "ありがとう",
-    "translation": ""
+    "translation": "谢谢您……",
+    "stage": 3
   },
   {
     "key": "0029-0071",
     "original": "ございます・・・",
-    "translation": ""
+    "translation": "",
+    "stage": 3
   },
   {
     "key": "0029-0072",
     "original": "正直に言えば・・・",
-    "translation": ""
+    "translation": "老实说……",
+    "stage": 3
   },
   {
     "key": "0029-0073",
     "original": "信じられません",
-    "translation": ""
+    "translation": "我不相信",
+    "stage": 3
   },
   {
     "key": "0029-0074",
     "original": "そうだろ！",
-    "translation": ""
+    "translation": "就是嘛！",
+    "stage": 3
   },
   {
     "key": "0029-0075",
     "original": "アイツはまだ、俺たち",
-    "translation": ""
+    "translation": "我感觉那家伙还在对我",
+    "stage": 3
   },
   {
     "key": "0029-0076",
     "original": "に何か隠し事をしてる",
-    "translation": ""
+    "translation": "们隐瞒着什么！",
+    "stage": 3
   },
   {
     "key": "0029-0077",
     "original": "気がするんだよ！",
-    "translation": ""
+    "translation": "让我很在意啊！",
+    "stage": 3
   },
   {
     "key": "0029-0078",
     "original": "ガゼルの言うとおりだ",
-    "translation": ""
+    "translation": "我觉得加泽尔说得对",
+    "stage": 3
   },
   {
     "key": "0029-0079",
     "original": "と思う、けど・・・",
-    "translation": ""
+    "translation": "但是……",
+    "stage": 3
   },
   {
     "key": "0029-0080",
     "original": "ガゼルさんの",
-    "translation": ""
+    "translation": "加泽尔先生",
+    "stage": 3
   },
   {
     "key": "0029-0081",
     "original": "言うとおりです・・・",
-    "translation": ""
+    "translation": "说得对……",
+    "stage": 3
   },
   {
     "key": "0029-0082",
     "original": "でも・・・",
-    "translation": ""
+    "translation": "但是……",
+    "stage": 3
   },
   {
     "key": "0029-0083",
     "original": "けど？",
-    "translation": ""
+    "translation": "但是？",
+    "stage": 3
   },
   {
     "key": "0029-0084",
     "original": "それはひょっとしたら",
-    "translation": ""
+    "translation": "那也许只是出于警戒心",
+    "stage": 3
   },
   {
     "key": "0029-0085",
     "original": "警戒してるだけなのか",
-    "translation": ""
+    "translation": "也说不定……",
+    "stage": 3
   },
   {
     "key": "0029-0086",
     "original": "もしれない・・・",
-    "translation": ""
+    "translation": "我也有这么想过……",
+    "stage": 3
   },
   {
     "key": "0029-0087",
     "original": "そうも思うんです",
-    "translation": ""
+    "translation": "",
+    "stage": 3
   },
   {
     "key": "0029-0088",
     "original": "俺も、ついこの前まで",
-    "translation": ""
+    "translation": "我也是，直到不久之前",
+    "stage": 3
   },
   {
     "key": "0029-0089",
     "original": "はそうだったし・・・",
-    "translation": ""
+    "translation": "都还是那样呢……",
+    "stage": 3
   },
   {
     "key": "0029-0090",
     "original": "僕も、ついこの前まで",
-    "translation": ""
+    "translation": "我也是，直到不久之前",
+    "stage": 3
   },
   {
     "key": "0029-0091",
     "original": "もしかしたら、",
-    "translation": ""
+    "translation": "也许对方也只是还在",
+    "stage": 3
   },
   {
     "key": "0029-0092",
     "original": "向こうもまだ、警戒",
-    "translation": ""
+    "translation": "警戒而已吧",
+    "stage": 3
   },
   {
     "key": "0029-0093",
     "original": "してるだけなのかな",
-    "translation": ""
+    "translation": "我也有这么想过……",
+    "stage": 3
   },
   {
     "key": "0029-0094",
     "original": "とも思うし・・・",
-    "translation": ""
+    "translation": "",
+    "stage": 3
   },
   {
     "key": "0029-0095",
     "original": "ほら、あたしもこの前",
-    "translation": ""
+    "translation": "你看，我之前",
+    "stage": 3
   },
   {
     "key": "0029-0096",
     "original": "までそうだったじゃ",
-    "translation": ""
+    "translation": "不也是那样吗……",
+    "stage": 3
   },
   {
     "key": "0029-0097",
     "original": "ないですか・・・",
-    "translation": ""
+    "translation": "",
+    "stage": 3
   },
   {
     "key": "0029-0098",
@@ -34710,42 +34796,50 @@
   {
     "key": "0029-0100",
     "original": "わたしも、この前まで",
-    "translation": ""
+    "translation": "我之前也一直是",
+    "stage": 3
   },
   {
     "key": "0029-0101",
     "original": "はそうでした・・・",
-    "translation": ""
+    "translation": "这样呢……",
+    "stage": 3
   },
   {
     "key": "0029-0102",
     "original": "・・・・・・",
-    "translation": ""
+    "translation": "…………",
+    "stage": 3
   },
   {
     "key": "0029-0103",
     "original": "今は無理でも、ひょっ",
-    "translation": ""
+    "translation": "即使现在做不到，",
+    "stage": 3
   },
   {
     "key": "0029-0104",
     "original": "としたら信じることが",
-    "translation": ""
+    "translation": "说不定有朝一日",
+    "stage": 3
   },
   {
     "key": "0029-0105",
     "original": "できるかもしれない",
-    "translation": ""
+    "translation": "能够相信",
+    "stage": 3
   },
   {
     "key": "0029-0106",
     "original": "それじゃダメですか？",
-    "translation": ""
+    "translation": "这样不行吗？",
+    "stage": 3
   },
   {
     "key": "0029-0107",
     "original": "できるかもって・・・",
-    "translation": ""
+    "translation": "能够相信吧……",
+    "stage": 3
   },
   {
     "key": "0029-0108",
