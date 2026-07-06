@@ -378,7 +378,9 @@ def apply_line_length(original_lines, translations, tagged_entries):
 
 def unify_translations(name, groups, cache, cache_lock, proxy_url, api_key):
     """Find TEXT entries translated differently across groups and unify via LLM.
-    Sends full group context; LLM outputs all entries per group to ensure consistency."""
+    Conflict TEXT IDs are partitioned into clusters by co-occurrence:
+    IDs that appear together in any group go into the same cluster.
+    Each cluster gets its own independent LLM request."""
     text_index = {}
     group_data = []
 
@@ -404,19 +406,49 @@ def unify_translations(name, groups, cache, cache_lock, proxy_url, api_key):
 
     print(f"  [{name}] Unifying {len(conflicts)} conflicting TEXT entries...")
 
+    # Partition conflicting TEXT IDs into clusters by co-occurrence.
+    # Two TEXT IDs belong to the same cluster if they appear together in any group.
+    all_conflict_tns = set(conflicts.keys())
+    adjacency = {}
+    for tn in all_conflict_tns:
+        adjacency[tn] = set()
+
+    for _, _, _, tagged_entries, _ in group_data:
+        group_conflict_tns = [tn for _, _, tn, _ in tagged_entries if tn in all_conflict_tns]
+        for i in range(len(group_conflict_tns)):
+            for j in range(i + 1, len(group_conflict_tns)):
+                a, b = group_conflict_tns[i], group_conflict_tns[j]
+                adjacency[a].add(b)
+                adjacency[b].add(a)
+
+    visited = set()
+    clusters = []
+    for tn in sorted(all_conflict_tns):
+        if tn in visited:
+            continue
+        component = set()
+        queue = [tn]
+        while queue:
+            node = queue.pop(0)
+            if node in visited:
+                continue
+            visited.add(node)
+            component.add(node)
+            for neighbor in adjacency[node]:
+                if neighbor not in visited:
+                    queue.append(neighbor)
+        clusters.append(component)
+
+    print(f"  [{name}] {len(clusters)} conflict cluster(s)")
+
     unified = {}
     session = requests.Session()
     if proxy_url:
         session.proxies = {"http": proxy_url, "https": proxy_url}
     session.headers["Authorization"] = f"Bearer {api_key}"
 
-    conflict_items = list(conflicts.items())
-
-    for i in range(0, len(conflict_items), UNIFY_BATCH):
-        batch = conflict_items[i:i + UNIFY_BATCH]
-        batch_tns = {tn for tn, _ in batch}
-
-        # Build fresh group index from current cache (picks up updates from prev batches)
+    for cluster_idx, cluster_tns in enumerate(clusters):
+        # Build fresh group index from current cache (picks up updates from prev clusters)
         group_by_key = {}
         for header, is_g, original_lines, tagged_entries in groups:
             if is_g or not tagged_entries:
@@ -425,13 +457,16 @@ def unify_translations(name, groups, cache, cache_lock, proxy_url, api_key):
             translations = cache.get(text_key, {})
             group_by_key[text_key] = (header, original_lines, tagged_entries, translations)
 
-        # Collect groups involved in this batch
-        involved_keys = set()
+        # Collect groups that contain any TEXT ID from this cluster
+        involved_keys = []
         for tk, (gh, gol, gt, gtr) in group_by_key.items():
             for _, _, tn, _ in gt:
-                if tn in batch_tns and gtr.get(tn, ""):
-                    involved_keys.add(tk)
-        involved_keys = list(involved_keys)
+                if tn in cluster_tns and gtr.get(tn, ""):
+                    involved_keys.append(tk)
+                    break
+
+        if not involved_keys:
+            continue
 
         # Find shared TEXT IDs across these groups (mark as UNIFY)
         key_texts = {}
@@ -446,8 +481,7 @@ def unify_translations(name, groups, cache, cache_lock, proxy_url, api_key):
             for b in range(a + 1, len(all_keys)):
                 shared_text_ids.update(key_texts[all_keys[a]] & key_texts[all_keys[b]])
 
-        # Also include the conflicting TEXT IDs (they might not be shared if only one group has them)
-        unify_ids = shared_text_ids | {tn for tn, _ in batch}
+        unify_ids = shared_text_ids | cluster_tns
 
         # Build prompt: full group content
         lines = []
@@ -470,6 +504,10 @@ def unify_translations(name, groups, cache, cache_lock, proxy_url, api_key):
 
         prompt = "\n".join(lines)
 
+        tns_label = ",".join(sorted(cluster_tns))
+        desc = f"[{name}] unify cluster {cluster_idx + 1}/{len(clusters)} ({tns_label})"
+        print(f"  {desc} ({len(involved_keys)} groups)")
+
         try:
             system = "专有名词翻译参考：\n" + GLOSSARY + "\n\n" + UNIFY_SYSTEM_PROMPT if GLOSSARY else UNIFY_SYSTEM_PROMPT
             payload = {
@@ -482,7 +520,6 @@ def unify_translations(name, groups, cache, cache_lock, proxy_url, api_key):
                 "temperature": 0.3,
                 "response_format": {"type": "json_object"},
             }
-            desc = f"[{name}] unify batch"
             log_write(f"REQUEST {desc}", f"System:\n{system}\n\nPrompt:\n{prompt}")
             resp = session.post(API_URL, json=payload, timeout=180)
             resp.raise_for_status()
@@ -504,7 +541,7 @@ def unify_translations(name, groups, cache, cache_lock, proxy_url, api_key):
                 for item in g.get("entries", []):
                     unified[(tk, item["text_id"].upper())] = item["translation"]
         except Exception as e:
-            print(f"  [{name}] Unify batch failed: {e}")
+            print(f"  [{name}] Unify cluster {cluster_idx + 1} failed: {e}")
             continue
 
     if unified:
