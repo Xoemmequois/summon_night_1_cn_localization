@@ -35,6 +35,7 @@ def analyze(target_id, init_95)
   # Monkey-patch:
   # 1. Skip c4[0x95]=3 at idx 386 -> keep our initial value
   # 2. 0x002E at offset 0x3A6 -> set FID from c4[0x95]
+  # 3. 0x000A at 0x25FD -> (c4[0x99]==2) OR (c4[0x99]==3), fork regA=1/0
   old_dispatch = manager.method(:dispatch)
   manager.define_singleton_method(:dispatch) do |state, cmd, cmds|
     # Skip hardcoded c4[0x95]=3 at idx 386 (offset 0x3B5)
@@ -47,6 +48,18 @@ def analyze(target_id, init_95)
       c95 = state.read_c4(0x95)
       fid = FID_MAP[c95] || 0x19
       state.dialog_file_id = fid
+    end
+    # 0x000A at 0x25FD: (c4[0x99]==2) OR (c4[0x99]==3) -> regA
+    # regA=1 -> 0x260E call 0x26C3 (TEXT:12-15 male companion path)
+    # regA=0 -> 0x2610 goto -> c4[0x95]=8 -> FID 0x1E transition
+    if cmd.code == 0x000A && cmd.index == 0x25FD
+      f = state.clone
+      f.regA = 1    # male companion path: 0x0020 jumps to call 0x26C3
+      f.pc = state.pc + 1
+      manager.push(f)
+      state.regA = 0  # female companion path: falls through
+      state.pc += 1
+      return true
     end
     old_dispatch.call(state, cmd, cmds)
   end

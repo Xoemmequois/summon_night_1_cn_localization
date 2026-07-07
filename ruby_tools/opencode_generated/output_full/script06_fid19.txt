@@ -19,15 +19,15 @@
 
 --- Group 5 [left:char_0004 next=0023] ---
 [FID:19, TEXT:0009] ・・・あのときのまま
-[FID:19, TEXT:0019] なのかしら？
+[FID:19, TEXT:000A] なんだろうか？
 
 --- Group 6 [left:char_0004 next=0023] ---
 [FID:19, TEXT:0009] ・・・あのときのまま
-[FID:19, TEXT:0014] なのかな？
+[FID:19, TEXT:0019] なのかしら？
 
 --- Group 7 [left:char_0004 next=0023] ---
 [FID:19, TEXT:0009] ・・・あのときのまま
-[FID:19, TEXT:000A] なんだろうか？
+[FID:19, TEXT:0014] なのかな？
 
 --- Group 8 [left:char_0004 next=2012] ---
 [FID:19, TEXT:000B] 僕がこの世界に呼びだ
@@ -96,15 +96,15 @@
 
 --- Group 22 [left:char_0004 next=2012] ---
 [FID:19, TEXT:002D] あの時は逃げ出すのに
-[FID:19, TEXT:0037] 夢中だったから・・・
-[FID:19, TEXT:0038] どうやって街に来たか
-[FID:19, TEXT:0039] も覚えてないし・・
-
---- Group 23 [left:char_0004 next=2012] ---
-[FID:19, TEXT:002D] あの時は逃げ出すのに
 [FID:19, TEXT:002E] 夢中で、どうやって街
 [FID:19, TEXT:002F] に来たのかわからなか
 [FID:19, TEXT:0030] ったし・・・
+
+--- Group 23 [left:char_0004 next=2012] ---
+[FID:19, TEXT:002D] あの時は逃げ出すのに
+[FID:19, TEXT:0037] 夢中だったから・・・
+[FID:19, TEXT:0038] どうやって街に来たか
+[FID:19, TEXT:0039] も覚えてないし・・
 
 --- Group 24 [left:char_0004 next=0023] ---
 [FID:19, TEXT:0031] もう一度あの時の場所
@@ -258,11 +258,11 @@
 
 --- Group 58 [left:char_0004 next=0023] ---
 [FID:19, TEXT:007E] 儀式を行ったのは、城
-[FID:19, TEXT:007F] の召喚師でしょうか？
+[FID:19, TEXT:0080] の召喚師なんですか？
 
 --- Group 59 [left:char_0004 next=0023] ---
 [FID:19, TEXT:007E] 儀式を行ったのは、城
-[FID:19, TEXT:0080] の召喚師なんですか？
+[FID:19, TEXT:007F] の召喚師でしょうか？
 
 --- Group 60 [right:char_0012 next=2012] ---
 [FID:19, TEXT:0081] いや、もしそうだとし
@@ -387,10 +387,10 @@
 
 --- Group 92 [left:char_0004 next=0023] ---
 [FID:19, TEXT:00B7] 確かに・・・
-[FID:19, TEXT:00B8] そうですね
 
 --- Group 93 [left:char_0004 next=0023] ---
 [FID:19, TEXT:00B7] 確かに・・・
+[FID:19, TEXT:00B8] そうですね
 
 --- Group 94 [right:char_0013 next=2012] ---
 [FID:19, TEXT:00B9] どうするよ、これ？

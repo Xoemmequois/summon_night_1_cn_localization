@@ -1,62 +1,10 @@
---- Group [left:none next=0023] ---
-
-+[FID:1E, TEXT:0000] 
-
---- Group [left:none next=201D] ---
-
-
-　　迷惑な話だとは思うが、
-　　事故だっていうんだから
-　　仕方がない
--[FID:1E, TEXT:0000] 
--[FID:1E, TEXT:0000] 
-+[FID:1E, TEXT:0008] 
-+[FID:1E, TEXT:0009] 
-+[FID:1E, TEXT:000A] 
-
---- Group [left:none next=201D] ---
-
-
-　まあ、いきさつはわかった
-　あとはどうやって元の世界へと
-　帰るかってことだよな・・・
--[FID:1E, TEXT:0000] 
--[FID:1E, TEXT:0000] 
-+[FID:1E, TEXT:000B] 
-+[FID:1E, TEXT:000C] 
-+[FID:1E, TEXT:000D] 
-
---- Group [left:none next=201D] ---
-
-
-　ともかく、いきさつはわかった
-　あとはなんとかして元の世界へ
-　帰る方法を探すだけだ・・・
--[FID:1E, TEXT:0000] 
--[FID:1E, TEXT:0000] 
-+[FID:1E, TEXT:000F] 
-+[FID:1E, TEXT:0010] 
-+[FID:1E, TEXT:0011] 
-
---- Group [left:none next=201D] ---
-
-
-　ともかく、いきさつはわかった
-　あとはなんとかして元の世界へ
-　帰る方法を探すだけ・・・
--[FID:1E, TEXT:0000] 
--[FID:1E, TEXT:0000] 
--[FID:1E, TEXT:000F] 
--[FID:1E, TEXT:0010] 
-+[FID:1E, TEXT:0019] 
-
 --- Group [left:none next=201D] ---
 
 　ただ、いきさつの理解は
 　できたから・・・
 　悩んでいるよりも、一刻も早く
 　帰る方法をさがそうと思う・・・
--[FID:1E, TEXT:0000] 
++[FID:1E, TEXT:0000] 
 +[FID:1E, TEXT:0023] 
 +[FID:1E, TEXT:0024] 
 +[FID:1E, TEXT:0025] 
@@ -73,6 +21,54 @@
 +[FID:1E, TEXT:0020] 
 +[FID:1E, TEXT:0021] 
 +[FID:1E, TEXT:0022] 
+
+--- Group [left:none next=201D] ---
+
+
+　ともかく、いきさつはわかった
+　あとはなんとかして元の世界へ
+　帰る方法を探すだけ・・・
+-[FID:1E, TEXT:0000] 
+-[FID:1E, TEXT:0000] 
++[FID:1E, TEXT:000F] 
++[FID:1E, TEXT:0010] 
++[FID:1E, TEXT:0019] 
+
+--- Group [left:none next=201D] ---
+
+
+　ともかく、いきさつはわかった
+　あとはなんとかして元の世界へ
+　帰る方法を探すだけだ・・・
+-[FID:1E, TEXT:0000] 
+-[FID:1E, TEXT:0000] 
+-[FID:1E, TEXT:000F] 
+-[FID:1E, TEXT:0010] 
++[FID:1E, TEXT:0011] 
+
+--- Group [left:none next=201D] ---
+
+
+　まあ、いきさつはわかった
+　あとはどうやって元の世界へと
+　帰るかってことだよな・・・
+-[FID:1E, TEXT:0000] 
+-[FID:1E, TEXT:0000] 
++[FID:1E, TEXT:000B] 
++[FID:1E, TEXT:000C] 
++[FID:1E, TEXT:000D] 
+
+--- Group [left:none next=201D] ---
+
+
+　　迷惑な話だとは思うが、
+　　事故だっていうんだから
+　　仕方がない
+-[FID:1E, TEXT:0000] 
+-[FID:1E, TEXT:0000] 
++[FID:1E, TEXT:0008] 
++[FID:1E, TEXT:0009] 
++[FID:1E, TEXT:000A] 
 
 --- Group [left:none next=0023] ---
 　　荒野で出会ったソルの
@@ -236,7 +232,7 @@
 +[FID:1E, TEXT:003F] 
 +[FID:1E, TEXT:0040] 
 
---- Group [right:基尔 next=2012] ---
+--- Group [right:索尔 next=2012] ---
 どうしてだ？
 +[FID:1E, TEXT:0041] 
 
@@ -321,10 +317,10 @@
 --- Group [left:主人公 next=2012] ---
 黙って逃げたって
 いいのに、自分から
-出てきてくれた
+出てきてくれたじゃん
 +[FID:1E, TEXT:005C] 
 +[FID:1E, TEXT:005D] 
-+[FID:1E, TEXT:0091] 
++[FID:1E, TEXT:00CC] 
 
 --- Group [left:主人公 next=2012] ---
 黙って逃げたって
@@ -345,10 +341,10 @@
 --- Group [left:主人公 next=2012] ---
 黙って逃げたって
 いいのに、自分から
-出てきてくれたじゃん
+出てきてくれた
 -[FID:1E, TEXT:005C] 
 -[FID:1E, TEXT:005D] 
-+[FID:1E, TEXT:00CC] 
++[FID:1E, TEXT:0091] 
 
 --- Group [left:主人公 next=0023] ---
 それで充分・・・
@@ -360,19 +356,19 @@
 
 --- Group [left:主人公 next=2012] ---
 ・・・憎んでも
-もとの世界に戻れる
-わけじゃないですし
+なにもはじまらない
+そう学びました
 +[FID:1E, TEXT:0062] 
-+[FID:1E, TEXT:0094] 
-+[FID:1E, TEXT:0095] 
++[FID:1E, TEXT:0063] 
++[FID:1E, TEXT:0064] 
 
 --- Group [left:主人公 next=2012] ---
 ・・・憎んでも
-なにもはじまらない
-そう学びました
+もとの世界に戻れる
+わけじゃないですし
 -[FID:1E, TEXT:0062] 
-+[FID:1E, TEXT:0063] 
-+[FID:1E, TEXT:0064] 
++[FID:1E, TEXT:0094] 
++[FID:1E, TEXT:0095] 
 
 --- Group [left:主人公 next=2012] ---
 それにあなたは
@@ -542,21 +538,21 @@
 だから、わたしは
 あなたを信じます
 みんなもきっと、同じ
-ことを言いますよ
+ことを言うはずです
 +[FID:1E, TEXT:009A] 
 -[FID:1E, TEXT:006C] 
 +[FID:1E, TEXT:009B] 
-+[FID:1E, TEXT:009C] 
++[FID:1E, TEXT:00B6] 
 
 --- Group [left:主人公 next=0023] ---
 だから、わたしは
 あなたを信じます
 みんなもきっと、同じ
-ことを言うはずです
+ことを言いますよ
 -[FID:1E, TEXT:009A] 
 -[FID:1E, TEXT:006C] 
 -[FID:1E, TEXT:009B] 
-+[FID:1E, TEXT:00B6] 
++[FID:1E, TEXT:009C] 
 
 --- Group [right:基尔 next=2012] ---
 だと、いいがね・・・
@@ -702,13 +698,33 @@
 
 --- Group [left:主人公 next=2012] ---
 何もわからないよりは
+ましですよ
+それにまだ、僕はあき
+らめていませんし
++[FID:1E, TEXT:00D3] 
++[FID:1E, TEXT:00D4] 
++[FID:1E, TEXT:00DC] 
++[FID:1E, TEXT:00DD] 
+
+--- Group [left:主人公 next=2012] ---
+何もわからないよりは
 ましですってば・・・
 それに、まだあきらめ
 てません、あたし！
-+[FID:1E, TEXT:00D3] 
+-[FID:1E, TEXT:00D3] 
 +[FID:1E, TEXT:00E0] 
 +[FID:1E, TEXT:00E1] 
 +[FID:1E, TEXT:00E2] 
+
+--- Group [left:主人公 next=2012] ---
+何もわからないよりは
+ましですよ
+それに、俺はあきらめ
+てないですし
+-[FID:1E, TEXT:00D3] 
+-[FID:1E, TEXT:00D4] 
++[FID:1E, TEXT:00D5] 
++[FID:1E, TEXT:00D6] 
 
 --- Group [left:主人公 next=2012] ---
 何もわからないよりは
@@ -719,26 +735,6 @@
 +[FID:1E, TEXT:00E4] 
 +[FID:1E, TEXT:00E5] 
 +[FID:1E, TEXT:00E6] 
-
---- Group [left:主人公 next=2012] ---
-何もわからないよりは
-ましですよ
-それに、俺はあきらめ
-てないですし
--[FID:1E, TEXT:00D3] 
-+[FID:1E, TEXT:00D4] 
-+[FID:1E, TEXT:00D5] 
-+[FID:1E, TEXT:00D6] 
-
---- Group [left:主人公 next=2012] ---
-何もわからないよりは
-ましですよ
-それにまだ、僕はあき
-らめていませんし
--[FID:1E, TEXT:00D3] 
--[FID:1E, TEXT:00D4] 
-+[FID:1E, TEXT:00DC] 
-+[FID:1E, TEXT:00DD] 
 
 --- Group [left:主人公 next=0023] ---
 キールも
@@ -754,15 +750,15 @@
 
 --- Group [left:主人公 next=0023] ---
 一緒に、帰る方法を
-探してくれるそうです
+探してくれますし
 +[FID:1E, TEXT:00DA] 
-+[FID:1E, TEXT:00DF] 
++[FID:1E, TEXT:00E3] 
 
 --- Group [left:主人公 next=0023] ---
 一緒に、帰る方法を
-探してくれますし
+探してくれるそうです
 -[FID:1E, TEXT:00DA] 
-+[FID:1E, TEXT:00E3] 
++[FID:1E, TEXT:00DF] 
 
 --- Group [left:主人公 next=0023] ---
 一緒に、帰る方法を
@@ -858,15 +854,9 @@
 
 --- Group [left:主人公 next=0023] ---
 どうして召喚師のこと
-をそんなに嫌うんだ？
-+[FID:1E, TEXT:0103] 
-+[FID:1E, TEXT:0104] 
-
---- Group [left:主人公 next=0023] ---
-どうして召喚師のこと
 を、そんなに嫌うんで
 すか・・・
--[FID:1E, TEXT:0103] 
++[FID:1E, TEXT:0103] 
 +[FID:1E, TEXT:0106] 
 +[FID:1E, TEXT:0107] 
 
@@ -875,6 +865,12 @@
 をそんなに嫌うの？
 -[FID:1E, TEXT:0103] 
 +[FID:1E, TEXT:0105] 
+
+--- Group [left:主人公 next=0023] ---
+どうして召喚師のこと
+をそんなに嫌うんだ？
+-[FID:1E, TEXT:0103] 
++[FID:1E, TEXT:0104] 
 
 --- Group [right:加泽尔 next=2012] ---
 ・・・この建物がよ、
@@ -1082,15 +1078,15 @@
 
 --- Group [left:主人公 next=0023] ---
 一日中、庭で見張りを
-しててくれたの？
+してたんだって？
 +[FID:1E, TEXT:014C] 
-+[FID:1E, TEXT:014E] 
++[FID:1E, TEXT:014D] 
 
 --- Group [left:主人公 next=0023] ---
 一日中、庭で見張りを
-してたんだって？
+しててくれたの？
 -[FID:1E, TEXT:014C] 
-+[FID:1E, TEXT:014D] 
++[FID:1E, TEXT:014E] 
 
 --- Group [right:阿尔巴 next=2012] ---
 ・・・うん
@@ -1116,7 +1112,7 @@
 う・・・ん・・・
 +[FID:1E, TEXT:0154] 
 
---- Group [right:拉米 next=2012] ---
+--- Group [right:阿尔巴 next=2012] ---
 （スゥ・・・）
 +[FID:1E, TEXT:0155] 
 
@@ -1166,9 +1162,17 @@
 
 --- Group [left:主人公 next=0023] ---
 フィズは自分が悪かっ
+たこと、今はわかって
+いるんだろう
++[FID:1E, TEXT:0163] 
++[FID:1E, TEXT:0166] 
++[FID:1E, TEXT:0167] 
+
+--- Group [left:主人公 next=0023] ---
+フィズは自分が悪かっ
 たって、今は思ってる
 んでしょ？
-+[FID:1E, TEXT:0163] 
+-[FID:1E, TEXT:0163] 
 +[FID:1E, TEXT:0164] 
 +[FID:1E, TEXT:0168] 
 
@@ -1179,14 +1183,6 @@
 -[FID:1E, TEXT:0163] 
 -[FID:1E, TEXT:0164] 
 +[FID:1E, TEXT:0165] 
-
---- Group [left:主人公 next=0023] ---
-フィズは自分が悪かっ
-たこと、今はわかって
-いるんだろう
--[FID:1E, TEXT:0163] 
-+[FID:1E, TEXT:0166] 
-+[FID:1E, TEXT:0167] 
 
 --- Group [left:主人公 next=2012] ---
 それなら、リプレにも
@@ -1206,23 +1202,13 @@
 
 --- Group [left:主人公 next=0023] ---
 心配しなくていいから
-部屋に戻ってごらん
+部屋に戻ってみな
 きっと、リプレはもう
 怒ってないよ
 +[FID:1E, TEXT:016C] 
-+[FID:1E, TEXT:0170] 
++[FID:1E, TEXT:016D] 
 +[FID:1E, TEXT:016E] 
 +[FID:1E, TEXT:016F] 
-
---- Group [left:主人公 next=0023] ---
-心配しなくていいから
-部屋に戻ろうね
-きっと、リプレさんは
-怒ってないよ
--[FID:1E, TEXT:016C] 
-+[FID:1E, TEXT:0177] 
-+[FID:1E, TEXT:0178] 
--[FID:1E, TEXT:016F] 
 
 --- Group [left:主人公 next=2012] ---
 心配しなくていいから
@@ -1232,12 +1218,22 @@
 
 --- Group [left:主人公 next=0023] ---
 心配しなくていいから
-部屋に戻ってみな
+部屋に戻ってごらん
 きっと、リプレはもう
 怒ってないよ
 -[FID:1E, TEXT:016C] 
-+[FID:1E, TEXT:016D] 
++[FID:1E, TEXT:0170] 
 -[FID:1E, TEXT:016E] 
+-[FID:1E, TEXT:016F] 
+
+--- Group [left:主人公 next=0023] ---
+心配しなくていいから
+部屋に戻ろうね
+きっと、リプレさんは
+怒ってないよ
+-[FID:1E, TEXT:016C] 
++[FID:1E, TEXT:0177] 
++[FID:1E, TEXT:0178] 
 -[FID:1E, TEXT:016F] 
 
 --- Group [left:主人公 next=0023] ---
@@ -1334,21 +1330,21 @@
 
 --- Group [left:none next=0023] ---
 　　　まずはあたしが、
-　　　彼を信じないと！
-　　　全てはそれからだね！
-+[FID:1E, TEXT:0191] 
-+[FID:1E, TEXT:0192] 
-+[FID:1E, TEXT:0193] 
-
---- Group [left:none next=0023] ---
-　　　まずはあたしが、
 　　　彼女を信じないと！
 　　　全てはそれからだね！
--[FID:1E, TEXT:0191] 
++[FID:1E, TEXT:0191] 
 +[FID:1E, TEXT:019B] 
--[FID:1E, TEXT:0193] 
++[FID:1E, TEXT:0193] 
 
 --- Group [right:索尔 next=0023] ---
+　　　まずはあたしが、
+　　　彼を信じないと！
+　　　全てはそれからだね！
+-[FID:1E, TEXT:0191] 
++[FID:1E, TEXT:0192] 
+-[FID:1E, TEXT:0193] 
+
+--- Group [left:none next=0023] ---
 　　　わたしが彼を信じる
 　　　・・・まずはそれから
 　　　はじめないと・・・
@@ -1356,7 +1352,7 @@
 +[FID:1E, TEXT:0195] 
 +[FID:1E, TEXT:0196] 
 
---- Group [right:索尔 next=0023] ---
+--- Group [left:none next=0023] ---
 　　　まずは俺が、彼のことを
 　　　信じないとな・・・
 　　　全てはそれからだ
@@ -1372,7 +1368,7 @@
 -[FID:1E, TEXT:018F] 
 -[FID:1E, TEXT:0190] 
 
---- Group [right:索尔 next=0023] ---
+--- Group [left:none next=0023] ---
 　　　まずは僕が、彼女を
 　　　信じないとな・・・
 　　　全てはそれからだ
@@ -1390,15 +1386,15 @@
 
 --- Group [left:none next=0023] ---
 　　召喚師にも、
-　　いろいろいるらしいな・・・
+　　いろいろいるのですね・・・
 +[FID:1E, TEXT:019C] 
-+[FID:1E, TEXT:019D] 
++[FID:1E, TEXT:01A0] 
 
 --- Group [left:none next=0023] ---
 　　召喚師にも、
-　　いろいろいるのですね・・・
+　　いろいろいるんだ・・・
 -[FID:1E, TEXT:019C] 
-+[FID:1E, TEXT:01A0] 
++[FID:1E, TEXT:019F] 
 
 --- Group [left:none next=0023] ---
 　　召喚師にも、
@@ -1408,9 +1404,9 @@
 
 --- Group [left:none next=0023] ---
 　　召喚師にも、
-　　いろいろいるんだ・・・
+　　いろいろいるらしいな・・・
 -[FID:1E, TEXT:019C] 
-+[FID:1E, TEXT:019F] 
++[FID:1E, TEXT:019D] 
 
 --- Group [left:none next=0023] ---
 　ガゼルが召喚師を嫌う気持ち
@@ -1435,18 +1431,18 @@
 --- Group [left:none next=0023] ---
 　　エドスって
 　　身体だけじゃなくて
-　　気持ちも大きいんだねぇ・・・
+　　気持ちも大きいんだな・・・
 +[FID:1E, TEXT:01A7] 
 +[FID:1E, TEXT:01A8] 
-+[FID:1E, TEXT:01AA] 
++[FID:1E, TEXT:01A9] 
 
 --- Group [left:none next=0023] ---
 　　エドスって
 　　身体だけじゃなくて
-　　気持ちも大きいんだな・・・
+　　気持ちも大きいんだねぇ・・・
 -[FID:1E, TEXT:01A7] 
 -[FID:1E, TEXT:01A8] 
-+[FID:1E, TEXT:01A9] 
++[FID:1E, TEXT:01AA] 
 
 --- Group [left:none next=0023] ---
 　　エドスさん
@@ -1516,15 +1512,15 @@
 
 --- Group [left:none next=0023] ---
 　生意気だって思ってたけど、
-　素直なところもあるんだな・・・
--[FID:1E, TEXT:01BC] 
-+[FID:1E, TEXT:01BD] 
-
---- Group [left:none next=0023] ---
-　生意気だって思ってたけど、
 　素直なところもあるのね・・・
 -[FID:1E, TEXT:01BC] 
 +[FID:1E, TEXT:01BF] 
+
+--- Group [left:none next=0023] ---
+　生意気だって思ってたけど、
+　素直なところもあるんだな・・・
+-[FID:1E, TEXT:01BC] 
++[FID:1E, TEXT:01BD] 
 
 --- Group [left:none next=0023] ---
 　よっぽど退屈だったんだろうなぁ
