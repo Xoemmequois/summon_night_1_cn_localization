@@ -15,10 +15,10 @@
 --- Group [left:none next=0023] ---
 そういえば、二人だけ
 で出かけるのって
-これが初めてだな
+これが初めてですよね
 +[FID:30, TEXT:0005] 
 +[FID:30, TEXT:0006] 
-+[FID:30, TEXT:0007] 
++[FID:30, TEXT:0044] 
 
 --- Group [left:none next=0023] ---
 そういえば、二人だけ
@@ -27,6 +27,22 @@
 -[FID:30, TEXT:0005] 
 +[FID:30, TEXT:000B] 
 +[FID:30, TEXT:000C] 
+
+--- Group [left:none next=0023] ---
+そういえば、二人だけ
+で出かけるのって
+これが初めてだな
+-[FID:30, TEXT:0005] 
+-[FID:30, TEXT:0006] 
++[FID:30, TEXT:0007] 
+
+--- Group [left:none next=0023] ---
+そういえば、二人だけ
+で出かけるのってこれ
+が初めてじゃないかな
+-[FID:30, TEXT:0005] 
++[FID:30, TEXT:003E] 
++[FID:30, TEXT:003F] 
 
 --- Group [left:none next=0023] ---
 ねね、そういえば
@@ -51,6 +67,12 @@
 +[FID:30, TEXT:0011] 
 
 --- Group [left:none next=0023] ---
+ここでの生活にはもう
+慣れましたか？
+-[FID:30, TEXT:0010] 
++[FID:30, TEXT:0015] 
+
+--- Group [left:none next=0023] ---
 どう、暮らしやすい？
 もう慣れた？
 +[FID:30, TEXT:0012] 
@@ -60,9 +82,9 @@
 ここでの生活には
 慣れましたか？
 +[FID:30, TEXT:0014] 
-+[FID:30, TEXT:0015] 
+-[FID:30, TEXT:0015] 
 
---- Group [right:菲兹 next=2012] ---
+--- Group [right:none next=2012] ---
 そこそこ、だよ
 +[FID:30, TEXT:0016] 
 
@@ -92,17 +114,33 @@
 +[FID:30, TEXT:001D] 
 +[FID:30, TEXT:001E] 
 
---- Group [left:none next=2012] ---
+--- Group [right:none next=2012] ---
 そうか・・・
 +[FID:30, TEXT:001F] 
 
 --- Group [left:none next=0023] ---
 ここへ来る前だけど
+クラレットはどんな生
+活をしてたんだい？
++[FID:30, TEXT:0020] 
++[FID:30, TEXT:009E] 
++[FID:30, TEXT:009F] 
+
+--- Group [left:none next=0023] ---
+ここへ来る前だけど
 ソルはどんな生活を
 していたんだい？
-+[FID:30, TEXT:0020] 
+-[FID:30, TEXT:0020] 
 +[FID:30, TEXT:0021] 
 +[FID:30, TEXT:0022] 
+
+--- Group [left:none next=0023] ---
+ここへ来る前だけど
+カシスはどんな生活を
+していたんだい？
+-[FID:30, TEXT:0020] 
++[FID:30, TEXT:007E] 
+-[FID:30, TEXT:0022] 
 
 --- Group [left:none next=0023] ---
 ふーん・・・そうだ
@@ -152,7 +190,23 @@
 +[FID:30, TEXT:0033] 
 +[FID:30, TEXT:0034] 
 
---- Group [right:菲兹 next=2012] ---
+--- Group [left:none next=0023] ---
+いえ・・・
+お友達のこととか
+聞きたいなって・・・
+-[FID:30, TEXT:0031] 
++[FID:30, TEXT:006B] 
++[FID:30, TEXT:006C] 
+
+--- Group [left:none next=0023] ---
+いえ・・・
+お友達のこととか
+知りたいなと思って
+-[FID:30, TEXT:0031] 
+-[FID:30, TEXT:006B] 
++[FID:30, TEXT:0085] 
+
+--- Group [right:none next=2012] ---
 ・・・いない
 +[FID:30, TEXT:0035] 
 
@@ -176,25 +230,383 @@
 +[FID:30, TEXT:003A] 
 +[FID:30, TEXT:003B] 
 
---- Group [right:none next=2012] ---
+--- Group [right:菲兹 next=2012] ---
 まわりはみんな年上
 ばっかりだしな
 +[FID:30, TEXT:003C] 
 +[FID:30, TEXT:003D] 
+
+--- Group [left:none next=0023] ---
+ねぇねぇ・・・
+ふたりだけで
+おでかけってさ
+はじめてだよね
++[FID:30, TEXT:0040] 
++[FID:30, TEXT:0041] 
++[FID:30, TEXT:0042] 
++[FID:30, TEXT:0043] 
+
+--- Group [right:菲兹 next=2012] ---
+ああ、そうだね
+僕はあまり外に出るの
+が好きではないから
++[FID:30, TEXT:0045] 
++[FID:30, TEXT:0046] 
++[FID:30, TEXT:0047] 
+
+--- Group [left:none next=2012] ---
+なんだかなぁ・・・
++[FID:30, TEXT:0048] 
+
+--- Group [left:none next=0023] ---
+あ、そうそう
+どう、生活のほうは
+慣れた？
++[FID:30, TEXT:0049] 
++[FID:30, TEXT:004A] 
++[FID:30, TEXT:004B] 
+
+--- Group [right:菲兹 next=2012] ---
+まあ、それなりにはね
++[FID:30, TEXT:004C] 
+
+--- Group [left:none next=0023] ---
+じゃあさ、みんなとは
+仲良くなれた？
++[FID:30, TEXT:004D] 
++[FID:30, TEXT:004E] 
+
+--- Group [right:菲兹 next=2012] ---
+前よりは話はできてる
+と思いますけど、私が
+話し下手ですから
++[FID:30, TEXT:004F] 
++[FID:30, TEXT:009A] 
++[FID:30, TEXT:009B] 
+
+--- Group [right:none next=2012] ---
+前よりは話はできてる
+と思うけど、もともと
+僕が話し下手だからな
+-[FID:30, TEXT:004F] 
++[FID:30, TEXT:0050] 
++[FID:30, TEXT:0051] 
+
+--- Group [left:none next=2012] ---
+そっか・・・
++[FID:30, TEXT:0052] 
+
+--- Group [left:none next=2012] ---
+そっか・・・
+ほら、でもさ
+みんなとも話し
+できてるみたいだし
+-[FID:30, TEXT:0052] 
++[FID:30, TEXT:0093] 
++[FID:30, TEXT:0094] 
++[FID:30, TEXT:0095] 
+
+--- Group [left:none next=0023] ---
+そっか・・・
+じゃあさ、これからは
+好きになってよ、ね！
+-[FID:30, TEXT:0052] 
++[FID:30, TEXT:008D] 
++[FID:30, TEXT:008E] 
+
+--- Group [left:none next=0023] ---
+ここへ来る前ってさ
+クラレットはどんな
+生活をしてたんだ？
++[FID:30, TEXT:0053] 
++[FID:30, TEXT:009C] 
++[FID:30, TEXT:009D] 
+
+--- Group [left:none next=0023] ---
+ここへ来る前ってさ
+キールはどんな生活を
+してたんだ？
+-[FID:30, TEXT:0053] 
++[FID:30, TEXT:0054] 
++[FID:30, TEXT:0055] 
+
+--- Group [left:none next=2012] ---
+・・・あ、そう・・・
++[FID:30, TEXT:0056] 
+
+--- Group [left:none next=2012] ---
+気をとりなおして！
++[FID:30, TEXT:0057] 
+
+--- Group [left:none next=0023] ---
+じゃあじゃあ
+いままでってさ
+キールはどんな生活
+してたの？
++[FID:30, TEXT:0058] 
++[FID:30, TEXT:0059] 
++[FID:30, TEXT:005A] 
++[FID:30, TEXT:005B] 
+
+--- Group [left:none next=2012] ---
+そうですか
+でも、努力してくれて
+いるんですね
+・・・嬉しいです
++[FID:30, TEXT:005C] 
++[FID:30, TEXT:005D] 
++[FID:30, TEXT:005E] 
++[FID:30, TEXT:005F] 
+
+--- Group [left:none next=0023] ---
+ここへ来る前・・・
+カシスさんは、どんな
+生活をしていたのか
+教えてくれませんか
++[FID:30, TEXT:0060] 
++[FID:30, TEXT:0080] 
++[FID:30, TEXT:0081] 
++[FID:30, TEXT:0082] 
+
+--- Group [left:none next=0023] ---
+ここへ来る前・・・
+キールさんは
+どんな生活を
+していたんですか？
+-[FID:30, TEXT:0060] 
++[FID:30, TEXT:0061] 
+-[FID:30, TEXT:0027] 
++[FID:30, TEXT:0062] 
+
+--- Group [right:none next=2012] ---
+どうって・・・
+別に変わった生活をし
+ていたわけじゃないが
++[FID:30, TEXT:0063] 
++[FID:30, TEXT:0064] 
++[FID:30, TEXT:0065] 
+
+--- Group [right:none next=2012] ---
+どうって・・・
+別に変わった生活をし
+ていたわけじゃないと
+思いますけど
+-[FID:30, TEXT:0063] 
+-[FID:30, TEXT:0064] 
++[FID:30, TEXT:00A5] 
++[FID:30, TEXT:00A6] 
+
+--- Group [left:none next=0023] ---
+いや、さ
+どんな友達がいたのか
+なってね
++[FID:30, TEXT:0066] 
+-[FID:30, TEXT:002F] 
++[FID:30, TEXT:0067] 
+
+--- Group [left:none next=0023] ---
+え〜！
+気になるでしょ？
+友達とか、兄弟とか？
++[FID:30, TEXT:0068] 
++[FID:30, TEXT:0069] 
++[FID:30, TEXT:006A] 
+
+--- Group [right:菲兹 next=2012] ---
+・・・ひとりだったよ
++[FID:30, TEXT:006D] 
+
+--- Group [left:none next=0023] ---
+は？
++[FID:30, TEXT:006E] 
+
+--- Group [right:none next=2012] ---
+物心のついた時には、
+もう召喚術の勉強を
+していたので
++[FID:30, TEXT:006F] 
++[FID:30, TEXT:0070] 
++[FID:30, TEXT:00AC] 
+
+--- Group [right:none next=2012] ---
+物心のついた時には、
+もう召喚術の勉強を
+してたからねぇ
+-[FID:30, TEXT:006F] 
+-[FID:30, TEXT:0070] 
++[FID:30, TEXT:0086] 
+
+--- Group [right:none next=2012] ---
+物心のついた時には、
+もう召喚術の勉強を
+していたからね
+-[FID:30, TEXT:006F] 
+-[FID:30, TEXT:0070] 
++[FID:30, TEXT:0071] 
+
+--- Group [right:菲兹 next=2012] ---
+まわりにいたのは
+年上の人間ばかり
+だったのさ
++[FID:30, TEXT:0072] 
++[FID:30, TEXT:0073] 
++[FID:30, TEXT:0074] 
+
+--- Group [right:none next=2012] ---
+それにしては、色気の
+ないデートだけどね
++[FID:30, TEXT:0075] 
++[FID:30, TEXT:0076] 
+
+--- Group [left:none next=2012] ---
+はははは
++[FID:30, TEXT:0077] 
+
+--- Group [left:none next=2012] ---
+女同士でですか？
++[FID:30, TEXT:0078] 
+
+--- Group [left:none next=0023] ---
+・・・あの
+ここでの生活には
+慣れましたか？
++[FID:30, TEXT:0079] 
+-[FID:30, TEXT:0014] 
+-[FID:30, TEXT:0015] 
+
+--- Group [right:菲兹 next=2012] ---
+まあね
++[FID:30, TEXT:007A] 
+
+--- Group [right:菲兹 next=2012] ---
+前よりは仲良くなれた
+と思うけど、まだまだ
+ってカンジかな
++[FID:30, TEXT:007B] 
++[FID:30, TEXT:007C] 
++[FID:30, TEXT:007D] 
+
+--- Group [left:none next=2012] ---
+そうですか・・・
++[FID:30, TEXT:007F] 
+
+--- Group [right:菲兹 next=2012] ---
+どんなって・・・
+別に普通だと思うけど
++[FID:30, TEXT:0083] 
++[FID:30, TEXT:0084] 
+
+--- Group [right:菲兹 next=2012] ---
+へへへ、意外でしょ？
++[FID:30, TEXT:0087] 
+
+--- Group [left:none next=0023] ---
+ねぇねぇ、ふたりだけ
+で出かけるのって
+はじめてだよね！
++[FID:30, TEXT:0088] 
+-[FID:30, TEXT:0006] 
++[FID:30, TEXT:0089] 
+
+--- Group [right:菲兹 next=2012] ---
+そうですね
+私、あまり外に出るの
+が好きじゃなくて
++[FID:30, TEXT:008A] 
++[FID:30, TEXT:008B] 
++[FID:30, TEXT:008C] 
+
+--- Group [right:菲兹 next=2012] ---
+はい、それなりには
++[FID:30, TEXT:008F] 
+
+--- Group [left:none next=2012] ---
+努力してみるって
+いうこと？
++[FID:30, TEXT:0090] 
++[FID:30, TEXT:0091] 
 
 --- Group [right:none next=2012] ---
 ・・・・・・
 +[FID:30, TEXT:0092] 
 
 --- Group [left:none next=0023] ---
+あたし、ちょっと
+嬉しいんだよ！
+クラレットも
+そう思わない？
++[FID:30, TEXT:0096] 
++[FID:30, TEXT:0097] 
++[FID:30, TEXT:0098] 
++[FID:30, TEXT:0099] 
+
+--- Group [left:none next=2012] ---
+話し下手って・・・
+そうでもないけどなぁ
++[FID:30, TEXT:00A0] 
++[FID:30, TEXT:00A1] 
+
+--- Group [left:none next=0023] ---
+あ〜、そうだ、あのさ
+クラレットはいままで
+どんな暮らしだった？
++[FID:30, TEXT:00A2] 
++[FID:30, TEXT:00A3] 
++[FID:30, TEXT:00A4] 
+
+--- Group [left:none next=0023] ---
+そうなんだ・・・
+どんな友達がいた
+のかな〜、とか
+気になるでしょ？
++[FID:30, TEXT:00A7] 
++[FID:30, TEXT:00A8] 
++[FID:30, TEXT:00A9] 
+-[FID:30, TEXT:0069] 
+
+--- Group [right:菲兹 next=2012] ---
+・・・ひとりでした
++[FID:30, TEXT:00AA] 
+
+--- Group [left:none next=0023] ---
+はい？
++[FID:30, TEXT:00AB] 
+
+--- Group [right:菲兹 next=2012] ---
+まわりにいたのは年上
+の人間ばかりでした
++[FID:30, TEXT:00AD] 
++[FID:30, TEXT:00AE] 
+
+--- Group [left:none next=0023] ---
+そういえば僕は
+カシスのこと
+ほとんどなにも
+知らないな
++[FID:30, TEXT:00AF] 
++[FID:30, TEXT:00C1] 
++[FID:30, TEXT:00B1] 
++[FID:30, TEXT:00B2] 
+
+--- Group [left:none next=0023] ---
+そういえば僕は
+クラレットのこと
+ほとんどなにも
+知らないな
+-[FID:30, TEXT:00AF] 
++[FID:30, TEXT:00C3] 
+-[FID:30, TEXT:00B1] 
+-[FID:30, TEXT:00B2] 
+
+--- Group [left:none next=0023] ---
 そういえば僕は
 ソルのこと
 ほとんどなにも
 知らないな
-+[FID:30, TEXT:00AF] 
+-[FID:30, TEXT:00AF] 
 +[FID:30, TEXT:00B0] 
-+[FID:30, TEXT:00B1] 
-+[FID:30, TEXT:00B2] 
+-[FID:30, TEXT:00B1] 
+-[FID:30, TEXT:00B2] 
 
 --- Group [left:none next=0023] ---
 そういえばあたし
@@ -207,14 +619,54 @@
 +[FID:30, TEXT:00B6] 
 
 --- Group [left:none next=0023] ---
+そういえばあたし
+キールのこと
+ほとんどなにも
+知らない・・・
+-[FID:30, TEXT:00B3] 
++[FID:30, TEXT:00BE] 
+-[FID:30, TEXT:00B1] 
++[FID:30, TEXT:00B9] 
+
+--- Group [left:none next=0023] ---
+そういえばあたし
+クラレットのこと
+な〜んにも知らない
+んだよねぇ・・・
+-[FID:30, TEXT:00B3] 
+-[FID:30, TEXT:00C3] 
++[FID:30, TEXT:00C4] 
++[FID:30, TEXT:00C5] 
+
+--- Group [left:none next=0023] ---
+そういえばわたし
+キールさんのこと
+ほとんどなにも
+知らない・・・
++[FID:30, TEXT:00B7] 
++[FID:30, TEXT:00C0] 
+-[FID:30, TEXT:00B1] 
+-[FID:30, TEXT:00B9] 
+
+--- Group [left:none next=0023] ---
+そういえばわたし
+カシスさんのこと
+ほとんどなにも
+知らない・・・
+-[FID:30, TEXT:00B7] 
++[FID:30, TEXT:00C2] 
+-[FID:30, TEXT:00B1] 
+-[FID:30, TEXT:00B9] 
+
+--- Group [left:none next=0023] ---
 そういえばわたし
 この人のこと
 ほとんどなにも
 知らない・・・
-+[FID:30, TEXT:00B7] 
+-[FID:30, TEXT:00B7] 
 +[FID:30, TEXT:00B8] 
 -[FID:30, TEXT:00B1] 
-+[FID:30, TEXT:00B9] 
+-[FID:30, TEXT:00B9] 
 
 --- Group [left:none next=0023] ---
 どうしよう？
@@ -226,11 +678,45 @@
 +[FID:30, TEXT:00BB] 
 +[FID:30, TEXT:00BC] 
 
+--- Group [left:none next=0023] ---
+そういえば俺って
+キールのこと
+ほとんどなにも
+知らないんだよな
++[FID:30, TEXT:00BD] 
+-[FID:30, TEXT:00BE] 
+-[FID:30, TEXT:00B1] 
++[FID:30, TEXT:00BF] 
+
+--- Group [left:none next=2012] ---
+これから行く場所で、
+俺たちは初めて
+出会ったんだよなあ
++[FID:30, TEXT:00C6] 
++[FID:30, TEXT:00E4] 
++[FID:30, TEXT:00E5] 
+
+--- Group [left:none next=2012] ---
+これから行く場所で、
+あたしとクラレットが
+出会って・・・
+-[FID:30, TEXT:00C6] 
++[FID:30, TEXT:016B] 
++[FID:30, TEXT:0120] 
+
+--- Group [left:none next=2012] ---
+これから行く場所で、
+僕たちは初めて
+出会ったんだったね
+-[FID:30, TEXT:00C6] 
++[FID:30, TEXT:00C7] 
++[FID:30, TEXT:00C8] 
+
 --- Group [left:none next=2012] ---
 これから行く場所で、
 あたしたちって
 出会ったんだよね
-+[FID:30, TEXT:00C6] 
+-[FID:30, TEXT:00C6] 
 +[FID:30, TEXT:00CE] 
 +[FID:30, TEXT:00CF] 
 
@@ -244,11 +730,27 @@
 
 --- Group [left:none next=2012] ---
 これから行く場所で、
-僕たちは初めて
-出会ったんだったね
+わたしたちは、
+出会ったんですよね
 -[FID:30, TEXT:00C6] 
-+[FID:30, TEXT:00C7] 
-+[FID:30, TEXT:00C8] 
++[FID:30, TEXT:00FA] 
++[FID:30, TEXT:00ED] 
+
+--- Group [left:none next=2012] ---
+これから行く場所で、
+あたしたちって
+出会ったんだよねぇ〜
+-[FID:30, TEXT:00C6] 
+-[FID:30, TEXT:00CE] 
++[FID:30, TEXT:00E7] 
+
+--- Group [left:none next=2012] ---
+これから行く場所で、
+わたしたち、
+出会ったんですよね
+-[FID:30, TEXT:00C6] 
++[FID:30, TEXT:00EC] 
+-[FID:30, TEXT:00ED] 
 
 --- Group [left:none next=2012] ---
 あのとき、君が僕の心
@@ -284,11 +786,27 @@
 +[FID:30, TEXT:00D8] 
 +[FID:30, TEXT:00D9] 
 
+--- Group [left:none next=2012] ---
+あのとき、あなたが
+心に呼びかけて
+くれなかったら・・・
+-[FID:30, TEXT:00D6] 
++[FID:30, TEXT:00EE] 
++[FID:30, TEXT:00FB] 
+
+--- Group [left:none next=2012] ---
+あのとき、あなたが
+心に呼びかけて
+くれなかったら
+-[FID:30, TEXT:00D6] 
+-[FID:30, TEXT:00EE] 
++[FID:30, TEXT:00EF] 
+
 --- Group [left:none next=0023] ---
 感謝しています・・・
 +[FID:30, TEXT:00DA] 
 
---- Group [right:菲兹 next=2012] ---
+--- Group [right:none next=2012] ---
 おいおい、俺は
 何にもしてないぜ！
 +[FID:30, TEXT:00DB] 
@@ -306,15 +824,131 @@
 
 --- Group [left:none next=0023] ---
 ふふ・・・
-照れてますね？
+照れてますか？
 +[FID:30, TEXT:00E0] 
++[FID:30, TEXT:00F6] 
+
+--- Group [left:none next=0023] ---
+ふふ・・・
+照れてますね？
+-[FID:30, TEXT:00E0] 
 +[FID:30, TEXT:00E1] 
 
---- Group [right:菲兹 next=2012] ---
+--- Group [right:none next=2012] ---
 感謝なんか必要ないん
 だよ、本当は・・・
 +[FID:30, TEXT:00E2] 
 +[FID:30, TEXT:00E3] 
+
+--- Group [left:none next=2012] ---
+あのとき、君が俺の心
+に呼びかけてくれなか
+ったら、きっと大変な
+ことになってたよ
++[FID:30, TEXT:00E6] 
+-[FID:30, TEXT:00CA] 
+-[FID:30, TEXT:00CB] 
+-[FID:30, TEXT:00CC] 
+
+--- Group [left:none next=2012] ---
+あのとき、キールが
+呼んでくれなかったら
+あたし、きっと
+迷子になってたよ
++[FID:30, TEXT:00E8] 
++[FID:30, TEXT:00E9] 
++[FID:30, TEXT:00EA] 
++[FID:30, TEXT:00EB] 
+
+--- Group [left:none next=2012] ---
+きっと大変なことに
+なっていました
++[FID:30, TEXT:00F0] 
++[FID:30, TEXT:00F1] 
+
+--- Group [left:none next=0023] ---
+感謝・・・
+しているんですよ？
++[FID:30, TEXT:00F2] 
++[FID:30, TEXT:00F3] 
+
+--- Group [right:菲兹 next=2012] ---
+いや、僕は・・・
+大したことは・・・
++[FID:30, TEXT:00F4] 
++[FID:30, TEXT:00F5] 
+
+--- Group [right:none next=2012] ---
+感謝なんか
+必要ないんだ・・・
+本当は・・・
++[FID:30, TEXT:00F7] 
++[FID:30, TEXT:00F8] 
++[FID:30, TEXT:00F9] 
+
+--- Group [left:none next=0023] ---
+感謝、してるんですよ
++[FID:30, TEXT:00FC] 
+
+--- Group [right:菲兹 next=2012] ---
+や、やめてよう・・・
+改めて感謝されると、
+なんか照れちゃうって
++[FID:30, TEXT:00FD] 
++[FID:30, TEXT:00FE] 
++[FID:30, TEXT:00FF] 
+
+--- Group [left:none next=0023] ---
+あははは
++[FID:30, TEXT:0100] 
+
+--- Group [left:none next=0023] ---
+ふふ
++[FID:30, TEXT:0101] 
+
+--- Group [right:none next=2012] ---
+ホント・・・感謝する
+必要なんて・・・
++[FID:30, TEXT:0102] 
++[FID:30, TEXT:0103] 
+
+--- Group [left:none next=2012] ---
+これから行く場所
+あたしたちの出会いの
+場所だね！
++[FID:30, TEXT:0104] 
++[FID:30, TEXT:0105] 
++[FID:30, TEXT:0106] 
+
+--- Group [left:none next=2012] ---
+クラレットが呼んで
+くれたから、あたし、
+あのとき迷子にならな
+かったって思ってる
++[FID:30, TEXT:0107] 
++[FID:30, TEXT:0108] 
++[FID:30, TEXT:0109] 
++[FID:30, TEXT:010A] 
+
+--- Group [left:none next=0023] ---
+本当に感謝してるよ
++[FID:30, TEXT:010B] 
+
+--- Group [right:菲兹 next=2012] ---
+いえ、私は・・・
+大したことは・・・
++[FID:30, TEXT:010C] 
+-[FID:30, TEXT:00F5] 
+
+--- Group [left:none next=0023] ---
+いや、本当のことさ
++[FID:30, TEXT:010D] 
+
+--- Group [right:none next=2012] ---
+感謝なんか・・・
+だって、本当は・・・
++[FID:30, TEXT:010E] 
++[FID:30, TEXT:010F] 
 
 --- Group [left:none next=2012] ---
 ソルと最初に出会った
@@ -326,9 +960,25 @@
 
 --- Group [left:none next=2012] ---
 バノッサたちにやられ
+ていたあたしたちは、
+彼に助けられた・・・
++[FID:30, TEXT:0113] 
++[FID:30, TEXT:014D] 
++[FID:30, TEXT:014E] 
+
+--- Group [left:none next=2012] ---
+バノッサたちにやられ
+ていたあたしたちは、
+彼女に助けられた
+-[FID:30, TEXT:0113] 
+-[FID:30, TEXT:014D] 
++[FID:30, TEXT:016C] 
+
+--- Group [left:none next=2012] ---
+バノッサたちにやられ
 ていた僕たちを助けて
 くれて・・・
-+[FID:30, TEXT:0113] 
+-[FID:30, TEXT:0113] 
 +[FID:30, TEXT:0114] 
 +[FID:30, TEXT:0115] 
 
@@ -343,6 +993,14 @@
 --- Group [left:none next=2012] ---
 だけど・・・
 +[FID:30, TEXT:0119] 
+
+--- Group [left:none next=2012] ---
+だけど・・・
+どうして彼はあそこに
+いたんだろう？
+-[FID:30, TEXT:0119] 
++[FID:30, TEXT:013A] 
++[FID:30, TEXT:013B] 
 
 --- Group [left:none next=0023] ---
 どうして彼はあそこ
@@ -360,7 +1018,7 @@
 出会って・・・
 +[FID:30, TEXT:011E] 
 +[FID:30, TEXT:011F] 
-+[FID:30, TEXT:0120] 
+-[FID:30, TEXT:0120] 
 
 --- Group [left:none next=2012] ---
 あたしたちが
@@ -383,6 +1041,14 @@
 +[FID:30, TEXT:0128] 
 
 --- Group [left:none next=2012] ---
+仲間になってくれたの
+は、あたしを元の世界
+に、送り帰すため
+-[FID:30, TEXT:0125] 
++[FID:30, TEXT:014F] 
++[FID:30, TEXT:0150] 
+
+--- Group [left:none next=2012] ---
 考えてみたら、みんな
 あたしを助けてくれる
 ためだ・・・
@@ -402,10 +1068,18 @@
 
 --- Group [left:none next=2012] ---
 これから行く場所が
+キールと最初に会った
+ところだったよな
++[FID:30, TEXT:0130] 
++[FID:30, TEXT:0144] 
++[FID:30, TEXT:0145] 
+
+--- Group [left:none next=2012] ---
+これから行く場所が
 ソルさんと
 最初に出会った
 ところですね・・・
-+[FID:30, TEXT:0130] 
+-[FID:30, TEXT:0130] 
 +[FID:30, TEXT:0131] 
 +[FID:30, TEXT:0132] 
 +[FID:30, TEXT:0133] 
@@ -426,17 +1100,45 @@
 +[FID:30, TEXT:0138] 
 +[FID:30, TEXT:0139] 
 
+--- Group [left:none next=2012] ---
+わたしを元の世界に
+もどしてくれるって
+仲間になってくれた
+-[FID:30, TEXT:0137] 
++[FID:30, TEXT:0162] 
+-[FID:30, TEXT:0139] 
+
+--- Group [left:none next=0023] ---
+どうして彼はあそこに
+いたんだろう？まるで
+あたしが来ることが
+わかってたみたい
+-[FID:30, TEXT:013A] 
++[FID:30, TEXT:0151] 
++[FID:30, TEXT:0152] 
++[FID:30, TEXT:0153] 
+
 --- Group [left:none next=0023] ---
 どうして彼はあそこに
 いたんだろう？
 まるで全部知っている
 みたいに・・・
-+[FID:30, TEXT:013A] 
-+[FID:30, TEXT:013B] 
+-[FID:30, TEXT:013A] 
+-[FID:30, TEXT:013B] 
 +[FID:30, TEXT:013C] 
 +[FID:30, TEXT:013D] 
 
---- Group [right:菲兹 next=2012] ---
+--- Group [left:none next=0023] ---
+どうして彼はあそこに
+いたんだろう？
+まるで俺が来ることを
+知っていたみたいに
+-[FID:30, TEXT:013A] 
+-[FID:30, TEXT:013B] 
++[FID:30, TEXT:0149] 
+-[FID:30, TEXT:011D] 
+
+--- Group [right:none next=2012] ---
 どうかしたのか？
 +[FID:30, TEXT:013E] 
 
@@ -446,14 +1148,162 @@
 +[FID:30, TEXT:013F] 
 +[FID:30, TEXT:0140] 
 
---- Group [left:none next=0023] ---
+--- Group [left:none next=2012] ---
 ・・・あ、いや
 なんでもないない！
 -[FID:30, TEXT:013F] 
 +[FID:30, TEXT:0141] 
 
 --- Group [left:none next=0023] ---
+・・・あ、いや
+なんでも・・・
+-[FID:30, TEXT:013F] 
++[FID:30, TEXT:0143] 
+
+--- Group [left:none next=0023] ---
 ・・・あ、いえ
 なんでも・・・
 +[FID:30, TEXT:0142] 
-+[FID:30, TEXT:0143] 
+-[FID:30, TEXT:0143] 
+
+--- Group [left:none next=2012] ---
+バノッサたちに
+やられていた俺たちを
+助けてくれて・・・
++[FID:30, TEXT:0146] 
++[FID:30, TEXT:0147] 
+-[FID:30, TEXT:0136] 
+
+--- Group [left:none next=2012] ---
+俺を元の世界に帰して
+くれるために、仲間に
+加わってくれた
++[FID:30, TEXT:0148] 
+-[FID:30, TEXT:0117] 
+-[FID:30, TEXT:0118] 
+
+--- Group [left:none next=2012] ---
+キールと最初に出会っ
+たのは、今行こうとし
+てるところで・・・
++[FID:30, TEXT:014A] 
++[FID:30, TEXT:014B] 
++[FID:30, TEXT:014C] 
+
+--- Group [left:none next=2012] ---
+キールさんと最初に
+出会ったのは
+これから行く
+場所だった・・・
++[FID:30, TEXT:0154] 
++[FID:30, TEXT:0155] 
++[FID:30, TEXT:0156] 
++[FID:30, TEXT:0157] 
+
+--- Group [left:none next=2012] ---
+バノッサさんにやられ
+ていたわたしを助けて
+くれて・・・
++[FID:30, TEXT:0158] 
++[FID:30, TEXT:0159] 
+-[FID:30, TEXT:0115] 
+
+--- Group [left:none next=2012] ---
+わたしをを元の世界に
+帰してくれるために
+仲間に加わってくれた
++[FID:30, TEXT:015A] 
+-[FID:30, TEXT:0138] 
++[FID:30, TEXT:015B] 
+
+--- Group [left:none next=0023] ---
+まるでわたしが来るっ
+て、知っていたように
++[FID:30, TEXT:015C] 
++[FID:30, TEXT:015D] 
+
+--- Group [left:none next=2012] ---
+カシスと最初に出会っ
+たのは、これから行く
+場所だったよな
++[FID:30, TEXT:015E] 
++[FID:30, TEXT:015F] 
+-[FID:30, TEXT:0112] 
+
+--- Group [left:none next=0023] ---
+どうして彼女はあそこ
+にいたんだろう？
+まるで僕が来ることを
+知っていたみたいに
++[FID:30, TEXT:0160] 
+-[FID:30, TEXT:011B] 
+-[FID:30, TEXT:011C] 
+-[FID:30, TEXT:011D] 
+
+--- Group [left:none next=2012] ---
+カシスさんと最初に
+出会ったのは
+これから行く
+場所だった・・・
++[FID:30, TEXT:0161] 
+-[FID:30, TEXT:0155] 
+-[FID:30, TEXT:0156] 
+-[FID:30, TEXT:0157] 
+
+--- Group [left:none next=0023] ---
+わたしがそこに
+来ることを知ってた
+みたいに
++[FID:30, TEXT:0163] 
++[FID:30, TEXT:0164] 
++[FID:30, TEXT:0165] 
+
+--- Group [right:none next=2012] ---
+ん、どしたの？
++[FID:30, TEXT:0166] 
+
+--- Group [right:菲兹 next=2012] ---
+あ、そう・・・
++[FID:30, TEXT:0167] 
+
+--- Group [left:none next=2012] ---
+クラレットと最初に
+出会ったのは、これか
+ら行く場所だったよな
++[FID:30, TEXT:0168] 
++[FID:30, TEXT:0169] 
++[FID:30, TEXT:016A] 
+
+--- Group [left:none next=2012] ---
+あたしを元の世界に
+帰すんだって、そう言
+って、仲間になってく
+れて・・・
++[FID:30, TEXT:016D] 
++[FID:30, TEXT:016E] 
++[FID:30, TEXT:016F] 
++[FID:30, TEXT:0170] 
+
+--- Group [left:none next=0023] ---
+どうしてクラレットは
+あそこにいたのかな？
+あたしが来るって
+知ってたみたい・・
++[FID:30, TEXT:0171] 
+-[FID:30, TEXT:012D] 
+-[FID:30, TEXT:012E] 
++[FID:30, TEXT:0172] 
+
+--- Group [right:none next=2012] ---
+どうかしました？
++[FID:30, TEXT:0173] 
+
+--- Group [left:none next=0023] ---
+あ〜、もう！
+びっくりした〜
++[FID:30, TEXT:0174] 
++[FID:30, TEXT:0175] 
+
+--- Group [right:none next=2012] ---
+そう、ですか・・・
++[FID:30, TEXT:0176] 

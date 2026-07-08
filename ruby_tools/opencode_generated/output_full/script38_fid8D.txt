@@ -1,6 +1,6 @@
 --- Group 1 [left:char_0004 next=2012] ---
 [FID:8D, TEXT:0001] これが・・・
-[FID:8D, TEXT:0002] 魔王の力なのか・・・
+[FID:8D, TEXT:0005] 魔王の力！？
 
 --- Group 2 [left:char_0004 next=2012] ---
 [FID:8D, TEXT:0001] これが・・・
@@ -8,7 +8,7 @@
 
 --- Group 3 [left:char_0004 next=2012] ---
 [FID:8D, TEXT:0001] これが・・・
-[FID:8D, TEXT:0005] 魔王の力！？
+[FID:8D, TEXT:0002] 魔王の力なのか・・・
 
 --- Group 4 [left:char_0004 next=0023] ---
 [FID:8D, TEXT:0003] 吠え声だけで
@@ -81,222 +81,320 @@
 [FID:8D, TEXT:0023] 俺は・・・悲鳴をあげ
 [FID:8D, TEXT:0024] ていた・・・
 
---- Group 21 [left:char_0004 next=0005] ---
+--- Group 21 [left:char_0004 next=2012] ---
+[FID:8D, TEXT:0025] あの夜に聞いた・・・
+[FID:8D, TEXT:0055] クラレットの
+[FID:8D, TEXT:0028] 言葉・・・？
+
+--- Group 22 [left:char_0004 next=0005] ---
 [FID:8D, TEXT:0025] あの夜に聞いた・・・
 
---- Group 22 [left:char_0004 next=0023] ---
+--- Group 23 [left:char_0004 next=0023] ---
 [FID:8D, TEXT:0026] ソルさんの
 
---- Group 23 [left:char_0004 next=2012] ---
+--- Group 24 [left:char_0004 next=2012] ---
 [FID:8D, TEXT:0027] ソルの
 [FID:8D, TEXT:0028] 言葉・・・？
 
---- Group 24 [left:char_0004 next=2012] ---
+--- Group 25 [left:char_0004 next=2012] ---
 [FID:8D, TEXT:0028] 言葉・・・？
 
---- Group 25 [left:char_0004 next=2012] ---
+--- Group 26 [left:char_0004 next=2012] ---
 [FID:8D, TEXT:0029] 助けてくれって
 
---- Group 26 [left:char_0004 next=2012] ---
+--- Group 27 [left:char_0004 next=2012] ---
 [FID:8D, TEXT:002A] ・・・！！
 
---- Group 27 [left:char_0004 next=2012] ---
+--- Group 28 [left:char_0004 next=2012] ---
 [FID:8D, TEXT:002B] おまえは・・・
 [FID:8D, TEXT:002C] 応えてくれたんだ
 
---- Group 28 [left:char_0004 next=2012] ---
+--- Group 29 [left:char_0004 next=2012] ---
 [FID:8D, TEXT:002D] ・・・そうだ
 
---- Group 29 [left:char_0004 next=2012] ---
+--- Group 30 [left:char_0004 next=2012] ---
 [FID:8D, TEXT:002E] 僕はソルと
 [FID:8D, TEXT:002F] 約束したんだ・・・
 
---- Group 30 [left:char_0004 next=2012] ---
+--- Group 31 [left:char_0004 next=2012] ---
 [FID:8D, TEXT:0030] 何があっても・・・
 [FID:8D, TEXT:0031] 絶対に・・・
 
---- Group 31 [left:char_0004 next=0023] ---
+--- Group 32 [left:char_0004 next=0023] ---
 [FID:8D, TEXT:0032] 君を守るんだって！！
 
---- Group 32 [left:char_0004 next=2012] ---
+--- Group 33 [left:char_0004 next=2012] ---
 [FID:8D, TEXT:0033] ・・・そうだよ！
 
---- Group 33 [left:char_0004 next=2012] ---
+--- Group 34 [left:char_0004 next=2012] ---
 [FID:8D, TEXT:0034] あたし・・・
 [FID:8D, TEXT:0035] ソルと約束したもの！
 
---- Group 34 [left:char_0004 next=0023] ---
-[FID:8D, TEXT:0036] 守ってみせるって！！
-
 --- Group 35 [left:char_0004 next=2012] ---
-[FID:8D, TEXT:0037] ・・・そうでしたね
+[FID:8D, TEXT:0034] あたし・・・
+[FID:8D, TEXT:0045] キールと
+[FID:8D, TEXT:0046] 約束したもの！
 
 --- Group 36 [left:char_0004 next=2012] ---
+[FID:8D, TEXT:0034] あたし・・・
+[FID:8D, TEXT:0049] 悲鳴をあげていたの
+
+--- Group 37 [left:char_0004 next=2012] ---
+[FID:8D, TEXT:0034] あたし・・・
+[FID:8D, TEXT:005B] クラレットと
+[FID:8D, TEXT:0046] 約束したもの！
+
+--- Group 38 [left:char_0004 next=0023] ---
+[FID:8D, TEXT:0036] 守ってみせるって！！
+
+--- Group 39 [left:char_0004 next=2012] ---
+[FID:8D, TEXT:0037] ・・・そうでしたね
+
+--- Group 40 [left:char_0004 next=2012] ---
+[FID:8D, TEXT:0038] わたし・・・
+[FID:8D, TEXT:0047] キールさんと
+[FID:8D, TEXT:003A] 約束しました！
+
+--- Group 41 [left:char_0004 next=2012] ---
+[FID:8D, TEXT:0038] わたし・・・
+[FID:8D, TEXT:0051] カシスさんと
+[FID:8D, TEXT:003A] 約束しました！
+
+--- Group 42 [left:char_0004 next=2012] ---
 [FID:8D, TEXT:0038] わたし・・・
 [FID:8D, TEXT:0039] ソルさんと
 [FID:8D, TEXT:003A] 約束しました！
 
---- Group 37 [left:char_0004 next=0023] ---
+--- Group 43 [left:char_0004 next=0023] ---
 [FID:8D, TEXT:003B] 守ってみせるって
 
---- Group 38 [left:char_0004 next=2012] ---
+--- Group 44 [left:char_0004 next=2012] ---
+[FID:8D, TEXT:003C] 僕は・・・悲鳴をあげ
+[FID:8D, TEXT:003D] ていたんだよ・・・
+
+--- Group 45 [left:char_0004 next=0023] ---
+[FID:8D, TEXT:003E] キールさんの
+
+--- Group 46 [left:char_0004 next=2012] ---
+[FID:8D, TEXT:003F] キールの
+[FID:8D, TEXT:0028] 言葉・・・？
+
+--- Group 47 [left:char_0004 next=2012] ---
+[FID:8D, TEXT:0040] 助けてくれ、って
+
+--- Group 48 [left:char_0004 next=2012] ---
+[FID:8D, TEXT:0041] 君は・・・
+[FID:8D, TEXT:002C] 応えてくれたんだ
+
+--- Group 49 [left:char_0004 next=2012] ---
 [FID:8D, TEXT:0042] ・・・そうだよ
 
---- Group 39 [left:char_0004 next=0023] ---
+--- Group 50 [left:char_0004 next=2012] ---
+[FID:8D, TEXT:0043] 俺はキールと
+[FID:8D, TEXT:0044] 約束したじゃないか？
+
+--- Group 51 [left:char_0004 next=2012] ---
+[FID:8D, TEXT:0048] ・・・覚えている？
+
+--- Group 52 [left:char_0004 next=0023] ---
+[FID:8D, TEXT:004A] カシスさんの
+
+--- Group 53 [left:char_0004 next=2012] ---
+[FID:8D, TEXT:004B] カシスの
+[FID:8D, TEXT:0028] 言葉・・・？
+
+--- Group 54 [left:char_0004 next=2012] ---
+[FID:8D, TEXT:004C] 助けてって・・・
+
+--- Group 55 [left:char_0004 next=2012] ---
+[FID:8D, TEXT:004D] あなたは、それに
+[FID:8D, TEXT:004E] 応えてくれた・・・
+
+--- Group 56 [left:char_0004 next=2012] ---
+[FID:8D, TEXT:004F] 俺はカシスと
+[FID:8D, TEXT:0044] 約束したじゃないか？
+
+--- Group 57 [left:char_0004 next=2012] ---
+[FID:8D, TEXT:0050] 僕はカシスと
+[FID:8D, TEXT:002F] 約束したんだ・・・
+
+--- Group 58 [left:char_0004 next=2012] ---
+[FID:8D, TEXT:0052] ・・覚えていますか？
+
+--- Group 59 [left:char_0004 next=2012] ---
+[FID:8D, TEXT:0053] 私は・・・悲鳴をあげ
+[FID:8D, TEXT:0054] ていたんです・・・
+
+--- Group 60 [left:char_0004 next=2012] ---
+[FID:8D, TEXT:0056] 助けてくださいって
+
+--- Group 61 [left:char_0004 next=2012] ---
+[FID:8D, TEXT:0057] あなたは・・・
+[FID:8D, TEXT:0058] 応えてくれました
+
+--- Group 62 [left:char_0004 next=2012] ---
+[FID:8D, TEXT:0059] 俺はクラレットと
+[FID:8D, TEXT:0044] 約束したじゃないか？
+
+--- Group 63 [left:char_0004 next=2012] ---
+[FID:8D, TEXT:005A] 僕はクラレットと
+[FID:8D, TEXT:002F] 約束したんだ・・・
+
+--- Group 64 [left:char_0004 next=0023] ---
 [FID:8D, TEXT:005C] うおおぉぉっ！！
 
---- Group 40 [left:char_0004 next=0023] ---
+--- Group 65 [left:char_0004 next=0023] ---
 [FID:8D, TEXT:005D] あぁぁぁぁっ！
 
---- Group 41 [left:char_0004 next=0023] ---
+--- Group 66 [left:char_0004 next=0023] ---
 [FID:8D, TEXT:005E] ・・・・・はぁっ！
 
---- Group 42 [left:char_0004 next=2012] ---
+--- Group 67 [left:char_0004 next=2012] ---
 [FID:8D, TEXT:005F] 光だ・・・
 [FID:8D, TEXT:0060] あの時と同じ光・・・
 
---- Group 43 [right:none next=2012] ---
+--- Group 68 [right:none next=2012] ---
 [FID:8D, TEXT:0061] 私たちを何度も救って
 [FID:8D, TEXT:0062] くれた光・・・
 
---- Group 44 [left:char_0013 next=2012] ---
+--- Group 69 [left:char_0013 next=2012] ---
 [FID:8D, TEXT:0063] あいつの光だ！！
 
---- Group 45 [left:char_0004 next=2012] ---
+--- Group 70 [left:char_0004 next=2012] ---
 [FID:8D, TEXT:0064] 力よ・・・
 
---- Group 46 [left:char_0004 next=0023] ---
+--- Group 71 [left:char_0004 next=0023] ---
 [FID:8D, TEXT:0065] 俺の中にある
 [FID:8D, TEXT:0066] ありったけの力よ！
 
---- Group 47 [left:char_0004 next=0023] ---
+--- Group 72 [left:char_0004 next=0023] ---
 [FID:8D, TEXT:0067] 僕の中にある
 [FID:8D, TEXT:0066] ありったけの力よ！
 
---- Group 48 [left:char_0004 next=0023] ---
+--- Group 73 [left:char_0004 next=0023] ---
 [FID:8D, TEXT:0068] あたしの中でねむる
 [FID:8D, TEXT:0069] ありったけの力！
 
---- Group 49 [left:char_0004 next=0023] ---
+--- Group 74 [left:char_0004 next=0023] ---
 [FID:8D, TEXT:006A] わたしの中の
 [FID:8D, TEXT:006B] すべての力！
 
---- Group 50 [left:char_0004 next=2012] ---
+--- Group 75 [left:char_0004 next=2012] ---
 [FID:8D, TEXT:006C] 俺に、約束を
 [FID:8D, TEXT:006D] 守らせてくれ・・・
 
---- Group 51 [left:char_0004 next=0023] ---
-[FID:8D, TEXT:006E] 大切なものたちを
-[FID:8D, TEXT:006F] 俺に守らせてくれ！！
-
---- Group 52 [left:char_0004 next=0023] ---
-[FID:8D, TEXT:006E] 大切なものたちを
-[FID:8D, TEXT:0072] 僕に守らせてくれ！！
-
---- Group 53 [left:char_0004 next=0023] ---
+--- Group 76 [left:char_0004 next=0023] ---
 [FID:8D, TEXT:006E] 大切なものたちを
 [FID:8D, TEXT:0079] 守らせて！
 
---- Group 54 [left:char_0004 next=0023] ---
+--- Group 77 [left:char_0004 next=0023] ---
 [FID:8D, TEXT:006E] 大切なものたちを
 [FID:8D, TEXT:0076] 守らせて！！
 
---- Group 55 [left:char_0004 next=2012] ---
+--- Group 78 [left:char_0004 next=0023] ---
+[FID:8D, TEXT:006E] 大切なものたちを
+[FID:8D, TEXT:0072] 僕に守らせてくれ！！
+
+--- Group 79 [left:char_0004 next=0023] ---
+[FID:8D, TEXT:006E] 大切なものたちを
+[FID:8D, TEXT:006F] 俺に守らせてくれ！！
+
+--- Group 80 [left:char_0004 next=2012] ---
 [FID:8D, TEXT:0070] 僕に、約束を守らせて
 [FID:8D, TEXT:0071] くれ・・・
 
---- Group 56 [left:char_0004 next=2012] ---
+--- Group 81 [left:char_0004 next=2012] ---
 [FID:8D, TEXT:0073] おねがい！
 [FID:8D, TEXT:0074] あたしに
 [FID:8D, TEXT:0075] 約束をまもらせて！
 
---- Group 57 [left:char_0004 next=0023] ---
+--- Group 82 [left:char_0004 next=0023] ---
 [FID:8D, TEXT:0073] おねがい！
 [FID:8D, TEXT:0074] あたしに
 [FID:8D, TEXT:006E] 大切なものたちを
 [FID:8D, TEXT:0076] 守らせて！！
 
---- Group 58 [left:char_0004 next=2012] ---
-[FID:8D, TEXT:0077] わたしに・・・
-[FID:8D, TEXT:0078] 約束を守らせて！
-
---- Group 59 [left:char_0004 next=0023] ---
+--- Group 83 [left:char_0004 next=0023] ---
 [FID:8D, TEXT:0077] わたしに・・・
 [FID:8D, TEXT:006E] 大切なものたちを
 [FID:8D, TEXT:0079] 守らせて！
 
---- Group 60 [left:char_0004 next=0023] ---
+--- Group 84 [left:char_0004 next=2012] ---
+[FID:8D, TEXT:0077] わたしに・・・
+[FID:8D, TEXT:0078] 約束を守らせて！
+
+--- Group 85 [left:char_0004 next=0023] ---
 [FID:8D, TEXT:007A] 俺に・・・
 [FID:8D, TEXT:006E] 大切なものたちを
 [FID:8D, TEXT:006F] 俺に守らせてくれ！！
 
---- Group 61 [left:char_0004 next=0023] ---
+--- Group 86 [left:char_0004 next=0023] ---
 [FID:8D, TEXT:007B] 僕に・・・
 [FID:8D, TEXT:006E] 大切なものたちを
 [FID:8D, TEXT:0072] 僕に守らせてくれ！！
 
---- Group 62 [left:char_0004 next=2012] ---
+--- Group 87 [left:char_0004 next=2012] ---
 [FID:8D, TEXT:0087] お前は・・・
 
---- Group 63 [left:char_0004 next=2012] ---
+--- Group 88 [left:char_0004 next=2012] ---
 [FID:8D, TEXT:0088] お前は・・・俺が
 [FID:8D, TEXT:0089] 絶対に守り抜いて
 [FID:8D, TEXT:008A] やる！！
 
---- Group 64 [left:char_0004 next=2012] ---
+--- Group 89 [left:char_0004 next=2012] ---
 [FID:8D, TEXT:008B] 運命なんて、ふたりで
 [FID:8D, TEXT:008C] ねじ伏せてやろうぜ！
 
---- Group 65 [left:char_0004 next=2012] ---
+--- Group 90 [left:char_0004 next=2012] ---
 [FID:8D, TEXT:008D] あたし、ガゼルと
 [FID:8D, TEXT:0046] 約束したもの！
 
---- Group 66 [left:char_0004 next=2012] ---
+--- Group 91 [left:char_0004 next=2012] ---
 [FID:8D, TEXT:008E] 運命なんかに・・・
 [FID:8D, TEXT:0031] 絶対に・・・
 
---- Group 67 [left:char_0004 next=0023] ---
+--- Group 92 [left:char_0004 next=0023] ---
 [FID:8D, TEXT:008F] 負けないって！！！！
 
---- Group 68 [left:char_0004 next=2012] ---
+--- Group 93 [left:char_0004 next=2012] ---
 [FID:8D, TEXT:0090] わたし、ガゼルさん
 [FID:8D, TEXT:0091] と約束したもの・・・
 
---- Group 69 [left:char_0004 next=2012] ---
+--- Group 94 [left:char_0004 next=2012] ---
 [FID:8D, TEXT:0092] あきらめるな・・・
 
---- Group 70 [left:char_0004 next=0023] ---
+--- Group 95 [left:char_0004 next=0023] ---
 [FID:8D, TEXT:0093] 誰だ・・・？
 
---- Group 71 [left:char_0004 next=0023] ---
+--- Group 96 [left:char_0004 next=0023] ---
 [FID:8D, TEXT:0094] 誰・・・？
 
---- Group 72 [left:char_0004 next=0023] ---
+--- Group 97 [left:char_0004 next=0023] ---
 [FID:8D, TEXT:0095] 誰ですか・・・
 
---- Group 73 [left:char_0004 next=2012] ---
+--- Group 98 [left:char_0004 next=2012] ---
 [FID:8D, TEXT:0096] 我は、お前の中に眠っ
 [FID:8D, TEXT:0097] ていた力・・・
 
---- Group 74 [left:char_0004 next=2012] ---
+--- Group 99 [left:char_0004 next=2012] ---
 [FID:8D, TEXT:0098] サプレスのエルゴと、
 [FID:8D, TEXT:0099] お前たちが呼ぶ存在だ
 
---- Group 75 [left:char_0004 next=2012] ---
+--- Group 100 [left:char_0004 next=2012] ---
 [FID:8D, TEXT:009A] お前がこの世界に召喚
 [FID:8D, TEXT:009B] された時からずっと、
 [FID:8D, TEXT:009C] 我はお前を見守ってい
 [FID:8D, TEXT:009D] たのだ・・・
 
---- Group 76 [left:char_0004 next=2012] ---
+--- Group 101 [left:char_0004 next=2012] ---
 [FID:8D, TEXT:009E] お前が本当に、誓約者
 [FID:8D, TEXT:009F] たりえる者なのかを
 
---- Group 77 [left:char_0004 next=2012] ---
+--- Group 102 [left:char_0004 next=2012] ---
 [FID:8D, TEXT:00A0] そして今、新たに我は
 [FID:8D, TEXT:00A1] お前と誓約を交わそう
 
---- Group 78 [left:char_0004 next=2012] ---
+--- Group 103 [left:char_0004 next=2012] ---
 [FID:8D, TEXT:00A2] 我がサプレスの力を、
 [FID:8D, TEXT:00A3] 受け取るがいい！
 

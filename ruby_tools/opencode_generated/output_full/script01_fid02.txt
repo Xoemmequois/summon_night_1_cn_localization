@@ -16,23 +16,23 @@
 [FID:02, TEXT:0003] ったけど・・・
 [FID:02, TEXT:0004] どうかしたのかなぁ
 
---- Group 4 [left:none next=2012] ---
+--- Group 4 [left:char_0000 next=2012] ---
 [FID:02, TEXT:0005] 気になるか？
 
---- Group 5 [left:char_0000 next=2012] ---
+--- Group 5 [left:none next=2012] ---
 [FID:02, TEXT:0005] 気になるか？
 
---- Group 6 [right:char_003D next=2012] ---
-[FID:02, TEXT:0006] そ、そんなことないで
-[FID:02, TEXT:0007] すよ！ただ、いつも
-[FID:02, TEXT:0008] うるさいアイツが
-[FID:02, TEXT:0064] 珍しいなあと
-
---- Group 7 [right:char_003E next=2012] ---
+--- Group 6 [right:char_003E next=2012] ---
 [FID:02, TEXT:0006] そ、そんなことないで
 [FID:02, TEXT:0007] すよ！ただ、いつも
 [FID:02, TEXT:0008] うるさいアイツが
 [FID:02, TEXT:0009] 珍しいなって
+
+--- Group 7 [right:char_003D next=2012] ---
+[FID:02, TEXT:0006] そ、そんなことないで
+[FID:02, TEXT:0007] すよ！ただ、いつも
+[FID:02, TEXT:0008] うるさいアイツが
+[FID:02, TEXT:0064] 珍しいなあと
 
 --- Group 8 [right:char_0011 next=2012] ---
 [FID:02, TEXT:0006] そ、そんなことないで
@@ -58,11 +58,11 @@
 [FID:02, TEXT:000A] ・・・変なモノひろい
 [FID:02, TEXT:000B] 食いでもしたかな？
 
---- Group 13 [left:char_0000 next=2012] ---
+--- Group 13 [left:none next=2012] ---
 [FID:02, TEXT:000C] なんだ、やっぱり心配
 [FID:02, TEXT:000D] なんじゃないか
 
---- Group 14 [left:none next=2012] ---
+--- Group 14 [left:char_0000 next=2012] ---
 [FID:02, TEXT:000C] なんだ、やっぱり心配
 [FID:02, TEXT:000D] なんじゃないか
 
@@ -90,55 +90,55 @@
 [FID:02, TEXT:0010] ヤツですし
 [FID:02, TEXT:0011] あんなのでも
 
---- Group 19 [left:none next=2012] ---
+--- Group 19 [left:char_0000 next=2012] ---
 [FID:02, TEXT:0012] 「恋人」のまちがい
-[FID:02, TEXT:0013] なんじゃないのか？
+[FID:02, TEXT:0069] なんじゃないの？
 
---- Group 20 [left:char_0000 next=2012] ---
+--- Group 20 [left:none next=2012] ---
 [FID:02, TEXT:0012] 「恋人」のまちがい
 [FID:02, TEXT:0013] なんじゃないのか？
 
 --- Group 21 [left:char_0000 next=2012] ---
 [FID:02, TEXT:0012] 「恋人」のまちがい
-[FID:02, TEXT:0069] なんじゃないの？
+[FID:02, TEXT:0013] なんじゃないのか？
 
---- Group 22 [right:char_003D next=2012] ---
+--- Group 22 [right:char_003E next=2012] ---
+[FID:02, TEXT:0014] ひどいなぁ
+[FID:02, TEXT:0015] 私にだって相手を
+[FID:02, TEXT:0016] 選ぶ権利ぐらい
+[FID:02, TEXT:0017] ありますってばぁ
+
+--- Group 23 [right:char_003E next=2012] ---
+[FID:02, TEXT:0014] ひどいなぁ
+[FID:02, TEXT:0015] 私にだって相手を
+[FID:02, TEXT:0016] 選ぶ権利ぐらい
+[FID:02, TEXT:0017] ありますってばぁ
+
+--- Group 24 [right:char_0011 next=2012] ---
+[FID:02, TEXT:0014] ひどいなぁ
+[FID:02, TEXT:0015] 私にだって相手を
+[FID:02, TEXT:0016] 選ぶ権利ぐらい
+[FID:02, TEXT:0017] ありますってばぁ
+
+--- Group 25 [right:char_003D next=2012] ---
 [FID:02, TEXT:0014] ひどいなぁ
 [FID:02, TEXT:006A] 俺にだって相手を
 [FID:02, TEXT:0016] 選ぶ権利ぐらい
 [FID:02, TEXT:006B] ありますって！
 
---- Group 23 [right:char_0011 next=2012] ---
-[FID:02, TEXT:0014] ひどいなぁ
-[FID:02, TEXT:0015] 私にだって相手を
-[FID:02, TEXT:0016] 選ぶ権利ぐらい
-[FID:02, TEXT:0017] ありますってばぁ
+--- Group 26 [right:char_003E next=2012] ---
+[FID:02, TEXT:0018] そういうセンパイこそ
+[FID:02, TEXT:0019] 誰かイイひとがいるん
+[FID:02, TEXT:001A] じゃないですか？
 
---- Group 24 [right:char_003E next=2012] ---
-[FID:02, TEXT:0014] ひどいなぁ
-[FID:02, TEXT:0015] 私にだって相手を
-[FID:02, TEXT:0016] 選ぶ権利ぐらい
-[FID:02, TEXT:0017] ありますってばぁ
+--- Group 27 [right:char_0011 next=2012] ---
+[FID:02, TEXT:0018] そういうセンパイこそ
+[FID:02, TEXT:0019] 誰かイイひとがいるん
+[FID:02, TEXT:001A] じゃないですか？
 
---- Group 25 [right:char_003E next=2012] ---
-[FID:02, TEXT:0014] ひどいなぁ
-[FID:02, TEXT:0015] 私にだって相手を
-[FID:02, TEXT:0016] 選ぶ権利ぐらい
-[FID:02, TEXT:0017] ありますってばぁ
-
---- Group 26 [right:char_003D next=2012] ---
+--- Group 28 [right:char_003D next=2012] ---
 [FID:02, TEXT:0018] そういうセンパイこそ
 [FID:02, TEXT:006C] 誰かとつきあってるん
-[FID:02, TEXT:001A] じゃないですか？
-
---- Group 27 [right:char_003E next=2012] ---
-[FID:02, TEXT:0018] そういうセンパイこそ
-[FID:02, TEXT:0019] 誰かイイひとがいるん
-[FID:02, TEXT:001A] じゃないですか？
-
---- Group 28 [right:char_0011 next=2012] ---
-[FID:02, TEXT:0018] そういうセンパイこそ
-[FID:02, TEXT:0019] 誰かイイひとがいるん
 [FID:02, TEXT:001A] じゃないですか？
 
 --- Group 29 [right:char_003E next=2012] ---
@@ -146,19 +146,19 @@
 [FID:02, TEXT:0019] 誰かイイひとがいるん
 [FID:02, TEXT:001A] じゃないですか？
 
---- Group 30 [left:none next=2012] ---
+--- Group 30 [left:char_0000 next=2012] ---
 [FID:02, TEXT:001B] いや、フリーだよ
 
---- Group 31 [left:char_0000 next=2012] ---
+--- Group 31 [left:none next=2012] ---
 [FID:02, TEXT:001B] いや、フリーだよ
 
 --- Group 32 [right:char_003E next=2012] ---
 [FID:02, TEXT:001C] ホントですかぁ？
 
---- Group 33 [right:char_0011 next=2012] ---
+--- Group 33 [right:char_003E next=2012] ---
 [FID:02, TEXT:001C] ホントですかぁ？
 
---- Group 34 [right:char_003E next=2012] ---
+--- Group 34 [right:char_0011 next=2012] ---
 [FID:02, TEXT:001C] ホントですかぁ？
 
 --- Group 35 [right:char_003D next=2012] ---
@@ -176,15 +176,15 @@
 [FID:02, TEXT:001F] 誰ともつきあって
 [FID:02, TEXT:0020] なんかないさ
 
---- Group 38 [right:char_003E next=2012] ---
+--- Group 38 [right:char_0011 next=2012] ---
 [FID:02, TEXT:0021] へえ・・・
 [FID:02, TEXT:0022] なんか意外だなぁ
 
---- Group 39 [right:char_0011 next=2012] ---
+--- Group 39 [right:char_003D next=2012] ---
 [FID:02, TEXT:0021] へえ・・・
 [FID:02, TEXT:0022] なんか意外だなぁ
 
---- Group 40 [right:char_003D next=2012] ---
+--- Group 40 [right:char_003E next=2012] ---
 [FID:02, TEXT:0021] へえ・・・
 [FID:02, TEXT:0022] なんか意外だなぁ
 
@@ -192,7 +192,7 @@
 [FID:02, TEXT:0021] へえ・・・
 [FID:02, TEXT:0022] なんか意外だなぁ
 
---- Group 42 [right:char_003E next=2012] ---
+--- Group 42 [right:char_0011 next=2012] ---
 [FID:02, TEXT:0023] ちなみにセンパイは、
 [FID:02, TEXT:0024] どんなタイプが好み
 [FID:02, TEXT:0025] なんですか？
@@ -207,12 +207,12 @@
 [FID:02, TEXT:0024] どんなタイプが好み
 [FID:02, TEXT:0025] なんですか？
 
---- Group 45 [right:char_0011 next=2012] ---
+--- Group 45 [right:char_003E next=2012] ---
 [FID:02, TEXT:0023] ちなみにセンパイは、
 [FID:02, TEXT:0024] どんなタイプが好み
 [FID:02, TEXT:0025] なんですか？
 
---- Group 46 [left:none next=2012] ---
+--- Group 46 [left:char_0000 next=2012] ---
 [FID:02, TEXT:0026] なんだよ、いきなり
 [FID:02, TEXT:0027] 別の話題にしないか？
 
@@ -220,7 +220,7 @@
 [FID:02, TEXT:0026] なんだよ、いきなり
 [FID:02, TEXT:004F] 別の話題にしないかい
 
---- Group 48 [left:char_0000 next=2012] ---
+--- Group 48 [left:none next=2012] ---
 [FID:02, TEXT:0026] なんだよ、いきなり
 [FID:02, TEXT:0027] 別の話題にしないか？
 
@@ -233,45 +233,45 @@
 --- Group 51 [right:char_0011 next=2012] ---
 [FID:02, TEXT:0028] えへへ、ダーメ
 
---- Group 52 [left:none next=2012] ---
+--- Group 52 [left:char_0000 next=2012] ---
 [FID:02, TEXT:0029] ・・・なんか、ハメ
 [FID:02, TEXT:002A] られた気がするぞ？
 
---- Group 53 [left:char_0000 next=2012] ---
+--- Group 53 [left:none next=2012] ---
 [FID:02, TEXT:0029] ・・・なんか、ハメ
 [FID:02, TEXT:002A] られた気がするぞ？
 
---- Group 54 [left:char_0000 next=2015] ---
+--- Group 54 [left:none next=2015] ---
 [FID:02, TEXT:002B] どうしよう？
 [FID:02, TEXT:002C] 　活発な子かな
 [FID:02, TEXT:002D] 　落ち着いた子がいいな
 
---- Group 55 [left:none next=2015] ---
-[FID:02, TEXT:002B] どうしよう？
-[FID:02, TEXT:002C] 　活発な子かな
-[FID:02, TEXT:002D] 　落ち着いた子がいいな
-
---- Group 56 [left:char_0000 next=2015] ---
+--- Group 55 [left:char_0000 next=2015] ---
 [FID:02, TEXT:002B] どうしよう？
 [FID:02, TEXT:0077] 　活発な人かな
 [FID:02, TEXT:0078] 　おちついた人かな
+
+--- Group 56 [left:char_0000 next=2015] ---
+[FID:02, TEXT:002B] どうしよう？
+[FID:02, TEXT:002C] 　活発な子かな
+[FID:02, TEXT:002D] 　落ち着いた子がいいな
 
 --- Group 57 [left:char_0000 next=2015] ---
 [FID:02, TEXT:002B] どうしよう？
 [FID:02, TEXT:002C] 　活発な子かな
 [FID:02, TEXT:002D] 　落ち着いた子がいいな
 
---- Group 58 [right:char_0011 next=2012] ---
+--- Group 58 [right:char_003D next=2012] ---
 [FID:02, TEXT:002E] ふむふむ、活発な人が
 [FID:02, TEXT:002F] タイプですか
 [FID:02, TEXT:0030] なるほどー
 
---- Group 59 [right:char_003E next=2012] ---
+--- Group 59 [right:char_0011 next=2012] ---
 [FID:02, TEXT:002E] ふむふむ、活発な人が
 [FID:02, TEXT:002F] タイプですか
 [FID:02, TEXT:0030] なるほどー
 
---- Group 60 [right:char_003D next=2012] ---
+--- Group 60 [right:char_003E next=2012] ---
 [FID:02, TEXT:002E] ふむふむ、活発な人が
 [FID:02, TEXT:002F] タイプですか
 [FID:02, TEXT:0030] なるほどー
@@ -309,17 +309,17 @@
 [FID:02, TEXT:0039] つきをもつほうが先だ
 [FID:02, TEXT:003A] と私は思うなぁ
 
---- Group 67 [left:char_0000 next=2012] ---
-[FID:02, TEXT:003B] じゃあ、
-[FID:02, TEXT:005A] それじゃ、そういう君
-[FID:02, TEXT:005B] のタイプっていうのは
-[FID:02, TEXT:005C] どんな人なんだい？
-
---- Group 68 [left:none next=2012] ---
+--- Group 67 [left:none next=2012] ---
 [FID:02, TEXT:003B] じゃあ、
 [FID:02, TEXT:003C] そういうお前は
 [FID:02, TEXT:003D] どんなタイプが
 [FID:02, TEXT:003E] いいんだ？
+
+--- Group 68 [left:char_0000 next=2012] ---
+[FID:02, TEXT:003B] じゃあ、
+[FID:02, TEXT:005A] それじゃ、そういう君
+[FID:02, TEXT:005B] のタイプっていうのは
+[FID:02, TEXT:005C] どんな人なんだい？
 
 --- Group 69 [left:char_0000 next=2012] ---
 [FID:02, TEXT:003B] じゃあ、
@@ -332,20 +332,20 @@
 [FID:02, TEXT:0086] あ、ヤバっ！？
 [FID:02, TEXT:0087] 電車が来る時間だ！
 
---- Group 71 [right:char_0011 next=2012] ---
+--- Group 71 [right:char_003E next=2012] ---
 [FID:02, TEXT:003F] ・・・
 
---- Group 72 [right:char_003E next=2012] ---
+--- Group 72 [right:char_0011 next=2012] ---
 [FID:02, TEXT:003F] ・・・
 
 --- Group 73 [right:char_003E next=2012] ---
 [FID:02, TEXT:003F] ・・・
 
---- Group 74 [right:char_0011 next=2012] ---
+--- Group 74 [right:char_003E next=2012] ---
 [FID:02, TEXT:0040] いっけなーい！
 [FID:02, TEXT:0041] 電車が来ちゃう！？
 
---- Group 75 [right:char_003E next=2012] ---
+--- Group 75 [right:char_0011 next=2012] ---
 [FID:02, TEXT:0040] いっけなーい！
 [FID:02, TEXT:0041] 電車が来ちゃう！？
 
@@ -403,16 +403,16 @@
 [FID:02, TEXT:0054] タイプだもんね
 [FID:02, TEXT:0055] うん、お似合いかも
 
---- Group 90 [right:char_0011 next=2012] ---
-[FID:02, TEXT:0056] なんだか「オトナ」の
-[FID:02, TEXT:0057] おつきあいってカンジ
-[FID:02, TEXT:0058] がしちゃいますね
-[FID:02, TEXT:0059] カッコイイなぁ
-
---- Group 91 [right:char_003D next=2012] ---
+--- Group 90 [right:char_003D next=2012] ---
 [FID:02, TEXT:0056] なんだか「オトナ」の
 [FID:02, TEXT:0090] おつきあいって感じが
 [FID:02, TEXT:0091] しちゃいますね
+[FID:02, TEXT:0059] カッコイイなぁ
+
+--- Group 91 [right:char_0011 next=2012] ---
+[FID:02, TEXT:0056] なんだか「オトナ」の
+[FID:02, TEXT:0057] おつきあいってカンジ
+[FID:02, TEXT:0058] がしちゃいますね
 [FID:02, TEXT:0059] カッコイイなぁ
 
 --- Group 92 [left:char_0000 next=2012] ---

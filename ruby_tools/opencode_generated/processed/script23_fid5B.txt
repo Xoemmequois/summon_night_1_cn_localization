@@ -1,14 +1,14 @@
 --- Group [left:none next=0023] ---
 しかしまた、ずいぶん
-と買いこんだね
+と買いこんだよなあ
 +[FID:5B, TEXT:0001] 
-+[FID:5B, TEXT:0003] 
++[FID:5B, TEXT:0002] 
 
 --- Group [left:none next=0023] ---
 しかしまた、ずいぶん
-と買いこんだよなあ
+と買いこんだね
 -[FID:5B, TEXT:0001] 
-+[FID:5B, TEXT:0002] 
++[FID:5B, TEXT:0003] 
 
 --- Group [left:none next=0023] ---
 なんか、すごく
@@ -86,15 +86,11 @@
 この声・・・？
 +[FID:5B, TEXT:001C] 
 
---- Group [left:none next=0023] ---
-どうしよう？
-+[FID:5B, TEXT:001D] 
-
 --- Group [right:斯塔乌特 next=2015] ---
 どうしよう？
 　自分がついていく
 　レイドに選ばせる
--[FID:5B, TEXT:001D] 
++[FID:5B, TEXT:001D] 
 +[FID:5B, TEXT:0099] 
 +[FID:5B, TEXT:009A] 
 
@@ -190,23 +186,23 @@
 なんでしょうか？
 +[FID:5B, TEXT:0039] 
 
---- Group [right:斯塔乌特 next=0023] ---
-そうとんがるなって
-坊主たちをどうこうし
-ようってんじゃねえよ
-+[FID:5B, TEXT:003A] 
-+[FID:5B, TEXT:003B] 
-+[FID:5B, TEXT:003C] 
-
 --- Group [right:斯塔乌特 next=2012] ---
 そうとんがるなって
 嬢ちゃん達をどうこう
 しようってんじゃ
 ねえよ
--[FID:5B, TEXT:003A] 
++[FID:5B, TEXT:003A] 
 +[FID:5B, TEXT:003D] 
 +[FID:5B, TEXT:003E] 
 +[FID:5B, TEXT:003F] 
+
+--- Group [right:斯塔乌特 next=0023] ---
+そうとんがるなって
+坊主たちをどうこうし
+ようってんじゃねえよ
+-[FID:5B, TEXT:003A] 
++[FID:5B, TEXT:003B] 
++[FID:5B, TEXT:003C] 
 
 --- Group [right:斯塔乌特 next=2012] ---
 用事があるのはな
@@ -228,7 +224,7 @@
 レイドさんですか？
 +[FID:5B, TEXT:0045] 
 
---- Group [right:none next=2012] ---
+--- Group [right:斯塔乌特 next=2012] ---
 俺は臆病者だからな
 お前らのねぐらに入る
 度胸はねえんだよ
@@ -242,7 +238,7 @@
 +[FID:5B, TEXT:0049] 
 +[FID:5B, TEXT:004A] 
 
---- Group [right:斯塔乌特 next=0023] ---
+--- Group [right:none next=0023] ---
 　そこで待っててくれ
 　なんで俺が・・・
 +[FID:5B, TEXT:004B] 

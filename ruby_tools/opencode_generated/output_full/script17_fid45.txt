@@ -1,7 +1,7 @@
 --- Group 1 [left:char_0004 next=0023] ---
 [FID:45, TEXT:0001] 本当だ
-[FID:45, TEXT:0002] すごい数の警備の兵士
-[FID:45, TEXT:0003] が広場を囲んでる
+[FID:45, TEXT:0004] すごい数の兵隊さんが
+[FID:45, TEXT:0005] 広場を囲んでるよ
 
 --- Group 2 [left:char_0004 next=0023] ---
 [FID:45, TEXT:0001] 本当だ
@@ -20,8 +20,8 @@
 
 --- Group 5 [left:char_0004 next=0023] ---
 [FID:45, TEXT:0001] 本当だ
-[FID:45, TEXT:0004] すごい数の兵隊さんが
-[FID:45, TEXT:0005] 広場を囲んでるよ
+[FID:45, TEXT:0002] すごい数の警備の兵士
+[FID:45, TEXT:0003] が広場を囲んでる
 
 --- Group 6 [right:none next=2012] ---
 [FID:45, TEXT:0006] 罪人たちの点呼は
@@ -61,21 +61,21 @@
 
 --- Group 17 [left:char_0004 next=0023] ---
 [FID:45, TEXT:000B] 罪人？
-[FID:45, TEXT:000D] なにか事件でも
-[FID:45, TEXT:000E] 起きたの・・・？
+[FID:45, TEXT:000C] 事件・・・？
 
 --- Group 18 [left:char_0004 next=0023] ---
 [FID:45, TEXT:000B] 罪人？
-[FID:45, TEXT:000C] 事件・・・？
+[FID:45, TEXT:000D] なにか事件でも
+[FID:45, TEXT:000E] 起きたの・・・？
 
 --- Group 19 [left:char_0004 next=0023] ---
 [FID:45, TEXT:000B] 罪人？
-[FID:45, TEXT:000C] 事件・・・？
+[FID:45, TEXT:000D] なにか事件でも
+[FID:45, TEXT:000E] 起きたの・・・？
 
 --- Group 20 [left:char_0004 next=0023] ---
 [FID:45, TEXT:000B] 罪人？
-[FID:45, TEXT:000D] なにか事件でも
-[FID:45, TEXT:000E] 起きたの・・・？
+[FID:45, TEXT:000C] 事件・・・？
 
 --- Group 21 [right:none next=0023] ---
 [FID:45, TEXT:000F] なあ、アニキ
@@ -92,12 +92,12 @@
 [FID:45, TEXT:0010] あの人たち
 [FID:45, TEXT:0011] 本当に罪人なのかなぁ
 
---- Group 24 [right:char_0013 next=2012] ---
+--- Group 24 [right:char_001D next=2012] ---
 [FID:45, TEXT:0012] なあ、アネゴ
 [FID:45, TEXT:0010] あの人たち
 [FID:45, TEXT:0011] 本当に罪人なのかなぁ
 
---- Group 25 [right:char_001D next=2012] ---
+--- Group 25 [right:char_0013 next=2012] ---
 [FID:45, TEXT:0012] なあ、アネゴ
 [FID:45, TEXT:0010] あの人たち
 [FID:45, TEXT:0011] 本当に罪人なのかなぁ
@@ -107,12 +107,12 @@
 [FID:45, TEXT:0014] よぼよぼの爺さんとか
 [FID:45, TEXT:0015] 女子供も並んでるぜ？
 
---- Group 27 [right:char_0013 next=2012] ---
+--- Group 27 [right:char_001D next=2012] ---
 [FID:45, TEXT:0013] 見るからに
 [FID:45, TEXT:0014] よぼよぼの爺さんとか
 [FID:45, TEXT:0015] 女子供も並んでるぜ？
 
---- Group 28 [right:char_001D next=2012] ---
+--- Group 28 [right:char_0013 next=2012] ---
 [FID:45, TEXT:0013] 見るからに
 [FID:45, TEXT:0014] よぼよぼの爺さんとか
 [FID:45, TEXT:0015] 女子供も並んでるぜ？
@@ -141,12 +141,12 @@
 
 --- Group 35 [left:char_0004 next=0023] ---
 [FID:45, TEXT:0020] ・・・あの人たち
-[FID:45, TEXT:0021] これからどうなるの？
+[FID:45, TEXT:0022] これからどうなるん
+[FID:45, TEXT:0023] ですか？
 
 --- Group 36 [left:char_0004 next=0023] ---
 [FID:45, TEXT:0020] ・・・あの人たち
-[FID:45, TEXT:0022] これからどうなるん
-[FID:45, TEXT:0023] ですか？
+[FID:45, TEXT:0021] これからどうなるの？
 
 --- Group 37 [right:char_001A next=2012] ---
 [FID:45, TEXT:0024] この広場で見せしめに
@@ -265,11 +265,11 @@
 
 --- Group 64 [left:char_001E next=0023] ---
 [FID:45, TEXT:0061] ああ・・・
-[FID:45, TEXT:0062] 行くぞ、ジンガ！
+[FID:45, TEXT:0063] 行こう、ジンガ！
 
 --- Group 65 [left:char_001E next=0023] ---
 [FID:45, TEXT:0061] ああ・・・
-[FID:45, TEXT:0063] 行こう、ジンガ！
+[FID:45, TEXT:0062] 行くぞ、ジンガ！
 
 --- Group 66 [left:char_001E next=0023] ---
 [FID:45, TEXT:0064] ・・・あれはないよ
@@ -309,18 +309,18 @@
 
 --- Group 75 [left:char_0004 next=0023] ---
 [FID:45, TEXT:0071] あの人は・・・
-[FID:45, TEXT:0072] 荒野で俺を助けてくれ
-[FID:45, TEXT:0073] た剣士！？
+[FID:45, TEXT:0074] このあいだ、あたしを
+[FID:45, TEXT:0075] 助けてくれた剣士！？
 
 --- Group 76 [left:char_0004 next=0023] ---
 [FID:45, TEXT:0071] あの人は・・・
-[FID:45, TEXT:0076] このあいだ、わたしを
-[FID:45, TEXT:0077] 助けてくれた剣士？
+[FID:45, TEXT:0072] 荒野で俺を助けてくれ
+[FID:45, TEXT:0073] た剣士！？
 
 --- Group 77 [left:char_0004 next=0023] ---
 [FID:45, TEXT:0071] あの人は・・・
-[FID:45, TEXT:0074] このあいだ、あたしを
-[FID:45, TEXT:0075] 助けてくれた剣士！？
+[FID:45, TEXT:0076] このあいだ、わたしを
+[FID:45, TEXT:0077] 助けてくれた剣士？
 
 --- Group 78 [right:char_0018 next=2012] ---
 [FID:45, TEXT:0078] それが市民を守るべき

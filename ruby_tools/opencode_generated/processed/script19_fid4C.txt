@@ -87,17 +87,9 @@
 --- Group [left:none next=0023] ---
 子供たちの遊び相手も
 してもらって、こっち
-こそ感謝しなくちゃ
+こそ感謝しなくちゃ！
 +[FID:4C, TEXT:0020] 
 +[FID:4C, TEXT:0021] 
-+[FID:4C, TEXT:0022] 
-
---- Group [left:none next=0023] ---
-子供たちの遊び相手も
-してもらって、こっち
-こそ感謝しなくちゃ！
--[FID:4C, TEXT:0020] 
--[FID:4C, TEXT:0021] 
 +[FID:4C, TEXT:0023] 
 
 --- Group [left:none next=0023] ---
@@ -107,6 +99,14 @@
 -[FID:4C, TEXT:0020] 
 -[FID:4C, TEXT:0021] 
 +[FID:4C, TEXT:0024] 
+
+--- Group [left:none next=0023] ---
+子供たちの遊び相手も
+してもらって、こっち
+こそ感謝しなくちゃ
+-[FID:4C, TEXT:0020] 
+-[FID:4C, TEXT:0021] 
++[FID:4C, TEXT:0022] 
 
 --- Group [right:莫纳蒂 next=2012] ---
 そんな・・・
@@ -204,15 +204,15 @@
 
 --- Group [left:none next=0023] ---
 何か理由があるみたい
-だな？
+ね・・・？
 +[FID:4C, TEXT:0042] 
-+[FID:4C, TEXT:0043] 
++[FID:4C, TEXT:0044] 
 
 --- Group [left:none next=0023] ---
 何か理由があるみたい
-ね・・・？
+だな？
 -[FID:4C, TEXT:0042] 
-+[FID:4C, TEXT:0044] 
++[FID:4C, TEXT:0043] 
 
 --- Group [left:none next=0023] ---
 いつもあんな調子で、

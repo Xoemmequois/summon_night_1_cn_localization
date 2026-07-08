@@ -1,8 +1,8 @@
---- Group [left:none next=0023] ---
+--- Group [left:主人公 next=0023] ---
 ふわあぁぁっ
 +[FID:62, TEXT:0001] 
 
---- Group [left:主人公 next=0023] ---
+--- Group [left:none next=0023] ---
 ん・・・ふぁ・・・
 +[FID:62, TEXT:0002] 
 
@@ -12,7 +12,7 @@
 +[FID:62, TEXT:0003] 
 +[FID:62, TEXT:0004] 
 
---- Group [left:主人公 next=0023] ---
+--- Group [left:none next=0023] ---
 そういうなよ
 今まであれだけ
 大変だったんだぜ
@@ -20,7 +20,7 @@
 +[FID:62, TEXT:0006] 
 +[FID:62, TEXT:0007] 
 
---- Group [left:主人公 next=0023] ---
+--- Group [left:none next=0023] ---
 そういわないでくれ
 今まであれだけ大変
 だったんだからさ
@@ -86,15 +86,19 @@
 そうかも・・・
 +[FID:62, TEXT:001E] 
 
---- Group [left:none next=0023] ---
+--- Group [left:主人公 next=0023] ---
 よし、散歩でもするか
 +[FID:62, TEXT:001F] 
 
---- Group [left:none next=2012] ---
+--- Group [left:none next=0023] ---
+やれやれ・・・
++[FID:62, TEXT:0020] 
+
+--- Group [left:主人公 next=2012] ---
 やれやれ・・・
 でも、フィズが言った
 ことも確かだしな
-+[FID:62, TEXT:0020] 
+-[FID:62, TEXT:0020] 
 +[FID:62, TEXT:0021] 
 +[FID:62, TEXT:0022] 
 
@@ -102,17 +106,17 @@
 散歩にでも行こうか
 +[FID:62, TEXT:0023] 
 
---- Group [left:主人公 next=0023] ---
+--- Group [left:none next=0023] ---
 よし、じゃ、お散歩
 してくるね！
 +[FID:62, TEXT:0024] 
 +[FID:62, TEXT:0025] 
 
---- Group [left:主人公 next=2012] ---
+--- Group [left:none next=2012] ---
 じゃあそうしてみます
 +[FID:62, TEXT:0026] 
 
---- Group [left:主人公 next=0023] ---
+--- Group [left:none next=0023] ---
 行きましょ、モナティ
 +[FID:62, TEXT:0027] 
 
@@ -128,6 +132,14 @@
 +[FID:62, TEXT:02DD] 
 +[FID:62, TEXT:02DE] 
 
+--- Group [left:主人公 next=2015] ---
+どうしよう？
+　なんでそんなことを？
+　それだったら・・・
+-[FID:62, TEXT:0029] 
++[FID:62, TEXT:0207] 
++[FID:62, TEXT:0208] 
+
 --- Group [right:莉普蕾 next=2015] ---
 どうしよう？
 　ありがとう、リプレ
@@ -136,25 +148,17 @@
 +[FID:62, TEXT:0086] 
 +[FID:62, TEXT:0087] 
 
---- Group [left:none next=2015] ---
-どうしよう？
-　なんでそんなことを？
-　それだったら・・・
--[FID:62, TEXT:0029] 
-+[FID:62, TEXT:0207] 
-+[FID:62, TEXT:0208] 
+--- Group [right:莫纳蒂 next=0023] ---
+　一緒に来るか？
+　留守番たのむぞ？
++[FID:62, TEXT:002A] 
++[FID:62, TEXT:002B] 
 
 --- Group [right:莫纳蒂 next=0023] ---
 　一緒に来るか？
 　留守番たのむよ？
-+[FID:62, TEXT:002A] 
-+[FID:62, TEXT:002C] 
-
---- Group [right:莫纳蒂 next=0023] ---
-　一緒に来るか？
-　留守番たのむぞ？
 -[FID:62, TEXT:002A] 
-+[FID:62, TEXT:002B] 
++[FID:62, TEXT:002C] 
 
 --- Group [right:莫纳蒂 next=0023] ---
 　一緒に来る？
@@ -168,13 +172,13 @@
 +[FID:62, TEXT:002F] 
 +[FID:62, TEXT:0030] 
 
---- Group [left:none next=0023] ---
+--- Group [left:主人公 next=0023] ---
 一緒に来るか？
 モナティ
 +[FID:62, TEXT:0031] 
 +[FID:62, TEXT:0032] 
 
---- Group [left:主人公 next=0023] ---
+--- Group [left:none next=0023] ---
 一緒に来る？
 モナティ
 +[FID:62, TEXT:0033] 
@@ -198,13 +202,13 @@
 +[FID:62, TEXT:0037] 
 -[FID:62, TEXT:0032] 
 
---- Group [left:none next=0023] ---
+--- Group [left:主人公 next=0023] ---
 留守番たのむよ？
 モナティ
 +[FID:62, TEXT:0038] 
 -[FID:62, TEXT:0032] 
 
---- Group [left:none next=0023] ---
+--- Group [left:主人公 next=0023] ---
 留守番おねがいね
 モナティ！
 +[FID:62, TEXT:0039] 
@@ -220,7 +224,7 @@
 ・・・
 +[FID:62, TEXT:003D] 
 
---- Group [left:none next=2012] ---
+--- Group [left:主人公 next=2012] ---
 ・・・・・・
 +[FID:62, TEXT:003E] 
 
@@ -230,15 +234,15 @@
 
 --- Group [left:主人公 next=0023] ---
 わかったわかった
-ついておいで？
-+[FID:62, TEXT:0040] 
-+[FID:62, TEXT:0042] 
-
---- Group [left:none next=0023] ---
-わかったわかった
 ついて来いよ？
--[FID:62, TEXT:0040] 
++[FID:62, TEXT:0040] 
 +[FID:62, TEXT:0041] 
+
+--- Group [left:主人公 next=0023] ---
+わかったわかった
+ついておいで？
+-[FID:62, TEXT:0040] 
++[FID:62, TEXT:0042] 
 
 --- Group [left:none next=0023] ---
 あ〜、もう
@@ -248,7 +252,7 @@
 +[FID:62, TEXT:0044] 
 +[FID:62, TEXT:0045] 
 
---- Group [left:none next=0023] ---
+--- Group [left:主人公 next=0023] ---
 わかりました・・・
 いっしょに行きましょ
 +[FID:62, TEXT:0046] 
@@ -258,11 +262,17 @@
 はいですのーっ！
 +[FID:62, TEXT:0048] 
 
---- Group [left:none next=0023] ---
+--- Group [left:主人公 next=0023] ---
 あれ、リプレ
 なんか嬉しそうだね
 +[FID:62, TEXT:0049] 
 +[FID:62, TEXT:004A] 
+
+--- Group [left:none next=0023] ---
+あれ、リプレ
+なんだか嬉しそうだね
+-[FID:62, TEXT:0049] 
++[FID:62, TEXT:004B] 
 
 --- Group [left:none next=0023] ---
 あれ、リプレ
@@ -271,22 +281,16 @@
 +[FID:62, TEXT:004C] 
 
 --- Group [left:none next=0023] ---
-あれ、リプレ
-なんだか嬉しそうだね
--[FID:62, TEXT:0049] 
-+[FID:62, TEXT:004B] 
-
---- Group [left:主人公 next=0023] ---
-リプレさん
-本当に嬉しそうですね
-+[FID:62, TEXT:004D] 
-+[FID:62, TEXT:00A9] 
-
---- Group [left:主人公 next=0023] ---
 リプレさん
 嬉しそうですね？
--[FID:62, TEXT:004D] 
++[FID:62, TEXT:004D] 
 +[FID:62, TEXT:004E] 
+
+--- Group [left:none next=0023] ---
+リプレさん
+本当に嬉しそうですね
+-[FID:62, TEXT:004D] 
++[FID:62, TEXT:00A9] 
 
 --- Group [right:none next=2012] ---
 ふふっ、わかる？
@@ -294,33 +298,33 @@
 +[FID:62, TEXT:004F] 
 +[FID:62, TEXT:0050] 
 
---- Group [right:莫纳蒂 next=2012] ---
+--- Group [right:none next=2012] ---
 じゃ〜んっ！
 +[FID:62, TEXT:0051] 
 
 --- Group [left:主人公 next=0023] ---
 うわ・・・
-どうしたんだい、
+どうしたんだよ、
 この野菜の山は？
 +[FID:62, TEXT:0052] 
-+[FID:62, TEXT:0055] 
++[FID:62, TEXT:0053] 
 +[FID:62, TEXT:0054] 
 
---- Group [left:none next=0023] ---
+--- Group [left:主人公 next=0023] ---
+うわ・・・
+どうしたんだい、
+この野菜の山は？
+-[FID:62, TEXT:0052] 
++[FID:62, TEXT:0055] 
+-[FID:62, TEXT:0054] 
+
+--- Group [left:主人公 next=0023] ---
 うわ・・・
 なになに？
 野菜の山は？
 -[FID:62, TEXT:0052] 
 +[FID:62, TEXT:0056] 
 +[FID:62, TEXT:0057] 
-
---- Group [left:主人公 next=0023] ---
-うわ・・・
-どうしたんだよ、
-この野菜の山は？
--[FID:62, TEXT:0052] 
-+[FID:62, TEXT:0053] 
--[FID:62, TEXT:0054] 
 
 --- Group [left:none next=0023] ---
 わぁ・・・
@@ -370,7 +374,7 @@
 +[FID:62, TEXT:0067] 
 +[FID:62, TEXT:0068] 
 
---- Group [left:none next=0023] ---
+--- Group [left:主人公 next=0023] ---
 ・・・なるほど
 そういうことですか
 +[FID:62, TEXT:0069] 
@@ -418,13 +422,13 @@
 +[FID:62, TEXT:0077] 
 +[FID:62, TEXT:0078] 
 
---- Group [left:none next=2012] ---
+--- Group [left:主人公 next=2012] ---
 これ、しょう油と味噌
 じゃないですか？
 +[FID:62, TEXT:0079] 
 +[FID:62, TEXT:007A] 
 
---- Group [left:none next=0023] ---
+--- Group [left:主人公 next=0023] ---
 どうやって
 手に入れたんですか？
 +[FID:62, TEXT:007B] 
@@ -457,20 +461,20 @@
 --- Group [left:主人公 next=0023] ---
 ありがとう、リプレ
 まだ、ラーメンのこと
-覚えててくれたのか
+覚えててくれたんだぁ
 +[FID:62, TEXT:0088] 
 +[FID:62, TEXT:0089] 
-+[FID:62, TEXT:008B] 
-
---- Group [left:none next=0023] ---
-ありがとう、リプレ
-まだ、ラーメンのこと
-覚えててくれたんだぁ
--[FID:62, TEXT:0088] 
--[FID:62, TEXT:0089] 
 +[FID:62, TEXT:008C] 
 
 --- Group [left:主人公 next=0023] ---
+ありがとう、リプレ
+まだ、ラーメンのこと
+覚えててくれたのか
+-[FID:62, TEXT:0088] 
+-[FID:62, TEXT:0089] 
++[FID:62, TEXT:008B] 
+
+--- Group [left:none next=0023] ---
 ありがとう、リプレ
 まだ、ラーメンのこと
 覚えててくれたんだ
@@ -536,7 +540,7 @@
 そうだったんですか
 +[FID:62, TEXT:009F] 
 
---- Group [right:莉普蕾 next=2012] ---
+--- Group [right:none next=2012] ---
 なにはともあれ、
 これで準備はかんぺき
 あとは私の工夫次第っ
@@ -546,29 +550,29 @@
 +[FID:62, TEXT:00A2] 
 +[FID:62, TEXT:00A3] 
 
---- Group [right:char_0040 next=2012] ---
+--- Group [right:莉普蕾 next=2012] ---
 楽しみに待っててね
 @ n 
 +[FID:62, TEXT:00A4] 
 +[FID:62, TEXT:00A5] 
 
---- Group [left:none next=0023] ---
-リプレ
-本当に嬉しそうだな
-+[FID:62, TEXT:00A6] 
-+[FID:62, TEXT:00A7] 
-
---- Group [left:none next=0023] ---
+--- Group [left:主人公 next=0023] ---
 リプレ
 本当に嬉しそうだね
--[FID:62, TEXT:00A6] 
++[FID:62, TEXT:00A6] 
 +[FID:62, TEXT:00A8] 
 
 --- Group [left:none next=0023] ---
+リプレ
+本当に嬉しそうだな
+-[FID:62, TEXT:00A6] 
++[FID:62, TEXT:00A7] 
+
+--- Group [left:主人公 next=0023] ---
 何をしてるんだい？
 +[FID:62, TEXT:00AA] 
 
---- Group [left:主人公 next=0023] ---
+--- Group [left:none next=0023] ---
 何してるの？
 +[FID:62, TEXT:00AB] 
 
@@ -586,7 +590,7 @@
 +[FID:62, TEXT:00AF] 
 +[FID:62, TEXT:00B0] 
 
---- Group [left:none next=0023] ---
+--- Group [left:主人公 next=0023] ---
 へえ、器用なもんだ
 +[FID:62, TEXT:00B1] 
 
@@ -594,11 +598,11 @@
 へえ、器用なものだな
 +[FID:62, TEXT:00B2] 
 
---- Group [left:none next=0023] ---
+--- Group [left:主人公 next=0023] ---
 器用なんだね
 +[FID:62, TEXT:00B3] 
 
---- Group [left:主人公 next=0023] ---
+--- Group [left:none next=0023] ---
 器用ですね・・・
 +[FID:62, TEXT:00B4] 
 
@@ -638,15 +642,15 @@
 
 --- Group [left:拉米 next=0023] ---
 　よかったな
-　僕にも作れるかな？
+　俺にも作れるかな？
 +[FID:62, TEXT:00BF] 
-+[FID:62, TEXT:00C1] 
++[FID:62, TEXT:00C0] 
 
 --- Group [left:拉米 next=0023] ---
 　よかったな
-　俺にも作れるかな？
+　僕にも作れるかな？
 -[FID:62, TEXT:00BF] 
-+[FID:62, TEXT:00C0] 
++[FID:62, TEXT:00C1] 
 
 --- Group [left:拉米 next=0023] ---
 　よかったね
@@ -660,13 +664,13 @@
 -[FID:62, TEXT:00C2] 
 +[FID:62, TEXT:00C4] 
 
---- Group [left:主人公 next=0023] ---
+--- Group [left:拉米 next=0023] ---
 よかったな
 ラミちゃん？
 +[FID:62, TEXT:00C5] 
 +[FID:62, TEXT:00C6] 
 
---- Group [left:none next=0023] ---
+--- Group [left:拉米 next=0023] ---
 よかったね
 ラミちゃん？
 +[FID:62, TEXT:00C7] 
@@ -726,7 +730,7 @@
 +[FID:62, TEXT:00D6] 
 +[FID:62, TEXT:00D7] 
 
---- Group [left:none next=0023] ---
+--- Group [left:主人公 next=0023] ---
 あれ、珍しいね？
 レイドがここに来てる
 なんて
@@ -742,7 +746,7 @@
 +[FID:62, TEXT:00DA] 
 +[FID:62, TEXT:00DB] 
 
---- Group [right:char_0040 next=2012] ---
+--- Group [right:none next=2012] ---
 ちょうど良かったよ
 @ n 
 +[FID:62, TEXT:00DC] 
@@ -754,7 +758,13 @@
 +[FID:62, TEXT:00DD] 
 +[FID:62, TEXT:00DE] 
 
---- Group [left:none next=0023] ---
+--- Group [right:卡西斯 next=2012] ---
+バノッサの使った力に
+ついて話をしてたの
+-[FID:62, TEXT:00DD] 
++[FID:62, TEXT:011A] 
+
+--- Group [left:none next=2012] ---
 バノッサの・・・
 +[FID:62, TEXT:00DF] 
 
@@ -779,6 +789,14 @@
 +[FID:62, TEXT:00E5] 
 +[FID:62, TEXT:00E6] 
 +[FID:62, TEXT:00E7] 
+
+--- Group [right:基尔 next=2012] ---
+間違いないと思う
+だが、バノッサは誰に
+それを教わったのか
+-[FID:62, TEXT:00E4] 
++[FID:62, TEXT:010D] 
++[FID:62, TEXT:010E] 
 
 --- Group [left:主人公 next=0023] ---
 マーン三兄弟か？
@@ -820,6 +838,14 @@
 +[FID:62, TEXT:00FA] 
 +[FID:62, TEXT:00FB] 
 
+--- Group [left:主人公 next=0023] ---
+でも、この街で召喚術
+が使えるのは、俺たち
+と連中以外には・・・
+-[FID:62, TEXT:00EF] 
++[FID:62, TEXT:010F] 
++[FID:62, TEXT:0110] 
+
 --- Group [left:主人公 next=2012] ---
 でもさ、召喚術が
 使えるひとって、あの
@@ -852,11 +878,37 @@
 ？？
 +[FID:62, TEXT:00FF] 
 
+--- Group [right:卡西斯 next=2012] ---
+この街の門は閉じてる
+わけじゃないもの
+誰だって来れちゃうわ
++[FID:62, TEXT:0100] 
++[FID:62, TEXT:0123] 
++[FID:62, TEXT:0124] 
+
+--- Group [right:克拉雷特 next=2012] ---
+この街の門は閉じてる
+わけではありません
+誰だって入ってこれる
+んです
+-[FID:62, TEXT:0100] 
++[FID:62, TEXT:0130] 
++[FID:62, TEXT:0117] 
++[FID:62, TEXT:0131] 
+
+--- Group [right:基尔 next=2012] ---
+この街の門は閉じてる
+わけじゃないんだ
+誰だって入ってこれる
+-[FID:62, TEXT:0100] 
++[FID:62, TEXT:0116] 
+-[FID:62, TEXT:0117] 
+
 --- Group [right:索尔 next=2012] ---
 この街の門は閉じてる
 わけじゃないんだよ
 誰でも入れるのさ
-+[FID:62, TEXT:0100] 
+-[FID:62, TEXT:0100] 
 +[FID:62, TEXT:0101] 
 +[FID:62, TEXT:0102] 
 
@@ -866,23 +918,165 @@
 +[FID:62, TEXT:0103] 
 +[FID:62, TEXT:0104] 
 
+--- Group [right:基尔 next=2012] ---
+そこまではわからない
+だけど、あり得ない話
+ではないと思う
++[FID:62, TEXT:0105] 
++[FID:62, TEXT:0118] 
++[FID:62, TEXT:0119] 
+
 --- Group [right:索尔 next=2012] ---
 そこまではわからない
 だけど、その可能性は
 充分にある
-+[FID:62, TEXT:0105] 
+-[FID:62, TEXT:0105] 
 +[FID:62, TEXT:0106] 
 +[FID:62, TEXT:0107] 
+
+--- Group [right:基尔 next=2012] ---
+バノッサの使った力
+について話をして
+いたんだ
++[FID:62, TEXT:0108] 
++[FID:62, TEXT:0109] 
++[FID:62, TEXT:010A] 
+
+--- Group [left:none next=0023] ---
+バノッサさんの・・・
++[FID:62, TEXT:010B] 
+
+--- Group [left:雷德 next=2012] ---
+キール
+あれはやっぱり召喚術
+だったのか？
++[FID:62, TEXT:010C] 
+-[FID:62, TEXT:00E2] 
+-[FID:62, TEXT:00E3] 
+
+--- Group [left:主人公 next=0023] ---
+でも、この街以外の
+召喚術師というのも
+考えにくくは
+ありませんか？
++[FID:62, TEXT:0111] 
++[FID:62, TEXT:0112] 
++[FID:62, TEXT:0113] 
++[FID:62, TEXT:0114] 
+
+--- Group [right:基尔 next=2012] ---
+そうとは限らないよ
+@ n 
++[FID:62, TEXT:0115] 
+-[FID:62, TEXT:00A5] 
+
+--- Group [left:雷德 next=2012] ---
+カシス
+あれはやっぱり召喚術
+だったのか？
++[FID:62, TEXT:011B] 
+-[FID:62, TEXT:00E2] 
+-[FID:62, TEXT:00E3] 
+
+--- Group [right:卡西斯 next=2012] ---
+間違いないわね
+だけどあいつ、誰から
+教わったんだろ
++[FID:62, TEXT:011C] 
++[FID:62, TEXT:011D] 
++[FID:62, TEXT:011E] 
+
+--- Group [left:主人公 next=0023] ---
+でも、この街の外から
+召喚師がきたというの
+も考えにくいですよね
++[FID:62, TEXT:011F] 
++[FID:62, TEXT:0120] 
++[FID:62, TEXT:0121] 
+
+--- Group [right:卡西斯 next=2012] ---
+来たのかもよ？
++[FID:62, TEXT:0122] 
+
+--- Group [right:卡西斯 next=2012] ---
+さあね・・・
+けどさ、あり得ない話
+じゃないと思うよ
++[FID:62, TEXT:0125] 
++[FID:62, TEXT:0126] 
++[FID:62, TEXT:0127] 
+
+--- Group [right:克拉雷特 next=2012] ---
+バノッサの使った
+力について話をして
+いたんです
++[FID:62, TEXT:0128] 
++[FID:62, TEXT:0129] 
++[FID:62, TEXT:012A] 
+
+--- Group [left:雷德 next=2012] ---
+クラレット
+あれはやっぱり召喚術
+だったのか？
++[FID:62, TEXT:012B] 
+-[FID:62, TEXT:00E2] 
+-[FID:62, TEXT:00E3] 
+
+--- Group [right:克拉雷特 next=2012] ---
+間違いありませんね
+でも、誰が彼にそれを
+教えたのでしょうか
++[FID:62, TEXT:012C] 
++[FID:62, TEXT:012D] 
++[FID:62, TEXT:012E] 
+
+--- Group [right:克拉雷特 next=2012] ---
+そうとは限りませんよ
+@ n 
++[FID:62, TEXT:012F] 
+-[FID:62, TEXT:00A5] 
+
+--- Group [right:克拉雷特 next=2012] ---
+そこまでは・・・
+ですが、あり得ない話
+ではないでしょうね
++[FID:62, TEXT:0132] 
++[FID:62, TEXT:0133] 
++[FID:62, TEXT:0134] 
+
+--- Group [left:主人公 next=0023] ---
+レイドさんと
+キールさんが
++[FID:62, TEXT:0135] 
++[FID:62, TEXT:0137] 
+
+--- Group [left:主人公 next=0023] ---
+レイドさんと
+カシスさんが
+-[FID:62, TEXT:0135] 
++[FID:62, TEXT:0138] 
 
 --- Group [left:主人公 next=0023] ---
 レイドさんと
 ソルさんが
-+[FID:62, TEXT:0135] 
+-[FID:62, TEXT:0135] 
 +[FID:62, TEXT:0136] 
 
 --- Group [left:主人公 next=0023] ---
 レイドとソルが
 +[FID:62, TEXT:0139] 
+
+--- Group [left:主人公 next=0023] ---
+レイドとキールが
++[FID:62, TEXT:013A] 
+
+--- Group [left:主人公 next=0023] ---
+レイドとカシスが
++[FID:62, TEXT:013B] 
+
+--- Group [left:主人公 next=0023] ---
+レイドとクラレットが
++[FID:62, TEXT:013C] 
 
 --- Group [left:主人公 next=2012] ---
 召喚師の話をしている
@@ -902,17 +1096,17 @@
 
 --- Group [left:主人公 next=0023] ---
 話の邪魔をしちゃ
-悪いよね
--[FID:62, TEXT:013E] 
-+[FID:62, TEXT:0141] 
-
---- Group [left:主人公 next=0023] ---
-話の邪魔をしちゃ
 悪いですね
 -[FID:62, TEXT:013E] 
 +[FID:62, TEXT:0142] 
 
---- Group [right:莫纳蒂 next=2012] ---
+--- Group [left:主人公 next=0023] ---
+話の邪魔をしちゃ
+悪いよね
+-[FID:62, TEXT:013E] 
++[FID:62, TEXT:0141] 
+
+--- Group [right:char_0040 next=2012] ---
 あら、いらっしゃい
 +[FID:62, TEXT:0143] 
 
@@ -920,15 +1114,15 @@
 留守番かい？
 +[FID:62, TEXT:0144] 
 
---- Group [left:none next=0023] ---
+--- Group [left:主人公 next=0023] ---
 留守番ですか？
 +[FID:62, TEXT:0145] 
 
---- Group [left:none next=0023] ---
+--- Group [left:主人公 next=0023] ---
 留守番？
 +[FID:62, TEXT:0146] 
 
---- Group [right:none next=2012] ---
+--- Group [right:char_0040 next=2012] ---
 ええ、これでも
 一応は酒場だから
 放っておくことは
@@ -952,7 +1146,7 @@
 +[FID:62, TEXT:014E] 
 +[FID:62, TEXT:0150] 
 
---- Group [right:none next=0023] ---
+--- Group [right:char_0040 next=0023] ---
 　セシルと話をしていく
 　他のみんなは？
 -[FID:62, TEXT:014E] 
@@ -960,31 +1154,31 @@
 
 --- Group [left:none next=0023] ---
 セシルさんはどうして
-お医者さんをやめて
-アキュートに？
+医者を辞めて、
+アキュートに
+入ったんだい？
 +[FID:62, TEXT:0151] 
-+[FID:62, TEXT:0156] 
-+[FID:62, TEXT:0157] 
++[FID:62, TEXT:0152] 
++[FID:62, TEXT:0153] 
++[FID:62, TEXT:0154] 
 
---- Group [left:none next=0023] ---
+--- Group [left:主人公 next=0023] ---
 セシルさんはどうして
 医者を辞めて、
 アキュートに
 入ったんです？
 -[FID:62, TEXT:0151] 
-+[FID:62, TEXT:0152] 
-+[FID:62, TEXT:0153] 
+-[FID:62, TEXT:0152] 
+-[FID:62, TEXT:0153] 
 +[FID:62, TEXT:0155] 
 
 --- Group [left:none next=0023] ---
 セシルさんはどうして
-医者を辞めて、
-アキュートに
-入ったんだい？
+お医者さんをやめて
+アキュートに？
 -[FID:62, TEXT:0151] 
--[FID:62, TEXT:0152] 
--[FID:62, TEXT:0153] 
-+[FID:62, TEXT:0154] 
++[FID:62, TEXT:0156] 
++[FID:62, TEXT:0157] 
 
 --- Group [left:none next=0023] ---
 セシルさんは、なぜ
@@ -994,7 +1188,7 @@
 +[FID:62, TEXT:0159] 
 +[FID:62, TEXT:015A] 
 
---- Group [right:none next=2012] ---
+--- Group [right:char_0040 next=2012] ---
 そうね・・・
 聞き分けのない患者を
 見張るため、かしら
@@ -1024,11 +1218,11 @@
 誰なの患者って？
 +[FID:62, TEXT:0164] 
 
---- Group [left:none next=0023] ---
+--- Group [left:主人公 next=0023] ---
 その患者さんが・・・
 +[FID:62, TEXT:0165] 
 
---- Group [right:莫纳蒂 next=2012] ---
+--- Group [right:none next=2012] ---
 フフフ
 さあ、誰かしらね？
 +[FID:62, TEXT:0166] 
@@ -1044,7 +1238,7 @@
 +[FID:62, TEXT:0169] 
 +[FID:62, TEXT:016A] 
 
---- Group [left:none next=0023] ---
+--- Group [left:主人公 next=0023] ---
 他のみなさんは？
 +[FID:62, TEXT:016B] 
 
@@ -1054,11 +1248,11 @@
 +[FID:62, TEXT:016C] 
 +[FID:62, TEXT:016D] 
 
---- Group [left:主人公 next=0023] ---
+--- Group [left:none next=0023] ---
 街の外って？
 +[FID:62, TEXT:016E] 
 
---- Group [left:主人公 next=0023] ---
+--- Group [left:none next=0023] ---
 街の外？
 +[FID:62, TEXT:016F] 
 
@@ -1066,7 +1260,7 @@
 街の外・・・ですか？
 +[FID:62, TEXT:0170] 
 
---- Group [right:莫纳蒂 next=2012] ---
+--- Group [right:none next=2012] ---
 荒野に出て、
 剣の訓練をしてるのよ
 このあたりじゃ場所が
@@ -1076,7 +1270,7 @@
 +[FID:62, TEXT:0173] 
 +[FID:62, TEXT:0174] 
 
---- Group [left:none next=0023] ---
+--- Group [left:主人公 next=0023] ---
 なるほど・・・
 じゃ、スタウトは？
 +[FID:62, TEXT:0175] 
@@ -1094,11 +1288,11 @@
 ・・・そこ
 +[FID:62, TEXT:017A] 
 
---- Group [right:char_0040 next=2012] ---
+--- Group [right:none next=2012] ---
 昼間からこんな調子よ
 +[FID:62, TEXT:017B] 
 
---- Group [left:主人公 next=0023] ---
+--- Group [left:none next=0023] ---
 とことん、酔っぱらい
 ってやつだな
 +[FID:62, TEXT:017C] 
@@ -1108,7 +1302,7 @@
 ・・・ヨッパライだ
 +[FID:62, TEXT:017E] 
 
---- Group [left:none next=0023] ---
+--- Group [left:主人公 next=0023] ---
 本当に、お酒が好き
 なんですね？
 +[FID:62, TEXT:017F] 
@@ -1118,7 +1312,7 @@
 あ、兄ちゃん
 +[FID:62, TEXT:0181] 
 
---- Group [right:none next=2012] ---
+--- Group [right:莫纳蒂 next=2012] ---
 あ、姉ちゃん
 +[FID:62, TEXT:0182] 
 
@@ -1128,7 +1322,7 @@
 +[FID:62, TEXT:0183] 
 +[FID:62, TEXT:0184] 
 
---- Group [left:none next=0023] ---
+--- Group [left:主人公 next=0023] ---
 がんばってるようだな
 アルバ？
 +[FID:62, TEXT:0185] 
@@ -1140,13 +1334,13 @@
 +[FID:62, TEXT:0187] 
 +[FID:62, TEXT:0188] 
 
---- Group [left:主人公 next=0023] ---
+--- Group [left:none next=0023] ---
 がんばってるみたいね
 アルバ？
 +[FID:62, TEXT:0189] 
 -[FID:62, TEXT:0186] 
 
---- Group [right:char_0040 next=2012] ---
+--- Group [right:none next=2012] ---
 こういうのは、続けて
 毎日練習するのが大切
 なんだってさ
@@ -1154,7 +1348,7 @@
 +[FID:62, TEXT:018B] 
 +[FID:62, TEXT:018C] 
 
---- Group [right:none next=2012] ---
+--- Group [right:char_0040 next=2012] ---
 ずっと練習を続ければ
 自然に強くなるって、
 レイドも言ってたし
@@ -1166,7 +1360,7 @@
 毎日やってるですの？
 +[FID:62, TEXT:0190] 
 
---- Group [right:none next=2012] ---
+--- Group [right:char_0040 next=2012] ---
 うん、そうだよ
 +[FID:62, TEXT:0191] 
 
@@ -1178,7 +1372,7 @@
 +[FID:62, TEXT:0193] 
 +[FID:62, TEXT:0194] 
 
---- Group [right:莫纳蒂 next=2012] ---
+--- Group [right:char_0040 next=2012] ---
 えへへ、そうかなぁ？
 +[FID:62, TEXT:0195] 
 
@@ -1196,11 +1390,17 @@
 
 --- Group [left:主人公 next=0023] ---
 練習の邪魔をしちゃ
-悪いですよね
+悪いよな・・・
 +[FID:62, TEXT:019A] 
+-[FID:62, TEXT:013F] 
+
+--- Group [left:主人公 next=0023] ---
+練習の邪魔をしちゃ
+悪いですよね
+-[FID:62, TEXT:019A] 
 +[FID:62, TEXT:019B] 
 
---- Group [right:none next=2012] ---
+--- Group [right:char_0040 next=2012] ---
 よお、@ n 
 お前も偵察か
 +[FID:62, TEXT:019C] 
@@ -1224,11 +1424,11 @@
 +[FID:62, TEXT:01A2] 
 +[FID:62, TEXT:01A3] 
 
---- Group [left:主人公 next=0023] ---
+--- Group [left:none next=0023] ---
 ああ、そういうことか
 +[FID:62, TEXT:01A4] 
 
---- Group [left:none next=0023] ---
+--- Group [left:主人公 next=0023] ---
 なるほど〜
 あたしは違うよ
 +[FID:62, TEXT:01A5] 
@@ -1240,7 +1440,7 @@
 +[FID:62, TEXT:01A7] 
 +[FID:62, TEXT:01A8] 
 
---- Group [right:莫纳蒂 next=2012] ---
+--- Group [right:char_0040 next=2012] ---
 お前がぼけーっとして
 る間に、俺はしっかり
 手がかりを見つけたっ
@@ -1250,7 +1450,7 @@
 +[FID:62, TEXT:01AB] 
 +[FID:62, TEXT:01AC] 
 
---- Group [left:主人公 next=0023] ---
+--- Group [left:none next=0023] ---
 本当か！？
 +[FID:62, TEXT:01AD] 
 
@@ -1272,8 +1472,26 @@
 
 --- Group [right:char_0040 next=0023] ---
 あの格好
-ソルと
+クラレットと
 +[FID:62, TEXT:01B3] 
++[FID:62, TEXT:01B7] 
+
+--- Group [right:char_0040 next=0023] ---
+あの格好
+カシスと
+-[FID:62, TEXT:01B3] 
++[FID:62, TEXT:01B6] 
+
+--- Group [right:char_0040 next=0023] ---
+あの格好
+キールと
+-[FID:62, TEXT:01B3] 
++[FID:62, TEXT:01B5] 
+
+--- Group [right:char_0040 next=0023] ---
+あの格好
+ソルと
+-[FID:62, TEXT:01B3] 
 +[FID:62, TEXT:01B4] 
 
 --- Group [right:char_0040 next=2012] ---
@@ -1446,7 +1664,7 @@
 +[FID:62, TEXT:01EB] 
 +[FID:62, TEXT:01EC] 
 
---- Group [right:莫纳蒂 next=2012] ---
+--- Group [right:none next=2012] ---
 あいつ、街の外に出る
 みたいだ・・・
 +[FID:62, TEXT:01ED] 
@@ -1456,7 +1674,7 @@
 行くぞ、@ n 
 +[FID:62, TEXT:01EF] 
 
---- Group [left:主人公 next=0023] ---
+--- Group [left:none next=0023] ---
 おい、ガゼルっ？
 +[FID:62, TEXT:01F0] 
 
@@ -1468,13 +1686,13 @@
 ガゼルさん・・・
 +[FID:62, TEXT:01F2] 
 
---- Group [right:莫纳蒂 next=2012] ---
+--- Group [right:char_0040 next=2012] ---
 いいから来やがれっ
 見失っちまうだろうが
 +[FID:62, TEXT:01F3] 
 +[FID:62, TEXT:01F4] 
 
---- Group [right:莫纳蒂 next=0023] ---
+--- Group [right:none next=0023] ---
 ねえ、そこのボク！
 ちょっといいかしら？
 +[FID:62, TEXT:01F5] 
@@ -1490,7 +1708,7 @@
 俺ですか？
 +[FID:62, TEXT:01F8] 
 
---- Group [left:none next=0023] ---
+--- Group [left:主人公 next=0023] ---
 僕ですか？
 +[FID:62, TEXT:01F9] 
 
@@ -1502,19 +1720,19 @@
 わたしですか？
 +[FID:62, TEXT:01FB] 
 
---- Group [right:none next=2012] ---
+--- Group [right:莫纳蒂 next=2012] ---
 そうそう、キミよ
 キミのこと！
 +[FID:62, TEXT:01FC] 
 +[FID:62, TEXT:01FD] 
 
---- Group [left:none next=2012] ---
+--- Group [left:主人公 next=2012] ---
 もう！
 坊やじゃないのに！
 +[FID:62, TEXT:01FE] 
 +[FID:62, TEXT:01FF] 
 
---- Group [right:none next=2012] ---
+--- Group [right:莫纳蒂 next=2012] ---
 ちょっと聞きたいんだ
 けどね、この街で一番
 ぶっそうな場所って、
@@ -1524,7 +1742,7 @@
 +[FID:62, TEXT:0202] 
 +[FID:62, TEXT:0203] 
 
---- Group [left:none next=0023] ---
+--- Group [left:主人公 next=0023] ---
 へ？
 +[FID:62, TEXT:0204] 
 
@@ -1548,7 +1766,7 @@
 +[FID:62, TEXT:020B] 
 -[FID:62, TEXT:020A] 
 
---- Group [right:none next=2012] ---
+--- Group [right:char_0040 next=2012] ---
 ちょっとワケありでね
 そういう場所を探して
 るの・・・知らない？
@@ -1580,7 +1798,7 @@
 +[FID:62, TEXT:0215] 
 +[FID:62, TEXT:0216] 
 
---- Group [right:莫纳蒂 next=0023] ---
+--- Group [right:none next=0023] ---
 ありがとう、ボク
 でも大丈夫よ
 +[FID:62, TEXT:0217] 
@@ -1608,7 +1826,7 @@
 +[FID:62, TEXT:021E] 
 +[FID:62, TEXT:021F] 
 
---- Group [left:none next=0023] ---
+--- Group [left:主人公 next=0023] ---
 ・・・だから
 ボクじゃないのに
 +[FID:62, TEXT:0220] 
@@ -1620,7 +1838,7 @@
 +[FID:62, TEXT:0222] 
 +[FID:62, TEXT:0223] 
 
---- Group [left:none next=0023] ---
+--- Group [left:主人公 next=0023] ---
 それだったら・・・
 繁華街とか北のスラム
 がそうですよ
@@ -1628,7 +1846,7 @@
 +[FID:62, TEXT:0225] 
 +[FID:62, TEXT:0226] 
 
---- Group [left:主人公 next=0023] ---
+--- Group [left:none next=0023] ---
 それだったら・・・
 繁華街とか北のスラム
 ですケド
@@ -1636,7 +1854,7 @@
 -[FID:62, TEXT:0225] 
 +[FID:62, TEXT:0227] 
 
---- Group [left:主人公 next=0023] ---
+--- Group [left:none next=0023] ---
 それなら・・・
 繁華街や北のスラムに
 なりますけど
@@ -1644,13 +1862,13 @@
 +[FID:62, TEXT:0229] 
 +[FID:62, TEXT:022A] 
 
---- Group [right:none next=2012] ---
+--- Group [right:莫纳蒂 next=2012] ---
 北ね？
 どうもありがとう
 +[FID:62, TEXT:022B] 
 +[FID:62, TEXT:022C] 
 
---- Group [right:none next=2012] ---
+--- Group [right:莫纳蒂 next=2012] ---
 それじゃあね！
 +[FID:62, TEXT:022D] 
 
@@ -1706,7 +1924,7 @@
 どこへ行くんですか？
 +[FID:62, TEXT:026C] 
 
---- Group [left:主人公 next=0023] ---
+--- Group [left:none next=0023] ---
 どこへ行くんです？
 +[FID:62, TEXT:026D] 
 
@@ -1722,23 +1940,23 @@
 
 --- Group [right:莫纳蒂 next=0023] ---
 　ラムダと話をする
-　邪魔しちゃ悪いな
+　邪魔しちゃ悪いかな
 +[FID:62, TEXT:0271] 
-+[FID:62, TEXT:0273] 
++[FID:62, TEXT:0272] 
 
 --- Group [right:none next=0023] ---
 　ラムダと話をする
-　邪魔しちゃ悪いかな
+　邪魔しちゃ悪いな
 -[FID:62, TEXT:0271] 
-+[FID:62, TEXT:0272] 
++[FID:62, TEXT:0273] 
 
---- Group [left:主人公 next=0023] ---
+--- Group [left:none next=0023] ---
 そう言えば、ラムダと
 最初に会ったのも荒野
-だったっけ・・・
+だったな・・・
 +[FID:62, TEXT:0274] 
 +[FID:62, TEXT:0275] 
-+[FID:62, TEXT:0276] 
++[FID:62, TEXT:0277] 
 
 --- Group [left:none next=0023] ---
 そう言えば、ラムダと
@@ -1748,15 +1966,15 @@
 -[FID:62, TEXT:0275] 
 +[FID:62, TEXT:0278] 
 
---- Group [left:none next=0023] ---
+--- Group [left:主人公 next=0023] ---
 そう言えば、ラムダと
 最初に会ったのも荒野
-だったな・・・
+だったっけ・・・
 -[FID:62, TEXT:0274] 
 -[FID:62, TEXT:0275] 
-+[FID:62, TEXT:0277] 
++[FID:62, TEXT:0276] 
 
---- Group [left:主人公 next=0023] ---
+--- Group [left:none next=0023] ---
 そう言えば・・・
 ラムダさんとはじめて
 出会ったのも、荒野
@@ -1778,7 +1996,7 @@
 ほんとにね
 +[FID:62, TEXT:0280] 
 
---- Group [left:none next=0023] ---
+--- Group [left:主人公 next=0023] ---
 ほんと
 +[FID:62, TEXT:0281] 
 
@@ -1802,7 +2020,7 @@
 +[FID:62, TEXT:0287] 
 +[FID:62, TEXT:0288] 
 
---- Group [right:none next=2012] ---
+--- Group [right:莫纳蒂 next=2012] ---
 お前には
 借りがあるからな
 +[FID:62, TEXT:0289] 
@@ -1810,21 +2028,21 @@
 
 --- Group [left:主人公 next=2012] ---
 稽古にいくんだったら
-邪魔しちゃ悪いよね
+邪魔をしたら悪いな
 +[FID:62, TEXT:028B] 
++[FID:62, TEXT:028E] 
+
+--- Group [left:主人公 next=2012] ---
+稽古にいくんだったら
+邪魔しちゃ悪いよね
+-[FID:62, TEXT:028B] 
 +[FID:62, TEXT:028F] 
 
---- Group [left:none next=2012] ---
+--- Group [left:主人公 next=2012] ---
 稽古にいくんだったら
 邪魔しちゃ悪いかな
 -[FID:62, TEXT:028B] 
 +[FID:62, TEXT:028C] 
-
---- Group [left:none next=2012] ---
-稽古にいくんだったら
-邪魔をしたら悪いな
--[FID:62, TEXT:028B] 
-+[FID:62, TEXT:028E] 
 
 --- Group [left:none next=0023] ---
 それじゃ、また
@@ -1834,7 +2052,7 @@
 じゃね！
 +[FID:62, TEXT:0290] 
 
---- Group [left:主人公 next=2012] ---
+--- Group [left:none next=2012] ---
 稽古にいくなら・・・
 邪魔はしないほうが
 いいですね・・・
@@ -1854,7 +2072,7 @@
 +[FID:62, TEXT:0295] 
 +[FID:62, TEXT:0296] 
 
---- Group [right:none next=2012] ---
+--- Group [right:char_0040 next=2012] ---
 姉ちゃんがさ、ここで
 おいらを励ましてくれ
 たからだよ
@@ -1862,7 +2080,7 @@
 -[FID:62, TEXT:0295] 
 -[FID:62, TEXT:0296] 
 
---- Group [right:char_0040 next=2012] ---
+--- Group [right:none next=2012] ---
 あれからね・・・
 おいら、自分が間違っ
 てないって思ったから
@@ -1880,15 +2098,15 @@
 +[FID:62, TEXT:029D] 
 +[FID:62, TEXT:029E] 
 
---- Group [right:none next=2012] ---
+--- Group [right:莫纳蒂 next=2012] ---
 そしたらね・・・
 +[FID:62, TEXT:029F] 
 
---- Group [left:none next=2012] ---
+--- Group [left:主人公 next=2012] ---
 そしたら？
 +[FID:62, TEXT:02A0] 
 
---- Group [right:char_0040 next=2012] ---
+--- Group [right:莫纳蒂 next=2012] ---
 みんな、意地悪
 しなくなったんだよ
 間違ってたって、
@@ -1898,7 +2116,7 @@
 +[FID:62, TEXT:02A3] 
 +[FID:62, TEXT:02A4] 
 
---- Group [right:none next=0023] ---
+--- Group [right:莫纳蒂 next=0023] ---
 兄ちゃんのおかげで、
 おいら、道場を辞めず
 にすんだんだよ！！
@@ -1922,11 +2140,11 @@
 アルバが本当の勇気を
 出してがんばったから
 みんな、間違いに気が
-ついたんだ
+ついたんじゃない？
 +[FID:62, TEXT:02AA] 
 +[FID:62, TEXT:02AB] 
 +[FID:62, TEXT:02AC] 
-+[FID:62, TEXT:02AD] 
++[FID:62, TEXT:02BB] 
 
 --- Group [left:主人公 next=2012] ---
 アルバが本当の勇気を
@@ -1942,11 +2160,11 @@
 アルバが本当の勇気を
 出してがんばったから
 みんな、間違いに気が
-ついたんじゃない？
+ついたんだ
 -[FID:62, TEXT:02AA] 
 -[FID:62, TEXT:02AB] 
 -[FID:62, TEXT:02AC] 
-+[FID:62, TEXT:02BB] 
++[FID:62, TEXT:02AD] 
 
 --- Group [left:none next=0023] ---
 俺は何もしちゃいない
@@ -1968,11 +2186,11 @@
 -[FID:62, TEXT:02AF] 
 +[FID:62, TEXT:02B3] 
 
---- Group [left:none next=2012] ---
+--- Group [left:主人公 next=2012] ---
 ちが〜うの！
 +[FID:62, TEXT:02B4] 
 
---- Group [left:none next=0023] ---
+--- Group [left:主人公 next=0023] ---
 全部、アルバ自身が
 やってのけたんだよ！
 +[FID:62, TEXT:02B7] 
@@ -1990,11 +2208,11 @@
 +[FID:62, TEXT:02BC] 
 +[FID:62, TEXT:02BD] 
 
---- Group [right:none next=2012] ---
+--- Group [right:莫纳蒂 next=2012] ---
 おいらが・・・
 +[FID:62, TEXT:02BE] 
 
---- Group [left:主人公 next=0023] ---
+--- Group [left:none next=0023] ---
 がんばるんだぞ？
 これからも
 +[FID:62, TEXT:02BF] 
@@ -2016,17 +2234,17 @@
 
 --- Group [left:主人公 next=0023] ---
 また、魚でも釣って
-リプレを喜ばせて
-やろうかな？
+みるかな？
 +[FID:62, TEXT:02C6] 
-+[FID:62, TEXT:02C7] 
-+[FID:62, TEXT:02C8] 
++[FID:62, TEXT:02C9] 
 
 --- Group [left:主人公 next=0023] ---
 また、魚でも釣って
-みるかな？
+リプレを喜ばせて
+やろうかな？
 -[FID:62, TEXT:02C6] 
-+[FID:62, TEXT:02C9] 
++[FID:62, TEXT:02C7] 
++[FID:62, TEXT:02C8] 
 
 --- Group [left:主人公 next=0023] ---
 うーん
@@ -2072,13 +2290,13 @@
 +[FID:62, TEXT:02D8] 
 +[FID:62, TEXT:02D9] 
 
---- Group [right:莫纳蒂 next=0023] ---
+--- Group [right:none next=0023] ---
 気にしなくていいって
 こういう時もあるわ
 +[FID:62, TEXT:02DF] 
 +[FID:62, TEXT:02E0] 
 
---- Group [right:char_0040 next=2012] ---
+--- Group [right:莫纳蒂 next=2012] ---
 また何か釣れた時は
 私のところに
 もってきてね
@@ -2086,7 +2304,7 @@
 +[FID:62, TEXT:02F1] 
 +[FID:62, TEXT:02F2] 
 
---- Group [right:莫纳蒂 next=2012] ---
+--- Group [right:none next=2012] ---
 腕によりをかけて
 おいしい料理を作って
 あげるから、ね？
@@ -2094,7 +2312,7 @@
 +[FID:62, TEXT:02F4] 
 +[FID:62, TEXT:02F5] 
 
---- Group [right:none next=2012] ---
+--- Group [right:char_0040 next=2012] ---
 おーい、@ n 
 また修行に
 つきあってくんない？
@@ -2120,13 +2338,13 @@
 +[FID:62, TEXT:02FC] 
 +[FID:62, TEXT:02FD] 
 
---- Group [right:none next=2012] ---
+--- Group [right:莫纳蒂 next=2012] ---
 また気が向いたら
 つきあってよ
 +[FID:62, TEXT:02FE] 
 +[FID:62, TEXT:02FF] 
 
---- Group [left:none next=0026] ---
+--- Group [left:主人公 next=0026] ---
 【自分の部屋】
 
 

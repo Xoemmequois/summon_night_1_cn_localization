@@ -90,21 +90,21 @@
 え？
 社って言ったら
 神社のお社のことじゃ
-ないのか？
+ないんですか？
 -[FID:7A, TEXT:001D] 
 +[FID:7A, TEXT:001E] 
 +[FID:7A, TEXT:001F] 
-+[FID:7A, TEXT:0020] 
++[FID:7A, TEXT:0025] 
 
 --- Group [left:洛卡斯 next=0023] ---
 え？
 社って言ったら
 神社のお社のことじゃ
-ないんですか？
+ないのか？
 -[FID:7A, TEXT:001D] 
 -[FID:7A, TEXT:001E] 
 -[FID:7A, TEXT:001F] 
-+[FID:7A, TEXT:0025] 
++[FID:7A, TEXT:0020] 
 
 --- Group [left:洛卡斯 next=0023] ---
 社は社ですよ
@@ -208,15 +208,15 @@
 
 --- Group [left:none next=0023] ---
 本当だ・・・
-ちゃんと鳥居がある
+ちゃんとした鳥居だ
 +[FID:7A, TEXT:0046] 
-+[FID:7A, TEXT:0047] 
++[FID:7A, TEXT:0048] 
 
 --- Group [left:none next=0023] ---
 本当だ・・・
-ちゃんとした鳥居だ
+ちゃんと鳥居がある
 -[FID:7A, TEXT:0046] 
-+[FID:7A, TEXT:0048] 
++[FID:7A, TEXT:0047] 
 
 --- Group [left:none next=0023] ---
 これは・・・たしかに
@@ -463,18 +463,18 @@
 --- Group [left:主人公 next=2012] ---
 あのさ、カイナ
 みんなの言うとおりだ
-と思う
+と俺も思うよ
 +[FID:7A, TEXT:009F] 
 +[FID:7A, TEXT:00A0] 
-+[FID:7A, TEXT:00A9] 
++[FID:7A, TEXT:00A1] 
 
 --- Group [left:主人公 next=2012] ---
 あのさ、カイナ
 みんなの言うとおりだ
-と俺も思うよ
+と思う
 -[FID:7A, TEXT:009F] 
 -[FID:7A, TEXT:00A0] 
-+[FID:7A, TEXT:00A1] 
++[FID:7A, TEXT:00A9] 
 
 --- Group [left:主人公 next=2012] ---
 みんなの言うとおりだ

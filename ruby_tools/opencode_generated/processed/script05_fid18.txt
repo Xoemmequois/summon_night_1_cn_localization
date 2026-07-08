@@ -92,11 +92,11 @@
 +[FID:18, TEXT:001E] 准备好了之后，在
 +[FID:18, TEXT:001F] 【玄关】集合
 
---- Group [right:雷德 next=2012] ---G
+--- Group [right:none next=2012] ---G
 ん、どうかしたのか？
 +[FID:18, TEXT:0020] 嗯，怎么了？
 
---- Group [left:主人公 next=0023] ---G
+--- Group [left:none next=0023] ---G
 あの・・・
 さっきの【はぐれ】っ
 て・・・どんなヤツ
@@ -106,7 +106,7 @@
 +[FID:18, TEXT:0023] 是……什么样的
 +[FID:18, TEXT:0024] 家伙？
 
---- Group [left:主人公 next=0023] ---G
+--- Group [left:none next=0023] ---G
 あの・・・
 さっきの【はぐれ】っ
 て・・・どんなの
@@ -116,7 +116,7 @@
 +[FID:18, TEXT:0029] 是……什么样的
 +[FID:18, TEXT:002A] 东西？
 
---- Group [left:none next=0023] ---G
+--- Group [left:主人公 next=0023] ---G
 いえ・・・
 さっきの【はぐれ】
 って・・・どんな
@@ -134,7 +134,7 @@
 +[FID:18, TEXT:002C] 【迷途召唤兽】
 +[FID:18, TEXT:002D] 的简称
 
---- Group [right:none next=2012] ---G
+--- Group [right:雷德 next=2012] ---G
 召喚師の手から逃げた
 召喚獣が、野生化して
 な・・・人を襲ったり
@@ -144,11 +144,11 @@
 +[FID:18, TEXT:0030] 了……有时会
 +[FID:18, TEXT:0031] 袭击人
 
---- Group [left:none next=2012] ---G
+--- Group [right:雷德 next=2012] ---G
 ・・・
 +[FID:18, TEXT:0032] ……
 
---- Group [right:雷德 next=2012] ---G
+--- Group [right:none next=2012] ---G
 まあ、出かける場所が
 場所だからな
 山奥とかにでも行かん
@@ -158,13 +158,13 @@
 +[FID:18, TEXT:0035] 只要不去深山老林
 +[FID:18, TEXT:0036] 之类的地方，应该没事
 
---- Group [right:雷德 next=0023] ---G
+--- Group [right:none next=0023] ---G
 男だけで集まって、何
 をするつもりなの！？
 +[FID:18, TEXT:0037] 男人们聚在一起，
 +[FID:18, TEXT:0038] 想干什么好事！？
 
---- Group [right:none next=2012] ---G
+--- Group [right:雷德 next=2012] ---G
 お姉ちゃんたちだけで
 集まって、何を
 するつもりなの！？
@@ -180,7 +180,7 @@
 え？
 +[FID:18, TEXT:003D] 诶？
 
---- Group [right:none next=0023] ---G
+--- Group [right:雷德 next=0023] ---G
 あーっ！きっと
 女の子が絶対にいけ
 ない楽しい場所にいく
@@ -200,7 +200,7 @@
 +[FID:18, TEXT:0044] 要去好玩的地方
 +[FID:18, TEXT:0045] 对吧
 
---- Group [left:主人公 next=0023] ---G
+--- Group [left:none next=0023] ---G
 おいおい・・・
 俺たちは荒野に行くん
 だって言ったろ？
@@ -208,7 +208,7 @@
 +[FID:18, TEXT:0047] 我们不是说了要去
 +[FID:18, TEXT:0048] 荒野吗？
 
---- Group [left:none next=0023] ---G
+--- Group [left:主人公 next=0023] ---G
 それはフィズの
 考えすぎだよ
 僕らは荒野に行くだけ
@@ -218,7 +218,7 @@
 +[FID:18, TEXT:004B] 我们只是去荒野
 +[FID:18, TEXT:004C] 而已
 
---- Group [left:none next=0023] ---G
+--- Group [left:主人公 next=0023] ---G
 え〜とねぇ・・・
 あたしたちは荒野に
 行くだけなの
@@ -234,13 +234,13 @@
 +[FID:18, TEXT:0051] 我们是
 +[FID:18, TEXT:0052] 去荒野的
 
---- Group [right:none next=2012] ---G
+--- Group [right:雷德 next=2012] ---G
 ふーんだ！
 信用できるもんですか
 +[FID:18, TEXT:0053] 哼！
 +[FID:18, TEXT:0054] 我才不信呢
 
---- Group [right:none next=2012] ---G
+--- Group [right:雷德 next=2012] ---G
 身の潔白をしょーめい
 したかったら、あたし
 も連れてくことね！
@@ -248,7 +248,7 @@
 +[FID:18, TEXT:0056] 清白的话，
 +[FID:18, TEXT:0057] 就得带上我！
 
---- Group [left:none next=0023] ---G
+--- Group [left:主人公 next=0023] ---G
 ・・・だーめ！
 +[FID:18, TEXT:0058] ……不行！
 
@@ -256,7 +256,7 @@
 その手にはのらないよ
 +[FID:18, TEXT:0059] 我才不上当呢
 
---- Group [left:none next=0023] ---G
+--- Group [left:主人公 next=0023] ---G
 ・・・だめ
 +[FID:18, TEXT:005A] ……不行
 
@@ -268,37 +268,37 @@
 準備はできたかい？
 +[FID:18, TEXT:005C] 准备好了吗？
 
+--- Group [right:none next=0023] ---G
+どうしよう？
++[FID:18, TEXT:005D] 怎么办？
+
 --- Group [left:主人公 next=2015] ---G
 どうしよう？
 　やめておく
 　魚釣りをする
-+[FID:18, TEXT:005D] 怎么办？
+-[FID:18, TEXT:005D] 怎么办？
 +[FID:18, TEXT:00C5] 　还是算了
 +[FID:18, TEXT:00C6] 　钓鱼
 
 --- Group [right:雷德 next=0023] ---G
-どうしよう？
--[FID:18, TEXT:005D] 怎么办？
+　まだです
+　できました
++[FID:18, TEXT:005E] 　还没好
++[FID:18, TEXT:005F] 　好了
 
 --- Group [right:雷德 next=0023] ---G
-　まだです
-　はい
-+[FID:18, TEXT:005E] 　还没好
-+[FID:18, TEXT:0061] 　好了
-
---- Group [right:none next=0023] ---G
 　まだです
 　は〜い！
 -[FID:18, TEXT:005E] 　还没好
 +[FID:18, TEXT:0060] 　好〜了！
 
---- Group [right:雷德 next=0023] ---G
+--- Group [right:none next=0023] ---G
 　まだです
-　できました
+　はい
 -[FID:18, TEXT:005E] 　还没好
-+[FID:18, TEXT:005F] 　好了
++[FID:18, TEXT:0061] 　好了
 
---- Group [right:none next=2012] ---G
+--- Group [right:雷德 next=2012] ---G
 それじゃ
 行くとしようか
 +[FID:18, TEXT:0062] 那么，
@@ -310,13 +310,13 @@
 +[FID:18, TEXT:0064] 不好意思，
 +[FID:18, TEXT:0065] 我还差一点……
 
---- Group [left:none next=0023] ---G
+--- Group [left:主人公 next=0023] ---G
 ごめんなさい！
 まだちょっと・・・
 +[FID:18, TEXT:0066] 对不起！
 -[FID:18, TEXT:0065] 我还差一点……
 
---- Group [right:雷德 next=2012] ---G
+--- Group [right:none next=2012] ---G
 そうか
 +[FID:18, TEXT:0067] 这样啊
 
@@ -344,7 +344,7 @@
 +[FID:18, TEXT:006C] 让你看家……
 +[FID:18, TEXT:006D] 抱歉了！
 
---- Group [right:雷德 next=2012] ---G
+--- Group [right:none next=2012] ---G
 いいのよ
 それより気をつけてね
 +[FID:18, TEXT:006F] 没关系
@@ -360,15 +360,15 @@
 +[FID:18, TEXT:0072] 这是早上剩下的面包
 +[FID:18, TEXT:0073] 不过……
 
---- Group [left:none next=0023] ---G
+--- Group [left:主人公 next=0023] ---G
 いいの？
 +[FID:18, TEXT:0074] 可以吗？
 
---- Group [left:none next=0023] ---G
+--- Group [left:主人公 next=0023] ---G
 いいのかい？
 +[FID:18, TEXT:0075] 可以吗？
 
---- Group [right:雷德 next=2012] ---G
+--- Group [right:none next=2012] ---G
 うん
 ホントはお弁当ぐらい
 もたせてあげたかった
@@ -406,7 +406,7 @@
 -[FID:18, TEXT:007F] 出门的这段时间，
 -[FID:18, TEXT:0080] 这里就由我来守护！
 
---- Group [right:none next=2012] ---G
+--- Group [right:雷德 next=2012] ---G
 留守は任せてよ！！
 +[FID:18, TEXT:0082] 看家就交给我吧！！
 
@@ -422,59 +422,59 @@
 うん、おねがいね〜！
 +[FID:18, TEXT:0085] 嗯，拜托你啦〜！
 
---- Group [left:none next=0023] ---G
+--- Group [left:主人公 next=0023] ---G
 ええ、お願いね
 +[FID:18, TEXT:0086] 嗯，拜托了
 
---- Group [right:雷德 next=2012] ---G
+--- Group [right:none next=2012] ---G
 あ・・・
 +[FID:18, TEXT:0087] 啊……
 
---- Group [left:主人公 next=2012] ---G
+--- Group [left:none next=2012] ---G
 ラミちゃん
 留守番お願いするね？
 +[FID:18, TEXT:0088] 拉米，
 +[FID:18, TEXT:0089] 看家就拜托你了？
 
---- Group [right:none next=2012] ---G
+--- Group [right:雷德 next=2012] ---G
 ・・・（こくん）
 +[FID:18, TEXT:008A] ……（点头）
 
---- Group [right:none next=2012] ---G
+--- Group [right:雷德 next=2012] ---G
 ・・・これ
 +[FID:18, TEXT:008B] ……这个
 
---- Group [left:主人公 next=0023] ---G
-このキャンディ
-・・・くれるの？
-+[FID:18, TEXT:008C] 这个糖果
-+[FID:18, TEXT:008D] ……给我吗？
-
---- Group [left:主人公 next=0023] ---G
+--- Group [left:none next=0023] ---G
 このキャンディ
 ・・・くれるのかい？
--[FID:18, TEXT:008C] 这个糖果
++[FID:18, TEXT:008C] 这个糖果
 +[FID:18, TEXT:008E] ……给我吗？
 
 --- Group [left:none next=0023] ---G
+このキャンディ
+・・・くれるの？
+-[FID:18, TEXT:008C] 这个糖果
++[FID:18, TEXT:008D] ……给我吗？
+
+--- Group [left:主人公 next=0023] ---G
 ああ、キャンディね
 ・・・くれるの？
 +[FID:18, TEXT:008F] 啊，糖果啊
 -[FID:18, TEXT:008D] ……给我吗？
 
---- Group [left:主人公 next=2012] ---G
+--- Group [left:none next=2012] ---G
 ありがとう
 +[FID:18, TEXT:0090] 谢谢
 
---- Group [right:雷德 next=2012] ---G
+--- Group [right:none next=2012] ---G
 きをつけて、ね
 +[FID:18, TEXT:0091] 小心点，哦
 
---- Group [left:none next=0023] ---G
+--- Group [left:主人公 next=0023] ---G
 どうかしたのか？
 +[FID:18, TEXT:0092] 怎么了？
 
---- Group [left:none next=0023] ---G
+--- Group [left:主人公 next=0023] ---G
 どうしたの？
 +[FID:18, TEXT:0093] 怎么了？
 
@@ -482,7 +482,7 @@
 どうかしました？
 +[FID:18, TEXT:0094] 出什么事了？
 
---- Group [right:none next=2012] ---G
+--- Group [right:雷德 next=2012] ---G
 あ、あぁ・・・
 やたらと鼻がむずむず
 するんだよ
@@ -490,7 +490,7 @@
 +[FID:18, TEXT:0096] 鼻子老是无缘无故
 +[FID:18, TEXT:0097] 发痒
 
---- Group [left:主人公 next=0023] ---G
+--- Group [left:none next=0023] ---G
 カゼじゃないのか？
 +[FID:18, TEXT:0098] 是不是感冒了？
 
@@ -498,13 +498,13 @@
 カゼ？
 +[FID:18, TEXT:0099] 感冒？
 
---- Group [left:主人公 next=0023] ---G
+--- Group [left:none next=0023] ---G
 カゼ？
 それとも乾いてる？
 -[FID:18, TEXT:0099] 感冒？
 +[FID:18, TEXT:009A] 还是太干燥了？
 
---- Group [right:雷德 next=2012] ---G
+--- Group [right:none next=2012] ---G
 そんならいいけどよ
 +[FID:18, TEXT:009B] 要是那样就好了
 
@@ -634,7 +634,7 @@
 +[FID:18, TEXT:00C7] 不用在意啦
 +[FID:18, TEXT:00C8] 偶尔也会有这种时候的
 
---- Group [right:雷德 next=0023] ---G
+--- Group [right:none next=0023] ---G
 うん、これだけあれば
 充分だよ
 +[FID:18, TEXT:00C9] 嗯，有这些的话
@@ -654,7 +654,7 @@
 +[FID:18, TEXT:00CE] 该怎么做才好
 +[FID:18, TEXT:00CF] 真让人犯愁
 
---- Group [right:雷德 next=0023] ---G
+--- Group [right:none next=0023] ---G
 すごいじゃない！
 これならきっと、おい
 しいお料理ができるわ
@@ -662,13 +662,13 @@
 +[FID:18, TEXT:00D1] 这样的话一定能做出
 +[FID:18, TEXT:00D2] 美味的料理呢
 
---- Group [right:none next=0023] ---G
+--- Group [right:雷德 next=0023] ---G
 これって・・・
 食べられるのかしら？
 +[FID:18, TEXT:00D3] 这个……
 +[FID:18, TEXT:00D4] 能吃吗？
 
---- Group [right:none next=2012] ---G
+--- Group [right:雷德 next=2012] ---G
 ごくろうさま
 きっとみんなも喜んで
 食べてくれるよ
@@ -684,7 +684,7 @@
 +[FID:18, TEXT:00D9] 就拿到我这里
 +[FID:18, TEXT:00DA] 来吧
 
---- Group [right:雷德 next=2012] ---G
+--- Group [right:none next=2012] ---G
 腕によりをかけて
 おいしい料理を作って
 あげるから、ね？
@@ -692,7 +692,7 @@
 +[FID:18, TEXT:00DC] 给你做出美味料理的
 +[FID:18, TEXT:00DD] 好吗？
 
---- Group [left:主人公 next=0026] ---G
+--- Group [left:none next=0026] ---G
 【自分の部屋】
 
 

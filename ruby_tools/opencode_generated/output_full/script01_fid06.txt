@@ -38,8 +38,8 @@
 
 --- Group 11 [left:char_0000 next=2012] ---
 [FID:06, TEXT:0005] なにかの穴の底みたい
-[FID:06, TEXT:0006] だけど・・・なんで、
-[FID:06, TEXT:0007] こんなとこに？
+[FID:06, TEXT:000D] だけど・・・どうして
+[FID:06, TEXT:000E] 僕はここに？
 
 --- Group 12 [left:char_0000 next=2012] ---
 [FID:06, TEXT:0005] なにかの穴の底みたい
@@ -53,8 +53,8 @@
 
 --- Group 14 [left:char_0000 next=2012] ---
 [FID:06, TEXT:0005] なにかの穴の底みたい
-[FID:06, TEXT:000D] だけど・・・どうして
-[FID:06, TEXT:000E] 僕はここに？
+[FID:06, TEXT:0006] だけど・・・なんで、
+[FID:06, TEXT:0007] こんなとこに？
 
 --- Group 15 [left:char_0000 next=2015] ---
 [FID:06, TEXT:0008] どうしよう？
@@ -63,43 +63,43 @@
 
 --- Group 16 [left:char_0000 next=2015] ---
 [FID:06, TEXT:0008] どうしよう？
-[FID:06, TEXT:0009] 　とにかくここから出よう
-[FID:06, TEXT:000A] 　これは夢にちがいない！
+[FID:06, TEXT:0081] 　全部拾っておこうかな
+[FID:06, TEXT:0082] 　そんな場合じゃないわ
 
 --- Group 17 [left:char_0000 next=2015] ---
 [FID:06, TEXT:0008] どうしよう？
-[FID:06, TEXT:0009] 　とにかくここから出よう
-[FID:06, TEXT:000A] 　これは夢にちがいない！
+[FID:06, TEXT:0025] 　なんだろう、この石？
+[FID:06, TEXT:0026] 　そんな場合じゃないぞ
 
 --- Group 18 [left:char_0000 next=2015] ---
 [FID:06, TEXT:0008] どうしよう？
-[FID:06, TEXT:0025] 　なんだろう、この石？
-[FID:06, TEXT:0026] 　そんな場合じゃないぞ
+[FID:06, TEXT:0009] 　とにかくここから出よう
+[FID:06, TEXT:000A] 　これは夢にちがいない！
 
 --- Group 19 [left:char_0000 next=2015] ---
 [FID:06, TEXT:0008] どうしよう？
-[FID:06, TEXT:0025] 　なんだろう、この石？
-[FID:06, TEXT:0026] 　そんな場合じゃないぞ
+[FID:06, TEXT:0009] 　とにかくここから出よう
+[FID:06, TEXT:0074] 　これはそう、夢なのよ！
 
 --- Group 20 [left:char_0000 next=2015] ---
 [FID:06, TEXT:0008] どうしよう？
-[FID:06, TEXT:0081] 　全部拾っておこうかな
-[FID:06, TEXT:0082] 　そんな場合じゃないわ
+[FID:06, TEXT:0009] 　とにかくここから出よう
+[FID:06, TEXT:000A] 　これは夢にちがいない！
 
 --- Group 21 [left:char_0000 next=2015] ---
 [FID:06, TEXT:0008] どうしよう？
-[FID:06, TEXT:0009] 　とにかくここから出よう
-[FID:06, TEXT:0074] 　これはそう、夢なのよ！
+[FID:06, TEXT:0025] 　なんだろう、この石？
+[FID:06, TEXT:0026] 　そんな場合じゃないぞ
 
 --- Group 22 [left:char_0000 next=2015] ---
 [FID:06, TEXT:0008] どうしよう？
-[FID:06, TEXT:0081] 　全部拾っておこうかな
-[FID:06, TEXT:0082] 　そんな場合じゃないわ
+[FID:06, TEXT:0009] 　とにかくここから出よう
+[FID:06, TEXT:0074] 　これはそう、夢なのよ！
 
 --- Group 23 [left:char_0000 next=2015] ---
 [FID:06, TEXT:0008] どうしよう？
-[FID:06, TEXT:0009] 　とにかくここから出よう
-[FID:06, TEXT:0074] 　これはそう、夢なのよ！
+[FID:06, TEXT:0081] 　全部拾っておこうかな
+[FID:06, TEXT:0082] 　そんな場合じゃないわ
 
 --- Group 24 [left:char_0000 next=2015] ---
 [FID:06, TEXT:0008] どうしよう？
@@ -115,14 +115,14 @@
 
 --- Group 27 [left:char_0000 next=2012] ---
 [FID:06, TEXT:000B] ・・・！？
-[FID:06, TEXT:000C] なんだここは！？
 
 --- Group 28 [left:char_0000 next=2012] ---
 [FID:06, TEXT:000B] ・・・！？
+[FID:06, TEXT:000C] なんだここは！？
 
 --- Group 29 [left:char_0000 next=2012] ---
 [FID:06, TEXT:000F] うーん、きっとこれは
-[FID:06, TEXT:0075] 夢なんだわ
+[FID:06, TEXT:0010] 夢なんだな
 [FID:06, TEXT:0011] だからほら、こうして
 [FID:06, TEXT:0012] ほほをつねれば・・
 
@@ -140,7 +140,7 @@
 
 --- Group 32 [left:char_0000 next=2012] ---
 [FID:06, TEXT:000F] うーん、きっとこれは
-[FID:06, TEXT:0010] 夢なんだな
+[FID:06, TEXT:0075] 夢なんだわ
 [FID:06, TEXT:0011] だからほら、こうして
 [FID:06, TEXT:0012] ほほをつねれば・・
 
@@ -166,7 +166,7 @@
 
 --- Group 37 [left:char_0000 next=2012] ---
 [FID:06, TEXT:0019] ん？
-[FID:06, TEXT:007C] なんだろう、これ
+[FID:06, TEXT:001A] なんだこりゃ
 
 --- Group 38 [left:char_0000 next=2012] ---
 [FID:06, TEXT:0019] ん？
@@ -179,7 +179,8 @@
 
 --- Group 40 [left:char_0000 next=2012] ---
 [FID:06, TEXT:0019] ん？
-[FID:06, TEXT:007C] なんだろう、これ
+[FID:06, TEXT:0044] あそこにも何か落ちて
+[FID:06, TEXT:0045] いるぞ
 
 --- Group 41 [left:char_0000 next=2012] ---
 [FID:06, TEXT:0019] ん？
@@ -188,17 +189,16 @@
 
 --- Group 42 [left:char_0000 next=2012] ---
 [FID:06, TEXT:0019] ん？
-[FID:06, TEXT:004F] あそこにも何か
-[FID:06, TEXT:0050] 刺さっているようだが
-
---- Group 43 [left:char_0000 next=2012] ---
-[FID:06, TEXT:0019] ん？
 [FID:06, TEXT:0044] あそこにも何か落ちて
 [FID:06, TEXT:0045] いるぞ
 
+--- Group 43 [left:char_0000 next=2012] ---
+[FID:06, TEXT:0019] ん？
+[FID:06, TEXT:007C] なんだろう、これ
+
 --- Group 44 [left:char_0000 next=2012] ---
 [FID:06, TEXT:0019] ん？
-[FID:06, TEXT:001A] なんだこりゃ
+[FID:06, TEXT:007C] なんだろう、これ
 
 --- Group 45 [left:char_0000 next=2012] ---
 [FID:06, TEXT:0019] ん？
@@ -206,8 +206,8 @@
 
 --- Group 46 [left:char_0000 next=2012] ---
 [FID:06, TEXT:0019] ん？
-[FID:06, TEXT:0044] あそこにも何か落ちて
-[FID:06, TEXT:0045] いるぞ
+[FID:06, TEXT:004F] あそこにも何か
+[FID:06, TEXT:0050] 刺さっているようだが
 
 --- Group 47 [left:char_0000 next=0023] ---
 [FID:06, TEXT:001B] キレイな石だな
@@ -329,20 +329,20 @@
 [FID:06, TEXT:003B] まずはここから
 [FID:06, TEXT:003C] 出ないと・・・
 
---- Group 72 [left:char_0000 next=2012] ---
+--- Group 72 [left:char_0000 next=0023] ---
 [FID:06, TEXT:003D] とりあえずポケットに
 [FID:06, TEXT:003E] しまっておいて、まず
-[FID:06, TEXT:0043] はこの穴の外へ出よう
+[FID:06, TEXT:003F] はとっとと上に登ろう
 
 --- Group 73 [left:char_0000 next=0023] ---
 [FID:06, TEXT:003D] とりあえずポケットに
 [FID:06, TEXT:003E] しまっておいて、まず
 [FID:06, TEXT:003F] はとっとと上に登ろう
 
---- Group 74 [left:char_0000 next=0023] ---
+--- Group 74 [left:char_0000 next=2012] ---
 [FID:06, TEXT:003D] とりあえずポケットに
 [FID:06, TEXT:003E] しまっておいて、まず
-[FID:06, TEXT:003F] はとっとと上に登ろう
+[FID:06, TEXT:0043] はこの穴の外へ出よう
 
 --- Group 75 [left:char_0000 next=2012] ---
 [FID:06, TEXT:003D] とりあえずポケットに
@@ -494,10 +494,10 @@
 
 --- Group 110 [left:char_0000 next=2012] ---
 [FID:06, TEXT:0062] ・・・・・・
-[FID:06, TEXT:009A] 死んで・・・るの？
 
 --- Group 111 [left:char_0000 next=2012] ---
 [FID:06, TEXT:0062] ・・・・・・
+[FID:06, TEXT:009A] 死んで・・・るの？
 
 --- Group 112 [left:char_0000 next=2012] ---
 [FID:06, TEXT:0062] ・・・・・・

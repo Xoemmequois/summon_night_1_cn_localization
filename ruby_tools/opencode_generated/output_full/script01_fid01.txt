@@ -12,22 +12,22 @@
 [FID:01, TEXT:007B] おお、エミ
 [FID:01, TEXT:007C] どうかしたのか？
 
---- Group 4 [right:char_0011 next=2012] ---
+--- Group 4 [right:char_003E next=2012] ---
 [FID:01, TEXT:007D] えへへ、べつに用事っ
 [FID:01, TEXT:007E] てわけじゃないんです
 [FID:01, TEXT:007F] けど・・・
 
---- Group 5 [right:char_003E next=2012] ---
+--- Group 5 [right:char_0011 next=2012] ---
 [FID:01, TEXT:007D] えへへ、べつに用事っ
 [FID:01, TEXT:007E] てわけじゃないんです
 [FID:01, TEXT:007F] けど・・・
 
---- Group 6 [right:char_0011 next=2012] ---
+--- Group 6 [right:char_003E next=2012] ---
 [FID:01, TEXT:0080] 駅までですけど、
 [FID:01, TEXT:0081] よかったらいっしょに
 [FID:01, TEXT:0082] 帰りません？
 
---- Group 7 [right:char_003E next=2012] ---
+--- Group 7 [right:char_0011 next=2012] ---
 [FID:01, TEXT:0080] 駅までですけど、
 [FID:01, TEXT:0081] よかったらいっしょに
 [FID:01, TEXT:0082] 帰りません？
@@ -41,19 +41,19 @@
 --- Group 10 [right:char_0010 next=2012] ---
 [FID:01, TEXT:0085] ・・・はあぁ〜っ
 
---- Group 11 [right:char_0010 next=2012] ---
+--- Group 11 [right:char_003E next=2012] ---
 [FID:01, TEXT:0085] ・・・はあぁ〜っ
 
---- Group 12 [right:char_003D next=2012] ---
+--- Group 12 [right:char_0011 next=2012] ---
 [FID:01, TEXT:0085] ・・・はあぁ〜っ
 
---- Group 13 [right:char_003D next=2012] ---
+--- Group 13 [right:char_0010 next=2012] ---
 [FID:01, TEXT:0085] ・・・はあぁ〜っ
 
---- Group 14 [right:char_003E next=2012] ---
+--- Group 14 [right:char_003D next=2012] ---
 [FID:01, TEXT:0085] ・・・はあぁ〜っ
 
---- Group 15 [right:char_0011 next=2012] ---
+--- Group 15 [right:char_003D next=2012] ---
 [FID:01, TEXT:0085] ・・・はあぁ〜っ
 
 --- Group 16 [left:char_0000 next=2012] ---
@@ -71,13 +71,13 @@
 --- Group 19 [left:char_0000 next=2012] ---
 [FID:01, TEXT:008A] ・・・？
 
---- Group 20 [left:char_003E next=2012] ---
+--- Group 20 [left:char_0011 next=2012] ---
 [FID:01, TEXT:008B] せんぱい、おそーい
 [FID:01, TEXT:008C] ・・・って、あれ？
 [FID:01, TEXT:008D] カツヤじゃない
 [FID:01, TEXT:008E] なにやってんの？
 
---- Group 21 [left:char_0011 next=2012] ---
+--- Group 21 [left:char_003E next=2012] ---
 [FID:01, TEXT:008B] せんぱい、おそーい
 [FID:01, TEXT:008C] ・・・って、あれ？
 [FID:01, TEXT:008D] カツヤじゃない
@@ -100,17 +100,17 @@
 [FID:01, TEXT:0094] 何か悩みでも
 [FID:01, TEXT:0095] あるのかな？
 
---- Group 25 [right:char_003E next=2015] ---
+--- Group 25 [left:char_0000 next=2015] ---
 [FID:01, TEXT:0096] どうしよう？
 [FID:01, TEXT:0097] 　そっとしておく
 [FID:01, TEXT:0098] 　心配だな
 
---- Group 26 [right:char_0011 next=2015] ---
+--- Group 26 [right:char_003E next=2015] ---
 [FID:01, TEXT:0096] どうしよう？
 [FID:01, TEXT:0097] 　そっとしておく
 [FID:01, TEXT:0098] 　心配だな
 
---- Group 27 [left:char_0000 next=2015] ---
+--- Group 27 [right:char_0011 next=2015] ---
 [FID:01, TEXT:0096] どうしよう？
 [FID:01, TEXT:0097] 　そっとしておく
 [FID:01, TEXT:0098] 　心配だな
@@ -167,13 +167,13 @@
 [FID:01, TEXT:00A3] あら、カツヤくん
 [FID:01, TEXT:00A4] これから帰るとこ？
 
---- Group 41 [right:char_003D next=2012] ---
+--- Group 41 [right:char_0010 next=2012] ---
 [FID:01, TEXT:00A5] ええ
 [FID:01, TEXT:0080] 駅までですけど、
 [FID:01, TEXT:0081] よかったらいっしょに
 [FID:01, TEXT:00A6] 帰りませんか
 
---- Group 42 [right:char_0010 next=2012] ---
+--- Group 42 [right:char_003D next=2012] ---
 [FID:01, TEXT:00A5] ええ
 [FID:01, TEXT:0080] 駅までですけど、
 [FID:01, TEXT:0081] よかったらいっしょに
@@ -211,12 +211,12 @@
 [FID:01, TEXT:00AC] いったい何をそんなに
 [FID:01, TEXT:00AD] 悩んでるの？
 
---- Group 51 [right:char_003E next=2012] ---
+--- Group 51 [right:char_0011 next=2012] ---
 [FID:01, TEXT:00AE] あ、いえっ！
 [FID:01, TEXT:00AF] ななっ、なんでもない
 [FID:01, TEXT:00B0] ですぅっ！！
 
---- Group 52 [right:char_0011 next=2012] ---
+--- Group 52 [right:char_003E next=2012] ---
 [FID:01, TEXT:00AE] あ、いえっ！
 [FID:01, TEXT:00AF] ななっ、なんでもない
 [FID:01, TEXT:00B0] ですぅっ！！
@@ -229,37 +229,37 @@
 [FID:01, TEXT:00B1] ・・・なんで
 [FID:01, TEXT:00B2] 赤くなるんだろ？
 
---- Group 55 [left:char_0010 next=2012] ---
+--- Group 55 [left:char_003D next=2012] ---
 [FID:01, TEXT:00B3] どうしたッスか、先輩
 [FID:01, TEXT:008C] ・・・って、あれ？
 [FID:01, TEXT:00B4] エミじゃないか
 [FID:01, TEXT:00B5] なにやってんだよ
 
---- Group 56 [left:char_003D next=2012] ---
+--- Group 56 [left:char_0010 next=2012] ---
 [FID:01, TEXT:00B3] どうしたッスか、先輩
 [FID:01, TEXT:008C] ・・・って、あれ？
 [FID:01, TEXT:00B4] エミじゃないか
 [FID:01, TEXT:00B5] なにやってんだよ
 
---- Group 57 [right:char_0011 next=2012] ---
+--- Group 57 [right:char_003E next=2012] ---
 [FID:01, TEXT:00B6] なんでもないって！
 [FID:01, TEXT:00B7] ・・・いいから先輩も
 [FID:01, TEXT:00B8] カツヤも、私のことは
 [FID:01, TEXT:00B9] 気にしないで
 
---- Group 58 [right:char_003E next=2012] ---
+--- Group 58 [right:char_0011 next=2012] ---
 [FID:01, TEXT:00B6] なんでもないって！
 [FID:01, TEXT:00B7] ・・・いいから先輩も
 [FID:01, TEXT:00B8] カツヤも、私のことは
 [FID:01, TEXT:00B9] 気にしないで
 
---- Group 59 [left:char_0010 next=2012] ---
+--- Group 59 [right:char_003D next=2012] ---
 [FID:01, TEXT:00BA] なに怒ってるんだよ？
 [FID:01, TEXT:00BB] ・・・ま、いいや
 [FID:01, TEXT:00BC] センパイ、こんな凶暴
 [FID:01, TEXT:00BD] 女ほっときましょう
 
---- Group 60 [right:char_003D next=2012] ---
+--- Group 60 [left:char_0010 next=2012] ---
 [FID:01, TEXT:00BA] なに怒ってるんだよ？
 [FID:01, TEXT:00BB] ・・・ま、いいや
 [FID:01, TEXT:00BC] センパイ、こんな凶暴
@@ -273,13 +273,13 @@
 [FID:01, TEXT:00BE] あっ
 [FID:01, TEXT:00BF] ちょっとカツヤ君！
 
---- Group 63 [right:char_0011 next=2012] ---
+--- Group 63 [right:char_003E next=2012] ---
 [FID:01, TEXT:00C0] 先輩、本当にたいした
 [FID:01, TEXT:00C1] ことじゃないですから
 [FID:01, TEXT:00C2] あんまり気にしないで
 [FID:01, TEXT:00C3] くださいね
 
---- Group 64 [right:char_003E next=2012] ---
+--- Group 64 [right:char_0011 next=2012] ---
 [FID:01, TEXT:00C0] 先輩、本当にたいした
 [FID:01, TEXT:00C1] ことじゃないですから
 [FID:01, TEXT:00C2] あんまり気にしないで
@@ -301,24 +301,24 @@
 [FID:01, TEXT:00C6] センパーイ！
 [FID:01, TEXT:00C7] 早く帰りましょうよぉ
 
---- Group 69 [right:char_003D next=2012] ---
+--- Group 69 [right:char_0011 next=2012] ---
 [FID:01, TEXT:00C8] ほら、呼んでますよ
 
---- Group 70 [right:char_0011 next=2012] ---
+--- Group 70 [right:char_003D next=2012] ---
 [FID:01, TEXT:00C8] ほら、呼んでますよ
 
---- Group 71 [left:none next=2012] ---
+--- Group 71 [left:char_0010 next=2012] ---
 [FID:01, TEXT:00C9] うん
 [FID:01, TEXT:00CA] じゃあ、また明日ね
 
---- Group 72 [left:char_0010 next=2012] ---
+--- Group 72 [left:none next=2012] ---
 [FID:01, TEXT:00C9] うん
 [FID:01, TEXT:00CA] じゃあ、また明日ね
 
---- Group 73 [right:char_0011 next=2012] ---
+--- Group 73 [right:char_003D next=2012] ---
 [FID:01, TEXT:00CB] さよなら、せんぱい
 
---- Group 74 [right:char_003D next=2012] ---
+--- Group 74 [right:char_0011 next=2012] ---
 [FID:01, TEXT:00CB] さよなら、せんぱい
 
 --- Group 75 [left:char_0000 next=2012] ---
@@ -331,21 +331,21 @@
 [FID:01, TEXT:00CD] そうは言われても
 [FID:01, TEXT:00CE] 気になるなぁ
 
---- Group 77 [right:char_003D next=2012] ---
+--- Group 77 [right:char_0010 next=2012] ---
 [FID:01, TEXT:00CF] ああ、またセンパイの
 [FID:01, TEXT:00D0] お人好しがはじまっち
 [FID:01, TEXT:00D1] まったよ
 
---- Group 78 [right:char_0010 next=2012] ---
+--- Group 78 [right:char_003D next=2012] ---
 [FID:01, TEXT:00CF] ああ、またセンパイの
 [FID:01, TEXT:00D0] お人好しがはじまっち
 [FID:01, TEXT:00D1] まったよ
 
---- Group 79 [right:char_003E next=2012] ---
+--- Group 79 [right:char_0011 next=2012] ---
 [FID:01, TEXT:00D2] あ、あの・・・
 [FID:01, TEXT:00D3] せんぱい？
 
---- Group 80 [right:char_0011 next=2012] ---
+--- Group 80 [right:char_003E next=2012] ---
 [FID:01, TEXT:00D2] あ、あの・・・
 [FID:01, TEXT:00D3] せんぱい？
 
@@ -361,21 +361,21 @@
 [FID:01, TEXT:00D6] 一緒に帰るの
 [FID:01, TEXT:00D7] やめとくわ
 
---- Group 83 [right:char_003D next=2012] ---
+--- Group 83 [right:char_0010 next=2012] ---
 [FID:01, TEXT:00D8] へいへい
 [FID:01, TEXT:00D9] 予想してましたよ
 
---- Group 84 [right:char_0010 next=2012] ---
+--- Group 84 [right:char_003D next=2012] ---
 [FID:01, TEXT:00D8] へいへい
 [FID:01, TEXT:00D9] 予想してましたよ
 
---- Group 85 [right:char_003D next=2012] ---
+--- Group 85 [right:char_0010 next=2012] ---
 [FID:01, TEXT:00DA] 俺はいいですからガラ
 [FID:01, TEXT:00DB] にもなくたそがれてる
 [FID:01, TEXT:00DC] コイツをよろしく面倒
 [FID:01, TEXT:00DD] 見てやって下さいな
 
---- Group 86 [right:char_0010 next=2012] ---
+--- Group 86 [right:char_003D next=2012] ---
 [FID:01, TEXT:00DA] 俺はいいですからガラ
 [FID:01, TEXT:00DB] にもなくたそがれてる
 [FID:01, TEXT:00DC] コイツをよろしく面倒
@@ -401,9 +401,9 @@
 [FID:01, TEXT:00E2] そんじゃセンパイっ
 [FID:01, TEXT:00E3] さいならぁ〜っ！
 
---- Group 91 [left:char_003E next=2012] ---
+--- Group 91 [left:char_0011 next=2012] ---
 [FID:01, TEXT:00E4] んもうっ！
 
---- Group 92 [left:char_0011 next=2012] ---
+--- Group 92 [left:char_003E next=2012] ---
 [FID:01, TEXT:00E4] んもうっ！
 

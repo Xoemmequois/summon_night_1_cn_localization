@@ -1,9 +1,17 @@
+--- Group [left:none next=0023] ---
+
+
+
++[FID:86, TEXT:0000] 
+-[FID:86, TEXT:0000] 
+-[FID:86, TEXT:0000] 
+
 --- Group [left:none next=201D] ---
 
 
 　　人は、さまざまな思いを
 　　胸に秘めて生きている
-+[FID:86, TEXT:0000] 
+-[FID:86, TEXT:0000] 
 -[FID:86, TEXT:0000] 
 +[FID:86, TEXT:0001] 
 +[FID:86, TEXT:0002] 
@@ -168,21 +176,21 @@
 こんな風に、この場所
 で夜空を見上げるのも
 これが最後になるのか
-も知れない・・・
+も知れないな・・・
 +[FID:86, TEXT:0025] 
 +[FID:86, TEXT:0026] 
 +[FID:86, TEXT:0027] 
-+[FID:86, TEXT:002C] 
++[FID:86, TEXT:0028] 
 
 --- Group [left:主人公 next=0023] ---
 こんな風に、この場所
 で夜空を見上げるのも
 これが最後になるのか
-も知れないな・・・
+も知れない・・・
 -[FID:86, TEXT:0025] 
 -[FID:86, TEXT:0026] 
 -[FID:86, TEXT:0027] 
-+[FID:86, TEXT:0028] 
++[FID:86, TEXT:002C] 
 
 --- Group [left:主人公 next=2012] ---
 いよいよ明日は、この
@@ -223,6 +231,18 @@
 --- Group [left:主人公 next=0023] ---
 ソル
 +[FID:86, TEXT:0034] 
+
+--- Group [left:主人公 next=0023] ---
+キール
++[FID:86, TEXT:0035] 
+
+--- Group [left:主人公 next=0023] ---
+カシス
++[FID:86, TEXT:0036] 
+
+--- Group [left:主人公 next=0023] ---
+クラレット
++[FID:86, TEXT:0037] 
 
 --- Group [left:主人公 next=0003] ---
 レイド
@@ -274,27 +294,9 @@
 
 --- Group [left:主人公 next=2012] ---
 びっくりしたよ
-ローカスがあたしの
-ために来てくれた
-なんて
-+[FID:86, TEXT:0052] 
-+[FID:86, TEXT:00F1] 
-+[FID:86, TEXT:00F2] 
-+[FID:86, TEXT:00F3] 
-
---- Group [left:主人公 next=0023] ---
-びっくりしたよ
-まさか、ペルゴまでが
-あんな無茶をするとは
--[FID:86, TEXT:0052] 
-+[FID:86, TEXT:015E] 
-+[FID:86, TEXT:015F] 
-
---- Group [left:none next=2012] ---
-びっくりしたよ
 ローカスが俺のために
 来てくれたなんて
--[FID:86, TEXT:0052] 
++[FID:86, TEXT:0052] 
 +[FID:86, TEXT:00EC] 
 +[FID:86, TEXT:00ED] 
 
@@ -307,6 +309,24 @@
 +[FID:86, TEXT:0053] 
 +[FID:86, TEXT:0054] 
 +[FID:86, TEXT:0055] 
+
+--- Group [left:none next=2012] ---
+びっくりしたよ
+ローカスがあたしの
+ために来てくれた
+なんて
+-[FID:86, TEXT:0052] 
++[FID:86, TEXT:00F1] 
++[FID:86, TEXT:00F2] 
++[FID:86, TEXT:00F3] 
+
+--- Group [left:none next=0023] ---
+びっくりしたよ
+まさか、ペルゴまでが
+あんな無茶をするとは
+-[FID:86, TEXT:0052] 
++[FID:86, TEXT:015E] 
++[FID:86, TEXT:015F] 
 
 --- Group [left:none next=0023] ---
 今でも信じられないよ
@@ -328,7 +348,7 @@
 +[FID:86, TEXT:005B] 
 -[FID:86, TEXT:0058] 
 
---- Group [left:none next=0023] ---
+--- Group [left:主人公 next=0023] ---
 びっくりしました
 まさかペルゴさんまで
 あんな無茶なことを
@@ -378,7 +398,7 @@
 +[FID:86, TEXT:0069] 
 +[FID:86, TEXT:006A] 
 
---- Group [left:none next=0023] ---
+--- Group [left:主人公 next=0023] ---
 レイド・・・
 +[FID:86, TEXT:006B] 
 
@@ -405,28 +425,28 @@
 --- Group [left:none next=2012] ---
 だから・・・
 エドスたちが来てくれ
-て、俺はうれしかった
+たとき、ドキドキする
+くらい嬉しくて・・
 -[FID:86, TEXT:0072] 
 +[FID:86, TEXT:0081] 
++[FID:86, TEXT:008D] 
++[FID:86, TEXT:008E] 
+
+--- Group [left:none next=2012] ---
+だから・・・
+エドスたちが来てくれ
+て、俺はうれしかった
+-[FID:86, TEXT:0072] 
+-[FID:86, TEXT:0081] 
 +[FID:86, TEXT:0082] 
 
---- Group [left:主人公 next=2012] ---
+--- Group [left:none next=2012] ---
 だから・・・
 エドスたちが来てくれ
 て、僕はうれしかった
 -[FID:86, TEXT:0072] 
 -[FID:86, TEXT:0081] 
 +[FID:86, TEXT:0088] 
-
---- Group [left:主人公 next=2012] ---
-だから・・・
-エドスたちが来てくれ
-たとき、ドキドキする
-くらい嬉しくて・・
--[FID:86, TEXT:0072] 
--[FID:86, TEXT:0081] 
-+[FID:86, TEXT:008D] 
-+[FID:86, TEXT:008E] 
 
 --- Group [right:雷德 next=2012] ---
 私は君を守ろう
@@ -452,7 +472,7 @@
 +[FID:86, TEXT:007A] 
 +[FID:86, TEXT:007B] 
 
---- Group [left:主人公 next=2012] ---
+--- Group [left:none next=2012] ---
 そんなことないさ
 +[FID:86, TEXT:007C] 
 
@@ -469,18 +489,18 @@
 --- Group [left:none next=0023] ---
 ここにいてもいいんだ
 って、教えてもらった
-ような気がして・・・
+ような気がしたんだ
 +[FID:86, TEXT:0083] 
 +[FID:86, TEXT:0084] 
-+[FID:86, TEXT:009A] 
++[FID:86, TEXT:0085] 
 
---- Group [left:none next=0023] ---
+--- Group [left:主人公 next=0023] ---
 ここにいてもいいんだ
 って、教えてもらった
-ような気がしたんだ
+ような気がして・・・
 -[FID:86, TEXT:0083] 
 -[FID:86, TEXT:0084] 
-+[FID:86, TEXT:0085] 
++[FID:86, TEXT:009A] 
 
 --- Group [left:none next=2012] ---
 あの時、僕はわからな
@@ -492,11 +512,11 @@
 -[FID:86, TEXT:007F] 
 -[FID:86, TEXT:0080] 
 
---- Group [left:主人公 next=2012] ---
+--- Group [left:none next=2012] ---
 そんなことないよぉ
 +[FID:86, TEXT:0089] 
 
---- Group [left:none next=2012] ---
+--- Group [left:主人公 next=2012] ---
 正直ね、あたし
 ここにいていいのか
 不安だったんだ・・・
@@ -512,7 +532,7 @@
 +[FID:86, TEXT:0090] 
 +[FID:86, TEXT:0091] 
 
---- Group [left:主人公 next=2012] ---
+--- Group [left:none next=2012] ---
 そんなこと・・・
 ありませんよ
 +[FID:86, TEXT:0092] 
@@ -568,7 +588,7 @@
 +[FID:86, TEXT:00A4] 
 +[FID:86, TEXT:00A5] 
 
---- Group [left:主人公 next=0023] ---
+--- Group [left:none next=0023] ---
 エドス・・・
 +[FID:86, TEXT:00A6] 
 
@@ -576,20 +596,20 @@
 エドスさん・・・
 +[FID:86, TEXT:00A7] 
 
---- Group [right:阿尔巴 next=0023] ---
-よかった・・・
-兄ちゃん、帰ってきて
-くれたんだね
-+[FID:86, TEXT:00A8] 
-+[FID:86, TEXT:00A9] 
-+[FID:86, TEXT:00AA] 
-
 --- Group [right:阿尔巴 next=2012] ---
 よかった・・・
 姉ちゃん、帰ってきて
 くれたんだね
--[FID:86, TEXT:00A8] 
++[FID:86, TEXT:00A8] 
 +[FID:86, TEXT:00AB] 
++[FID:86, TEXT:00AA] 
+
+--- Group [right:阿尔巴 next=0023] ---
+よかった・・・
+兄ちゃん、帰ってきて
+くれたんだね
+-[FID:86, TEXT:00A8] 
++[FID:86, TEXT:00A9] 
 -[FID:86, TEXT:00AA] 
 
 --- Group [left:none next=0023] ---
@@ -628,17 +648,17 @@
 おいら、知ってるんだ
 +[FID:86, TEXT:00B4] 
 
---- Group [right:阿尔巴 next=0023] ---
-そんなものなくたって
-兄ちゃんは強いんだ
-+[FID:86, TEXT:00B5] 
-+[FID:86, TEXT:00B6] 
-
 --- Group [right:阿尔巴 next=2012] ---
 そんなものなくたって
 姉ちゃんは強いんだ
--[FID:86, TEXT:00B5] 
++[FID:86, TEXT:00B5] 
 +[FID:86, TEXT:00B7] 
+
+--- Group [right:阿尔巴 next=0023] ---
+そんなものなくたって
+兄ちゃんは強いんだ
+-[FID:86, TEXT:00B5] 
++[FID:86, TEXT:00B6] 
 
 --- Group [right:阿尔巴 next=2012] ---
 だから、信じてるよ
@@ -704,11 +724,11 @@
 +[FID:86, TEXT:00CC] 
 -[FID:86, TEXT:00CB] 
 
---- Group [left:主人公 next=0023] ---
+--- Group [left:none next=0023] ---
 俺にもわからないんだ
 +[FID:86, TEXT:00CD] 
 
---- Group [left:none next=0023] ---
+--- Group [left:主人公 next=0023] ---
 僕にもわからないんだ
 +[FID:86, TEXT:00CE] 
 
@@ -718,7 +738,7 @@
 +[FID:86, TEXT:00CF] 
 +[FID:86, TEXT:00D0] 
 
---- Group [left:none next=0023] ---
+--- Group [left:主人公 next=0023] ---
 まだわからないの
 +[FID:86, TEXT:00D1] 
 
@@ -752,7 +772,7 @@
 +[FID:86, TEXT:00D9] 
 +[FID:86, TEXT:00DA] 
 
---- Group [left:none next=2012] ---
+--- Group [left:主人公 next=2012] ---
 ラミちゃん
 +[FID:86, TEXT:00DB] 
 
@@ -788,38 +808,34 @@
 +[FID:86, TEXT:00E4] 
 +[FID:86, TEXT:00E5] 
 
---- Group [left:none next=0023] ---
+--- Group [left:主人公 next=0023] ---
 ジンガ・・・
 +[FID:86, TEXT:00E6] 
 
---- Group [left:主人公 next=0023] ---
+--- Group [left:none next=0023] ---
 ありがと、ジンガ
 +[FID:86, TEXT:00E7] 
-
---- Group [right:金加 next=0023] ---
-何があろうと、俺っち
-はアニキの味方だから
-+[FID:86, TEXT:00E8] 
-+[FID:86, TEXT:00E9] 
 
 --- Group [right:金加 next=2012] ---
 何があろうと、俺っち
 はアネゴの味方だから
--[FID:86, TEXT:00E8] 
++[FID:86, TEXT:00E8] 
 +[FID:86, TEXT:00EA] 
+
+--- Group [right:金加 next=0023] ---
+何があろうと、俺っち
+はアニキの味方だから
+-[FID:86, TEXT:00E8] 
++[FID:86, TEXT:00E9] 
 
 --- Group [right:金加 next=2012] ---
 忘れないでくれよ？
 +[FID:86, TEXT:00EB] 
 
---- Group [left:主人公 next=2012] ---
-ありがとう
-+[FID:86, TEXT:00EE] 
-
 --- Group [right:克拉雷特 next=2012] ---
 ありがとう
 @ n 
--[FID:86, TEXT:00EE] 
++[FID:86, TEXT:00EE] 
 +[FID:86, TEXT:01E8] 
 
 --- Group [left:主人公 next=2012] ---
@@ -830,7 +846,7 @@
 +[FID:86, TEXT:00F0] 
 -[FID:86, TEXT:00ED] 
 
---- Group [left:none next=2012] ---
+--- Group [left:主人公 next=2012] ---
 驚きました
 ローカスさんが私の
 ために来てくれた
@@ -854,7 +870,7 @@
 +[FID:86, TEXT:00F9] 
 +[FID:86, TEXT:00FA] 
 
---- Group [left:none next=0023] ---
+--- Group [left:主人公 next=0023] ---
 ローカス・・・
 +[FID:86, TEXT:00FB] 
 
@@ -896,17 +912,17 @@
 +[FID:86, TEXT:0107] 
 +[FID:86, TEXT:0108] 
 
---- Group [left:none next=0023] ---
-危ない目にあうかも
-知れないよ？
-+[FID:86, TEXT:0109] 
-+[FID:86, TEXT:010C] 
-
---- Group [left:none next=0023] ---
+--- Group [left:主人公 next=0023] ---
 危ない目にあうかも
 知れないんだよ？
--[FID:86, TEXT:0109] 
++[FID:86, TEXT:0109] 
 +[FID:86, TEXT:010B] 
+
+--- Group [left:主人公 next=0023] ---
+危ない目にあうかも
+知れないよ？
+-[FID:86, TEXT:0109] 
++[FID:86, TEXT:010C] 
 
 --- Group [left:none next=0023] ---
 危ない目にあうかも
@@ -950,17 +966,17 @@
 +[FID:86, TEXT:0117] 
 +[FID:86, TEXT:0118] 
 
---- Group [left:none next=2012] ---
+--- Group [left:主人公 next=2012] ---
 わかったよ、モナティ
 +[FID:86, TEXT:0119] 
 
---- Group [left:none next=0023] ---
+--- Group [left:主人公 next=0023] ---
 最後まで
 ついて来てくれ
 +[FID:86, TEXT:011A] 
 +[FID:86, TEXT:011B] 
 
---- Group [left:none next=2012] ---
+--- Group [left:主人公 next=2012] ---
 うんわかった！
 +[FID:86, TEXT:011C] 
 
@@ -972,13 +988,17 @@
 
 --- Group [left:主人公 next=2012] ---
 うん、約束する
++[FID:86, TEXT:011F] 
+
+--- Group [left:none next=2012] ---
+うん、約束する
 あたしは絶対
 ここに帰ってくるよ
-+[FID:86, TEXT:011F] 
+-[FID:86, TEXT:011F] 
 +[FID:86, TEXT:04BE] 
 +[FID:86, TEXT:04BF] 
 
---- Group [left:none next=0023] ---
+--- Group [left:主人公 next=0023] ---
 最後まで、ついて来て
 くれる？
 +[FID:86, TEXT:0120] 
@@ -1006,7 +1026,7 @@
 +[FID:86, TEXT:0128] 
 +[FID:86, TEXT:0129] 
 
---- Group [left:none next=0023] ---
+--- Group [right:莉普蕾 next=2012] ---
 うん・・・
 +[FID:86, TEXT:012A] 
 
@@ -1020,10 +1040,14 @@
 +[FID:86, TEXT:012C] 
 +[FID:86, TEXT:012D] 
 
---- Group [left:主人公 next=0023] ---
+--- Group [left:none next=0023] ---
+あ、はい・・・
++[FID:86, TEXT:012E] 
+
+--- Group [left:none next=0023] ---
 あ、はい・・・
 そうでした・・・
-+[FID:86, TEXT:012E] 
+-[FID:86, TEXT:012E] 
 +[FID:86, TEXT:0231] 
 
 --- Group [right:茜 next=2012] ---
@@ -1076,7 +1100,7 @@
 ラムダ・・・
 +[FID:86, TEXT:013F] 
 
---- Group [left:none next=0023] ---
+--- Group [left:主人公 next=0023] ---
 ラムダさん・・・
 +[FID:86, TEXT:0140] 
 
@@ -1106,7 +1130,7 @@
 +[FID:86, TEXT:0148] 
 +[FID:86, TEXT:0149] 
 
---- Group [left:主人公 next=0023] ---
+--- Group [left:none next=0023] ---
 優しさ、ですか？
 +[FID:86, TEXT:014A] 
 
@@ -1132,10 +1156,14 @@
 +[FID:86, TEXT:0151] 
 +[FID:86, TEXT:0152] 
 
+--- Group [left:none next=0023] ---
+そうなのかな・・・
++[FID:86, TEXT:0153] 
+
 --- Group [left:主人公 next=0023] ---
 そうなのかな・・・
 なんか照れちゃうな
-+[FID:86, TEXT:0153] 
+-[FID:86, TEXT:0153] 
 +[FID:86, TEXT:0155] 
 
 --- Group [left:主人公 next=0023] ---
@@ -1194,7 +1222,7 @@
 あはは・・・
 +[FID:86, TEXT:016A] 
 
---- Group [left:主人公 next=0023] ---
+--- Group [left:none next=0023] ---
 ははは・・・
 +[FID:86, TEXT:016B] 
 
@@ -1234,7 +1262,7 @@
 -[FID:86, TEXT:0175] 
 +[FID:86, TEXT:0177] 
 
---- Group [left:主人公 next=0023] ---
+--- Group [left:none next=0023] ---
 からかうなよ
 +[FID:86, TEXT:0178] 
 
@@ -1242,7 +1270,7 @@
 やだなぁ、もう！
 +[FID:86, TEXT:0179] 
 
---- Group [left:主人公 next=0023] ---
+--- Group [left:none next=0023] ---
 もう、からかわないで
 ください・・・
 +[FID:86, TEXT:017A] 
@@ -1270,7 +1298,7 @@
 +[FID:86, TEXT:0181] 
 +[FID:86, TEXT:0182] 
 
---- Group [left:主人公 next=0023] ---
+--- Group [left:none next=0023] ---
 あの時は、
 必死だったから・・・
 +[FID:86, TEXT:0183] 
@@ -1338,7 +1366,7 @@
 +[FID:86, TEXT:0196] 
 +[FID:86, TEXT:0197] 
 
---- Group [left:主人公 next=2012] ---
+--- Group [left:none next=2012] ---
 気にしないでください
 貴方は貴方なりに、僕
 らのことを考えてくれ
@@ -1348,7 +1376,7 @@
 +[FID:86, TEXT:019A] 
 +[FID:86, TEXT:019B] 
 
---- Group [left:主人公 next=0023] ---
+--- Group [left:none next=0023] ---
 結局、こうなっちゃい
 ましたけどね
 +[FID:86, TEXT:019C] 
@@ -1358,7 +1386,7 @@
 気にしてないよぉ
 +[FID:86, TEXT:019E] 
 
---- Group [left:主人公 next=0023] ---
+--- Group [left:none next=0023] ---
 こうなったのは
 結果論ってこと、ね！
 +[FID:86, TEXT:01A1] 
@@ -1392,15 +1420,33 @@
 +[FID:86, TEXT:01AB] 
 +[FID:86, TEXT:01AC] 
 
+--- Group [right:吉布森 next=0023] ---
+決着をつけよう
+君とクラレットの
+-[FID:86, TEXT:01AB] 
++[FID:86, TEXT:01AF] 
+
+--- Group [right:吉布森 next=0023] ---
+決着をつけよう
+君とキールの
+-[FID:86, TEXT:01AB] 
++[FID:86, TEXT:01AD] 
+
+--- Group [right:吉布森 next=0023] ---
+決着をつけよう
+君とカシスの
+-[FID:86, TEXT:01AB] 
++[FID:86, TEXT:01AE] 
+
 --- Group [right:吉布森 next=2012] ---
 潔白を証明するために
 +[FID:86, TEXT:01B0] 
 
---- Group [left:主人公 next=0023] ---
+--- Group [left:none next=0023] ---
 ああ！
 +[FID:86, TEXT:01B1] 
 
---- Group [left:主人公 next=0023] ---
+--- Group [left:none next=0023] ---
 ええ！
 +[FID:86, TEXT:01B2] 
 
@@ -1408,7 +1454,7 @@
 うん！
 +[FID:86, TEXT:01B3] 
 
---- Group [left:none next=0023] ---
+--- Group [left:主人公 next=0023] ---
 はい！
 +[FID:86, TEXT:01B4] 
 
@@ -1456,15 +1502,15 @@
 
 --- Group [left:none next=0023] ---
 だから、こうやって
-後悔してるんだし
-+[FID:86, TEXT:01C5] 
-+[FID:86, TEXT:01CD] 
-
---- Group [left:none next=0023] ---
-だから、こうやって
 後悔してるんだろう？
--[FID:86, TEXT:01C5] 
++[FID:86, TEXT:01C5] 
 +[FID:86, TEXT:01C6] 
+
+--- Group [left:主人公 next=0023] ---
+だから、こうやって
+後悔してるんだし
+-[FID:86, TEXT:01C5] 
++[FID:86, TEXT:01CD] 
 
 --- Group [left:主人公 next=2012] ---
 そんなことはない
@@ -1476,7 +1522,7 @@
 -[FID:86, TEXT:01C3] 
 -[FID:86, TEXT:01C4] 
 
---- Group [left:主人公 next=0023] ---
+--- Group [left:none next=0023] ---
 こうやって後悔してる
 ことが、何よりの証拠
 じゃないか
@@ -1494,7 +1540,7 @@
 -[FID:86, TEXT:01C3] 
 +[FID:86, TEXT:01CC] 
 
---- Group [left:none next=2012] ---
+--- Group [left:主人公 next=2012] ---
 そんなことありません
 ミモザさんは・・・
 ギブソンさんの気持ち
@@ -1516,7 +1562,7 @@
 +[FID:86, TEXT:01D4] 
 +[FID:86, TEXT:01DE] 
 
---- Group [left:none next=2012] ---
+--- Group [left:主人公 next=2012] ---
 それにギブソンも、
 きっとわかってるよ
 -[FID:86, TEXT:01D4] 
@@ -1524,11 +1570,11 @@
 
 --- Group [left:none next=0023] ---
 ミモザがミモザなりに
-あたしたちのこと
-考えてくれたって
+僕たちのことを考えて
+くれていたことをね
 +[FID:86, TEXT:01D6] 
-+[FID:86, TEXT:01DF] 
-+[FID:86, TEXT:01E0] 
++[FID:86, TEXT:01DC] 
++[FID:86, TEXT:01DD] 
 
 --- Group [left:主人公 next=0023] ---
 ミモザがミモザなりに
@@ -1540,11 +1586,11 @@
 
 --- Group [left:none next=0023] ---
 ミモザがミモザなりに
-僕たちのことを考えて
-くれていたことをね
+あたしたちのこと
+考えてくれたって
 -[FID:86, TEXT:01D6] 
-+[FID:86, TEXT:01DC] 
-+[FID:86, TEXT:01DD] 
++[FID:86, TEXT:01DF] 
++[FID:86, TEXT:01E0] 
 
 --- Group [left:none next=2012] ---
 それに彼も、ミモザの
@@ -1610,7 +1656,7 @@
 +[FID:86, TEXT:01F4] 
 +[FID:86, TEXT:01F5] 
 
---- Group [left:none next=2012] ---
+--- Group [left:主人公 next=2012] ---
 あるよ・・・
 +[FID:86, TEXT:01F6] 
 
@@ -1636,7 +1682,7 @@
 +[FID:86, TEXT:01FC] 
 +[FID:86, TEXT:01FD] 
 
---- Group [left:主人公 next=0023] ---
+--- Group [left:none next=0023] ---
 だったらイリアスも
 君たちの仲間じゃない
 +[FID:86, TEXT:01FE] 
@@ -1646,7 +1692,7 @@
 ありますよ・・・
 +[FID:86, TEXT:0200] 
 
---- Group [left:主人公 next=0023] ---
+--- Group [left:none next=0023] ---
 ここにイリアスさんが
 いてくれること・・・
 それが何よりの
@@ -1656,7 +1702,7 @@
 +[FID:86, TEXT:0203] 
 +[FID:86, TEXT:0204] 
 
---- Group [right:伊利亚斯 next=2012] ---
+--- Group [right:莉普蕾 next=2012] ---
 @ n 
 +[FID:86, TEXT:0205] 
 
@@ -1664,7 +1710,7 @@
 不思議なものですね
 +[FID:86, TEXT:0206] 
 
---- Group [left:主人公 next=0023] ---
+--- Group [left:none next=0023] ---
 え？
 +[FID:86, TEXT:0207] 
 
@@ -1704,7 +1750,7 @@
 +[FID:86, TEXT:0213] 
 +[FID:86, TEXT:0214] 
 
---- Group [left:主人公 next=0023] ---
+--- Group [left:none next=0023] ---
 サイサリス・・・
 +[FID:86, TEXT:0215] 
 
@@ -1738,11 +1784,11 @@
 僕はそう信じてます
 +[FID:86, TEXT:021F] 
 
---- Group [left:主人公 next=0023] ---
+--- Group [left:none next=0023] ---
 スウォン・・・
 +[FID:86, TEXT:0220] 
 
---- Group [left:none next=0023] ---
+--- Group [left:主人公 next=0023] ---
 スウォンくん・・・
 +[FID:86, TEXT:0221] 
 
@@ -1776,11 +1822,11 @@
 +[FID:86, TEXT:022B] 
 +[FID:86, TEXT:022C] 
 
---- Group [left:主人公 next=0023] ---
+--- Group [left:none next=0023] ---
 う、うん・・・
 +[FID:86, TEXT:022D] 
 
---- Group [left:主人公 next=0023] ---
+--- Group [left:none next=0023] ---
 あ、ああ・・・
 +[FID:86, TEXT:022E] 
 
@@ -1860,7 +1906,7 @@
 お主たちからな
 +[FID:86, TEXT:0249] 
 
---- Group [left:主人公 next=0023] ---
+--- Group [left:none next=0023] ---
 カザミネ・・・
 +[FID:86, TEXT:024A] 
 
@@ -1884,7 +1930,7 @@
 +[FID:86, TEXT:0250] 
 +[FID:86, TEXT:0251] 
 
---- Group [left:主人公 next=0023] ---
+--- Group [left:none next=0023] ---
 エルゴは、僕が魔王の
 力を持っていることに
 気づいてなかったんだ
@@ -1894,7 +1940,7 @@
 +[FID:86, TEXT:0253] 
 +[FID:86, TEXT:0254] 
 
---- Group [left:none next=0023] ---
+--- Group [left:主人公 next=0023] ---
 エルゴはさ、あたしが
 魔王の力を持ってるっ
 て気付いてるのかな？
@@ -1902,7 +1948,7 @@
 +[FID:86, TEXT:0256] 
 +[FID:86, TEXT:0257] 
 
---- Group [left:主人公 next=0023] ---
+--- Group [left:none next=0023] ---
 エルゴは、わたしが
 魔王の力を宿している
 こと・・・気付かなか
@@ -1936,7 +1982,7 @@
 俺が、俺だったから？
 +[FID:86, TEXT:0263] 
 
---- Group [left:主人公 next=0023] ---
+--- Group [left:none next=0023] ---
 僕が、僕だったから？
 +[FID:86, TEXT:0264] 
 
@@ -1944,7 +1990,7 @@
 あたしがあたし？
 +[FID:86, TEXT:0265] 
 
---- Group [left:none next=0023] ---
+--- Group [left:主人公 next=0023] ---
 わたしが・・・
 わたしだったから
 +[FID:86, TEXT:0266] 
@@ -1962,7 +2008,7 @@
 +[FID:86, TEXT:026A] 
 +[FID:86, TEXT:026B] 
 
---- Group [left:none next=0023] ---
+--- Group [left:主人公 next=0023] ---
 エルゴってさ・・・
 あたしが魔王かもって
 気づかなかったのかな
@@ -1992,25 +2038,25 @@
 -[FID:86, TEXT:0272] 
 -[FID:86, TEXT:0273] 
 
---- Group [left:none next=0023] ---
+--- Group [left:主人公 next=0023] ---
 ・・・それは？
 +[FID:86, TEXT:0275] 
 
 --- Group [right:埃尔金 next=2012] ---
 エルゴは力のある者を
 選んだんじゃなくて、
-お姉さんを選んだんだ
+お兄さんを選んだんだ
 +[FID:86, TEXT:0276] 
 +[FID:86, TEXT:0277] 
-+[FID:86, TEXT:027C] 
++[FID:86, TEXT:0278] 
 
 --- Group [right:埃尔金 next=2012] ---
 エルゴは力のある者を
 選んだんじゃなくて、
-お兄さんを選んだんだ
+お姉さんを選んだんだ
 -[FID:86, TEXT:0276] 
 -[FID:86, TEXT:0277] 
-+[FID:86, TEXT:0278] 
++[FID:86, TEXT:027C] 
 
 --- Group [right:埃尔金 next=2012] ---
 他の誰かじゃなくて、
@@ -2060,7 +2106,7 @@
 俺の、存在意義？
 +[FID:86, TEXT:0288] 
 
---- Group [left:none next=0023] ---
+--- Group [left:主人公 next=0023] ---
 僕の、存在意義？
 +[FID:86, TEXT:0289] 
 
@@ -2068,7 +2114,7 @@
 あたしの、存在意義？
 +[FID:86, TEXT:028A] 
 
---- Group [left:主人公 next=0023] ---
+--- Group [left:none next=0023] ---
 わたしの存在意義？
 +[FID:86, TEXT:028B] 
 
@@ -2158,19 +2204,19 @@
 -[FID:86, TEXT:02A7] 
 +[FID:86, TEXT:042E] 
 
---- Group [left:none next=0023] ---
+--- Group [left:主人公 next=0023] ---
 ああ・・・
 そうだな・・・
 -[FID:86, TEXT:02A7] 
 +[FID:86, TEXT:0317] 
 
---- Group [left:主人公 next=0023] ---
+--- Group [left:none next=0023] ---
 ああ・・・
 頼りにしてるぜ？
 -[FID:86, TEXT:02A7] 
 +[FID:86, TEXT:04F8] 
 
---- Group [left:none next=0023] ---
+--- Group [left:主人公 next=0023] ---
 うん、そうだね
 +[FID:86, TEXT:02A8] 
 
@@ -2200,7 +2246,7 @@
 +[FID:86, TEXT:02B0] 
 +[FID:86, TEXT:02B1] 
 
---- Group [right:索尔 next=2012] ---
+--- Group [right:基尔 next=2012] ---
 どうしてだ？
 +[FID:86, TEXT:02B2] 
 
@@ -2210,17 +2256,17 @@
 +[FID:86, TEXT:02B3] 
 +[FID:86, TEXT:02B4] 
 
---- Group [left:none next=2012] ---
-嘘だけじゃなかったか
-らだよ
-+[FID:86, TEXT:02B5] 
-+[FID:86, TEXT:0351] 
-
 --- Group [left:主人公 next=2012] ---
 嘘だけじゃなかったか
 らさ
--[FID:86, TEXT:02B5] 
++[FID:86, TEXT:02B5] 
 +[FID:86, TEXT:02B6] 
+
+--- Group [left:主人公 next=2012] ---
+嘘だけじゃなかったか
+らだよ
+-[FID:86, TEXT:02B5] 
++[FID:86, TEXT:0351] 
 
 --- Group [left:主人公 next=2012] ---
 たしかに君は、僕らに
@@ -2246,19 +2292,19 @@
 +[FID:86, TEXT:02BE] 
 +[FID:86, TEXT:02BF] 
 
---- Group [left:主人公 next=2012] ---
-嘘だけじゃなかった
-からさ
-+[FID:86, TEXT:02C0] 
-+[FID:86, TEXT:037E] 
-
---- Group [left:主人公 next=2012] ---
+--- Group [left:none next=2012] ---
 嘘だけじゃなかった
 からだよ
--[FID:86, TEXT:02C0] 
++[FID:86, TEXT:02C0] 
 +[FID:86, TEXT:031C] 
 
---- Group [left:主人公 next=2012] ---
+--- Group [left:none next=2012] ---
+嘘だけじゃなかった
+からさ
+-[FID:86, TEXT:02C0] 
++[FID:86, TEXT:037E] 
+
+--- Group [left:none next=2012] ---
 嘘だけじゃなかった
 ・・・からかな？
 -[FID:86, TEXT:02C0] 
@@ -2272,7 +2318,7 @@
 +[FID:86, TEXT:02C3] 
 +[FID:86, TEXT:02C4] 
 
---- Group [left:none next=2012] ---
+--- Group [left:主人公 next=2012] ---
 でもさ、それ以上に
 仲間としてあたしたち
 のことを助けてくれた
@@ -2331,22 +2377,22 @@
 --- Group [left:主人公 next=0023] ---
 君がいてくれたから、
 一人じゃなかったから
-僕はこの力の重みに耐
-えられたんだよ
+こうして笑っていられ
+るんだもの
 +[FID:86, TEXT:02D7] 
 +[FID:86, TEXT:02D8] 
-+[FID:86, TEXT:02D9] 
-+[FID:86, TEXT:02DA] 
++[FID:86, TEXT:02DC] 
++[FID:86, TEXT:02DD] 
 
 --- Group [left:主人公 next=0023] ---
 君がいてくれたから、
 一人じゃなかったから
-こうして笑っていられ
-るんだもの
+僕はこの力の重みに耐
+えられたんだよ
 -[FID:86, TEXT:02D7] 
 -[FID:86, TEXT:02D8] 
-+[FID:86, TEXT:02DC] 
-+[FID:86, TEXT:02DD] 
++[FID:86, TEXT:02D9] 
++[FID:86, TEXT:02DA] 
 
 --- Group [left:主人公 next=2012] ---
 あたしも同じだよ
@@ -2366,7 +2412,7 @@
 +[FID:86, TEXT:02E1] 
 +[FID:86, TEXT:02E2] 
 
---- Group [right:索尔 next=2012] ---
+--- Group [right:基尔 next=2012] ---
 ・・・覚えてるか？
 +[FID:86, TEXT:02E3] 
 
@@ -2378,21 +2424,13 @@
 +[FID:86, TEXT:0359] 
 +[FID:86, TEXT:035A] 
 
---- Group [right:克拉雷特 next=2012] ---
-二人で儀式の跡を調べ
-に行った時、
-たずねたことを
--[FID:86, TEXT:02E4] 
-+[FID:86, TEXT:0384] 
-+[FID:86, TEXT:0333] 
-
 --- Group [right:基尔 next=2012] ---
 二人で儀式の跡を調べ
 に行った時、君が僕に
 たずねたことを
 -[FID:86, TEXT:02E4] 
 +[FID:86, TEXT:0332] 
--[FID:86, TEXT:0333] 
++[FID:86, TEXT:0333] 
 
 --- Group [right:索尔 next=2012] ---
 二人で儀式の跡を調べ
@@ -2401,6 +2439,14 @@
 -[FID:86, TEXT:02E4] 
 +[FID:86, TEXT:02E5] 
 +[FID:86, TEXT:02E6] 
+
+--- Group [right:克拉雷特 next=2012] ---
+二人で儀式の跡を調べ
+に行った時、
+たずねたことを
+-[FID:86, TEXT:02E4] 
++[FID:86, TEXT:0384] 
+-[FID:86, TEXT:0333] 
 
 --- Group [right:索尔 next=2012] ---
 お前がこの世界に
@@ -2430,7 +2476,7 @@
 +[FID:86, TEXT:02EE] 
 +[FID:86, TEXT:02EF] 
 
---- Group [right:卡西斯 next=2012] ---
+--- Group [right:克拉雷特 next=2012] ---
 自分のやっていること
 が正しいことなのか
 本当に世界を滅ぼして
@@ -2448,11 +2494,11 @@
 +[FID:86, TEXT:02F5] 
 +[FID:86, TEXT:02F6] 
 
---- Group [right:索尔 next=2012] ---
+--- Group [right:基尔 next=2012] ---
 助けてくれ、って
 +[FID:86, TEXT:02F7] 
 
---- Group [left:主人公 next=0023] ---
+--- Group [left:none next=0023] ---
 それじゃ・・・
 +[FID:86, TEXT:02F8] 
 
@@ -2548,19 +2594,19 @@
 
 --- Group [left:主人公 next=0023] ---
 この先どんなことがあ
-ったって、最後まで君
-を守ってみせるからね
+っても、最後まで私は
+貴方の側にいますから
 +[FID:86, TEXT:030B] 
-+[FID:86, TEXT:030F] 
-+[FID:86, TEXT:0310] 
++[FID:86, TEXT:0312] 
++[FID:86, TEXT:0313] 
 
 --- Group [left:主人公 next=0023] ---
 この先どんなことがあ
-っても、最後まで私は
-貴方の側にいますから
+ったって、最後まで君
+を守ってみせるからね
 -[FID:86, TEXT:030B] 
-+[FID:86, TEXT:0312] 
-+[FID:86, TEXT:0313] 
++[FID:86, TEXT:030F] 
++[FID:86, TEXT:0310] 
 
 --- Group [left:主人公 next=0023] ---
 この先どんなことがあ
@@ -2578,23 +2624,23 @@
 私も、貴方を守りたい
 +[FID:86, TEXT:0311] 
 
---- Group [right:基尔 next=2012] ---
-こんなふうにまた、
-君と話ができるなんて
-思いもしなかったよ
-+[FID:86, TEXT:0314] 
-+[FID:86, TEXT:0315] 
-+[FID:86, TEXT:0316] 
-
 --- Group [right:克拉雷特 next=2012] ---
 こんなふうにまた、
 あなたと話ができる
 なんて思っても
 いませんでした
--[FID:86, TEXT:0314] 
++[FID:86, TEXT:0314] 
 +[FID:86, TEXT:0372] 
 +[FID:86, TEXT:0373] 
 +[FID:86, TEXT:0374] 
+
+--- Group [right:基尔 next=2012] ---
+こんなふうにまた、
+君と話ができるなんて
+思いもしなかったよ
+-[FID:86, TEXT:0314] 
++[FID:86, TEXT:0315] 
++[FID:86, TEXT:0316] 
 
 --- Group [right:基尔 next=2012] ---
 君が全てを知った時、
@@ -2624,7 +2670,7 @@
 +[FID:86, TEXT:031B] 
 -[FID:86, TEXT:02B4] 
 
---- Group [left:主人公 next=2012] ---
+--- Group [left:none next=2012] ---
 たしかに君は、俺たち
 に嘘をついてきたかも
 しれない
@@ -2642,7 +2688,7 @@
 +[FID:86, TEXT:0321] 
 +[FID:86, TEXT:0322] 
 
---- Group [left:主人公 next=2012] ---
+--- Group [left:none next=2012] ---
 きっかけは嘘だったと
 しても、君が俺たちに
 くれた優しさは本当の
@@ -2652,7 +2698,7 @@
 +[FID:86, TEXT:0325] 
 +[FID:86, TEXT:0326] 
 
---- Group [left:主人公 next=0023] ---
+--- Group [left:none next=0023] ---
 だから、俺は君のこと
 を信じられるんだ
 +[FID:86, TEXT:0327] 
@@ -2722,7 +2768,7 @@
 キールさん・・・
 +[FID:86, TEXT:033D] 
 
---- Group [left:none next=2012] ---
+--- Group [left:主人公 next=2012] ---
 キール・・・
 +[FID:86, TEXT:033E] 
 
@@ -2738,7 +2784,7 @@
 俺も、約束するよ
 +[FID:86, TEXT:0344] 
 
---- Group [left:主人公 next=0023] ---
+--- Group [left:none next=0023] ---
 何があっても絶対に、
 俺は君のことを守って
 みせるって！！
@@ -2870,7 +2916,7 @@
 カシスさん・・・
 +[FID:86, TEXT:036B] 
 
---- Group [left:主人公 next=2012] ---
+--- Group [left:none next=2012] ---
 カシス・・・
 +[FID:86, TEXT:036C] 
 
@@ -3004,7 +3050,7 @@
 +[FID:86, TEXT:039B] 
 +[FID:86, TEXT:039C] 
 
---- Group [left:none next=0023] ---
+--- Group [left:主人公 next=0023] ---
 こうしてリプレと話が
 できるのも、みんなの
 おかげだな
@@ -3060,7 +3106,7 @@
 +[FID:86, TEXT:03D4] 
 +[FID:86, TEXT:03D5] 
 
---- Group [left:主人公 next=0023] ---
+--- Group [left:none next=0023] ---
 気にするなよ
 戦わなくても、リプレ
 は俺たちの力になって
@@ -3096,7 +3142,7 @@
 +[FID:86, TEXT:03B6] 
 +[FID:86, TEXT:03B7] 
 
---- Group [left:none next=0023] ---
+--- Group [left:none next=2012] ---
 リプレ・・・
 +[FID:86, TEXT:03B8] 
 
@@ -3186,23 +3232,23 @@
 +[FID:86, TEXT:03D6] 
 +[FID:86, TEXT:03D7] 
 
---- Group [left:none next=2012] ---
+--- Group [left:主人公 next=2012] ---
 ありがとう、リプレ
 +[FID:86, TEXT:03D8] 
-
---- Group [left:主人公 next=2012] ---
-だけど・・・
-僕は行くよ・・・
-+[FID:86, TEXT:03D9] 
-+[FID:86, TEXT:03DE] 
 
 --- Group [left:none next=2012] ---
 だけど・・・
 俺は逃げたくないんだ
--[FID:86, TEXT:03D9] 
++[FID:86, TEXT:03D9] 
 +[FID:86, TEXT:03DA] 
 
---- Group [left:主人公 next=0023] ---
+--- Group [left:主人公 next=2012] ---
+だけど・・・
+僕は行くよ・・・
+-[FID:86, TEXT:03D9] 
++[FID:86, TEXT:03DE] 
+
+--- Group [left:none next=0023] ---
 たとえそれが押しつけ
 られた運命でも、俺は
 逃げたくないんだよ
@@ -3230,7 +3276,7 @@
 +[FID:86, TEXT:03E3] 
 +[FID:86, TEXT:03E4] 
 
---- Group [left:none next=0023] ---
+--- Group [left:主人公 next=0023] ---
 リプレたちと
 出会ったこの世界を、
 俺は守りたいんだ！！
@@ -3268,20 +3314,20 @@
 +[FID:86, TEXT:03EE] 
 +[FID:86, TEXT:03EF] 
 
---- Group [left:none next=0023] ---
+--- Group [left:主人公 next=0023] ---
 ああ、約束するよ
-僕は必ずここへ
+俺は必ずここへ
 帰ってくる
 +[FID:86, TEXT:03F0] 
-+[FID:86, TEXT:03F3] 
++[FID:86, TEXT:03F1] 
 +[FID:86, TEXT:03F2] 
 
 --- Group [left:none next=0023] ---
 ああ、約束するよ
-俺は必ずここへ
+僕は必ずここへ
 帰ってくる
 -[FID:86, TEXT:03F0] 
-+[FID:86, TEXT:03F1] 
++[FID:86, TEXT:03F3] 
 -[FID:86, TEXT:03F2] 
 
 --- Group [right:莉普蕾 next=2012] ---
@@ -3334,21 +3380,21 @@
 
 --- Group [right:加泽尔 next=2012] ---
 バーカ
-何言ってるんだよ！
-俺は気付いてたぜ
-とっくによ
+なに、ひとりで背負い
+込んでるんだよ
 +[FID:86, TEXT:0405] 
-+[FID:86, TEXT:0406] 
-+[FID:86, TEXT:0407] 
-+[FID:86, TEXT:0408] 
++[FID:86, TEXT:0448] 
++[FID:86, TEXT:0449] 
 
 --- Group [right:加泽尔 next=2012] ---
 バーカ
-なに、ひとりで背負い
-込んでるんだよ
+何言ってるんだよ！
+俺は気付いてたぜ
+とっくによ
 -[FID:86, TEXT:0405] 
-+[FID:86, TEXT:0448] 
-+[FID:86, TEXT:0449] 
++[FID:86, TEXT:0406] 
++[FID:86, TEXT:0407] 
++[FID:86, TEXT:0408] 
 
 --- Group [left:none next=0023] ---
 ありがとう・・・
@@ -3479,6 +3525,14 @@
 +[FID:86, TEXT:0432] 
 
 --- Group [left:主人公 next=0023] ---
+キールも！
++[FID:86, TEXT:0433] 
+
+--- Group [left:主人公 next=0023] ---
+クラレットも！
++[FID:86, TEXT:0434] 
+
+--- Group [left:主人公 next=0023] ---
 リプレさんも
 エドスさんも
 +[FID:86, TEXT:0437] 
@@ -3487,6 +3541,14 @@
 --- Group [left:主人公 next=0023] ---
 ソルさんも！
 +[FID:86, TEXT:0439] 
+
+--- Group [left:主人公 next=0023] ---
+キールさんも！
++[FID:86, TEXT:043A] 
+
+--- Group [left:主人公 next=0023] ---
+カシスさんも！
++[FID:86, TEXT:043B] 
 
 --- Group [left:主人公 next=2012] ---
 あたし決めたの
@@ -3502,13 +3564,19 @@
 +[FID:86, TEXT:043F] 
 +[FID:86, TEXT:0440] 
 
+--- Group [left:主人公 next=2012] ---
+みんなが好き
+みんなを助けたい
++[FID:86, TEXT:0441] 
++[FID:86, TEXT:0442] 
+
 --- Group [left:主人公 next=0023] ---
 みんなが好き
 みんなを助けたい
 この世界を・・・
 みんなを守りたいの
-+[FID:86, TEXT:0441] 
-+[FID:86, TEXT:0442] 
+-[FID:86, TEXT:0441] 
+-[FID:86, TEXT:0442] 
 +[FID:86, TEXT:0443] 
 +[FID:86, TEXT:0444] 
 
@@ -3526,7 +3594,7 @@
 +[FID:86, TEXT:0445] 
 -[FID:86, TEXT:043D] 
 
---- Group [left:none next=2012] ---
+--- Group [left:主人公 next=0023] ---
 ちょ・・・
 バカって・・・
 +[FID:86, TEXT:044A] 
@@ -3574,11 +3642,11 @@
 はい・・・！
 +[FID:86, TEXT:0459] 
 
---- Group [left:none next=0023] ---
+--- Group [right:莫纳蒂 next=0023] ---
 　　　約束、守らなきゃな？
 +[FID:86, TEXT:0469] 
 
---- Group [right:雷德 next=0023] ---
+--- Group [right:索尔 next=0023] ---
 　　　約束は守らなきゃな？
 +[FID:86, TEXT:046A] 
 
@@ -3608,7 +3676,7 @@
 リプレさん・・・
 +[FID:86, TEXT:04BD] 
 
---- Group [left:主人公 next=0023] ---
+--- Group [left:none next=0023] ---
 まだまだ、たくさん
 リプレとおしゃべりし
 たいことがあるから！
@@ -3616,7 +3684,7 @@
 +[FID:86, TEXT:04C1] 
 +[FID:86, TEXT:04C2] 
 
---- Group [left:主人公 next=2012] ---
+--- Group [left:none next=2012] ---
 はい
 絶対に私、またここに
 帰ってきます
@@ -3680,7 +3748,7 @@
 +[FID:86, TEXT:04D8] 
 +[FID:86, TEXT:04D9] 
 
---- Group [left:none next=2012] ---
+--- Group [left:主人公 next=2012] ---
 君と出会うことがなか
 ったら、僕はこの世界
 で生きていけなかった
@@ -3706,7 +3774,11 @@
 +[FID:86, TEXT:04E2] 
 +[FID:86, TEXT:04E3] 
 
---- Group [left:主人公 next=2012] ---
+--- Group [left:none next=0023] ---
+カシスも！
++[FID:86, TEXT:04E4] 
+
+--- Group [left:none next=2012] ---
 思ったんです・・・
 +[FID:86, TEXT:04E5] 
 
@@ -3720,7 +3792,7 @@
 +[FID:86, TEXT:04E8] 
 +[FID:86, TEXT:04E9] 
 
---- Group [left:none next=2012] ---
+--- Group [left:主人公 next=2012] ---
 あ・・・あなただけ
 じゃないですよっ！
 リプレさんやエドス
@@ -3738,7 +3810,7 @@
 +[FID:86, TEXT:04EF] 
 +[FID:86, TEXT:04F0] 
 
---- Group [left:none next=2012] ---
+--- Group [left:主人公 next=2012] ---
 だから、私はどうして
 も守りたいんです！
 優しい人たちが暮らす
@@ -3748,28 +3820,28 @@
 +[FID:86, TEXT:04F3] 
 -[FID:86, TEXT:0443] 
 
---- Group [left:主人公 next=0023] ---
+--- Group [left:none next=0023] ---
 がんばって
 守りたいんです・・・
 +[FID:86, TEXT:04F4] 
 +[FID:86, TEXT:04F5] 
 
---- Group [left:主人公 next=2012] ---
+--- Group [left:none next=2012] ---
 バ、バカぁ！？
 +[FID:86, TEXT:04F6] 
 
---- Group [left:主人公 next=2012] ---
+--- Group [left:none next=2012] ---
 あ・・・
 +[FID:86, TEXT:04F7] 
 
---- Group [left:主人公 next=2012] ---
+--- Group [left:none next=2012] ---
 ガゼル・・・？
 +[FID:86, TEXT:04F9] 
 
---- Group [left:主人公 next=2012] ---
+--- Group [left:none next=2012] ---
 ガゼルさん・・・
 +[FID:86, TEXT:04FA] 
 
---- Group [left:主人公 next=0023] ---
+--- Group [left:none next=0023] ---
 はい・・・
 +[FID:86, TEXT:04FB] 

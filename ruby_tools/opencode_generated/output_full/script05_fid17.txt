@@ -1,12 +1,12 @@
 --- Group 1 [left:none next=0023] ---
 [FID:17, TEXT:0001] あれ？
 [FID:17, TEXT:0002] 街の外へ出るんなら、
-[FID:17, TEXT:0006] 門はこっちでしょ？
+[FID:17, TEXT:0003] 門はこっちだろ？
 
 --- Group 2 [left:none next=0023] ---
 [FID:17, TEXT:0001] あれ？
 [FID:17, TEXT:0002] 街の外へ出るんなら、
-[FID:17, TEXT:0003] 門はこっちだろ？
+[FID:17, TEXT:0006] 門はこっちでしょ？
 
 --- Group 3 [left:none next=0023] ---
 [FID:17, TEXT:0004] 街の外に出るのなら、
@@ -121,24 +121,24 @@
 
 --- Group 28 [left:none next=0023] ---
 [FID:17, TEXT:0040] この荒野のどこかに
-[FID:17, TEXT:0041] 俺が最初に呼ばれた
-[FID:17, TEXT:0042] 場所があるのか・・・
-
---- Group 29 [left:none next=0023] ---
-[FID:17, TEXT:0040] この荒野のどこかに
 [FID:17, TEXT:0043] 僕が最初に呼ばれた
 [FID:17, TEXT:0042] 場所があるのか・・・
 
---- Group 30 [left:none next=0023] ---
+--- Group 29 [left:none next=0023] ---
 [FID:17, TEXT:0040] この荒野のどこかに
 [FID:17, TEXT:0044] あたしが最初に
 [FID:17, TEXT:0045] 呼ばれた場所が
 [FID:17, TEXT:0046] あるんだ・・・
 
---- Group 31 [left:none next=0023] ---
+--- Group 30 [left:none next=0023] ---
 [FID:17, TEXT:0040] この荒野のどこかに
 [FID:17, TEXT:0047] 私が最初に呼ばれた
 [FID:17, TEXT:0048] 場所が・・・
+
+--- Group 31 [left:none next=0023] ---
+[FID:17, TEXT:0040] この荒野のどこかに
+[FID:17, TEXT:0041] 俺が最初に呼ばれた
+[FID:17, TEXT:0042] 場所があるのか・・・
 
 --- Group 32 [right:none next=2012] ---
 [FID:17, TEXT:0049] ・・・なぁ

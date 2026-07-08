@@ -86,19 +86,19 @@
 
 --- Group [left:主人公 next=0023] ---
 やめさせなくちゃ！
-あの二人が、殺しあう
-必要なんて・・・
+あの二人が、殺しあっ
+ちゃダメだよ！
 +[FID:5E, TEXT:001E] 
-+[FID:5E, TEXT:001F] 
-+[FID:5E, TEXT:0020] 
++[FID:5E, TEXT:0022] 
++[FID:5E, TEXT:0023] 
 
 --- Group [left:主人公 next=0023] ---
 やめさせなくちゃ！
-あの二人が、殺しあっ
-ちゃダメだよ！
+あの二人が、殺しあう
+必要なんて・・・
 -[FID:5E, TEXT:001E] 
-+[FID:5E, TEXT:0022] 
-+[FID:5E, TEXT:0023] 
++[FID:5E, TEXT:001F] 
++[FID:5E, TEXT:0020] 
 
 --- Group [left:主人公 next=0023] ---
 やめさせなくては！
@@ -309,17 +309,9 @@
 --- Group [left:主人公 next=0023] ---
 理想とか目的とかじゃ
 なくて、二人の気持ち
-はどうなるんだよ！？
+はどうなるんですか！
 +[FID:5E, TEXT:0062] 
 +[FID:5E, TEXT:0063] 
-+[FID:5E, TEXT:0064] 
-
---- Group [left:主人公 next=0023] ---
-理想とか目的とかじゃ
-なくて、二人の気持ち
-はどうなるんですか！
--[FID:5E, TEXT:0062] 
--[FID:5E, TEXT:0063] 
 +[FID:5E, TEXT:006B] 
 
 --- Group [left:主人公 next=0023] ---
@@ -338,17 +330,25 @@
 -[FID:5E, TEXT:0063] 
 +[FID:5E, TEXT:0069] 
 
---- Group [left:主人公 next=2012] ---
-あの二人はどうなるん
-です？
-+[FID:5E, TEXT:0065] 
-+[FID:5E, TEXT:0066] 
+--- Group [left:主人公 next=0023] ---
+理想とか目的とかじゃ
+なくて、二人の気持ち
+はどうなるんだよ！？
+-[FID:5E, TEXT:0062] 
+-[FID:5E, TEXT:0063] 
++[FID:5E, TEXT:0064] 
 
 --- Group [left:主人公 next=2012] ---
 あの二人はどうなるん
 ですか・・・
--[FID:5E, TEXT:0065] 
++[FID:5E, TEXT:0065] 
 +[FID:5E, TEXT:006A] 
+
+--- Group [left:主人公 next=2012] ---
+あの二人はどうなるん
+です？
+-[FID:5E, TEXT:0065] 
++[FID:5E, TEXT:0066] 
 
 --- Group [left:主人公 next=2012] ---
 あの二人はどうなるの
@@ -361,34 +361,34 @@
 --- Group [left:主人公 next=2012] ---
 レイドはラムダのこと
 を今だって尊敬してる
-じゃない・・・
+ラムダだって・・・
 +[FID:5E, TEXT:006D] 
 +[FID:5E, TEXT:006E] 
-+[FID:5E, TEXT:0076] 
++[FID:5E, TEXT:006F] 
 
 --- Group [left:主人公 next=2012] ---
 レイドはラムダのこと
 を今だって尊敬してる
-ラムダだって・・・
+じゃない・・・
 -[FID:5E, TEXT:006D] 
 -[FID:5E, TEXT:006E] 
-+[FID:5E, TEXT:006F] 
-
---- Group [left:主人公 next=2012] ---
-そんな二人が殺しあう
-のを見て、貴方たちは
-平気なんですか！？
-+[FID:5E, TEXT:0070] 
-+[FID:5E, TEXT:0071] 
-+[FID:5E, TEXT:0081] 
++[FID:5E, TEXT:0076] 
 
 --- Group [left:主人公 next=2012] ---
 そんな二人が殺しあう
 のを見て、貴方たちは
 平気なのか？
++[FID:5E, TEXT:0070] 
++[FID:5E, TEXT:0071] 
++[FID:5E, TEXT:0072] 
+
+--- Group [left:主人公 next=2012] ---
+そんな二人が殺しあう
+のを見て、貴方たちは
+平気なんですか！？
 -[FID:5E, TEXT:0070] 
 -[FID:5E, TEXT:0071] 
-+[FID:5E, TEXT:0072] 
++[FID:5E, TEXT:0081] 
 
 --- Group [left:主人公 next=0023] ---
 俺は・・・

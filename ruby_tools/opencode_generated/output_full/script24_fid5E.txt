@@ -57,13 +57,13 @@
 
 --- Group 15 [left:char_0004 next=0023] ---
 [FID:5E, TEXT:001E] やめさせなくちゃ！
-[FID:5E, TEXT:001F] あの二人が、殺しあう
-[FID:5E, TEXT:0020] 必要なんて・・・
+[FID:5E, TEXT:0022] あの二人が、殺しあっ
+[FID:5E, TEXT:0023] ちゃダメだよ！
 
 --- Group 16 [left:char_0004 next=0023] ---
 [FID:5E, TEXT:001E] やめさせなくちゃ！
-[FID:5E, TEXT:0022] あの二人が、殺しあっ
-[FID:5E, TEXT:0023] ちゃダメだよ！
+[FID:5E, TEXT:001F] あの二人が、殺しあう
+[FID:5E, TEXT:0020] 必要なんて・・・
 
 --- Group 17 [left:char_0004 next=0023] ---
 [FID:5E, TEXT:0021] やめさせなくては！
@@ -202,30 +202,30 @@
 --- Group 48 [left:char_0004 next=0023] ---
 [FID:5E, TEXT:0062] 理想とか目的とかじゃ
 [FID:5E, TEXT:0063] なくて、二人の気持ち
-[FID:5E, TEXT:0064] はどうなるんだよ！？
+[FID:5E, TEXT:006B] はどうなるんですか！
 
 --- Group 49 [left:char_0004 next=0023] ---
 [FID:5E, TEXT:0062] 理想とか目的とかじゃ
 [FID:5E, TEXT:0063] なくて、二人の気持ち
-[FID:5E, TEXT:006B] はどうなるんですか！
+[FID:5E, TEXT:0067] はどうなるんです！？
 
 --- Group 50 [left:char_0004 next=0023] ---
 [FID:5E, TEXT:0062] 理想とか目的とかじゃ
 [FID:5E, TEXT:0063] なくて、二人の気持ち
-[FID:5E, TEXT:0067] はどうなるんです！？
+[FID:5E, TEXT:0069] はどうなるの？
 
 --- Group 51 [left:char_0004 next=0023] ---
 [FID:5E, TEXT:0062] 理想とか目的とかじゃ
 [FID:5E, TEXT:0063] なくて、二人の気持ち
-[FID:5E, TEXT:0069] はどうなるの？
+[FID:5E, TEXT:0064] はどうなるんだよ！？
 
 --- Group 52 [left:char_0004 next=2012] ---
 [FID:5E, TEXT:0065] あの二人はどうなるん
-[FID:5E, TEXT:0066] です？
+[FID:5E, TEXT:006A] ですか・・・
 
 --- Group 53 [left:char_0004 next=2012] ---
 [FID:5E, TEXT:0065] あの二人はどうなるん
-[FID:5E, TEXT:006A] ですか・・・
+[FID:5E, TEXT:0066] です？
 
 --- Group 54 [left:char_0004 next=2012] ---
 [FID:5E, TEXT:0068] あの二人はどうなるの
@@ -236,22 +236,22 @@
 --- Group 56 [left:char_0004 next=2012] ---
 [FID:5E, TEXT:006D] レイドはラムダのこと
 [FID:5E, TEXT:006E] を今だって尊敬してる
-[FID:5E, TEXT:0076] じゃない・・・
+[FID:5E, TEXT:006F] ラムダだって・・・
 
 --- Group 57 [left:char_0004 next=2012] ---
 [FID:5E, TEXT:006D] レイドはラムダのこと
 [FID:5E, TEXT:006E] を今だって尊敬してる
-[FID:5E, TEXT:006F] ラムダだって・・・
+[FID:5E, TEXT:0076] じゃない・・・
 
 --- Group 58 [left:char_0004 next=2012] ---
 [FID:5E, TEXT:0070] そんな二人が殺しあう
 [FID:5E, TEXT:0071] のを見て、貴方たちは
-[FID:5E, TEXT:0081] 平気なんですか！？
+[FID:5E, TEXT:0072] 平気なのか？
 
 --- Group 59 [left:char_0004 next=2012] ---
 [FID:5E, TEXT:0070] そんな二人が殺しあう
 [FID:5E, TEXT:0071] のを見て、貴方たちは
-[FID:5E, TEXT:0072] 平気なのか？
+[FID:5E, TEXT:0081] 平気なんですか！？
 
 --- Group 60 [left:char_0004 next=0023] ---
 [FID:5E, TEXT:0073] 俺は・・・

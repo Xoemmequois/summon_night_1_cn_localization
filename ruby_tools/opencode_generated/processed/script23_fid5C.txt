@@ -1,4 +1,4 @@
---- Group [right:加泽尔 next=2012] ---
+--- Group [right:主人公 next=2012] ---
 さあ、ここが俺たちの
 隠れ家だ
 +[FID:5C, TEXT:0001] 
@@ -34,7 +34,7 @@
 +[FID:5C, TEXT:000B] 
 +[FID:5C, TEXT:000C] 
 
---- Group [right:主人公 next=2012] ---
+--- Group [right:加泽尔 next=2012] ---
 さ、入るぜ？
 +[FID:5C, TEXT:000D] 
 
@@ -148,17 +148,13 @@
 +[FID:5C, TEXT:002D] 
 +[FID:5C, TEXT:002E] 
 
---- Group [left:none next=2012] ---
-・・・
-+[FID:5C, TEXT:002F] 
-
 --- Group [left:none next=0023] ---
 ・・・
 沈黙は苦手なのに〜
--[FID:5C, TEXT:002F] 
++[FID:5C, TEXT:002F] 
 +[FID:5C, TEXT:0032] 
 
---- Group [left:none next=2012] ---
+--- Group [left:none next=0023] ---
 ・・・・・・・
 +[FID:5C, TEXT:0030] 
 
@@ -338,21 +334,21 @@
 -[FID:5C, TEXT:0065] 
 -[FID:5C, TEXT:0066] 
 
---- Group [right:斯塔乌特 next=2012] ---
-・・・そう来たか
-ったく、物好きな
-嬢ちゃんだぜ
-+[FID:5C, TEXT:0068] 
-+[FID:5C, TEXT:0069] 
-+[FID:5C, TEXT:006B] 
-
 --- Group [right:斯塔乌特 next=0023] ---
 ・・・そう来たか
 ったく、物好きな
 坊主だぜ
++[FID:5C, TEXT:0068] 
++[FID:5C, TEXT:0069] 
++[FID:5C, TEXT:006A] 
+
+--- Group [right:斯塔乌特 next=2012] ---
+・・・そう来たか
+ったく、物好きな
+嬢ちゃんだぜ
 -[FID:5C, TEXT:0068] 
 -[FID:5C, TEXT:0069] 
-+[FID:5C, TEXT:006A] 
++[FID:5C, TEXT:006B] 
 
 --- Group [right:佩尔戈 next=2012] ---
 私はもともとラムダ様

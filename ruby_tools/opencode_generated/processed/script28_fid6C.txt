@@ -98,9 +98,33 @@
 +[FID:6C, TEXT:0022] 
 +[FID:6C, TEXT:0023] 
 
+--- Group [right:卡西斯 next=2012] ---
+召喚術の起源に関わる
+ことだもんね・・・
+-[FID:6C, TEXT:0022] 
++[FID:6C, TEXT:0024] 
+
+--- Group [right:克拉雷特 next=2012] ---
+召喚術の起源に関わる
+ことですから・・・
+-[FID:6C, TEXT:0022] 
++[FID:6C, TEXT:0025] 
+
 --- Group [right:吉布森 next=0023] ---
 ソルの
 +[FID:6C, TEXT:0026] 
+
+--- Group [right:吉布森 next=0023] ---
+キールの
++[FID:6C, TEXT:0027] 
+
+--- Group [right:吉布森 next=0023] ---
+カシスの
++[FID:6C, TEXT:0028] 
+
+--- Group [right:吉布森 next=0023] ---
+クラレットの
++[FID:6C, TEXT:0029] 
 
 --- Group [right:吉布森 next=2012] ---
 言うとおりだ
@@ -192,17 +216,17 @@
 
 --- Group [left:主人公 next=0023] ---
 悪魔を召喚するための
-道具になる・・・
-そういうことですか？
+道具になるってことか
 +[FID:6C, TEXT:0049] 
-+[FID:6C, TEXT:004F] 
-+[FID:6C, TEXT:0050] 
++[FID:6C, TEXT:004A] 
 
 --- Group [left:主人公 next=0023] ---
 悪魔を召喚するための
-道具になるってことか
+道具になる・・・
+そういうことですか？
 -[FID:6C, TEXT:0049] 
-+[FID:6C, TEXT:004A] 
++[FID:6C, TEXT:004F] 
++[FID:6C, TEXT:0050] 
 
 --- Group [left:主人公 next=0023] ---
 そっか！

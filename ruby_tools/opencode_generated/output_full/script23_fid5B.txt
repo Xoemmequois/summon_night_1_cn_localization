@@ -1,10 +1,10 @@
 --- Group 1 [left:none next=0023] ---
 [FID:5B, TEXT:0001] しかしまた、ずいぶん
-[FID:5B, TEXT:0003] と買いこんだね
+[FID:5B, TEXT:0002] と買いこんだよなあ
 
 --- Group 2 [left:none next=0023] ---
 [FID:5B, TEXT:0001] しかしまた、ずいぶん
-[FID:5B, TEXT:0002] と買いこんだよなあ
+[FID:5B, TEXT:0003] と買いこんだね
 
 --- Group 3 [left:none next=0023] ---
 [FID:5B, TEXT:0004] なんか、すごく
@@ -57,19 +57,19 @@
 --- Group 15 [left:none next=0023] ---
 [FID:5B, TEXT:001C] この声・・・？
 
---- Group 16 [left:none next=0023] ---
-[FID:5B, TEXT:001D] どうしよう？
-
---- Group 17 [right:none next=0023] ---
-[FID:5B, TEXT:001D] どうしよう？
-
---- Group 18 [right:char_001B next=0023] ---
-[FID:5B, TEXT:001D] どうしよう？
-
---- Group 19 [right:char_001B next=2015] ---
+--- Group 16 [right:char_001B next=2015] ---
 [FID:5B, TEXT:001D] どうしよう？
 [FID:5B, TEXT:0099] 　自分がついていく
 [FID:5B, TEXT:009A] 　レイドに選ばせる
+
+--- Group 17 [right:char_001B next=0023] ---
+[FID:5B, TEXT:001D] どうしよう？
+
+--- Group 18 [right:none next=0023] ---
+[FID:5B, TEXT:001D] どうしよう？
+
+--- Group 19 [left:none next=0023] ---
+[FID:5B, TEXT:001D] どうしよう？
 
 --- Group 20 [left:none next=0023] ---
 [FID:5B, TEXT:001E] 　スタウトか！？
@@ -138,16 +138,16 @@
 --- Group 38 [left:none next=0023] ---
 [FID:5B, TEXT:0039] なんでしょうか？
 
---- Group 39 [right:char_001B next=0023] ---
-[FID:5B, TEXT:003A] そうとんがるなって
-[FID:5B, TEXT:003B] 坊主たちをどうこうし
-[FID:5B, TEXT:003C] ようってんじゃねえよ
-
---- Group 40 [right:char_001B next=2012] ---
+--- Group 39 [right:char_001B next=2012] ---
 [FID:5B, TEXT:003A] そうとんがるなって
 [FID:5B, TEXT:003D] 嬢ちゃん達をどうこう
 [FID:5B, TEXT:003E] しようってんじゃ
 [FID:5B, TEXT:003F] ねえよ
+
+--- Group 40 [right:char_001B next=0023] ---
+[FID:5B, TEXT:003A] そうとんがるなって
+[FID:5B, TEXT:003B] 坊主たちをどうこうし
+[FID:5B, TEXT:003C] ようってんじゃねえよ
 
 --- Group 41 [right:none next=2012] ---
 [FID:5B, TEXT:003A] そうとんがるなって
@@ -176,12 +176,12 @@
 --- Group 47 [left:none next=0023] ---
 [FID:5B, TEXT:0045] レイドさんですか？
 
---- Group 48 [right:none next=2012] ---
+--- Group 48 [right:char_001B next=2012] ---
 [FID:5B, TEXT:0046] 俺は臆病者だからな
 [FID:5B, TEXT:0047] お前らのねぐらに入る
 [FID:5B, TEXT:0048] 度胸はねえんだよ
 
---- Group 49 [right:char_001B next=2012] ---
+--- Group 49 [right:none next=2012] ---
 [FID:5B, TEXT:0046] 俺は臆病者だからな
 [FID:5B, TEXT:0047] お前らのねぐらに入る
 [FID:5B, TEXT:0048] 度胸はねえんだよ
@@ -194,17 +194,17 @@
 [FID:5B, TEXT:0049] 悪いがよ、呼んできて
 [FID:5B, TEXT:004A] くれねえか？
 
---- Group 52 [right:char_001B next=0023] ---
+--- Group 52 [right:none next=0023] ---
 [FID:5B, TEXT:004B] 　そこで待っててくれ
 [FID:5B, TEXT:004C] 　なんで俺が・・・
 
 --- Group 53 [right:char_001B next=0023] ---
 [FID:5B, TEXT:004B] 　そこで待っててくれ
-[FID:5B, TEXT:004D] 　なんで僕が・・・
-
---- Group 54 [right:none next=0023] ---
-[FID:5B, TEXT:004B] 　そこで待っててくれ
 [FID:5B, TEXT:004C] 　なんで俺が・・・
+
+--- Group 54 [right:char_001B next=0023] ---
+[FID:5B, TEXT:004B] 　そこで待っててくれ
+[FID:5B, TEXT:004D] 　なんで僕が・・・
 
 --- Group 55 [right:char_001B next=0023] ---
 [FID:5B, TEXT:004E] 　じゃあ、待ってて

@@ -1,17 +1,17 @@
 --- Group 1 [left:none next=2012] ---
 [FID:7C, TEXT:0001] アカネと出会ったのは
-[FID:7C, TEXT:0008] ここでぶつかったのが
-[FID:7C, TEXT:0009] はじまりだっけ
-
---- Group 2 [left:none next=2012] ---
-[FID:7C, TEXT:0001] アカネと出会ったのは
 [FID:7C, TEXT:0002] ここで正面衝突をした
 [FID:7C, TEXT:0003] のがきっかけだったな
 
---- Group 3 [left:none next=2012] ---
+--- Group 2 [left:none next=2012] ---
+[FID:7C, TEXT:0001] アカネと出会ったのは
+[FID:7C, TEXT:0008] ここでぶつかったのが
+[FID:7C, TEXT:0009] はじまりだっけ
+
+--- Group 3 [left:char_0004 next=2012] ---
 [FID:7C, TEXT:0004] ・・・・・・
 
---- Group 4 [left:char_0004 next=2012] ---
+--- Group 4 [left:none next=2012] ---
 [FID:7C, TEXT:0004] ・・・・・・
 
 --- Group 5 [left:none next=0023] ---
@@ -52,11 +52,11 @@
 
 --- Group 13 [left:none next=0023] ---
 [FID:7C, TEXT:001A] あれ、もしかすると
-[FID:7C, TEXT:001C] アカネは・・・
+[FID:7C, TEXT:001B] アカネってば
 
 --- Group 14 [left:none next=0023] ---
 [FID:7C, TEXT:001A] あれ、もしかすると
-[FID:7C, TEXT:001B] アカネってば
+[FID:7C, TEXT:001C] アカネは・・・
 
 --- Group 15 [left:none next=0023] ---
 [FID:7C, TEXT:001D] あれっ？
@@ -157,10 +157,10 @@
 [FID:7C, TEXT:0046] お師匠のお荷物なのか
 [FID:7C, TEXT:0047] なって思っちゃうよ
 
---- Group 41 [right:char_0004 next=0023] ---
+--- Group 41 [left:none next=0023] ---
 [FID:7C, TEXT:0048] アカネ・・・
 
---- Group 42 [left:none next=0023] ---
+--- Group 42 [right:char_0004 next=0023] ---
 [FID:7C, TEXT:0048] アカネ・・・
 
 --- Group 43 [right:none next=2012] ---
@@ -204,13 +204,13 @@
 --- Group 53 [right:none next=2012] ---
 [FID:7C, TEXT:005B] わ、わかってるって！
 
---- Group 54 [left:char_001F next=2012] ---
-[FID:7C, TEXT:005C] お、お師匠・・・
-
---- Group 55 [right:none next=2012] ---
+--- Group 54 [right:none next=2012] ---
 [FID:7C, TEXT:005C] お、お師匠・・・
 [FID:7C, TEXT:005D] アカネ、ただいま戻り
 [FID:7C, TEXT:005E] ましたぁっ！
+
+--- Group 55 [left:char_001F next=2012] ---
+[FID:7C, TEXT:005C] お、お師匠・・・
 
 --- Group 56 [right:none next=2012] ---
 [FID:7C, TEXT:005F] おや、アカネさん
@@ -227,14 +227,14 @@
 
 --- Group 59 [left:char_0004 next=0023] ---
 [FID:7C, TEXT:0066] 彼女が帰れなかったの
-[FID:7C, TEXT:006B] は、あたしたちを手伝
-[FID:7C, TEXT:006C] ってくれていたから
+[FID:7C, TEXT:006A] は、僕たちの手伝いを
+[FID:7C, TEXT:0068] してくれていたから
 [FID:7C, TEXT:0069] なんです
 
 --- Group 60 [left:char_0004 next=0023] ---
 [FID:7C, TEXT:0066] 彼女が帰れなかったの
-[FID:7C, TEXT:006A] は、僕たちの手伝いを
-[FID:7C, TEXT:0068] してくれていたから
+[FID:7C, TEXT:006B] は、あたしたちを手伝
+[FID:7C, TEXT:006C] ってくれていたから
 [FID:7C, TEXT:0069] なんです
 
 --- Group 61 [left:char_0004 next=0023] ---
@@ -298,11 +298,11 @@
 
 --- Group 76 [left:char_0004 next=0023] ---
 [FID:7C, TEXT:0084] シオンさん・・・
-[FID:7C, TEXT:0085] 知ってたんですか？
+[FID:7C, TEXT:0087] 知ってらしたんですか
 
 --- Group 77 [left:char_0004 next=0023] ---
 [FID:7C, TEXT:0084] シオンさん・・・
-[FID:7C, TEXT:0087] 知ってらしたんですか
+[FID:7C, TEXT:0085] 知ってたんですか？
 
 --- Group 78 [right:none next=2012] ---
 [FID:7C, TEXT:0088] 出かけるたびに生傷が
@@ -330,21 +330,21 @@
 
 --- Group 83 [left:char_0004 next=0023] ---
 [FID:7C, TEXT:0096] 待ってください！
-[FID:7C, TEXT:009A] アカネはただ、僕たち
+[FID:7C, TEXT:0097] アカネはただ、俺たち
 [FID:7C, TEXT:0098] を助けようとして
 [FID:7C, TEXT:0099] くれただけで・・・
 
 --- Group 84 [left:char_0004 next=0023] ---
 [FID:7C, TEXT:0096] 待ってください！
-[FID:7C, TEXT:0097] アカネはただ、俺たち
-[FID:7C, TEXT:0098] を助けようとして
-[FID:7C, TEXT:0099] くれただけで・・・
-
---- Group 85 [left:char_0004 next=0023] ---
-[FID:7C, TEXT:0096] 待ってください！
 [FID:7C, TEXT:009F] 彼女はただ、私たちを
 [FID:7C, TEXT:009D] 助けようとしてくれた
 [FID:7C, TEXT:009E] だけで・・・
+
+--- Group 85 [left:char_0004 next=0023] ---
+[FID:7C, TEXT:0096] 待ってください！
+[FID:7C, TEXT:009A] アカネはただ、僕たち
+[FID:7C, TEXT:0098] を助けようとして
+[FID:7C, TEXT:0099] くれただけで・・・
 
 --- Group 86 [left:char_0004 next=0023] ---
 [FID:7C, TEXT:009B] ちょっと待ってよ！

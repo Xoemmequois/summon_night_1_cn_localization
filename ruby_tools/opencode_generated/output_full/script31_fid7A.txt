@@ -72,13 +72,13 @@
 [FID:7A, TEXT:001D] え？
 [FID:7A, TEXT:001E] 社って言ったら
 [FID:7A, TEXT:001F] 神社のお社のことじゃ
-[FID:7A, TEXT:0020] ないのか？
+[FID:7A, TEXT:0025] ないんですか？
 
 --- Group 19 [left:char_001E next=0023] ---
 [FID:7A, TEXT:001D] え？
 [FID:7A, TEXT:001E] 社って言ったら
 [FID:7A, TEXT:001F] 神社のお社のことじゃ
-[FID:7A, TEXT:0025] ないんですか？
+[FID:7A, TEXT:0020] ないのか？
 
 --- Group 20 [left:char_001E next=0023] ---
 [FID:7A, TEXT:0021] 社は社ですよ
@@ -147,11 +147,11 @@
 
 --- Group 35 [left:none next=0023] ---
 [FID:7A, TEXT:0046] 本当だ・・・
-[FID:7A, TEXT:0047] ちゃんと鳥居がある
+[FID:7A, TEXT:0048] ちゃんとした鳥居だ
 
 --- Group 36 [left:none next=0023] ---
 [FID:7A, TEXT:0046] 本当だ・・・
-[FID:7A, TEXT:0048] ちゃんとした鳥居だ
+[FID:7A, TEXT:0047] ちゃんと鳥居がある
 
 --- Group 37 [left:none next=0023] ---
 [FID:7A, TEXT:0049] これは・・・たしかに
@@ -337,12 +337,12 @@
 --- Group 79 [left:char_0004 next=2012] ---
 [FID:7A, TEXT:009F] あのさ、カイナ
 [FID:7A, TEXT:00A0] みんなの言うとおりだ
-[FID:7A, TEXT:00A9] と思う
+[FID:7A, TEXT:00A1] と俺も思うよ
 
 --- Group 80 [left:char_0004 next=2012] ---
 [FID:7A, TEXT:009F] あのさ、カイナ
 [FID:7A, TEXT:00A0] みんなの言うとおりだ
-[FID:7A, TEXT:00A1] と俺も思うよ
+[FID:7A, TEXT:00A9] と思う
 
 --- Group 81 [left:char_0004 next=2012] ---
 [FID:7A, TEXT:00A0] みんなの言うとおりだ

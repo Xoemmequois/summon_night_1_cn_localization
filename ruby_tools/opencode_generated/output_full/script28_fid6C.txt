@@ -63,107 +63,128 @@
 [FID:6C, TEXT:0022] 召喚術の起源に関わる
 [FID:6C, TEXT:0023] ことだからな・・・
 
---- Group 16 [right:char_001C next=0023] ---
+--- Group 16 [right:char_0009 next=2012] ---
+[FID:6C, TEXT:0022] 召喚術の起源に関わる
+[FID:6C, TEXT:0023] ことだからな・・・
+
+--- Group 17 [right:char_000A next=2012] ---
+[FID:6C, TEXT:0022] 召喚術の起源に関わる
+[FID:6C, TEXT:0024] ことだもんね・・・
+
+--- Group 18 [right:char_000B next=2012] ---
+[FID:6C, TEXT:0022] 召喚術の起源に関わる
+[FID:6C, TEXT:0025] ことですから・・・
+
+--- Group 19 [right:char_001C next=0023] ---
 [FID:6C, TEXT:0026] ソルの
 
---- Group 17 [right:char_001C next=2012] ---
+--- Group 20 [right:char_001C next=0023] ---
+[FID:6C, TEXT:0027] キールの
+
+--- Group 21 [right:char_001C next=0023] ---
+[FID:6C, TEXT:0028] カシスの
+
+--- Group 22 [right:char_001C next=0023] ---
+[FID:6C, TEXT:0029] クラレットの
+
+--- Group 23 [right:char_001C next=2012] ---
 [FID:6C, TEXT:002A] 言うとおりだ
 
---- Group 18 [right:char_001C next=2012] ---
+--- Group 24 [right:char_001C next=2012] ---
 [FID:6C, TEXT:002B] もともと召喚術という
 [FID:6C, TEXT:002C] ものは、そういった
 [FID:6C, TEXT:002D] 敵をさけるために
 [FID:6C, TEXT:002E] 生まれたものなんだ
 
---- Group 19 [right:char_0020 next=2012] ---
+--- Group 25 [right:char_0020 next=2012] ---
 [FID:6C, TEXT:002F] 呪文と魔力で異世界の
 [FID:6C, TEXT:0030] 生物の意識を支配して
 [FID:6C, TEXT:0031] 元の世界に送り返す
 
---- Group 20 [right:char_0020 next=2012] ---
+--- Group 26 [right:char_0020 next=2012] ---
 [FID:6C, TEXT:0032] 【送還術】と呼ばれる
 [FID:6C, TEXT:0033] その技法を逆利用した
 [FID:6C, TEXT:0034] ものが【召喚術】なの
 
---- Group 21 [right:char_0020 next=2012] ---
+--- Group 27 [right:char_0020 next=2012] ---
 [FID:6C, TEXT:0035] 【送還術】のほうは、
 [FID:6C, TEXT:0036] 今じゃほとんど失われ
 [FID:6C, TEXT:0037] てしまってるけどね
 
---- Group 22 [left:char_0004 next=0023] ---
+--- Group 28 [left:char_0004 next=0023] ---
 [FID:6C, TEXT:0038] どうしてですか？
 
---- Group 23 [left:char_0004 next=0023] ---
+--- Group 29 [left:char_0004 next=0023] ---
 [FID:6C, TEXT:0039] なんでです？
 
---- Group 24 [right:char_001C next=2012] ---
+--- Group 30 [right:char_001C next=2012] ---
 [FID:6C, TEXT:003A] このリィンバウムに、
 [FID:6C, TEXT:003B] 強力な結界が張られた
 [FID:6C, TEXT:003C] からさ
 
---- Group 25 [right:char_001C next=2012] ---
+--- Group 31 [right:char_001C next=2012] ---
 [FID:6C, TEXT:003D] その力で異世界の敵は
 [FID:6C, TEXT:003E] リィンバウムに自力で
 [FID:6C, TEXT:003F] 入れなくなった
 
---- Group 26 [right:char_0020 next=2012] ---
+--- Group 32 [right:char_0020 next=2012] ---
 [FID:6C, TEXT:0040] だから送還術は必要が
 [FID:6C, TEXT:0041] なくなってしまったの
 
---- Group 27 [left:char_0014 next=2012] ---
+--- Group 33 [left:char_0014 next=2012] ---
 [FID:6C, TEXT:0042] なるほど・・・
 
---- Group 28 [right:char_001C next=2012] ---
+--- Group 34 [right:char_001C next=2012] ---
 [FID:6C, TEXT:0043] 【魅魔の宝玉】は
 [FID:6C, TEXT:0044] サプレスの悪魔の意識
 [FID:6C, TEXT:0045] を支配し、元の世界へ
 [FID:6C, TEXT:0046] 送り返す道具なんだ
 
---- Group 29 [right:char_001C next=2012] ---
+--- Group 35 [right:char_001C next=2012] ---
 [FID:6C, TEXT:0047] だが、送り返すための
 [FID:6C, TEXT:0048] 力を逆に使えば・・・
 
---- Group 30 [left:char_0004 next=0023] ---
+--- Group 36 [left:char_0004 next=0023] ---
+[FID:6C, TEXT:0049] 悪魔を召喚するための
+[FID:6C, TEXT:004A] 道具になるってことか
+
+--- Group 37 [left:char_0004 next=0023] ---
 [FID:6C, TEXT:0049] 悪魔を召喚するための
 [FID:6C, TEXT:004F] 道具になる・・・
 [FID:6C, TEXT:0050] そういうことですか？
 
---- Group 31 [left:char_0004 next=0023] ---
-[FID:6C, TEXT:0049] 悪魔を召喚するための
-[FID:6C, TEXT:004A] 道具になるってことか
-
---- Group 32 [left:char_0004 next=0023] ---
+--- Group 38 [left:char_0004 next=0023] ---
 [FID:6C, TEXT:004B] そっか！
 [FID:6C, TEXT:004C] 悪魔たちをこっちの
 [FID:6C, TEXT:004D] 世界に召喚する
 [FID:6C, TEXT:004E] 道具になる！？
 
---- Group 33 [right:char_0020 next=2012] ---
+--- Group 39 [right:char_0020 next=2012] ---
 [FID:6C, TEXT:0051] 宝玉の力は、使う者の
 [FID:6C, TEXT:0052] 意志の強さに比例して
 [FID:6C, TEXT:0053] 強くなってしまうの
 
---- Group 34 [right:char_0013 next=2012] ---
+--- Group 40 [right:char_0013 next=2012] ---
 [FID:6C, TEXT:0054] 最悪だな・・・
 [FID:6C, TEXT:0055] バノッサは蛇みたいに
 [FID:6C, TEXT:0056] しつこい性格だぜ
 
---- Group 35 [left:char_0004 next=0023] ---
+--- Group 41 [left:char_0004 next=0023] ---
 [FID:6C, TEXT:0057] 手分けして
 [FID:6C, TEXT:0058] バノッサをさがそう
 [FID:6C, TEXT:0059] 早くしないと取り返し
 [FID:6C, TEXT:005A] がつかなくなる！
 
---- Group 36 [left:char_0004 next=0023] ---
+--- Group 42 [left:char_0004 next=0023] ---
 [FID:6C, TEXT:0059] 早くしないと取り返し
 [FID:6C, TEXT:005E] がつかなくなっちゃう
 
---- Group 37 [left:char_0004 next=2012] ---
+--- Group 43 [left:char_0004 next=2012] ---
 [FID:6C, TEXT:005B] まずいよ！
 [FID:6C, TEXT:005C] 手分けしてバノッサを
 [FID:6C, TEXT:005D] さがさなきゃ！
 
---- Group 38 [left:char_0004 next=0023] ---
+--- Group 44 [left:char_0004 next=0023] ---
 [FID:6C, TEXT:005F] 手分けしてバノッサさ
 [FID:6C, TEXT:0060] んを探しましょう
 [FID:6C, TEXT:0059] 早くしないと取り返し

@@ -16,15 +16,15 @@
 
 --- Group [left:主人公 next=0023] ---
 とにかく、詳しいこと
-は中で説明するよ
+は中で説明します
 +[FID:46, TEXT:0006] 
-+[FID:46, TEXT:0007] 
++[FID:46, TEXT:0008] 
 
 --- Group [left:主人公 next=0023] ---
 とにかく、詳しいこと
-は中で説明します
+は中で説明するよ
 -[FID:46, TEXT:0006] 
-+[FID:46, TEXT:0008] 
++[FID:46, TEXT:0007] 
 
 --- Group [left:主人公 next=0023] ---
 ・・・というわけさ
@@ -92,6 +92,30 @@
 +[FID:46, TEXT:001C] 
 +[FID:46, TEXT:001D] 
 
+--- Group [right:基尔 next=2012] ---
+それよりも
+暴動を扇動したという
+連中が気になるな
+-[FID:46, TEXT:001B] 
+-[FID:46, TEXT:001C] 
++[FID:46, TEXT:001E] 
+
+--- Group [right:卡西斯 next=2012] ---
+それよりも
+暴動を扇動したという
+連中が気になるわね
+-[FID:46, TEXT:001B] 
+-[FID:46, TEXT:001C] 
++[FID:46, TEXT:001F] 
+
+--- Group [right:克拉雷特 next=2012] ---
+それよりも
+暴動を扇動したという
+連中が気になりますね
+-[FID:46, TEXT:001B] 
+-[FID:46, TEXT:001C] 
++[FID:46, TEXT:0020] 
+
 --- Group [left:主人公 next=2012] ---
 うん・・・
 荒野で会ったあの剣士
@@ -120,9 +144,13 @@
 -[FID:46, TEXT:0024] 
 +[FID:46, TEXT:0027] 
 
---- Group [right:雷德 next=2012] ---
+--- Group [left:主人公 next=2012] ---
 ああ・・・
+荒野で会ったあの剣士
+がリーダーだったんだ
 +[FID:46, TEXT:0026] 
+-[FID:46, TEXT:0022] 
+-[FID:46, TEXT:0023] 
 
 --- Group [left:主人公 next=0023] ---
 ラムダとかっていう
@@ -438,15 +466,15 @@
 
 --- Group [left:艾多斯 next=0023] ---
 ラムダさんに会いに
-行きましょう
+行こうよ
 +[FID:46, TEXT:008C] 
-+[FID:46, TEXT:008E] 
++[FID:46, TEXT:008D] 
 
 --- Group [left:艾多斯 next=0023] ---
 ラムダさんに会いに
-行こうよ
+行きましょう
 -[FID:46, TEXT:008C] 
-+[FID:46, TEXT:008D] 
++[FID:46, TEXT:008E] 
 
 --- Group [right:金加 next=2012] ---
 @ n 
@@ -464,19 +492,19 @@
 
 --- Group [left:艾多斯 next=2012] ---
 どうすればいいのかは
-それから決めれば
-いいんだよ
+それから決めればいい
+んですよ
 +[FID:46, TEXT:0094] 
-+[FID:46, TEXT:0095] 
-+[FID:46, TEXT:0096] 
++[FID:46, TEXT:009C] 
++[FID:46, TEXT:009D] 
 
 --- Group [left:艾多斯 next=2012] ---
 どうすればいいのかは
-それから決めればいい
-んですよ
+それから決めれば
+いいんだよ
 -[FID:46, TEXT:0094] 
-+[FID:46, TEXT:009C] 
-+[FID:46, TEXT:009D] 
++[FID:46, TEXT:0095] 
++[FID:46, TEXT:0096] 
 
 --- Group [left:艾多斯 next=0023] ---
 手遅れになる前に！
@@ -494,39 +522,39 @@
 
 --- Group [left:艾多斯 next=2012] ---
 なんで暴動なんか
-起こしたのか・・・
-ラムダさんの考えを
-確かめましょう
-+[FID:46, TEXT:009E] 
-+[FID:46, TEXT:00A8] 
-+[FID:46, TEXT:00A9] 
-+[FID:46, TEXT:00AA] 
-
---- Group [left:艾多斯 next=2012] ---
-なんで暴動なんか
 起こしたのか・・・彼
 の望みを確かめないと
 いけないと思う・・・
--[FID:46, TEXT:009E] 
++[FID:46, TEXT:009E] 
 +[FID:46, TEXT:009F] 
 +[FID:46, TEXT:00A0] 
 +[FID:46, TEXT:00A1] 
 
 --- Group [left:艾多斯 next=2012] ---
-その結果次第で
-どうするか
-決めるんです
-+[FID:46, TEXT:00A2] 
-+[FID:46, TEXT:00A3] 
-+[FID:46, TEXT:00AB] 
+なんで暴動なんか
+起こしたのか・・・
+ラムダさんの考えを
+確かめましょう
+-[FID:46, TEXT:009E] 
++[FID:46, TEXT:00A8] 
++[FID:46, TEXT:00A9] 
++[FID:46, TEXT:00AA] 
 
 --- Group [left:艾多斯 next=2012] ---
 その結果次第で
 どうするか
 決めましょうよ！
++[FID:46, TEXT:00A2] 
++[FID:46, TEXT:00A3] 
++[FID:46, TEXT:00A4] 
+
+--- Group [left:艾多斯 next=2012] ---
+その結果次第で
+どうするか
+決めるんです
 -[FID:46, TEXT:00A2] 
 -[FID:46, TEXT:00A3] 
-+[FID:46, TEXT:00A4] 
++[FID:46, TEXT:00AB] 
 
 --- Group [left:艾多斯 next=0023] ---
 手遅れに

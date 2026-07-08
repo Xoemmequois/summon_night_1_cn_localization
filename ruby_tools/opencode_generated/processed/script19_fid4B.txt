@@ -122,8 +122,14 @@
 
 --- Group [left:主人公 next=0023] ---
 ほらっ、次の出し物
-が始まりますよ
+が始まっちゃうぞ？
 +[FID:4B, TEXT:0026] 
+-[FID:4B, TEXT:0020] 
+
+--- Group [left:主人公 next=0023] ---
+ほらっ、次の出し物
+が始まりますよ
+-[FID:4B, TEXT:0026] 
 +[FID:4B, TEXT:0029] 
 
 --- Group [left:主人公 next=2012] ---
@@ -185,10 +191,18 @@
 --- Group [left:主人公 next=0023] ---
 よその世界から呼ばれ
 たってことは、あの子
+たちも召喚獣・・・？
+-[FID:4B, TEXT:0039] 
++[FID:4B, TEXT:0040] 
++[FID:4B, TEXT:0045] 
+
+--- Group [left:主人公 next=0023] ---
+よその世界から呼ばれ
+たってことは、あの子
 たちも召喚獣ってこと
 だよねぇ・・・
 -[FID:4B, TEXT:0039] 
-+[FID:4B, TEXT:0040] 
+-[FID:4B, TEXT:0040] 
 +[FID:4B, TEXT:0041] 
 +[FID:4B, TEXT:0044] 
 
@@ -201,14 +215,6 @@
 -[FID:4B, TEXT:0040] 
 -[FID:4B, TEXT:0041] 
 +[FID:4B, TEXT:0043] 
-
---- Group [left:主人公 next=0023] ---
-よその世界から呼ばれ
-たってことは、あの子
-たちも召喚獣・・・？
--[FID:4B, TEXT:0039] 
--[FID:4B, TEXT:0040] 
-+[FID:4B, TEXT:0045] 
 
 --- Group [left:主人公 next=0023] ---
 よその世界から呼ばれ

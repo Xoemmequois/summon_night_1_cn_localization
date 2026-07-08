@@ -84,7 +84,7 @@
 +[FID:01, TEXT:0094] 是不是有什么烦恼
 +[FID:01, TEXT:0095] 呢？
 
---- Group [right:絵美 next=2015] ---G
+--- Group [left:主人公 next=2015] ---G
 どうしよう？
 　そっとしておく
 　心配だな
@@ -214,7 +214,7 @@
 +[FID:01, TEXT:00B8] 克也，都别管我啦！
 +[FID:01, TEXT:00B9] 
 
---- Group [left:克也 next=2012] ---G
+--- Group [right:克也 next=2012] ---G
 なに怒ってるんだよ？
 ・・・ま、いいや
 センパイ、こんな凶暴
@@ -252,17 +252,17 @@
 +[FID:01, TEXT:00C6] 前辈！
 +[FID:01, TEXT:00C7] 快点回去吧！
 
---- Group [right:克也 next=2012] ---G
+--- Group [right:絵美 next=2012] ---G
 ほら、呼んでますよ
 +[FID:01, TEXT:00C8] 呐，在叫你了哦
 
---- Group [left:none next=2012] ---G
+--- Group [left:克也 next=2012] ---G
 うん
 じゃあ、また明日ね
 +[FID:01, TEXT:00C9] 嗯
 +[FID:01, TEXT:00CA] 那么，明天见
 
---- Group [right:絵美 next=2012] ---G
+--- Group [right:克也 next=2012] ---G
 さよなら、せんぱい
 +[FID:01, TEXT:00CB] 再见，前辈
 

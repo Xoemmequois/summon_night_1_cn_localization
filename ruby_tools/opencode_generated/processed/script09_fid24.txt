@@ -24,7 +24,7 @@
 +[FID:24, TEXT:0008] 
 +[FID:24, TEXT:0009] 
 
---- Group [right:加泽尔 next=2012] ---
+--- Group [right:none next=2012] ---
 ああ、場所が場所だけ
 に兵士たちものんきな
 もんだ。酔ってるヤツ
@@ -50,7 +50,7 @@
 +[FID:24, TEXT:0012] 
 +[FID:24, TEXT:0013] 
 
---- Group [left:none next=0023] ---
+--- Group [left:克拉雷特 next=0023] ---
 どうするんだ？
 +[FID:24, TEXT:0014] 
 
@@ -92,7 +92,7 @@
 わかりました！
 +[FID:24, TEXT:0020] 
 
---- Group [right:加泽尔 next=2012] ---
+--- Group [right:none next=2012] ---
 ほれっ、お前は
 そっちの皿を持てよ！
 +[FID:24, TEXT:0021] 
@@ -114,7 +114,7 @@
 なぜでしょうか？
 +[FID:24, TEXT:0026] 
 
---- Group [right:none next=2012] ---
+--- Group [right:加泽尔 next=2012] ---
 これだけいっぱい貴族
 が来てるってことは、
 当然その召使いたちも
@@ -154,7 +154,7 @@
 あ、なるほど・・・
 +[FID:24, TEXT:0034] 
 
---- Group [right:加泽尔 next=2012] ---
+--- Group [right:none next=2012] ---
 感心するのはあとにし
 て、とりあえず獲物を
 いただくとしようぜ
@@ -228,13 +228,13 @@
 +[FID:24, TEXT:004D] 
 +[FID:24, TEXT:004E] 
 
---- Group [right:none next=2012] ---
+--- Group [right:加泽尔 next=2012] ---
 ・・・
 じつはよ、俺もなんだ
 +[FID:24, TEXT:004F] 
 +[FID:24, TEXT:0050] 
 
---- Group [right:none next=2012] ---
+--- Group [right:加泽尔 next=2012] ---
 いくら豪華なメシでも
 こそこそと食べてちゃ
 うまくねえ
@@ -242,7 +242,7 @@
 +[FID:24, TEXT:0052] 
 +[FID:24, TEXT:0053] 
 
---- Group [right:none next=2012] ---
+--- Group [right:加泽尔 next=2012] ---
 よし！
 みやげに菓子でもくす
 ねてから、引き上げる

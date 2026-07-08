@@ -1,10 +1,10 @@
 --- Group [left:主人公 next=2012] ---
 ここでの生活にも
 やっと慣れてきたって
-感じかな？
+感じだな
 +[FID:28, TEXT:0001] 
 +[FID:28, TEXT:0002] 
-+[FID:28, TEXT:0003] 
++[FID:28, TEXT:000A] 
 
 --- Group [left:主人公 next=2012] ---
 ここでの生活にも
@@ -17,10 +17,10 @@
 --- Group [left:主人公 next=2012] ---
 ここでの生活にも
 やっと慣れてきたって
-感じだな
+感じかな？
 -[FID:28, TEXT:0001] 
 -[FID:28, TEXT:0002] 
-+[FID:28, TEXT:000A] 
++[FID:28, TEXT:0003] 
 
 --- Group [left:主人公 next=2012] ---
 それなりにひとり歩き
@@ -33,18 +33,18 @@
 --- Group [left:主人公 next=0023] ---
 今日は散歩がてら、
 この街をあちこち回っ
-てみるとするか
+てみるか
 +[FID:28, TEXT:0007] 
 +[FID:28, TEXT:0008] 
-+[FID:28, TEXT:0009] 
++[FID:28, TEXT:000B] 
 
 --- Group [left:主人公 next=0023] ---
 今日は散歩がてら、
 この街をあちこち回っ
-てみるか
+てみるとするか
 -[FID:28, TEXT:0007] 
 -[FID:28, TEXT:0008] 
-+[FID:28, TEXT:000B] 
++[FID:28, TEXT:0009] 
 
 --- Group [left:主人公 next=2012] ---
 一人で出歩ける
@@ -86,7 +86,7 @@
 +[FID:28, TEXT:001B] 
 +[FID:28, TEXT:001D] 
 
---- Group [left:主人公 next=0023] ---
+--- Group [left:none next=0023] ---
 イムランが言っていた
 【金の派閥】ってなん
 のことか知ってます？
@@ -94,7 +94,7 @@
 -[FID:28, TEXT:001B] 
 +[FID:28, TEXT:001C] 
 
---- Group [left:主人公 next=0023] ---
+--- Group [left:none next=0023] ---
 レイドさん、
 【金の派閥】ってなん
 のことか知ってます？
@@ -110,7 +110,7 @@
 -[FID:28, TEXT:001B] 
 +[FID:28, TEXT:0020] 
 
---- Group [right:伊利亚斯 next=2012] ---
+--- Group [right:none next=2012] ---
 ああ、それは召喚師の
 グループのことだよ
 +[FID:28, TEXT:0021] 
@@ -126,17 +126,17 @@
 +[FID:28, TEXT:0025] 
 +[FID:28, TEXT:0026] 
 
---- Group [left:主人公 next=0023] ---
-召喚術を商品にしてる
-ってことですか？
-+[FID:28, TEXT:0027] 
-+[FID:28, TEXT:0029] 
-
 --- Group [left:none next=0023] ---
 召喚術を商品にしてる
 わけか・・・
--[FID:28, TEXT:0027] 
++[FID:28, TEXT:0027] 
 +[FID:28, TEXT:0028] 
+
+--- Group [left:主人公 next=0023] ---
+召喚術を商品にしてる
+ってことですか？
+-[FID:28, TEXT:0027] 
++[FID:28, TEXT:0029] 
 
 --- Group [left:none next=0023] ---
 召喚術で商売してる
@@ -144,13 +144,13 @@
 +[FID:28, TEXT:002A] 
 +[FID:28, TEXT:002B] 
 
---- Group [left:none next=0023] ---
+--- Group [left:主人公 next=0023] ---
 召喚術が彼らの商品
 というわけですね？
 +[FID:28, TEXT:002C] 
 +[FID:28, TEXT:002D] 
 
---- Group [right:伊利亚斯 next=2012] ---
+--- Group [right:none next=2012] ---
 そう思っても間違いは
 ないだろうな
 +[FID:28, TEXT:002E] 
@@ -166,7 +166,7 @@
 +[FID:28, TEXT:0032] 
 +[FID:28, TEXT:0033] 
 
---- Group [right:伊利亚斯 next=2012] ---
+--- Group [right:none next=2012] ---
 召喚術というものは、
 召喚師の家系に生まれ
 た者にしか使えないと
@@ -190,9 +190,21 @@
 +[FID:28, TEXT:003A] 
 +[FID:28, TEXT:003B] 
 
---- Group [right:none next=0023] ---
+--- Group [right:伊利亚斯 next=0023] ---
 ソルが
 +[FID:28, TEXT:003C] 
+
+--- Group [right:none next=0023] ---
+キールが
++[FID:28, TEXT:003D] 
+
+--- Group [right:none next=0023] ---
+カシスが
++[FID:28, TEXT:003E] 
+
+--- Group [right:none next=0023] ---
+クラレットが
++[FID:28, TEXT:003F] 
 
 --- Group [right:伊利亚斯 next=2012] ---
 君に教えてくれた話は
@@ -210,7 +222,7 @@
 +[FID:28, TEXT:0044] 
 +[FID:28, TEXT:0045] 
 
---- Group [left:none next=0023] ---
+--- Group [left:主人公 next=0023] ---
 ええ、おかげさまで
 +[FID:28, TEXT:0046] 
 
@@ -218,7 +230,7 @@
 ええ、なんとか
 +[FID:28, TEXT:0047] 
 
---- Group [left:主人公 next=0023] ---
+--- Group [left:none next=0023] ---
 はい、おかげさまで
 +[FID:28, TEXT:0048] 
 
@@ -238,7 +250,7 @@
 +[FID:28, TEXT:004D] 
 +[FID:28, TEXT:004E] 
 
---- Group [left:none next=0023] ---
+--- Group [left:主人公 next=0023] ---
 石切りでしたっけ？
 +[FID:28, TEXT:004F] 
 
@@ -254,7 +266,7 @@
 +[FID:28, TEXT:0052] 
 +[FID:28, TEXT:0053] 
 
---- Group [left:none next=0023] ---
+--- Group [left:主人公 next=0023] ---
 えっ！？
 +[FID:28, TEXT:0054] 
 
@@ -272,7 +284,7 @@
 +[FID:28, TEXT:0058] 
 +[FID:28, TEXT:0059] 
 
---- Group [right:none next=2012] ---
+--- Group [right:伊利亚斯 next=2012] ---
 それじゃ、
 行って来るよ
 +[FID:28, TEXT:005A] 
@@ -298,19 +310,19 @@
 +[FID:28, TEXT:0060] 
 +[FID:28, TEXT:0061] 
 
---- Group [left:none next=0023] ---
-どうしたの
-ご機嫌じゃない！
-+[FID:28, TEXT:0062] 
-+[FID:28, TEXT:0063] 
-
 --- Group [left:主人公 next=0023] ---
 どうしたの
 今日は、ご機嫌ね？
--[FID:28, TEXT:0062] 
++[FID:28, TEXT:0062] 
 +[FID:28, TEXT:0064] 
 
---- Group [right:伊利亚斯 next=2012] ---
+--- Group [left:主人公 next=0023] ---
+どうしたの
+ご機嫌じゃない！
+-[FID:28, TEXT:0062] 
++[FID:28, TEXT:0063] 
+
+--- Group [right:none next=2012] ---
 へへへ・・・
 じゃあ〜ん！！
 +[FID:28, TEXT:0065] 
@@ -346,19 +358,19 @@
 +[FID:28, TEXT:006E] 
 +[FID:28, TEXT:006F] 
 
---- Group [left:主人公 next=0023] ---
+--- Group [left:none next=0023] ---
 ああ、すごいきれいな
 羽してるな
 +[FID:28, TEXT:0070] 
 +[FID:28, TEXT:0071] 
 
---- Group [left:none next=0023] ---
+--- Group [left:主人公 next=0023] ---
 ああ、すごくきれいな
 羽をしてるな
 +[FID:28, TEXT:0072] 
 +[FID:28, TEXT:0073] 
 
---- Group [left:none next=0023] ---
+--- Group [left:主人公 next=0023] ---
 うん、こんなに
 きれいな模様の
 見たことないよ！
@@ -376,17 +388,13 @@
 兄ちゃんにやるよ
 +[FID:28, TEXT:0079] 
 
---- Group [right:none next=2012] ---
+--- Group [right:伊利亚斯 next=2012] ---
 姉ちゃんにやるよ
 +[FID:28, TEXT:007A] 
 
---- Group [left:主人公 next=2015] ---
+--- Group [right:none next=0023] ---
 どうしよう？
-　やめておく
-　魚釣りをする
 +[FID:28, TEXT:007B] 
-+[FID:28, TEXT:01B7] 
-+[FID:28, TEXT:01B8] 
 
 --- Group [left:主人公 next=2015] ---
 どうしよう？
@@ -396,16 +404,18 @@
 +[FID:28, TEXT:019E] 
 +[FID:28, TEXT:019F] 
 
---- Group [right:none next=0023] ---
-　ありがとう
-　逃がしてあげましょう
-+[FID:28, TEXT:007C] 
-+[FID:28, TEXT:007F] 
+--- Group [left:主人公 next=2015] ---
+どうしよう？
+　やめておく
+　魚釣りをする
+-[FID:28, TEXT:007B] 
++[FID:28, TEXT:01B7] 
++[FID:28, TEXT:01B8] 
 
 --- Group [right:none next=0023] ---
 　ありがとう
 　逃がしてやろうよ
--[FID:28, TEXT:007C] 
++[FID:28, TEXT:007C] 
 +[FID:28, TEXT:007D] 
 
 --- Group [right:none next=0023] ---
@@ -414,31 +424,29 @@
 -[FID:28, TEXT:007C] 
 +[FID:28, TEXT:007E] 
 
---- Group [left:主人公 next=0023] ---
+--- Group [right:none next=0023] ---
+　ありがとう
+　逃がしてあげましょう
+-[FID:28, TEXT:007C] 
++[FID:28, TEXT:007F] 
+
+--- Group [left:none next=0023] ---
 ありがとう、アルバ
 +[FID:28, TEXT:0080] 
-
---- Group [left:主人公 next=0023] ---
-ありがとう
-けど、こいつは
-逃がしてやろう
-+[FID:28, TEXT:0081] 
-+[FID:28, TEXT:0083] 
-+[FID:28, TEXT:0085] 
 
 --- Group [left:none next=0023] ---
 ありがとう
 アルバくん
--[FID:28, TEXT:0081] 
++[FID:28, TEXT:0081] 
 +[FID:28, TEXT:0082] 
 
---- Group [left:主人公 next=0023] ---
+--- Group [left:none next=0023] ---
 ありがとう
 けど、こいつは
-逃がしてやろうよ
+逃がしてやろう
 -[FID:28, TEXT:0081] 
--[FID:28, TEXT:0083] 
-+[FID:28, TEXT:0084] 
++[FID:28, TEXT:0083] 
++[FID:28, TEXT:0085] 
 
 --- Group [left:none next=0023] ---
 ありがとう
@@ -449,6 +457,14 @@
 +[FID:28, TEXT:008A] 
 
 --- Group [left:主人公 next=0023] ---
+ありがとう
+けど、こいつは
+逃がしてやろうよ
+-[FID:28, TEXT:0081] 
+-[FID:28, TEXT:0083] 
++[FID:28, TEXT:0084] 
+
+--- Group [left:none next=0023] ---
 ありがと
 でも、逃がしてあげよ
 ・・・ね？
@@ -470,27 +486,27 @@
 えー！？
 +[FID:28, TEXT:008B] 
 
+--- Group [left:主人公 next=0023] ---
+捕まってるより、空を
+気持ちよさそうに飛ん
+でるチョウチョのほう
+が絶対にきれいだぜ
++[FID:28, TEXT:008C] 
++[FID:28, TEXT:008D] 
++[FID:28, TEXT:008E] 
++[FID:28, TEXT:008F] 
+
 --- Group [left:none next=0023] ---
 捕まってるより、空を
 気持ちよさそうに飛ん
 でるチョウチョの方が
 きれいだと思うんだ
-+[FID:28, TEXT:008C] 
-+[FID:28, TEXT:008D] 
+-[FID:28, TEXT:008C] 
+-[FID:28, TEXT:008D] 
 +[FID:28, TEXT:0090] 
 +[FID:28, TEXT:0091] 
 
---- Group [left:none next=0023] ---
-捕まってるより、空を
-気持ちよさそうに飛ん
-でるチョウチョのほう
-が絶対にきれいだぜ
--[FID:28, TEXT:008C] 
--[FID:28, TEXT:008D] 
-+[FID:28, TEXT:008E] 
-+[FID:28, TEXT:008F] 
-
---- Group [left:主人公 next=2012] ---
+--- Group [left:none next=2012] ---
 ほら、チョウチョが
 一番きれいなのは、
 自由に空を飛んでる
@@ -516,25 +532,25 @@
 ・・・そうかも
 +[FID:28, TEXT:009A] 
 
---- Group [left:主人公 next=0023] ---
+--- Group [left:none next=0023] ---
 よし、じゃあ逃がして
 やろう
 +[FID:28, TEXT:009B] 
 +[FID:28, TEXT:009D] 
 
---- Group [left:主人公 next=0023] ---
+--- Group [left:none next=0023] ---
 よし、じゃあ逃がして
 やろうな
 -[FID:28, TEXT:009B] 
 +[FID:28, TEXT:009C] 
 
---- Group [left:主人公 next=0023] ---
+--- Group [left:none next=0023] ---
 うん、じゃあ逃がして
 あげようね
 +[FID:28, TEXT:009E] 
 +[FID:28, TEXT:009F] 
 
---- Group [left:主人公 next=0023] ---
+--- Group [left:none next=0023] ---
 じゃあ、逃がして
 あげましょう？
 +[FID:28, TEXT:00A0] 
@@ -546,29 +562,41 @@
 
 --- Group [left:主人公 next=0023] ---
 あれ？
-あそこでフィズと話を
-してるのは・・・
+釣りの餌がない・・・
+これじゃあ釣りは
+できないよな
 +[FID:28, TEXT:00A3] 
-+[FID:28, TEXT:00A4] 
-+[FID:28, TEXT:00A9] 
++[FID:28, TEXT:01AA] 
++[FID:28, TEXT:01AB] 
++[FID:28, TEXT:01AC] 
 
 --- Group [left:主人公 next=0023] ---
 あれ？
 あそこでフィズと話を
 してるのって・・・
 -[FID:28, TEXT:00A3] 
--[FID:28, TEXT:00A4] 
++[FID:28, TEXT:00A4] 
 +[FID:28, TEXT:00A5] 
 
 --- Group [left:主人公 next=0023] ---
 あれ？
-釣りの餌がない・・・
-これじゃあ釣りは
-できないよな
+あそこでフィズと話を
+してるのは・・・
 -[FID:28, TEXT:00A3] 
-+[FID:28, TEXT:01AA] 
-+[FID:28, TEXT:01AB] 
-+[FID:28, TEXT:01AC] 
+-[FID:28, TEXT:00A4] 
++[FID:28, TEXT:00A9] 
+
+--- Group [left:主人公 next=0023] ---
+キール！？
++[FID:28, TEXT:00A6] 
+
+--- Group [left:主人公 next=0023] ---
+カシス！？
++[FID:28, TEXT:00A7] 
+
+--- Group [left:主人公 next=0023] ---
+クラレット！？
++[FID:28, TEXT:00A8] 
 
 --- Group [left:主人公 next=0023] ---
 ソル！？
@@ -586,6 +614,14 @@
 ソルさん？
 +[FID:28, TEXT:00AC] 
 
+--- Group [left:主人公 next=0023] ---
+キールさん？
++[FID:28, TEXT:00AD] 
+
+--- Group [left:主人公 next=0023] ---
+カシスさん？
++[FID:28, TEXT:00AE] 
+
 --- Group [left:主人公 next=2012] ---
 ねえねえ、いいでしょ
 お兄ちゃんの好みの女
@@ -596,21 +632,27 @@
 +[FID:28, TEXT:00B1] 
 +[FID:28, TEXT:00B2] 
 
---- Group [right:伊利亚斯 next=2012] ---
+--- Group [right:none next=2012] ---
 おい、待てって・・・
 +[FID:28, TEXT:00B3] 
-
---- Group [left:主人公 next=2012] ---
-あはは
-僕と同じ質問されてる
-+[FID:28, TEXT:00B4] 
-+[FID:28, TEXT:00B5] 
 
 --- Group [left:主人公 next=0023] ---
 あはは
 困ってる困ってる
--[FID:28, TEXT:00B4] 
++[FID:28, TEXT:00B4] 
 +[FID:28, TEXT:00B8] 
+
+--- Group [left:主人公 next=2012] ---
+あはは
+俺と同じ質問されてら
+-[FID:28, TEXT:00B4] 
++[FID:28, TEXT:00BD] 
+
+--- Group [left:主人公 next=2012] ---
+あはは
+僕と同じ質問されてる
+-[FID:28, TEXT:00B4] 
++[FID:28, TEXT:00B5] 
 
 --- Group [left:主人公 next=0023] ---
 ともあれ、
@@ -626,8 +668,96 @@
 +[FID:28, TEXT:00BA] 
 +[FID:28, TEXT:00BB] 
 
---- Group [left:none next=0023] ---
+--- Group [right:none next=2012] ---
+う・・・
++[FID:28, TEXT:00BC] 
+
+--- Group [left:主人公 next=0023] ---
+ともあれ、これで
+ひと安心ってとこだな
++[FID:28, TEXT:00BE] 
++[FID:28, TEXT:00BF] 
+
+--- Group [left:主人公 next=0023] ---
+あはは、困ってる
+キールは
+まじめだからね〜
++[FID:28, TEXT:00C0] 
++[FID:28, TEXT:00C1] 
++[FID:28, TEXT:00C2] 
+
+--- Group [left:主人公 next=0023] ---
+フィズちゃんの
+質問責めですね・・・
++[FID:28, TEXT:00C3] 
++[FID:28, TEXT:00C4] 
+
+--- Group [left:主人公 next=2012] ---
+あはははっ
+お姉ちゃんもそう思う
+よねえ
++[FID:28, TEXT:00C5] 
++[FID:28, TEXT:00C6] 
++[FID:28, TEXT:00C7] 
+
+--- Group [right:none next=2012] ---
+でしょ、でしょー？
++[FID:28, TEXT:00C8] 
+
+--- Group [left:主人公 next=2012] ---
+ありゃりゃ
+すっかり和んでるよ
++[FID:28, TEXT:00C9] 
++[FID:28, TEXT:00CA] 
+
+--- Group [left:主人公 next=0023] ---
+ああ、すっかり仲良く
+なったみたいだな
++[FID:28, TEXT:00CB] 
++[FID:28, TEXT:00CC] 
+
+--- Group [left:主人公 next=0023] ---
+すっかり和んでいる
+みたいですね・・・
++[FID:28, TEXT:00CD] 
++[FID:28, TEXT:00CE] 
+
+--- Group [left:主人公 next=2012] ---
+お姉ちゃん、
+そんなんじゃダメだよ
+男なんてのは・・・
++[FID:28, TEXT:00CF] 
++[FID:28, TEXT:00D0] 
++[FID:28, TEXT:00D1] 
+
+--- Group [right:none next=2012] ---
+は、はあ・・・
++[FID:28, TEXT:00D2] 
+
+--- Group [left:主人公 next=2012] ---
+うわ
+なんだかすごいことに
+なってる・・・？
++[FID:28, TEXT:00D3] 
++[FID:28, TEXT:00D4] 
++[FID:28, TEXT:00D5] 
+
+--- Group [left:主人公 next=0023] ---
+うーん、ある意味では
+すごい光景のような
+気もする・・・
++[FID:28, TEXT:00D6] 
++[FID:28, TEXT:00D7] 
++[FID:28, TEXT:00D8] 
+
+--- Group [left:主人公 next=0023] ---
+クラレットったら
+相当困ってるなぁ
+巻き込まれないうちに
 ・・・
++[FID:28, TEXT:00D9] 
++[FID:28, TEXT:00DA] 
++[FID:28, TEXT:00DB] 
 +[FID:28, TEXT:00DC] 
 
 --- Group [left:主人公 next=0023] ---
@@ -642,7 +772,7 @@
 +[FID:28, TEXT:00DD] 
 +[FID:28, TEXT:00DE] 
 
---- Group [left:主人公 next=0023] ---
+--- Group [left:none next=0023] ---
 それだけ働いてると、
 肩こったりしない？
 +[FID:28, TEXT:00DF] 
@@ -660,7 +790,7 @@
 +[FID:28, TEXT:00E3] 
 +[FID:28, TEXT:00E4] 
 
---- Group [left:none next=2012] ---
+--- Group [left:主人公 next=2012] ---
 いつも見ててさ、
 思うんだけど・・・
 +[FID:28, TEXT:00E5] 
@@ -672,13 +802,13 @@
 +[FID:28, TEXT:00E7] 
 -[FID:28, TEXT:00E0] 
 
---- Group [left:主人公 next=2012] ---
+--- Group [left:none next=2012] ---
 いつも見てて思うん
 ですけれど・・・
 +[FID:28, TEXT:00E8] 
 +[FID:28, TEXT:00E9] 
 
---- Group [left:主人公 next=0023] ---
+--- Group [left:none next=0023] ---
 そんなに働いていて、
 肩こりませんか？
 +[FID:28, TEXT:00EA] 
@@ -692,11 +822,11 @@
 +[FID:28, TEXT:00ED] 
 +[FID:28, TEXT:00EE] 
 
---- Group [left:主人公 next=0023] ---
+--- Group [left:none next=0023] ---
 あわわっ！
 +[FID:28, TEXT:00EF] 
 
---- Group [left:主人公 next=0023] ---
+--- Group [left:none next=0023] ---
 あ、いや・・・
 +[FID:28, TEXT:00F0] 
 
@@ -718,13 +848,13 @@
 +[FID:28, TEXT:00F5] 
 +[FID:28, TEXT:00F6] 
 
---- Group [left:主人公 next=0023] ---
+--- Group [left:none next=0023] ---
 え・・・ってことは、
 同い年なんだ？
 +[FID:28, TEXT:00F7] 
 +[FID:28, TEXT:00F8] 
 
---- Group [left:主人公 next=0023] ---
+--- Group [left:none next=0023] ---
 ああ・・・それじゃ、
 同い年だったんだ
 +[FID:28, TEXT:00F9] 
@@ -736,23 +866,23 @@
 +[FID:28, TEXT:00FB] 
 +[FID:28, TEXT:00FC] 
 
---- Group [left:主人公 next=0023] ---
+--- Group [left:none next=0023] ---
 え・・・
 同い年なんですね
 +[FID:28, TEXT:00FD] 
 +[FID:28, TEXT:00FE] 
 
---- Group [right:none next=2012] ---
+--- Group [right:伊利亚斯 next=2012] ---
 あ、そうなんだ！？
 私はてっきり・・・
 +[FID:28, TEXT:00FF] 
 +[FID:28, TEXT:0100] 
 
---- Group [left:主人公 next=0023] ---
+--- Group [left:none next=0023] ---
 てっきり？
 +[FID:28, TEXT:0101] 
 
---- Group [left:主人公 next=0023] ---
+--- Group [left:none next=0023] ---
 てっきり
 ・・・なんですか？
 +[FID:28, TEXT:0102] 
@@ -764,7 +894,7 @@
 +[FID:28, TEXT:0104] 
 +[FID:28, TEXT:0105] 
 
---- Group [left:主人公 next=0023] ---
+--- Group [left:none next=0023] ---
 やっぱり・・・
 +[FID:28, TEXT:0106] 
 
@@ -876,15 +1006,15 @@
 
 --- Group [left:主人公 next=0023] ---
 あれは・・・
-オプテュスの連中だ！
+オプテュスの人たち？
 +[FID:28, TEXT:0128] 
-+[FID:28, TEXT:0129] 
++[FID:28, TEXT:012D] 
 
 --- Group [left:主人公 next=0023] ---
 あれは・・・
-オプテュスの人たち？
+オプテュスの連中だ！
 -[FID:28, TEXT:0128] 
-+[FID:28, TEXT:012D] 
++[FID:28, TEXT:0129] 
 
 --- Group [left:主人公 next=0023] ---
 あれ・・・
@@ -900,8 +1030,14 @@
 
 --- Group [left:主人公 next=0023] ---
 ん？
-へんな音がする・・・
+なんの音だ？
 +[FID:28, TEXT:012F] 
++[FID:28, TEXT:0131] 
+
+--- Group [left:主人公 next=0023] ---
+ん？
+へんな音がする・・・
+-[FID:28, TEXT:012F] 
 +[FID:28, TEXT:0132] 
 
 --- Group [left:主人公 next=0023] ---
@@ -911,15 +1047,15 @@
 +[FID:28, TEXT:0130] 
 
 --- Group [left:主人公 next=0023] ---
-ん？
-なんの音だ？
--[FID:28, TEXT:012F] 
-+[FID:28, TEXT:0131] 
+　音のでどころを探す
+　イヤな予感がする
++[FID:28, TEXT:0134] 
++[FID:28, TEXT:0138] 
 
 --- Group [left:主人公 next=0023] ---
 　音のでどころを探す
 　イヤな予感がするぞ
-+[FID:28, TEXT:0134] 
+-[FID:28, TEXT:0134] 
 +[FID:28, TEXT:0135] 
 
 --- Group [left:主人公 next=0023] ---
@@ -927,12 +1063,6 @@
 　イヤな予感がするなぁ
 -[FID:28, TEXT:0134] 
 +[FID:28, TEXT:0137] 
-
---- Group [left:主人公 next=0023] ---
-　音のでどころを探す
-　イヤな予感がする
--[FID:28, TEXT:0134] 
-+[FID:28, TEXT:0138] 
 
 --- Group [left:主人公 next=0023] ---
 　音のでどころを探す
@@ -1000,9 +1130,9 @@
 
 --- Group [left:主人公 next=0023] ---
 よかった
-もう大丈夫そうだ
+もう大丈夫みたい
 +[FID:28, TEXT:014B] 
-+[FID:28, TEXT:014C] 
++[FID:28, TEXT:014D] 
 
 --- Group [left:主人公 next=0023] ---
 よかった
@@ -1012,9 +1142,9 @@
 
 --- Group [left:主人公 next=0023] ---
 よかった
-もう大丈夫みたい
+もう大丈夫そうだ
 -[FID:28, TEXT:014B] 
-+[FID:28, TEXT:014D] 
++[FID:28, TEXT:014C] 
 
 --- Group [right:鼬 next=2012] ---
 わしゃ肺が悪くてな
@@ -1070,15 +1200,15 @@
 
 --- Group [left:主人公 next=0023] ---
 あ、@ n 
-っていいます
+っていいますけど
 +[FID:28, TEXT:015F] 
-+[FID:28, TEXT:0163] 
++[FID:28, TEXT:0160] 
 
 --- Group [left:主人公 next=0023] ---
 あ、@ n 
-っていいますけど
+っていいます
 -[FID:28, TEXT:015F] 
-+[FID:28, TEXT:0160] 
++[FID:28, TEXT:0163] 
 
 --- Group [left:主人公 next=0023] ---
 ああ、@ n 
@@ -1106,31 +1236,31 @@
 
 --- Group [left:主人公 next=0023] ---
 ええ、おじいさんも
-元気で、ね！
-+[FID:28, TEXT:016A] 
-+[FID:28, TEXT:016C] 
-
---- Group [left:主人公 next=0023] ---
-ええ、おじいさんも
 お元気で
--[FID:28, TEXT:016A] 
++[FID:28, TEXT:016A] 
 +[FID:28, TEXT:016B] 
 
 --- Group [left:主人公 next=0023] ---
-なんだかイヤな予感が
-するな・・・早いとこ
-立ち去ろう
-+[FID:28, TEXT:016D] 
-+[FID:28, TEXT:016E] 
-+[FID:28, TEXT:016F] 
+ええ、おじいさんも
+元気で、ね！
+-[FID:28, TEXT:016A] 
++[FID:28, TEXT:016C] 
 
 --- Group [left:主人公 next=0023] ---
 なんだかイヤな予感が
 するなぁ・・・
 さっさと帰ろう・・・
--[FID:28, TEXT:016D] 
++[FID:28, TEXT:016D] 
 +[FID:28, TEXT:0171] 
 +[FID:28, TEXT:0172] 
+
+--- Group [left:主人公 next=0023] ---
+なんだかイヤな予感が
+するな・・・早いとこ
+立ち去ろう
+-[FID:28, TEXT:016D] 
++[FID:28, TEXT:016E] 
++[FID:28, TEXT:016F] 
 
 --- Group [left:主人公 next=0023] ---
 なんだかイヤな予感が
@@ -1164,31 +1294,31 @@
 
 --- Group [left:主人公 next=2012] ---
 でも、どうして辞めて
-しまったんだろう？
+しまったのでしょうか
 +[FID:28, TEXT:0179] 
-+[FID:28, TEXT:017A] 
++[FID:28, TEXT:0183] 
 
 --- Group [left:主人公 next=2012] ---
 でも、どうして辞めて
-しまったのでしょうか
+しまったんだろう？
 -[FID:28, TEXT:0179] 
-+[FID:28, TEXT:0183] 
-
---- Group [left:主人公 next=0023] ---
-あのイムランっていう
-召喚師となんか関係が
-あるのかな？
-+[FID:28, TEXT:017B] 
-+[FID:28, TEXT:0181] 
-+[FID:28, TEXT:0182] 
++[FID:28, TEXT:017A] 
 
 --- Group [left:主人公 next=0023] ---
 あのイムランっていう
 召喚師が、関係してる
 んだろうか？
--[FID:28, TEXT:017B] 
++[FID:28, TEXT:017B] 
 +[FID:28, TEXT:017C] 
 +[FID:28, TEXT:017D] 
+
+--- Group [left:主人公 next=0023] ---
+あのイムランっていう
+召喚師となんか関係が
+あるのかな？
+-[FID:28, TEXT:017B] 
++[FID:28, TEXT:0181] 
++[FID:28, TEXT:0182] 
 
 --- Group [left:主人公 next=2012] ---
 でも、どうして辞め
@@ -1282,17 +1412,17 @@
 
 --- Group [left:主人公 next=0023] ---
 また、魚でも釣って
-みるかな？
+リプレを喜ばせて
+やろうかな？
 +[FID:28, TEXT:01A0] 
-+[FID:28, TEXT:01A3] 
++[FID:28, TEXT:01A1] 
++[FID:28, TEXT:01A2] 
 
 --- Group [left:主人公 next=0023] ---
 また、魚でも釣って
-リプレを喜ばせて
-やろうかな？
+みるかな？
 -[FID:28, TEXT:01A0] 
-+[FID:28, TEXT:01A1] 
-+[FID:28, TEXT:01A2] 
++[FID:28, TEXT:01A3] 
 
 --- Group [left:主人公 next=0023] ---
 うーん
@@ -1334,7 +1464,7 @@
 +[FID:28, TEXT:01B9] 
 +[FID:28, TEXT:01BA] 
 
---- Group [right:伊利亚斯 next=2012] ---
+--- Group [right:none next=2012] ---
 また何か釣れた時は
 私のところに
 もってきてね

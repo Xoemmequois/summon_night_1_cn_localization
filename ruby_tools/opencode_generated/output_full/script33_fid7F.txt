@@ -45,14 +45,14 @@
 [FID:7F, TEXT:0008] は結界を壊そうとして
 [FID:7F, TEXT:001A] るっていうのか？
 
---- Group 11 [left:char_0004 next=0023] ---
+--- Group 11 [left:char_001E next=2012] ---
+[FID:7F, TEXT:001B] そんなことして
+[FID:7F, TEXT:001C] 何の得があるんだ！？
+
+--- Group 12 [left:char_0004 next=0023] ---
 [FID:7F, TEXT:001B] そんなことして
 [FID:7F, TEXT:002C] なんの得にもならない
 [FID:7F, TEXT:002D] じゃないですか・・・
-
---- Group 12 [left:char_001E next=2012] ---
-[FID:7F, TEXT:001B] そんなことして
-[FID:7F, TEXT:001C] 何の得があるんだ！？
 
 --- Group 13 [left:char_0004 next=0023] ---
 [FID:7F, TEXT:001D] そうだよ
@@ -78,35 +78,68 @@
 [FID:7F, TEXT:002A] この世界が滅びるかも
 [FID:7F, TEXT:002B] しれないのに！
 
---- Group 17 [right:char_0008 next=2012] ---
+--- Group 17 [right:char_000A next=2012] ---
 [FID:7F, TEXT:002E] 滅ぼす気でいると
 [FID:7F, TEXT:002F] したら？
 
---- Group 18 [left:char_0004 next=0023] ---
+--- Group 18 [right:char_0009 next=2012] ---
+[FID:7F, TEXT:002E] 滅ぼす気でいると
+[FID:7F, TEXT:002F] したら？
+
+--- Group 19 [right:char_000B next=2012] ---
+[FID:7F, TEXT:002E] 滅ぼす気でいると
+[FID:7F, TEXT:002F] したら？
+
+--- Group 20 [right:char_0008 next=2012] ---
+[FID:7F, TEXT:002E] 滅ぼす気でいると
+[FID:7F, TEXT:002F] したら？
+
+--- Group 21 [left:char_0004 next=0023] ---
 [FID:7F, TEXT:0030] ・・・！？
 
---- Group 19 [left:char_0004 next=0023] ---
+--- Group 22 [left:char_0004 next=0023] ---
+[FID:7F, TEXT:0030] ・・・！？
+
+--- Group 23 [left:char_0004 next=0023] ---
+[FID:7F, TEXT:0030] ・・・！？
+
+--- Group 24 [left:char_0004 next=0023] ---
+[FID:7F, TEXT:0030] ・・・！？
+
+--- Group 25 [left:char_0004 next=0023] ---
 [FID:7F, TEXT:0031] ちょっと！
 [FID:7F, TEXT:0032] どういう・・・！？
 
---- Group 20 [left:char_0004 next=0023] ---
+--- Group 26 [left:char_0004 next=0023] ---
 [FID:7F, TEXT:0033] え・・・？
 
---- Group 21 [left:char_001C next=2012] ---
+--- Group 27 [left:char_001C next=2012] ---
 [FID:7F, TEXT:0034] 馬鹿な・・・
 [FID:7F, TEXT:0035] いくらなんでも・・・
 
---- Group 22 [right:char_0013 next=2012] ---
+--- Group 28 [left:char_001C next=2012] ---
+[FID:7F, TEXT:0034] 馬鹿な・・・
+[FID:7F, TEXT:0035] いくらなんでも・・・
+
+--- Group 29 [left:char_001C next=2012] ---
+[FID:7F, TEXT:0034] 馬鹿な・・・
+[FID:7F, TEXT:0035] いくらなんでも・・・
+
+--- Group 30 [left:char_001C next=2012] ---
+[FID:7F, TEXT:0034] 馬鹿な・・・
+[FID:7F, TEXT:0035] いくらなんでも・・・
+
+--- Group 31 [right:char_0013 next=2012] ---
 [FID:7F, TEXT:0036] ケッ！
 [FID:7F, TEXT:0037] 奴らが何を企んでいよ
 [FID:7F, TEXT:0038] うが、宝玉を取り返せ
 [FID:7F, TEXT:0039] ば問題ねえさ
 
---- Group 23 [right:char_0013 next=2012] ---
+--- Group 32 [right:char_0013 next=2012] ---
 [FID:7F, TEXT:003A] 早いとこ、バノッサの
 [FID:7F, TEXT:003B] いる城へ行こうぜ！！
 
---- Group 24 [right:char_0013 next=0026] ---
+--- Group 33 [right:char_0013 next=0026] ---
 [FID:7F, TEXT:003C] 【自分の部屋】
 [FID:7F, TEXT:0000] 
 [FID:7F, TEXT:0000] 

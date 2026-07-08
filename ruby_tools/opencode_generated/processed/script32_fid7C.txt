@@ -1,20 +1,20 @@
 --- Group [left:none next=2012] ---
 アカネと出会ったのは
-ここでぶつかったのが
-はじまりだっけ
-+[FID:7C, TEXT:0001] 
-+[FID:7C, TEXT:0008] 
-+[FID:7C, TEXT:0009] 
-
---- Group [left:none next=2012] ---
-アカネと出会ったのは
 ここで正面衝突をした
 のがきっかけだったな
--[FID:7C, TEXT:0001] 
++[FID:7C, TEXT:0001] 
 +[FID:7C, TEXT:0002] 
 +[FID:7C, TEXT:0003] 
 
 --- Group [left:none next=2012] ---
+アカネと出会ったのは
+ここでぶつかったのが
+はじまりだっけ
+-[FID:7C, TEXT:0001] 
++[FID:7C, TEXT:0008] 
++[FID:7C, TEXT:0009] 
+
+--- Group [left:主人公 next=2012] ---
 ・・・・・・
 +[FID:7C, TEXT:0004] 
 
@@ -76,15 +76,15 @@
 
 --- Group [left:none next=0023] ---
 あれ、もしかすると
-アカネは・・・
+アカネってば
 +[FID:7C, TEXT:001A] 
-+[FID:7C, TEXT:001C] 
++[FID:7C, TEXT:001B] 
 
 --- Group [left:none next=0023] ---
 あれ、もしかすると
-アカネってば
+アカネは・・・
 -[FID:7C, TEXT:001A] 
-+[FID:7C, TEXT:001B] 
++[FID:7C, TEXT:001C] 
 
 --- Group [left:none next=0023] ---
 あれっ？
@@ -224,7 +224,7 @@
 +[FID:7C, TEXT:0046] 
 +[FID:7C, TEXT:0047] 
 
---- Group [right:主人公 next=0023] ---
+--- Group [left:none next=0023] ---
 アカネ・・・
 +[FID:7C, TEXT:0048] 
 
@@ -288,15 +288,11 @@
 わ、わかってるって！
 +[FID:7C, TEXT:005B] 
 
---- Group [left:茜 next=2012] ---
-お、お師匠・・・
-+[FID:7C, TEXT:005C] 
-
 --- Group [right:none next=2012] ---
 お、お師匠・・・
 アカネ、ただいま戻り
 ましたぁっ！
--[FID:7C, TEXT:005C] 
++[FID:7C, TEXT:005C] 
 +[FID:7C, TEXT:005D] 
 +[FID:7C, TEXT:005E] 
 
@@ -322,22 +318,22 @@
 
 --- Group [left:主人公 next=0023] ---
 彼女が帰れなかったの
-は、あたしたちを手伝
-ってくれていたから
+は、僕たちの手伝いを
+してくれていたから
 なんです
 +[FID:7C, TEXT:0066] 
-+[FID:7C, TEXT:006B] 
-+[FID:7C, TEXT:006C] 
++[FID:7C, TEXT:006A] 
++[FID:7C, TEXT:0068] 
 +[FID:7C, TEXT:0069] 
 
 --- Group [left:主人公 next=0023] ---
 彼女が帰れなかったの
-は、僕たちの手伝いを
-してくれていたから
+は、あたしたちを手伝
+ってくれていたから
 なんです
 -[FID:7C, TEXT:0066] 
-+[FID:7C, TEXT:006A] 
-+[FID:7C, TEXT:0068] 
++[FID:7C, TEXT:006B] 
++[FID:7C, TEXT:006C] 
 -[FID:7C, TEXT:0069] 
 
 --- Group [left:主人公 next=0023] ---
@@ -430,15 +426,15 @@
 
 --- Group [left:主人公 next=0023] ---
 シオンさん・・・
-知ってたんですか？
--[FID:7C, TEXT:0084] 
-+[FID:7C, TEXT:0085] 
-
---- Group [left:主人公 next=0023] ---
-シオンさん・・・
 知ってらしたんですか
 -[FID:7C, TEXT:0084] 
 +[FID:7C, TEXT:0087] 
+
+--- Group [left:主人公 next=0023] ---
+シオンさん・・・
+知ってたんですか？
+-[FID:7C, TEXT:0084] 
++[FID:7C, TEXT:0085] 
 
 --- Group [right:none next=2012] ---
 出かけるたびに生傷が
@@ -480,23 +476,13 @@
 
 --- Group [left:主人公 next=0023] ---
 待ってください！
-アカネはただ、僕たち
-を助けようとして
-くれただけで・・・
-+[FID:7C, TEXT:0096] 
-+[FID:7C, TEXT:009A] 
-+[FID:7C, TEXT:0098] 
-+[FID:7C, TEXT:0099] 
-
---- Group [left:主人公 next=0023] ---
-待ってください！
 アカネはただ、俺たち
 を助けようとして
 くれただけで・・・
--[FID:7C, TEXT:0096] 
++[FID:7C, TEXT:0096] 
 +[FID:7C, TEXT:0097] 
--[FID:7C, TEXT:0098] 
--[FID:7C, TEXT:0099] 
++[FID:7C, TEXT:0098] 
++[FID:7C, TEXT:0099] 
 
 --- Group [left:主人公 next=0023] ---
 待ってください！
@@ -507,6 +493,16 @@
 +[FID:7C, TEXT:009F] 
 +[FID:7C, TEXT:009D] 
 +[FID:7C, TEXT:009E] 
+
+--- Group [left:主人公 next=0023] ---
+待ってください！
+アカネはただ、僕たち
+を助けようとして
+くれただけで・・・
+-[FID:7C, TEXT:0096] 
++[FID:7C, TEXT:009A] 
+-[FID:7C, TEXT:0098] 
+-[FID:7C, TEXT:0099] 
 
 --- Group [left:主人公 next=0023] ---
 ちょっと待ってよ！

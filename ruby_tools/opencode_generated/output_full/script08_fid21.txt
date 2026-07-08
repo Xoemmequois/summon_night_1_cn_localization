@@ -16,33 +16,34 @@
 --- Group 6 [left:char_0004 next=0023] ---
 [FID:21, TEXT:0002] いい気持ちだな
 
---- Group 7 [left:char_0004 next=0023] ---
+--- Group 7 [left:none next=0023] ---
 [FID:21, TEXT:0003] いい気持ち〜
 
 --- Group 8 [left:none next=0023] ---
 [FID:21, TEXT:0003] いい気持ち〜
 
---- Group 9 [left:none next=0023] ---
+--- Group 9 [left:char_0004 next=0023] ---
 [FID:21, TEXT:0003] いい気持ち〜
 
---- Group 10 [left:char_0004 next=0023] ---
+--- Group 10 [left:none next=0023] ---
 [FID:21, TEXT:0004] いい気持ちですね
 
 --- Group 11 [left:none next=0023] ---
 [FID:21, TEXT:0004] いい気持ちですね
 
---- Group 12 [left:none next=0023] ---
+--- Group 12 [left:char_0004 next=0023] ---
 [FID:21, TEXT:0004] いい気持ちですね
 
---- Group 13 [left:none next=0023] ---
+--- Group 13 [right:char_001D next=2012] ---
 [FID:21, TEXT:0005] ああ・・・
-[FID:21, TEXT:000E] でも、どうして？
+[FID:21, TEXT:0006] ワシはこの季節が一番
+[FID:21, TEXT:0007] 好きなんだよ
 
 --- Group 14 [left:none next=0023] ---
 [FID:21, TEXT:0005] ああ・・・
 [FID:21, TEXT:000E] でも、どうして？
 
---- Group 15 [right:char_001D next=2012] ---
+--- Group 15 [right:none next=2012] ---
 [FID:21, TEXT:0005] ああ・・・
 [FID:21, TEXT:0006] ワシはこの季節が一番
 [FID:21, TEXT:0007] 好きなんだよ
@@ -52,28 +53,27 @@
 [FID:21, TEXT:0006] ワシはこの季節が一番
 [FID:21, TEXT:0007] 好きなんだよ
 
---- Group 17 [right:none next=2012] ---
-[FID:21, TEXT:0005] ああ・・・
-[FID:21, TEXT:0006] ワシはこの季節が一番
-[FID:21, TEXT:0007] 好きなんだよ
-
---- Group 18 [left:char_0004 next=0023] ---
+--- Group 17 [left:char_0004 next=0023] ---
 [FID:21, TEXT:0005] ああ・・・
 [FID:21, TEXT:000E] でも、どうして？
 
---- Group 19 [right:none next=2012] ---
+--- Group 18 [left:none next=0023] ---
+[FID:21, TEXT:0005] ああ・・・
+[FID:21, TEXT:000E] でも、どうして？
+
+--- Group 19 [right:char_001D next=2012] ---
 [FID:21, TEXT:0008] 風の匂いをかいでみな
 
---- Group 20 [right:char_001D next=2012] ---
+--- Group 20 [right:none next=2012] ---
 [FID:21, TEXT:0008] 風の匂いをかいでみな
 
 --- Group 21 [right:none next=2012] ---
 [FID:21, TEXT:0008] 風の匂いをかいでみな
 
---- Group 22 [left:none next=2012] ---
+--- Group 22 [left:char_0004 next=2012] ---
 [FID:21, TEXT:0009] ・・・あれ？
 
---- Group 23 [left:char_0004 next=2012] ---
+--- Group 23 [left:none next=2012] ---
 [FID:21, TEXT:0009] ・・・あれ？
 
 --- Group 24 [left:none next=2012] ---
@@ -84,12 +84,12 @@
 [FID:21, TEXT:000B] ほんのちょっぴりだけ
 [FID:21, TEXT:000C] 甘い匂いがするだろう
 
---- Group 26 [right:none next=2012] ---
+--- Group 26 [right:char_001D next=2012] ---
 [FID:21, TEXT:000A] どうだ？
 [FID:21, TEXT:000B] ほんのちょっぴりだけ
 [FID:21, TEXT:000C] 甘い匂いがするだろう
 
---- Group 27 [right:char_001D next=2012] ---
+--- Group 27 [right:none next=2012] ---
 [FID:21, TEXT:000A] どうだ？
 [FID:21, TEXT:000B] ほんのちょっぴりだけ
 [FID:21, TEXT:000C] 甘い匂いがするだろう
@@ -118,12 +118,12 @@
 [FID:21, TEXT:000F] ほれ、あそこの土手に
 [FID:21, TEXT:0010] 咲いている花の香りさ
 
---- Group 34 [right:char_001D next=2012] ---
+--- Group 34 [right:none next=2012] ---
 [FID:21, TEXT:0011] アルサックって名前で
 [FID:21, TEXT:0012] な、今がちょうど
 [FID:21, TEXT:0013] 満開の季節になるんだ
 
---- Group 35 [right:none next=2012] ---
+--- Group 35 [right:char_001D next=2012] ---
 [FID:21, TEXT:0011] アルサックって名前で
 [FID:21, TEXT:0012] な、今がちょうど
 [FID:21, TEXT:0013] 満開の季節になるんだ
@@ -133,21 +133,21 @@
 [FID:21, TEXT:0012] な、今がちょうど
 [FID:21, TEXT:0013] 満開の季節になるんだ
 
---- Group 37 [left:char_0004 next=0023] ---
+--- Group 37 [left:none next=0023] ---
+[FID:21, TEXT:0014] へえ
+[FID:21, TEXT:0015] 桜みたいだな
+
+--- Group 38 [left:none next=0023] ---
 [FID:21, TEXT:0014] へえ
 [FID:21, TEXT:0018] 桜みたい・・・
 
---- Group 38 [left:char_0004 next=0023] ---
+--- Group 39 [left:char_0004 next=0023] ---
 [FID:21, TEXT:0014] へえ
 [FID:21, TEXT:0015] 桜みたいだな
 
---- Group 39 [left:none next=0023] ---
+--- Group 40 [left:char_0004 next=0023] ---
 [FID:21, TEXT:0014] へえ
-[FID:21, TEXT:0015] 桜みたいだな
-
---- Group 40 [left:none next=0023] ---
-[FID:21, TEXT:0014] へえ
-[FID:21, TEXT:0015] 桜みたいだな
+[FID:21, TEXT:0018] 桜みたい・・・
 
 --- Group 41 [left:none next=0023] ---
 [FID:21, TEXT:0014] へえ
@@ -155,9 +155,9 @@
 
 --- Group 42 [left:none next=0023] ---
 [FID:21, TEXT:0014] へえ
-[FID:21, TEXT:0018] 桜みたい・・・
+[FID:21, TEXT:0015] 桜みたいだな
 
---- Group 43 [left:none next=0023] ---
+--- Group 43 [left:char_0004 next=0023] ---
 [FID:21, TEXT:0016] ああ、桜によく似てる
 [FID:21, TEXT:0017] 花だな・・・
 
@@ -165,15 +165,15 @@
 [FID:21, TEXT:0016] ああ、桜によく似てる
 [FID:21, TEXT:0017] 花だな・・・
 
---- Group 45 [left:char_0004 next=0023] ---
+--- Group 45 [left:none next=0023] ---
 [FID:21, TEXT:0016] ああ、桜によく似てる
 [FID:21, TEXT:0017] 花だな・・・
 
---- Group 46 [left:none next=0023] ---
+--- Group 46 [left:char_0004 next=0023] ---
 [FID:21, TEXT:0019] ・・・桜に
 [FID:21, TEXT:001A] 似てるんですね・・・
 
---- Group 47 [left:char_0004 next=0023] ---
+--- Group 47 [left:none next=0023] ---
 [FID:21, TEXT:0019] ・・・桜に
 [FID:21, TEXT:001A] 似てるんですね・・・
 
@@ -181,16 +181,16 @@
 [FID:21, TEXT:0019] ・・・桜に
 [FID:21, TEXT:001A] 似てるんですね・・・
 
---- Group 49 [right:char_001D next=2012] ---
+--- Group 49 [right:none next=2012] ---
 [FID:21, TEXT:001B] サクラ？
 
---- Group 50 [right:none next=2012] ---
+--- Group 50 [right:char_001D next=2012] ---
 [FID:21, TEXT:001B] サクラ？
 
 --- Group 51 [right:none next=2012] ---
 [FID:21, TEXT:001B] サクラ？
 
---- Group 52 [left:char_0004 next=0023] ---
+--- Group 52 [left:none next=0023] ---
 [FID:21, TEXT:001C] よく似た花が俺のいた
 [FID:21, TEXT:001D] 世界にもあるんだよ
 [FID:21, TEXT:001E] 弁当をもって、花見に
@@ -202,13 +202,13 @@
 [FID:21, TEXT:001E] 弁当をもって、花見に
 [FID:21, TEXT:001F] 行ったりしたっけ
 
---- Group 54 [left:none next=0023] ---
+--- Group 54 [left:char_0004 next=0023] ---
 [FID:21, TEXT:001C] よく似た花が俺のいた
 [FID:21, TEXT:001D] 世界にもあるんだよ
 [FID:21, TEXT:001E] 弁当をもって、花見に
 [FID:21, TEXT:001F] 行ったりしたっけ
 
---- Group 55 [left:none next=0023] ---
+--- Group 55 [left:char_0004 next=0023] ---
 [FID:21, TEXT:0020] よく似た花が僕のいた
 [FID:21, TEXT:0021] 世界にもあるのさ
 [FID:21, TEXT:001E] 弁当をもって、花見に
@@ -220,13 +220,13 @@
 [FID:21, TEXT:001E] 弁当をもって、花見に
 [FID:21, TEXT:0022] 行ったりするんだ
 
---- Group 57 [left:char_0004 next=0023] ---
+--- Group 57 [left:none next=0023] ---
 [FID:21, TEXT:0020] よく似た花が僕のいた
 [FID:21, TEXT:0021] 世界にもあるのさ
 [FID:21, TEXT:001E] 弁当をもって、花見に
 [FID:21, TEXT:0022] 行ったりするんだ
 
---- Group 58 [left:none next=0023] ---
+--- Group 58 [left:char_0004 next=0023] ---
 [FID:21, TEXT:0023] うん・・・
 [FID:21, TEXT:0024] あたしの世界の花
 [FID:21, TEXT:001E] 弁当をもって、花見に
@@ -238,7 +238,7 @@
 [FID:21, TEXT:001E] 弁当をもって、花見に
 [FID:21, TEXT:0025] 行ったりするんだよ
 
---- Group 60 [left:char_0004 next=0023] ---
+--- Group 60 [left:none next=0023] ---
 [FID:21, TEXT:0023] うん・・・
 [FID:21, TEXT:0024] あたしの世界の花
 [FID:21, TEXT:001E] 弁当をもって、花見に
@@ -248,20 +248,20 @@
 [FID:21, TEXT:0026] わたしの家の側にも
 [FID:21, TEXT:0027] あったんです・・・
 
---- Group 62 [left:char_0004 next=2012] ---
+--- Group 62 [left:none next=2012] ---
 [FID:21, TEXT:0026] わたしの家の側にも
 [FID:21, TEXT:0027] あったんです・・・
 
---- Group 63 [left:none next=2012] ---
+--- Group 63 [left:char_0004 next=2012] ---
 [FID:21, TEXT:0026] わたしの家の側にも
 [FID:21, TEXT:0027] あったんです・・・
 
---- Group 64 [left:char_0004 next=0023] ---
+--- Group 64 [left:none next=0023] ---
 [FID:21, TEXT:0028] お弁当をもって、
 [FID:21, TEXT:0029] 花見に行ったり
 [FID:21, TEXT:002A] しました
 
---- Group 65 [left:none next=0023] ---
+--- Group 65 [left:char_0004 next=0023] ---
 [FID:21, TEXT:0028] お弁当をもって、
 [FID:21, TEXT:0029] 花見に行ったり
 [FID:21, TEXT:002A] しました
@@ -271,12 +271,12 @@
 [FID:21, TEXT:0029] 花見に行ったり
 [FID:21, TEXT:002A] しました
 
---- Group 67 [right:none next=2012] ---
+--- Group 67 [right:char_001D next=2012] ---
 [FID:21, TEXT:002B] 花見か・・・そういえ
 [FID:21, TEXT:002C] ば、ここ最近はそんな
 [FID:21, TEXT:002D] ことはしとらんなぁ
 
---- Group 68 [right:char_001D next=2012] ---
+--- Group 68 [right:none next=2012] ---
 [FID:21, TEXT:002B] 花見か・・・そういえ
 [FID:21, TEXT:002C] ば、ここ最近はそんな
 [FID:21, TEXT:002D] ことはしとらんなぁ
@@ -286,7 +286,7 @@
 [FID:21, TEXT:002C] ば、ここ最近はそんな
 [FID:21, TEXT:002D] ことはしとらんなぁ
 
---- Group 70 [right:none next=2012] ---
+--- Group 70 [right:char_001D next=2012] ---
 [FID:21, TEXT:002E] よし・・・
 [FID:21, TEXT:002F] 久しぶりにやるか！
 
@@ -294,17 +294,17 @@
 [FID:21, TEXT:002E] よし・・・
 [FID:21, TEXT:002F] 久しぶりにやるか！
 
---- Group 72 [right:char_001D next=2012] ---
+--- Group 72 [right:none next=2012] ---
 [FID:21, TEXT:002E] よし・・・
 [FID:21, TEXT:002F] 久しぶりにやるか！
 
 --- Group 73 [left:none next=0023] ---
 [FID:21, TEXT:0030] ええっ？
 
---- Group 74 [left:none next=0023] ---
+--- Group 74 [left:char_0004 next=0023] ---
 [FID:21, TEXT:0030] ええっ？
 
---- Group 75 [left:char_0004 next=0023] ---
+--- Group 75 [left:none next=0023] ---
 [FID:21, TEXT:0030] ええっ？
 
 --- Group 76 [left:char_0004 next=0023] ---
@@ -319,10 +319,10 @@
 --- Group 79 [left:none next=0023] ---
 [FID:21, TEXT:0032] ほんとに！？
 
---- Group 80 [left:char_0004 next=0023] ---
+--- Group 80 [left:none next=0023] ---
 [FID:21, TEXT:0032] ほんとに！？
 
---- Group 81 [left:none next=0023] ---
+--- Group 81 [left:char_0004 next=0023] ---
 [FID:21, TEXT:0032] ほんとに！？
 
 --- Group 82 [left:none next=0023] ---
@@ -334,7 +334,7 @@
 --- Group 84 [left:none next=0023] ---
 [FID:21, TEXT:0033] ・・・え？
 
---- Group 85 [right:char_001D next=0023] ---
+--- Group 85 [right:none next=0023] ---
 [FID:21, TEXT:0034] ソルの
 
 --- Group 86 [right:char_0014 next=0023] ---
@@ -343,183 +343,219 @@
 --- Group 87 [right:none next=0023] ---
 [FID:21, TEXT:0034] ソルの
 
---- Group 88 [right:none next=0023] ---
+--- Group 88 [right:char_001D next=0023] ---
 [FID:21, TEXT:0034] ソルの
 
---- Group 89 [right:none next=2012] ---
-[FID:21, TEXT:0038] 歓迎会もかねてな、
-[FID:21, TEXT:0039] たまにはパッと騒ぐ
-[FID:21, TEXT:003A] のも悪くなかろう
+--- Group 89 [right:none next=0023] ---
+[FID:21, TEXT:0035] キールの
 
---- Group 90 [right:char_001D next=2012] ---
-[FID:21, TEXT:0038] 歓迎会もかねてな、
-[FID:21, TEXT:0039] たまにはパッと騒ぐ
-[FID:21, TEXT:003A] のも悪くなかろう
+--- Group 90 [right:char_001D next=0023] ---
+[FID:21, TEXT:0035] キールの
 
---- Group 91 [right:char_0014 next=2012] ---
-[FID:21, TEXT:0038] 歓迎会もかねてな、
-[FID:21, TEXT:0039] たまにはパッと騒ぐ
-[FID:21, TEXT:003A] のも悪くなかろう
+--- Group 91 [right:char_0014 next=0023] ---
+[FID:21, TEXT:0035] キールの
 
---- Group 92 [right:none next=2012] ---
-[FID:21, TEXT:0038] 歓迎会もかねてな、
-[FID:21, TEXT:0039] たまにはパッと騒ぐ
-[FID:21, TEXT:003A] のも悪くなかろう
+--- Group 92 [right:none next=0023] ---
+[FID:21, TEXT:0035] キールの
 
---- Group 93 [left:none next=0023] ---
-[FID:21, TEXT:003B] は、はあ
+--- Group 93 [right:none next=0023] ---
+[FID:21, TEXT:0036] カシスの
 
---- Group 94 [left:char_0004 next=0023] ---
-[FID:21, TEXT:003B] は、はあ
+--- Group 94 [right:char_0014 next=0023] ---
+[FID:21, TEXT:0036] カシスの
 
---- Group 95 [left:char_0004 next=0023] ---
-[FID:21, TEXT:003B] は、はあ
+--- Group 95 [right:none next=0023] ---
+[FID:21, TEXT:0036] カシスの
 
---- Group 96 [left:none next=0023] ---
-[FID:21, TEXT:003B] は、はあ
+--- Group 96 [right:char_001D next=0023] ---
+[FID:21, TEXT:0036] カシスの
 
---- Group 97 [left:char_0004 next=0023] ---
-[FID:21, TEXT:003C] は、はあ・・・
+--- Group 97 [right:none next=0023] ---
+[FID:21, TEXT:0037] クラレットの
 
---- Group 98 [left:none next=0023] ---
-[FID:21, TEXT:003C] は、はあ・・・
+--- Group 98 [right:none next=0023] ---
+[FID:21, TEXT:0037] クラレットの
 
---- Group 99 [left:none next=0023] ---
-[FID:21, TEXT:003C] は、はあ・・・
+--- Group 99 [right:char_001D next=0023] ---
+[FID:21, TEXT:0037] クラレットの
 
---- Group 100 [right:char_001D next=2012] ---
-[FID:21, TEXT:003D] そうと決まったら、
-[FID:21, TEXT:003E] さっそく準備と行こう
-[FID:21, TEXT:003F] @ n 
-[FID:21, TEXT:0040] 帰るぞ！
+--- Group 100 [right:char_0014 next=0023] ---
+[FID:21, TEXT:0037] クラレットの
 
 --- Group 101 [right:none next=2012] ---
-[FID:21, TEXT:003D] そうと決まったら、
-[FID:21, TEXT:003E] さっそく準備と行こう
-[FID:21, TEXT:003F] @ n 
-[FID:21, TEXT:0040] 帰るぞ！
+[FID:21, TEXT:0038] 歓迎会もかねてな、
+[FID:21, TEXT:0039] たまにはパッと騒ぐ
+[FID:21, TEXT:003A] のも悪くなかろう
 
 --- Group 102 [right:none next=2012] ---
-[FID:21, TEXT:003D] そうと決まったら、
-[FID:21, TEXT:003E] さっそく準備と行こう
-[FID:21, TEXT:003F] @ n 
-[FID:21, TEXT:0040] 帰るぞ！
+[FID:21, TEXT:0038] 歓迎会もかねてな、
+[FID:21, TEXT:0039] たまにはパッと騒ぐ
+[FID:21, TEXT:003A] のも悪くなかろう
 
 --- Group 103 [right:char_0014 next=2012] ---
+[FID:21, TEXT:0038] 歓迎会もかねてな、
+[FID:21, TEXT:0039] たまにはパッと騒ぐ
+[FID:21, TEXT:003A] のも悪くなかろう
+
+--- Group 104 [right:char_001D next=2012] ---
+[FID:21, TEXT:0038] 歓迎会もかねてな、
+[FID:21, TEXT:0039] たまにはパッと騒ぐ
+[FID:21, TEXT:003A] のも悪くなかろう
+
+--- Group 105 [left:char_0004 next=0023] ---
+[FID:21, TEXT:003B] は、はあ
+
+--- Group 106 [left:none next=0023] ---
+[FID:21, TEXT:003B] は、はあ
+
+--- Group 107 [left:char_0004 next=0023] ---
+[FID:21, TEXT:003B] は、はあ
+
+--- Group 108 [left:none next=0023] ---
+[FID:21, TEXT:003B] は、はあ
+
+--- Group 109 [left:char_0004 next=0023] ---
+[FID:21, TEXT:003C] は、はあ・・・
+
+--- Group 110 [left:none next=0023] ---
+[FID:21, TEXT:003C] は、はあ・・・
+
+--- Group 111 [left:none next=0023] ---
+[FID:21, TEXT:003C] は、はあ・・・
+
+--- Group 112 [right:none next=2012] ---
 [FID:21, TEXT:003D] そうと決まったら、
 [FID:21, TEXT:003E] さっそく準備と行こう
 [FID:21, TEXT:003F] @ n 
 [FID:21, TEXT:0040] 帰るぞ！
 
---- Group 104 [left:char_0004 next=0023] ---
+--- Group 113 [right:none next=2012] ---
+[FID:21, TEXT:003D] そうと決まったら、
+[FID:21, TEXT:003E] さっそく準備と行こう
+[FID:21, TEXT:003F] @ n 
+[FID:21, TEXT:0040] 帰るぞ！
+
+--- Group 114 [right:char_0014 next=2012] ---
+[FID:21, TEXT:003D] そうと決まったら、
+[FID:21, TEXT:003E] さっそく準備と行こう
+[FID:21, TEXT:003F] @ n 
+[FID:21, TEXT:0040] 帰るぞ！
+
+--- Group 115 [right:char_001D next=2012] ---
+[FID:21, TEXT:003D] そうと決まったら、
+[FID:21, TEXT:003E] さっそく準備と行こう
+[FID:21, TEXT:003F] @ n 
+[FID:21, TEXT:0040] 帰るぞ！
+
+--- Group 116 [left:none next=0023] ---
 [FID:21, TEXT:0041] あ、ちょっと待てよ
 [FID:21, TEXT:0042] エドスってば！
 
---- Group 105 [left:char_0004 next=0023] ---
+--- Group 117 [left:char_0004 next=0023] ---
 [FID:21, TEXT:0041] あ、ちょっと待てよ
 [FID:21, TEXT:0042] エドスってば！
 
---- Group 106 [left:none next=0023] ---
+--- Group 118 [left:char_0004 next=0023] ---
 [FID:21, TEXT:0041] あ、ちょっと待てよ
 [FID:21, TEXT:0042] エドスってば！
 
---- Group 107 [left:none next=0023] ---
+--- Group 119 [left:none next=0023] ---
 [FID:21, TEXT:0041] あ、ちょっと待てよ
 [FID:21, TEXT:0042] エドスってば！
 
---- Group 108 [left:char_0004 next=0023] ---
+--- Group 120 [left:char_0004 next=0023] ---
 [FID:21, TEXT:0043] あ、ちょっと・・・
 [FID:21, TEXT:0044] エドス！
 
---- Group 109 [left:none next=0023] ---
+--- Group 121 [left:none next=0023] ---
 [FID:21, TEXT:0043] あ、ちょっと・・・
 [FID:21, TEXT:0044] エドス！
 
---- Group 110 [left:none next=0023] ---
+--- Group 122 [left:none next=0023] ---
 [FID:21, TEXT:0043] あ、ちょっと・・・
 [FID:21, TEXT:0044] エドス！
 
---- Group 111 [left:char_0004 next=0023] ---
+--- Group 123 [left:char_0004 next=0023] ---
 [FID:21, TEXT:0043] あ、ちょっと・・・
 [FID:21, TEXT:0044] エドス！
 
---- Group 112 [left:none next=0023] ---
+--- Group 124 [left:char_0004 next=0023] ---
 [FID:21, TEXT:0045] あ、ちょっと待って
 [FID:21, TEXT:0042] エドスってば！
 
---- Group 113 [left:char_0004 next=0023] ---
+--- Group 125 [left:char_0004 next=0023] ---
 [FID:21, TEXT:0045] あ、ちょっと待って
 [FID:21, TEXT:0042] エドスってば！
 
---- Group 114 [left:none next=0023] ---
+--- Group 126 [left:none next=0023] ---
 [FID:21, TEXT:0045] あ、ちょっと待って
 [FID:21, TEXT:0042] エドスってば！
 
---- Group 115 [left:char_0004 next=0023] ---
+--- Group 127 [left:none next=0023] ---
 [FID:21, TEXT:0045] あ、ちょっと待って
 [FID:21, TEXT:0042] エドスってば！
 
---- Group 116 [left:char_0004 next=0023] ---
+--- Group 128 [left:char_0004 next=0023] ---
 [FID:21, TEXT:0046] あ、待ってください！
 [FID:21, TEXT:0047] エドスさん！
 
---- Group 117 [left:none next=0023] ---
+--- Group 129 [left:char_0004 next=0023] ---
 [FID:21, TEXT:0046] あ、待ってください！
 [FID:21, TEXT:0047] エドスさん！
 
---- Group 118 [left:none next=0023] ---
+--- Group 130 [left:none next=0023] ---
 [FID:21, TEXT:0046] あ、待ってください！
 [FID:21, TEXT:0047] エドスさん！
 
---- Group 119 [left:char_0004 next=0023] ---
+--- Group 131 [left:none next=0023] ---
 [FID:21, TEXT:0046] あ、待ってください！
 [FID:21, TEXT:0047] エドスさん！
 
---- Group 120 [left:char_0013 next=2012] ---
+--- Group 132 [left:char_0013 next=2012] ---
 [FID:21, TEXT:0048] よお、なに二人だけで
 [FID:21, TEXT:0049] 盛り上がってんだよ
 [FID:21, TEXT:004A] 俺も混ぜろって
 
---- Group 121 [right:char_0014 next=2012] ---
+--- Group 133 [right:char_0014 next=2012] ---
 [FID:21, TEXT:004B] おお、ガゼル
 [FID:21, TEXT:004C] お前も花見に行きたい
 [FID:21, TEXT:004D] だろう？
 
---- Group 122 [left:char_0013 next=2012] ---
+--- Group 134 [left:char_0013 next=2012] ---
 [FID:21, TEXT:004E] 花見だぁ・・・？
 [FID:21, TEXT:004F] わざわざ見に行かなく
 [FID:21, TEXT:0050] てもそこらに咲いてる
 [FID:21, TEXT:0051] じゃねえか
 
---- Group 123 [right:char_0014 next=2012] ---
+--- Group 135 [right:char_0014 next=2012] ---
 [FID:21, TEXT:0052] わざわざ出向くから、
 [FID:21, TEXT:0053] 感動があるのさ
 
---- Group 124 [right:char_0014 next=2012] ---
+--- Group 136 [right:char_0014 next=2012] ---
 [FID:21, TEXT:0054] 満開の花の下で味わう
 [FID:21, TEXT:0055] 酒と料理は、格別の味
 [FID:21, TEXT:0056] になるだろうさ
 
---- Group 125 [left:char_0013 next=2012] ---
+--- Group 137 [left:char_0013 next=2012] ---
 [FID:21, TEXT:0057] あ・・・そういうこと
 [FID:21, TEXT:0058] だったら、俺も大いに
 [FID:21, TEXT:0059] 賛成するぞ！
 
---- Group 126 [left:char_0004 next=0023] ---
+--- Group 138 [left:char_0004 next=0023] ---
 [FID:21, TEXT:005A] なんだかなあ・・・
 
---- Group 127 [left:char_0004 next=0023] ---
+--- Group 139 [left:char_0004 next=0023] ---
 [FID:21, TEXT:005B] やれやれ・・・
 
---- Group 128 [left:char_0004 next=0023] ---
+--- Group 140 [left:char_0004 next=0023] ---
 [FID:21, TEXT:005C] ああもう・・・
 
---- Group 129 [left:char_0004 next=0023] ---
+--- Group 141 [left:char_0004 next=0023] ---
 [FID:21, TEXT:005D] あの・・・えっと
 
---- Group 130 [left:char_0004 next=0023] ---
+--- Group 142 [left:char_0004 next=0023] ---
 [FID:21, TEXT:005E] はは・・・まぁ・・・
 
---- Group 131 [left:char_0004 next=0023] ---
+--- Group 143 [left:char_0004 next=0023] ---
 [FID:21, TEXT:005F] そうですけど・・・
 

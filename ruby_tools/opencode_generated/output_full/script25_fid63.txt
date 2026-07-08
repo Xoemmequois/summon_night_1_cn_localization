@@ -6,18 +6,18 @@
 [FID:63, TEXT:0001] あの野郎、どこへ行く
 [FID:63, TEXT:0002] つもりなんだ？
 
---- Group 3 [right:char_0013 next=2012] ---
+--- Group 3 [right:char_0017 next=2012] ---
 [FID:63, TEXT:0001] あの野郎、どこへ行く
 [FID:63, TEXT:0002] つもりなんだ？
 
---- Group 4 [right:char_0017 next=2012] ---
+--- Group 4 [right:char_0013 next=2012] ---
 [FID:63, TEXT:0001] あの野郎、どこへ行く
 [FID:63, TEXT:0002] つもりなんだ？
 
 --- Group 5 [left:none next=0023] ---
 [FID:63, TEXT:0003] ひょっとしてこのまま
 [FID:63, TEXT:0004] 街から出るんじゃない
-[FID:63, TEXT:0007] でしょうか？
+[FID:63, TEXT:0005] のかな？
 
 --- Group 6 [left:none next=0023] ---
 [FID:63, TEXT:0003] ひょっとしてこのまま
@@ -27,24 +27,24 @@
 --- Group 7 [left:none next=0023] ---
 [FID:63, TEXT:0003] ひょっとしてこのまま
 [FID:63, TEXT:0004] 街から出るんじゃない
-[FID:63, TEXT:0005] のかな？
+[FID:63, TEXT:0006] のか？
 
 --- Group 8 [left:none next=0023] ---
 [FID:63, TEXT:0003] ひょっとしてこのまま
 [FID:63, TEXT:0004] 街から出るんじゃない
-[FID:63, TEXT:0005] のかな？
+[FID:63, TEXT:0007] でしょうか？
 
 --- Group 9 [left:none next=0023] ---
 [FID:63, TEXT:0003] ひょっとしてこのまま
 [FID:63, TEXT:0004] 街から出るんじゃない
-[FID:63, TEXT:0006] のか？
+[FID:63, TEXT:0005] のかな？
 
 --- Group 10 [left:none next=0023] ---
 [FID:63, TEXT:0003] ひょっとしてこのまま
 [FID:63, TEXT:0004] 街から出るんじゃない
 [FID:63, TEXT:0005] のかな？
 
---- Group 11 [right:char_0040 next=2012] ---
+--- Group 11 [right:char_0013 next=2012] ---
 [FID:63, TEXT:0008] 冗談じゃねえぜ
 [FID:63, TEXT:0009] だったら、出ていく
 [FID:63, TEXT:000A] 前にとっちめないと
@@ -59,7 +59,7 @@
 [FID:63, TEXT:0009] だったら、出ていく
 [FID:63, TEXT:000A] 前にとっちめないと
 
---- Group 14 [right:char_0013 next=2012] ---
+--- Group 14 [right:char_0040 next=2012] ---
 [FID:63, TEXT:0008] 冗談じゃねえぜ
 [FID:63, TEXT:0009] だったら、出ていく
 [FID:63, TEXT:000A] 前にとっちめないと
@@ -111,16 +111,16 @@
 [FID:63, TEXT:0013] いい加減にして、
 [FID:63, TEXT:0014] 姿を見せたらどうです
 
---- Group 25 [right:none next=2012] ---
+--- Group 25 [right:char_0013 next=2012] ---
 [FID:63, TEXT:0015] ・・・！？
 
---- Group 26 [right:char_0040 next=2012] ---
+--- Group 26 [right:char_0017 next=2012] ---
 [FID:63, TEXT:0015] ・・・！？
 
---- Group 27 [right:char_0013 next=2012] ---
+--- Group 27 [right:none next=2012] ---
 [FID:63, TEXT:0015] ・・・！？
 
---- Group 28 [right:char_0017 next=2012] ---
+--- Group 28 [right:char_0040 next=2012] ---
 [FID:63, TEXT:0015] ・・・！？
 
 --- Group 29 [left:char_0040 next=0023] ---
@@ -185,10 +185,10 @@
 [FID:63, TEXT:001F] 　素直に姿を見せる
 [FID:63, TEXT:0020] 　無視をする
 
---- Group 44 [left:char_0040 next=0023] ---
+--- Group 44 [left:none next=0023] ---
 [FID:63, TEXT:0021] ガゼル・・・
 
---- Group 45 [left:none next=0023] ---
+--- Group 45 [left:char_0040 next=0023] ---
 [FID:63, TEXT:0021] ガゼル・・・
 
 --- Group 46 [left:char_0040 next=0023] ---
@@ -206,7 +206,7 @@
 --- Group 50 [left:char_0040 next=0023] ---
 [FID:63, TEXT:0023] ガゼルさん・・
 
---- Group 51 [right:char_0040 next=2012] ---
+--- Group 51 [right:char_0013 next=2012] ---
 [FID:63, TEXT:0024] ケッ、仕方ねえな
 [FID:63, TEXT:0025] こうなっちまったらよ
 
@@ -214,7 +214,7 @@
 [FID:63, TEXT:0024] ケッ、仕方ねえな
 [FID:63, TEXT:0025] こうなっちまったらよ
 
---- Group 53 [right:char_0013 next=2012] ---
+--- Group 53 [right:char_0040 next=2012] ---
 [FID:63, TEXT:0024] ケッ、仕方ねえな
 [FID:63, TEXT:0025] こうなっちまったらよ
 

@@ -46,15 +46,15 @@
 [FID:65, TEXT:0011] オプテュスの連中が中
 [FID:65, TEXT:0012] にいてもおかしくない
 
---- Group 13 [left:char_0004 next=2012] ---
-[FID:65, TEXT:0015] バノッサさんが
-[FID:65, TEXT:0076] 持っている石・・・
-
---- Group 14 [left:char_0004 next=0023] ---
+--- Group 13 [left:char_0004 next=0023] ---
 [FID:65, TEXT:0015] バノッサさんが
 [FID:65, TEXT:0016] いるならオプテュスの
 [FID:65, TEXT:0017] 人たちがいても
 [FID:65, TEXT:0018] おかしくないですね
+
+--- Group 14 [left:char_0004 next=2012] ---
+[FID:65, TEXT:0015] バノッサさんが
+[FID:65, TEXT:0076] 持っている石・・・
 
 --- Group 15 [right:char_0013 next=2012] ---
 [FID:65, TEXT:0019] よし、ひとっ走りして
@@ -71,9 +71,8 @@
 
 --- Group 18 [left:char_0004 next=0023] ---
 [FID:65, TEXT:0020] すいません
-[FID:65, TEXT:0025] でも、あたしたちにも
-[FID:65, TEXT:0026] ちょっとした
-[FID:65, TEXT:0027] 事情があるんです
+[FID:65, TEXT:0021] でも、俺たちにも
+[FID:65, TEXT:0022] 事情があるんですよ
 
 --- Group 19 [left:char_0004 next=0023] ---
 [FID:65, TEXT:0020] すいません
@@ -82,14 +81,15 @@
 
 --- Group 20 [left:char_0004 next=0023] ---
 [FID:65, TEXT:0020] すいません
-[FID:65, TEXT:0028] でも、わたしたちには
-[FID:65, TEXT:0029] わたしたちの事情が
-[FID:65, TEXT:002A] あるんです・・・
+[FID:65, TEXT:0025] でも、あたしたちにも
+[FID:65, TEXT:0026] ちょっとした
+[FID:65, TEXT:0027] 事情があるんです
 
 --- Group 21 [left:char_0004 next=0023] ---
 [FID:65, TEXT:0020] すいません
-[FID:65, TEXT:0021] でも、俺たちにも
-[FID:65, TEXT:0022] 事情があるんですよ
+[FID:65, TEXT:0028] でも、わたしたちには
+[FID:65, TEXT:0029] わたしたちの事情が
+[FID:65, TEXT:002A] あるんです・・・
 
 --- Group 22 [right:char_001C next=2012] ---
 [FID:65, TEXT:002B] なるほどな、それで私
@@ -103,12 +103,12 @@
 --- Group 24 [left:char_0004 next=0023] ---
 [FID:65, TEXT:0030] バノッサはここの連中
 [FID:65, TEXT:0031] から、召喚術を習った
-[FID:65, TEXT:0032] みたいですね
+[FID:65, TEXT:0035] みたいです
 
 --- Group 25 [left:char_0004 next=0023] ---
 [FID:65, TEXT:0030] バノッサはここの連中
 [FID:65, TEXT:0031] から、召喚術を習った
-[FID:65, TEXT:0035] みたいです
+[FID:65, TEXT:0032] みたいですね
 
 --- Group 26 [left:char_0004 next=2012] ---
 [FID:65, TEXT:0033] 疑ったのは謝ります

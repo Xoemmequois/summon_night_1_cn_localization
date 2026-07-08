@@ -14,15 +14,21 @@
 
 --- Group [left:主人公 next=0023] ---
 なにか手伝えることは
-あるかな？
+ありますか？
 +[FID:33, TEXT:0005] 
++[FID:33, TEXT:0008] 
+
+--- Group [left:主人公 next=0023] ---
+なにか手伝えることは
+あるかな？
+-[FID:33, TEXT:0005] 
 +[FID:33, TEXT:0006] 
 
 --- Group [left:主人公 next=0023] ---
 なにか手伝えることは
-ありますか？
+あるかい？
 -[FID:33, TEXT:0005] 
-+[FID:33, TEXT:0008] 
++[FID:33, TEXT:0016] 
 
 --- Group [left:主人公 next=0023] ---
 なんか手伝うこと
@@ -46,35 +52,141 @@
 
 --- Group [left:主人公 next=0023] ---
 そっか・・・
+なら、俺は見張りでも
+してるよ
++[FID:33, TEXT:000E] 
++[FID:33, TEXT:001B] 
+-[FID:33, TEXT:000D] 
+
+--- Group [left:主人公 next=2012] ---
+そっか・・・
+なら、あたしは見張り
+してるから
+-[FID:33, TEXT:000E] 
++[FID:33, TEXT:001C] 
++[FID:33, TEXT:001D] 
+
+--- Group [left:主人公 next=0023] ---
+そっか・・・
 じゃ、あたしは
 見張り役ってことで！
-+[FID:33, TEXT:000E] 
+-[FID:33, TEXT:000E] 
 +[FID:33, TEXT:000F] 
 +[FID:33, TEXT:0010] 
+
+--- Group [left:主人公 next=0023] ---
+そっか・・・
+じゃあ、見張りは
+あたしにまかせてね！
+-[FID:33, TEXT:000E] 
++[FID:33, TEXT:002E] 
++[FID:33, TEXT:002F] 
+
+--- Group [left:主人公 next=0023] ---
+そうですか・・・
+なら、わたしは
+ここで、待っています
++[FID:33, TEXT:0011] 
++[FID:33, TEXT:0027] 
++[FID:33, TEXT:0028] 
 
 --- Group [left:主人公 next=0023] ---
 そうですか・・・
 なら、わたしはここで
 待ってますから
-+[FID:33, TEXT:0011] 
+-[FID:33, TEXT:0011] 
 +[FID:33, TEXT:0012] 
 +[FID:33, TEXT:0013] 
 
---- Group [left:主人公 next=2012] ---
-あまり考えたくない
-ことだが・・・
-+[FID:33, TEXT:0030] 
-+[FID:33, TEXT:003F] 
+--- Group [right:基尔 next=2012] ---
+ああ、さっそく調べて
+みることにしよう
++[FID:33, TEXT:0014] 
++[FID:33, TEXT:0015] 
+
+--- Group [left:主人公 next=0023] ---
+なんか手伝えること、
+ある？
++[FID:33, TEXT:0017] 
++[FID:33, TEXT:0018] 
+
+--- Group [right:基尔 next=2012] ---
+いや、とりあえずは僕
+ひとりで平気だと思う
++[FID:33, TEXT:0019] 
++[FID:33, TEXT:001A] 
+
+--- Group [left:主人公 next=0023] ---
+なんかあったら
+呼んでね！
++[FID:33, TEXT:001E] 
++[FID:33, TEXT:001F] 
+
+--- Group [left:主人公 next=0023] ---
+そうですか
+じゃあ、わたしは
+ここで待ってますから
++[FID:33, TEXT:0020] 
++[FID:33, TEXT:0021] 
++[FID:33, TEXT:0022] 
+
+--- Group [right:卡西斯 next=2012] ---
+さて、さっそく調べる
+としますかね
++[FID:33, TEXT:0023] 
++[FID:33, TEXT:0024] 
+
+--- Group [right:卡西斯 next=2012] ---
+あ、とりあえずあたし
+ひとりでやってみる
++[FID:33, TEXT:0025] 
++[FID:33, TEXT:0026] 
+
+--- Group [right:克拉雷特 next=2012] ---
+ええ、さっそく調べて
+みますね
++[FID:33, TEXT:0029] 
++[FID:33, TEXT:002A] 
+
+--- Group [left:主人公 next=0023] ---
+なにか手伝えること、
+あるかな？
++[FID:33, TEXT:002B] 
+-[FID:33, TEXT:0006] 
+
+--- Group [right:克拉雷特 next=2012] ---
+いえ、とりあえずは私
+ひとりで大丈夫です
++[FID:33, TEXT:002C] 
++[FID:33, TEXT:002D] 
 
 --- Group [left:主人公 next=2012] ---
 あまり考えたくない
 ことだけど・・・
--[FID:33, TEXT:0030] 
++[FID:33, TEXT:0030] 
 +[FID:33, TEXT:0031] 
+
+--- Group [left:主人公 next=2012] ---
+あまり考えたくない
+ことだが・・・
+-[FID:33, TEXT:0030] 
++[FID:33, TEXT:003F] 
 
 --- Group [left:主人公 next=0023] ---
 ソルは
 +[FID:33, TEXT:0032] 
+
+--- Group [left:主人公 next=0023] ---
+キールは
++[FID:33, TEXT:0033] 
+
+--- Group [left:主人公 next=0023] ---
+カシスは
++[FID:33, TEXT:0034] 
+
+--- Group [left:主人公 next=0023] ---
+クラレットは
++[FID:33, TEXT:0035] 
 
 --- Group [left:主人公 next=2012] ---
 やっぱり、なにかを
@@ -103,18 +215,18 @@
 --- Group [left:主人公 next=0023] ---
 そこまでして隠す必要
 があることって、
-なんなんだろうか？
+なんなんだ？
 +[FID:33, TEXT:003C] 
 +[FID:33, TEXT:003D] 
-+[FID:33, TEXT:0040] 
++[FID:33, TEXT:003E] 
 
 --- Group [left:主人公 next=0023] ---
 そこまでして隠す必要
 があることって、
-なんなんだ？
+なんなんだろうか？
 -[FID:33, TEXT:003C] 
 -[FID:33, TEXT:003D] 
-+[FID:33, TEXT:003E] 
++[FID:33, TEXT:0040] 
 
 --- Group [left:主人公 next=2012] ---
 う〜ん・・・
@@ -127,6 +239,18 @@
 --- Group [left:主人公 next=0023] ---
 ソルってば
 +[FID:33, TEXT:0044] 
+
+--- Group [left:主人公 next=0023] ---
+キールってば
++[FID:33, TEXT:0045] 
+
+--- Group [left:主人公 next=0023] ---
+カシスってば
++[FID:33, TEXT:0046] 
+
+--- Group [left:主人公 next=0023] ---
+クラレットってば
++[FID:33, TEXT:0047] 
 
 --- Group [left:主人公 next=2012] ---
 なんか隠しごとしてる
@@ -163,6 +287,14 @@
 --- Group [left:主人公 next=0023] ---
 ソルさんは
 +[FID:33, TEXT:0054] 
+
+--- Group [left:主人公 next=0023] ---
+キールさんは
++[FID:33, TEXT:0055] 
+
+--- Group [left:主人公 next=0023] ---
+カシスさんは
++[FID:33, TEXT:0056] 
 
 --- Group [left:主人公 next=2012] ---
 そう考えないと
@@ -231,6 +363,12 @@
 街へ戻ろう
 -[FID:33, TEXT:006A] 
 +[FID:33, TEXT:006B] 
+
+--- Group [left:主人公 next=0023] ---
+少し休んで、それから
+街へ戻ろうよ、ね！
+-[FID:33, TEXT:006A] 
++[FID:33, TEXT:011F] 
 
 --- Group [left:主人公 next=0023] ---
 街へ帰ろ・・・
@@ -332,13 +470,29 @@
 +[FID:33, TEXT:008C] 
 +[FID:33, TEXT:008D] 
 
+--- Group [left:主人公 next=2012] ---
+その声の主に呼ばれた
+から、俺はここに
+来たんだと思うんだ
+-[FID:33, TEXT:008B] 
++[FID:33, TEXT:00D5] 
++[FID:33, TEXT:00D6] 
+
 --- Group [left:主人公 next=0023] ---
 あの時の呼び声
-あれは、あなたじゃ
-なかったんですか？
+あれは、あなたなんじ
+ゃないですか？
 +[FID:33, TEXT:008E] 
-+[FID:33, TEXT:00A9] 
-+[FID:33, TEXT:00AA] 
++[FID:33, TEXT:00F1] 
++[FID:33, TEXT:00F2] 
+
+--- Group [left:主人公 next=0023] ---
+あの時の呼び声
+あれは、君だったん
+じゃないのか？
+-[FID:33, TEXT:008E] 
++[FID:33, TEXT:00D7] 
++[FID:33, TEXT:00D8] 
 
 --- Group [left:主人公 next=0023] ---
 あの時の呼び声
@@ -347,6 +501,22 @@
 -[FID:33, TEXT:008E] 
 +[FID:33, TEXT:008F] 
 +[FID:33, TEXT:0090] 
+
+--- Group [left:主人公 next=0023] ---
+あの時の呼び声
+あれは、カシスさん
+じゃ、ありませんか？
+-[FID:33, TEXT:008E] 
++[FID:33, TEXT:0113] 
++[FID:33, TEXT:0114] 
+
+--- Group [left:主人公 next=0023] ---
+あの時の呼び声
+あれは、あなたじゃ
+なかったんですか？
+-[FID:33, TEXT:008E] 
++[FID:33, TEXT:00A9] 
++[FID:33, TEXT:00AA] 
 
 --- Group [left:主人公 next=2012] ---
 「助けてくれ」って
@@ -402,6 +572,22 @@
 +[FID:33, TEXT:00A2] 
 +[FID:33, TEXT:00A3] 
 
+--- Group [left:主人公 next=0023] ---
+わたしがこの世界に
+呼ばれた時、頭に声
+が聞こえたんです
+-[FID:33, TEXT:00A1] 
++[FID:33, TEXT:00CF] 
++[FID:33, TEXT:00D0] 
+
+--- Group [left:主人公 next=2012] ---
+わたしがこの世界に
+来たのは、事故だと
+あなたは言いました
+-[FID:33, TEXT:00A1] 
++[FID:33, TEXT:00EA] 
++[FID:33, TEXT:00EB] 
+
 --- Group [left:主人公 next=2012] ---
 わたし、違う気が
 するんです・・・
@@ -433,6 +619,16 @@
 -[FID:33, TEXT:009E] 
 
 --- Group [left:主人公 next=0023] ---
+証明できるものは
+なにもありません
+でも、そんな気がして
+仕方がないんです
+-[FID:33, TEXT:00AD] 
++[FID:33, TEXT:0115] 
+-[FID:33, TEXT:00AF] 
++[FID:33, TEXT:00B5] 
+
+--- Group [left:主人公 next=0023] ---
 オンナのカンってやつ
 ・・・かな？
 +[FID:33, TEXT:00B0] 
@@ -446,17 +642,431 @@
 +[FID:33, TEXT:00B2] 
 +[FID:33, TEXT:00B3] 
 +[FID:33, TEXT:00B4] 
-+[FID:33, TEXT:00B5] 
+-[FID:33, TEXT:00B5] 
 
---- Group [right:索尔 next=2012] ---
+--- Group [right:克拉雷特 next=2012] ---
 でも・・・
 今じゃ確信してるよ
 -[FID:33, TEXT:00B3] 
 +[FID:33, TEXT:01FB] 
 
---- Group [right:索尔 next=2012] ---
+--- Group [left:主人公 next=2012] ---
 ・・・・・・
 +[FID:33, TEXT:00B6] 
+
+--- Group [right:基尔 next=2012] ---
+待たせたね
++[FID:33, TEXT:00B7] 
+
+--- Group [left:主人公 next=0023] ---
+どう？
++[FID:33, TEXT:00B8] 
+
+--- Group [right:基尔 next=2012] ---
+やっぱり、僕の知識で
+はどうしようもない
+・・・すまないな
++[FID:33, TEXT:00B9] 
++[FID:33, TEXT:00BA] 
+-[FID:33, TEXT:0064] 
+
+--- Group [left:主人公 next=0023] ---
+いや、いいんだよ
++[FID:33, TEXT:00BB] 
+
+--- Group [left:主人公 next=0023] ---
+う〜っん、残念だけど
+仕方ないね
++[FID:33, TEXT:00BC] 
++[FID:33, TEXT:00BD] 
+
+--- Group [left:主人公 next=0023] ---
+いえ、ありがとう
++[FID:33, TEXT:00BE] 
+
+--- Group [left:主人公 next=0023] ---
+少し休んでからさ
+街へ戻ろうよ、ね
++[FID:33, TEXT:00BF] 
++[FID:33, TEXT:00C0] 
+
+--- Group [left:主人公 next=0023] ---
+なあ、キール
++[FID:33, TEXT:00C1] 
+
+--- Group [left:主人公 next=0023] ---
+ねぇ、キール
++[FID:33, TEXT:00C2] 
+
+--- Group [left:主人公 next=0023] ---
+キールさん
++[FID:33, TEXT:00C3] 
+
+--- Group [left:主人公 next=0023] ---
+キールさん
+本当のことを教えて
+くださいませんか？
+-[FID:33, TEXT:00C3] 
++[FID:33, TEXT:015B] 
++[FID:33, TEXT:015C] 
+
+--- Group [right:基尔 next=2012] ---
+なんだ？
++[FID:33, TEXT:00C4] 
+
+--- Group [left:主人公 next=2012] ---
+俺がこの世界に呼ばれ
+てきたのは事故だって
+君は言うけど・・・
++[FID:33, TEXT:00C5] 
+-[FID:33, TEXT:0087] 
+-[FID:33, TEXT:0088] 
+
+--- Group [left:主人公 next=0023] ---
+俺がこの世界に呼ばれ
+た時・・・頭の中に
+声が聞こえたんだよ
+-[FID:33, TEXT:00C5] 
++[FID:33, TEXT:00C6] 
++[FID:33, TEXT:0104] 
+
+--- Group [left:主人公 next=0023] ---
+俺がこの世界に呼ばれ
+た時・・・頭の中に
+声が聞こえたんだ
+-[FID:33, TEXT:00C5] 
+-[FID:33, TEXT:00C6] 
++[FID:33, TEXT:00C7] 
+
+--- Group [left:主人公 next=2012] ---
+今までさ、すっかり
+忘れてたことが
+あってね・・・
++[FID:33, TEXT:00C8] 
++[FID:33, TEXT:00C9] 
++[FID:33, TEXT:00CA] 
+
+--- Group [left:主人公 next=0023] ---
+あたしがここに呼ばれ
+た時・・・頭の中に声
+が聞こえたんだけど
++[FID:33, TEXT:00CB] 
+-[FID:33, TEXT:0077] 
++[FID:33, TEXT:00CC] 
+
+--- Group [left:主人公 next=2012] ---
+今まですっかり
+忘れていたんですけど
++[FID:33, TEXT:00CD] 
++[FID:33, TEXT:00CE] 
+
+--- Group [right:卡西斯 next=2012] ---
+声？
++[FID:33, TEXT:00D1] 
+
+--- Group [left:主人公 next=2012] ---
+誰かが、俺に向かって
+「助けてくれ」って、
+呼びかけてきたんだ
++[FID:33, TEXT:00D2] 
+-[FID:33, TEXT:0085] 
+-[FID:33, TEXT:0086] 
+
+--- Group [left:主人公 next=2012] ---
+なんだか俺、そうじゃ
+ない気がするんだよ
++[FID:33, TEXT:00D3] 
++[FID:33, TEXT:00D4] 
+
+--- Group [left:主人公 next=2012] ---
+そう、「助けてくれ」
+っていう声が、ね
++[FID:33, TEXT:00D9] 
++[FID:33, TEXT:00DA] 
+
+--- Group [left:主人公 next=2012] ---
+キールはさ、あたしが
+この世界にきたのは
+事故って言ったけど
++[FID:33, TEXT:00DB] 
++[FID:33, TEXT:00DC] 
++[FID:33, TEXT:00DD] 
+
+--- Group [left:主人公 next=2012] ---
+あたし、違うと
+思うんだ・・・
++[FID:33, TEXT:00DE] 
++[FID:33, TEXT:00DF] 
+
+--- Group [left:主人公 next=2012] ---
+その声が、あたしを
+呼んだから、あたしは
+いま、ここにいるんだ
+と、思うの
++[FID:33, TEXT:00E0] 
++[FID:33, TEXT:00E1] 
++[FID:33, TEXT:00E2] 
++[FID:33, TEXT:00E3] 
+
+--- Group [left:主人公 next=0023] ---
+あれさ・・・
+キールの声じゃない？
+キールがあたしを
+呼んだんじゃない？
++[FID:33, TEXT:00E4] 
++[FID:33, TEXT:00E5] 
++[FID:33, TEXT:00E6] 
++[FID:33, TEXT:00E7] 
+
+--- Group [left:主人公 next=2012] ---
+はい、わたしに向けて
+「助けてくれ」って、
+呼びかけが・・・
++[FID:33, TEXT:00E8] 
+-[FID:33, TEXT:0085] 
++[FID:33, TEXT:00E9] 
+
+--- Group [left:主人公 next=2012] ---
+でも、わたしは
+違う気がするんです
++[FID:33, TEXT:00EC] 
++[FID:33, TEXT:00ED] 
+
+--- Group [left:主人公 next=2012] ---
+その声に呼ばれたから
+わたしは、ここに来た
+んだと思うんです
++[FID:33, TEXT:00EE] 
++[FID:33, TEXT:00EF] 
++[FID:33, TEXT:00F0] 
+
+--- Group [right:卡西斯 next=2012] ---
+・・・どうして？
++[FID:33, TEXT:00F3] 
+
+--- Group [left:主人公 next=0023] ---
+なんとなく・・・
+オンナのカンって
+やつじゃ、ダメかな？
++[FID:33, TEXT:00F4] 
++[FID:33, TEXT:00F5] 
++[FID:33, TEXT:00F6] 
+
+--- Group [left:主人公 next=0023] ---
+確証はなにも・・・
+だけど・・・・・
+そんな気がして
+仕方がないんです
++[FID:33, TEXT:00F7] 
++[FID:33, TEXT:00F8] 
+-[FID:33, TEXT:00B4] 
+-[FID:33, TEXT:00B5] 
+
+--- Group [right:卡西斯 next=2012] ---
+お待たせ
++[FID:33, TEXT:00F9] 
+
+--- Group [right:卡西斯 next=2012] ---
+やっぱ、あたしの知識
+じゃダメみたい
+・・・ゴメンね
++[FID:33, TEXT:00FA] 
++[FID:33, TEXT:00FB] 
++[FID:33, TEXT:00FC] 
+
+--- Group [left:主人公 next=0023] ---
+いいんですよ
+気になさらなくて
++[FID:33, TEXT:00FD] 
++[FID:33, TEXT:00FE] 
+
+--- Group [left:主人公 next=0023] ---
+疲れたでしょうから
+少し休んで、それから
+街へ戻りましょう
++[FID:33, TEXT:00FF] 
+-[FID:33, TEXT:006A] 
+-[FID:33, TEXT:006F] 
+
+--- Group [left:主人公 next=0023] ---
+なあ、カシス
++[FID:33, TEXT:0100] 
+
+--- Group [left:主人公 next=0023] ---
+カシス？
++[FID:33, TEXT:0101] 
+
+--- Group [left:主人公 next=0023] ---
+カシスさん・・・
++[FID:33, TEXT:0102] 
+
+--- Group [right:卡西斯 next=2012] ---
+なぁに？
++[FID:33, TEXT:0103] 
+
+--- Group [left:主人公 next=2012] ---
+今まで・・・
+すっかり忘れていたん
+ですけど・・・
++[FID:33, TEXT:0105] 
++[FID:33, TEXT:0106] 
++[FID:33, TEXT:0107] 
+
+--- Group [left:主人公 next=0023] ---
+わたし・・・ここに
+呼ばれたとき、頭の中
+に声が聞こえたんです
++[FID:33, TEXT:0108] 
++[FID:33, TEXT:0109] 
+-[FID:33, TEXT:0082] 
+
+--- Group [left:主人公 next=2012] ---
+はい
+「助けてくれ」って、
+いう声が・・・
++[FID:33, TEXT:010A] 
+-[FID:33, TEXT:0085] 
++[FID:33, TEXT:010B] 
+
+--- Group [left:主人公 next=2012] ---
+わたし、本当は事故
+じゃなくて・・・
++[FID:33, TEXT:010C] 
++[FID:33, TEXT:010D] 
+
+--- Group [left:主人公 next=2012] ---
+その人に呼ばれて
+ここに来たんじゃ
+ないでしょうか？
++[FID:33, TEXT:010E] 
++[FID:33, TEXT:010F] 
++[FID:33, TEXT:0110] 
+
+--- Group [left:主人公 next=2012] ---
+そう・・・
+思うんです・・・
++[FID:33, TEXT:0111] 
++[FID:33, TEXT:0112] 
+
+--- Group [right:克拉雷特 next=2012] ---
+お待たせしました
++[FID:33, TEXT:0116] 
+
+--- Group [right:克拉雷特 next=2012] ---
+やっぱり、私の知識
+では無理のようです
+・・・すみません
++[FID:33, TEXT:0117] 
++[FID:33, TEXT:0118] 
++[FID:33, TEXT:0119] 
+
+--- Group [left:主人公 next=0023] ---
+む〜・・・
+まぁ、しょうがないか
+今日はこれで
+終わりにしよ！
++[FID:33, TEXT:011A] 
++[FID:33, TEXT:011B] 
++[FID:33, TEXT:011C] 
++[FID:33, TEXT:011D] 
+
+--- Group [right:克拉雷特 next=2012] ---
+これからどうします？
++[FID:33, TEXT:011E] 
+
+--- Group [left:主人公 next=0023] ---
+なあ、クラレット
++[FID:33, TEXT:0120] 
+
+--- Group [left:主人公 next=0023] ---
+クラレット？
++[FID:33, TEXT:0121] 
+
+--- Group [left:主人公 next=0023] ---
+ねね、クラレット
++[FID:33, TEXT:0122] 
+
+--- Group [right:克拉雷特 next=2012] ---
+はい？
++[FID:33, TEXT:0123] 
+
+--- Group [left:主人公 next=2012] ---
+あのさ、すっかり
+忘れてたんだけどね
++[FID:33, TEXT:0124] 
++[FID:33, TEXT:0125] 
+
+--- Group [left:主人公 next=0023] ---
+あたし、この世界に
+呼ばれたとき、声が
+聞こえたの
++[FID:33, TEXT:0126] 
++[FID:33, TEXT:0127] 
++[FID:33, TEXT:0128] 
+
+--- Group [left:主人公 next=2012] ---
+そう、声
+「助けてくれ」って声
+がさ、頭に直接ね
++[FID:33, TEXT:0129] 
++[FID:33, TEXT:012A] 
++[FID:33, TEXT:012B] 
+
+--- Group [left:主人公 next=2012] ---
+誰かな？
+あたしに向けてなの
+すっごく切実な
+声だったんだ・・・
++[FID:33, TEXT:012C] 
++[FID:33, TEXT:012D] 
++[FID:33, TEXT:012E] 
++[FID:33, TEXT:012F] 
+
+--- Group [left:主人公 next=2012] ---
+クラレットはさ
+あたしがここに来たの
+は、事故だって
+言ったよね・・・
++[FID:33, TEXT:0130] 
++[FID:33, TEXT:0131] 
++[FID:33, TEXT:0132] 
++[FID:33, TEXT:0133] 
+
+--- Group [left:主人公 next=2012] ---
+でもさ、それって
+違う気がする
++[FID:33, TEXT:0134] 
++[FID:33, TEXT:0135] 
+
+--- Group [left:主人公 next=2012] ---
+その声があたしを
+この世界に呼んだ
+んだって思うの・・・
++[FID:33, TEXT:0136] 
++[FID:33, TEXT:0137] 
++[FID:33, TEXT:0138] 
+
+--- Group [left:主人公 next=0023] ---
+ねぇ、あの声さ
+クラレットの声だった
+んじゃないか？
++[FID:33, TEXT:0139] 
++[FID:33, TEXT:013A] 
++[FID:33, TEXT:013B] 
+
+--- Group [right:克拉雷特 next=2012] ---
+・・・どうしてです？
++[FID:33, TEXT:013C] 
+
+--- Group [left:主人公 next=0023] ---
+う〜んなんとなく
+なんだけど・・・
+でも、そんな気がして
+仕方がないの
++[FID:33, TEXT:013D] 
++[FID:33, TEXT:013E] 
+-[FID:33, TEXT:00AF] 
++[FID:33, TEXT:013F] 
 
 --- Group [left:主人公 next=0023] ---
 あれっきり、
@@ -545,17 +1155,23 @@
 本当のことを教えて
 くださいませんか？
 +[FID:33, TEXT:015A] 
-+[FID:33, TEXT:015B] 
-+[FID:33, TEXT:015C] 
+-[FID:33, TEXT:015B] 
+-[FID:33, TEXT:015C] 
 
---- Group [right:索尔 next=2012] ---
+--- Group [right:克拉雷特 next=2012] ---
 ・・・・・
 +[FID:33, TEXT:015D] 
 
 --- Group [left:主人公 next=2012] ---
 あの時、あの場所に
-あなたがいたことも
+あなたがいたこと
 +[FID:33, TEXT:015E] 
++[FID:33, TEXT:01BB] 
+
+--- Group [left:主人公 next=2012] ---
+あの時、あの場所に
+あなたがいたことも
+-[FID:33, TEXT:015E] 
 +[FID:33, TEXT:0167] 
 
 --- Group [left:主人公 next=2012] ---
@@ -590,7 +1206,7 @@
 +[FID:33, TEXT:0168] 
 +[FID:33, TEXT:0169] 
 
---- Group [right:索尔 next=2012] ---
+--- Group [right:克拉雷特 next=2012] ---
 まだ疑ってるのか？
 俺のこと・・・！
 +[FID:33, TEXT:016A] 
@@ -613,6 +1229,14 @@
 +[FID:33, TEXT:016F] 
 +[FID:33, TEXT:0170] 
 +[FID:33, TEXT:0171] 
+
+--- Group [left:主人公 next=0023] ---
+証拠は・・・君が最初
+から俺の名前を知って
+いたってことだよ
+-[FID:33, TEXT:016F] 
++[FID:33, TEXT:01A3] 
++[FID:33, TEXT:01A4] 
 
 --- Group [left:主人公 next=2012] ---
 ・・・あるよ
@@ -640,7 +1264,7 @@
 +[FID:33, TEXT:0179] 
 +[FID:33, TEXT:017A] 
 
---- Group [left:主人公 next=2012] ---
+--- Group [right:卡西斯 next=2012] ---
 ！！
 +[FID:33, TEXT:017B] 
 
@@ -698,11 +1322,11 @@
 違いますか？
 +[FID:33, TEXT:018E] 
 
---- Group [right:索尔 next=2012] ---
+--- Group [right:克拉雷特 next=2012] ---
 ・・・ばれたか
 +[FID:33, TEXT:018F] 
 
---- Group [right:索尔 next=2012] ---
+--- Group [right:克拉雷特 next=2012] ---
 あの時、あの場所に俺
 がいたのは偶然なんか
 じゃないんだよ
@@ -717,9 +1341,255 @@
 +[FID:33, TEXT:0194] 
 
 --- Group [left:主人公 next=0023] ---
+キール
+本当のことを
+教えてくれないかな？
++[FID:33, TEXT:0195] 
+-[FID:33, TEXT:0156] 
++[FID:33, TEXT:0196] 
+
+--- Group [left:主人公 next=0023] ---
+俺にはどうしても偶然
+だとは思えないんだ
++[FID:33, TEXT:0197] 
+-[FID:33, TEXT:0161] 
+
+--- Group [left:主人公 next=2012] ---
+あの時、あなたが
+あの場所にいたのって
++[FID:33, TEXT:0198] 
++[FID:33, TEXT:0199] 
+
+--- Group [left:主人公 next=0023] ---
+あたしには偶然じゃ
+ないように思えるの
++[FID:33, TEXT:019A] 
++[FID:33, TEXT:019B] 
+
+--- Group [left:主人公 next=2012] ---
+あなたが、あの時
+あの場所にいたこと
++[FID:33, TEXT:019C] 
++[FID:33, TEXT:019D] 
+
+--- Group [left:主人公 next=0023] ---
+わたしには、とても
+偶然なんて思えません
++[FID:33, TEXT:019E] 
++[FID:33, TEXT:019F] 
+
+--- Group [right:索尔 next=2012] ---
+僕が・・・嘘をついて
+いるというのか！
++[FID:33, TEXT:01A0] 
++[FID:33, TEXT:01A1] 
+
+--- Group [right:索尔 next=2012] ---
+証拠はあるのか！？
++[FID:33, TEXT:01A2] 
+
+--- Group [left:主人公 next=2012] ---
+・・・うん、あるよ
++[FID:33, TEXT:01A5] 
+
+--- Group [left:主人公 next=0023] ---
+だって、あなた最初
+から、あたしの名前を
+知ってたでしょ？
++[FID:33, TEXT:01A6] 
++[FID:33, TEXT:01A7] 
++[FID:33, TEXT:01A8] 
+
+--- Group [left:主人公 next=0023] ---
+あなたは・・・
+はじめから、わたしの
+名前を知っていました
++[FID:33, TEXT:01A9] 
++[FID:33, TEXT:01AA] 
++[FID:33, TEXT:01AB] 
+
+--- Group [left:主人公 next=2012] ---
+他にもさ・・・
+知らないはずのこと、
+いくつも知ってたよね
++[FID:33, TEXT:01AC] 
++[FID:33, TEXT:01AD] 
++[FID:33, TEXT:01AE] 
+
+--- Group [left:主人公 next=0023] ---
+違うかな？
++[FID:33, TEXT:01AF] 
+
+--- Group [left:主人公 next=2012] ---
+ほかにも・・・
+知らないはずのことを
+いくつも・・・
++[FID:33, TEXT:01B0] 
++[FID:33, TEXT:01B1] 
++[FID:33, TEXT:01B2] 
+
+--- Group [right:索尔 next=2012] ---
+・・・そうさ
++[FID:33, TEXT:01B3] 
+
+--- Group [right:索尔 next=2012] ---
+あの時、あの場所に僕
+がいたのは偶然なんか
+じゃない
++[FID:33, TEXT:01B4] 
+-[FID:33, TEXT:0191] 
++[FID:33, TEXT:01B5] 
+
+--- Group [right:索尔 next=2012] ---
+君たちの後を、
+つけていたんだよ
++[FID:33, TEXT:01B6] 
++[FID:33, TEXT:01B7] 
+
+--- Group [left:主人公 next=0023] ---
+カシス
+本当のことを
+教えてくれないか？
++[FID:33, TEXT:01B8] 
+-[FID:33, TEXT:0156] 
+-[FID:33, TEXT:0157] 
+
+--- Group [left:主人公 next=0023] ---
+カシスさん
+本当のことを教えて
+くれませんか？
++[FID:33, TEXT:01B9] 
+-[FID:33, TEXT:015B] 
++[FID:33, TEXT:01BA] 
+
+--- Group [left:主人公 next=0023] ---
+わたしには、偶然とは
+思えないんです
++[FID:33, TEXT:01BC] 
+-[FID:33, TEXT:0169] 
+
+--- Group [right:索尔 next=2012] ---
+あたしが、嘘をついて
+いるっていうのッ？
++[FID:33, TEXT:01BD] 
++[FID:33, TEXT:01BE] 
+
+--- Group [right:索尔 next=2012] ---
+証拠はあるワケ！？
++[FID:33, TEXT:01BF] 
+
+--- Group [left:主人公 next=0023] ---
+あなたが、最初から
+わたしの名前を知って
+いたこと・・・
+それが証拠です
++[FID:33, TEXT:01C0] 
++[FID:33, TEXT:01C1] 
++[FID:33, TEXT:01C2] 
++[FID:33, TEXT:01C3] 
+
+--- Group [left:主人公 next=2012] ---
+ほかにも
+あなたは、本来なら
+知らないはずのことを
+知っていました
++[FID:33, TEXT:01C4] 
++[FID:33, TEXT:01C5] 
+-[FID:33, TEXT:01B1] 
++[FID:33, TEXT:01C6] 
+
+--- Group [right:索尔 next=2012] ---
+・・・そうよ
++[FID:33, TEXT:01C7] 
+
+--- Group [right:索尔 next=2012] ---
+あたしがあの時、あの
+場所にいたのは偶然
+なんかじゃないわ
++[FID:33, TEXT:01C8] 
++[FID:33, TEXT:01C9] 
++[FID:33, TEXT:01CA] 
+
+--- Group [right:索尔 next=2012] ---
+キミたちの後をね
+つけてたんだ・・・
++[FID:33, TEXT:01CB] 
++[FID:33, TEXT:01CC] 
+
+--- Group [left:主人公 next=0023] ---
+クラレット
+本当のことを
+教えてくれないか？
++[FID:33, TEXT:01CD] 
+-[FID:33, TEXT:0156] 
+-[FID:33, TEXT:0157] 
+
+--- Group [left:主人公 next=0023] ---
+あたしには、とても
+偶然には思えないの
++[FID:33, TEXT:01CE] 
++[FID:33, TEXT:01CF] 
+
+--- Group [right:索尔 next=2012] ---
+私が・・・嘘をついて
+いるというんですか？
++[FID:33, TEXT:01D0] 
++[FID:33, TEXT:01D1] 
+
+--- Group [right:索尔 next=2012] ---
+証拠は、証拠は
+あるんですかっ！？
++[FID:33, TEXT:01D2] 
++[FID:33, TEXT:01D3] 
+
+--- Group [left:主人公 next=0023] ---
+だって・・・
+クラレット、はじめ
+から、あたしのこと
+知ってた・・・
++[FID:33, TEXT:01D4] 
++[FID:33, TEXT:01D5] 
++[FID:33, TEXT:01D6] 
++[FID:33, TEXT:01D7] 
+
+--- Group [left:主人公 next=2012] ---
+それだけじゃないよ
+ほかにもね、知らない
+はずのことをいくつも
+知っていたの
++[FID:33, TEXT:01D8] 
++[FID:33, TEXT:01D9] 
+-[FID:33, TEXT:017E] 
++[FID:33, TEXT:01DA] 
+
+--- Group [right:索尔 next=2012] ---
+・・・そのとおりです
++[FID:33, TEXT:01DB] 
+
+--- Group [right:索尔 next=2012] ---
+あの時、あの場所に私
+がいたのは偶然なんか
+じゃないんです
++[FID:33, TEXT:01DC] 
+-[FID:33, TEXT:0191] 
++[FID:33, TEXT:01DD] 
+
+--- Group [right:索尔 next=2012] ---
+貴方たちの後をつけて
+いたんですから
++[FID:33, TEXT:01DE] 
++[FID:33, TEXT:01DF] 
+
+--- Group [left:主人公 next=0023] ---
+どうして
+そんなことを・・・
++[FID:33, TEXT:01E0] 
++[FID:33, TEXT:01E3] 
+
+--- Group [left:主人公 next=0023] ---
 どうして
 そんなこと？
-+[FID:33, TEXT:01E0] 
+-[FID:33, TEXT:01E0] 
 +[FID:33, TEXT:01E2] 
 
 --- Group [left:主人公 next=0023] ---
@@ -728,12 +1598,6 @@
 -[FID:33, TEXT:01E0] 
 +[FID:33, TEXT:01E1] 
 
---- Group [left:主人公 next=0023] ---
-どうして
-そんなことを・・・
--[FID:33, TEXT:01E0] 
-+[FID:33, TEXT:01E3] 
-
 --- Group [right:索尔 next=2012] ---
 確かめる必要があった
 からさ
@@ -741,6 +1605,24 @@
 +[FID:33, TEXT:01E5] 
 
 --- Group [right:索尔 next=2012] ---
+確かめる必要があった
+からです
+-[FID:33, TEXT:01E4] 
++[FID:33, TEXT:0247] 
+
+--- Group [right:索尔 next=2012] ---
+確かめる必要があった
+からよ
+-[FID:33, TEXT:01E4] 
++[FID:33, TEXT:022A] 
+
+--- Group [right:索尔 next=2012] ---
+確かめる必要があった
+からだよ
+-[FID:33, TEXT:01E4] 
++[FID:33, TEXT:020E] 
+
+--- Group [right:基尔 next=2012] ---
 予期せぬ事故で呼ばれ
 たお前が危険な存在で
 ないかどうかをね
@@ -749,6 +1631,30 @@
 +[FID:33, TEXT:01E8] 
 
 --- Group [right:索尔 next=2012] ---
+予期せぬ事故で呼ばれ
+たキミが、危険な存在
+じゃないかをね
+-[FID:33, TEXT:01E6] 
++[FID:33, TEXT:022B] 
++[FID:33, TEXT:022C] 
+
+--- Group [right:索尔 next=2012] ---
+予期せぬ事故で呼ばれ
+た君が、危険な存在で
+ないかどうかを
+-[FID:33, TEXT:01E6] 
++[FID:33, TEXT:020F] 
++[FID:33, TEXT:0210] 
+
+--- Group [right:索尔 next=2012] ---
+予期せぬ事故で呼ばれ
+た貴方が、危険な存在
+なのかどうかを
+-[FID:33, TEXT:01E6] 
++[FID:33, TEXT:0248] 
++[FID:33, TEXT:0249] 
+
+--- Group [right:克拉雷特 next=2012] ---
 あの儀式の生き残りと
 して、俺にはそうする
 義務があった
@@ -757,6 +1663,22 @@
 +[FID:33, TEXT:01EB] 
 
 --- Group [right:索尔 next=2012] ---
+あの儀式の生き残りと
+して、僕にはそうする
+義務があった
+-[FID:33, TEXT:01E9] 
++[FID:33, TEXT:0211] 
+-[FID:33, TEXT:01EB] 
+
+--- Group [right:索尔 next=2012] ---
+あの儀式の生き残りと
+して、私にはそうする
+義務がありました
+-[FID:33, TEXT:01E9] 
++[FID:33, TEXT:024A] 
++[FID:33, TEXT:024B] 
+
+--- Group [right:克拉雷特 next=2012] ---
 必要なら、お前を
 処分するつもりだった
 +[FID:33, TEXT:01EC] 
@@ -780,7 +1702,7 @@
 +[FID:33, TEXT:01F3] 
 +[FID:33, TEXT:01F4] 
 
---- Group [right:索尔 next=2012] ---
+--- Group [right:克拉雷特 next=2012] ---
 でもさ・・・
 +[FID:33, TEXT:01F5] 
 
@@ -788,7 +1710,7 @@
 でも？
 +[FID:33, TEXT:01F6] 
 
---- Group [right:索尔 next=2012] ---
+--- Group [right:卡西斯 next=2012] ---
 だめだな、
 俺にはどうしても
 お前が危険な存在
@@ -798,7 +1720,7 @@
 +[FID:33, TEXT:01F9] 
 +[FID:33, TEXT:01FA] 
 
---- Group [right:索尔 next=2012] ---
+--- Group [right:克拉雷特 next=2012] ---
 その力は危険だけど、
 お前は危険でも
 なんでもない
@@ -814,7 +1736,7 @@
 ソルさん・・・
 +[FID:33, TEXT:0200] 
 
---- Group [right:索尔 next=2012] ---
+--- Group [right:卡西斯 next=2012] ---
 だから俺は決めた
 巻きこんでしまった
 お前を必ず元の世界へ
@@ -824,7 +1746,7 @@
 +[FID:33, TEXT:0203] 
 +[FID:33, TEXT:0204] 
 
---- Group [right:索尔 next=2012] ---
+--- Group [right:卡西斯 next=2012] ---
 信じてくれ
 これが全てだ
 +[FID:33, TEXT:0205] 
@@ -845,6 +1767,232 @@
 　そんな・・・
 +[FID:33, TEXT:020A] 
 -[FID:33, TEXT:0209] 
+
+--- Group [left:主人公 next=0023] ---
+なんで・・・
+そんなことしたの？
++[FID:33, TEXT:020B] 
++[FID:33, TEXT:020C] 
+
+--- Group [left:主人公 next=0023] ---
+どうしてですか？
++[FID:33, TEXT:020D] 
+
+--- Group [right:索尔 next=2012] ---
+必要であるなら、君を
+処分するつもりだった
++[FID:33, TEXT:0212] 
+-[FID:33, TEXT:01ED] 
+
+--- Group [right:索尔 next=2012] ---
+君は誰に教わることも
+なく【召喚術】を
+使ってみせた
++[FID:33, TEXT:0213] 
+-[FID:33, TEXT:01EF] 
+-[FID:33, TEXT:01F0] 
+
+--- Group [right:索尔 next=2012] ---
+それは僕たちが、君を
+危険だと判断する
+充分な理由だった
++[FID:33, TEXT:0214] 
++[FID:33, TEXT:0215] 
++[FID:33, TEXT:0216] 
+
+--- Group [right:索尔 next=2012] ---
+ずっと君を見ていて、
+僕にはどうしても君が
+危険な存在だと
+思えなかったんだ
++[FID:33, TEXT:0217] 
++[FID:33, TEXT:0218] 
++[FID:33, TEXT:0219] 
++[FID:33, TEXT:021A] 
+
+--- Group [right:索尔 next=2012] ---
+そして君の近くで暮ら
+してみて、確信した
++[FID:33, TEXT:021B] 
++[FID:33, TEXT:021C] 
+
+--- Group [right:索尔 next=2012] ---
+君の力は危険だけど、
+君はそうじゃないって
+ことをね
++[FID:33, TEXT:021D] 
++[FID:33, TEXT:021E] 
++[FID:33, TEXT:021F] 
+
+--- Group [left:主人公 next=0023] ---
+キール・・・
++[FID:33, TEXT:0220] 
+
+--- Group [left:主人公 next=0023] ---
+キールさん・・・
++[FID:33, TEXT:0221] 
+
+--- Group [right:索尔 next=2012] ---
+だから僕は決めたんだ
+巻きこんでしまった君
+を、必ず元の世界へ
+帰そうって・・・
++[FID:33, TEXT:0222] 
++[FID:33, TEXT:0223] 
++[FID:33, TEXT:0224] 
++[FID:33, TEXT:0225] 
+
+--- Group [right:索尔 next=2012] ---
+信じて、くれるか？
++[FID:33, TEXT:0226] 
+
+--- Group [right:索尔 next=0023] ---
+　・・・信じるよ
+　・・・・・・
++[FID:33, TEXT:0227] 
++[FID:33, TEXT:0228] 
+
+--- Group [right:索尔 next=0023] ---
+　信じます・・・
+　そんな・・・
++[FID:33, TEXT:0229] 
+-[FID:33, TEXT:0209] 
+
+--- Group [right:索尔 next=2012] ---
+あたしには、そうする
+義務があったの
++[FID:33, TEXT:022D] 
++[FID:33, TEXT:022E] 
+
+--- Group [right:索尔 next=2012] ---
+必要なら、キミを処分
+する覚悟もあったわ
++[FID:33, TEXT:022F] 
++[FID:33, TEXT:0230] 
+
+--- Group [right:索尔 next=2012] ---
+キミが【召喚術】を使
+ったときには、かなり
+ショックだったよ
++[FID:33, TEXT:0231] 
++[FID:33, TEXT:0232] 
++[FID:33, TEXT:0233] 
+
+--- Group [right:索尔 next=2012] ---
+それって、キミが危険
+だって判断する充分な
+理由になったもの
++[FID:33, TEXT:0234] 
++[FID:33, TEXT:0235] 
++[FID:33, TEXT:0236] 
+
+--- Group [right:索尔 next=2012] ---
+でもねぇ・・・
++[FID:33, TEXT:0237] 
+
+--- Group [right:索尔 next=2012] ---
+ずっとキミを見てて、
+あたしにはどうしても
+キミが危険な存在だと
+思えなかったのよ
++[FID:33, TEXT:0238] 
++[FID:33, TEXT:0239] 
++[FID:33, TEXT:023A] 
++[FID:33, TEXT:023B] 
+
+--- Group [right:索尔 next=2012] ---
+キミのすぐ側で暮らし
+てみて、よくわかった
++[FID:33, TEXT:023C] 
++[FID:33, TEXT:023D] 
+
+--- Group [right:索尔 next=2012] ---
+危険なのはキミの力で
+あって、キミが危険な
+わけじゃないってね
++[FID:33, TEXT:023E] 
++[FID:33, TEXT:023F] 
++[FID:33, TEXT:0240] 
+
+--- Group [left:主人公 next=0023] ---
+カシス・・・
++[FID:33, TEXT:0241] 
+
+--- Group [right:索尔 next=2012] ---
+だからね、あたし決め
+たんだ！責任もって
+キミを元の世界へ帰し
+たげようって・・・
++[FID:33, TEXT:0242] 
++[FID:33, TEXT:0243] 
++[FID:33, TEXT:0244] 
++[FID:33, TEXT:0245] 
+
+--- Group [right:索尔 next=2012] ---
+信じてくれるかな？
++[FID:33, TEXT:0246] 
+
+--- Group [right:索尔 next=2012] ---
+最悪、貴方を処分する
+という義務も・・・
++[FID:33, TEXT:024C] 
++[FID:33, TEXT:024D] 
+
+--- Group [right:索尔 next=2012] ---
+貴方は誰に教わること
+なく【召喚術】を
+使ってみせました
++[FID:33, TEXT:024E] 
+-[FID:33, TEXT:01EF] 
++[FID:33, TEXT:024F] 
+
+--- Group [right:索尔 next=2012] ---
+それは、貴方のことを
+危険だと判断する充分
+な理由でした
++[FID:33, TEXT:0250] 
++[FID:33, TEXT:0251] 
++[FID:33, TEXT:0252] 
+
+--- Group [right:索尔 next=2012] ---
+私には、貴方がどうし
+ても危険な存在だとは
+思えなかったんです
++[FID:33, TEXT:0253] 
++[FID:33, TEXT:0254] 
++[FID:33, TEXT:0255] 
+
+--- Group [right:索尔 next=2012] ---
+貴方の近くで暮らして
+みた今では、はっきり
+と断言できます
++[FID:33, TEXT:0256] 
++[FID:33, TEXT:0257] 
++[FID:33, TEXT:0258] 
+
+--- Group [right:索尔 next=2012] ---
+危険なのは貴方の力で
+あって、貴方なんじゃ
+ないって・・・
++[FID:33, TEXT:0259] 
++[FID:33, TEXT:025A] 
++[FID:33, TEXT:025B] 
+
+--- Group [left:主人公 next=2012] ---
+クラレット・・・
++[FID:33, TEXT:025C] 
+
+--- Group [right:索尔 next=2012] ---
+私、決めたんです
+絶対に貴方を元の世界
+に帰そうって・・・
++[FID:33, TEXT:025D] 
++[FID:33, TEXT:025E] 
++[FID:33, TEXT:025F] 
+
+--- Group [right:索尔 next=2012] ---
+信じてくれますか？
++[FID:33, TEXT:0260] 
 
 --- Group [left:主人公 next=2012] ---
 知らなかった

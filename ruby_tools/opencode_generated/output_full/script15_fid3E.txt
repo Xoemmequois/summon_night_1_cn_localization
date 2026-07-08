@@ -42,18 +42,18 @@
 
 --- Group 9 [left:char_0004 next=0023] ---
 [FID:3E, TEXT:0012] きちんと説明をしたら
-[FID:3E, TEXT:0013] バノッサも納得するん
-[FID:3E, TEXT:0014] じゃないかな？
-
---- Group 10 [left:char_0004 next=0023] ---
-[FID:3E, TEXT:0012] きちんと説明をしたら
 [FID:3E, TEXT:001B] バノッサさんは納得
 [FID:3E, TEXT:001C] してくれませんか？
 
---- Group 11 [left:char_0004 next=0023] ---
+--- Group 10 [left:char_0004 next=0023] ---
 [FID:3E, TEXT:0012] きちんと説明をしたら
 [FID:3E, TEXT:0015] バノッサも納得しては
 [FID:3E, TEXT:0016] くれないかな？
+
+--- Group 11 [left:char_0004 next=0023] ---
+[FID:3E, TEXT:0012] きちんと説明をしたら
+[FID:3E, TEXT:0013] バノッサも納得するん
+[FID:3E, TEXT:0014] じゃないかな？
 
 --- Group 12 [left:char_0004 next=2012] ---
 [FID:3E, TEXT:0017] バノッサにもワケを
@@ -112,13 +112,13 @@
 [FID:3E, TEXT:0034] 力へのこだわり、か
 [FID:3E, TEXT:0035] たしかに召喚術の力は
 [FID:3E, TEXT:0036] とんでもないものだと
-[FID:3E, TEXT:0037] は思うけど・・・
+[FID:3E, TEXT:003D] は思うが・・・
 
 --- Group 26 [left:char_0004 next=2012] ---
 [FID:3E, TEXT:0034] 力へのこだわり、か
 [FID:3E, TEXT:0035] たしかに召喚術の力は
 [FID:3E, TEXT:0036] とんでもないものだと
-[FID:3E, TEXT:003D] は思うが・・・
+[FID:3E, TEXT:0037] は思うけど・・・
 
 --- Group 27 [left:char_0004 next=2012] ---
 [FID:3E, TEXT:0038] こだわってまで欲しい
@@ -126,14 +126,14 @@
 
 --- Group 28 [left:char_0004 next=0023] ---
 [FID:3E, TEXT:003A] 召喚術を手に入れて、
-[FID:3E, TEXT:003B] バノッサはどうする気
-[FID:3E, TEXT:003C] なんだろう？
-
---- Group 29 [left:char_0004 next=0023] ---
-[FID:3E, TEXT:003A] 召喚術を手に入れて、
 [FID:3E, TEXT:004A] バノッサさんは、
 [FID:3E, TEXT:004B] どうする気なんで
 [FID:3E, TEXT:004C] しょうか？
+
+--- Group 29 [left:char_0004 next=0023] ---
+[FID:3E, TEXT:003A] 召喚術を手に入れて、
+[FID:3E, TEXT:003B] バノッサはどうする気
+[FID:3E, TEXT:003C] なんだろう？
 
 --- Group 30 [left:char_0004 next=2012] ---
 [FID:3E, TEXT:003E] 力にこだわるバノッサ
@@ -179,92 +179,322 @@
 [FID:3E, TEXT:0055] 今のはどういう意味だ
 
 --- Group 40 [left:char_0004 next=0023] ---
+[FID:3E, TEXT:0054] かまわないけど・・・
+[FID:3E, TEXT:0055] 今のはどういう意味だ
+
+--- Group 41 [left:char_0004 next=0023] ---
+[FID:3E, TEXT:0054] かまわないけど・・・
+[FID:3E, TEXT:0055] 今のはどういう意味だ
+
+--- Group 42 [left:char_0004 next=0023] ---
 [FID:3E, TEXT:0056] う〜ん、ま、いいケド
 [FID:3E, TEXT:0057] ・・・それよりも
 [FID:3E, TEXT:0058] 今のどういう意味？
 
---- Group 41 [left:char_0004 next=0023] ---
+--- Group 43 [left:char_0004 next=0023] ---
 [FID:3E, TEXT:0059] それはいいですけど
 [FID:3E, TEXT:005A] 今のはどういう意味
 [FID:3E, TEXT:005B] なんですか？
 
---- Group 42 [right:char_0008 next=2012] ---
+--- Group 44 [right:char_0008 next=2012] ---
 [FID:3E, TEXT:005C] 召喚術ってのは使える
 [FID:3E, TEXT:005D] だけで武器になる
 [FID:3E, TEXT:005E] 実際に使わなくてもな
 
---- Group 43 [right:char_0008 next=2012] ---
+--- Group 45 [right:char_0008 next=2012] ---
 [FID:3E, TEXT:005F] 召喚術の絶大な威力は
 [FID:3E, TEXT:0060] あちこちに知れ渡って
 [FID:3E, TEXT:0061] いるからな
 
---- Group 44 [left:char_0004 next=0023] ---
+--- Group 46 [right:char_000B next=2012] ---
+[FID:3E, TEXT:005F] 召喚術の絶大な威力は
+[FID:3E, TEXT:0060] あちこちに知れ渡って
+[FID:3E, TEXT:00B5] いますから
+
+--- Group 47 [right:char_0009 next=2012] ---
+[FID:3E, TEXT:005F] 召喚術の絶大な威力は
+[FID:3E, TEXT:0060] あちこちに知れ渡って
+[FID:3E, TEXT:0061] いるからな
+
+--- Group 48 [left:char_0004 next=0023] ---
 [FID:3E, TEXT:0062] 使えるだけで、おどし
 [FID:3E, TEXT:0063] になるってことか
 
---- Group 45 [left:char_0004 next=0023] ---
+--- Group 49 [left:char_0004 next=0023] ---
+[FID:3E, TEXT:0062] 使えるだけで、おどし
+[FID:3E, TEXT:008A] になるってことか！？
+
+--- Group 50 [left:char_0004 next=0023] ---
+[FID:3E, TEXT:0062] 使えるだけで、おどし
+[FID:3E, TEXT:0063] になるってことか
+
+--- Group 51 [left:char_0004 next=0023] ---
+[FID:3E, TEXT:0062] 使えるだけで、おどし
+[FID:3E, TEXT:0063] になるってことか
+
+--- Group 52 [left:char_0004 next=0023] ---
+[FID:3E, TEXT:0062] 使えるだけで、おどし
+[FID:3E, TEXT:008C] になりますよね・・・
+
+--- Group 53 [left:char_0004 next=0023] ---
+[FID:3E, TEXT:0062] 使えるだけで、おどし
+[FID:3E, TEXT:008B] になるってことじゃん
+
+--- Group 54 [left:char_0004 next=0023] ---
+[FID:3E, TEXT:0062] 使えるだけで、おどし
+[FID:3E, TEXT:008A] になるってことか！？
+
+--- Group 55 [left:char_0004 next=0023] ---
+[FID:3E, TEXT:0062] 使えるだけで、おどし
+[FID:3E, TEXT:008A] になるってことか！？
+
+--- Group 56 [left:char_0004 next=0023] ---
 [FID:3E, TEXT:0064] つまり、使えるだけで
 [FID:3E, TEXT:0065] 相手が勝手に怖がる？
 
---- Group 46 [left:char_0004 next=0023] ---
+--- Group 57 [left:char_0004 next=0023] ---
 [FID:3E, TEXT:0066] 使えるだけで、
 [FID:3E, TEXT:0067] おどしになる・・・？
 
---- Group 47 [right:char_0008 next=2012] ---
+--- Group 58 [left:char_0004 next=0023] ---
+[FID:3E, TEXT:0066] 使えるだけで、
+[FID:3E, TEXT:00A4] おどしになりますね
+
+--- Group 59 [right:char_0009 next=2012] ---
 [FID:3E, TEXT:0068] それだけじゃない
 
---- Group 48 [right:char_0008 next=2012] ---
+--- Group 60 [right:char_0008 next=2012] ---
+[FID:3E, TEXT:0068] それだけじゃない
+
+--- Group 61 [right:char_0009 next=2012] ---
+[FID:3E, TEXT:0069] 召喚術は金にもなる
+[FID:3E, TEXT:006A] 権力者に力を貸せば、
+[FID:3E, TEXT:008D] 立身出世も思いのまま
+[FID:3E, TEXT:008E] だろう
+
+--- Group 62 [right:char_0008 next=2012] ---
 [FID:3E, TEXT:0069] 召喚術は金にもなる
 [FID:3E, TEXT:006A] 権力者に力を貸せば、
 [FID:3E, TEXT:006B] 出世なんてお手のもの
 [FID:3E, TEXT:006C] なんだよ
 
---- Group 49 [right:char_0008 next=2012] ---
+--- Group 63 [right:char_000B next=2012] ---
+[FID:3E, TEXT:006A] 権力者に力を貸せば、
+[FID:3E, TEXT:008D] 立身出世も思いのまま
+[FID:3E, TEXT:00BA] でしょうね
+
+--- Group 64 [right:char_0008 next=2012] ---
 [FID:3E, TEXT:006D] この街の召喚師たちも
 [FID:3E, TEXT:006E] そういう奴らだろ
 
---- Group 50 [left:char_0004 next=0023] ---
+--- Group 65 [left:char_0004 next=0023] ---
 [FID:3E, TEXT:006F] あ・・・
 
---- Group 51 [left:char_0004 next=0023] ---
+--- Group 66 [left:char_0004 next=0023] ---
+[FID:3E, TEXT:006F] あ・・・
+
+--- Group 67 [left:char_0004 next=0023] ---
+[FID:3E, TEXT:006F] あ・・・
+
+--- Group 68 [left:char_0004 next=0023] ---
+[FID:3E, TEXT:006F] あ・・・
+
+--- Group 69 [left:char_0004 next=0023] ---
 [FID:3E, TEXT:0070] あ、そういえば・・・
 
---- Group 52 [right:char_0008 next=2012] ---
+--- Group 70 [right:char_0008 next=2012] ---
 [FID:3E, TEXT:0071] 異世界から来た
 [FID:3E, TEXT:0072] お前には難しいかも
 [FID:3E, TEXT:0073] しれないが
 
---- Group 53 [right:char_0008 next=2012] ---
+--- Group 71 [right:char_0008 next=2012] ---
 [FID:3E, TEXT:0074] お前のその力には
 [FID:3E, TEXT:0075] それだけの価値がある
 [FID:3E, TEXT:0076] それをわかって
 [FID:3E, TEXT:0077] おくことだ
 
---- Group 54 [right:char_0014 next=2012] ---
+--- Group 72 [right:char_000B next=2012] ---
+[FID:3E, TEXT:0078] おそらく、手に入れる
+[FID:3E, TEXT:00AF] だけでいいんでしょう
+
+--- Group 73 [right:char_0009 next=2012] ---
+[FID:3E, TEXT:0078] おそらく、手に入れる
+[FID:3E, TEXT:0079] だけでいいんだろうな
+
+--- Group 74 [left:char_0004 next=0023] ---
+[FID:3E, TEXT:007A] キール！？
+
+--- Group 75 [left:char_0004 next=0023] ---
+[FID:3E, TEXT:007B] キールさん！？
+
+--- Group 76 [right:char_0009 next=2012] ---
+[FID:3E, TEXT:007C] ノックをしたんだが、
+[FID:3E, TEXT:007D] 返事がなかったんでな
+
+--- Group 77 [left:char_0004 next=0023] ---
+[FID:3E, TEXT:007E] それはいいけど・・・
+[FID:3E, TEXT:007F] 今のはどういう意味？
+
+--- Group 78 [left:char_0004 next=0023] ---
+[FID:3E, TEXT:007E] それはいいけど・・・
+[FID:3E, TEXT:007F] 今のはどういう意味？
+
+--- Group 79 [left:char_0004 next=0023] ---
+[FID:3E, TEXT:007E] それはいいけど・・・
+[FID:3E, TEXT:007F] 今のはどういう意味？
+
+--- Group 80 [left:char_0004 next=0023] ---
+[FID:3E, TEXT:0080] う〜ん・・・
+[FID:3E, TEXT:0081] だから入っていいとは
+[FID:3E, TEXT:0082] 思わないけど・・・
+[FID:3E, TEXT:0083] それより、なに？
+
+--- Group 81 [left:char_0004 next=0023] ---
+[FID:3E, TEXT:0084] いえ、それは・・・
+[FID:3E, TEXT:0085] それより・・・
+[FID:3E, TEXT:0086] 今のは・・・
+
+--- Group 82 [right:char_0009 next=2012] ---
+[FID:3E, TEXT:0087] 召喚術は使わずとも、
+[FID:3E, TEXT:0088] 使えるということだけ
+[FID:3E, TEXT:0089] で武器になるのさ
+
+--- Group 83 [right:char_000A next=2012] ---
+[FID:3E, TEXT:0087] 召喚術は使わずとも、
+[FID:3E, TEXT:0088] 使えるということだけ
+[FID:3E, TEXT:00A1] で武器になるのよ
+
+--- Group 84 [right:char_000B next=2012] ---
+[FID:3E, TEXT:0087] 召喚術は使わずとも、
+[FID:3E, TEXT:0088] 使えるということだけ
+[FID:3E, TEXT:00B4] で武器になるんです
+
+--- Group 85 [right:char_000A next=2012] ---
+[FID:3E, TEXT:008F] この街の召喚師たちの
+[FID:3E, TEXT:00A9] ようにね
+
+--- Group 86 [right:char_0009 next=2012] ---
+[FID:3E, TEXT:008F] この街の召喚師たちの
+[FID:3E, TEXT:0090] ように
+
+--- Group 87 [right:char_000B next=2012] ---
+[FID:3E, TEXT:008F] この街の召喚師たちの
+[FID:3E, TEXT:0090] ように
+
+--- Group 88 [left:char_0004 next=0023] ---
+[FID:3E, TEXT:0091] あ・・・うん、確かに
+
+--- Group 89 [right:char_0009 next=2012] ---
+[FID:3E, TEXT:0092] 異世界から来た君には
+[FID:3E, TEXT:0093] 想像しにくいこと
+[FID:3E, TEXT:0094] だろうけれど
+
+--- Group 90 [right:char_0009 next=2012] ---
+[FID:3E, TEXT:0095] 君が自然に使っている
+[FID:3E, TEXT:0096] あの力は、それだけの
+[FID:3E, TEXT:0097] 価値を持っているのさ
+
+--- Group 91 [right:char_000A next=2012] ---
+[FID:3E, TEXT:0098] 手に入れるだけで充分
+[FID:3E, TEXT:0099] なんだってば！
+
+--- Group 92 [left:char_0004 next=0023] ---
+[FID:3E, TEXT:009A] カシス！？
+
+--- Group 93 [left:char_0004 next=0023] ---
+[FID:3E, TEXT:009B] カシスさん！？
+
+--- Group 94 [right:char_000A next=2012] ---
+[FID:3E, TEXT:009C] あはは、ノックしても
+[FID:3E, TEXT:0052] 返事がなかったんで
+
+--- Group 95 [left:char_0004 next=0023] ---
+[FID:3E, TEXT:009D] それはいいんです
+[FID:3E, TEXT:009E] それよりも
+[FID:3E, TEXT:009F] 今の言葉の意味を
+[FID:3E, TEXT:00A0] 教えてください
+
+--- Group 96 [right:char_000A next=2012] ---
+[FID:3E, TEXT:00A2] 召喚術の恐ろしい力は
+[FID:3E, TEXT:0060] あちこちに知れ渡って
+[FID:3E, TEXT:00A3] いるからねぇ
+
+--- Group 97 [right:char_000A next=2012] ---
+[FID:3E, TEXT:00A5] それだけじゃないわよ
+
+--- Group 98 [right:char_000A next=2012] ---
+[FID:3E, TEXT:00A6] 召喚術はお金になるの
+[FID:3E, TEXT:006A] 権力者に力を貸せば、
+[FID:3E, TEXT:00A7] 思いっきりぜいたく
+[FID:3E, TEXT:00A8] できる
+
+--- Group 99 [right:char_000A next=2012] ---
+[FID:3E, TEXT:00AA] 異世界から来たキミは
+[FID:3E, TEXT:00AB] 知らなくて当然
+[FID:3E, TEXT:00AC] だろうけどね
+
+--- Group 100 [right:char_000A next=2012] ---
+[FID:3E, TEXT:00AD] キミが自然に使ってる
+[FID:3E, TEXT:0096] あの力は、それだけの
+[FID:3E, TEXT:00AE] 価値を持ってるのよ
+
+--- Group 101 [left:char_0004 next=2012] ---
+[FID:3E, TEXT:00B0] クラレット！？
+
+--- Group 102 [right:char_000B next=2012] ---
+[FID:3E, TEXT:00B1] ごめんなさい
+[FID:3E, TEXT:00B2] 立ち聞きしちゃって
+
+--- Group 103 [left:char_0004 next=0023] ---
+[FID:3E, TEXT:00B3] いいけど・・・
+[FID:3E, TEXT:007F] 今のはどういう意味？
+
+--- Group 104 [left:char_0004 next=0023] ---
+[FID:3E, TEXT:00B6] 使えるだけで、相手を
+[FID:3E, TEXT:00B7] 脅すことができる？
+
+--- Group 105 [right:char_000B next=2012] ---
+[FID:3E, TEXT:00B8] ええ、それに召喚術は
+[FID:3E, TEXT:00B9] お金にもなります
+
+--- Group 106 [left:char_0004 next=0023] ---
+[FID:3E, TEXT:00BB] うん、そうだね・・・
+
+--- Group 107 [right:char_000B next=2012] ---
+[FID:3E, TEXT:00BC] 異世界から来た貴方に
+[FID:3E, TEXT:00BD] は想像しにくいことで
+[FID:3E, TEXT:00BE] しょうけれど
+
+--- Group 108 [right:char_000B next=2012] ---
+[FID:3E, TEXT:00BF] 貴方が自然に使ってい
+[FID:3E, TEXT:00C0] るあの力には、それだ
+[FID:3E, TEXT:00C1] けの価値があるんです
+
+--- Group 109 [right:char_0014 next=2012] ---
 [FID:3E, TEXT:00C2] ・・・復讐だろう
 
---- Group 55 [left:char_0004 next=0023] ---
+--- Group 110 [left:char_0004 next=0023] ---
 [FID:3E, TEXT:00C3] エドス！？
 
---- Group 56 [left:char_0004 next=0023] ---
+--- Group 111 [left:char_0004 next=0023] ---
 [FID:3E, TEXT:00C4] エドスさん！？
 
---- Group 57 [right:char_0014 next=2012] ---
+--- Group 112 [right:char_0014 next=2012] ---
 [FID:3E, TEXT:00C5] あいつの口癖さ
 [FID:3E, TEXT:00C6] 「復讐してやる」って
 [FID:3E, TEXT:00C7] いつも繰り返しとった
 
---- Group 58 [right:char_0014 next=2012] ---
+--- Group 113 [right:char_0014 next=2012] ---
 [FID:3E, TEXT:00C8] なにに復讐したいのか
 [FID:3E, TEXT:00C9] までは知らんがな
 
---- Group 59 [right:char_0014 next=2012] ---
+--- Group 114 [right:char_0014 next=2012] ---
 [FID:3E, TEXT:00CA] くだらん理由だよな
 [FID:3E, TEXT:00CB] 本当に・・・
 
---- Group 60 [left:char_0004 next=0023] ---
+--- Group 115 [left:char_0004 next=0023] ---
 [FID:3E, TEXT:00CC] エドス・・・？
 
---- Group 61 [left:char_0004 next=0023] ---
+--- Group 116 [left:char_0004 next=0023] ---
 [FID:3E, TEXT:00CD] エドスさん・・・
 

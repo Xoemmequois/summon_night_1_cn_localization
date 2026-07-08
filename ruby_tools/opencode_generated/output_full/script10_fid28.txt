@@ -1,7 +1,7 @@
 --- Group 1 [left:char_0004 next=2012] ---
 [FID:28, TEXT:0001] ここでの生活にも
 [FID:28, TEXT:0002] やっと慣れてきたって
-[FID:28, TEXT:0003] 感じかな？
+[FID:28, TEXT:000A] 感じだな
 
 --- Group 2 [left:char_0004 next=2012] ---
 [FID:28, TEXT:0001] ここでの生活にも
@@ -20,13 +20,13 @@
 
 --- Group 5 [left:char_0004 next=2012] ---
 [FID:28, TEXT:0001] ここでの生活にも
-[FID:28, TEXT:0002] やっと慣れてきたって
-[FID:28, TEXT:000A] 感じだな
+[FID:28, TEXT:0012] ようやく慣れてきた
+[FID:28, TEXT:0013] 気がしますけど・・・
 
 --- Group 6 [left:char_0004 next=2012] ---
 [FID:28, TEXT:0001] ここでの生活にも
-[FID:28, TEXT:0012] ようやく慣れてきた
-[FID:28, TEXT:0013] 気がしますけど・・・
+[FID:28, TEXT:0002] やっと慣れてきたって
+[FID:28, TEXT:0003] 感じかな？
 
 --- Group 7 [left:char_0004 next=2012] ---
 [FID:28, TEXT:0004] それなりにひとり歩き
@@ -41,22 +41,22 @@
 --- Group 9 [left:char_0004 next=0023] ---
 [FID:28, TEXT:0007] 今日は散歩がてら、
 [FID:28, TEXT:0008] この街をあちこち回っ
-[FID:28, TEXT:0009] てみるとするか
+[FID:28, TEXT:000B] てみるか
 
 --- Group 10 [left:char_0004 next=0023] ---
 [FID:28, TEXT:0007] 今日は散歩がてら、
 [FID:28, TEXT:0008] この街をあちこち回っ
-[FID:28, TEXT:000B] てみるか
+[FID:28, TEXT:0009] てみるとするか
 
 --- Group 11 [left:char_0004 next=0023] ---
 [FID:28, TEXT:0007] 今日は散歩がてら、
 [FID:28, TEXT:0008] この街をあちこち回っ
-[FID:28, TEXT:000B] てみるか
+[FID:28, TEXT:0009] てみるとするか
 
 --- Group 12 [left:char_0004 next=0023] ---
 [FID:28, TEXT:0007] 今日は散歩がてら、
 [FID:28, TEXT:0008] この街をあちこち回っ
-[FID:28, TEXT:0009] てみるとするか
+[FID:28, TEXT:000B] てみるか
 
 --- Group 13 [left:char_0004 next=2012] ---
 [FID:28, TEXT:000C] 一人で出歩ける
@@ -103,47 +103,47 @@
 [FID:28, TEXT:001B] 【金の派閥】ってなん
 [FID:28, TEXT:001D] のことです？
 
---- Group 22 [left:char_0004 next=0023] ---
+--- Group 22 [left:none next=0023] ---
 [FID:28, TEXT:001A] イムランが言っていた
 [FID:28, TEXT:001B] 【金の派閥】ってなん
 [FID:28, TEXT:001C] のことか知ってます？
 
---- Group 23 [left:none next=0023] ---
+--- Group 23 [left:char_0004 next=0023] ---
 [FID:28, TEXT:001A] イムランが言っていた
 [FID:28, TEXT:001B] 【金の派閥】ってなん
 [FID:28, TEXT:001D] のことです？
 
---- Group 24 [left:none next=0023] ---
-[FID:28, TEXT:001A] イムランが言っていた
-[FID:28, TEXT:001B] 【金の派閥】ってなん
-[FID:28, TEXT:001D] のことです？
-
---- Group 25 [left:none next=0023] ---
+--- Group 24 [left:char_0004 next=0023] ---
 [FID:28, TEXT:001A] イムランが言っていた
 [FID:28, TEXT:001B] 【金の派閥】ってなん
 [FID:28, TEXT:001C] のことか知ってます？
 
---- Group 26 [left:char_0004 next=0023] ---
+--- Group 25 [left:char_0004 next=0023] ---
 [FID:28, TEXT:001A] イムランが言っていた
 [FID:28, TEXT:001B] 【金の派閥】ってなん
 [FID:28, TEXT:001C] のことか知ってます？
 
---- Group 27 [left:char_0004 next=0023] ---
+--- Group 26 [left:none next=0023] ---
 [FID:28, TEXT:001A] イムランが言っていた
 [FID:28, TEXT:001B] 【金の派閥】ってなん
 [FID:28, TEXT:001D] のことです？
+
+--- Group 27 [left:none next=0023] ---
+[FID:28, TEXT:001A] イムランが言っていた
+[FID:28, TEXT:001B] 【金の派閥】ってなん
+[FID:28, TEXT:001C] のことか知ってます？
 
 --- Group 28 [left:none next=0023] ---
 [FID:28, TEXT:001A] イムランが言っていた
 [FID:28, TEXT:001B] 【金の派閥】ってなん
-[FID:28, TEXT:001C] のことか知ってます？
+[FID:28, TEXT:001D] のことです？
 
---- Group 29 [left:char_0004 next=0023] ---
+--- Group 29 [left:none next=0023] ---
 [FID:28, TEXT:001E] レイドさん、
 [FID:28, TEXT:001B] 【金の派閥】ってなん
 [FID:28, TEXT:001C] のことか知ってます？
 
---- Group 30 [left:none next=0023] ---
+--- Group 30 [left:char_0004 next=0023] ---
 [FID:28, TEXT:001E] レイドさん、
 [FID:28, TEXT:001B] 【金の派閥】ってなん
 [FID:28, TEXT:001C] のことか知ってます？
@@ -178,19 +178,19 @@
 [FID:28, TEXT:001B] 【金の派閥】ってなん
 [FID:28, TEXT:0020] なのでしょうか？
 
---- Group 37 [right:char_0022 next=2012] ---
+--- Group 37 [right:none next=2012] ---
 [FID:28, TEXT:0021] ああ、それは召喚師の
 [FID:28, TEXT:0022] グループのことだよ
 
---- Group 38 [right:char_0022 next=2012] ---
+--- Group 38 [right:none next=2012] ---
 [FID:28, TEXT:0021] ああ、それは召喚師の
 [FID:28, TEXT:0022] グループのことだよ
 
---- Group 39 [right:none next=2012] ---
+--- Group 39 [right:char_0022 next=2012] ---
 [FID:28, TEXT:0021] ああ、それは召喚師の
 [FID:28, TEXT:0022] グループのことだよ
 
---- Group 40 [right:none next=2012] ---
+--- Group 40 [right:char_0022 next=2012] ---
 [FID:28, TEXT:0021] ああ、それは召喚師の
 [FID:28, TEXT:0022] グループのことだよ
 
@@ -218,15 +218,15 @@
 [FID:28, TEXT:0025] 知識を提供する人々の
 [FID:28, TEXT:0026] 集まりと聞く
 
---- Group 45 [left:char_0004 next=0023] ---
+--- Group 45 [left:none next=0023] ---
+[FID:28, TEXT:0027] 召喚術を商品にしてる
+[FID:28, TEXT:0028] わけか・・・
+
+--- Group 46 [left:char_0004 next=0023] ---
 [FID:28, TEXT:0027] 召喚術を商品にしてる
 [FID:28, TEXT:0029] ってことですか？
 
---- Group 46 [left:none next=0023] ---
-[FID:28, TEXT:0027] 召喚術を商品にしてる
-[FID:28, TEXT:0029] ってことですか？
-
---- Group 47 [left:none next=0023] ---
+--- Group 47 [left:char_0004 next=0023] ---
 [FID:28, TEXT:0027] 召喚術を商品にしてる
 [FID:28, TEXT:0028] わけか・・・
 
@@ -234,21 +234,21 @@
 [FID:28, TEXT:0027] 召喚術を商品にしてる
 [FID:28, TEXT:0029] ってことですか？
 
---- Group 49 [left:char_0004 next=0023] ---
-[FID:28, TEXT:0027] 召喚術を商品にしてる
-[FID:28, TEXT:0028] わけか・・・
-
---- Group 50 [left:char_0004 next=0023] ---
+--- Group 49 [left:none next=0023] ---
 [FID:28, TEXT:0027] 召喚術を商品にしてる
 [FID:28, TEXT:0029] ってことですか？
 
---- Group 51 [left:none next=0023] ---
+--- Group 50 [left:none next=0023] ---
+[FID:28, TEXT:0027] 召喚術を商品にしてる
+[FID:28, TEXT:0028] わけか・・・
+
+--- Group 51 [left:char_0004 next=0023] ---
 [FID:28, TEXT:0027] 召喚術を商品にしてる
 [FID:28, TEXT:0028] わけか・・・
 
 --- Group 52 [left:char_0004 next=0023] ---
 [FID:28, TEXT:0027] 召喚術を商品にしてる
-[FID:28, TEXT:0028] わけか・・・
+[FID:28, TEXT:0029] ってことですか？
 
 --- Group 53 [left:none next=0023] ---
 [FID:28, TEXT:002A] 召喚術で商売してる
@@ -266,7 +266,7 @@
 [FID:28, TEXT:002A] 召喚術で商売してる
 [FID:28, TEXT:002B] ひとたちなんですね
 
---- Group 57 [left:none next=0023] ---
+--- Group 57 [left:char_0004 next=0023] ---
 [FID:28, TEXT:002C] 召喚術が彼らの商品
 [FID:28, TEXT:002D] というわけですね？
 
@@ -278,23 +278,23 @@
 [FID:28, TEXT:002C] 召喚術が彼らの商品
 [FID:28, TEXT:002D] というわけですね？
 
---- Group 60 [left:char_0004 next=0023] ---
+--- Group 60 [left:none next=0023] ---
 [FID:28, TEXT:002C] 召喚術が彼らの商品
 [FID:28, TEXT:002D] というわけですね？
 
---- Group 61 [right:char_0022 next=2012] ---
+--- Group 61 [right:none next=2012] ---
 [FID:28, TEXT:002E] そう思っても間違いは
 [FID:28, TEXT:002F] ないだろうな
 
---- Group 62 [right:none next=2012] ---
+--- Group 62 [right:char_0022 next=2012] ---
 [FID:28, TEXT:002E] そう思っても間違いは
 [FID:28, TEXT:002F] ないだろうな
 
---- Group 63 [right:char_0022 next=2012] ---
+--- Group 63 [right:none next=2012] ---
 [FID:28, TEXT:002E] そう思っても間違いは
 [FID:28, TEXT:002F] ないだろうな
 
---- Group 64 [right:none next=2012] ---
+--- Group 64 [right:char_0022 next=2012] ---
 [FID:28, TEXT:002E] そう思っても間違いは
 [FID:28, TEXT:002F] ないだろうな
 
@@ -310,37 +310,37 @@
 [FID:28, TEXT:0032] を使う事になるとは
 [FID:28, TEXT:0033] 思わなかったよ
 
---- Group 67 [right:char_0022 next=2012] ---
+--- Group 67 [right:none next=2012] ---
 [FID:28, TEXT:0030] 君はともかくとして、
 [FID:28, TEXT:0031] まさか私たちも召喚術
 [FID:28, TEXT:0032] を使う事になるとは
 [FID:28, TEXT:0033] 思わなかったよ
 
---- Group 68 [right:none next=2012] ---
+--- Group 68 [right:char_0022 next=2012] ---
 [FID:28, TEXT:0030] 君はともかくとして、
 [FID:28, TEXT:0031] まさか私たちも召喚術
 [FID:28, TEXT:0032] を使う事になるとは
 [FID:28, TEXT:0033] 思わなかったよ
 
---- Group 69 [right:char_0022 next=2012] ---
+--- Group 69 [right:none next=2012] ---
 [FID:28, TEXT:0034] 召喚術というものは、
 [FID:28, TEXT:0035] 召喚師の家系に生まれ
 [FID:28, TEXT:0036] た者にしか使えないと
 [FID:28, TEXT:0037] 聞いていたからね
 
---- Group 70 [right:none next=2012] ---
+--- Group 70 [right:char_0022 next=2012] ---
 [FID:28, TEXT:0034] 召喚術というものは、
 [FID:28, TEXT:0035] 召喚師の家系に生まれ
 [FID:28, TEXT:0036] た者にしか使えないと
 [FID:28, TEXT:0037] 聞いていたからね
 
---- Group 71 [right:none next=2012] ---
+--- Group 71 [right:char_0022 next=2012] ---
 [FID:28, TEXT:0034] 召喚術というものは、
 [FID:28, TEXT:0035] 召喚師の家系に生まれ
 [FID:28, TEXT:0036] た者にしか使えないと
 [FID:28, TEXT:0037] 聞いていたからね
 
---- Group 72 [right:char_0022 next=2012] ---
+--- Group 72 [right:none next=2012] ---
 [FID:28, TEXT:0034] 召喚術というものは、
 [FID:28, TEXT:0035] 召喚師の家系に生まれ
 [FID:28, TEXT:0036] た者にしか使えないと
@@ -386,1820 +386,2014 @@
 [FID:28, TEXT:003A] ああ、普通の人々には
 [FID:28, TEXT:003B] それが常識だよ
 
---- Group 85 [right:none next=0023] ---
+--- Group 85 [right:char_0022 next=0023] ---
 [FID:28, TEXT:003C] ソルが
 
 --- Group 86 [right:none next=0023] ---
 [FID:28, TEXT:003C] ソルが
 
---- Group 87 [right:char_0022 next=0023] ---
+--- Group 87 [right:none next=0023] ---
 [FID:28, TEXT:003C] ソルが
 
 --- Group 88 [right:char_0022 next=0023] ---
 [FID:28, TEXT:003C] ソルが
 
---- Group 89 [right:char_0022 next=2012] ---
+--- Group 89 [right:none next=0023] ---
+[FID:28, TEXT:003D] キールが
+
+--- Group 90 [right:char_0022 next=0023] ---
+[FID:28, TEXT:003D] キールが
+
+--- Group 91 [right:none next=0023] ---
+[FID:28, TEXT:003D] キールが
+
+--- Group 92 [right:char_0022 next=0023] ---
+[FID:28, TEXT:003D] キールが
+
+--- Group 93 [right:none next=0023] ---
+[FID:28, TEXT:003E] カシスが
+
+--- Group 94 [right:none next=0023] ---
+[FID:28, TEXT:003E] カシスが
+
+--- Group 95 [right:char_0022 next=0023] ---
+[FID:28, TEXT:003E] カシスが
+
+--- Group 96 [right:char_0022 next=0023] ---
+[FID:28, TEXT:003E] カシスが
+
+--- Group 97 [right:none next=0023] ---
+[FID:28, TEXT:003F] クラレットが
+
+--- Group 98 [right:none next=0023] ---
+[FID:28, TEXT:003F] クラレットが
+
+--- Group 99 [right:char_0022 next=0023] ---
+[FID:28, TEXT:003F] クラレットが
+
+--- Group 100 [right:char_0022 next=0023] ---
+[FID:28, TEXT:003F] クラレットが
+
+--- Group 101 [right:char_0022 next=2012] ---
 [FID:28, TEXT:0040] 君に教えてくれた話は
 [FID:28, TEXT:0041] かなり重大な秘密じゃ
 [FID:28, TEXT:0042] ないのかな
 
---- Group 90 [right:none next=2012] ---
+--- Group 102 [right:char_0022 next=2012] ---
 [FID:28, TEXT:0040] 君に教えてくれた話は
 [FID:28, TEXT:0041] かなり重大な秘密じゃ
 [FID:28, TEXT:0042] ないのかな
 
---- Group 91 [right:none next=2012] ---
+--- Group 103 [right:none next=2012] ---
 [FID:28, TEXT:0040] 君に教えてくれた話は
 [FID:28, TEXT:0041] かなり重大な秘密じゃ
 [FID:28, TEXT:0042] ないのかな
 
---- Group 92 [right:char_0022 next=2012] ---
+--- Group 104 [right:none next=2012] ---
 [FID:28, TEXT:0040] 君に教えてくれた話は
 [FID:28, TEXT:0041] かなり重大な秘密じゃ
 [FID:28, TEXT:0042] ないのかな
 
---- Group 93 [right:char_0022 next=2012] ---
+--- Group 105 [right:char_0022 next=2012] ---
 [FID:28, TEXT:0043] どうだ？
 [FID:28, TEXT:0044] そろそろここの生活に
 [FID:28, TEXT:0045] も慣れてきたか？
 
---- Group 94 [right:none next=2012] ---
+--- Group 106 [right:none next=2012] ---
 [FID:28, TEXT:0043] どうだ？
 [FID:28, TEXT:0044] そろそろここの生活に
 [FID:28, TEXT:0045] も慣れてきたか？
 
---- Group 95 [right:char_0022 next=2012] ---
+--- Group 107 [right:char_0022 next=2012] ---
 [FID:28, TEXT:0043] どうだ？
 [FID:28, TEXT:0044] そろそろここの生活に
 [FID:28, TEXT:0045] も慣れてきたか？
 
---- Group 96 [right:none next=2012] ---
+--- Group 108 [right:none next=2012] ---
 [FID:28, TEXT:0043] どうだ？
 [FID:28, TEXT:0044] そろそろここの生活に
 [FID:28, TEXT:0045] も慣れてきたか？
-
---- Group 97 [left:none next=0023] ---
-[FID:28, TEXT:0046] ええ、おかげさまで
-
---- Group 98 [left:none next=0023] ---
-[FID:28, TEXT:0046] ええ、おかげさまで
-
---- Group 99 [left:char_0004 next=0023] ---
-[FID:28, TEXT:0046] ええ、おかげさまで
-
---- Group 100 [left:char_0004 next=0023] ---
-[FID:28, TEXT:0046] ええ、おかげさまで
-
---- Group 101 [left:char_0004 next=0023] ---
-[FID:28, TEXT:0047] ええ、なんとか
-
---- Group 102 [left:none next=0023] ---
-[FID:28, TEXT:0047] ええ、なんとか
-
---- Group 103 [left:char_0004 next=0023] ---
-[FID:28, TEXT:0047] ええ、なんとか
-
---- Group 104 [left:none next=0023] ---
-[FID:28, TEXT:0047] ええ、なんとか
-
---- Group 105 [left:char_0004 next=0023] ---
-[FID:28, TEXT:0048] はい、おかげさまで
-
---- Group 106 [left:none next=0023] ---
-[FID:28, TEXT:0048] はい、おかげさまで
-
---- Group 107 [left:char_0004 next=0023] ---
-[FID:28, TEXT:0048] はい、おかげさまで
-
---- Group 108 [left:none next=0023] ---
-[FID:28, TEXT:0048] はい、おかげさまで
 
 --- Group 109 [left:char_0004 next=0023] ---
-[FID:28, TEXT:0049] はい、すこしずつ
-[FID:28, TEXT:004A] ですけれど
+[FID:28, TEXT:0046] ええ、おかげさまで
 
 --- Group 110 [left:none next=0023] ---
-[FID:28, TEXT:0049] はい、すこしずつ
-[FID:28, TEXT:004A] ですけれど
+[FID:28, TEXT:0046] ええ、おかげさまで
 
 --- Group 111 [left:none next=0023] ---
-[FID:28, TEXT:0049] はい、すこしずつ
-[FID:28, TEXT:004A] ですけれど
+[FID:28, TEXT:0046] ええ、おかげさまで
 
 --- Group 112 [left:char_0004 next=0023] ---
+[FID:28, TEXT:0046] ええ、おかげさまで
+
+--- Group 113 [left:char_0004 next=0023] ---
+[FID:28, TEXT:0047] ええ、なんとか
+
+--- Group 114 [left:none next=0023] ---
+[FID:28, TEXT:0047] ええ、なんとか
+
+--- Group 115 [left:char_0004 next=0023] ---
+[FID:28, TEXT:0047] ええ、なんとか
+
+--- Group 116 [left:none next=0023] ---
+[FID:28, TEXT:0047] ええ、なんとか
+
+--- Group 117 [left:none next=0023] ---
+[FID:28, TEXT:0048] はい、おかげさまで
+
+--- Group 118 [left:none next=0023] ---
+[FID:28, TEXT:0048] はい、おかげさまで
+
+--- Group 119 [left:char_0004 next=0023] ---
+[FID:28, TEXT:0048] はい、おかげさまで
+
+--- Group 120 [left:char_0004 next=0023] ---
+[FID:28, TEXT:0048] はい、おかげさまで
+
+--- Group 121 [left:char_0004 next=0023] ---
 [FID:28, TEXT:0049] はい、すこしずつ
 [FID:28, TEXT:004A] ですけれど
 
---- Group 113 [right:char_0022 next=2012] ---
+--- Group 122 [left:none next=0023] ---
+[FID:28, TEXT:0049] はい、すこしずつ
+[FID:28, TEXT:004A] ですけれど
+
+--- Group 123 [left:char_0004 next=0023] ---
+[FID:28, TEXT:0049] はい、すこしずつ
+[FID:28, TEXT:004A] ですけれど
+
+--- Group 124 [left:none next=0023] ---
+[FID:28, TEXT:0049] はい、すこしずつ
+[FID:28, TEXT:004A] ですけれど
+
+--- Group 125 [right:char_0022 next=2012] ---
 [FID:28, TEXT:004B] あれっきりバノッサも
 [FID:28, TEXT:004C] おとなしいし、おかげ
 [FID:28, TEXT:004D] でワシも安心して仕事
 [FID:28, TEXT:004E] に出かけられる
 
---- Group 114 [right:char_0022 next=2012] ---
+--- Group 126 [right:char_0022 next=2012] ---
 [FID:28, TEXT:004B] あれっきりバノッサも
 [FID:28, TEXT:004C] おとなしいし、おかげ
 [FID:28, TEXT:004D] でワシも安心して仕事
 [FID:28, TEXT:004E] に出かけられる
 
---- Group 115 [right:none next=2012] ---
+--- Group 127 [right:none next=2012] ---
 [FID:28, TEXT:004B] あれっきりバノッサも
 [FID:28, TEXT:004C] おとなしいし、おかげ
 [FID:28, TEXT:004D] でワシも安心して仕事
 [FID:28, TEXT:004E] に出かけられる
 
---- Group 116 [right:none next=2012] ---
+--- Group 128 [right:none next=2012] ---
 [FID:28, TEXT:004B] あれっきりバノッサも
 [FID:28, TEXT:004C] おとなしいし、おかげ
 [FID:28, TEXT:004D] でワシも安心して仕事
 [FID:28, TEXT:004E] に出かけられる
 
---- Group 117 [left:none next=0023] ---
+--- Group 129 [left:char_0004 next=0023] ---
 [FID:28, TEXT:004F] 石切りでしたっけ？
 
---- Group 118 [left:none next=0023] ---
+--- Group 130 [left:none next=0023] ---
 [FID:28, TEXT:004F] 石切りでしたっけ？
 
---- Group 119 [left:char_0004 next=0023] ---
+--- Group 131 [left:char_0004 next=0023] ---
 [FID:28, TEXT:004F] 石切りでしたっけ？
 
---- Group 120 [left:char_0004 next=0023] ---
+--- Group 132 [left:none next=0023] ---
 [FID:28, TEXT:004F] 石切りでしたっけ？
 
---- Group 121 [left:none next=0023] ---
+--- Group 133 [left:none next=0023] ---
 [FID:28, TEXT:0050] 石切りでしたよね？
 
---- Group 122 [left:char_0004 next=0023] ---
+--- Group 134 [left:char_0004 next=0023] ---
 [FID:28, TEXT:0050] 石切りでしたよね？
 
---- Group 123 [left:none next=0023] ---
+--- Group 135 [left:char_0004 next=0023] ---
 [FID:28, TEXT:0050] 石切りでしたよね？
 
---- Group 124 [left:char_0004 next=0023] ---
+--- Group 136 [left:none next=0023] ---
 [FID:28, TEXT:0050] 石切りでしたよね？
-
---- Group 125 [right:none next=2012] ---
-[FID:28, TEXT:0051] ああ・・・退屈なら、
-[FID:28, TEXT:0052] お前さんも手伝って
-[FID:28, TEXT:0053] みるか？
-
---- Group 126 [right:none next=2012] ---
-[FID:28, TEXT:0051] ああ・・・退屈なら、
-[FID:28, TEXT:0052] お前さんも手伝って
-[FID:28, TEXT:0053] みるか？
-
---- Group 127 [right:char_0022 next=2012] ---
-[FID:28, TEXT:0051] ああ・・・退屈なら、
-[FID:28, TEXT:0052] お前さんも手伝って
-[FID:28, TEXT:0053] みるか？
-
---- Group 128 [right:char_0022 next=2012] ---
-[FID:28, TEXT:0051] ああ・・・退屈なら、
-[FID:28, TEXT:0052] お前さんも手伝って
-[FID:28, TEXT:0053] みるか？
-
---- Group 129 [left:none next=0023] ---
-[FID:28, TEXT:0054] えっ！？
-
---- Group 130 [left:char_0004 next=0023] ---
-[FID:28, TEXT:0054] えっ！？
-
---- Group 131 [left:none next=0023] ---
-[FID:28, TEXT:0054] えっ！？
-
---- Group 132 [left:char_0004 next=0023] ---
-[FID:28, TEXT:0054] えっ！？
-
---- Group 133 [left:char_0004 next=0023] ---
-[FID:28, TEXT:0055] わたしが、ですか？
-
---- Group 134 [left:none next=0023] ---
-[FID:28, TEXT:0055] わたしが、ですか？
-
---- Group 135 [left:none next=0023] ---
-[FID:28, TEXT:0055] わたしが、ですか？
-
---- Group 136 [left:char_0004 next=0023] ---
-[FID:28, TEXT:0055] わたしが、ですか？
 
 --- Group 137 [right:none next=2012] ---
-[FID:28, TEXT:0056] ハハハ、冗談さ
-[FID:28, TEXT:0057] 退屈しのぎでする仕事
-[FID:28, TEXT:0058] にしては荷が重すぎる
-[FID:28, TEXT:0059] からな
+[FID:28, TEXT:0051] ああ・・・退屈なら、
+[FID:28, TEXT:0052] お前さんも手伝って
+[FID:28, TEXT:0053] みるか？
 
 --- Group 138 [right:char_0022 next=2012] ---
-[FID:28, TEXT:0056] ハハハ、冗談さ
-[FID:28, TEXT:0057] 退屈しのぎでする仕事
-[FID:28, TEXT:0058] にしては荷が重すぎる
-[FID:28, TEXT:0059] からな
+[FID:28, TEXT:0051] ああ・・・退屈なら、
+[FID:28, TEXT:0052] お前さんも手伝って
+[FID:28, TEXT:0053] みるか？
 
 --- Group 139 [right:char_0022 next=2012] ---
-[FID:28, TEXT:0056] ハハハ、冗談さ
-[FID:28, TEXT:0057] 退屈しのぎでする仕事
-[FID:28, TEXT:0058] にしては荷が重すぎる
-[FID:28, TEXT:0059] からな
+[FID:28, TEXT:0051] ああ・・・退屈なら、
+[FID:28, TEXT:0052] お前さんも手伝って
+[FID:28, TEXT:0053] みるか？
 
 --- Group 140 [right:none next=2012] ---
+[FID:28, TEXT:0051] ああ・・・退屈なら、
+[FID:28, TEXT:0052] お前さんも手伝って
+[FID:28, TEXT:0053] みるか？
+
+--- Group 141 [left:char_0004 next=0023] ---
+[FID:28, TEXT:0054] えっ！？
+
+--- Group 142 [left:none next=0023] ---
+[FID:28, TEXT:0054] えっ！？
+
+--- Group 143 [left:char_0004 next=0023] ---
+[FID:28, TEXT:0054] えっ！？
+
+--- Group 144 [left:none next=0023] ---
+[FID:28, TEXT:0054] えっ！？
+
+--- Group 145 [left:char_0004 next=0023] ---
+[FID:28, TEXT:0055] わたしが、ですか？
+
+--- Group 146 [left:char_0004 next=0023] ---
+[FID:28, TEXT:0055] わたしが、ですか？
+
+--- Group 147 [left:none next=0023] ---
+[FID:28, TEXT:0055] わたしが、ですか？
+
+--- Group 148 [left:none next=0023] ---
+[FID:28, TEXT:0055] わたしが、ですか？
+
+--- Group 149 [right:none next=2012] ---
 [FID:28, TEXT:0056] ハハハ、冗談さ
 [FID:28, TEXT:0057] 退屈しのぎでする仕事
 [FID:28, TEXT:0058] にしては荷が重すぎる
 [FID:28, TEXT:0059] からな
 
---- Group 141 [right:none next=2012] ---
+--- Group 150 [right:char_0022 next=2012] ---
+[FID:28, TEXT:0056] ハハハ、冗談さ
+[FID:28, TEXT:0057] 退屈しのぎでする仕事
+[FID:28, TEXT:0058] にしては荷が重すぎる
+[FID:28, TEXT:0059] からな
+
+--- Group 151 [right:none next=2012] ---
+[FID:28, TEXT:0056] ハハハ、冗談さ
+[FID:28, TEXT:0057] 退屈しのぎでする仕事
+[FID:28, TEXT:0058] にしては荷が重すぎる
+[FID:28, TEXT:0059] からな
+
+--- Group 152 [right:char_0022 next=2012] ---
+[FID:28, TEXT:0056] ハハハ、冗談さ
+[FID:28, TEXT:0057] 退屈しのぎでする仕事
+[FID:28, TEXT:0058] にしては荷が重すぎる
+[FID:28, TEXT:0059] からな
+
+--- Group 153 [right:char_0022 next=2012] ---
 [FID:28, TEXT:005A] それじゃ、
 [FID:28, TEXT:005B] 行って来るよ
 
---- Group 142 [right:char_0022 next=2012] ---
+--- Group 154 [right:none next=2012] ---
 [FID:28, TEXT:005A] それじゃ、
 [FID:28, TEXT:005B] 行って来るよ
 
---- Group 143 [right:char_0022 next=2012] ---
+--- Group 155 [right:char_0022 next=2012] ---
 [FID:28, TEXT:005A] それじゃ、
 [FID:28, TEXT:005B] 行って来るよ
 
---- Group 144 [right:none next=2012] ---
+--- Group 156 [right:none next=2012] ---
 [FID:28, TEXT:005A] それじゃ、
 [FID:28, TEXT:005B] 行って来るよ
 
---- Group 145 [right:none next=0023] ---
+--- Group 157 [right:none next=0023] ---
 [FID:28, TEXT:005C] 兄ちゃん、兄ちゃん！
 
---- Group 146 [right:none next=0023] ---
+--- Group 158 [right:none next=0023] ---
 [FID:28, TEXT:005C] 兄ちゃん、兄ちゃん！
 
---- Group 147 [right:char_0022 next=2012] ---
+--- Group 159 [right:char_0022 next=2012] ---
 [FID:28, TEXT:005D] 姉ちゃん！
 
---- Group 148 [right:char_0022 next=2012] ---
+--- Group 160 [right:char_0022 next=2012] ---
 [FID:28, TEXT:005D] 姉ちゃん！
 
---- Group 149 [right:none next=2012] ---
+--- Group 161 [right:none next=2012] ---
 [FID:28, TEXT:005D] 姉ちゃん！
-
---- Group 150 [right:none next=2012] ---
-[FID:28, TEXT:005D] 姉ちゃん！
-
---- Group 151 [left:char_0004 next=0023] ---
-[FID:28, TEXT:005E] お、なんだか
-[FID:28, TEXT:005F] ご機嫌だな？
-
---- Group 152 [left:char_0004 next=0023] ---
-[FID:28, TEXT:005E] お、なんだか
-[FID:28, TEXT:005F] ご機嫌だな？
-
---- Group 153 [left:none next=0023] ---
-[FID:28, TEXT:005E] お、なんだか
-[FID:28, TEXT:005F] ご機嫌だな？
-
---- Group 154 [left:none next=0023] ---
-[FID:28, TEXT:005E] お、なんだか
-[FID:28, TEXT:005F] ご機嫌だな？
-
---- Group 155 [left:char_0004 next=0023] ---
-[FID:28, TEXT:0060] あれ、なんだか
-[FID:28, TEXT:0061] 嬉しそうだな
-
---- Group 156 [left:none next=0023] ---
-[FID:28, TEXT:0060] あれ、なんだか
-[FID:28, TEXT:0061] 嬉しそうだな
-
---- Group 157 [left:none next=0023] ---
-[FID:28, TEXT:0062] どうしたの
-[FID:28, TEXT:0063] ご機嫌じゃない！
-
---- Group 158 [left:char_0004 next=0023] ---
-[FID:28, TEXT:0062] どうしたの
-[FID:28, TEXT:0064] 今日は、ご機嫌ね？
-
---- Group 159 [left:none next=0023] ---
-[FID:28, TEXT:0062] どうしたの
-[FID:28, TEXT:0064] 今日は、ご機嫌ね？
-
---- Group 160 [left:char_0004 next=0023] ---
-[FID:28, TEXT:0062] どうしたの
-[FID:28, TEXT:0063] ご機嫌じゃない！
-
---- Group 161 [right:char_0022 next=2012] ---
-[FID:28, TEXT:0065] へへへ・・・
-[FID:28, TEXT:0066] じゃあ〜ん！！
 
 --- Group 162 [right:none next=2012] ---
-[FID:28, TEXT:0065] へへへ・・・
-[FID:28, TEXT:0066] じゃあ〜ん！！
+[FID:28, TEXT:005D] 姉ちゃん！
 
---- Group 163 [right:char_0022 next=2012] ---
-[FID:28, TEXT:0065] へへへ・・・
+--- Group 163 [left:char_0004 next=0023] ---
+[FID:28, TEXT:005E] お、なんだか
+[FID:28, TEXT:005F] ご機嫌だな？
 
---- Group 164 [right:none next=2012] ---
-[FID:28, TEXT:0065] へへへ・・・
+--- Group 164 [left:char_0004 next=0023] ---
+[FID:28, TEXT:005E] お、なんだか
+[FID:28, TEXT:005F] ご機嫌だな？
 
---- Group 165 [right:char_0022 next=2012] ---
-[FID:28, TEXT:0065] へへへ・・・
+--- Group 165 [left:none next=0023] ---
+[FID:28, TEXT:005E] お、なんだか
+[FID:28, TEXT:005F] ご機嫌だな？
 
---- Group 166 [right:none next=2012] ---
-[FID:28, TEXT:0065] へへへ・・・
+--- Group 166 [left:none next=0023] ---
+[FID:28, TEXT:005E] お、なんだか
+[FID:28, TEXT:005F] ご機嫌だな？
 
---- Group 167 [right:none next=2012] ---
-[FID:28, TEXT:0065] へへへ・・・
-[FID:28, TEXT:0066] じゃあ〜ん！！
+--- Group 167 [left:char_0004 next=0023] ---
+[FID:28, TEXT:0060] あれ、なんだか
+[FID:28, TEXT:0061] 嬉しそうだな
 
---- Group 168 [right:char_0022 next=2012] ---
-[FID:28, TEXT:0065] へへへ・・・
-[FID:28, TEXT:0066] じゃあ〜ん！！
+--- Group 168 [left:none next=0023] ---
+[FID:28, TEXT:0060] あれ、なんだか
+[FID:28, TEXT:0061] 嬉しそうだな
 
---- Group 169 [left:none next=0023] ---
-[FID:28, TEXT:0067] うわ、すっごく大きな
-[FID:28, TEXT:006B] チョウチョだね・・・
+--- Group 169 [left:char_0004 next=0023] ---
+[FID:28, TEXT:0062] どうしたの
+[FID:28, TEXT:0064] 今日は、ご機嫌ね？
 
 --- Group 170 [left:char_0004 next=0023] ---
+[FID:28, TEXT:0062] どうしたの
+[FID:28, TEXT:0063] ご機嫌じゃない！
+
+--- Group 171 [left:none next=0023] ---
+[FID:28, TEXT:0062] どうしたの
+[FID:28, TEXT:0064] 今日は、ご機嫌ね？
+
+--- Group 172 [left:none next=0023] ---
+[FID:28, TEXT:0062] どうしたの
+[FID:28, TEXT:0063] ご機嫌じゃない！
+
+--- Group 173 [right:none next=2012] ---
+[FID:28, TEXT:0065] へへへ・・・
+[FID:28, TEXT:0066] じゃあ〜ん！！
+
+--- Group 174 [right:char_0022 next=2012] ---
+[FID:28, TEXT:0065] へへへ・・・
+[FID:28, TEXT:0066] じゃあ〜ん！！
+
+--- Group 175 [right:char_0022 next=2012] ---
+[FID:28, TEXT:0065] へへへ・・・
+[FID:28, TEXT:0066] じゃあ〜ん！！
+
+--- Group 176 [right:none next=2012] ---
+[FID:28, TEXT:0065] へへへ・・・
+
+--- Group 177 [right:none next=2012] ---
+[FID:28, TEXT:0065] へへへ・・・
+
+--- Group 178 [right:char_0022 next=2012] ---
+[FID:28, TEXT:0065] へへへ・・・
+
+--- Group 179 [right:none next=2012] ---
+[FID:28, TEXT:0065] へへへ・・・
+[FID:28, TEXT:0066] じゃあ〜ん！！
+
+--- Group 180 [right:char_0022 next=2012] ---
+[FID:28, TEXT:0065] へへへ・・・
+
+--- Group 181 [left:none next=0023] ---
 [FID:28, TEXT:0067] うわ、すっごく大きな
 [FID:28, TEXT:006B] チョウチョだね・・・
 
---- Group 171 [left:char_0004 next=0023] ---
+--- Group 182 [left:char_0004 next=0023] ---
 [FID:28, TEXT:0067] うわ、すっごく大きな
-[FID:28, TEXT:0068] チョウチョだな・・・
-
---- Group 172 [left:none next=0023] ---
-[FID:28, TEXT:0067] うわ、すっごく大きな
-[FID:28, TEXT:0068] チョウチョだな・・・
-
---- Group 173 [left:none next=0023] ---
-[FID:28, TEXT:0067] うわ、すっごく大きな
-[FID:28, TEXT:0068] チョウチョだな・・・
-
---- Group 174 [left:char_0004 next=0023] ---
-[FID:28, TEXT:0067] うわ、すっごく大きな
-[FID:28, TEXT:0068] チョウチョだな・・・
-
---- Group 175 [left:none next=0023] ---
-[FID:28, TEXT:0069] へえ、ずいぶん大きな
-[FID:28, TEXT:006A] チョウチョだね
-
---- Group 176 [left:char_0004 next=0023] ---
-[FID:28, TEXT:0069] へえ、ずいぶん大きな
-[FID:28, TEXT:006A] チョウチョだね
-
---- Group 177 [left:char_0004 next=0023] ---
-[FID:28, TEXT:006C] あ、チョウチョですね
-[FID:28, TEXT:006D] ・・・大きい
-
---- Group 178 [left:none next=0023] ---
-[FID:28, TEXT:006C] あ、チョウチョですね
-[FID:28, TEXT:006D] ・・・大きい
-
---- Group 179 [right:char_0022 next=2012] ---
-[FID:28, TEXT:006E] 川原で捕まえたんだ
-[FID:28, TEXT:006F] すごいだろ！？
-
---- Group 180 [right:none next=2012] ---
-[FID:28, TEXT:006E] 川原で捕まえたんだ
-[FID:28, TEXT:006F] すごいだろ！？
-
---- Group 181 [right:char_0022 next=2012] ---
-[FID:28, TEXT:006E] 川原で捕まえたんだ
-[FID:28, TEXT:006F] すごいだろ！？
-
---- Group 182 [right:none next=2012] ---
-[FID:28, TEXT:006E] 川原で捕まえたんだ
-[FID:28, TEXT:006F] すごいだろ！？
+[FID:28, TEXT:006B] チョウチョだね・・・
 
 --- Group 183 [left:char_0004 next=0023] ---
-[FID:28, TEXT:0070] ああ、すごいきれいな
-[FID:28, TEXT:0071] 羽してるな
+[FID:28, TEXT:0067] うわ、すっごく大きな
+[FID:28, TEXT:0068] チョウチョだな・・・
 
 --- Group 184 [left:char_0004 next=0023] ---
-[FID:28, TEXT:0070] ああ、すごいきれいな
-[FID:28, TEXT:0071] 羽してるな
+[FID:28, TEXT:0067] うわ、すっごく大きな
+[FID:28, TEXT:0068] チョウチョだな・・・
 
 --- Group 185 [left:none next=0023] ---
-[FID:28, TEXT:0070] ああ、すごいきれいな
-[FID:28, TEXT:0071] 羽してるな
+[FID:28, TEXT:0067] うわ、すっごく大きな
+[FID:28, TEXT:0068] チョウチョだな・・・
 
 --- Group 186 [left:none next=0023] ---
+[FID:28, TEXT:0067] うわ、すっごく大きな
+[FID:28, TEXT:0068] チョウチョだな・・・
+
+--- Group 187 [left:none next=0023] ---
+[FID:28, TEXT:0069] へえ、ずいぶん大きな
+[FID:28, TEXT:006A] チョウチョだね
+
+--- Group 188 [left:char_0004 next=0023] ---
+[FID:28, TEXT:0069] へえ、ずいぶん大きな
+[FID:28, TEXT:006A] チョウチョだね
+
+--- Group 189 [left:char_0004 next=0023] ---
+[FID:28, TEXT:006C] あ、チョウチョですね
+[FID:28, TEXT:006D] ・・・大きい
+
+--- Group 190 [left:none next=0023] ---
+[FID:28, TEXT:006C] あ、チョウチョですね
+[FID:28, TEXT:006D] ・・・大きい
+
+--- Group 191 [right:char_0022 next=2012] ---
+[FID:28, TEXT:006E] 川原で捕まえたんだ
+[FID:28, TEXT:006F] すごいだろ！？
+
+--- Group 192 [right:none next=2012] ---
+[FID:28, TEXT:006E] 川原で捕まえたんだ
+[FID:28, TEXT:006F] すごいだろ！？
+
+--- Group 193 [right:char_0022 next=2012] ---
+[FID:28, TEXT:006E] 川原で捕まえたんだ
+[FID:28, TEXT:006F] すごいだろ！？
+
+--- Group 194 [right:none next=2012] ---
+[FID:28, TEXT:006E] 川原で捕まえたんだ
+[FID:28, TEXT:006F] すごいだろ！？
+
+--- Group 195 [left:none next=0023] ---
 [FID:28, TEXT:0070] ああ、すごいきれいな
 [FID:28, TEXT:0071] 羽してるな
 
---- Group 187 [left:none next=0023] ---
+--- Group 196 [left:char_0004 next=0023] ---
+[FID:28, TEXT:0070] ああ、すごいきれいな
+[FID:28, TEXT:0071] 羽してるな
+
+--- Group 197 [left:none next=0023] ---
+[FID:28, TEXT:0070] ああ、すごいきれいな
+[FID:28, TEXT:0071] 羽してるな
+
+--- Group 198 [left:char_0004 next=0023] ---
+[FID:28, TEXT:0070] ああ、すごいきれいな
+[FID:28, TEXT:0071] 羽してるな
+
+--- Group 199 [left:char_0004 next=0023] ---
 [FID:28, TEXT:0072] ああ、すごくきれいな
 [FID:28, TEXT:0073] 羽をしてるな
 
---- Group 188 [left:char_0004 next=0023] ---
+--- Group 200 [left:none next=0023] ---
 [FID:28, TEXT:0072] ああ、すごくきれいな
 [FID:28, TEXT:0073] 羽をしてるな
 
---- Group 189 [left:none next=0023] ---
+--- Group 201 [left:char_0004 next=0023] ---
 [FID:28, TEXT:0074] うん、こんなに
 [FID:28, TEXT:0075] きれいな模様の
 [FID:28, TEXT:0076] 見たことないよ！
 
---- Group 190 [left:char_0004 next=0023] ---
+--- Group 202 [left:none next=0023] ---
 [FID:28, TEXT:0074] うん、こんなに
 [FID:28, TEXT:0075] きれいな模様の
 [FID:28, TEXT:0076] 見たことないよ！
-
---- Group 191 [left:char_0004 next=0023] ---
-[FID:28, TEXT:0077] ええ、きれいな羽根
-[FID:28, TEXT:0078] してますね
-
---- Group 192 [left:none next=0023] ---
-[FID:28, TEXT:0077] ええ、きれいな羽根
-[FID:28, TEXT:0078] してますね
-
---- Group 193 [right:none next=0023] ---
-[FID:28, TEXT:0079] 兄ちゃんにやるよ
-
---- Group 194 [right:none next=0023] ---
-[FID:28, TEXT:0079] 兄ちゃんにやるよ
-
---- Group 195 [right:none next=2012] ---
-[FID:28, TEXT:007A] 姉ちゃんにやるよ
-
---- Group 196 [right:char_0022 next=2012] ---
-[FID:28, TEXT:007A] 姉ちゃんにやるよ
-
---- Group 197 [right:none next=2012] ---
-[FID:28, TEXT:007A] 姉ちゃんにやるよ
-
---- Group 198 [right:char_0022 next=2012] ---
-[FID:28, TEXT:007A] 姉ちゃんにやるよ
-
---- Group 199 [left:char_0004 next=2015] ---
-[FID:28, TEXT:007B] どうしよう？
-[FID:28, TEXT:01B7] 　やめておく
-[FID:28, TEXT:01B8] 　魚釣りをする
-
---- Group 200 [right:char_0022 next=0023] ---
-[FID:28, TEXT:007B] どうしよう？
-
---- Group 201 [right:none next=0023] ---
-[FID:28, TEXT:007B] どうしよう？
-
---- Group 202 [left:char_0004 next=0023] ---
-[FID:28, TEXT:007B] どうしよう？
 
 --- Group 203 [left:char_0004 next=0023] ---
+[FID:28, TEXT:0077] ええ、きれいな羽根
+[FID:28, TEXT:0078] してますね
+
+--- Group 204 [left:none next=0023] ---
+[FID:28, TEXT:0077] ええ、きれいな羽根
+[FID:28, TEXT:0078] してますね
+
+--- Group 205 [right:none next=0023] ---
+[FID:28, TEXT:0079] 兄ちゃんにやるよ
+
+--- Group 206 [right:none next=0023] ---
+[FID:28, TEXT:0079] 兄ちゃんにやるよ
+
+--- Group 207 [right:char_0022 next=2012] ---
+[FID:28, TEXT:007A] 姉ちゃんにやるよ
+
+--- Group 208 [right:none next=2012] ---
+[FID:28, TEXT:007A] 姉ちゃんにやるよ
+
+--- Group 209 [right:char_0022 next=2012] ---
+[FID:28, TEXT:007A] 姉ちゃんにやるよ
+
+--- Group 210 [right:none next=2012] ---
+[FID:28, TEXT:007A] 姉ちゃんにやるよ
+
+--- Group 211 [right:none next=0023] ---
 [FID:28, TEXT:007B] どうしよう？
 
---- Group 204 [right:char_0022 next=0023] ---
+--- Group 212 [left:char_0004 next=2015] ---
+[FID:28, TEXT:007B] どうしよう？
+[FID:28, TEXT:019E] 　放っておく
+[FID:28, TEXT:019F] 　近づいてみる
+
+--- Group 213 [left:char_0004 next=2015] ---
+[FID:28, TEXT:007B] どうしよう？
+[FID:28, TEXT:019E] 　放っておく
+[FID:28, TEXT:019F] 　近づいてみる
+
+--- Group 214 [right:none next=0023] ---
 [FID:28, TEXT:007B] どうしよう？
 
---- Group 205 [left:char_0004 next=2015] ---
+--- Group 215 [left:char_0004 next=0023] ---
+[FID:28, TEXT:007B] どうしよう？
+
+--- Group 216 [right:char_0022 next=0023] ---
+[FID:28, TEXT:007B] どうしよう？
+
+--- Group 217 [left:char_0004 next=2015] ---
 [FID:28, TEXT:007B] どうしよう？
 [FID:28, TEXT:01B7] 　やめておく
 [FID:28, TEXT:01B8] 　魚釣りをする
 
---- Group 206 [right:none next=0023] ---
+--- Group 218 [right:char_0022 next=0023] ---
 [FID:28, TEXT:007B] どうしよう？
 
---- Group 207 [left:char_0004 next=2015] ---
+--- Group 219 [left:char_0004 next=0023] ---
 [FID:28, TEXT:007B] どうしよう？
-[FID:28, TEXT:019E] 　放っておく
-[FID:28, TEXT:019F] 　近づいてみる
 
---- Group 208 [left:char_0004 next=2015] ---
+--- Group 220 [left:char_0004 next=2015] ---
 [FID:28, TEXT:007B] どうしよう？
-[FID:28, TEXT:019E] 　放っておく
-[FID:28, TEXT:019F] 　近づいてみる
+[FID:28, TEXT:01B7] 　やめておく
+[FID:28, TEXT:01B8] 　魚釣りをする
 
---- Group 209 [right:none next=0023] ---
-[FID:28, TEXT:007C] 　ありがとう
-[FID:28, TEXT:007F] 　逃がしてあげましょう
-
---- Group 210 [right:none next=0023] ---
+--- Group 221 [right:none next=0023] ---
 [FID:28, TEXT:007C] 　ありがとう
 [FID:28, TEXT:007D] 　逃がしてやろうよ
 
---- Group 211 [right:none next=0023] ---
-[FID:28, TEXT:007C] 　ありがとう
-[FID:28, TEXT:007D] 　逃がしてやろうよ
-
---- Group 212 [right:none next=0023] ---
-[FID:28, TEXT:007C] 　ありがとう
-[FID:28, TEXT:007F] 　逃がしてあげましょう
-
---- Group 213 [right:none next=0023] ---
+--- Group 222 [right:none next=0023] ---
 [FID:28, TEXT:007C] 　ありがとう
 [FID:28, TEXT:007E] 　逃がしてあげよう？
 
---- Group 214 [right:char_0022 next=0023] ---
+--- Group 223 [right:char_0022 next=0023] ---
 [FID:28, TEXT:007C] 　ありがとう
 [FID:28, TEXT:007D] 　逃がしてやろうよ
 
---- Group 215 [right:char_0022 next=0023] ---
+--- Group 224 [right:none next=0023] ---
 [FID:28, TEXT:007C] 　ありがとう
 [FID:28, TEXT:007D] 　逃がしてやろうよ
 
---- Group 216 [right:none next=0023] ---
+--- Group 225 [right:none next=0023] ---
+[FID:28, TEXT:007C] 　ありがとう
+[FID:28, TEXT:007F] 　逃がしてあげましょう
+
+--- Group 226 [right:char_0022 next=0023] ---
+[FID:28, TEXT:007C] 　ありがとう
+[FID:28, TEXT:007D] 　逃がしてやろうよ
+
+--- Group 227 [right:none next=0023] ---
+[FID:28, TEXT:007C] 　ありがとう
+[FID:28, TEXT:007F] 　逃がしてあげましょう
+
+--- Group 228 [right:none next=0023] ---
 [FID:28, TEXT:007C] 　ありがとう
 [FID:28, TEXT:007E] 　逃がしてあげよう？
 
---- Group 217 [left:char_0004 next=0023] ---
+--- Group 229 [left:none next=0023] ---
 [FID:28, TEXT:0080] ありがとう、アルバ
 
---- Group 218 [left:none next=0023] ---
+--- Group 230 [left:char_0004 next=0023] ---
 [FID:28, TEXT:0080] ありがとう、アルバ
 
---- Group 219 [left:none next=0023] ---
+--- Group 231 [left:none next=0023] ---
 [FID:28, TEXT:0080] ありがとう、アルバ
-
---- Group 220 [left:char_0004 next=0023] ---
-[FID:28, TEXT:0080] ありがとう、アルバ
-
---- Group 221 [left:char_0004 next=0023] ---
-[FID:28, TEXT:0081] ありがとう
-[FID:28, TEXT:0083] けど、こいつは
-[FID:28, TEXT:0085] 逃がしてやろう
-
---- Group 222 [left:none next=0023] ---
-[FID:28, TEXT:0081] ありがとう
-[FID:28, TEXT:0082] アルバくん
-
---- Group 223 [left:none next=0023] ---
-[FID:28, TEXT:0081] ありがとう
-[FID:28, TEXT:0083] けど、こいつは
-[FID:28, TEXT:0085] 逃がしてやろう
-
---- Group 224 [left:char_0004 next=0023] ---
-[FID:28, TEXT:0081] ありがとう
-[FID:28, TEXT:0083] けど、こいつは
-[FID:28, TEXT:0084] 逃がしてやろうよ
-
---- Group 225 [left:none next=0023] ---
-[FID:28, TEXT:0081] ありがとう
-[FID:28, TEXT:0089] でも・・・
-[FID:28, TEXT:008A] 逃がしてあげましょう
-
---- Group 226 [left:none next=0023] ---
-[FID:28, TEXT:0081] ありがとう
-[FID:28, TEXT:0083] けど、こいつは
-[FID:28, TEXT:0084] 逃がしてやろうよ
-
---- Group 227 [left:char_0004 next=0023] ---
-[FID:28, TEXT:0081] ありがとう
-[FID:28, TEXT:0089] でも・・・
-[FID:28, TEXT:008A] 逃がしてあげましょう
-
---- Group 228 [left:char_0004 next=0023] ---
-[FID:28, TEXT:0081] ありがとう
-[FID:28, TEXT:0082] アルバくん
-
---- Group 229 [left:char_0004 next=0023] ---
-[FID:28, TEXT:0086] ありがと
-[FID:28, TEXT:0087] でも、逃がしてあげよ
-[FID:28, TEXT:0088] ・・・ね？
-
---- Group 230 [left:none next=0023] ---
-[FID:28, TEXT:0086] ありがと
-[FID:28, TEXT:0087] でも、逃がしてあげよ
-[FID:28, TEXT:0088] ・・・ね？
-
---- Group 231 [left:char_0004 next=0023] ---
-[FID:28, TEXT:0089] でも・・・
-[FID:28, TEXT:01B4] 釣りの餌がないわね
-[FID:28, TEXT:01B5] 餌を探さなくては
-[FID:28, TEXT:01B6] いけないみたい・・
 
 --- Group 232 [left:char_0004 next=0023] ---
+[FID:28, TEXT:0080] ありがとう、アルバ
+
+--- Group 233 [left:none next=0023] ---
+[FID:28, TEXT:0081] ありがとう
+[FID:28, TEXT:0082] アルバくん
+
+--- Group 234 [left:none next=0023] ---
+[FID:28, TEXT:0081] ありがとう
+[FID:28, TEXT:0083] けど、こいつは
+[FID:28, TEXT:0085] 逃がしてやろう
+
+--- Group 235 [left:none next=0023] ---
+[FID:28, TEXT:0081] ありがとう
+[FID:28, TEXT:0089] でも・・・
+[FID:28, TEXT:008A] 逃がしてあげましょう
+
+--- Group 236 [left:char_0004 next=0023] ---
+[FID:28, TEXT:0081] ありがとう
+[FID:28, TEXT:0083] けど、こいつは
+[FID:28, TEXT:0084] 逃がしてやろうよ
+
+--- Group 237 [left:char_0004 next=0023] ---
+[FID:28, TEXT:0081] ありがとう
+[FID:28, TEXT:0089] でも・・・
+[FID:28, TEXT:008A] 逃がしてあげましょう
+
+--- Group 238 [left:char_0004 next=0023] ---
+[FID:28, TEXT:0081] ありがとう
+[FID:28, TEXT:0083] けど、こいつは
+[FID:28, TEXT:0085] 逃がしてやろう
+
+--- Group 239 [left:none next=0023] ---
+[FID:28, TEXT:0081] ありがとう
+[FID:28, TEXT:0083] けど、こいつは
+[FID:28, TEXT:0084] 逃がしてやろうよ
+
+--- Group 240 [left:char_0004 next=0023] ---
+[FID:28, TEXT:0081] ありがとう
+[FID:28, TEXT:0082] アルバくん
+
+--- Group 241 [left:none next=0023] ---
+[FID:28, TEXT:0086] ありがと
+[FID:28, TEXT:0087] でも、逃がしてあげよ
+[FID:28, TEXT:0088] ・・・ね？
+
+--- Group 242 [left:char_0004 next=0023] ---
+[FID:28, TEXT:0086] ありがと
+[FID:28, TEXT:0087] でも、逃がしてあげよ
+[FID:28, TEXT:0088] ・・・ね？
+
+--- Group 243 [left:char_0004 next=0023] ---
 [FID:28, TEXT:0089] でも・・・
 [FID:28, TEXT:01B4] 釣りの餌がないわね
 [FID:28, TEXT:01B5] 餌を探さなくては
 [FID:28, TEXT:01B6] いけないみたい・・
 
---- Group 233 [right:none next=2012] ---
-[FID:28, TEXT:008B] えー！？
-
---- Group 234 [right:none next=2012] ---
-[FID:28, TEXT:008B] えー！？
-
---- Group 235 [left:none next=0023] ---
-[FID:28, TEXT:008C] 捕まってるより、空を
-[FID:28, TEXT:008D] 気持ちよさそうに飛ん
-[FID:28, TEXT:0090] でるチョウチョの方が
-[FID:28, TEXT:0091] きれいだと思うんだ
-
---- Group 236 [left:none next=0023] ---
-[FID:28, TEXT:008C] 捕まってるより、空を
-[FID:28, TEXT:008D] 気持ちよさそうに飛ん
-[FID:28, TEXT:008E] でるチョウチョのほう
-[FID:28, TEXT:008F] が絶対にきれいだぜ
-
---- Group 237 [left:char_0004 next=0023] ---
-[FID:28, TEXT:008C] 捕まってるより、空を
-[FID:28, TEXT:008D] 気持ちよさそうに飛ん
-[FID:28, TEXT:0090] でるチョウチョの方が
-[FID:28, TEXT:0091] きれいだと思うんだ
-
---- Group 238 [left:char_0004 next=0023] ---
-[FID:28, TEXT:008C] 捕まってるより、空を
-[FID:28, TEXT:008D] 気持ちよさそうに飛ん
-[FID:28, TEXT:008E] でるチョウチョのほう
-[FID:28, TEXT:008F] が絶対にきれいだぜ
-
---- Group 239 [left:char_0004 next=2012] ---
-[FID:28, TEXT:0092] ほら、チョウチョが
-[FID:28, TEXT:0093] 一番きれいなのは、
-[FID:28, TEXT:0094] 自由に空を飛んでる
-[FID:28, TEXT:0095] ときだって
-
---- Group 240 [left:none next=2012] ---
-[FID:28, TEXT:0092] ほら、チョウチョが
-[FID:28, TEXT:0093] 一番きれいなのは、
-[FID:28, TEXT:0094] 自由に空を飛んでる
-[FID:28, TEXT:0095] ときだって
-
---- Group 241 [left:char_0004 next=0023] ---
-[FID:28, TEXT:0096] そう思わない？
-
---- Group 242 [left:none next=0023] ---
-[FID:28, TEXT:0096] そう思わない？
-
---- Group 243 [left:char_0004 next=0023] ---
-[FID:28, TEXT:0097] 飛んでいるチョウチョ
-[FID:28, TEXT:0098] の方がきっと、ずっと
-[FID:28, TEXT:0099] きれいだと思わない？
-
---- Group 244 [left:none next=0023] ---
-[FID:28, TEXT:0097] 飛んでいるチョウチョ
-[FID:28, TEXT:0098] の方がきっと、ずっと
-[FID:28, TEXT:0099] きれいだと思わない？
+--- Group 244 [left:char_0004 next=0023] ---
+[FID:28, TEXT:0089] でも・・・
+[FID:28, TEXT:01B4] 釣りの餌がないわね
+[FID:28, TEXT:01B5] 餌を探さなくては
+[FID:28, TEXT:01B6] いけないみたい・・
 
 --- Group 245 [right:none next=2012] ---
-[FID:28, TEXT:009A] ・・・そうかも
+[FID:28, TEXT:008B] えー！？
 
 --- Group 246 [right:none next=2012] ---
-[FID:28, TEXT:009A] ・・・そうかも
+[FID:28, TEXT:008B] えー！？
 
 --- Group 247 [left:char_0004 next=0023] ---
-[FID:28, TEXT:009B] よし、じゃあ逃がして
-[FID:28, TEXT:009D] やろう
+[FID:28, TEXT:008C] 捕まってるより、空を
+[FID:28, TEXT:008D] 気持ちよさそうに飛ん
+[FID:28, TEXT:008E] でるチョウチョのほう
+[FID:28, TEXT:008F] が絶対にきれいだぜ
 
---- Group 248 [left:char_0004 next=0023] ---
-[FID:28, TEXT:009B] よし、じゃあ逃がして
-[FID:28, TEXT:009C] やろうな
+--- Group 248 [left:none next=0023] ---
+[FID:28, TEXT:008C] 捕まってるより、空を
+[FID:28, TEXT:008D] 気持ちよさそうに飛ん
+[FID:28, TEXT:0090] でるチョウチョの方が
+[FID:28, TEXT:0091] きれいだと思うんだ
 
 --- Group 249 [left:none next=0023] ---
+[FID:28, TEXT:008C] 捕まってるより、空を
+[FID:28, TEXT:008D] 気持ちよさそうに飛ん
+[FID:28, TEXT:008E] でるチョウチョのほう
+[FID:28, TEXT:008F] が絶対にきれいだぜ
+
+--- Group 250 [left:char_0004 next=0023] ---
+[FID:28, TEXT:008C] 捕まってるより、空を
+[FID:28, TEXT:008D] 気持ちよさそうに飛ん
+[FID:28, TEXT:0090] でるチョウチョの方が
+[FID:28, TEXT:0091] きれいだと思うんだ
+
+--- Group 251 [left:none next=2012] ---
+[FID:28, TEXT:0092] ほら、チョウチョが
+[FID:28, TEXT:0093] 一番きれいなのは、
+[FID:28, TEXT:0094] 自由に空を飛んでる
+[FID:28, TEXT:0095] ときだって
+
+--- Group 252 [left:char_0004 next=2012] ---
+[FID:28, TEXT:0092] ほら、チョウチョが
+[FID:28, TEXT:0093] 一番きれいなのは、
+[FID:28, TEXT:0094] 自由に空を飛んでる
+[FID:28, TEXT:0095] ときだって
+
+--- Group 253 [left:char_0004 next=0023] ---
+[FID:28, TEXT:0096] そう思わない？
+
+--- Group 254 [left:none next=0023] ---
+[FID:28, TEXT:0096] そう思わない？
+
+--- Group 255 [left:char_0004 next=0023] ---
+[FID:28, TEXT:0097] 飛んでいるチョウチョ
+[FID:28, TEXT:0098] の方がきっと、ずっと
+[FID:28, TEXT:0099] きれいだと思わない？
+
+--- Group 256 [left:none next=0023] ---
+[FID:28, TEXT:0097] 飛んでいるチョウチョ
+[FID:28, TEXT:0098] の方がきっと、ずっと
+[FID:28, TEXT:0099] きれいだと思わない？
+
+--- Group 257 [right:none next=2012] ---
+[FID:28, TEXT:009A] ・・・そうかも
+
+--- Group 258 [right:none next=2012] ---
+[FID:28, TEXT:009A] ・・・そうかも
+
+--- Group 259 [left:none next=0023] ---
 [FID:28, TEXT:009B] よし、じゃあ逃がして
 [FID:28, TEXT:009D] やろう
 
---- Group 250 [left:none next=0023] ---
+--- Group 260 [left:char_0004 next=0023] ---
+[FID:28, TEXT:009B] よし、じゃあ逃がして
+[FID:28, TEXT:009D] やろう
+
+--- Group 261 [left:none next=0023] ---
 [FID:28, TEXT:009B] よし、じゃあ逃がして
 [FID:28, TEXT:009C] やろうな
 
---- Group 251 [left:char_0004 next=0023] ---
-[FID:28, TEXT:009E] うん、じゃあ逃がして
-[FID:28, TEXT:009F] あげようね
-
---- Group 252 [left:none next=0023] ---
-[FID:28, TEXT:009E] うん、じゃあ逃がして
-[FID:28, TEXT:009F] あげようね
-
---- Group 253 [left:char_0004 next=0023] ---
-[FID:28, TEXT:00A0] じゃあ、逃がして
-[FID:28, TEXT:00A1] あげましょう？
-
---- Group 254 [left:none next=0023] ---
-[FID:28, TEXT:00A0] じゃあ、逃がして
-[FID:28, TEXT:00A1] あげましょう？
-
---- Group 255 [right:none next=2012] ---
-[FID:28, TEXT:00A2] うん、そうしよう！
-
---- Group 256 [right:none next=2012] ---
-[FID:28, TEXT:00A2] うん、そうしよう！
-
---- Group 257 [left:char_0004 next=0023] ---
-[FID:28, TEXT:00A3] あれ？
-[FID:28, TEXT:00A4] あそこでフィズと話を
-[FID:28, TEXT:00A9] してるのは・・・
-
---- Group 258 [left:char_0004 next=0023] ---
-[FID:28, TEXT:00A3] あれ？
-[FID:28, TEXT:00A4] あそこでフィズと話を
-[FID:28, TEXT:00A5] してるのって・・・
-
---- Group 259 [left:char_0004 next=0023] ---
-[FID:28, TEXT:00A3] あれ？
-[FID:28, TEXT:00A4] あそこでフィズと話を
-[FID:28, TEXT:00A9] してるのは・・・
-
---- Group 260 [left:char_0004 next=0023] ---
-[FID:28, TEXT:00A3] あれ？
-[FID:28, TEXT:01AA] 釣りの餌がない・・・
-[FID:28, TEXT:01AB] これじゃあ釣りは
-[FID:28, TEXT:01AC] できないよな
-
---- Group 261 [left:char_0004 next=0023] ---
-[FID:28, TEXT:00A3] あれ？
-[FID:28, TEXT:00A4] あそこでフィズと話を
-[FID:28, TEXT:00A5] してるのって・・・
-
 --- Group 262 [left:char_0004 next=0023] ---
-[FID:28, TEXT:00A3] あれ？
-[FID:28, TEXT:01AA] 釣りの餌がない・・・
-[FID:28, TEXT:01AB] これじゃあ釣りは
-[FID:28, TEXT:01AC] できないよな
+[FID:28, TEXT:009B] よし、じゃあ逃がして
+[FID:28, TEXT:009C] やろうな
 
---- Group 263 [left:char_0004 next=0023] ---
-[FID:28, TEXT:00AA] ソル！？
+--- Group 263 [left:none next=0023] ---
+[FID:28, TEXT:009E] うん、じゃあ逃がして
+[FID:28, TEXT:009F] あげようね
 
 --- Group 264 [left:char_0004 next=0023] ---
-[FID:28, TEXT:00AA] ソル！？
+[FID:28, TEXT:009E] うん、じゃあ逃がして
+[FID:28, TEXT:009F] あげようね
 
---- Group 265 [left:char_0004 next=0023] ---
-[FID:28, TEXT:00AB] あ・・・
-[FID:28, TEXT:00A4] あそこでフィズと話を
-[FID:28, TEXT:00A9] してるのは・・・
+--- Group 265 [left:none next=0023] ---
+[FID:28, TEXT:00A0] じゃあ、逃がして
+[FID:28, TEXT:00A1] あげましょう？
 
 --- Group 266 [left:char_0004 next=0023] ---
+[FID:28, TEXT:00A0] じゃあ、逃がして
+[FID:28, TEXT:00A1] あげましょう？
+
+--- Group 267 [right:none next=2012] ---
+[FID:28, TEXT:00A2] うん、そうしよう！
+
+--- Group 268 [right:none next=2012] ---
+[FID:28, TEXT:00A2] うん、そうしよう！
+
+--- Group 269 [left:char_0004 next=0023] ---
+[FID:28, TEXT:00A3] あれ？
+[FID:28, TEXT:01AA] 釣りの餌がない・・・
+[FID:28, TEXT:01AB] これじゃあ釣りは
+[FID:28, TEXT:01AC] できないよな
+
+--- Group 270 [left:char_0004 next=0023] ---
+[FID:28, TEXT:00A3] あれ？
+[FID:28, TEXT:00A4] あそこでフィズと話を
+[FID:28, TEXT:00A5] してるのって・・・
+
+--- Group 271 [left:char_0004 next=0023] ---
+[FID:28, TEXT:00A3] あれ？
+[FID:28, TEXT:00A4] あそこでフィズと話を
+[FID:28, TEXT:00A9] してるのは・・・
+
+--- Group 272 [left:char_0004 next=0023] ---
+[FID:28, TEXT:00A3] あれ？
+[FID:28, TEXT:01AA] 釣りの餌がない・・・
+[FID:28, TEXT:01AB] これじゃあ釣りは
+[FID:28, TEXT:01AC] できないよな
+
+--- Group 273 [left:char_0004 next=0023] ---
+[FID:28, TEXT:00A3] あれ？
+[FID:28, TEXT:00A4] あそこでフィズと話を
+[FID:28, TEXT:00A5] してるのって・・・
+
+--- Group 274 [left:char_0004 next=0023] ---
+[FID:28, TEXT:00A3] あれ？
+[FID:28, TEXT:00A4] あそこでフィズと話を
+[FID:28, TEXT:00A9] してるのは・・・
+
+--- Group 275 [left:char_0004 next=0023] ---
+[FID:28, TEXT:00A6] キール！？
+
+--- Group 276 [left:char_0004 next=0023] ---
+[FID:28, TEXT:00A6] キール！？
+
+--- Group 277 [left:char_0004 next=0023] ---
+[FID:28, TEXT:00A7] カシス！？
+
+--- Group 278 [left:char_0004 next=0023] ---
+[FID:28, TEXT:00A7] カシス！？
+
+--- Group 279 [left:char_0004 next=0023] ---
+[FID:28, TEXT:00A8] クラレット！？
+
+--- Group 280 [left:char_0004 next=0023] ---
+[FID:28, TEXT:00A8] クラレット！？
+
+--- Group 281 [left:char_0004 next=0023] ---
+[FID:28, TEXT:00AA] ソル！？
+
+--- Group 282 [left:char_0004 next=0023] ---
+[FID:28, TEXT:00AA] ソル！？
+
+--- Group 283 [left:char_0004 next=0023] ---
 [FID:28, TEXT:00AB] あ・・・
 [FID:28, TEXT:00A4] あそこでフィズと話を
 [FID:28, TEXT:00A9] してるのは・・・
 
---- Group 267 [left:char_0004 next=0023] ---
-[FID:28, TEXT:00AC] ソルさん？
-
---- Group 268 [left:char_0004 next=0023] ---
-[FID:28, TEXT:00AC] ソルさん？
-
---- Group 269 [left:char_0004 next=2012] ---
-[FID:28, TEXT:00AF] ねえねえ、いいでしょ
-[FID:28, TEXT:00B0] お兄ちゃんの好みの女
-[FID:28, TEXT:00B1] の人って、どんな感じ
-[FID:28, TEXT:00B2] か教えてよー
-
---- Group 270 [left:char_0004 next=2012] ---
-[FID:28, TEXT:00AF] ねえねえ、いいでしょ
-[FID:28, TEXT:00B0] お兄ちゃんの好みの女
-[FID:28, TEXT:00B1] の人って、どんな感じ
-[FID:28, TEXT:00B2] か教えてよー
-
---- Group 271 [right:char_0022 next=2012] ---
-[FID:28, TEXT:00B3] おい、待てって・・・
-
---- Group 272 [right:none next=2012] ---
-[FID:28, TEXT:00B3] おい、待てって・・・
-
---- Group 273 [left:char_0004 next=2012] ---
-[FID:28, TEXT:00B4] あはは
-[FID:28, TEXT:00B5] 僕と同じ質問されてる
-
---- Group 274 [left:char_0004 next=0023] ---
-[FID:28, TEXT:00B4] あはは
-[FID:28, TEXT:00B8] 困ってる困ってる
-
---- Group 275 [left:char_0004 next=0023] ---
-[FID:28, TEXT:00B4] あはは
-[FID:28, TEXT:00B8] 困ってる困ってる
-
---- Group 276 [left:char_0004 next=2012] ---
-[FID:28, TEXT:00B4] あはは
-[FID:28, TEXT:00B5] 僕と同じ質問されてる
-
---- Group 277 [left:char_0004 next=0023] ---
-[FID:28, TEXT:00B6] ともあれ、
-[FID:28, TEXT:00B7] これで安心だな
-
---- Group 278 [left:char_0004 next=0023] ---
-[FID:28, TEXT:00B6] ともあれ、
-[FID:28, TEXT:00B7] これで安心だな
-
---- Group 279 [left:char_0004 next=0023] ---
-[FID:28, TEXT:00B9] フィズちゃんって
-[FID:28, TEXT:00BA] みんなに同じ質問する
-[FID:28, TEXT:00BB] のかな・・・
-
---- Group 280 [left:char_0004 next=0023] ---
-[FID:28, TEXT:00B9] フィズちゃんって
-[FID:28, TEXT:00BA] みんなに同じ質問する
-[FID:28, TEXT:00BB] のかな・・・
-
---- Group 281 [left:none next=0023] ---
-[FID:28, TEXT:00DC] ・・・
-
---- Group 282 [left:char_0004 next=0023] ---
-[FID:28, TEXT:00DC] ・・・
-[FID:28, TEXT:0133] なんの音でしょうか？
-
---- Group 283 [left:char_0004 next=0023] ---
-[FID:28, TEXT:00DC] ・・・
-
 --- Group 284 [left:char_0004 next=0023] ---
-[FID:28, TEXT:00DC] ・・・
-[FID:28, TEXT:0133] なんの音でしょうか？
+[FID:28, TEXT:00AB] あ・・・
+[FID:28, TEXT:00A4] あそこでフィズと話を
+[FID:28, TEXT:00A9] してるのは・・・
 
---- Group 285 [left:none next=0023] ---
-[FID:28, TEXT:00DC] ・・・
+--- Group 285 [left:char_0004 next=0023] ---
+[FID:28, TEXT:00AC] ソルさん？
 
 --- Group 286 [left:char_0004 next=0023] ---
-[FID:28, TEXT:00DC] ・・・
+[FID:28, TEXT:00AC] ソルさん？
 
---- Group 287 [left:none next=2012] ---
-[FID:28, TEXT:00DD] いつも見てて思うんだ
-[FID:28, TEXT:00DE] けど・・・
+--- Group 287 [left:char_0004 next=0023] ---
+[FID:28, TEXT:00AD] キールさん？
 
---- Group 288 [left:none next=2012] ---
-[FID:28, TEXT:00DD] いつも見てて思うんだ
-[FID:28, TEXT:00DE] けど・・・
+--- Group 288 [left:char_0004 next=0023] ---
+[FID:28, TEXT:00AD] キールさん？
 
---- Group 289 [left:char_0004 next=2012] ---
-[FID:28, TEXT:00DD] いつも見てて思うんだ
-[FID:28, TEXT:00DE] けど・・・
+--- Group 289 [left:char_0004 next=0023] ---
+[FID:28, TEXT:00AE] カシスさん？
 
---- Group 290 [left:char_0004 next=2012] ---
-[FID:28, TEXT:00DD] いつも見てて思うんだ
-[FID:28, TEXT:00DE] けど・・・
+--- Group 290 [left:char_0004 next=0023] ---
+[FID:28, TEXT:00AE] カシスさん？
 
---- Group 291 [left:char_0004 next=0023] ---
-[FID:28, TEXT:00DF] それだけ働いてると、
-[FID:28, TEXT:00E0] 肩こったりしない？
+--- Group 291 [left:char_0004 next=2012] ---
+[FID:28, TEXT:00AF] ねえねえ、いいでしょ
+[FID:28, TEXT:00B0] お兄ちゃんの好みの女
+[FID:28, TEXT:00B1] の人って、どんな感じ
+[FID:28, TEXT:00B2] か教えてよー
 
---- Group 292 [left:none next=0023] ---
-[FID:28, TEXT:00DF] それだけ働いてると、
-[FID:28, TEXT:00E0] 肩こったりしない？
+--- Group 292 [left:char_0004 next=2012] ---
+[FID:28, TEXT:00AF] ねえねえ、いいでしょ
+[FID:28, TEXT:00B0] お兄ちゃんの好みの女
+[FID:28, TEXT:00B1] の人って、どんな感じ
+[FID:28, TEXT:00B2] か教えてよー
 
---- Group 293 [left:char_0004 next=0023] ---
-[FID:28, TEXT:00DF] それだけ働いてると、
-[FID:28, TEXT:00E0] 肩こったりしない？
+--- Group 293 [right:none next=2012] ---
+[FID:28, TEXT:00B3] おい、待てって・・・
 
---- Group 294 [left:none next=0023] ---
-[FID:28, TEXT:00DF] それだけ働いてると、
-[FID:28, TEXT:00E0] 肩こったりしない？
+--- Group 294 [right:char_0022 next=2012] ---
+[FID:28, TEXT:00B3] おい、待てって・・・
 
---- Group 295 [left:none next=2012] ---
-[FID:28, TEXT:00E1] いつも見てて
-[FID:28, TEXT:00E2] 思うんだが・・・
+--- Group 295 [left:char_0004 next=0023] ---
+[FID:28, TEXT:00B4] あはは
+[FID:28, TEXT:00B8] 困ってる困ってる
 
 --- Group 296 [left:char_0004 next=2012] ---
-[FID:28, TEXT:00E1] いつも見てて
-[FID:28, TEXT:00E2] 思うんだが・・・
+[FID:28, TEXT:00B4] あはは
+[FID:28, TEXT:00BD] 俺と同じ質問されてら
 
 --- Group 297 [left:char_0004 next=2012] ---
-[FID:28, TEXT:00E1] いつも見てて
-[FID:28, TEXT:00E2] 思うんだが・・・
+[FID:28, TEXT:00B4] あはは
+[FID:28, TEXT:00B5] 僕と同じ質問されてる
 
---- Group 298 [left:none next=2012] ---
-[FID:28, TEXT:00E1] いつも見てて
-[FID:28, TEXT:00E2] 思うんだが・・・
+--- Group 298 [left:char_0004 next=0023] ---
+[FID:28, TEXT:00B4] あはは
+[FID:28, TEXT:00B8] 困ってる困ってる
 
---- Group 299 [left:char_0004 next=0023] ---
-[FID:28, TEXT:00E3] それだけ働きづめでは
-[FID:28, TEXT:00E4] 肩がこるんじゃないか
+--- Group 299 [left:char_0004 next=2012] ---
+[FID:28, TEXT:00B4] あはは
+[FID:28, TEXT:00BD] 俺と同じ質問されてら
 
---- Group 300 [left:char_0004 next=0023] ---
-[FID:28, TEXT:00E3] それだけ働きづめでは
-[FID:28, TEXT:00E4] 肩がこるんじゃないか
+--- Group 300 [left:char_0004 next=2012] ---
+[FID:28, TEXT:00B4] あはは
+[FID:28, TEXT:00B5] 僕と同じ質問されてる
 
---- Group 301 [left:none next=0023] ---
-[FID:28, TEXT:00E3] それだけ働きづめでは
-[FID:28, TEXT:00E4] 肩がこるんじゃないか
+--- Group 301 [left:char_0004 next=0023] ---
+[FID:28, TEXT:00B6] ともあれ、
+[FID:28, TEXT:00B7] これで安心だな
 
---- Group 302 [left:none next=0023] ---
-[FID:28, TEXT:00E3] それだけ働きづめでは
-[FID:28, TEXT:00E4] 肩がこるんじゃないか
+--- Group 302 [left:char_0004 next=0023] ---
+[FID:28, TEXT:00B6] ともあれ、
+[FID:28, TEXT:00B7] これで安心だな
 
---- Group 303 [left:none next=2012] ---
-[FID:28, TEXT:00E5] いつも見ててさ、
-[FID:28, TEXT:00E6] 思うんだけど・・・
+--- Group 303 [left:char_0004 next=0023] ---
+[FID:28, TEXT:00B9] フィズちゃんって
+[FID:28, TEXT:00BA] みんなに同じ質問する
+[FID:28, TEXT:00BB] のかな・・・
 
---- Group 304 [left:char_0004 next=2012] ---
-[FID:28, TEXT:00E5] いつも見ててさ、
-[FID:28, TEXT:00E6] 思うんだけど・・・
+--- Group 304 [left:char_0004 next=0023] ---
+[FID:28, TEXT:00B9] フィズちゃんって
+[FID:28, TEXT:00BA] みんなに同じ質問する
+[FID:28, TEXT:00BB] のかな・・・
 
---- Group 305 [left:char_0004 next=2012] ---
-[FID:28, TEXT:00E5] いつも見ててさ、
-[FID:28, TEXT:00E6] 思うんだけど・・・
+--- Group 305 [right:none next=2012] ---
+[FID:28, TEXT:00BC] う・・・
 
---- Group 306 [left:none next=2012] ---
-[FID:28, TEXT:00E5] いつも見ててさ、
-[FID:28, TEXT:00E6] 思うんだけど・・・
+--- Group 306 [right:char_0022 next=2012] ---
+[FID:28, TEXT:00BC] う・・・
 
---- Group 307 [left:none next=0023] ---
-[FID:28, TEXT:00E7] そんなに働いてさ、
-[FID:28, TEXT:00E0] 肩こったりしない？
+--- Group 307 [left:char_0004 next=0023] ---
+[FID:28, TEXT:00BE] ともあれ、これで
+[FID:28, TEXT:00BF] ひと安心ってとこだな
 
---- Group 308 [left:none next=0023] ---
-[FID:28, TEXT:00E7] そんなに働いてさ、
-[FID:28, TEXT:00E0] 肩こったりしない？
+--- Group 308 [left:char_0004 next=0023] ---
+[FID:28, TEXT:00BE] ともあれ、これで
+[FID:28, TEXT:00BF] ひと安心ってとこだな
 
 --- Group 309 [left:char_0004 next=0023] ---
-[FID:28, TEXT:00E7] そんなに働いてさ、
-[FID:28, TEXT:00E0] 肩こったりしない？
+[FID:28, TEXT:00C0] あはは、困ってる
+[FID:28, TEXT:00C1] キールは
+[FID:28, TEXT:00C2] まじめだからね〜
 
 --- Group 310 [left:char_0004 next=0023] ---
+[FID:28, TEXT:00C0] あはは、困ってる
+[FID:28, TEXT:00C1] キールは
+[FID:28, TEXT:00C2] まじめだからね〜
+
+--- Group 311 [left:char_0004 next=0023] ---
+[FID:28, TEXT:00C3] フィズちゃんの
+[FID:28, TEXT:00C4] 質問責めですね・・・
+
+--- Group 312 [left:char_0004 next=0023] ---
+[FID:28, TEXT:00C3] フィズちゃんの
+[FID:28, TEXT:00C4] 質問責めですね・・・
+
+--- Group 313 [left:char_0004 next=2012] ---
+[FID:28, TEXT:00C5] あはははっ
+[FID:28, TEXT:00C6] お姉ちゃんもそう思う
+[FID:28, TEXT:00C7] よねえ
+
+--- Group 314 [left:char_0004 next=2012] ---
+[FID:28, TEXT:00C5] あはははっ
+[FID:28, TEXT:00C6] お姉ちゃんもそう思う
+[FID:28, TEXT:00C7] よねえ
+
+--- Group 315 [right:none next=2012] ---
+[FID:28, TEXT:00C8] でしょ、でしょー？
+
+--- Group 316 [right:char_0022 next=2012] ---
+[FID:28, TEXT:00C8] でしょ、でしょー？
+
+--- Group 317 [left:char_0004 next=2012] ---
+[FID:28, TEXT:00C9] ありゃりゃ
+[FID:28, TEXT:00CA] すっかり和んでるよ
+
+--- Group 318 [left:char_0004 next=2012] ---
+[FID:28, TEXT:00C9] ありゃりゃ
+[FID:28, TEXT:00CA] すっかり和んでるよ
+
+--- Group 319 [left:char_0004 next=0023] ---
+[FID:28, TEXT:00CB] ああ、すっかり仲良く
+[FID:28, TEXT:00CC] なったみたいだな
+
+--- Group 320 [left:char_0004 next=0023] ---
+[FID:28, TEXT:00CB] ああ、すっかり仲良く
+[FID:28, TEXT:00CC] なったみたいだな
+
+--- Group 321 [left:char_0004 next=0023] ---
+[FID:28, TEXT:00CD] すっかり和んでいる
+[FID:28, TEXT:00CE] みたいですね・・・
+
+--- Group 322 [left:char_0004 next=0023] ---
+[FID:28, TEXT:00CD] すっかり和んでいる
+[FID:28, TEXT:00CE] みたいですね・・・
+
+--- Group 323 [left:char_0004 next=2012] ---
+[FID:28, TEXT:00CF] お姉ちゃん、
+[FID:28, TEXT:00D0] そんなんじゃダメだよ
+[FID:28, TEXT:00D1] 男なんてのは・・・
+
+--- Group 324 [left:char_0004 next=2012] ---
+[FID:28, TEXT:00CF] お姉ちゃん、
+[FID:28, TEXT:00D0] そんなんじゃダメだよ
+[FID:28, TEXT:00D1] 男なんてのは・・・
+
+--- Group 325 [right:none next=2012] ---
+[FID:28, TEXT:00D2] は、はあ・・・
+
+--- Group 326 [right:char_0022 next=2012] ---
+[FID:28, TEXT:00D2] は、はあ・・・
+
+--- Group 327 [left:char_0004 next=2012] ---
+[FID:28, TEXT:00D3] うわ
+[FID:28, TEXT:00D4] なんだかすごいことに
+[FID:28, TEXT:00D5] なってる・・・？
+
+--- Group 328 [left:char_0004 next=2012] ---
+[FID:28, TEXT:00D3] うわ
+[FID:28, TEXT:00D4] なんだかすごいことに
+[FID:28, TEXT:00D5] なってる・・・？
+
+--- Group 329 [left:char_0004 next=0023] ---
+[FID:28, TEXT:00D6] うーん、ある意味では
+[FID:28, TEXT:00D7] すごい光景のような
+[FID:28, TEXT:00D8] 気もする・・・
+
+--- Group 330 [left:char_0004 next=0023] ---
+[FID:28, TEXT:00D6] うーん、ある意味では
+[FID:28, TEXT:00D7] すごい光景のような
+[FID:28, TEXT:00D8] 気もする・・・
+
+--- Group 331 [left:char_0004 next=0023] ---
+[FID:28, TEXT:00D9] クラレットったら
+[FID:28, TEXT:00DA] 相当困ってるなぁ
+[FID:28, TEXT:00DB] 巻き込まれないうちに
+[FID:28, TEXT:00DC] ・・・
+
+--- Group 332 [left:char_0004 next=0023] ---
+[FID:28, TEXT:00D9] クラレットったら
+[FID:28, TEXT:00DA] 相当困ってるなぁ
+[FID:28, TEXT:00DB] 巻き込まれないうちに
+[FID:28, TEXT:00DC] ・・・
+
+--- Group 333 [left:none next=0023] ---
+[FID:28, TEXT:00DC] ・・・
+
+--- Group 334 [left:none next=0023] ---
+[FID:28, TEXT:00DC] ・・・
+
+--- Group 335 [left:char_0004 next=0023] ---
+[FID:28, TEXT:00DC] ・・・
+
+--- Group 336 [left:char_0004 next=0023] ---
+[FID:28, TEXT:00DC] ・・・
+[FID:28, TEXT:0133] なんの音でしょうか？
+
+--- Group 337 [left:char_0004 next=0023] ---
+[FID:28, TEXT:00DC] ・・・
+
+--- Group 338 [left:char_0004 next=0023] ---
+[FID:28, TEXT:00DC] ・・・
+[FID:28, TEXT:0133] なんの音でしょうか？
+
+--- Group 339 [left:none next=2012] ---
+[FID:28, TEXT:00DD] いつも見てて思うんだ
+[FID:28, TEXT:00DE] けど・・・
+
+--- Group 340 [left:char_0004 next=2012] ---
+[FID:28, TEXT:00DD] いつも見てて思うんだ
+[FID:28, TEXT:00DE] けど・・・
+
+--- Group 341 [left:none next=2012] ---
+[FID:28, TEXT:00DD] いつも見てて思うんだ
+[FID:28, TEXT:00DE] けど・・・
+
+--- Group 342 [left:char_0004 next=2012] ---
+[FID:28, TEXT:00DD] いつも見てて思うんだ
+[FID:28, TEXT:00DE] けど・・・
+
+--- Group 343 [left:none next=0023] ---
+[FID:28, TEXT:00DF] それだけ働いてると、
+[FID:28, TEXT:00E0] 肩こったりしない？
+
+--- Group 344 [left:char_0004 next=0023] ---
+[FID:28, TEXT:00DF] それだけ働いてると、
+[FID:28, TEXT:00E0] 肩こったりしない？
+
+--- Group 345 [left:none next=0023] ---
+[FID:28, TEXT:00DF] それだけ働いてると、
+[FID:28, TEXT:00E0] 肩こったりしない？
+
+--- Group 346 [left:char_0004 next=0023] ---
+[FID:28, TEXT:00DF] それだけ働いてると、
+[FID:28, TEXT:00E0] 肩こったりしない？
+
+--- Group 347 [left:none next=2012] ---
+[FID:28, TEXT:00E1] いつも見てて
+[FID:28, TEXT:00E2] 思うんだが・・・
+
+--- Group 348 [left:char_0004 next=2012] ---
+[FID:28, TEXT:00E1] いつも見てて
+[FID:28, TEXT:00E2] 思うんだが・・・
+
+--- Group 349 [left:char_0004 next=2012] ---
+[FID:28, TEXT:00E1] いつも見てて
+[FID:28, TEXT:00E2] 思うんだが・・・
+
+--- Group 350 [left:none next=2012] ---
+[FID:28, TEXT:00E1] いつも見てて
+[FID:28, TEXT:00E2] 思うんだが・・・
+
+--- Group 351 [left:char_0004 next=0023] ---
+[FID:28, TEXT:00E3] それだけ働きづめでは
+[FID:28, TEXT:00E4] 肩がこるんじゃないか
+
+--- Group 352 [left:none next=0023] ---
+[FID:28, TEXT:00E3] それだけ働きづめでは
+[FID:28, TEXT:00E4] 肩がこるんじゃないか
+
+--- Group 353 [left:char_0004 next=0023] ---
+[FID:28, TEXT:00E3] それだけ働きづめでは
+[FID:28, TEXT:00E4] 肩がこるんじゃないか
+
+--- Group 354 [left:none next=0023] ---
+[FID:28, TEXT:00E3] それだけ働きづめでは
+[FID:28, TEXT:00E4] 肩がこるんじゃないか
+
+--- Group 355 [left:char_0004 next=2012] ---
+[FID:28, TEXT:00E5] いつも見ててさ、
+[FID:28, TEXT:00E6] 思うんだけど・・・
+
+--- Group 356 [left:none next=2012] ---
+[FID:28, TEXT:00E5] いつも見ててさ、
+[FID:28, TEXT:00E6] 思うんだけど・・・
+
+--- Group 357 [left:none next=2012] ---
+[FID:28, TEXT:00E5] いつも見ててさ、
+[FID:28, TEXT:00E6] 思うんだけど・・・
+
+--- Group 358 [left:char_0004 next=2012] ---
+[FID:28, TEXT:00E5] いつも見ててさ、
+[FID:28, TEXT:00E6] 思うんだけど・・・
+
+--- Group 359 [left:none next=0023] ---
 [FID:28, TEXT:00E7] そんなに働いてさ、
 [FID:28, TEXT:00E0] 肩こったりしない？
 
---- Group 311 [left:char_0004 next=2012] ---
+--- Group 360 [left:none next=0023] ---
+[FID:28, TEXT:00E7] そんなに働いてさ、
+[FID:28, TEXT:00E0] 肩こったりしない？
+
+--- Group 361 [left:char_0004 next=0023] ---
+[FID:28, TEXT:00E7] そんなに働いてさ、
+[FID:28, TEXT:00E0] 肩こったりしない？
+
+--- Group 362 [left:char_0004 next=0023] ---
+[FID:28, TEXT:00E7] そんなに働いてさ、
+[FID:28, TEXT:00E0] 肩こったりしない？
+
+--- Group 363 [left:none next=2012] ---
 [FID:28, TEXT:00E8] いつも見てて思うん
 [FID:28, TEXT:00E9] ですけれど・・・
 
---- Group 312 [left:none next=2012] ---
+--- Group 364 [left:char_0004 next=2012] ---
 [FID:28, TEXT:00E8] いつも見てて思うん
 [FID:28, TEXT:00E9] ですけれど・・・
 
---- Group 313 [left:char_0004 next=2012] ---
+--- Group 365 [left:none next=2012] ---
 [FID:28, TEXT:00E8] いつも見てて思うん
 [FID:28, TEXT:00E9] ですけれど・・・
 
---- Group 314 [left:none next=2012] ---
+--- Group 366 [left:char_0004 next=2012] ---
 [FID:28, TEXT:00E8] いつも見てて思うん
 [FID:28, TEXT:00E9] ですけれど・・・
 
---- Group 315 [left:char_0004 next=0023] ---
+--- Group 367 [left:none next=0023] ---
 [FID:28, TEXT:00EA] そんなに働いていて、
 [FID:28, TEXT:00EB] 肩こりませんか？
-
---- Group 316 [left:none next=0023] ---
-[FID:28, TEXT:00EA] そんなに働いていて、
-[FID:28, TEXT:00EB] 肩こりませんか？
-
---- Group 317 [left:char_0004 next=0023] ---
-[FID:28, TEXT:00EA] そんなに働いていて、
-[FID:28, TEXT:00EB] 肩こりませんか？
-
---- Group 318 [left:none next=0023] ---
-[FID:28, TEXT:00EA] そんなに働いていて、
-[FID:28, TEXT:00EB] 肩こりませんか？
-
---- Group 319 [right:none next=2012] ---
-[FID:28, TEXT:00EC] あのねぇ・・・
-[FID:28, TEXT:00ED] 私はそんな年じゃない
-[FID:28, TEXT:00EE] んですけどぉ！？
-
---- Group 320 [right:char_0022 next=2012] ---
-[FID:28, TEXT:00EC] あのねぇ・・・
-[FID:28, TEXT:00ED] 私はそんな年じゃない
-[FID:28, TEXT:00EE] んですけどぉ！？
-
---- Group 321 [right:char_0022 next=2012] ---
-[FID:28, TEXT:00EC] あのねぇ・・・
-[FID:28, TEXT:00ED] 私はそんな年じゃない
-[FID:28, TEXT:00EE] んですけどぉ！？
-
---- Group 322 [right:none next=2012] ---
-[FID:28, TEXT:00EC] あのねぇ・・・
-[FID:28, TEXT:00ED] 私はそんな年じゃない
-[FID:28, TEXT:00EE] んですけどぉ！？
-
---- Group 323 [left:char_0004 next=0023] ---
-[FID:28, TEXT:00EF] あわわっ！
-
---- Group 324 [left:char_0004 next=0023] ---
-[FID:28, TEXT:00EF] あわわっ！
-
---- Group 325 [left:none next=0023] ---
-[FID:28, TEXT:00EF] あわわっ！
-
---- Group 326 [left:none next=0023] ---
-[FID:28, TEXT:00EF] あわわっ！
-
---- Group 327 [left:char_0004 next=0023] ---
-[FID:28, TEXT:00F0] あ、いや・・・
-
---- Group 328 [left:char_0004 next=0023] ---
-[FID:28, TEXT:00F0] あ、いや・・・
-
---- Group 329 [left:none next=0023] ---
-[FID:28, TEXT:00F0] あ、いや・・・
-
---- Group 330 [left:none next=0023] ---
-[FID:28, TEXT:00F0] あ、いや・・・
-
---- Group 331 [left:none next=0023] ---
-[FID:28, TEXT:00F1] わっ、び、びっくり
-
---- Group 332 [left:char_0004 next=0023] ---
-[FID:28, TEXT:00F1] わっ、び、びっくり
-
---- Group 333 [left:none next=0023] ---
-[FID:28, TEXT:00F1] わっ、び、びっくり
-
---- Group 334 [left:char_0004 next=0023] ---
-[FID:28, TEXT:00F1] わっ、び、びっくり
-
---- Group 335 [left:none next=0023] ---
-[FID:28, TEXT:00F2] あ、そうですよね
-
---- Group 336 [left:char_0004 next=0023] ---
-[FID:28, TEXT:00F2] あ、そうですよね
-
---- Group 337 [left:char_0004 next=0023] ---
-[FID:28, TEXT:00F2] あ、そうですよね
-
---- Group 338 [left:none next=0023] ---
-[FID:28, TEXT:00F2] あ、そうですよね
-
---- Group 339 [right:none next=2012] ---
-[FID:28, TEXT:00F3] ・・・って言いたいけ
-[FID:28, TEXT:00F4] ど本当はそのとおりよ
-[FID:28, TEXT:00F5] あーあ、まだ１７歳だ
-[FID:28, TEXT:00F6] っていうのに・・・
-
---- Group 340 [right:char_0022 next=2012] ---
-[FID:28, TEXT:00F3] ・・・って言いたいけ
-[FID:28, TEXT:00F4] ど本当はそのとおりよ
-[FID:28, TEXT:00F5] あーあ、まだ１７歳だ
-[FID:28, TEXT:00F6] っていうのに・・・
-
---- Group 341 [right:none next=2012] ---
-[FID:28, TEXT:00F3] ・・・って言いたいけ
-[FID:28, TEXT:00F4] ど本当はそのとおりよ
-[FID:28, TEXT:00F5] あーあ、まだ１７歳だ
-[FID:28, TEXT:00F6] っていうのに・・・
-
---- Group 342 [right:char_0022 next=2012] ---
-[FID:28, TEXT:00F3] ・・・って言いたいけ
-[FID:28, TEXT:00F4] ど本当はそのとおりよ
-[FID:28, TEXT:00F5] あーあ、まだ１７歳だ
-[FID:28, TEXT:00F6] っていうのに・・・
-
---- Group 343 [left:char_0004 next=0023] ---
-[FID:28, TEXT:00F7] え・・・ってことは、
-[FID:28, TEXT:00F8] 同い年なんだ？
-
---- Group 344 [left:none next=0023] ---
-[FID:28, TEXT:00F7] え・・・ってことは、
-[FID:28, TEXT:00F8] 同い年なんだ？
-
---- Group 345 [left:none next=0023] ---
-[FID:28, TEXT:00F7] え・・・ってことは、
-[FID:28, TEXT:00F8] 同い年なんだ？
-
---- Group 346 [left:char_0004 next=0023] ---
-[FID:28, TEXT:00F7] え・・・ってことは、
-[FID:28, TEXT:00F8] 同い年なんだ？
-
---- Group 347 [left:char_0004 next=0023] ---
-[FID:28, TEXT:00F9] ああ・・・それじゃ、
-[FID:28, TEXT:00FA] 同い年だったんだ
-
---- Group 348 [left:none next=0023] ---
-[FID:28, TEXT:00F9] ああ・・・それじゃ、
-[FID:28, TEXT:00FA] 同い年だったんだ
-
---- Group 349 [left:none next=0023] ---
-[FID:28, TEXT:00F9] ああ・・・それじゃ、
-[FID:28, TEXT:00FA] 同い年だったんだ
-
---- Group 350 [left:char_0004 next=0023] ---
-[FID:28, TEXT:00F9] ああ・・・それじゃ、
-[FID:28, TEXT:00FA] 同い年だったんだ
-
---- Group 351 [left:none next=0023] ---
-[FID:28, TEXT:00FB] は・・・同い歳なの？
-[FID:28, TEXT:00FC] あたしも１７なんだ
-
---- Group 352 [left:none next=0023] ---
-[FID:28, TEXT:00FB] は・・・同い歳なの？
-[FID:28, TEXT:00FC] あたしも１７なんだ
-
---- Group 353 [left:char_0004 next=0023] ---
-[FID:28, TEXT:00FB] は・・・同い歳なの？
-[FID:28, TEXT:00FC] あたしも１７なんだ
-
---- Group 354 [left:char_0004 next=0023] ---
-[FID:28, TEXT:00FB] は・・・同い歳なの？
-[FID:28, TEXT:00FC] あたしも１７なんだ
-
---- Group 355 [left:char_0004 next=0023] ---
-[FID:28, TEXT:00FD] え・・・
-[FID:28, TEXT:00FE] 同い年なんですね
-
---- Group 356 [left:char_0004 next=0023] ---
-[FID:28, TEXT:00FD] え・・・
-[FID:28, TEXT:00FE] 同い年なんですね
-
---- Group 357 [left:none next=0023] ---
-[FID:28, TEXT:00FD] え・・・
-[FID:28, TEXT:00FE] 同い年なんですね
-
---- Group 358 [left:none next=0023] ---
-[FID:28, TEXT:00FD] え・・・
-[FID:28, TEXT:00FE] 同い年なんですね
-
---- Group 359 [right:none next=2012] ---
-[FID:28, TEXT:00FF] あ、そうなんだ！？
-[FID:28, TEXT:0100] 私はてっきり・・・
-
---- Group 360 [right:none next=2012] ---
-[FID:28, TEXT:00FF] あ、そうなんだ！？
-[FID:28, TEXT:0100] 私はてっきり・・・
-
---- Group 361 [right:char_0022 next=2012] ---
-[FID:28, TEXT:00FF] あ、そうなんだ！？
-[FID:28, TEXT:0100] 私はてっきり・・・
-
---- Group 362 [right:char_0022 next=2012] ---
-[FID:28, TEXT:00FF] あ、そうなんだ！？
-[FID:28, TEXT:0100] 私はてっきり・・・
-
---- Group 363 [left:char_0004 next=0023] ---
-[FID:28, TEXT:0101] てっきり？
-
---- Group 364 [left:none next=0023] ---
-[FID:28, TEXT:0101] てっきり？
-
---- Group 365 [left:char_0004 next=0023] ---
-[FID:28, TEXT:0101] てっきり？
-
---- Group 366 [left:none next=0023] ---
-[FID:28, TEXT:0101] てっきり？
-
---- Group 367 [left:char_0004 next=0023] ---
-[FID:28, TEXT:0102] てっきり
-[FID:28, TEXT:0103] ・・・なんですか？
 
 --- Group 368 [left:none next=0023] ---
-[FID:28, TEXT:0102] てっきり
-[FID:28, TEXT:0103] ・・・なんですか？
+[FID:28, TEXT:00EA] そんなに働いていて、
+[FID:28, TEXT:00EB] 肩こりませんか？
 
 --- Group 369 [left:char_0004 next=0023] ---
-[FID:28, TEXT:0102] てっきり
-[FID:28, TEXT:0103] ・・・なんですか？
+[FID:28, TEXT:00EA] そんなに働いていて、
+[FID:28, TEXT:00EB] 肩こりませんか？
 
---- Group 370 [left:none next=0023] ---
-[FID:28, TEXT:0102] てっきり
-[FID:28, TEXT:0103] ・・・なんですか？
+--- Group 370 [left:char_0004 next=0023] ---
+[FID:28, TEXT:00EA] そんなに働いていて、
+[FID:28, TEXT:00EB] 肩こりませんか？
 
 --- Group 371 [right:none next=2012] ---
-[FID:28, TEXT:0104] えーっと
-[FID:28, TEXT:0105] 年下かと思ってました
+[FID:28, TEXT:00EC] あのねぇ・・・
+[FID:28, TEXT:00ED] 私はそんな年じゃない
+[FID:28, TEXT:00EE] んですけどぉ！？
 
 --- Group 372 [right:char_0022 next=2012] ---
-[FID:28, TEXT:0104] えーっと
-[FID:28, TEXT:0105] 年下かと思ってました
+[FID:28, TEXT:00EC] あのねぇ・・・
+[FID:28, TEXT:00ED] 私はそんな年じゃない
+[FID:28, TEXT:00EE] んですけどぉ！？
 
---- Group 373 [right:none next=2012] ---
-[FID:28, TEXT:0104] えーっと
-[FID:28, TEXT:0105] 年下かと思ってました
+--- Group 373 [right:char_0022 next=2012] ---
+[FID:28, TEXT:00EC] あのねぇ・・・
+[FID:28, TEXT:00ED] 私はそんな年じゃない
+[FID:28, TEXT:00EE] んですけどぉ！？
 
---- Group 374 [right:char_0022 next=2012] ---
-[FID:28, TEXT:0104] えーっと
-[FID:28, TEXT:0105] 年下かと思ってました
+--- Group 374 [right:none next=2012] ---
+[FID:28, TEXT:00EC] あのねぇ・・・
+[FID:28, TEXT:00ED] 私はそんな年じゃない
+[FID:28, TEXT:00EE] んですけどぉ！？
 
---- Group 375 [left:char_0004 next=0023] ---
-[FID:28, TEXT:0106] やっぱり・・・
+--- Group 375 [left:none next=0023] ---
+[FID:28, TEXT:00EF] あわわっ！
 
---- Group 376 [left:none next=0023] ---
-[FID:28, TEXT:0106] やっぱり・・・
+--- Group 376 [left:char_0004 next=0023] ---
+[FID:28, TEXT:00EF] あわわっ！
 
---- Group 377 [left:char_0004 next=0023] ---
-[FID:28, TEXT:0106] やっぱり・・・
+--- Group 377 [left:none next=0023] ---
+[FID:28, TEXT:00EF] あわわっ！
 
---- Group 378 [left:none next=0023] ---
-[FID:28, TEXT:0106] やっぱり・・・
+--- Group 378 [left:char_0004 next=0023] ---
+[FID:28, TEXT:00EF] あわわっ！
 
---- Group 379 [right:none next=2012] ---
-[FID:28, TEXT:0107] あはは、ごめんね？
+--- Group 379 [left:none next=0023] ---
+[FID:28, TEXT:00F0] あ、いや・・・
 
---- Group 380 [right:char_0022 next=2012] ---
-[FID:28, TEXT:0107] あはは、ごめんね？
+--- Group 380 [left:none next=0023] ---
+[FID:28, TEXT:00F0] あ、いや・・・
 
---- Group 381 [right:char_0022 next=2012] ---
-[FID:28, TEXT:0107] あはは、ごめんね？
+--- Group 381 [left:char_0004 next=0023] ---
+[FID:28, TEXT:00F0] あ、いや・・・
 
---- Group 382 [right:none next=2012] ---
-[FID:28, TEXT:0107] あはは、ごめんね？
+--- Group 382 [left:char_0004 next=0023] ---
+[FID:28, TEXT:00F0] あ、いや・・・
 
---- Group 383 [left:char_0004 next=2012] ---
-[FID:28, TEXT:0108] リプレが
-[FID:28, TEXT:0109] 洗濯物を干してる
+--- Group 383 [left:none next=0023] ---
+[FID:28, TEXT:00F1] わっ、び、びっくり
 
---- Group 384 [left:char_0004 next=2012] ---
-[FID:28, TEXT:0108] リプレが
-[FID:28, TEXT:0109] 洗濯物を干してる
+--- Group 384 [left:char_0004 next=0023] ---
+[FID:28, TEXT:00F1] わっ、び、びっくり
 
---- Group 385 [left:char_0004 next=0023] ---
-[FID:28, TEXT:010A] 邪魔したら悪いな
+--- Group 385 [left:none next=0023] ---
+[FID:28, TEXT:00F1] わっ、び、びっくり
 
 --- Group 386 [left:char_0004 next=0023] ---
-[FID:28, TEXT:010A] 邪魔したら悪いな
+[FID:28, TEXT:00F1] わっ、び、びっくり
 
---- Group 387 [left:char_0004 next=0023] ---
-[FID:28, TEXT:010B] 邪魔しないように
-[FID:28, TEXT:010C] しなくちゃ・・・
+--- Group 387 [left:none next=0023] ---
+[FID:28, TEXT:00F2] あ、そうですよね
 
 --- Group 388 [left:char_0004 next=0023] ---
+[FID:28, TEXT:00F2] あ、そうですよね
+
+--- Group 389 [left:char_0004 next=0023] ---
+[FID:28, TEXT:00F2] あ、そうですよね
+
+--- Group 390 [left:none next=0023] ---
+[FID:28, TEXT:00F2] あ、そうですよね
+
+--- Group 391 [right:none next=2012] ---
+[FID:28, TEXT:00F3] ・・・って言いたいけ
+[FID:28, TEXT:00F4] ど本当はそのとおりよ
+[FID:28, TEXT:00F5] あーあ、まだ１７歳だ
+[FID:28, TEXT:00F6] っていうのに・・・
+
+--- Group 392 [right:char_0022 next=2012] ---
+[FID:28, TEXT:00F3] ・・・って言いたいけ
+[FID:28, TEXT:00F4] ど本当はそのとおりよ
+[FID:28, TEXT:00F5] あーあ、まだ１７歳だ
+[FID:28, TEXT:00F6] っていうのに・・・
+
+--- Group 393 [right:char_0022 next=2012] ---
+[FID:28, TEXT:00F3] ・・・って言いたいけ
+[FID:28, TEXT:00F4] ど本当はそのとおりよ
+[FID:28, TEXT:00F5] あーあ、まだ１７歳だ
+[FID:28, TEXT:00F6] っていうのに・・・
+
+--- Group 394 [right:none next=2012] ---
+[FID:28, TEXT:00F3] ・・・って言いたいけ
+[FID:28, TEXT:00F4] ど本当はそのとおりよ
+[FID:28, TEXT:00F5] あーあ、まだ１７歳だ
+[FID:28, TEXT:00F6] っていうのに・・・
+
+--- Group 395 [left:none next=0023] ---
+[FID:28, TEXT:00F7] え・・・ってことは、
+[FID:28, TEXT:00F8] 同い年なんだ？
+
+--- Group 396 [left:char_0004 next=0023] ---
+[FID:28, TEXT:00F7] え・・・ってことは、
+[FID:28, TEXT:00F8] 同い年なんだ？
+
+--- Group 397 [left:none next=0023] ---
+[FID:28, TEXT:00F7] え・・・ってことは、
+[FID:28, TEXT:00F8] 同い年なんだ？
+
+--- Group 398 [left:char_0004 next=0023] ---
+[FID:28, TEXT:00F7] え・・・ってことは、
+[FID:28, TEXT:00F8] 同い年なんだ？
+
+--- Group 399 [left:none next=0023] ---
+[FID:28, TEXT:00F9] ああ・・・それじゃ、
+[FID:28, TEXT:00FA] 同い年だったんだ
+
+--- Group 400 [left:char_0004 next=0023] ---
+[FID:28, TEXT:00F9] ああ・・・それじゃ、
+[FID:28, TEXT:00FA] 同い年だったんだ
+
+--- Group 401 [left:none next=0023] ---
+[FID:28, TEXT:00F9] ああ・・・それじゃ、
+[FID:28, TEXT:00FA] 同い年だったんだ
+
+--- Group 402 [left:char_0004 next=0023] ---
+[FID:28, TEXT:00F9] ああ・・・それじゃ、
+[FID:28, TEXT:00FA] 同い年だったんだ
+
+--- Group 403 [left:none next=0023] ---
+[FID:28, TEXT:00FB] は・・・同い歳なの？
+[FID:28, TEXT:00FC] あたしも１７なんだ
+
+--- Group 404 [left:none next=0023] ---
+[FID:28, TEXT:00FB] は・・・同い歳なの？
+[FID:28, TEXT:00FC] あたしも１７なんだ
+
+--- Group 405 [left:char_0004 next=0023] ---
+[FID:28, TEXT:00FB] は・・・同い歳なの？
+[FID:28, TEXT:00FC] あたしも１７なんだ
+
+--- Group 406 [left:char_0004 next=0023] ---
+[FID:28, TEXT:00FB] は・・・同い歳なの？
+[FID:28, TEXT:00FC] あたしも１７なんだ
+
+--- Group 407 [left:none next=0023] ---
+[FID:28, TEXT:00FD] え・・・
+[FID:28, TEXT:00FE] 同い年なんですね
+
+--- Group 408 [left:char_0004 next=0023] ---
+[FID:28, TEXT:00FD] え・・・
+[FID:28, TEXT:00FE] 同い年なんですね
+
+--- Group 409 [left:none next=0023] ---
+[FID:28, TEXT:00FD] え・・・
+[FID:28, TEXT:00FE] 同い年なんですね
+
+--- Group 410 [left:char_0004 next=0023] ---
+[FID:28, TEXT:00FD] え・・・
+[FID:28, TEXT:00FE] 同い年なんですね
+
+--- Group 411 [right:char_0022 next=2012] ---
+[FID:28, TEXT:00FF] あ、そうなんだ！？
+[FID:28, TEXT:0100] 私はてっきり・・・
+
+--- Group 412 [right:none next=2012] ---
+[FID:28, TEXT:00FF] あ、そうなんだ！？
+[FID:28, TEXT:0100] 私はてっきり・・・
+
+--- Group 413 [right:none next=2012] ---
+[FID:28, TEXT:00FF] あ、そうなんだ！？
+[FID:28, TEXT:0100] 私はてっきり・・・
+
+--- Group 414 [right:char_0022 next=2012] ---
+[FID:28, TEXT:00FF] あ、そうなんだ！？
+[FID:28, TEXT:0100] 私はてっきり・・・
+
+--- Group 415 [left:none next=0023] ---
+[FID:28, TEXT:0101] てっきり？
+
+--- Group 416 [left:char_0004 next=0023] ---
+[FID:28, TEXT:0101] てっきり？
+
+--- Group 417 [left:char_0004 next=0023] ---
+[FID:28, TEXT:0101] てっきり？
+
+--- Group 418 [left:none next=0023] ---
+[FID:28, TEXT:0101] てっきり？
+
+--- Group 419 [left:none next=0023] ---
+[FID:28, TEXT:0102] てっきり
+[FID:28, TEXT:0103] ・・・なんですか？
+
+--- Group 420 [left:char_0004 next=0023] ---
+[FID:28, TEXT:0102] てっきり
+[FID:28, TEXT:0103] ・・・なんですか？
+
+--- Group 421 [left:none next=0023] ---
+[FID:28, TEXT:0102] てっきり
+[FID:28, TEXT:0103] ・・・なんですか？
+
+--- Group 422 [left:char_0004 next=0023] ---
+[FID:28, TEXT:0102] てっきり
+[FID:28, TEXT:0103] ・・・なんですか？
+
+--- Group 423 [right:none next=2012] ---
+[FID:28, TEXT:0104] えーっと
+[FID:28, TEXT:0105] 年下かと思ってました
+
+--- Group 424 [right:char_0022 next=2012] ---
+[FID:28, TEXT:0104] えーっと
+[FID:28, TEXT:0105] 年下かと思ってました
+
+--- Group 425 [right:none next=2012] ---
+[FID:28, TEXT:0104] えーっと
+[FID:28, TEXT:0105] 年下かと思ってました
+
+--- Group 426 [right:char_0022 next=2012] ---
+[FID:28, TEXT:0104] えーっと
+[FID:28, TEXT:0105] 年下かと思ってました
+
+--- Group 427 [left:none next=0023] ---
+[FID:28, TEXT:0106] やっぱり・・・
+
+--- Group 428 [left:char_0004 next=0023] ---
+[FID:28, TEXT:0106] やっぱり・・・
+
+--- Group 429 [left:none next=0023] ---
+[FID:28, TEXT:0106] やっぱり・・・
+
+--- Group 430 [left:char_0004 next=0023] ---
+[FID:28, TEXT:0106] やっぱり・・・
+
+--- Group 431 [right:none next=2012] ---
+[FID:28, TEXT:0107] あはは、ごめんね？
+
+--- Group 432 [right:none next=2012] ---
+[FID:28, TEXT:0107] あはは、ごめんね？
+
+--- Group 433 [right:char_0022 next=2012] ---
+[FID:28, TEXT:0107] あはは、ごめんね？
+
+--- Group 434 [right:char_0022 next=2012] ---
+[FID:28, TEXT:0107] あはは、ごめんね？
+
+--- Group 435 [left:char_0004 next=2012] ---
+[FID:28, TEXT:0108] リプレが
+[FID:28, TEXT:0109] 洗濯物を干してる
+
+--- Group 436 [left:char_0004 next=2012] ---
+[FID:28, TEXT:0108] リプレが
+[FID:28, TEXT:0109] 洗濯物を干してる
+
+--- Group 437 [left:char_0004 next=0023] ---
+[FID:28, TEXT:010A] 邪魔したら悪いな
+
+--- Group 438 [left:char_0004 next=0023] ---
+[FID:28, TEXT:010A] 邪魔したら悪いな
+
+--- Group 439 [left:char_0004 next=0023] ---
 [FID:28, TEXT:010B] 邪魔しないように
 [FID:28, TEXT:010C] しなくちゃ・・・
 
---- Group 389 [left:char_0004 next=2012] ---
-[FID:28, TEXT:010D] リプレさんが
-[FID:28, TEXT:0109] 洗濯物を干してる
-
---- Group 390 [left:char_0004 next=2012] ---
-[FID:28, TEXT:010D] リプレさんが
-[FID:28, TEXT:0109] 洗濯物を干してる
-
---- Group 391 [left:char_0004 next=0023] ---
-[FID:28, TEXT:010E] 邪魔したら悪いですね
-
---- Group 392 [left:char_0004 next=0023] ---
-[FID:28, TEXT:010E] 邪魔したら悪いですね
-
---- Group 393 [left:char_0004 next=0023] ---
-[FID:28, TEXT:010F] あれ、なんだろう？
-[FID:28, TEXT:0110] なんか人だかりが
-[FID:28, TEXT:0111] できてるけど・・・
-
---- Group 394 [left:char_0004 next=0023] ---
-[FID:28, TEXT:010F] あれ、なんだろう？
-[FID:28, TEXT:0110] なんか人だかりが
-[FID:28, TEXT:0111] できてるけど・・・
-
---- Group 395 [left:char_0004 next=0023] ---
-[FID:28, TEXT:0112] なんだろう？
-[FID:28, TEXT:0113] あの人だかりは・・・
-
---- Group 396 [left:char_0004 next=0023] ---
-[FID:28, TEXT:0112] なんだろう？
-[FID:28, TEXT:0113] あの人だかりは・・・
-
---- Group 397 [left:char_0004 next=0023] ---
-[FID:28, TEXT:0114] ありゃ、なんか
-[FID:28, TEXT:0115] 人だかり・・・
-[FID:28, TEXT:0116] なんだろ、あれ？
-
---- Group 398 [left:char_0004 next=0023] ---
-[FID:28, TEXT:0114] ありゃ、なんか
-[FID:28, TEXT:0115] 人だかり・・・
-[FID:28, TEXT:0116] なんだろ、あれ？
-
---- Group 399 [left:char_0004 next=0023] ---
-[FID:28, TEXT:0117] あら？
-[FID:28, TEXT:0118] なにか人だかりが
-[FID:28, TEXT:0111] できてるけど・・・
-
---- Group 400 [left:char_0004 next=0023] ---
-[FID:28, TEXT:0117] あら？
-[FID:28, TEXT:0118] なにか人だかりが
-[FID:28, TEXT:0111] できてるけど・・・
-
---- Group 401 [left:char_0004 next=0023] ---
-[FID:28, TEXT:0119] 　気にしない
-[FID:28, TEXT:011A] 　見に行ってみよう
-
---- Group 402 [left:char_0004 next=0023] ---
-[FID:28, TEXT:0119] 　気にしない
-[FID:28, TEXT:011A] 　見に行ってみよう
-
---- Group 403 [left:char_0004 next=0023] ---
-[FID:28, TEXT:011B] 　近づくのはよそう
-[FID:28, TEXT:011A] 　見に行ってみよう
-
---- Group 404 [left:char_0004 next=0023] ---
-[FID:28, TEXT:011B] 　近づくのはよそう
-[FID:28, TEXT:011A] 　見に行ってみよう
-
---- Group 405 [left:char_0004 next=0023] ---
-[FID:28, TEXT:011C] なんだか知らないけど
-[FID:28, TEXT:011D] あの人だかりじゃなぁ
-[FID:28, TEXT:011E] ・・・やめとこう
-
---- Group 406 [left:char_0004 next=0023] ---
-[FID:28, TEXT:011C] なんだか知らないけど
-[FID:28, TEXT:011D] あの人だかりじゃなぁ
-[FID:28, TEXT:011E] ・・・やめとこう
-
---- Group 407 [left:char_0004 next=0023] ---
-[FID:28, TEXT:011F] さすがにあの中に入る
-[FID:28, TEXT:0120] のはきつそうだ
-[FID:28, TEXT:0121] やめておこう・・・
-
---- Group 408 [left:char_0004 next=0023] ---
-[FID:28, TEXT:011F] さすがにあの中に入る
-[FID:28, TEXT:0120] のはきつそうだ
-[FID:28, TEXT:0121] やめておこう・・・
-
---- Group 409 [left:char_0004 next=0023] ---
-[FID:28, TEXT:0122] う〜ん、気になるけど
-[FID:28, TEXT:0123] 近寄れそうにないや
-[FID:28, TEXT:011E] ・・・やめとこう
-
---- Group 410 [left:char_0004 next=0023] ---
-[FID:28, TEXT:0122] う〜ん、気になるけど
-[FID:28, TEXT:0123] 近寄れそうにないや
-[FID:28, TEXT:011E] ・・・やめとこう
-
---- Group 411 [left:char_0004 next=0023] ---
-[FID:28, TEXT:0124] ・・・気にはなるけれ
-[FID:28, TEXT:0125] ど・・・人だかりには
-[FID:28, TEXT:0126] 近寄りたくないですし
-[FID:28, TEXT:0127] ・・・やめですね
-
---- Group 412 [left:char_0004 next=0023] ---
-[FID:28, TEXT:0124] ・・・気にはなるけれ
-[FID:28, TEXT:0125] ど・・・人だかりには
-[FID:28, TEXT:0126] 近寄りたくないですし
-[FID:28, TEXT:0127] ・・・やめですね
-
---- Group 413 [left:char_0004 next=0023] ---
-[FID:28, TEXT:0128] あれは・・・
-[FID:28, TEXT:0129] オプテュスの連中だ！
-
---- Group 414 [left:char_0004 next=0023] ---
-[FID:28, TEXT:0128] あれは・・・
-[FID:28, TEXT:012D] オプテュスの人たち？
-
---- Group 415 [left:char_0004 next=0023] ---
-[FID:28, TEXT:0128] あれは・・・
-[FID:28, TEXT:0129] オプテュスの連中だ！
-
---- Group 416 [left:char_0004 next=0023] ---
-[FID:28, TEXT:0128] あれは・・・
-[FID:28, TEXT:012D] オプテュスの人たち？
-
---- Group 417 [left:char_0004 next=0023] ---
-[FID:28, TEXT:012A] あれ・・・
-[FID:28, TEXT:012B] オプテュスの
-[FID:28, TEXT:012C] ひとたちじゃん！
-
---- Group 418 [left:char_0004 next=0023] ---
-[FID:28, TEXT:012A] あれ・・・
-[FID:28, TEXT:012B] オプテュスの
-[FID:28, TEXT:012C] ひとたちじゃん！
-
---- Group 419 [left:char_0004 next=2012] ---
-[FID:28, TEXT:012E] ぐふっ、げふっ・・・
-
---- Group 420 [left:char_0004 next=2012] ---
-[FID:28, TEXT:012E] ぐふっ、げふっ・・・
-
---- Group 421 [left:char_0004 next=0023] ---
-[FID:28, TEXT:012F] ん？
-[FID:28, TEXT:0132] へんな音がする・・・
-
---- Group 422 [left:char_0004 next=0023] ---
-[FID:28, TEXT:012F] ん？
-[FID:28, TEXT:0130] なんだろう、この音
-
---- Group 423 [left:char_0004 next=0023] ---
-[FID:28, TEXT:012F] ん？
-[FID:28, TEXT:0131] なんの音だ？
-
---- Group 424 [left:char_0004 next=0023] ---
-[FID:28, TEXT:012F] ん？
-[FID:28, TEXT:0132] へんな音がする・・・
-
---- Group 425 [left:char_0004 next=0023] ---
-[FID:28, TEXT:012F] ん？
-[FID:28, TEXT:0130] なんだろう、この音
-
---- Group 426 [left:char_0004 next=0023] ---
-[FID:28, TEXT:012F] ん？
-[FID:28, TEXT:0131] なんの音だ？
-
---- Group 427 [left:char_0004 next=0023] ---
-[FID:28, TEXT:0134] 　音のでどころを探す
-[FID:28, TEXT:0135] 　イヤな予感がするぞ
-
---- Group 428 [left:char_0004 next=0023] ---
-[FID:28, TEXT:0134] 　音のでどころを探す
-[FID:28, TEXT:0137] 　イヤな予感がするなぁ
-
---- Group 429 [left:char_0004 next=0023] ---
-[FID:28, TEXT:0134] 　音のでどころを探す
-[FID:28, TEXT:0138] 　イヤな予感がする
-
---- Group 430 [left:char_0004 next=0023] ---
-[FID:28, TEXT:0134] 　音のでどころを探す
-[FID:28, TEXT:0138] 　イヤな予感がする
-
---- Group 431 [left:char_0004 next=0023] ---
-[FID:28, TEXT:0134] 　音のでどころを探す
-[FID:28, TEXT:0136] 　気のせいか
-
---- Group 432 [left:char_0004 next=0023] ---
-[FID:28, TEXT:0134] 　音のでどころを探す
-[FID:28, TEXT:0135] 　イヤな予感がするぞ
-
---- Group 433 [left:char_0004 next=0023] ---
-[FID:28, TEXT:0134] 　音のでどころを探す
-[FID:28, TEXT:0136] 　気のせいか
-
---- Group 434 [left:char_0004 next=0023] ---
-[FID:28, TEXT:0134] 　音のでどころを探す
-[FID:28, TEXT:0137] 　イヤな予感がするなぁ
-
---- Group 435 [left:char_0004 next=0023] ---
-[FID:28, TEXT:0139] どこから聞こえるんだ
-[FID:28, TEXT:013A] ろう・・・あっ！？
-
---- Group 436 [left:char_0004 next=0023] ---
-[FID:28, TEXT:0139] どこから聞こえるんだ
-[FID:28, TEXT:013A] ろう・・・あっ！？
-
---- Group 437 [left:char_0004 next=0023] ---
-[FID:28, TEXT:013B] いったいどこから？
-[FID:28, TEXT:013C] ・・・あっ！？
-
---- Group 438 [left:char_0004 next=0023] ---
-[FID:28, TEXT:013B] いったいどこから？
-[FID:28, TEXT:013C] ・・・あっ！？
-
---- Group 439 [left:char_0004 next=0023] ---
-[FID:28, TEXT:013D] なんの音だろ？
-[FID:28, TEXT:012F] ん？
-[FID:28, TEXT:013E] あっ！？
-
 --- Group 440 [left:char_0004 next=0023] ---
-[FID:28, TEXT:013D] なんの音だろ？
-[FID:28, TEXT:012F] ん？
-[FID:28, TEXT:013E] あっ！？
+[FID:28, TEXT:010B] 邪魔しないように
+[FID:28, TEXT:010C] しなくちゃ・・・
 
---- Group 441 [left:char_0004 next=0023] ---
-[FID:28, TEXT:013F] この音は、いったい
-[FID:28, TEXT:0140] どこから・・・あ！？
+--- Group 441 [left:char_0004 next=2012] ---
+[FID:28, TEXT:010D] リプレさんが
+[FID:28, TEXT:0109] 洗濯物を干してる
 
---- Group 442 [left:char_0004 next=0023] ---
-[FID:28, TEXT:013F] この音は、いったい
-[FID:28, TEXT:0140] どこから・・・あ！？
+--- Group 442 [left:char_0004 next=2012] ---
+[FID:28, TEXT:010D] リプレさんが
+[FID:28, TEXT:0109] 洗濯物を干してる
 
---- Group 443 [right:char_002E next=2012] ---
-[FID:28, TEXT:0141] げふっ・・・がはっ！
+--- Group 443 [left:char_0004 next=0023] ---
+[FID:28, TEXT:010E] 邪魔したら悪いですね
 
 --- Group 444 [left:char_0004 next=0023] ---
-[FID:28, TEXT:0142] だ、大丈夫ですか！？
+[FID:28, TEXT:010E] 邪魔したら悪いですね
 
 --- Group 445 [left:char_0004 next=0023] ---
+[FID:28, TEXT:010F] あれ、なんだろう？
+[FID:28, TEXT:0110] なんか人だかりが
+[FID:28, TEXT:0111] できてるけど・・・
+
+--- Group 446 [left:char_0004 next=0023] ---
+[FID:28, TEXT:010F] あれ、なんだろう？
+[FID:28, TEXT:0110] なんか人だかりが
+[FID:28, TEXT:0111] できてるけど・・・
+
+--- Group 447 [left:char_0004 next=0023] ---
+[FID:28, TEXT:0112] なんだろう？
+[FID:28, TEXT:0113] あの人だかりは・・・
+
+--- Group 448 [left:char_0004 next=0023] ---
+[FID:28, TEXT:0112] なんだろう？
+[FID:28, TEXT:0113] あの人だかりは・・・
+
+--- Group 449 [left:char_0004 next=0023] ---
+[FID:28, TEXT:0114] ありゃ、なんか
+[FID:28, TEXT:0115] 人だかり・・・
+[FID:28, TEXT:0116] なんだろ、あれ？
+
+--- Group 450 [left:char_0004 next=0023] ---
+[FID:28, TEXT:0114] ありゃ、なんか
+[FID:28, TEXT:0115] 人だかり・・・
+[FID:28, TEXT:0116] なんだろ、あれ？
+
+--- Group 451 [left:char_0004 next=0023] ---
+[FID:28, TEXT:0117] あら？
+[FID:28, TEXT:0118] なにか人だかりが
+[FID:28, TEXT:0111] できてるけど・・・
+
+--- Group 452 [left:char_0004 next=0023] ---
+[FID:28, TEXT:0117] あら？
+[FID:28, TEXT:0118] なにか人だかりが
+[FID:28, TEXT:0111] できてるけど・・・
+
+--- Group 453 [left:char_0004 next=0023] ---
+[FID:28, TEXT:0119] 　気にしない
+[FID:28, TEXT:011A] 　見に行ってみよう
+
+--- Group 454 [left:char_0004 next=0023] ---
+[FID:28, TEXT:0119] 　気にしない
+[FID:28, TEXT:011A] 　見に行ってみよう
+
+--- Group 455 [left:char_0004 next=0023] ---
+[FID:28, TEXT:011B] 　近づくのはよそう
+[FID:28, TEXT:011A] 　見に行ってみよう
+
+--- Group 456 [left:char_0004 next=0023] ---
+[FID:28, TEXT:011B] 　近づくのはよそう
+[FID:28, TEXT:011A] 　見に行ってみよう
+
+--- Group 457 [left:char_0004 next=0023] ---
+[FID:28, TEXT:011C] なんだか知らないけど
+[FID:28, TEXT:011D] あの人だかりじゃなぁ
+[FID:28, TEXT:011E] ・・・やめとこう
+
+--- Group 458 [left:char_0004 next=0023] ---
+[FID:28, TEXT:011C] なんだか知らないけど
+[FID:28, TEXT:011D] あの人だかりじゃなぁ
+[FID:28, TEXT:011E] ・・・やめとこう
+
+--- Group 459 [left:char_0004 next=0023] ---
+[FID:28, TEXT:011F] さすがにあの中に入る
+[FID:28, TEXT:0120] のはきつそうだ
+[FID:28, TEXT:0121] やめておこう・・・
+
+--- Group 460 [left:char_0004 next=0023] ---
+[FID:28, TEXT:011F] さすがにあの中に入る
+[FID:28, TEXT:0120] のはきつそうだ
+[FID:28, TEXT:0121] やめておこう・・・
+
+--- Group 461 [left:char_0004 next=0023] ---
+[FID:28, TEXT:0122] う〜ん、気になるけど
+[FID:28, TEXT:0123] 近寄れそうにないや
+[FID:28, TEXT:011E] ・・・やめとこう
+
+--- Group 462 [left:char_0004 next=0023] ---
+[FID:28, TEXT:0122] う〜ん、気になるけど
+[FID:28, TEXT:0123] 近寄れそうにないや
+[FID:28, TEXT:011E] ・・・やめとこう
+
+--- Group 463 [left:char_0004 next=0023] ---
+[FID:28, TEXT:0124] ・・・気にはなるけれ
+[FID:28, TEXT:0125] ど・・・人だかりには
+[FID:28, TEXT:0126] 近寄りたくないですし
+[FID:28, TEXT:0127] ・・・やめですね
+
+--- Group 464 [left:char_0004 next=0023] ---
+[FID:28, TEXT:0124] ・・・気にはなるけれ
+[FID:28, TEXT:0125] ど・・・人だかりには
+[FID:28, TEXT:0126] 近寄りたくないですし
+[FID:28, TEXT:0127] ・・・やめですね
+
+--- Group 465 [left:char_0004 next=0023] ---
+[FID:28, TEXT:0128] あれは・・・
+[FID:28, TEXT:012D] オプテュスの人たち？
+
+--- Group 466 [left:char_0004 next=0023] ---
+[FID:28, TEXT:0128] あれは・・・
+[FID:28, TEXT:012D] オプテュスの人たち？
+
+--- Group 467 [left:char_0004 next=0023] ---
+[FID:28, TEXT:0128] あれは・・・
+[FID:28, TEXT:0129] オプテュスの連中だ！
+
+--- Group 468 [left:char_0004 next=0023] ---
+[FID:28, TEXT:0128] あれは・・・
+[FID:28, TEXT:0129] オプテュスの連中だ！
+
+--- Group 469 [left:char_0004 next=0023] ---
+[FID:28, TEXT:012A] あれ・・・
+[FID:28, TEXT:012B] オプテュスの
+[FID:28, TEXT:012C] ひとたちじゃん！
+
+--- Group 470 [left:char_0004 next=0023] ---
+[FID:28, TEXT:012A] あれ・・・
+[FID:28, TEXT:012B] オプテュスの
+[FID:28, TEXT:012C] ひとたちじゃん！
+
+--- Group 471 [left:char_0004 next=2012] ---
+[FID:28, TEXT:012E] ぐふっ、げふっ・・・
+
+--- Group 472 [left:char_0004 next=2012] ---
+[FID:28, TEXT:012E] ぐふっ、げふっ・・・
+
+--- Group 473 [left:char_0004 next=0023] ---
+[FID:28, TEXT:012F] ん？
+[FID:28, TEXT:0131] なんの音だ？
+
+--- Group 474 [left:char_0004 next=0023] ---
+[FID:28, TEXT:012F] ん？
+[FID:28, TEXT:0132] へんな音がする・・・
+
+--- Group 475 [left:char_0004 next=0023] ---
+[FID:28, TEXT:012F] ん？
+[FID:28, TEXT:0131] なんの音だ？
+
+--- Group 476 [left:char_0004 next=0023] ---
+[FID:28, TEXT:012F] ん？
+[FID:28, TEXT:0132] へんな音がする・・・
+
+--- Group 477 [left:char_0004 next=0023] ---
+[FID:28, TEXT:012F] ん？
+[FID:28, TEXT:0130] なんだろう、この音
+
+--- Group 478 [left:char_0004 next=0023] ---
+[FID:28, TEXT:012F] ん？
+[FID:28, TEXT:0130] なんだろう、この音
+
+--- Group 479 [left:char_0004 next=0023] ---
+[FID:28, TEXT:0134] 　音のでどころを探す
+[FID:28, TEXT:0138] 　イヤな予感がする
+
+--- Group 480 [left:char_0004 next=0023] ---
+[FID:28, TEXT:0134] 　音のでどころを探す
+[FID:28, TEXT:0135] 　イヤな予感がするぞ
+
+--- Group 481 [left:char_0004 next=0023] ---
+[FID:28, TEXT:0134] 　音のでどころを探す
+[FID:28, TEXT:0137] 　イヤな予感がするなぁ
+
+--- Group 482 [left:char_0004 next=0023] ---
+[FID:28, TEXT:0134] 　音のでどころを探す
+[FID:28, TEXT:0136] 　気のせいか
+
+--- Group 483 [left:char_0004 next=0023] ---
+[FID:28, TEXT:0134] 　音のでどころを探す
+[FID:28, TEXT:0136] 　気のせいか
+
+--- Group 484 [left:char_0004 next=0023] ---
+[FID:28, TEXT:0134] 　音のでどころを探す
+[FID:28, TEXT:0137] 　イヤな予感がするなぁ
+
+--- Group 485 [left:char_0004 next=0023] ---
+[FID:28, TEXT:0134] 　音のでどころを探す
+[FID:28, TEXT:0138] 　イヤな予感がする
+
+--- Group 486 [left:char_0004 next=0023] ---
+[FID:28, TEXT:0134] 　音のでどころを探す
+[FID:28, TEXT:0135] 　イヤな予感がするぞ
+
+--- Group 487 [left:char_0004 next=0023] ---
+[FID:28, TEXT:0139] どこから聞こえるんだ
+[FID:28, TEXT:013A] ろう・・・あっ！？
+
+--- Group 488 [left:char_0004 next=0023] ---
+[FID:28, TEXT:0139] どこから聞こえるんだ
+[FID:28, TEXT:013A] ろう・・・あっ！？
+
+--- Group 489 [left:char_0004 next=0023] ---
+[FID:28, TEXT:013B] いったいどこから？
+[FID:28, TEXT:013C] ・・・あっ！？
+
+--- Group 490 [left:char_0004 next=0023] ---
+[FID:28, TEXT:013B] いったいどこから？
+[FID:28, TEXT:013C] ・・・あっ！？
+
+--- Group 491 [left:char_0004 next=0023] ---
+[FID:28, TEXT:013D] なんの音だろ？
+[FID:28, TEXT:012F] ん？
+[FID:28, TEXT:013E] あっ！？
+
+--- Group 492 [left:char_0004 next=0023] ---
+[FID:28, TEXT:013D] なんの音だろ？
+[FID:28, TEXT:012F] ん？
+[FID:28, TEXT:013E] あっ！？
+
+--- Group 493 [left:char_0004 next=0023] ---
+[FID:28, TEXT:013F] この音は、いったい
+[FID:28, TEXT:0140] どこから・・・あ！？
+
+--- Group 494 [left:char_0004 next=0023] ---
+[FID:28, TEXT:013F] この音は、いったい
+[FID:28, TEXT:0140] どこから・・・あ！？
+
+--- Group 495 [right:char_002E next=2012] ---
+[FID:28, TEXT:0141] げふっ・・・がはっ！
+
+--- Group 496 [left:char_0004 next=0023] ---
+[FID:28, TEXT:0142] だ、大丈夫ですか！？
+
+--- Group 497 [left:char_0004 next=0023] ---
 [FID:28, TEXT:0143] 大丈夫ですか
 [FID:28, TEXT:0144] おじいさん！？
 
---- Group 446 [right:char_002E next=2012] ---
+--- Group 498 [right:char_002E next=2012] ---
 [FID:28, TEXT:0145] く、薬を・・・
 [FID:28, TEXT:0146] カバンの中・・・っ
 
---- Group 447 [left:char_0004 next=2012] ---
+--- Group 499 [left:char_0004 next=2012] ---
 [FID:28, TEXT:0147] カバンの中ですね！？
 
---- Group 448 [right:char_002E next=2012] ---
+--- Group 500 [right:char_002E next=2012] ---
 [FID:28, TEXT:0148] ふう・・・っ
 [FID:28, TEXT:0149] すまんかったのう
 [FID:28, TEXT:014A] お若い人・・・
 
---- Group 449 [left:char_0004 next=0023] ---
-[FID:28, TEXT:014B] よかった
-[FID:28, TEXT:014C] もう大丈夫そうだ
-
---- Group 450 [left:char_0004 next=0023] ---
-[FID:28, TEXT:014B] よかった
-[FID:28, TEXT:014E] もう大丈夫ですね
-
---- Group 451 [left:char_0004 next=0023] ---
+--- Group 501 [left:char_0004 next=0023] ---
 [FID:28, TEXT:014B] よかった
 [FID:28, TEXT:014D] もう大丈夫みたい
 
---- Group 452 [right:char_002E next=2012] ---
+--- Group 502 [left:char_0004 next=0023] ---
+[FID:28, TEXT:014B] よかった
+[FID:28, TEXT:014E] もう大丈夫ですね
+
+--- Group 503 [left:char_0004 next=0023] ---
+[FID:28, TEXT:014B] よかった
+[FID:28, TEXT:014C] もう大丈夫そうだ
+
+--- Group 504 [right:char_002E next=2012] ---
 [FID:28, TEXT:014F] わしゃ肺が悪くてな
 [FID:28, TEXT:0150] 時々こんなふうに発作
 [FID:28, TEXT:0151] が起きてしまうんじゃ
 
---- Group 453 [left:char_0004 next=0023] ---
+--- Group 505 [left:char_0004 next=0023] ---
 [FID:28, TEXT:0152] ここの空気は工場の煙
 [FID:28, TEXT:0155] で汚れてますから
 [FID:28, TEXT:0158] 気をつけてください
 
---- Group 454 [left:char_0004 next=0023] ---
+--- Group 506 [left:char_0004 next=0023] ---
 [FID:28, TEXT:0152] ここの空気は工場の煙
 [FID:28, TEXT:0155] で汚れてますから
 [FID:28, TEXT:0156] 気をつけないとだめで
 [FID:28, TEXT:0157] すよ・・・
 
---- Group 455 [left:char_0004 next=0023] ---
+--- Group 507 [left:char_0004 next=0023] ---
 [FID:28, TEXT:0152] ここの空気は工場の煙
 [FID:28, TEXT:0153] で汚れてますからね
 [FID:28, TEXT:0154] 気をつけないと
 
---- Group 456 [right:char_002E next=2012] ---
+--- Group 508 [right:char_002E next=2012] ---
 [FID:28, TEXT:0159] ああ、身にしみたわい
 
---- Group 457 [right:char_002E next=2012] ---
+--- Group 509 [right:char_002E next=2012] ---
 [FID:28, TEXT:015A] この街も、こんな工場
 [FID:28, TEXT:015B] が建つようになって
 [FID:28, TEXT:015C] しまったんじゃなあ
 
---- Group 458 [right:char_002E next=2012] ---
+--- Group 510 [right:char_002E next=2012] ---
 [FID:28, TEXT:015D] ・・・お若い人
 [FID:28, TEXT:015E] あんたの名前は？
 
---- Group 459 [left:char_0004 next=0023] ---
-[FID:28, TEXT:015F] あ、@ n 
-[FID:28, TEXT:0163] っていいます
-
---- Group 460 [left:char_0004 next=0023] ---
+--- Group 511 [left:char_0004 next=0023] ---
 [FID:28, TEXT:015F] あ、@ n 
 [FID:28, TEXT:0160] っていいますけど
 
---- Group 461 [left:char_0004 next=0023] ---
+--- Group 512 [left:char_0004 next=0023] ---
+[FID:28, TEXT:015F] あ、@ n 
+[FID:28, TEXT:0163] っていいます
+
+--- Group 513 [left:char_0004 next=0023] ---
 [FID:28, TEXT:0161] ああ、@ n 
 [FID:28, TEXT:0162] といいます
 
---- Group 462 [left:char_0004 next=0023] ---
+--- Group 514 [left:char_0004 next=0023] ---
 [FID:28, TEXT:0164] え・・・はい
 [FID:28, TEXT:0165] @ n 
 [FID:28, TEXT:0166] いいます
 
---- Group 463 [right:char_002E next=2012] ---
+--- Group 515 [right:char_002E next=2012] ---
 [FID:28, TEXT:0167] @ n 
 [FID:28, TEXT:0168] 本当にありがとうよ
 
---- Group 464 [right:char_002E next=2012] ---
+--- Group 516 [right:char_002E next=2012] ---
 [FID:28, TEXT:0169] それじゃあな
 
---- Group 465 [left:char_0004 next=0023] ---
-[FID:28, TEXT:016A] ええ、おじいさんも
-[FID:28, TEXT:016C] 元気で、ね！
-
---- Group 466 [left:char_0004 next=0023] ---
+--- Group 517 [left:char_0004 next=0023] ---
 [FID:28, TEXT:016A] ええ、おじいさんも
 [FID:28, TEXT:016B] お元気で
 
---- Group 467 [left:char_0004 next=0023] ---
-[FID:28, TEXT:016D] なんだかイヤな予感が
-[FID:28, TEXT:016E] するな・・・早いとこ
-[FID:28, TEXT:016F] 立ち去ろう
+--- Group 518 [left:char_0004 next=0023] ---
+[FID:28, TEXT:016A] ええ、おじいさんも
+[FID:28, TEXT:016C] 元気で、ね！
 
---- Group 468 [left:char_0004 next=0023] ---
+--- Group 519 [left:char_0004 next=0023] ---
 [FID:28, TEXT:016D] なんだかイヤな予感が
 [FID:28, TEXT:0171] するなぁ・・・
 [FID:28, TEXT:0172] さっさと帰ろう・・・
 
---- Group 469 [left:char_0004 next=0023] ---
+--- Group 520 [left:char_0004 next=0023] ---
+[FID:28, TEXT:016D] なんだかイヤな予感が
+[FID:28, TEXT:016E] するな・・・早いとこ
+[FID:28, TEXT:016F] 立ち去ろう
+
+--- Group 521 [left:char_0004 next=0023] ---
 [FID:28, TEXT:016D] なんだかイヤな予感が
 [FID:28, TEXT:0173] します・・・
 [FID:28, TEXT:0174] 早く帰った方が
 [FID:28, TEXT:0175] いいみたい・・・
 
---- Group 470 [left:char_0004 next=0023] ---
+--- Group 522 [left:char_0004 next=0023] ---
+[FID:28, TEXT:016D] なんだかイヤな予感が
+[FID:28, TEXT:016E] するな・・・早いとこ
+[FID:28, TEXT:016F] 立ち去ろう
+
+--- Group 523 [left:char_0004 next=0023] ---
+[FID:28, TEXT:016D] なんだかイヤな予感が
+[FID:28, TEXT:0171] するなぁ・・・
+[FID:28, TEXT:0172] さっさと帰ろう・・・
+
+--- Group 524 [left:char_0004 next=0023] ---
 [FID:28, TEXT:016D] なんだかイヤな予感が
 [FID:28, TEXT:0173] します・・・
 [FID:28, TEXT:0174] 早く帰った方が
 [FID:28, TEXT:0175] いいみたい・・・
 
---- Group 471 [left:char_0004 next=0023] ---
-[FID:28, TEXT:016D] なんだかイヤな予感が
-[FID:28, TEXT:0171] するなぁ・・・
-[FID:28, TEXT:0172] さっさと帰ろう・・・
-
---- Group 472 [left:char_0004 next=0023] ---
-[FID:28, TEXT:016D] なんだかイヤな予感が
-[FID:28, TEXT:016E] するな・・・早いとこ
-[FID:28, TEXT:016F] 立ち去ろう
-
---- Group 473 [left:char_0004 next=0023] ---
+--- Group 525 [left:char_0004 next=0023] ---
 [FID:28, TEXT:0170] 気のせいか・・・
 
---- Group 474 [left:char_0004 next=0023] ---
+--- Group 526 [left:char_0004 next=0023] ---
 [FID:28, TEXT:0170] 気のせいか・・・
 
---- Group 475 [left:char_0004 next=2012] ---
+--- Group 527 [left:char_0004 next=2012] ---
 [FID:28, TEXT:0176] この城の中の領主に、
 [FID:28, TEXT:0177] レイドさんは騎士とし
 [FID:28, TEXT:017E] て仕えていたんだ
 
---- Group 476 [left:char_0004 next=2012] ---
+--- Group 528 [left:char_0004 next=2012] ---
 [FID:28, TEXT:0176] この城の中の領主に、
 [FID:28, TEXT:0177] レイドさんは騎士とし
 [FID:28, TEXT:017E] て仕えていたんだ
 
---- Group 477 [left:char_0004 next=2012] ---
+--- Group 529 [left:char_0004 next=2012] ---
 [FID:28, TEXT:0176] この城の中の領主に、
 [FID:28, TEXT:0177] レイドさんは騎士とし
 [FID:28, TEXT:0178] て仕えていた・・・
 
---- Group 478 [left:char_0004 next=2012] ---
+--- Group 530 [left:char_0004 next=2012] ---
 [FID:28, TEXT:0176] この城の中の領主に、
 [FID:28, TEXT:0177] レイドさんは騎士とし
 [FID:28, TEXT:0178] て仕えていた・・・
 
---- Group 479 [left:char_0004 next=2012] ---
-[FID:28, TEXT:0179] でも、どうして辞めて
-[FID:28, TEXT:017A] しまったんだろう？
-
---- Group 480 [left:char_0004 next=2012] ---
+--- Group 531 [left:char_0004 next=2012] ---
 [FID:28, TEXT:0179] でも、どうして辞めて
 [FID:28, TEXT:0183] しまったのでしょうか
 
---- Group 481 [left:char_0004 next=2012] ---
+--- Group 532 [left:char_0004 next=2012] ---
 [FID:28, TEXT:0179] でも、どうして辞めて
 [FID:28, TEXT:0183] しまったのでしょうか
 
---- Group 482 [left:char_0004 next=2012] ---
+--- Group 533 [left:char_0004 next=2012] ---
 [FID:28, TEXT:0179] でも、どうして辞めて
 [FID:28, TEXT:017A] しまったんだろう？
 
---- Group 483 [left:char_0004 next=0023] ---
-[FID:28, TEXT:017B] あのイムランっていう
-[FID:28, TEXT:0181] 召喚師となんか関係が
-[FID:28, TEXT:0182] あるのかな？
+--- Group 534 [left:char_0004 next=2012] ---
+[FID:28, TEXT:0179] でも、どうして辞めて
+[FID:28, TEXT:017A] しまったんだろう？
 
---- Group 484 [left:char_0004 next=0023] ---
-[FID:28, TEXT:017B] あのイムランっていう
-[FID:28, TEXT:0181] 召喚師となんか関係が
-[FID:28, TEXT:0182] あるのかな？
-
---- Group 485 [left:char_0004 next=0023] ---
+--- Group 535 [left:char_0004 next=0023] ---
 [FID:28, TEXT:017B] あのイムランっていう
 [FID:28, TEXT:017C] 召喚師が、関係してる
 [FID:28, TEXT:017D] んだろうか？
 
---- Group 486 [left:char_0004 next=0023] ---
+--- Group 536 [left:char_0004 next=0023] ---
+[FID:28, TEXT:017B] あのイムランっていう
+[FID:28, TEXT:0181] 召喚師となんか関係が
+[FID:28, TEXT:0182] あるのかな？
+
+--- Group 537 [left:char_0004 next=0023] ---
+[FID:28, TEXT:017B] あのイムランっていう
+[FID:28, TEXT:0181] 召喚師となんか関係が
+[FID:28, TEXT:0182] あるのかな？
+
+--- Group 538 [left:char_0004 next=0023] ---
 [FID:28, TEXT:017B] あのイムランっていう
 [FID:28, TEXT:017C] 召喚師が、関係してる
 [FID:28, TEXT:017D] んだろうか？
 
---- Group 487 [left:char_0004 next=2012] ---
+--- Group 539 [left:char_0004 next=2012] ---
 [FID:28, TEXT:017F] でも、どうして辞め
 [FID:28, TEXT:0180] ちゃったのかな？
 
---- Group 488 [left:char_0004 next=2012] ---
+--- Group 540 [left:char_0004 next=2012] ---
 [FID:28, TEXT:017F] でも、どうして辞め
 [FID:28, TEXT:0180] ちゃったのかな？
 
---- Group 489 [left:char_0004 next=0023] ---
+--- Group 541 [left:char_0004 next=0023] ---
 [FID:28, TEXT:0184] あのイムランさん
 [FID:28, TEXT:0185] とかいう召喚師の人と
 [FID:28, TEXT:0186] なにか関係が・・・？
 
---- Group 490 [left:char_0004 next=0023] ---
+--- Group 542 [left:char_0004 next=0023] ---
 [FID:28, TEXT:0184] あのイムランさん
 [FID:28, TEXT:0185] とかいう召喚師の人と
 [FID:28, TEXT:0186] なにか関係が・・・？
 
---- Group 491 [right:char_0022 next=2012] ---
+--- Group 543 [right:char_0022 next=2012] ---
 [FID:28, TEXT:0187] おい、そこの少年
 
---- Group 492 [right:char_0022 next=2012] ---
+--- Group 544 [right:char_0022 next=2012] ---
 [FID:28, TEXT:0188] おい
 
---- Group 493 [left:char_0004 next=2012] ---
+--- Group 545 [left:char_0004 next=2012] ---
 [FID:28, TEXT:0189] え？
 
---- Group 494 [right:char_0022 next=2012] ---
+--- Group 546 [right:char_0022 next=2012] ---
 [FID:28, TEXT:018A] さっきから城のほうを
 [FID:28, TEXT:018B] じっと見つめて、
 [FID:28, TEXT:018C] なにか用なのか？
 
---- Group 495 [left:char_0004 next=2012] ---
+--- Group 547 [left:char_0004 next=2012] ---
 [FID:28, TEXT:018D] あ、いえ・・・
 
---- Group 496 [right:char_0022 next=2012] ---
+--- Group 548 [right:char_0022 next=2012] ---
 [FID:28, TEXT:018E] 用がなければ、あまり
 [FID:28, TEXT:018F] こういう場所をうろつ
 [FID:28, TEXT:0190] くものではない
 
---- Group 497 [right:char_0022 next=2012] ---
+--- Group 549 [right:char_0022 next=2012] ---
 [FID:28, TEXT:0191] 見ろ、門番がさっき
 [FID:28, TEXT:0192] からお前をにらんでる
 
---- Group 498 [left:char_0004 next=0023] ---
+--- Group 550 [left:char_0004 next=0023] ---
 [FID:28, TEXT:0193] うわ、ほんとだ・・・
 
---- Group 499 [left:char_0004 next=0023] ---
+--- Group 551 [left:char_0004 next=0023] ---
 [FID:28, TEXT:0194] 本当だ・・・
 
---- Group 500 [left:char_0004 next=0023] ---
+--- Group 552 [left:char_0004 next=0023] ---
 [FID:28, TEXT:0195] あ、ホントだ・・・
 
---- Group 501 [left:char_0004 next=0023] ---
+--- Group 553 [left:char_0004 next=0023] ---
 [FID:28, TEXT:0196] あ、本当に・・・
 
---- Group 502 [right:char_0022 next=2012] ---
+--- Group 554 [right:char_0022 next=2012] ---
 [FID:28, TEXT:0197] さあ、わかったら
 [FID:28, TEXT:0198] よそへ行きなさい
 
---- Group 503 [left:char_0004 next=0023] ---
+--- Group 555 [left:char_0004 next=0023] ---
 [FID:28, TEXT:0199] はい
 [FID:28, TEXT:019A] どうもすいません
 
---- Group 504 [right:char_0022 next=2012] ---
+--- Group 556 [right:char_0022 next=2012] ---
 [FID:28, TEXT:019B] 次からは気をつける
 [FID:28, TEXT:019C] ようにな
 
---- Group 505 [left:char_0004 next=2012] ---
+--- Group 557 [left:char_0004 next=2012] ---
 [FID:28, TEXT:019D] ・・・猫？
 
---- Group 506 [left:char_0004 next=2012] ---
+--- Group 558 [left:char_0004 next=2012] ---
 [FID:28, TEXT:019D] ・・・猫？
 
---- Group 507 [left:char_0004 next=0023] ---
-[FID:28, TEXT:01A0] また、魚でも釣って
-[FID:28, TEXT:01A3] みるかな？
-
---- Group 508 [left:char_0004 next=0023] ---
+--- Group 559 [left:char_0004 next=0023] ---
 [FID:28, TEXT:01A0] また、魚でも釣って
 [FID:28, TEXT:01A1] リプレを喜ばせて
 [FID:28, TEXT:01A2] やろうかな？
 
---- Group 509 [left:char_0004 next=0023] ---
+--- Group 560 [left:char_0004 next=0023] ---
+[FID:28, TEXT:01A0] また、魚でも釣って
+[FID:28, TEXT:01A3] みるかな？
+
+--- Group 561 [left:char_0004 next=0023] ---
+[FID:28, TEXT:01A0] また、魚でも釣って
+[FID:28, TEXT:01A3] みるかな？
+
+--- Group 562 [left:char_0004 next=0023] ---
 [FID:28, TEXT:01A0] また、魚でも釣って
 [FID:28, TEXT:01A1] リプレを喜ばせて
 [FID:28, TEXT:01A2] やろうかな？
 
---- Group 510 [left:char_0004 next=0023] ---
-[FID:28, TEXT:01A0] また、魚でも釣って
-[FID:28, TEXT:01A3] みるかな？
-
---- Group 511 [left:char_0004 next=0023] ---
+--- Group 563 [left:char_0004 next=0023] ---
 [FID:28, TEXT:01A4] うーん
 [FID:28, TEXT:01A5] 魚釣りねぇ・・・
 
---- Group 512 [left:char_0004 next=0023] ---
+--- Group 564 [left:char_0004 next=0023] ---
 [FID:28, TEXT:01A4] うーん
 [FID:28, TEXT:01A5] 魚釣りねぇ・・・
 
---- Group 513 [left:char_0004 next=0023] ---
+--- Group 565 [left:char_0004 next=0023] ---
 [FID:28, TEXT:01A6] また、魚を
 [FID:28, TEXT:01A7] 釣って帰ったら
 [FID:28, TEXT:01A8] リプレさん
 [FID:28, TEXT:01A9] 喜ぶかしら・・・
 
---- Group 514 [left:char_0004 next=0023] ---
+--- Group 566 [left:char_0004 next=0023] ---
 [FID:28, TEXT:01A6] また、魚を
 [FID:28, TEXT:01A7] 釣って帰ったら
 [FID:28, TEXT:01A8] リプレさん
 [FID:28, TEXT:01A9] 喜ぶかしら・・・
 
---- Group 515 [left:char_0004 next=0023] ---
+--- Group 567 [left:char_0004 next=0023] ---
 [FID:28, TEXT:01AD] でも、まずは
 [FID:28, TEXT:01AE] 釣りの餌を探さないと
 [FID:28, TEXT:01AF] いけないみたいだな
 
---- Group 516 [left:char_0004 next=0023] ---
+--- Group 568 [left:char_0004 next=0023] ---
 [FID:28, TEXT:01AD] でも、まずは
 [FID:28, TEXT:01AE] 釣りの餌を探さないと
 [FID:28, TEXT:01AF] いけないみたいだな
 
---- Group 517 [left:char_0004 next=0023] ---
+--- Group 569 [left:char_0004 next=0023] ---
 [FID:28, TEXT:01B0] うーん・・・
 [FID:28, TEXT:01B1] 餌がないみたい
 [FID:28, TEXT:01B2] さすがにこれじゃあ
 [FID:28, TEXT:01B3] 何も釣れないよね
 
---- Group 518 [left:char_0004 next=0023] ---
+--- Group 570 [left:char_0004 next=0023] ---
 [FID:28, TEXT:01B0] うーん・・・
 [FID:28, TEXT:01B1] 餌がないみたい
 [FID:28, TEXT:01B2] さすがにこれじゃあ
 [FID:28, TEXT:01B3] 何も釣れないよね
 
---- Group 519 [right:none next=0023] ---
+--- Group 571 [right:none next=0023] ---
 [FID:28, TEXT:01B9] 気にしなくていいって
 [FID:28, TEXT:01BA] こういう時もあるわ
 
---- Group 520 [right:char_0022 next=0023] ---
+--- Group 572 [right:char_0022 next=0023] ---
 [FID:28, TEXT:01B9] 気にしなくていいって
 [FID:28, TEXT:01BA] こういう時もあるわ
 
---- Group 521 [right:char_0022 next=0023] ---
+--- Group 573 [right:none next=0023] ---
 [FID:28, TEXT:01B9] 気にしなくていいって
 [FID:28, TEXT:01BA] こういう時もあるわ
 
---- Group 522 [right:none next=0023] ---
+--- Group 574 [right:char_0022 next=0023] ---
 [FID:28, TEXT:01B9] 気にしなくていいって
 [FID:28, TEXT:01BA] こういう時もあるわ
 
---- Group 523 [right:char_0022 next=2012] ---
+--- Group 575 [right:none next=2012] ---
 [FID:28, TEXT:01CA] また何か釣れた時は
 [FID:28, TEXT:01CB] 私のところに
 [FID:28, TEXT:01CC] もってきてね
 
---- Group 524 [right:none next=2012] ---
+--- Group 576 [right:char_0022 next=2012] ---
 [FID:28, TEXT:01CA] また何か釣れた時は
 [FID:28, TEXT:01CB] 私のところに
 [FID:28, TEXT:01CC] もってきてね
 
---- Group 525 [right:char_0022 next=2012] ---
+--- Group 577 [right:none next=2012] ---
 [FID:28, TEXT:01CA] また何か釣れた時は
 [FID:28, TEXT:01CB] 私のところに
 [FID:28, TEXT:01CC] もってきてね
 
---- Group 526 [right:none next=2012] ---
+--- Group 578 [right:char_0022 next=2012] ---
 [FID:28, TEXT:01CA] また何か釣れた時は
 [FID:28, TEXT:01CB] 私のところに
 [FID:28, TEXT:01CC] もってきてね
 
---- Group 527 [right:char_0022 next=2012] ---
+--- Group 579 [right:char_0022 next=2012] ---
 [FID:28, TEXT:01CD] 腕によりをかけて
 [FID:28, TEXT:01CE] おいしい料理を作って
 [FID:28, TEXT:01CF] あげるから、ね？
 
---- Group 528 [right:none next=2012] ---
+--- Group 580 [right:none next=2012] ---
 [FID:28, TEXT:01CD] 腕によりをかけて
 [FID:28, TEXT:01CE] おいしい料理を作って
 [FID:28, TEXT:01CF] あげるから、ね？
 
---- Group 529 [right:char_0022 next=2012] ---
+--- Group 581 [right:none next=2012] ---
 [FID:28, TEXT:01CD] 腕によりをかけて
 [FID:28, TEXT:01CE] おいしい料理を作って
 [FID:28, TEXT:01CF] あげるから、ね？
 
---- Group 530 [right:none next=2012] ---
+--- Group 582 [right:char_0022 next=2012] ---
 [FID:28, TEXT:01CD] 腕によりをかけて
 [FID:28, TEXT:01CE] おいしい料理を作って
 [FID:28, TEXT:01CF] あげるから、ね？
 
---- Group 531 [left:char_0004 next=0026] ---
+--- Group 583 [left:char_0004 next=0026] ---
 [FID:28, TEXT:01D0] 【自分の部屋】
 [FID:28, TEXT:0000] 
 [FID:28, TEXT:0000] 
@@ -2246,7 +2440,7 @@
 [FID:28, TEXT:0000] 
 [FID:28, TEXT:0000] 
 
---- Group 532 [right:none next=0026] ---
+--- Group 584 [left:none next=0026] ---
 [FID:28, TEXT:01D0] 【自分の部屋】
 [FID:28, TEXT:0000] 
 [FID:28, TEXT:0000] 
@@ -2293,7 +2487,7 @@
 [FID:28, TEXT:0000] 
 [FID:28, TEXT:0000] 
 
---- Group 533 [right:char_0022 next=0026] ---
+--- Group 585 [left:char_0004 next=0026] ---
 [FID:28, TEXT:01D0] 【自分の部屋】
 [FID:28, TEXT:0000] 
 [FID:28, TEXT:0000] 
@@ -2340,7 +2534,7 @@
 [FID:28, TEXT:0000] 
 [FID:28, TEXT:0000] 
 
---- Group 534 [left:none next=0026] ---
+--- Group 586 [right:none next=0026] ---
 [FID:28, TEXT:01D0] 【自分の部屋】
 [FID:28, TEXT:0000] 
 [FID:28, TEXT:0000] 
@@ -2387,7 +2581,7 @@
 [FID:28, TEXT:0000] 
 [FID:28, TEXT:0000] 
 
---- Group 535 [left:char_0004 next=0026] ---
+--- Group 587 [right:char_0022 next=0026] ---
 [FID:28, TEXT:01D0] 【自分の部屋】
 [FID:28, TEXT:0000] 
 [FID:28, TEXT:0000] 

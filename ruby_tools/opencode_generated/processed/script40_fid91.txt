@@ -12,25 +12,155 @@
 
 --- Group [left:none next=0003] ---
 ショップ
-１２話　１８
+１３話　２１
 　イワ４１
 　コウゲン４３
 　ヌマ４５
 +[FID:91, TEXT:0002] 
-+[FID:91, TEXT:0019] 
++[FID:91, TEXT:001D] 
 +[FID:91, TEXT:0013] 
 +[FID:91, TEXT:0016] 
 +[FID:91, TEXT:001A] 
 
+--- Group [left:none next=0003] ---
+ショップ
+１２話　１８
+　イワ４１
+　コウゲン４３
+　ヌマ４５
+-[FID:91, TEXT:0002] 
++[FID:91, TEXT:0019] 
+-[FID:91, TEXT:0013] 
+-[FID:91, TEXT:0016] 
+-[FID:91, TEXT:001A] 
+
 --- Group [left:none next=2017] ---
 ショップ
-１話　２
+１６話　２９
+　ミネ４８
+　タニ４９
+　キカイ５０
+-[FID:91, TEXT:0002] 
++[FID:91, TEXT:0028] 
++[FID:91, TEXT:0022] 
++[FID:91, TEXT:0024] 
++[FID:91, TEXT:0026] 
 
+--- Group [left:none next=2017] ---
+ショップ
+１１話　１６
+　イワ４１
+　コウゲン４３
+
+-[FID:91, TEXT:0002] 
++[FID:91, TEXT:0017] 
+-[FID:91, TEXT:0013] 
+-[FID:91, TEXT:0016] 
+-[FID:91, TEXT:0000] 
+
+--- Group [left:none next=2017] ---
+ショップ
+１０話　１５
+　ドウクツ４４
+　イワ４１
+　コウゲン４３
+-[FID:91, TEXT:0002] 
++[FID:91, TEXT:0015] 
++[FID:91, TEXT:0011] 
+-[FID:91, TEXT:0013] 
+-[FID:91, TEXT:0016] 
+
+--- Group [left:none next=2017] ---
+ショップ
+９話　１４
+　ドウクツ４４
+　イワ４１
+
+-[FID:91, TEXT:0002] 
++[FID:91, TEXT:0014] 
+-[FID:91, TEXT:0011] 
+-[FID:91, TEXT:0013] 
+-[FID:91, TEXT:0000] 
+
+--- Group [left:none next=2017] ---
+ショップ
+８話　１３
+　森４６
+　ドウクツ４４
+　イワ４１
+-[FID:91, TEXT:0002] 
++[FID:91, TEXT:0012] 
++[FID:91, TEXT:000D] 
+-[FID:91, TEXT:0011] 
+-[FID:91, TEXT:0013] 
+
+--- Group [left:none next=2017] ---
+ショップ
+６話　１１
+　森４６
+　ドウクツ４４
+
+-[FID:91, TEXT:0002] 
++[FID:91, TEXT:0010] 
+-[FID:91, TEXT:000D] 
+-[FID:91, TEXT:0011] 
+-[FID:91, TEXT:0000] 
+
+--- Group [left:none next=2017] ---
+ショップ
+Ａ話　１０
+　召喚跡４０
 
 
 -[FID:91, TEXT:0002] 
-+[FID:91, TEXT:0003] 
++[FID:91, TEXT:000F] 
++[FID:91, TEXT:000A] 
 -[FID:91, TEXT:0000] 
+-[FID:91, TEXT:0000] 
+
+--- Group [left:none next=0003] ---
+ショップ
+５話　８
+　召喚跡４０
+　森４６
+-[FID:91, TEXT:0002] 
++[FID:91, TEXT:000C] 
+-[FID:91, TEXT:000A] 
+-[FID:91, TEXT:000D] 
+
+--- Group [left:none next=2017] ---
+ショップ
+４話　７
+　ヘイゲン４２
+　コウヤ３９
+　召喚跡４０
+-[FID:91, TEXT:0002] 
++[FID:91, TEXT:000B] 
++[FID:91, TEXT:0006] 
++[FID:91, TEXT:0009] 
+-[FID:91, TEXT:000A] 
+
+--- Group [left:none next=2017] ---
+ショップ
+３話　６
+　ヘイゲン４２
+　コウヤ３９
+　召喚跡４０
+-[FID:91, TEXT:0002] 
++[FID:91, TEXT:0008] 
+-[FID:91, TEXT:0006] 
+-[FID:91, TEXT:0009] 
+-[FID:91, TEXT:000A] 
+
+--- Group [left:none next=2017] ---
+ショップ
+２話　４
+　ヘイゲン４２
+
+
+-[FID:91, TEXT:0002] 
++[FID:91, TEXT:0005] 
+-[FID:91, TEXT:0006] 
 -[FID:91, TEXT:0000] 
 -[FID:91, TEXT:0000] 
 
@@ -48,144 +178,14 @@
 
 --- Group [left:none next=2017] ---
 ショップ
-２話　４
-　ヘイゲン４２
+１話　２
+
 
 
 -[FID:91, TEXT:0002] 
-+[FID:91, TEXT:0005] 
-+[FID:91, TEXT:0006] 
++[FID:91, TEXT:0003] 
 -[FID:91, TEXT:0000] 
 -[FID:91, TEXT:0000] 
-
---- Group [left:none next=0003] ---
-ショップ
-１３話　２１
-　イワ４１
-　コウゲン４３
-　ヌマ４５
--[FID:91, TEXT:0002] 
-+[FID:91, TEXT:001D] 
--[FID:91, TEXT:0013] 
--[FID:91, TEXT:0016] 
--[FID:91, TEXT:001A] 
-
---- Group [left:none next=2017] ---
-ショップ
-３話　６
-　ヘイゲン４２
-　コウヤ３９
-　召喚跡４０
--[FID:91, TEXT:0002] 
-+[FID:91, TEXT:0008] 
--[FID:91, TEXT:0006] 
-+[FID:91, TEXT:0009] 
-+[FID:91, TEXT:000A] 
-
---- Group [left:none next=2017] ---
-ショップ
-４話　７
-　ヘイゲン４２
-　コウヤ３９
-　召喚跡４０
--[FID:91, TEXT:0002] 
-+[FID:91, TEXT:000B] 
--[FID:91, TEXT:0006] 
--[FID:91, TEXT:0009] 
--[FID:91, TEXT:000A] 
-
---- Group [left:none next=0003] ---
-ショップ
-５話　８
-　召喚跡４０
-　森４６
--[FID:91, TEXT:0002] 
-+[FID:91, TEXT:000C] 
--[FID:91, TEXT:000A] 
-+[FID:91, TEXT:000D] 
-
---- Group [left:none next=2017] ---
-ショップ
-１６話　２９
-　ミネ４８
-　タニ４９
-　キカイ５０
--[FID:91, TEXT:0002] 
-+[FID:91, TEXT:0028] 
-+[FID:91, TEXT:0022] 
-+[FID:91, TEXT:0024] 
-+[FID:91, TEXT:0026] 
-
---- Group [left:none next=2017] ---
-ショップ
-Ａ話　１０
-　召喚跡４０
-
-
--[FID:91, TEXT:0002] 
-+[FID:91, TEXT:000F] 
--[FID:91, TEXT:000A] 
--[FID:91, TEXT:0000] 
--[FID:91, TEXT:0000] 
-
---- Group [left:none next=2017] ---
-ショップ
-６話　１１
-　森４６
-　ドウクツ４４
-
--[FID:91, TEXT:0002] 
-+[FID:91, TEXT:0010] 
--[FID:91, TEXT:000D] 
-+[FID:91, TEXT:0011] 
--[FID:91, TEXT:0000] 
-
---- Group [left:none next=2017] ---
-ショップ
-８話　１３
-　森４６
-　ドウクツ４４
-　イワ４１
--[FID:91, TEXT:0002] 
-+[FID:91, TEXT:0012] 
--[FID:91, TEXT:000D] 
--[FID:91, TEXT:0011] 
--[FID:91, TEXT:0013] 
-
---- Group [left:none next=2017] ---
-ショップ
-９話　１４
-　ドウクツ４４
-　イワ４１
-
--[FID:91, TEXT:0002] 
-+[FID:91, TEXT:0014] 
--[FID:91, TEXT:0011] 
--[FID:91, TEXT:0013] 
--[FID:91, TEXT:0000] 
-
---- Group [left:none next=2017] ---
-ショップ
-１０話　１５
-　ドウクツ４４
-　イワ４１
-　コウゲン４３
--[FID:91, TEXT:0002] 
-+[FID:91, TEXT:0015] 
--[FID:91, TEXT:0011] 
--[FID:91, TEXT:0013] 
--[FID:91, TEXT:0016] 
-
---- Group [left:none next=2017] ---
-ショップ
-１１話　１６
-　イワ４１
-　コウゲン４３
-
--[FID:91, TEXT:0002] 
-+[FID:91, TEXT:0017] 
--[FID:91, TEXT:0013] 
--[FID:91, TEXT:0016] 
 -[FID:91, TEXT:0000] 
 
 --- Group [left:none next=2017] ---

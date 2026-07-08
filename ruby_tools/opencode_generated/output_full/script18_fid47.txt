@@ -162,180 +162,195 @@
 [FID:47, TEXT:0054] 人々の危機感をあおる
 [FID:47, TEXT:0055] つもりかよ！
 
---- Group 40 [left:char_0013 next=2012] ---
+--- Group 40 [left:char_000B next=2012] ---
+[FID:47, TEXT:0053] 暴動を繰り返すことで
+[FID:47, TEXT:0054] 人々の危機感をあおる
+[FID:47, TEXT:0058] つもりですか・・・
+
+--- Group 41 [left:char_000A next=2012] ---
+[FID:47, TEXT:0053] 暴動を繰り返すことで
+[FID:47, TEXT:0054] 人々の危機感をあおる
+[FID:47, TEXT:0057] つもりね・・・
+
+--- Group 42 [left:char_0009 next=2012] ---
+[FID:47, TEXT:0053] 暴動を繰り返すことで
+[FID:47, TEXT:0054] 人々の危機感をあおる
+[FID:47, TEXT:0056] つもりか・・・
+
+--- Group 43 [left:char_0013 next=2012] ---
 [FID:47, TEXT:0059] じゃあこの暴動に
 [FID:47, TEXT:005A] 参加してる奴らは
 [FID:47, TEXT:005B] どうなるんだよ！？
 
---- Group 41 [right:char_001B next=2012] ---
+--- Group 44 [right:char_001B next=2012] ---
 [FID:47, TEXT:005C] 戦うことを決めたのは
 [FID:47, TEXT:005D] 連中だからな
 
---- Group 42 [right:char_001B next=2012] ---
+--- Group 45 [right:char_001B next=2012] ---
 [FID:47, TEXT:005E] 死ぬも生きるも、本人
 [FID:47, TEXT:005F] の運と実力ってこった
 
---- Group 43 [left:char_0014 next=2012] ---
+--- Group 46 [left:char_0014 next=2012] ---
 [FID:47, TEXT:0060] 見殺しにする気か！？
 
---- Group 44 [right:char_0018 next=2012] ---
+--- Group 47 [right:char_0018 next=2012] ---
 [FID:47, TEXT:0061] 必要ならば、な
 
---- Group 45 [left:char_0012 next=2012] ---
+--- Group 48 [left:char_0012 next=2012] ---
 [FID:47, TEXT:0062] ラムダ・・・
 [FID:47, TEXT:0063] どうして・・・
 
---- Group 46 [left:char_0012 next=2012] ---
+--- Group 49 [left:char_0012 next=2012] ---
 [FID:47, TEXT:0064] 騎士は弱き人々の楯と
 [FID:47, TEXT:0065] なるものだと・・・
 
---- Group 47 [left:char_0012 next=2012] ---
+--- Group 50 [left:char_0012 next=2012] ---
 [FID:47, TEXT:0066] そう教えてくれたのは
 [FID:47, TEXT:0067] 貴方じゃないかっ！？
 
---- Group 48 [right:char_0018 next=2012] ---
+--- Group 51 [right:char_0018 next=2012] ---
 [FID:47, TEXT:0068] 俺はもう騎士ではない
 
---- Group 49 [right:char_0018 next=2012] ---
+--- Group 52 [right:char_0018 next=2012] ---
 [FID:47, TEXT:0069] お前もだ、レイド
 
---- Group 50 [right:char_0018 next=2012] ---
+--- Group 53 [right:char_0018 next=2012] ---
 [FID:47, TEXT:006A] なぜ、騎士を捨てた？
 
---- Group 51 [right:char_0018 next=2012] ---
+--- Group 54 [right:char_0018 next=2012] ---
 [FID:47, TEXT:006B] 人々の楯であることを
 [FID:47, TEXT:006C] やめたお前が、騎士を
 [FID:47, TEXT:006D] 語るというのか！？
 
---- Group 52 [right:char_0019 next=2012] ---
+--- Group 55 [right:char_0019 next=2012] ---
 [FID:47, TEXT:006E] 表の守りが突破された
 [FID:47, TEXT:006F] ようね・・・
 
---- Group 53 [right:char_001A next=2012] ---
+--- Group 56 [right:char_001A next=2012] ---
 [FID:47, TEXT:0070] ええ、潮時のようです
 
---- Group 54 [left:char_0013 next=2012] ---
+--- Group 57 [left:char_0013 next=2012] ---
 [FID:47, TEXT:0071] 待ちやがれっ！
 
---- Group 55 [left:char_0013 next=2012] ---
+--- Group 58 [left:char_0013 next=2012] ---
 [FID:47, TEXT:0072] おおっと！
 [FID:47, TEXT:0073] あぶねぇ、あぶねぇ
 
---- Group 56 [right:char_001A next=2012] ---
+--- Group 59 [right:char_001A next=2012] ---
 [FID:47, TEXT:0074] なっ・・・？
 
---- Group 57 [left:char_0004 next=0023] ---
+--- Group 60 [left:char_0004 next=0023] ---
 [FID:47, TEXT:0075] ガゼルが一瞬で、後ろ
 [FID:47, TEXT:0076] に回り込まれた・・・
 
---- Group 58 [left:char_0004 next=0023] ---
+--- Group 61 [left:char_0004 next=0023] ---
 [FID:47, TEXT:0077] うそ・・・
 [FID:47, TEXT:0078] ガゼルさんが後ろに
 [FID:47, TEXT:0079] 回り込まれるなんて
 
---- Group 59 [left:char_0004 next=2012] ---
+--- Group 62 [left:char_0004 next=2012] ---
 [FID:47, TEXT:007A] 手癖の悪いガキにゃあ
 [FID:47, TEXT:007B] おしおきがいるかぁ？
 
---- Group 60 [right:char_0018 next=2012] ---
+--- Group 63 [right:char_0018 next=2012] ---
 [FID:47, TEXT:007C] よせ、スタウト
 
---- Group 61 [left:char_0004 next=2012] ---
+--- Group 64 [left:char_0004 next=2012] ---
 [FID:47, TEXT:007D] へいへい
 
---- Group 62 [right:char_0018 next=2012] ---
+--- Group 65 [right:char_0018 next=2012] ---
 [FID:47, TEXT:007E] ・・・撤退だ！
 
---- Group 63 [right:char_0018 next=2015] ---
+--- Group 66 [right:char_0018 next=2015] ---
 [FID:47, TEXT:007F] どうしよう？
 [FID:47, TEXT:0080] 　ラムダを呼び止める
 [FID:47, TEXT:0081] 　レイドに声をかける
 
---- Group 64 [left:none next=2012] ---
+--- Group 67 [left:none next=2012] ---
 [FID:47, TEXT:0082] 待ってくれ！
 
---- Group 65 [left:none next=2012] ---
+--- Group 68 [left:none next=2012] ---
 [FID:47, TEXT:0083] 貴方たちの言うことは
 [FID:47, TEXT:0084] 正しいのかもしれない
 
---- Group 66 [left:none next=0023] ---
+--- Group 69 [left:none next=0023] ---
 [FID:47, TEXT:0085] だけど・・・
 [FID:47, TEXT:0086] 貴方たちのやっている
 [FID:47, TEXT:0087] ことは間違ってる！！
 
---- Group 67 [left:none next=2012] ---
+--- Group 70 [left:none next=2012] ---
 [FID:47, TEXT:0088] ちょっと待ってよ！
 
---- Group 68 [left:none next=2012] ---
+--- Group 71 [left:none next=2012] ---
 [FID:47, TEXT:0089] 正しいことを
 [FID:47, TEXT:008A] 言っているからって！
 
---- Group 69 [left:none next=0023] ---
+--- Group 72 [left:none next=0023] ---
 [FID:47, TEXT:008B] あなたたちの
 [FID:47, TEXT:008C] していることが
 [FID:47, TEXT:0093] 正しいとは・・・
 [FID:47, TEXT:0094] わたしは思いません
 
---- Group 70 [left:none next=0023] ---
+--- Group 73 [left:none next=0023] ---
 [FID:47, TEXT:008B] あなたたちの
 [FID:47, TEXT:008C] していることが
 [FID:47, TEXT:008D] 正しいなんて限らない
 [FID:47, TEXT:008E] でしょ！
 
---- Group 71 [left:none next=2012] ---
+--- Group 74 [left:none next=2012] ---
 [FID:47, TEXT:008F] 待ってください
 
---- Group 72 [left:none next=2012] ---
+--- Group 75 [left:none next=2012] ---
 [FID:47, TEXT:0090] 正しいことを言う人が
 [FID:47, TEXT:0091] 正しいことをするとは
 [FID:47, TEXT:0092] 限らないはずです
 
---- Group 73 [right:char_0018 next=2012] ---
+--- Group 76 [right:char_0018 next=2012] ---
 [FID:47, TEXT:0095] ならば、止めてみせろ
 
---- Group 74 [right:char_0018 next=2012] ---
+--- Group 77 [right:char_0018 next=2012] ---
 [FID:47, TEXT:0095] ならば、止めてみせろ
 
---- Group 75 [left:char_0004 next=2012] ---
+--- Group 78 [left:char_0004 next=2012] ---
 [FID:47, TEXT:0096] レイドさん？
 
---- Group 76 [left:char_0004 next=2012] ---
+--- Group 79 [left:char_0004 next=2012] ---
 [FID:47, TEXT:0097] ・・・間違ってる
 
---- Group 77 [left:char_0004 next=2012] ---
+--- Group 80 [left:char_0004 next=2012] ---
 [FID:47, TEXT:0098] 誰かを犠牲にしてまで
 [FID:47, TEXT:0099] 変革を求めるなんて
 
---- Group 78 [left:char_0004 next=2012] ---
+--- Group 81 [left:char_0004 next=2012] ---
 [FID:47, TEXT:009A] ラムダ！
 [FID:47, TEXT:009B] 貴方は間違っている！
 
---- Group 79 [right:char_0018 next=2012] ---
+--- Group 82 [right:char_0018 next=2012] ---
 [FID:47, TEXT:009C] がはははっ！
 [FID:47, TEXT:009D] このゴミどもがっ
 [FID:47, TEXT:009E] 本気で勝てると思って
 [FID:47, TEXT:009F] たのかよ、あぁん？
 
---- Group 80 [left:none next=2012] ---
+--- Group 83 [left:none next=2012] ---
 [FID:47, TEXT:00A0] くそぉ・・・
 [FID:47, TEXT:00A1] 負けてたまるかっ！
 
---- Group 81 [left:none next=2012] ---
+--- Group 84 [left:none next=2012] ---
 [FID:47, TEXT:00A2] たとえ殺されようと、
 [FID:47, TEXT:00A3] 俺は絶対に貴様らには
 [FID:47, TEXT:00A4] 負けない！！
 
---- Group 82 [right:char_0018 next=2012] ---
+--- Group 85 [right:char_0018 next=2012] ---
 [FID:47, TEXT:00A5] 俺が見捨てようとして
 [FID:47, TEXT:00A6] いるあいつらを、
 [FID:47, TEXT:00A7] お前は救えるのか？
 
---- Group 83 [right:char_0018 next=2012] ---
+--- Group 86 [right:char_0018 next=2012] ---
 [FID:47, TEXT:00A8] 犠牲なしに全てが変え
 [FID:47, TEXT:00A9] られるというならば、
 [FID:47, TEXT:00AA] 証明して見せろ！！
 
---- Group 84 [right:char_0018 next=2012] ---
+--- Group 87 [right:char_0018 next=2012] ---
 [FID:47, TEXT:00AB] それが本当にできるか
 [FID:47, TEXT:00AC] どうかを・・・
 

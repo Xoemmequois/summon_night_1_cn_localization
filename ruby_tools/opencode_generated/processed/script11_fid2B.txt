@@ -136,19 +136,19 @@
 
 --- Group [left:主人公 next=0023] ---
 ジンガがオプテュスと
-喧嘩してたとこなの！
-繁華街って！
+喧嘩してたのは繁華街
+なんだよ！
 +[FID:2B, TEXT:002B] 
-+[FID:2B, TEXT:002D] 
-+[FID:2B, TEXT:002E] 
++[FID:2B, TEXT:002C] 
+-[FID:2B, TEXT:002A] 
 
 --- Group [left:主人公 next=0023] ---
 ジンガがオプテュスと
-喧嘩してたのは繁華街
-なんだよ！
+喧嘩してたとこなの！
+繁華街って！
 -[FID:2B, TEXT:002B] 
-+[FID:2B, TEXT:002C] 
--[FID:2B, TEXT:002A] 
++[FID:2B, TEXT:002D] 
++[FID:2B, TEXT:002E] 
 
 --- Group [left:主人公 next=0023] ---
 彼がオプテュスの人
@@ -294,15 +294,15 @@
 
 --- Group [left:主人公 next=0023] ---
 そ、そういう問題じゃ
-ないんだが・・・
+なくて・・・
 +[FID:2B, TEXT:005C] 
-+[FID:2B, TEXT:005E] 
++[FID:2B, TEXT:005D] 
 
 --- Group [left:主人公 next=0023] ---
 そ、そういう問題じゃ
-なくて・・・
+ないんだが・・・
 -[FID:2B, TEXT:005C] 
-+[FID:2B, TEXT:005D] 
++[FID:2B, TEXT:005E] 
 
 --- Group [left:主人公 next=0023] ---
 いや・・・そういう

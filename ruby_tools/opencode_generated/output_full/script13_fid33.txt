@@ -10,592 +10,1982 @@
 
 --- Group 4 [left:char_0004 next=0023] ---
 [FID:33, TEXT:0005] なにか手伝えることは
-[FID:33, TEXT:0006] あるかな？
+[FID:33, TEXT:0008] ありますか？
 
 --- Group 5 [left:char_0004 next=0023] ---
 [FID:33, TEXT:0005] なにか手伝えることは
-[FID:33, TEXT:0008] ありますか？
+[FID:33, TEXT:0006] あるかな？
 
 --- Group 6 [left:char_0004 next=0023] ---
+[FID:33, TEXT:0005] なにか手伝えることは
+[FID:33, TEXT:0016] あるかい？
+
+--- Group 7 [left:char_0004 next=0023] ---
+[FID:33, TEXT:0005] なにか手伝えることは
+[FID:33, TEXT:0016] あるかい？
+
+--- Group 8 [left:char_0004 next=0023] ---
+[FID:33, TEXT:0005] なにか手伝えることは
+[FID:33, TEXT:0016] あるかい？
+
+--- Group 9 [left:char_0004 next=0023] ---
+[FID:33, TEXT:0005] なにか手伝えることは
+[FID:33, TEXT:0008] ありますか？
+
+--- Group 10 [left:char_0004 next=0023] ---
+[FID:33, TEXT:0005] なにか手伝えることは
+[FID:33, TEXT:0006] あるかな？
+
+--- Group 11 [left:char_0004 next=0023] ---
+[FID:33, TEXT:0005] なにか手伝えることは
+[FID:33, TEXT:0008] ありますか？
+
+--- Group 12 [left:char_0004 next=0023] ---
+[FID:33, TEXT:0005] なにか手伝えることは
+[FID:33, TEXT:0006] あるかな？
+
+--- Group 13 [left:char_0004 next=0023] ---
 [FID:33, TEXT:0007] なんか手伝うこと
 [FID:33, TEXT:0006] あるかな？
 
---- Group 7 [right:char_0008 next=2012] ---
+--- Group 14 [right:char_0008 next=2012] ---
 [FID:33, TEXT:0009] ないよ
 [FID:33, TEXT:000A] 俺ひとりで充分
 
---- Group 8 [left:char_0004 next=0023] ---
+--- Group 15 [left:char_0004 next=0023] ---
 [FID:33, TEXT:000B] そうか・・・
 [FID:33, TEXT:000C] なら、僕は見張りでも
 [FID:33, TEXT:000D] してるよ
 
---- Group 9 [left:char_0004 next=0023] ---
+--- Group 16 [left:char_0004 next=0023] ---
+[FID:33, TEXT:000B] そうか・・・
+[FID:33, TEXT:000C] なら、僕は見張りでも
+[FID:33, TEXT:000D] してるよ
+
+--- Group 17 [left:char_0004 next=0023] ---
+[FID:33, TEXT:000B] そうか・・・
+[FID:33, TEXT:000C] なら、僕は見張りでも
+[FID:33, TEXT:000D] してるよ
+
+--- Group 18 [left:char_0004 next=0023] ---
+[FID:33, TEXT:000E] そっか・・・
+[FID:33, TEXT:001B] なら、俺は見張りでも
+[FID:33, TEXT:000D] してるよ
+
+--- Group 19 [left:char_0004 next=2012] ---
+[FID:33, TEXT:000E] そっか・・・
+[FID:33, TEXT:001C] なら、あたしは見張り
+[FID:33, TEXT:001D] してるから
+
+--- Group 20 [left:char_0004 next=0023] ---
+[FID:33, TEXT:000E] そっか・・・
+[FID:33, TEXT:001B] なら、俺は見張りでも
+[FID:33, TEXT:000D] してるよ
+
+--- Group 21 [left:char_0004 next=0023] ---
 [FID:33, TEXT:000E] そっか・・・
 [FID:33, TEXT:000F] じゃ、あたしは
 [FID:33, TEXT:0010] 見張り役ってことで！
 
---- Group 10 [left:char_0004 next=0023] ---
+--- Group 22 [left:char_0004 next=0023] ---
+[FID:33, TEXT:000E] そっか・・・
+[FID:33, TEXT:002E] じゃあ、見張りは
+[FID:33, TEXT:002F] あたしにまかせてね！
+
+--- Group 23 [left:char_0004 next=0023] ---
+[FID:33, TEXT:000E] そっか・・・
+[FID:33, TEXT:001B] なら、俺は見張りでも
+[FID:33, TEXT:000D] してるよ
+
+--- Group 24 [left:char_0004 next=0023] ---
+[FID:33, TEXT:0011] そうですか・・・
+[FID:33, TEXT:0027] なら、わたしは
+[FID:33, TEXT:0028] ここで、待っています
+
+--- Group 25 [left:char_0004 next=0023] ---
 [FID:33, TEXT:0011] そうですか・・・
 [FID:33, TEXT:0012] なら、わたしはここで
 [FID:33, TEXT:0013] 待ってますから
 
---- Group 11 [left:char_0004 next=2012] ---
-[FID:33, TEXT:0030] あまり考えたくない
-[FID:33, TEXT:003F] ことだが・・・
+--- Group 26 [right:char_0009 next=2012] ---
+[FID:33, TEXT:0014] ああ、さっそく調べて
+[FID:33, TEXT:0015] みることにしよう
 
---- Group 12 [left:char_0004 next=2012] ---
+--- Group 27 [left:char_0004 next=0023] ---
+[FID:33, TEXT:0017] なんか手伝えること、
+[FID:33, TEXT:0018] ある？
+
+--- Group 28 [right:char_0009 next=2012] ---
+[FID:33, TEXT:0019] いや、とりあえずは僕
+[FID:33, TEXT:001A] ひとりで平気だと思う
+
+--- Group 29 [left:char_0004 next=0023] ---
+[FID:33, TEXT:001E] なんかあったら
+[FID:33, TEXT:001F] 呼んでね！
+
+--- Group 30 [left:char_0004 next=0023] ---
+[FID:33, TEXT:0020] そうですか
+[FID:33, TEXT:0021] じゃあ、わたしは
+[FID:33, TEXT:0022] ここで待ってますから
+
+--- Group 31 [right:char_000A next=2012] ---
+[FID:33, TEXT:0023] さて、さっそく調べる
+[FID:33, TEXT:0024] としますかね
+
+--- Group 32 [right:char_000A next=2012] ---
+[FID:33, TEXT:0025] あ、とりあえずあたし
+[FID:33, TEXT:0026] ひとりでやってみる
+
+--- Group 33 [right:char_000B next=2012] ---
+[FID:33, TEXT:0029] ええ、さっそく調べて
+[FID:33, TEXT:002A] みますね
+
+--- Group 34 [left:char_0004 next=0023] ---
+[FID:33, TEXT:002B] なにか手伝えること、
+[FID:33, TEXT:0006] あるかな？
+
+--- Group 35 [right:char_000B next=2012] ---
+[FID:33, TEXT:002C] いえ、とりあえずは私
+[FID:33, TEXT:002D] ひとりで大丈夫です
+
+--- Group 36 [left:char_0004 next=2012] ---
 [FID:33, TEXT:0030] あまり考えたくない
 [FID:33, TEXT:0031] ことだけど・・・
 
---- Group 13 [left:char_0004 next=0023] ---
+--- Group 37 [left:char_0004 next=2012] ---
+[FID:33, TEXT:0030] あまり考えたくない
+[FID:33, TEXT:003F] ことだが・・・
+
+--- Group 38 [left:char_0004 next=0023] ---
 [FID:33, TEXT:0032] ソルは
 
---- Group 14 [left:char_0004 next=0023] ---
+--- Group 39 [left:char_0004 next=0023] ---
 [FID:33, TEXT:0032] ソルは
 
---- Group 15 [left:char_0004 next=2012] ---
+--- Group 40 [left:char_0004 next=0023] ---
+[FID:33, TEXT:0033] キールは
+
+--- Group 41 [left:char_0004 next=0023] ---
+[FID:33, TEXT:0033] キールは
+
+--- Group 42 [left:char_0004 next=0023] ---
+[FID:33, TEXT:0034] カシスは
+
+--- Group 43 [left:char_0004 next=0023] ---
+[FID:33, TEXT:0034] カシスは
+
+--- Group 44 [left:char_0004 next=0023] ---
+[FID:33, TEXT:0035] クラレットは
+
+--- Group 45 [left:char_0004 next=0023] ---
+[FID:33, TEXT:0035] クラレットは
+
+--- Group 46 [left:char_0004 next=2012] ---
 [FID:33, TEXT:0036] やっぱり、なにかを
 [FID:33, TEXT:0037] 隠してる気がする
 
---- Group 16 [left:char_0004 next=2012] ---
+--- Group 47 [left:char_0004 next=2012] ---
 [FID:33, TEXT:0036] やっぱり、なにかを
 [FID:33, TEXT:0057] 隠してるような・・・
 
---- Group 17 [left:char_0004 next=2012] ---
+--- Group 48 [left:char_0004 next=2012] ---
 [FID:33, TEXT:0038] だとしたら、さっきの
 [FID:33, TEXT:0039] 剣士に見せた警戒ぶり
 [FID:33, TEXT:003A] もよくわかる
 
---- Group 18 [left:char_0004 next=2012] ---
+--- Group 49 [left:char_0004 next=2012] ---
 [FID:33, TEXT:003B] ・・・でも
 
---- Group 19 [left:char_0004 next=0023] ---
-[FID:33, TEXT:003C] そこまでして隠す必要
-[FID:33, TEXT:003D] があることって、
-[FID:33, TEXT:0040] なんなんだろうか？
-
---- Group 20 [left:char_0004 next=0023] ---
+--- Group 50 [left:char_0004 next=0023] ---
 [FID:33, TEXT:003C] そこまでして隠す必要
 [FID:33, TEXT:003D] があることって、
 [FID:33, TEXT:003E] なんなんだ？
 
---- Group 21 [left:char_0004 next=2012] ---
+--- Group 51 [left:char_0004 next=0023] ---
+[FID:33, TEXT:003C] そこまでして隠す必要
+[FID:33, TEXT:003D] があることって、
+[FID:33, TEXT:0040] なんなんだろうか？
+
+--- Group 52 [left:char_0004 next=2012] ---
 [FID:33, TEXT:0041] う〜ん・・・
 [FID:33, TEXT:0042] 気のせいだとは
 [FID:33, TEXT:0043] 思うけど・・・
 
---- Group 22 [left:char_0004 next=0023] ---
+--- Group 53 [left:char_0004 next=0023] ---
 [FID:33, TEXT:0044] ソルってば
 
---- Group 23 [left:char_0004 next=2012] ---
+--- Group 54 [left:char_0004 next=0023] ---
+[FID:33, TEXT:0045] キールってば
+
+--- Group 55 [left:char_0004 next=0023] ---
+[FID:33, TEXT:0046] カシスってば
+
+--- Group 56 [left:char_0004 next=0023] ---
+[FID:33, TEXT:0047] クラレットってば
+
+--- Group 57 [left:char_0004 next=2012] ---
 [FID:33, TEXT:0048] なんか隠しごとしてる
 [FID:33, TEXT:0049] ような気がする・・・
 
---- Group 24 [left:char_0004 next=2012] ---
+--- Group 58 [left:char_0004 next=2012] ---
 [FID:33, TEXT:004A] じゃないと
 [FID:33, TEXT:004B] さっきの剣士の人に
 [FID:33, TEXT:004C] 見せた警戒の意味が
 [FID:33, TEXT:004D] 理解できないし
 
---- Group 25 [left:char_0004 next=0023] ---
+--- Group 59 [left:char_0004 next=0023] ---
 [FID:33, TEXT:004E] なにを隠してるんだろ
 [FID:33, TEXT:004F] ・・・そこまでして
 [FID:33, TEXT:0050] 隠す意味なんて
 [FID:33, TEXT:0051] あるのかな？
 
---- Group 26 [left:char_0004 next=2012] ---
+--- Group 60 [left:char_0004 next=2012] ---
 [FID:33, TEXT:0052] あまり考えたくは
 [FID:33, TEXT:0053] ありませんが・・・
 
---- Group 27 [left:char_0004 next=0023] ---
+--- Group 61 [left:char_0004 next=0023] ---
 [FID:33, TEXT:0054] ソルさんは
 
---- Group 28 [left:char_0004 next=0023] ---
+--- Group 62 [left:char_0004 next=0023] ---
 [FID:33, TEXT:0054] ソルさんは
 
---- Group 29 [left:char_0004 next=2012] ---
+--- Group 63 [left:char_0004 next=0023] ---
+[FID:33, TEXT:0055] キールさんは
+
+--- Group 64 [left:char_0004 next=0023] ---
+[FID:33, TEXT:0055] キールさんは
+
+--- Group 65 [left:char_0004 next=0023] ---
+[FID:33, TEXT:0056] カシスさんは
+
+--- Group 66 [left:char_0004 next=0023] ---
+[FID:33, TEXT:0056] カシスさんは
+
+--- Group 67 [left:char_0004 next=2012] ---
 [FID:33, TEXT:0058] そう考えないと
 [FID:33, TEXT:0059] 剣士さんに見せた
 [FID:33, TEXT:005A] 強い警戒心の説明が
 [FID:33, TEXT:005B] つかない気がします
 
---- Group 30 [left:char_0004 next=0023] ---
+--- Group 68 [left:char_0004 next=0023] ---
 [FID:33, TEXT:005C] そこまでして隠す
 [FID:33, TEXT:005D] 必要があることって
 [FID:33, TEXT:005E] あるものでしょうか？
 
---- Group 31 [right:char_0008 next=2012] ---
+--- Group 69 [right:char_0008 next=2012] ---
 [FID:33, TEXT:005F] 悪い！待たせた！
 
---- Group 32 [left:char_0004 next=0023] ---
+--- Group 70 [left:char_0004 next=0023] ---
 [FID:33, TEXT:0060] どうだった？
 
---- Group 33 [left:char_0004 next=0023] ---
+--- Group 71 [left:char_0004 next=0023] ---
+[FID:33, TEXT:0060] どうだった？
+
+--- Group 72 [left:char_0004 next=0023] ---
+[FID:33, TEXT:0060] どうだった？
+
+--- Group 73 [left:char_0004 next=0023] ---
+[FID:33, TEXT:0060] どうだった？
+
+--- Group 74 [left:char_0004 next=0023] ---
 [FID:33, TEXT:0061] どうでしたか？
 
---- Group 34 [right:char_0008 next=2012] ---
+--- Group 75 [left:char_0004 next=0023] ---
+[FID:33, TEXT:0061] どうでしたか？
+
+--- Group 76 [left:char_0004 next=0023] ---
+[FID:33, TEXT:0061] どうでしたか？
+
+--- Group 77 [right:char_0008 next=2012] ---
 [FID:33, TEXT:0062] ダメだ
 [FID:33, TEXT:0063] 俺の知識じゃ限界だ
 [FID:33, TEXT:0064] ・・・すまないな
 
---- Group 35 [left:char_0004 next=0023] ---
+--- Group 78 [left:char_0004 next=0023] ---
 [FID:33, TEXT:0065] いや、いいんだ
 
---- Group 36 [left:char_0004 next=0023] ---
+--- Group 79 [left:char_0004 next=0023] ---
+[FID:33, TEXT:0065] いや、いいんだ
+
+--- Group 80 [left:char_0004 next=0023] ---
+[FID:33, TEXT:0065] いや、いいんだ
+
+--- Group 81 [left:char_0004 next=0023] ---
 [FID:33, TEXT:0066] おっけ！
 [FID:33, TEXT:0067] 問題なし！
 
---- Group 37 [left:char_0004 next=0023] ---
+--- Group 82 [left:char_0004 next=0023] ---
 [FID:33, TEXT:0068] いえ、いいんです
 
---- Group 38 [right:char_0008 next=2012] ---
+--- Group 83 [right:char_0008 next=2012] ---
 [FID:33, TEXT:0069] これからどうする？
 
---- Group 39 [left:char_0004 next=0023] ---
+--- Group 84 [right:char_000A next=2012] ---
+[FID:33, TEXT:0069] これからどうする？
+
+--- Group 85 [right:char_0009 next=2012] ---
+[FID:33, TEXT:0069] これからどうする？
+
+--- Group 86 [left:char_0004 next=0023] ---
 [FID:33, TEXT:006A] 少し休んで、それから
 [FID:33, TEXT:006F] 街へ戻りましょう
 
---- Group 40 [left:char_0004 next=0023] ---
+--- Group 87 [left:char_0004 next=0023] ---
 [FID:33, TEXT:006A] 少し休んで、それから
 [FID:33, TEXT:006B] 街へ戻ろう
 
---- Group 41 [left:char_0004 next=0023] ---
+--- Group 88 [left:char_0004 next=0023] ---
+[FID:33, TEXT:006A] 少し休んで、それから
+[FID:33, TEXT:006B] 街へ戻ろう
+
+--- Group 89 [left:char_0004 next=0023] ---
+[FID:33, TEXT:006A] 少し休んで、それから
+[FID:33, TEXT:006B] 街へ戻ろう
+
+--- Group 90 [left:char_0004 next=0023] ---
+[FID:33, TEXT:006A] 少し休んで、それから
+[FID:33, TEXT:006B] 街へ戻ろう
+
+--- Group 91 [left:char_0004 next=0023] ---
+[FID:33, TEXT:006A] 少し休んで、それから
+[FID:33, TEXT:011F] 街へ戻ろうよ、ね！
+
+--- Group 92 [left:char_0004 next=0023] ---
+[FID:33, TEXT:006A] 少し休んで、それから
+[FID:33, TEXT:006F] 街へ戻りましょう
+
+--- Group 93 [left:char_0004 next=0023] ---
 [FID:33, TEXT:006C] 街へ帰ろ・・・
 [FID:33, TEXT:006D] でも、その前に
 [FID:33, TEXT:006E] 一休みさせて、ね！
 
---- Group 42 [left:char_0004 next=0023] ---
+--- Group 94 [left:char_0004 next=0023] ---
 [FID:33, TEXT:0070] ソル？
 
---- Group 43 [left:char_0004 next=0023] ---
+--- Group 95 [left:char_0004 next=0023] ---
 [FID:33, TEXT:0071] ねえ
 
---- Group 44 [left:char_0004 next=0023] ---
+--- Group 96 [left:char_0004 next=0023] ---
 [FID:33, TEXT:0072] あの・・・
 
---- Group 45 [right:char_0008 next=2012] ---
+--- Group 97 [right:char_0008 next=2012] ---
 [FID:33, TEXT:0073] ん？　なんだ？
 
---- Group 46 [left:char_0004 next=2012] ---
+--- Group 98 [left:char_0004 next=2012] ---
 [FID:33, TEXT:0074] 今まで忘れていたこと
 [FID:33, TEXT:0075] だったんだけど・・・
 
---- Group 47 [left:char_0004 next=0023] ---
+--- Group 99 [left:char_0004 next=2012] ---
+[FID:33, TEXT:0074] 今まで忘れていたこと
+[FID:33, TEXT:0075] だったんだけど・・・
+
+--- Group 100 [left:char_0004 next=2012] ---
+[FID:33, TEXT:0074] 今まで忘れていたこと
+[FID:33, TEXT:0075] だったんだけど・・・
+
+--- Group 101 [left:char_0004 next=2012] ---
+[FID:33, TEXT:0074] 今まで忘れていたこと
+[FID:33, TEXT:0075] だったんだけど・・・
+
+--- Group 102 [left:char_0004 next=0023] ---
 [FID:33, TEXT:0076] 僕がこの世界に呼ばれ
 [FID:33, TEXT:0077] た時・・・頭の中に声
 [FID:33, TEXT:0078] が聞こえたんだ
 
---- Group 48 [left:char_0004 next=2012] ---
+--- Group 103 [left:char_0004 next=0023] ---
+[FID:33, TEXT:0076] 僕がこの世界に呼ばれ
+[FID:33, TEXT:0077] た時・・・頭の中に声
+[FID:33, TEXT:0078] が聞こえたんだ
+
+--- Group 104 [left:char_0004 next=2012] ---
 [FID:33, TEXT:0076] 僕がこの世界に呼ばれ
 [FID:33, TEXT:0087] てきたのは事故だって
 [FID:33, TEXT:0088] 君は言うけど・・・
 
---- Group 49 [left:char_0004 next=2012] ---
+--- Group 105 [left:char_0004 next=2012] ---
+[FID:33, TEXT:0076] 僕がこの世界に呼ばれ
+[FID:33, TEXT:0087] てきたのは事故だって
+[FID:33, TEXT:0088] 君は言うけど・・・
+
+--- Group 106 [left:char_0004 next=2012] ---
+[FID:33, TEXT:0076] 僕がこの世界に呼ばれ
+[FID:33, TEXT:0087] てきたのは事故だって
+[FID:33, TEXT:0088] 君は言うけど・・・
+
+--- Group 107 [left:char_0004 next=0023] ---
+[FID:33, TEXT:0076] 僕がこの世界に呼ばれ
+[FID:33, TEXT:0077] た時・・・頭の中に声
+[FID:33, TEXT:0078] が聞こえたんだ
+
+--- Group 108 [left:char_0004 next=2012] ---
 [FID:33, TEXT:0079] 今まで忘れてたん
 [FID:33, TEXT:007A] だけどさ・・・
 
---- Group 50 [left:char_0004 next=0023] ---
+--- Group 109 [left:char_0004 next=0023] ---
 [FID:33, TEXT:007B] あたしがこの世界に
 [FID:33, TEXT:007C] 呼ばれたときね・・・
 [FID:33, TEXT:007D] 声が聞こえたの
 
---- Group 51 [left:char_0004 next=2012] ---
+--- Group 110 [left:char_0004 next=2012] ---
 [FID:33, TEXT:007E] 今まで忘れていたんで
 [FID:33, TEXT:007F] すけれど・・・
 
---- Group 52 [left:char_0004 next=0023] ---
+--- Group 111 [left:char_0004 next=0023] ---
 [FID:33, TEXT:0080] わたしが、この世界に
 [FID:33, TEXT:0081] 来たとき・・・頭の中
 [FID:33, TEXT:0082] に声が聞こえたんです
 
---- Group 53 [right:char_0008 next=2012] ---
+--- Group 112 [right:char_0008 next=2012] ---
 [FID:33, TEXT:0083] なんの声だ？
 
---- Group 54 [left:char_0004 next=2012] ---
+--- Group 113 [left:char_0004 next=2012] ---
 [FID:33, TEXT:0084] 誰かが、僕に向かって
 [FID:33, TEXT:0085] 「助けてくれ」って、
 [FID:33, TEXT:0086] 呼びかけてきたんだ
 
---- Group 55 [left:char_0004 next=2012] ---
+--- Group 114 [left:char_0004 next=2012] ---
+[FID:33, TEXT:0084] 誰かが、僕に向かって
+[FID:33, TEXT:0085] 「助けてくれ」って、
+[FID:33, TEXT:0086] 呼びかけてきたんだ
+
+--- Group 115 [left:char_0004 next=2012] ---
+[FID:33, TEXT:0084] 誰かが、僕に向かって
+[FID:33, TEXT:0085] 「助けてくれ」って、
+[FID:33, TEXT:0086] 呼びかけてきたんだ
+
+--- Group 116 [left:char_0004 next=2012] ---
 [FID:33, TEXT:0089] 僕はその声の主に関係
 [FID:33, TEXT:008A] があると思うんだ
 
---- Group 56 [left:char_0004 next=2012] ---
+--- Group 117 [left:char_0004 next=2012] ---
+[FID:33, TEXT:0089] 僕はその声の主に関係
+[FID:33, TEXT:008A] があると思うんだ
+
+--- Group 118 [left:char_0004 next=2012] ---
+[FID:33, TEXT:0089] 僕はその声の主に関係
+[FID:33, TEXT:008A] があると思うんだ
+
+--- Group 119 [left:char_0004 next=2012] ---
 [FID:33, TEXT:008B] その声の主に呼ばれた
 [FID:33, TEXT:008C] から、僕はここに来た
 [FID:33, TEXT:008D] んじゃないだろうか
 
---- Group 57 [left:char_0004 next=0023] ---
-[FID:33, TEXT:008E] あの時の呼び声
-[FID:33, TEXT:00A9] あれは、あなたじゃ
-[FID:33, TEXT:00AA] なかったんですか？
+--- Group 120 [left:char_0004 next=2012] ---
+[FID:33, TEXT:008B] その声の主に呼ばれた
+[FID:33, TEXT:00D5] から、俺はここに
+[FID:33, TEXT:00D6] 来たんだと思うんだ
 
---- Group 58 [left:char_0004 next=0023] ---
+--- Group 121 [left:char_0004 next=2012] ---
+[FID:33, TEXT:008B] その声の主に呼ばれた
+[FID:33, TEXT:00D5] から、俺はここに
+[FID:33, TEXT:00D6] 来たんだと思うんだ
+
+--- Group 122 [left:char_0004 next=2012] ---
+[FID:33, TEXT:008B] その声の主に呼ばれた
+[FID:33, TEXT:008C] から、僕はここに来た
+[FID:33, TEXT:008D] んじゃないだろうか
+
+--- Group 123 [left:char_0004 next=2012] ---
+[FID:33, TEXT:008B] その声の主に呼ばれた
+[FID:33, TEXT:00D5] から、俺はここに
+[FID:33, TEXT:00D6] 来たんだと思うんだ
+
+--- Group 124 [left:char_0004 next=2012] ---
+[FID:33, TEXT:008B] その声の主に呼ばれた
+[FID:33, TEXT:008C] から、僕はここに来た
+[FID:33, TEXT:008D] んじゃないだろうか
+
+--- Group 125 [left:char_0004 next=0023] ---
+[FID:33, TEXT:008E] あの時の呼び声
+[FID:33, TEXT:00F1] あれは、あなたなんじ
+[FID:33, TEXT:00F2] ゃないですか？
+
+--- Group 126 [left:char_0004 next=0023] ---
+[FID:33, TEXT:008E] あの時の呼び声
+[FID:33, TEXT:00D7] あれは、君だったん
+[FID:33, TEXT:00D8] じゃないのか？
+
+--- Group 127 [left:char_0004 next=0023] ---
 [FID:33, TEXT:008E] あの時の呼び声
 [FID:33, TEXT:008F] あれは、君だったんじ
 [FID:33, TEXT:0090] ゃないのか？
 
---- Group 59 [left:char_0004 next=2012] ---
+--- Group 128 [left:char_0004 next=0023] ---
+[FID:33, TEXT:008E] あの時の呼び声
+[FID:33, TEXT:0113] あれは、カシスさん
+[FID:33, TEXT:0114] じゃ、ありませんか？
+
+--- Group 129 [left:char_0004 next=0023] ---
+[FID:33, TEXT:008E] あの時の呼び声
+[FID:33, TEXT:008F] あれは、君だったんじ
+[FID:33, TEXT:0090] ゃないのか？
+
+--- Group 130 [left:char_0004 next=0023] ---
+[FID:33, TEXT:008E] あの時の呼び声
+[FID:33, TEXT:008F] あれは、君だったんじ
+[FID:33, TEXT:0090] ゃないのか？
+
+--- Group 131 [left:char_0004 next=0023] ---
+[FID:33, TEXT:008E] あの時の呼び声
+[FID:33, TEXT:00D7] あれは、君だったん
+[FID:33, TEXT:00D8] じゃないのか？
+
+--- Group 132 [left:char_0004 next=0023] ---
+[FID:33, TEXT:008E] あの時の呼び声
+[FID:33, TEXT:00D7] あれは、君だったん
+[FID:33, TEXT:00D8] じゃないのか？
+
+--- Group 133 [left:char_0004 next=0023] ---
+[FID:33, TEXT:008E] あの時の呼び声
+[FID:33, TEXT:00A9] あれは、あなたじゃ
+[FID:33, TEXT:00AA] なかったんですか？
+
+--- Group 134 [left:char_0004 next=2012] ---
 [FID:33, TEXT:0091] 「助けてくれ」って
 [FID:33, TEXT:0092] いう声・・・だれの声
 [FID:33, TEXT:0093] だか、わかんないけど
 
---- Group 60 [left:char_0004 next=2012] ---
+--- Group 135 [left:char_0004 next=2012] ---
 [FID:33, TEXT:0094] あたし、事故でここ
 [FID:33, TEXT:0095] に来たってあんたは
 [FID:33, TEXT:0096] 言ったけど・・・
 
---- Group 61 [left:char_0004 next=2012] ---
+--- Group 136 [left:char_0004 next=2012] ---
 [FID:33, TEXT:0097] なんだか・・・
 [FID:33, TEXT:0098] 違う気がする・・・
 
---- Group 62 [left:char_0004 next=2012] ---
+--- Group 137 [left:char_0004 next=2012] ---
 [FID:33, TEXT:0099] その人が、あたしを
 [FID:33, TEXT:009A] 呼んだんじゃない
 [FID:33, TEXT:009B] かなって・・・
 
---- Group 63 [left:char_0004 next=0023] ---
+--- Group 138 [left:char_0004 next=0023] ---
 [FID:33, TEXT:009C] あれってさ・・・
 [FID:33, TEXT:009D] ソルの声に思えて
 [FID:33, TEXT:009E] 仕方がないんだ
 
---- Group 64 [left:char_0004 next=2012] ---
+--- Group 139 [left:char_0004 next=2012] ---
 [FID:33, TEXT:009F] 誰かが、わたしに
 [FID:33, TEXT:0085] 「助けてくれ」って、
 [FID:33, TEXT:00A0] 呼びかけてきたんです
 
---- Group 65 [left:char_0004 next=2012] ---
+--- Group 140 [left:char_0004 next=2012] ---
 [FID:33, TEXT:00A1] わたしがこの世界に
 [FID:33, TEXT:00A2] 呼ばれてきたのは事故
 [FID:33, TEXT:00A3] だと言いましたが
 
---- Group 66 [left:char_0004 next=2012] ---
+--- Group 141 [left:char_0004 next=0023] ---
+[FID:33, TEXT:00A1] わたしがこの世界に
+[FID:33, TEXT:00CF] 呼ばれた時、頭に声
+[FID:33, TEXT:00D0] が聞こえたんです
+
+--- Group 142 [left:char_0004 next=2012] ---
+[FID:33, TEXT:00A1] わたしがこの世界に
+[FID:33, TEXT:00EA] 来たのは、事故だと
+[FID:33, TEXT:00EB] あなたは言いました
+
+--- Group 143 [left:char_0004 next=2012] ---
 [FID:33, TEXT:00A4] わたし、違う気が
 [FID:33, TEXT:00A5] するんです・・・
 
---- Group 67 [left:char_0004 next=2012] ---
+--- Group 144 [left:char_0004 next=2012] ---
 [FID:33, TEXT:00A6] その声の主が、わたし
 [FID:33, TEXT:00A7] を、ここに呼んだんだ
 [FID:33, TEXT:00A8] と思うんです
 
---- Group 68 [right:char_0008 next=2012] ---
+--- Group 145 [right:char_0008 next=2012] ---
 [FID:33, TEXT:00AB] ・・・なんで
 [FID:33, TEXT:00AC] そう思う？
 
---- Group 69 [left:char_0004 next=0023] ---
+--- Group 146 [left:char_0004 next=0023] ---
 [FID:33, TEXT:00AD] 証明できるものは
 [FID:33, TEXT:00AE] なにもないけど・・・
 [FID:33, TEXT:00AF] でも、そんな気がして
 [FID:33, TEXT:009E] 仕方がないんだ
 
---- Group 70 [left:char_0004 next=0023] ---
+--- Group 147 [left:char_0004 next=0023] ---
+[FID:33, TEXT:00AD] 証明できるものは
+[FID:33, TEXT:00AE] なにもないけど・・・
+[FID:33, TEXT:00AF] でも、そんな気がして
+[FID:33, TEXT:009E] 仕方がないんだ
+
+--- Group 148 [left:char_0004 next=0023] ---
+[FID:33, TEXT:00AD] 証明できるものは
+[FID:33, TEXT:00AE] なにもないけど・・・
+[FID:33, TEXT:00AF] でも、そんな気がして
+[FID:33, TEXT:009E] 仕方がないんだ
+
+--- Group 149 [left:char_0004 next=0023] ---
+[FID:33, TEXT:00AD] 証明できるものは
+[FID:33, TEXT:0115] なにもありません
+[FID:33, TEXT:00AF] でも、そんな気がして
+[FID:33, TEXT:00B5] 仕方がないんです
+
+--- Group 150 [left:char_0004 next=0023] ---
+[FID:33, TEXT:00AD] 証明できるものは
+[FID:33, TEXT:00AE] なにもないけど・・・
+[FID:33, TEXT:00AF] でも、そんな気がして
+[FID:33, TEXT:009E] 仕方がないんだ
+
+--- Group 151 [left:char_0004 next=0023] ---
 [FID:33, TEXT:00B0] オンナのカンってやつ
 [FID:33, TEXT:00B1] ・・・かな？
 
---- Group 71 [left:char_0004 next=0023] ---
+--- Group 152 [left:char_0004 next=0023] ---
 [FID:33, TEXT:00B2] 確証はないんです
 [FID:33, TEXT:00B3] でも・・・
 [FID:33, TEXT:00B4] そんな気がして
 [FID:33, TEXT:00B5] 仕方がないんです
 
---- Group 72 [right:char_0008 next=2012] ---
+--- Group 153 [right:char_000B next=2012] ---
 [FID:33, TEXT:00B3] でも・・・
 [FID:33, TEXT:01FB] 今じゃ確信してるよ
 
---- Group 73 [right:char_0008 next=2012] ---
+--- Group 154 [right:char_000A next=2012] ---
+[FID:33, TEXT:00B3] でも・・・
+[FID:33, TEXT:01FB] 今じゃ確信してるよ
+
+--- Group 155 [right:char_0008 next=2012] ---
+[FID:33, TEXT:00B3] でも・・・
+[FID:33, TEXT:01FB] 今じゃ確信してるよ
+
+--- Group 156 [right:char_0008 next=2012] ---
+[FID:33, TEXT:00B3] でも・・・
+
+--- Group 157 [right:char_0009 next=2012] ---
+[FID:33, TEXT:00B3] でも・・・
+[FID:33, TEXT:01FB] 今じゃ確信してるよ
+
+--- Group 158 [left:char_0004 next=2012] ---
 [FID:33, TEXT:00B6] ・・・・・・
 
---- Group 74 [left:char_0004 next=2012] ---
+--- Group 159 [right:char_000A next=2012] ---
 [FID:33, TEXT:00B6] ・・・・・・
 
---- Group 75 [left:char_0004 next=0023] ---
+--- Group 160 [right:char_000B next=2012] ---
+[FID:33, TEXT:00B6] ・・・・・・
+
+--- Group 161 [right:char_0009 next=2012] ---
+[FID:33, TEXT:00B6] ・・・・・・
+
+--- Group 162 [left:char_0004 next=2012] ---
+[FID:33, TEXT:00B6] ・・・・・・
+
+--- Group 163 [left:char_0004 next=2012] ---
+[FID:33, TEXT:00B6] ・・・・・・
+
+--- Group 164 [left:char_0004 next=2012] ---
+[FID:33, TEXT:00B6] ・・・・・・
+
+--- Group 165 [right:char_0008 next=2012] ---
+[FID:33, TEXT:00B6] ・・・・・・
+
+--- Group 166 [right:char_0009 next=2012] ---
+[FID:33, TEXT:00B7] 待たせたね
+
+--- Group 167 [left:char_0004 next=0023] ---
+[FID:33, TEXT:00B8] どう？
+
+--- Group 168 [right:char_0009 next=2012] ---
+[FID:33, TEXT:00B9] やっぱり、僕の知識で
+[FID:33, TEXT:00BA] はどうしようもない
+[FID:33, TEXT:0064] ・・・すまないな
+
+--- Group 169 [left:char_0004 next=0023] ---
+[FID:33, TEXT:00BB] いや、いいんだよ
+
+--- Group 170 [left:char_0004 next=0023] ---
+[FID:33, TEXT:00BB] いや、いいんだよ
+
+--- Group 171 [left:char_0004 next=0023] ---
+[FID:33, TEXT:00BB] いや、いいんだよ
+
+--- Group 172 [left:char_0004 next=0023] ---
+[FID:33, TEXT:00BC] う〜っん、残念だけど
+[FID:33, TEXT:00BD] 仕方ないね
+
+--- Group 173 [left:char_0004 next=0023] ---
+[FID:33, TEXT:00BE] いえ、ありがとう
+
+--- Group 174 [left:char_0004 next=0023] ---
+[FID:33, TEXT:00BF] 少し休んでからさ
+[FID:33, TEXT:00C0] 街へ戻ろうよ、ね
+
+--- Group 175 [left:char_0004 next=0023] ---
+[FID:33, TEXT:00C1] なあ、キール
+
+--- Group 176 [left:char_0004 next=0023] ---
+[FID:33, TEXT:00C2] ねぇ、キール
+
+--- Group 177 [left:char_0004 next=0023] ---
+[FID:33, TEXT:00C3] キールさん
+
+--- Group 178 [left:char_0004 next=0023] ---
+[FID:33, TEXT:00C3] キールさん
+[FID:33, TEXT:015B] 本当のことを教えて
+[FID:33, TEXT:015C] くださいませんか？
+
+--- Group 179 [right:char_0009 next=2012] ---
+[FID:33, TEXT:00C4] なんだ？
+
+--- Group 180 [left:char_0004 next=2012] ---
+[FID:33, TEXT:00C5] 俺がこの世界に呼ばれ
+[FID:33, TEXT:0087] てきたのは事故だって
+[FID:33, TEXT:0088] 君は言うけど・・・
+
+--- Group 181 [left:char_0004 next=2012] ---
+[FID:33, TEXT:00C5] 俺がこの世界に呼ばれ
+[FID:33, TEXT:0087] てきたのは事故だって
+[FID:33, TEXT:0088] 君は言うけど・・・
+
+--- Group 182 [left:char_0004 next=0023] ---
+[FID:33, TEXT:00C5] 俺がこの世界に呼ばれ
+[FID:33, TEXT:00C6] た時・・・頭の中に
+[FID:33, TEXT:0104] 声が聞こえたんだよ
+
+--- Group 183 [left:char_0004 next=0023] ---
+[FID:33, TEXT:00C5] 俺がこの世界に呼ばれ
+[FID:33, TEXT:00C6] た時・・・頭の中に
+[FID:33, TEXT:0104] 声が聞こえたんだよ
+
+--- Group 184 [left:char_0004 next=2012] ---
+[FID:33, TEXT:00C5] 俺がこの世界に呼ばれ
+[FID:33, TEXT:0087] てきたのは事故だって
+[FID:33, TEXT:0088] 君は言うけど・・・
+
+--- Group 185 [left:char_0004 next=0023] ---
+[FID:33, TEXT:00C5] 俺がこの世界に呼ばれ
+[FID:33, TEXT:00C6] た時・・・頭の中に
+[FID:33, TEXT:00C7] 声が聞こえたんだ
+
+--- Group 186 [left:char_0004 next=2012] ---
+[FID:33, TEXT:00C8] 今までさ、すっかり
+[FID:33, TEXT:00C9] 忘れてたことが
+[FID:33, TEXT:00CA] あってね・・・
+
+--- Group 187 [left:char_0004 next=0023] ---
+[FID:33, TEXT:00CB] あたしがここに呼ばれ
+[FID:33, TEXT:0077] た時・・・頭の中に声
+[FID:33, TEXT:00CC] が聞こえたんだけど
+
+--- Group 188 [left:char_0004 next=2012] ---
+[FID:33, TEXT:00CD] 今まですっかり
+[FID:33, TEXT:00CE] 忘れていたんですけど
+
+--- Group 189 [right:char_000A next=2012] ---
+[FID:33, TEXT:00D1] 声？
+
+--- Group 190 [right:char_0009 next=2012] ---
+[FID:33, TEXT:00D1] 声？
+
+--- Group 191 [right:char_000B next=2012] ---
+[FID:33, TEXT:00D1] 声？
+
+--- Group 192 [left:char_0004 next=2012] ---
+[FID:33, TEXT:00D2] 誰かが、俺に向かって
+[FID:33, TEXT:0085] 「助けてくれ」って、
+[FID:33, TEXT:0086] 呼びかけてきたんだ
+
+--- Group 193 [left:char_0004 next=2012] ---
+[FID:33, TEXT:00D2] 誰かが、俺に向かって
+[FID:33, TEXT:0085] 「助けてくれ」って、
+[FID:33, TEXT:0086] 呼びかけてきたんだ
+
+--- Group 194 [left:char_0004 next=2012] ---
+[FID:33, TEXT:00D2] 誰かが、俺に向かって
+[FID:33, TEXT:0085] 「助けてくれ」って、
+[FID:33, TEXT:0086] 呼びかけてきたんだ
+
+--- Group 195 [left:char_0004 next=2012] ---
+[FID:33, TEXT:00D3] なんだか俺、そうじゃ
+[FID:33, TEXT:00D4] ない気がするんだよ
+
+--- Group 196 [left:char_0004 next=2012] ---
+[FID:33, TEXT:00D3] なんだか俺、そうじゃ
+[FID:33, TEXT:00D4] ない気がするんだよ
+
+--- Group 197 [left:char_0004 next=2012] ---
+[FID:33, TEXT:00D3] なんだか俺、そうじゃ
+[FID:33, TEXT:00D4] ない気がするんだよ
+
+--- Group 198 [left:char_0004 next=2012] ---
+[FID:33, TEXT:00D9] そう、「助けてくれ」
+[FID:33, TEXT:00DA] っていう声が、ね
+
+--- Group 199 [left:char_0004 next=2012] ---
+[FID:33, TEXT:00DB] キールはさ、あたしが
+[FID:33, TEXT:00DC] この世界にきたのは
+[FID:33, TEXT:00DD] 事故って言ったけど
+
+--- Group 200 [left:char_0004 next=2012] ---
+[FID:33, TEXT:00DE] あたし、違うと
+[FID:33, TEXT:00DF] 思うんだ・・・
+
+--- Group 201 [left:char_0004 next=2012] ---
+[FID:33, TEXT:00E0] その声が、あたしを
+[FID:33, TEXT:00E1] 呼んだから、あたしは
+[FID:33, TEXT:00E2] いま、ここにいるんだ
+[FID:33, TEXT:00E3] と、思うの
+
+--- Group 202 [left:char_0004 next=0023] ---
+[FID:33, TEXT:00E4] あれさ・・・
+[FID:33, TEXT:00E5] キールの声じゃない？
+[FID:33, TEXT:00E6] キールがあたしを
+[FID:33, TEXT:00E7] 呼んだんじゃない？
+
+--- Group 203 [left:char_0004 next=2012] ---
+[FID:33, TEXT:00E8] はい、わたしに向けて
+[FID:33, TEXT:0085] 「助けてくれ」って、
+[FID:33, TEXT:00E9] 呼びかけが・・・
+
+--- Group 204 [left:char_0004 next=2012] ---
+[FID:33, TEXT:00EC] でも、わたしは
+[FID:33, TEXT:00ED] 違う気がするんです
+
+--- Group 205 [left:char_0004 next=2012] ---
+[FID:33, TEXT:00EE] その声に呼ばれたから
+[FID:33, TEXT:00EF] わたしは、ここに来た
+[FID:33, TEXT:00F0] んだと思うんです
+
+--- Group 206 [right:char_000A next=2012] ---
+[FID:33, TEXT:00F3] ・・・どうして？
+
+--- Group 207 [right:char_0009 next=2012] ---
+[FID:33, TEXT:00F3] ・・・どうして？
+
+--- Group 208 [left:char_0004 next=0023] ---
+[FID:33, TEXT:00F4] なんとなく・・・
+[FID:33, TEXT:00F5] オンナのカンって
+[FID:33, TEXT:00F6] やつじゃ、ダメかな？
+
+--- Group 209 [left:char_0004 next=0023] ---
+[FID:33, TEXT:00F7] 確証はなにも・・・
+[FID:33, TEXT:00F8] だけど・・・・・
+[FID:33, TEXT:00B4] そんな気がして
+[FID:33, TEXT:00B5] 仕方がないんです
+
+--- Group 210 [right:char_000A next=2012] ---
+[FID:33, TEXT:00F9] お待たせ
+
+--- Group 211 [right:char_000A next=2012] ---
+[FID:33, TEXT:00FA] やっぱ、あたしの知識
+[FID:33, TEXT:00FB] じゃダメみたい
+[FID:33, TEXT:00FC] ・・・ゴメンね
+
+--- Group 212 [left:char_0004 next=0023] ---
+[FID:33, TEXT:00FD] いいんですよ
+[FID:33, TEXT:00FE] 気になさらなくて
+
+--- Group 213 [left:char_0004 next=0023] ---
+[FID:33, TEXT:00FF] 疲れたでしょうから
+[FID:33, TEXT:006A] 少し休んで、それから
+[FID:33, TEXT:006F] 街へ戻りましょう
+
+--- Group 214 [left:char_0004 next=0023] ---
+[FID:33, TEXT:0100] なあ、カシス
+
+--- Group 215 [left:char_0004 next=0023] ---
+[FID:33, TEXT:0101] カシス？
+
+--- Group 216 [left:char_0004 next=0023] ---
+[FID:33, TEXT:0102] カシスさん・・・
+
+--- Group 217 [left:char_0004 next=0023] ---
+[FID:33, TEXT:0102] カシスさん・・・
+
+--- Group 218 [right:char_000A next=2012] ---
+[FID:33, TEXT:0103] なぁに？
+
+--- Group 219 [left:char_0004 next=2012] ---
+[FID:33, TEXT:0105] 今まで・・・
+[FID:33, TEXT:0106] すっかり忘れていたん
+[FID:33, TEXT:0107] ですけど・・・
+
+--- Group 220 [left:char_0004 next=0023] ---
+[FID:33, TEXT:0108] わたし・・・ここに
+[FID:33, TEXT:0109] 呼ばれたとき、頭の中
+[FID:33, TEXT:0082] に声が聞こえたんです
+
+--- Group 221 [left:char_0004 next=2012] ---
+[FID:33, TEXT:010A] はい
+[FID:33, TEXT:0085] 「助けてくれ」って、
+[FID:33, TEXT:010B] いう声が・・・
+
+--- Group 222 [left:char_0004 next=2012] ---
+[FID:33, TEXT:010C] わたし、本当は事故
+[FID:33, TEXT:010D] じゃなくて・・・
+
+--- Group 223 [left:char_0004 next=2012] ---
+[FID:33, TEXT:010E] その人に呼ばれて
+[FID:33, TEXT:010F] ここに来たんじゃ
+[FID:33, TEXT:0110] ないでしょうか？
+
+--- Group 224 [left:char_0004 next=2012] ---
+[FID:33, TEXT:0111] そう・・・
+[FID:33, TEXT:0112] 思うんです・・・
+
+--- Group 225 [right:char_000B next=2012] ---
+[FID:33, TEXT:0116] お待たせしました
+
+--- Group 226 [right:char_000B next=2012] ---
+[FID:33, TEXT:0117] やっぱり、私の知識
+[FID:33, TEXT:0118] では無理のようです
+[FID:33, TEXT:0119] ・・・すみません
+
+--- Group 227 [left:char_0004 next=0023] ---
+[FID:33, TEXT:011A] む〜・・・
+[FID:33, TEXT:011B] まぁ、しょうがないか
+[FID:33, TEXT:011C] 今日はこれで
+[FID:33, TEXT:011D] 終わりにしよ！
+
+--- Group 228 [right:char_000B next=2012] ---
+[FID:33, TEXT:011E] これからどうします？
+
+--- Group 229 [left:char_0004 next=0023] ---
+[FID:33, TEXT:0120] なあ、クラレット
+
+--- Group 230 [left:char_0004 next=0023] ---
+[FID:33, TEXT:0121] クラレット？
+
+--- Group 231 [left:char_0004 next=0023] ---
+[FID:33, TEXT:0122] ねね、クラレット
+
+--- Group 232 [right:char_000B next=2012] ---
+[FID:33, TEXT:0123] はい？
+
+--- Group 233 [left:char_0004 next=2012] ---
+[FID:33, TEXT:0124] あのさ、すっかり
+[FID:33, TEXT:0125] 忘れてたんだけどね
+
+--- Group 234 [left:char_0004 next=0023] ---
+[FID:33, TEXT:0126] あたし、この世界に
+[FID:33, TEXT:0127] 呼ばれたとき、声が
+[FID:33, TEXT:0128] 聞こえたの
+
+--- Group 235 [left:char_0004 next=2012] ---
+[FID:33, TEXT:0129] そう、声
+[FID:33, TEXT:012A] 「助けてくれ」って声
+[FID:33, TEXT:012B] がさ、頭に直接ね
+
+--- Group 236 [left:char_0004 next=2012] ---
+[FID:33, TEXT:012C] 誰かな？
+[FID:33, TEXT:012D] あたしに向けてなの
+[FID:33, TEXT:012E] すっごく切実な
+[FID:33, TEXT:012F] 声だったんだ・・・
+
+--- Group 237 [left:char_0004 next=2012] ---
+[FID:33, TEXT:0130] クラレットはさ
+[FID:33, TEXT:0131] あたしがここに来たの
+[FID:33, TEXT:0132] は、事故だって
+[FID:33, TEXT:0133] 言ったよね・・・
+
+--- Group 238 [left:char_0004 next=2012] ---
+[FID:33, TEXT:0134] でもさ、それって
+[FID:33, TEXT:0135] 違う気がする
+
+--- Group 239 [left:char_0004 next=2012] ---
+[FID:33, TEXT:0136] その声があたしを
+[FID:33, TEXT:0137] この世界に呼んだ
+[FID:33, TEXT:0138] んだって思うの・・・
+
+--- Group 240 [left:char_0004 next=0023] ---
+[FID:33, TEXT:0139] ねぇ、あの声さ
+[FID:33, TEXT:013A] クラレットの声だった
+[FID:33, TEXT:013B] んじゃないか？
+
+--- Group 241 [right:char_000B next=2012] ---
+[FID:33, TEXT:013C] ・・・どうしてです？
+
+--- Group 242 [left:char_0004 next=0023] ---
+[FID:33, TEXT:013D] う〜んなんとなく
+[FID:33, TEXT:013E] なんだけど・・・
+[FID:33, TEXT:00AF] でも、そんな気がして
+[FID:33, TEXT:013F] 仕方がないの
+
+--- Group 243 [left:char_0004 next=0023] ---
 [FID:33, TEXT:0140] あれっきり、
 
---- Group 76 [left:char_0004 next=2012] ---
+--- Group 244 [left:char_0004 next=0023] ---
+[FID:33, TEXT:0140] あれっきり、
+
+--- Group 245 [left:char_0004 next=0023] ---
+[FID:33, TEXT:0140] あれっきり、
+
+--- Group 246 [left:char_0004 next=0023] ---
+[FID:33, TEXT:0140] あれっきり、
+
+--- Group 247 [left:char_0004 next=2012] ---
 [FID:33, TEXT:0141] 黙ったままだ
 
---- Group 77 [left:char_0004 next=2012] ---
+--- Group 248 [left:char_0004 next=2012] ---
+[FID:33, TEXT:0141] 黙ったままだ
+
+--- Group 249 [left:char_0004 next=2012] ---
+[FID:33, TEXT:0141] 黙ったままだ
+
+--- Group 250 [left:char_0004 next=2012] ---
+[FID:33, TEXT:0141] 黙ったままだ
+
+--- Group 251 [left:char_0004 next=2012] ---
 [FID:33, TEXT:0142] やっぱり、このまま
 [FID:33, TEXT:0143] じゃよくないよ
 
---- Group 78 [left:char_0004 next=2012] ---
+--- Group 252 [left:char_0004 next=2012] ---
+[FID:33, TEXT:0142] やっぱり、このまま
+[FID:33, TEXT:0143] じゃよくないよ
+
+--- Group 253 [left:char_0004 next=2012] ---
+[FID:33, TEXT:0142] やっぱり、このまま
+[FID:33, TEXT:0143] じゃよくないよ
+
+--- Group 254 [left:char_0004 next=2012] ---
+[FID:33, TEXT:0142] やっぱり、このまま
+[FID:33, TEXT:0143] じゃよくないよ
+
+--- Group 255 [left:char_0004 next=2012] ---
 [FID:33, TEXT:0144] ちょっと不安だけど、
 [FID:33, TEXT:0145] はっきりさせよう！
 
---- Group 79 [left:char_0004 next=0023] ---
+--- Group 256 [left:char_0004 next=0023] ---
 [FID:33, TEXT:0144] ちょっと不安だけど、
 [FID:33, TEXT:0145] はっきりさせよう！
 
---- Group 80 [left:char_0004 next=2012] ---
+--- Group 257 [left:char_0004 next=0023] ---
+[FID:33, TEXT:0144] ちょっと不安だけど、
+[FID:33, TEXT:0145] はっきりさせよう！
+
+--- Group 258 [left:char_0004 next=0023] ---
+[FID:33, TEXT:0144] ちょっと不安だけど、
+[FID:33, TEXT:0145] はっきりさせよう！
+
+--- Group 259 [left:char_0004 next=0023] ---
+[FID:33, TEXT:0144] ちょっと不安だけど、
+[FID:33, TEXT:0145] はっきりさせよう！
+
+--- Group 260 [left:char_0004 next=2012] ---
 [FID:33, TEXT:0146] このままじゃいけない
 [FID:33, TEXT:0147] 気がする
 
---- Group 81 [left:char_0004 next=0023] ---
+--- Group 261 [left:char_0004 next=0023] ---
 [FID:33, TEXT:0148] はっきりさせなくちゃ
 
---- Group 82 [left:char_0004 next=2012] ---
+--- Group 262 [left:char_0004 next=2012] ---
 [FID:33, TEXT:0149] なんにも話して
 [FID:33, TEXT:014A] くれない・・・
 
---- Group 83 [left:char_0004 next=2012] ---
+--- Group 263 [left:char_0004 next=2012] ---
 [FID:33, TEXT:014B] やっぱり、このままじ
 [FID:33, TEXT:014C] ゃよくないよね
 
---- Group 84 [left:char_0004 next=0023] ---
+--- Group 264 [left:char_0004 next=0023] ---
 [FID:33, TEXT:014D] うん、決めた！
 
---- Group 85 [left:char_0004 next=2012] ---
+--- Group 265 [left:char_0004 next=2012] ---
 [FID:33, TEXT:014E] 黙ったまま・・・
 
---- Group 86 [left:char_0004 next=2012] ---
+--- Group 266 [left:char_0004 next=2012] ---
 [FID:33, TEXT:014F] やっぱり、こんなこと
 [FID:33, TEXT:0150] 繰り返していては
 [FID:33, TEXT:0151] だめです
 
---- Group 87 [left:char_0004 next=0023] ---
+--- Group 267 [left:char_0004 next=0023] ---
 [FID:33, TEXT:0152] ちょっと不安ですが、
 [FID:33, TEXT:0153] はっきりさせる
 [FID:33, TEXT:0154] べきですよね・・・
 
---- Group 88 [left:char_0004 next=0023] ---
+--- Group 268 [left:char_0004 next=0023] ---
 [FID:33, TEXT:0155] ソル
 [FID:33, TEXT:0158] ねえ、ホントのこと
 [FID:33, TEXT:0159] 教えてほしい・・・
 
---- Group 89 [left:char_0004 next=0023] ---
+--- Group 269 [left:char_0004 next=0023] ---
 [FID:33, TEXT:0155] ソル
 [FID:33, TEXT:0156] 本当のことを
 [FID:33, TEXT:0157] 教えてくれないか？
 
---- Group 90 [left:char_0004 next=0023] ---
+--- Group 270 [left:char_0004 next=0023] ---
 [FID:33, TEXT:015A] ソルさん
 [FID:33, TEXT:015B] 本当のことを教えて
 [FID:33, TEXT:015C] くださいませんか？
 
---- Group 91 [right:char_0008 next=2012] ---
+--- Group 271 [right:char_000B next=2012] ---
 [FID:33, TEXT:015D] ・・・・・
 
---- Group 92 [left:char_0004 next=2012] ---
+--- Group 272 [right:char_0009 next=2012] ---
+[FID:33, TEXT:015D] ・・・・・
+
+--- Group 273 [right:char_000A next=2012] ---
+[FID:33, TEXT:015D] ・・・・・
+
+--- Group 274 [right:char_0008 next=2012] ---
+[FID:33, TEXT:015D] ・・・・・
+
+--- Group 275 [left:char_0004 next=2012] ---
+[FID:33, TEXT:015E] あの時、あの場所に
+[FID:33, TEXT:01BB] あなたがいたこと
+
+--- Group 276 [left:char_0004 next=2012] ---
 [FID:33, TEXT:015E] あの時、あの場所に
 [FID:33, TEXT:0167] あなたがいたことも
 
---- Group 93 [left:char_0004 next=2012] ---
+--- Group 277 [left:char_0004 next=2012] ---
 [FID:33, TEXT:015E] あの時、あの場所に
 [FID:33, TEXT:015F] 君がいたことが
 
---- Group 94 [left:char_0004 next=0023] ---
+--- Group 278 [left:char_0004 next=0023] ---
 [FID:33, TEXT:0160] 僕にはどうしても偶然
 [FID:33, TEXT:0161] だとは思えないんだ
 
---- Group 95 [left:char_0004 next=2012] ---
+--- Group 279 [left:char_0004 next=2012] ---
 [FID:33, TEXT:0162] あの時さ・・・あなた
 [FID:33, TEXT:0163] があそこにいたこと
 [FID:33, TEXT:0164] がね・・・
 
---- Group 96 [left:char_0004 next=0023] ---
+--- Group 280 [left:char_0004 next=0023] ---
 [FID:33, TEXT:0165] あたしには偶然だ
 [FID:33, TEXT:0166] なんて思えないの
 
---- Group 97 [left:char_0004 next=0023] ---
+--- Group 281 [left:char_0004 next=0023] ---
 [FID:33, TEXT:0168] わたしには偶然だと
 [FID:33, TEXT:0169] 思えないんです
 
---- Group 98 [right:char_0008 next=2012] ---
+--- Group 282 [right:char_000B next=2012] ---
 [FID:33, TEXT:016A] まだ疑ってるのか？
 [FID:33, TEXT:016B] 俺のこと・・・！
 
---- Group 99 [right:char_0008 next=2012] ---
+--- Group 283 [right:char_0008 next=2012] ---
+[FID:33, TEXT:016A] まだ疑ってるのか？
+[FID:33, TEXT:016B] 俺のこと・・・！
+
+--- Group 284 [right:char_0009 next=2012] ---
+[FID:33, TEXT:016A] まだ疑ってるのか？
+[FID:33, TEXT:016B] 俺のこと・・・！
+
+--- Group 285 [right:char_000A next=2012] ---
+[FID:33, TEXT:016A] まだ疑ってるのか？
+[FID:33, TEXT:016B] 俺のこと・・・！
+
+--- Group 286 [right:char_0008 next=2012] ---
 [FID:33, TEXT:016C] 証拠は！？
 [FID:33, TEXT:016D] 証拠はあるのかよ！？
 
---- Group 100 [left:char_0004 next=2012] ---
+--- Group 287 [right:char_000B next=2012] ---
+[FID:33, TEXT:016C] 証拠は！？
+[FID:33, TEXT:016D] 証拠はあるのかよ！？
+
+--- Group 288 [right:char_0009 next=2012] ---
+[FID:33, TEXT:016C] 証拠は！？
+[FID:33, TEXT:016D] 証拠はあるのかよ！？
+
+--- Group 289 [right:char_000A next=2012] ---
+[FID:33, TEXT:016C] 証拠は！？
+[FID:33, TEXT:016D] 証拠はあるのかよ！？
+
+--- Group 290 [left:char_0004 next=2012] ---
 [FID:33, TEXT:016E] ・・・ある
 
---- Group 101 [left:char_0004 next=0023] ---
+--- Group 291 [left:char_0004 next=0023] ---
 [FID:33, TEXT:016F] 証拠は・・・君が最初
 [FID:33, TEXT:0170] から僕の名前を知って
 [FID:33, TEXT:0171] いたってことだ
 
---- Group 102 [left:char_0004 next=2012] ---
+--- Group 292 [left:char_0004 next=0023] ---
+[FID:33, TEXT:016F] 証拠は・・・君が最初
+[FID:33, TEXT:01A3] から俺の名前を知って
+[FID:33, TEXT:01A4] いたってことだよ
+
+--- Group 293 [left:char_0004 next=0023] ---
+[FID:33, TEXT:016F] 証拠は・・・君が最初
+[FID:33, TEXT:0170] から僕の名前を知って
+[FID:33, TEXT:01A4] いたってことだよ
+
+--- Group 294 [left:char_0004 next=2012] ---
 [FID:33, TEXT:0172] ・・・あるよ
 
---- Group 103 [left:char_0004 next=0023] ---
+--- Group 295 [left:char_0004 next=0023] ---
 [FID:33, TEXT:0173] だって、はじめっから
 [FID:33, TEXT:0174] あたしの名前を知って
 [FID:33, TEXT:0175] たじゃない・・・
 
---- Group 104 [left:char_0004 next=2012] ---
+--- Group 296 [left:char_0004 next=2012] ---
 [FID:33, TEXT:0176] ・・・はい
 
---- Group 105 [left:char_0004 next=0023] ---
+--- Group 297 [left:char_0004 next=0023] ---
 [FID:33, TEXT:0177] 証拠は・・・
 [FID:33, TEXT:0178] あなたが、はじめから
 [FID:33, TEXT:0179] わたしの名前を
 [FID:33, TEXT:017A] 知っていたこと・・
 
---- Group 106 [left:char_0004 next=2012] ---
+--- Group 298 [right:char_000A next=2012] ---
 [FID:33, TEXT:017B] ！！
 
---- Group 107 [right:char_0008 next=2012] ---
+--- Group 299 [left:char_0004 next=2012] ---
 [FID:33, TEXT:017B] ！！
 
---- Group 108 [left:char_0004 next=2012] ---
+--- Group 300 [left:char_0004 next=2012] ---
+[FID:33, TEXT:017B] ！！
+
+--- Group 301 [left:char_0004 next=2012] ---
+[FID:33, TEXT:017B] ！！
+
+--- Group 302 [right:char_0009 next=2012] ---
+[FID:33, TEXT:017B] ！！
+
+--- Group 303 [right:char_0008 next=2012] ---
+[FID:33, TEXT:017B] ！！
+
+--- Group 304 [left:char_0004 next=2012] ---
+[FID:33, TEXT:017B] ！！
+
+--- Group 305 [right:char_000B next=2012] ---
+[FID:33, TEXT:017B] ！！
+
+--- Group 306 [left:char_0004 next=2012] ---
 [FID:33, TEXT:017C] それだけじゃない
 [FID:33, TEXT:017D] 君は他にも、知らない
 [FID:33, TEXT:017E] はずのことをいくつも
 [FID:33, TEXT:017F] 知っていた
 
---- Group 109 [left:char_0004 next=2012] ---
+--- Group 307 [left:char_0004 next=2012] ---
 [FID:33, TEXT:0180] まるで、ずっと見張っ
 [FID:33, TEXT:0181] ていたみたいに・・・
 
---- Group 110 [left:char_0004 next=0023] ---
+--- Group 308 [left:char_0004 next=0023] ---
 [FID:33, TEXT:0182] 違うかい？
 
---- Group 111 [left:char_0004 next=2012] ---
+--- Group 309 [left:char_0004 next=2012] ---
 [FID:33, TEXT:0183] あなたが知ってたのは
 [FID:33, TEXT:0184] あたしの名前だけじゃ
 [FID:33, TEXT:0185] ない。知らないはずの
 [FID:33, TEXT:0186] ことをいっぱい・・
 
---- Group 112 [left:char_0004 next=0023] ---
+--- Group 310 [left:char_0004 next=0023] ---
 [FID:33, TEXT:0187] 違う？
 
---- Group 113 [left:char_0004 next=2012] ---
+--- Group 311 [left:char_0004 next=2012] ---
 [FID:33, TEXT:0188] しらないはずの
 [FID:33, TEXT:0189] ことを・・・あなたは
 [FID:33, TEXT:018A] いくつも知って
 [FID:33, TEXT:018B] いました・・・
 
---- Group 114 [left:char_0004 next=2012] ---
+--- Group 312 [left:char_0004 next=2012] ---
 [FID:33, TEXT:018C] まるで、ずっと見て
 [FID:33, TEXT:018D] いたみたいに・・・
 
---- Group 115 [left:char_0004 next=0023] ---
+--- Group 313 [left:char_0004 next=0023] ---
 [FID:33, TEXT:018E] 違いますか？
 
---- Group 116 [right:char_0008 next=2012] ---
+--- Group 314 [right:char_000B next=2012] ---
 [FID:33, TEXT:018F] ・・・ばれたか
 
---- Group 117 [right:char_0008 next=2012] ---
+--- Group 315 [right:char_0008 next=2012] ---
+[FID:33, TEXT:018F] ・・・ばれたか
+
+--- Group 316 [right:char_0009 next=2012] ---
+[FID:33, TEXT:018F] ・・・ばれたか
+
+--- Group 317 [right:char_000A next=2012] ---
+[FID:33, TEXT:018F] ・・・ばれたか
+
+--- Group 318 [right:char_000B next=2012] ---
 [FID:33, TEXT:0190] あの時、あの場所に俺
 [FID:33, TEXT:0191] がいたのは偶然なんか
 [FID:33, TEXT:0192] じゃないんだよ
 
---- Group 118 [right:char_0008 next=2012] ---
+--- Group 319 [right:char_000A next=2012] ---
+[FID:33, TEXT:0190] あの時、あの場所に俺
+[FID:33, TEXT:0191] がいたのは偶然なんか
+[FID:33, TEXT:0192] じゃないんだよ
+
+--- Group 320 [right:char_0009 next=2012] ---
+[FID:33, TEXT:0190] あの時、あの場所に俺
+[FID:33, TEXT:0191] がいたのは偶然なんか
+[FID:33, TEXT:0192] じゃないんだよ
+
+--- Group 321 [right:char_0008 next=2012] ---
+[FID:33, TEXT:0190] あの時、あの場所に俺
+[FID:33, TEXT:0191] がいたのは偶然なんか
+[FID:33, TEXT:0192] じゃないんだよ
+
+--- Group 322 [right:char_0008 next=2012] ---
 [FID:33, TEXT:0193] お前たちの後をつけて
 [FID:33, TEXT:0194] いたのさ・・・
 
---- Group 119 [left:char_0004 next=0023] ---
-[FID:33, TEXT:01E0] どうして
-[FID:33, TEXT:01E2] そんなこと？
+--- Group 323 [right:char_000A next=2012] ---
+[FID:33, TEXT:0193] お前たちの後をつけて
+[FID:33, TEXT:0194] いたのさ・・・
 
---- Group 120 [left:char_0004 next=0023] ---
-[FID:33, TEXT:01E0] どうして
-[FID:33, TEXT:01E1] そんなことを！？
+--- Group 324 [right:char_0009 next=2012] ---
+[FID:33, TEXT:0193] お前たちの後をつけて
+[FID:33, TEXT:0194] いたのさ・・・
 
---- Group 121 [left:char_0004 next=0023] ---
+--- Group 325 [right:char_000B next=2012] ---
+[FID:33, TEXT:0193] お前たちの後をつけて
+[FID:33, TEXT:0194] いたのさ・・・
+
+--- Group 326 [left:char_0004 next=0023] ---
+[FID:33, TEXT:0195] キール
+[FID:33, TEXT:0156] 本当のことを
+[FID:33, TEXT:0196] 教えてくれないかな？
+
+--- Group 327 [left:char_0004 next=0023] ---
+[FID:33, TEXT:0195] キール
+[FID:33, TEXT:0156] 本当のことを
+[FID:33, TEXT:0157] 教えてくれないか？
+
+--- Group 328 [left:char_0004 next=0023] ---
+[FID:33, TEXT:0197] 俺にはどうしても偶然
+[FID:33, TEXT:0161] だとは思えないんだ
+
+--- Group 329 [left:char_0004 next=2012] ---
+[FID:33, TEXT:0198] あの時、あなたが
+[FID:33, TEXT:0199] あの場所にいたのって
+
+--- Group 330 [left:char_0004 next=0023] ---
+[FID:33, TEXT:019A] あたしには偶然じゃ
+[FID:33, TEXT:019B] ないように思えるの
+
+--- Group 331 [left:char_0004 next=2012] ---
+[FID:33, TEXT:019C] あなたが、あの時
+[FID:33, TEXT:019D] あの場所にいたこと
+
+--- Group 332 [left:char_0004 next=0023] ---
+[FID:33, TEXT:019E] わたしには、とても
+[FID:33, TEXT:019F] 偶然なんて思えません
+
+--- Group 333 [right:char_0008 next=2012] ---
+[FID:33, TEXT:01A0] 僕が・・・嘘をついて
+[FID:33, TEXT:01A1] いるというのか！
+
+--- Group 334 [right:char_0008 next=2012] ---
+[FID:33, TEXT:01A2] 証拠はあるのか！？
+
+--- Group 335 [left:char_0004 next=2012] ---
+[FID:33, TEXT:01A5] ・・・うん、あるよ
+
+--- Group 336 [left:char_0004 next=0023] ---
+[FID:33, TEXT:01A6] だって、あなた最初
+[FID:33, TEXT:01A7] から、あたしの名前を
+[FID:33, TEXT:01A8] 知ってたでしょ？
+
+--- Group 337 [left:char_0004 next=0023] ---
+[FID:33, TEXT:01A9] あなたは・・・
+[FID:33, TEXT:01AA] はじめから、わたしの
+[FID:33, TEXT:01AB] 名前を知っていました
+
+--- Group 338 [left:char_0004 next=2012] ---
+[FID:33, TEXT:01AC] 他にもさ・・・
+[FID:33, TEXT:01AD] 知らないはずのこと、
+[FID:33, TEXT:01AE] いくつも知ってたよね
+
+--- Group 339 [left:char_0004 next=0023] ---
+[FID:33, TEXT:01AF] 違うかな？
+
+--- Group 340 [left:char_0004 next=2012] ---
+[FID:33, TEXT:01B0] ほかにも・・・
+[FID:33, TEXT:01B1] 知らないはずのことを
+[FID:33, TEXT:01B2] いくつも・・・
+
+--- Group 341 [right:char_0008 next=2012] ---
+[FID:33, TEXT:01B3] ・・・そうさ
+
+--- Group 342 [right:char_0008 next=2012] ---
+[FID:33, TEXT:01B4] あの時、あの場所に僕
+[FID:33, TEXT:0191] がいたのは偶然なんか
+[FID:33, TEXT:01B5] じゃない
+
+--- Group 343 [right:char_0008 next=2012] ---
+[FID:33, TEXT:01B6] 君たちの後を、
+[FID:33, TEXT:01B7] つけていたんだよ
+
+--- Group 344 [left:char_0004 next=0023] ---
+[FID:33, TEXT:01B8] カシス
+[FID:33, TEXT:0156] 本当のことを
+[FID:33, TEXT:0157] 教えてくれないか？
+
+--- Group 345 [left:char_0004 next=0023] ---
+[FID:33, TEXT:01B9] カシスさん
+[FID:33, TEXT:015B] 本当のことを教えて
+[FID:33, TEXT:01BA] くれませんか？
+
+--- Group 346 [left:char_0004 next=0023] ---
+[FID:33, TEXT:01BC] わたしには、偶然とは
+[FID:33, TEXT:0169] 思えないんです
+
+--- Group 347 [right:char_0008 next=2012] ---
+[FID:33, TEXT:01BD] あたしが、嘘をついて
+[FID:33, TEXT:01BE] いるっていうのッ？
+
+--- Group 348 [right:char_0008 next=2012] ---
+[FID:33, TEXT:01BF] 証拠はあるワケ！？
+
+--- Group 349 [left:char_0004 next=0023] ---
+[FID:33, TEXT:01C0] あなたが、最初から
+[FID:33, TEXT:01C1] わたしの名前を知って
+[FID:33, TEXT:01C2] いたこと・・・
+[FID:33, TEXT:01C3] それが証拠です
+
+--- Group 350 [left:char_0004 next=2012] ---
+[FID:33, TEXT:01C4] ほかにも
+[FID:33, TEXT:01C5] あなたは、本来なら
+[FID:33, TEXT:01B1] 知らないはずのことを
+[FID:33, TEXT:01C6] 知っていました
+
+--- Group 351 [right:char_0008 next=2012] ---
+[FID:33, TEXT:01C7] ・・・そうよ
+
+--- Group 352 [right:char_0008 next=2012] ---
+[FID:33, TEXT:01C8] あたしがあの時、あの
+[FID:33, TEXT:01C9] 場所にいたのは偶然
+[FID:33, TEXT:01CA] なんかじゃないわ
+
+--- Group 353 [right:char_0008 next=2012] ---
+[FID:33, TEXT:01CB] キミたちの後をね
+[FID:33, TEXT:01CC] つけてたんだ・・・
+
+--- Group 354 [left:char_0004 next=0023] ---
+[FID:33, TEXT:01CD] クラレット
+[FID:33, TEXT:0156] 本当のことを
+[FID:33, TEXT:0157] 教えてくれないか？
+
+--- Group 355 [left:char_0004 next=0023] ---
+[FID:33, TEXT:01CD] クラレット
+[FID:33, TEXT:015B] 本当のことを教えて
+
+--- Group 356 [left:char_0004 next=0023] ---
+[FID:33, TEXT:01CE] あたしには、とても
+[FID:33, TEXT:01CF] 偶然には思えないの
+
+--- Group 357 [right:char_0008 next=2012] ---
+[FID:33, TEXT:01D0] 私が・・・嘘をついて
+[FID:33, TEXT:01D1] いるというんですか？
+
+--- Group 358 [right:char_0008 next=2012] ---
+[FID:33, TEXT:01D2] 証拠は、証拠は
+[FID:33, TEXT:01D3] あるんですかっ！？
+
+--- Group 359 [left:char_0004 next=0023] ---
+[FID:33, TEXT:01D4] だって・・・
+[FID:33, TEXT:01D5] クラレット、はじめ
+[FID:33, TEXT:01D6] から、あたしのこと
+[FID:33, TEXT:01D7] 知ってた・・・
+
+--- Group 360 [left:char_0004 next=2012] ---
+[FID:33, TEXT:01D8] それだけじゃないよ
+[FID:33, TEXT:01D9] ほかにもね、知らない
+[FID:33, TEXT:017E] はずのことをいくつも
+[FID:33, TEXT:01DA] 知っていたの
+
+--- Group 361 [right:char_0008 next=2012] ---
+[FID:33, TEXT:01DB] ・・・そのとおりです
+
+--- Group 362 [right:char_0008 next=2012] ---
+[FID:33, TEXT:01DC] あの時、あの場所に私
+[FID:33, TEXT:0191] がいたのは偶然なんか
+[FID:33, TEXT:01DD] じゃないんです
+
+--- Group 363 [right:char_0008 next=2012] ---
+[FID:33, TEXT:01DE] 貴方たちの後をつけて
+[FID:33, TEXT:01DF] いたんですから
+
+--- Group 364 [left:char_0004 next=0023] ---
 [FID:33, TEXT:01E0] どうして
 [FID:33, TEXT:01E3] そんなことを・・・
 
---- Group 122 [right:char_0008 next=2012] ---
+--- Group 365 [left:char_0004 next=0023] ---
+[FID:33, TEXT:01E0] どうして
+[FID:33, TEXT:01E2] そんなこと？
+
+--- Group 366 [left:char_0004 next=0023] ---
+[FID:33, TEXT:01E0] どうして
+[FID:33, TEXT:01E1] そんなことを！？
+
+--- Group 367 [right:char_0008 next=2012] ---
 [FID:33, TEXT:01E4] 確かめる必要があった
 [FID:33, TEXT:01E5] からさ
 
---- Group 123 [right:char_0008 next=2012] ---
+--- Group 368 [right:char_000A next=2012] ---
+[FID:33, TEXT:01E4] 確かめる必要があった
+[FID:33, TEXT:01E5] からさ
+
+--- Group 369 [right:char_0008 next=2012] ---
+[FID:33, TEXT:01E4] 確かめる必要があった
+[FID:33, TEXT:0247] からです
+
+--- Group 370 [right:char_000B next=2012] ---
+[FID:33, TEXT:01E4] 確かめる必要があった
+[FID:33, TEXT:01E5] からさ
+
+--- Group 371 [right:char_0008 next=2012] ---
+[FID:33, TEXT:01E4] 確かめる必要があった
+[FID:33, TEXT:022A] からよ
+
+--- Group 372 [right:char_0008 next=2012] ---
+[FID:33, TEXT:01E4] 確かめる必要があった
+[FID:33, TEXT:020E] からだよ
+
+--- Group 373 [right:char_0009 next=2012] ---
+[FID:33, TEXT:01E4] 確かめる必要があった
+[FID:33, TEXT:01E5] からさ
+
+--- Group 374 [right:char_0009 next=2012] ---
 [FID:33, TEXT:01E6] 予期せぬ事故で呼ばれ
 [FID:33, TEXT:01E7] たお前が危険な存在で
 [FID:33, TEXT:01E8] ないかどうかをね
 
---- Group 124 [right:char_0008 next=2012] ---
+--- Group 375 [right:char_0008 next=2012] ---
+[FID:33, TEXT:01E6] 予期せぬ事故で呼ばれ
+[FID:33, TEXT:022B] たキミが、危険な存在
+[FID:33, TEXT:022C] じゃないかをね
+
+--- Group 376 [right:char_000B next=2012] ---
+[FID:33, TEXT:01E6] 予期せぬ事故で呼ばれ
+[FID:33, TEXT:01E7] たお前が危険な存在で
+[FID:33, TEXT:01E8] ないかどうかをね
+
+--- Group 377 [right:char_0008 next=2012] ---
+[FID:33, TEXT:01E6] 予期せぬ事故で呼ばれ
+[FID:33, TEXT:020F] た君が、危険な存在で
+[FID:33, TEXT:0210] ないかどうかを
+
+--- Group 378 [right:char_0008 next=2012] ---
+[FID:33, TEXT:01E6] 予期せぬ事故で呼ばれ
+[FID:33, TEXT:0248] た貴方が、危険な存在
+[FID:33, TEXT:0249] なのかどうかを
+
+--- Group 379 [right:char_0008 next=2012] ---
+[FID:33, TEXT:01E6] 予期せぬ事故で呼ばれ
+[FID:33, TEXT:01E7] たお前が危険な存在で
+[FID:33, TEXT:01E8] ないかどうかをね
+
+--- Group 380 [right:char_000A next=2012] ---
+[FID:33, TEXT:01E6] 予期せぬ事故で呼ばれ
+[FID:33, TEXT:01E7] たお前が危険な存在で
+[FID:33, TEXT:01E8] ないかどうかをね
+
+--- Group 381 [right:char_000B next=2012] ---
 [FID:33, TEXT:01E9] あの儀式の生き残りと
 [FID:33, TEXT:01EA] して、俺にはそうする
 [FID:33, TEXT:01EB] 義務があった
 
---- Group 125 [right:char_0008 next=2012] ---
+--- Group 382 [right:char_0008 next=2012] ---
+[FID:33, TEXT:01E9] あの儀式の生き残りと
+[FID:33, TEXT:0211] して、僕にはそうする
+[FID:33, TEXT:01EB] 義務があった
+
+--- Group 383 [right:char_0008 next=2012] ---
+[FID:33, TEXT:01E9] あの儀式の生き残りと
+[FID:33, TEXT:024A] して、私にはそうする
+[FID:33, TEXT:024B] 義務がありました
+
+--- Group 384 [right:char_000A next=2012] ---
+[FID:33, TEXT:01E9] あの儀式の生き残りと
+[FID:33, TEXT:01EA] して、俺にはそうする
+[FID:33, TEXT:01EB] 義務があった
+
+--- Group 385 [right:char_0009 next=2012] ---
+[FID:33, TEXT:01E9] あの儀式の生き残りと
+[FID:33, TEXT:01EA] して、俺にはそうする
+[FID:33, TEXT:01EB] 義務があった
+
+--- Group 386 [right:char_0008 next=2012] ---
+[FID:33, TEXT:01E9] あの儀式の生き残りと
+[FID:33, TEXT:01EA] して、俺にはそうする
+[FID:33, TEXT:01EB] 義務があった
+
+--- Group 387 [right:char_000B next=2012] ---
 [FID:33, TEXT:01EC] 必要なら、お前を
 [FID:33, TEXT:01ED] 処分するつもりだった
 
---- Group 126 [right:char_0008 next=2012] ---
+--- Group 388 [right:char_000A next=2012] ---
+[FID:33, TEXT:01EC] 必要なら、お前を
+[FID:33, TEXT:01ED] 処分するつもりだった
+
+--- Group 389 [right:char_0009 next=2012] ---
+[FID:33, TEXT:01EC] 必要なら、お前を
+[FID:33, TEXT:01ED] 処分するつもりだった
+
+--- Group 390 [right:char_0008 next=2012] ---
+[FID:33, TEXT:01EC] 必要なら、お前を
+[FID:33, TEXT:01ED] 処分するつもりだった
+
+--- Group 391 [right:char_0008 next=2012] ---
 [FID:33, TEXT:01EE] 誰に教わることも
 [FID:33, TEXT:01EF] なく【召喚術】を
 [FID:33, TEXT:01F0] 使ってみせた
 
---- Group 127 [right:char_0008 next=2012] ---
+--- Group 392 [right:char_000B next=2012] ---
+[FID:33, TEXT:01EE] 誰に教わることも
+[FID:33, TEXT:01EF] なく【召喚術】を
+[FID:33, TEXT:01F0] 使ってみせた
+
+--- Group 393 [right:char_0009 next=2012] ---
+[FID:33, TEXT:01EE] 誰に教わることも
+[FID:33, TEXT:01EF] なく【召喚術】を
+[FID:33, TEXT:01F0] 使ってみせた
+
+--- Group 394 [right:char_000A next=2012] ---
+[FID:33, TEXT:01EE] 誰に教わることも
+[FID:33, TEXT:01EF] なく【召喚術】を
+[FID:33, TEXT:01F0] 使ってみせた
+
+--- Group 395 [right:char_0008 next=2012] ---
 [FID:33, TEXT:01F1] お前を・・・
 [FID:33, TEXT:01F2] 危険だと判断して
 [FID:33, TEXT:01F3] 消すには充分な
 [FID:33, TEXT:01F4] 理由だろ？
 
---- Group 128 [right:char_0008 next=2012] ---
+--- Group 396 [right:char_000A next=2012] ---
+[FID:33, TEXT:01F1] お前を・・・
+[FID:33, TEXT:01F2] 危険だと判断して
+[FID:33, TEXT:01F3] 消すには充分な
+[FID:33, TEXT:01F4] 理由だろ？
+
+--- Group 397 [right:char_0009 next=2012] ---
+[FID:33, TEXT:01F1] お前を・・・
+[FID:33, TEXT:01F2] 危険だと判断して
+[FID:33, TEXT:01F3] 消すには充分な
+[FID:33, TEXT:01F4] 理由だろ？
+
+--- Group 398 [right:char_000B next=2012] ---
+[FID:33, TEXT:01F1] お前を・・・
+[FID:33, TEXT:01F2] 危険だと判断して
+[FID:33, TEXT:01F3] 消すには充分な
+[FID:33, TEXT:01F4] 理由だろ？
+
+--- Group 399 [right:char_000B next=2012] ---
 [FID:33, TEXT:01F5] でもさ・・・
 
---- Group 129 [left:char_0004 next=2012] ---
+--- Group 400 [right:char_000A next=2012] ---
+[FID:33, TEXT:01F5] でもさ・・・
+
+--- Group 401 [right:char_0009 next=2012] ---
+[FID:33, TEXT:01F5] でもさ・・・
+
+--- Group 402 [right:char_0008 next=2012] ---
+[FID:33, TEXT:01F5] でもさ・・・
+
+--- Group 403 [left:char_0004 next=2012] ---
 [FID:33, TEXT:01F6] でも？
 
---- Group 130 [right:char_0008 next=2012] ---
+--- Group 404 [left:char_0004 next=2012] ---
+[FID:33, TEXT:01F6] でも？
+
+--- Group 405 [left:char_0004 next=0023] ---
+[FID:33, TEXT:01F6] でも？
+
+--- Group 406 [left:char_0004 next=2012] ---
+[FID:33, TEXT:01F6] でも？
+
+--- Group 407 [left:char_0004 next=2012] ---
+[FID:33, TEXT:01F6] でも？
+
+--- Group 408 [right:char_000A next=2012] ---
 [FID:33, TEXT:01F7] だめだな、
 [FID:33, TEXT:01F8] 俺にはどうしても
 [FID:33, TEXT:01F9] お前が危険な存在
 [FID:33, TEXT:01FA] だと思えなかった
 
---- Group 131 [right:char_0008 next=2012] ---
+--- Group 409 [right:char_000B next=2012] ---
+[FID:33, TEXT:01F7] だめだな、
+[FID:33, TEXT:01F8] 俺にはどうしても
+[FID:33, TEXT:01F9] お前が危険な存在
+[FID:33, TEXT:01FA] だと思えなかった
+
+--- Group 410 [right:char_0009 next=2012] ---
+[FID:33, TEXT:01F7] だめだな、
+[FID:33, TEXT:01F8] 俺にはどうしても
+[FID:33, TEXT:01F9] お前が危険な存在
+[FID:33, TEXT:01FA] だと思えなかった
+
+--- Group 411 [right:char_0008 next=2012] ---
+[FID:33, TEXT:01F7] だめだな、
+[FID:33, TEXT:01F8] 俺にはどうしても
+[FID:33, TEXT:01F9] お前が危険な存在
+[FID:33, TEXT:01FA] だと思えなかった
+
+--- Group 412 [right:char_000B next=2012] ---
 [FID:33, TEXT:01FC] その力は危険だけど、
 [FID:33, TEXT:01FD] お前は危険でも
 [FID:33, TEXT:01FE] なんでもない
 
---- Group 132 [left:char_0004 next=0023] ---
+--- Group 413 [right:char_0008 next=2012] ---
+[FID:33, TEXT:01FC] その力は危険だけど、
+[FID:33, TEXT:01FD] お前は危険でも
+[FID:33, TEXT:01FE] なんでもない
+
+--- Group 414 [right:char_000A next=2012] ---
+[FID:33, TEXT:01FC] その力は危険だけど、
+[FID:33, TEXT:01FD] お前は危険でも
+[FID:33, TEXT:01FE] なんでもない
+
+--- Group 415 [right:char_0009 next=2012] ---
+[FID:33, TEXT:01FC] その力は危険だけど、
+[FID:33, TEXT:01FD] お前は危険でも
+[FID:33, TEXT:01FE] なんでもない
+
+--- Group 416 [left:char_0004 next=0023] ---
 [FID:33, TEXT:01FF] ソル・・・
 
---- Group 133 [left:char_0004 next=0023] ---
+--- Group 417 [left:char_0004 next=0023] ---
 [FID:33, TEXT:0200] ソルさん・・・
 
---- Group 134 [right:char_0008 next=2012] ---
+--- Group 418 [right:char_000A next=2012] ---
 [FID:33, TEXT:0201] だから俺は決めた
 [FID:33, TEXT:0202] 巻きこんでしまった
 [FID:33, TEXT:0203] お前を必ず元の世界へ
 [FID:33, TEXT:0204] 帰すってね・・・
 
---- Group 135 [right:char_0008 next=2012] ---
+--- Group 419 [right:char_0009 next=2012] ---
+[FID:33, TEXT:0201] だから俺は決めた
+[FID:33, TEXT:0202] 巻きこんでしまった
+[FID:33, TEXT:0203] お前を必ず元の世界へ
+[FID:33, TEXT:0204] 帰すってね・・・
+
+--- Group 420 [right:char_000B next=2012] ---
+[FID:33, TEXT:0201] だから俺は決めた
+[FID:33, TEXT:0202] 巻きこんでしまった
+[FID:33, TEXT:0203] お前を必ず元の世界へ
+[FID:33, TEXT:0204] 帰すってね・・・
+
+--- Group 421 [right:char_0008 next=2012] ---
+[FID:33, TEXT:0201] だから俺は決めた
+[FID:33, TEXT:0202] 巻きこんでしまった
+[FID:33, TEXT:0203] お前を必ず元の世界へ
+[FID:33, TEXT:0204] 帰すってね・・・
+
+--- Group 422 [right:char_000A next=2012] ---
 [FID:33, TEXT:0205] 信じてくれ
 [FID:33, TEXT:0206] これが全てだ
 
---- Group 136 [right:char_0008 next=0023] ---
+--- Group 423 [right:char_0009 next=2012] ---
+[FID:33, TEXT:0205] 信じてくれ
+[FID:33, TEXT:0206] これが全てだ
+
+--- Group 424 [right:char_000B next=2012] ---
+[FID:33, TEXT:0205] 信じてくれ
+[FID:33, TEXT:0206] これが全てだ
+
+--- Group 425 [right:char_0008 next=2012] ---
+[FID:33, TEXT:0205] 信じてくれ
+[FID:33, TEXT:0206] これが全てだ
+
+--- Group 426 [right:char_0008 next=0023] ---
 [FID:33, TEXT:0207] どうしよう？
 
---- Group 137 [right:char_0008 next=0023] ---
+--- Group 427 [right:char_000B next=0023] ---
+[FID:33, TEXT:0207] どうしよう？
+
+--- Group 428 [right:char_0009 next=0023] ---
+[FID:33, TEXT:0207] どうしよう？
+
+--- Group 429 [right:char_000A next=0023] ---
+[FID:33, TEXT:0207] どうしよう？
+
+--- Group 430 [right:char_0008 next=0023] ---
 [FID:33, TEXT:0208] 　信じるよ
 [FID:33, TEXT:0209] 　そんな・・・
 
---- Group 138 [right:char_0008 next=0023] ---
+--- Group 431 [right:char_0008 next=0023] ---
 [FID:33, TEXT:020A] 　信じます
 [FID:33, TEXT:0209] 　そんな・・・
 
---- Group 139 [left:char_0004 next=2012] ---
+--- Group 432 [left:char_0004 next=0023] ---
+[FID:33, TEXT:020B] なんで・・・
+[FID:33, TEXT:020C] そんなことしたの？
+
+--- Group 433 [left:char_0004 next=0023] ---
+[FID:33, TEXT:020D] どうしてですか？
+
+--- Group 434 [right:char_0008 next=2012] ---
+[FID:33, TEXT:0212] 必要であるなら、君を
+[FID:33, TEXT:01ED] 処分するつもりだった
+
+--- Group 435 [right:char_0008 next=2012] ---
+[FID:33, TEXT:0213] 君は誰に教わることも
+[FID:33, TEXT:01EF] なく【召喚術】を
+[FID:33, TEXT:01F0] 使ってみせた
+
+--- Group 436 [right:char_0008 next=2012] ---
+[FID:33, TEXT:0214] それは僕たちが、君を
+[FID:33, TEXT:0215] 危険だと判断する
+[FID:33, TEXT:0216] 充分な理由だった
+
+--- Group 437 [right:char_0008 next=2012] ---
+[FID:33, TEXT:0217] ずっと君を見ていて、
+[FID:33, TEXT:0218] 僕にはどうしても君が
+[FID:33, TEXT:0219] 危険な存在だと
+[FID:33, TEXT:021A] 思えなかったんだ
+
+--- Group 438 [right:char_0008 next=2012] ---
+[FID:33, TEXT:021B] そして君の近くで暮ら
+[FID:33, TEXT:021C] してみて、確信した
+
+--- Group 439 [right:char_0008 next=2012] ---
+[FID:33, TEXT:021D] 君の力は危険だけど、
+[FID:33, TEXT:021E] 君はそうじゃないって
+[FID:33, TEXT:021F] ことをね
+
+--- Group 440 [left:char_0004 next=0023] ---
+[FID:33, TEXT:0220] キール・・・
+
+--- Group 441 [left:char_0004 next=0023] ---
+[FID:33, TEXT:0221] キールさん・・・
+
+--- Group 442 [right:char_0008 next=2012] ---
+[FID:33, TEXT:0222] だから僕は決めたんだ
+[FID:33, TEXT:0223] 巻きこんでしまった君
+[FID:33, TEXT:0224] を、必ず元の世界へ
+[FID:33, TEXT:0225] 帰そうって・・・
+
+--- Group 443 [right:char_0008 next=2012] ---
+[FID:33, TEXT:0226] 信じて、くれるか？
+
+--- Group 444 [right:char_0008 next=0023] ---
+[FID:33, TEXT:0227] 　・・・信じるよ
+[FID:33, TEXT:0228] 　・・・・・・
+
+--- Group 445 [right:char_0008 next=0023] ---
+[FID:33, TEXT:0229] 　信じます・・・
+[FID:33, TEXT:0209] 　そんな・・・
+
+--- Group 446 [right:char_0008 next=2012] ---
+[FID:33, TEXT:022D] あたしには、そうする
+[FID:33, TEXT:022E] 義務があったの
+
+--- Group 447 [right:char_0008 next=2012] ---
+[FID:33, TEXT:022F] 必要なら、キミを処分
+[FID:33, TEXT:0230] する覚悟もあったわ
+
+--- Group 448 [right:char_0008 next=2012] ---
+[FID:33, TEXT:0231] キミが【召喚術】を使
+[FID:33, TEXT:0232] ったときには、かなり
+[FID:33, TEXT:0233] ショックだったよ
+
+--- Group 449 [right:char_0008 next=2012] ---
+[FID:33, TEXT:0234] それって、キミが危険
+[FID:33, TEXT:0235] だって判断する充分な
+[FID:33, TEXT:0236] 理由になったもの
+
+--- Group 450 [right:char_0008 next=2012] ---
+[FID:33, TEXT:0237] でもねぇ・・・
+
+--- Group 451 [right:char_0008 next=2012] ---
+[FID:33, TEXT:0238] ずっとキミを見てて、
+[FID:33, TEXT:0239] あたしにはどうしても
+[FID:33, TEXT:023A] キミが危険な存在だと
+[FID:33, TEXT:023B] 思えなかったのよ
+
+--- Group 452 [right:char_0008 next=2012] ---
+[FID:33, TEXT:023C] キミのすぐ側で暮らし
+[FID:33, TEXT:023D] てみて、よくわかった
+
+--- Group 453 [right:char_0008 next=2012] ---
+[FID:33, TEXT:023E] 危険なのはキミの力で
+[FID:33, TEXT:023F] あって、キミが危険な
+[FID:33, TEXT:0240] わけじゃないってね
+
+--- Group 454 [left:char_0004 next=0023] ---
+[FID:33, TEXT:0241] カシス・・・
+
+--- Group 455 [right:char_0008 next=2012] ---
+[FID:33, TEXT:0242] だからね、あたし決め
+[FID:33, TEXT:0243] たんだ！責任もって
+[FID:33, TEXT:0244] キミを元の世界へ帰し
+[FID:33, TEXT:0245] たげようって・・・
+
+--- Group 456 [right:char_0008 next=2012] ---
+[FID:33, TEXT:0246] 信じてくれるかな？
+
+--- Group 457 [right:char_0008 next=2012] ---
+[FID:33, TEXT:024C] 最悪、貴方を処分する
+[FID:33, TEXT:024D] という義務も・・・
+
+--- Group 458 [right:char_0008 next=2012] ---
+[FID:33, TEXT:024E] 貴方は誰に教わること
+[FID:33, TEXT:01EF] なく【召喚術】を
+[FID:33, TEXT:024F] 使ってみせました
+
+--- Group 459 [right:char_0008 next=2012] ---
+[FID:33, TEXT:0250] それは、貴方のことを
+[FID:33, TEXT:0251] 危険だと判断する充分
+[FID:33, TEXT:0252] な理由でした
+
+--- Group 460 [right:char_0008 next=2012] ---
+[FID:33, TEXT:0253] 私には、貴方がどうし
+[FID:33, TEXT:0254] ても危険な存在だとは
+[FID:33, TEXT:0255] 思えなかったんです
+
+--- Group 461 [right:char_0008 next=2012] ---
+[FID:33, TEXT:0256] 貴方の近くで暮らして
+[FID:33, TEXT:0257] みた今では、はっきり
+[FID:33, TEXT:0258] と断言できます
+
+--- Group 462 [right:char_0008 next=2012] ---
+[FID:33, TEXT:0259] 危険なのは貴方の力で
+[FID:33, TEXT:025A] あって、貴方なんじゃ
+[FID:33, TEXT:025B] ないって・・・
+
+--- Group 463 [left:char_0004 next=2012] ---
+[FID:33, TEXT:025C] クラレット・・・
+
+--- Group 464 [right:char_0008 next=2012] ---
+[FID:33, TEXT:025D] 私、決めたんです
+[FID:33, TEXT:025E] 絶対に貴方を元の世界
+[FID:33, TEXT:025F] に帰そうって・・・
+
+--- Group 465 [right:char_0008 next=2012] ---
+[FID:33, TEXT:0260] 信じてくれますか？
+
+--- Group 466 [left:char_0004 next=2012] ---
 [FID:33, TEXT:0261] 知らなかった
 [FID:33, TEXT:0262] 俺がそんな立場に
 [FID:33, TEXT:0263] いたなんて・・・
 
---- Group 140 [left:char_0004 next=2012] ---
+--- Group 467 [left:char_0004 next=2012] ---
+[FID:33, TEXT:0261] 知らなかった
+[FID:33, TEXT:0262] 俺がそんな立場に
+[FID:33, TEXT:0263] いたなんて・・・
+
+--- Group 468 [left:char_0004 next=2012] ---
+[FID:33, TEXT:0261] 知らなかった
+[FID:33, TEXT:0262] 俺がそんな立場に
+[FID:33, TEXT:0263] いたなんて・・・
+
+--- Group 469 [left:char_0004 next=2012] ---
 [FID:33, TEXT:0261] 知らなかった
 [FID:33, TEXT:0265] 僕がそんな立場にいた
 [FID:33, TEXT:0266] なんて・・・
 
---- Group 141 [left:char_0004 next=0023] ---
+--- Group 470 [left:char_0004 next=2012] ---
+[FID:33, TEXT:0261] 知らなかった
+[FID:33, TEXT:0262] 俺がそんな立場に
+[FID:33, TEXT:0263] いたなんて・・・
+
+--- Group 471 [left:char_0004 next=0023] ---
 [FID:33, TEXT:0264] ・・・っ！？
 
---- Group 142 [left:char_0004 next=2012] ---
+--- Group 472 [left:char_0004 next=0023] ---
+[FID:33, TEXT:0264] ・・・っ！？
+
+--- Group 473 [left:char_0004 next=0023] ---
+[FID:33, TEXT:0264] ・・・っ！？
+
+--- Group 474 [left:char_0004 next=0023] ---
+[FID:33, TEXT:0264] ・・・っ！？
+
+--- Group 475 [left:char_0004 next=2012] ---
 [FID:33, TEXT:0267] 知らなかった・・・
 [FID:33, TEXT:0268] あたし・・・
 [FID:33, TEXT:0269] そんな状況に
 [FID:33, TEXT:026A] 置かれてたなんて
 
---- Group 143 [left:char_0004 next=2012] ---
+--- Group 476 [left:char_0004 next=2012] ---
 [FID:33, TEXT:026B] なにも知らなかったん
 [FID:33, TEXT:026C] ですね・・・
 [FID:33, TEXT:026D] わたし、自分の立場も
 [FID:33, TEXT:026E] なにも・・・
 
---- Group 144 [left:char_0004 next=0023] ---
+--- Group 477 [left:char_0004 next=0023] ---
 [FID:33, TEXT:026F] ・・・？？
 

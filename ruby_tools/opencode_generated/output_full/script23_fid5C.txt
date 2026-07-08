@@ -1,8 +1,8 @@
---- Group 1 [right:char_0013 next=2012] ---
+--- Group 1 [right:char_0004 next=2012] ---
 [FID:5C, TEXT:0001] さあ、ここが俺たちの
 [FID:5C, TEXT:0002] 隠れ家だ
 
---- Group 2 [right:char_0004 next=2012] ---
+--- Group 2 [right:char_0013 next=2012] ---
 [FID:5C, TEXT:0001] さあ、ここが俺たちの
 [FID:5C, TEXT:0002] 隠れ家だ
 
@@ -35,10 +35,10 @@
 [FID:5C, TEXT:000B] なんせ、隠れ家なんだ
 [FID:5C, TEXT:000C] からな
 
---- Group 9 [right:char_0004 next=2012] ---
+--- Group 9 [right:char_0013 next=2012] ---
 [FID:5C, TEXT:000D] さ、入るぜ？
 
---- Group 10 [right:char_0013 next=2012] ---
+--- Group 10 [right:char_0004 next=2012] ---
 [FID:5C, TEXT:000D] さ、入るぜ？
 
 --- Group 11 [left:char_0012 next=2012] ---
@@ -122,17 +122,17 @@
 [FID:5C, TEXT:002D] 果物のジュースを
 [FID:5C, TEXT:002E] さしあげますよ
 
---- Group 32 [left:none next=2012] ---
-[FID:5C, TEXT:002F] ・・・
-
---- Group 33 [left:none next=0023] ---
+--- Group 32 [left:none next=0023] ---
 [FID:5C, TEXT:002F] ・・・
 [FID:5C, TEXT:0032] 沈黙は苦手なのに〜
 
---- Group 34 [left:none next=2012] ---
+--- Group 33 [left:none next=2012] ---
+[FID:5C, TEXT:002F] ・・・
+
+--- Group 34 [left:none next=0023] ---
 [FID:5C, TEXT:0030] ・・・・・・・
 
---- Group 35 [left:none next=0023] ---
+--- Group 35 [left:none next=2012] ---
 [FID:5C, TEXT:0030] ・・・・・・・
 
 --- Group 36 [left:none next=0023] ---
@@ -249,15 +249,15 @@
 [FID:5C, TEXT:0065] アキュートに来ること
 [FID:5C, TEXT:0066] になったんですか？
 
---- Group 62 [right:char_001B next=2012] ---
-[FID:5C, TEXT:0068] ・・・そう来たか
-[FID:5C, TEXT:0069] ったく、物好きな
-[FID:5C, TEXT:006B] 嬢ちゃんだぜ
-
---- Group 63 [right:char_001B next=0023] ---
+--- Group 62 [right:char_001B next=0023] ---
 [FID:5C, TEXT:0068] ・・・そう来たか
 [FID:5C, TEXT:0069] ったく、物好きな
 [FID:5C, TEXT:006A] 坊主だぜ
+
+--- Group 63 [right:char_001B next=2012] ---
+[FID:5C, TEXT:0068] ・・・そう来たか
+[FID:5C, TEXT:0069] ったく、物好きな
+[FID:5C, TEXT:006B] 嬢ちゃんだぜ
 
 --- Group 64 [right:char_001A next=2012] ---
 [FID:5C, TEXT:006C] 私はもともとラムダ様

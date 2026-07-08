@@ -7,12 +7,12 @@
 --- Group 2 [left:none next=0023] ---
 [FID:52, TEXT:0005] これだけ探したのに、
 [FID:52, TEXT:0006] ひとつも見つからない
-[FID:52, TEXT:0007] なんて・・・
+[FID:52, TEXT:0008] とはな・・・
 
 --- Group 3 [left:none next=0023] ---
 [FID:52, TEXT:0005] これだけ探したのに、
 [FID:52, TEXT:0006] ひとつも見つからない
-[FID:52, TEXT:0008] とはな・・・
+[FID:52, TEXT:0007] なんて・・・
 
 --- Group 4 [left:none next=0023] ---
 [FID:52, TEXT:0009] なんで、こんだけ
@@ -218,12 +218,12 @@
 
 --- Group 52 [right:char_001F next=2012] ---
 [FID:52, TEXT:0073] ふむ・・・
-[FID:52, TEXT:0074] 残念ですが、これでは
-[FID:52, TEXT:0075] 足りませんね
+[FID:52, TEXT:0085] なら、こうしましょう
 
 --- Group 53 [right:char_001F next=2012] ---
 [FID:52, TEXT:0073] ふむ・・・
-[FID:52, TEXT:0085] なら、こうしましょう
+[FID:52, TEXT:0074] 残念ですが、これでは
+[FID:52, TEXT:0075] 足りませんね
 
 --- Group 54 [left:char_0013 next=2012] ---
 [FID:52, TEXT:0076] どういう値段のつけ方
@@ -280,11 +280,11 @@
 
 --- Group 67 [right:char_001F next=0023] ---
 [FID:52, TEXT:0092] 　そうじゃないよ
-[FID:52, TEXT:0095] 　そうかもね〜？
+[FID:52, TEXT:0093] 　本当にそうなのか？
 
 --- Group 68 [right:char_001F next=0023] ---
 [FID:52, TEXT:0092] 　そうじゃないよ
-[FID:52, TEXT:0093] 　本当にそうなのか？
+[FID:52, TEXT:0095] 　そうかもね〜？
 
 --- Group 69 [right:char_001F next=0023] ---
 [FID:52, TEXT:0094] 　そうじゃない

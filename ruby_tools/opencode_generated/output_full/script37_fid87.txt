@@ -1,7 +1,7 @@
---- Group 1 [right:char_0022 next=2012] ---
+--- Group 1 [right:none next=2012] ---
 [FID:87, TEXT:0001] みんな、覚悟はいいか
 
---- Group 2 [right:none next=2012] ---
+--- Group 2 [right:char_0022 next=2012] ---
 [FID:87, TEXT:0001] みんな、覚悟はいいか
 
 --- Group 3 [left:none next=2012] ---
@@ -22,12 +22,12 @@
 [FID:87, TEXT:0005] ここを離れても大丈夫
 [FID:87, TEXT:0006] だろうか・・・
 
---- Group 7 [right:char_0022 next=2012] ---
+--- Group 7 [right:none next=2012] ---
 [FID:87, TEXT:0007] 今の彼らは魔王を召喚
 [FID:87, TEXT:0008] する儀式を最優先に
 [FID:87, TEXT:0009] しているはずです
 
---- Group 8 [right:none next=2012] ---
+--- Group 8 [right:char_0022 next=2012] ---
 [FID:87, TEXT:0007] 今の彼らは魔王を召喚
 [FID:87, TEXT:0008] する儀式を最優先に
 [FID:87, TEXT:0009] しているはずです
@@ -82,48 +82,154 @@
 [FID:87, TEXT:001F] 悪魔を呼び出す実験を
 [FID:87, TEXT:0020] 続けてきたせいだ
 
---- Group 20 [right:char_0008 next=2012] ---
+--- Group 20 [right:char_000A next=2012] ---
+[FID:87, TEXT:001F] 悪魔を呼び出す実験を
+[FID:87, TEXT:003D] 続けてきたせいなの
+
+--- Group 21 [right:char_000B next=2012] ---
+[FID:87, TEXT:001F] 悪魔を呼び出す実験を
+[FID:87, TEXT:0047] 続けてきたせいです
+
+--- Group 22 [right:char_0009 next=2012] ---
+[FID:87, TEXT:001F] 悪魔を呼び出す実験を
+[FID:87, TEXT:0037] 続けてきたせいだよ
+
+--- Group 23 [right:char_0008 next=2012] ---
 [FID:87, TEXT:0021] 森そのものが
 [FID:87, TEXT:0022] 悪魔の力で・・・
 [FID:87, TEXT:0023] 歪んでるってわけさ
 
---- Group 21 [left:char_001E next=2012] ---
+--- Group 24 [left:char_001E next=2012] ---
 [FID:87, TEXT:0024] くわしいな？
 
---- Group 22 [right:char_0008 next=2012] ---
+--- Group 25 [left:char_001E next=2012] ---
+[FID:87, TEXT:0024] くわしいな？
+
+--- Group 26 [left:char_001E next=2012] ---
+[FID:87, TEXT:0024] くわしいな？
+
+--- Group 27 [left:char_001E next=2012] ---
+[FID:87, TEXT:0024] くわしいな？
+
+--- Group 28 [right:char_0008 next=2012] ---
 [FID:87, TEXT:0025] 俺は、この森で
 [FID:87, TEXT:0026] 召喚術を学んだからな
 
---- Group 23 [right:char_0008 next=2012] ---
+--- Group 29 [right:char_0008 next=2012] ---
 [FID:87, TEXT:0027] 魔王を召喚するために
 [FID:87, TEXT:0028] 必要な準備の全てが、
 [FID:87, TEXT:0029] この森の奥で行われて
 [FID:87, TEXT:002A] きたんだ
 
---- Group 24 [right:char_0008 next=2012] ---
+--- Group 30 [right:char_0009 next=2012] ---
+[FID:87, TEXT:0027] 魔王を召喚するために
+[FID:87, TEXT:0028] 必要な準備の全てが、
+[FID:87, TEXT:0029] この森の奥で行われて
+[FID:87, TEXT:002A] きたんだ
+
+--- Group 31 [right:char_000A next=2012] ---
+[FID:87, TEXT:0027] 魔王を召喚するために
+[FID:87, TEXT:0043] 必要な準備は、ぜんぶ
+[FID:87, TEXT:0029] この森の奥で行われて
+[FID:87, TEXT:0044] きたの
+
+--- Group 32 [right:char_0009 next=2012] ---
 [FID:87, TEXT:002B] 儀式はきっと、ここで
 [FID:87, TEXT:002C] 行われるはずだ
 
---- Group 25 [right:char_0008 next=2012] ---
+--- Group 33 [right:char_0008 next=2012] ---
+[FID:87, TEXT:002B] 儀式はきっと、ここで
+[FID:87, TEXT:002C] 行われるはずだ
+
+--- Group 34 [right:char_000B next=2012] ---
 [FID:87, TEXT:002D] どうやら・・・
 [FID:87, TEXT:002E] 大当たりのようだぜ？
 
---- Group 26 [left:char_001E next=2012] ---
+--- Group 35 [right:char_000A next=2012] ---
+[FID:87, TEXT:002D] どうやら・・・
+[FID:87, TEXT:002E] 大当たりのようだぜ？
+
+--- Group 36 [right:char_0009 next=2012] ---
+[FID:87, TEXT:002D] どうやら・・・
+[FID:87, TEXT:002E] 大当たりのようだぜ？
+
+--- Group 37 [right:char_0008 next=2012] ---
+[FID:87, TEXT:002D] どうやら・・・
+[FID:87, TEXT:002E] 大当たりのようだぜ？
+
+--- Group 38 [left:char_001E next=0023] ---
 [FID:87, TEXT:002F] ・・・！！
 
---- Group 27 [right:char_0016 next=2012] ---
+--- Group 39 [left:char_001E next=2012] ---
+[FID:87, TEXT:002F] ・・・！！
+
+--- Group 40 [left:char_001E next=2012] ---
+[FID:87, TEXT:002F] ・・・！！
+
+--- Group 41 [left:char_001E next=0023] ---
+[FID:87, TEXT:002F] ・・・！！
+
+--- Group 42 [right:char_0016 next=2012] ---
 [FID:87, TEXT:0031] くそっ・・・
 [FID:87, TEXT:0032] この森のせいで、気配
 [FID:87, TEXT:0033] が読めなかった！！
 
---- Group 28 [right:char_0016 next=2012] ---
+--- Group 43 [right:char_0016 next=2012] ---
 [FID:87, TEXT:0034] 黒装束に、悪魔どもか
 [FID:87, TEXT:0035] 大層な歓迎だぜ
 
---- Group 29 [left:char_001E next=2012] ---
+--- Group 44 [left:char_001E next=2012] ---
 [FID:87, TEXT:0036] ！！
 
---- Group 30 [left:none next=0026] ---
+--- Group 45 [right:char_000B next=2012] ---
+[FID:87, TEXT:0038] 森そのものが、悪魔の
+[FID:87, TEXT:0048] 力で歪んでいる・・・
+[FID:87, TEXT:0049] そう言えば、わかりや
+[FID:87, TEXT:004A] すいでしょうか・・
+
+--- Group 46 [right:char_0009 next=2012] ---
+[FID:87, TEXT:0038] 森そのものが、悪魔の
+[FID:87, TEXT:0039] 力で歪んでいるんだ
+
+--- Group 47 [right:char_0009 next=2012] ---
+[FID:87, TEXT:003A] 僕は、この森で召喚術
+[FID:87, TEXT:003B] を学んだのさ・・・
+
+--- Group 48 [left:char_001E next=0023] ---
+[FID:87, TEXT:003C] みたいですね・・・
+
+--- Group 49 [right:char_000A next=2012] ---
+[FID:87, TEXT:003E] 森そのものが、
+[FID:87, TEXT:003F] 悪魔の力で歪んでいる
+
+--- Group 50 [right:char_000A next=2012] ---
+[FID:87, TEXT:0040] あたし、ここで・・・
+[FID:87, TEXT:0041] この森で召喚術を
+[FID:87, TEXT:0042] 学んだから
+
+--- Group 51 [right:char_000A next=2012] ---
+[FID:87, TEXT:0045] 儀式はきっと、また
+[FID:87, TEXT:0046] ここで行われる・・・
+
+--- Group 52 [right:char_000B next=2012] ---
+[FID:87, TEXT:004B] 私は・・・この森で
+[FID:87, TEXT:004C] 召喚術を学びました
+
+--- Group 53 [right:char_000B next=2012] ---
+[FID:87, TEXT:004D] 当たり前ですね・・・
+[FID:87, TEXT:004E] 魔王を召喚する儀式の
+[FID:87, TEXT:004F] 準備は、ここで行われ
+[FID:87, TEXT:0050] てきたんですから
+
+--- Group 54 [right:char_000B next=2012] ---
+[FID:87, TEXT:0051] きっとまた・・・
+[FID:87, TEXT:0052] 儀式はここで
+[FID:87, TEXT:0053] 行われるはずです
+
+--- Group 55 [left:char_001E next=0023] ---
+[FID:87, TEXT:0054] ええ・・・
+
+--- Group 56 [left:none next=0026] ---
 [FID:87, TEXT:0055] 【自分の部屋】
 [FID:87, TEXT:0000] 
 [FID:87, TEXT:0000] 

@@ -7,17 +7,9 @@
 --- Group [left:none next=0023] ---
 ひょっとしてこのまま
 街から出るんじゃない
-でしょうか？
+のかな？
 +[FID:63, TEXT:0003] 
 +[FID:63, TEXT:0004] 
-+[FID:63, TEXT:0007] 
-
---- Group [left:none next=0023] ---
-ひょっとしてこのまま
-街から出るんじゃない
-のかな？
--[FID:63, TEXT:0003] 
--[FID:63, TEXT:0004] 
 +[FID:63, TEXT:0005] 
 
 --- Group [left:none next=0023] ---
@@ -28,7 +20,15 @@
 -[FID:63, TEXT:0004] 
 +[FID:63, TEXT:0006] 
 
---- Group [right:char_0040 next=2012] ---
+--- Group [left:none next=0023] ---
+ひょっとしてこのまま
+街から出るんじゃない
+でしょうか？
+-[FID:63, TEXT:0003] 
+-[FID:63, TEXT:0004] 
++[FID:63, TEXT:0007] 
+
+--- Group [right:加泽尔 next=2012] ---
 冗談じゃねえぜ
 だったら、出ていく
 前にとっちめないと
@@ -68,7 +68,7 @@
 +[FID:63, TEXT:0013] 
 +[FID:63, TEXT:0014] 
 
---- Group [right:none next=2012] ---
+--- Group [right:加泽尔 next=2012] ---
 ・・・！？
 +[FID:63, TEXT:0015] 
 
@@ -106,7 +106,7 @@
 +[FID:63, TEXT:001F] 
 +[FID:63, TEXT:0020] 
 
---- Group [left:char_0040 next=0023] ---
+--- Group [left:none next=0023] ---
 ガゼル・・・
 +[FID:63, TEXT:0021] 
 
@@ -118,7 +118,7 @@
 ガゼルさん・・
 +[FID:63, TEXT:0023] 
 
---- Group [right:char_0040 next=2012] ---
+--- Group [right:加泽尔 next=2012] ---
 ケッ、仕方ねえな
 こうなっちまったらよ
 +[FID:63, TEXT:0024] 

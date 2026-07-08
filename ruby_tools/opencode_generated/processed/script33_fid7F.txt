@@ -72,19 +72,19 @@
 -[FID:7F, TEXT:0008] 
 +[FID:7F, TEXT:001A] 
 
+--- Group [left:洛卡斯 next=2012] ---
+そんなことして
+何の得があるんだ！？
++[FID:7F, TEXT:001B] 
++[FID:7F, TEXT:001C] 
+
 --- Group [left:主人公 next=0023] ---
 そんなことして
 なんの得にもならない
 じゃないですか・・・
-+[FID:7F, TEXT:001B] 
+-[FID:7F, TEXT:001B] 
 +[FID:7F, TEXT:002C] 
 +[FID:7F, TEXT:002D] 
-
---- Group [left:洛卡斯 next=2012] ---
-そんなことして
-何の得があるんだ！？
--[FID:7F, TEXT:001B] 
-+[FID:7F, TEXT:001C] 
 
 --- Group [left:主人公 next=0023] ---
 そうだよ
@@ -126,7 +126,7 @@
 +[FID:7F, TEXT:002A] 
 +[FID:7F, TEXT:002B] 
 
---- Group [right:索尔 next=2012] ---
+--- Group [right:卡西斯 next=2012] ---
 滅ぼす気でいると
 したら？
 +[FID:7F, TEXT:002E] 

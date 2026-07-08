@@ -1,9 +1,9 @@
---- Group 1 [right:none next=2012] ---
+--- Group 1 [right:char_0022 next=2012] ---
 [FID:29, TEXT:0001] いてててっ・・・！
 [FID:29, TEXT:0002] このガキ、手を離しや
 [FID:29, TEXT:0003] がれっ！！
 
---- Group 2 [right:char_0022 next=2012] ---
+--- Group 2 [right:none next=2012] ---
 [FID:29, TEXT:0001] いてててっ・・・！
 [FID:29, TEXT:0002] このガキ、手を離しや
 [FID:29, TEXT:0003] がれっ！！
@@ -16,12 +16,12 @@
 [FID:29, TEXT:0004] アンタが謝るほうが先
 [FID:29, TEXT:0005] だろ？
 
---- Group 5 [right:none next=2012] ---
+--- Group 5 [right:char_0022 next=2012] ---
 [FID:29, TEXT:0006] てめぇ、俺たちが何者
 [FID:29, TEXT:0007] だかわかってて言って
 [FID:29, TEXT:0008] んのかっ！？
 
---- Group 6 [right:char_0022 next=2012] ---
+--- Group 6 [right:none next=2012] ---
 [FID:29, TEXT:0006] てめぇ、俺たちが何者
 [FID:29, TEXT:0007] だかわかってて言って
 [FID:29, TEXT:0008] んのかっ！？
@@ -68,11 +68,11 @@
 [FID:29, TEXT:0012] 良くないだろ、悪いの
 [FID:29, TEXT:0013] はこいつらなんだぜ
 
---- Group 17 [right:char_0022 next=2012] ---
+--- Group 17 [right:none next=2012] ---
 [FID:29, TEXT:0014] あーあ、あの子供
 [FID:29, TEXT:0015] 黙ってりゃいいのに
 
---- Group 18 [right:none next=2012] ---
+--- Group 18 [right:char_0022 next=2012] ---
 [FID:29, TEXT:0014] あーあ、あの子供
 [FID:29, TEXT:0015] 黙ってりゃいいのに
 
@@ -98,12 +98,12 @@
 [FID:29, TEXT:0019] このガキ・・・
 [FID:29, TEXT:001A] みんな、やっちまえ！
 
---- Group 25 [right:char_0022 next=2015] ---
+--- Group 25 [right:none next=2015] ---
 [FID:29, TEXT:001B] どうしよう？
 [FID:29, TEXT:001C] 　助けに入る
 [FID:29, TEXT:001D] 　呆然と見ている
 
---- Group 26 [right:none next=2015] ---
+--- Group 26 [right:char_0022 next=2015] ---
 [FID:29, TEXT:001B] どうしよう？
 [FID:29, TEXT:001C] 　助けに入る
 [FID:29, TEXT:001D] 　呆然と見ている
@@ -187,11 +187,11 @@
 
 --- Group 47 [left:char_0004 next=0023] ---
 [FID:29, TEXT:0039] この子が
-[FID:29, TEXT:003D] やったの・・・？
+[FID:29, TEXT:003A] やったのか！？
 
 --- Group 48 [left:char_0004 next=0023] ---
 [FID:29, TEXT:0039] この子が
-[FID:29, TEXT:003A] やったのか！？
+[FID:29, TEXT:003D] やったの・・・？
 
 --- Group 49 [left:char_0004 next=0023] ---
 [FID:29, TEXT:003B] ええ！？
@@ -298,17 +298,17 @@
 [FID:29, TEXT:0067] へへへ、助けてもらっ
 [FID:29, TEXT:0068] ちまったみたいだな
 
---- Group 74 [left:none next=0023] ---
+--- Group 74 [left:char_0004 next=0023] ---
 [FID:29, TEXT:0069] 助ける必要はなかった
-[FID:29, TEXT:006A] みたいだけどね
+[FID:29, TEXT:006D] みたいだけど、ね
 
---- Group 75 [left:char_0004 next=0023] ---
+--- Group 75 [left:none next=0023] ---
 [FID:29, TEXT:0069] 助ける必要はなかった
 [FID:29, TEXT:006A] みたいだけどね
 
 --- Group 76 [left:char_0004 next=0023] ---
 [FID:29, TEXT:0069] 助ける必要はなかった
-[FID:29, TEXT:006D] みたいだけど、ね
+[FID:29, TEXT:006A] みたいだけどね
 
 --- Group 77 [left:char_0004 next=0023] ---
 [FID:29, TEXT:006B] 余計なお世話だった
@@ -329,13 +329,13 @@
 [FID:29, TEXT:0071] でも、アンタの心意気
 [FID:29, TEXT:0072] は嬉しかったぜ！
 
---- Group 81 [left:char_0004 next=0023] ---
+--- Group 81 [left:none next=0023] ---
 [FID:29, TEXT:0073] けど、こいつらを敵に
 [FID:29, TEXT:0074] 回したのはまずいよ
 [FID:29, TEXT:0075] 早いとこ、立ち去った
 [FID:29, TEXT:0076] ほうがいい
 
---- Group 82 [left:none next=0023] ---
+--- Group 82 [left:char_0004 next=0023] ---
 [FID:29, TEXT:0073] けど、こいつらを敵に
 [FID:29, TEXT:0074] 回したのはまずいよ
 [FID:29, TEXT:0075] 早いとこ、立ち去った
@@ -375,26 +375,26 @@
 [FID:29, TEXT:0085] 探さなくちゃならねえ
 [FID:29, TEXT:0032] んだけど・・・
 
---- Group 89 [left:char_0004 next=0023] ---
+--- Group 89 [left:none next=0023] ---
 [FID:29, TEXT:0086] 説明はあとでするから
 [FID:29, TEXT:0087] とりあえず、俺の言う
 [FID:29, TEXT:0088] とおりにしてくれよ
 
---- Group 90 [left:none next=0023] ---
+--- Group 90 [left:char_0004 next=0023] ---
 [FID:29, TEXT:0086] 説明はあとでするから
 [FID:29, TEXT:0087] とりあえず、俺の言う
 [FID:29, TEXT:0088] とおりにしてくれよ
 
 --- Group 91 [left:char_0004 next=0023] ---
 [FID:29, TEXT:0086] 説明はあとでするから
-[FID:29, TEXT:0089] とりあえず、ここから
-[FID:29, TEXT:008A] 離れよう
-
---- Group 92 [left:char_0004 next=0023] ---
-[FID:29, TEXT:0086] 説明はあとでするから
 [FID:29, TEXT:008B] 今はとりあえず
 [FID:29, TEXT:008C] あたしの言うとおりに
 [FID:29, TEXT:008D] して、ね
+
+--- Group 92 [left:char_0004 next=0023] ---
+[FID:29, TEXT:0086] 説明はあとでするから
+[FID:29, TEXT:0089] とりあえず、ここから
+[FID:29, TEXT:008A] 離れよう
 
 --- Group 93 [left:char_0004 next=0023] ---
 [FID:29, TEXT:008E] 説明は後回しです
