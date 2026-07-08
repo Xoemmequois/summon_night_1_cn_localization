@@ -37707,19 +37707,19 @@
   {
     "key": "0031-0019",
     "original": "自分で使っておいて、",
-    "translation": "虽然是我自己用的",
+    "translation": "虽然这是我自己用出来",
     "stage": 3
   },
   {
     "key": "0031-0020",
     "original": "こういうのも",
-    "translation": "但这么说可能有点",
+    "translation": "的东西，",
     "stage": 3
   },
   {
     "key": "0031-0021",
     "original": "なんなんですが・・・",
-    "translation": "奇怪……",
+    "translation": "这么问也有点奇怪……",
     "stage": 3
   },
   {
@@ -37761,13 +37761,13 @@
   {
     "key": "0031-0028",
     "original": "召喚術ってのは召喚師",
-    "translation": "召唤术不是只有",
+    "translation": "召唤术不是只有召唤师",
     "stage": 3
   },
   {
     "key": "0031-0029",
     "original": "しか使えないものなん",
-    "translation": "召唤师才能用的吗？",
+    "translation": "才能用的吗？",
     "stage": 3
   },
   {
@@ -37953,13 +37953,13 @@
   {
     "key": "0031-0060",
     "original": "あんなことは熟達した",
-    "translation": "那种事就算是",
+    "translation": "那种事就连熟练的",
     "stage": 3
   },
   {
     "key": "0031-0061",
     "original": "召喚師でも",
-    "translation": "经验丰富的召唤师",
+    "translation": "召唤师",
     "stage": 3
   },
   {
@@ -37971,13 +37971,13 @@
   {
     "key": "0031-0063",
     "original": "そんなに、すごいこと",
-    "translation": "原来那么",
+    "translation": "原来是那么",
     "stage": 3
   },
   {
     "key": "0031-0064",
     "original": "だったのか・・・",
-    "translation": "厉害啊……",
+    "translation": "厉害的事啊……",
     "stage": 3
   },
   {
@@ -38169,19 +38169,19 @@
   {
     "key": "0031-0096",
     "original": "次に何かの行動を",
-    "translation": "然后做出某种行动",
+    "translation": "也就是说，接下来只要",
     "stage": 3
   },
   {
     "key": "0031-0097",
     "original": "起こせば【召喚術】が",
-    "translation": "【召唤术】就会",
+    "translation": "采取行动【召唤术】就",
     "stage": 3
   },
   {
     "key": "0031-0098",
     "original": "発動する",
-    "translation": "发动",
+    "translation": "会发动",
     "stage": 3
   },
   {
@@ -38265,13 +38265,13 @@
   {
     "key": "0031-0112",
     "original": "【誓約】という儀式を",
-    "translation": "一起进行一种叫做",
+    "translation": "会一起进行名为【誓约",
     "stage": 3
   },
   {
     "key": "0031-0113",
     "original": "一緒に行うのさ",
-    "translation": "【誓约】的仪式",
+    "translation": "】的仪式",
     "stage": 3
   },
   {
@@ -38295,13 +38295,13 @@
   {
     "key": "0031-0117",
     "original": "呼び出された召喚獣に",
-    "translation": "就是给被召唤出来的",
+    "translation": "是给被召唤出来的召唤",
     "stage": 3
   },
   {
     "key": "0031-0118",
     "original": "名前をつける儀式さ",
-    "translation": "召唤兽取名字的仪式",
+    "translation": "兽取名字的仪式",
     "stage": 3
   },
   {
@@ -38331,19 +38331,19 @@
   {
     "key": "0031-0123",
     "original": "たとえ名づけた本人で",
-    "translation": "不过，就算不是",
+    "translation": "即使不是取名字的那个",
     "stage": 3
   },
   {
     "key": "0031-0124",
     "original": "なくても、だけどな",
-    "translation": "取名者本人也能召唤",
+    "translation": "人也能召唤",
     "stage": 3
   },
   {
     "key": "0031-0125",
     "original": "それが、さっき言って",
-    "translation": "这就是你刚才说的",
+    "translation": "这就是刚才说的",
     "stage": 3
   },
   {
@@ -38427,842 +38427,1010 @@
   {
     "key": "0031-0139",
     "original": "君の持っている力に",
-    "translation": ""
+    "translation": "我想跟你说明一下",
+    "stage": 3
   },
   {
     "key": "0031-0140",
     "original": "ついて、説明して",
-    "translation": ""
+    "translation": "你拥有的那股力量",
+    "stage": 3
   },
   {
     "key": "0031-0141",
     "original": "おこうと思ってな",
-    "translation": ""
+    "translation": "",
+    "stage": 3
   },
   {
     "key": "0031-0142",
     "original": "使っておいてなんだけ",
-    "translation": ""
+    "translation": "虽然是我自己用的",
+    "stage": 3
   },
   {
     "key": "0031-0143",
     "original": "ど、あれはいったい",
-    "translation": ""
+    "translation": "但那个到底是什么",
+    "stage": 3
   },
   {
     "key": "0031-0144",
     "original": "何なんだ？",
-    "translation": ""
+    "translation": "是什么啊？",
+    "stage": 3
   },
   {
     "key": "0031-0145",
     "original": "あの不思議な光のこと",
-    "translation": ""
+    "translation": "您是说那道不可思议的",
+    "stage": 3
   },
   {
     "key": "0031-0146",
     "original": "ですか？",
-    "translation": ""
+    "translation": "光吗？",
+    "stage": 3
   },
   {
     "key": "0031-0147",
     "original": "使った自分で言うのも",
-    "translation": ""
+    "translation": "虽然是我自己用的",
+    "stage": 3
   },
   {
     "key": "0031-0148",
     "original": "僕にもはっきりした",
-    "translation": ""
+    "translation": "我也不太清楚",
+    "stage": 3
   },
   {
     "key": "0031-0149",
     "original": "おそらく【召喚術】の",
-    "translation": ""
+    "translation": "但恐怕是",
+    "stage": 3
   },
   {
     "key": "0031-0150",
     "original": "一種だと思う",
-    "translation": ""
+    "translation": "【召唤术】的一种",
+    "stage": 3
   },
   {
     "key": "0031-0151",
     "original": "おいおい、待ってくれ",
-    "translation": ""
+    "translation": "喂喂，等等",
+    "stage": 3
   },
   {
     "key": "0031-0152",
     "original": "召喚師しか使えないっ",
-    "translation": ""
+    "translation": "只有召唤师才能用",
+    "stage": 3
   },
   {
     "key": "0031-0153",
     "original": "て言ってなかった？",
-    "translation": ""
+    "translation": "吗？",
+    "stage": 3
   },
   {
     "key": "0031-0154",
     "original": "待ってください・・・",
-    "translation": ""
+    "translation": "请等一下……",
+    "stage": 3
   },
   {
     "key": "0031-0155",
     "original": "じゃないんですか？",
-    "translation": ""
+    "translation": "",
+    "stage": 3
   },
   {
     "key": "0031-0156",
     "original": "普通の人々はそう思っ",
-    "translation": ""
+    "translation": "普通人似乎都这么认为",
+    "stage": 3
   },
   {
     "key": "0031-0157",
     "original": "ているようだが、",
-    "translation": ""
+    "translation": "但那是错的",
+    "stage": 3
   },
   {
     "key": "0031-0158",
     "original": "それは間違いだ",
-    "translation": ""
+    "translation": "",
+    "stage": 3
   },
   {
     "key": "0031-0159",
     "original": "え・・・？",
-    "translation": ""
+    "translation": "诶……？",
+    "stage": 3
   },
   {
     "key": "0031-0160",
     "original": "詳しくはあとで説明を",
-    "translation": ""
+    "translation": "详细情况之后再",
+    "stage": 3
   },
   {
     "key": "0031-0161",
     "original": "まあ、君の力はそんな",
-    "translation": ""
+    "translation": "总之，你的力量",
+    "stage": 3
   },
   {
     "key": "0031-0162",
     "original": "ものとは根本的に違う",
-    "translation": ""
+    "translation": "和那种东西根本不同",
+    "stage": 3
   },
   {
     "key": "0031-0163",
     "original": "召喚師でも不可能だよ",
-    "translation": ""
+    "translation": "召唤师也不可能做到",
+    "stage": 3
   },
   {
     "key": "0031-0164",
     "original": "だったんですか",
-    "translation": ""
+    "translation": "厉害的事吗？",
+    "stage": 3
   },
   {
     "key": "0031-0165",
     "original": "君の召喚術は我流だ",
-    "translation": ""
+    "translation": "你的召唤术是自学的",
+    "stage": 3
   },
   {
     "key": "0031-0166",
     "original": "きちんとした制御法を",
-    "translation": ""
+    "translation": "如果不学会正确的",
+    "stage": 3
   },
   {
     "key": "0031-0167",
     "original": "学ばなくては、暴発を",
-    "translation": ""
+    "translation": "控制方法，有暴走的",
+    "stage": 3
   },
   {
     "key": "0031-0168",
     "original": "ええっ！？",
-    "translation": ""
+    "translation": "诶诶！？",
+    "stage": 3
   },
   {
     "key": "0031-0169",
     "original": "そうならないためにも",
-    "translation": ""
+    "translation": "为了避免那样",
+    "stage": 3
   },
   {
     "key": "0031-0170",
     "original": "これから僕が、",
-    "translation": ""
+    "translation": "接下来我来教你",
+    "stage": 3
   },
   {
     "key": "0031-0171",
     "original": "初歩の召喚術の手順を",
-    "translation": ""
+    "translation": "召唤术的基础步骤",
+    "stage": 3
   },
   {
     "key": "0031-0172",
     "original": "教えようと思う",
-    "translation": ""
+    "translation": "",
+    "stage": 3
   },
   {
     "key": "0031-0173",
     "original": "ああ",
-    "translation": ""
+    "translation": "啊",
+    "stage": 3
   },
   {
     "key": "0031-0174",
     "original": "発動するんだろ？",
-    "translation": ""
+    "translation": "会发动对吧？",
+    "stage": 3
   },
   {
     "key": "0031-0175",
     "original": "はい、まず",
-    "translation": ""
+    "translation": "好的，首先",
+    "stage": 3
   },
   {
     "key": "0031-0176",
     "original": "発動するんですね？",
-    "translation": ""
+    "translation": "会发动对吧？",
+    "stage": 3
   },
   {
     "key": "0031-0177",
     "original": "だがこの方法は不確実",
-    "translation": ""
+    "translation": "但这个方法太不稳定",
+    "stage": 3
   },
   {
     "key": "0031-0178",
     "original": "すぎて実戦的じゃない",
-    "translation": ""
+    "translation": "不实用",
+    "stage": 3
   },
   {
     "key": "0031-0179",
     "original": "そうですよね・・・",
-    "translation": ""
+    "translation": "说得也是……",
+    "stage": 3
   },
   {
     "key": "0031-0180",
     "original": "不確実だとは",
-    "translation": ""
+    "translation": "我也觉得",
+    "stage": 3
   },
   {
     "key": "0031-0181",
     "original": "思いましたけど・・・",
-    "translation": ""
+    "translation": "不太稳定……",
+    "stage": 3
   },
   {
     "key": "0031-0182",
     "original": "一緒に行うんだ",
-    "translation": ""
+    "translation": "】的仪式",
+    "stage": 3
   },
   {
     "key": "0031-0183",
     "original": "契約みたいなもん？",
-    "translation": ""
+    "translation": "类似于契约吗？",
+    "stage": 3
   },
   {
     "key": "0031-0184",
     "original": "誓約ですか？",
-    "translation": ""
+    "translation": "誓约吗？",
+    "stage": 3
   },
   {
     "key": "0031-0185",
     "original": "なくてもね",
-    "translation": ""
+    "translation": "人也可以",
+    "stage": 3
   },
   {
     "key": "0031-0186",
     "original": "た特別な方法！？",
-    "translation": ""
+    "translation": "特别方法！？",
+    "stage": 3
   },
   {
     "key": "0031-0187",
     "original": "た特別な方法・・・？",
-    "translation": ""
+    "translation": "特别方法……？",
+    "stage": 3
   },
   {
     "key": "0031-0188",
     "original": "そういうことだ",
-    "translation": ""
+    "translation": "就是这样",
+    "stage": 3
   },
   {
     "key": "0031-0189",
     "original": "本来なら、こんなこと",
-    "translation": ""
+    "translation": "本来，这种事情是",
+    "stage": 3
   },
   {
     "key": "0031-0190",
     "original": "を普通の人に教えては",
-    "translation": ""
+    "translation": "不能教给普通人的……",
+    "stage": 3
   },
   {
     "key": "0031-0191",
     "original": "場合が場合だから、僕",
-    "translation": ""
+    "translation": "不过情况特殊，我",
+    "stage": 3
   },
   {
     "key": "0031-0192",
     "original": "は君たちを信じること",
-    "translation": ""
+    "translation": "决定相信你们",
+    "stage": 3
   },
   {
     "key": "0031-0193",
     "original": "に決めたんだ",
-    "translation": ""
+    "translation": "就这么决定了",
+    "stage": 3
   },
   {
     "key": "0031-0194",
     "original": "キール・・・",
-    "translation": ""
+    "translation": "基尔……",
+    "stage": 3
   },
   {
     "key": "0031-0195",
     "original": "キールさん・・・",
-    "translation": ""
+    "translation": "基尔先生……",
+    "stage": 3
   },
   {
     "key": "0031-0196",
     "original": "キミのあの不思議な力",
-    "translation": ""
+    "translation": "我想教教你",
+    "stage": 3
   },
   {
     "key": "0031-0197",
     "original": "の使い方を、教えたげ",
-    "translation": ""
+    "translation": "你那神奇力量的",
+    "stage": 3
   },
   {
     "key": "0031-0198",
     "original": "ようと思ってね",
-    "translation": ""
+    "translation": "用法",
+    "stage": 3
   },
   {
     "key": "0031-0199",
     "original": "あの、わたしたちを",
-    "translation": ""
+    "translation": "啊，是包裹住",
+    "stage": 3
   },
   {
     "key": "0031-0200",
     "original": "包んだ光ですね？",
-    "translation": ""
+    "translation": "我们的那道光吧？",
+    "stage": 3
   },
   {
     "key": "0031-0201",
     "original": "あれは・・・いったい",
-    "translation": ""
+    "translation": "那到底是……",
+    "stage": 3
   },
   {
     "key": "0031-0202",
     "original": "なんなんですか？",
-    "translation": ""
+    "translation": "什么东西啊？",
+    "stage": 3
   },
   {
     "key": "0031-0203",
     "original": "んー、あたしも断言は",
-    "translation": ""
+    "translation": "嗯，我也不能",
+    "stage": 3
   },
   {
     "key": "0031-0204",
     "original": "できないんだけどね、",
-    "translation": ""
+    "translation": "断言，",
+    "stage": 3
   },
   {
     "key": "0031-0205",
     "original": "一種じゃないかな",
-    "translation": ""
+    "translation": "【召唤术】的一种",
+    "stage": 3
   },
   {
     "key": "0031-0206",
     "original": "あ、それは思いこみ",
-    "translation": ""
+    "translation": "啊，那是你的误会",
+    "stage": 3
   },
   {
     "key": "0031-0207",
     "original": "方法さえ知ってれば、",
-    "translation": ""
+    "translation": "只要知道方法，",
+    "stage": 3
   },
   {
     "key": "0031-0208",
     "original": "召喚術は誰でも",
-    "translation": ""
+    "translation": "召唤术谁都能",
+    "stage": 3
   },
   {
     "key": "0031-0209",
     "original": "使えるもんなのよ",
-    "translation": ""
+    "translation": "用",
+    "stage": 3
   },
   {
     "key": "0031-0210",
     "original": "まあ、それはともかく",
-    "translation": ""
+    "translation": "嘛，不过话说回来",
+    "stage": 3
   },
   {
     "key": "0031-0211",
     "original": "キミの場合は呪文すら",
-    "translation": ""
+    "translation": "你连咒语都不需要，",
+    "stage": 3
   },
   {
     "key": "0031-0212",
     "original": "いらないし、まったく",
-    "translation": ""
+    "translation": "这完全是",
+    "stage": 3
   },
   {
     "key": "0031-0213",
     "original": "別次元の力だね",
-    "translation": ""
+    "translation": "另一个次元的力量啊",
+    "stage": 3
   },
   {
     "key": "0031-0214",
     "original": "あんなことは召喚師",
-    "translation": ""
+    "translation": "那种事就连召唤师",
+    "stage": 3
   },
   {
     "key": "0031-0215",
     "original": "だってできないもん",
-    "translation": ""
+    "translation": "也做不到",
+    "stage": 3
   },
   {
     "key": "0031-0216",
     "original": "だったんですか？",
-    "translation": ""
+    "translation": "厉害的事吗？",
+    "stage": 3
   },
   {
     "key": "0031-0217",
     "original": "ただし、問題もあるわ",
-    "translation": ""
+    "translation": "不过，也有问题",
+    "stage": 3
   },
   {
     "key": "0031-0218",
     "original": "キミの召喚術は我流よ",
-    "translation": ""
+    "translation": "你的召唤术是自学的",
+    "stage": 3
   },
   {
     "key": "0031-0219",
     "original": "学んでないから下手す",
-    "translation": ""
+    "translation": "控制方法，搞",
+    "stage": 3
   },
   {
     "key": "0031-0220",
     "original": "ると暴発しちゃうわ",
-    "translation": ""
+    "translation": "不好会暴走",
+    "stage": 3
   },
   {
     "key": "0031-0221",
     "original": "これからあたしが召喚",
-    "translation": ""
+    "translation": "接下来我来教你",
+    "stage": 3
   },
   {
     "key": "0031-0222",
     "original": "術の初歩を教えたげる",
-    "translation": ""
+    "translation": "召唤术的基础",
+    "stage": 3
   },
   {
     "key": "0031-0223",
     "original": "よーく聞きなさいよ",
-    "translation": ""
+    "translation": "你要好好听着哦",
+    "stage": 3
   },
   {
     "key": "0031-0224",
     "original": "覚えたかな？",
-    "translation": ""
+    "translation": "记住了吗？",
+    "stage": 3
   },
   {
     "key": "0031-0225",
     "original": "ええと・・・",
-    "translation": ""
+    "translation": "嗯……",
+    "stage": 3
   },
   {
     "key": "0031-0226",
     "original": "でも、この方法だけじ",
-    "translation": ""
+    "translation": "不过，光靠这个方法",
+    "stage": 3
   },
   {
     "key": "0031-0227",
     "original": "ゃいまいち役に",
-    "translation": ""
+    "translation": "还是有点",
+    "stage": 3
   },
   {
     "key": "0031-0228",
     "original": "立たないのよねえ",
-    "translation": ""
+    "translation": "不够用啊",
+    "stage": 3
   },
   {
     "key": "0031-0229",
     "original": "わけじゃないし",
-    "translation": ""
+    "translation": "",
+    "stage": 3
   },
   {
     "key": "0031-0230",
     "original": "ですよね・・・",
-    "translation": ""
+    "translation": "也是呢……",
+    "stage": 3
   },
   {
     "key": "0031-0231",
     "original": "だからあたしたちは、",
-    "translation": ""
+    "translation": "所以我们要一起",
+    "stage": 3
   },
   {
     "key": "0031-0232",
     "original": "一緒に行うの",
-    "translation": ""
+    "translation": "】的仪式",
+    "stage": 3
   },
   {
     "key": "0031-0233",
     "original": "うん",
-    "translation": ""
+    "translation": "嗯",
+    "stage": 3
   },
   {
     "key": "0031-0234",
     "original": "名前をつける儀式よ",
-    "translation": ""
+    "translation": "兽取名字的仪式",
+    "stage": 3
   },
   {
     "key": "0031-0235",
     "original": "ようになるのよ",
-    "translation": ""
+    "translation": "召唤出来哦",
+    "stage": 3
   },
   {
     "key": "0031-0236",
     "original": "そーゆーこと",
-    "translation": ""
+    "translation": "就是这样",
+    "stage": 3
   },
   {
     "key": "0031-0237",
     "original": "をぺらぺらと喋っちゃ",
-    "translation": ""
+    "translation": "不能随便说出来的……",
+    "stage": 3
   },
   {
     "key": "0031-0238",
     "original": "ダメなんだけど・・・",
-    "translation": ""
+    "translation": "",
+    "stage": 3
   },
   {
     "key": "0031-0239",
     "original": "場合が場合だしね",
-    "translation": ""
+    "translation": "情况特殊嘛",
+    "stage": 3
   },
   {
     "key": "0031-0240",
     "original": "キミたちを信じて特別",
-    "translation": ""
+    "translation": "我相信你们，就特别",
+    "stage": 3
   },
   {
     "key": "0031-0241",
     "original": "に教えたげるわ",
-    "translation": ""
+    "translation": "教给你们吧",
+    "stage": 3
   },
   {
     "key": "0031-0242",
     "original": "カシス・・・",
-    "translation": ""
+    "translation": "卡西斯……",
+    "stage": 3
   },
   {
     "key": "0031-0243",
     "original": "カシスさん・・・",
-    "translation": ""
+    "translation": "卡西斯小姐……",
+    "stage": 3
   },
   {
     "key": "0031-0244",
     "original": "貴方の持っている力に",
-    "translation": ""
+    "translation": "我想和你谈谈",
+    "stage": 3
   },
   {
     "key": "0031-0245",
     "original": "ついて、お話ししたい",
-    "translation": ""
+    "translation": "关于你所拥有的",
+    "stage": 3
   },
   {
     "key": "0031-0246",
     "original": "と思って",
-    "translation": ""
+    "translation": "力量",
+    "stage": 3
   },
   {
     "key": "0031-0247",
     "original": "光・・・？",
-    "translation": ""
+    "translation": "光……？",
+    "stage": 3
   },
   {
     "key": "0031-0248",
     "original": "あの不思議な光ね",
-    "translation": ""
+    "translation": "是那神奇的光吧",
+    "stage": 3
   },
   {
     "key": "0031-0249",
     "original": "自分で使っといて",
-    "translation": ""
+    "translation": "虽然是我自己",
+    "stage": 3
   },
   {
     "key": "0031-0250",
     "original": "なんだけど・・・",
-    "translation": ""
+    "translation": "用的……",
+    "stage": 3
   },
   {
     "key": "0031-0251",
     "original": "あれ、なに？",
-    "translation": ""
+    "translation": "那到底是什么？",
+    "stage": 3
   },
   {
     "key": "0031-0252",
     "original": "私もよくはわからない",
-    "translation": ""
+    "translation": "我也不太清楚，",
+    "stage": 3
   },
   {
     "key": "0031-0253",
     "original": "のですけど、おそらく",
-    "translation": ""
+    "translation": "不过，我想",
+    "stage": 3
   },
   {
     "key": "0031-0254",
     "original": "【召喚術】の一種では",
-    "translation": ""
+    "translation": "大概是【召唤术】的",
+    "stage": 3
   },
   {
     "key": "0031-0255",
     "original": "ないかと思います",
-    "translation": ""
+    "translation": "一种吧",
+    "stage": 3
   },
   {
     "key": "0031-0256",
     "original": "え？",
-    "translation": ""
+    "translation": "诶？",
+    "stage": 3
   },
   {
     "key": "0031-0257",
     "original": "しか使えないんじゃな",
-    "translation": ""
+    "translation": "才能用",
+    "stage": 3
   },
   {
     "key": "0031-0258",
     "original": "かったっけ？",
-    "translation": ""
+    "translation": "的吗？",
+    "stage": 3
   },
   {
     "key": "0031-0259",
     "original": "いえ、それは違います",
-    "translation": ""
+    "translation": "不，不是那样的",
+    "stage": 3
   },
   {
     "key": "0031-0260",
     "original": "ものなんです",
-    "translation": ""
+    "translation": "",
+    "stage": 3
   },
   {
     "key": "0031-0261",
     "original": "あ・・・それより貴方",
-    "translation": ""
+    "translation": "啊……不过你的情况，",
+    "stage": 3
   },
   {
     "key": "0031-0262",
     "original": "の場合ですが、呪文を",
-    "translation": ""
+    "translation": "连咒语都不需要，",
+    "stage": 3
   },
   {
     "key": "0031-0263",
     "original": "必要としない時点で、",
-    "translation": ""
+    "translation": "这一点上",
+    "stage": 3
   },
   {
     "key": "0031-0264",
     "original": "普通とは違いますね",
-    "translation": ""
+    "translation": "就和普通人不一样了",
+    "stage": 3
   },
   {
     "key": "0031-0265",
     "original": "召喚師でも無理ですし",
-    "translation": ""
+    "translation": "召唤师也做不到",
+    "stage": 3
   },
   {
     "key": "0031-0266",
     "original": "あたしって、そんな",
-    "translation": ""
+    "translation": "我竟然能做出",
+    "stage": 3
   },
   {
     "key": "0031-0267",
     "original": "すごいことが",
-    "translation": ""
+    "translation": "这么厉害的事",
+    "stage": 3
   },
   {
     "key": "0031-0268",
     "original": "できちゃったんだ",
-    "translation": ""
+    "translation": "啊",
+    "stage": 3
   },
   {
     "key": "0031-0269",
     "original": "ただ・・・",
-    "translation": ""
+    "translation": "只是……",
+    "stage": 3
   },
   {
     "key": "0031-0270",
     "original": "貴方の召喚術はいわば",
-    "translation": ""
+    "translation": "你的召唤术可以说是",
+    "stage": 3
   },
   {
     "key": "0031-0271",
     "original": "我流です。正式な技法",
-    "translation": ""
+    "translation": "自学的。如果不学习",
+    "stage": 3
   },
   {
     "key": "0031-0272",
     "original": "を学んでおかないと暴",
-    "translation": ""
+    "translation": "正规的技法，会有",
+    "stage": 3
   },
   {
     "key": "0031-0273",
     "original": "発の危険があります",
-    "translation": ""
+    "translation": "暴走的危险",
+    "stage": 3
   },
   {
     "key": "0031-0274",
     "original": "ええ～っ",
-    "translation": ""
+    "translation": "诶诶～！",
+    "stage": 3
   },
   {
     "key": "0031-0275",
     "original": "ですから、これから私",
-    "translation": ""
+    "translation": "所以，接下来我",
+    "stage": 3
   },
   {
     "key": "0031-0276",
     "original": "が召喚術の初歩を貴方",
-    "translation": ""
+    "translation": "会教你召唤术的基础。",
+    "stage": 3
   },
   {
     "key": "0031-0277",
     "original": "にお教えします。よく",
-    "translation": ""
+    "translation": "请好好听",
+    "stage": 3
   },
   {
     "key": "0031-0278",
     "original": "聞いてくださいね",
-    "translation": ""
+    "translation": "着",
+    "stage": 3
   },
   {
     "key": "0031-0279",
     "original": "覚えましたか？",
-    "translation": ""
+    "translation": "记住了吗？",
+    "stage": 3
   },
   {
     "key": "0031-0280",
     "original": "簡単ね・・・",
-    "translation": ""
+    "translation": "真简单……",
+    "stage": 3
   },
   {
     "key": "0031-0281",
     "original": "次に何か行動すれば",
-    "translation": ""
+    "translation": "然后只要做点什么行动",
+    "stage": 3
   },
   {
     "key": "0031-0282",
     "original": "【召喚術】が発動！",
-    "translation": ""
+    "translation": "【召唤术】就发动了！",
+    "stage": 3
   },
   {
     "key": "0031-0283",
     "original": "でしょ？",
-    "translation": ""
+    "translation": "对吧？",
+    "stage": 3
   },
   {
     "key": "0031-0284",
     "original": "ええ・・・ですがこの",
-    "translation": ""
+    "translation": "嗯……不过这个方法",
+    "stage": 3
   },
   {
     "key": "0031-0285",
     "original": "方法は基礎だけあって",
-    "translation": ""
+    "translation": "只是基础，所以",
+    "stage": 3
   },
   {
     "key": "0031-0286",
     "original": "不都合も多いんです",
-    "translation": ""
+    "translation": "也有很多不便之处",
+    "stage": 3
   },
   {
     "key": "0031-0287",
     "original": "を消耗しますし望んだ",
-    "translation": ""
+    "translation": "而且也不一定",
+    "stage": 3
   },
   {
     "key": "0031-0288",
     "original": "召喚術を確実に使える",
-    "translation": ""
+    "translation": "能稳定使出想要的",
+    "stage": 3
   },
   {
     "key": "0031-0289",
     "original": "わけじゃないですし",
-    "translation": ""
+    "translation": "召唤术",
+    "stage": 3
   },
   {
     "key": "0031-0290",
     "original": "だめじゃん・・・",
-    "translation": ""
+    "translation": "不行啊……",
+    "stage": 3
   },
   {
     "key": "0031-0291",
     "original": "ですから召喚師は普通",
-    "translation": ""
+    "translation": "所以召唤师通常",
+    "stage": 3
   },
   {
     "key": "0031-0292",
     "original": "一緒に行うんです",
-    "translation": ""
+    "translation": "】的仪式，一起去吧",
+    "stage": 3
   },
   {
     "key": "0031-0293",
     "original": "ええ",
-    "translation": ""
+    "translation": "嗯",
+    "stage": 3
   },
   {
     "key": "0031-0294",
     "original": "名前をつける儀式です",
-    "translation": ""
+    "translation": "兽取名字的仪式",
+    "stage": 3
   },
   {
     "key": "0031-0295",
     "original": "ようになるんです",
-    "translation": ""
+    "translation": "召唤出来",
+    "stage": 3
   },
   {
     "key": "0031-0296",
     "original": "なくても",
-    "translation": ""
+    "translation": "人也可以",
+    "stage": 3
   },
   {
     "key": "0031-0297",
     "original": "今のがさっき言ってた",
-    "translation": ""
+    "translation": "这就是你刚才说的",
+    "stage": 3
   },
   {
     "key": "0031-0298",
     "original": "特別な方法？",
-    "translation": ""
+    "translation": "特别的方法？",
+    "stage": 3
   },
   {
     "key": "0031-0299",
     "original": "そういうことです",
-    "translation": ""
+    "translation": "正是如此",
+    "stage": 3
   },
   {
     "key": "0031-0300",
     "original": "本来なら、普通の人に",
-    "translation": ""
+    "translation": "按理说，这本来",
+    "stage": 3
   },
   {
     "key": "0031-0301",
     "original": "教えるべきことではな",
-    "translation": ""
+    "translation": "是不该教给普通人",
+    "stage": 3
   },
   {
     "key": "0031-0302",
     "original": "いのですが・・・",
-    "translation": ""
+    "translation": "的事情……",
+    "stage": 3
   },
   {
     "key": "0031-0303",
     "original": "貴方たちのことを信じ",
-    "translation": ""
+    "translation": "但我相信你们，",
+    "stage": 3
   },
   {
     "key": "0031-0304",
     "original": "て、私、特別にお教え",
-    "translation": ""
+    "translation": "所以特别破例",
+    "stage": 3
   },
   {
     "key": "0031-0305",
     "original": "しようと思います",
-    "translation": ""
+    "translation": "教给你们吧",
+    "stage": 3
   },
   {
     "key": "0031-0306",
     "original": "クラレット・・・",
-    "translation": ""
+    "translation": "克拉雷特……",
+    "stage": 3
   },
   {
     "key": "0031-0307",
