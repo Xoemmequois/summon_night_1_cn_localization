@@ -39885,13 +39885,13 @@
   {
     "key": "0032-0033",
     "original": "はレイドさんじゃ",
-    "translation": "雷德先生",
+    "translation": "雷德先生不是",
     "stage": 3
   },
   {
     "key": "0032-0034",
     "original": "ないですか？",
-    "translation": "不是吗？",
+    "translation": "吗？",
     "stage": 3
   },
   {
@@ -40167,22 +40167,26 @@
   {
     "key": "0032-0080",
     "original": "だけど、どうやら君は",
-    "translation": ""
+    "translation": "不过，看来你",
+    "stage": 3
   },
   {
     "key": "0032-0081",
     "original": "違うようだな",
-    "translation": ""
+    "translation": "不一样",
+    "stage": 3
   },
   {
     "key": "0032-0082",
     "original": "今の言葉を聞いて",
-    "translation": ""
+    "translation": "听到你刚才的话",
+    "stage": 3
   },
   {
     "key": "0032-0083",
     "original": "安心したよ",
-    "translation": ""
+    "translation": "我就放心了",
+    "stage": 3
   },
   {
     "key": "0032-0084",
@@ -40253,22 +40257,26 @@
   {
     "key": "0032-0095",
     "original": "正直、まだ召喚術",
-    "translation": ""
+    "translation": "说实话，召唤术什么的",
+    "stage": 3
   },
   {
     "key": "0032-0096",
     "original": "なんて想像つかないし",
-    "translation": ""
+    "translation": "我还完全无法想象",
+    "stage": 3
   },
   {
     "key": "0032-0097",
     "original": "ちょっと怖いかな",
-    "translation": ""
+    "translation": "……稍微有点害怕呢",
+    "stage": 3
   },
   {
     "key": "0032-0098",
     "original": "・・・なんて",
-    "translation": ""
+    "translation": "",
+    "stage": 3
   },
   {
     "key": "0032-0099",
@@ -40561,7 +40569,7 @@
   {
     "key": "0032-0147",
     "original": "え？",
-    "translation": "哎？",
+    "translation": "嗯？",
     "stage": 3
   },
   {
@@ -40627,17 +40635,20 @@
   {
     "key": "0032-0158",
     "original": "キールのこと、",
-    "translation": ""
+    "translation": "关于基尔的事、",
+    "stage": 3
   },
   {
     "key": "0032-0159",
     "original": "カシスのこと、",
-    "translation": ""
+    "translation": "关于卡西斯的事、",
+    "stage": 3
   },
   {
     "key": "0032-0160",
     "original": "クラレットのこと、",
-    "translation": ""
+    "translation": "关于克拉雷特的事、",
+    "stage": 3
   },
   {
     "key": "0032-0161",
@@ -40654,12 +40665,14 @@
   {
     "key": "0032-0163",
     "original": "カシスについて",
-    "translation": ""
+    "translation": "关于卡西斯",
+    "stage": 3
   },
   {
     "key": "0032-0164",
     "original": "クラレットについて",
-    "translation": ""
+    "translation": "关于克拉雷特",
+    "stage": 3
   },
   {
     "key": "0032-0165",
@@ -40676,12 +40689,14 @@
   {
     "key": "0032-0167",
     "original": "キールのこと",
-    "translation": ""
+    "translation": "基尔的事",
+    "stage": 3
   },
   {
     "key": "0032-0168",
     "original": "クラレットのこと",
-    "translation": ""
+    "translation": "克拉雷特的事",
+    "stage": 3
   },
   {
     "key": "0032-0169",
@@ -40692,12 +40707,14 @@
   {
     "key": "0032-0170",
     "original": "キールさんのこと",
-    "translation": ""
+    "translation": "关于基尔先生的事",
+    "stage": 3
   },
   {
     "key": "0032-0171",
     "original": "カシスさんのこと",
-    "translation": ""
+    "translation": "关于卡西斯先生的事",
+    "stage": 3
   },
   {
     "key": "0032-0172",
@@ -40792,7 +40809,8 @@
   {
     "key": "0032-0187",
     "original": "キールさん",
-    "translation": ""
+    "translation": "基尔先生",
+    "stage": 3
   },
   {
     "key": "0032-0188",
@@ -40899,13 +40917,13 @@
   {
     "key": "0032-0205",
     "original": "わたしからも話して",
-    "translation": "那我也去",
+    "translation": "那我也去跟他",
     "stage": 3
   },
   {
     "key": "0032-0206",
     "original": "みます・・・",
-    "translation": "跟他聊聊……",
+    "translation": "聊聊……",
     "stage": 3
   },
   {
@@ -40929,12 +40947,14 @@
   {
     "key": "0032-0210",
     "original": "たしかに・・・",
-    "translation": ""
+    "translation": "确实……",
+    "stage": 3
   },
   {
     "key": "0032-0211",
     "original": "う～ん、そっか・・・",
-    "translation": ""
+    "translation": "嗯……这样啊……",
+    "stage": 3
   },
   {
     "key": "0032-0212",
@@ -40945,57 +40965,68 @@
   {
     "key": "0032-0213",
     "original": "なんのかんのいっても",
-    "translation": ""
+    "translation": "不管怎么说",
+    "stage": 3
   },
   {
     "key": "0032-0214",
     "original": "女には違いないからな",
-    "translation": ""
+    "translation": "她毕竟是个女的",
+    "stage": 3
   },
   {
     "key": "0032-0215",
     "original": "周りが男ばかりで警戒",
-    "translation": ""
+    "translation": "周围全是男的，可能是",
+    "stage": 3
   },
   {
     "key": "0032-0216",
     "original": "してんのかもな",
-    "translation": ""
+    "translation": "在警惕吧",
+    "stage": 3
   },
   {
     "key": "0032-0217",
     "original": "でもよ、このまま孤立",
-    "translation": ""
+    "translation": "可是啊，一直这样孤立",
+    "stage": 3
   },
   {
     "key": "0032-0218",
     "original": "してちゃ、一緒に生活",
-    "translation": ""
+    "translation": "下去的话，要一起生活",
+    "stage": 3
   },
   {
     "key": "0032-0219",
     "original": "していくのは難しいぜ",
-    "translation": ""
+    "translation": "可不容易哦",
+    "stage": 3
   },
   {
     "key": "0032-0220",
     "original": "あたしも女・・・",
-    "translation": ""
+    "translation": "我也是女的……",
+    "stage": 3
   },
   {
     "key": "0032-0221",
     "original": "まあいいや・・・",
-    "translation": ""
+    "translation": "算了……",
+    "stage": 3
   },
   {
     "key": "0032-0222",
     "original": "でも、やっぱあたしが",
-    "translation": ""
+    "translation": "不过，果然还是得由我",
+    "stage": 3
   },
   {
     "key": "0032-0223",
     "original": "話相手しなきゃダメか",
-    "translation": ""
+    "translation": "来跟她说话才行吗",
+    "stage": 3
   },
   {
     "key": "0032-0224",
@@ -41006,12 +41037,14 @@
   {
     "key": "0032-0225",
     "original": "わたしからも、話して",
-    "translation": ""
+    "translation": "我也试着跟她",
+    "stage": 3
   },
   {
     "key": "0032-0226",
     "original": "ああ、そうしてやんな",
-    "translation": ""
+    "translation": "啊，那就这么做吧",
+    "stage": 3
   },
   {
     "key": "0032-0227",
@@ -41202,7 +41235,8 @@
   {
     "key": "0032-0258",
     "original": "カシスさんについて",
-    "translation": ""
+    "translation": "关于卡西斯先生",
+    "stage": 3
   },
   {
     "key": "0032-0259",
@@ -41225,7 +41259,8 @@
   {
     "key": "0032-0262",
     "original": "たしかに、キールさん",
-    "translation": ""
+    "translation": "确实，基尔先生",
+    "stage": 3
   },
   {
     "key": "0032-0263",
@@ -41302,102 +41337,122 @@
   {
     "key": "0032-0275",
     "original": "女の子同士だったらさ",
-    "translation": ""
+    "translation": "女孩子之间的话",
+    "stage": 3
   },
   {
     "key": "0032-0276",
     "original": "会話のひとつでもある",
-    "translation": ""
+    "translation": "至少还能说上几句话",
+    "stage": 3
   },
   {
     "key": "0032-0277",
     "original": "かと思ったんだけど",
-    "translation": ""
+    "translation": "我还以为是这样呢",
+    "stage": 3
   },
   {
     "key": "0032-0278",
     "original": "女の子同士だったら、",
-    "translation": ""
+    "translation": "女孩子之间的话，",
+    "stage": 3
   },
   {
     "key": "0032-0279",
     "original": "かと思ったんだけどね",
-    "translation": ""
+    "translation": "我还以为是这样呢",
+    "stage": 3
   },
   {
     "key": "0032-0280",
     "original": "あたしたち、数少ない",
-    "translation": ""
+    "translation": "我们也是为数不多的",
+    "stage": 3
   },
   {
     "key": "0032-0281",
     "original": "女の子でしょ？",
-    "translation": ""
+    "translation": "女孩子吧？",
+    "stage": 3
   },
   {
     "key": "0032-0282",
     "original": "仲良くなれないかな？",
-    "translation": ""
+    "translation": "能不能成为好朋友呢？",
+    "stage": 3
   },
   {
     "key": "0032-0283",
     "original": "女の子同士なら",
-    "translation": ""
+    "translation": "如果是女孩子之间的话",
+    "stage": 3
   },
   {
     "key": "0032-0284",
     "original": "かと思ったのですが",
-    "translation": ""
+    "translation": "我还以为是这样呢",
+    "stage": 3
   },
   {
     "key": "0032-0285",
     "original": "うーん　私はいつも",
-    "translation": ""
+    "translation": "嗯……我总是一副",
+    "stage": 3
   },
   {
     "key": "0032-0286",
     "original": "バタバタしてるし、",
-    "translation": ""
+    "translation": "忙忙碌碌的样子，",
+    "stage": 3
   },
   {
     "key": "0032-0287",
     "original": "彼女は彼女で部屋に閉",
-    "translation": ""
+    "translation": "她呢，又把自己关在房",
+    "stage": 3
   },
   {
     "key": "0032-0288",
     "original": "じこもってるしねえ",
-    "translation": ""
+    "translation": "间里不出来啊",
+    "stage": 3
   },
   {
     "key": "0032-0289",
     "original": "私もできれば仲良くし",
-    "translation": ""
+    "translation": "我也希望如果可以的话",
+    "stage": 3
   },
   {
     "key": "0032-0290",
     "original": "たいんだけど・・・",
-    "translation": ""
+    "translation": "能和睦相处……",
+    "stage": 3
   },
   {
     "key": "0032-0291",
     "original": "じゃあ、あたしからも",
-    "translation": ""
+    "translation": "那我也",
+    "stage": 3
   },
   {
     "key": "0032-0292",
     "original": "話をしてみるね！",
-    "translation": ""
+    "translation": "去跟她聊聊看吧！",
+    "stage": 3
   },
   {
     "key": "0032-0293",
     "original": "わたしからも",
-    "translation": ""
+    "translation": "我也试着",
+    "stage": 3
   },
   {
     "key": "0032-0294",
     "original": "話してみますね・・・",
-    "translation": ""
+    "translation": "跟她说说吧……",
+    "stage": 3
   },
   {
     "key": "0032-0295",
@@ -41408,17 +41463,20 @@
   {
     "key": "0032-0296",
     "original": "キール",
-    "translation": ""
+    "translation": "基尔",
+    "stage": 3
   },
   {
     "key": "0032-0297",
     "original": "カシス",
-    "translation": ""
+    "translation": "卡西斯",
+    "stage": 3
   },
   {
     "key": "0032-0298",
     "original": "クラレット",
-    "translation": ""
+    "translation": "克拉雷特",
+    "stage": 3
   },
   {
     "key": "0032-0299",
@@ -41801,7 +41859,8 @@
   {
     "key": "0032-0362",
     "original": "カシスさん",
-    "translation": ""
+    "translation": "卡西斯先生",
+    "stage": 3
   },
   {
     "key": "0032-0363",
@@ -41830,7 +41889,7 @@
   {
     "key": "0032-0367",
     "original": "ここに来てからずっと",
-    "translation": "你自从来了这里之后",
+    "translation": "你自从来到这里之后",
     "stage": 3
   },
   {
@@ -41872,7 +41931,7 @@
   {
     "key": "0032-0374",
     "original": "でしょ？",
-    "translation": "里对吧？",
+    "translation": "对吧？",
     "stage": 3
   },
   {
@@ -41902,13 +41961,13 @@
   {
     "key": "0032-0379",
     "original": "みたいですし、お出か",
-    "translation": "里的样子，要不要",
+    "translation": "里要不要一起出去",
     "stage": 3
   },
   {
     "key": "0032-0380",
     "original": "けでもしませんか？",
-    "translation": "出去走走呢？",
+    "translation": "走走呢？",
     "stage": 3
   },
   {
@@ -41944,19 +42003,19 @@
   {
     "key": "0032-0386",
     "original": "なんか、露骨に迷惑な",
-    "translation": "总觉得，他脸上露出了",
+    "translation": "总觉得，刚才那副表情",
     "stage": 3
   },
   {
     "key": "0032-0387",
     "original": "顔をされたような",
-    "translation": "很明显的",
+    "translation": "分明就是嫌麻烦",
     "stage": 3
   },
   {
     "key": "0032-0388",
     "original": "気がする・・・",
-    "translation": "不耐烦的表情……",
+    "translation": "……",
     "stage": 3
   },
   {
@@ -41986,233 +42045,278 @@
   {
     "key": "0032-0393",
     "original": "顔をされたような気が",
-    "translation": "明显的厌烦的表情",
+    "translation": "分明就是嫌麻烦",
     "stage": 3
   },
   {
     "key": "0032-0394",
     "original": "何か用事かい？",
-    "translation": ""
+    "translation": "有什么事吗？",
+    "stage": 3
   },
   {
     "key": "0032-0395",
     "original": "はないんだけどさ",
-    "translation": ""
+    "translation": "有什么特别的事",
+    "stage": 3
   },
   {
     "key": "0032-0396",
     "original": "はい・・・",
-    "translation": ""
+    "translation": "嗯……",
+    "stage": 3
   },
   {
     "key": "0032-0397",
     "original": "みたいですし、一緒に",
-    "translation": ""
+    "translation": "房间里要不要一起",
+    "stage": 3
   },
   {
     "key": "0032-0398",
     "original": "出かけませんか",
-    "translation": ""
+    "translation": "出去走走呢",
+    "stage": 3
   },
   {
     "key": "0032-0399",
     "original": "目的なしに歩き回る",
-    "translation": ""
+    "translation": "我不太喜欢",
+    "stage": 3
   },
   {
     "key": "0032-0400",
     "original": "のは、あまり好きじゃ",
-    "translation": ""
+    "translation": "漫无目的地闲逛",
+    "stage": 3
   },
   {
     "key": "0032-0401",
     "original": "ないんだ",
-    "translation": ""
+    "translation": "啊",
+    "stage": 3
   },
   {
     "key": "0032-0402",
     "original": "悪いが、遠慮するよ",
-    "translation": ""
+    "translation": "抱歉，我婉拒了",
+    "stage": 3
   },
   {
     "key": "0032-0403",
     "original": "ざんねんです・・・",
-    "translation": ""
+    "translation": "真遗憾……",
+    "stage": 3
   },
   {
     "key": "0032-0404",
     "original": "します・・・",
-    "translation": ""
+    "translation": "……",
+    "stage": 3
   },
   {
     "key": "0032-0405",
     "original": "あれ、なんか用？",
-    "translation": ""
+    "translation": "咦，有事吗？",
+    "stage": 3
   },
   {
     "key": "0032-0406",
     "original": "ええ",
-    "translation": ""
+    "translation": "嗯",
+    "stage": 3
   },
   {
     "key": "0032-0407",
     "original": "けしませんか？",
-    "translation": ""
+    "translation": "走走呢？",
+    "stage": 3
   },
   {
     "key": "0032-0408",
     "original": "えっ、それって",
-    "translation": ""
+    "translation": "诶，那难道是",
+    "stage": 3
   },
   {
     "key": "0032-0409",
     "original": "もしかしてデートの",
-    "translation": ""
+    "translation": "约会的",
+    "stage": 3
   },
   {
     "key": "0032-0410",
     "original": "お誘いってこと？",
-    "translation": ""
+    "translation": "邀请吗？",
+    "stage": 3
   },
   {
     "key": "0032-0411",
     "original": "え！？",
-    "translation": ""
+    "translation": "诶！？",
+    "stage": 3
   },
   {
     "key": "0032-0412",
     "original": "いや、そんな",
-    "translation": ""
+    "translation": "不，我没",
+    "stage": 3
   },
   {
     "key": "0032-0413",
     "original": "つもりは・・・",
-    "translation": ""
+    "translation": "那个意思……",
+    "stage": 3
   },
   {
     "key": "0032-0414",
     "original": "・・・あの、",
-    "translation": ""
+    "translation": "……那个，",
+    "stage": 3
   },
   {
     "key": "0032-0415",
     "original": "わたしたち、女の子",
-    "translation": ""
+    "translation": "我们都是",
+    "stage": 3
   },
   {
     "key": "0032-0416",
     "original": "同士ですけど・・・",
-    "translation": ""
+    "translation": "女孩子吧……",
+    "stage": 3
   },
   {
     "key": "0032-0417",
     "original": "えーっ、違うの！？",
-    "translation": ""
+    "translation": "诶，不是吗！？",
+    "stage": 3
   },
   {
     "key": "0032-0418",
     "original": "・・・つまんないなぁ",
-    "translation": ""
+    "translation": "……真没劲。",
+    "stage": 3
   },
   {
     "key": "0032-0419",
     "original": "だったら行かなーい",
-    "translation": ""
+    "translation": "那就不去了~。",
+    "stage": 3
   },
   {
     "key": "0032-0420",
     "original": "なんか、うまくはぐら",
-    "translation": ""
+    "translation": "总觉得，被她巧妙地",
+    "stage": 3
   },
   {
     "key": "0032-0421",
     "original": "かされてしまった",
-    "translation": ""
+    "translation": "糊弄过去了",
+    "stage": 3
   },
   {
     "key": "0032-0422",
     "original": "あ、そうですか・・・",
-    "translation": ""
+    "translation": "啊，是吗……",
+    "stage": 3
   },
   {
     "key": "0032-0423",
     "original": "かされてしまった気が",
-    "translation": ""
+    "translation": "糊弄过去了",
+    "stage": 3
   },
   {
     "key": "0032-0424",
     "original": "するのですが・・・",
-    "translation": ""
+    "translation": "……",
+    "stage": 3
   },
   {
     "key": "0032-0425",
     "original": "何かご用ですか？",
-    "translation": ""
+    "translation": "请问有什么事吗？",
+    "stage": 3
   },
   {
     "key": "0032-0426",
     "original": "うん",
-    "translation": ""
+    "translation": "嗯",
+    "stage": 3
   },
   {
     "key": "0032-0427",
     "original": "どっかいかない？",
-    "translation": ""
+    "translation": "要不要出去走走？",
+    "stage": 3
   },
   {
     "key": "0032-0428",
     "original": "ほら、ずっとこもりき",
-    "translation": ""
+    "translation": "你看，一直",
+    "stage": 3
   },
   {
     "key": "0032-0429",
     "original": "りじゃさ、脳味噌に",
-    "translation": ""
+    "translation": "闷在屋里，脑子",
+    "stage": 3
   },
   {
     "key": "0032-0430",
     "original": "カビ生えちゃうよ",
-    "translation": ""
+    "translation": "都要长霉了",
+    "stage": 3
   },
   {
     "key": "0032-0431",
     "original": "どう、散歩くらい",
-    "translation": ""
+    "translation": "去散个步怎么样？",
+    "stage": 3
   },
   {
     "key": "0032-0432",
     "original": "あの・・・私、ちょっ",
-    "translation": ""
+    "translation": "那个……我有点事情必",
+    "stage": 3
   },
   {
     "key": "0032-0433",
     "original": "と調べなくちゃいけな",
-    "translation": ""
+    "translation": "须调查一下",
+    "stage": 3
   },
   {
     "key": "0032-0434",
     "original": "いことがあるんです",
-    "translation": ""
+    "translation": "",
+    "stage": 3
   },
   {
     "key": "0032-0435",
     "original": "ですから、またの機会",
-    "translation": ""
+    "translation": "所以，还是下次再说",
+    "stage": 3
   },
   {
     "key": "0032-0436",
     "original": "ということで・・・",
-    "translation": ""
+    "translation": "吧……",
+    "stage": 3
   },
   {
     "key": "0032-0437",
     "original": "あ、そ、そう・・・？",
-    "translation": ""
+    "translation": "啊，是、是吗……？",
+    "stage": 3
   },
   {
     "key": "0032-0438",
     "original": "するよぉ・・・",
-    "translation": ""
+    "translation": "……",
+    "stage": 3
   },
   {
     "key": "0032-0439",
@@ -42373,7 +42477,7 @@
   {
     "key": "0032-0465",
     "original": "しようよ",
-    "translation": "聊聊吧",
+    "translation": "聊聊吧？",
     "stage": 3
   },
   {
@@ -42433,7 +42537,7 @@
   {
     "key": "0032-0475",
     "original": "面白くないんじゃ",
-    "translation": "难道不觉得",
+    "translation": "难道不觉得无聊",
     "stage": 3
   },
   {
@@ -42451,37 +42555,37 @@
   {
     "key": "0032-0478",
     "original": "まあ、とにかく・・・",
-    "translation": "总之啊……",
+    "translation": "总之呢……",
     "stage": 3
   },
   {
     "key": "0032-0479",
     "original": "みんなは君ともっと",
-    "translation": "大家可是想和你",
+    "translation": "大家可是很想",
     "stage": 3
   },
   {
     "key": "0032-0480",
     "original": "話がしたいって思って",
-    "translation": "多聊聊的",
+    "translation": "多和你聊聊",
     "stage": 3
   },
   {
     "key": "0032-0481",
     "original": "いるんだから",
-    "translation": "哦",
+    "translation": "的哦",
     "stage": 3
   },
   {
     "key": "0032-0482",
     "original": "たまにでいいからさ、",
-    "translation": "偶尔也好，你应该",
+    "translation": "偶尔也行，你应该",
     "stage": 3
   },
   {
     "key": "0032-0483",
     "original": "みんなと会話する時間",
-    "translation": "也留点时间",
+    "translation": "腾出点时间",
     "stage": 3
   },
   {
@@ -42535,13 +42639,13 @@
   {
     "key": "0032-0492",
     "original": "みんなと話をしてみて",
-    "translation": "我希望你能试着",
+    "translation": "想让你和大家",
     "stage": 3
   },
   {
     "key": "0032-0493",
     "original": "ほしいなぁ～って",
-    "translation": "多和大家聊聊天",
+    "translation": "说说话",
     "stage": 3
   },
   {
@@ -42565,13 +42669,13 @@
   {
     "key": "0032-0497",
     "original": "みんなもあなたとお話",
-    "translation": "大家也都想和你",
+    "translation": "大家可是很想",
     "stage": 3
   },
   {
     "key": "0032-0498",
     "original": "がしたいって思ってる",
-    "translation": "说说话",
+    "translation": "多和你聊聊",
     "stage": 3
   },
   {
@@ -42757,13 +42861,13 @@
   {
     "key": "0032-0529",
     "original": "わたしもそうでした",
-    "translation": "我以前也是",
+    "translation": "因为我以前也这样",
     "stage": 3
   },
   {
     "key": "0032-0530",
     "original": "から・・・",
-    "translation": "所以……",
+    "translation": "……",
     "stage": 3
   },
   {
@@ -42775,19 +42879,19 @@
   {
     "key": "0032-0532",
     "original": "そんな時、みんなと話",
-    "translation": "那时候，和大家聊聊天",
+    "translation": "那种时候，和大家说说",
     "stage": 3
   },
   {
     "key": "0032-0533",
     "original": "をしていると、なんと",
-    "translation": "不知怎么的",
+    "translation": "话，总觉得不安就减轻",
     "stage": 3
   },
   {
     "key": "0032-0534",
     "original": "なく不安が軽くなった",
-    "translation": "不安就会减轻一些",
+    "translation": "了一些",
     "stage": 3
   },
   {
@@ -42817,13 +42921,13 @@
   {
     "key": "0032-0539",
     "original": "でも・・・みんなと話",
-    "translation": "但是……和大家聊聊天",
+    "translation": "但是……和大家说说",
     "stage": 3
   },
   {
     "key": "0032-0540",
     "original": "気がして・・・",
-    "translation": "就减轻了……",
+    "translation": "……",
     "stage": 3
   },
   {
@@ -42937,13 +43041,13 @@
   {
     "key": "0032-0559",
     "original": "でも、これじゃ確かに",
-    "translation": "不过，这样下去确实不",
+    "translation": "不过，这样确实不行",
     "stage": 3
   },
   {
     "key": "0032-0560",
     "original": "いけないんだろうな",
-    "translation": "行吧大概不行吧……",
+    "translation": "吧",
     "stage": 3
   },
   {
@@ -42985,82 +43089,98 @@
   {
     "key": "0032-0567",
     "original": "あの・・・お部屋に",
-    "translation": ""
+    "translation": "那个……一直把自己关",
+    "stage": 3
   },
   {
     "key": "0032-0568",
     "original": "閉じこもりきり",
-    "translation": ""
+    "translation": "在房间里我觉得这样",
+    "stage": 3
   },
   {
     "key": "0032-0569",
     "original": "なのはよくないと",
-    "translation": ""
+    "translation": "不太好……",
+    "stage": 3
   },
   {
     "key": "0032-0570",
     "original": "思います・・・",
-    "translation": ""
+    "translation": "",
+    "stage": 3
   },
   {
     "key": "0032-0571",
     "original": "無茶はしていないぞ",
-    "translation": ""
+    "translation": "会搞坏身体的蠢事",
+    "stage": 3
   },
   {
     "key": "0032-0572",
     "original": "さ・・・",
-    "translation": ""
+    "translation": "啦……",
+    "stage": 3
   },
   {
     "key": "0032-0573",
     "original": "いえ、そうではなくて",
-    "translation": ""
+    "translation": "不，不是那样",
+    "stage": 3
   },
   {
     "key": "0032-0574",
     "original": "ですね・・・",
-    "translation": ""
+    "translation": "那个……",
+    "stage": 3
   },
   {
     "key": "0032-0575",
     "original": "　みんなと話そうぜ",
-    "translation": ""
+    "translation": "　跟大家说说话吧",
+    "stage": 3
   },
   {
     "key": "0032-0576",
     "original": "　なんか心配なんだよ",
-    "translation": ""
+    "translation": "　我有点担心你",
+    "stage": 3
   },
   {
     "key": "0032-0577",
     "original": "しようぜ？",
-    "translation": ""
+    "translation": "聊聊吧？",
+    "stage": 3
   },
   {
     "key": "0032-0578",
     "original": "みなさんとお話を",
-    "translation": ""
+    "translation": "请和大家",
+    "stage": 3
   },
   {
     "key": "0032-0579",
     "original": "してください・・・",
-    "translation": ""
+    "translation": "说说话吧……",
+    "stage": 3
   },
   {
     "key": "0032-0580",
     "original": "話すって、何をだ？",
-    "translation": ""
+    "translation": "说话？说什么？",
+    "stage": 3
   },
   {
     "key": "0032-0581",
     "original": "あーっ、だからさぁ",
-    "translation": ""
+    "translation": "啊——所以说啊",
+    "stage": 3
   },
   {
     "key": "0032-0582",
     "original": "つまんないだろ？",
-    "translation": ""
+    "translation": "很无聊吧？",
+    "stage": 3
   },
   {
     "key": "0032-0583",
@@ -43071,202 +43191,242 @@
   {
     "key": "0032-0584",
     "original": "ひとりでいるの・・・",
-    "translation": ""
+    "translation": "一个人待着……",
+    "stage": 3
   },
   {
     "key": "0032-0585",
     "original": "つまらなくは",
-    "translation": ""
+    "translation": "不觉得无聊",
+    "stage": 3
   },
   {
     "key": "0032-0586",
     "original": "別につまらなくは",
-    "translation": ""
+    "translation": "倒也不觉得",
+    "stage": 3
   },
   {
     "key": "0032-0587",
     "original": "ないんだがな・・・",
-    "translation": ""
+    "translation": "无聊啊……",
+    "stage": 3
   },
   {
     "key": "0032-0588",
     "original": "こりゃダメだ",
-    "translation": ""
+    "translation": "这样不行啊",
+    "stage": 3
   },
   {
     "key": "0032-0589",
     "original": "話がしたいって",
-    "translation": ""
+    "translation": "多和你聊聊",
+    "stage": 3
   },
   {
     "key": "0032-0590",
     "original": "思ってるんだよ",
-    "translation": ""
+    "translation": "的呀！",
+    "stage": 3
   },
   {
     "key": "0032-0591",
     "original": "を作ってくれよ",
-    "translation": ""
+    "translation": "和大家说说话",
+    "stage": 3
   },
   {
     "key": "0032-0592",
     "original": "たまにでいいから",
-    "translation": ""
+    "translation": "偶尔也好",
+    "stage": 3
   },
   {
     "key": "0032-0593",
     "original": "・・・これは",
-    "translation": ""
+    "translation": "……这可真是",
+    "stage": 3
   },
   {
     "key": "0032-0594",
     "original": "手強いですね・・・",
-    "translation": ""
+    "translation": "棘手啊……",
+    "stage": 3
   },
   {
     "key": "0032-0595",
     "original": "あの、ですね・・・",
-    "translation": ""
+    "translation": "那个，是这样的……",
+    "stage": 3
   },
   {
     "key": "0032-0596",
     "original": "みなさんも、あなたと",
-    "translation": ""
+    "translation": "大家也都",
+    "stage": 3
   },
   {
     "key": "0032-0597",
     "original": "話をしたいって、",
-    "translation": ""
+    "translation": "想和你",
+    "stage": 3
   },
   {
     "key": "0032-0598",
     "original": "思っているんです",
-    "translation": ""
+    "translation": "说说话呢",
+    "stage": 3
   },
   {
     "key": "0032-0599",
     "original": "たまにでいいですから",
-    "translation": ""
+    "translation": "偶尔也好",
+    "stage": 3
   },
   {
     "key": "0032-0600",
     "original": "してみてください",
-    "translation": ""
+    "translation": "说说话吧",
+    "stage": 3
   },
   {
     "key": "0032-0601",
     "original": "・・・わかった",
-    "translation": ""
+    "translation": "……知道了",
+    "stage": 3
   },
   {
     "key": "0032-0602",
     "original": "なんか心配なんです",
-    "translation": ""
+    "translation": "我有点担心",
+    "stage": 3
   },
   {
     "key": "0032-0603",
     "original": "あなたが一人でいると",
-    "translation": ""
+    "translation": "你一个人待着的时候",
+    "stage": 3
   },
   {
     "key": "0032-0604",
     "original": "・・・何をしでかすか",
-    "translation": ""
+    "translation": "……你是怕",
+    "stage": 3
   },
   {
     "key": "0032-0605",
     "original": "不安なのか？",
-    "translation": ""
+    "translation": "我会做出什么事吗？",
+    "stage": 3
   },
   {
     "key": "0032-0606",
     "original": "あーっ、",
-    "translation": ""
+    "translation": "啊——",
+    "stage": 3
   },
   {
     "key": "0032-0607",
     "original": "そうじゃなくてさぁ！",
-    "translation": ""
+    "translation": "不是那样的啦！",
+    "stage": 3
   },
   {
     "key": "0032-0608",
     "original": "俺もそうだったから、",
-    "translation": ""
+    "translation": "我以前也那样",
+    "stage": 3
   },
   {
     "key": "0032-0609",
     "original": "あの・・・そういう",
-    "translation": ""
+    "translation": "那个……不是",
+    "stage": 3
   },
   {
     "key": "0032-0610",
     "original": "わけではなく・・・",
-    "translation": ""
+    "translation": "那个意思……",
+    "stage": 3
   },
   {
     "key": "0032-0611",
     "original": "あなたにとっても",
-    "translation": ""
+    "translation": "我想对你来说",
+    "stage": 3
   },
   {
     "key": "0032-0612",
     "original": "ここは慣れない場所",
-    "translation": ""
+    "translation": "这里是个不习惯的地方",
+    "stage": 3
   },
   {
     "key": "0032-0613",
     "original": "だと思うんです",
-    "translation": ""
+    "translation": "不习惯的地方吧",
+    "stage": 3
   },
   {
     "key": "0032-0614",
     "original": "わたしも、はじめは",
-    "translation": ""
+    "translation": "我一开始",
+    "stage": 3
   },
   {
     "key": "0032-0615",
     "original": "そうでしたから・・・",
-    "translation": ""
+    "translation": "也是那样的……",
+    "stage": 3
   },
   {
     "key": "0032-0616",
     "original": "気がしてさ・・・",
-    "translation": ""
+    "translation": "……",
+    "stage": 3
   },
   {
     "key": "0032-0617",
     "original": "でも・・・そんな気持",
-    "translation": ""
+    "translation": "但是……那种心情",
+    "stage": 3
   },
   {
     "key": "0032-0618",
     "original": "ちは、みなさんと話し",
-    "translation": ""
+    "translation": "和大家说说话",
+    "stage": 3
   },
   {
     "key": "0032-0619",
     "original": "ていると、軽くなって",
-    "translation": ""
+    "translation": "就会变得",
+    "stage": 3
   },
   {
     "key": "0032-0620",
     "original": "くるんです・・・",
-    "translation": ""
+    "translation": "轻松起来……",
+    "stage": 3
   },
   {
     "key": "0032-0621",
     "original": "ひょっとして、君は僕",
-    "translation": ""
+    "translation": "难道说，你是担心",
+    "stage": 3
   },
   {
     "key": "0032-0622",
     "original": "が孤立していないか",
-    "translation": ""
+    "translation": "我会被孤立",
+    "stage": 3
   },
   {
     "key": "0032-0623",
     "original": "心配してくれている",
-    "translation": ""
+    "translation": "才来关心我的",
+    "stage": 3
   },
   {
     "key": "0032-0624",
@@ -43277,562 +43437,674 @@
   {
     "key": "0032-0625",
     "original": "ええ、平たく言えば",
-    "translation": ""
+    "translation": "嗯，简单来说就是这样",
+    "stage": 3
   },
   {
     "key": "0032-0626",
     "original": "すまないな",
-    "translation": ""
+    "translation": "抱歉",
+    "stage": 3
   },
   {
     "key": "0032-0627",
     "original": "余計な気を使わせて",
-    "translation": ""
+    "translation": "让你费心了",
+    "stage": 3
   },
   {
     "key": "0032-0628",
     "original": "僕は今まで、こういう",
-    "translation": ""
+    "translation": "我以前从来没有",
+    "stage": 3
   },
   {
     "key": "0032-0629",
     "original": "雰囲気に接したことが",
-    "translation": ""
+    "translation": "接触过这种氛围",
+    "stage": 3
   },
   {
     "key": "0032-0630",
     "original": "ちょっと戸惑っている",
-    "translation": ""
+    "translation": "我有点困惑",
+    "stage": 3
   },
   {
     "key": "0032-0631",
     "original": "・・・そうでしたか",
-    "translation": ""
+    "translation": "……是这样啊",
+    "stage": 3
   },
   {
     "key": "0032-0632",
     "original": "少しずつ、他の人たち",
-    "translation": ""
+    "translation": "我会慢慢试着",
+    "stage": 3
   },
   {
     "key": "0032-0633",
     "original": "とも話をしてみるよ",
-    "translation": ""
+    "translation": "和其他人也说说话的",
+    "stage": 3
   },
   {
     "key": "0032-0634",
     "original": "ええ、ぜひ",
-    "translation": ""
+    "translation": "嗯",
+    "stage": 3
   },
   {
     "key": "0032-0635",
     "original": "あの・・・部屋の中に",
-    "translation": ""
+    "translation": "那个……一直",
+    "stage": 3
   },
   {
     "key": "0032-0636",
     "original": "よくありません",
-    "translation": ""
+    "translation": "可不好",
+    "stage": 3
   },
   {
     "key": "0032-0637",
     "original": "えー、ちゃんと運動は",
-    "translation": ""
+    "translation": "诶——我有好好",
+    "stage": 3
   },
   {
     "key": "0032-0638",
     "original": "してるよ？",
-    "translation": ""
+    "translation": "运动哦？",
+    "stage": 3
   },
   {
     "key": "0032-0639",
     "original": "あの、そういうわけ",
-    "translation": ""
+    "translation": "那个，不是",
+    "stage": 3
   },
   {
     "key": "0032-0640",
     "original": "　なんか心配で・・・",
-    "translation": ""
+    "translation": "　我有点担心……",
+    "stage": 3
   },
   {
     "key": "0032-0641",
     "original": "あの・・・もうすこし",
-    "translation": ""
+    "translation": "那个……再稍微",
+    "stage": 3
   },
   {
     "key": "0032-0642",
     "original": "みなさんと",
-    "translation": ""
+    "translation": "和大家",
+    "stage": 3
   },
   {
     "key": "0032-0643",
     "original": "お話しませんか？",
-    "translation": ""
+    "translation": "多说说话好吗？",
+    "stage": 3
   },
   {
     "key": "0032-0644",
     "original": "話すって、何を？",
-    "translation": ""
+    "translation": "话说，谈什么？",
+    "stage": 3
   },
   {
     "key": "0032-0645",
     "original": "ひとりでいたってつま",
-    "translation": ""
+    "translation": "一个人待着也",
+    "stage": 3
   },
   {
     "key": "0032-0646",
     "original": "らないだろう？",
-    "translation": ""
+    "translation": "很无聊吧？",
+    "stage": 3
   },
   {
     "key": "0032-0647",
     "original": "いえ・・・あの・・・",
-    "translation": ""
+    "translation": "不……那个……",
+    "stage": 3
   },
   {
     "key": "0032-0648",
     "original": "ひとりでいても",
-    "translation": ""
+    "translation": "一个人待着",
+    "stage": 3
   },
   {
     "key": "0032-0649",
     "original": "つまらないですし",
-    "translation": ""
+    "translation": "也挺无聊的",
+    "stage": 3
   },
   {
     "key": "0032-0650",
     "original": "・・・まあ、ね",
-    "translation": ""
+    "translation": "……嘛，也是",
+    "stage": 3
   },
   {
     "key": "0032-0651",
     "original": "だろ？",
-    "translation": ""
+    "translation": "对吧？",
+    "stage": 3
   },
   {
     "key": "0032-0652",
     "original": "だろう？",
-    "translation": ""
+    "translation": "对吧？",
+    "stage": 3
   },
   {
     "key": "0032-0653",
     "original": "あの、そうですよね",
-    "translation": ""
+    "translation": "那个，是这样呢",
+    "stage": 3
   },
   {
     "key": "0032-0654",
     "original": "でも、あたしなんかと",
-    "translation": ""
+    "translation": "但是，我觉得",
+    "stage": 3
   },
   {
     "key": "0032-0655",
     "original": "話をしたがる人なんて",
-    "translation": ""
+    "translation": "没人会想跟我这种人",
+    "stage": 3
   },
   {
     "key": "0032-0656",
     "original": "いないと思うけど",
-    "translation": ""
+    "translation": "说话吧",
+    "stage": 3
   },
   {
     "key": "0032-0657",
     "original": "そんなことはないさ",
-    "translation": ""
+    "translation": "没那回事",
+    "stage": 3
   },
   {
     "key": "0032-0658",
     "original": "思ってるんだから",
-    "translation": ""
+    "translation": "",
+    "stage": 3
   },
   {
     "key": "0032-0659",
     "original": "そんなことありません",
-    "translation": ""
+    "translation": "没那回事",
+    "stage": 3
   },
   {
     "key": "0032-0660",
     "original": "みなさん、もっとお話",
-    "translation": ""
+    "translation": "大家可是很想",
+    "stage": 3
   },
   {
     "key": "0032-0661",
     "original": "みなさんと、お話する",
-    "translation": ""
+    "translation": "请留出时间和",
+    "stage": 3
   },
   {
     "key": "0032-0662",
     "original": "時間を持ってください",
-    "translation": ""
+    "translation": "大家说说话吧",
+    "stage": 3
   },
   {
     "key": "0032-0663",
     "original": "・・・うん、わかった",
-    "translation": ""
+    "translation": "……嗯，明白了",
+    "stage": 3
   },
   {
     "key": "0032-0664",
     "original": "なんか心配で・・・",
-    "translation": ""
+    "translation": "有点担心……",
+    "stage": 3
   },
   {
     "key": "0032-0665",
     "original": "不安ってコト？",
-    "translation": ""
+    "translation": "怕我会做出什么事？",
+    "stage": 3
   },
   {
     "key": "0032-0666",
     "original": "あの・・・違うんです",
-    "translation": ""
+    "translation": "那个……不是这样的",
+    "stage": 3
   },
   {
     "key": "0032-0667",
     "original": "あなたにとって、",
-    "translation": ""
+    "translation": "对你来说，",
+    "stage": 3
   },
   {
     "key": "0032-0668",
     "original": "だと思うんです・・・",
-    "translation": ""
+    "translation": "吧……",
+    "stage": 3
   },
   {
     "key": "0032-0669",
     "original": "わかるんです",
-    "translation": ""
+    "translation": "所以我懂",
+    "stage": 3
   },
   {
     "key": "0032-0670",
     "original": "でも、みなさんと話を",
-    "translation": ""
+    "translation": "但是，跟大家聊着聊着",
+    "stage": 3
   },
   {
     "key": "0032-0671",
     "original": "している間に、なんと",
-    "translation": ""
+    "translation": "就觉得",
+    "stage": 3
   },
   {
     "key": "0032-0672",
     "original": "なく不安が軽くなって",
-    "translation": ""
+    "translation": "不安好像",
+    "stage": 3
   },
   {
     "key": "0032-0673",
     "original": "きた気がして・・・",
-    "translation": ""
+    "translation": "减轻了些……",
+    "stage": 3
   },
   {
     "key": "0032-0674",
     "original": "キミ、",
-    "translation": ""
+    "translation": "你，",
+    "stage": 3
   },
   {
     "key": "0032-0675",
     "original": "心配してくれてるの？",
-    "translation": ""
+    "translation": "是在担心我吗？",
+    "stage": 3
   },
   {
     "key": "0032-0676",
     "original": "まあ、平たく言えば",
-    "translation": ""
+    "translation": "嗯，简单来说",
+    "stage": 3
   },
   {
     "key": "0032-0677",
     "original": "そうなります・・・",
-    "translation": ""
+    "translation": "就是这样……",
+    "stage": 3
   },
   {
     "key": "0032-0678",
     "original": "ありがとう",
-    "translation": ""
+    "translation": "谢谢",
+    "stage": 3
   },
   {
     "key": "0032-0679",
     "original": "あのさ・・・",
-    "translation": ""
+    "translation": "那个啊……",
+    "stage": 3
   },
   {
     "key": "0032-0680",
     "original": "あたしって強引だから",
-    "translation": ""
+    "translation": "我性格太强势了",
+    "stage": 3
   },
   {
     "key": "0032-0681",
     "original": "さ、せっかくみんなが",
-    "translation": ""
+    "translation": "总觉得会把大家",
+    "stage": 3
   },
   {
     "key": "0032-0682",
     "original": "作ってるいい雰囲気を",
-    "translation": ""
+    "translation": "好不容易营造的好气氛",
+    "stage": 3
   },
   {
     "key": "0032-0683",
     "original": "壊しちゃいそうで",
-    "translation": ""
+    "translation": "给破坏掉",
+    "stage": 3
   },
   {
     "key": "0032-0684",
     "original": "ちょっとだけ、引いち",
-    "translation": ""
+    "translation": "所以就有点",
+    "stage": 3
   },
   {
     "key": "0032-0685",
     "original": "ゃってたんだよね",
-    "translation": ""
+    "translation": "退缩了",
+    "stage": 3
   },
   {
     "key": "0032-0686",
     "original": "でも、それじゃ本当は",
-    "translation": ""
+    "translation": "但是，那样其实是不对",
+    "stage": 3
   },
   {
     "key": "0032-0687",
     "original": "いけないんだよね",
-    "translation": ""
+    "translation": "的吧",
+    "stage": 3
   },
   {
     "key": "0032-0688",
     "original": "うん、少しずつ積極的",
-    "translation": ""
+    "translation": "嗯，还是试着",
+    "stage": 3
   },
   {
     "key": "0032-0689",
     "original": "になってみるかな",
-    "translation": ""
+    "translation": "慢慢积极起来吧",
+    "stage": 3
   },
   {
     "key": "0032-0690",
     "original": "ええ、そうして",
-    "translation": ""
+    "translation": "嗯，您能那样做",
+    "stage": 3
   },
   {
     "key": "0032-0691",
     "original": "くださると嬉しいです",
-    "translation": ""
+    "translation": "我会很高兴的",
+    "stage": 3
   },
   {
     "key": "0032-0692",
     "original": "のはよくないよ、ね",
-    "translation": ""
+    "translation": "是不好的，对吧",
+    "stage": 3
   },
   {
     "key": "0032-0693",
     "original": "無茶はしてませんけど",
-    "translation": ""
+    "translation": "会搞坏身体的蠢事啦",
+    "stage": 3
   },
   {
     "key": "0032-0694",
     "original": "そうじゃなくて",
-    "translation": ""
+    "translation": "不是那样啦",
+    "stage": 3
   },
   {
     "key": "0032-0695",
     "original": "　みんなと話そうよ",
-    "translation": ""
+    "translation": "　跟大家一起说说话吧",
+    "stage": 3
   },
   {
     "key": "0032-0696",
     "original": "　なんか心配なんだ",
-    "translation": ""
+    "translation": "　我有点担心你",
+    "stage": 3
   },
   {
     "key": "0032-0697",
     "original": "話、ですか？",
-    "translation": ""
+    "translation": "说话，是吗？",
+    "stage": 3
   },
   {
     "key": "0032-0698",
     "original": "んないじゃん！",
-    "translation": ""
+    "translation": "多无聊啊！",
+    "stage": 3
   },
   {
     "key": "0032-0699",
     "original": "はあ・・・",
-    "translation": ""
+    "translation": "哈……",
+    "stage": 3
   },
   {
     "key": "0032-0700",
     "original": "みんなは君ともっと話",
-    "translation": ""
+    "translation": "大家可是很想",
+    "stage": 3
   },
   {
     "key": "0032-0701",
     "original": "がしたいって思ってい",
-    "translation": ""
+    "translation": "多和你聊聊",
+    "stage": 3
   },
   {
     "key": "0032-0702",
     "original": "るんだから",
-    "translation": ""
+    "translation": "的啊",
+    "stage": 3
   },
   {
     "key": "0032-0703",
     "original": "根本的にズレてるよぉ",
-    "translation": ""
+    "translation": "根本说不到一块去啊",
+    "stage": 3
   },
   {
     "key": "0032-0704",
     "original": "んだってば！",
-    "translation": ""
+    "translation": "的呀！",
+    "stage": 3
   },
   {
     "key": "0032-0705",
     "original": "を作ってみれば、ね！",
-    "translation": ""
+    "translation": "和大家说说话",
+    "stage": 3
   },
   {
     "key": "0032-0706",
     "original": "はあ、わかりました",
-    "translation": ""
+    "translation": "哈，我知道了",
+    "stage": 3
   },
   {
     "key": "0032-0707",
     "original": "なんか心配なの",
-    "translation": ""
+    "translation": "有点担心",
+    "stage": 3
   },
   {
     "key": "0032-0708",
     "original": "あなたがひとりで",
-    "translation": ""
+    "translation": "看你一个人",
+    "stage": 3
   },
   {
     "key": "0032-0709",
     "original": "そうしていると",
-    "translation": ""
+    "translation": "那样待着",
+    "stage": 3
   },
   {
     "key": "0032-0710",
     "original": "不安なのですか？",
-    "translation": ""
+    "translation": "我会做出什么事吗？",
+    "stage": 3
   },
   {
     "key": "0032-0711",
     "original": "ほら、あなたにとって",
-    "translation": ""
+    "translation": "你看，对你来说",
+    "stage": 3
   },
   {
     "key": "0032-0712",
     "original": "ここは知らないところ",
-    "translation": ""
+    "translation": "这里是个陌生的地方",
+    "stage": 3
   },
   {
     "key": "0032-0713",
     "original": "不安だとも",
-    "translation": ""
+    "translation": "肯定会",
+    "stage": 3
   },
   {
     "key": "0032-0714",
     "original": "思うしさ・・・",
-    "translation": ""
+    "translation": "觉得不安吧……",
+    "stage": 3
   },
   {
     "key": "0032-0715",
     "original": "あたしもそうだったの",
-    "translation": ""
+    "translation": "我以前也是这样的",
+    "stage": 3
   },
   {
     "key": "0032-0716",
     "original": "だから、ね！",
-    "translation": ""
+    "translation": "所以，你明白吧！",
+    "stage": 3
   },
   {
     "key": "0032-0717",
     "original": "そんな時、みんなが話",
-    "translation": ""
+    "translation": "那时候，大家",
+    "stage": 3
   },
   {
     "key": "0032-0718",
     "original": "をしてくれて・・・",
-    "translation": ""
+    "translation": "跟我说话……",
+    "stage": 3
   },
   {
     "key": "0032-0719",
     "original": "それで、楽になれた",
-    "translation": ""
+    "translation": "然后，感觉",
+    "stage": 3
   },
   {
     "key": "0032-0720",
     "original": "かなって・・・",
-    "translation": ""
+    "translation": "就轻松多了……",
+    "stage": 3
   },
   {
     "key": "0032-0721",
     "original": "ひょっとして・・・",
-    "translation": ""
+    "translation": "难道说……",
+    "stage": 3
   },
   {
     "key": "0032-0722",
     "original": "私のことを心配してく",
-    "translation": ""
+    "translation": "您是在",
+    "stage": 3
   },
   {
     "key": "0032-0723",
     "original": "ださってるんですか？",
-    "translation": ""
+    "translation": "担心我吗？",
+    "stage": 3
   },
   {
     "key": "0032-0724",
     "original": "あ、う、うん・・・",
-    "translation": ""
+    "translation": "啊，嗯，嗯……",
+    "stage": 3
   },
   {
     "key": "0032-0725",
     "original": "す、すみません！",
-    "translation": ""
+    "translation": "对、对不起！",
+    "stage": 3
   },
   {
     "key": "0032-0726",
     "original": "あの・・・じつは私、",
-    "translation": ""
+    "translation": "那个……其实我，",
+    "stage": 3
   },
   {
     "key": "0032-0727",
     "original": "あんまり同世代の友達",
-    "translation": ""
+    "translation": "没什么同龄的",
+    "stage": 3
   },
   {
     "key": "0032-0728",
     "original": "がいなくて・・・",
-    "translation": ""
+    "translation": "朋友……",
+    "stage": 3
   },
   {
     "key": "0032-0729",
     "original": "どうしたらいいのか、",
-    "translation": ""
+    "translation": "不知道该怎么做，",
+    "stage": 3
   },
   {
     "key": "0032-0730",
     "original": "ちょっと戸惑ってたん",
-    "translation": ""
+    "translation": "有点",
+    "stage": 3
   },
   {
     "key": "0032-0731",
     "original": "です",
-    "translation": ""
+    "translation": "不知所措",
+    "stage": 3
   },
   {
     "key": "0032-0732",
     "original": "・・・あ、そうなんだ",
-    "translation": ""
+    "translation": "……啊，是这样啊",
+    "stage": 3
   },
   {
     "key": "0032-0733",
     "original": "いけませんよね？",
-    "translation": ""
+    "translation": "吧？",
+    "stage": 3
   },
   {
     "key": "0032-0734",
     "original": "とも話ができるように",
-    "translation": ""
+    "translation": "也能和其他人",
+    "stage": 3
   },
   {
     "key": "0032-0735",
     "original": "がんばってみます",
-    "translation": ""
+    "translation": "说说话的",
+    "stage": 3
   },
   {
     "key": "0032-0736",
     "original": "うん！",
-    "translation": ""
+    "translation": "嗯！",
+    "stage": 3
   },
   {
     "key": "0032-0737",
