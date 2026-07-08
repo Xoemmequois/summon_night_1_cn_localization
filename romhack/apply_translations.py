@@ -13,6 +13,7 @@ FID_TEXT_RE = re.compile(r"^[+-]?\[FID:([0-9A-Fa-f]+), TEXT:([0-9A-Fa-f]+)\] (.*
 
 def collect_translations():
     trans = {}
+    errors = []
     for path in sorted(PROCESSED_DIR.glob("script*_fid*.txt")):
         in_g_group = False
         with open(path, "r", encoding="utf-8") as f:
@@ -30,12 +31,19 @@ def collect_translations():
                     key = f"{fid:04d}-{text_idx:04d}"
                     text = m.group(3)
                     if key in trans and trans[key] != text:
-                        raise ValueError(
-                            f"Conflicting translations for {key} in {path.name}:\n"
+                        hex_key = f"{fid:04X}-{text_idx:04X}"
+                        errors.append(
+                            f"Conflicting translations for {key} (hex {hex_key}) in {path.name}:\n"
                             f"  existing: {trans[key]}\n"
                             f"  new:      {text}"
                         )
+                        continue
                     trans[key] = text
+    if errors:
+        raise ValueError(
+            f"Found {len(errors)} conflicting translation(s):\n\n"
+            + "\n\n".join(errors)
+        )
     return trans
 
 
