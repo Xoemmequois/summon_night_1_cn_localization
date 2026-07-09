@@ -1,4 +1,4 @@
---- Group [left:none next=201D] ---
+--- Group [left:none next=201D] ---G
 
 　ごちそうは確かに
 　うまかったんだけど、
@@ -6,35 +6,35 @@
 　俺にはありがたい
 　メシを抜かれて、痛感してる
 +[FID:27, TEXT:0000] 
-+[FID:27, TEXT:0004] 
-+[FID:27, TEXT:0005] 
-+[FID:27, TEXT:0006] 
-+[FID:27, TEXT:0007] 
-+[FID:27, TEXT:0008] 
++[FID:27, TEXT:0004] 　虽然大餐确实很好吃
++[FID:27, TEXT:0005] 　但对我来说
++[FID:27, TEXT:0006] 　还是莉普蕾做的饭更珍贵
++[FID:27, TEXT:0007] 　被禁止吃饭后
++[FID:27, TEXT:0008] 　我算是深刻体会到了
 
---- Group [right:主人公 next=201D] ---
+--- Group [right:主人公 next=201D] ---G
 
 
 　　そんなこんなで、
 　　大騒ぎのうちに花見は終了！
 -[FID:27, TEXT:0000] 
 -[FID:27, TEXT:0000] 
-+[FID:27, TEXT:0016] 
-+[FID:27, TEXT:0017] 
++[FID:27, TEXT:0016] 　　就这样，
++[FID:27, TEXT:0017] 　　赏花会在喧闹中结束了！
 
---- Group [right:主人公 next=201D] ---
+--- Group [right:主人公 next=201D] ---G
 
 　ごちそうはおいしかったけど
 　ホント言うと、リプレの
 　ご飯ヌキの方がこたえてるんだ
 　ほんと、ご飯ヌキはつらい・・・
 -[FID:27, TEXT:0000] 
-+[FID:27, TEXT:0018] 
-+[FID:27, TEXT:0019] 
-+[FID:27, TEXT:001A] 
-+[FID:27, TEXT:001B] 
++[FID:27, TEXT:0018] 　虽然大餐很好吃，
++[FID:27, TEXT:0019] 　但老实说，没吃上莉普蕾的饭
++[FID:27, TEXT:001A] 　更让我难受
++[FID:27, TEXT:001B] 　真的，没饭吃太痛苦了……
 
---- Group [right:主人公 next=201D] ---
+--- Group [right:主人公 next=201D] ---G
 
 
 　おなかはぐ〜ぐ〜鳴るし・・・
@@ -42,55 +42,55 @@
 　屋根の上に月を眺めに出た・・・
 -[FID:27, TEXT:0000] 
 -[FID:27, TEXT:0000] 
-+[FID:27, TEXT:001C] 
-+[FID:27, TEXT:001D] 
-+[FID:27, TEXT:001E] 
++[FID:27, TEXT:001C] 　肚子咕咕叫……
++[FID:27, TEXT:001D] 　没办法，我只好
++[FID:27, TEXT:001E] 　到屋顶上去看月亮了……
 
---- Group [right:主人公 next=201D] ---
+--- Group [right:主人公 next=201D] ---G
 
 
 　　大騒ぎのうちに終わった
 　　お花見の一日・・・
 -[FID:27, TEXT:0000] 
 -[FID:27, TEXT:0000] 
-+[FID:27, TEXT:001F] 
-+[FID:27, TEXT:0020] 
++[FID:27, TEXT:001F] 　　在喧闹中结束的
++[FID:27, TEXT:0020] 　　赏花的一天……
 
---- Group [right:主人公 next=201D] ---
+--- Group [right:主人公 next=201D] ---G
 
 　　ごちそうはおいしかった
 　　のだけれど、リプレさんに
 　　ご飯をヌキにされるとは
 　　思いませんでした
 -[FID:27, TEXT:0000] 
-+[FID:27, TEXT:0021] 
-+[FID:27, TEXT:0022] 
-+[FID:27, TEXT:0023] 
-+[FID:27, TEXT:0024] 
++[FID:27, TEXT:0021] 　　虽然大餐很好吃
++[FID:27, TEXT:0022] 　　但没想到会被
++[FID:27, TEXT:0023] 　　莉普蕾小姐
++[FID:27, TEXT:0024] 　　禁止吃饭啊
 
---- Group [right:艾多斯 next=201D] ---
+--- Group [right:艾多斯 next=201D] ---G
 
 　ガゼルに振り回された一日
 　だったけど、終わってみれば
 　それなりに自分も楽しんでいた
 　ような気がするのが不思議だ
 -[FID:27, TEXT:0000] 
-+[FID:27, TEXT:000D] 
-+[FID:27, TEXT:000E] 
-+[FID:27, TEXT:000F] 
-+[FID:27, TEXT:0010] 
++[FID:27, TEXT:000D] 　虽然是被加泽尔折腾的一天
++[FID:27, TEXT:000E] 　但结束时回想起来
++[FID:27, TEXT:000F] 　自己好像也挺享受的
++[FID:27, TEXT:0010] 　真不可思议
 
---- Group [right:艾多斯 next=201D] ---
+--- Group [right:艾多斯 next=201D] ---G
 
 
 　でも、その見返りに食事を
 　抜かれてしまったのは辛かった
 -[FID:27, TEXT:0000] 
 -[FID:27, TEXT:0000] 
-+[FID:27, TEXT:0011] 
-+[FID:27, TEXT:0012] 
++[FID:27, TEXT:0011] 　但是，作为后果被禁止吃饭
++[FID:27, TEXT:0012] 　这点确实难受
 
---- Group [right:艾多斯 next=201D] ---
+--- Group [right:艾多斯 next=201D] ---G
 
 
 　空腹をまぎらわすために
@@ -98,11 +98,11 @@
 　月を眺めに外へと出たんだ・・・
 -[FID:27, TEXT:0000] 
 -[FID:27, TEXT:0000] 
-+[FID:27, TEXT:0013] 
-+[FID:27, TEXT:0014] 
-+[FID:27, TEXT:0015] 
++[FID:27, TEXT:0013] 　为了缓解饥饿
++[FID:27, TEXT:0014] 　我像往常一样
++[FID:27, TEXT:0015] 　出门去看月亮了……
 
---- Group [left:none next=201D] ---
+--- Group [left:none next=201D] ---G
 
 
 　　　そんなこんなで、
@@ -110,51 +110,51 @@
 　　　花見は終了となった
 -[FID:27, TEXT:0000] 
 -[FID:27, TEXT:0000] 
-+[FID:27, TEXT:0001] 
-+[FID:27, TEXT:0002] 
-+[FID:27, TEXT:0003] 
++[FID:27, TEXT:0001] 　　　就这样
++[FID:27, TEXT:0002] 　　　赏花在一片喧闹
++[FID:27, TEXT:0003] 　　　中就这么结束了
 
---- Group [left:none next=201D] ---
+--- Group [left:none next=201D] ---G
 
 　　ちっとも鳴りやまない
 　　腹の虫をなだめようと、
 　　俺はいつものように
 　　月を眺めに出たんだ・・・
 -[FID:27, TEXT:0000] 
-+[FID:27, TEXT:0009] 
-+[FID:27, TEXT:000A] 
-+[FID:27, TEXT:000B] 
-+[FID:27, TEXT:000C] 
++[FID:27, TEXT:0009] 　　为了让肚子里的虫子
++[FID:27, TEXT:000A] 　　彻底安静下来
++[FID:27, TEXT:000B] 　　我像往常一样
++[FID:27, TEXT:000C] 　　出去看月亮了……
 
---- Group [right:艾多斯 next=201D] ---
+--- Group [right:艾多斯 next=201D] ---G
 　　正直、おなかが鳴ります
 　　おなかがすくと、
 　　眠れなくなるもので・・・
 　　わたしは月を眺めにそとに
 　　出ることにしました・・・
-+[FID:27, TEXT:0025] 
-+[FID:27, TEXT:0026] 
-+[FID:27, TEXT:0027] 
-+[FID:27, TEXT:0028] 
-+[FID:27, TEXT:0029] 
++[FID:27, TEXT:0025] 　　老实说，肚子在叫
++[FID:27, TEXT:0026] 　　肚子一饿
++[FID:27, TEXT:0027] 　　就睡不着了……
++[FID:27, TEXT:0028] 　　于是我决定到外面
++[FID:27, TEXT:0029] 　　去赏月……
 
---- Group [left:none next=0023] ---
+--- Group [left:none next=0023] ---G
 ソル
-+[FID:27, TEXT:002A] 
++[FID:27, TEXT:002A] 索尔
 
---- Group [right:艾多斯 next=0023] ---
+--- Group [right:艾多斯 next=0023] ---G
 キール
-+[FID:27, TEXT:002B] 
++[FID:27, TEXT:002B] 基尔
 
---- Group [left:none next=0023] ---
+--- Group [left:none next=0023] ---G
 カシス
-+[FID:27, TEXT:002C] 
++[FID:27, TEXT:002C] 卡西斯
 
---- Group [right:艾多斯 next=0023] ---
+--- Group [right:艾多斯 next=0023] ---G
 クラレット
-+[FID:27, TEXT:002D] 
++[FID:27, TEXT:002D] 克拉雷特
 
---- Group [right:主人公 next=2017] ---
+--- Group [right:主人公 next=2017] ---G
 レイド
 ガゼル
 エドス
@@ -162,996 +162,996 @@
 アルバ
 フィズ
 ラミ
-+[FID:27, TEXT:002E] 
-+[FID:27, TEXT:002F] 
-+[FID:27, TEXT:0030] 
-+[FID:27, TEXT:0031] 
-+[FID:27, TEXT:0032] 
-+[FID:27, TEXT:0033] 
-+[FID:27, TEXT:0034] 
++[FID:27, TEXT:002E] 雷德
++[FID:27, TEXT:002F] 加泽尔
++[FID:27, TEXT:0030] 艾多斯
++[FID:27, TEXT:0031] 莉普蕾
++[FID:27, TEXT:0032] 阿尔巴
++[FID:27, TEXT:0033] 菲兹
++[FID:27, TEXT:0034] 拉米
 
---- Group [right:none next=2012] ---
+--- Group [right:none next=2012] ---G
 ・・・
-+[FID:27, TEXT:0035] 
++[FID:27, TEXT:0035] ……
 
---- Group [left:none next=0023] ---
+--- Group [left:none next=0023] ---G
 どうかしたのか
 ため息をついて
-+[FID:27, TEXT:0036] 
-+[FID:27, TEXT:0037] 
++[FID:27, TEXT:0036] 怎么了？
++[FID:27, TEXT:0037] 你叹了口气？
 
---- Group [left:none next=0023] ---
+--- Group [left:none next=0023] ---G
 どうしたの？
 黙りこくって？
-+[FID:27, TEXT:0038] 
-+[FID:27, TEXT:0039] 
++[FID:27, TEXT:0038] 怎么了？
++[FID:27, TEXT:0039] 沉默不语？
 
---- Group [left:none next=0023] ---
+--- Group [left:none next=0023] ---G
 どうしたんですか？
 黙ってしまわれて？
-+[FID:27, TEXT:003A] 
-+[FID:27, TEXT:003B] 
++[FID:27, TEXT:003A] 怎么了？
++[FID:27, TEXT:003B] 沉默了吗？
 
---- Group [right:none next=2012] ---
+--- Group [right:none next=2012] ---G
 あきれたやつだよな
 お前もさ・・・
-+[FID:27, TEXT:003C] 
-+[FID:27, TEXT:003D] 
++[FID:27, TEXT:003C] 真是服了你了
++[FID:27, TEXT:003D] 你也是啊……
 
---- Group [left:none next=0023] ---
+--- Group [left:none next=0023] ---G
 ・・・すまない
-+[FID:27, TEXT:003E] 
++[FID:27, TEXT:003E] ……抱歉
 
---- Group [left:none next=0023] ---
+--- Group [left:none next=0023] ---G
 ・・・うっ
-+[FID:27, TEXT:003F] 
++[FID:27, TEXT:003F] ……唔
 
---- Group [left:none next=0023] ---
+--- Group [left:none next=0023] ---G
 ・・・えっと
-+[FID:27, TEXT:0040] 
++[FID:27, TEXT:0040] ……那个
 
---- Group [right:艾多斯 next=2012] ---
+--- Group [right:艾多斯 next=2012] ---G
 あのなぁ、俺は
 お前を元の世界に
 戻そうって、
 必死なんだぜ・・・
-+[FID:27, TEXT:0041] 
-+[FID:27, TEXT:0042] 
-+[FID:27, TEXT:0043] 
++[FID:27, TEXT:0041] 我说啊，我可是拼了命
++[FID:27, TEXT:0042] 地想把你送回原来的世
++[FID:27, TEXT:0043] 界啊……
 +[FID:27, TEXT:0044] 
 
---- Group [right:none next=2012] ---
+--- Group [right:none next=2012] ---G
 まったく、お気楽にも
 ほどがあるぜ・・・
-+[FID:27, TEXT:0045] 
-+[FID:27, TEXT:0046] 
++[FID:27, TEXT:0045] 真是的，你也太悠闲了
++[FID:27, TEXT:0046] 吧……
 
---- Group [left:none next=0023] ---
+--- Group [left:none next=0023] ---G
 どうしたんだ、
 黙りこくって？
-+[FID:27, TEXT:0047] 
--[FID:27, TEXT:0039] 
++[FID:27, TEXT:0047] 怎么了？
+-[FID:27, TEXT:0039] 沉默不语？
 
---- Group [left:none next=0023] ---
+--- Group [left:none next=0023] ---G
 どしたの？
 怖い顔して？
-+[FID:27, TEXT:0048] 
-+[FID:27, TEXT:0049] 
++[FID:27, TEXT:0048] 怎么了？
++[FID:27, TEXT:0049] 一脸可怕的表情？
 
---- Group [left:none next=0023] ---
+--- Group [left:none next=0023] ---G
 あの・・・黙り込んで
 どうしたんですか？
-+[FID:27, TEXT:004A] 
--[FID:27, TEXT:003A] 
++[FID:27, TEXT:004A] 那个……您
+-[FID:27, TEXT:003A] 怎么了？
 
---- Group [right:艾多斯 next=2012] ---
+--- Group [right:艾多斯 next=2012] ---G
 正直、今日の一件には
 呆れたよ
-+[FID:27, TEXT:004B] 
-+[FID:27, TEXT:004C] 
++[FID:27, TEXT:004B] 说实话，今天这事真让
++[FID:27, TEXT:004C] 我服了你了
 
---- Group [left:none next=0023] ---
+--- Group [left:none next=0023] ---G
 ・・・あの、えっと
-+[FID:27, TEXT:004D] 
++[FID:27, TEXT:004D] ……那个，嗯
 
---- Group [right:艾多斯 next=2012] ---
+--- Group [right:艾多斯 next=2012] ---G
 君を無事に元の世界へ
 帰そうとしている僕の
 立場がわかっているの
 なら・・・
-+[FID:27, TEXT:004E] 
-+[FID:27, TEXT:004F] 
-+[FID:27, TEXT:0050] 
++[FID:27, TEXT:004E] 如果你明白我正设法把
++[FID:27, TEXT:004F] 你安全送回原来的世界
++[FID:27, TEXT:0050] 的话……
 +[FID:27, TEXT:0051] 
 
---- Group [right:艾多斯 next=2012] ---
+--- Group [right:艾多斯 next=2012] ---G
 君はもう少し、自分の
 立場を自覚してくれ
-+[FID:27, TEXT:0052] 
-+[FID:27, TEXT:0053] 
++[FID:27, TEXT:0052] 你也要稍微自觉一点认
++[FID:27, TEXT:0053] 清自己的立场啊
 
---- Group [right:主人公 next=2012] ---
+--- Group [right:主人公 next=2012] ---G
 あたしもかなりお気楽
 なほうだなって思って
 たけど・・・
-+[FID:27, TEXT:0054] 
-+[FID:27, TEXT:0055] 
++[FID:27, TEXT:0054] 我还觉得自己已经算是
++[FID:27, TEXT:0055] 相当随性的人了……
 +[FID:27, TEXT:0056] 
 
---- Group [right:主人公 next=2012] ---
+--- Group [right:主人公 next=2012] ---G
 キミはそれに輪をかけ
 て、お気楽ねえ
-+[FID:27, TEXT:0057] 
-+[FID:27, TEXT:0058] 
++[FID:27, TEXT:0057] 你比我还要没压力
++[FID:27, TEXT:0058] 也太悠哉了吧
 
---- Group [left:none next=0023] ---
+--- Group [left:none next=0023] ---G
 ・・・悪かったな
-+[FID:27, TEXT:0059] 
++[FID:27, TEXT:0059] ……是我不好
 
---- Group [left:none next=0023] ---
+--- Group [left:none next=0023] ---G
 余計なお世話だよ
-+[FID:27, TEXT:005A] 
++[FID:27, TEXT:005A] 多管闲事
 
---- Group [left:none next=0023] ---
+--- Group [left:none next=0023] ---G
 ・・・そうですか？
 カシスさんほどでは
 ないと・・・
-+[FID:27, TEXT:005B] 
-+[FID:27, TEXT:005C] 
-+[FID:27, TEXT:005D] 
++[FID:27, TEXT:005B] ……是吗？
++[FID:27, TEXT:005C] 我觉得比不上卡西斯
++[FID:27, TEXT:005D] 先生……
 
---- Group [right:none next=2012] ---
+--- Group [right:none next=2012] ---G
 なによぉ、
 その生意気な態度は？
-+[FID:27, TEXT:005E] 
-+[FID:27, TEXT:005F] 
++[FID:27, TEXT:005E] 干嘛呀，你这态度
++[FID:27, TEXT:005F] 也太嚣张了吧？
 
---- Group [right:艾多斯 next=2012] ---
+--- Group [right:艾多斯 next=2012] ---G
 ふーん・・・
 かわいそうだからって
 せっかく夕ご飯のパン
 とっといたげたのに
-+[FID:27, TEXT:0060] 
-+[FID:27, TEXT:0061] 
-+[FID:27, TEXT:0062] 
-+[FID:27, TEXT:0063] 
++[FID:27, TEXT:0060] 哼……
++[FID:27, TEXT:0061] 虽然觉得你可怜
++[FID:27, TEXT:0062] 明明特意把晚饭的面包
++[FID:27, TEXT:0063] 给你留着了
 
---- Group [left:none next=2012] ---
+--- Group [left:none next=2012] ---G
 えっ！？
-+[FID:27, TEXT:0064] 
++[FID:27, TEXT:0064] 诶！？
 
---- Group [right:主人公 next=2012] ---
+--- Group [right:主人公 next=2012] ---G
 やっぱ食べちゃおっと
-+[FID:27, TEXT:0065] 
++[FID:27, TEXT:0065] 果然还是吃掉算了
 
---- Group [left:none next=0023] ---
+--- Group [left:none next=0023] ---G
 ちょ、ちょっと待て！
-+[FID:27, TEXT:0066] 
++[FID:27, TEXT:0066] 等、等一下！
 
---- Group [left:none next=0023] ---
+--- Group [left:none next=0023] ---G
 あっ、ちょっと！
-+[FID:27, TEXT:0067] 
++[FID:27, TEXT:0067] 啊，等一下！
 
---- Group [left:none next=0023] ---
+--- Group [left:none next=0023] ---G
 あ、あの・・・
 待ってください
-+[FID:27, TEXT:0068] 
-+[FID:27, TEXT:0069] 
++[FID:27, TEXT:0068] 那、那个……
++[FID:27, TEXT:0069] 请等一下
 
---- Group [right:艾多斯 next=2012] ---
+--- Group [right:艾多斯 next=2012] ---G
 もぐもぐ・・・
 あー、おいしかった
-+[FID:27, TEXT:006A] 
-+[FID:27, TEXT:006B] 
++[FID:27, TEXT:006A] 咀嚼咀嚼……
++[FID:27, TEXT:006B] 啊——真好吃
 
---- Group [left:none next=0023] ---
+--- Group [left:none next=0023] ---G
 ああ・・・っ！？
-+[FID:27, TEXT:006C] 
++[FID:27, TEXT:006C] 啊……！？
 
---- Group [left:none next=0023] ---
+--- Group [left:none next=0023] ---G
 ああ・・・
-+[FID:27, TEXT:006D] 
++[FID:27, TEXT:006D] 啊……
 
---- Group [right:none next=2012] ---
+--- Group [right:none next=2012] ---G
 ふふーん、だ
 これに懲りたら
 すこしは立場を考えて
 行動しなさいよ？
-+[FID:27, TEXT:006E] 
-+[FID:27, TEXT:006F] 
-+[FID:27, TEXT:0070] 
-+[FID:27, TEXT:0071] 
++[FID:27, TEXT:006E] 哼，活该
++[FID:27, TEXT:006F] 经过这次教训
++[FID:27, TEXT:0070] 你该好好想想自己的立
++[FID:27, TEXT:0071] 场再行动了吧？
 
---- Group [right:none next=2012] ---
+--- Group [right:none next=2012] ---G
 はあ・・・
-+[FID:27, TEXT:0072] 
++[FID:27, TEXT:0072] 唉……
 
---- Group [left:none next=0023] ---
+--- Group [left:none next=0023] ---G
 どうしたの、
 ため息なんかついて？
-+[FID:27, TEXT:0073] 
-+[FID:27, TEXT:0074] 
++[FID:27, TEXT:0073] 怎么了
++[FID:27, TEXT:0074] 叹什么气啊？
 
---- Group [right:主人公 next=2012] ---
+--- Group [right:主人公 next=2012] ---G
 貴方に
 呆れてるんですっ！
 もうっ・・・
-+[FID:27, TEXT:0075] 
-+[FID:27, TEXT:0076] 
-+[FID:27, TEXT:0077] 
++[FID:27, TEXT:0075] 我是
++[FID:27, TEXT:0076] 对你无语了！
++[FID:27, TEXT:0077] 真是的……
 
---- Group [left:none next=0023] ---
+--- Group [left:none next=0023] ---G
 ・・・ゴメン
-+[FID:27, TEXT:0078] 
++[FID:27, TEXT:0078] ……对不起
 
---- Group [right:none next=2012] ---
+--- Group [right:none next=2012] ---G
 貴方に万が一のことが
 あったら、私が困るっ
 てわかってますか？
-+[FID:27, TEXT:0079] 
-+[FID:27, TEXT:007A] 
-+[FID:27, TEXT:007B] 
++[FID:27, TEXT:0079] 你要是出了什么事
++[FID:27, TEXT:007A] 我可就麻烦了
++[FID:27, TEXT:007B] 你懂吗？
 
---- Group [right:艾多斯 next=2012] ---
+--- Group [right:艾多斯 next=2012] ---G
 本当に、お願いですか
 ら心配させないで
 くださいね
-+[FID:27, TEXT:007C] 
-+[FID:27, TEXT:007D] 
-+[FID:27, TEXT:007E] 
++[FID:27, TEXT:007C] 真的，求求你了
++[FID:27, TEXT:007D] 别让我担心
++[FID:27, TEXT:007E] 好吗
 
---- Group [left:none next=2012] ---
+--- Group [left:none next=2012] ---G
 あのイムランって人が
 レイドさんが今まで話
 してくれていたお城の
 召喚師なんですよね
-+[FID:27, TEXT:007F] 
-+[FID:27, TEXT:0080] 
-+[FID:27, TEXT:0081] 
-+[FID:27, TEXT:0082] 
++[FID:27, TEXT:007F] 那个叫伊姆兰的人
++[FID:27, TEXT:0080] 就是雷德先生之前说的
++[FID:27, TEXT:0081] 那个城里的
++[FID:27, TEXT:0082] 召唤师吧
 
---- Group [right:主人公 next=2012] ---
+--- Group [right:主人公 next=2012] ---G
 ああ、金の派閥に
 属する召喚師・・・
 マーン三兄弟の長男だ
-+[FID:27, TEXT:0083] 
-+[FID:27, TEXT:0084] 
-+[FID:27, TEXT:0085] 
++[FID:27, TEXT:0083] 啊，属于金之派阀的召
++[FID:27, TEXT:0084] 唤师……马恩三兄弟的
++[FID:27, TEXT:0085] 长子
 
---- Group [right:主人公 next=2012] ---
+--- Group [right:主人公 next=2012] ---G
 彼の知恵と召喚術の力
 で、サイジェントの街
 はここまで大きくなっ
 たと言ってもいい
-+[FID:27, TEXT:0086] 
-+[FID:27, TEXT:0087] 
-+[FID:27, TEXT:0088] 
++[FID:27, TEXT:0086] 可以说，赛杰特城能发
++[FID:27, TEXT:0087] 展到这么大都是靠他的
++[FID:27, TEXT:0088] 智慧和召唤术的力量
 +[FID:27, TEXT:0089] 
 
---- Group [left:none next=0023] ---
+--- Group [left:none next=0023] ---G
 うーん、そんなすごい
 人には見えなかった
 けどなぁ・・・
-+[FID:27, TEXT:008A] 
-+[FID:27, TEXT:008B] 
++[FID:27, TEXT:008A] 嗯——，可我看着不像
++[FID:27, TEXT:008B] 那么厉害的人啊……
 +[FID:27, TEXT:008C] 
 
---- Group [left:none next=0023] ---
+--- Group [left:none next=0023] ---G
 うーん、そんなすごい
 人には見えませんでし
 たけど・・・
--[FID:27, TEXT:008A] 
-+[FID:27, TEXT:0091] 
+-[FID:27, TEXT:008A] 嗯——，可我看着不像
++[FID:27, TEXT:0091] 那么厉害的人啊……
 -[FID:27, TEXT:0056] 
 
---- Group [left:none next=0023] ---
+--- Group [left:none next=0023] ---G
 うーん、そんなすごい
 人には見えなかったけ
 どなぁ・・・
--[FID:27, TEXT:008A] 
-+[FID:27, TEXT:008F] 
+-[FID:27, TEXT:008A] 嗯——，可我看着不像
++[FID:27, TEXT:008F] 那么厉害的人啊……
 +[FID:27, TEXT:0090] 
 
---- Group [left:none next=0023] ---
+--- Group [left:none next=0023] ---G
 あまり、そうは見えま
 せんでしたけどね
-+[FID:27, TEXT:008D] 
-+[FID:27, TEXT:008E] 
++[FID:27, TEXT:008D] 我倒不觉得他
++[FID:27, TEXT:008E] 有那么厉害呢
 
---- Group [right:主人公 next=2012] ---
+--- Group [right:主人公 next=2012] ---G
 ははは、見た目と能力
 とは別物だよ
-+[FID:27, TEXT:0092] 
-+[FID:27, TEXT:0093] 
++[FID:27, TEXT:0092] 哈哈哈，外表和能力
++[FID:27, TEXT:0093] 可是两回事哦
 
---- Group [right:主人公 next=2012] ---
+--- Group [right:主人公 next=2012] ---G
 能力と人間性も、
 別物だしね・・・
-+[FID:27, TEXT:0094] 
-+[FID:27, TEXT:0095] 
++[FID:27, TEXT:0094] 能力和人品
++[FID:27, TEXT:0095] 也是两回事呢……
 
---- Group [left:none next=0023] ---
+--- Group [left:none next=0023] ---G
 あの人、レイドさんの
 ことを露骨に敵視して
 ませんでした？
-+[FID:27, TEXT:0096] 
-+[FID:27, TEXT:0097] 
-+[FID:27, TEXT:0098] 
++[FID:27, TEXT:0096] 那个人，是不是
++[FID:27, TEXT:0097] 很露骨地敌视
++[FID:27, TEXT:0098] 雷德先生啊？
 
---- Group [left:none next=0023] ---
+--- Group [left:none next=0023] ---G
 あの人、レイドさんを
 露骨に敵視していた
 ように見えましたけど
-+[FID:27, TEXT:0099] 
-+[FID:27, TEXT:009A] 
-+[FID:27, TEXT:009B] 
++[FID:27, TEXT:0099] 那个人，我感觉
++[FID:27, TEXT:009A] 很露骨地敌视着
++[FID:27, TEXT:009B] 雷德先生啊
 
---- Group [left:none next=0023] ---
+--- Group [left:none next=0023] ---G
 そういえば・・・
 あの人、レイドさんの
 ことを露骨に敵視して
 ませんでしたか？
-+[FID:27, TEXT:009C] 
--[FID:27, TEXT:0096] 
--[FID:27, TEXT:0097] 
-+[FID:27, TEXT:009D] 
++[FID:27, TEXT:009C] 说起来……
+-[FID:27, TEXT:0096] 那个人，是不是
+-[FID:27, TEXT:0097] 很露骨地敌视
++[FID:27, TEXT:009D] 雷德先生啊？
 
---- Group [right:艾多斯 next=2012] ---
+--- Group [right:艾多斯 next=2012] ---G
 それはきっと、
 私が彼らのことを
 嫌っているせいだろう
-+[FID:27, TEXT:009E] 
-+[FID:27, TEXT:009F] 
-+[FID:27, TEXT:00A0] 
++[FID:27, TEXT:009E] 那一定是
++[FID:27, TEXT:009F] 因为我讨厌他们
++[FID:27, TEXT:00A0] 的缘故吧
 
---- Group [right:艾多斯 next=2012] ---
+--- Group [right:艾多斯 next=2012] ---G
 彼らとは、いろいろと
 あったからね・・・
-+[FID:27, TEXT:00A1] 
-+[FID:27, TEXT:00A2] 
++[FID:27, TEXT:00A1] 毕竟我和他们之间
++[FID:27, TEXT:00A2] 发生过很多事……
 
---- Group [left:none next=0023] ---
+--- Group [left:none next=0023] ---G
 あーあ
 ご飯ヌキはひどい
 よねぇ・・・
-+[FID:27, TEXT:00A3] 
-+[FID:27, TEXT:00AA] 
-+[FID:27, TEXT:00AB] 
++[FID:27, TEXT:00A3] 啊——
++[FID:27, TEXT:00AA] 不给吃饭也太过分
++[FID:27, TEXT:00AB] 了吧……
 
---- Group [left:none next=0023] ---
+--- Group [left:none next=0023] ---G
 あーあ
 メシ抜きってのは、
 あんまりだよなぁ
--[FID:27, TEXT:00A3] 
-+[FID:27, TEXT:00A4] 
-+[FID:27, TEXT:00A5] 
+-[FID:27, TEXT:00A3] 啊——
++[FID:27, TEXT:00A4] 不给吃饭什么的
++[FID:27, TEXT:00A5] 也太狠了吧
 
---- Group [left:none next=0023] ---
+--- Group [left:none next=0023] ---G
 やれやれ・・・
 こんなことなら意地
 でも君を止めるべき
 だったよ
-+[FID:27, TEXT:00A6] 
-+[FID:27, TEXT:00A7] 
-+[FID:27, TEXT:00A8] 
-+[FID:27, TEXT:00A9] 
++[FID:27, TEXT:00A6] 唉……
++[FID:27, TEXT:00A7] 早知道这样
++[FID:27, TEXT:00A8] 就算硬来也该阻止你
++[FID:27, TEXT:00A9] 才对啊
 
---- Group [left:none next=0023] ---
+--- Group [left:none next=0023] ---G
 ・・・ご飯抜きは
 あんまりですよね
-+[FID:27, TEXT:00AC] 
-+[FID:27, TEXT:00AD] 
++[FID:27, TEXT:00AC] ……不给吃饭
++[FID:27, TEXT:00AD] 也太过分了
 
---- Group [right:none next=2012] ---
+--- Group [right:none next=2012] ---G
 なんだよ、
 後悔してんのか？
 情けねえなぁ
-+[FID:27, TEXT:00AE] 
-+[FID:27, TEXT:00AF] 
-+[FID:27, TEXT:00B0] 
++[FID:27, TEXT:00AE] 怎么
++[FID:27, TEXT:00AF] 后悔了？
++[FID:27, TEXT:00B0] 真没出息啊
 
---- Group [left:none next=0023] ---
+--- Group [left:none next=0023] ---G
 そ、そういうガゼル
 さんも、お腹が減って
 眠れないんでしょ？
-+[FID:27, TEXT:00B1] 
-+[FID:27, TEXT:00BA] 
-+[FID:27, TEXT:00BB] 
++[FID:27, TEXT:00B1] 那、那个加泽尔
++[FID:27, TEXT:00BA] 你也肚子饿了
++[FID:27, TEXT:00BB] 睡不着吧？
 
---- Group [left:none next=0023] ---
+--- Group [left:none next=0023] ---G
 そ、そういうガゼル
 だって、お腹が減っ
 て眠れないんだろ？
--[FID:27, TEXT:00B1] 
-+[FID:27, TEXT:00B2] 
-+[FID:27, TEXT:00B3] 
+-[FID:27, TEXT:00B1] 那、那个加泽尔
++[FID:27, TEXT:00B2] 你也肚子饿了
++[FID:27, TEXT:00B3] 睡不着吧？
 
---- Group [left:none next=0023] ---
+--- Group [left:none next=0023] ---G
 そう言うガゼルも、
 お腹がすいて眠れな
 いんじゃないのか？
-+[FID:27, TEXT:00B4] 
-+[FID:27, TEXT:00B5] 
-+[FID:27, TEXT:00B6] 
++[FID:27, TEXT:00B4] 那个加泽尔也是
++[FID:27, TEXT:00B5] 肚子饿了
++[FID:27, TEXT:00B6] 睡不着吧？
 
---- Group [left:none next=0023] ---
+--- Group [left:none next=0023] ---G
 べーだ！
 ガゼルだっておなか
 へってるくせに！
-+[FID:27, TEXT:00B7] 
-+[FID:27, TEXT:00B8] 
-+[FID:27, TEXT:00B9] 
++[FID:27, TEXT:00B7] 哼！
++[FID:27, TEXT:00B8] 你明明肚子也饿了
++[FID:27, TEXT:00B9] 加泽尔！
 
---- Group [right:none next=2012] ---
+--- Group [right:none next=2012] ---G
 チッチッ、甘いな
 ・・・ほれ
-+[FID:27, TEXT:00BC] 
-+[FID:27, TEXT:00BD] 
++[FID:27, TEXT:00BC] 啧啧，太天真了
++[FID:27, TEXT:00BD] ……喏
 
---- Group [left:none next=2012] ---
+--- Group [left:none next=2012] ---G
 クッキー！？
-+[FID:27, TEXT:00BE] 
++[FID:27, TEXT:00BE] 饼干！？
 
---- Group [right:none next=2012] ---
+--- Group [right:none next=2012] ---G
 こういう展開は
 予想してたからな、
 準備に怠りはねえのさ
-+[FID:27, TEXT:00BF] 
-+[FID:27, TEXT:00C0] 
-+[FID:27, TEXT:00C1] 
++[FID:27, TEXT:00BF] 这种展开
++[FID:27, TEXT:00C0] 我早就预料到了
++[FID:27, TEXT:00C1] 准备上可不能马虎
 
---- Group [left:none next=0023] ---
+--- Group [left:none next=0023] ---G
 計画的だあ・・・
-+[FID:27, TEXT:00C2] 
++[FID:27, TEXT:00C2] 还真是有计划啊……
 
---- Group [left:none next=0023] ---
+--- Group [left:none next=0023] ---G
 計画的だ・・・
-+[FID:27, TEXT:00C3] 
++[FID:27, TEXT:00C3] 真有计划……
 
---- Group [left:none next=0023] ---
+--- Group [left:none next=0023] ---G
 計画的犯行だったん
 ですね・・・
-+[FID:27, TEXT:00C4] 
-+[FID:27, TEXT:00C5] 
++[FID:27, TEXT:00C4] 原来是
++[FID:27, TEXT:00C5] 有预谋的犯罪啊……
 
---- Group [right:none next=2012] ---
+--- Group [right:none next=2012] ---G
 お前だけにひもじい
 思いをさせとくのも
 なんだしな、食えよ
-+[FID:27, TEXT:00C6] 
-+[FID:27, TEXT:00C7] 
-+[FID:27, TEXT:00C8] 
++[FID:27, TEXT:00C6] 让你一个人挨饿
++[FID:27, TEXT:00C7] 也不太好
++[FID:27, TEXT:00C8] 吃吧
 
---- Group [left:none next=0023] ---
+--- Group [left:none next=0023] ---G
 う、うん
 ありがとう、リプレ！
-+[FID:27, TEXT:00C9] 
-+[FID:27, TEXT:00FC] 
++[FID:27, TEXT:00C9] 嗯、嗯
++[FID:27, TEXT:00FC] 谢谢你，莉普蕾！
 
---- Group [left:none next=0023] ---
+--- Group [left:none next=0023] ---G
 あ、ああ
-+[FID:27, TEXT:00CA] 
++[FID:27, TEXT:00CA] 啊、啊
 
---- Group [left:none next=0023] ---
+--- Group [left:none next=0023] ---G
 あ、ありがとう・・・
-+[FID:27, TEXT:00CB] 
++[FID:27, TEXT:00CB] 啊，谢谢……
 
---- Group [right:主人公 next=2012] ---
+--- Group [right:主人公 next=2012] ---G
 言っとくが、リプレ
 にゃあ黙っとけよ？
-+[FID:27, TEXT:00CC] 
-+[FID:27, TEXT:00CD] 
++[FID:27, TEXT:00CC] 事先说好，别告诉
++[FID:27, TEXT:00CD] 莉普蕾哦？
 
---- Group [right:主人公 next=2012] ---
+--- Group [right:主人公 next=2012] ---G
 ところで、貴族の料理
 の味はどうだった？
-+[FID:27, TEXT:00CE] 
-+[FID:27, TEXT:00CF] 
++[FID:27, TEXT:00CE] 话说回来，贵族的料理
++[FID:27, TEXT:00CF] 味道怎么样？
 
---- Group [left:none next=0023] ---
+--- Group [left:none next=0023] ---G
 うーん
 よくわかりませんが、
 豪華ではあったと
 思いますよ？
-+[FID:27, TEXT:00D0] 
-+[FID:27, TEXT:00D6] 
-+[FID:27, TEXT:00D7] 
++[FID:27, TEXT:00D0] 嗯——
++[FID:27, TEXT:00D6] 虽然不太明白，
++[FID:27, TEXT:00D7] 但我觉得很豪华呢？
 +[FID:27, TEXT:00D8] 
 
---- Group [left:none next=0023] ---
+--- Group [left:none next=0023] ---G
 うーん
 よくわかんないけど、
 豪華ではあったかなあ
--[FID:27, TEXT:00D0] 
-+[FID:27, TEXT:00D1] 
-+[FID:27, TEXT:00D2] 
+-[FID:27, TEXT:00D0] 嗯——
++[FID:27, TEXT:00D1] 虽然不太清楚，
++[FID:27, TEXT:00D2] 但确实很豪华吧
 
---- Group [left:none next=0023] ---
+--- Group [left:none next=0023] ---G
 うーん
 よくわかんないけど、
 豪華だったのはたしか
--[FID:27, TEXT:00D0] 
--[FID:27, TEXT:00D1] 
-+[FID:27, TEXT:00D5] 
+-[FID:27, TEXT:00D0] 嗯——
+-[FID:27, TEXT:00D1] 虽然不太清楚，
++[FID:27, TEXT:00D5] 但豪华是肯定的
 
---- Group [left:none next=0023] ---
+--- Group [left:none next=0023] ---G
 味わってる余裕なんか
 なかったよ
-+[FID:27, TEXT:00D3] 
-+[FID:27, TEXT:00D4] 
++[FID:27, TEXT:00D3] 哪还有心情
++[FID:27, TEXT:00D4] 去细细品尝啊
 
---- Group [right:主人公 next=2012] ---
+--- Group [right:主人公 next=2012] ---G
 むう・・・
 ワシも食いたかった
-+[FID:27, TEXT:00D9] 
-+[FID:27, TEXT:00DA] 
++[FID:27, TEXT:00D9] 唔……
++[FID:27, TEXT:00DA] 我也想吃啊
 
---- Group [left:none next=0023] ---
+--- Group [left:none next=0023] ---G
 へ？
-+[FID:27, TEXT:00DB] 
++[FID:27, TEXT:00DB] 哎？
 
---- Group [left:none next=0023] ---
+--- Group [left:none next=0023] ---G
 え？
-+[FID:27, TEXT:00DC] 
++[FID:27, TEXT:00DC] 嗯？
 
---- Group [left:none next=0023] ---
+--- Group [left:none next=0023] ---G
 はへ？
-+[FID:27, TEXT:00DD] 
++[FID:27, TEXT:00DD] 哈哎？
 
---- Group [right:none next=2012] ---
+--- Group [right:none next=2012] ---G
 そういう楽しそうな話
 には、これからはワシ
 も誘ってくれよ
-+[FID:27, TEXT:00DE] 
-+[FID:27, TEXT:00DF] 
-+[FID:27, TEXT:00E0] 
++[FID:27, TEXT:00DE] 以后这种有趣的话题
++[FID:27, TEXT:00DF] 也要叫上我
++[FID:27, TEXT:00E0] 一起啊
 
---- Group [left:none next=0023] ---
+--- Group [left:none next=0023] ---G
 う、うん・・・
-+[FID:27, TEXT:00E1] 
++[FID:27, TEXT:00E1] 嗯、嗯……
 
---- Group [left:none next=0023] ---
+--- Group [left:none next=0023] ---G
 あ、うん・・・
-+[FID:27, TEXT:00E2] 
++[FID:27, TEXT:00E2] 啊、嗯……
 
---- Group [left:none next=0023] ---
+--- Group [left:none next=0023] ---G
 ・・・うん
-+[FID:27, TEXT:00E3] 
++[FID:27, TEXT:00E3] ……嗯
 
---- Group [left:none next=0023] ---
+--- Group [left:none next=0023] ---G
 あ、は、はい・・・
-+[FID:27, TEXT:00E4] 
++[FID:27, TEXT:00E4] 啊、是、是的……
 
---- Group [left:none next=0023] ---
+--- Group [left:none next=0023] ---G
 あ・・・
-+[FID:27, TEXT:00E5] 
++[FID:27, TEXT:00E5] 啊……
 
---- Group [left:none next=0023] ---
+--- Group [left:none next=0023] ---G
 あ・・・
 ありがとうリプレさん
--[FID:27, TEXT:00E5] 
-+[FID:27, TEXT:00FD] 
+-[FID:27, TEXT:00E5] 啊……
++[FID:27, TEXT:00FD] 谢谢你，莉普蕾小姐
 
---- Group [right:艾多斯 next=2012] ---
+--- Group [right:艾多斯 next=2012] ---G
 ・・・ぷっ
-+[FID:27, TEXT:00E6] 
++[FID:27, TEXT:00E6] ……噗
 
---- Group [left:none next=0023] ---
+--- Group [left:none next=0023] ---G
 あ、あはははっ
-+[FID:27, TEXT:00E7] 
++[FID:27, TEXT:00E7] 啊、啊哈哈……
 
---- Group [left:none next=0023] ---
+--- Group [left:none next=0023] ---G
 ま、まいったな
-+[FID:27, TEXT:00E8] 
++[FID:27, TEXT:00E8] 真、真拿你没办法……
 
---- Group [left:none next=0023] ---
+--- Group [left:none next=0023] ---G
 すみません・・
-+[FID:27, TEXT:00E9] 
++[FID:27, TEXT:00E9] 对不起……
 
---- Group [right:none next=2012] ---
+--- Group [right:none next=2012] ---G
 ふふっ
 きちんと反省してる
 みたいね？
-+[FID:27, TEXT:00EA] 
-+[FID:27, TEXT:00EB] 
++[FID:27, TEXT:00EA] 呵呵
++[FID:27, TEXT:00EB] 看来有好好反省了呢？
 +[FID:27, TEXT:00EC] 
 
---- Group [left:none next=0023] ---
+--- Group [left:none next=0023] ---G
 身に染みて反省してる
 んですよ、これでも
-+[FID:27, TEXT:00ED] 
-+[FID:27, TEXT:00F3] 
++[FID:27, TEXT:00ED] 深刻反省了
++[FID:27, TEXT:00F3] 反省了哦，真的
 
---- Group [left:none next=0023] ---
+--- Group [left:none next=0023] ---G
 身に染みて反省してる
 よ、ホントに
--[FID:27, TEXT:00ED] 
-+[FID:27, TEXT:00EE] 
+-[FID:27, TEXT:00ED] 深刻反省了
++[FID:27, TEXT:00EE] 真的
 
---- Group [left:none next=0023] ---
+--- Group [left:none next=0023] ---G
 ああ
 もうこりごりだよ
-+[FID:27, TEXT:00EF] 
-+[FID:27, TEXT:00F0] 
++[FID:27, TEXT:00EF] 嗯
++[FID:27, TEXT:00F0] 我已经受够了
 
---- Group [left:none next=0023] ---
+--- Group [left:none next=0023] ---G
 身に染みて反省して
 ます・・・ホント
-+[FID:27, TEXT:00F1] 
-+[FID:27, TEXT:00F2] 
++[FID:27, TEXT:00F1] 深刻反省
++[FID:27, TEXT:00F2] 了……真的
 
---- Group [right:none next=2012] ---
+--- Group [right:none next=2012] ---G
 なら、許してあげる
 ・・・はい
-+[FID:27, TEXT:00F4] 
-+[FID:27, TEXT:00F5] 
++[FID:27, TEXT:00F4] 那就原谅你
++[FID:27, TEXT:00F5] ……好了
 
---- Group [left:none next=0023] ---
+--- Group [left:none next=0023] ---G
 クッキーだ！？
-+[FID:27, TEXT:00F6] 
++[FID:27, TEXT:00F6] 是饼干！？
 
---- Group [left:none next=0023] ---
+--- Group [left:none next=0023] ---G
 クッキー？
-+[FID:27, TEXT:00F7] 
++[FID:27, TEXT:00F7] 饼干？
 
---- Group [left:none next=0023] ---
+--- Group [left:none next=0023] ---G
 クッキー・・・？
-+[FID:27, TEXT:00F8] 
++[FID:27, TEXT:00F8] 饼干……？
 
---- Group [right:艾多斯 next=2012] ---
+--- Group [right:艾多斯 next=2012] ---G
 お腹がすいて
 眠れないんでしょ？
-+[FID:27, TEXT:00F9] 
--[FID:27, TEXT:00BB] 
++[FID:27, TEXT:00F9] 肚子饿了
+-[FID:27, TEXT:00BB] 睡不着吧？
 
---- Group [right:艾多斯 next=2012] ---
+--- Group [right:艾多斯 next=2012] ---G
 明日の朝までは、
 それで我慢しなさいね
-+[FID:27, TEXT:00FA] 
-+[FID:27, TEXT:00FB] 
++[FID:27, TEXT:00FA] 到明天早上为止
++[FID:27, TEXT:00FB] 就用这个忍一忍吧
 
---- Group [right:主人公 next=0023] ---
+--- Group [right:主人公 next=0023] ---G
 ガゼルと兄ちゃんだけ
 つまみ食いするなんて
 ずるいぞー！
-+[FID:27, TEXT:00FE] 
-+[FID:27, TEXT:00FF] 
-+[FID:27, TEXT:0100] 
++[FID:27, TEXT:00FE] 只有加泽尔和哥哥
++[FID:27, TEXT:00FF] 偷吃什么的
++[FID:27, TEXT:0100] 太狡猾了——！
 
---- Group [right:艾多斯 next=2012] ---
+--- Group [right:艾多斯 next=2012] ---G
 ガゼルと姉ちゃんだけ
 つまみ食いするなんて
 ずるいぞー！
-+[FID:27, TEXT:0101] 
--[FID:27, TEXT:00FF] 
--[FID:27, TEXT:0100] 
++[FID:27, TEXT:0101] 只有加泽尔和姐姐
+-[FID:27, TEXT:00FF] 偷吃什么的
+-[FID:27, TEXT:0100] 太狡猾了——！
 
---- Group [right:none next=2012] ---
+--- Group [right:none next=2012] ---G
 オイラだって連れてっ
 てほしかったのに
-+[FID:27, TEXT:0102] 
-+[FID:27, TEXT:0103] 
++[FID:27, TEXT:0102] 我也想
++[FID:27, TEXT:0103] 被带去啊
 
---- Group [left:none next=0023] ---
+--- Group [left:none next=0023] ---G
 でもなあ、そうしたら
 アルバも夕ご飯抜きに
 なってたんだぞ？
-+[FID:27, TEXT:0104] 
-+[FID:27, TEXT:0105] 
-+[FID:27, TEXT:0106] 
++[FID:27, TEXT:0104] 可是啊，那样的话
++[FID:27, TEXT:0105] 你也会
++[FID:27, TEXT:0106] 没有晚饭吃了啊？
 
---- Group [left:none next=0023] ---
+--- Group [left:none next=0023] ---G
 でも、おかげで僕らは
 夕ご飯をなしにされて
 しまったんだよ？
-+[FID:27, TEXT:0107] 
-+[FID:27, TEXT:0108] 
++[FID:27, TEXT:0107] 可是，结果我们
++[FID:27, TEXT:0108] 连晚饭都没吃上啊？
 +[FID:27, TEXT:0109] 
 
---- Group [left:none next=0023] ---
+--- Group [left:none next=0023] ---G
 でもねえ、そしたら
 アルバも夕ご飯抜きに
 なってたんだよ？
-+[FID:27, TEXT:010A] 
--[FID:27, TEXT:0105] 
-+[FID:27, TEXT:010B] 
++[FID:27, TEXT:010A] 可是嘛，那样的话
+-[FID:27, TEXT:0105] 你也会
++[FID:27, TEXT:010B] 没有晚饭吃了啊？
 
---- Group [left:none next=0023] ---
+--- Group [left:none next=0023] ---G
 でも・・・そうしたら
 アルバも夕ご飯抜きに
 なってたんだよ？
-+[FID:27, TEXT:010C] 
--[FID:27, TEXT:0105] 
--[FID:27, TEXT:010B] 
++[FID:27, TEXT:010C] 可是……那样的话
+-[FID:27, TEXT:0105] 你也会
+-[FID:27, TEXT:010B] 没有晚饭吃了啊？
 
---- Group [right:艾多斯 next=2012] ---
+--- Group [right:艾多斯 next=2012] ---G
 でもでもっ！
 やっぱりずるいぞ！！
-+[FID:27, TEXT:010D] 
-+[FID:27, TEXT:010E] 
++[FID:27, TEXT:010D] 可是可是！
++[FID:27, TEXT:010E] 果然还是太狡猾了！！
 
---- Group [right:none next=2012] ---
+--- Group [right:none next=2012] ---G
 つまみ食いだなんて、
 お行儀悪いわよ？
-+[FID:27, TEXT:010F] 
-+[FID:27, TEXT:0110] 
++[FID:27, TEXT:010F] 偷吃什么的
++[FID:27, TEXT:0110] 多没规矩啊？
 
---- Group [right:none next=2012] ---
+--- Group [right:none next=2012] ---G
 リプレママが怒るのも
 無理ないわねぇ
 朝早くから一生懸命、
 お弁当作ってたのに
-+[FID:27, TEXT:0111] 
-+[FID:27, TEXT:0112] 
-+[FID:27, TEXT:0113] 
-+[FID:27, TEXT:0114] 
++[FID:27, TEXT:0111] 莉普蕾妈妈会生气
++[FID:27, TEXT:0112] 也是理所当然的呢
++[FID:27, TEXT:0113] 明明一大早就那么拼命
++[FID:27, TEXT:0114] 做便当来着
 
---- Group [right:主人公 next=0023] ---
+--- Group [right:主人公 next=0023] ---G
 きちんと謝っとかなき
 ゃダメよ。お兄ちゃん
-+[FID:27, TEXT:0115] 
-+[FID:27, TEXT:0116] 
++[FID:27, TEXT:0115] 得好好道歉
++[FID:27, TEXT:0116] 才行哦，哥哥
 
---- Group [right:none next=2012] ---
+--- Group [right:none next=2012] ---G
 きちんと謝っとかなき
 ゃダメよ。お姉ちゃん
--[FID:27, TEXT:0115] 
-+[FID:27, TEXT:0117] 
+-[FID:27, TEXT:0115] 得好好道歉
++[FID:27, TEXT:0117] 才行哦，姐姐
 
---- Group [left:none next=0023] ---
+--- Group [left:none next=0023] ---G
 はい・・・
-+[FID:27, TEXT:0118] 
++[FID:27, TEXT:0118] 是……
 
---- Group [left:none next=0023] ---
+--- Group [left:none next=0023] ---G
 う、あ、は〜い
-+[FID:27, TEXT:0119] 
++[FID:27, TEXT:0119] 唔、啊、好〜的
 
---- Group [left:none next=0023] ---
+--- Group [left:none next=0023] ---G
 あ、はい・・・
-+[FID:27, TEXT:011A] 
++[FID:27, TEXT:011A] 啊、是……
 
---- Group [right:none next=2012] ---
+--- Group [right:none next=2012] ---G
 ・・・たのしかったね
-+[FID:27, TEXT:011B] 
++[FID:27, TEXT:011B] ……好开心啊
 
---- Group [left:none next=0023] ---
+--- Group [left:none next=0023] ---G
 ははは、そうだね
-+[FID:27, TEXT:011C] 
++[FID:27, TEXT:011C] 哈哈哈，是啊
 
---- Group [left:none next=0023] ---
+--- Group [left:none next=0023] ---G
 ああ、そうだね
-+[FID:27, TEXT:011D] 
++[FID:27, TEXT:011D] 啊，是啊
 
---- Group [left:none next=0023] ---
+--- Group [left:none next=0023] ---G
 うん、楽しかったね
-+[FID:27, TEXT:011E] 
++[FID:27, TEXT:011E] 嗯，很开心呢
 
---- Group [left:none next=0023] ---
+--- Group [left:none next=0023] ---G
 そうだね・・・
-+[FID:27, TEXT:011F] 
++[FID:27, TEXT:011F] 是啊……
 
---- Group [right:主人公 next=2012] ---
+--- Group [right:主人公 next=2012] ---G
 ラミ・・・おそとって
 すきじゃなかったけど
-+[FID:27, TEXT:0120] 
-+[FID:27, TEXT:0121] 
++[FID:27, TEXT:0120] 拉米……以前
++[FID:27, TEXT:0121] 不喜欢出门的
 
---- Group [right:主人公 next=2012] ---
+--- Group [right:主人公 next=2012] ---G
 みんないっしょなら、
 また、おでかけしたい
 っておもったよ・・・
-+[FID:27, TEXT:0122] 
-+[FID:27, TEXT:0123] 
-+[FID:27, TEXT:0124] 
++[FID:27, TEXT:0122] 但和大家一起的话
++[FID:27, TEXT:0123] 就又想
++[FID:27, TEXT:0124] 出去玩了……
 
---- Group [left:none next=0023] ---
+--- Group [left:none next=0023] ---G
 うん、また行こうな？
-+[FID:27, TEXT:0125] 
++[FID:27, TEXT:0125] 嗯，下次再去吧？
 
---- Group [left:none next=0023] ---
+--- Group [left:none next=0023] ---G
 また、どこかへ
 行けるといいね
-+[FID:27, TEXT:0126] 
-+[FID:27, TEXT:0127] 
++[FID:27, TEXT:0126] 如果能再
++[FID:27, TEXT:0127] 去别的地方就好了
 
---- Group [left:none next=0023] ---
+--- Group [left:none next=0023] ---G
 うん、また行こうね！
-+[FID:27, TEXT:0128] 
++[FID:27, TEXT:0128] 嗯，下次再去吧！
 
---- Group [left:none next=0023] ---
+--- Group [left:none next=0023] ---G
 うん、また行こう？
-+[FID:27, TEXT:0129] 
++[FID:27, TEXT:0129] 嗯，下次再去？
 
---- Group [right:none next=2012] ---
+--- Group [right:none next=2012] ---G
 ・・・（コクン）
-+[FID:27, TEXT:012A] 
++[FID:27, TEXT:012A] ……（点头）
 
---- Group [right:none next=0023] ---
+--- Group [right:none next=0023] ---G
 　やれやれ、叱られてしまったよ
-+[FID:27, TEXT:012B] 
++[FID:27, TEXT:012B] 　唉，挨骂了啊
 
---- Group [right:主人公 next=0023] ---
+--- Group [right:主人公 next=0023] ---G
 　ちょっとやりすぎちゃったな〜
-+[FID:27, TEXT:012C] 
++[FID:27, TEXT:012C] 　做得有点过头了吧〜
 
---- Group [right:主人公 next=0023] ---
+--- Group [right:主人公 next=0023] ---G
 　叱られてしまいました・・・
-+[FID:27, TEXT:012D] 
++[FID:27, TEXT:012D] 　被骂了呢……
 
---- Group [right:none next=0023] ---
+--- Group [right:none next=0023] ---G
 　あーあ・・・叱られちまったよ
-+[FID:27, TEXT:012E] 
++[FID:27, TEXT:012E] 　啊……被训了呀
 
---- Group [right:主人公 next=0023] ---
+--- Group [right:主人公 next=0023] ---G
 　あーあ・・・叱られちゃった
-+[FID:27, TEXT:012F] 
++[FID:27, TEXT:012F] 　啊……被训了呢
 
---- Group [right:主人公 next=0023] ---
+--- Group [right:主人公 next=0023] ---G
 　あいつ、最初から俺をからかう
 　つもりだったんじゃないか？
-+[FID:27, TEXT:0130] 
-+[FID:27, TEXT:0131] 
++[FID:27, TEXT:0130] 　那家伙该不会一开始
++[FID:27, TEXT:0131] 　就打算耍我吧？
 
---- Group [right:主人公 next=0023] ---
+--- Group [right:主人公 next=0023] ---G
 　最初から僕をからかうつもり
 　だったんじゃないか？
-+[FID:27, TEXT:0132] 
-+[FID:27, TEXT:0133] 
++[FID:27, TEXT:0132] 　他一开始
++[FID:27, TEXT:0133] 　就打算耍我吧？
 
---- Group [right:none next=0023] ---
+--- Group [right:none next=0023] ---G
 　　　・・・カシスさん
 　　　いじわる・・・
-+[FID:27, TEXT:0134] 
-+[FID:27, TEXT:0135] 
++[FID:27, TEXT:0134] 　　　……卡西斯先生
++[FID:27, TEXT:0135] 　　　好过分……
 
---- Group [right:主人公 next=0023] ---
+--- Group [right:主人公 next=0023] ---G
 　　レイドさんが
 　　そこまで嫌うなんて
 　　よほどの事情なんだろうな
-+[FID:27, TEXT:0136] 
-+[FID:27, TEXT:0137] 
-+[FID:27, TEXT:0139] 
++[FID:27, TEXT:0136] 　　雷德先生
++[FID:27, TEXT:0137] 　　竟然讨厌到那种地步
++[FID:27, TEXT:0139] 　　肯定有什么隐情吧
 
---- Group [right:主人公 next=0023] ---
+--- Group [right:主人公 next=0023] ---G
 　　レイドさんが
 　　そこまで嫌うなんて
 　　よほどの事情なんですね・・・
--[FID:27, TEXT:0136] 
--[FID:27, TEXT:0137] 
-+[FID:27, TEXT:013D] 
+-[FID:27, TEXT:0136] 　　雷德先生
+-[FID:27, TEXT:0137] 　　竟然讨厌到那种地步
++[FID:27, TEXT:013D] 　　肯定有什么隐情吧……
 
---- Group [right:none next=0023] ---
+--- Group [right:none next=0023] ---G
 　　レイドさんが
 　　そこまで嫌うなんて
 　　よほどの事情だよな・・・
--[FID:27, TEXT:0136] 
--[FID:27, TEXT:0137] 
-+[FID:27, TEXT:0138] 
+-[FID:27, TEXT:0136] 　　雷德先生
+-[FID:27, TEXT:0137] 　　竟然讨厌到那种地步
++[FID:27, TEXT:0138] 　　肯定有什么原因吧……
 
---- Group [right:主人公 next=0023] ---
+--- Group [right:主人公 next=0023] ---G
 　　レイドさんがそこまで
 　　嫌うなんて、よほどの
 　　事情だねぇ・・・
-+[FID:27, TEXT:013A] 
-+[FID:27, TEXT:013B] 
-+[FID:27, TEXT:013C] 
++[FID:27, TEXT:013A] 　　雷德先生
++[FID:27, TEXT:013B] 　　竟然讨厌到那种地步
++[FID:27, TEXT:013C] 　　肯定有什么原因呢……
 
---- Group [right:艾多斯 next=0023] ---
+--- Group [right:艾多斯 next=0023] ---G
 　ふっふっふ、さすがはガゼル
 　頼りになるねぇ！
-+[FID:27, TEXT:013E] 
-+[FID:27, TEXT:0142] 
++[FID:27, TEXT:013E] 　嘿嘿嘿，不愧是加泽尔
++[FID:27, TEXT:0142] 　真可靠啊！
 
---- Group [right:艾多斯 next=0023] ---
+--- Group [right:艾多斯 next=0023] ---G
 　ふっふっふ、さすがはガゼル
 　手回しがいいよなぁ
--[FID:27, TEXT:013E] 
-+[FID:27, TEXT:013F] 
+-[FID:27, TEXT:013E] 　嘿嘿嘿，不愧是加泽尔
++[FID:27, TEXT:013F] 　安排得真周到啊
 
---- Group [right:none next=0023] ---
+--- Group [right:none next=0023] ---G
 　　まったく・・・やっぱり
 　　ガゼルは抜け目がないな
-+[FID:27, TEXT:0140] 
-+[FID:27, TEXT:0141] 
++[FID:27, TEXT:0140] 　　真是的……果然
++[FID:27, TEXT:0141] 　　加泽尔一点空子都不给人钻啊
 
---- Group [right:艾多斯 next=0023] ---
+--- Group [right:艾多斯 next=0023] ---G
 　　ガゼルさん・・・こんな
 　　手回しだけはいいんですね
-+[FID:27, TEXT:0143] 
-+[FID:27, TEXT:0144] 
++[FID:27, TEXT:0143] 　　加泽尔先生……偏偏
++[FID:27, TEXT:0144] 　　这种事安排得这么周到呢
 
---- Group [right:主人公 next=0023] ---
+--- Group [right:主人公 next=0023] ---G
 　　　エドスも誘ってやれば
 　　　よかったかな？
-+[FID:27, TEXT:0145] 
-+[FID:27, TEXT:0146] 
++[FID:27, TEXT:0145] 　　　把艾多斯也一起叫来
++[FID:27, TEXT:0146] 　　　会不会好点呢？
 
---- Group [right:艾多斯 next=0023] ---
+--- Group [right:艾多斯 next=0023] ---G
 　　　うらやましがられても
 　　　困るんだが・・・
-+[FID:27, TEXT:0147] 
-+[FID:27, TEXT:0148] 
++[FID:27, TEXT:0147] 　　　就算被你羡慕
++[FID:27, TEXT:0148] 　　　我也很为难啊……
 
---- Group [right:艾多斯 next=0023] ---
+--- Group [right:艾多斯 next=0023] ---G
 　　　　エドスも誘えば
 　　　　よかったかなぁ
-+[FID:27, TEXT:0149] 
-+[FID:27, TEXT:014A] 
++[FID:27, TEXT:0149] 　　　　把艾多斯也一起叫来
++[FID:27, TEXT:014A] 　　　　会不会好点呢……
 
---- Group [right:艾多斯 next=0023] ---
+--- Group [right:艾多斯 next=0023] ---G
 　　　エドスさんも誘えば
 　　　よかったみたい・・・
-+[FID:27, TEXT:014B] 
-+[FID:27, TEXT:014C] 
++[FID:27, TEXT:014B] 　　　看来把艾多斯先生也一起叫来
++[FID:27, TEXT:014C] 　　　会更好啊……
 
---- Group [right:主人公 next=0023] ---
+--- Group [right:主人公 next=0023] ---G
 　　　ううっ・・・
 　　　あのクッキーの味は、
 　　　胃袋に染みたぜ
-+[FID:27, TEXT:014D] 
-+[FID:27, TEXT:014E] 
-+[FID:27, TEXT:014F] 
++[FID:27, TEXT:014D] 　　　唔唔……
++[FID:27, TEXT:014E] 　　　那曲奇的味道，
++[FID:27, TEXT:014F] 　　　真是暖到胃里了啊
 
---- Group [right:none next=0023] ---
+--- Group [right:none next=0023] ---G
 　　　あのクッキーの味は、
 　　　胃袋に染みたねぇ
--[FID:27, TEXT:014E] 
-+[FID:27, TEXT:0153] 
+-[FID:27, TEXT:014E] 　　　那曲奇的味道，
++[FID:27, TEXT:0153] 　　　真是暖到胃里了啊
 
---- Group [right:none next=0023] ---
+--- Group [right:none next=0023] ---G
 　　最初からこうなることも
 　　お見通しだったのか
 　　まいったな・・・
-+[FID:27, TEXT:0150] 
-+[FID:27, TEXT:0151] 
-+[FID:27, TEXT:0152] 
++[FID:27, TEXT:0150] 　　难道从一开始
++[FID:27, TEXT:0151] 　　你就看穿会变成这样了吗
++[FID:27, TEXT:0152] 　　真服了你了……
 
---- Group [right:none next=0023] ---
+--- Group [right:none next=0023] ---G
 　ありがとう、リプレさん・・・
-+[FID:27, TEXT:0154] 
++[FID:27, TEXT:0154] 　谢谢你，莉普蕾小姐……
 
---- Group [right:none next=0023] ---
+--- Group [right:none next=0023] ---G
 　　たしかにずるかったかも
 　　しれないですね
-+[FID:27, TEXT:0155] 
-+[FID:27, TEXT:0158] 
++[FID:27, TEXT:0155] 　　说起来可能确实
++[FID:27, TEXT:0158] 　　有点狡猾吧
 
---- Group [right:none next=0023] ---
+--- Group [right:none next=0023] ---G
 　　たしかにずるかったかも
 　　しれないなあ
--[FID:27, TEXT:0155] 
-+[FID:27, TEXT:0156] 
+-[FID:27, TEXT:0155] 　　说起来可能确实
++[FID:27, TEXT:0156] 　　有点狡猾啊
 
---- Group [right:主人公 next=0023] ---
+--- Group [right:主人公 next=0023] ---G
 　　ずるいって言われてもなあ
-+[FID:27, TEXT:0157] 
++[FID:27, TEXT:0157] 　　就算被说狡猾也没办法啊
 
---- Group [right:none next=0023] ---
+--- Group [right:none next=0023] ---G
 　　リプレには
 　　ちゃんと謝っとこう・・・
-+[FID:27, TEXT:0159] 
-+[FID:27, TEXT:015A] 
++[FID:27, TEXT:0159] 　　得好好向
++[FID:27, TEXT:015A] 　　莉普蕾道歉才行……
 
---- Group [right:艾多斯 next=0023] ---
+--- Group [right:艾多斯 next=0023] ---G
 　　リプレには、
 　　ちゃんと謝っておこう・・・
-+[FID:27, TEXT:015B] 
-+[FID:27, TEXT:015C] 
++[FID:27, TEXT:015B] 　　得好好向
++[FID:27, TEXT:015C] 　　莉普蕾道歉才行……
 
---- Group [right:none next=0023] ---
+--- Group [right:none next=0023] ---G
 　　リプレさんには
 　　きちんと謝るべきですね
-+[FID:27, TEXT:015D] 
-+[FID:27, TEXT:015E] 
++[FID:27, TEXT:015D] 　　应该好好向
++[FID:27, TEXT:015E] 　　莉普蕾小姐道歉才行啊
 
---- Group [right:none next=0023] ---
+--- Group [right:none next=0023] ---G
 　ラミちゃん、なんだか
 　今日はいつもより元気だったな
-+[FID:27, TEXT:015F] 
-+[FID:27, TEXT:0160] 
++[FID:27, TEXT:015F] 　拉米酱，总觉得
++[FID:27, TEXT:0160] 　今天比平时更有精神啊
 
---- Group [right:艾多斯 next=0023] ---
+--- Group [right:艾多斯 next=0023] ---G
 　ラミちゃん、なんだか今日は
 　いつもより元気だったみたい
-+[FID:27, TEXT:0161] 
-+[FID:27, TEXT:0162] 
++[FID:27, TEXT:0161] 　拉米酱，总觉得今天
++[FID:27, TEXT:0162] 　比平时更有精神的样子
