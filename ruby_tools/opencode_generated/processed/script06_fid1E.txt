@@ -72,77 +72,77 @@
 
 --- Group [left:none next=0023] ---G
 　　荒野で出会ったソルの
-+[FID:1E, TEXT:0001] 　　在荒野遇到的索尔的
++[FID:1E, TEXT:0001] 　　在荒野遇到的索尔
 
 --- Group [left:none next=0023] ---G
 　　荒野で出会ったキールの
-+[FID:1E, TEXT:0002] 　　在荒野遇到的基尔的
++[FID:1E, TEXT:0002] 　　在荒野遇到的基尔
 
 --- Group [left:none next=0023] ---G
 　　荒野で出会ったカシスの
-+[FID:1E, TEXT:0003] 　　在荒野遇到的卡西斯的
++[FID:1E, TEXT:0003] 　　在荒野遇到的卡西斯
 
 --- Group [left:none next=0023] ---G
 　　荒野で出会ったクラレットの
-+[FID:1E, TEXT:0004] 　　在荒野遇到的克拉雷特的
++[FID:1E, TEXT:0004] 　　在荒野遇到的克拉雷特
 
 --- Group [left:none next=201D] ---G
 　　言葉を信じるのなら、俺は
 　　事故によって間違って
 　　呼ばれてしまったらしい
-+[FID:1E, TEXT:0005] 　　如果相信他们说的话，那我
-+[FID:1E, TEXT:0006] 　　似乎是因为事故
++[FID:1E, TEXT:0005] 　　如果相信其所说的话，
++[FID:1E, TEXT:0006] 　　那我似乎是因为事故
 +[FID:1E, TEXT:0007] 　　被错误召唤过来的
 
 --- Group [left:none next=201D] ---G
 　　言葉を信じるのなら、僕は
 　　事故によって間違って
 　　呼ばれてしまったらしい
-+[FID:1E, TEXT:000E] 　　如果相信他们说的话，那我
--[FID:1E, TEXT:0006] 　　似乎是因为事故
++[FID:1E, TEXT:000E] 　　如果相信其所说的话，
+-[FID:1E, TEXT:0006] 　　那我似乎是因为事故
 -[FID:1E, TEXT:0007] 　　被错误召唤过来的
 
 --- Group [left:none next=0023] ---G
 　荒野で出会ったソルの
-+[FID:1E, TEXT:0012] 　在荒野遇到的索尔的
++[FID:1E, TEXT:0012] 　在荒野遇到的索尔
 
 --- Group [left:none next=0023] ---G
 　荒野で出会ったキールの
-+[FID:1E, TEXT:0013] 　在荒野遇到的基尔的
++[FID:1E, TEXT:0013] 　在荒野遇到的基尔
 
 --- Group [left:none next=0023] ---G
 　荒野で出会ったカシスの
-+[FID:1E, TEXT:0014] 　在荒野遇到的卡西斯的
++[FID:1E, TEXT:0014] 　在荒野遇到的卡西斯
 
 --- Group [left:none next=0023] ---G
 　荒野で出会ったクラレットの
-+[FID:1E, TEXT:0015] 　在荒野遇到的克拉雷特的
++[FID:1E, TEXT:0015] 　在荒野遇到的克拉雷特
 
 --- Group [left:none next=201D] ---G
 　言葉を信じるのなら、
 　あたしは事故によって間違って
 　呼ばれてしまったらしい
-+[FID:1E, TEXT:0016] 　如果相信他们说的话，
++[FID:1E, TEXT:0016] 　如果相信其所说的话，
 +[FID:1E, TEXT:0017] 　那我似乎是因为事故
 +[FID:1E, TEXT:0018] 　被错误召唤过来的
 
 --- Group [left:none next=0023] ---G
 　荒野で出会ったソルさんの
-+[FID:1E, TEXT:001A] 　在荒野遇到的索尔先生的
++[FID:1E, TEXT:001A] 　在荒野遇到的索尔先生
 
 --- Group [left:none next=0023] ---G
 　荒野で出会ったキールさんの
-+[FID:1E, TEXT:001B] 　在荒野遇到的基尔先生的
++[FID:1E, TEXT:001B] 　在荒野遇到的基尔先生
 
 --- Group [left:none next=0023] ---G
 　荒野で出会ったカシスさんの
-+[FID:1E, TEXT:001C] 　在荒野遇到的卡西斯先生的
++[FID:1E, TEXT:001C] 　在荒野遇到的卡西斯先生
 
 --- Group [left:none next=201D] ---G
 　言葉を信じるのなら・・・
 　わたしは間違って、こちらの
 　世界へ呼ばれたことになる・・・
-+[FID:1E, TEXT:001D] 　如果相信他们说的话……
++[FID:1E, TEXT:001D] 　如果相信其所说的话……
 +[FID:1E, TEXT:001E] 　那我就是被错误地
 +[FID:1E, TEXT:001F] 　召唤到这个世界的……
 
