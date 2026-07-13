@@ -156,6 +156,84 @@ FID_MAP.each do |val, fid|
 end
 ```
 
+### Step 9: Trace never-executed 0x2013 with VM instrumentation
+
+When texts are missing within a single FID despite correct switch routing, the gap may be caused by an **unhandled opcode** that silently routes execution away from the target dialog. Instrument the VM to log every 0x2013 execution, then cross-reference against the script to isolate the blocking instruction.
+
+#### 9.1: Instrument the dispatch loop
+
+In the monkey-patched `dispatch` method, log every 0x2013 instruction that falls within the missing TEXT range:
+
+```ruby
+# In the monkey-patch block (inside define_singleton_method(:dispatch)):
+if cmd.code == 0x2013 && cmd.params[0] >= LO && cmd.params[0] <= HI
+  $trace << {
+    fid: state.dialog_file_id,
+    text: cmd.params[0],
+    cmd_idx: cmds.index(cmd),
+    cmd_offset: cmd.index
+  }
+end
+```
+
+Run the analysis for each target `c4[0x95]` value. This produces a list of every 0x2013 execution with its FID attribution.
+
+#### 9.2: Identify never-executed commands
+
+Compare the trace against ALL 0x2013 instructions in the parsed command script:
+
+```ruby
+all_executed_idx = Set.new($trace.map { |t| t[:cmd_idx] })
+commands.each_with_index do |c, i|
+  if c.code == 0x2013 && c.params[0] >= LO && c.params[0] <= HI
+    unless all_executed_idx.include?(i)
+      puts "  idx=#{i} off=0x#{sprintf('%04X',c.index)}: TEXT=0x#{sprintf('%02X',c.params[0])} — NEVER EXECUTED"
+    end
+  end
+end
+```
+
+Commands that appear in the script but never in the trace are gated by an undiscovered condition.
+
+#### 9.3: Trace the blocking gate
+
+From the never-executed instruction's index, walk backward to find the nearest conditional branch (`0x0020`/`0x0021`/`0x0022`) or RPN expression (`0x000A`) that controls the flow:
+
+```ruby
+# Walk backward from never-executed index
+(idx).downto([idx - 200, 0].max) do |j|
+  c = commands[j]
+  if [0x0020, 0x0021, 0x0022, 0x000A].include?(c.code)
+    puts "  Gate at idx=#{j} off=0x#{sprintf('%04X',c.index)}: 0x#{sprintf('%04X',c.code)}"
+    # Found the gate
+  end
+end
+```
+
+Common patterns:
+- `0x000A` RPN + `0x0020 JMP_IF_A` — the VM's `handle_000A` only handles the gender pattern (`0x001D`+`0x0088`). Any other RPN (e.g. `c4[0xA2] < 2` with `0x0089`) leaves `regA` at 0, so `JMP_IF_A` never jumps.
+- `0x0003 TEST_EQ0` + `0x0022 JMP_NOT_B1` — a conditional guard on a variable not in `EXTERNAL_VARS`.
+
+#### 9.4: Fix with a targeted fork at the gate
+
+For an unhandled RPN → JMP_IF_A chain, fork both `regA` values at the `JMP_IF_A` instruction:
+
+```ruby
+# c4[0xA2] < 2 check at 0x1616, not handled by handle_000A
+# Fork both regA=0 and regA=1 at JMP_IF_A 0x161D
+if cmd.index == 0x161D && cmd.code == 0x0020
+  fork_state = state.clone
+  fork_state.regA = 1
+  fork_state.pc = index_to_pc[cmd.params[0]]  # jump target
+  push(fork_state)
+  state.regA = 0
+  state.pc += 1  # fall through
+  return true
+end
+```
+
+This creates two execution states: one that takes the jump (reaching the hidden dialogs) and one that falls through (keeping the existing behavior).
+
 ## Key patterns
 
 | Pattern | Example | Fix |
@@ -166,6 +244,7 @@ end
 | Switch IS external but starved | `switch var[0x93]` with 21 cases | Use direct entry (Step 6) |
 | FID set after dispatch (crossover) | `0x002E` sets -1, 0x4B8 plays, switch sets FID too late | Monkey-patch 0x002E + skip c4[0x95] hardcode |
 | Missing on different entry path | sub 0x3449 only reached from F8=0 | Direct entry with `dialog_file_id` set manually |
+| RPN gate unhandled by VM | `0x000A c4[0xA2] < 2` → `JMP_IF_A` never jumps | Instrument VM to trace 0x2013, fork both regA values at JMP_IF_A (Step 9) |
 
 ## Pitfalls
 
