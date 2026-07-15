@@ -68,8 +68,8 @@
 腕によりをかけて
 おいしい料理を作って
 あげるから、ね？
-+[FID:2F, TEXT:02F7] 我会使出浑身解数，
-+[FID:2F, TEXT:02F8] 给你做美味的料理，
++[FID:2F, TEXT:02F7] 我会使出浑身解数
++[FID:2F, TEXT:02F8] 给你做美味的料理
 +[FID:2F, TEXT:02F9] 好吗？
 
 --- Group [right:none next=0026] ---G
@@ -118,48 +118,48 @@
 【台所】
 
 
-+[FID:2F, TEXT:02FA] 【自己的房间】 
-+[FID:2F, TEXT:0000]  
++[FID:2F, TEXT:02FA] 【自己的房间】
++[FID:2F, TEXT:0000] 
+-[FID:2F, TEXT:0000] 
++[FID:2F, TEXT:02FB] 【利普雷和儿童房】
+-[FID:2F, TEXT:0000] 
+-[FID:2F, TEXT:0000] 
++[FID:2F, TEXT:02FC] 【玄关】
+-[FID:2F, TEXT:0000] 
+-[FID:2F, TEXT:0000] 
++[FID:2F, TEXT:02FD] 【去街上】
+-[FID:2F, TEXT:0000] 
+-[FID:2F, TEXT:0000] 
++[FID:2F, TEXT:02FE] 【雷德的房间】
+-[FID:2F, TEXT:0000] 
+-[FID:2F, TEXT:0000] 
++[FID:2F, TEXT:02FF] 【加泽尔的房间】
 -[FID:2F, TEXT:0000]  
-+[FID:2F, TEXT:02FB] 【利普雷和儿童房】 
--[FID:2F, TEXT:0000]  
--[FID:2F, TEXT:0000]  
-+[FID:2F, TEXT:02FC] 【玄关】 
--[FID:2F, TEXT:0000]  
--[FID:2F, TEXT:0000]  
-+[FID:2F, TEXT:02FD] 【去街上】 
--[FID:2F, TEXT:0000]  
--[FID:2F, TEXT:0000]  
-+[FID:2F, TEXT:02FE] 【雷德的房间】 
--[FID:2F, TEXT:0000]  
--[FID:2F, TEXT:0000]  
-+[FID:2F, TEXT:02FF] 【加泽尔的房间】 
--[FID:2F, TEXT:0000]  
--[FID:2F, TEXT:0000]  
-+[FID:2F, TEXT:0300] 【房间１】 
--[FID:2F, TEXT:0000]  
--[FID:2F, TEXT:0000]  
-+[FID:2F, TEXT:0301] 【房间２】 
--[FID:2F, TEXT:0000]  
--[FID:2F, TEXT:0000]  
-+[FID:2F, TEXT:0302] 【房间３】 
--[FID:2F, TEXT:0000]  
--[FID:2F, TEXT:0000]  
-+[FID:2F, TEXT:0303] 【房间４】 
--[FID:2F, TEXT:0000]  
--[FID:2F, TEXT:0000]  
-+[FID:2F, TEXT:0304] 【房间５】 
--[FID:2F, TEXT:0000]  
--[FID:2F, TEXT:0000]  
-+[FID:2F, TEXT:0305] 【阁楼房间】 
--[FID:2F, TEXT:0000]  
--[FID:2F, TEXT:0000]  
-+[FID:2F, TEXT:0306] 【大厅】 
--[FID:2F, TEXT:0000]  
--[FID:2F, TEXT:0000]  
-+[FID:2F, TEXT:0307] 【庭院】 
--[FID:2F, TEXT:0000]  
--[FID:2F, TEXT:0000]  
-+[FID:2F, TEXT:0308] 【厨房】 
--[FID:2F, TEXT:0000]  
--[FID:2F, TEXT:0000]  
+-[FID:2F, TEXT:0000] 
++[FID:2F, TEXT:0300] 【房间１】
+-[FID:2F, TEXT:0000] 
+-[FID:2F, TEXT:0000] 
++[FID:2F, TEXT:0301] 【房间２】
+-[FID:2F, TEXT:0000] 
+-[FID:2F, TEXT:0000] 
++[FID:2F, TEXT:0302] 【房间３】
+-[FID:2F, TEXT:0000] 
+-[FID:2F, TEXT:0000] 
++[FID:2F, TEXT:0303] 【房间４】
+-[FID:2F, TEXT:0000] 
+-[FID:2F, TEXT:0000] 
++[FID:2F, TEXT:0304] 【房间５】
+-[FID:2F, TEXT:0000] 
+-[FID:2F, TEXT:0000] 
++[FID:2F, TEXT:0305] 【阁楼房间】
+-[FID:2F, TEXT:0000] 
+-[FID:2F, TEXT:0000] 
++[FID:2F, TEXT:0306] 【大厅】
+-[FID:2F, TEXT:0000] 
+-[FID:2F, TEXT:0000] 
++[FID:2F, TEXT:0307] 【庭院】
+-[FID:2F, TEXT:0000] 
+-[FID:2F, TEXT:0000] 
++[FID:2F, TEXT:0308] 【厨房】
+-[FID:2F, TEXT:0000] 
+-[FID:2F, TEXT:0000] 

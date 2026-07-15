@@ -3,22 +3,23 @@
 
 # ============================================================
 # apply_diff.rb
-# 将翻译 diff 输入文件中的变更应用到 processed/ 目录中的文件
+# 将 COMMON.TXT 中的译文应用到 processed/ 目录中的文件
 #
-# 用法: ruby apply_diff.rb <input_file> <fid_start> [fid_end]
+# 用法: ruby apply_diff.rb [--processed-dir <dir>] <input_file> <fid_start> [fid_end]
 #   fid_start/fid_end: 十六进制FID，可选0x前缀。如 2F 或 0x2F
 #   若只指定 fid_start，仅处理该 FID
 #
-# 输入文件格式:
+# COMMON.TXT 格式:
 #   --- Group [left:主人公 next=0023] ---G
 #   日文原文行1
 #   日文原文行2
-#   -[FID:2F, TEXT:02CA] 旧译文（参考用，不应用）
-#   +[FID:2F, TEXT:02CB] 新译文行1
-#   +[FID:2F, TEXT:02CC] 新译文行2
+#   +[FID:2F, TEXT:02CA] 译文A
+#   -[FID:2F, TEXT:02CB] 译文B
 #
-# 匹配逻辑: 在 processed/ 中按FID范围查找，比对群组的日文原文
-# （每行去除首尾空白后拼接），匹配成功则替换为该群的+行译文。
+# 匹配逻辑: 在 processed/ 中按FID范围查找，比对整个group的日文原文
+# （每行去除首尾空白后拼接），匹配成功则按译文行顺序逐行替换中文内容，
+# 保留原文件的行前缀（+/ - 和 FID:TEXT 标记），只替换后面的译文文本。
+# + 和 - 开头的行均为需要应用的译文。
 # ============================================================
 
 require "set"
@@ -41,85 +42,102 @@ def japanese_key(lines)
   lines.map { |l| l.strip }.join("\n")
 end
 
-def translation_line?(s)
-  s.start_with?("+[FID:") || s.start_with?("-[FID:")
+TRANSLATION_RE = /^([-+]\[FID:[0-9A-Fa-f]+, TEXT:[0-9A-Fa-f]+\])\s*(.*)$/
+
+def split_translation_line(line)
+  if (m = line.match(TRANSLATION_RE))
+    [m[1], m[2]]
+  else
+    [nil, line]
+  end
 end
 
-# ---- Data types ----
+# ---- Parsing input file ----
 
-InputGroup = Struct.new(:header, :japanese_lines, :plus_lines, :minus_lines) do
+InputGroup = Struct.new(:header, :japanese_lines, :trans_lines) do
   def key
     japanese_key(japanese_lines)
   end
 end
-
-ProcGroup = Struct.new(:header, :japanese_lines, :plus_lines, :minus_lines) do
-  def key
-    japanese_key(japanese_lines)
-  end
-end
-
-# ---- Parsing ----
 
 def parse_input_groups(filepath)
   groups = []
-  current = InputGroup.new(nil, [], [], [])
+  current = InputGroup.new(nil, [], [])
 
   File.readlines(filepath, encoding: "UTF-8").each do |line|
     stripped = line.chomp
 
     if stripped.start_with?("--- Group")
-      current = InputGroup.new(stripped, [], [], [])
+      current = InputGroup.new(stripped, [], [])
       groups << current
     elsif !current.header.nil?
-      if stripped.start_with?("+[FID:")
-        current.plus_lines << stripped
-      elsif stripped.start_with?("-[FID:")
-        current.minus_lines << stripped
+      if stripped.start_with?("+[FID:") || stripped.start_with?("-[FID:")
+        current.trans_lines << stripped
       elsif !stripped.empty?
         current.japanese_lines << stripped
       end
     end
   end
 
-  groups.reject { |g| g.japanese_lines.empty? && g.plus_lines.empty? }
+  groups.reject { |g| g.japanese_lines.empty? && g.trans_lines.empty? }
 end
 
-def parse_processed_file(filepath)
-  groups = []
-  current = ProcGroup.new(nil, [], [], [])
+# ---- Line-based modification (preserves exact formatting) ----
 
-  File.readlines(filepath, encoding: "UTF-8").each do |line|
-    stripped = line.chomp
+def apply_to_processed_file(filepath, lookup)
+  lines = File.readlines(filepath, encoding: "UTF-8").map(&:chomp)
+  original_lines = lines.dup
 
-    if stripped.strip.start_with?("--- Group")
-      current = ProcGroup.new(stripped, [], [], [])
-      groups << current
-    elsif !current.header.nil?
+  i = 0
+  total_groups = 0
+  updated = 0
+
+  while i < lines.length
+    break unless lines[i] && lines[i].strip.start_with?("--- Group")
+
+    total_groups += 1
+
+    # Collect Japanese lines from this group (for key matching)
+    jp_lines = []
+    trans_indices = []
+    j = i + 1
+
+    while j < lines.length && !lines[j].strip.start_with?("--- Group")
+      stripped = lines[j]
       if stripped.start_with?("+[FID:") || stripped.start_with?("-[FID:")
-        (stripped.start_with?("+") ? current.plus_lines : current.minus_lines) << stripped
+        trans_indices << j
       elsif stripped.match?(/\S/)
-        current.japanese_lines << stripped
+        jp_lines << stripped
       end
-      # empty lines are group separators, skip them
+      j += 1
+    end
+
+    key = japanese_key(jp_lines)
+
+    if key && !key.empty? && (new_texts = lookup[key])
+      # Replace translation text, preserving prefix
+      trans_indices.each_with_index do |line_idx, ti|
+        new_text = new_texts[ti]
+        next if new_text.nil? || new_text.empty?
+        prefix, _old_text = split_translation_line(lines[line_idx])
+        if prefix
+          lines[line_idx] = "#{prefix} #{new_text}"
+        end
+      end
+
+      updated += 1 if trans_indices.any? { |ti| lines[ti] != original_lines[ti] }
+    end
+
+    i = j
+  end
+
+  if updated > 0
+    File.open(filepath, "w", encoding: "UTF-8") do |f|
+      lines.each { |l| f.puts l }
     end
   end
 
-  groups.reject { |g| g.japanese_lines.empty? && g.plus_lines.empty? && g.minus_lines.empty? }
-end
-
-# ---- Output ----
-
-def write_processed_file(filepath, groups)
-  File.open(filepath, "w", encoding: "UTF-8") do |f|
-    groups.each_with_index do |g, i|
-      f.puts g.header
-      g.japanese_lines.each { |l| f.puts l }
-      g.plus_lines.each  { |l| f.puts l }
-      g.minus_lines.each  { |l| f.puts l }
-      f.puts
-    end
-  end
+  [total_groups, updated]
 end
 
 # ---- Core ----
@@ -128,16 +146,12 @@ def apply_diff(input_path, fid_start, fid_end, processed_dir)
   input_groups = parse_input_groups(input_path)
   puts "Input: #{input_groups.length} groups parsed"
 
-  # Build lookup: key => [plus_lines, header]
+  # Build lookup: japanese_key => ordered list of translation texts
   lookup = {}
-  unmatched_input = []
   input_groups.each do |g|
     key = g.key
-    if g.plus_lines.empty?
-      unmatched_input << g if g.minus_lines.empty?
-      next
-    end
-    lookup[key] = g
+    next if key.empty? || g.trans_lines.empty?
+    lookup[key] = g.trans_lines.map { |l| split_translation_line(l)[1] }
   end
   puts "  with translations: #{lookup.length}"
 
@@ -151,35 +165,31 @@ def apply_diff(input_path, fid_start, fid_end, processed_dir)
     next if fid.nil?
     next unless fid >= fid_start && fid <= fid_end
 
-    groups = parse_processed_file(filepath)
-    total_groups += groups.length
+    ngroups, nupdated = apply_to_processed_file(filepath, lookup)
+    total_groups += ngroups
 
-    updated = 0
-    groups.each do |g|
-      key = g.key
-      next if key.empty?
-
-      if (input_g = lookup[key])
-        g.plus_lines = input_g.plus_lines.dup
-        g.minus_lines = []  # replace all translations with new ones
-        updated += 1
-        matched_keys << key
-      end
-    end
-
-    if updated > 0
-      write_processed_file(filepath, groups)
-      puts "  #{File.basename(filepath)}: #{updated}/#{groups.length} groups updated"
-      total_updated += updated
+    if nupdated > 0
+      puts "  #{File.basename(filepath)}: #{nupdated}/#{ngroups} groups updated"
+      total_updated += nupdated
     end
   end
 
   # Report unmatched input groups
-  unmatched = lookup.keys.reject { |k| matched_keys.include?(k) }
+  matched = Set.new
+  Dir.glob(File.join(processed_dir, "script*_fid*.txt")).sort.each do |filepath|
+    fid = fid_from_filename(File.basename(filepath))
+    next if fid.nil? || fid < fid_start || fid > fid_end
+    content = File.read(filepath, encoding: "UTF-8")
+    lookup.each_key do |key|
+      matched << key if content.include?(key.split("\n").first || "")
+    end
+  end
+
+  unmatched = lookup.keys.reject { |k| matched.include?(k) }
   if unmatched.any?
-    puts "\n=== #{unmatched.length} input groups NOT matched in processed/ ==="
-    unmatched.each do |key|
-      g = lookup[key]
+    puts "\n=== #{unmatched.length} input groups may NOT be matched ==="
+    input_groups.each do |g|
+      next unless unmatched.include?(g.key)
       puts "  #{g.header}"
       g.japanese_lines.each { |l| puts "    #{l}" }
       puts
@@ -195,7 +205,6 @@ if __FILE__ == $PROGRAM_NAME
   processed_dir = DEFAULT_PROCESSED_DIR
   args = ARGV.dup
 
-  # Parse --processed-dir option
   if (idx = args.index("--processed-dir"))
     processed_dir = args[idx + 1]
     args.delete_at(idx)
