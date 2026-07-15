@@ -1,18 +1,18 @@
 --- Group [left:主人公 next=2012] ---G
 ここでの生活にも
-やっと慣れてきたって
-感じだな
+ようやく慣れてきた
+気がしますけど・・・
 +[FID:28, TEXT:0001] 这里的生活
-+[FID:28, TEXT:0002] 总算也习惯了
-+[FID:28, TEXT:000A] 啊
++[FID:28, TEXT:0012] 终于感觉有些
++[FID:28, TEXT:0013] 习惯了……
 
 --- Group [left:主人公 next=2012] ---G
 ここでの生活にも
-ようやく慣れてきた
-気がしますけど・・・
+やっと慣れてきたって
+感じだな
 -[FID:28, TEXT:0001] 这里的生活
-+[FID:28, TEXT:0012] 终于感觉有些
-+[FID:28, TEXT:0013] 习惯了……
++[FID:28, TEXT:0002] 总算也习惯了
++[FID:28, TEXT:000A] 啊
 
 --- Group [left:主人公 next=2012] ---G
 ここでの生活にも
@@ -78,7 +78,7 @@
 +[FID:28, TEXT:0018] 在街上散散步也
 +[FID:28, TEXT:0019] 不坏……吧
 
---- Group [left:主人公 next=0023] ---G
+--- Group [left:none next=0023] ---G
 イムランが言っていた
 【金の派閥】ってなん
 のことです？
@@ -94,7 +94,7 @@
 -[FID:28, TEXT:001B] 【金之派阀】是
 +[FID:28, TEXT:001C] 什么你知道吗？
 
---- Group [left:none next=0023] ---G
+--- Group [left:主人公 next=0023] ---G
 レイドさん、
 【金の派閥】ってなん
 のことか知ってます？
@@ -110,7 +110,7 @@
 -[FID:28, TEXT:001B] 【金之派阀】是
 +[FID:28, TEXT:0020] 什么呢？
 
---- Group [right:none next=2012] ---G
+--- Group [right:伊利亚斯 next=2012] ---G
 ああ、それは召喚師の
 グループのことだよ
 +[FID:28, TEXT:0021] 啊，那是召唤师
@@ -128,15 +128,15 @@
 
 --- Group [left:none next=0023] ---G
 召喚術を商品にしてる
-わけか・・・
-+[FID:28, TEXT:0027] 把召唤术当商品卖
-+[FID:28, TEXT:0028] 啊……
-
---- Group [left:主人公 next=0023] ---G
-召喚術を商品にしてる
 ってことですか？
--[FID:28, TEXT:0027] 把召唤术当商品卖
++[FID:28, TEXT:0027] 把召唤术当商品卖
 +[FID:28, TEXT:0029] 是这样吗？
+
+--- Group [left:none next=0023] ---G
+召喚術を商品にしてる
+わけか・・・
+-[FID:28, TEXT:0027] 把召唤术当商品卖
++[FID:28, TEXT:0028] 啊……
 
 --- Group [left:none next=0023] ---G
 召喚術で商売してる
@@ -166,7 +166,7 @@
 +[FID:28, TEXT:0032] 用上召唤术啊
 +[FID:28, TEXT:0033] 
 
---- Group [right:none next=2012] ---G
+--- Group [right:伊利亚斯 next=2012] ---G
 召喚術というものは、
 召喚師の家系に生まれ
 た者にしか使えないと
@@ -176,29 +176,29 @@
 +[FID:28, TEXT:0036] 召唤师家族的
 +[FID:28, TEXT:0037] 人才能用
 
---- Group [left:主人公 next=0023] ---G
+--- Group [left:none next=0023] ---G
 そうなんですか！？
 +[FID:28, TEXT:0038] 是这样吗！？
 
---- Group [left:none next=0023] ---G
+--- Group [left:主人公 next=0023] ---G
 そうなんですか？
 +[FID:28, TEXT:0039] 是这样吗？
 
---- Group [right:伊利亚斯 next=2012] ---G
+--- Group [right:none next=2012] ---G
 ああ、普通の人々には
 それが常識だよ
 +[FID:28, TEXT:003A] 啊，对普通人来说
 +[FID:28, TEXT:003B] 那是常识
 
---- Group [right:伊利亚斯 next=0023] ---G
+--- Group [right:none next=0023] ---G
 ソルが
 +[FID:28, TEXT:003C] 索尔
 
---- Group [right:none next=0023] ---G
+--- Group [right:伊利亚斯 next=0023] ---G
 キールが
 +[FID:28, TEXT:003D] 基尔
 
---- Group [right:none next=0023] ---G
+--- Group [right:伊利亚斯 next=0023] ---G
 カシスが
 +[FID:28, TEXT:003E] 卡西斯
 
@@ -206,7 +206,7 @@
 クラレットが
 +[FID:28, TEXT:003F] 克拉雷特
 
---- Group [right:伊利亚斯 next=2012] ---G
+--- Group [right:none next=2012] ---G
 君に教えてくれた話は
 かなり重大な秘密じゃ
 ないのかな
@@ -214,7 +214,7 @@
 +[FID:28, TEXT:0041] 该不会是相当重大的
 +[FID:28, TEXT:0042] 秘密吧
 
---- Group [right:伊利亚斯 next=2012] ---G
+--- Group [right:none next=2012] ---G
 どうだ？
 そろそろここの生活に
 も慣れてきたか？
@@ -230,17 +230,17 @@
 ええ、なんとか
 +[FID:28, TEXT:0047] 嗯，总算还行
 
---- Group [left:none next=0023] ---G
+--- Group [left:主人公 next=0023] ---G
 はい、おかげさまで
 +[FID:28, TEXT:0048] 是的，托您的福
 
---- Group [left:主人公 next=0023] ---G
+--- Group [left:none next=0023] ---G
 はい、すこしずつ
 ですけれど
 +[FID:28, TEXT:0049] 是的，一点点
 +[FID:28, TEXT:004A] 吧
 
---- Group [right:伊利亚斯 next=2012] ---G
+--- Group [right:none next=2012] ---G
 あれっきりバノッサも
 おとなしいし、おかげ
 でワシも安心して仕事
@@ -250,15 +250,15 @@
 +[FID:28, TEXT:004D] 我也能安心
 +[FID:28, TEXT:004E] 出去工作了
 
---- Group [left:主人公 next=0023] ---G
+--- Group [left:none next=0023] ---G
 石切りでしたっけ？
 +[FID:28, TEXT:004F] 是采石场吗？
 
---- Group [left:none next=0023] ---G
+--- Group [left:主人公 next=0023] ---G
 石切りでしたよね？
 +[FID:28, TEXT:0050] 是采石场对吧？
 
---- Group [right:none next=2012] ---G
+--- Group [right:伊利亚斯 next=2012] ---G
 ああ・・・退屈なら、
 お前さんも手伝って
 みるか？
@@ -274,7 +274,7 @@
 わたしが、ですか？
 +[FID:28, TEXT:0055] 我、我吗？
 
---- Group [right:none next=2012] ---G
+--- Group [right:伊利亚斯 next=2012] ---G
 ハハハ、冗談さ
 退屈しのぎでする仕事
 にしては荷が重すぎる
@@ -298,7 +298,7 @@
 姉ちゃん！
 +[FID:28, TEXT:005D] 姐姐！
 
---- Group [left:主人公 next=0023] ---G
+--- Group [left:none next=0023] ---G
 お、なんだか
 ご機嫌だな？
 +[FID:28, TEXT:005E] 哦、怎么
@@ -310,7 +310,7 @@
 +[FID:28, TEXT:0060] 咦、怎么
 +[FID:28, TEXT:0061] 看起来很高兴的样子
 
---- Group [left:主人公 next=0023] ---G
+--- Group [left:none next=0023] ---G
 どうしたの
 今日は、ご機嫌ね？
 +[FID:28, TEXT:0062] 怎么了
@@ -324,21 +324,25 @@
 
 --- Group [right:none next=2012] ---G
 へへへ・・・
-じゃあ〜ん！！
 +[FID:28, TEXT:0065] 嘿嘿嘿……
-+[FID:28, TEXT:0066] 锵——！！
 
---- Group [left:none next=0023] ---G
-うわ、すっごく大きな
-チョウチョだね・・・
-+[FID:28, TEXT:0067] 哇、好大的
-+[FID:28, TEXT:006B] 蝴蝶啊……
+--- Group [right:none next=2012] ---G
+へへへ・・・
+じゃあ〜ん！！
+-[FID:28, TEXT:0065] 嘿嘿嘿……
++[FID:28, TEXT:0066] 锵——！！
 
 --- Group [left:主人公 next=0023] ---G
 うわ、すっごく大きな
 チョウチョだな・・・
--[FID:28, TEXT:0067] 哇、好大的
++[FID:28, TEXT:0067] 哇、好大的
 +[FID:28, TEXT:0068] 蝴蝶啊……
+
+--- Group [left:主人公 next=0023] ---G
+うわ、すっごく大きな
+チョウチョだね・・・
+-[FID:28, TEXT:0067] 哇、好大的
++[FID:28, TEXT:006B] 蝴蝶啊……
 
 --- Group [left:none next=0023] ---G
 へえ、ずいぶん大きな
@@ -346,13 +350,13 @@
 +[FID:28, TEXT:0069] 嚯、好大的
 +[FID:28, TEXT:006A] 蝴蝶啊
 
---- Group [left:主人公 next=0023] ---G
+--- Group [left:none next=0023] ---G
 あ、チョウチョですね
 ・・・大きい
 +[FID:28, TEXT:006C] 啊、是蝴蝶呢
 +[FID:28, TEXT:006D] ……好大
 
---- Group [right:伊利亚斯 next=2012] ---G
+--- Group [right:none next=2012] ---G
 川原で捕まえたんだ
 すごいだろ！？
 +[FID:28, TEXT:006E] 在河边抓到的
@@ -388,21 +392,21 @@
 兄ちゃんにやるよ
 +[FID:28, TEXT:0079] 送给哥哥
 
---- Group [right:伊利亚斯 next=2012] ---G
+--- Group [right:none next=2012] ---G
 姉ちゃんにやるよ
 +[FID:28, TEXT:007A] 送给姐姐
-
---- Group [right:none next=0023] ---G
-どうしよう？
-+[FID:28, TEXT:007B] 怎么办？
 
 --- Group [left:主人公 next=2015] ---G
 どうしよう？
 　放っておく
 　近づいてみる
--[FID:28, TEXT:007B] 怎么办？
++[FID:28, TEXT:007B] 怎么办？
 +[FID:28, TEXT:019E] 　放那里不管
 +[FID:28, TEXT:019F] 　靠近看看
+
+--- Group [right:none next=0023] ---G
+どうしよう？
+-[FID:28, TEXT:007B] 怎么办？
 
 --- Group [left:主人公 next=2015] ---G
 どうしよう？
@@ -412,7 +416,7 @@
 +[FID:28, TEXT:01B7] 　算了
 +[FID:28, TEXT:01B8] 　钓鱼
 
---- Group [right:none next=0023] ---G
+--- Group [right:伊利亚斯 next=0023] ---G
 　ありがとう
 　逃がしてやろうよ
 +[FID:28, TEXT:007C] 　谢谢
@@ -420,35 +424,29 @@
 
 --- Group [right:none next=0023] ---G
 　ありがとう
-　逃がしてあげよう？
--[FID:28, TEXT:007C] 　谢谢
-+[FID:28, TEXT:007E] 　放了它好吗？
-
---- Group [right:none next=0023] ---G
-　ありがとう
 　逃がしてあげましょう
 -[FID:28, TEXT:007C] 　谢谢
 +[FID:28, TEXT:007F] 　放了它吧
 
---- Group [left:none next=0023] ---G
+--- Group [right:none next=0023] ---G
+　ありがとう
+　逃がしてあげよう？
+-[FID:28, TEXT:007C] 　谢谢
++[FID:28, TEXT:007E] 　放了它好吗？
+
+--- Group [left:主人公 next=0023] ---G
 ありがとう、アルバ
 +[FID:28, TEXT:0080] 谢谢、阿尔巴
 
---- Group [left:none next=0023] ---G
-ありがとう
-アルバくん
-+[FID:28, TEXT:0081] 谢谢
-+[FID:28, TEXT:0082] 阿尔巴君
-
---- Group [left:none next=0023] ---G
+--- Group [left:主人公 next=0023] ---G
 ありがとう
 けど、こいつは
 逃がしてやろう
--[FID:28, TEXT:0081] 谢谢
++[FID:28, TEXT:0081] 谢谢
 +[FID:28, TEXT:0083] 不过、这家伙
 +[FID:28, TEXT:0085] 还是放了它吧
 
---- Group [left:none next=0023] ---G
+--- Group [left:主人公 next=0023] ---G
 ありがとう
 でも・・・
 逃がしてあげましょう
@@ -456,7 +454,13 @@
 +[FID:28, TEXT:0089] 但是……
 +[FID:28, TEXT:008A] 放了它吧
 
---- Group [left:主人公 next=0023] ---G
+--- Group [left:none next=0023] ---G
+ありがとう
+アルバくん
+-[FID:28, TEXT:0081] 谢谢
++[FID:28, TEXT:0082] 阿尔巴君
+
+--- Group [left:none next=0023] ---G
 ありがとう
 けど、こいつは
 逃がしてやろうよ
@@ -489,24 +493,24 @@
 --- Group [left:主人公 next=0023] ---G
 捕まってるより、空を
 気持ちよさそうに飛ん
-でるチョウチョのほう
-が絶対にきれいだぜ
-+[FID:28, TEXT:008C] 比起被抓住，还是在天
-+[FID:28, TEXT:008D] 空自由自在地飞
-+[FID:28, TEXT:008E] 的蝴蝶
-+[FID:28, TEXT:008F] 绝对更漂亮
-
---- Group [left:none next=0023] ---G
-捕まってるより、空を
-気持ちよさそうに飛ん
 でるチョウチョの方が
 きれいだと思うんだ
--[FID:28, TEXT:008C] 比起被抓住，还是在天
--[FID:28, TEXT:008D] 空自由自在地飞
++[FID:28, TEXT:008C] 比起被抓住，还是在天
++[FID:28, TEXT:008D] 空自由自在地飞
 +[FID:28, TEXT:0090] 的蝴蝶
 +[FID:28, TEXT:0091] 我觉得更漂亮
 
---- Group [left:none next=2012] ---G
+--- Group [left:主人公 next=0023] ---G
+捕まってるより、空を
+気持ちよさそうに飛ん
+でるチョウチョのほう
+が絶対にきれいだぜ
+-[FID:28, TEXT:008C] 比起被抓住，还是在天
+-[FID:28, TEXT:008D] 空自由自在地飞
++[FID:28, TEXT:008E] 的蝴蝶
++[FID:28, TEXT:008F] 绝对更漂亮
+
+--- Group [left:主人公 next=2012] ---G
 ほら、チョウチョが
 一番きれいなのは、
 自由に空を飛んでる
@@ -520,7 +524,7 @@
 そう思わない？
 +[FID:28, TEXT:0096] 你不觉得吗？
 
---- Group [left:主人公 next=0023] ---G
+--- Group [left:none next=0023] ---G
 飛んでいるチョウチョ
 の方がきっと、ずっと
 きれいだと思わない？
@@ -538,7 +542,7 @@
 +[FID:28, TEXT:009B] 好，那就放了
 +[FID:28, TEXT:009D] 它吧
 
---- Group [left:none next=0023] ---G
+--- Group [left:主人公 next=0023] ---G
 よし、じゃあ逃がして
 やろうな
 -[FID:28, TEXT:009B] 好，那就放了
@@ -562,21 +566,21 @@
 
 --- Group [left:主人公 next=0023] ---G
 あれ？
-釣りの餌がない・・・
-これじゃあ釣りは
-できないよな
-+[FID:28, TEXT:00A3] 嗯……
-+[FID:28, TEXT:01AA] 好像没有饵料
-+[FID:28, TEXT:01AB] 这样果然
-+[FID:28, TEXT:01AC] 什么都钓不到啊
+あそこでフィズと話を
+してるのって・・・
++[FID:28, TEXT:00A3] 咦？
++[FID:28, TEXT:00A4] 在那里和菲兹说话的
++[FID:28, TEXT:00A5] 难道是……
 
 --- Group [left:主人公 next=0023] ---G
 あれ？
-あそこでフィズと話を
-してるのって・・・
+釣りの餌がない・・・
+これじゃあ釣りは
+できないよな
 -[FID:28, TEXT:00A3] 咦？
-+[FID:28, TEXT:00A4] 在那里和菲兹说话的
-+[FID:28, TEXT:00A5] 难道是……
++[FID:28, TEXT:01AA] 好像没有饵料……
++[FID:28, TEXT:01AB] 这样果然
++[FID:28, TEXT:01AC] 什么都钓不到啊
 
 --- Group [left:主人公 next=0023] ---G
 あれ？
@@ -632,20 +636,14 @@
 +[FID:28, TEXT:00B1] 是什么类型的
 +[FID:28, TEXT:00B2] 好不好？
 
---- Group [right:none next=2012] ---G
+--- Group [right:伊利亚斯 next=2012] ---G
 おい、待てって・・・
 +[FID:28, TEXT:00B3] 喂，等等……
-
---- Group [left:主人公 next=0023] ---G
-あはは
-困ってる困ってる
-+[FID:28, TEXT:00B4] 哈哈
-+[FID:28, TEXT:00B8] 被难住了被难住了
 
 --- Group [left:主人公 next=2012] ---G
 あはは
 俺と同じ質問されてら
--[FID:28, TEXT:00B4] 哈哈
++[FID:28, TEXT:00B4] 哈哈
 +[FID:28, TEXT:00BD] 被问了同样的问题啊
 
 --- Group [left:主人公 next=2012] ---G
@@ -653,6 +651,12 @@
 僕と同じ質問されてる
 -[FID:28, TEXT:00B4] 哈哈
 +[FID:28, TEXT:00B5] 被问了同样的问题呢
+
+--- Group [left:主人公 next=0023] ---G
+あはは
+困ってる困ってる
+-[FID:28, TEXT:00B4] 哈哈
++[FID:28, TEXT:00B8] 被难住了被难住了
 
 --- Group [left:主人公 next=0023] ---G
 ともあれ、
@@ -668,7 +672,7 @@
 +[FID:28, TEXT:00BA] 是不是对每个人都问同
 +[FID:28, TEXT:00BB] 样的问题啊……
 
---- Group [right:none next=2012] ---G
+--- Group [right:伊利亚斯 next=2012] ---G
 う・・・
 +[FID:28, TEXT:00BC] 唔……
 
@@ -700,7 +704,7 @@
 +[FID:28, TEXT:00C6] 姐姐也这么觉得
 +[FID:28, TEXT:00C7] 对吧？
 
---- Group [right:none next=2012] ---G
+--- Group [right:伊利亚斯 next=2012] ---G
 でしょ、でしょー？
 +[FID:28, TEXT:00C8] 对吧对吧？
 
@@ -730,7 +734,7 @@
 +[FID:28, TEXT:00D0] 那样可不行哦
 +[FID:28, TEXT:00D1] 男人这种东西啊……
 
---- Group [right:none next=2012] ---G
+--- Group [right:伊利亚斯 next=2012] ---G
 は、はあ・・・
 +[FID:28, TEXT:00D2] 是、是吗……
 
@@ -766,13 +770,13 @@
 -[FID:28, TEXT:00DC] ……
 +[FID:28, TEXT:0133] 这是什么声音呢？
 
---- Group [left:none next=2012] ---G
+--- Group [left:主人公 next=2012] ---G
 いつも見てて思うんだ
 けど・・・
 +[FID:28, TEXT:00DD] 平时看着就一直在
 +[FID:28, TEXT:00DE] 想……
 
---- Group [left:none next=0023] ---G
+--- Group [left:主人公 next=0023] ---G
 それだけ働いてると、
 肩こったりしない？
 +[FID:28, TEXT:00DF] 那么拼命工作，
@@ -784,7 +788,7 @@
 +[FID:28, TEXT:00E1] 平时看着就一直在
 +[FID:28, TEXT:00E2] 想着……
 
---- Group [left:主人公 next=0023] ---G
+--- Group [left:none next=0023] ---G
 それだけ働きづめでは
 肩がこるんじゃないか
 +[FID:28, TEXT:00E3] 那样一直工作，
@@ -796,7 +800,7 @@
 +[FID:28, TEXT:00E5] 平时看着就一直在
 +[FID:28, TEXT:00E6] 想着……
 
---- Group [left:none next=0023] ---G
+--- Group [left:主人公 next=0023] ---G
 そんなに働いてさ、
 肩こったりしない？
 +[FID:28, TEXT:00E7] 那么拼命工作啊，
@@ -830,11 +834,11 @@
 あ、いや・・・
 +[FID:28, TEXT:00F0] 啊，不……
 
---- Group [left:none next=0023] ---G
+--- Group [left:主人公 next=0023] ---G
 わっ、び、びっくり
 +[FID:28, TEXT:00F1] 哇，吓、吓一跳
 
---- Group [left:none next=0023] ---G
+--- Group [left:主人公 next=0023] ---G
 あ、そうですよね
 +[FID:28, TEXT:00F2] 啊，说得也是呢
 
@@ -848,7 +852,7 @@
 +[FID:28, TEXT:00F5] 唉——明明才１７岁
 +[FID:28, TEXT:00F6] 的……
 
---- Group [left:none next=0023] ---G
+--- Group [left:主人公 next=0023] ---G
 え・・・ってことは、
 同い年なんだ？
 +[FID:28, TEXT:00F7] 诶……这么说，
@@ -878,7 +882,7 @@
 +[FID:28, TEXT:00FF] 啊，是这样吗！？
 +[FID:28, TEXT:0100] 我还以为……
 
---- Group [left:none next=0023] ---G
+--- Group [left:主人公 next=0023] ---G
 てっきり？
 +[FID:28, TEXT:0101] 以为？
 
@@ -888,13 +892,13 @@
 +[FID:28, TEXT:0102] 以为
 +[FID:28, TEXT:0103] ……什么呢？
 
---- Group [right:none next=2012] ---G
+--- Group [right:伊利亚斯 next=2012] ---G
 えーっと
 年下かと思ってました
 +[FID:28, TEXT:0104] 嗯——
 +[FID:28, TEXT:0105] 我还以为比我小呢
 
---- Group [left:none next=0023] ---G
+--- Group [left:主人公 next=0023] ---G
 やっぱり・・・
 +[FID:28, TEXT:0106] 果然……
 
@@ -1006,15 +1010,15 @@
 
 --- Group [left:主人公 next=0023] ---G
 あれは・・・
-オプテュスの人たち？
+オプテュスの連中だ！
 +[FID:28, TEXT:0128] 那是……
-+[FID:28, TEXT:012D] 奥普提斯的人们？
++[FID:28, TEXT:0129] 奥普提斯那帮人！
 
 --- Group [left:主人公 next=0023] ---G
 あれは・・・
-オプテュスの連中だ！
+オプテュスの人たち？
 -[FID:28, TEXT:0128] 那是……
-+[FID:28, TEXT:0129] 奥普提斯那帮人！
++[FID:28, TEXT:012D] 奥普提斯的人们？
 
 --- Group [left:主人公 next=0023] ---G
 あれ・・・
@@ -1048,27 +1052,27 @@
 
 --- Group [left:主人公 next=0023] ---G
 　音のでどころを探す
-　イヤな予感がする
-+[FID:28, TEXT:0134] 　寻找声音的来源
-+[FID:28, TEXT:0138] 　有种不好的预感
-
---- Group [left:主人公 next=0023] ---G
-　音のでどころを探す
 　イヤな予感がするぞ
--[FID:28, TEXT:0134] 　寻找声音的来源
++[FID:28, TEXT:0134] 　寻找声音的来源
 +[FID:28, TEXT:0135] 　有种不好的预感啊
-
---- Group [left:主人公 next=0023] ---G
-　音のでどころを探す
-　イヤな予感がするなぁ
--[FID:28, TEXT:0134] 　寻找声音的来源
-+[FID:28, TEXT:0137] 　有种不好的预感呢
 
 --- Group [left:主人公 next=0023] ---G
 　音のでどころを探す
 　気のせいか
 -[FID:28, TEXT:0134] 　寻找声音的来源
 +[FID:28, TEXT:0136] 　是错觉吧
+
+--- Group [left:主人公 next=0023] ---G
+　音のでどころを探す
+　イヤな予感がする
+-[FID:28, TEXT:0134] 　寻找声音的来源
++[FID:28, TEXT:0138] 　有种不好的预感
+
+--- Group [left:主人公 next=0023] ---G
+　音のでどころを探す
+　イヤな予感がするなぁ
+-[FID:28, TEXT:0134] 　寻找声音的来源
++[FID:28, TEXT:0137] 　有种不好的预感呢
 
 --- Group [left:主人公 next=0023] ---G
 どこから聞こえるんだ
@@ -1200,15 +1204,15 @@
 
 --- Group [left:主人公 next=0023] ---G
 あ、@ n 
-っていいますけど
+っていいます
 +[FID:28, TEXT:015F] 啊，我叫
-+[FID:28, TEXT:0160] @n
++[FID:28, TEXT:0163] @n
 
 --- Group [left:主人公 next=0023] ---G
 あ、@ n 
-っていいます
+っていいますけど
 -[FID:28, TEXT:015F] 啊，我叫
-+[FID:28, TEXT:0163] @n
++[FID:28, TEXT:0160] @n
 
 --- Group [left:主人公 next=0023] ---G
 ああ、@ n 
@@ -1248,19 +1252,19 @@
 
 --- Group [left:主人公 next=0023] ---G
 なんだかイヤな予感が
-するなぁ・・・
-さっさと帰ろう・・・
+するな・・・早いとこ
+立ち去ろう
 +[FID:28, TEXT:016D] 总觉得有种不祥的预感
-+[FID:28, TEXT:0171] ……
-+[FID:28, TEXT:0172] 赶紧回家吧……
++[FID:28, TEXT:016E] ……
++[FID:28, TEXT:016F] 还是快点离开吧
 
 --- Group [left:主人公 next=0023] ---G
 なんだかイヤな予感が
-するな・・・早いとこ
-立ち去ろう
+するなぁ・・・
+さっさと帰ろう・・・
 -[FID:28, TEXT:016D] 总觉得有种不祥的预感
-+[FID:28, TEXT:016E] ……
-+[FID:28, TEXT:016F] 还是快点离开吧
++[FID:28, TEXT:0171] ……
++[FID:28, TEXT:0172] 赶紧回家吧……
 
 --- Group [left:主人公 next=0023] ---G
 なんだかイヤな予感が
@@ -1294,15 +1298,15 @@
 
 --- Group [left:主人公 next=2012] ---G
 でも、どうして辞めて
-しまったのでしょうか
+しまったんだろう？
 +[FID:28, TEXT:0179] 可是，他为什么辞职不
-+[FID:28, TEXT:0183] 干了呢？是搞砸了吗
++[FID:28, TEXT:017A] 干了呢？是搞砸了吧
 
 --- Group [left:主人公 next=2012] ---G
 でも、どうして辞めて
-しまったんだろう？
+しまったのでしょうか
 -[FID:28, TEXT:0179] 可是，他为什么辞职不
-+[FID:28, TEXT:017A] 干了呢？是搞砸了吧
++[FID:28, TEXT:0183] 干了呢？是搞砸了吗
 
 --- Group [left:主人公 next=0023] ---G
 あのイムランっていう
@@ -1458,11 +1462,53 @@
 +[FID:28, TEXT:01B2] 这样果然
 +[FID:28, TEXT:01B3] 什么都钓不到啊
 
---- Group [right:none next=0023] ---G
+--- Group [right:伊利亚斯 next=0023] ---G
 気にしなくていいって
 こういう時もあるわ
 +[FID:28, TEXT:01B9] 不用在意啦
 +[FID:28, TEXT:01BA] 这种事也是常有的
+
+--- Group [right:伊利亚斯 next=0023] ---G
+うん、これだけあれば
+充分だよ
++[FID:28, TEXT:01BB] 嗯，有这些的话
++[FID:28, TEXT:01BC] 就足够了
+
+--- Group [right:none next=0023] ---G
+わぁ、ずいぶん
+たくさん釣れたのね
++[FID:28, TEXT:01BD] 哇，真是
++[FID:28, TEXT:01BE] 钓了好多呢
+
+--- Group [right:none next=0023] ---G
+こんな大物
+どう料理したらいいか
+迷っちゃいそう
++[FID:28, TEXT:01BF] 这么大的猎物
++[FID:28, TEXT:01C0] 都不知道该怎么料理
++[FID:28, TEXT:01C1] 才好了
+
+--- Group [right:none next=0023] ---G
+すごいじゃない！
+これならきっと、おい
+しいお料理ができるわ
++[FID:28, TEXT:01C2] 真厉害！
++[FID:28, TEXT:01C3] 这样的话一定能做出
++[FID:28, TEXT:01C4] 美味的料理呢
+
+--- Group [right:none next=0023] ---G
+これって・・・
+食べられるのかしら？
++[FID:28, TEXT:01C5] 这个……
++[FID:28, TEXT:01C6] 能吃吗？
+
+--- Group [right:伊利亚斯 next=2012] ---G
+ごくろうさま
+きっとみんなも喜んで
+食べてくれるよ
++[FID:28, TEXT:01C7] 辛苦了
++[FID:28, TEXT:01C8] 大家一定会开心地
++[FID:28, TEXT:01C9] 享用的
 
 --- Group [right:none next=2012] ---G
 また何か釣れた時は
@@ -1472,7 +1518,7 @@
 +[FID:28, TEXT:01CB] 记得拿到
 +[FID:28, TEXT:01CC] 我这里来哦
 
---- Group [right:伊利亚斯 next=2012] ---G
+--- Group [right:none next=2012] ---G
 腕によりをかけて
 おいしい料理を作って
 あげるから、ね？
