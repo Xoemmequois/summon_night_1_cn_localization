@@ -1,10 +1,10 @@
 require "set"
 
 def usage
-  puts "用法: ruby compare_dialog_coverage.rb <FID>"
-  puts "  FID: 十六进制对话文件ID, 例如 02, 0A, 1F, 91"
-  puts "比较 processed/ 下对应FID的文件与 CM1100.DAT 的 dialog subcontent,"
-  puts "输出 CM1100.DAT 中存在但 processed 中缺失的文本。"
+  puts "Usage: ruby compare_dialog_coverage.rb <FID>"
+  puts "  FID: hex dialog file ID, e.g. 02, 0A, 1F, 91"
+  puts "Compares processed/ files for the given FID against the CM1100.DAT dialog subcontent,"
+  puts "and reports text present in CM1100.DAT but missing from processed/."
   exit 1
 end
 
@@ -14,7 +14,7 @@ fid_str = ARGV[0].sub(/^0x/i, "")
 fid = fid_str.to_i(16)
 
 if fid < 0 || fid > 0xFF
-  puts "错误: 无效的FID '#{ARGV[0]}'"
+  puts "Error: invalid FID '#{ARGV[0]}'"
   exit 1
 end
 
@@ -24,8 +24,8 @@ processed_dir = File.join(__dir__, "processed")
 dialog_fn = File.join(exported_dir, "CM1100.DAT_#{dialog_subcontent_id}")
 
 unless File.exist?(dialog_fn)
-  puts "错误: 找不到对话文件 CM1100.DAT_#{dialog_subcontent_id} (FID=#{sprintf('%02X', fid)})"
-  puts "  路径: #{dialog_fn}"
+  puts "Error: dialog file CM1100.DAT_#{dialog_subcontent_id} not found (FID=#{sprintf('%02X', fid)})"
+  puts "  path: #{dialog_fn}"
   exit 1
 end
 
@@ -34,7 +34,7 @@ contents = IO.binread(dialog_fn)
 total_str_count = contents.unpack1("S!<")
 
 if total_str_count == 0
-  puts "FID #{sprintf('%02X', fid)}: 对话文件为空 (0 个字符串)"
+  puts "FID #{sprintf('%02X', fid)}: dialog file is empty (0 strings)"
   exit 0
 end
 
@@ -72,7 +72,7 @@ glob_pattern = File.join(processed_dir, "script*_fid#{sprintf('%02X', fid)}.txt"
 processed_files = Dir[glob_pattern]
 
 if processed_files.empty?
-  puts "警告: processed/ 下没有找到 FID=#{sprintf('%02X', fid)} 的文件"
+  puts "Warning: no files found under processed/ for FID=#{sprintf('%02X', fid)}"
 end
 
 processed_files.each do |fn|
@@ -87,22 +87,22 @@ end
 
 # ---- Compare and report ----
 puts "=" * 70
-puts "对话覆盖比较: FID #{sprintf('%02X (%d)', fid, fid)} ← CM1100.DAT_#{dialog_subcontent_id}"
+puts "Dialog coverage: FID #{sprintf('%02X (%d)', fid, fid)} <- CM1100.DAT_#{dialog_subcontent_id}"
 puts "=" * 70
-puts "  对话文件中非空字符串总数: #{dialog_strings.size}"
-puts "  processed 文件数:         #{processed_files.size}"
-puts "  已覆盖的文本索引数:       #{covered_indices.size}"
+puts "  Non-empty strings in dialog file: #{dialog_strings.size}"
+puts "  Processed files:                  #{processed_files.size}"
+puts "  Covered text indices:             #{covered_indices.size}"
 
 missing_indices = dialog_strings.keys.to_set - covered_indices
 
 if missing_indices.empty?
   puts
-  puts "结果: 全部覆盖 ✓ — CM1100.DAT 中所有文本在 processed 中都有对应项"
+  puts "Result: fully covered - all text in CM1100.DAT has a match in processed/"
   puts
   exit 0
 end
 
-puts "  缺失的文本索引数:         #{missing_indices.size}"
+puts "  Missing text indices:             #{missing_indices.size}"
 puts
 
 # Report each missing string
@@ -110,11 +110,11 @@ missing_indices.sort.each do |ti|
   text = dialog_strings[ti]
   # Truncate long strings for display
   display = text.length > 70 ? "#{text[0..69]}..." : text
-  puts "  TEXT:#{sprintf('%04X', ti)} → #{display}"
+  puts "  TEXT:#{sprintf('%04X', ti)} -> #{display}"
 end
 
 puts
 puts "=" * 70
-puts "  缺失: #{missing_indices.size}, 已覆盖: #{covered_indices.size}, 总计: #{dialog_strings.size}"
-puts "  覆盖率: #{(covered_indices.size.to_f / dialog_strings.size * 100).round(1)}%"
+puts "  Missing: #{missing_indices.size}, Covered: #{covered_indices.size}, Total: #{dialog_strings.size}"
+puts "  Coverage: #{(covered_indices.size.to_f / dialog_strings.size * 100).round(1)}%"
 puts "=" * 70

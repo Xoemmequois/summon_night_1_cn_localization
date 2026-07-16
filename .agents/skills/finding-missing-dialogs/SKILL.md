@@ -9,7 +9,16 @@ description: Use when the user asks to identify or extract previously unrecogniz
 
 ### Step 1: Confirm the gap
 
-Compare already-extracted texts against the full dialog file contents.
+Use the ready-made tool `compare_dialog_coverage.rb` — it automates the whole comparison:
+
+```powershell
+# CWD: ruby_tools/opencode_generated/
+ruby compare_dialog_coverage.rb <FID>    # FID in hex, e.g. 02, 0A, 1F, 91
+```
+
+It parses the dialog file (CM1100.DAT subcontent `fid + 0x29`), collects covered TEXT indices from all `processed/script*_fid{XX}.txt` files, and prints every string present in the dialog file but missing from `processed/`, plus a coverage percentage. If it prints "Result: fully covered" there is no gap.
+
+**Under the hood** (if you need to do it manually):
 
 Extract the TEXT indices already present from the processed output files:
 
@@ -81,7 +90,7 @@ run_manager(manager, commands, script_id)
 
 ### Step 7: Verify completeness and crossover
 
-Compare new extraction against the dialog file. Expected: all non-empty strings covered AND no cross-FID contamination.
+Re-run `ruby compare_dialog_coverage.rb <FID>` (Step 1) to confirm coverage is now 100% — note it reads from `processed/`, so merge new extraction there first. Expected: all non-empty strings covered AND no cross-FID contamination (crossover must still be checked manually below).
 
 **Crossover detection**: After extraction, verify that each FID's output ONLY contains TEXT indices that exist in that FID's own dialog file.
 
