@@ -1,40 +1,10 @@
---- Group [right:none next=0023] ---
-
-
-+[FID:4F, TEXT:0000] 
--[FID:4F, TEXT:0000] 
-
---- Group [left:none next=201D] ---
-
-　ふたりとも、痛いほど
-　わかってるはずだから・・・
-　だからこそ、あんなにも
-　優しくなれるんだろう
--[FID:4F, TEXT:0000] 
-+[FID:4F, TEXT:0010] 
-+[FID:4F, TEXT:001B] 
-+[FID:4F, TEXT:001C] 
-+[FID:4F, TEXT:001D] 
-
---- Group [left:none next=201D] ---
-
-　リプレさんは黙って温かい
-　ミルクを出してくれた・・・
-　ガゼルさんは
-　文句も言わなかった・・・
--[FID:4F, TEXT:0000] 
-+[FID:4F, TEXT:0017] 
-+[FID:4F, TEXT:0018] 
-+[FID:4F, TEXT:0019] 
-+[FID:4F, TEXT:001A] 
-
 --- Group [left:none next=201D] ---
 
 
 　　わたしがこうすること・・・
 　　ふたりは最初からわかって
 　　いたのかもしれない・・・
--[FID:4F, TEXT:0000] 
++[FID:4F, TEXT:0000] 
 -[FID:4F, TEXT:0000] 
 +[FID:4F, TEXT:0014] 
 +[FID:4F, TEXT:0015] 
@@ -47,7 +17,7 @@
 　だから、あんなにも優しく
 　なれるんだろうな
 -[FID:4F, TEXT:0000] 
--[FID:4F, TEXT:0010] 
++[FID:4F, TEXT:0010] 
 +[FID:4F, TEXT:0011] 
 +[FID:4F, TEXT:0012] 
 +[FID:4F, TEXT:0013] 
@@ -78,15 +48,27 @@
 
 --- Group [left:none next=201D] ---
 
+　リプレさんは黙って温かい
+　ミルクを出してくれた・・・
+　ガゼルさんは
+　文句も言わなかった・・・
+-[FID:4F, TEXT:0000] 
++[FID:4F, TEXT:0017] 
++[FID:4F, TEXT:0018] 
++[FID:4F, TEXT:0019] 
++[FID:4F, TEXT:001A] 
 
-　　俺がこうするだろうという
-　　ことを、二人は最初から
-　　わかっていたのだろうか
+--- Group [left:none next=201D] ---
+
+　ふたりとも、痛いほど
+　わかってるはずだから・・・
+　だからこそ、あんなにも
+　優しくなれるんだろう
 -[FID:4F, TEXT:0000] 
--[FID:4F, TEXT:0000] 
-+[FID:4F, TEXT:0001] 
--[FID:4F, TEXT:0002] 
--[FID:4F, TEXT:0003] 
+-[FID:4F, TEXT:0010] 
++[FID:4F, TEXT:001B] 
++[FID:4F, TEXT:001C] 
++[FID:4F, TEXT:001D] 
 
 --- Group [left:none next=201D] ---
 
@@ -121,6 +103,18 @@
 +[FID:4F, TEXT:0004] 
 +[FID:4F, TEXT:0005] 
 +[FID:4F, TEXT:0006] 
+
+--- Group [left:none next=201D] ---
+
+
+　　俺がこうするだろうという
+　　ことを、二人は最初から
+　　わかっていたのだろうか
+-[FID:4F, TEXT:0000] 
+-[FID:4F, TEXT:0000] 
++[FID:4F, TEXT:0001] 
+-[FID:4F, TEXT:0002] 
+-[FID:4F, TEXT:0003] 
 
 --- Group [left:none next=0023] ---
 ソル
@@ -190,20 +184,10 @@
 不思議な力がある以外
 は、人間と同じような
 暮らしをしている
-らしいですね
+らしい
 +[FID:4F, TEXT:0036] 
 +[FID:4F, TEXT:0037] 
 +[FID:4F, TEXT:004C] 
-+[FID:4F, TEXT:0065] 
-
---- Group [right:none next=2012] ---
-不思議な力がある以外
-は、人間と同じような
-暮らしをしている
-らしい
--[FID:4F, TEXT:0036] 
--[FID:4F, TEXT:0037] 
--[FID:4F, TEXT:004C] 
 +[FID:4F, TEXT:004D] 
 
 --- Group [right:none next=2012] ---
@@ -214,11 +198,27 @@
 -[FID:4F, TEXT:0037] 
 +[FID:4F, TEXT:0038] 
 
+--- Group [right:none next=2012] ---
+不思議な力がある以外
+は、人間と同じような
+暮らしをしている
+らしいですね
+-[FID:4F, TEXT:0036] 
+-[FID:4F, TEXT:0037] 
+-[FID:4F, TEXT:004C] 
++[FID:4F, TEXT:0065] 
+
+--- Group [left:none next=0023] ---
+じゃあ、モナティにも
+不思議な力が！？
++[FID:4F, TEXT:0039] 
++[FID:4F, TEXT:003B] 
+
 --- Group [left:none next=0023] ---
 じゃあ、モナティにも
 不思議な力が
 あるんですか？
-+[FID:4F, TEXT:0039] 
+-[FID:4F, TEXT:0039] 
 +[FID:4F, TEXT:003C] 
 +[FID:4F, TEXT:003D] 
 
@@ -228,16 +228,16 @@
 -[FID:4F, TEXT:0039] 
 +[FID:4F, TEXT:003A] 
 
---- Group [left:none next=0023] ---
-じゃあ、モナティにも
-不思議な力が！？
--[FID:4F, TEXT:0039] 
-+[FID:4F, TEXT:003B] 
+--- Group [right:none next=2012] ---
+今のところはなんとも
+言えないな
++[FID:4F, TEXT:003E] 
++[FID:4F, TEXT:004E] 
 
 --- Group [right:none next=2012] ---
 今のところはなんとも
 言えません
-+[FID:4F, TEXT:003E] 
+-[FID:4F, TEXT:003E] 
 +[FID:4F, TEXT:0066] 
 
 --- Group [right:none next=2012] ---
@@ -245,12 +245,6 @@
 言えない
 -[FID:4F, TEXT:003E] 
 +[FID:4F, TEXT:003F] 
-
---- Group [right:none next=2012] ---
-今のところはなんとも
-言えないな
--[FID:4F, TEXT:003E] 
-+[FID:4F, TEXT:004E] 
 
 --- Group [right:none next=2012] ---
 実は俺さ
@@ -294,23 +288,23 @@
 
 --- Group [right:none next=2012] ---
 メイトルパというのは
-幻獣や亜人間の世界で
-レビットは、亜人間の
-一種なんですよ
-+[FID:4F, TEXT:0048] 
-+[FID:4F, TEXT:0063] 
-+[FID:4F, TEXT:004A] 
-+[FID:4F, TEXT:0064] 
-
---- Group [right:none next=2012] ---
-メイトルパというのは
 幻獣や亜人間の世界さ
 レビットは、亜人間の
 一種なんだよ
--[FID:4F, TEXT:0048] 
++[FID:4F, TEXT:0048] 
 +[FID:4F, TEXT:0049] 
--[FID:4F, TEXT:004A] 
++[FID:4F, TEXT:004A] 
 +[FID:4F, TEXT:004B] 
+
+--- Group [right:none next=2012] ---
+メイトルパというのは
+幻獣や亜人間の世界で
+レビットは、亜人間の
+一種なんですよ
+-[FID:4F, TEXT:0048] 
++[FID:4F, TEXT:0063] 
+-[FID:4F, TEXT:004A] 
++[FID:4F, TEXT:0064] 
 
 --- Group [right:none next=2012] ---
 僕はメイトルパからの
@@ -392,7 +386,7 @@
 +[FID:4F, TEXT:006B] 
 -[FID:4F, TEXT:006C] 
 
---- Group [left:none next=2012] ---
+--- Group [left:none next=0023] ---
 それが正しくても、
 相手が望んでないこと
 を一方的に押しつけて
@@ -404,13 +398,13 @@
 
 --- Group [left:none next=0023] ---
 アキュートのやろうと
-していることは、
-あたしがモナティに
-したことと同じ・・
+していることは、俺が
+モナティにしようとし
+たことと同じです
 +[FID:4F, TEXT:0071] 
-+[FID:4F, TEXT:0077] 
-+[FID:4F, TEXT:0078] 
-+[FID:4F, TEXT:0079] 
++[FID:4F, TEXT:0072] 
++[FID:4F, TEXT:0073] 
++[FID:4F, TEXT:0074] 
 
 --- Group [left:none next=0023] ---
 アキュートのやろうと
@@ -419,18 +413,18 @@
 たことと同じです
 -[FID:4F, TEXT:0071] 
 +[FID:4F, TEXT:0075] 
-+[FID:4F, TEXT:0073] 
-+[FID:4F, TEXT:0074] 
+-[FID:4F, TEXT:0073] 
+-[FID:4F, TEXT:0074] 
 
 --- Group [left:none next=0023] ---
 アキュートのやろうと
-していることは、俺が
-モナティにしようとし
-たことと同じです
+していることは、
+あたしがモナティに
+したことと同じ・・
 -[FID:4F, TEXT:0071] 
-+[FID:4F, TEXT:0072] 
--[FID:4F, TEXT:0073] 
--[FID:4F, TEXT:0074] 
++[FID:4F, TEXT:0077] 
++[FID:4F, TEXT:0078] 
++[FID:4F, TEXT:0079] 
 
 --- Group [right:none next=2012] ---
 ・・・そうだな
@@ -444,10 +438,14 @@
 ・・・迷子、だよな
 +[FID:4F, TEXT:007C] 
 
+--- Group [left:none next=2012] ---
+え？
++[FID:4F, TEXT:007D] 
+
 --- Group [left:none next=0023] ---
 え？
 しかけ？
-+[FID:4F, TEXT:007D] 
+-[FID:4F, TEXT:007D] 
 +[FID:4F, TEXT:00CC] 
 
 --- Group [right:none next=2012] ---
@@ -458,23 +456,23 @@
 +[FID:4F, TEXT:007F] 
 +[FID:4F, TEXT:0080] 
 
+--- Group [left:none next=0023] ---
+うん・・・
++[FID:4F, TEXT:0081] 
+
 --- Group [right:none next=2012] ---
 うん・・・
 また、ガウムとあそべ
 るんだもん・・・
-+[FID:4F, TEXT:0081] 
+-[FID:4F, TEXT:0081] 
 +[FID:4F, TEXT:00D4] 
 +[FID:4F, TEXT:00D5] 
-
---- Group [left:none next=0023] ---
-ああ・・・
-+[FID:4F, TEXT:0082] 
 
 --- Group [right:none next=2012] ---
 ああ・・・
 お前は召喚術が使える
 らしいな
--[FID:4F, TEXT:0082] 
++[FID:4F, TEXT:0082] 
 +[FID:4F, TEXT:00F2] 
 +[FID:4F, TEXT:00F3] 
 
@@ -580,15 +578,15 @@
 
 --- Group [right:none next=2012] ---
 サーカス
-面白かったね？
+面白かったよね？
 +[FID:4F, TEXT:00A2] 
-+[FID:4F, TEXT:00A3] 
++[FID:4F, TEXT:00BE] 
 
 --- Group [right:none next=2012] ---
 サーカス
-面白かったよね？
+面白かったね？
 -[FID:4F, TEXT:00A2] 
-+[FID:4F, TEXT:00BE] 
++[FID:4F, TEXT:00A3] 
 
 --- Group [left:none next=0023] ---
 ああ
@@ -627,18 +625,18 @@
 --- Group [left:none next=0023] ---
 すごいことを支えてる
 半分は、その人の努力
-だって俺は思うよ
+だと僕は思うよ
 +[FID:4F, TEXT:00AF] 
 +[FID:4F, TEXT:00B0] 
-+[FID:4F, TEXT:00B1] 
++[FID:4F, TEXT:00B2] 
 
 --- Group [left:none next=0023] ---
 すごいことを支えてる
 半分は、その人の努力
-だと僕は思うよ
+だって俺は思うよ
 -[FID:4F, TEXT:00AF] 
 -[FID:4F, TEXT:00B0] 
-+[FID:4F, TEXT:00B2] 
++[FID:4F, TEXT:00B1] 
 
 --- Group [left:none next=2012] ---
 やろうって思う気持ち
@@ -724,7 +722,7 @@
 +[FID:4F, TEXT:00CD] 
 +[FID:4F, TEXT:00CE] 
 
---- Group [right:none next=2012] ---
+--- Group [left:none next=2012] ---
 ・・・・・・
 +[FID:4F, TEXT:00CF] 
 
@@ -798,19 +796,19 @@
 
 --- Group [left:none next=0023] ---
 それとこれとは
-話がまた別なんだけど
-なぁ・・・
+話がまた別な気もする
+んだが・・・
 +[FID:4F, TEXT:00E5] 
-+[FID:4F, TEXT:00E6] 
-+[FID:4F, TEXT:00E7] 
++[FID:4F, TEXT:00E8] 
++[FID:4F, TEXT:00E9] 
 
 --- Group [left:none next=0023] ---
 それとこれとは
-話がまた別な気もする
-んだが・・・
+話がまた別なんだけど
+なぁ・・・
 -[FID:4F, TEXT:00E5] 
-+[FID:4F, TEXT:00E8] 
-+[FID:4F, TEXT:00E9] 
++[FID:4F, TEXT:00E6] 
++[FID:4F, TEXT:00E7] 
 
 --- Group [left:none next=0023] ---
 俺に聞きたいことが
@@ -909,9 +907,17 @@
 --- Group [left:none next=2012] ---
 その時その時の自分の
 気持ちを大切にしてる
-だけなんですよ
+だけです
 +[FID:4F, TEXT:010C] 
 +[FID:4F, TEXT:010D] 
++[FID:4F, TEXT:010E] 
+
+--- Group [left:none next=2012] ---
+その時その時の自分の
+気持ちを大切にしてる
+だけなんですよ
+-[FID:4F, TEXT:010C] 
+-[FID:4F, TEXT:010D] 
 +[FID:4F, TEXT:0111] 
 
 --- Group [left:none next=2012] ---
@@ -921,14 +927,6 @@
 -[FID:4F, TEXT:010C] 
 -[FID:4F, TEXT:010D] 
 +[FID:4F, TEXT:0115] 
-
---- Group [left:none next=2012] ---
-その時その時の自分の
-気持ちを大切にしてる
-だけです
--[FID:4F, TEXT:010C] 
--[FID:4F, TEXT:010D] 
-+[FID:4F, TEXT:010E] 
 
 --- Group [left:none next=0023] ---
 戦っているのは
@@ -954,15 +952,15 @@
 
 --- Group [left:none next=2012] ---
 認めてもらえなくても
-いいんですよ
+いいです・・・
 +[FID:4F, TEXT:0118] 
-+[FID:4F, TEXT:011F] 
++[FID:4F, TEXT:0123] 
 
 --- Group [left:none next=2012] ---
 認めてもらえなくても
-いいです・・・
+いいんですよ
 -[FID:4F, TEXT:0118] 
-+[FID:4F, TEXT:0123] 
++[FID:4F, TEXT:011F] 
 
 --- Group [left:none next=2012] ---
 認めてもらえなくても
@@ -1048,10 +1046,20 @@
 と、とにかくっ・・・
 別の呼び方にしてよ
 呼び捨てでもなんでも
-いいから、ねっ！
+いいからさっ！
 +[FID:4F, TEXT:0130] 
 +[FID:4F, TEXT:0131] 
 +[FID:4F, TEXT:0132] 
++[FID:4F, TEXT:0133] 
+
+--- Group [left:none next=0023] ---
+と、とにかくっ・・・
+別の呼び方にしてよ
+呼び捨てでもなんでも
+いいから、ねっ！
+-[FID:4F, TEXT:0130] 
+-[FID:4F, TEXT:0131] 
+-[FID:4F, TEXT:0132] 
 +[FID:4F, TEXT:0136] 
 
 --- Group [left:none next=0023] ---
@@ -1063,16 +1071,6 @@
 +[FID:4F, TEXT:0134] 
 -[FID:4F, TEXT:0132] 
 +[FID:4F, TEXT:0135] 
-
---- Group [left:none next=0023] ---
-と、とにかくっ・・・
-別の呼び方にしてよ
-呼び捨てでもなんでも
-いいからさっ！
--[FID:4F, TEXT:0130] 
--[FID:4F, TEXT:0131] 
--[FID:4F, TEXT:0132] 
-+[FID:4F, TEXT:0133] 
 
 --- Group [left:none next=0023] ---
 呼び捨てでもいいから
@@ -1121,18 +1119,18 @@
 --- Group [left:none next=0023] ---
 わ、わかった！
 もうそれでいいからっ
-泣かないで、ね！
+泣くなよ〜っ！？
 +[FID:4F, TEXT:0145] 
 +[FID:4F, TEXT:0146] 
-+[FID:4F, TEXT:014B] 
++[FID:4F, TEXT:0147] 
 
 --- Group [left:none next=0023] ---
 わ、わかった！
 もうそれでいいからっ
-泣くなよ〜っ！？
+泣かないで、ね！
 -[FID:4F, TEXT:0145] 
 -[FID:4F, TEXT:0146] 
-+[FID:4F, TEXT:0147] 
++[FID:4F, TEXT:014B] 
 
 --- Group [left:none next=0023] ---
 わ、わかったよ
@@ -1173,18 +1171,18 @@
 --- Group [left:none next=0023] ---
 ああ、はぐれ召喚獣が
 みんな悪さをするわけ
-じゃないってことだ
+じゃないさ
 +[FID:4F, TEXT:0154] 
 +[FID:4F, TEXT:0155] 
-+[FID:4F, TEXT:0157] 
++[FID:4F, TEXT:0156] 
 
 --- Group [left:none next=0023] ---
 ああ、はぐれ召喚獣が
 みんな悪さをするわけ
-じゃないさ
+じゃないってことだ
 -[FID:4F, TEXT:0154] 
 -[FID:4F, TEXT:0155] 
-+[FID:4F, TEXT:0156] 
++[FID:4F, TEXT:0157] 
 
 --- Group [left:none next=0023] ---
 うん、はぐれ召喚獣だ
@@ -1226,8 +1224,162 @@
 +[FID:4F, TEXT:0164] 
 +[FID:4F, TEXT:0165] 
 
---- Group [left:none next=0023] ---
+--- Group [right:none next=0023] ---
 　　モナティも不思議な力を
 　　持ってるのかな？
 +[FID:4F, TEXT:0166] 
 +[FID:4F, TEXT:0167] 
+
+--- Group [left:none next=0023] ---
+　　　ラムダたちはやっぱり
+　　　まちがってる・・・
++[FID:4F, TEXT:0168] 
++[FID:4F, TEXT:0169] 
+
+--- Group [left:none next=0023] ---
+　　　ラムダたちはやっぱり
+　　　まちがってるよ！
+-[FID:4F, TEXT:0168] 
++[FID:4F, TEXT:016A] 
+
+--- Group [left:none next=0023] ---
+　　　ラムダさんたちは
+　　　まちがってます・・・
++[FID:4F, TEXT:016B] 
++[FID:4F, TEXT:016C] 
+
+--- Group [left:none next=0023] ---
+　　　　迷子、か・・・
++[FID:4F, TEXT:016D] 
+
+--- Group [left:none next=0023] ---
+　　これでジンガのことは
+　　一安心だね！
++[FID:4F, TEXT:016E] 
++[FID:4F, TEXT:0171] 
+
+--- Group [left:none next=0023] ---
+　　これでジンガのことは
+　　一安心かな
+-[FID:4F, TEXT:016E] 
++[FID:4F, TEXT:0170] 
+
+--- Group [left:none next=0023] ---
+　　これでジンガのことは
+　　一安心だな
+-[FID:4F, TEXT:016E] 
++[FID:4F, TEXT:016F] 
+
+--- Group [left:none next=0023] ---
+　　サーカスは楽しかった
+　　みたいだな
++[FID:4F, TEXT:0172] 
++[FID:4F, TEXT:0173] 
+
+--- Group [left:none next=0023] ---
+　　サーカスは楽しかった
+　　みたい・・・良かった
+-[FID:4F, TEXT:0172] 
++[FID:4F, TEXT:0174] 
+
+--- Group [left:none next=0023] ---
+　　ラミちゃんはガウムが
+　　お気に入りみたいだな
++[FID:4F, TEXT:0175] 
++[FID:4F, TEXT:0176] 
+
+--- Group [left:none next=0023] ---
+　　ラミちゃんはガウムが
+　　お気に入りなのか
+-[FID:4F, TEXT:0175] 
++[FID:4F, TEXT:0177] 
+
+--- Group [left:none next=0023] ---
+　　ラミちゃんはガウムが
+　　お気に入りなんだ
+-[FID:4F, TEXT:0175] 
++[FID:4F, TEXT:0178] 
+
+--- Group [left:none next=0023] ---
+　　ジンガもついに働く先が
+　　見つかったか
++[FID:4F, TEXT:0179] 
++[FID:4F, TEXT:017A] 
+
+--- Group [left:none next=0023] ---
+　　ジンガもついに働く先が
+　　見つかったんだ
+-[FID:4F, TEXT:0179] 
++[FID:4F, TEXT:017B] 
+
+--- Group [left:none next=0023] ---
+　　　俺は好きで戦っている
+　　　わけじゃないんだ
++[FID:4F, TEXT:017C] 
++[FID:4F, TEXT:017D] 
+
+--- Group [left:none next=0023] ---
+　　　僕は好きで戦っている
+　　　わけじゃないんだ
++[FID:4F, TEXT:017E] 
+-[FID:4F, TEXT:017D] 
+
+--- Group [left:none next=0023] ---
+　　　あたしは好きで戦って
+　　　いるわけじゃないの
++[FID:4F, TEXT:017F] 
++[FID:4F, TEXT:0180] 
+
+--- Group [left:none next=0023] ---
+　　ローカスさん、
+　　きっとまじめなんですね
++[FID:4F, TEXT:0181] 
++[FID:4F, TEXT:0182] 
+
+--- Group [left:none next=0023] ---
+　　　マスター、か・・・
+　　　ちょっと慣れないな
++[FID:4F, TEXT:0183] 
++[FID:4F, TEXT:0187] 
+
+--- Group [left:none next=0023] ---
+　　　マスター、か・・・
+　　　なんか照れるよなぁ
+-[FID:4F, TEXT:0183] 
++[FID:4F, TEXT:0184] 
+
+--- Group [left:none next=0023] ---
+　　　マスター、か・・・
+　　　なんか照れくさいな
+-[FID:4F, TEXT:0183] 
++[FID:4F, TEXT:0185] 
+
+--- Group [left:none next=0023] ---
+　　　マスター、か・・・
+　　　なんか照れちゃうね
+-[FID:4F, TEXT:0183] 
++[FID:4F, TEXT:0186] 
+
+--- Group [left:none next=0023] ---
+　　はぐれ召喚獣がみんな
+　　悪さをするわけじゃないんだ
++[FID:4F, TEXT:0188] 
++[FID:4F, TEXT:0189] 
+
+--- Group [left:none next=0023] ---
+　　　はぐれにはなんの罪も
+　　　ないのかもしれない
++[FID:4F, TEXT:018A] 
++[FID:4F, TEXT:018B] 
+
+--- Group [left:none next=0023] ---
+　　　結局、はぐれ召喚獣も
+　　　被害者・・・か
++[FID:4F, TEXT:018C] 
++[FID:4F, TEXT:018D] 
+
+--- Group [left:none next=0023] ---
+　　　結局、はぐれ召喚獣も
+　　　被害者なのか・・・
+-[FID:4F, TEXT:018C] 
++[FID:4F, TEXT:018E] 
