@@ -11,18 +11,18 @@
 --- Group [left:none next=0023] ---
 これだけ探したのに、
 ひとつも見つからない
-とはな・・・
+なんて・・・
 +[FID:52, TEXT:0005] 
 +[FID:52, TEXT:0006] 
-+[FID:52, TEXT:0008] 
++[FID:52, TEXT:0007] 
 
 --- Group [left:none next=0023] ---
 これだけ探したのに、
 ひとつも見つからない
-なんて・・・
+とはな・・・
 -[FID:52, TEXT:0005] 
 -[FID:52, TEXT:0006] 
-+[FID:52, TEXT:0007] 
++[FID:52, TEXT:0008] 
 
 --- Group [left:none next=0023] ---
 なんで、こんだけ
@@ -102,9 +102,31 @@
 +[FID:52, TEXT:0022] 
 +[FID:52, TEXT:0023] 
 
---- Group [right:茜 next=2012] ---
+--- Group [left:主人公 next=0023] ---
+君はたしか・・・
 アカネさん？
++[FID:52, TEXT:0024] 
 +[FID:52, TEXT:0025] 
+
+--- Group [left:主人公 next=0023] ---
+あなた・・・
+アカネさん？
++[FID:52, TEXT:0026] 
+-[FID:52, TEXT:0025] 
+
+--- Group [left:主人公 next=0023] ---
+あなたは・・・
+アカネさん？
++[FID:52, TEXT:0027] 
+-[FID:52, TEXT:0025] 
+
+--- Group [right:none next=2012] ---
+へ？
+なんでアタシの名前を
+貴方が知ってんの？
++[FID:52, TEXT:0028] 
++[FID:52, TEXT:0029] 
++[FID:52, TEXT:002A] 
 
 --- Group [left:主人公 next=0023] ---
 ぶつかったのは謝るよ
@@ -252,19 +274,19 @@
 
 --- Group [left:none next=0023] ---
 ここに、死の眠りとい
-う病気に効く薬は
-ありませんか？
+う病気に効く薬はない
+でしょうか？
 +[FID:52, TEXT:0059] 
-+[FID:52, TEXT:005E] 
--[FID:52, TEXT:005D] 
++[FID:52, TEXT:005A] 
++[FID:52, TEXT:005B] 
 
 --- Group [left:none next=0023] ---
 ここに、死の眠りとい
-う病気に効く薬はない
-でしょうか？
+う病気に効く薬は
+ありませんか？
 -[FID:52, TEXT:0059] 
-+[FID:52, TEXT:005A] 
-+[FID:52, TEXT:005B] 
++[FID:52, TEXT:005E] 
+-[FID:52, TEXT:005D] 
 
 --- Group [right:茜 next=2012] ---
 残念ですが
@@ -334,17 +356,17 @@
 
 --- Group [right:茜 next=2012] ---
 ふむ・・・
-なら、こうしましょう
+残念ですが、これでは
+足りませんね
 +[FID:52, TEXT:0073] 
-+[FID:52, TEXT:0085] 
++[FID:52, TEXT:0074] 
++[FID:52, TEXT:0075] 
 
 --- Group [right:茜 next=2012] ---
 ふむ・・・
-残念ですが、これでは
-足りませんね
+なら、こうしましょう
 -[FID:52, TEXT:0073] 
-+[FID:52, TEXT:0074] 
-+[FID:52, TEXT:0075] 
++[FID:52, TEXT:0085] 
 
 --- Group [left:加泽尔 next=2012] ---
 どういう値段のつけ方
@@ -428,15 +450,15 @@
 
 --- Group [right:茜 next=0023] ---
 　そうじゃないよ
-　本当にそうなのか？
+　そうかもね〜？
 +[FID:52, TEXT:0092] 
-+[FID:52, TEXT:0093] 
++[FID:52, TEXT:0095] 
 
 --- Group [right:茜 next=0023] ---
 　そうじゃないよ
-　そうかもね〜？
+　本当にそうなのか？
 -[FID:52, TEXT:0092] 
-+[FID:52, TEXT:0095] 
++[FID:52, TEXT:0093] 
 
 --- Group [right:茜 next=0023] ---
 　そうじゃない

@@ -7,12 +7,12 @@
 --- Group 2 [left:none next=0023] ---
 [FID:52, TEXT:0005] これだけ探したのに、
 [FID:52, TEXT:0006] ひとつも見つからない
-[FID:52, TEXT:0008] とはな・・・
+[FID:52, TEXT:0007] なんて・・・
 
 --- Group 3 [left:none next=0023] ---
 [FID:52, TEXT:0005] これだけ探したのに、
 [FID:52, TEXT:0006] ひとつも見つからない
-[FID:52, TEXT:0007] なんて・・・
+[FID:52, TEXT:0008] とはな・・・
 
 --- Group 4 [left:none next=0023] ---
 [FID:52, TEXT:0009] なんで、こんだけ
@@ -64,304 +64,321 @@
 [FID:52, TEXT:0022] おいて、そーいうこと
 [FID:52, TEXT:0023] 言うわけっ！？
 
---- Group 15 [right:char_001F next=2012] ---
+--- Group 15 [left:char_0004 next=0023] ---
+[FID:52, TEXT:0024] 君はたしか・・・
 [FID:52, TEXT:0025] アカネさん？
 
---- Group 16 [left:char_0004 next=0023] ---
+--- Group 16 [right:char_001F next=2012] ---
+[FID:52, TEXT:0025] アカネさん？
+
+--- Group 17 [left:char_0004 next=0023] ---
+[FID:52, TEXT:0026] あなた・・・
+[FID:52, TEXT:0025] アカネさん？
+
+--- Group 18 [left:char_0004 next=0023] ---
+[FID:52, TEXT:0027] あなたは・・・
+[FID:52, TEXT:0025] アカネさん？
+
+--- Group 19 [right:none next=2012] ---
+[FID:52, TEXT:0028] へ？
+[FID:52, TEXT:0029] なんでアタシの名前を
+[FID:52, TEXT:002A] 貴方が知ってんの？
+
+--- Group 20 [left:char_0004 next=0023] ---
 [FID:52, TEXT:002B] ぶつかったのは謝るよ
 [FID:52, TEXT:002C] 俺たち、ちょっと急い
 [FID:52, TEXT:002D] でいたから・・・
 
---- Group 17 [left:char_0004 next=0023] ---
+--- Group 21 [left:char_0004 next=0023] ---
 [FID:52, TEXT:002B] ぶつかったのは謝るよ
 [FID:52, TEXT:002E] 僕たち、ちょっと急い
 [FID:52, TEXT:002D] でいたから・・・
 
---- Group 18 [left:char_0004 next=0023] ---
+--- Group 22 [left:char_0004 next=0023] ---
 [FID:52, TEXT:002F] ごめんね、ぶつかって
 [FID:52, TEXT:0030] ・・・あたしたち、
 [FID:52, TEXT:0031] ちょっと急いでて
 
---- Group 19 [left:char_0004 next=0023] ---
+--- Group 23 [left:char_0004 next=0023] ---
 [FID:52, TEXT:0032] ごめんなさい
 [FID:52, TEXT:0033] わたしたち、いま
 [FID:52, TEXT:0034] 急いでいたから・・・
 
---- Group 20 [right:none next=2012] ---
+--- Group 24 [right:none next=2012] ---
 [FID:52, TEXT:0035] 急いでるのは、アタシ
 [FID:52, TEXT:0036] も同じだよっ
 
---- Group 21 [right:none next=2012] ---
+--- Group 25 [right:none next=2012] ---
 [FID:52, TEXT:0037] お師匠の言いつけで、
 [FID:52, TEXT:0038] これから薬草を採って
 [FID:52, TEXT:0039] こなくちゃならないっ
 [FID:52, TEXT:003A] ていうのに・・・
 
---- Group 22 [left:char_0004 next=0023] ---
+--- Group 26 [left:char_0004 next=0023] ---
 [FID:52, TEXT:003B] 薬草だって？
 
---- Group 23 [left:char_0004 next=0023] ---
+--- Group 27 [left:char_0004 next=0023] ---
 [FID:52, TEXT:003C] 薬草？？
 
---- Group 24 [left:char_0004 next=0023] ---
+--- Group 28 [left:char_0004 next=0023] ---
 [FID:52, TEXT:003D] 薬草ですか？
 
---- Group 25 [left:char_0013 next=2012] ---
+--- Group 29 [left:char_0013 next=2012] ---
 [FID:52, TEXT:003E] お前、医者かっ！？
 
---- Group 26 [right:none next=2012] ---
+--- Group 30 [right:none next=2012] ---
 [FID:52, TEXT:003F] いえいえ
 [FID:52, TEXT:0040] アタシはただの可愛い
 [FID:52, TEXT:0041] 店員さん
 
---- Group 27 [right:none next=2012] ---
+--- Group 31 [right:none next=2012] ---
 [FID:52, TEXT:0042] そこの角に建ってる
 [FID:52, TEXT:0043] 「あかなべ」って薬屋
 [FID:52, TEXT:0044] に勤めてる店員だよ
 
---- Group 28 [left:char_0013 next=2012] ---
+--- Group 32 [left:char_0013 next=2012] ---
 [FID:52, TEXT:0045] 薬屋だって！？
 
---- Group 29 [left:char_0013 next=2012] ---
+--- Group 33 [left:char_0013 next=2012] ---
 [FID:52, TEXT:0046] まさかこの店が、薬屋
 [FID:52, TEXT:0047] だったなんて・・・
 
---- Group 30 [right:char_001F next=2012] ---
+--- Group 34 [right:char_001F next=2012] ---
 [FID:52, TEXT:0048] 失礼ねぇ
 [FID:52, TEXT:0049] まあ、確かにお店の中
 [FID:52, TEXT:004A] の趣味は悪いけどさ
 
---- Group 31 [left:char_0026 next=2012] ---
+--- Group 35 [left:char_0026 next=2012] ---
 [FID:52, TEXT:004B] 趣味が悪いというのは
 [FID:52, TEXT:004C] 誰のことですかね？
 [FID:52, TEXT:004D] アカネさん・・・
 
---- Group 32 [right:char_001F next=2012] ---
+--- Group 36 [right:char_001F next=2012] ---
 [FID:52, TEXT:004E] おっ、お師匠っ！？
 
---- Group 33 [left:char_0026 next=2012] ---
+--- Group 37 [left:char_0026 next=2012] ---
 [FID:52, TEXT:004F] あなたには、お使いを
 [FID:52, TEXT:0050] 頼んだと思っていたの
 [FID:52, TEXT:0051] ですがね・・・
 
---- Group 34 [right:char_001F next=2012] ---
+--- Group 38 [right:char_001F next=2012] ---
 [FID:52, TEXT:0052] あ、あのっ・・・
 [FID:52, TEXT:0053] こここ、この人たちが
 [FID:52, TEXT:0054] シオン師匠に用事があ
 [FID:52, TEXT:0055] るって・・・
 
---- Group 35 [left:none next=0023] ---
+--- Group 39 [left:none next=0023] ---
 [FID:52, TEXT:0056] ここに、死の眠りって
 [FID:52, TEXT:005C] 病気に効く薬は
 [FID:52, TEXT:005D] ありませんか？
 
---- Group 36 [left:none next=0023] ---
+--- Group 40 [left:none next=0023] ---
 [FID:52, TEXT:0056] ここに、死の眠りって
 [FID:52, TEXT:0057] 病気に効く薬はありま
 [FID:52, TEXT:0058] せんか？
 
---- Group 37 [left:none next=0023] ---
-[FID:52, TEXT:0059] ここに、死の眠りとい
-[FID:52, TEXT:005E] う病気に効く薬は
-[FID:52, TEXT:005D] ありませんか？
-
---- Group 38 [left:none next=0023] ---
+--- Group 41 [left:none next=0023] ---
 [FID:52, TEXT:0059] ここに、死の眠りとい
 [FID:52, TEXT:005A] う病気に効く薬はない
 [FID:52, TEXT:005B] でしょうか？
 
---- Group 39 [right:char_001F next=2012] ---
+--- Group 42 [left:none next=0023] ---
+[FID:52, TEXT:0059] ここに、死の眠りとい
+[FID:52, TEXT:005E] う病気に効く薬は
+[FID:52, TEXT:005D] ありませんか？
+
+--- Group 43 [right:char_001F next=2012] ---
 [FID:52, TEXT:005F] 残念ですが
 [FID:52, TEXT:0060] 今はありません
 
---- Group 40 [right:char_001F next=2012] ---
+--- Group 44 [right:char_001F next=2012] ---
 [FID:52, TEXT:0061] ただし、作ることなら
 [FID:52, TEXT:0062] できますよ
 
---- Group 41 [left:none next=0023] ---
+--- Group 45 [left:none next=0023] ---
 [FID:52, TEXT:0063] えっ！？
 
---- Group 42 [left:none next=0023] ---
+--- Group 46 [left:none next=0023] ---
 [FID:52, TEXT:0064] 本当ですか！？
 
---- Group 43 [left:none next=0023] ---
+--- Group 47 [left:none next=0023] ---
 [FID:52, TEXT:0065] ホントに！？
 
---- Group 44 [left:none next=0023] ---
+--- Group 48 [left:none next=0023] ---
 [FID:52, TEXT:0066] 本当ですか？
 
---- Group 45 [right:char_001F next=2012] ---
+--- Group 49 [right:char_001F next=2012] ---
 [FID:52, TEXT:0067] そのために必要な材料
 [FID:52, TEXT:0068] を、そこの不肖の弟子
 [FID:52, TEXT:0069] に取りに行かせようと
 [FID:52, TEXT:006A] していたんですから
 
---- Group 46 [left:char_0013 next=2012] ---
+--- Group 50 [left:char_0013 next=2012] ---
 [FID:52, TEXT:006B] その薬を、俺たちにも
 [FID:52, TEXT:006C] 売ってくれっ！
 
---- Group 47 [right:char_001F next=2012] ---
+--- Group 51 [right:char_001F next=2012] ---
 [FID:52, TEXT:006D] それは構いませんが、
 [FID:52, TEXT:006E] お金はあるんですか？
 
---- Group 48 [left:char_0004 next=0023] ---
+--- Group 52 [left:char_0004 next=0023] ---
 [FID:52, TEXT:006F] これだけなら・・・
 
---- Group 49 [left:char_0004 next=0023] ---
+--- Group 53 [left:char_0004 next=0023] ---
 [FID:52, TEXT:0070] これだけですが・・・
 
---- Group 50 [left:char_0004 next=0023] ---
+--- Group 54 [left:char_0004 next=0023] ---
 [FID:52, TEXT:0071] これで・・・
 
---- Group 51 [left:char_0004 next=0023] ---
+--- Group 55 [left:char_0004 next=0023] ---
 [FID:52, TEXT:0072] これだけしか・・・
 
---- Group 52 [right:char_001F next=2012] ---
-[FID:52, TEXT:0073] ふむ・・・
-[FID:52, TEXT:0085] なら、こうしましょう
-
---- Group 53 [right:char_001F next=2012] ---
+--- Group 56 [right:char_001F next=2012] ---
 [FID:52, TEXT:0073] ふむ・・・
 [FID:52, TEXT:0074] 残念ですが、これでは
 [FID:52, TEXT:0075] 足りませんね
 
---- Group 54 [left:char_0013 next=2012] ---
+--- Group 57 [right:char_001F next=2012] ---
+[FID:52, TEXT:0073] ふむ・・・
+[FID:52, TEXT:0085] なら、こうしましょう
+
+--- Group 58 [left:char_0013 next=2012] ---
 [FID:52, TEXT:0076] どういう値段のつけ方
 [FID:52, TEXT:0077] してんだよっ！？
 
---- Group 55 [left:char_001F next=2012] ---
+--- Group 59 [left:char_001F next=2012] ---
 [FID:52, TEXT:0078] お師匠の作る薬は
 [FID:52, TEXT:0079] 特別な物だからねえ
 
---- Group 56 [left:char_001F next=2012] ---
+--- Group 60 [left:char_001F next=2012] ---
 [FID:52, TEXT:007A] 本当はしの・・・
 
---- Group 57 [left:char_001F next=2012] ---
+--- Group 61 [left:char_001F next=2012] ---
 [FID:52, TEXT:007B] あわわっ！
 [FID:52, TEXT:007C] な、なんでもないです
 
---- Group 58 [left:char_0013 next=2012] ---
+--- Group 62 [left:char_0013 next=2012] ---
 [FID:52, TEXT:007D] 金は絶対に払う
 [FID:52, TEXT:007E] だから、頼むから薬を
 [FID:52, TEXT:007F] 俺たちに分けてくれ！
 
---- Group 59 [left:char_0013 next=2012] ---
+--- Group 63 [left:char_0013 next=2012] ---
 [FID:52, TEXT:0080] そうしねえと
 [FID:52, TEXT:0081] チビたちが・・・
 
---- Group 60 [left:char_0004 next=0023] ---
+--- Group 64 [left:char_0004 next=0023] ---
 [FID:52, TEXT:0082] お願いします！
 
---- Group 61 [left:char_0004 next=0023] ---
+--- Group 65 [left:char_0004 next=0023] ---
 [FID:52, TEXT:0083] なんとかして、
 [FID:52, TEXT:0084] お願いできませんか？
 
---- Group 62 [right:char_001F next=2012] ---
+--- Group 66 [right:char_001F next=2012] ---
 [FID:52, TEXT:0086] アカネさんと一緒に、
 [FID:52, TEXT:0087] 薬草を採ってきてくれ
 [FID:52, TEXT:0088] ませんか？
 
---- Group 63 [right:char_001F next=2012] ---
+--- Group 67 [right:char_001F next=2012] ---
 [FID:52, TEXT:0089] 足りない分は、それで
 [FID:52, TEXT:008A] まけてさしあげます
 
---- Group 64 [right:char_001F next=2012] ---
+--- Group 68 [right:char_001F next=2012] ---
 [FID:52, TEXT:008B] あーあ、アタシ一人で
 [FID:52, TEXT:008C] もこんな用事は朝飯前
 [FID:52, TEXT:008D] だってのに
 
---- Group 65 [right:char_001F next=2012] ---
+--- Group 69 [right:char_001F next=2012] ---
 [FID:52, TEXT:008E] お師匠ってば、そんな
 [FID:52, TEXT:008F] にアタシのことが信用
 [FID:52, TEXT:0090] できないかなー？
 
---- Group 66 [right:char_001F next=0023] ---
+--- Group 70 [right:char_001F next=0023] ---
 [FID:52, TEXT:0091] どうしよう？
 
---- Group 67 [right:char_001F next=0023] ---
-[FID:52, TEXT:0092] 　そうじゃないよ
-[FID:52, TEXT:0093] 　本当にそうなのか？
-
---- Group 68 [right:char_001F next=0023] ---
+--- Group 71 [right:char_001F next=0023] ---
 [FID:52, TEXT:0092] 　そうじゃないよ
 [FID:52, TEXT:0095] 　そうかもね〜？
 
---- Group 69 [right:char_001F next=0023] ---
+--- Group 72 [right:char_001F next=0023] ---
+[FID:52, TEXT:0092] 　そうじゃないよ
+[FID:52, TEXT:0093] 　本当にそうなのか？
+
+--- Group 73 [right:char_001F next=0023] ---
 [FID:52, TEXT:0094] 　そうじゃない
 [FID:52, TEXT:0093] 　本当にそうなのか？
 
---- Group 70 [right:char_001F next=0023] ---
+--- Group 74 [right:char_001F next=0023] ---
 [FID:52, TEXT:0096] 　それは違います
 [FID:52, TEXT:0097] 　本当にそうなのかな？
 
---- Group 71 [left:none next=2012] ---
+--- Group 75 [left:none next=2012] ---
 [FID:52, TEXT:0098] そうじゃないよ
 
---- Group 72 [left:none next=0023] ---
+--- Group 76 [left:none next=0023] ---
 [FID:52, TEXT:0099] シオンさんは俺たちに
 [FID:52, TEXT:009A] 薬を渡してくれるため
 [FID:52, TEXT:009B] に、わざとこんな用事
 [FID:52, TEXT:009C] を頼んだのさ
 
---- Group 73 [left:none next=2012] ---
+--- Group 77 [left:none next=2012] ---
 [FID:52, TEXT:009D] そうじゃない
 
---- Group 74 [left:none next=0023] ---
+--- Group 78 [left:none next=0023] ---
 [FID:52, TEXT:009E] シオンさんは僕たちに
 [FID:52, TEXT:009A] 薬を渡してくれるため
 [FID:52, TEXT:009B] に、わざとこんな用事
 [FID:52, TEXT:009F] を頼んだんだよ
 
---- Group 75 [left:none next=0023] ---
+--- Group 79 [left:none next=0023] ---
 [FID:52, TEXT:00A0] シオンさんは
 [FID:52, TEXT:00A1] あたしたちに薬を
 [FID:52, TEXT:00A2] くれるために、こんな
 [FID:52, TEXT:00A3] ことをしたんだよ
 
---- Group 76 [left:none next=2012] ---
+--- Group 80 [left:none next=2012] ---
 [FID:52, TEXT:00A4] それは違います
 
---- Group 77 [left:none next=0023] ---
+--- Group 81 [left:none next=0023] ---
 [FID:52, TEXT:00A5] お金のないわたしたち
 [FID:52, TEXT:00A6] に薬をくれるために、
 [FID:52, TEXT:00A7] シオンさんはこんな
 [FID:52, TEXT:00A8] ことをしたんです
 
---- Group 78 [right:char_0013 next=2012] ---
+--- Group 82 [right:char_0013 next=2012] ---
 [FID:52, TEXT:00A9] ああ、多分な
 
---- Group 79 [right:char_001F next=2012] ---
+--- Group 83 [right:char_001F next=2012] ---
 [FID:52, TEXT:00AA] ・・・そっか
 
---- Group 80 [left:none next=0023] ---
+--- Group 84 [left:none next=0023] ---
 [FID:52, TEXT:00AB] 本当にそうなのか？
 
---- Group 81 [left:none next=0023] ---
+--- Group 85 [left:none next=0023] ---
 [FID:52, TEXT:00AC] そうかもね〜？
 
---- Group 82 [left:none next=0023] ---
+--- Group 86 [left:none next=0023] ---
 [FID:52, TEXT:00AD] 本当にそうなのかな？
 
---- Group 83 [right:char_001F next=2012] ---
+--- Group 87 [right:char_001F next=2012] ---
 [FID:52, TEXT:00AE] あーっ、疑ってる
 
---- Group 84 [left:char_0013 next=2012] ---
+--- Group 88 [left:char_0013 next=2012] ---
 [FID:52, TEXT:00AF] でもよ、女が一人で街
 [FID:52, TEXT:00B0] の外を出歩くってのは
 [FID:52, TEXT:00B1] かなりヤバイぜ
 
---- Group 85 [right:char_001F next=2012] ---
+--- Group 89 [right:char_001F next=2012] ---
 [FID:52, TEXT:00B2] フフン、それが素人の
 [FID:52, TEXT:00B3] 浅はかさってものよ
 
---- Group 86 [right:char_001F next=2012] ---
+--- Group 90 [right:char_001F next=2012] ---
 [FID:52, TEXT:00B4] こう見えてもアタシは
 [FID:52, TEXT:00B5] くの・・・
 
---- Group 87 [left:char_0004 next=2012] ---
+--- Group 91 [left:char_0004 next=2012] ---
 [FID:52, TEXT:00B6] くの・・・？
 
---- Group 88 [right:char_001F next=2012] ---
+--- Group 92 [right:char_001F next=2012] ---
 [FID:52, TEXT:00B7] あっ、あはははっ
 [FID:52, TEXT:00B8] なんでもありませ〜ん
 
