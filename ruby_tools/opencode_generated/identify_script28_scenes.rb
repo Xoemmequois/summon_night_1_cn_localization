@@ -39,6 +39,24 @@ def run_direct_entry(commands, script_id, c4_95_value)
 
   manager.external_vars = VMState::EXTERNAL_VARS.dup + [0xC8, 0xDC]
 
+  # Monkey-patch: fork regA at JMP_IF_A 0x107C (RPN c4[0x9D] < 8 gate)
+  old_dispatch = manager.method(:dispatch)
+  manager.define_singleton_method(:dispatch) do |state, cmd, cmds|
+    if cmd.code == 0x0020 && cmd.index == 0x107C
+      fork_state = state.clone
+      fork_state.regA = 1
+      t = index_to_pc[cmd.params[0]]
+      if t
+        fork_state.pc = t
+        push(fork_state)
+      end
+      state.regA = 0
+      state.pc += 1
+      return true
+    end
+    old_dispatch.call(state, cmd, cmds)
+  end
+
   state = VMState.new(script_id)
   # Standard c4 state (matching analyze_script_static)
   state.tbl_c4[0xF8] = 3
@@ -80,7 +98,38 @@ end
 
 all_dialogs = {}
 
-[0, 1, 2, 3, 4, 5].each do |val|
+  # Extra run for FID 0x6D: F9=0 handler covers texts 564-578 (not in F9=4 handler)
+  def run_f9_0_entry(commands, script_id, fid, c4_95_value)
+    manager = ExecManager.new
+    manager.index_to_pc = {}
+    commands.each_with_index { |c, i| manager.index_to_pc[c.index] = i }
+    manager.external_vars = VMState::EXTERNAL_VARS.dup + [0xC8, 0xDC]
+
+    state = VMState.new(script_id)
+    state.tbl_c4[0xF8] = 3
+    state.tbl_c4[0xF9] = 0           # F9=0
+    state.tbl_c4[0xFA] = 0x0D
+    state.tbl_c4[0xFB] = 0
+    state.tbl_c4[0xFC] = 0
+    state.tbl_c4[0xC4] = 4
+    state.tbl_c4[0xC3] = 4
+    state.tbl_c4[0x95] = c4_95_value
+    state.tbl_c4[0x93] = 0
+    state.dialog_file_id = fid
+
+    idx = manager.index_to_pc[0x051F]  # F9=0 handler entry
+    state.pc = idx
+    manager.push(state)
+    run_manager(manager, commands, script_id)
+    manager.dialogs
+  end
+
+  result0 = run_f9_0_entry(commands, SCRIPT_ID, 0x6D, 1)
+  result0.each { |fid, groups| all_dialogs[fid] ||= Set.new; all_dialogs[fid] += groups }
+  puts "F9=0 entry: added #{result0[0x6D]&.size || 0} groups for FID 0x6D"
+  puts
+
+  [0, 1, 2, 3, 4, 5].each do |val|
   puts "\n=== Direct entry c4[0x95]=#{val} (FID 0x#{sprintf('%02X', FID_MAP[val])}) ==="
   dialogs = run_direct_entry(commands, SCRIPT_ID, val)
   dialogs.each do |fid, groups|
