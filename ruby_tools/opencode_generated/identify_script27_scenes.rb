@@ -126,6 +126,10 @@ end
   end
 end
 
+
+#关于 FID 68的说明：
+#script27 中可能真的没有 FID68，FID68的1E和1F应该是同一句话，但是在代码中找不到连续的2013 001E 和 2013 001F的组合。
+#这里我们直接使用GPT生成的FID68的组合
 # FID 68 stores several complete sentences as consecutive text indices even
 # though script27 reaches their pieces through the same branches used by FID 69.
 FID68_SEMANTIC_GROUPS = [
