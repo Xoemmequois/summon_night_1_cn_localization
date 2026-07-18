@@ -7,14 +7,12 @@
 #   case 2 → 0x047B: SET_FID 0x80 (オルドレイク登場〜真相)
 #   case 3 → 0x048B: SET_FID 0x81 (仲間の裏切り〜エルゴの力)
 #
-# c4[0x95]=2 写入在 0x0A44, 由 c4[0x21]==1 守卫 (0x0005@0x0A3B)
-# c4[0x95]=3 写入在 0x0AB0, 由 c4[0x21]==1 守卫 (0x0005@0x0AA7)
-# c4[0x21] 是跨脚本全局旗标 (同 script29), 引擎回调在 0x0B13 子程序
-# 写入, 脚本内被 0x0005 读取但 VM 看不到写入 → 永远走 case 0/1 路径。
-#
-# 修复: 把 0x21 加入 external_vars, 在比较处 fork 两侧,
-# regB=1 分支自然进入 case 2/3 的 0x95 写入流程。
-# 不需要 monkey-patch 或直接入口 — analyze_script_static 足够。
+# 直接入口: monkey-patch 跳过 c4[0x95]=0 (0x0001@0x03B5, F9=10 handler),
+# 然后遍历 c4[0x95]=0,1,2,3, 从 0x012E 标准入口进入。
+# c4[0x95]=2,3 原本由 c4[0x21]==1 守卫 (跨脚本全局旗标, VM 看不到),
+# 通过直接设定 c4[0x95] 值绕过守卫, 无需 external_vars + [0x21]。
+# 每 FID 独立跑一份 visited-state 预算 (200k), 避免多 FID 共享预算
+# 导致深部分支被截断。
 # ============================================================
 
 require_relative "../commands_parse_tools"
@@ -31,16 +29,29 @@ end
 commands = parse_commands(FN).to_a
 puts "Loaded #{commands.size} commands from #{FN}"
 
+FID_MAP = { 0 => 0x7E, 1 => 0x7F, 2 => 0x80, 3 => 0x81 }
+
 # ---------------------------------------------------------
-# Run analysis with 0x21 as external var
+# Direct entry: monkey-patch skip c4[0x95]=0, iterate c4[0x95]
 # ---------------------------------------------------------
-def run_script33(commands, script_id)
+def run_with_c4_95(commands, script_id, c4_95_value)
   manager = ExecManager.new
   manager.index_to_pc = {}
   commands.each_with_index { |c, i| manager.index_to_pc[c.index] = i }
 
-  # external_vars: default + 0x21 (全局事件旗标, 控制 FID 0x80/0x81 分支)
-  manager.external_vars = VMState::EXTERNAL_VARS.dup + [0x21]
+  manager.external_vars = VMState::EXTERNAL_VARS.dup
+
+  # Monkey-patch: skip c4[0x95]=0 at 0x03B5 (F9=10 handler init)
+  old_dispatch = manager.method(:dispatch)
+  manager.define_singleton_method(:dispatch) do |state, cmd, cmds|
+    if cmd.index == 0x03B5 && cmd.code == 0x0001 && cmd.params[0] == 2 && cmd.params[1] == 0x95
+      state.pc += 1
+      return true
+    end
+    old_dispatch.call(state, cmd, cmds)
+  end
+
+  fid = FID_MAP[c4_95_value]
 
   state = VMState.new(script_id)
   state.tbl_c4[0xF8] = 3
@@ -50,13 +61,15 @@ def run_script33(commands, script_id)
   state.tbl_c4[0xFC] = 0
   state.tbl_c4[0xC4] = 4
   state.tbl_c4[0xC3] = 4
+  state.tbl_c4[0x95] = c4_95_value
   state.tbl_c4[0x93] = 0
+  state.dialog_file_id = fid
 
   idx = manager.index_to_pc[0x012E]
   state.pc = idx || 127
   manager.push(state)
 
-  puts "Running with external_vars + [0x21]..."
+  puts "Direct entry: c4[0x95]=#{c4_95_value} → FID 0x#{sprintf('%02X', fid)}"
   run_manager(manager, commands, script_id)
 
   fid_list = manager.dialogs.keys.sort.map { |f| sprintf("0x%02X", f) }
@@ -68,15 +81,18 @@ def run_script33(commands, script_id)
 end
 
 # ---------------------------------------------------------
-# Main
+# Main: iterate all c4[0x95] values
 # ---------------------------------------------------------
 
 all_dialogs = {}
 
-dialogs = run_script33(commands, SCRIPT_ID)
-dialogs.each do |fid, groups|
-  all_dialogs[fid] ||= Set.new
-  all_dialogs[fid] += groups
+(0..3).each do |val|
+  puts "\n=== Run: c4[0x95]=#{val} (FID 0x#{sprintf('%02X', FID_MAP[val])}) ==="
+  dialogs = run_with_c4_95(commands, SCRIPT_ID, val)
+  dialogs.each do |fid, groups|
+    all_dialogs[fid] ||= Set.new
+    all_dialogs[fid] += groups
+  end
 end
 
 # ---------------------------------------------------------
@@ -85,7 +101,6 @@ end
 puts "\n=== Combined Results ==="
 output_results(all_dialogs, commands, "output_full/script33")
 
-# Summary of FID coverage
 puts
 [0x7E, 0x7F, 0x80, 0x81].each do |fid|
   sub_id = fid + 0x29
