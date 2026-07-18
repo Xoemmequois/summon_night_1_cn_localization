@@ -50,8 +50,14 @@ def run_with_c4_95(commands, script_id, c4_95_value)
   #   2) fork regA=1 at 0x10A2 JMP_IF_A gate —
   #      unhandled 0x000A RPN chain: c4[0x9A]==c4[0x14] (0x80) +
   #      c4[0xDC] < 0x6C (0x89). VM handle_000A 仅处理性别模式,
-  #      0x80/0x89 不透传导致 regA=0 → 0x0020 永不跳转 →
-  #      sub 0x16B6 (TEXT 0xE5-0xFC) 永远不到达。
+  #      0x80/0x89 不透传 → regA=0 → 永不跳转 →
+  #      sub 0x16B6 (FID 0x88 TEXT 0xE5-0xFC) 永远不到达。
+  #   3) 8× c8[0x64]/c8[0x66] 0x0003+0x0022 门控 —
+  #      c8[0x64]==0 → regB bit0=1 → 0x0022 不跳转 → 跳过对话.
+  #      真相: c8 全为 0(VM 默认)且无 in-script 写入 →
+  #      FID 0x87 TEXT 0x001E/0x0030 永不出现.
+  #      Fork regB bit0=0 at each 0x0022 门 → 跳入对话.
+  c8_gates = [0x0CF8, 0x0DC0, 0x0E9F, 0x0F68, 0x0D67, 0x0E46, 0x0F0F, 0x0FF6]
   old_dispatch = manager.method(:dispatch)
   manager.define_singleton_method(:dispatch) do |state, cmd, cmds|
     if cmd.code == 0x0001 && cmd.index == 0x03B5 && cmd.params[0] == 2 && cmd.params[1] == 0x95
@@ -67,6 +73,18 @@ def run_with_c4_95(commands, script_id, c4_95_value)
         push(fork_state)
       end
       state.regA = 0
+      state.pc += 1
+      return true
+    end
+    if cmd.code == 0x0022 && c8_gates.include?(cmd.index)
+      fork_state = state.clone
+      fork_state.regB = fork_state.regB & 0xFE  # regB bit0=0 → 0x0022 will jump to dialog
+      t = index_to_pc[cmd.params[0]]
+      if t
+        fork_state.pc = t
+        push(fork_state)
+      end
+      state.regB = state.regB | 1  # regB bit0=1 → fall through (skip dialog, existing behavior)
       state.pc += 1
       return true
     end
