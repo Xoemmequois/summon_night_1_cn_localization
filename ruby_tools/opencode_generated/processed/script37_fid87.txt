@@ -1,4 +1,4 @@
---- Group [right:none next=2012] ---
+--- Group [right:伊利亚斯 next=2012] ---
 みんな、覚悟はいいか
 +[FID:87, TEXT:0001] 
 
@@ -16,7 +16,7 @@
 +[FID:87, TEXT:0005] 
 +[FID:87, TEXT:0006] 
 
---- Group [right:none next=2012] ---
+--- Group [right:伊利亚斯 next=2012] ---
 今の彼らは魔王を召喚
 する儀式を最優先に
 しているはずです
@@ -80,29 +80,29 @@
 +[FID:87, TEXT:001C] 
 +[FID:87, TEXT:001D] 
 
---- Group [right:索尔 next=2012] ---
-悪魔を呼び出す実験を
-続けてきたせいだ
-+[FID:87, TEXT:001F] 
-+[FID:87, TEXT:0020] 
-
---- Group [right:卡西斯 next=2012] ---
-悪魔を呼び出す実験を
-続けてきたせいなの
--[FID:87, TEXT:001F] 
-+[FID:87, TEXT:003D] 
-
 --- Group [right:克拉雷特 next=2012] ---
 悪魔を呼び出す実験を
 続けてきたせいです
--[FID:87, TEXT:001F] 
++[FID:87, TEXT:001F] 
 +[FID:87, TEXT:0047] 
+
+--- Group [right:索尔 next=2012] ---
+悪魔を呼び出す実験を
+続けてきたせいだ
+-[FID:87, TEXT:001F] 
++[FID:87, TEXT:0020] 
 
 --- Group [right:基尔 next=2012] ---
 悪魔を呼び出す実験を
 続けてきたせいだよ
 -[FID:87, TEXT:001F] 
 +[FID:87, TEXT:0037] 
+
+--- Group [right:卡西斯 next=2012] ---
+悪魔を呼び出す実験を
+続けてきたせいなの
+-[FID:87, TEXT:001F] 
++[FID:87, TEXT:003D] 
 
 --- Group [right:索尔 next=2012] ---
 森そのものが
@@ -122,7 +122,7 @@
 +[FID:87, TEXT:0025] 
 +[FID:87, TEXT:0026] 
 
---- Group [right:索尔 next=2012] ---
+--- Group [right:基尔 next=2012] ---
 魔王を召喚するために
 必要な準備の全てが、
 この森の奥で行われて
@@ -142,13 +142,13 @@
 -[FID:87, TEXT:0029] 
 +[FID:87, TEXT:0044] 
 
---- Group [right:基尔 next=2012] ---
+--- Group [right:索尔 next=2012] ---
 儀式はきっと、ここで
 行われるはずだ
 +[FID:87, TEXT:002B] 
 +[FID:87, TEXT:002C] 
 
---- Group [right:克拉雷特 next=2012] ---
+--- Group [right:卡西斯 next=2012] ---
 どうやら・・・
 大当たりのようだぜ？
 +[FID:87, TEXT:002D] 
@@ -176,21 +176,21 @@
 ！！
 +[FID:87, TEXT:0036] 
 
+--- Group [right:基尔 next=2012] ---
+森そのものが、悪魔の
+力で歪んでいるんだ
++[FID:87, TEXT:0038] 
++[FID:87, TEXT:0039] 
+
 --- Group [right:克拉雷特 next=2012] ---
 森そのものが、悪魔の
 力で歪んでいる・・・
 そう言えば、わかりや
 すいでしょうか・・
-+[FID:87, TEXT:0038] 
+-[FID:87, TEXT:0038] 
 +[FID:87, TEXT:0048] 
 +[FID:87, TEXT:0049] 
 +[FID:87, TEXT:004A] 
-
---- Group [right:基尔 next=2012] ---
-森そのものが、悪魔の
-力で歪んでいるんだ
--[FID:87, TEXT:0038] 
-+[FID:87, TEXT:0039] 
 
 --- Group [right:基尔 next=2012] ---
 僕は、この森で召喚術
