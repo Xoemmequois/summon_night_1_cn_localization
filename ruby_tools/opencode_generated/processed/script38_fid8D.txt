@@ -1,34 +1,34 @@
---- Group [left:主人公 next=2012] ---
+--- Group [left:none next=2012] ---
+これが・・・
+魔王の力なのか・・・
++[FID:8D, TEXT:0001] 
++[FID:8D, TEXT:0002] 
+
+--- Group [left:none next=2012] ---
 これが・・・
 魔王の力！？
-+[FID:8D, TEXT:0001] 
+-[FID:8D, TEXT:0001] 
 +[FID:8D, TEXT:0005] 
 
---- Group [left:主人公 next=2012] ---
+--- Group [left:none next=2012] ---
 これが・・・
 魔王の力・・・
 -[FID:8D, TEXT:0001] 
 +[FID:8D, TEXT:0008] 
 
---- Group [left:主人公 next=2012] ---
-これが・・・
-魔王の力なのか・・・
--[FID:8D, TEXT:0001] 
-+[FID:8D, TEXT:0002] 
-
---- Group [left:主人公 next=0023] ---
+--- Group [left:none next=0023] ---
 吠え声だけで
 まるで、嵐のようだ
 +[FID:8D, TEXT:0003] 
 +[FID:8D, TEXT:0004] 
 
---- Group [left:主人公 next=0023] ---
+--- Group [left:none next=0023] ---
 ウソ・・・
 嵐みたいな吠え声！
 +[FID:8D, TEXT:0006] 
 +[FID:8D, TEXT:0007] 
 
---- Group [left:主人公 next=0023] ---
+--- Group [left:none next=0023] ---
 足がすくむ・・・
 まったく勝てる気が
 しないなんて・・・
@@ -55,9 +55,17 @@
 --- Group [left:主人公 next=0023] ---
 このまま何もできずに
 世界は終わってしまう
-のか・・・！？
+の・・・
 +[FID:8D, TEXT:0011] 
 +[FID:8D, TEXT:0012] 
++[FID:8D, TEXT:0020] 
+
+--- Group [left:主人公 next=0023] ---
+このまま何もできずに
+世界は終わってしまう
+のか・・・！？
+-[FID:8D, TEXT:0011] 
+-[FID:8D, TEXT:0012] 
 +[FID:8D, TEXT:0013] 
 
 --- Group [left:主人公 next=0023] ---
@@ -67,14 +75,6 @@
 -[FID:8D, TEXT:0011] 
 +[FID:8D, TEXT:0019] 
 +[FID:8D, TEXT:001A] 
-
---- Group [left:主人公 next=0023] ---
-このまま何もできずに
-世界は終わってしまう
-の・・・
--[FID:8D, TEXT:0011] 
--[FID:8D, TEXT:0012] 
-+[FID:8D, TEXT:0020] 
 
 --- Group [left:主人公 next=2012] ---
 だめだ・・・
@@ -182,8 +182,14 @@
 
 --- Group [left:主人公 next=2012] ---
 あたし・・・
-ソルと約束したもの！
+悲鳴をあげていたの
 +[FID:8D, TEXT:0034] 
++[FID:8D, TEXT:0049] 
+
+--- Group [left:主人公 next=2012] ---
+あたし・・・
+ソルと約束したもの！
+-[FID:8D, TEXT:0034] 
 +[FID:8D, TEXT:0035] 
 
 --- Group [left:主人公 next=2012] ---
@@ -193,12 +199,6 @@
 -[FID:8D, TEXT:0034] 
 +[FID:8D, TEXT:0045] 
 +[FID:8D, TEXT:0046] 
-
---- Group [left:主人公 next=2012] ---
-あたし・・・
-悲鳴をあげていたの
--[FID:8D, TEXT:0034] 
-+[FID:8D, TEXT:0049] 
 
 --- Group [left:主人公 next=2012] ---
 あたし・・・
@@ -412,8 +412,14 @@
 
 --- Group [left:主人公 next=0023] ---
 大切なものたちを
-守らせて！
+俺に守らせてくれ！！
 +[FID:8D, TEXT:006E] 
++[FID:8D, TEXT:006F] 
+
+--- Group [left:主人公 next=0023] ---
+大切なものたちを
+守らせて！
+-[FID:8D, TEXT:006E] 
 +[FID:8D, TEXT:0079] 
 
 --- Group [left:主人公 next=0023] ---
@@ -428,24 +434,28 @@
 -[FID:8D, TEXT:006E] 
 +[FID:8D, TEXT:0072] 
 
---- Group [left:主人公 next=0023] ---
-大切なものたちを
-俺に守らせてくれ！！
--[FID:8D, TEXT:006E] 
-+[FID:8D, TEXT:006F] 
-
 --- Group [left:主人公 next=2012] ---
 僕に、約束を守らせて
 くれ・・・
 +[FID:8D, TEXT:0070] 
 +[FID:8D, TEXT:0071] 
 
+--- Group [left:主人公 next=0023] ---
+おねがい！
+あたしに
+大切なものたちを
+守らせて！！
++[FID:8D, TEXT:0073] 
++[FID:8D, TEXT:0074] 
+-[FID:8D, TEXT:006E] 
+-[FID:8D, TEXT:0076] 
+
 --- Group [left:主人公 next=2012] ---
 おねがい！
 あたしに
 約束をまもらせて！
-+[FID:8D, TEXT:0073] 
-+[FID:8D, TEXT:0074] 
+-[FID:8D, TEXT:0073] 
+-[FID:8D, TEXT:0074] 
 +[FID:8D, TEXT:0075] 
 
 --- Group [left:主人公 next=0023] ---
