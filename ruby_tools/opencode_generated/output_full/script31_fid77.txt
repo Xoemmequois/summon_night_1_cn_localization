@@ -46,13 +46,13 @@
 
 --- Group 11 [left:char_0004 next=0023] ---
 [FID:77, TEXT:001B] それは大丈夫
-[FID:77, TEXT:001C] なんとなくだけど、
-[FID:77, TEXT:001D] 俺にはわかるから
+[FID:77, TEXT:0020] なんとなくだけど
+[FID:77, TEXT:0021] わかるんだ
 
 --- Group 12 [left:char_0004 next=0023] ---
 [FID:77, TEXT:001B] それは大丈夫
-[FID:77, TEXT:0020] なんとなくだけど
-[FID:77, TEXT:0021] わかるんだ
+[FID:77, TEXT:001C] なんとなくだけど、
+[FID:77, TEXT:001D] 俺にはわかるから
 
 --- Group 13 [left:char_0004 next=0023] ---
 [FID:77, TEXT:001E] それは大丈夫だと思う
@@ -65,11 +65,14 @@
 [FID:77, TEXT:0024] す・・・なんとなく、
 [FID:77, TEXT:0025] なんですけれど・・
 
---- Group 15 [right:char_0016 next=2012] ---
+--- Group 15 [right:char_0021 next=2012] ---
+[FID:77, TEXT:0026] なんとなく、ねぇ？
+
+--- Group 16 [right:char_0016 next=2012] ---
 [FID:77, TEXT:0027] じゃあ、さっそく手に
 [FID:77, TEXT:0028] 入れに行こうぜ！
 
---- Group 16 [left:char_0012 next=2012] ---
+--- Group 17 [left:char_0012 next=2012] ---
 [FID:77, TEXT:0029] そうだな
 [FID:77, TEXT:002A] 準備が整い次第、
 [FID:77, TEXT:002B] 出発することにしよう

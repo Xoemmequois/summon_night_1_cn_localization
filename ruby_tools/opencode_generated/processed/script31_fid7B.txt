@@ -2,6 +2,12 @@
 うげ、何だよこれは？
 +[FID:7B, TEXT:0001] 
 
+--- Group [right:斯沃恩 next=2012] ---
+とんでもない大きさの
+建物ですね
++[FID:7B, TEXT:0002] 
++[FID:7B, TEXT:0003] 
+
 --- Group [right:洛卡斯 next=2012] ---
 荒野の果てに、こんな
 代物が転がっていたと
@@ -170,9 +176,9 @@
 
 --- Group [left:主人公 next=0023] ---
 これって
-ロボットなのか？
+ロボット・・・？
 +[FID:7B, TEXT:003E] 
-+[FID:7B, TEXT:003F] 
++[FID:7B, TEXT:0041] 
 
 --- Group [left:主人公 next=0023] ---
 これって
@@ -182,9 +188,9 @@
 
 --- Group [left:主人公 next=0023] ---
 これって
-ロボット・・・？
+ロボットなのか？
 -[FID:7B, TEXT:003E] 
-+[FID:7B, TEXT:0041] 
++[FID:7B, TEXT:003F] 
 
 --- Group [right:基尔 next=2012] ---
 まさか、ロレイラルの
@@ -226,6 +232,10 @@
 +[FID:7B, TEXT:004F] 
 +[FID:7B, TEXT:0050] 
 
+--- Group [left:斯沃恩 next=2012] ---
+そうだったんですか
++[FID:7B, TEXT:0051] 
+
 --- Group [left:佩尔戈 next=2012] ---
 すると、本来の守護者
 にあたるのは
@@ -266,13 +276,9 @@
 
 --- Group [left:主人公 next=0023] ---
 ああ、わかってる
-+[FID:7B, TEXT:005C] 
-
---- Group [left:主人公 next=0023] ---
-ああ、わかってる
 俺たちの力、しっかり
 見極めてくれよ
--[FID:7B, TEXT:005C] 
++[FID:7B, TEXT:005C] 
 +[FID:7B, TEXT:005D] 
 +[FID:7B, TEXT:005E] 
 
@@ -332,6 +338,10 @@
 +[FID:7B, TEXT:006F] 
 +[FID:7B, TEXT:0070] 
 
+--- Group [left:斯沃恩 next=2012] ---
+僕たちは構いません
++[FID:7B, TEXT:0071] 
+
 --- Group [left:赛萨里斯 next=2012] ---
 これから始まるのは、
 戦いで、殺し合いでは
@@ -374,13 +384,13 @@
 +[FID:7B, TEXT:0080] 
 +[FID:7B, TEXT:0081] 
 
---- Group [right:雷德 next=2012] ---
+--- Group [right:鼬 next=2012] ---
 大、丈夫ダ・・・
 エルジン・・・
 +[FID:7B, TEXT:0082] 
 -[FID:7B, TEXT:0068] 
 
---- Group [right:鼬 next=2012] ---
+--- Group [right:艾多斯 next=2012] ---
 コノ程度ノ損傷ナラバ
 自動的ニ修理デキル
 +[FID:7B, TEXT:0083] 
@@ -390,7 +400,7 @@
 ああ、よかった
 +[FID:7B, TEXT:0085] 
 
---- Group [right:艾多斯 next=2012] ---
+--- Group [right:鼬 next=2012] ---
 ドウシテ・・・
 +[FID:7B, TEXT:0086] 
 
@@ -406,15 +416,15 @@
 
 --- Group [left:主人公 next=2012] ---
 さっき、サイサリスが
-言ったでしょ
+言っただろう
 +[FID:7B, TEXT:008A] 
-+[FID:7B, TEXT:0090] 
++[FID:7B, TEXT:008B] 
 
 --- Group [left:主人公 next=2012] ---
 さっき、サイサリスが
-言っただろう
+言ったでしょ
 -[FID:7B, TEXT:008A] 
-+[FID:7B, TEXT:008B] 
++[FID:7B, TEXT:0090] 
 
 --- Group [left:主人公 next=0023] ---
 俺たちは試練を受けに
@@ -482,23 +492,23 @@
 
 --- Group [left:主人公 next=2012] ---
 エルゴを守るって役目
-は終わったんでしょ！
-戦う理由は
-ないんじゃない？
-+[FID:7B, TEXT:00A2] 
-+[FID:7B, TEXT:00AB] 
-+[FID:7B, TEXT:00AC] 
-+[FID:7B, TEXT:00AD] 
-
---- Group [left:主人公 next=2012] ---
-エルゴを守るって役目
 は終わったんだから、
 もう君たちが戦う必要
 はなくなった
--[FID:7B, TEXT:00A2] 
++[FID:7B, TEXT:00A2] 
 +[FID:7B, TEXT:00A3] 
 +[FID:7B, TEXT:00A4] 
 +[FID:7B, TEXT:00A5] 
+
+--- Group [left:主人公 next=2012] ---
+エルゴを守るって役目
+は終わったんでしょ！
+戦う理由は
+ないんじゃない？
+-[FID:7B, TEXT:00A2] 
++[FID:7B, TEXT:00AB] 
++[FID:7B, TEXT:00AC] 
++[FID:7B, TEXT:00AD] 
 
 --- Group [left:主人公 next=0023] ---
 どこかでさ、二人して
