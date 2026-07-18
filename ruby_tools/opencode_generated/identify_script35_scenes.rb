@@ -15,6 +15,12 @@
 # regB=1 分支设 c4[0x95]=3 → F9=8 → 0x0274 路径 → 0x03C3 → FID 0x85。
 # 注意不要把 0x95 设为 external: handle_0027 的 fork 不固化 case 值,
 # 会导致两个 FID 各得相同的文本 (完全 crossover)。
+#
+# FID 0x84 内缺失 TEXT (0x143-0x145, 0x157-0x159, 0x15E-0x160):
+#   三组门控模式相同: 0x0003 mode=4 c8[0x64/0x66/0x65] → 0x0022 反向跳转
+#   (idx=1540→1541, 1602→1603, 1623→1624)。逻辑: c8[var]!=0 才播放。
+#   这三个 c8 变量在 script35 内无写入,由引擎或其他脚本设定(吉布森专属
+#   台词分支旗标)。VM 默认为 0 → 全跳过。修复: 初始化时设 tbl_c8=1。
 # ============================================================
 
 require_relative "../commands_parse_tools"
@@ -53,6 +59,12 @@ def run_script35(commands, script_id)
   state.tbl_c4[0xC4] = 4
   state.tbl_c4[0xC3] = 4
   state.tbl_c4[0x93] = 0
+
+  # Gate-opening: c8[0x64/0x65/0x66] != 0 to play Gibson's alternate lines
+  # Gated by 0x0003 mode=4 + 0x0022 (idx 1540,1602,1623)
+  state.tbl_c8[0x64] = 1
+  state.tbl_c8[0x65] = 1
+  state.tbl_c8[0x66] = 1
 
   idx = manager.index_to_pc[0x012E]
   state.pc = idx || 127
@@ -113,3 +125,7 @@ puts
     puts "  FID 0x#{sprintf('%02X', fid)}: #{extracted_ids.size}/#{non_empty} texts extracted (#{coverage}), #{extracted&.size || 0} groups"
   end
 end
+
+# Check for any wider side effects from c8 gating — list all c8 reads that now pass
+puts "\n  c8 gate variables (forced to 1): 0x64, 0x65, 0x66"
+
