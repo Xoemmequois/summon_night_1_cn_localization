@@ -4,7 +4,7 @@
 +[FID:79, TEXT:0001] 
 +[FID:79, TEXT:0002] 
 
---- Group [right:鼬 next=2012] ---
+--- Group [right:none next=2012] ---
 イリアス様、
 もしかして
 ここは・・・
@@ -46,7 +46,7 @@
 なんだか物騒な話ね
 +[FID:79, TEXT:0011] 
 
---- Group [right:艾露卡 next=0023] ---
+--- Group [right:赛萨里斯 next=0023] ---
 なあ、アニキ
 剣の奥義を極めた竜っ
 て、なんのことだろ？
@@ -64,19 +64,19 @@
 
 --- Group [left:艾多斯 next=0023] ---
 うーん・・・
-竜が剣を使うなんて
-聞いたことないし
+まさか、竜が剣を使う
+わけはないし・・・
 +[FID:79, TEXT:0016] 
-+[FID:79, TEXT:001C] 
-+[FID:79, TEXT:001D] 
++[FID:79, TEXT:0017] 
++[FID:79, TEXT:0018] 
 
 --- Group [left:艾多斯 next=0023] ---
 うーん・・・
-まさか、竜が剣を使う
-わけはないし・・・
+竜が剣を使うなんて
+聞いたことないし
 -[FID:79, TEXT:0016] 
-+[FID:79, TEXT:0017] 
-+[FID:79, TEXT:0018] 
++[FID:79, TEXT:001C] 
++[FID:79, TEXT:001D] 
 
 --- Group [left:艾多斯 next=0023] ---
 さあね
@@ -252,22 +252,12 @@
 +[FID:79, TEXT:0053] 
 +[FID:79, TEXT:0054] 
 
---- Group [right:基尔 next=2012] ---
-この世界における騎士
-のようなものだ
-しかし、独特の剣術を
-身につけている
-+[FID:79, TEXT:0055] 
-+[FID:79, TEXT:0056] 
-+[FID:79, TEXT:0057] 
-+[FID:79, TEXT:0058] 
-
 --- Group [right:克拉雷特 next=2012] ---
 この世界における騎士
 のようなものです
 しかも、独特の剣術を
 身につけています
--[FID:79, TEXT:0055] 
++[FID:79, TEXT:0055] 
 +[FID:79, TEXT:005C] 
 +[FID:79, TEXT:005D] 
 +[FID:79, TEXT:005E] 
@@ -282,6 +272,16 @@
 +[FID:79, TEXT:005A] 
 +[FID:79, TEXT:005B] 
 
+--- Group [right:基尔 next=2012] ---
+この世界における騎士
+のようなものだ
+しかし、独特の剣術を
+身につけている
+-[FID:79, TEXT:0055] 
++[FID:79, TEXT:0056] 
++[FID:79, TEXT:0057] 
++[FID:79, TEXT:0058] 
+
 --- Group [left:艾多斯 next=2012] ---
 異界の剣術、か
 それも、かなり訓練を
@@ -290,13 +290,13 @@
 +[FID:79, TEXT:0060] 
 +[FID:79, TEXT:0061] 
 
---- Group [right:索尔 next=2012] ---
+--- Group [right:卡西斯 next=2012] ---
 それがわかるならば、
 お主には納得できよう
 +[FID:79, TEXT:0062] 
 +[FID:79, TEXT:0063] 
 
---- Group [right:卡西斯 next=2012] ---
+--- Group [right:索尔 next=2012] ---
 拙者の腕をもってして
 も、剣竜には勝てぬ
 ましてや・・・
@@ -354,7 +354,7 @@
 ・・・・・・
 +[FID:79, TEXT:0077] 
 
---- Group [right:索尔 next=2012] ---
+--- Group [right:克拉雷特 next=2012] ---
 どうやら、それなりの
 事情があるようで
 ござるな
@@ -368,7 +368,7 @@
 +[FID:79, TEXT:007B] 
 +[FID:79, TEXT:007C] 
 
---- Group [right:索尔 next=2012] ---
+--- Group [right:克拉雷特 next=2012] ---
 なるほど、事情は承知
 したでござる
 +[FID:79, TEXT:007D] 
@@ -406,7 +406,7 @@
 +[FID:79, TEXT:0087] 
 +[FID:79, TEXT:0088] 
 
---- Group [right:索尔 next=2012] ---
+--- Group [right:卡西斯 next=2012] ---
 ただし、拙者も剣竜と
 の戦いに加えてもらう
 ことが条件でござる
@@ -414,7 +414,7 @@
 +[FID:79, TEXT:008A] 
 +[FID:79, TEXT:008B] 
 
---- Group [right:基尔 next=2012] ---
+--- Group [right:克拉雷特 next=2012] ---
 これまで拙者が目標と
 していた相手だ
 これだけはゆずれぬ
@@ -488,7 +488,7 @@
 +[FID:79, TEXT:00A3] 
 +[FID:79, TEXT:00A4] 
 
---- Group [right:雷德 next=2012] ---
+--- Group [right:none next=2012] ---
 まさか、本当に剣竜を
 倒してしまうとはな
 +[FID:79, TEXT:00A5] 
@@ -496,9 +496,9 @@
 
 --- Group [left:主人公 next=0023] ---
 カザミネさんの助けが
-あったからですよ
+あったからです・・・
 +[FID:79, TEXT:00A7] 
-+[FID:79, TEXT:00A8] 
++[FID:79, TEXT:00AC] 
 
 --- Group [left:主人公 next=0023] ---
 カザミネさんの助けが
@@ -508,9 +508,9 @@
 
 --- Group [left:主人公 next=0023] ---
 カザミネさんの助けが
-あったからです・・・
+あったからですよ
 -[FID:79, TEXT:00A7] 
-+[FID:79, TEXT:00AC] 
++[FID:79, TEXT:00A8] 
 
 --- Group [left:主人公 next=0023] ---
 貴方の助けがあったか
@@ -524,7 +524,7 @@
 +[FID:79, TEXT:00AD] 
 +[FID:79, TEXT:00AE] 
 
---- Group [right:雷德 next=2012] ---
+--- Group [right:none next=2012] ---
 さて、な
 また別の場所で剣術の
 修行でもするか・・・
@@ -532,7 +532,7 @@
 +[FID:79, TEXT:00B0] 
 +[FID:79, TEXT:00B1] 
 
---- Group [right:雷德 next=2012] ---
+--- Group [right:none next=2012] ---
 あるいは、お主らの力
 になるというのも一興
 かもしれんな
@@ -550,7 +550,7 @@
 +[FID:79, TEXT:00B6] 
 -[FID:79, TEXT:00B5] 
 
---- Group [right:雷德 next=2012] ---
+--- Group [right:none next=2012] ---
 お主たちさえ良ければ
 +[FID:79, TEXT:00B7] 
 

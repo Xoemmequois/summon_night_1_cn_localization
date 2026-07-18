@@ -6,716 +6,634 @@
 [FID:79, TEXT:0001] こりゃまた、
 [FID:79, TEXT:0002] 険しい山だなあ
 
---- Group 3 [left:char_0014 next=2012] ---
-[FID:79, TEXT:0001] こりゃまた、
-[FID:79, TEXT:0002] 険しい山だなあ
-
---- Group 4 [left:char_0014 next=2012] ---
-[FID:79, TEXT:0001] こりゃまた、
-[FID:79, TEXT:0002] 険しい山だなあ
-
---- Group 5 [right:char_002E next=2012] ---
+--- Group 3 [right:none next=2012] ---
 [FID:79, TEXT:0003] イリアス様、
 [FID:79, TEXT:0004] もしかして
 [FID:79, TEXT:0005] ここは・・・
 
---- Group 6 [right:char_0025 next=2012] ---
+--- Group 4 [right:char_0014 next=2012] ---
 [FID:79, TEXT:0003] イリアス様、
 [FID:79, TEXT:0004] もしかして
 [FID:79, TEXT:0005] ここは・・・
 
---- Group 7 [right:char_0012 next=2012] ---
-[FID:79, TEXT:0003] イリアス様、
-[FID:79, TEXT:0004] もしかして
-[FID:79, TEXT:0005] ここは・・・
-
---- Group 8 [right:char_0024 next=2012] ---
-[FID:79, TEXT:0003] イリアス様、
-[FID:79, TEXT:0004] もしかして
-[FID:79, TEXT:0005] ここは・・・
-
---- Group 9 [left:char_0014 next=2012] ---
+--- Group 5 [left:char_0014 next=2012] ---
 [FID:79, TEXT:0006] ああ、間違いない
 [FID:79, TEXT:0007] 多分ここは、剣竜の峰
 [FID:79, TEXT:0008] と呼ばれる場所だろう
 
---- Group 10 [left:char_0014 next=2012] ---
+--- Group 6 [left:char_0014 next=2012] ---
 [FID:79, TEXT:0006] ああ、間違いない
 [FID:79, TEXT:0007] 多分ここは、剣竜の峰
 [FID:79, TEXT:0008] と呼ばれる場所だろう
 
---- Group 11 [left:char_0014 next=2012] ---
-[FID:79, TEXT:0006] ああ、間違いない
-[FID:79, TEXT:0007] 多分ここは、剣竜の峰
-[FID:79, TEXT:0008] と呼ばれる場所だろう
-
---- Group 12 [left:char_0014 next=2012] ---
-[FID:79, TEXT:0006] ああ、間違いない
-[FID:79, TEXT:0007] 多分ここは、剣竜の峰
-[FID:79, TEXT:0008] と呼ばれる場所だろう
-
---- Group 13 [right:char_0016 next=2012] ---
+--- Group 7 [right:char_0016 next=2012] ---
 [FID:79, TEXT:0009] 剣竜？
 
---- Group 14 [left:char_0014 next=2012] ---
+--- Group 8 [left:char_0014 next=2012] ---
 [FID:79, TEXT:000A] 剣士たちに昔から伝わ
 [FID:79, TEXT:000B] っている話に出てくる
 [FID:79, TEXT:000C] 場所だよ
 
---- Group 15 [right:char_0023 next=2012] ---
+--- Group 9 [right:char_0023 next=2012] ---
 [FID:79, TEXT:000D] 剣の奥義を極めし竜、
 [FID:79, TEXT:000E] 彼の地にて眠る
 [FID:79, TEXT:000F] 数多の剣士が挑むも
 [FID:79, TEXT:0010] 未だ帰らず・・・
 
---- Group 16 [right:char_0021 next=2012] ---
+--- Group 10 [right:char_0021 next=2012] ---
 [FID:79, TEXT:0011] なんだか物騒な話ね
 
---- Group 17 [right:char_0021 next=0023] ---
+--- Group 11 [right:char_0023 next=0023] ---
 [FID:79, TEXT:0012] なあ、アニキ
 [FID:79, TEXT:0013] 剣の奥義を極めた竜っ
 [FID:79, TEXT:0014] て、なんのことだろ？
 
---- Group 18 [right:char_0023 next=0023] ---
+--- Group 12 [right:char_0021 next=0023] ---
 [FID:79, TEXT:0012] なあ、アニキ
 [FID:79, TEXT:0013] 剣の奥義を極めた竜っ
 [FID:79, TEXT:0014] て、なんのことだろ？
 
---- Group 19 [right:char_0023 next=2012] ---
+--- Group 13 [right:char_0023 next=2012] ---
 [FID:79, TEXT:0015] なあ、アネゴ
 [FID:79, TEXT:0013] 剣の奥義を極めた竜っ
 [FID:79, TEXT:0014] て、なんのことだろ？
 
---- Group 20 [right:char_0021 next=2012] ---
+--- Group 14 [right:char_0021 next=2012] ---
 [FID:79, TEXT:0015] なあ、アネゴ
 [FID:79, TEXT:0013] 剣の奥義を極めた竜っ
 [FID:79, TEXT:0014] て、なんのことだろ？
+
+--- Group 15 [left:char_0014 next=0023] ---
+[FID:79, TEXT:0016] うーん・・・
+[FID:79, TEXT:0017] まさか、竜が剣を使う
+[FID:79, TEXT:0018] わけはないし・・・
+
+--- Group 16 [left:char_0014 next=0023] ---
+[FID:79, TEXT:0016] うーん・・・
+[FID:79, TEXT:0017] まさか、竜が剣を使う
+[FID:79, TEXT:0018] わけはないし・・・
+
+--- Group 17 [left:char_0014 next=0023] ---
+[FID:79, TEXT:0016] うーん・・・
+[FID:79, TEXT:001C] 竜が剣を使うなんて
+[FID:79, TEXT:001D] 聞いたことないし
+
+--- Group 18 [left:char_0014 next=0023] ---
+[FID:79, TEXT:0016] うーん・・・
+[FID:79, TEXT:001C] 竜が剣を使うなんて
+[FID:79, TEXT:001D] 聞いたことないし
+
+--- Group 19 [left:char_0014 next=0023] ---
+[FID:79, TEXT:0019] さあね
+[FID:79, TEXT:001A] だけど、まさか竜が
+[FID:79, TEXT:001B] 剣を使うわけは・・・
+
+--- Group 20 [left:char_0014 next=0023] ---
+[FID:79, TEXT:0019] さあね
+[FID:79, TEXT:001A] だけど、まさか竜が
+[FID:79, TEXT:001B] 剣を使うわけは・・・
 
 --- Group 21 [left:char_0014 next=0023] ---
-[FID:79, TEXT:0016] うーん・・・
-[FID:79, TEXT:001C] 竜が剣を使うなんて
-[FID:79, TEXT:001D] 聞いたことないし
+[FID:79, TEXT:001E] わかりません、剣を
+[FID:79, TEXT:001F] 使う龍なんて、想像
+[FID:79, TEXT:0020] できませんし・・・
 
 --- Group 22 [left:char_0014 next=0023] ---
-[FID:79, TEXT:0016] うーん・・・
-[FID:79, TEXT:001C] 竜が剣を使うなんて
-[FID:79, TEXT:001D] 聞いたことないし
-
---- Group 23 [left:char_0014 next=0023] ---
-[FID:79, TEXT:0016] うーん・・・
-[FID:79, TEXT:0017] まさか、竜が剣を使う
-[FID:79, TEXT:0018] わけはないし・・・
-
---- Group 24 [left:char_0014 next=0023] ---
-[FID:79, TEXT:0016] うーん・・・
-[FID:79, TEXT:0017] まさか、竜が剣を使う
-[FID:79, TEXT:0018] わけはないし・・・
-
---- Group 25 [left:char_0014 next=0023] ---
-[FID:79, TEXT:0019] さあね
-[FID:79, TEXT:001A] だけど、まさか竜が
-[FID:79, TEXT:001B] 剣を使うわけは・・・
-
---- Group 26 [left:char_0014 next=0023] ---
-[FID:79, TEXT:0019] さあね
-[FID:79, TEXT:001A] だけど、まさか竜が
-[FID:79, TEXT:001B] 剣を使うわけは・・・
-
---- Group 27 [left:char_0014 next=0023] ---
 [FID:79, TEXT:001E] わかりません、剣を
 [FID:79, TEXT:001F] 使う龍なんて、想像
 [FID:79, TEXT:0020] できませんし・・・
 
---- Group 28 [left:char_0014 next=0023] ---
-[FID:79, TEXT:001E] わかりません、剣を
-[FID:79, TEXT:001F] 使う龍なんて、想像
-[FID:79, TEXT:0020] できませんし・・・
-
---- Group 29 [right:char_0027 next=2012] ---
+--- Group 23 [right:char_0027 next=2012] ---
 [FID:79, TEXT:0021] 使うのでござるよ
 
---- Group 30 [right:char_0027 next=2012] ---
+--- Group 24 [right:char_0027 next=2012] ---
 [FID:79, TEXT:0022] 剣竜はその不思議な力
 [FID:79, TEXT:0023] で、触れることなく
 [FID:79, TEXT:0024] 剣を操るのでござる
 
---- Group 31 [left:char_0004 next=0023] ---
+--- Group 25 [left:char_0004 next=0023] ---
 [FID:79, TEXT:0025] あの、貴方は？
 
---- Group 32 [left:char_0004 next=0023] ---
+--- Group 26 [left:char_0004 next=0023] ---
 [FID:79, TEXT:0026] 貴方は？
 
---- Group 33 [left:char_0004 next=0023] ---
+--- Group 27 [left:char_0004 next=0023] ---
 [FID:79, TEXT:0027] あなたは・・・
 [FID:79, TEXT:0028] だれですか？
 
---- Group 34 [right:char_0027 next=2012] ---
+--- Group 28 [right:char_0027 next=2012] ---
 [FID:79, TEXT:0029] 拙者の名はカザミネ
 [FID:79, TEXT:002A] この山で修行しておる
 [FID:79, TEXT:002B] 剣士でござるよ
 
---- Group 35 [left:char_001C next=2012] ---
+--- Group 29 [left:char_001C next=2012] ---
 [FID:79, TEXT:002C] それでは、貴方がここ
 [FID:79, TEXT:002D] のエルゴの守護者なの
 [FID:79, TEXT:002E] ですか？
 
---- Group 36 [right:char_0027 next=2012] ---
+--- Group 30 [right:char_0027 next=2012] ---
 [FID:79, TEXT:002F] えるご・・・？
 [FID:79, TEXT:0030] そのように面妖な
 [FID:79, TEXT:0031] 名前のものは知らぬが
 
---- Group 37 [right:char_0027 next=2012] ---
+--- Group 31 [right:char_0027 next=2012] ---
 [FID:79, TEXT:0032] 剣竜の守るという
 [FID:79, TEXT:0033] 宝のことかも知れぬな
 
---- Group 38 [right:char_0016 next=2012] ---
+--- Group 32 [right:char_0016 next=2012] ---
 [FID:79, TEXT:0034] きっとそいつだぜ！
 
---- Group 39 [left:char_0018 next=2012] ---
+--- Group 33 [left:char_0018 next=2012] ---
 [FID:79, TEXT:0035] ならば、やはり剣竜と
 [FID:79, TEXT:0036] の戦いは避けられんな
 
---- Group 40 [right:char_0016 next=2012] ---
+--- Group 34 [right:char_0016 next=2012] ---
 [FID:79, TEXT:0037] お主ら、まさか剣竜と
 [FID:79, TEXT:0038] 戦うつもりか？
 
---- Group 41 [left:char_0018 next=0023] ---
+--- Group 35 [left:char_0018 next=0023] ---
 [FID:79, TEXT:0039] そうですけど
 
---- Group 42 [left:char_0018 next=0023] ---
+--- Group 36 [left:char_0018 next=0023] ---
 [FID:79, TEXT:003A] そうです
 
---- Group 43 [left:char_0018 next=0023] ---
+--- Group 37 [left:char_0018 next=0023] ---
 [FID:79, TEXT:003B] そのつもりですけど
 
---- Group 44 [right:char_0016 next=2012] ---
+--- Group 38 [right:char_0016 next=2012] ---
 [FID:79, TEXT:003C] やめておけ
 [FID:79, TEXT:003D] 生半可な腕では、
 [FID:79, TEXT:003E] 絶対に勝てはせん
 
---- Group 45 [left:char_0022 next=2012] ---
+--- Group 39 [left:char_0022 next=2012] ---
 [FID:79, TEXT:003F] それは、自分たちの剣
 [FID:79, TEXT:0040] に対する侮辱ですか？
 
---- Group 46 [right:char_0016 next=2012] ---
+--- Group 40 [right:char_0016 next=2012] ---
 [FID:79, TEXT:0041] 侮辱ではござらん
 [FID:79, TEXT:0042] 拙者はただ真実を口に
 [FID:79, TEXT:0043] したまで・・・
 
---- Group 47 [left:char_0022 next=2012] ---
+--- Group 41 [left:char_0022 next=2012] ---
 [FID:79, TEXT:0044] ならば、真実かどうか
 [FID:79, TEXT:0045] 確かめてみるがいい！
 
---- Group 48 [left:char_0012 next=2012] ---
+--- Group 42 [left:char_0012 next=2012] ---
 [FID:79, TEXT:0046] よせ、イリアス！
 
---- Group 49 [left:char_0022 next=2012] ---
+--- Group 43 [left:char_0022 next=2012] ---
 [FID:79, TEXT:0047] うあっ！！
 
---- Group 50 [right:char_0016 next=2012] ---
+--- Group 44 [right:char_0016 next=2012] ---
 [FID:79, TEXT:0048] ・・・納得したか？
 
---- Group 51 [left:char_0004 next=0023] ---
+--- Group 45 [left:char_0004 next=0023] ---
 [FID:79, TEXT:0049] 剣を抜くのが
 [FID:79, TEXT:004A] 見えなかった！？
 
---- Group 52 [left:char_0004 next=0023] ---
+--- Group 46 [left:char_0004 next=0023] ---
 [FID:79, TEXT:004B] うそ・・・
 [FID:79, TEXT:004C] 剣を抜いたのが
 [FID:79, TEXT:004A] 見えなかった！？
 
---- Group 53 [right:char_001F next=2012] ---
+--- Group 47 [right:char_001F next=2012] ---
 [FID:79, TEXT:004E] こいつ、シルターンの
 [FID:79, TEXT:004F] 侍だよっ！
 
---- Group 54 [left:char_0014 next=2012] ---
+--- Group 48 [left:char_0014 next=2012] ---
 [FID:79, TEXT:0050] サムライ？
 
---- Group 55 [right:char_0008 next=2012] ---
+--- Group 49 [right:char_0008 next=2012] ---
 [FID:79, TEXT:0051] この世界の騎士
 [FID:79, TEXT:0052] みたいなもんだ
 [FID:79, TEXT:0053] しかし・・・この剣術
 [FID:79, TEXT:0054] は独特だよな
 
---- Group 56 [right:char_0009 next=2012] ---
-[FID:79, TEXT:0055] この世界における騎士
-[FID:79, TEXT:0056] のようなものだ
-[FID:79, TEXT:0057] しかし、独特の剣術を
-[FID:79, TEXT:0058] 身につけている
-
---- Group 57 [right:char_000B next=2012] ---
+--- Group 50 [right:char_000B next=2012] ---
 [FID:79, TEXT:0055] この世界における騎士
 [FID:79, TEXT:005C] のようなものです
 [FID:79, TEXT:005D] しかも、独特の剣術を
 [FID:79, TEXT:005E] 身につけています
 
---- Group 58 [right:char_000A next=2012] ---
+--- Group 51 [right:char_000A next=2012] ---
 [FID:79, TEXT:0055] この世界における騎士
 [FID:79, TEXT:0059] のようなものだよ
 [FID:79, TEXT:005A] だけど、独特の剣術を
 [FID:79, TEXT:005B] 使うんだ
 
---- Group 59 [left:char_0014 next=2012] ---
+--- Group 52 [right:char_0009 next=2012] ---
+[FID:79, TEXT:0055] この世界における騎士
+[FID:79, TEXT:0056] のようなものだ
+[FID:79, TEXT:0057] しかし、独特の剣術を
+[FID:79, TEXT:0058] 身につけている
+
+--- Group 53 [left:char_0014 next=2012] ---
 [FID:79, TEXT:005F] 異界の剣術、か
 [FID:79, TEXT:0060] それも、かなり訓練を
 [FID:79, TEXT:0061] 積んでいるな
 
---- Group 60 [left:char_0014 next=2012] ---
+--- Group 54 [left:char_0014 next=2012] ---
 [FID:79, TEXT:005F] 異界の剣術、か
 [FID:79, TEXT:0060] それも、かなり訓練を
 [FID:79, TEXT:0061] 積んでいるな
 
---- Group 61 [left:char_0014 next=2012] ---
+--- Group 55 [left:char_0014 next=2012] ---
 [FID:79, TEXT:005F] 異界の剣術、か
 [FID:79, TEXT:0060] それも、かなり訓練を
 [FID:79, TEXT:0061] 積んでいるな
 
---- Group 62 [left:char_0014 next=2012] ---
+--- Group 56 [left:char_0014 next=2012] ---
 [FID:79, TEXT:005F] 異界の剣術、か
 [FID:79, TEXT:0060] それも、かなり訓練を
 [FID:79, TEXT:0061] 積んでいるな
 
---- Group 63 [right:char_0008 next=2012] ---
+--- Group 57 [right:char_000A next=2012] ---
 [FID:79, TEXT:0062] それがわかるならば、
 [FID:79, TEXT:0063] お主には納得できよう
 
---- Group 64 [right:char_000A next=2012] ---
+--- Group 58 [right:char_000B next=2012] ---
 [FID:79, TEXT:0062] それがわかるならば、
 [FID:79, TEXT:0063] お主には納得できよう
 
---- Group 65 [right:char_000B next=2012] ---
+--- Group 59 [right:char_0009 next=2012] ---
 [FID:79, TEXT:0062] それがわかるならば、
 [FID:79, TEXT:0063] お主には納得できよう
 
---- Group 66 [right:char_0009 next=2012] ---
+--- Group 60 [right:char_0008 next=2012] ---
 [FID:79, TEXT:0062] それがわかるならば、
 [FID:79, TEXT:0063] お主には納得できよう
+
+--- Group 61 [right:char_0008 next=2012] ---
+[FID:79, TEXT:0064] 拙者の腕をもってして
+[FID:79, TEXT:0065] も、剣竜には勝てぬ
+[FID:79, TEXT:0066] ましてや・・・
+
+--- Group 62 [right:char_0009 next=2012] ---
+[FID:79, TEXT:0064] 拙者の腕をもってして
+[FID:79, TEXT:0065] も、剣竜には勝てぬ
+[FID:79, TEXT:0066] ましてや・・・
+
+--- Group 63 [right:char_000A next=2012] ---
+[FID:79, TEXT:0064] 拙者の腕をもってして
+[FID:79, TEXT:0065] も、剣竜には勝てぬ
+[FID:79, TEXT:0066] ましてや・・・
+
+--- Group 64 [right:char_000B next=2012] ---
+[FID:79, TEXT:0064] 拙者の腕をもってして
+[FID:79, TEXT:0065] も、剣竜には勝てぬ
+[FID:79, TEXT:0066] ましてや・・・
+
+--- Group 65 [right:char_0009 next=2012] ---
+[FID:79, TEXT:0067] 拙者ごときに負けるの
+[FID:79, TEXT:0068] では、剣竜を倒すこと
+[FID:79, TEXT:0069] など夢のまた夢
+
+--- Group 66 [right:char_000B next=2012] ---
+[FID:79, TEXT:0067] 拙者ごときに負けるの
+[FID:79, TEXT:0068] では、剣竜を倒すこと
+[FID:79, TEXT:0069] など夢のまた夢
 
 --- Group 67 [right:char_000A next=2012] ---
-[FID:79, TEXT:0064] 拙者の腕をもってして
-[FID:79, TEXT:0065] も、剣竜には勝てぬ
-[FID:79, TEXT:0066] ましてや・・・
-
---- Group 68 [right:char_0009 next=2012] ---
-[FID:79, TEXT:0064] 拙者の腕をもってして
-[FID:79, TEXT:0065] も、剣竜には勝てぬ
-[FID:79, TEXT:0066] ましてや・・・
-
---- Group 69 [right:char_000B next=2012] ---
-[FID:79, TEXT:0064] 拙者の腕をもってして
-[FID:79, TEXT:0065] も、剣竜には勝てぬ
-[FID:79, TEXT:0066] ましてや・・・
-
---- Group 70 [right:char_0008 next=2012] ---
-[FID:79, TEXT:0064] 拙者の腕をもってして
-[FID:79, TEXT:0065] も、剣竜には勝てぬ
-[FID:79, TEXT:0066] ましてや・・・
-
---- Group 71 [right:char_0009 next=2012] ---
 [FID:79, TEXT:0067] 拙者ごときに負けるの
 [FID:79, TEXT:0068] では、剣竜を倒すこと
 [FID:79, TEXT:0069] など夢のまた夢
 
---- Group 72 [right:char_000A next=2012] ---
+--- Group 68 [right:char_0008 next=2012] ---
 [FID:79, TEXT:0067] 拙者ごときに負けるの
 [FID:79, TEXT:0068] では、剣竜を倒すこと
 [FID:79, TEXT:0069] など夢のまた夢
 
---- Group 73 [right:char_0008 next=2012] ---
-[FID:79, TEXT:0067] 拙者ごときに負けるの
-[FID:79, TEXT:0068] では、剣竜を倒すこと
-[FID:79, TEXT:0069] など夢のまた夢
-
---- Group 74 [right:char_000B next=2012] ---
-[FID:79, TEXT:0067] 拙者ごときに負けるの
-[FID:79, TEXT:0068] では、剣竜を倒すこと
-[FID:79, TEXT:0069] など夢のまた夢
-
---- Group 75 [left:char_0022 next=2012] ---
+--- Group 69 [left:char_0022 next=2012] ---
 [FID:79, TEXT:006A] くっ・・・
 
---- Group 76 [left:char_0022 next=2012] ---
+--- Group 70 [left:char_0022 next=2012] ---
 [FID:79, TEXT:006A] くっ・・・
 
---- Group 77 [left:char_0022 next=2012] ---
+--- Group 71 [left:char_0022 next=2012] ---
 [FID:79, TEXT:006A] くっ・・・
 
---- Group 78 [left:char_0022 next=2012] ---
+--- Group 72 [left:char_0022 next=2012] ---
 [FID:79, TEXT:006A] くっ・・・
 
---- Group 79 [left:char_0004 next=0023] ---
+--- Group 73 [left:char_0004 next=0023] ---
 [FID:79, TEXT:006B] だけど、俺たちは剣竜
 [FID:79, TEXT:006C] にどうしても勝たなく
 [FID:79, TEXT:006D] ちゃならないんだ！
 
---- Group 80 [left:char_0004 next=0023] ---
+--- Group 74 [left:char_0004 next=0023] ---
 [FID:79, TEXT:006B] だけど、俺たちは剣竜
 [FID:79, TEXT:006C] にどうしても勝たなく
 [FID:79, TEXT:006D] ちゃならないんだ！
 
---- Group 81 [left:char_0004 next=0023] ---
+--- Group 75 [left:char_0004 next=0023] ---
 [FID:79, TEXT:006B] だけど、俺たちは剣竜
 [FID:79, TEXT:006C] にどうしても勝たなく
 [FID:79, TEXT:006D] ちゃならないんだ！
 
---- Group 82 [left:char_0004 next=0023] ---
+--- Group 76 [left:char_0004 next=0023] ---
 [FID:79, TEXT:006B] だけど、俺たちは剣竜
 [FID:79, TEXT:006C] にどうしても勝たなく
 [FID:79, TEXT:006D] ちゃならないんだ！
 
---- Group 83 [left:char_0004 next=0023] ---
+--- Group 77 [left:char_0004 next=0023] ---
 [FID:79, TEXT:006E] しかし、僕たちは剣竜
 [FID:79, TEXT:006C] にどうしても勝たなく
 [FID:79, TEXT:006F] てはならないんです
 
---- Group 84 [left:char_0004 next=0023] ---
+--- Group 78 [left:char_0004 next=0023] ---
 [FID:79, TEXT:0070] でも、あたしたちは
 [FID:79, TEXT:0071] 剣竜に勝たなきゃ
 [FID:79, TEXT:0072] いけないんだから！
 
---- Group 85 [left:char_0004 next=0023] ---
+--- Group 79 [left:char_0004 next=0023] ---
 [FID:79, TEXT:0073] でも、わたしたち
 [FID:79, TEXT:0074] 剣竜と、どうしても
 [FID:79, TEXT:0075] 戦わなくては
 [FID:79, TEXT:0076] ならないんです
 
---- Group 86 [right:char_000B next=2012] ---
+--- Group 80 [right:char_000B next=2012] ---
 [FID:79, TEXT:0077] ・・・・・・
 
---- Group 87 [right:char_0009 next=2012] ---
+--- Group 81 [right:char_0008 next=2012] ---
 [FID:79, TEXT:0077] ・・・・・・
+
+--- Group 82 [right:char_000A next=2012] ---
+[FID:79, TEXT:0077] ・・・・・・
+
+--- Group 83 [right:char_0009 next=2012] ---
+[FID:79, TEXT:0077] ・・・・・・
+
+--- Group 84 [right:char_000B next=2012] ---
+[FID:79, TEXT:0078] どうやら、それなりの
+[FID:79, TEXT:0079] 事情があるようで
+[FID:79, TEXT:007A] ござるな
+
+--- Group 85 [right:char_0009 next=2012] ---
+[FID:79, TEXT:0078] どうやら、それなりの
+[FID:79, TEXT:0079] 事情があるようで
+[FID:79, TEXT:007A] ござるな
+
+--- Group 86 [right:char_000A next=2012] ---
+[FID:79, TEXT:0078] どうやら、それなりの
+[FID:79, TEXT:0079] 事情があるようで
+[FID:79, TEXT:007A] ござるな
+
+--- Group 87 [right:char_0008 next=2012] ---
+[FID:79, TEXT:0078] どうやら、それなりの
+[FID:79, TEXT:0079] 事情があるようで
+[FID:79, TEXT:007A] ござるな
 
 --- Group 88 [right:char_0008 next=2012] ---
-[FID:79, TEXT:0077] ・・・・・・
+[FID:79, TEXT:007B] よければ、詳しく話を
+[FID:79, TEXT:007C] 聞かせてもらえぬか？
 
---- Group 89 [right:char_000A next=2012] ---
-[FID:79, TEXT:0077] ・・・・・・
+--- Group 89 [right:char_0009 next=2012] ---
+[FID:79, TEXT:007B] よければ、詳しく話を
+[FID:79, TEXT:007C] 聞かせてもらえぬか？
 
---- Group 90 [right:char_0008 next=2012] ---
-[FID:79, TEXT:0078] どうやら、それなりの
-[FID:79, TEXT:0079] 事情があるようで
-[FID:79, TEXT:007A] ござるな
+--- Group 90 [right:char_000A next=2012] ---
+[FID:79, TEXT:007B] よければ、詳しく話を
+[FID:79, TEXT:007C] 聞かせてもらえぬか？
 
---- Group 91 [right:char_0009 next=2012] ---
-[FID:79, TEXT:0078] どうやら、それなりの
-[FID:79, TEXT:0079] 事情があるようで
-[FID:79, TEXT:007A] ござるな
+--- Group 91 [right:char_000B next=2012] ---
+[FID:79, TEXT:007B] よければ、詳しく話を
+[FID:79, TEXT:007C] 聞かせてもらえぬか？
 
 --- Group 92 [right:char_000B next=2012] ---
-[FID:79, TEXT:0078] どうやら、それなりの
-[FID:79, TEXT:0079] 事情があるようで
-[FID:79, TEXT:007A] ござるな
+[FID:79, TEXT:007D] なるほど、事情は承知
+[FID:79, TEXT:007E] したでござる
 
---- Group 93 [right:char_000A next=2012] ---
-[FID:79, TEXT:0078] どうやら、それなりの
-[FID:79, TEXT:0079] 事情があるようで
-[FID:79, TEXT:007A] ござるな
+--- Group 93 [right:char_0009 next=2012] ---
+[FID:79, TEXT:007D] なるほど、事情は承知
+[FID:79, TEXT:007E] したでござる
 
 --- Group 94 [right:char_0008 next=2012] ---
-[FID:79, TEXT:007B] よければ、詳しく話を
-[FID:79, TEXT:007C] 聞かせてもらえぬか？
-
---- Group 95 [right:char_0009 next=2012] ---
-[FID:79, TEXT:007B] よければ、詳しく話を
-[FID:79, TEXT:007C] 聞かせてもらえぬか？
-
---- Group 96 [right:char_000B next=2012] ---
-[FID:79, TEXT:007B] よければ、詳しく話を
-[FID:79, TEXT:007C] 聞かせてもらえぬか？
-
---- Group 97 [right:char_000A next=2012] ---
-[FID:79, TEXT:007B] よければ、詳しく話を
-[FID:79, TEXT:007C] 聞かせてもらえぬか？
-
---- Group 98 [right:char_0008 next=2012] ---
 [FID:79, TEXT:007D] なるほど、事情は承知
 [FID:79, TEXT:007E] したでござる
 
---- Group 99 [right:char_000B next=2012] ---
+--- Group 95 [right:char_000A next=2012] ---
 [FID:79, TEXT:007D] なるほど、事情は承知
 [FID:79, TEXT:007E] したでござる
 
---- Group 100 [right:char_000A next=2012] ---
-[FID:79, TEXT:007D] なるほど、事情は承知
-[FID:79, TEXT:007E] したでござる
-
---- Group 101 [right:char_0009 next=2012] ---
-[FID:79, TEXT:007D] なるほど、事情は承知
-[FID:79, TEXT:007E] したでござる
-
---- Group 102 [right:char_000A next=2012] ---
+--- Group 96 [right:char_000A next=2012] ---
 [FID:79, TEXT:007F] お主たちが剣竜に勝て
 [FID:79, TEXT:0080] なければ、この世界が
 [FID:79, TEXT:0081] 危ないのでござるな？
 
---- Group 103 [right:char_0008 next=2012] ---
+--- Group 97 [right:char_0008 next=2012] ---
 [FID:79, TEXT:007F] お主たちが剣竜に勝て
 [FID:79, TEXT:0080] なければ、この世界が
 [FID:79, TEXT:0081] 危ないのでござるな？
 
---- Group 104 [right:char_000B next=2012] ---
+--- Group 98 [right:char_000B next=2012] ---
 [FID:79, TEXT:007F] お主たちが剣竜に勝て
 [FID:79, TEXT:0080] なければ、この世界が
 [FID:79, TEXT:0081] 危ないのでござるな？
 
---- Group 105 [right:char_0009 next=2012] ---
+--- Group 99 [right:char_0009 next=2012] ---
 [FID:79, TEXT:007F] お主たちが剣竜に勝て
 [FID:79, TEXT:0080] なければ、この世界が
 [FID:79, TEXT:0081] 危ないのでござるな？
 
---- Group 106 [left:char_0004 next=0023] ---
+--- Group 100 [left:char_0004 next=0023] ---
 [FID:79, TEXT:0082] はい
 
---- Group 107 [left:char_0004 next=0023] ---
+--- Group 101 [left:char_0004 next=0023] ---
 [FID:79, TEXT:0082] はい
 
---- Group 108 [left:char_0004 next=0023] ---
+--- Group 102 [left:char_0004 next=0023] ---
 [FID:79, TEXT:0082] はい
 
---- Group 109 [left:char_0004 next=0023] ---
+--- Group 103 [left:char_0004 next=0023] ---
 [FID:79, TEXT:0082] はい
 
---- Group 110 [left:char_0004 next=0023] ---
+--- Group 104 [left:char_0004 next=0023] ---
 [FID:79, TEXT:0083] はい・・・
 
---- Group 111 [right:char_000A next=2012] ---
+--- Group 105 [right:char_000A next=2012] ---
 [FID:79, TEXT:0084] ならば、案内しよう
 [FID:79, TEXT:0085] 剣竜の居場所へ
 
---- Group 112 [right:char_0008 next=2012] ---
+--- Group 106 [right:char_0008 next=2012] ---
 [FID:79, TEXT:0084] ならば、案内しよう
 [FID:79, TEXT:0085] 剣竜の居場所へ
 
---- Group 113 [right:char_0009 next=2012] ---
+--- Group 107 [right:char_0009 next=2012] ---
 [FID:79, TEXT:0084] ならば、案内しよう
 [FID:79, TEXT:0085] 剣竜の居場所へ
 
---- Group 114 [right:char_000B next=2012] ---
+--- Group 108 [right:char_000B next=2012] ---
 [FID:79, TEXT:0084] ならば、案内しよう
 [FID:79, TEXT:0085] 剣竜の居場所へ
 
---- Group 115 [left:char_0004 next=0023] ---
+--- Group 109 [left:char_0004 next=0023] ---
 [FID:79, TEXT:0086] 本当ですか！
 
---- Group 116 [left:char_0004 next=0023] ---
+--- Group 110 [left:char_0004 next=0023] ---
 [FID:79, TEXT:0086] 本当ですか！
 
---- Group 117 [left:char_0004 next=0023] ---
+--- Group 111 [left:char_0004 next=0023] ---
 [FID:79, TEXT:0086] 本当ですか！
 
---- Group 118 [left:char_0004 next=0023] ---
+--- Group 112 [left:char_0004 next=0023] ---
 [FID:79, TEXT:0086] 本当ですか！
 
---- Group 119 [left:char_0004 next=0023] ---
+--- Group 113 [left:char_0004 next=0023] ---
 [FID:79, TEXT:0087] え！？
 [FID:79, TEXT:0088] 本当ですか？
 
---- Group 120 [right:char_0008 next=2012] ---
+--- Group 114 [right:char_000A next=2012] ---
 [FID:79, TEXT:0089] ただし、拙者も剣竜と
 [FID:79, TEXT:008A] の戦いに加えてもらう
 [FID:79, TEXT:008B] ことが条件でござる
 
---- Group 121 [right:char_0009 next=2012] ---
+--- Group 115 [right:char_000B next=2012] ---
 [FID:79, TEXT:0089] ただし、拙者も剣竜と
 [FID:79, TEXT:008A] の戦いに加えてもらう
 [FID:79, TEXT:008B] ことが条件でござる
 
---- Group 122 [right:char_000A next=2012] ---
+--- Group 116 [right:char_0009 next=2012] ---
 [FID:79, TEXT:0089] ただし、拙者も剣竜と
 [FID:79, TEXT:008A] の戦いに加えてもらう
 [FID:79, TEXT:008B] ことが条件でござる
 
---- Group 123 [right:char_000B next=2012] ---
+--- Group 117 [right:char_0008 next=2012] ---
 [FID:79, TEXT:0089] ただし、拙者も剣竜と
 [FID:79, TEXT:008A] の戦いに加えてもらう
 [FID:79, TEXT:008B] ことが条件でござる
 
---- Group 124 [right:char_0009 next=2012] ---
+--- Group 118 [right:char_000B next=2012] ---
 [FID:79, TEXT:008C] これまで拙者が目標と
 [FID:79, TEXT:008D] していた相手だ
 [FID:79, TEXT:008E] これだけはゆずれぬ
 
---- Group 125 [right:char_000A next=2012] ---
+--- Group 119 [right:char_0009 next=2012] ---
 [FID:79, TEXT:008C] これまで拙者が目標と
 [FID:79, TEXT:008D] していた相手だ
 [FID:79, TEXT:008E] これだけはゆずれぬ
 
---- Group 126 [right:char_0008 next=2012] ---
+--- Group 120 [right:char_000A next=2012] ---
 [FID:79, TEXT:008C] これまで拙者が目標と
 [FID:79, TEXT:008D] していた相手だ
 [FID:79, TEXT:008E] これだけはゆずれぬ
 
---- Group 127 [right:char_000B next=2012] ---
+--- Group 121 [right:char_0008 next=2012] ---
 [FID:79, TEXT:008C] これまで拙者が目標と
 [FID:79, TEXT:008D] していた相手だ
 [FID:79, TEXT:008E] これだけはゆずれぬ
 
---- Group 128 [left:char_0004 next=0023] ---
+--- Group 122 [left:char_0004 next=0023] ---
 [FID:79, TEXT:008F] わかりました
 
---- Group 129 [left:char_0004 next=0023] ---
+--- Group 123 [left:char_0004 next=0023] ---
 [FID:79, TEXT:008F] わかりました
 
---- Group 130 [left:char_0004 next=0023] ---
+--- Group 124 [left:char_0004 next=0023] ---
 [FID:79, TEXT:008F] わかりました
 
---- Group 131 [left:char_0004 next=0023] ---
+--- Group 125 [left:char_0004 next=0023] ---
 [FID:79, TEXT:008F] わかりました
 
---- Group 132 [left:char_0004 next=0023] ---
+--- Group 126 [left:char_0004 next=0023] ---
 [FID:79, TEXT:0090] え、ええ
 [FID:79, TEXT:0091] 喜んで！
 
---- Group 133 [left:char_0013 next=2012] ---
+--- Group 127 [left:char_0013 next=2012] ---
 [FID:79, TEXT:0092] なんなんだよ
 [FID:79, TEXT:0093] この地面に刺さった
 [FID:79, TEXT:0094] 剣の山は！？
 
---- Group 134 [left:char_0013 next=2012] ---
+--- Group 128 [left:char_0013 next=2012] ---
 [FID:79, TEXT:0092] なんなんだよ
 [FID:79, TEXT:0093] この地面に刺さった
 [FID:79, TEXT:0094] 剣の山は！？
 
---- Group 135 [left:char_0013 next=2012] ---
+--- Group 129 [left:char_0013 next=2012] ---
 [FID:79, TEXT:0092] なんなんだよ
 [FID:79, TEXT:0093] この地面に刺さった
 [FID:79, TEXT:0094] 剣の山は！？
 
---- Group 136 [left:char_0013 next=2012] ---
+--- Group 130 [left:char_0013 next=2012] ---
 [FID:79, TEXT:0092] なんなんだよ
 [FID:79, TEXT:0093] この地面に刺さった
 [FID:79, TEXT:0094] 剣の山は！？
 
---- Group 137 [right:char_0027 next=2012] ---
+--- Group 131 [right:char_0027 next=2012] ---
 [FID:79, TEXT:0095] 剣竜に挑み、敗れた者
 [FID:79, TEXT:0096] たちのものでござる
 
---- Group 138 [left:char_0023 next=2012] ---
+--- Group 132 [left:char_0023 next=2012] ---
 [FID:79, TEXT:0097] これほどの数の剣士が
 [FID:79, TEXT:0098] 敗れたなんて・・・
 
---- Group 139 [left:char_0004 next=2012] ---
+--- Group 133 [left:char_0004 next=2012] ---
 [FID:79, TEXT:0099] ・・・！？
 
---- Group 140 [right:char_0022 next=2012] ---
+--- Group 134 [right:char_0022 next=2012] ---
 [FID:79, TEXT:009A] 剣が、ひとりでに！？
 
---- Group 141 [left:char_0018 next=2012] ---
+--- Group 135 [left:char_0018 next=2012] ---
 [FID:79, TEXT:009B] これが、剣竜の力だと
 [FID:79, TEXT:009C] いうわけか
 
---- Group 142 [right:char_0027 next=2012] ---
+--- Group 136 [right:char_0027 next=2012] ---
 [FID:79, TEXT:009D] 剣竜の・・・
 [FID:79, TEXT:009E] お出ましでござる！！
 
---- Group 143 [left:char_0004 next=2012] ---
+--- Group 137 [left:char_0004 next=2012] ---
 [FID:79, TEXT:009F] よくぞ守護者を倒した
 [FID:79, TEXT:00A0] お前の力は、誓約者の
 [FID:79, TEXT:00A1] 名にふさわしい
 
---- Group 144 [left:char_0004 next=2012] ---
-[FID:79, TEXT:009F] よくぞ守護者を倒した
-[FID:79, TEXT:00A0] お前の力は、誓約者の
-[FID:79, TEXT:00A1] 名にふさわしい
-
---- Group 145 [left:char_0004 next=2012] ---
+--- Group 138 [left:char_0004 next=2012] ---
 [FID:79, TEXT:00A2] 我が力・・・
 [FID:79, TEXT:00A3] メイトルパのエルゴを
 [FID:79, TEXT:00A4] 受け取るがいい
 
---- Group 146 [left:char_0004 next=2012] ---
-[FID:79, TEXT:00A2] 我が力・・・
-[FID:79, TEXT:00A3] メイトルパのエルゴを
-[FID:79, TEXT:00A4] 受け取るがいい
-
---- Group 147 [right:char_0012 next=2012] ---
+--- Group 139 [right:none next=2012] ---
 [FID:79, TEXT:00A5] まさか、本当に剣竜を
 [FID:79, TEXT:00A6] 倒してしまうとはな
 
---- Group 148 [right:char_002E next=2012] ---
-[FID:79, TEXT:00A5] まさか、本当に剣竜を
-[FID:79, TEXT:00A6] 倒してしまうとはな
-
---- Group 149 [left:char_0004 next=0023] ---
-[FID:79, TEXT:00A7] カザミネさんの助けが
-[FID:79, TEXT:00A8] あったからですよ
-
---- Group 150 [left:char_0004 next=0023] ---
-[FID:79, TEXT:00A7] カザミネさんの助けが
-[FID:79, TEXT:00AB] あったからです
-
---- Group 151 [left:char_0004 next=0023] ---
-[FID:79, TEXT:00A7] カザミネさんの助けが
-[FID:79, TEXT:00AB] あったからです
-
---- Group 152 [left:char_0004 next=0023] ---
+--- Group 140 [left:char_0004 next=0023] ---
 [FID:79, TEXT:00A7] カザミネさんの助けが
 [FID:79, TEXT:00AC] あったからです・・・
 
---- Group 153 [left:char_0004 next=0023] ---
+--- Group 141 [left:char_0004 next=0023] ---
 [FID:79, TEXT:00A7] カザミネさんの助けが
-[FID:79, TEXT:00AC] あったからです・・・
+[FID:79, TEXT:00AB] あったからです
 
---- Group 154 [left:char_0004 next=0023] ---
+--- Group 142 [left:char_0004 next=0023] ---
 [FID:79, TEXT:00A7] カザミネさんの助けが
 [FID:79, TEXT:00A8] あったからですよ
 
---- Group 155 [left:char_0004 next=0023] ---
+--- Group 143 [left:char_0004 next=0023] ---
 [FID:79, TEXT:00A9] 貴方の助けがあったか
 [FID:79, TEXT:00AA] らですよ
 
---- Group 156 [left:char_0004 next=0023] ---
-[FID:79, TEXT:00A9] 貴方の助けがあったか
-[FID:79, TEXT:00AA] らですよ
-
---- Group 157 [left:char_001F next=2012] ---
+--- Group 144 [left:char_001F next=2012] ---
 [FID:79, TEXT:00AD] ねえ、カザミネはこれ
 [FID:79, TEXT:00AE] からどうすんの？
 
---- Group 158 [left:char_001F next=2012] ---
-[FID:79, TEXT:00AD] ねえ、カザミネはこれ
-[FID:79, TEXT:00AE] からどうすんの？
-
---- Group 159 [right:char_0012 next=2012] ---
+--- Group 145 [right:none next=2012] ---
 [FID:79, TEXT:00AF] さて、な
 [FID:79, TEXT:00B0] また別の場所で剣術の
 [FID:79, TEXT:00B1] 修行でもするか・・・
 
---- Group 160 [right:char_002E next=2012] ---
-[FID:79, TEXT:00AF] さて、な
-[FID:79, TEXT:00B0] また別の場所で剣術の
-[FID:79, TEXT:00B1] 修行でもするか・・・
-
---- Group 161 [right:char_0012 next=2012] ---
+--- Group 146 [right:none next=2012] ---
 [FID:79, TEXT:00B2] あるいは、お主らの力
 [FID:79, TEXT:00B3] になるというのも一興
 [FID:79, TEXT:00B4] かもしれんな
 
---- Group 162 [right:char_002E next=2012] ---
-[FID:79, TEXT:00B2] あるいは、お主らの力
-[FID:79, TEXT:00B3] になるというのも一興
-[FID:79, TEXT:00B4] かもしれんな
-
---- Group 163 [left:char_0004 next=0023] ---
+--- Group 147 [left:char_0004 next=0023] ---
 [FID:79, TEXT:00B5] いいんですか？
 
---- Group 164 [left:char_0004 next=0023] ---
-[FID:79, TEXT:00B5] いいんですか？
-
---- Group 165 [left:char_0004 next=0023] ---
+--- Group 148 [left:char_0004 next=0023] ---
 [FID:79, TEXT:00B6] え・・・本当に
 [FID:79, TEXT:00B5] いいんですか？
 
---- Group 166 [left:char_0004 next=0023] ---
-[FID:79, TEXT:00B6] え・・・本当に
-[FID:79, TEXT:00B5] いいんですか？
-
---- Group 167 [right:char_0012 next=2012] ---
+--- Group 149 [right:none next=2012] ---
 [FID:79, TEXT:00B7] お主たちさえ良ければ
 
---- Group 168 [right:char_002E next=2012] ---
-[FID:79, TEXT:00B7] お主たちさえ良ければ
-
---- Group 169 [right:char_0014 next=2012] ---
+--- Group 150 [right:char_0014 next=2012] ---
 [FID:79, TEXT:00B8] なら、決まりだな？
 

@@ -176,9 +176,9 @@
 
 --- Group [left:主人公 next=0023] ---
 これって
-ロボット・・・？
+ロボットなのか？
 +[FID:7B, TEXT:003E] 
-+[FID:7B, TEXT:0041] 
++[FID:7B, TEXT:003F] 
 
 --- Group [left:主人公 next=0023] ---
 これって
@@ -188,11 +188,11 @@
 
 --- Group [left:主人公 next=0023] ---
 これって
-ロボットなのか？
+ロボット・・・？
 -[FID:7B, TEXT:003E] 
-+[FID:7B, TEXT:003F] 
++[FID:7B, TEXT:0041] 
 
---- Group [right:基尔 next=2012] ---
+--- Group [right:克拉雷特 next=2012] ---
 まさか、ロレイラルの
 機械兵士・・・
 +[FID:7B, TEXT:0042] 
@@ -276,9 +276,13 @@
 
 --- Group [left:主人公 next=0023] ---
 ああ、わかってる
++[FID:7B, TEXT:005C] 
+
+--- Group [left:主人公 next=0023] ---
+ああ、わかってる
 俺たちの力、しっかり
 見極めてくれよ
-+[FID:7B, TEXT:005C] 
+-[FID:7B, TEXT:005C] 
 +[FID:7B, TEXT:005D] 
 +[FID:7B, TEXT:005E] 
 
@@ -384,13 +388,13 @@
 +[FID:7B, TEXT:0080] 
 +[FID:7B, TEXT:0081] 
 
---- Group [right:鼬 next=2012] ---
+--- Group [right:none next=2012] ---
 大、丈夫ダ・・・
 エルジン・・・
 +[FID:7B, TEXT:0082] 
 -[FID:7B, TEXT:0068] 
 
---- Group [right:艾多斯 next=2012] ---
+--- Group [right:none next=2012] ---
 コノ程度ノ損傷ナラバ
 自動的ニ修理デキル
 +[FID:7B, TEXT:0083] 
@@ -400,11 +404,11 @@
 ああ、よかった
 +[FID:7B, TEXT:0085] 
 
---- Group [right:鼬 next=2012] ---
+--- Group [right:none next=2012] ---
 ドウシテ・・・
 +[FID:7B, TEXT:0086] 
 
---- Group [right:艾多斯 next=2012] ---
+--- Group [right:none next=2012] ---
 オ前タチハ、手加減ヲ
 シタノダ？
 +[FID:7B, TEXT:0087] 
@@ -492,23 +496,23 @@
 
 --- Group [left:主人公 next=2012] ---
 エルゴを守るって役目
-は終わったんだから、
-もう君たちが戦う必要
-はなくなった
-+[FID:7B, TEXT:00A2] 
-+[FID:7B, TEXT:00A3] 
-+[FID:7B, TEXT:00A4] 
-+[FID:7B, TEXT:00A5] 
-
---- Group [left:主人公 next=2012] ---
-エルゴを守るって役目
 は終わったんでしょ！
 戦う理由は
 ないんじゃない？
--[FID:7B, TEXT:00A2] 
++[FID:7B, TEXT:00A2] 
 +[FID:7B, TEXT:00AB] 
 +[FID:7B, TEXT:00AC] 
 +[FID:7B, TEXT:00AD] 
+
+--- Group [left:主人公 next=2012] ---
+エルゴを守るって役目
+は終わったんだから、
+もう君たちが戦う必要
+はなくなった
+-[FID:7B, TEXT:00A2] 
++[FID:7B, TEXT:00A3] 
++[FID:7B, TEXT:00A4] 
++[FID:7B, TEXT:00A5] 
 
 --- Group [left:主人公 next=0023] ---
 どこかでさ、二人して

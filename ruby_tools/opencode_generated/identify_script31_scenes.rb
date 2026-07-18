@@ -4,31 +4,11 @@
 # FID dispatch: switch c4[0x95] at 0x0531 —
 #   case 0 → FID 0x77, case 1 → FID 0x78, case 2 → FID 0x79,
 #   case 3 → FID 0x7A, case 4 → FID 0x7B
-# State machine loops through c4[0x95]=0..4 naturally.
 #
-# Missing texts are gated by c8[0x64]/c8[0x65] tests (0x0003 mode=4)
-# that the VM's handle_0003 only forks for c4 (mode=2) external_vars,
-# NOT for c8 (mode=4). Since nothing writes to c8[0x64]/c8[0x65]
-# in script31 (the values are set by sub-scripts 0x002C), they stay
-# at 0 and these gates always skip the variant text paths.
-#
-# c8[0x64] gates → TEXT:0002/0003, 0051, 0071 (FID 0x7B)
-# c8[0x65] gates → TEXT:0026 (FID 0x77), 0011 (FID 0x79),
-#                   0010 (FID 0x7A)
-# FID 0x78 has no c8 gate in its text sub → 100% covered.
-#
-# Fix: monkey-patch 0x0003 mode=4 to fork both regB outcomes when
-# testing c8[0x64] or c8[0x65].
-#
-# Results: FID 0x77 100%, FID 0x78 100%, FID 0x7B 100%,
-# FID 0x79 99.5% (TEXT:004D still missing), FID 0x7A 96.9%
-# (TEXT:002A/2B/2C/004D/4E/4F still missing).
-#
-# Remaining gap: 7 texts in a shared text hub at 0x0D32, gated
-# behind the unhandled RPN expression c4[0xDC]<2 at 0x0472.
-# The VM's handle_000A only evaluates c4[0x1D]<2 (gender) and
-# can't handle this pattern. Direct entry into the hub fails
-# due to complex initialization requirements.
+# c8[0x64]/c8[0x65] gates block variant text paths in FID-specific
+# text subs (mode=4 tests not forked by handle_0003).
+# Monkey-patch: fork c8[0x64]/c8[0x65] tests + skip all
+# c4[0x95] writes. Iterate c4[0x95]=0..4.
 # ============================================================
 
 require_relative "../commands_parse_tools"
@@ -45,10 +25,14 @@ end
 commands = parse_commands(FN).to_a
 puts "Loaded #{commands.size} commands from #{FN}"
 
+# All c4[0x95] writes in script31 — skip to preserve injected value
+SKIP_95_WRITES = [0x03C3, 0x03D3, 0x0C0E, 0x0E6B, 0x0E83, 0x0E9B,
+                  0x1AFA, 0x209F, 0x25E1]
+
 # ---------------------------------------------------------
-# Run analysis with c8[0x64]/c8[0x65] fork
+# Run analysis with monkey-patched c4[0x95] value
 # ---------------------------------------------------------
-def run_script31(commands, script_id)
+def run_script31(commands, script_id, c4_95_value)
   manager = ExecManager.new
   manager.index_to_pc = {}
   commands.each_with_index { |c, i| manager.index_to_pc[c.index] = i }
@@ -63,23 +47,30 @@ def run_script31(commands, script_id)
       val = state.read_c8(cmd.params[1])
       result = (val == 0)
       state.regB = state.regB & 0xFE
-      state.regB |= 1 if result  # regB bit0 = 1 when val == 0
+      state.regB |= 1 if result
 
-      # Fork: regB bit0 = 0 (val != 0 path)
       fork_state = state.clone
       fork_state.pc = old_pc + 1
       fork_state.regB = fork_state.regB & 0xFE
-      fork_state.regB |= (result ? 0 : 1)  # opposite of result
+      fork_state.regB |= (result ? 0 : 1)
       push(fork_state)
 
       state.pc += 1
       return true
     end
 
+    # Skip c4[0x95] writes to keep injected value
+    if SKIP_95_WRITES.include?(cmd.index)
+      if cmd.code == 0x0001 && cmd.params[0] == 2 && cmd.params[1] == 0x95
+        state.pc += 1; return true
+      elsif cmd.code == 0x0010 && cmd.params[0] == 0x95
+        state.pc += 1; return true
+      end
+    end
+
     old_dispatch.call(state, cmd, cmds)
   end
 
-  # Initialize state (matching analyze_script_static)
   state = VMState.new(script_id)
   state.tbl_c4[0xF8] = 3
   state.tbl_c4[0xF9] = 0xA
@@ -88,6 +79,7 @@ def run_script31(commands, script_id)
   state.tbl_c4[0xFC] = 0
   state.tbl_c4[0xC4] = 4
   state.tbl_c4[0xC3] = 4
+  state.tbl_c4[0x95] = c4_95_value
   state.tbl_c4[0x93] = 0
 
   idx = manager.index_to_pc[0x012E]
@@ -105,15 +97,18 @@ def run_script31(commands, script_id)
 end
 
 # ---------------------------------------------------------
-# Main
+# Main: iterate c4[0x95]=0..4
 # ---------------------------------------------------------
 
 all_dialogs = {}
 
-dialogs = run_script31(commands, SCRIPT_ID)
-dialogs.each do |fid, groups|
-  all_dialogs[fid] ||= Set.new
-  all_dialogs[fid] += groups
+[0, 1, 2, 3, 4].each do |val|
+  puts "\n=== c4[0x95]=#{val} (FID 0x#{sprintf('%02X', [0x77,0x78,0x79,0x7A,0x7B][val])}) ==="
+  dialogs = run_script31(commands, SCRIPT_ID, val)
+  dialogs.each do |fid, groups|
+    all_dialogs[fid] ||= Set.new
+    all_dialogs[fid] += groups
+  end
 end
 
 # ---------------------------------------------------------
@@ -122,7 +117,6 @@ end
 puts "\n=== Combined Results ==="
 output_results(all_dialogs, commands, "output_full/script31")
 
-# Summary of FID coverage
 puts
 puts "=== Coverage Summary ==="
 [0x77, 0x78, 0x79, 0x7A, 0x7B].each do |fid|
