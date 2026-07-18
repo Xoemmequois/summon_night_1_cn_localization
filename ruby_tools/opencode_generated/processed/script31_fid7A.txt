@@ -84,10 +84,18 @@
 
 --- Group [left:洛卡斯 next=0023] ---
 え？
+神社とかのお社とか
+じゃないんですか？
++[FID:7A, TEXT:001D] 
++[FID:7A, TEXT:0024] 
++[FID:7A, TEXT:0023] 
+
+--- Group [left:洛卡斯 next=0023] ---
+え？
 社って言ったら
 神社のお社のことじゃ
 ないんですか？
-+[FID:7A, TEXT:001D] 
+-[FID:7A, TEXT:001D] 
 +[FID:7A, TEXT:001E] 
 +[FID:7A, TEXT:001F] 
 +[FID:7A, TEXT:0025] 
@@ -101,14 +109,6 @@
 -[FID:7A, TEXT:001E] 
 -[FID:7A, TEXT:001F] 
 +[FID:7A, TEXT:0020] 
-
---- Group [left:洛卡斯 next=0023] ---
-え？
-神社とかのお社とか
-じゃないんですか？
--[FID:7A, TEXT:001D] 
-+[FID:7A, TEXT:0024] 
-+[FID:7A, TEXT:0023] 
 
 --- Group [left:洛卡斯 next=0023] ---
 社は社ですよ
@@ -129,6 +129,14 @@
 --- Group [right:吉布森 next=2012] ---
 ジンジャに、トリイ？
 +[FID:7A, TEXT:0029] 
+
+--- Group [right:希翁 next=2012] ---
+二人とも、ここが自分
+たちの世界ではないの
+を忘れてませんか？
++[FID:7A, TEXT:002A] 
++[FID:7A, TEXT:002B] 
++[FID:7A, TEXT:002C] 
 
 --- Group [left:洛卡斯 next=0023] ---
 あ、そうか・・・
@@ -233,6 +241,14 @@
 こういう光景
 +[FID:7A, TEXT:004B] 
 +[FID:7A, TEXT:004C] 
+
+--- Group [right:希翁 next=2012] ---
+ええ、シルターンに
+戻ってきたような
+気がしますよ
++[FID:7A, TEXT:004D] 
++[FID:7A, TEXT:004E] 
++[FID:7A, TEXT:004F] 
 
 --- Group [right:莫纳蒂 next=2012] ---
 ねえねえ

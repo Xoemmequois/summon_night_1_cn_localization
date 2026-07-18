@@ -63,20 +63,20 @@
 
 --- Group 17 [left:char_001E next=0023] ---
 [FID:7A, TEXT:001D] え？
-[FID:7A, TEXT:001E] 社って言ったら
-[FID:7A, TEXT:001F] 神社のお社のことじゃ
-[FID:7A, TEXT:0025] ないんですか？
+[FID:7A, TEXT:0024] 神社とかのお社とか
+[FID:7A, TEXT:0023] じゃないんですか？
 
 --- Group 18 [left:char_001E next=0023] ---
 [FID:7A, TEXT:001D] え？
 [FID:7A, TEXT:001E] 社って言ったら
 [FID:7A, TEXT:001F] 神社のお社のことじゃ
-[FID:7A, TEXT:0020] ないのか？
+[FID:7A, TEXT:0025] ないんですか？
 
 --- Group 19 [left:char_001E next=0023] ---
 [FID:7A, TEXT:001D] え？
-[FID:7A, TEXT:0024] 神社とかのお社とか
-[FID:7A, TEXT:0023] じゃないんですか？
+[FID:7A, TEXT:001E] 社って言ったら
+[FID:7A, TEXT:001F] 神社のお社のことじゃ
+[FID:7A, TEXT:0020] ないのか？
 
 --- Group 20 [left:char_001E next=0023] ---
 [FID:7A, TEXT:0021] 社は社ですよ
@@ -91,290 +91,320 @@
 --- Group 22 [right:char_001C next=2012] ---
 [FID:7A, TEXT:0029] ジンジャに、トリイ？
 
---- Group 23 [left:char_001E next=0023] ---
+--- Group 23 [right:char_0026 next=2012] ---
+[FID:7A, TEXT:002A] 二人とも、ここが自分
+[FID:7A, TEXT:002B] たちの世界ではないの
+[FID:7A, TEXT:002C] を忘れてませんか？
+
+--- Group 24 [left:char_001E next=0023] ---
 [FID:7A, TEXT:002D] あ、そうか・・・
 [FID:7A, TEXT:002E] リィンバウムに神様
 [FID:7A, TEXT:002F] はいないんだっけ
 
---- Group 24 [left:char_001E next=0023] ---
+--- Group 25 [left:char_001E next=0023] ---
+[FID:7A, TEXT:002D] あ、そうか・・・
+[FID:7A, TEXT:002E] リィンバウムに神様
+[FID:7A, TEXT:002F] はいないんだっけ
+
+--- Group 26 [left:char_001E next=0023] ---
 [FID:7A, TEXT:0030] ああ、そういえば
 [FID:7A, TEXT:002E] リィンバウムに神様
 [FID:7A, TEXT:0031] はいないのか・・・
 
---- Group 25 [left:char_001E next=0023] ---
+--- Group 27 [left:char_001E next=0023] ---
+[FID:7A, TEXT:0030] ああ、そういえば
+[FID:7A, TEXT:002E] リィンバウムに神様
+[FID:7A, TEXT:0031] はいないのか・・・
+
+--- Group 28 [left:char_001E next=0023] ---
 [FID:7A, TEXT:0032] あ・・・ごめん！
 [FID:7A, TEXT:002E] リィンバウムに神様
 [FID:7A, TEXT:0033] はいないんだね
 
---- Group 26 [left:char_001E next=0023] ---
+--- Group 29 [left:char_001E next=0023] ---
+[FID:7A, TEXT:0032] あ・・・ごめん！
+[FID:7A, TEXT:002E] リィンバウムに神様
+[FID:7A, TEXT:0033] はいないんだね
+
+--- Group 30 [left:char_001E next=0023] ---
 [FID:7A, TEXT:0034] そういえば・・・
 [FID:7A, TEXT:0035] リィンバウムに神様は
 [FID:7A, TEXT:0036] いないんでしたね
 
---- Group 27 [right:char_0019 next=2012] ---
+--- Group 31 [left:char_001E next=0023] ---
+[FID:7A, TEXT:0034] そういえば・・・
+[FID:7A, TEXT:0035] リィンバウムに神様は
+[FID:7A, TEXT:0036] いないんでしたね
+
+--- Group 32 [right:char_0019 next=2012] ---
 [FID:7A, TEXT:0037] よくわからないけど、
 [FID:7A, TEXT:0038] 赤いのね？
 
---- Group 28 [left:char_001E next=0023] ---
+--- Group 33 [left:char_001E next=0023] ---
 [FID:7A, TEXT:0039] いや、そうとは限らな
 [FID:7A, TEXT:003A] いんだけど・・・
 
---- Group 29 [left:char_001E next=0023] ---
+--- Group 34 [left:char_001E next=0023] ---
 [FID:7A, TEXT:0039] いや、そうとは限らな
 [FID:7A, TEXT:003B] いんだが・・・
 
---- Group 30 [left:char_001E next=0023] ---
+--- Group 35 [left:char_001E next=0023] ---
 [FID:7A, TEXT:003C] う〜ん、そればっか
 [FID:7A, TEXT:003D] じゃないんだけど
 
---- Group 31 [left:char_001E next=0023] ---
+--- Group 36 [left:char_001E next=0023] ---
 [FID:7A, TEXT:003E] あの、違うかも
 [FID:7A, TEXT:003F] しれないですよ
 
---- Group 32 [right:char_001E next=2012] ---
+--- Group 37 [right:char_001E next=2012] ---
 [FID:7A, TEXT:0040] みんな、この先に妙な
 [FID:7A, TEXT:0041] 建物があったぞ！
 
---- Group 33 [right:char_001B next=2012] ---
+--- Group 38 [right:char_001B next=2012] ---
 [FID:7A, TEXT:0042] なんだかわからんが、
 [FID:7A, TEXT:0043] 真っ赤な柱がでーんと
 [FID:7A, TEXT:0044] そびえててな・・・
 
---- Group 34 [left:char_001F next=2012] ---
+--- Group 39 [left:char_001F next=2012] ---
 [FID:7A, TEXT:0045] それだぁっ！
 
---- Group 35 [left:none next=0023] ---
+--- Group 40 [left:none next=0023] ---
 [FID:7A, TEXT:0046] 本当だ・・・
 [FID:7A, TEXT:0047] ちゃんと鳥居がある
 
---- Group 36 [left:none next=0023] ---
+--- Group 41 [left:none next=0023] ---
 [FID:7A, TEXT:0046] 本当だ・・・
 [FID:7A, TEXT:0048] ちゃんとした鳥居だ
 
---- Group 37 [left:none next=0023] ---
+--- Group 42 [left:none next=0023] ---
 [FID:7A, TEXT:0049] これは・・・たしかに
 [FID:7A, TEXT:004A] 鳥居ですね・・・
 
---- Group 38 [right:char_001B next=2012] ---
+--- Group 43 [right:char_001B next=2012] ---
 [FID:7A, TEXT:004B] なんか懐かしいな
 [FID:7A, TEXT:004C] こういう光景
 
---- Group 39 [right:char_0017 next=2012] ---
+--- Group 44 [right:char_0026 next=2012] ---
+[FID:7A, TEXT:004D] ええ、シルターンに
+[FID:7A, TEXT:004E] 戻ってきたような
+[FID:7A, TEXT:004F] 気がしますよ
+
+--- Group 45 [right:char_0017 next=2012] ---
 [FID:7A, TEXT:0050] ねえねえ
 [FID:7A, TEXT:0051] あの滝はどうして湯気
 [FID:7A, TEXT:0052] を噴いてるですの？
 
---- Group 40 [left:char_001A next=2012] ---
+--- Group 46 [left:char_001A next=2012] ---
 [FID:7A, TEXT:0053] おそらく、温泉が流れ
 [FID:7A, TEXT:0054] こんでいるのでしょう
 
---- Group 41 [right:char_0020 next=2012] ---
+--- Group 47 [right:char_0020 next=2012] ---
 [FID:7A, TEXT:0055] 温泉・・・
 [FID:7A, TEXT:0056] あぁ、いい響きねえ
 
---- Group 42 [left:char_001B next=2012] ---
+--- Group 48 [left:char_001B next=2012] ---
 [FID:7A, TEXT:0057] なごむのはいいがな、
 [FID:7A, TEXT:0058] どうやら守護者とやら
 [FID:7A, TEXT:0059] が出てきたようだぜ
 
---- Group 43 [right:char_0025 next=2012] ---
+--- Group 49 [right:char_0025 next=2012] ---
 [FID:7A, TEXT:005A] エルゴの試練を受けら
 [FID:7A, TEXT:005B] れるというのは、貴方
 [FID:7A, TEXT:005C] がたでしょうか？
 
---- Group 44 [left:char_0004 next=0023] ---
+--- Group 50 [left:char_0004 next=0023] ---
 [FID:7A, TEXT:005D] あ、はい・・・
 
---- Group 45 [left:char_0004 next=0023] ---
+--- Group 51 [left:char_0004 next=0023] ---
 [FID:7A, TEXT:005E] ええ、そうです
 
---- Group 46 [left:char_0004 next=0023] ---
+--- Group 52 [left:char_0004 next=0023] ---
 [FID:7A, TEXT:005F] あ、は、はい・・・
 
---- Group 47 [right:char_0025 next=2012] ---
+--- Group 53 [right:char_0025 next=2012] ---
 [FID:7A, TEXT:0060] お待ちしておりました
 [FID:7A, TEXT:0061] 私はこの鬼神の谷で、
 [FID:7A, TEXT:0062] シルターンのエルゴを
 [FID:7A, TEXT:0063] お守りする者
 
---- Group 48 [right:char_0025 next=2012] ---
+--- Group 54 [right:char_0025 next=2012] ---
 [FID:7A, TEXT:0064] 【鬼道】のミコ
 [FID:7A, TEXT:0065] カイナと申します
 
---- Group 49 [left:char_0012 next=2012] ---
+--- Group 55 [left:char_0012 next=2012] ---
 [FID:7A, TEXT:0066] 君が守護者なのか？
 
---- Group 50 [right:char_0025 next=2012] ---
+--- Group 56 [right:char_0025 next=2012] ---
 [FID:7A, TEXT:0067] はい、そういうお役目
 [FID:7A, TEXT:0068] をいただいております
 
---- Group 51 [left:char_001E next=2012] ---
+--- Group 57 [left:char_001E next=2012] ---
 [FID:7A, TEXT:0069] 信じられんな
 [FID:7A, TEXT:006A] とても、そうは見えん
 
---- Group 52 [right:char_0025 next=2012] ---
+--- Group 58 [right:char_0025 next=2012] ---
 [FID:7A, TEXT:006B] たしかに、私は非力な
 [FID:7A, TEXT:006C] 娘でしかありません
 [FID:7A, TEXT:006D] ですから・・・
 
---- Group 53 [right:char_0025 next=2012] ---
+--- Group 59 [right:char_0025 next=2012] ---
 [FID:7A, TEXT:006E] このように、鬼神たち
 [FID:7A, TEXT:006F] の力を借りて、お役目
 [FID:7A, TEXT:0070] をつとめております
 
---- Group 54 [left:char_0020 next=2012] ---
+--- Group 60 [left:char_0020 next=2012] ---
 [FID:7A, TEXT:0071] シルターンの召喚師っ
 [FID:7A, TEXT:0072] てことね・・・
 
---- Group 55 [right:char_0025 next=2012] ---
+--- Group 61 [right:char_0025 next=2012] ---
 [FID:7A, TEXT:0073] それでは、試練を始め
 [FID:7A, TEXT:0074] るといたしましょう
 
---- Group 56 [right:char_0025 next=2012] ---
+--- Group 62 [right:char_0025 next=2012] ---
 [FID:7A, TEXT:0075] さあ、貴方がたの力を
 [FID:7A, TEXT:0076] 私に見せてください！
 
---- Group 57 [left:char_0004 next=2012] ---
+--- Group 63 [left:char_0004 next=2012] ---
 [FID:7A, TEXT:0077] よくぞ守護者を倒した
 [FID:7A, TEXT:0078] お前の力は、誓約者の
 [FID:7A, TEXT:0079] 名にふさわしい
 
---- Group 58 [left:char_0004 next=2012] ---
+--- Group 64 [left:char_0004 next=2012] ---
 [FID:7A, TEXT:007A] 我が力・・・
 [FID:7A, TEXT:0062] シルターンのエルゴを
 [FID:7A, TEXT:007B] 受け取るがいい
 
---- Group 59 [right:char_0025 next=2012] ---
+--- Group 65 [right:char_0025 next=2012] ---
 [FID:7A, TEXT:007C] お見事です
 [FID:7A, TEXT:007D] これで私も安心して、
 [FID:7A, TEXT:007E] お役目を果たすことが
 [FID:7A, TEXT:007F] できました
 
---- Group 60 [left:char_0017 next=2012] ---
+--- Group 66 [left:char_0017 next=2012] ---
 [FID:7A, TEXT:0080] よかったですねえ
 
---- Group 61 [left:char_001B next=2012] ---
+--- Group 67 [left:char_001B next=2012] ---
 [FID:7A, TEXT:0081] で、お嬢ちゃんはこれ
 [FID:7A, TEXT:0082] からどうすんだ？
 
---- Group 62 [right:char_0025 next=2012] ---
+--- Group 68 [right:char_0025 next=2012] ---
 [FID:7A, TEXT:0083] ・・・・・・
 
---- Group 63 [right:char_0025 next=2012] ---
+--- Group 69 [right:char_0025 next=2012] ---
 [FID:7A, TEXT:0083] ・・・・・・
 
---- Group 64 [left:char_0004 next=0023] ---
+--- Group 70 [left:char_0004 next=0023] ---
 [FID:7A, TEXT:0084] もしかして
 [FID:7A, TEXT:0085] 何も考えてないとか？
 
---- Group 65 [left:char_0004 next=0023] ---
+--- Group 71 [left:char_0004 next=0023] ---
 [FID:7A, TEXT:0086] もしかして、
 [FID:7A, TEXT:0087] 何もアテがないのか
 
---- Group 66 [left:char_0004 next=0023] ---
+--- Group 72 [left:char_0004 next=0023] ---
 [FID:7A, TEXT:0088] も・し・か・し・て
 [FID:7A, TEXT:0089] 何も考えてない
 [FID:7A, TEXT:008A] ・・・とか？？
 
---- Group 67 [left:char_0004 next=0023] ---
+--- Group 73 [left:char_0004 next=0023] ---
 [FID:7A, TEXT:008B] まさか、何も考えて
 [FID:7A, TEXT:008C] いなかったのでは？
 
---- Group 68 [right:char_0025 next=2012] ---
+--- Group 74 [right:char_0025 next=2012] ---
 [FID:7A, TEXT:008D] あ、はい
 [FID:7A, TEXT:008E] 今日までずっとお役目
 [FID:7A, TEXT:008F] のことだけを考えて
 [FID:7A, TEXT:0090] ましたので
 
---- Group 69 [right:char_0025 next=2012] ---
+--- Group 75 [right:char_0025 next=2012] ---
 [FID:7A, TEXT:0091] お恥ずかしい話ですが
 [FID:7A, TEXT:0092] 私、この谷の外に出た
 [FID:7A, TEXT:0093] ことがないんです
 
---- Group 70 [left:char_001F next=2012] ---
+--- Group 76 [left:char_001F next=2012] ---
 [FID:7A, TEXT:0094] ええ〜っ！？
 
---- Group 71 [left:char_0019 next=2012] ---
+--- Group 77 [left:char_0019 next=2012] ---
 [FID:7A, TEXT:0095] ちょっと、言葉になら
 [FID:7A, TEXT:0096] ないわね・・・
 
---- Group 72 [right:char_0025 next=2012] ---
+--- Group 78 [right:char_0025 next=2012] ---
 [FID:7A, TEXT:0097] 心配しないでください
 [FID:7A, TEXT:0098] 今までだって、一人で
 [FID:7A, TEXT:0099] やってこれましたし
 
---- Group 73 [left:char_0020 next=2012] ---
+--- Group 79 [left:char_0020 next=2012] ---
 [FID:7A, TEXT:009A] だからって
 [FID:7A, TEXT:009B] まさか、一生この谷で
 [FID:7A, TEXT:009C] 過ごすつもり！？
 
---- Group 74 [left:char_0017 next=2012] ---
+--- Group 80 [left:char_0017 next=2012] ---
 [FID:7A, TEXT:009D] そんなのダメですの！
 [FID:7A, TEXT:009E] ひとりぼっちなんて
 
---- Group 75 [left:char_0004 next=2012] ---
+--- Group 81 [left:char_0004 next=2012] ---
 [FID:7A, TEXT:009F] あのさ、カイナ
 [FID:7A, TEXT:00A0] みんなの言うとおりだ
 [FID:7A, TEXT:00A9] と思う
 
---- Group 76 [left:char_0004 next=2012] ---
+--- Group 82 [left:char_0004 next=2012] ---
 [FID:7A, TEXT:009F] あのさ、カイナ
 [FID:7A, TEXT:00A0] みんなの言うとおりだ
 [FID:7A, TEXT:00A1] と俺も思うよ
 
---- Group 77 [left:char_0004 next=2012] ---
+--- Group 83 [left:char_0004 next=2012] ---
 [FID:7A, TEXT:00A0] みんなの言うとおりだ
 [FID:7A, TEXT:00A5] と僕も思う
 
---- Group 78 [left:char_0004 next=0023] ---
+--- Group 84 [left:char_0004 next=0023] ---
 [FID:7A, TEXT:00A2] だからさ
 [FID:7A, TEXT:00A3] 良かったら、俺たちを
 [FID:7A, TEXT:00A4] 手伝ってくれないか？
 
---- Group 79 [left:char_0004 next=0023] ---
+--- Group 85 [left:char_0004 next=0023] ---
 [FID:7A, TEXT:00A6] そうだ
 [FID:7A, TEXT:00A7] 良かったら、僕たちと
 [FID:7A, TEXT:00A8] 一緒に来ないか？
 
---- Group 80 [left:char_0004 next=0023] ---
+--- Group 86 [left:char_0004 next=0023] ---
 [FID:7A, TEXT:00AA] それでね
 [FID:7A, TEXT:00AB] 良かったら
 [FID:7A, TEXT:00AC] あたしたちを手伝って
 [FID:7A, TEXT:00AD] くれないかな
 
---- Group 81 [left:char_0004 next=2012] ---
+--- Group 87 [left:char_0004 next=2012] ---
 [FID:7A, TEXT:00AE] あの・・・カイナさん
 [FID:7A, TEXT:00AF] みなさんの言うとおり
 [FID:7A, TEXT:00B0] だと思います
 
---- Group 82 [left:char_0004 next=0023] ---
+--- Group 88 [left:char_0004 next=0023] ---
 [FID:7A, TEXT:00B1] だから・・・
 [FID:7A, TEXT:00B2] 良かったら、わたし
 [FID:7A, TEXT:00B3] たちの、手伝いを
 [FID:7A, TEXT:00B4] してくれませんか？
 
---- Group 83 [right:char_0025 next=2012] ---
+--- Group 89 [right:char_0025 next=2012] ---
 [FID:7A, TEXT:00B5] でも・・・
 
---- Group 84 [left:char_001E next=2012] ---
+--- Group 90 [left:char_001E next=2012] ---
 [FID:7A, TEXT:00B6] まあ、元をただせば
 [FID:7A, TEXT:00B7] 俺たちのせいであんた
 [FID:7A, TEXT:00B8] を困らせちまった
 [FID:7A, TEXT:00B9] ようなもんだしな
 
---- Group 85 [left:char_0020 next=2012] ---
+--- Group 91 [left:char_0020 next=2012] ---
 [FID:7A, TEXT:00BA] その若さで隠居っての
 [FID:7A, TEXT:00BB] はもったいないわよ
 
---- Group 86 [left:char_0019 next=2012] ---
+--- Group 92 [left:char_0019 next=2012] ---
 [FID:7A, TEXT:00BC] 外に出るのは不安かも
 [FID:7A, TEXT:00BD] しれないけど、私たち
 [FID:7A, TEXT:00BE] がついているから
 
---- Group 87 [right:char_0025 next=2012] ---
+--- Group 93 [right:char_0025 next=2012] ---
 [FID:7A, TEXT:00BF] ・・・はい
 
---- Group 88 [right:char_0025 next=2012] ---
+--- Group 94 [right:char_0025 next=2012] ---
 [FID:7A, TEXT:00C0] 私でよろしかったら、
 [FID:7A, TEXT:00C1] みなさんのお手伝いを
 [FID:7A, TEXT:00C2] させてください

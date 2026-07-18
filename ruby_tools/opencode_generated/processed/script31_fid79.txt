@@ -232,6 +232,10 @@
 +[FID:79, TEXT:004C] 
 -[FID:79, TEXT:004A] 
 
+--- Group [right:希翁 next=2012] ---
+ほう、居合いですね
++[FID:79, TEXT:004D] 
+
 --- Group [right:茜 next=2012] ---
 こいつ、シルターンの
 侍だよっ！
@@ -252,22 +256,12 @@
 +[FID:79, TEXT:0053] 
 +[FID:79, TEXT:0054] 
 
---- Group [right:克拉雷特 next=2012] ---
-この世界における騎士
-のようなものです
-しかも、独特の剣術を
-身につけています
-+[FID:79, TEXT:0055] 
-+[FID:79, TEXT:005C] 
-+[FID:79, TEXT:005D] 
-+[FID:79, TEXT:005E] 
-
 --- Group [right:卡西斯 next=2012] ---
 この世界における騎士
 のようなものだよ
 だけど、独特の剣術を
 使うんだ
--[FID:79, TEXT:0055] 
++[FID:79, TEXT:0055] 
 +[FID:79, TEXT:0059] 
 +[FID:79, TEXT:005A] 
 +[FID:79, TEXT:005B] 
@@ -282,6 +276,16 @@
 +[FID:79, TEXT:0057] 
 +[FID:79, TEXT:0058] 
 
+--- Group [right:克拉雷特 next=2012] ---
+この世界における騎士
+のようなものです
+しかも、独特の剣術を
+身につけています
+-[FID:79, TEXT:0055] 
++[FID:79, TEXT:005C] 
++[FID:79, TEXT:005D] 
++[FID:79, TEXT:005E] 
+
 --- Group [left:艾多斯 next=2012] ---
 異界の剣術、か
 それも、かなり訓練を
@@ -290,7 +294,7 @@
 +[FID:79, TEXT:0060] 
 +[FID:79, TEXT:0061] 
 
---- Group [right:卡西斯 next=2012] ---
+--- Group [right:克拉雷特 next=2012] ---
 それがわかるならば、
 お主には納得できよう
 +[FID:79, TEXT:0062] 
@@ -350,11 +354,11 @@
 +[FID:79, TEXT:0075] 
 +[FID:79, TEXT:0076] 
 
---- Group [right:克拉雷特 next=2012] ---
+--- Group [right:索尔 next=2012] ---
 ・・・・・・
 +[FID:79, TEXT:0077] 
 
---- Group [right:克拉雷特 next=2012] ---
+--- Group [right:索尔 next=2012] ---
 どうやら、それなりの
 事情があるようで
 ござるな
@@ -368,13 +372,13 @@
 +[FID:79, TEXT:007B] 
 +[FID:79, TEXT:007C] 
 
---- Group [right:克拉雷特 next=2012] ---
+--- Group [right:基尔 next=2012] ---
 なるほど、事情は承知
 したでござる
 +[FID:79, TEXT:007D] 
 +[FID:79, TEXT:007E] 
 
---- Group [right:卡西斯 next=2012] ---
+--- Group [right:索尔 next=2012] ---
 お主たちが剣竜に勝て
 なければ、この世界が
 危ないのでござるな？

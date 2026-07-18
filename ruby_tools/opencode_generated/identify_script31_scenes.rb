@@ -5,9 +5,16 @@
 #   case 0 → FID 0x77, case 1 → FID 0x78, case 2 → FID 0x79,
 #   case 3 → FID 0x7A, case 4 → FID 0x7B
 #
-# c8[0x64]/c8[0x65] gates block variant text paths in FID-specific
-# text subs (mode=4 tests not forked by handle_0003).
-# Monkey-patch: fork c8[0x64]/c8[0x65] tests + skip all
+# c8[0x64]/c8[0x65]/c8[0x66] gates block variant text paths in
+# FID-specific text subs (mode=4 tests not forked by handle_0003).
+#
+# Gate map:
+#   c8[0x64] → TEXT:0002/0003, 0051, 0071 (FID 0x7B)
+#   c8[0x65] → TEXT:0026 (FID 0x77), 0011 (FID 0x79), 0010 (FID 0x7A)
+#   c8[0x66] → TEXT:004D (FID 0x79), TEXT:002A/2B/2C+004D/4E/4F (FID 0x7A)
+# FID 0x78 has no c8 gate in its text sub → fully covered by state machine.
+#
+# Monkey-patch: fork c8[0x64]/c8[0x65]/c8[0x66] tests + skip all
 # c4[0x95] writes. Iterate c4[0x95]=0..4.
 # ============================================================
 
@@ -41,8 +48,8 @@ def run_script31(commands, script_id, c4_95_value)
 
   old_dispatch = manager.method(:dispatch)
   manager.define_singleton_method(:dispatch) do |state, cmd, cmds|
-    # Fork c8[0x64] and c8[0x65] tests (mode=4, not forked by external_vars)
-    if cmd.code == 0x0003 && cmd.params[0] == 4 && [0x64, 0x65].include?(cmd.params[1])
+    # Fork c8[0x64]/c8[0x65]/c8[0x66] tests (mode=4, not forked by external_vars)
+    if cmd.code == 0x0003 && cmd.params[0] == 4 && [0x64, 0x65, 0x66].include?(cmd.params[1])
       old_pc = state.pc
       val = state.read_c8(cmd.params[1])
       result = (val == 0)
