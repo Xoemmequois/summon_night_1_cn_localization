@@ -43,26 +43,39 @@ def run_with_c4_95(commands, script_id, c4_95_value)
   manager.index_to_pc = {}
   commands.each_with_index { |c, i| manager.index_to_pc[c.index] = i }
 
-  # 0x21 for FID 0x8E gate (F9=4 handler); 0xC6 for internal char routing; do NOT add 0x95
-  manager.external_vars = VMState::EXTERNAL_VARS.dup + [0x21, 0xC6]
+  # 0x21 for FID 0x8E gate (F9=4 handler); 0xC6 for internal char routing;
+  # 0xE2 guards CALL 0x1B4A (sub containing 44 unclaimed 0x2013 for FID 0x8E)
+  manager.external_vars = VMState::EXTERNAL_VARS.dup + [0x21, 0xC6, 0xE2]
 
   # Monkey-patches:
   # 1) skip CLEAR c4[0x95] at 0x03B5 (F9=0xA entry)
-  # 2) skip SET c4[0x95]=1 at 0x0563 (F9=7 entry — only when c4[0x95]≠1)
-  # 3) skip SET c4[0x95]=2 at 0x050E (F9=4 entry — only when c4[0x95]≠2)
+  # 2) skip SET c4[0x95]=1 at 0x0563
+  # 3) skip SET c4[0x95]=2 at 0x050E
+  # 4) fork at dead goto 0x1069: switch c4[0x99] 的所有 case handler 汇总到
+  #    goto 0x1069→0x108D, 跳过了 0x106B 处的 c4[0xE2]==0 守卫和 CALL 0x1B4A.
+  #    Fork: 保留 goto 跳转路径 + 强制 fall-through 到 0x106B.
   skip_95_writes = [0x03B5, 0x050E, 0x0563]
   old_dispatch = manager.method(:dispatch)
   manager.define_singleton_method(:dispatch) do |state, cmd, cmds|
     if skip_95_writes.include?(cmd.index)
       if cmd.code == 0x0001 && cmd.params[0] == 2 && cmd.params[1] == 0x95
-        # CLEAR c4[0x95] at 0x03B5
         state.pc += 1
         return true
       elsif cmd.code == 0x0010 && cmd.params[0] == 0x95
-        # SET c4[0x95]=N at 0x050E or 0x0563
         state.pc += 1
         return true
       end
+    end
+    # Dead goto 0x1069: fork to also reach 0x106B → c4[0xE2] guard → CALL 0x1B4A
+    if cmd.code == 0x0023 && cmd.index == 0x1069
+      fork_state = state.clone
+      t = index_to_pc[cmd.params[0]]
+      if t
+        fork_state.pc = t  # existing path: goto 0x108D
+        push(fork_state)
+      end
+      state.pc += 1  # new path: fall through to 0x106B
+      return true
     end
     old_dispatch.call(state, cmd, cmds)
   end
