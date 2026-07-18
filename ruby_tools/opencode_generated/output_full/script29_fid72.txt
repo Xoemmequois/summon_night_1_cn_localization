@@ -1,6 +1,6 @@
 --- Group 1 [left:none next=0023] ---
 [FID:72, TEXT:0001] ３人とも、どこへ
-[FID:72, TEXT:0002] 行ったんだろう？
+[FID:72, TEXT:0003] 行ったのかな？
 
 --- Group 2 [left:none next=0023] ---
 [FID:72, TEXT:0001] ３人とも、どこへ
@@ -8,7 +8,7 @@
 
 --- Group 3 [left:none next=0023] ---
 [FID:72, TEXT:0001] ３人とも、どこへ
-[FID:72, TEXT:0003] 行ったのかな？
+[FID:72, TEXT:0002] 行ったんだろう？
 
 --- Group 4 [right:none next=2012] ---
 [FID:72, TEXT:0005] 川原とか、あの子たち
@@ -17,19 +17,19 @@
 
 --- Group 5 [left:none next=0023] ---
 [FID:72, TEXT:0008] 街の外とかに出たって
-[FID:72, TEXT:0009] ことはないよな
+[FID:72, TEXT:000A] ことはないよね
 
 --- Group 6 [left:none next=0023] ---
 [FID:72, TEXT:0008] 街の外とかに出たって
-[FID:72, TEXT:000A] ことはないよね
+[FID:72, TEXT:0009] ことはないよな
 
 --- Group 7 [left:none next=0023] ---
 [FID:72, TEXT:000B] 街の外に出ているって
-[FID:72, TEXT:000C] ことはありませんか
+[FID:72, TEXT:000A] ことはないよね
 
 --- Group 8 [left:none next=0023] ---
 [FID:72, TEXT:000B] 街の外に出ているって
-[FID:72, TEXT:000A] ことはないよね
+[FID:72, TEXT:000C] ことはありませんか
 
 --- Group 9 [right:none next=2012] ---
 [FID:72, TEXT:000D] それはないと思うわ
@@ -84,12 +84,12 @@
 
 --- Group 21 [left:none next=0023] ---
 [FID:72, TEXT:001F] まだ街の全部を探した
-[FID:72, TEXT:0023] わけじゃないんだ
+[FID:72, TEXT:0027] わけじゃないし
 [FID:72, TEXT:0024] 大丈夫だよ
 
 --- Group 22 [left:none next=0023] ---
 [FID:72, TEXT:001F] まだ街の全部を探した
-[FID:72, TEXT:0027] わけじゃないし
+[FID:72, TEXT:0023] わけじゃないんだ
 [FID:72, TEXT:0024] 大丈夫だよ
 
 --- Group 23 [left:none next=0023] ---
@@ -162,20 +162,20 @@
 --- Group 39 [left:none next=0023] ---
 [FID:72, TEXT:0047] 迷惑じゃないですよ
 
---- Group 40 [right:none next=2012] ---
+--- Group 40 [right:char_0034 next=2012] ---
 [FID:72, TEXT:0048] ・・・・・・
 
---- Group 41 [right:char_0034 next=2012] ---
+--- Group 41 [right:none next=2012] ---
 [FID:72, TEXT:0048] ・・・・・・
 
 --- Group 42 [left:none next=2012] ---
 [FID:72, TEXT:0049] ずっといろいろなこと
-[FID:72, TEXT:004F] 続きで、忘れてしまっ
+[FID:72, TEXT:0053] 続きで、忘れちゃって
 [FID:72, TEXT:0050] たかもしれないけど
 
 --- Group 43 [left:none next=2012] ---
 [FID:72, TEXT:0049] ずっといろいろなこと
-[FID:72, TEXT:0053] 続きで、忘れちゃって
+[FID:72, TEXT:004F] 続きで、忘れてしまっ
 [FID:72, TEXT:0050] たかもしれないけど
 
 --- Group 44 [left:none next=2012] ---
@@ -185,23 +185,23 @@
 
 --- Group 45 [left:none next=0023] ---
 [FID:72, TEXT:004C] こういう時のために、
-[FID:72, TEXT:004D] 俺たちは一緒に暮らし
-[FID:72, TEXT:004E] てるんだぜ？
-
---- Group 46 [left:none next=0023] ---
-[FID:72, TEXT:004C] こういう時のために、
-[FID:72, TEXT:0051] 僕たちは一緒に暮らし
-[FID:72, TEXT:0052] てるんだろう？
-
---- Group 47 [left:none next=0023] ---
-[FID:72, TEXT:004C] こういう時のために、
 [FID:72, TEXT:0054] あたしたち、みんなで
 [FID:72, TEXT:0055] 暮らしてるんでしょ？
 
---- Group 48 [left:none next=0023] ---
+--- Group 46 [left:none next=0023] ---
 [FID:72, TEXT:004C] こういう時のために、
 [FID:72, TEXT:0056] 私たちは一緒に暮らし
 [FID:72, TEXT:0057] てるんでしょう？
+
+--- Group 47 [left:none next=0023] ---
+[FID:72, TEXT:004C] こういう時のために、
+[FID:72, TEXT:004D] 俺たちは一緒に暮らし
+[FID:72, TEXT:004E] てるんだぜ？
+
+--- Group 48 [left:none next=0023] ---
+[FID:72, TEXT:004C] こういう時のために、
+[FID:72, TEXT:0051] 僕たちは一緒に暮らし
+[FID:72, TEXT:0052] てるんだろう？
 
 --- Group 49 [right:none next=2012] ---
 [FID:72, TEXT:0058] そう、だよね・・・
@@ -221,18 +221,18 @@
 
 --- Group 53 [left:none next=0023] ---
 [FID:72, TEXT:005F] リプレのせいじゃない
-[FID:72, TEXT:0060] 俺たちだって、責任は
-[FID:72, TEXT:0061] あるよ
-
---- Group 54 [left:none next=0023] ---
-[FID:72, TEXT:005F] リプレのせいじゃない
 [FID:72, TEXT:0062] 僕たちだって、責任は
 [FID:72, TEXT:0063] あるんだ
 
---- Group 55 [left:none next=0023] ---
+--- Group 54 [left:none next=0023] ---
 [FID:72, TEXT:005F] リプレのせいじゃない
 [FID:72, TEXT:0064] あたしたちにだって、
 [FID:72, TEXT:0065] 責任はあるよ
+
+--- Group 55 [left:none next=0023] ---
+[FID:72, TEXT:005F] リプレのせいじゃない
+[FID:72, TEXT:0060] 俺たちだって、責任は
+[FID:72, TEXT:0061] あるよ
 
 --- Group 56 [left:none next=0023] ---
 [FID:72, TEXT:0066] それは違います
@@ -241,36 +241,36 @@
 
 --- Group 57 [left:none next=2012] ---
 [FID:72, TEXT:0069] ずっと思ってたんだ
-[FID:72, TEXT:0070] 僕たちは君の優しさに
-[FID:72, TEXT:0071] 甘えすぎているんじゃ
-[FID:72, TEXT:0072] ないのかって
-
---- Group 58 [left:none next=2012] ---
-[FID:72, TEXT:0069] ずっと思ってたんだ
 [FID:72, TEXT:006A] 俺たちは君の優しさに
 [FID:72, TEXT:006B] 甘えすぎていたんじゃ
 [FID:72, TEXT:006C] ないかって
 
+--- Group 58 [left:none next=2012] ---
+[FID:72, TEXT:0069] ずっと思ってたんだ
+[FID:72, TEXT:0070] 僕たちは君の優しさに
+[FID:72, TEXT:0071] 甘えすぎているんじゃ
+[FID:72, TEXT:0072] ないのかって
+
 --- Group 59 [left:none next=0023] ---
+[FID:72, TEXT:006D] 戦いにかまけてばかり
+[FID:72, TEXT:006E] で、子供たちのことを
+[FID:72, TEXT:006F] 君だけに押しつけてさ
+
+--- Group 60 [left:none next=0023] ---
 [FID:72, TEXT:006D] 戦いにかまけてばかり
 [FID:72, TEXT:006E] で、子供たちのことを
 [FID:72, TEXT:0073] 君だけに押しつけて
 
---- Group 60 [left:none next=0023] ---
+--- Group 61 [left:none next=0023] ---
 [FID:72, TEXT:006D] 戦いにかまけてばかり
 [FID:72, TEXT:0078] で、子供たちのことは
 [FID:72, TEXT:0079] あなたに任せっきりで
 
---- Group 61 [left:none next=0023] ---
+--- Group 62 [left:none next=0023] ---
 [FID:72, TEXT:006D] 戦いにかまけてばかり
 [FID:72, TEXT:007C] で、子供たちの世話を
 [FID:72, TEXT:007D] 貴方一人に任せてしま
 [FID:72, TEXT:007E] って・・・
-
---- Group 62 [left:none next=0023] ---
-[FID:72, TEXT:006D] 戦いにかまけてばかり
-[FID:72, TEXT:006E] で、子供たちのことを
-[FID:72, TEXT:006F] 君だけに押しつけてさ
 
 --- Group 63 [left:none next=2012] ---
 [FID:72, TEXT:0074] ずっと思ってた
