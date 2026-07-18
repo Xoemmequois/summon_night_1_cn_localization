@@ -6,15 +6,15 @@
 
 --- Group [left:none next=2012] ---
 これが・・・
-魔王の力！？
--[FID:8D, TEXT:0001] 
-+[FID:8D, TEXT:0005] 
-
---- Group [left:none next=2012] ---
-これが・・・
 魔王の力・・・
 -[FID:8D, TEXT:0001] 
 +[FID:8D, TEXT:0008] 
+
+--- Group [left:none next=2012] ---
+これが・・・
+魔王の力！？
+-[FID:8D, TEXT:0001] 
++[FID:8D, TEXT:0005] 
 
 --- Group [left:none next=0023] ---
 吠え声だけで
@@ -55,18 +55,18 @@
 --- Group [left:主人公 next=0023] ---
 このまま何もできずに
 世界は終わってしまう
-の・・・
+のか・・・！？
 +[FID:8D, TEXT:0011] 
 +[FID:8D, TEXT:0012] 
-+[FID:8D, TEXT:0020] 
++[FID:8D, TEXT:0013] 
 
 --- Group [left:主人公 next=0023] ---
 このまま何もできずに
 世界は終わってしまう
-のか・・・！？
+の・・・
 -[FID:8D, TEXT:0011] 
 -[FID:8D, TEXT:0012] 
-+[FID:8D, TEXT:0013] 
++[FID:8D, TEXT:0020] 
 
 --- Group [left:主人公 next=0023] ---
 このまま何もできずに
@@ -124,11 +124,15 @@
 +[FID:8D, TEXT:0023] 
 +[FID:8D, TEXT:0024] 
 
+--- Group [left:主人公 next=0005] ---
+あの夜に聞いた・・・
++[FID:8D, TEXT:0025] 
+
 --- Group [left:主人公 next=2012] ---
 あの夜に聞いた・・・
 クラレットの
 言葉・・・？
-+[FID:8D, TEXT:0025] 
+-[FID:8D, TEXT:0025] 
 +[FID:8D, TEXT:0055] 
 +[FID:8D, TEXT:0028] 
 
@@ -182,23 +186,15 @@
 
 --- Group [left:主人公 next=2012] ---
 あたし・・・
-悲鳴をあげていたの
-+[FID:8D, TEXT:0034] 
-+[FID:8D, TEXT:0049] 
-
---- Group [left:主人公 next=2012] ---
-あたし・・・
 ソルと約束したもの！
--[FID:8D, TEXT:0034] 
++[FID:8D, TEXT:0034] 
 +[FID:8D, TEXT:0035] 
 
 --- Group [left:主人公 next=2012] ---
 あたし・・・
-キールと
-約束したもの！
+悲鳴をあげていたの
 -[FID:8D, TEXT:0034] 
-+[FID:8D, TEXT:0045] 
-+[FID:8D, TEXT:0046] 
++[FID:8D, TEXT:0049] 
 
 --- Group [left:主人公 next=2012] ---
 あたし・・・
@@ -206,6 +202,14 @@
 約束したもの！
 -[FID:8D, TEXT:0034] 
 +[FID:8D, TEXT:005B] 
++[FID:8D, TEXT:0046] 
+
+--- Group [left:主人公 next=2012] ---
+あたし・・・
+キールと
+約束したもの！
+-[FID:8D, TEXT:0034] 
++[FID:8D, TEXT:0045] 
 -[FID:8D, TEXT:0046] 
 
 --- Group [left:主人公 next=0023] ---
@@ -218,10 +222,10 @@
 
 --- Group [left:主人公 next=2012] ---
 わたし・・・
-キールさんと
+ソルさんと
 約束しました！
 +[FID:8D, TEXT:0038] 
-+[FID:8D, TEXT:0047] 
++[FID:8D, TEXT:0039] 
 +[FID:8D, TEXT:003A] 
 
 --- Group [left:主人公 next=2012] ---
@@ -234,10 +238,10 @@
 
 --- Group [left:主人公 next=2012] ---
 わたし・・・
-ソルさんと
+キールさんと
 約束しました！
 -[FID:8D, TEXT:0038] 
-+[FID:8D, TEXT:0039] 
++[FID:8D, TEXT:0047] 
 -[FID:8D, TEXT:003A] 
 
 --- Group [left:主人公 next=0023] ---
@@ -418,15 +422,15 @@
 
 --- Group [left:主人公 next=0023] ---
 大切なものたちを
-守らせて！
--[FID:8D, TEXT:006E] 
-+[FID:8D, TEXT:0079] 
-
---- Group [left:主人公 next=0023] ---
-大切なものたちを
 守らせて！！
 -[FID:8D, TEXT:006E] 
 +[FID:8D, TEXT:0076] 
+
+--- Group [left:主人公 next=0023] ---
+大切なものたちを
+守らせて！
+-[FID:8D, TEXT:006E] 
++[FID:8D, TEXT:0079] 
 
 --- Group [left:主人公 next=0023] ---
 大切なものたちを
@@ -487,6 +491,46 @@
 +[FID:8D, TEXT:007B] 
 -[FID:8D, TEXT:006E] 
 -[FID:8D, TEXT:0072] 
+
+--- Group [left:主人公 next=2012] ---
+約束、して・・・
++[FID:8D, TEXT:007C] 
+
+--- Group [left:主人公 next=2012] ---
+絶対に帰ってくるって
+約束して！
++[FID:8D, TEXT:007D] 
++[FID:8D, TEXT:007E] 
+
+--- Group [left:主人公 next=2012] ---
+待ってるから・・・
++[FID:8D, TEXT:007F] 
+
+--- Group [left:主人公 next=2012] ---
+約束・・・
+したんだからね・・・
++[FID:8D, TEXT:0080] 
++[FID:8D, TEXT:0081] 
+
+--- Group [left:主人公 next=2012] ---
+俺は、リプレと約束を
+したじゃないか？
++[FID:8D, TEXT:0082] 
++[FID:8D, TEXT:0083] 
+
+--- Group [left:主人公 next=0023] ---
+帰ってくるって！！
++[FID:8D, TEXT:0084] 
+
+--- Group [left:主人公 next=2012] ---
+僕は、リプレと約束を
+したじゃないか？
++[FID:8D, TEXT:0085] 
+-[FID:8D, TEXT:0083] 
+
+--- Group [left:主人公 next=0023] ---
+帰ってくるんだと！！
++[FID:8D, TEXT:0086] 
 
 --- Group [left:主人公 next=2012] ---
 お前は・・・

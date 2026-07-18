@@ -77,6 +77,21 @@ def run_with_c4_95(commands, script_id, c4_95_value)
       state.pc += 1  # new path: fall through to 0x106B
       return true
     end
+    # FID 0x8D c4[0xE1]==0x15 gate at 0x07C6: only reached when c4[0xE1]==0x15,
+    # but c4[0xE1] defaults to 0 → 0x0021 never jumps → CALL 0x0E4F unreachable.
+    # Fork regB bit0=1 at 0x07C6 to take the jump and reach sub 0x0E4F.
+    if cmd.code == 0x0021 && cmd.index == 0x07C6
+      fork_state = state.clone
+      fork_state.regB = fork_state.regB | 1  # force regB bit0=1 → jump
+      t = index_to_pc[cmd.params[0]]
+      if t
+        fork_state.pc = t
+        push(fork_state)
+      end
+      state.regB = state.regB & 0xFE  # regB bit0=0 → fall through (existing)
+      state.pc += 1
+      return true
+    end
     old_dispatch.call(state, cmd, cmds)
   end
 
