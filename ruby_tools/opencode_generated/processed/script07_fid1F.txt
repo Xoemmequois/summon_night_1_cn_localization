@@ -134,7 +134,7 @@
 +[FID:1F, TEXT:002E] 只要知道方法
 +[FID:1F, TEXT:002F] 召唤术谁都能用
 
---- Group [right:克拉雷特 next=2012] ---G
+--- Group [right:克拉蕾特 next=2012] ---G
 方法さえ知っていれば
 召喚術は誰でも使える
 ものなんです
@@ -176,7 +176,7 @@
 +[FID:1F, TEXT:003A] 因为连咒文和仪式
 +[FID:1F, TEXT:003B] 都不需要
 
---- Group [right:克拉雷特 next=2012] ---G
+--- Group [right:克拉蕾特 next=2012] ---G
 あんなことは熟達した
 召喚師でも無理ですし
 +[FID:1F, TEXT:003C] 那种事就连熟练的
@@ -344,7 +344,7 @@
 +[FID:1F, TEXT:0066] 并不太可靠
 +[FID:1F, TEXT:0067] 啊
 
---- Group [right:克拉雷特 next=2012] ---G
+--- Group [right:克拉蕾特 next=2012] ---G
 いちいちサモナイト石
 を消耗しますし望んだ
 召喚術を確実に使える
@@ -364,7 +364,7 @@
 +[FID:1F, TEXT:006A] 想要的召唤术啊
 +[FID:1F, TEXT:006B] 
 
---- Group [right:卡西斯 next=2012] ---G
+--- Group [right:卡茜丝 next=2012] ---G
 いちいちサモナイト石
 を消耗するし、望んだ
 召喚術が確実に使える
@@ -434,7 +434,7 @@
 +[FID:1F, TEXT:0079] 就能随时自由地
 +[FID:1F, TEXT:007A] 召唤出来
 
---- Group [right:卡西斯 next=2012] ---G
+--- Group [right:卡茜丝 next=2012] ---G
 名前をつけた召喚獣は
 魔力を消費するだけで
 いつでも自由に呼べる
@@ -444,7 +444,7 @@
 -[FID:1F, TEXT:0079] 就能随时自由地
 +[FID:1F, TEXT:00EB] 召唤出来哦
 
---- Group [right:克拉雷特 next=2012] ---G
+--- Group [right:克拉蕾特 next=2012] ---G
 名前をつけた召喚獣は
 魔力を消費するだけで
 いつでも自由に呼べる
@@ -460,7 +460,7 @@
 +[FID:1F, TEXT:007B] 即使不是取名字的那个
 +[FID:1F, TEXT:00B9] 人也可以
 
---- Group [right:克拉雷特 next=2012] ---G
+--- Group [right:克拉蕾特 next=2012] ---G
 たとえ名づけた本人で
 なくても
 -[FID:1F, TEXT:007B] 即使不是取名字的那个
@@ -514,7 +514,7 @@
 +[FID:1F, TEXT:0084] 不能教给普通人的……
 +[FID:1F, TEXT:0085] 
 
---- Group [right:卡西斯 next=2012] ---G
+--- Group [right:卡茜丝 next=2012] ---G
 本当なら、こんなこと
 をぺらぺらと喋っちゃ
 ダメなんだけど・・・
@@ -650,7 +650,7 @@
 +[FID:1F, TEXT:00AB] 召唤术的基础步骤
 +[FID:1F, TEXT:00AC] 
 
---- Group [right:卡西斯 next=2012] ---G
+--- Group [right:卡茜丝 next=2012] ---G
 そうならないためにも
 これからあたしが召喚
 術の初歩を教えたげる
@@ -722,7 +722,7 @@
 キールさん・・・
 +[FID:1F, TEXT:00C3] 基尔先生……
 
---- Group [right:卡西斯 next=2012] ---G
+--- Group [right:卡茜丝 next=2012] ---G
 キミのあの不思議な力
 の使い方を、教えたげ
 ようと思ってね
@@ -742,7 +742,7 @@
 +[FID:1F, TEXT:00C9] 那到底是……
 +[FID:1F, TEXT:00CA] 什么东西啊？
 
---- Group [right:卡西斯 next=2012] ---G
+--- Group [right:卡茜丝 next=2012] ---G
 んー、あたしも断言は
 できないんだけどね、
 おそらく【召喚術】の
@@ -752,11 +752,11 @@
 -[FID:1F, TEXT:0095] 但恐怕是
 +[FID:1F, TEXT:00CD] 【召唤术】的一种
 
---- Group [right:卡西斯 next=2012] ---G
+--- Group [right:卡茜丝 next=2012] ---G
 あ、それは思いこみ
 +[FID:1F, TEXT:00CE] 啊，那是你的误会
 
---- Group [right:卡西斯 next=2012] ---G
+--- Group [right:卡茜丝 next=2012] ---G
 方法さえ知ってれば、
 召喚術は誰でも
 使えるもんなのよ
@@ -764,7 +764,7 @@
 +[FID:1F, TEXT:00D0] 召唤术谁都能
 +[FID:1F, TEXT:00D1] 用
 
---- Group [right:卡西斯 next=2012] ---G
+--- Group [right:卡茜丝 next=2012] ---G
 まあ、それはともかく
 キミの場合は呪文すら
 いらないし、まったく
@@ -774,17 +774,17 @@
 +[FID:1F, TEXT:00D4] 这完全是
 +[FID:1F, TEXT:00D5] 另一个次元的力量啊
 
---- Group [right:卡西斯 next=2012] ---G
+--- Group [right:卡茜丝 next=2012] ---G
 あんなことは召喚師
 だってできないもん
 +[FID:1F, TEXT:00D6] 那种事就连召唤师
 +[FID:1F, TEXT:00D7] 也做不到
 
---- Group [right:卡西斯 next=2012] ---G
+--- Group [right:卡茜丝 next=2012] ---G
 ただし、問題もあるわ
 +[FID:1F, TEXT:00D9] 不过，也有问题
 
---- Group [right:卡西斯 next=2012] ---G
+--- Group [right:卡茜丝 next=2012] ---G
 キミの召喚術は我流よ
 きちんとした制御法を
 学んでないから下手す
@@ -794,7 +794,7 @@
 +[FID:1F, TEXT:00DB] 控制方法，搞
 +[FID:1F, TEXT:00DC] 不好会暴走
 
---- Group [right:卡西斯 next=2012] ---G
+--- Group [right:卡茜丝 next=2012] ---G
 覚えたかな？
 +[FID:1F, TEXT:00E0] 记住了吗？
 
@@ -806,7 +806,7 @@
 -[FID:1F, TEXT:005A] 先集中精神
 -[FID:1F, TEXT:005F] 到【召唤石】上……
 
---- Group [right:卡西斯 next=2012] ---G
+--- Group [right:卡茜丝 next=2012] ---G
 でも、この方法だけじ
 ゃいまいち役に
 立たないのよねえ
@@ -818,7 +818,7 @@
 ですよね・・・
 +[FID:1F, TEXT:00E6] 也是呢……
 
---- Group [right:卡西斯 next=2012] ---G
+--- Group [right:卡茜丝 next=2012] ---G
 だからあたしたちは、
 【誓約】という儀式を
 一緒に行うの
@@ -826,7 +826,7 @@
 -[FID:1F, TEXT:0070] 会一起进行名为【誓约
 +[FID:1F, TEXT:00E8] 】的仪式
 
---- Group [right:卡西斯 next=2012] ---G
+--- Group [right:卡茜丝 next=2012] ---G
 うん
 呼び出された召喚獣に
 名前をつける儀式よ
@@ -834,11 +834,11 @@
 -[FID:1F, TEXT:0075] 是给被召唤出来的召唤
 +[FID:1F, TEXT:00EA] 兽取名字的仪式
 
---- Group [right:卡西斯 next=2012] ---G
+--- Group [right:卡茜丝 next=2012] ---G
 そーゆーこと
 +[FID:1F, TEXT:00EC] 就是这样
 
---- Group [right:卡西斯 next=2012] ---G
+--- Group [right:卡茜丝 next=2012] ---G
 場合が場合だしね
 キミたちを信じて特別
 に教えたげるわ
@@ -848,13 +848,13 @@
 
 --- Group [left:主人公 next=0023] ---G
 カシス・・・
-+[FID:1F, TEXT:00F2] 卡西斯……
++[FID:1F, TEXT:00F2] 卡茜丝……
 
 --- Group [left:主人公 next=0023] ---G
 カシスさん・・・
-+[FID:1F, TEXT:00F3] 卡西斯小姐……
++[FID:1F, TEXT:00F3] 卡茜丝小姐……
 
---- Group [right:克拉雷特 next=2012] ---G
+--- Group [right:克拉蕾特 next=2012] ---G
 貴方の持っている力に
 ついて、お話ししたい
 と思って
@@ -876,7 +876,7 @@
 +[FID:1F, TEXT:00FA] 用的……
 +[FID:1F, TEXT:00FB] 那到底是什么？
 
---- Group [right:克拉雷特 next=2012] ---G
+--- Group [right:克拉蕾特 next=2012] ---G
 私もよくはわからない
 のですけど、おそらく
 【召喚術】の一種では
@@ -896,11 +896,11 @@
 +[FID:1F, TEXT:0101] 才能用
 +[FID:1F, TEXT:0102] 的吗？
 
---- Group [right:克拉雷特 next=2012] ---G
+--- Group [right:克拉蕾特 next=2012] ---G
 いえ、それは違います
 +[FID:1F, TEXT:0103] 不，不是那样的
 
---- Group [right:克拉雷特 next=2012] ---G
+--- Group [right:克拉蕾特 next=2012] ---G
 あ・・・それより貴方
 の場合ですが、呪文を
 必要としない時点で、
@@ -918,11 +918,11 @@
 +[FID:1F, TEXT:010B] 这么厉害的事
 +[FID:1F, TEXT:010C] 啊
 
---- Group [right:克拉雷特 next=2012] ---G
+--- Group [right:克拉蕾特 next=2012] ---G
 ただ・・・
 +[FID:1F, TEXT:010D] 只是……
 
---- Group [right:克拉雷特 next=2012] ---G
+--- Group [right:克拉蕾特 next=2012] ---G
 貴方の召喚術はいわば
 我流です。正式な技法
 を学んでおかないと暴
@@ -936,7 +936,7 @@
 ええ〜っ
 +[FID:1F, TEXT:0112] 诶诶～！
 
---- Group [right:克拉雷特 next=2012] ---G
+--- Group [right:克拉蕾特 next=2012] ---G
 ですから、これから私
 が召喚術の初歩を貴方
 にお教えします。よく
@@ -946,7 +946,7 @@
 +[FID:1F, TEXT:0115] 请好好听
 +[FID:1F, TEXT:0116] 着
 
---- Group [right:克拉雷特 next=2012] ---G
+--- Group [right:克拉蕾特 next=2012] ---G
 覚えましたか？
 +[FID:1F, TEXT:0117] 记住了吗？
 
@@ -966,7 +966,7 @@
 +[FID:1F, TEXT:011A] 【召唤术】就发动了！
 +[FID:1F, TEXT:011B] 对吧？
 
---- Group [right:克拉雷特 next=2012] ---G
+--- Group [right:克拉蕾特 next=2012] ---G
 ええ・・・ですがこの
 方法は基礎だけあって
 不都合も多いんです
@@ -978,7 +978,7 @@
 だめじゃん・・・
 +[FID:1F, TEXT:0122] 不行啊……
 
---- Group [right:克拉雷特 next=2012] ---G
+--- Group [right:克拉蕾特 next=2012] ---G
 ですから召喚師は普通
 【誓約】という儀式を
 一緒に行うんです
@@ -986,7 +986,7 @@
 -[FID:1F, TEXT:0070] 会一起进行名为【誓约
 +[FID:1F, TEXT:0124] 】的仪式，一起去吧
 
---- Group [right:克拉雷特 next=2012] ---G
+--- Group [right:克拉蕾特 next=2012] ---G
 ええ
 呼び出された召喚獣に
 名前をつける儀式です
@@ -1000,11 +1000,11 @@
 +[FID:1F, TEXT:0129] 这就是你刚才说的
 +[FID:1F, TEXT:012A] 特别的方法？
 
---- Group [right:克拉雷特 next=2012] ---G
+--- Group [right:克拉蕾特 next=2012] ---G
 そういうことです
 +[FID:1F, TEXT:012B] 正是如此
 
---- Group [right:克拉雷特 next=2012] ---G
+--- Group [right:克拉蕾特 next=2012] ---G
 本来なら、普通の人に
 教えるべきことではな
 いのですが・・・
@@ -1012,7 +1012,7 @@
 +[FID:1F, TEXT:012D] 是不该教给普通人
 +[FID:1F, TEXT:012E] 的事情……
 
---- Group [right:克拉雷特 next=2012] ---G
+--- Group [right:克拉蕾特 next=2012] ---G
 貴方たちのことを信じ
 て、私、特別にお教え
 しようと思います
@@ -1022,7 +1022,7 @@
 
 --- Group [left:主人公 next=2012] ---G
 クラレット・・・
-+[FID:1F, TEXT:0132] 克拉雷特……
++[FID:1F, TEXT:0132] 克拉蕾特……
 
 --- Group [left:主人公 next=0023] ---G
 ・・・というわけでさ

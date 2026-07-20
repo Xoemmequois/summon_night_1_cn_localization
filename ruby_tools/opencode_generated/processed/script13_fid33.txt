@@ -130,19 +130,19 @@
 +[FID:33, TEXT:0021] 那我就在
 +[FID:33, TEXT:0022] 这里等着
 
---- Group [right:卡西斯 next=2012] ---G
+--- Group [right:卡茜丝 next=2012] ---G
 さて、さっそく調べる
 としますかね
 +[FID:33, TEXT:0023] 好了，这就
 +[FID:33, TEXT:0024] 开始调查吧
 
---- Group [right:卡西斯 next=2012] ---G
+--- Group [right:卡茜丝 next=2012] ---G
 あ、とりあえずあたし
 ひとりでやってみる
 +[FID:33, TEXT:0025] 啊，我先
 +[FID:33, TEXT:0026] 自己试试看
 
---- Group [right:克拉雷特 next=2012] ---G
+--- Group [right:克拉蕾特 next=2012] ---G
 ええ、さっそく調べて
 みますね
 +[FID:33, TEXT:0029] 嗯，这就
@@ -154,7 +154,7 @@
 +[FID:33, TEXT:002B] 有什么需要
 -[FID:33, TEXT:0006] 帮忙的吗？
 
---- Group [right:克拉雷特 next=2012] ---G
+--- Group [right:克拉蕾特 next=2012] ---G
 いえ、とりあえずは私
 ひとりで大丈夫です
 +[FID:33, TEXT:002C] 不，暂时
@@ -182,11 +182,11 @@
 
 --- Group [left:主人公 next=0023] ---G
 カシスは
-+[FID:33, TEXT:0034] 卡西斯她
++[FID:33, TEXT:0034] 卡茜丝她
 
 --- Group [left:主人公 next=0023] ---G
 クラレットは
-+[FID:33, TEXT:0035] 克拉雷特她
++[FID:33, TEXT:0035] 克拉蕾特她
 
 --- Group [left:主人公 next=2012] ---G
 やっぱり、なにかを
@@ -246,11 +246,11 @@
 
 --- Group [left:主人公 next=0023] ---G
 カシスってば
-+[FID:33, TEXT:0046] 卡西斯她啊
++[FID:33, TEXT:0046] 卡茜丝她啊
 
 --- Group [left:主人公 next=0023] ---G
 クラレットってば
-+[FID:33, TEXT:0047] 克拉雷特她啊
++[FID:33, TEXT:0047] 克拉蕾特她啊
 
 --- Group [left:主人公 next=2012] ---G
 なんか隠しごとしてる
@@ -294,7 +294,7 @@
 
 --- Group [left:主人公 next=0023] ---G
 カシスさんは
-+[FID:33, TEXT:0056] 卡西斯小姐
++[FID:33, TEXT:0056] 卡茜丝小姐
 
 --- Group [left:主人公 next=2012] ---G
 そう考えないと
@@ -507,7 +507,7 @@
 あれは、カシスさん
 じゃ、ありませんか？
 -[FID:33, TEXT:008E] 那时的呼唤声
-+[FID:33, TEXT:0113] 那个，是卡西斯小姐
++[FID:33, TEXT:0113] 那个，是卡茜丝小姐
 +[FID:33, TEXT:0114] 对吧？
 
 --- Group [left:主人公 next=0023] ---G
@@ -644,7 +644,7 @@
 +[FID:33, TEXT:00B4] 我就是
 -[FID:33, TEXT:00B5] 忍不住这么想
 
---- Group [right:克拉雷特 next=2012] ---G
+--- Group [right:克拉蕾特 next=2012] ---G
 でも・・・
 今じゃ確信してるよ
 -[FID:33, TEXT:00B3] 但是……
@@ -760,7 +760,7 @@
 +[FID:33, TEXT:00CD] 直到刚才
 +[FID:33, TEXT:00CE] 我都完全忘记了
 
---- Group [right:卡西斯 next=2012] ---G
+--- Group [right:卡茜丝 next=2012] ---G
 声？
 +[FID:33, TEXT:00D1] 声音？
 
@@ -840,7 +840,7 @@
 +[FID:33, TEXT:00EF] 我，来到了这里
 +[FID:33, TEXT:00F0] 我觉得是这样
 
---- Group [right:卡西斯 next=2012] ---G
+--- Group [right:卡茜丝 next=2012] ---G
 ・・・どうして？
 +[FID:33, TEXT:00F3] ……为什么？
 
@@ -862,11 +862,11 @@
 -[FID:33, TEXT:00B4] 我就是
 -[FID:33, TEXT:00B5] 忍不住这么想
 
---- Group [right:卡西斯 next=2012] ---G
+--- Group [right:卡茜丝 next=2012] ---G
 お待たせ
 +[FID:33, TEXT:00F9] 久等了
 
---- Group [right:卡西斯 next=2012] ---G
+--- Group [right:卡茜丝 next=2012] ---G
 やっぱ、あたしの知識
 じゃダメみたい
 ・・・ゴメンね
@@ -890,17 +890,17 @@
 
 --- Group [left:主人公 next=0023] ---G
 なあ、カシス
-+[FID:33, TEXT:0100] 喂，卡西斯
++[FID:33, TEXT:0100] 喂，卡茜丝
 
 --- Group [left:主人公 next=0023] ---G
 カシス？
-+[FID:33, TEXT:0101] 卡西斯？
++[FID:33, TEXT:0101] 卡茜丝？
 
 --- Group [left:主人公 next=0023] ---G
 カシスさん・・・
-+[FID:33, TEXT:0102] 卡西斯小姐……
++[FID:33, TEXT:0102] 卡茜丝小姐……
 
---- Group [right:卡西斯 next=2012] ---G
+--- Group [right:卡茜丝 next=2012] ---G
 なぁに？
 +[FID:33, TEXT:0103] 什么事？
 
@@ -948,11 +948,11 @@
 +[FID:33, TEXT:0111] 是啊……
 +[FID:33, TEXT:0112] 我是这么想的……
 
---- Group [right:克拉雷特 next=2012] ---G
+--- Group [right:克拉蕾特 next=2012] ---G
 お待たせしました
 +[FID:33, TEXT:0116] 久等了
 
---- Group [right:克拉雷特 next=2012] ---G
+--- Group [right:克拉蕾特 next=2012] ---G
 やっぱり、私の知識
 では無理のようです
 ・・・すみません
@@ -970,23 +970,23 @@
 +[FID:33, TEXT:011C] 今天就到此
 +[FID:33, TEXT:011D] 为止吧！
 
---- Group [right:克拉雷特 next=2012] ---G
+--- Group [right:克拉蕾特 next=2012] ---G
 これからどうします？
 +[FID:33, TEXT:011E] 接下来你打算怎么办？
 
 --- Group [left:主人公 next=0023] ---G
 なあ、クラレット
-+[FID:33, TEXT:0120] 喂，克拉雷特
++[FID:33, TEXT:0120] 喂，克拉蕾特
 
 --- Group [left:主人公 next=0023] ---G
 クラレット？
-+[FID:33, TEXT:0121] 克拉雷特？
++[FID:33, TEXT:0121] 克拉蕾特？
 
 --- Group [left:主人公 next=0023] ---G
 ねね、クラレット
-+[FID:33, TEXT:0122] 喂喂，克拉雷特
++[FID:33, TEXT:0122] 喂喂，克拉蕾特
 
---- Group [right:克拉雷特 next=2012] ---G
+--- Group [right:克拉蕾特 next=2012] ---G
 はい？
 +[FID:33, TEXT:0123] 什么事？
 
@@ -1027,7 +1027,7 @@
 あたしがここに来たの
 は、事故だって
 言ったよね・・・
-+[FID:33, TEXT:0130] 克拉雷特你
++[FID:33, TEXT:0130] 克拉蕾特你
 +[FID:33, TEXT:0131] 说过我来这里
 +[FID:33, TEXT:0132] 是个意外吧
 +[FID:33, TEXT:0133] 说过的吧……
@@ -1051,10 +1051,10 @@
 クラレットの声だった
 んじゃないか？
 +[FID:33, TEXT:0139] 喂，那个声音
-+[FID:33, TEXT:013A] 难道是克拉雷特
++[FID:33, TEXT:013A] 难道是克拉蕾特
 +[FID:33, TEXT:013B] 的声音吗？
 
---- Group [right:克拉雷特 next=2012] ---G
+--- Group [right:克拉蕾特 next=2012] ---G
 ・・・どうしてです？
 +[FID:33, TEXT:013C] ……为什么？
 
@@ -1158,7 +1158,7 @@
 -[FID:33, TEXT:015B] 能请您告诉我
 -[FID:33, TEXT:015C] 真相吗？
 
---- Group [right:克拉雷特 next=2012] ---G
+--- Group [right:克拉蕾特 next=2012] ---G
 ・・・・・
 +[FID:33, TEXT:015D] ……
 
@@ -1206,7 +1206,7 @@
 +[FID:33, TEXT:0168] 我不觉得那是
 +[FID:33, TEXT:0169] 偶然
 
---- Group [right:克拉雷特 next=2012] ---G
+--- Group [right:克拉蕾特 next=2012] ---G
 まだ疑ってるのか？
 俺のこと・・・！
 +[FID:33, TEXT:016A] 还在怀疑我吗？
@@ -1264,7 +1264,7 @@
 +[FID:33, TEXT:0179] 就知道我的名字
 +[FID:33, TEXT:017A] 这件事……
 
---- Group [right:卡西斯 next=2012] ---G
+--- Group [right:卡茜丝 next=2012] ---G
 ！！
 +[FID:33, TEXT:017B] ！！
 
@@ -1322,11 +1322,11 @@
 違いますか？
 +[FID:33, TEXT:018E] 不对吗？
 
---- Group [right:克拉雷特 next=2012] ---G
+--- Group [right:克拉蕾特 next=2012] ---G
 ・・・ばれたか
 +[FID:33, TEXT:018F] ……被看穿了吗
 
---- Group [right:克拉雷特 next=2012] ---G
+--- Group [right:克拉蕾特 next=2012] ---G
 あの時、あの場所に俺
 がいたのは偶然なんか
 じゃないんだよ
@@ -1450,7 +1450,7 @@
 カシス
 本当のことを
 教えてくれないか？
-+[FID:33, TEXT:01B8] 卡西斯
++[FID:33, TEXT:01B8] 卡茜丝
 -[FID:33, TEXT:0156] 真相
 -[FID:33, TEXT:0157] 能告诉我吗？
 
@@ -1458,7 +1458,7 @@
 カシスさん
 本当のことを教えて
 くれませんか？
-+[FID:33, TEXT:01B9] 卡西斯小姐
++[FID:33, TEXT:01B9] 卡茜丝小姐
 -[FID:33, TEXT:015B] 能请您告诉我
 +[FID:33, TEXT:01BA] 真相吗？
 
@@ -1520,7 +1520,7 @@
 クラレット
 本当のことを
 教えてくれないか？
-+[FID:33, TEXT:01CD] 克拉雷特
++[FID:33, TEXT:01CD] 克拉蕾特
 -[FID:33, TEXT:0156] 真相
 -[FID:33, TEXT:0157] 能告诉我吗？
 
@@ -1548,7 +1548,7 @@
 から、あたしのこと
 知ってた・・・
 +[FID:33, TEXT:01D4] 可是……
-+[FID:33, TEXT:01D5] 克拉雷特，从一开始
++[FID:33, TEXT:01D5] 克拉蕾特，从一开始
 +[FID:33, TEXT:01D6] 就认识我……
 +[FID:33, TEXT:01D7] 知道我的事……
 
@@ -1654,7 +1654,7 @@
 +[FID:33, TEXT:0248] 被召唤来的您，是不是
 +[FID:33, TEXT:0249] 危险的存在
 
---- Group [right:克拉雷特 next=2012] ---G
+--- Group [right:克拉蕾特 next=2012] ---G
 あの儀式の生き残りと
 して、俺にはそうする
 義務があった
@@ -1678,7 +1678,7 @@
 +[FID:33, TEXT:024A] 我有义务
 +[FID:33, TEXT:024B] 这么做
 
---- Group [right:克拉雷特 next=2012] ---G
+--- Group [right:克拉蕾特 next=2012] ---G
 必要なら、お前を
 処分するつもりだった
 +[FID:33, TEXT:01EC] 如果有必要，我本来
@@ -1702,7 +1702,7 @@
 +[FID:33, TEXT:01F3] 并消灭掉，这理由
 +[FID:33, TEXT:01F4] 够充分了吧？
 
---- Group [right:克拉雷特 next=2012] ---G
+--- Group [right:克拉蕾特 next=2012] ---G
 でもさ・・・
 +[FID:33, TEXT:01F5] 可是啊……
 
@@ -1710,7 +1710,7 @@
 でも？
 +[FID:33, TEXT:01F6] 可是？
 
---- Group [right:卡西斯 next=2012] ---G
+--- Group [right:卡茜丝 next=2012] ---G
 だめだな、
 俺にはどうしても
 お前が危険な存在
@@ -1720,7 +1720,7 @@
 +[FID:33, TEXT:01F9] 无法把你当成
 +[FID:33, TEXT:01FA] 危险的存在
 
---- Group [right:克拉雷特 next=2012] ---G
+--- Group [right:克拉蕾特 next=2012] ---G
 その力は危険だけど、
 お前は危険でも
 なんでもない
@@ -1736,7 +1736,7 @@
 ソルさん・・・
 +[FID:33, TEXT:0200] 索尔先生……
 
---- Group [right:卡西斯 next=2012] ---G
+--- Group [right:卡茜丝 next=2012] ---G
 だから俺は決めた
 巻きこんでしまった
 お前を必ず元の世界へ
@@ -1746,7 +1746,7 @@
 +[FID:33, TEXT:0203] 你送回原来的世界
 +[FID:33, TEXT:0204] 去……
 
---- Group [right:卡西斯 next=2012] ---G
+--- Group [right:卡茜丝 next=2012] ---G
 信じてくれ
 これが全てだ
 +[FID:33, TEXT:0205] 相信我
@@ -1916,7 +1916,7 @@
 
 --- Group [left:主人公 next=0023] ---G
 カシス・・・
-+[FID:33, TEXT:0241] 卡西斯……
++[FID:33, TEXT:0241] 卡茜丝……
 
 --- Group [right:索尔 next=2012] ---G
 だからね、あたし決め
@@ -1980,7 +1980,7 @@
 
 --- Group [left:主人公 next=2012] ---G
 クラレット・・・
-+[FID:33, TEXT:025C] 克拉雷特……
++[FID:33, TEXT:025C] 克拉蕾特……
 
 --- Group [right:索尔 next=2012] ---G
 私、決めたんです
