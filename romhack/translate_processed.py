@@ -237,7 +237,7 @@ def call_api(session, prompt, desc=""):
             {"role": "system", "content": system},
             {"role": "user", "content": prompt},
         ],
-        "max_tokens": 16384,
+        "max_tokens": 100000,
         "temperature": 0.3,
     }
 
@@ -545,7 +545,7 @@ def unify_translations(name, groups, cache, cache_lock, proxy_url, api_key):
                     {"role": "system", "content": system},
                     {"role": "user", "content": prompt},
                 ],
-                "max_tokens": 16384,
+                "max_tokens": 100000,
                 "temperature": 0.3,
                 "response_format": {"type": "json_object"},
             }
