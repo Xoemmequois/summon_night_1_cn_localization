@@ -1,16 +1,16 @@
---- Group [right:卡农 next=201D] ---
+--- Group [right:卡农 next=201D] ---G
 
 　カノンとバノッサ
 　この世界に居場所がないという
 　彼らには力ずくで居場所を作る
 　必要があったのかもしれない
 +[FID:43, TEXT:0000] 
-+[FID:43, TEXT:0001] 
-+[FID:43, TEXT:0002] 
-+[FID:43, TEXT:0003] 
-+[FID:43, TEXT:0004] 
++[FID:43, TEXT:0001] 　卡农和巴诺萨
++[FID:43, TEXT:0002] 　在这个世界没有容身之所
++[FID:43, TEXT:0003] 　他们或许需要用武力
++[FID:43, TEXT:0004] 　来强行创造一个容身之地
 
---- Group [right:卡农 next=201D] ---
+--- Group [right:卡农 next=201D] ---G
 
 
 　だけど、それは本当に
@@ -18,23 +18,23 @@
 　その答えは、僕には出せない
 -[FID:43, TEXT:0000] 
 -[FID:43, TEXT:0000] 
-+[FID:43, TEXT:0005] 
-+[FID:43, TEXT:0006] 
-+[FID:43, TEXT:000B] 
++[FID:43, TEXT:0005] 　但，那真的是
++[FID:43, TEXT:0006] 　必要的吗？
++[FID:43, TEXT:000B] 　这个答案，我无法给出
 
---- Group [right:卡农 next=201D] ---
+--- Group [right:卡农 next=201D] ---G
 
 　カノンとバノッサ
 　この世界に居場所がないという
 　彼らには力ずくで居場所を作る
 　必要があったのかも・・・
 -[FID:43, TEXT:0000] 
--[FID:43, TEXT:0001] 
--[FID:43, TEXT:0002] 
--[FID:43, TEXT:0003] 
-+[FID:43, TEXT:000C] 
+-[FID:43, TEXT:0001] 　卡农和巴诺萨
+-[FID:43, TEXT:0002] 　在这个世界没有容身之所
+-[FID:43, TEXT:0003] 　他们或许需要用武力
++[FID:43, TEXT:000C] 　来强行创造一个容身之地吧……
 
---- Group [right:卡农 next=201D] ---
+--- Group [right:卡农 next=201D] ---G
 
 
 　だけど、それは本当に
@@ -42,23 +42,23 @@
 　あたしにはわからない
 -[FID:43, TEXT:0000] 
 -[FID:43, TEXT:0000] 
--[FID:43, TEXT:0005] 
-+[FID:43, TEXT:000D] 
-+[FID:43, TEXT:000E] 
+-[FID:43, TEXT:0005] 　但，那真的是
++[FID:43, TEXT:000D] 　必要的吗……？
++[FID:43, TEXT:000E] 　我不知道
 
---- Group [right:卡农 next=201D] ---
+--- Group [right:卡农 next=201D] ---G
 
 　カノンさんとバノッサさん
 　この世界に居場所がないという
 　彼らには力ずくで居場所を作る
 　必要があったのかもしれない
 -[FID:43, TEXT:0000] 
-+[FID:43, TEXT:000F] 
--[FID:43, TEXT:0002] 
--[FID:43, TEXT:0003] 
--[FID:43, TEXT:0004] 
++[FID:43, TEXT:000F] 　卡农先生和巴诺萨先生
+-[FID:43, TEXT:0002] 　在这个世界没有容身之所
+-[FID:43, TEXT:0003] 　他们或许需要用武力
+-[FID:43, TEXT:0004] 　来强行创造一个容身之地
 
---- Group [right:卡农 next=201D] ---
+--- Group [right:卡农 next=201D] ---G
 
 
 　だけど、それは本当に
@@ -66,11 +66,11 @@
 　その答えは、まだわかりません
 -[FID:43, TEXT:0000] 
 -[FID:43, TEXT:0000] 
--[FID:43, TEXT:0005] 
-+[FID:43, TEXT:0010] 
-+[FID:43, TEXT:0011] 
+-[FID:43, TEXT:0005] 　但，那真的是
++[FID:43, TEXT:0010] 　必要的吗？
++[FID:43, TEXT:0011] 　那个答案，我还不清楚
 
---- Group [right:卡农 next=201D] ---
+--- Group [right:卡农 next=201D] ---G
 
 
 　　自分の居場所を
@@ -78,11 +78,11 @@
 　　まだできていないわたしには
 -[FID:43, TEXT:0000] 
 -[FID:43, TEXT:0000] 
-+[FID:43, TEXT:0008] 
-+[FID:43, TEXT:0012] 
-+[FID:43, TEXT:0013] 
++[FID:43, TEXT:0008] 　　连审视自己的
++[FID:43, TEXT:0012] 　　容身之所
++[FID:43, TEXT:0013] 　　都还做不到的我
 
---- Group [right:卡农 next=201D] ---
+--- Group [right:卡农 next=201D] ---G
 
 
 　だけど、それは本当に
@@ -90,11 +90,11 @@
 　その答えは、俺には出せない
 -[FID:43, TEXT:0000] 
 -[FID:43, TEXT:0000] 
--[FID:43, TEXT:0005] 
--[FID:43, TEXT:0006] 
-+[FID:43, TEXT:0007] 
+-[FID:43, TEXT:0005] 　但，那真的是
+-[FID:43, TEXT:0006] 　必要的吗？
++[FID:43, TEXT:0007] 　这个答案，我无法给出
 
---- Group [right:卡农 next=201D] ---
+--- Group [right:卡农 next=201D] ---G
 
 
 　　自分の居場所を
@@ -102,27 +102,27 @@
 　　まだできていないのだから
 -[FID:43, TEXT:0000] 
 -[FID:43, TEXT:0000] 
--[FID:43, TEXT:0008] 
-+[FID:43, TEXT:0009] 
-+[FID:43, TEXT:000A] 
+-[FID:43, TEXT:0008] 　　连审视自己的
++[FID:43, TEXT:0009] 　　容身之所
++[FID:43, TEXT:000A] 　　都还做不到啊
 
---- Group [right:none next=0023] ---
+--- Group [right:none next=0023] ---G
 ソル
-+[FID:43, TEXT:0014] 
++[FID:43, TEXT:0014] 索尔
 
---- Group [right:none next=0023] ---
+--- Group [right:none next=0023] ---G
 キール
-+[FID:43, TEXT:0015] 
++[FID:43, TEXT:0015] 基尔
 
---- Group [right:none next=0023] ---
+--- Group [right:none next=0023] ---G
 カシス
-+[FID:43, TEXT:0016] 
++[FID:43, TEXT:0016] 卡茜丝
 
---- Group [right:none next=0023] ---
+--- Group [right:none next=0023] ---G
 クラレット
-+[FID:43, TEXT:0017] 
++[FID:43, TEXT:0017] 克拉蕾特
 
---- Group [right:卡农 next=0003] ---
+--- Group [right:卡农 next=0003] ---G
 レイド
 ガゼル
 エドス
@@ -131,1195 +131,1195 @@
 フィズ
 ラミ
 ジンガ
-+[FID:43, TEXT:0018] 
-+[FID:43, TEXT:0019] 
-+[FID:43, TEXT:001A] 
-+[FID:43, TEXT:001B] 
-+[FID:43, TEXT:001C] 
-+[FID:43, TEXT:001D] 
-+[FID:43, TEXT:001E] 
-+[FID:43, TEXT:001F] 
++[FID:43, TEXT:0018] 雷德
++[FID:43, TEXT:0019] 加泽尔
++[FID:43, TEXT:001A] 艾多斯
++[FID:43, TEXT:001B] 莉普蕾
++[FID:43, TEXT:001C] 阿尔巴
++[FID:43, TEXT:001D] 菲兹
++[FID:43, TEXT:001E] 拉米
++[FID:43, TEXT:001F] 金加
 
---- Group [right:卡农 next=2012] ---
+--- Group [right:卡农 next=2012] ---G
 カノンの中に流れてい
 るのは、シルターンと
 いう世界の、鬼神の血
 ですね・・・
-+[FID:43, TEXT:0021] 
-+[FID:43, TEXT:0022] 
-+[FID:43, TEXT:0023] 
-+[FID:43, TEXT:004C] 
++[FID:43, TEXT:0021] 卡农体内流淌的
++[FID:43, TEXT:0022] 是希尔坦
++[FID:43, TEXT:0023] 那个世界的鬼神之血
++[FID:43, TEXT:004C] 呢……
 
---- Group [right:卡农 next=2012] ---
+--- Group [right:卡农 next=2012] ---G
 カノンの中に流れてい
 るのは、シルターンと
 いう世界の、鬼神の血
 だね・・・
--[FID:43, TEXT:0021] 
--[FID:43, TEXT:0022] 
--[FID:43, TEXT:0023] 
-+[FID:43, TEXT:0042] 
+-[FID:43, TEXT:0021] 卡农体内流淌的
+-[FID:43, TEXT:0022] 是希尔坦
+-[FID:43, TEXT:0023] 那个世界的鬼神之血
++[FID:43, TEXT:0042] 呢……
 
---- Group [right:卡农 next=2012] ---
+--- Group [right:卡农 next=2012] ---G
 カノンの中に流れてい
 るのは、シルターンと
 いう世界の、鬼神の血
 だよ・・・
--[FID:43, TEXT:0021] 
--[FID:43, TEXT:0022] 
--[FID:43, TEXT:0023] 
-+[FID:43, TEXT:0039] 
+-[FID:43, TEXT:0021] 卡农体内流淌的
+-[FID:43, TEXT:0022] 是希尔坦
+-[FID:43, TEXT:0023] 那个世界的鬼神之血
++[FID:43, TEXT:0039] 啊……
 
---- Group [right:卡农 next=2012] ---
+--- Group [right:卡农 next=2012] ---G
 カノンの中に流れてい
 るのは、シルターンと
 いう世界の、鬼神の血
 だ・・・
--[FID:43, TEXT:0021] 
--[FID:43, TEXT:0022] 
--[FID:43, TEXT:0023] 
-+[FID:43, TEXT:0024] 
+-[FID:43, TEXT:0021] 卡农体内流淌的
+-[FID:43, TEXT:0022] 是希尔坦
+-[FID:43, TEXT:0023] 那个世界的鬼神之血
++[FID:43, TEXT:0024] 呢……
 
---- Group [left:none next=2012] ---
+--- Group [left:none next=2012] ---G
 シルターン？
-+[FID:43, TEXT:0025] 
++[FID:43, TEXT:0025] 希尔坦？
 
---- Group [left:none next=0023] ---
+--- Group [left:none next=0023] ---G
 シルターンですか？
-+[FID:43, TEXT:0026] 
++[FID:43, TEXT:0026] 希尔坦吗？
 
---- Group [right:卡农 next=2012] ---
+--- Group [right:卡农 next=2012] ---G
 召喚術で開かれる
 ４つの世界のひとつさ
-+[FID:43, TEXT:0027] 
-+[FID:43, TEXT:003A] 
++[FID:43, TEXT:0027] 是通过召唤术打开
++[FID:43, TEXT:003A] 的四个世界之一
 
---- Group [right:none next=2012] ---
+--- Group [right:none next=2012] ---G
 召喚術で開かれる
 ４つの世界のひとつだ
--[FID:43, TEXT:0027] 
-+[FID:43, TEXT:0028] 
+-[FID:43, TEXT:0027] 是通过召唤术打开
++[FID:43, TEXT:0028] 的四个世界之一
 
---- Group [right:none next=2012] ---
+--- Group [right:none next=2012] ---G
 召喚術で開かれる
 ４つの世界のひとつよ
--[FID:43, TEXT:0027] 
-+[FID:43, TEXT:0043] 
+-[FID:43, TEXT:0027] 是通过召唤术打开
++[FID:43, TEXT:0043] 的四个世界之一哦
 
---- Group [right:卡农 next=2012] ---
+--- Group [right:卡农 next=2012] ---G
 そこに住む鬼神たちは
 きょうじんな肉体と
 破壊の力を
 もっています
-+[FID:43, TEXT:0029] 
-+[FID:43, TEXT:002A] 
-+[FID:43, TEXT:004F] 
++[FID:43, TEXT:0029] 那里的鬼神们
++[FID:43, TEXT:002A] 拥有强韧的肉体
++[FID:43, TEXT:004F] 和破坏之力
 +[FID:43, TEXT:0050] 
 
---- Group [right:卡农 next=2012] ---
+--- Group [right:卡农 next=2012] ---G
 そこに住む鬼神たちは
 きょうじんな肉体と
 破壊の力をもっている
--[FID:43, TEXT:0029] 
--[FID:43, TEXT:002A] 
-+[FID:43, TEXT:002B] 
+-[FID:43, TEXT:0029] 那里的鬼神们
+-[FID:43, TEXT:002A] 拥有强韧的肉体
++[FID:43, TEXT:002B] 和破坏之力
 
---- Group [right:none next=2012] ---
+--- Group [right:none next=2012] ---G
 そこに住む鬼神たちは
 きょうじんな肉体と
 破壊の力をもってるの
--[FID:43, TEXT:0029] 
--[FID:43, TEXT:002A] 
-+[FID:43, TEXT:0044] 
+-[FID:43, TEXT:0029] 那里的鬼神们
+-[FID:43, TEXT:002A] 拥有强韧的肉体
++[FID:43, TEXT:0044] 和破坏之力哦
 
---- Group [left:none next=0023] ---
+--- Group [left:none next=0023] ---G
 ああ、だからカノンは
 怪力を発揮したのか
-+[FID:43, TEXT:002C] 
-+[FID:43, TEXT:002D] 
++[FID:43, TEXT:002C] 啊，所以卡农
++[FID:43, TEXT:002D] 才展现出怪力吗
 
---- Group [left:none next=0023] ---
+--- Group [left:none next=0023] ---G
 それで、カノンは
 あんな怪力を・・・
-+[FID:43, TEXT:002E] 
-+[FID:43, TEXT:002F] 
++[FID:43, TEXT:002E] 所以卡农
++[FID:43, TEXT:002F] 才有那种怪力啊……
 
---- Group [left:none next=0023] ---
+--- Group [left:none next=0023] ---G
 それで、カノンさんは
 あんなにすごい力を
 出せたんですね
-+[FID:43, TEXT:0030] 
-+[FID:43, TEXT:0045] 
-+[FID:43, TEXT:0046] 
++[FID:43, TEXT:0030] 所以卡农先生
++[FID:43, TEXT:0045] 才能发挥出
++[FID:43, TEXT:0046] 那么强大的力量啊
 
---- Group [right:卡农 next=2012] ---
+--- Group [right:卡农 next=2012] ---G
 はぐれになった鬼神が
 カノンの父親らしいん
 だけど
-+[FID:43, TEXT:0031] 
-+[FID:43, TEXT:0047] 
++[FID:43, TEXT:0031] 变成迷途鬼神的
++[FID:43, TEXT:0047] 好像是卡农的父亲
 +[FID:43, TEXT:0048] 
 
---- Group [right:none next=2012] ---
+--- Group [right:none next=2012] ---G
 はぐれになった鬼神が
 カノンの父親らしいが
--[FID:43, TEXT:0031] 
-+[FID:43, TEXT:0032] 
+-[FID:43, TEXT:0031] 变成迷途鬼神的
++[FID:43, TEXT:0032] 好像是卡农的父亲
 
---- Group [right:卡农 next=2012] ---
+--- Group [right:卡农 next=2012] ---G
 はぐれになった鬼神が
 カノンの父親らしいの
 ですが
--[FID:43, TEXT:0031] 
-+[FID:43, TEXT:0053] 
+-[FID:43, TEXT:0031] 变成迷途鬼神的
++[FID:43, TEXT:0053] 好像是卡农的父亲
 +[FID:43, TEXT:0054] 
 
---- Group [right:none next=2012] ---
+--- Group [right:none next=2012] ---G
 召喚術を使う者として
 改めて考えさせられて
 しまうな
-+[FID:43, TEXT:0033] 
-+[FID:43, TEXT:0034] 
-+[FID:43, TEXT:0035] 
++[FID:43, TEXT:0033] 作为使用召唤术的人
++[FID:43, TEXT:0034] 不禁让我再次深思
++[FID:43, TEXT:0035] 啊
 
---- Group [right:none next=2012] ---
+--- Group [right:none next=2012] ---G
 召喚術を使う者として
 改めて考えさせられて
 しまうよ
--[FID:43, TEXT:0033] 
--[FID:43, TEXT:0034] 
-+[FID:43, TEXT:0040] 
+-[FID:43, TEXT:0033] 作为使用召唤术的人
+-[FID:43, TEXT:0034] 不禁让我再次深思
++[FID:43, TEXT:0040] 啊
 
---- Group [left:none next=0023] ---
+--- Group [left:none next=0023] ---G
 ・・・そうだな
-+[FID:43, TEXT:0036] 
++[FID:43, TEXT:0036] ……是啊
 
---- Group [left:none next=0023] ---
+--- Group [left:none next=0023] ---G
 ・・・そうだね
-+[FID:43, TEXT:0037] 
++[FID:43, TEXT:0037] ……是啊
 
---- Group [left:none next=0023] ---
+--- Group [left:none next=0023] ---G
 ・・・そうですね
-+[FID:43, TEXT:0038] 
++[FID:43, TEXT:0038] ……是啊
 
---- Group [left:none next=0023] ---
+--- Group [left:none next=0023] ---G
 そっか、それでカノン
 ってば、あんなすごい
 力を・・・
-+[FID:43, TEXT:003B] 
-+[FID:43, TEXT:003C] 
-+[FID:43, TEXT:003D] 
++[FID:43, TEXT:003B] 这样啊，所以卡农
++[FID:43, TEXT:003C] 才有那么强大的
++[FID:43, TEXT:003D] 力量啊……
 
---- Group [left:none next=0023] ---
+--- Group [left:none next=0023] ---G
 だから、カノンさんは
 怪力を・・・
-+[FID:43, TEXT:003E] 
-+[FID:43, TEXT:003F] 
++[FID:43, TEXT:003E] 所以卡农先生
++[FID:43, TEXT:003F] 才有怪力啊……
 
---- Group [left:none next=0023] ---
+--- Group [left:none next=0023] ---G
 ・・・うん、そうだね
-+[FID:43, TEXT:0041] 
++[FID:43, TEXT:0041] ……嗯，是啊
 
---- Group [right:卡农 next=2012] ---
+--- Group [right:卡农 next=2012] ---G
 召喚師として、改めて
 考えさせられちゃった
 なあ
-+[FID:43, TEXT:0049] 
-+[FID:43, TEXT:004A] 
-+[FID:43, TEXT:004B] 
++[FID:43, TEXT:0049] 作为召唤师，重新
++[FID:43, TEXT:004A] 让我思考了呢
++[FID:43, TEXT:004B] 啊
 
---- Group [right:卡农 next=2012] ---
+--- Group [right:卡农 next=2012] ---G
 召喚術で開かれる４つ
 の世界のひとつです
-+[FID:43, TEXT:004D] 
-+[FID:43, TEXT:004E] 
++[FID:43, TEXT:004D] 那是由召唤术打开的
++[FID:43, TEXT:004E] 四个世界之一
 
---- Group [left:none next=0023] ---
+--- Group [left:none next=0023] ---G
 それでカノンは
 怪力を出したんだね
-+[FID:43, TEXT:0051] 
-+[FID:43, TEXT:0052] 
++[FID:43, TEXT:0051] 所以卡农就是
++[FID:43, TEXT:0052] 靠那个使出怪力的吧
 
---- Group [right:卡农 next=2012] ---
+--- Group [right:卡农 next=2012] ---G
 召喚師として、
 改めて考えさせられて
 しまいました
-+[FID:43, TEXT:0055] 
--[FID:43, TEXT:0034] 
-+[FID:43, TEXT:0056] 
++[FID:43, TEXT:0055] 作为召唤师，
+-[FID:43, TEXT:0034] 不禁让我再次深思
++[FID:43, TEXT:0056] 了一番啊
 
---- Group [left:none next=0023] ---
+--- Group [left:none next=0023] ---G
 ・・・うん、あたしも
-+[FID:43, TEXT:0057] 
++[FID:43, TEXT:0057] ……嗯，我也是
 
---- Group [right:none next=2012] ---
+--- Group [right:none next=2012] ---G
 君は私たちとバノッサ
 の争いを、自分の責任
 だと思っているんじゃ
 ないのか？
-+[FID:43, TEXT:0058] 
-+[FID:43, TEXT:0059] 
-+[FID:43, TEXT:005A] 
++[FID:43, TEXT:0058] 你是不是觉得
++[FID:43, TEXT:0059] 我们和巴诺萨的争斗
++[FID:43, TEXT:005A] 都是自己的责任？
 +[FID:43, TEXT:005B] 
 
---- Group [left:none next=2012] ---
+--- Group [left:none next=2012] ---G
 ・・・はい
-+[FID:43, TEXT:005C] 
++[FID:43, TEXT:005C] ……是的
 
---- Group [right:none next=2012] ---
+--- Group [right:none next=2012] ---G
 だったら、それは君の
 勘違いだよ
-+[FID:43, TEXT:005D] 
-+[FID:43, TEXT:005E] 
++[FID:43, TEXT:005D] 那就说明
++[FID:43, TEXT:005E] 是你误会了
 
---- Group [right:卡农 next=2012] ---
+--- Group [right:卡农 next=2012] ---G
 争うことを避けようと
 はしてきたが、いずれ
 彼らとこうなることは
 確実だったんだ
-+[FID:43, TEXT:005F] 
-+[FID:43, TEXT:0060] 
-+[FID:43, TEXT:0061] 
-+[FID:43, TEXT:0062] 
++[FID:43, TEXT:005F] 虽然我们一直
++[FID:43, TEXT:0060] 避免冲突，但迟早
++[FID:43, TEXT:0061] 都会和他们
++[FID:43, TEXT:0062] 发展成这样
 
---- Group [right:none next=2012] ---
+--- Group [right:none next=2012] ---G
 むしろ君がいたことで
 結果的に最悪の事態は
 回避されたんだよ
-+[FID:43, TEXT:0063] 
-+[FID:43, TEXT:0064] 
-+[FID:43, TEXT:0065] 
++[FID:43, TEXT:0063] 反倒是你在，
++[FID:43, TEXT:0064] 才避免了最坏的
++[FID:43, TEXT:0065] 情况发生
 
---- Group [left:none next=0023] ---
+--- Group [left:none next=0023] ---G
 どういうことです？
-+[FID:43, TEXT:0066] 
++[FID:43, TEXT:0066] 这是什么意思？
 
---- Group [left:none next=0023] ---
+--- Group [left:none next=0023] ---G
 ？？？
-+[FID:43, TEXT:0067] 
++[FID:43, TEXT:0067] ？？？
 
---- Group [right:卡农 next=2012] ---
+--- Group [right:卡农 next=2012] ---G
 今のバノッサは縄張り
 の拡大よりも、召喚術
 を手に入れることに
 目を奪われている
-+[FID:43, TEXT:0068] 
-+[FID:43, TEXT:0069] 
-+[FID:43, TEXT:006A] 
-+[FID:43, TEXT:006B] 
++[FID:43, TEXT:0068] 现在的巴诺萨比起
++[FID:43, TEXT:0069] 扩大地盘，更专注于
++[FID:43, TEXT:006A] 获得召唤术
++[FID:43, TEXT:006B] 这件事
 
---- Group [right:卡农 next=2012] ---
+--- Group [right:卡农 next=2012] ---G
 君が標的になったこと
 で、子供たちやリプレ
 が狙われにくくなって
 きたんだよ
-+[FID:43, TEXT:006C] 
-+[FID:43, TEXT:006D] 
-+[FID:43, TEXT:006E] 
-+[FID:43, TEXT:006F] 
++[FID:43, TEXT:006C] 因为你成了目标，
++[FID:43, TEXT:006D] 孩子们和莉普蕾
++[FID:43, TEXT:006E] 反而变得
++[FID:43, TEXT:006F] 不容易被盯上了
 
---- Group [left:none next=0023] ---
+--- Group [left:none next=0023] ---G
 ああ、なるほど・・・
-+[FID:43, TEXT:0070] 
++[FID:43, TEXT:0070] 啊，原来如此……
 
---- Group [left:none next=0023] ---
+--- Group [left:none next=0023] ---G
 ・・・それって・・・
-+[FID:43, TEXT:0071] 
++[FID:43, TEXT:0071] ……那也就是说……
 
---- Group [left:none next=0023] ---
+--- Group [left:none next=0023] ---G
 そういう考え方も
 ありますか・・・
-+[FID:43, TEXT:0072] 
-+[FID:43, TEXT:0073] 
++[FID:43, TEXT:0072] 也可以这么
++[FID:43, TEXT:0073] 理解是吧……
 
---- Group [right:卡农 next=2012] ---
+--- Group [right:卡农 next=2012] ---G
 君にとっては災難かも
 しれないが、私たちも
 全力をつくす
-+[FID:43, TEXT:0074] 
-+[FID:43, TEXT:0075] 
-+[FID:43, TEXT:0076] 
++[FID:43, TEXT:0074] 对你来说也许是
++[FID:43, TEXT:0075] 场灾难，但我们也会
++[FID:43, TEXT:0076] 全力以赴
 
---- Group [right:none next=2012] ---
+--- Group [right:none next=2012] ---G
 もう少しだけ、
 耐えてくれないか
-+[FID:43, TEXT:0077] 
-+[FID:43, TEXT:0078] 
++[FID:43, TEXT:0077] 能不能再稍微
++[FID:43, TEXT:0078] 忍耐一下？
 
---- Group [right:卡农 next=2012] ---
+--- Group [right:卡农 next=2012] ---G
 なあ、召喚術って資格
 が必要なもんなのか？
-+[FID:43, TEXT:0079] 
-+[FID:43, TEXT:007A] 
++[FID:43, TEXT:0079] 喂，召唤术
++[FID:43, TEXT:007A] 还需要资格吗？
 
---- Group [left:none next=0023] ---
+--- Group [left:none next=0023] ---G
 さあ・・・
 俺に聞かれてもなぁ
-+[FID:43, TEXT:007B] 
-+[FID:43, TEXT:007C] 
++[FID:43, TEXT:007B] 这个嘛……
++[FID:43, TEXT:007C] 你问我也没用啊
 
---- Group [left:none next=0023] ---
+--- Group [left:none next=0023] ---G
 さあ・・・
 僕に聞かれても
--[FID:43, TEXT:007B] 
-+[FID:43, TEXT:007D] 
+-[FID:43, TEXT:007B] 这个嘛……
++[FID:43, TEXT:007D] 你问我也没用
 
---- Group [left:none next=0023] ---
+--- Group [left:none next=0023] ---G
 う〜ん
 あたしが知ってるわけ
 ないでしょ？
-+[FID:43, TEXT:007E] 
-+[FID:43, TEXT:007F] 
-+[FID:43, TEXT:0080] 
++[FID:43, TEXT:007E] 嗯～
++[FID:43, TEXT:007F] 我怎么可能会
++[FID:43, TEXT:0080] 知道啊？
 
---- Group [left:none next=0023] ---
+--- Group [left:none next=0023] ---G
 あの・・・わたしに
 聞かれても・・・
-+[FID:43, TEXT:0081] 
-+[FID:43, TEXT:0082] 
++[FID:43, TEXT:0081] 那个……就算
++[FID:43, TEXT:0082] 你问我……
 
---- Group [right:卡农 next=2012] ---
+--- Group [right:卡农 next=2012] ---G
 お前は自然に使えてる
 んだし、そのおかげで
 俺らも使えてるだろ
-+[FID:43, TEXT:0083] 
-+[FID:43, TEXT:0084] 
-+[FID:43, TEXT:0085] 
++[FID:43, TEXT:0083] 你不是自然而然
++[FID:43, TEXT:0084] 就会用了嘛，托你的福
++[FID:43, TEXT:0085] 我们也才能用
 
---- Group [right:卡农 next=2012] ---
+--- Group [right:卡农 next=2012] ---G
 じゃあバノッサの野郎
 は、なんで資格なんて
 ほざきやがったんだ？
-+[FID:43, TEXT:0086] 
-+[FID:43, TEXT:0087] 
-+[FID:43, TEXT:0088] 
++[FID:43, TEXT:0086] 那巴诺萨那混蛋
++[FID:43, TEXT:0087] 为什么还要扯什么
++[FID:43, TEXT:0088] 资格不资格的？
 
---- Group [left:none next=0023] ---
+--- Group [left:none next=0023] ---G
 そういえば、そうだな
-+[FID:43, TEXT:0089] 
++[FID:43, TEXT:0089] 这么说来，也是啊
 
---- Group [left:none next=0023] ---
+--- Group [left:none next=0023] ---G
 そういえば・・・
-+[FID:43, TEXT:008A] 
++[FID:43, TEXT:008A] 这么说来……
 
---- Group [right:卡农 next=2012] ---
+--- Group [right:卡农 next=2012] ---G
 ケッ！
 さっぱりわかんねぇや
-+[FID:43, TEXT:008B] 
-+[FID:43, TEXT:008C] 
++[FID:43, TEXT:008B] 切！
++[FID:43, TEXT:008C] 完全搞不懂
 
---- Group [left:none next=0023] ---
+--- Group [left:none next=0023] ---G
 勘違いかもしれないけ
 ど、エドスはバノッサ
 について、他のみんな
 より詳しいよな
-+[FID:43, TEXT:008D] 
-+[FID:43, TEXT:008E] 
-+[FID:43, TEXT:008F] 
-+[FID:43, TEXT:0090] 
++[FID:43, TEXT:008D] 可能是我弄错了，
++[FID:43, TEXT:008E] 但艾多斯关于巴诺萨
++[FID:43, TEXT:008F] 的事情，比其他人
++[FID:43, TEXT:0090] 知道得更多吧
 
---- Group [left:none next=0023] ---
+--- Group [left:none next=0023] ---G
 勘違いかもしれないけ
 ど、エドスはバノッサ
 について、他のみんな
 より詳しいな
--[FID:43, TEXT:008D] 
--[FID:43, TEXT:008E] 
--[FID:43, TEXT:008F] 
-+[FID:43, TEXT:0091] 
+-[FID:43, TEXT:008D] 可能是我弄错了，
+-[FID:43, TEXT:008E] 但艾多斯关于巴诺萨
+-[FID:43, TEXT:008F] 的事情，比其他人
++[FID:43, TEXT:0091] 知道得更多啊
 
---- Group [left:none next=0023] ---
+--- Group [left:none next=0023] ---G
 勘違いかもしれないけ
 ど、エドスはバノッサ
 について、他のみんな
 より詳しいよね？
--[FID:43, TEXT:008D] 
--[FID:43, TEXT:008E] 
--[FID:43, TEXT:008F] 
-+[FID:43, TEXT:0092] 
+-[FID:43, TEXT:008D] 可能是我弄错了，
+-[FID:43, TEXT:008E] 但艾多斯关于巴诺萨
+-[FID:43, TEXT:008F] 的事情，比其他人
++[FID:43, TEXT:0092] 知道得更多吧？
 
---- Group [left:none next=0023] ---
+--- Group [left:none next=0023] ---G
 あの、エドスさんって
 バノッサさんについて
 ・・・ほかのみなさん
 より詳しいですよね
-+[FID:43, TEXT:0093] 
-+[FID:43, TEXT:0094] 
-+[FID:43, TEXT:0095] 
-+[FID:43, TEXT:0096] 
++[FID:43, TEXT:0093] 那个，艾多斯先生
++[FID:43, TEXT:0094] 关于巴诺萨先生的事情
++[FID:43, TEXT:0095] ……比其他人
++[FID:43, TEXT:0096] 知道得更详细吧
 
---- Group [right:none next=2012] ---
+--- Group [right:none next=2012] ---G
 まあ・・・
 あいつとは随分と長く
 つきあってきたからな
-+[FID:43, TEXT:0097] 
-+[FID:43, TEXT:0098] 
-+[FID:43, TEXT:0099] 
++[FID:43, TEXT:0097] 嗯……
++[FID:43, TEXT:0098] 毕竟和那家伙
++[FID:43, TEXT:0099] 打了很长时间交道了
 
---- Group [left:none next=2012] ---
+--- Group [left:none next=2012] ---G
 え？
-+[FID:43, TEXT:009A] 
++[FID:43, TEXT:009A] 诶？
 
---- Group [right:none next=2012] ---
+--- Group [right:none next=2012] ---G
 ワシは元々、
 北スラムの出身なのさ
-+[FID:43, TEXT:009B] 
-+[FID:43, TEXT:009C] 
++[FID:43, TEXT:009B] 我原本
++[FID:43, TEXT:009C] 就是北贫民窟出身
 
---- Group [right:none next=2012] ---
+--- Group [right:none next=2012] ---G
 バノッサとはガキの頃
 からのつきあいだ
-+[FID:43, TEXT:009D] 
-+[FID:43, TEXT:009E] 
++[FID:43, TEXT:009D] 和巴诺萨是从小
++[FID:43, TEXT:009E] 就认识的交情了
 
---- Group [left:none next=0023] ---
+--- Group [left:none next=0023] ---G
 そうだったんだ
-+[FID:43, TEXT:009F] 
++[FID:43, TEXT:009F] 原来是这样啊
 
---- Group [left:none next=0023] ---
+--- Group [left:none next=0023] ---G
 そうだったのか
-+[FID:43, TEXT:00A0] 
++[FID:43, TEXT:00A0] 原来是这样啊
 
---- Group [left:none next=0023] ---
+--- Group [left:none next=0023] ---G
 あ、そうなんだ
-+[FID:43, TEXT:00A1] 
++[FID:43, TEXT:00A1] 啊，是嘛
 
---- Group [left:none next=0023] ---
+--- Group [left:none next=0023] ---G
 そうだったんですか
-+[FID:43, TEXT:00A2] 
++[FID:43, TEXT:00A2] 原来是这样啊
 
---- Group [right:none next=2012] ---
+--- Group [right:none next=2012] ---G
 もっとも、あいつが家
 を飛び出すまでの話さ
-+[FID:43, TEXT:00A3] 
-+[FID:43, TEXT:00A4] 
++[FID:43, TEXT:00A3] 不过，那也只是他
++[FID:43, TEXT:00A4] 离家出走之前的事了
 
---- Group [right:卡农 next=2012] ---
+--- Group [right:卡农 next=2012] ---G
 次に出会った時には、
 アイツはもうゴロツキ
 を集めてオプテュスを
 作っとった・・・
-+[FID:43, TEXT:00A5] 
-+[FID:43, TEXT:00A6] 
-+[FID:43, TEXT:00A7] 
-+[FID:43, TEXT:00A8] 
++[FID:43, TEXT:00A5] 再遇到他时，
++[FID:43, TEXT:00A6] 那家伙已经聚集了
++[FID:43, TEXT:00A7] 一帮混混，组成了
++[FID:43, TEXT:00A8] 奥普提斯……
 
---- Group [right:卡农 next=2012] ---
+--- Group [right:卡农 next=2012] ---G
 今のアイツは、
 ワシの知っていた
 バノッサとは違う
-+[FID:43, TEXT:00A9] 
-+[FID:43, TEXT:00AA] 
-+[FID:43, TEXT:00AB] 
++[FID:43, TEXT:00A9] 现在的他，
++[FID:43, TEXT:00AA] 跟我所认识的
++[FID:43, TEXT:00AB] 巴诺萨不一样了
 
---- Group [right:none next=2012] ---
+--- Group [right:none next=2012] ---G
 ははは、月日ってのは
 本当に人間を変えちま
 うもんなんだなぁ
-+[FID:43, TEXT:00AC] 
-+[FID:43, TEXT:00AD] 
-+[FID:43, TEXT:00AE] 
++[FID:43, TEXT:00AC] 哈哈哈，时间这东西
++[FID:43, TEXT:00AD] 真是能把人变
++[FID:43, TEXT:00AE] 成那个样子啊
 
---- Group [left:none next=0023] ---
+--- Group [left:none next=0023] ---G
 エドス・・・
-+[FID:43, TEXT:00AF] 
++[FID:43, TEXT:00AF] 艾多斯……
 
---- Group [left:none next=0023] ---
+--- Group [left:none next=0023] ---G
 エドスさん・・・
-+[FID:43, TEXT:00B0] 
++[FID:43, TEXT:00B0] 艾多斯先生……
 
---- Group [right:卡农 next=2012] ---
+--- Group [right:卡农 next=2012] ---G
 いきなり決闘だなんて
 聞いた時には、どうし
 ようかと思ったわよ？
-+[FID:43, TEXT:00B1] 
-+[FID:43, TEXT:00B2] 
-+[FID:43, TEXT:00B3] 
++[FID:43, TEXT:00B1] 突然说要决斗
++[FID:43, TEXT:00B2] 听到的时候，我
++[FID:43, TEXT:00B3] 该怎么办才好呢？
 
---- Group [right:卡农 next=2012] ---
+--- Group [right:卡农 next=2012] ---G
 みんな無事だったから
 よかったけど・・・
-+[FID:43, TEXT:00B4] 
-+[FID:43, TEXT:00B5] 
++[FID:43, TEXT:00B4] 大家都平安无事
++[FID:43, TEXT:00B5] 真是太好了……
 
---- Group [right:卡农 next=2012] ---
+--- Group [right:卡农 next=2012] ---G
 あーあ、これからは
 私もついていこうかな
-+[FID:43, TEXT:00B6] 
-+[FID:43, TEXT:00B7] 
++[FID:43, TEXT:00B6] 唉，今后
++[FID:43, TEXT:00B7] 我也跟着去好了
 
---- Group [left:none next=0023] ---
+--- Group [left:none next=0023] ---G
 ええっ！？
 そりゃ無茶だって！！
-+[FID:43, TEXT:00B8] 
-+[FID:43, TEXT:00B9] 
++[FID:43, TEXT:00B8] 哎！？
++[FID:43, TEXT:00B9] 那也太乱来了！！
 
---- Group [left:none next=0023] ---
+--- Group [left:none next=0023] ---G
 えっ！？
 それは無茶だよ
-+[FID:43, TEXT:00BA] 
-+[FID:43, TEXT:00BB] 
++[FID:43, TEXT:00BA] 诶！？
++[FID:43, TEXT:00BB] 那是乱来吧
 
---- Group [left:none next=0023] ---
+--- Group [left:none next=0023] ---G
 ちょっと！
 ダメダメ！
-+[FID:43, TEXT:00BC] 
-+[FID:43, TEXT:00BD] 
++[FID:43, TEXT:00BC] 喂！
++[FID:43, TEXT:00BD] 不行不行！
 
---- Group [left:none next=0023] ---
+--- Group [left:none next=0023] ---G
 ・・・それはやめて
 おいた方がいいと
 思います・・・
-+[FID:43, TEXT:00BE] 
-+[FID:43, TEXT:00BF] 
-+[FID:43, TEXT:00C0] 
++[FID:43, TEXT:00BE] 还是别那样
++[FID:43, TEXT:00BF] 做比较好
++[FID:43, TEXT:00C0] 我觉得……
 
---- Group [right:卡农 next=2012] ---
+--- Group [right:卡农 next=2012] ---G
 私が女の子だから？
-+[FID:43, TEXT:00C1] 
++[FID:43, TEXT:00C1] 因为我是女孩子吗？
 
---- Group [right:卡农 next=2012] ---
+--- Group [right:卡农 next=2012] ---G
 それとも役に立たない
 からなの！？
-+[FID:43, TEXT:00C2] 
-+[FID:43, TEXT:00C3] 
++[FID:43, TEXT:00C2] 还是因为我派不上用场
++[FID:43, TEXT:00C3] 吗！？
 
---- Group [left:none next=0023] ---
+--- Group [left:none next=0023] ---G
 そ、それは・・・
-+[FID:43, TEXT:00C4] 
++[FID:43, TEXT:00C4] 那、那是……
 
---- Group [left:none next=0023] ---
+--- Group [left:none next=0023] ---G
 あ、いや・・・
-+[FID:43, TEXT:00C5] 
++[FID:43, TEXT:00C5] 啊，不……
 
---- Group [left:none next=0023] ---
+--- Group [left:none next=0023] ---G
 え・・・あの・・・
-+[FID:43, TEXT:00C6] 
++[FID:43, TEXT:00C6] 呃……那个……
 
---- Group [left:none next=0023] ---
+--- Group [left:none next=0023] ---G
 あの、それは・・・
-+[FID:43, TEXT:00C7] 
++[FID:43, TEXT:00C7] 那个，那是……
 
---- Group [right:none next=2012] ---
+--- Group [right:none next=2012] ---G
 ・・・いいの
-+[FID:43, TEXT:00C8] 
++[FID:43, TEXT:00C8] 算了……
 
---- Group [right:卡农 next=2012] ---
+--- Group [right:卡农 next=2012] ---G
 無茶を言ってるって、
 わかってるから
-+[FID:43, TEXT:00C9] 
-+[FID:43, TEXT:00CA] 
++[FID:43, TEXT:00C9] 我说了任性的话，
++[FID:43, TEXT:00CA] 这我知道
 
---- Group [right:none next=2012] ---
+--- Group [right:none next=2012] ---G
 でもね
 私、くやしいんだよ
-+[FID:43, TEXT:00CB] 
-+[FID:43, TEXT:00CC] 
++[FID:43, TEXT:00CB] 但是啊
++[FID:43, TEXT:00CC] 我，真的很不甘心
 
---- Group [right:卡农 next=2012] ---
+--- Group [right:卡农 next=2012] ---G
 男の子に生まれてたら
 貴方たちを助けて
 あげられるのに・・・
-+[FID:43, TEXT:00CD] 
-+[FID:43, TEXT:00CE] 
-+[FID:43, TEXT:00CF] 
++[FID:43, TEXT:00CD] 如果生为男孩子的话
++[FID:43, TEXT:00CE] 就能帮上你们
++[FID:43, TEXT:00CF] 的忙了……
 
---- Group [right:卡农 next=2012] ---
+--- Group [right:卡农 next=2012] ---G
 みたいな力があれば、
 貴方たちを助けて
 あげられるのに・・
-+[FID:43, TEXT:00D0] 
--[FID:43, TEXT:00CE] 
-+[FID:43, TEXT:00D1] 
++[FID:43, TEXT:00D0] 如果有那样的力量的话
+-[FID:43, TEXT:00CE] 就能帮上你们
++[FID:43, TEXT:00D1] 的忙了……
 
---- Group [left:none next=0023] ---
+--- Group [left:none next=0023] ---G
 それじゃ、困るよ
-+[FID:43, TEXT:00D2] 
++[FID:43, TEXT:00D2] 那可不行
 
---- Group [left:none next=0023] ---
+--- Group [left:none next=0023] ---G
 それじゃ、困ります
-+[FID:43, TEXT:00D3] 
++[FID:43, TEXT:00D3] 那可不行
 
---- Group [right:none next=2012] ---
+--- Group [right:none next=2012] ---G
 どうして！？
-+[FID:43, TEXT:00D4] 
++[FID:43, TEXT:00D4] 为什么！？
 
---- Group [left:none next=2012] ---
+--- Group [left:none next=2012] ---G
 俺たちが安心して戦え
 るのは、リプレが留守
 を守っていてくれてる
 からなんだよ
-+[FID:43, TEXT:00D5] 
-+[FID:43, TEXT:00D6] 
-+[FID:43, TEXT:00D7] 
-+[FID:43, TEXT:00D8] 
++[FID:43, TEXT:00D5] 我们能安心战斗
++[FID:43, TEXT:00D6] 是因为莉普蕾在
++[FID:43, TEXT:00D7] 帮我们守着家
++[FID:43, TEXT:00D8] 啊
 
---- Group [left:none next=0023] ---
+--- Group [left:none next=0023] ---G
 安心して帰れる場所が
 あるから、つらい時に
 も頑張れるんだ
-+[FID:43, TEXT:00D9] 
-+[FID:43, TEXT:00DA] 
-+[FID:43, TEXT:00DB] 
++[FID:43, TEXT:00D9] 有个能安心回去的地方
++[FID:43, TEXT:00DA] 所以难过的时候
++[FID:43, TEXT:00DB] 也能努力啊
 
---- Group [left:none next=0023] ---
+--- Group [left:none next=0023] ---G
 安心して帰れる場所が
 あるから、つらい時に
 も頑張れるって
--[FID:43, TEXT:00D9] 
--[FID:43, TEXT:00DA] 
-+[FID:43, TEXT:00E7] 
+-[FID:43, TEXT:00D9] 有个能安心回去的地方
+-[FID:43, TEXT:00DA] 所以难过的时候
++[FID:43, TEXT:00E7] 也能努力啊
 
---- Group [left:none next=0023] ---
+--- Group [left:none next=0023] ---G
 安心して帰れる場所が
 あるから、つらい時に
 も頑張れるんだから！
--[FID:43, TEXT:00D9] 
--[FID:43, TEXT:00DA] 
-+[FID:43, TEXT:00E2] 
+-[FID:43, TEXT:00D9] 有个能安心回去的地方
+-[FID:43, TEXT:00DA] 所以难过的时候
++[FID:43, TEXT:00E2] 也能努力啊！
 
---- Group [left:none next=2012] ---
+--- Group [left:none next=2012] ---G
 僕たちが安心して戦え
 るのは、リプレが留守
 を守っていてくれてる
 からなんだ
-+[FID:43, TEXT:00DC] 
--[FID:43, TEXT:00D6] 
--[FID:43, TEXT:00D7] 
-+[FID:43, TEXT:00DD] 
++[FID:43, TEXT:00DC] 我们能安心战斗
+-[FID:43, TEXT:00D6] 是因为莉普蕾在
+-[FID:43, TEXT:00D7] 帮我们守着家
++[FID:43, TEXT:00DD] 啊
 
---- Group [left:none next=2012] ---
+--- Group [left:none next=2012] ---G
 リプレが留守を
 守ってくれてるから、
 みんな安心して
 出ていけるんだよ！
-+[FID:43, TEXT:00DE] 
-+[FID:43, TEXT:00DF] 
-+[FID:43, TEXT:00E0] 
-+[FID:43, TEXT:00E1] 
++[FID:43, TEXT:00DE] 莉普蕾在为我们
++[FID:43, TEXT:00DF] 守家，所以
++[FID:43, TEXT:00E0] 大家才能安心
++[FID:43, TEXT:00E1] 出门啊！
 
---- Group [left:none next=2012] ---
+--- Group [left:none next=2012] ---G
 わたしたちは、
 リプレさんが待ってい
 てくれるから安心して
 外に出られるんです
-+[FID:43, TEXT:00E3] 
-+[FID:43, TEXT:00E4] 
-+[FID:43, TEXT:00E5] 
-+[FID:43, TEXT:00E6] 
++[FID:43, TEXT:00E3] 我们啊，是因为有
++[FID:43, TEXT:00E4] 莉普蕾小姐等着我们
++[FID:43, TEXT:00E5] 所以才能安心
++[FID:43, TEXT:00E6] 出门的
 
---- Group [left:none next=2012] ---
+--- Group [left:none next=2012] ---G
 ・・・・・・
-+[FID:43, TEXT:00E8] 
++[FID:43, TEXT:00E8] ……
 
---- Group [left:none next=0023] ---
+--- Group [left:none next=0023] ---G
 わかってくれるよね？
-+[FID:43, TEXT:00E9] 
++[FID:43, TEXT:00E9] 你能理解的，对吧？
 
---- Group [left:none next=0023] ---
+--- Group [left:none next=0023] ---G
 わかってください
-+[FID:43, TEXT:00EA] 
++[FID:43, TEXT:00EA] 请理解我
 
---- Group [right:卡农 next=2012] ---
+--- Group [right:卡农 next=2012] ---G
 ・・・うん
-+[FID:43, TEXT:00EB] 
++[FID:43, TEXT:00EB] 嗯……
 
---- Group [right:none next=2012] ---
+--- Group [right:none next=2012] ---G
 決闘は勝ったんでしょ
-+[FID:43, TEXT:00EC] 
++[FID:43, TEXT:00EC] 决斗你赢了吧？
 
---- Group [left:none next=0023] ---
+--- Group [left:none next=0023] ---G
 さあ、どうかな
 引き分け、かも？
-+[FID:43, TEXT:00ED] 
-+[FID:43, TEXT:00F2] 
++[FID:43, TEXT:00ED] 哎呀，怎么说呢
++[FID:43, TEXT:00F2] 也许是平局吧？
 
---- Group [left:none next=0023] ---
+--- Group [left:none next=0023] ---G
 さあ、どうかな
 引き分け、かもな？
--[FID:43, TEXT:00ED] 
-+[FID:43, TEXT:00EE] 
+-[FID:43, TEXT:00ED] 哎呀，怎么说呢
++[FID:43, TEXT:00EE] 也许是平局吧？
 
---- Group [left:none next=0023] ---
+--- Group [left:none next=0023] ---G
 う〜ん、単純な
 勝ち負けじゃないし、
 引き分け、かな？
-+[FID:43, TEXT:00EF] 
-+[FID:43, TEXT:00F0] 
-+[FID:43, TEXT:00F1] 
++[FID:43, TEXT:00EF] 嗯……单纯的
++[FID:43, TEXT:00F0] 不是输赢的问题，
++[FID:43, TEXT:00F1] 大概是平局吧？
 
---- Group [right:卡农 next=2012] ---
+--- Group [right:卡农 next=2012] ---G
 あーあ、おいらも早く
 強くなって、姉ちゃん
 たちと戦いたいなぁ
-+[FID:43, TEXT:00F3] 
-+[FID:43, TEXT:00F6] 
-+[FID:43, TEXT:00F5] 
++[FID:43, TEXT:00F3] 唉——我也快点
++[FID:43, TEXT:00F6] 变强，和姐姐
++[FID:43, TEXT:00F5] 们战斗啊
 
---- Group [right:none next=0023] ---
+--- Group [right:none next=0023] ---G
 あーあ、おいらも早く
 強くなって、兄ちゃん
 たちと戦いたいなぁ
--[FID:43, TEXT:00F3] 
-+[FID:43, TEXT:00F4] 
--[FID:43, TEXT:00F5] 
+-[FID:43, TEXT:00F3] 唉——我也快点
++[FID:43, TEXT:00F4] 变强，和哥哥
+-[FID:43, TEXT:00F5] 们战斗啊
 
---- Group [right:卡农 next=2012] ---
+--- Group [right:卡农 next=2012] ---G
 そしたら、絶対に
 勝てると思うぞ！
-+[FID:43, TEXT:00F7] 
-+[FID:43, TEXT:00F8] 
++[FID:43, TEXT:00F7] 到时候，绝对
++[FID:43, TEXT:00F8] 能赢的！
 
---- Group [right:卡农 next=2012] ---
+--- Group [right:卡农 next=2012] ---G
 決闘には、カノンって
 人もいたんでしょ？
-+[FID:43, TEXT:00F9] 
-+[FID:43, TEXT:00FA] 
++[FID:43, TEXT:00F9] 决斗的时候，卡农
++[FID:43, TEXT:00FA] 那个人也在吧？
 
---- Group [left:none next=0023] ---
+--- Group [left:none next=0023] ---G
 ああ、フィズはカノン
 のことを知ってたよね
-+[FID:43, TEXT:00FB] 
-+[FID:43, TEXT:00FD] 
++[FID:43, TEXT:00FB] 啊，菲兹她
++[FID:43, TEXT:00FD] 知道卡农的事情吧？
 
---- Group [left:none next=0023] ---
+--- Group [left:none next=0023] ---G
 ああ、フィズはカノン
 のことを知ってたっけ
--[FID:43, TEXT:00FB] 
-+[FID:43, TEXT:00FC] 
+-[FID:43, TEXT:00FB] 啊，菲兹她
++[FID:43, TEXT:00FC] 知道卡农的事情？
 
---- Group [left:none next=0023] ---
+--- Group [left:none next=0023] ---G
 うん、フィズはカノン
 のことを知ってたっけ
-+[FID:43, TEXT:00FE] 
--[FID:43, TEXT:00FC] 
++[FID:43, TEXT:00FE] 嗯，菲兹好像
+-[FID:43, TEXT:00FC] 知道卡农的事情？
 
---- Group [left:none next=0023] ---
+--- Group [left:none next=0023] ---G
 ええ、そういえば、
 フィズちゃんは
 カノンさんを知って
 いましたよね？
-+[FID:43, TEXT:00FF] 
-+[FID:43, TEXT:0100] 
-+[FID:43, TEXT:0101] 
-+[FID:43, TEXT:0102] 
++[FID:43, TEXT:00FF] 是啊，说起来，
++[FID:43, TEXT:0100] 菲兹小姐
++[FID:43, TEXT:0101] 认识卡农先生
++[FID:43, TEXT:0102] 的吧？
 
---- Group [right:卡农 next=2012] ---
+--- Group [right:卡农 next=2012] ---G
 うん
-+[FID:43, TEXT:0103] 
++[FID:43, TEXT:0103] 嗯
 
---- Group [left:none next=0023] ---
+--- Group [left:none next=0023] ---G
 カノンのこと、
 どんなやつだと思う？
-+[FID:43, TEXT:0104] 
-+[FID:43, TEXT:0105] 
++[FID:43, TEXT:0104] 关于卡农先生，
++[FID:43, TEXT:0105] 你觉得他怎样？
 
---- Group [left:none next=0023] ---
+--- Group [left:none next=0023] ---G
 カノンのこと、
 どんな人だと思う？
--[FID:43, TEXT:0104] 
-+[FID:43, TEXT:0106] 
+-[FID:43, TEXT:0104] 关于卡农先生，
++[FID:43, TEXT:0106] 你觉得他怎样？
 
---- Group [left:none next=0023] ---
+--- Group [left:none next=0023] ---G
 カノンさんを、どんな
 人だと思いますか？
-+[FID:43, TEXT:0107] 
-+[FID:43, TEXT:0108] 
++[FID:43, TEXT:0107] 卡农先生，
++[FID:43, TEXT:0108] 您觉得怎样？
 
---- Group [right:卡农 next=2012] ---
+--- Group [right:卡农 next=2012] ---G
 そうねぇ・・・
 あの下品な連中の中に
 いるのが不思議よね
-+[FID:43, TEXT:0109] 
-+[FID:43, TEXT:010A] 
-+[FID:43, TEXT:010B] 
++[FID:43, TEXT:0109] 是啊……
++[FID:43, TEXT:010A] 他跟那些粗俗的家伙
++[FID:43, TEXT:010B] 混在一起真不可思议
 
---- Group [right:none next=2012] ---
+--- Group [right:none next=2012] ---G
 あたしを捕まえた時も
 そんなにひどいことは
 しなかったし・・・
-+[FID:43, TEXT:010C] 
-+[FID:43, TEXT:010D] 
-+[FID:43, TEXT:010E] 
++[FID:43, TEXT:010C] 他抓住我的时候也
++[FID:43, TEXT:010D] 那么过分的事情
++[FID:43, TEXT:010E] 都没有做……
 
---- Group [left:none next=0023] ---
+--- Group [left:none next=0023] ---G
 やっぱりな
-+[FID:43, TEXT:010F] 
++[FID:43, TEXT:010F] 果然啊
 
---- Group [left:none next=0023] ---
+--- Group [left:none next=0023] ---G
 やっぱり
-+[FID:43, TEXT:0110] 
++[FID:43, TEXT:0110] 果然
 
---- Group [left:none next=0023] ---
+--- Group [left:none next=0023] ---G
 やっぱり・・・
-+[FID:43, TEXT:0111] 
++[FID:43, TEXT:0111] 果然……
 
---- Group [right:卡农 next=2012] ---
+--- Group [right:卡农 next=2012] ---G
 あのバノッサとかいう
 親玉に脅かされてるの
 よ、きっと！
-+[FID:43, TEXT:0112] 
-+[FID:43, TEXT:0113] 
-+[FID:43, TEXT:0114] 
++[FID:43, TEXT:0112] 一定是那巴诺萨
++[FID:43, TEXT:0113] 老大威胁的
++[FID:43, TEXT:0114] 哟，一定！
 
---- Group [right:none next=0023] ---
+--- Group [right:none next=0023] ---G
 お兄ちゃん、あいつを
 やっつけてカノンさん
 を助けてあげてね
-+[FID:43, TEXT:0115] 
-+[FID:43, TEXT:0116] 
-+[FID:43, TEXT:0117] 
++[FID:43, TEXT:0115] 哥哥，打败那家伙
++[FID:43, TEXT:0116] 把卡农先生
++[FID:43, TEXT:0117] 救出来吧
 
---- Group [right:卡农 next=2012] ---
+--- Group [right:卡农 next=2012] ---G
 お姉ちゃん、あいつを
 やっつけてカノンさん
 を助けてあげてね
-+[FID:43, TEXT:0118] 
--[FID:43, TEXT:0116] 
--[FID:43, TEXT:0117] 
++[FID:43, TEXT:0118] 姐姐，打败那家伙
+-[FID:43, TEXT:0116] 把卡农先生
+-[FID:43, TEXT:0117] 救出来吧
 
---- Group [left:none next=0023] ---
+--- Group [left:none next=0023] ---G
 あ、ああ・・・
-+[FID:43, TEXT:0119] 
++[FID:43, TEXT:0119] 啊，啊啊……
 
---- Group [left:none next=0023] ---
+--- Group [left:none next=0023] ---G
 え・・・うん・・・
-+[FID:43, TEXT:011A] 
++[FID:43, TEXT:011A] 呃……嗯……
 
---- Group [left:none next=0023] ---
+--- Group [left:none next=0023] ---G
 そうね・・・
 助けてあげなくちゃね
-+[FID:43, TEXT:011B] 
-+[FID:43, TEXT:011C] 
++[FID:43, TEXT:011B] 是啊……
++[FID:43, TEXT:011C] 必须得救他才行呢
 
---- Group [left:none next=0023] ---
+--- Group [left:none next=0023] ---G
 いつも抱っこしてるけ
 ど、そのぬいぐるみは
 ラミちゃんの宝物？
-+[FID:43, TEXT:011D] 
-+[FID:43, TEXT:011E] 
-+[FID:43, TEXT:011F] 
++[FID:43, TEXT:011D] 你总是抱着它
++[FID:43, TEXT:011E] 这个玩偶是
++[FID:43, TEXT:011F] 拉米的宝贝吗？
 
---- Group [right:卡农 next=2012] ---
+--- Group [right:卡农 next=2012] ---G
 ・・・（こくん）
-+[FID:43, TEXT:0120] 
++[FID:43, TEXT:0120] ……（点头）
 
---- Group [right:卡农 next=2012] ---
+--- Group [right:卡农 next=2012] ---G
 リプレママがね
 くれたんだよ・・・
-+[FID:43, TEXT:0121] 
-+[FID:43, TEXT:0122] 
++[FID:43, TEXT:0121] 是莉普蕾妈妈
++[FID:43, TEXT:0122] 送给我的……
 
---- Group [right:卡农 next=2012] ---
+--- Group [right:卡农 next=2012] ---G
 ママがひろわれたとき
 に、だいてたクマさん
 なんだって・・・
-+[FID:43, TEXT:0123] 
-+[FID:43, TEXT:0124] 
-+[FID:43, TEXT:0125] 
++[FID:43, TEXT:0123] 据说妈妈被捡到的
++[FID:43, TEXT:0124] 时候怀里就抱着这
++[FID:43, TEXT:0125] 只熊……
 
---- Group [left:none next=2012] ---
+--- Group [left:none next=2012] ---G
 そうだったんだ・・・
-+[FID:43, TEXT:0126] 
++[FID:43, TEXT:0126] 原来是这样啊……
 
---- Group [right:none next=2012] ---
+--- Group [right:none next=2012] ---G
 だからね、だっこして
 るとママのにおいがし
 てあんしんできるの
-+[FID:43, TEXT:0127] 
-+[FID:43, TEXT:0128] 
-+[FID:43, TEXT:0129] 
++[FID:43, TEXT:0127] 所以说啊，抱着它
++[FID:43, TEXT:0128] 就能闻到妈妈的味道
++[FID:43, TEXT:0129] 很安心呢
 
---- Group [right:none next=0023] ---
+--- Group [right:none next=0023] ---G
 アニキと出会ってから
 毎日が楽しいぜ
-+[FID:43, TEXT:012A] 
-+[FID:43, TEXT:012B] 
++[FID:43, TEXT:012A] 自从遇到大哥以后
++[FID:43, TEXT:012B] 每天都很开心啊
 
---- Group [right:none next=2012] ---
+--- Group [right:none next=2012] ---G
 アネゴと出会ってから
 毎日が楽しいぜ
-+[FID:43, TEXT:012C] 
--[FID:43, TEXT:012B] 
++[FID:43, TEXT:012C] 自从遇到大姐以后
+-[FID:43, TEXT:012B] 每天都很开心啊
 
---- Group [right:卡农 next=2012] ---
+--- Group [right:卡农 next=2012] ---G
 次から次へと強い奴が
 出てくるんだもんな
-+[FID:43, TEXT:012D] 
-+[FID:43, TEXT:012E] 
++[FID:43, TEXT:012D] 厉害的家伙一个接一个
++[FID:43, TEXT:012E] 地冒出来啊
 
---- Group [left:none next=0023] ---
+--- Group [left:none next=0023] ---G
 ってことは、まさか？
-+[FID:43, TEXT:012F] 
++[FID:43, TEXT:012F] 也就是说，难道？
 
---- Group [left:none next=0023] ---
+--- Group [left:none next=0023] ---G
 え・・・まさか？
-+[FID:43, TEXT:0130] 
++[FID:43, TEXT:0130] 诶……难道？
 
---- Group [right:卡农 next=2012] ---
+--- Group [right:卡农 next=2012] ---G
 ああ、俺っちの当面の
 目標はカノンさ！！
-+[FID:43, TEXT:0131] 
-+[FID:43, TEXT:0132] 
++[FID:43, TEXT:0131] 啊，我目前的
++[FID:43, TEXT:0132] 目标就是卡农！！
 
---- Group [left:none next=0023] ---
+--- Group [left:none next=0023] ---G
 おいおい・・・
-+[FID:43, TEXT:0133] 
++[FID:43, TEXT:0133] 喂喂……
 
---- Group [left:none next=0023] ---
+--- Group [left:none next=0023] ---G
 ・・・
-+[FID:43, TEXT:0134] 
++[FID:43, TEXT:0134] ……
 
---- Group [left:none next=0023] ---
+--- Group [left:none next=0023] ---G
 あ〜、ムリムリ
-+[FID:43, TEXT:0135] 
++[FID:43, TEXT:0135] 啊〜，不行不行
 
---- Group [left:none next=0023] ---
+--- Group [left:none next=0023] ---G
 あの・・・
-+[FID:43, TEXT:0136] 
++[FID:43, TEXT:0136] 那个……
 
---- Group [right:卡农 next=2012] ---
+--- Group [right:卡农 next=2012] ---G
 力比べなら
 自信があるんだ
 へへへ、吉報を
 待っててくれよ？
-+[FID:43, TEXT:0137] 
-+[FID:43, TEXT:0138] 
-+[FID:43, TEXT:0139] 
-+[FID:43, TEXT:013A] 
++[FID:43, TEXT:0137] 如果是比力气
++[FID:43, TEXT:0138] 我有自信
++[FID:43, TEXT:0139] 嘿嘿，等着
++[FID:43, TEXT:013A] 好消息吧？
 
---- Group [right:卡农 next=2012] ---
+--- Group [right:卡农 next=2012] ---G
 カノンさんも、ガレフ
 と同じなんですよね
-+[FID:43, TEXT:013B] 
-+[FID:43, TEXT:013C] 
++[FID:43, TEXT:013B] 卡农先生也和加雷夫
++[FID:43, TEXT:013C] 一样吧？
 
---- Group [right:卡农 next=2012] ---
+--- Group [right:卡农 next=2012] ---G
 召喚師のせいで、
 運命を変えられて
 しまったんだから
-+[FID:43, TEXT:013D] 
-+[FID:43, TEXT:013E] 
-+[FID:43, TEXT:013F] 
++[FID:43, TEXT:013D] 都是因为召唤师，
++[FID:43, TEXT:013E] 命运被改变
++[FID:43, TEXT:013F] 了呢
 
---- Group [left:none next=0023] ---
+--- Group [left:none next=0023] ---G
 スウォン・・・
-+[FID:43, TEXT:0140] 
++[FID:43, TEXT:0140] 斯沃恩……
 
---- Group [left:none next=0023] ---
+--- Group [left:none next=0023] ---G
 スウォンくん・・・
-+[FID:43, TEXT:0141] 
++[FID:43, TEXT:0141] 斯沃恩君……
 
---- Group [right:卡农 next=2012] ---
+--- Group [right:卡农 next=2012] ---G
 あの、
 @ n 
-+[FID:43, TEXT:0142] 
-+[FID:43, TEXT:0143] 
++[FID:43, TEXT:0142] 那个，
++[FID:43, TEXT:0143] @n
 
---- Group [right:卡农 next=2012] ---
+--- Group [right:卡农 next=2012] ---G
 人が生きていくのに、
 召喚術は本当に必要な
 ものなんでしょうか？
-+[FID:43, TEXT:0144] 
-+[FID:43, TEXT:0145] 
-+[FID:43, TEXT:0146] 
++[FID:43, TEXT:0144] 为了活下去，
++[FID:43, TEXT:0145] 召唤术真的是
++[FID:43, TEXT:0146] 必要的吗？
 
---- Group [right:none next=2012] ---
+--- Group [right:none next=2012] ---G
 災いを運ぶこともある
 召喚術が、素晴らしい
 力なんでしょうか？
-+[FID:43, TEXT:0147] 
-+[FID:43, TEXT:0148] 
-+[FID:43, TEXT:0149] 
++[FID:43, TEXT:0147] 有时也会带来灾祸
++[FID:43, TEXT:0148] 的召唤术，是了不起的
++[FID:43, TEXT:0149] 力量吗？
 
---- Group [right:none next=2012] ---
+--- Group [right:none next=2012] ---G
 ごめんなさい
 生意気なこと言って
-+[FID:43, TEXT:014A] 
-+[FID:43, TEXT:014B] 
++[FID:43, TEXT:014A] 对不起
++[FID:43, TEXT:014B] 说了狂妄的话
 
---- Group [left:none next=0023] ---
+--- Group [left:none next=0023] ---G
 いや、いいんだよ
-+[FID:43, TEXT:014C] 
++[FID:43, TEXT:014C] 不，没关系啦
 
---- Group [left:none next=0023] ---
+--- Group [left:none next=0023] ---G
 ううん、いいよ・・・
-+[FID:43, TEXT:014D] 
++[FID:43, TEXT:014D] 嗯，没关系……
 
---- Group [left:none next=0023] ---
+--- Group [left:none next=0023] ---G
 いえ、いいんですよ
-+[FID:43, TEXT:014E] 
++[FID:43, TEXT:014E] 不，没关系的
 
---- Group [left:none next=0023] ---
+--- Group [left:none next=0023] ---G
 　　召喚術を使う者として
 　　の責任、か・・・
-+[FID:43, TEXT:014F] 
-+[FID:43, TEXT:0150] 
++[FID:43, TEXT:014F] 　　作为使用召唤术的人
++[FID:43, TEXT:0150] 　　的责任，吗……
 
---- Group [right:none next=0023] ---
+--- Group [right:none next=0023] ---G
 　　召喚術を使う者として
 　　の責任・・・
--[FID:43, TEXT:014F] 
-+[FID:43, TEXT:0151] 
+-[FID:43, TEXT:014F] 　　作为使用召唤术的人
++[FID:43, TEXT:0151] 　　的责任……
 
---- Group [left:none next=0023] ---
+--- Group [left:none next=0023] ---G
 　　　なんか、
 　　　複雑な気分だなぁ・・・
-+[FID:43, TEXT:0152] 
-+[FID:43, TEXT:0156] 
++[FID:43, TEXT:0152] 　　　不知怎么的，
++[FID:43, TEXT:0156] 　　　心情复杂啊……
 
---- Group [right:none next=0023] ---
+--- Group [right:none next=0023] ---G
 　　　なんか、
 　　　複雑な気分だよなぁ
--[FID:43, TEXT:0152] 
-+[FID:43, TEXT:0153] 
+-[FID:43, TEXT:0152] 　　　不知怎么的，
++[FID:43, TEXT:0153] 　　　心情复杂啊
 
---- Group [right:卡农 next=0023] ---
+--- Group [right:卡农 next=0023] ---G
 　　　なんだか、
 　　　複雑な気分だな
-+[FID:43, TEXT:0154] 
-+[FID:43, TEXT:0155] 
++[FID:43, TEXT:0154] 　　　总觉得，
++[FID:43, TEXT:0155] 　　　心情复杂啊
 
---- Group [right:卡农 next=0023] ---
+--- Group [right:卡农 next=0023] ---G
 　　　なんだか、
 　　　複雑な気分ですね・・・
--[FID:43, TEXT:0154] 
-+[FID:43, TEXT:0157] 
+-[FID:43, TEXT:0154] 　　　总觉得，
++[FID:43, TEXT:0157] 　　　心情复杂呢……
 
---- Group [right:卡农 next=0023] ---
+--- Group [right:卡农 next=0023] ---G
 　　バノッサの言っていた
 　　「資格」って
 　　なんのことなんだろ？
-+[FID:43, TEXT:0158] 
-+[FID:43, TEXT:0159] 
-+[FID:43, TEXT:015B] 
++[FID:43, TEXT:0158] 　　巴诺萨说的
++[FID:43, TEXT:0159] 　　"资格"究竟
++[FID:43, TEXT:015B] 　　是什么意思呢？
 
---- Group [left:none next=0023] ---
+--- Group [left:none next=0023] ---G
 　　バノッサの言っていた
 　　「資格」って
 　　なんのことなんだろう？
--[FID:43, TEXT:0158] 
--[FID:43, TEXT:0159] 
-+[FID:43, TEXT:015A] 
+-[FID:43, TEXT:0158] 　　巴诺萨说的
+-[FID:43, TEXT:0159] 　　"资格"究竟
++[FID:43, TEXT:015A] 　　是什么意思呢？
 
---- Group [right:卡农 next=0023] ---
+--- Group [right:卡农 next=0023] ---G
 　　バノッサさんの言う
 　　「資格」って、なんの
 　　ことなんでしょうか？
-+[FID:43, TEXT:015C] 
-+[FID:43, TEXT:015D] 
-+[FID:43, TEXT:015E] 
++[FID:43, TEXT:015C] 　　巴诺萨先生说的
++[FID:43, TEXT:015D] 　　"资格"，是什么
++[FID:43, TEXT:015E] 　　事情呢？
 
---- Group [right:卡农 next=0023] ---
+--- Group [right:卡农 next=0023] ---G
 　　　エドスとバノッサには
 　　　そんなつながりが
 　　　あったのか・・・
-+[FID:43, TEXT:015F] 
-+[FID:43, TEXT:0160] 
-+[FID:43, TEXT:0161] 
++[FID:43, TEXT:015F] 　　　艾多斯和巴诺萨之间
++[FID:43, TEXT:0160] 　　　原来有这样的
++[FID:43, TEXT:0161] 　　　联系啊……
 
---- Group [right:none next=0023] ---
+--- Group [right:none next=0023] ---G
 　エドスさんとバノッサさんは
 　知り合いだったんですね・・・
-+[FID:43, TEXT:0162] 
-+[FID:43, TEXT:0163] 
++[FID:43, TEXT:0162] 　艾多斯先生和巴诺萨先生
++[FID:43, TEXT:0163] 　原来是认识的啊……
 
---- Group [right:卡农 next=0023] ---
+--- Group [right:卡农 next=0023] ---G
 　　　リプレがあんなことを
 　　　思ってたなんて・・・
-+[FID:43, TEXT:0164] 
-+[FID:43, TEXT:0165] 
++[FID:43, TEXT:0164] 　　　莉普蕾居然
++[FID:43, TEXT:0165] 　　　会那么想……
 
---- Group [right:卡农 next=0023] ---
+--- Group [right:卡农 next=0023] ---G
 　　リプレさんがあんなことを
 　　思ってたなんて・・・
-+[FID:43, TEXT:0166] 
-+[FID:43, TEXT:0167] 
++[FID:43, TEXT:0166] 　　莉普蕾小姐居然
++[FID:43, TEXT:0167] 　　会那么想……
 
---- Group [left:none next=0023] ---
+--- Group [left:none next=0023] ---G
 　あの勝負は引き分けだと思うな
-+[FID:43, TEXT:0168] 
++[FID:43, TEXT:0168] 　那场比赛我觉得是平局
 
---- Group [right:none next=0023] ---
+--- Group [right:none next=0023] ---G
 　あの勝負は引き分けだと思う
-+[FID:43, TEXT:0169] 
++[FID:43, TEXT:0169] 　那场比赛我觉得是平局
 
---- Group [right:卡农 next=0023] ---
+--- Group [right:卡农 next=0023] ---G
 　あの勝負は引き分けだよね・・・
-+[FID:43, TEXT:016A] 
++[FID:43, TEXT:016A] 　那场比赛是平局吧……
 
---- Group [left:none next=0023] ---
+--- Group [left:none next=0023] ---G
 　あの勝負は引き分けだと思います
-+[FID:43, TEXT:016B] 
++[FID:43, TEXT:016B] 　那场比赛我觉得是平局
 
---- Group [left:none next=0023] ---
+--- Group [left:none next=0023] ---G
 　　　カノンが優しいのは、
 　　　本当なんだね
-+[FID:43, TEXT:016C] 
-+[FID:43, TEXT:016E] 
++[FID:43, TEXT:016C] 　　　卡农的温柔，
++[FID:43, TEXT:016E] 　　　是真的啊
 
---- Group [right:none next=0023] ---
+--- Group [right:none next=0023] ---G
 　　　カノンが優しいのは、
 　　　本当なんだな
--[FID:43, TEXT:016C] 
-+[FID:43, TEXT:016D] 
+-[FID:43, TEXT:016C] 　　　卡农的温柔，
++[FID:43, TEXT:016D] 　　　是真的啊
 
---- Group [left:none next=0023] ---
+--- Group [left:none next=0023] ---G
 　　　カノンさんは本当に
 　　　優しいんですね・・・
-+[FID:43, TEXT:016F] 
-+[FID:43, TEXT:0170] 
++[FID:43, TEXT:016F] 　　　卡农小姐真的很
++[FID:43, TEXT:0170] 　　　温柔呢……
 
---- Group [right:none next=0023] ---
+--- Group [right:none next=0023] ---G
 　　　ただのぬいぐるみじゃ
 　　　なかったんだ・・・
-+[FID:43, TEXT:0171] 
-+[FID:43, TEXT:0173] 
++[FID:43, TEXT:0171] 　　　不只是个普通的
++[FID:43, TEXT:0173] 　　　玩偶啊……
 
---- Group [right:卡农 next=0023] ---
+--- Group [right:卡农 next=0023] ---G
 　　　ただのぬいぐるみじゃ
 　　　なかったんですね
--[FID:43, TEXT:0171] 
-+[FID:43, TEXT:0174] 
+-[FID:43, TEXT:0171] 　　　不只是个普通的
++[FID:43, TEXT:0174] 　　　玩偶呢
 
---- Group [right:none next=0023] ---
+--- Group [right:none next=0023] ---G
 　　　ただのぬいぐるみじゃ
 　　　なかったんだな
--[FID:43, TEXT:0171] 
-+[FID:43, TEXT:0172] 
+-[FID:43, TEXT:0171] 　　　不只是个普通的
++[FID:43, TEXT:0172] 　　　玩偶啊
 
---- Group [right:卡农 next=0023] ---
+--- Group [right:卡农 next=0023] ---G
 　　　本当に素手で勝つ気で
 　　　いるのか？
-+[FID:43, TEXT:0175] 
-+[FID:43, TEXT:0177] 
++[FID:43, TEXT:0175] 　　　真的打算空手
++[FID:43, TEXT:0177] 　　　打赢吗？
 
---- Group [right:卡农 next=0023] ---
+--- Group [right:卡农 next=0023] ---G
 　　　本当に素手で勝つ気で
 　　　いるのかなぁ？
--[FID:43, TEXT:0175] 
-+[FID:43, TEXT:0178] 
+-[FID:43, TEXT:0175] 　　　真的打算空手
++[FID:43, TEXT:0178] 　　　打赢吗？
 
---- Group [right:none next=0023] ---
+--- Group [right:none next=0023] ---G
 　　　本当に素手で勝つ気で
 　　　いるんでしょうか？
--[FID:43, TEXT:0175] 
-+[FID:43, TEXT:0179] 
+-[FID:43, TEXT:0175] 　　　真的打算空手
++[FID:43, TEXT:0179] 　　　打赢吗？
 
---- Group [left:none next=0023] ---
+--- Group [left:none next=0023] ---G
 　　　本当に素手で勝つ気で
 　　　いるのかなあ？
--[FID:43, TEXT:0175] 
-+[FID:43, TEXT:0176] 
+-[FID:43, TEXT:0175] 　　　真的打算空手
++[FID:43, TEXT:0176] 　　　赢吗？
 
---- Group [left:none next=0023] ---
+--- Group [left:none next=0023] ---G
 　　　召喚術が災いを運んで
 　　　くる・・・
-+[FID:43, TEXT:017A] 
-+[FID:43, TEXT:017C] 
++[FID:43, TEXT:017A] 　　　召唤术会带来
++[FID:43, TEXT:017C] 　　　灾祸……
 
---- Group [right:none next=0023] ---
+--- Group [right:none next=0023] ---G
 　　　召喚術が災いを運んで
 　　　くる、か・・・
--[FID:43, TEXT:017A] 
-+[FID:43, TEXT:017B] 
+-[FID:43, TEXT:017A] 　　　召唤术会带来
++[FID:43, TEXT:017B] 　　　是吗……
