@@ -2225,64 +2225,64 @@
 --- Group [left:主人公 next=0023] ---G
 また、魚でも釣って
 みるかな？
-+[FID:3C, TEXT:029D] 要不，再去
-+[FID:3C, TEXT:02A0] 钓钓鱼试试？
++[FID:3C, TEXT:029D] 要不，再去钓钓鱼
++[FID:3C, TEXT:02A0] 试试看？
 
 --- Group [left:主人公 next=0023] ---G
 また、魚でも釣って
 リプレを喜ばせて
 やろうかな？
--[FID:3C, TEXT:029D] 要不，再去
-+[FID:3C, TEXT:029E] 钓钓鱼让莉普蕾
-+[FID:3C, TEXT:029F] 开心一下？
+-[FID:3C, TEXT:029D] 要不，再去钓钓鱼
++[FID:3C, TEXT:029E] 让莉普蕾高兴
++[FID:3C, TEXT:029F] 一下？
 
 --- Group [left:主人公 next=0023] ---G
 うーん
 魚釣りねぇ・・・
-+[FID:3C, TEXT:02A1] 嗯——
++[FID:3C, TEXT:02A1] 嗯……
 +[FID:3C, TEXT:02A2] 钓鱼啊……
 
---- Group [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---G
 また、魚を
 釣って帰ったら
 リプレさん
 喜ぶかしら・・・
-+[FID:3C, TEXT:02A3] 要是再钓些鱼
++[FID:3C, TEXT:02A3] 要是再钓到鱼
 +[FID:3C, TEXT:02A4] 带回去的话
 +[FID:3C, TEXT:02A5] 莉普蕾小姐
-+[FID:3C, TEXT:02A6] 会不会高兴呢……
++[FID:3C, TEXT:02A6] 会高兴吗……
 
---- Group [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---G
 あれ？
 釣りの餌がない・・・
 これじゃあ釣りは
 できないよな
 +[FID:3C, TEXT:02A7] 咦？
-+[FID:3C, TEXT:02A8] 没有钓鱼的饵了……
-+[FID:3C, TEXT:02A9] 这样的话
-+[FID:3C, TEXT:02AA] 可钓不了鱼啊
++[FID:3C, TEXT:02A8] 好像没有饵料……
++[FID:3C, TEXT:02A9] 这样果然
++[FID:3C, TEXT:02AA] 什么都钓不到啊
 
---- Group [left:主人公 next=2012] ---
+--- Group [left:主人公 next=2012] ---G
 あれ？
 リプレがいない
 -[FID:3C, TEXT:02A7] 咦？
 +[FID:3C, TEXT:02D6] 莉普蕾不在啊
 
---- Group [left:主人公 next=2012] ---
+--- Group [left:主人公 next=2012] ---G
 あれ？
 リプレがいないぞ
 -[FID:3C, TEXT:02A7] 咦？
 +[FID:3C, TEXT:02CE] 莉普蕾不在啊
 
---- Group [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---G
 でも、まずは
 釣りの餌を探さないと
 いけないみたいだな
 +[FID:3C, TEXT:02AB] 不过，首先
-+[FID:3C, TEXT:02AC] 得去找钓鱼的饵
-+[FID:3C, TEXT:02AD] 才行啊
++[FID:3C, TEXT:02AC] 得先找鱼饵才行
++[FID:3C, TEXT:02AD] 不然没法钓啊
 
---- Group [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---G
 うーん・・・
 餌がないみたい
 さすがにこれじゃあ
@@ -2292,69 +2292,69 @@
 +[FID:3C, TEXT:02B0] 这样果然
 +[FID:3C, TEXT:02B1] 什么都钓不到呢
 
---- Group [right:char_0041 next=0023] ---
+--- Group [right:char_0041 next=0023] ---G
 気にしなくていいって
 こういう時もあるわ
 +[FID:3C, TEXT:02B7] 不用在意啦
-+[FID:3C, TEXT:02B8] 有时候就是这样嘛
++[FID:3C, TEXT:02B8] 这种事也是常有的
 
---- Group [right:char_0041 next=0023] ---
+--- Group [right:char_0041 next=0023] ---G
 うん、これだけあれば
 充分だよ
-+[FID:3C, TEXT:02B9] 嗯，有这些就
-+[FID:3C, TEXT:02BA] 足够了
++[FID:3C, TEXT:02B9] 嗯，有这些的话
++[FID:3C, TEXT:02BA] 就足够了
 
---- Group [right:none next=0023] ---
+--- Group [right:none next=0023] ---G
 わぁ、ずいぶん
 たくさん釣れたのね
-+[FID:3C, TEXT:02BB] 哇，钓到了
-+[FID:3C, TEXT:02BC] 好多啊
++[FID:3C, TEXT:02BB] 哇，真是
++[FID:3C, TEXT:02BC] 钓了好多呢
 
---- Group [right:char_0043 next=0023] ---
+--- Group [right:char_0043 next=0023] ---G
 こんな大物
 どう料理したらいいか
 迷っちゃいそう
-+[FID:3C, TEXT:02BD] 这么大的家伙
-+[FID:3C, TEXT:02BE] 该怎么料理才好
-+[FID:3C, TEXT:02BF] 真让人犹豫呢
++[FID:3C, TEXT:02BD] 这么大的猎物
++[FID:3C, TEXT:02BE] 都不知道该怎么料理
++[FID:3C, TEXT:02BF] 才好了
 
---- Group [right:none next=0023] ---
+--- Group [right:none next=0023] ---G
 すごいじゃない！
 これならきっと、おい
 しいお料理ができるわ
-+[FID:3C, TEXT:02C0] 真厉害啊！
-+[FID:3C, TEXT:02C1] 这样的话一定能
-+[FID:3C, TEXT:02C2] 做出美味的料理
++[FID:3C, TEXT:02C0] 真厉害！
++[FID:3C, TEXT:02C1] 这样的话一定能做出
++[FID:3C, TEXT:02C2] 美味的料理呢
 
---- Group [right:char_0043 next=0023] ---
+--- Group [right:char_0043 next=0023] ---G
 これって・・・
 食べられるのかしら？
 +[FID:3C, TEXT:02C3] 这个……
 +[FID:3C, TEXT:02C4] 能吃吗？
 
---- Group [right:none next=2012] ---
+--- Group [right:none next=2012] ---G
 ごくろうさま
 きっとみんなも喜んで
 食べてくれるよ
 +[FID:3C, TEXT:02C5] 辛苦了
-+[FID:3C, TEXT:02C6] 大家一定会高兴地
-+[FID:3C, TEXT:02C7] 吃掉的
++[FID:3C, TEXT:02C6] 大家一定会开心地
++[FID:3C, TEXT:02C7] 享用的
 
---- Group [right:卡农 next=2012] ---
+--- Group [right:卡农 next=2012] ---G
 また何か釣れた時は
 私のところに
 もってきてね
 +[FID:3C, TEXT:02C8] 要是再钓到什么
-+[FID:3C, TEXT:02C9] 就拿到
-+[FID:3C, TEXT:02CA] 我这儿来哦
++[FID:3C, TEXT:02C9] 记得拿到
++[FID:3C, TEXT:02CA] 我这里来哦
 
---- Group [right:none next=2012] ---
+--- Group [right:none next=2012] ---G
 腕によりをかけて
 おいしい料理を作って
 あげるから、ね？
 +[FID:3C, TEXT:02CB] 我会使出浑身解数
 +[FID:3C, TEXT:02CC] 给你做美味的料理
-+[FID:3C, TEXT:02CD] 所以，好吗？
++[FID:3C, TEXT:02CD] 好吗？
 
 --- Group [left:主人公 next=0023] ---G
 あ、そうか！
@@ -2392,7 +2392,7 @@
 +[FID:3C, TEXT:02DB] 她和孩子们一起
 +[FID:3C, TEXT:02DC] 去买东西了来着
 
---- Group [left:none next=0026] ---
+--- Group [left:none next=0026] ---G
 【自分の部屋】
 
 
@@ -2441,7 +2441,7 @@
 +[FID:3C, TEXT:02DD] 【自己的房间】
 +[FID:3C, TEXT:0000] 
 -[FID:3C, TEXT:0000] 
-+[FID:3C, TEXT:02DE] 【莉普蕾与儿童房】
++[FID:3C, TEXT:02DE] 【利普雷和儿童房】
 -[FID:3C, TEXT:0000] 
 -[FID:3C, TEXT:0000] 
 +[FID:3C, TEXT:02DF] 【玄关】
@@ -2456,19 +2456,19 @@
 +[FID:3C, TEXT:02E2] 【加泽尔的房间】
 -[FID:3C, TEXT:0000] 
 -[FID:3C, TEXT:0000] 
-+[FID:3C, TEXT:02E3] 【房间1】
++[FID:3C, TEXT:02E3] 【房间１】
 -[FID:3C, TEXT:0000] 
 -[FID:3C, TEXT:0000] 
-+[FID:3C, TEXT:02E4] 【房间2】
++[FID:3C, TEXT:02E4] 【房间２】
 -[FID:3C, TEXT:0000] 
 -[FID:3C, TEXT:0000] 
-+[FID:3C, TEXT:02E5] 【房间3】
++[FID:3C, TEXT:02E5] 【房间３】
 -[FID:3C, TEXT:0000] 
 -[FID:3C, TEXT:0000] 
-+[FID:3C, TEXT:02E6] 【房间4】
++[FID:3C, TEXT:02E6] 【房间４】
 -[FID:3C, TEXT:0000] 
 -[FID:3C, TEXT:0000] 
-+[FID:3C, TEXT:02E7] 【房间5】
++[FID:3C, TEXT:02E7] 【房间５】
 -[FID:3C, TEXT:0000] 
 -[FID:3C, TEXT:0000] 
 +[FID:3C, TEXT:02E8] 【阁楼房间】
