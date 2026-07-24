@@ -1,4 +1,4 @@
---- Group [left:none next=201D] ---
+--- Group [left:none next=201D] ---G
 
 
 　　わたしがこうすること・・・
@@ -6,11 +6,11 @@
 　　いたのかもしれない・・・
 +[FID:4F, TEXT:0000] 
 -[FID:4F, TEXT:0000] 
-+[FID:4F, TEXT:0014] 　　我这样做……
-+[FID:4F, TEXT:0015] 　　两人从一开始就明白
-+[FID:4F, TEXT:0016] 　　或许明白了吧……
++[FID:4F, TEXT:0014] 　　我会这样做……
++[FID:4F, TEXT:0015] 　　或许那两人从一开始
++[FID:4F, TEXT:0016] 　　就猜到了吧……
 
---- Group [left:none next=201D] ---
+--- Group [left:none next=201D] ---G
 
 　ふたりとも、痛いほど
 　わかってるはずだもんね・・・
@@ -18,11 +18,11 @@
 　なれるんだろうな
 -[FID:4F, TEXT:0000] 
 +[FID:4F, TEXT:0010] 　两个人都痛切地
-+[FID:4F, TEXT:0011] 　明白吧……
++[FID:4F, TEXT:0011] 　明白那种痛苦吧……
 +[FID:4F, TEXT:0012] 　所以，才能那样
 +[FID:4F, TEXT:0013] 　温柔啊
 
---- Group [left:none next=201D] ---
+--- Group [left:none next=201D] ---G
 
 
 　　あたしがこうするって・・・
@@ -30,11 +30,11 @@
 　　わかっていたのかな・・・
 -[FID:4F, TEXT:0000] 
 -[FID:4F, TEXT:0000] 
-+[FID:4F, TEXT:000D] 　　我这样做……
-+[FID:4F, TEXT:000E] 　　两人从一开始就
-+[FID:4F, TEXT:000F] 　　明白了吗……
++[FID:4F, TEXT:000D] 　　我会这样做……
++[FID:4F, TEXT:000E] 　　那两人从一开始就
++[FID:4F, TEXT:000F] 　　猜到了吗……
 
---- Group [left:none next=201D] ---
+--- Group [left:none next=201D] ---G
 
 
 　　僕がこうするだろうという
@@ -42,11 +42,11 @@
 　　わかっていたのだろうか
 -[FID:4F, TEXT:0000] 
 -[FID:4F, TEXT:0000] 
-+[FID:4F, TEXT:000C] 　　我会这样做这件事，
-+[FID:4F, TEXT:0002] 　　那件事，两人从一开始就
-+[FID:4F, TEXT:0003] 　　明白了吧……
++[FID:4F, TEXT:000C] 　　我会这样做，
++[FID:4F, TEXT:0002] 　　那两人从一开始就
++[FID:4F, TEXT:0003] 　　猜到了吧……
 
---- Group [left:none next=201D] ---
+--- Group [left:none next=201D] ---G
 
 　リプレさんは黙って温かい
 　ミルクを出してくれた・・・
@@ -58,7 +58,7 @@
 +[FID:4F, TEXT:0019] 　加泽尔先生
 +[FID:4F, TEXT:001A] 　也没有抱怨一句……
 
---- Group [left:none next=201D] ---
+--- Group [left:none next=201D] ---G
 
 　ふたりとも、痛いほど
 　わかってるはずだから・・・
@@ -66,23 +66,23 @@
 　優しくなれるんだろう
 -[FID:4F, TEXT:0000] 
 -[FID:4F, TEXT:0010] 　两个人都痛切地
-+[FID:4F, TEXT:001B] 　明白吧……
++[FID:4F, TEXT:001B] 　明白那种痛苦吧……
 +[FID:4F, TEXT:001C] 　正因如此，才能那样
 +[FID:4F, TEXT:001D] 　温柔吧
 
---- Group [left:none next=201D] ---
+--- Group [left:none next=201D] ---G
 
 　それを知っている二人だから
 　こそ、モナティたちを
 　優しくいたわって
 　くれたのかもしれない・・・
 -[FID:4F, TEXT:0000] 
-+[FID:4F, TEXT:0008] 　正因为他们是知道这点的两人，
++[FID:4F, TEXT:0008] 　正因为他们知道这点，
 +[FID:4F, TEXT:0009] 　才会温柔地
 +[FID:4F, TEXT:000A] 　关照莫娜蒂他们
 +[FID:4F, TEXT:000B] 　吧……
 
---- Group [left:none next=201D] ---
+--- Group [left:none next=201D] ---G
 
 
 
@@ -92,7 +92,7 @@
 -[FID:4F, TEXT:0000] 
 +[FID:4F, TEXT:0007] 　　被抛弃的悲伤
 
---- Group [left:none next=201D] ---
+--- Group [left:none next=201D] ---G
 
 
 　リプレは黙って温かいミルクを
@@ -104,7 +104,7 @@
 +[FID:4F, TEXT:0005] 　加泽尔也完全没有
 +[FID:4F, TEXT:0006] 　说一句抱怨的话
 
---- Group [left:none next=201D] ---
+--- Group [left:none next=201D] ---G
 
 
 　　俺がこうするだろうという
@@ -113,26 +113,26 @@
 -[FID:4F, TEXT:0000] 
 -[FID:4F, TEXT:0000] 
 +[FID:4F, TEXT:0001] 　　我会这样做，
--[FID:4F, TEXT:0002] 　　那件事，两人从一开始就
--[FID:4F, TEXT:0003] 　　明白了吧……
+-[FID:4F, TEXT:0002] 　　那两人从一开始就
+-[FID:4F, TEXT:0003] 　　猜到了吧……
 
---- Group [left:none next=0023] ---
+--- Group [left:none next=0023] ---G
 ソル
 +[FID:4F, TEXT:001E] 索尔
 
---- Group [left:none next=0023] ---
+--- Group [left:none next=0023] ---G
 キール
 +[FID:4F, TEXT:001F] 基尔
 
---- Group [left:none next=0023] ---
+--- Group [left:none next=0023] ---G
 カシス
 +[FID:4F, TEXT:0020] 卡茜丝
 
---- Group [left:none next=0023] ---
+--- Group [left:none next=0023] ---G
 クラレット
 +[FID:4F, TEXT:0021] 克拉蕾特
 
---- Group [left:none next=0003] ---
+--- Group [left:none next=0003] ---G
 レイド
 ガゼル
 エドス
@@ -154,67 +154,67 @@
 +[FID:4F, TEXT:002A] 洛卡斯
 +[FID:4F, TEXT:002B] 莫娜蒂
 
---- Group [right:none next=2012] ---
+--- Group [right:none next=2012] ---G
 モナティは、
 メイトルパに生息する
 レビットらしいな
 +[FID:4F, TEXT:002D] 莫娜蒂、
-+[FID:4F, TEXT:002E] 好像是栖息在梅托尔帕
++[FID:4F, TEXT:002E] 好像是栖息在梅特尔巴
 +[FID:4F, TEXT:002F] 的利比特啊
 
---- Group [left:none next=2012] ---
+--- Group [left:none next=2012] ---G
 ？？？
 +[FID:4F, TEXT:0030] ？？？
 
---- Group [left:none next=0023] ---
+--- Group [left:none next=0023] ---G
 レビットというのは？
 +[FID:4F, TEXT:0031] 利比特是什么？
 
---- Group [right:none next=2012] ---
+--- Group [right:none next=2012] ---G
 メイトルパっていうの
 は幻獣や亜人間の世界
 さ。レビットは、亜人
 間の一種なんだよ
-+[FID:4F, TEXT:0032] 梅托尔帕是
-+[FID:4F, TEXT:0033] 幻兽和亚人类的世界。
++[FID:4F, TEXT:0032] 梅特尔巴是
++[FID:4F, TEXT:0033] 幻兽和亚人类的世界
 +[FID:4F, TEXT:0034] 利比特是
 +[FID:4F, TEXT:0035] 亚人类的一种哦
 
---- Group [right:none next=2012] ---
+--- Group [right:none next=2012] ---G
 不思議な力がある以外
 は、人間と同じような
 暮らしをしている
 らしい
-+[FID:4F, TEXT:0036] 除了拥有
-+[FID:4F, TEXT:0037] 不可思议的力量之外，
-+[FID:4F, TEXT:004C] 好像过着和人类
-+[FID:4F, TEXT:004D] 一样的生活
++[FID:4F, TEXT:0036] 除了拥有不可思议的
++[FID:4F, TEXT:0037] 力量之外，好像过着
++[FID:4F, TEXT:004C] 和人类一样的生活
++[FID:4F, TEXT:004D] 
 
---- Group [right:none next=2012] ---
+--- Group [right:none next=2012] ---G
 不思議な力がある以外
 は、人間と同じような
 暮らしをしてるらしい
--[FID:4F, TEXT:0036] 除了拥有
--[FID:4F, TEXT:0037] 不可思议的力量之外，
-+[FID:4F, TEXT:0038] 好像过着和人类一样的生活【超出】
+-[FID:4F, TEXT:0036] 除了拥有不可思议的
+-[FID:4F, TEXT:0037] 力量之外，好像过着
++[FID:4F, TEXT:0038] 和人类一样的生活
 
---- Group [right:none next=2012] ---
+--- Group [right:none next=2012] ---G
 不思議な力がある以外
 は、人間と同じような
 暮らしをしている
 らしいですね
--[FID:4F, TEXT:0036] 除了拥有
--[FID:4F, TEXT:0037] 不可思议的力量之外，
--[FID:4F, TEXT:004C] 好像过着和人类
-+[FID:4F, TEXT:0065] 一样的生活呢
+-[FID:4F, TEXT:0036] 除了拥有不可思议的
+-[FID:4F, TEXT:0037] 力量之外，好像过着
+-[FID:4F, TEXT:004C] 和人类一样的生活
++[FID:4F, TEXT:0065] 呢
 
---- Group [left:none next=0023] ---
+--- Group [left:none next=0023] ---G
 じゃあ、モナティにも
 不思議な力が！？
 +[FID:4F, TEXT:0039] 那么，莫娜蒂也有
 +[FID:4F, TEXT:003B] 不可思议的力量吗！？
 
---- Group [left:none next=0023] ---
+--- Group [left:none next=0023] ---G
 じゃあ、モナティにも
 不思議な力が
 あるんですか？
@@ -222,111 +222,111 @@
 +[FID:4F, TEXT:003C] 不可思议的
 +[FID:4F, TEXT:003D] 力量吗？
 
---- Group [left:none next=0023] ---
+--- Group [left:none next=0023] ---G
 じゃあ、モナティにも
 不思議な力が？
 -[FID:4F, TEXT:0039] 那么，莫娜蒂也有
 +[FID:4F, TEXT:003A] 不可思议的力量？
 
---- Group [right:none next=2012] ---
+--- Group [right:none next=2012] ---G
 今のところはなんとも
 言えないな
 +[FID:4F, TEXT:003E] 现在还
 +[FID:4F, TEXT:004E] 说不准啊
 
---- Group [right:none next=2012] ---
+--- Group [right:none next=2012] ---G
 今のところはなんとも
 言えません
 -[FID:4F, TEXT:003E] 现在还
 +[FID:4F, TEXT:0066] 说不准
 
---- Group [right:none next=2012] ---
+--- Group [right:none next=2012] ---G
 今のところはなんとも
 言えない
 -[FID:4F, TEXT:003E] 现在还
 +[FID:4F, TEXT:003F] 说不准
 
---- Group [right:none next=2012] ---
+--- Group [right:none next=2012] ---G
 実は俺さ
 メイトルパから召喚獣
 呼ぶの、苦手なんだ
 +[FID:4F, TEXT:0040] 其实啊，
-+[FID:4F, TEXT:0041] 我不太擅长从梅托尔帕
++[FID:4F, TEXT:0041] 我不太擅长从梅特尔巴
 +[FID:4F, TEXT:0042] 召唤召唤兽
 
---- Group [left:none next=0023] ---
+--- Group [left:none next=0023] ---G
 そうか・・・
 +[FID:4F, TEXT:0043] 这样啊……
 
---- Group [left:none next=0023] ---
+--- Group [left:none next=0023] ---G
 そっか・・・
 +[FID:4F, TEXT:0044] 这样啊……
 
---- Group [left:none next=0023] ---
+--- Group [left:none next=0023] ---G
 そうなんですか・・・
 +[FID:4F, TEXT:0045] 是这样吗……
 
---- Group [right:none next=2012] ---
+--- Group [right:none next=2012] ---G
 どうやらモナティは、
 メイトルパに生息する
 レビットらしいな
 +[FID:4F, TEXT:0046] 看来莫娜蒂
--[FID:4F, TEXT:002E] 好像是栖息在梅托尔帕
+-[FID:4F, TEXT:002E] 好像是栖息在梅特尔巴
 -[FID:4F, TEXT:002F] 的利比特啊
 
---- Group [right:none next=2012] ---
+--- Group [right:none next=2012] ---G
 どうやらモナティは、
 メイトルパに生息する
 レビットみたいね
 -[FID:4F, TEXT:0046] 看来莫娜蒂
--[FID:4F, TEXT:002E] 好像是栖息在梅托尔帕
+-[FID:4F, TEXT:002E] 好像是栖息在梅特尔巴
 +[FID:4F, TEXT:0052] 的利比特呢
 
---- Group [left:none next=0023] ---
+--- Group [left:none next=0023] ---G
 それはなんですか？
 +[FID:4F, TEXT:0047] 那是什么？
 
---- Group [right:none next=2012] ---
+--- Group [right:none next=2012] ---G
 メイトルパというのは
 幻獣や亜人間の世界さ
 レビットは、亜人間の
 一種なんだよ
-+[FID:4F, TEXT:0048] 梅托尔帕
++[FID:4F, TEXT:0048] 梅特尔巴
 +[FID:4F, TEXT:0049] 是幻兽和亚人类的世界
-+[FID:4F, TEXT:004A] 。利比特是
++[FID:4F, TEXT:004A] 利比特是
 +[FID:4F, TEXT:004B] 亚人类的一种哦
 
---- Group [right:none next=2012] ---
+--- Group [right:none next=2012] ---G
 メイトルパというのは
 幻獣や亜人間の世界で
 レビットは、亜人間の
 一種なんですよ
--[FID:4F, TEXT:0048] 梅托尔帕
+-[FID:4F, TEXT:0048] 梅特尔巴
 +[FID:4F, TEXT:0063] 是幻兽和亚人类的世界
--[FID:4F, TEXT:004A] 。利比特是
+-[FID:4F, TEXT:004A] 利比特是
 +[FID:4F, TEXT:0064] 亚人类的一种呢
 
---- Group [right:none next=2012] ---
+--- Group [right:none next=2012] ---G
 僕はメイトルパからの
 召喚術は、あまり得意
 じゃないんだよ
-+[FID:4F, TEXT:004F] 我不太擅长
++[FID:4F, TEXT:004F] 我对于梅特尔巴的
 +[FID:4F, TEXT:0050] 召唤术，不太拿手
-+[FID:4F, TEXT:0051] 召唤术
++[FID:4F, TEXT:0051] 呢
 
---- Group [left:none next=0023] ---
+--- Group [left:none next=0023] ---G
 レビットですか？
 +[FID:4F, TEXT:0053] 利比特吗？
 
---- Group [right:none next=2012] ---
+--- Group [right:none next=2012] ---G
 メイトルパって世界で
 暮らしてる、亜人間っ
 て人たちのことよ
-+[FID:4F, TEXT:0054] 梅托尔帕是
-+[FID:4F, TEXT:0055] 亚人类生活的地方，
-+[FID:4F, TEXT:0056] 是亚人类的人哦
++[FID:4F, TEXT:0054] 是指在梅特尔巴
++[FID:4F, TEXT:0055] 生活的亚人类
++[FID:4F, TEXT:0056] 哦
 
---- Group [right:none next=2012] ---
+--- Group [right:none next=2012] ---G
 あたしたちと違うのは
 不思議な力をもってる
 ことと、見た目ぐらい
@@ -336,67 +336,67 @@
 +[FID:4F, TEXT:0059] 的事情和外表
 +[FID:4F, TEXT:005A] 大概吧……
 
---- Group [right:none next=2012] ---
+--- Group [right:none next=2012] ---G
 うーん、どうだろ
 よくわかんないなぁ
 +[FID:4F, TEXT:005B] 嗯，怎么说呢
 +[FID:4F, TEXT:005C] 我也不太清楚啊
 
---- Group [right:none next=2012] ---
+--- Group [right:none next=2012] ---G
 あたしはメイトルパの
 召喚術は、あまり得意
 じゃないのよねー
-+[FID:4F, TEXT:005D] 我对于梅托尔帕的
++[FID:4F, TEXT:005D] 我对于梅特尔巴的
 -[FID:4F, TEXT:0050] 召唤术，不太拿手
 +[FID:4F, TEXT:005E] 呢
 
---- Group [left:none next=0023] ---
+--- Group [left:none next=0023] ---G
 そうなんですか？
 +[FID:4F, TEXT:005F] 是这样吗？
 
---- Group [right:none next=2012] ---
+--- Group [right:none next=2012] ---G
 どうやらモナティさん
 は、メイトルパにいる
 レビットみたいです
-+[FID:4F, TEXT:0060] 看起来莫娜蒂小姐
-+[FID:4F, TEXT:0061] 就像是留在梅托尔帕的
-+[FID:4F, TEXT:0062] 勒维特一样呢
++[FID:4F, TEXT:0060] 莫娜蒂小姐看起来
++[FID:4F, TEXT:0061] 和生活在梅特尔巴的
++[FID:4F, TEXT:0062] 利比特一样呢
 
---- Group [right:none next=2012] ---
+--- Group [right:none next=2012] ---G
 メイトルパからの召喚
 術は、私、あまり得意
 じゃないんです
-+[FID:4F, TEXT:0067] 来自梅托尔帕的召唤
++[FID:4F, TEXT:0067] 来自梅特尔巴的召唤
 +[FID:4F, TEXT:0068] 术，我，不太擅长
 +[FID:4F, TEXT:0069] 呢
 
---- Group [left:none next=2012] ---
+--- Group [left:none next=2012] ---G
 モナティに本当のこと
 を伝えるか迷って、
 思ったんです・・・
-+[FID:4F, TEXT:006A] 莫娜蒂的真相
-+[FID:4F, TEXT:0076] 犹豫要不要告诉她的时
-+[FID:4F, TEXT:006C] 候，我就在想……
++[FID:4F, TEXT:006A] 犹豫要不要告诉莫娜蒂
++[FID:4F, TEXT:0076] 真相的时候
++[FID:4F, TEXT:006C] 我就在想……
 
---- Group [left:none next=2012] ---
+--- Group [left:none next=2012] ---G
 モナティに本当のこと
 を教えようとした時に
 思ったんです・・・
--[FID:4F, TEXT:006A] 莫娜蒂的真相
-+[FID:4F, TEXT:006B] 想要告诉她的时候，
+-[FID:4F, TEXT:006A] 犹豫要不要告诉莫娜蒂
++[FID:4F, TEXT:006B] 真相的时候
 -[FID:4F, TEXT:006C] 我就在想……
 
---- Group [left:none next=0023] ---
+--- Group [left:none next=0023] ---G
 それが正しくても、
 相手が望んでないこと
 を一方的に押しつけて
 いいものか、って
-+[FID:4F, TEXT:006D] 即便那是对的，
-+[FID:4F, TEXT:006E] 对方不期望的事情
++[FID:4F, TEXT:006D] 即便是正确的事情，
++[FID:4F, TEXT:006E] 如果对方不期望的话
 +[FID:4F, TEXT:006F] 也能单方面地强加
 +[FID:4F, TEXT:0070] 于他人吗？
 
---- Group [left:none next=0023] ---
+--- Group [left:none next=0023] ---G
 アキュートのやろうと
 していることは、俺が
 モナティにしようとし
@@ -406,7 +406,7 @@
 +[FID:4F, TEXT:0073] 莫娜蒂做的事
 +[FID:4F, TEXT:0074] 是一样的
 
---- Group [left:none next=0023] ---
+--- Group [left:none next=0023] ---G
 アキュートのやろうと
 していることは、僕が
 モナティにしようとし
@@ -416,7 +416,7 @@
 -[FID:4F, TEXT:0073] 莫娜蒂做的事
 -[FID:4F, TEXT:0074] 是一样的
 
---- Group [left:none next=0023] ---
+--- Group [left:none next=0023] ---G
 アキュートのやろうと
 していることは、
 あたしがモナティに
@@ -426,41 +426,41 @@
 +[FID:4F, TEXT:0078] 莫娜蒂所做的
 +[FID:4F, TEXT:0079] 是一样的……
 
---- Group [right:none next=2012] ---
+--- Group [right:none next=2012] ---G
 ・・・そうだな
 +[FID:4F, TEXT:007A] ……是啊
 
---- Group [right:none next=2012] ---
+--- Group [right:none next=2012] ---G
 私もそう思うよ
 +[FID:4F, TEXT:007B] 我也这么想
 
---- Group [right:none next=2012] ---
+--- Group [right:none next=2012] ---G
 ・・・迷子、だよな
 +[FID:4F, TEXT:007C] ……迷路了呢
 
---- Group [left:none next=2012] ---
+--- Group [left:none next=2012] ---G
 え？
 +[FID:4F, TEXT:007D] 咦？
 
---- Group [left:none next=0023] ---
+--- Group [left:none next=0023] ---G
 え？
 しかけ？
 -[FID:4F, TEXT:007D] 咦？
 +[FID:4F, TEXT:00CC] 圈套？
 
---- Group [right:none next=2012] ---
+--- Group [right:none next=2012] ---G
 あいつらもお前も、
 迷子みたいなもんだっ
 て言ったのさ
-+[FID:4F, TEXT:007E] 那些家伙也好，你也好
-+[FID:4F, TEXT:007F] ，都差不多算是迷路的
-+[FID:4F, TEXT:0080] 孩子我是这么说的
++[FID:4F, TEXT:007E] 我是说，那些家伙也好
++[FID:4F, TEXT:007F] 你也好，都差不多算是
++[FID:4F, TEXT:0080] 迷路的孩子
 
---- Group [left:none next=0023] ---
+--- Group [left:none next=0023] ---G
 うん・・・
 +[FID:4F, TEXT:0081] 嗯……
 
---- Group [right:none next=2012] ---
+--- Group [right:none next=2012] ---G
 うん・・・
 また、ガウムとあそべ
 るんだもん・・・
@@ -468,27 +468,27 @@
 +[FID:4F, TEXT:00D4] 还能跟伽乌姆玩
 +[FID:4F, TEXT:00D5] 嘛……
 
---- Group [right:none next=2012] ---
+--- Group [right:none next=2012] ---G
 ああ・・・
 お前は召喚術が使える
 らしいな
 +[FID:4F, TEXT:0082] 啊……
 +[FID:4F, TEXT:00F2] 你好像能使用召唤术啊
-+[FID:4F, TEXT:00F3] 好像是呢
++[FID:4F, TEXT:00F3] 
 
---- Group [left:none next=0023] ---
+--- Group [left:none next=0023] ---G
 はい・・・確かに
 迷子・・・ですよね
 +[FID:4F, TEXT:0083] 是的……确实
 +[FID:4F, TEXT:0084] 是迷路的孩子呢
 
---- Group [right:none next=2012] ---
+--- Group [right:none next=2012] ---G
 あーあ
 しょうがねえっ！
 +[FID:4F, TEXT:0085] 哎呀
 +[FID:4F, TEXT:0086] 真没办法！
 
---- Group [right:none next=2012] ---
+--- Group [right:none next=2012] ---G
 泣いてる迷子を
 無視できるほど、
 俺は冷たくねえからな
@@ -496,21 +496,21 @@
 +[FID:4F, TEXT:0088] 我可没法冷漠到
 +[FID:4F, TEXT:0089] 无视的地步啊
 
---- Group [right:none next=2012] ---
+--- Group [right:none next=2012] ---G
 面倒みてやるぜ
 お迎えがくるまでな
 +[FID:4F, TEXT:008A] 我来照顾你吧
 +[FID:4F, TEXT:008B] 直到有人来接你为止
 
---- Group [left:none next=0023] ---
+--- Group [left:none next=0023] ---G
 ガゼル・・・
 +[FID:4F, TEXT:008C] 加泽尔……
 
---- Group [left:none next=0023] ---
+--- Group [left:none next=0023] ---G
 ガゼルさん・・・
 +[FID:4F, TEXT:008D] 加泽尔先生……
 
---- Group [right:none next=2012] ---
+--- Group [right:none next=2012] ---G
 ジンガだがな、正式に
 ワシらの仕事場で働く
 ことになったよ
@@ -518,19 +518,19 @@
 +[FID:4F, TEXT:008F] 决定在我们的工作场所
 +[FID:4F, TEXT:0090] 工作了
 
---- Group [left:none next=0023] ---
+--- Group [left:none next=0023] ---G
 決まったんだ？
 +[FID:4F, TEXT:0091] 决定了？
 
---- Group [left:none next=0023] ---
+--- Group [left:none next=0023] ---G
 決まったんですね
 +[FID:4F, TEXT:0092] 决定了啊
 
---- Group [right:none next=2012] ---
+--- Group [right:none next=2012] ---G
 ああ、文句なしさ
 +[FID:4F, TEXT:0093] 嗯，没话说
 
---- Group [right:none next=2012] ---
+--- Group [right:none next=2012] ---G
 でっかい石でも平気で
 運んじまうからな
 大助かりだよ
@@ -538,7 +538,7 @@
 +[FID:4F, TEXT:0095] 搬起来
 +[FID:4F, TEXT:0096] 真是帮大忙了
 
---- Group [right:none next=2012] ---
+--- Group [right:none next=2012] ---G
 迷子だよね
 モナティもガウムも
 そして貴方も・・・
@@ -546,21 +546,21 @@
 +[FID:4F, TEXT:0098] 莫娜蒂也好伽乌姆也好
 +[FID:4F, TEXT:0099] 还有你也一样……
 
---- Group [right:none next=2012] ---
+--- Group [right:none next=2012] ---G
 知らない世界で
 途方に暮れてる迷子
 +[FID:4F, TEXT:009A] 在陌生的世界里
 +[FID:4F, TEXT:009B] 不知所措的迷路孩子
 
---- Group [left:none next=0023] ---
+--- Group [left:none next=0023] ---G
 ・・・
 +[FID:4F, TEXT:009C] ……
 
---- Group [right:none next=2012] ---
+--- Group [right:none next=2012] ---G
 いいんだよ？
 +[FID:4F, TEXT:009D] 没关系的哦？
 
---- Group [right:none next=2012] ---
+--- Group [right:none next=2012] ---G
 心配しなくても
 ずっとここにいても
 いいんだよ？
@@ -568,39 +568,39 @@
 +[FID:4F, TEXT:009F] 一直待在这里
 -[FID:4F, TEXT:009D] 没关系的哦？
 
---- Group [left:none next=0023] ---
+--- Group [left:none next=0023] ---G
 リプレ・・・
 +[FID:4F, TEXT:00A0] 莉普蕾……
 
---- Group [left:none next=0023] ---
+--- Group [left:none next=0023] ---G
 リプレさん・・・
 +[FID:4F, TEXT:00A1] 莉普蕾小姐……
 
---- Group [right:none next=2012] ---
+--- Group [right:none next=2012] ---G
 サーカス
 面白かったよね？
 +[FID:4F, TEXT:00A2] 马戏团
 +[FID:4F, TEXT:00BE] 很有趣对吧？
 
---- Group [right:none next=2012] ---
+--- Group [right:none next=2012] ---G
 サーカス
 面白かったね？
 -[FID:4F, TEXT:00A2] 马戏团
 +[FID:4F, TEXT:00A3] 有趣吧？
 
---- Group [left:none next=0023] ---
+--- Group [left:none next=0023] ---G
 ああ
 +[FID:4F, TEXT:00A4] 嗯
 
---- Group [left:none next=0023] ---
+--- Group [left:none next=0023] ---G
 うん、面白かったね
 +[FID:4F, TEXT:00A5] 嗯，很有趣呢
 
---- Group [left:none next=0023] ---
+--- Group [left:none next=0023] ---G
 そうね、面白かったね
 +[FID:4F, TEXT:00A6] 是啊，很有趣呢
 
---- Group [right:none next=2012] ---
+--- Group [right:none next=2012] ---G
 おいらはやっぱり、
 空中ブランコが一番
 面白かったよ
@@ -608,7 +608,7 @@
 +[FID:4F, TEXT:00A8] 空中秋千最
 +[FID:4F, TEXT:00A9] 有趣了
 
---- Group [right:none next=2012] ---
+--- Group [right:none next=2012] ---G
 どうしたら、あんなに
 すごいことができるの
 かなぁ・・・
@@ -616,49 +616,49 @@
 +[FID:4F, TEXT:00AB] 才能做到那么厉害
 +[FID:4F, TEXT:00AC] 呢……
 
---- Group [left:none next=2012] ---
+--- Group [left:none next=2012] ---G
 やっぱり努力をしてる
 からじゃないかな
 +[FID:4F, TEXT:00AD] 果然是因为努力
 +[FID:4F, TEXT:00AE] 了吧？
 
---- Group [left:none next=0023] ---
+--- Group [left:none next=0023] ---G
 すごいことを支えてる
 半分は、その人の努力
 だと僕は思うよ
-+[FID:4F, TEXT:00AF] 支撑那了不起的事
-+[FID:4F, TEXT:00B0] 一半是那个人的努力，
-+[FID:4F, TEXT:00B2] 我是这么想的
++[FID:4F, TEXT:00AF] 我觉得，那些厉害的
++[FID:4F, TEXT:00B0] 成就，至少有一半是靠
++[FID:4F, TEXT:00B2] 那个人的努力实现的
 
---- Group [left:none next=0023] ---
+--- Group [left:none next=0023] ---G
 すごいことを支えてる
 半分は、その人の努力
 だって俺は思うよ
--[FID:4F, TEXT:00AF] 支撑那了不起的事
--[FID:4F, TEXT:00B0] 一半是那个人的努力，
-+[FID:4F, TEXT:00B1] 我是这么想的
+-[FID:4F, TEXT:00AF] 我觉得，那些厉害的
+-[FID:4F, TEXT:00B0] 成就，至少有一半是靠
++[FID:4F, TEXT:00B1] 那个人的努力实现的
 
---- Group [left:none next=2012] ---
+--- Group [left:none next=2012] ---G
 やろうって思う気持ち
 あとは努力かな！
-+[FID:4F, TEXT:00B3] 想做的心情
++[FID:4F, TEXT:00B3] 想做的念头
 +[FID:4F, TEXT:00B4] 还有就是努力吧！
 
---- Group [left:none next=0023] ---
+--- Group [left:none next=0023] ---G
 すごいことする人って
 本当は、すごい努力
 をしてるんだよ
-+[FID:4F, TEXT:00B5] 做厉害事的人
-+[FID:4F, TEXT:00B6] 其实是，很厉害的努力
-+[FID:4F, TEXT:00B7] 在做着呢
++[FID:4F, TEXT:00B5] 那些做出惊人成就的人
++[FID:4F, TEXT:00B6] 其实背后都付出了
++[FID:4F, TEXT:00B7] 相当的努力呢
 
---- Group [left:none next=2012] ---
+--- Group [left:none next=2012] ---G
 まずはやってみよう
 という気持ちと・・・
 +[FID:4F, TEXT:00B8] 首先是试着去做
-+[FID:4F, TEXT:00B9] 的心情……
++[FID:4F, TEXT:00B9] 的念头……
 
---- Group [left:none next=0023] ---
+--- Group [left:none next=0023] ---G
 だれにも負けない
 くらいの、努力じゃ
 ないかな
@@ -666,25 +666,25 @@
 +[FID:4F, TEXT:00BB] 那种程度的努力，
 +[FID:4F, TEXT:00BC] 不是吗？
 
---- Group [right:none next=2012] ---
+--- Group [right:none next=2012] ---G
 努力かぁ・・・
 +[FID:4F, TEXT:00BD] 努力啊……
 
---- Group [left:none next=0023] ---
+--- Group [left:none next=0023] ---G
 うん
 +[FID:4F, TEXT:00BF] 嗯
 
---- Group [left:none next=0023] ---
+--- Group [left:none next=0023] ---G
 そうね、楽しかったね
 +[FID:4F, TEXT:00C0] 是啊，很开心呢
 
---- Group [right:none next=2012] ---
+--- Group [right:none next=2012] ---G
 あたしはやっぱり、
 手品が一番良かったわ
 +[FID:4F, TEXT:00C1] 我果然还是觉得，
 +[FID:4F, TEXT:00C2] 魔术最好看了
 
---- Group [right:none next=2012] ---
+--- Group [right:none next=2012] ---G
 どんな仕掛けがしてあ
 るのか、すっごく興味
 がわいちゃった
@@ -692,11 +692,11 @@
 +[FID:4F, TEXT:00C4] 机关，我超级
 +[FID:4F, TEXT:00C5] 感兴趣
 
---- Group [right:none next=2012] ---
+--- Group [right:none next=2012] ---G
 ・・・ねえ
 +[FID:4F, TEXT:00C6] ……喂
 
---- Group [right:none next=0023] ---
+--- Group [right:none next=0023] ---G
 お兄ちゃんの召喚術っ
 てさ、どんな仕掛けが
 してあるの？
@@ -704,7 +704,7 @@
 +[FID:4F, TEXT:00C8] 到底用了什么
 +[FID:4F, TEXT:00C9] 机关啊？
 
---- Group [right:none next=2012] ---
+--- Group [right:none next=2012] ---G
 お姉ちゃんの召喚術っ
 てさ、どんな仕掛けが
 してあるの？
@@ -712,43 +712,43 @@
 -[FID:4F, TEXT:00C8] 到底用了什么
 -[FID:4F, TEXT:00C9] 机关啊？
 
---- Group [left:none next=0023] ---
+--- Group [left:none next=0023] ---G
 へ？
 +[FID:4F, TEXT:00CB] 诶？
 
---- Group [right:none next=2012] ---
+--- Group [right:none next=2012] ---G
 ねえねえ、教えてよぉ
 いいでしょっ！？
 +[FID:4F, TEXT:00CD] 喂喂，告诉我嘛
 +[FID:4F, TEXT:00CE] 好不好嘛！？
 
---- Group [left:none next=2012] ---
+--- Group [left:none next=2012] ---G
 ・・・・・・
 +[FID:4F, TEXT:00CF] ……
 
---- Group [right:none next=2012] ---
+--- Group [right:none next=2012] ---G
 えへへ・・・
 +[FID:4F, TEXT:00D0] 诶嘿嘿……
 
---- Group [left:none next=0023] ---
+--- Group [left:none next=0023] ---G
 あれ、嬉しそうだな？
-+[FID:4F, TEXT:00D1] 哎呀，看起来很高兴嘛？【超出】
++[FID:4F, TEXT:00D1] 哎呀，很高兴嘛？
 
---- Group [left:none next=0023] ---
+--- Group [left:none next=0023] ---G
 あれ、嬉しそうだね？
-+[FID:4F, TEXT:00D2] 哎呀，看起来很高兴呢？【超出】
++[FID:4F, TEXT:00D2] 哎呀，很高兴呢？
 
---- Group [left:none next=0023] ---
+--- Group [left:none next=0023] ---G
 あれ、嬉しそうね？
-+[FID:4F, TEXT:00D3] 哎呀，看起来很高兴啊？【超出】
++[FID:4F, TEXT:00D3] 哎呀，很高兴啊？
 
---- Group [right:none next=2012] ---
+--- Group [right:none next=2012] ---G
 はやく、あしたになら
 ないかなぁ・・・
 +[FID:4F, TEXT:00D6] 快点，明天还
 +[FID:4F, TEXT:00D7] 不来吗……
 
---- Group [right:none next=2012] ---
+--- Group [right:none next=2012] ---G
 エドスのおかげでさ、
 俺っちあそこで働ける
 ことになったよ！
@@ -756,25 +756,25 @@
 +[FID:4F, TEXT:00D9] 我可以在那里
 +[FID:4F, TEXT:00DA] 工作了！
 
---- Group [left:none next=0023] ---
+--- Group [left:none next=0023] ---G
 へえ、良かった
 じゃないか
 +[FID:4F, TEXT:00DB] 哦，这不是
 +[FID:4F, TEXT:00DC] 挺好的嘛
 
---- Group [left:none next=0023] ---
+--- Group [left:none next=0023] ---G
 それは良かった
 +[FID:4F, TEXT:00DD] 那太好了
 
---- Group [left:none next=0023] ---
+--- Group [left:none next=0023] ---G
 良かったじゃん！
 +[FID:4F, TEXT:00DE] 太好了嘛！
 
---- Group [left:none next=0023] ---
+--- Group [left:none next=0023] ---G
 良かったね
 +[FID:4F, TEXT:00DF] 太好了呢
 
---- Group [right:none next=0023] ---
+--- Group [right:none next=0023] ---G
 へへへ、これでアニキ
 にも心配かけずに
 すむってもんさ
@@ -782,7 +782,7 @@
 +[FID:4F, TEXT:00E1] 就不用让你
 +[FID:4F, TEXT:00E2] 担心了
 
---- Group [right:none next=2012] ---
+--- Group [right:none next=2012] ---G
 へへへ、これでアネゴ
 にも心配かけずに
 すむってもんさ
@@ -790,19 +790,19 @@
 -[FID:4F, TEXT:00E1] 就不用让你
 -[FID:4F, TEXT:00E2] 担心了
 
---- Group [left:none next=2012] ---
+--- Group [left:none next=2012] ---G
 あ、ああ
 +[FID:4F, TEXT:00E4] 啊，嗯
 
---- Group [left:none next=0023] ---
+--- Group [left:none next=0023] ---G
 それとこれとは
 話がまた別な気もする
 んだが・・・
 +[FID:4F, TEXT:00E5] 那个和这个
 +[FID:4F, TEXT:00E8] 感觉是两码事
-+[FID:4F, TEXT:00E9] 但是……
++[FID:4F, TEXT:00E9] 啊……
 
---- Group [left:none next=0023] ---
+--- Group [left:none next=0023] ---G
 それとこれとは
 話がまた別なんだけど
 なぁ・・・
@@ -810,49 +810,49 @@
 +[FID:4F, TEXT:00E6] 完全不是一回事
 +[FID:4F, TEXT:00E7] 啊……
 
---- Group [left:none next=0023] ---
+--- Group [left:none next=0023] ---G
 俺に聞きたいことが
 あるんですって？
 +[FID:4F, TEXT:00EA] 你有话想
 +[FID:4F, TEXT:00EB] 问我？
 
---- Group [left:none next=0023] ---
+--- Group [left:none next=0023] ---G
 僕に聞きたいことって
 なんでしょうか？
 +[FID:4F, TEXT:00EC] 你想问我的事情
 +[FID:4F, TEXT:00ED] 是什么呢？
 
---- Group [left:none next=0023] ---
+--- Group [left:none next=0023] ---G
 聞きたいコトって
 なに？
 +[FID:4F, TEXT:00EE] 想问的事
 +[FID:4F, TEXT:00EF] 是什么？
 
---- Group [left:none next=0023] ---
+--- Group [left:none next=0023] ---G
 聞きたいことがあると
 聞いて・・・
 +[FID:4F, TEXT:00F0] 听说你有事想问
-+[FID:4F, TEXT:00F1] 我就问了……
++[FID:4F, TEXT:00F1] 问吧……
 
---- Group [right:none next=2012] ---
+--- Group [right:none next=2012] ---G
 おまけにマーン三兄弟
 を相手に戦ってもいる
 +[FID:4F, TEXT:00F4] 而且还跟马恩三兄弟
 +[FID:4F, TEXT:00F5] 交手了
 
---- Group [left:none next=0023] ---
+--- Group [left:none next=0023] ---G
 なりゆきですよ
 +[FID:4F, TEXT:00F6] 是顺势而为啦
 
---- Group [left:none next=0023] ---
+--- Group [left:none next=0023] ---G
 なりゆきですってば
 +[FID:4F, TEXT:00F7] 都说了是顺势而为啦
 
---- Group [left:none next=0023] ---
+--- Group [left:none next=0023] ---G
 なりゆきですけど
 +[FID:4F, TEXT:00F8] 虽然是顺势而为
 
---- Group [right:none next=2012] ---
+--- Group [right:none next=2012] ---G
 なぜだ！？
 どうしてそれだけの力
 を持ちながら、領主と
@@ -862,7 +862,7 @@
 +[FID:4F, TEXT:00FB] 却为什么，
 +[FID:4F, TEXT:00FC] 不去跟领主战斗！？
 
---- Group [right:none next=2012] ---
+--- Group [right:none next=2012] ---G
 お前が最初から
 戦っていたなら、
 あの暴動だって・・・
@@ -870,19 +870,19 @@
 +[FID:4F, TEXT:00FE] 就战斗的话，
 +[FID:4F, TEXT:00FF] 那场暴动也……
 
---- Group [left:none next=0023] ---
+--- Group [left:none next=0023] ---G
 俺は信念をもって
 戦っているんじゃない
 +[FID:4F, TEXT:0100] 我并不是
 +[FID:4F, TEXT:0101] 抱着信念在战斗
 
---- Group [left:none next=0023] ---
+--- Group [left:none next=0023] ---G
 僕は信念をもって戦っ
 ているわけじゃない
 +[FID:4F, TEXT:0102] 我并不是
 +[FID:4F, TEXT:0103] 抱着信念在战斗
 
---- Group [left:none next=0023] ---
+--- Group [left:none next=0023] ---G
 別に、なにか信念が
 あって戦ってる
 わけじゃないから
@@ -890,7 +890,7 @@
 +[FID:4F, TEXT:0105] 有什么特别的信念
 +[FID:4F, TEXT:0106] 才战斗的
 
---- Group [left:none next=0023] ---
+--- Group [left:none next=0023] ---G
 ・・・わたし、
 戦おうと思って
 戦っているわけじゃ
@@ -900,93 +900,93 @@
 +[FID:4F, TEXT:0109] 才去战斗的
 +[FID:4F, TEXT:010A] 而已……
 
---- Group [right:none next=2012] ---
+--- Group [right:none next=2012] ---G
 ！？
 +[FID:4F, TEXT:010B] ！？
 
---- Group [left:none next=2012] ---
+--- Group [left:none next=2012] ---G
 その時その時の自分の
 気持ちを大切にしてる
 だけです
-+[FID:4F, TEXT:010C] 每个时刻自己的
-+[FID:4F, TEXT:010D] 心情我都珍视着
-+[FID:4F, TEXT:010E] 罢了
++[FID:4F, TEXT:010C] 我只是在珍惜
++[FID:4F, TEXT:010D] 每一个当下
++[FID:4F, TEXT:010E] 自己的心情罢了
 
---- Group [left:none next=2012] ---
+--- Group [left:none next=2012] ---G
 その時その時の自分の
 気持ちを大切にしてる
 だけなんですよ
--[FID:4F, TEXT:010C] 每个时刻自己的
--[FID:4F, TEXT:010D] 心情我都珍视着
-+[FID:4F, TEXT:0111] 而已啊
+-[FID:4F, TEXT:010C] 我只是在珍惜
+-[FID:4F, TEXT:010D] 每一个当下
++[FID:4F, TEXT:0111] 自己的心情罢了
 
---- Group [left:none next=2012] ---
+--- Group [left:none next=2012] ---G
 その時その時の自分の
 気持ちを大切にしてる
 だけなんです・・・
--[FID:4F, TEXT:010C] 每个时刻自己的
--[FID:4F, TEXT:010D] 心情我都珍视着
-+[FID:4F, TEXT:0115] 而已……
+-[FID:4F, TEXT:010C] 我只是在珍惜
+-[FID:4F, TEXT:010D] 每一个当下
++[FID:4F, TEXT:0115] 自己的心情而已……
 
---- Group [left:none next=0023] ---
+--- Group [left:none next=0023] ---G
 戦っているのは
 結果であって・・・
 目的があるわけじゃ
 ないんですよ
 +[FID:4F, TEXT:010F] 战斗只是
 +[FID:4F, TEXT:0112] 结果……
-+[FID:4F, TEXT:0113] 并不是因为有目的
-+[FID:4F, TEXT:0114] 而已哦
++[FID:4F, TEXT:0113] 它本身并不是
++[FID:4F, TEXT:0114] 目的哦
 
---- Group [left:none next=0023] ---
+--- Group [left:none next=0023] ---G
 戦っているのは
 結果でしかないんです
 -[FID:4F, TEXT:010F] 战斗只是
 +[FID:4F, TEXT:0110] 结果而已
 
---- Group [right:none next=2012] ---
+--- Group [right:none next=2012] ---G
 俺は認めない！
 そんな言い逃れは！！
 +[FID:4F, TEXT:0116] 我绝不承认！
 +[FID:4F, TEXT:0117] 这种借口！！
 
---- Group [left:none next=2012] ---
+--- Group [left:none next=2012] ---G
 認めてもらえなくても
 いいです・・・
 +[FID:4F, TEXT:0118] 就算不被承认
 +[FID:4F, TEXT:0123] 也没关系……
 
---- Group [left:none next=2012] ---
+--- Group [left:none next=2012] ---G
 認めてもらえなくても
 いいんですよ
 -[FID:4F, TEXT:0118] 就算不被承认
 +[FID:4F, TEXT:011F] 也没关系的
 
---- Group [left:none next=2012] ---
+--- Group [left:none next=2012] ---G
 認めてもらえなくても
 仕方ないと思います
 -[FID:4F, TEXT:0118] 就算不被承认
 +[FID:4F, TEXT:0119] 也没办法
 
---- Group [left:none next=2012] ---
+--- Group [left:none next=2012] ---G
 でも、俺は自分の考え
 を正しいと思ってます
 +[FID:4F, TEXT:011A] 但是，我认为自己的
 +[FID:4F, TEXT:011B] 想法是正确的
 
---- Group [left:none next=0023] ---
+--- Group [left:none next=0023] ---G
 貴方が貴方の考えを、
 大切にしているように
 +[FID:4F, TEXT:011C] 就像你珍视
 +[FID:4F, TEXT:011D] 自己的想法一样
 
---- Group [left:none next=2012] ---
+--- Group [left:none next=2012] ---G
 でも、僕は自分の考え
 を正しいと思ってます
 +[FID:4F, TEXT:011E] 但是，我认为自己的
 -[FID:4F, TEXT:011B] 想法是正确的
 
---- Group [left:none next=2012] ---
+--- Group [left:none next=2012] ---G
 それでも、あたしは
 そういう生き方を
 大切にしていきたい
@@ -994,7 +994,7 @@
 +[FID:4F, TEXT:0121] 也想要珍惜
 +[FID:4F, TEXT:0122] 那样的活法
 
---- Group [left:none next=2012] ---
+--- Group [left:none next=2012] ---G
 それでも、わたしは
 そういう生き方を
 大切にしていきたい
@@ -1002,39 +1002,39 @@
 -[FID:4F, TEXT:0121] 也想要珍惜
 -[FID:4F, TEXT:0122] 那样的活法
 
---- Group [left:none next=0023] ---
+--- Group [left:none next=0023] ---G
 なあ、モナティ
 ご主人様って呼ぶのは
 かんべんしてくれよ
 +[FID:4F, TEXT:0125] 喂，莫娜蒂
-+[FID:4F, TEXT:0126] 叫我主人
-+[FID:4F, TEXT:0127] 饶了我吧
++[FID:4F, TEXT:0126] 叫我主人这件事
++[FID:4F, TEXT:0127] 还是饶了我吧
 
---- Group [left:none next=0023] ---
+--- Group [left:none next=0023] ---G
 ねえ、モナティ
 ご主人様って呼ぶのは
 やめてくれよ
 +[FID:4F, TEXT:0128] 喂，莫娜蒂
--[FID:4F, TEXT:0126] 叫我主人
+-[FID:4F, TEXT:0126] 叫我主人这件事
 +[FID:4F, TEXT:0129] 还是算了吧
 
---- Group [left:none next=0023] ---
+--- Group [left:none next=0023] ---G
 ねぇ、モナティ
 ご主人様って呼ぶのは
 かんべんしてくれない
 +[FID:4F, TEXT:012A] 喂，莫娜蒂
--[FID:4F, TEXT:0126] 叫我主人
-+[FID:4F, TEXT:012C] 就不能饶了我吗
+-[FID:4F, TEXT:0126] 叫我主人这件事
++[FID:4F, TEXT:012C] 能饶了我吗
 
---- Group [left:none next=0023] ---
+--- Group [left:none next=0023] ---G
 ねぇ、モナティ
 ご主人様って呼ぶのは
 かんべんしてよぉ
 -[FID:4F, TEXT:012A] 喂，莫娜蒂
--[FID:4F, TEXT:0126] 叫我主人
-+[FID:4F, TEXT:012B] 饶了我吧
+-[FID:4F, TEXT:0126] 叫我主人这件事
++[FID:4F, TEXT:012B] 还是饶了我吧
 
---- Group [right:none next=2012] ---
+--- Group [right:none next=2012] ---G
 どうしてですの？
 ご主人様は、ご主人様
 じゃないですか
@@ -1042,7 +1042,7 @@
 +[FID:4F, TEXT:012E] 主人就是主人
 +[FID:4F, TEXT:012F] 不是吗
 
---- Group [left:none next=0023] ---
+--- Group [left:none next=0023] ---G
 と、とにかくっ・・・
 別の呼び方にしてよ
 呼び捨てでもなんでも
@@ -1052,7 +1052,7 @@
 +[FID:4F, TEXT:0132] 直呼名字也好
 +[FID:4F, TEXT:0133] 什么都行拜托了！
 
---- Group [left:none next=0023] ---
+--- Group [left:none next=0023] ---G
 と、とにかくっ・・・
 別の呼び方にしてよ
 呼び捨てでもなんでも
@@ -1062,7 +1062,7 @@
 -[FID:4F, TEXT:0132] 直呼名字也好
 +[FID:4F, TEXT:0136] 什么都好行了吧！
 
---- Group [left:none next=0023] ---
+--- Group [left:none next=0023] ---G
 と、とにかくっ・・・
 別の呼び方で頼むよ
 呼び捨てでもなんでも
@@ -1072,7 +1072,7 @@
 -[FID:4F, TEXT:0132] 直呼名字也好
 +[FID:4F, TEXT:0135] 什么都好我不介意
 
---- Group [left:none next=0023] ---
+--- Group [left:none next=0023] ---G
 呼び捨てでもいいから
 別の呼び方にしてくれ
 ると、嬉しいんだけど
@@ -1080,35 +1080,35 @@
 +[FID:4F, TEXT:0138] 能换个叫法的话
 +[FID:4F, TEXT:0139] 我会很开心的
 
---- Group [right:none next=2012] ---
+--- Group [right:none next=2012] ---G
 ・・・わかったですの
 +[FID:4F, TEXT:013A] 明白了……
 
---- Group [right:none next=2012] ---
+--- Group [right:none next=2012] ---G
 それじゃあ・・・
 これからはマスターっ
 て呼ぶですのっ！
 +[FID:4F, TEXT:013B] 那么……
 +[FID:4F, TEXT:013C] 从今往后就叫你
-+[FID:4F, TEXT:013D] Master啦！
++[FID:4F, TEXT:013D] Ｍａｓｔｅｒ啦！
 
---- Group [left:none next=0023] ---
+--- Group [left:none next=0023] ---G
 いいっ！？
 +[FID:4F, TEXT:013E] 好！？
 
---- Group [left:none next=0023] ---
+--- Group [left:none next=0023] ---G
 ええっ！？
 +[FID:4F, TEXT:013F] 诶诶！？
 
---- Group [left:none next=0023] ---
+--- Group [left:none next=0023] ---G
 ま、マスターですか？
-+[FID:4F, TEXT:0140] 啊，是主人吗？
++[FID:4F, TEXT:0140] 啊，是Ｍａｓｔｅｒ吗？
 
---- Group [right:none next=2012] ---
+--- Group [right:none next=2012] ---G
 ・・・言ったのに
 +[FID:4F, TEXT:0141] ……我都说过了
 
---- Group [right:none next=2012] ---
+--- Group [right:none next=2012] ---G
 他の呼び方だったら、
 なんでもいいって
 言ったのに・・・
@@ -1116,7 +1116,7 @@
 +[FID:4F, TEXT:0143] 怎么叫都行
 +[FID:4F, TEXT:0144] 明明说过的……
 
---- Group [left:none next=0023] ---
+--- Group [left:none next=0023] ---G
 わ、わかった！
 もうそれでいいからっ
 泣くなよ〜っ！？
@@ -1124,7 +1124,7 @@
 +[FID:4F, TEXT:0146] 就这样吧！
 +[FID:4F, TEXT:0147] 别哭了～！？
 
---- Group [left:none next=0023] ---
+--- Group [left:none next=0023] ---G
 わ、わかった！
 もうそれでいいからっ
 泣かないで、ね！
@@ -1132,7 +1132,7 @@
 -[FID:4F, TEXT:0146] 就这样吧！
 +[FID:4F, TEXT:014B] 别哭了，好吗！
 
---- Group [left:none next=0023] ---
+--- Group [left:none next=0023] ---G
 わ、わかったよ
 それでいいから、泣く
 のはよしてくれっ！
@@ -1140,7 +1140,7 @@
 +[FID:4F, TEXT:0149] 就这样吧，
 +[FID:4F, TEXT:014A] 别哭了！
 
---- Group [left:none next=0023] ---
+--- Group [left:none next=0023] ---G
 あ・・・あの・・・
 もうそれでいいからっ
 泣かないで、ね
@@ -1148,67 +1148,67 @@
 -[FID:4F, TEXT:0146] 就这样吧！
 +[FID:4F, TEXT:014D] 别哭了，好吗
 
---- Group [right:none next=2012] ---
+--- Group [right:none next=2012] ---G
 はいですのっ
 マスターっ！
 +[FID:4F, TEXT:014E] 是的！
 +[FID:4F, TEXT:014F] 主人！
 
---- Group [left:none next=0023] ---
+--- Group [left:none next=0023] ---G
 とほほ・・・
 +[FID:4F, TEXT:0150] 哎哟哟……
 
---- Group [left:none next=0023] ---
+--- Group [left:none next=0023] ---G
 やれやれ・・・
 +[FID:4F, TEXT:0151] 哎呀呀……
 
---- Group [right:none next=2012] ---
+--- Group [right:none next=2012] ---G
 モナティたちみたいな
 はぐれもいるんですね
-+[FID:4F, TEXT:0152] 像莫娜蒂那样的
-+[FID:4F, TEXT:0153] 也有迷途召唤兽呢
++[FID:4F, TEXT:0152] 也有像莫娜蒂那样的
++[FID:4F, TEXT:0153] 迷途召唤兽呢
 
---- Group [left:none next=0023] ---
+--- Group [left:none next=0023] ---G
 ああ、はぐれ召喚獣が
 みんな悪さをするわけ
 じゃないさ
 +[FID:4F, TEXT:0154] 啊，迷途召唤兽
-+[FID:4F, TEXT:0155] 大家都做坏事
-+[FID:4F, TEXT:0156] 并不是的
++[FID:4F, TEXT:0155] 并不是的都会
++[FID:4F, TEXT:0156] 做坏事
 
---- Group [left:none next=0023] ---
+--- Group [left:none next=0023] ---G
 ああ、はぐれ召喚獣が
 みんな悪さをするわけ
 じゃないってことだ
 -[FID:4F, TEXT:0154] 啊，迷途召唤兽
--[FID:4F, TEXT:0155] 大家都做坏事
-+[FID:4F, TEXT:0157] 并不是这个意思
+-[FID:4F, TEXT:0155] 并不是的都会
++[FID:4F, TEXT:0157] 做坏事
 
---- Group [left:none next=0023] ---
+--- Group [left:none next=0023] ---G
 うん、はぐれ召喚獣だ
 からって、みんなが
 悪いことするわけじゃ
 ないって！
-+[FID:4F, TEXT:0158] 嗯，迷途召唤兽
-+[FID:4F, TEXT:0159] 就以为大家都会
++[FID:4F, TEXT:0158] 以为迷途召唤兽
++[FID:4F, TEXT:0159] 大家都会
 +[FID:4F, TEXT:015A] 做坏事
 +[FID:4F, TEXT:015B] 那就错了！
 
---- Group [left:none next=0023] ---
+--- Group [left:none next=0023] ---G
 そうね、はぐれ召喚獣
 だからって、みんなが
 悪いことするわけじゃ
 ないから・・・
-+[FID:4F, TEXT:015C] 是啊，迷途召唤兽
-+[FID:4F, TEXT:015D] 即便如此，大家也并非
--[FID:4F, TEXT:015A] 都做坏事
++[FID:4F, TEXT:015C] 是啊，即便是迷途召唤
++[FID:4F, TEXT:015D] 兽，大家也并非都会
+-[FID:4F, TEXT:015A] 做坏事
 +[FID:4F, TEXT:015E] 的……
 
---- Group [right:none next=2012] ---
+--- Group [right:none next=2012] ---G
 ええ、わかってますよ
 +[FID:4F, TEXT:015F] 嗯，我知道的
 
---- Group [right:none next=2012] ---
+--- Group [right:none next=2012] ---G
 悪いのは召喚獣じゃな
 くて、それをはぐれに
 してしまった召喚師だ
@@ -1218,167 +1218,167 @@
 +[FID:4F, TEXT:0162] 迷途的召唤师
 +[FID:4F, TEXT:0163] 这一点
 
---- Group [right:none next=2012] ---
+--- Group [right:none next=2012] ---G
 本当にかわいそうなの
 は彼らなんですよね
 +[FID:4F, TEXT:0164] 真正可怜的
 +[FID:4F, TEXT:0165] 其实是他们呢
 
---- Group [right:none next=0023] ---
+--- Group [right:none next=0023] ---G
 　　モナティも不思議な力を
 　　持ってるのかな？
 +[FID:4F, TEXT:0166] 　　莫娜蒂也有不可思议的
 +[FID:4F, TEXT:0167] 　　力量吗？
 
---- Group [left:none next=0023] ---
+--- Group [left:none next=0023] ---G
 　　　ラムダたちはやっぱり
 　　　まちがってる・・・
 +[FID:4F, TEXT:0168] 　　　拉姆达他们果然是
 +[FID:4F, TEXT:0169] 　　　错的……
 
---- Group [left:none next=0023] ---
+--- Group [left:none next=0023] ---G
 　　　ラムダたちはやっぱり
 　　　まちがってるよ！
 -[FID:4F, TEXT:0168] 　　　拉姆达他们果然是
 +[FID:4F, TEXT:016A] 　　　错了！
 
---- Group [left:none next=0023] ---
+--- Group [left:none next=0023] ---G
 　　　ラムダさんたちは
 　　　まちがってます・・・
 +[FID:4F, TEXT:016B] 　　　拉姆达先生他们是
 +[FID:4F, TEXT:016C] 　　　错的……
 
---- Group [left:none next=0023] ---
+--- Group [left:none next=0023] ---G
 　　　　迷子、か・・・
-+[FID:4F, TEXT:016D] 　　　　迷路了啊……
++[FID:4F, TEXT:016D] 　　　　迷路，啊……
 
---- Group [left:none next=0023] ---
+--- Group [left:none next=0023] ---G
 　　これでジンガのことは
 　　一安心だね！
 +[FID:4F, TEXT:016E] 　　这样一来金加的事
 +[FID:4F, TEXT:0171] 　　就放心了呢！
 
---- Group [left:none next=0023] ---
+--- Group [left:none next=0023] ---G
 　　これでジンガのことは
 　　一安心かな
 -[FID:4F, TEXT:016E] 　　这样一来金加的事
 +[FID:4F, TEXT:0170] 　　就放心吧？
 
---- Group [left:none next=0023] ---
+--- Group [left:none next=0023] ---G
 　　これでジンガのことは
 　　一安心だな
 -[FID:4F, TEXT:016E] 　　这样一来金加的事
 +[FID:4F, TEXT:016F] 　　就放心了啊
 
---- Group [left:none next=0023] ---
+--- Group [left:none next=0023] ---G
 　　サーカスは楽しかった
 　　みたいだな
 +[FID:4F, TEXT:0172] 　　马戏团很开心
 +[FID:4F, TEXT:0173] 　　好像呢
 
---- Group [left:none next=0023] ---
+--- Group [left:none next=0023] ---G
 　　サーカスは楽しかった
 　　みたい・・・良かった
 -[FID:4F, TEXT:0172] 　　马戏团很开心
 +[FID:4F, TEXT:0174] 　　好像……太好了
 
---- Group [left:none next=0023] ---
+--- Group [left:none next=0023] ---G
 　　ラミちゃんはガウムが
 　　お気に入りみたいだな
 +[FID:4F, TEXT:0175] 　　拉米对伽乌姆
 +[FID:4F, TEXT:0176] 　　好像很喜欢呢
 
---- Group [left:none next=0023] ---
+--- Group [left:none next=0023] ---G
 　　ラミちゃんはガウムが
 　　お気に入りなのか
 -[FID:4F, TEXT:0175] 　　拉米对伽乌姆
 +[FID:4F, TEXT:0177] 　　喜欢吗？
 
---- Group [left:none next=0023] ---
+--- Group [left:none next=0023] ---G
 　　ラミちゃんはガウムが
 　　お気に入りなんだ
 -[FID:4F, TEXT:0175] 　　拉米对伽乌姆
 +[FID:4F, TEXT:0178] 　　喜欢啊
 
---- Group [left:none next=0023] ---
+--- Group [left:none next=0023] ---G
 　　ジンガもついに働く先が
 　　見つかったか
-+[FID:4F, TEXT:0179] 　　金加也终于工作的地方
-+[FID:4F, TEXT:017A] 　　找到了吗？
++[FID:4F, TEXT:0179] 　　金加也终于找到工作
++[FID:4F, TEXT:017A] 　　的地方了吗？
 
---- Group [left:none next=0023] ---
+--- Group [left:none next=0023] ---G
 　　ジンガもついに働く先が
 　　見つかったんだ
--[FID:4F, TEXT:0179] 　　金加也终于工作的地方
-+[FID:4F, TEXT:017B] 　　找到了啊
+-[FID:4F, TEXT:0179] 　　金加也终于找到工作
++[FID:4F, TEXT:017B] 　　的地方了啊
 
---- Group [left:none next=0023] ---
+--- Group [left:none next=0023] ---G
 　　　俺は好きで戦っている
 　　　わけじゃないんだ
-+[FID:4F, TEXT:017C] 　　　我因为喜欢而战斗
-+[FID:4F, TEXT:017D] 　　　并不是这样
++[FID:4F, TEXT:017C] 　　　我并不是因为喜欢
++[FID:4F, TEXT:017D] 　　　而战斗
 
---- Group [left:none next=0023] ---
+--- Group [left:none next=0023] ---G
 　　　僕は好きで戦っている
 　　　わけじゃないんだ
-+[FID:4F, TEXT:017E] 　　　我因为喜欢而战斗
--[FID:4F, TEXT:017D] 　　　并不是这样
++[FID:4F, TEXT:017E] 　　　我并不是因为喜欢
+-[FID:4F, TEXT:017D] 　　　而战斗
 
---- Group [left:none next=0023] ---
+--- Group [left:none next=0023] ---G
 　　　あたしは好きで戦って
 　　　いるわけじゃないの
-+[FID:4F, TEXT:017F] 　　　我因为喜欢而
-+[FID:4F, TEXT:0180] 　　　战斗并不是这样的
++[FID:4F, TEXT:017F] 　　　我并不是因为喜欢
++[FID:4F, TEXT:0180] 　　　而战斗
 
---- Group [left:none next=0023] ---
+--- Group [left:none next=0023] ---G
 　　ローカスさん、
 　　きっとまじめなんですね
 +[FID:4F, TEXT:0181] 　　洛卡斯先生，
 +[FID:4F, TEXT:0182] 　　一定很认真呢
 
---- Group [left:none next=0023] ---
+--- Group [left:none next=0023] ---G
 　　　マスター、か・・・
 　　　ちょっと慣れないな
 +[FID:4F, TEXT:0183] 　　　主人啊……
 +[FID:4F, TEXT:0187] 　　　有点不习惯呢
 
---- Group [left:none next=0023] ---
+--- Group [left:none next=0023] ---G
 　　　マスター、か・・・
 　　　なんか照れるよなぁ
 -[FID:4F, TEXT:0183] 　　　主人啊……
 +[FID:4F, TEXT:0184] 　　　总觉得有点害羞呢
 
---- Group [left:none next=0023] ---
+--- Group [left:none next=0023] ---G
 　　　マスター、か・・・
 　　　なんか照れくさいな
 -[FID:4F, TEXT:0183] 　　　主人啊……
 +[FID:4F, TEXT:0185] 　　　有点难为情呢
 
---- Group [left:none next=0023] ---
+--- Group [left:none next=0023] ---G
 　　　マスター、か・・・
 　　　なんか照れちゃうね
 -[FID:4F, TEXT:0183] 　　　主人啊……
 +[FID:4F, TEXT:0186] 　　　有点害羞呢
 
---- Group [left:none next=0023] ---
+--- Group [left:none next=0023] ---G
 　　はぐれ召喚獣がみんな
 　　悪さをするわけじゃないんだ
 +[FID:4F, TEXT:0188] 　　迷途召唤兽也并非
 +[FID:4F, TEXT:0189] 　　全都为非作歹啊
 
---- Group [left:none next=0023] ---
+--- Group [left:none next=0023] ---G
 　　　はぐれにはなんの罪も
 　　　ないのかもしれない
 +[FID:4F, TEXT:018A] 　　　迷途的召唤兽或许
 +[FID:4F, TEXT:018B] 　　　根本没有什么罪过
 
---- Group [left:none next=0023] ---
+--- Group [left:none next=0023] ---G
 　　　結局、はぐれ召喚獣も
 　　　被害者・・・か
 +[FID:4F, TEXT:018C] 　　　说到底，迷途召唤兽也
 +[FID:4F, TEXT:018D] 　　　是受害者……吗
 
---- Group [left:none next=0023] ---
+--- Group [left:none next=0023] ---G
 　　　結局、はぐれ召喚獣も
 　　　被害者なのか・・・
 -[FID:4F, TEXT:018C] 　　　说到底，迷途召唤兽也
