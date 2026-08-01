@@ -120837,1512 +120837,1814 @@
   {
     "key": "0086-0001",
     "original": "なあ、知っているか？",
-    "translation": ""
+    "translation": "喂，你知道吗？",
+    "stage": 3
   },
   {
     "key": "0086-0002",
     "original": "@n",
-    "translation": ""
+    "translation": "@n",
+    "stage": 3
   },
   {
     "key": "0086-0003",
     "original": "最近、街の連中が",
-    "translation": ""
+    "translation": "最近，街上的家伙们",
+    "stage": 3
   },
   {
     "key": "0086-0004",
     "original": "お前のことを",
-    "translation": ""
+    "translation": "好像在传",
+    "stage": 3
   },
   {
     "key": "0086-0005",
     "original": "噂してるらしいぜ",
-    "translation": ""
+    "translation": "你的闲话哦",
+    "stage": 3
   },
   {
     "key": "0086-0006",
     "original": "俺のことを？",
-    "translation": ""
+    "translation": "在说我吗？",
+    "stage": 3
   },
   {
     "key": "0086-0007",
     "original": "僕のことを？",
-    "translation": ""
+    "translation": "在说我吗？",
+    "stage": 3
   },
   {
     "key": "0086-0008",
     "original": "あたし・・・？",
-    "translation": ""
+    "translation": "我……？",
+    "stage": 3
   },
   {
     "key": "0086-0009",
     "original": "なにかな？",
-    "translation": ""
+    "translation": "说了什么呢？",
+    "stage": 3
   },
   {
     "key": "0086-0010",
     "original": "わたしですか？",
-    "translation": ""
+    "translation": "是在说我吗？",
+    "stage": 3
   },
   {
     "key": "0086-0011",
     "original": "スラムに召喚術を使う",
-    "translation": ""
+    "translation": "有个用召唤术的人",
+    "stage": 3
   },
   {
     "key": "0086-0012",
     "original": "人間がやってきて、",
-    "translation": ""
+    "translation": "来到贫民窟，",
+    "stage": 3
   },
   {
     "key": "0086-0013",
     "original": "城の三兄弟を痛い目に",
-    "translation": ""
+    "translation": "把城里三兄弟整得",
+    "stage": 3
   },
   {
     "key": "0086-0014",
     "original": "あわせてるって、な",
-    "translation": ""
+    "translation": "很惨，你知道吗",
+    "stage": 3
   },
   {
     "key": "0086-0015",
     "original": "ちょっとした",
-    "translation": ""
+    "translation": "有点",
+    "stage": 3
   },
   {
     "key": "0086-0016",
     "original": "英雄あつかいだぜ？",
-    "translation": ""
+    "translation": "被当成英雄了哦？",
+    "stage": 3
   },
   {
     "key": "0086-0017",
     "original": "どうしよう？",
-    "translation": ""
+    "translation": "怎么办？",
+    "stage": 3
   },
   {
     "key": "0086-0018",
     "original": "　へえ、そうなんだ",
-    "translation": ""
+    "translation": "　哦，是这样啊",
+    "stage": 3
   },
   {
     "key": "0086-0019",
     "original": "　英雄だなんて・・・",
-    "translation": ""
+    "translation": "　英雄什么的……",
+    "stage": 3
   },
   {
     "key": "0086-0020",
     "original": "　そうなのか",
-    "translation": ""
+    "translation": "　是这样吗",
+    "stage": 3
   },
   {
     "key": "0086-0021",
     "original": "　ふうん、英雄ねぇ",
-    "translation": ""
+    "translation": "　唔，英雄啊",
+    "stage": 3
   },
   {
     "key": "0086-0022",
     "original": "　そう、なんですか？",
-    "translation": ""
+    "translation": "　是这样吗？",
+    "stage": 3
   },
   {
     "key": "0086-0023",
     "original": "へえ、そうなんだ",
-    "translation": ""
+    "translation": "哦，是这样啊",
+    "stage": 3
   },
   {
     "key": "0086-0024",
     "original": "そうなのか",
-    "translation": ""
+    "translation": "是这样吗",
+    "stage": 3
   },
   {
     "key": "0086-0025",
     "original": "ふうん、英雄ねぇ",
-    "translation": ""
+    "translation": "唔，英雄啊",
+    "stage": 3
   },
   {
     "key": "0086-0026",
     "original": "そう、なんですか？",
-    "translation": ""
+    "translation": "是这样吗？",
+    "stage": 3
   },
   {
     "key": "0086-0027",
     "original": "暴動とか伝染病とか、",
-    "translation": ""
+    "translation": "因为暴动啦、传染病",
+    "stage": 3
   },
   {
     "key": "0086-0028",
     "original": "ろくでもないことが",
-    "translation": ""
+    "translation": "啦，这些糟糕的事",
+    "stage": 3
   },
   {
     "key": "0086-0029",
     "original": "続いてたからな",
-    "translation": ""
+    "translation": "最近一直没断过嘛",
+    "stage": 3
   },
   {
     "key": "0086-0030",
     "original": "俺たちの武勇伝なんか",
-    "translation": ""
+    "translation": "所以我们那点英勇事迹",
+    "stage": 3
   },
   {
     "key": "0086-0031",
     "original": "がもてはやされてるん",
-    "translation": ""
+    "translation": "才会被人",
+    "stage": 3
   },
   {
     "key": "0086-0032",
     "original": "だろうな",
-    "translation": ""
+    "translation": "拿来吹捧吧",
+    "stage": 3
   },
   {
     "key": "0086-0033",
     "original": "英雄だなんて・・・",
-    "translation": ""
+    "translation": "英雄什么的……",
+    "stage": 3
   },
   {
     "key": "0086-0034",
     "original": "俺はそんなつもりじゃ",
-    "translation": ""
+    "translation": "我根本没有那种",
+    "stage": 3
   },
   {
     "key": "0086-0035",
     "original": "なかったのに",
-    "translation": ""
+    "translation": "打算啊",
+    "stage": 3
   },
   {
     "key": "0086-0036",
     "original": "なんだか、勘違い",
-    "translation": ""
+    "translation": "总觉得，被",
+    "stage": 3
   },
   {
     "key": "0086-0037",
     "original": "されそうでいやだな",
-    "translation": ""
+    "translation": "误会真是讨厌",
+    "stage": 3
   },
   {
     "key": "0086-0038",
     "original": "僕はそんなつもりじゃ",
-    "translation": ""
+    "translation": "我没有那种打算",
+    "stage": 3
   },
   {
     "key": "0086-0039",
     "original": "ないんだが",
-    "translation": ""
+    "translation": "不过……",
+    "stage": 3
   },
   {
     "key": "0086-0040",
     "original": "なんだか、勘違いされ",
-    "translation": ""
+    "translation": "总觉得，好像被",
+    "stage": 3
   },
   {
     "key": "0086-0041",
     "original": "ているみたいで困るよ",
-    "translation": ""
+    "translation": "误会了真困扰啊",
+    "stage": 3
   },
   {
     "key": "0086-0042",
     "original": "あたし、そんなつもり",
-    "translation": ""
+    "translation": "我没有那种",
+    "stage": 3
   },
   {
     "key": "0086-0043",
     "original": "じゃないのに・・・",
-    "translation": ""
+    "translation": "打算啊……",
+    "stage": 3
   },
   {
     "key": "0086-0044",
     "original": "なんか、盛大に",
-    "translation": ""
+    "translation": "总觉得，似乎被",
+    "stage": 3
   },
   {
     "key": "0086-0045",
     "original": "勘違いされてそうで",
-    "translation": ""
+    "translation": "误会得很厉害",
+    "stage": 3
   },
   {
     "key": "0086-0046",
     "original": "ちょっとイヤかも",
-    "translation": ""
+    "translation": "所以有点讨厌呢",
+    "stage": 3
   },
   {
     "key": "0086-0047",
     "original": "わたしには",
-    "translation": ""
+    "translation": "我可没有",
+    "stage": 3
   },
   {
     "key": "0086-0048",
     "original": "そんなつもりないのに",
-    "translation": ""
+    "translation": "那种打算啊",
+    "stage": 3
   },
   {
     "key": "0086-0049",
     "original": "てそうで、いやです",
-    "translation": ""
+    "translation": "误会了似的，真讨厌",
+    "stage": 3
   },
   {
     "key": "0086-0050",
     "original": "心配せんでも、ワシら",
-    "translation": ""
+    "translation": "不用担心，我们",
+    "stage": 3
   },
   {
     "key": "0086-0051",
     "original": "はお前さんが名を売る",
-    "translation": ""
+    "translation": "知道你不是",
+    "stage": 3
   },
   {
     "key": "0086-0052",
     "original": "ために戦ったわけじゃ",
-    "translation": ""
+    "translation": "为了出名",
+    "stage": 3
   },
   {
     "key": "0086-0053",
     "original": "ないと知っとるよ",
-    "translation": ""
+    "translation": "才战斗的",
+    "stage": 3
   },
   {
     "key": "0086-0054",
     "original": "噂は噂だ",
-    "translation": ""
+    "translation": "传言就是传言",
+    "stage": 3
   },
   {
     "key": "0086-0055",
     "original": "気にするもんじゃない",
-    "translation": ""
+    "translation": "不用太在意",
+    "stage": 3
   },
   {
     "key": "0086-0056",
     "original": "うん・・・",
-    "translation": ""
+    "translation": "嗯……",
+    "stage": 3
   },
   {
     "key": "0086-0057",
     "original": "ああ・・・",
-    "translation": ""
+    "translation": "啊……",
+    "stage": 3
   },
   {
     "key": "0086-0058",
     "original": "あ、はい",
-    "translation": ""
+    "translation": "啊，好的",
+    "stage": 3
   },
   {
     "key": "0086-0059",
     "original": "しかし、あまり有名に",
-    "translation": ""
+    "translation": "不过，太出名了",
+    "stage": 3
   },
   {
     "key": "0086-0060",
     "original": "なるのも問題だ",
-    "translation": ""
+    "translation": "也是个问题",
+    "stage": 3
   },
   {
     "key": "0086-0061",
     "original": "バノッサたちのように",
-    "translation": ""
+    "translation": "像巴诺萨他们那样",
+    "stage": 3
   },
   {
     "key": "0086-0062",
     "original": "@n",
-    "translation": ""
+    "translation": "@n",
+    "stage": 3
   },
   {
     "key": "0086-0063",
     "original": "狙う敵が増えてしまう",
-    "translation": ""
+    "translation": "盯上你的敌人会增多",
+    "stage": 3
   },
   {
     "key": "0086-0064",
     "original": "でも、あんまり有名に",
-    "translation": ""
+    "translation": "不过，太出名了",
+    "stage": 3
   },
   {
     "key": "0086-0065",
     "original": "なりすぎてもねえ",
-    "translation": ""
+    "translation": "也不太好啊",
+    "stage": 3
   },
   {
     "key": "0086-0066",
     "original": "狙う敵が増えちゃうよ",
-    "translation": ""
+    "translation": "盯上你的敌人会增加哦",
+    "stage": 3
   },
   {
     "key": "0086-0067",
     "original": "でも、あまり有名に",
-    "translation": ""
+    "translation": "不过，太出名",
+    "stage": 3
   },
   {
     "key": "0086-0068",
     "original": "なるのも困りますね",
-    "translation": ""
+    "translation": "也很令人困扰呢",
+    "stage": 3
   },
   {
     "key": "0086-0069",
     "original": "かもしれません",
-    "translation": ""
+    "translation": "也说不定",
+    "stage": 3
   },
   {
     "key": "0086-0070",
     "original": "そうだよな",
-    "translation": ""
+    "translation": "是啊",
+    "stage": 3
   },
   {
     "key": "0086-0071",
     "original": "強いヤツってのは、",
-    "translation": ""
+    "translation": "厉害的家伙嘛，",
+    "stage": 3
   },
   {
     "key": "0086-0072",
     "original": "敵を作りやすいからな",
-    "translation": ""
+    "translation": "容易招来敌人啊",
+    "stage": 3
   },
   {
     "key": "0086-0073",
     "original": "バノッサとオプテュス",
-    "translation": ""
+    "translation": "巴诺萨和奥普提斯",
+    "stage": 3
   },
   {
     "key": "0086-0074",
     "original": "マーン三兄弟に騎士団",
-    "translation": ""
+    "translation": "马恩三兄弟和骑士团",
+    "stage": 3
   },
   {
     "key": "0086-0075",
     "original": "そしてアキュートか",
-    "translation": ""
+    "translation": "还有阿库特啊",
+    "stage": 3
   },
   {
     "key": "0086-0076",
     "original": "考えてみりゃ、この街",
-    "translation": ""
+    "translation": "想想看，这条街",
+    "stage": 3
   },
   {
     "key": "0086-0077",
     "original": "のほとんどの連中と",
-    "translation": ""
+    "translation": "上几乎所有人",
+    "stage": 3
   },
   {
     "key": "0086-0078",
     "original": "やりあってるな",
-    "translation": ""
+    "translation": "都交过手了啊",
+    "stage": 3
   },
   {
     "key": "0086-0079",
     "original": "わざと戦ってるんじゃ",
-    "translation": ""
+    "translation": "又不是故意要",
+    "stage": 3
   },
   {
     "key": "0086-0080",
     "original": "ないのになあ",
-    "translation": ""
+    "translation": "打起来的啊",
+    "stage": 3
   },
   {
     "key": "0086-0081",
     "original": "わざと戦っているわけ",
-    "translation": ""
+    "translation": "又不是故意在",
+    "stage": 3
   },
   {
     "key": "0086-0082",
     "original": "ではないんだけどね",
-    "translation": ""
+    "translation": "打架啦",
+    "stage": 3
   },
   {
     "key": "0086-0083",
     "original": "だれも戦いたくて",
-    "translation": ""
+    "translation": "明明大家也不是想",
+    "stage": 3
   },
   {
     "key": "0086-0084",
     "original": "戦ってるわけじゃ",
-    "translation": ""
+    "translation": "打架，才动手",
+    "stage": 3
   },
   {
     "key": "0086-0085",
     "original": "ないのにね",
-    "translation": ""
+    "translation": "啊",
+    "stage": 3
   },
   {
     "key": "0086-0086",
     "original": "わざと戦ってる",
-    "translation": ""
+    "translation": "并不是故意要",
+    "stage": 3
   },
   {
     "key": "0086-0087",
     "original": "わけではないんです",
-    "translation": ""
+    "translation": "打架",
+    "stage": 3
   },
   {
     "key": "0086-0088",
     "original": "けれど・・・",
-    "translation": ""
+    "translation": "的……",
+    "stage": 3
   },
   {
     "key": "0086-0089",
     "original": "マスター、マスター",
-    "translation": ""
+    "translation": "主人，主人",
+    "stage": 3
   },
   {
     "key": "0086-0090",
     "original": "お客さんですのーっ！",
-    "translation": ""
+    "translation": "有客人来了哦！",
+    "stage": 3
   },
   {
     "key": "0086-0091",
     "original": "俺に客だって？",
-    "translation": ""
+    "translation": "有客人找我？",
+    "stage": 3
   },
   {
     "key": "0086-0092",
     "original": "僕に？",
-    "translation": ""
+    "translation": "找我？",
+    "stage": 3
   },
   {
     "key": "0086-0093",
     "original": "あたしに客？",
-    "translation": ""
+    "translation": "有客人找我？",
+    "stage": 3
   },
   {
     "key": "0086-0094",
     "original": "なんかの間違いじゃ？",
-    "translation": ""
+    "translation": "是不是搞错了？",
+    "stage": 3
   },
   {
     "key": "0086-0095",
     "original": "わたしに？",
-    "translation": ""
+    "translation": "找我？",
+    "stage": 3
   },
   {
     "key": "0086-0096",
     "original": "はいっ、",
-    "translation": ""
+    "translation": "嗯！",
+    "stage": 3
   },
   {
     "key": "0086-0097",
     "original": "とってもきれいな",
-    "translation": ""
+    "translation": "非常漂亮的",
+    "stage": 3
   },
   {
     "key": "0086-0098",
     "original": "お姉さんですの",
-    "translation": ""
+    "translation": "大姐姐哦",
+    "stage": 3
   },
   {
     "key": "0086-0099",
     "original": "きれいな",
-    "translation": ""
+    "translation": "漂亮的",
+    "stage": 3
   },
   {
     "key": "0086-0100",
     "original": "お姉さんだぁ？",
-    "translation": ""
+    "translation": "大姐姐？",
+    "stage": 3
   },
   {
     "key": "0086-0101",
     "original": "し、知らないよっ！",
-    "translation": ""
+    "translation": "我，我不认识！",
+    "stage": 3
   },
   {
     "key": "0086-0102",
     "original": "本当におぼえがないん",
-    "translation": ""
+    "translation": "真的毫无印象",
+    "stage": 3
   },
   {
     "key": "0086-0103",
     "original": "だってば！",
-    "translation": ""
+    "translation": "啦！",
+    "stage": 3
   },
   {
     "key": "0086-0104",
     "original": "変な目で見るなよ",
-    "translation": ""
+    "translation": "别用那种眼神看我",
+    "stage": 3
   },
   {
     "key": "0086-0105",
     "original": "本当に心当たりがない",
-    "translation": ""
+    "translation": "我真的不记得了",
+    "stage": 3
   },
   {
     "key": "0086-0106",
     "original": "んだから",
-    "translation": ""
+    "translation": "啦！",
+    "stage": 3
   },
   {
     "key": "0086-0107",
     "original": "お姉さん？？",
-    "translation": ""
+    "translation": "大姐姐？？",
+    "stage": 3
   },
   {
     "key": "0086-0108",
     "original": "だれだろ？",
-    "translation": ""
+    "translation": "是谁呢？",
+    "stage": 3
   },
   {
     "key": "0086-0109",
     "original": "ええ、みたいですね？",
-    "translation": ""
+    "translation": "嗯，看起来确实是呢？",
+    "stage": 3
   },
   {
     "key": "0086-0110",
     "original": "まったく心当たりが",
-    "translation": ""
+    "translation": "可我完全想不起",
+    "stage": 3
   },
   {
     "key": "0086-0111",
     "original": "ないんですけど・・・",
-    "translation": ""
+    "translation": "认识这样的人啊……",
+    "stage": 3
   },
   {
     "key": "0086-0112",
     "original": "あなたたちは",
-    "translation": ""
+    "translation": "你们是",
+    "stage": 3
   },
   {
     "key": "0086-0113",
     "original": "アキュートの！？",
-    "translation": ""
+    "translation": "阿库特的！？",
+    "stage": 3
   },
   {
     "key": "0086-0114",
     "original": "あ、アキュートの",
-    "translation": ""
+    "translation": "啊，阿库特的",
+    "stage": 3
   },
   {
     "key": "0086-0115",
     "original": "ひとたち・・・",
-    "translation": ""
+    "translation": "人们……",
+    "stage": 3
   },
   {
     "key": "0086-0116",
     "original": "覚えていてくれたとは",
-    "translation": ""
+    "translation": "你还记得我们",
+    "stage": 3
   },
   {
     "key": "0086-0117",
     "original": "嬉しいわね",
-    "translation": ""
+    "translation": "真是太好了",
+    "stage": 3
   },
   {
     "key": "0086-0118",
     "original": "私の名前はセシル",
-    "translation": ""
+    "translation": "我的名字是塞西尔",
+    "stage": 3
   },
   {
     "key": "0086-0119",
     "original": "そしてこっちが・・・",
-    "translation": ""
+    "translation": "然后这位是……",
+    "stage": 3
   },
   {
     "key": "0086-0120",
     "original": "ペルゴと申します",
-    "translation": ""
+    "translation": "我叫佩尔戈",
+    "stage": 3
   },
   {
     "key": "0086-0121",
     "original": "今日は貴方にご相談が",
-    "translation": ""
+    "translation": "今天来找你",
+    "stage": 3
   },
   {
     "key": "0086-0122",
     "original": "あって参りました",
-    "translation": ""
+    "translation": "是有事商量",
+    "stage": 3
   },
   {
     "key": "0086-0123",
     "original": "俺に？",
-    "translation": ""
+    "translation": "找我？",
+    "stage": 3
   },
   {
     "key": "0086-0124",
     "original": "僕にですか？",
-    "translation": ""
+    "translation": "是找我吗？",
+    "stage": 3
   },
   {
     "key": "0086-0125",
     "original": "あたしに？",
-    "translation": ""
+    "translation": "找我？",
+    "stage": 3
   },
   {
     "key": "0086-0126",
     "original": "わたしに・・・？",
-    "translation": ""
+    "translation": "找我……？",
+    "stage": 3
   },
   {
     "key": "0086-0127",
     "original": "ケッ！",
-    "translation": ""
+    "translation": "切！",
+    "stage": 3
   },
   {
     "key": "0086-0128",
     "original": "お前たちの相談なんか",
-    "translation": ""
+    "translation": "你们那点事",
+    "stage": 3
   },
   {
     "key": "0086-0129",
     "original": "聞く耳もたねえぜ",
-    "translation": ""
+    "translation": "我才懒得听",
+    "stage": 3
   },
   {
     "key": "0086-0130",
     "original": "私たちが用があるのは",
-    "translation": ""
+    "translation": "我们要找的",
+    "stage": 3
   },
   {
     "key": "0086-0131",
     "original": "貴方じゃなくて、彼よ",
-    "translation": ""
+    "translation": "不是你而是他哦",
+    "stage": 3
   },
   {
     "key": "0086-0132",
     "original": "思いあがらないで",
-    "translation": ""
+    "translation": "别自以为是了",
+    "stage": 3
   },
   {
     "key": "0086-0133",
     "original": "貴方じゃなくて彼女よ",
-    "translation": ""
+    "translation": "不是你而是她哦",
+    "stage": 3
   },
   {
     "key": "0086-0134",
     "original": "な・・・！？",
-    "translation": ""
+    "translation": "什……！？",
+    "stage": 3
   },
   {
     "key": "0086-0135",
     "original": "ご相談というのは",
-    "translation": ""
+    "translation": "要和你商量的事",
+    "stage": 3
   },
   {
     "key": "0086-0136",
     "original": "他でもありません",
-    "translation": ""
+    "translation": "不是别的",
+    "stage": 3
   },
   {
     "key": "0086-0137",
     "original": "貴方のその力を、",
-    "translation": ""
+    "translation": "你的那份力量，",
+    "stage": 3
   },
   {
     "key": "0086-0138",
     "original": "我々のために",
-    "translation": ""
+    "translation": "希望能为我们",
+    "stage": 3
   },
   {
     "key": "0086-0139",
     "original": "役立ててほしいのです",
-    "translation": ""
+    "translation": "所用",
+    "stage": 3
   },
   {
     "key": "0086-0140",
     "original": "　冗談じゃない！",
-    "translation": ""
+    "translation": "　开什么玩笑！",
+    "stage": 3
   },
   {
     "key": "0086-0141",
     "original": "　どういう意味ですか？",
-    "translation": ""
+    "translation": "　你什么意思？",
+    "stage": 3
   },
   {
     "key": "0086-0142",
     "original": "　冗談はやめてください",
-    "translation": ""
+    "translation": "　请不要开玩笑了",
+    "stage": 3
   },
   {
     "key": "0086-0143",
     "original": "冗談じゃない！",
-    "translation": ""
+    "translation": "开什么玩笑！",
+    "stage": 3
   },
   {
     "key": "0086-0144",
     "original": "冗談はやめてください",
-    "translation": ""
+    "translation": "请不要开玩笑了",
+    "stage": 3
   },
   {
     "key": "0086-0145",
     "original": "冗談ポイっ！",
-    "translation": ""
+    "translation": "别开玩笑了！",
+    "stage": 3
   },
   {
     "key": "0086-0146",
     "original": "イヤですよ、そんなの",
-    "translation": ""
+    "translation": "我才不要呢，那种事",
+    "stage": 3
   },
   {
     "key": "0086-0147",
     "original": "そう、冗談で言ってる",
-    "translation": ""
+    "translation": "对，我不是在开玩笑",
+    "stage": 3
   },
   {
     "key": "0086-0148",
     "original": "つもりはないわ",
-    "translation": ""
+    "translation": "我是认真的",
+    "stage": 3
   },
   {
     "key": "0086-0149",
     "original": "私たちは今、どうして",
-    "translation": ""
+    "translation": "我们现在，无论如何",
+    "stage": 3
   },
   {
     "key": "0086-0150",
     "original": "も貴方の力が欲しいの",
-    "translation": ""
+    "translation": "都想要你的力量",
+    "stage": 3
   },
   {
     "key": "0086-0151",
     "original": "どういう意味ですか？",
-    "translation": ""
+    "translation": "什么意思？",
+    "stage": 3
   },
   {
     "key": "0086-0152",
     "original": "言葉どおりの意味よ",
-    "translation": ""
+    "translation": "就只是字面意思",
+    "stage": 3
   },
   {
     "key": "0086-0153",
     "original": "貴方の召喚術の力が、",
-    "translation": ""
+    "translation": "你的召唤术的力量，",
+    "stage": 3
   },
   {
     "key": "0086-0154",
     "original": "私たちに必要なの",
-    "translation": ""
+    "translation": "正是我们所需要的",
+    "stage": 3
   },
   {
     "key": "0086-0155",
     "original": "その事情は、私のほう",
-    "translation": ""
+    "translation": "这件事，由我",
+    "stage": 3
   },
   {
     "key": "0086-0156",
     "original": "から説明いたします",
-    "translation": ""
+    "translation": "来说明",
+    "stage": 3
   },
   {
     "key": "0086-0157",
     "original": "先日の暴動は、我々に",
-    "translation": ""
+    "translation": "前几天的暴动，",
+    "stage": 3
   },
   {
     "key": "0086-0158",
     "original": "しても不本意な結末と",
-    "translation": ""
+    "translation": "对于我们来说也是",
+    "stage": 3
   },
   {
     "key": "0086-0159",
     "original": "しかいえぬものでした",
-    "translation": ""
+    "translation": "不愿看到的结局",
+    "stage": 3
   },
   {
     "key": "0086-0160",
     "original": "わかっていたとはいえ",
-    "translation": ""
+    "translation": "虽说早就料到",
+    "stage": 3
   },
   {
     "key": "0086-0161",
     "original": "街の人々の反応は我々",
-    "translation": ""
+    "translation": "可街上人的反应比",
+    "stage": 3
   },
   {
     "key": "0086-0162",
     "original": "の想像以上に消極的な",
-    "translation": ""
+    "translation": "我们想象中还要消极",
+    "stage": 3
   },
   {
     "key": "0086-0163",
     "original": "ものだったのです",
-    "translation": ""
+    "translation": "得多",
+    "stage": 3
   },
   {
     "key": "0086-0164",
     "original": "人々の心に刻みこまれ",
-    "translation": ""
+    "translation": "是刻在人们心中的",
+    "stage": 3
   },
   {
     "key": "0086-0165",
     "original": "た先入観のせいよ",
-    "translation": ""
+    "translation": "成见所致",
+    "stage": 3
   },
   {
     "key": "0086-0166",
     "original": "先入観？",
-    "translation": ""
+    "translation": "成见？",
+    "stage": 3
   },
   {
     "key": "0086-0167",
     "original": "先入観・・・？",
-    "translation": ""
+    "translation": "成见……？",
+    "stage": 3
   },
   {
     "key": "0086-0168",
     "original": "先入観ですか？",
-    "translation": ""
+    "translation": "成见吗？",
+    "stage": 3
   },
   {
     "key": "0086-0169",
     "original": "召喚術師に抱く",
-    "translation": ""
+    "translation": "是对召唤术师所抱的",
+    "stage": 3
   },
   {
     "key": "0086-0170",
     "original": "畏怖のことですね？",
-    "translation": ""
+    "translation": "畏惧吗？",
+    "stage": 3
   },
   {
     "key": "0086-0171",
     "original": "召喚師には勝てない",
-    "translation": ""
+    "translation": "无法战胜召唤师",
+    "stage": 3
   },
   {
     "key": "0086-0172",
     "original": "召喚師には逆らえない",
-    "translation": ""
+    "translation": "也无法违抗召唤师",
+    "stage": 3
   },
   {
     "key": "0086-0173",
     "original": "そう思いこむことで、",
-    "translation": ""
+    "translation": "对此深信不疑，",
+    "stage": 3
   },
   {
     "key": "0086-0174",
     "original": "自分を納得させ、",
-    "translation": ""
+    "translation": "自我说服，",
+    "stage": 3
   },
   {
     "key": "0086-0175",
     "original": "妥協しているのですよ",
-    "translation": ""
+    "translation": "并以此做出妥协",
+    "stage": 3
   },
   {
     "key": "0086-0176",
     "original": "だから、私たちは方法",
-    "translation": ""
+    "translation": "所以，我们决定",
+    "stage": 3
   },
   {
     "key": "0086-0177",
     "original": "を変えることにした",
-    "translation": ""
+    "translation": "改变方法",
+    "stage": 3
   },
   {
     "key": "0086-0178",
     "original": "人々の思いこみを",
-    "translation": ""
+    "translation": "为了消除人们心中的",
+    "stage": 3
   },
   {
     "key": "0086-0179",
     "original": "消しさるために・・・",
-    "translation": ""
+    "translation": "成见……",
+    "stage": 3
   },
   {
     "key": "0086-0180",
     "original": "マーン三兄弟の長兄を",
-    "translation": ""
+    "translation": "我们要暗杀",
+    "stage": 3
   },
   {
     "key": "0086-0181",
     "original": "暗殺します",
-    "translation": ""
+    "translation": "马恩三兄弟的长兄",
+    "stage": 3
   },
   {
     "key": "0086-0182",
     "original": "なんだって！？",
-    "translation": ""
+    "translation": "什么！？",
+    "stage": 3
   },
   {
     "key": "0086-0183",
     "original": "うそ？",
-    "translation": ""
+    "translation": "不是吧？",
+    "stage": 3
   },
   {
     "key": "0086-0184",
     "original": "暗殺！？",
-    "translation": ""
+    "translation": "暗杀！？",
+    "stage": 3
   },
   {
     "key": "0086-0185",
     "original": "できるのかよ",
-    "translation": ""
+    "translation": "能办到吗！？",
+    "stage": 3
   },
   {
     "key": "0086-0186",
     "original": "そんなことがっ！？",
-    "translation": ""
+    "translation": "那种事！？",
+    "stage": 3
   },
   {
     "key": "0086-0187",
     "original": "そのための方法も計画",
-    "translation": ""
+    "translation": "为此的方法和计划",
+    "stage": 3
   },
   {
     "key": "0086-0188",
     "original": "も用意してあります",
-    "translation": ""
+    "translation": "都已经准备好了",
+    "stage": 3
   },
   {
     "key": "0086-0189",
     "original": "ただし、まだかんぺき",
-    "translation": ""
+    "translation": "不过，还不能",
+    "stage": 3
   },
   {
     "key": "0086-0190",
     "original": "ではありません",
-    "translation": ""
+    "translation": "说完美",
+    "stage": 3
   },
   {
     "key": "0086-0191",
     "original": "足りない要素が",
-    "translation": ""
+    "translation": "仍然缺少一些",
+    "stage": 3
   },
   {
     "key": "0086-0192",
     "original": "あるのです",
-    "translation": ""
+    "translation": "要素",
+    "stage": 3
   },
   {
     "key": "0086-0193",
     "original": "それが・・・",
-    "translation": ""
+    "translation": "那就是……",
+    "stage": 3
   },
   {
     "key": "0086-0194",
     "original": "　召喚術の力なのか",
-    "translation": ""
+    "translation": "　是召唤术的力量吗？",
+    "stage": 3
   },
   {
     "key": "0086-0195",
     "original": "　俺だっていうのか",
-    "translation": ""
+    "translation": "　是在说我是吗？",
+    "stage": 3
   },
   {
     "key": "0086-0196",
     "original": "　召喚術の力なのですか",
-    "translation": ""
+    "translation": "　是召唤术的力量吗？",
+    "stage": 3
   },
   {
     "key": "0086-0197",
     "original": "　僕だというんですか",
-    "translation": ""
+    "translation": "　说的是我吗？",
+    "stage": 3
   },
   {
     "key": "0086-0198",
     "original": "　召喚術の力？",
-    "translation": ""
+    "translation": "　召唤术的力量？",
+    "stage": 3
   },
   {
     "key": "0086-0199",
     "original": "　あたしなの？",
-    "translation": ""
+    "translation": "　是我吗？",
+    "stage": 3
   },
   {
     "key": "0086-0200",
     "original": "　わたしなんですか？",
-    "translation": ""
+    "translation": "　是我吗？",
+    "stage": 3
   },
   {
     "key": "0086-0201",
     "original": "召喚術の力なのか",
-    "translation": ""
+    "translation": "是召唤术的力量吗？",
+    "stage": 3
   },
   {
     "key": "0086-0202",
     "original": "召喚術の力なのですか",
-    "translation": ""
+    "translation": "是召唤术的力量吗？",
+    "stage": 3
   },
   {
     "key": "0086-0203",
     "original": "召喚術の力？",
-    "translation": ""
+    "translation": "召唤术的力量？",
+    "stage": 3
   },
   {
     "key": "0086-0204",
     "original": "私たちだけでも計画は",
-    "translation": ""
+    "translation": "光靠我们也能执行",
+    "stage": 3
   },
   {
     "key": "0086-0205",
     "original": "実行できる。だけど、",
-    "translation": ""
+    "translation": "计划。但是，",
+    "stage": 3
   },
   {
     "key": "0086-0206",
     "original": "確実とまではいえない",
-    "translation": ""
+    "translation": "还不能说十拿九稳",
+    "stage": 3
   },
   {
     "key": "0086-0207",
     "original": "だけど貴方の力を借り",
-    "translation": ""
+    "translation": "但若是能借助你的",
+    "stage": 3
   },
   {
     "key": "0086-0208",
     "original": "られるのなら、可能性",
-    "translation": ""
+    "translation": "力量的话，可能性",
+    "stage": 3
   },
   {
     "key": "0086-0209",
     "original": "は格段に高くなるのよ",
-    "translation": ""
+    "translation": "就会大大提高哦",
+    "stage": 3
   },
   {
     "key": "0086-0210",
     "original": "俺だっていうのか",
-    "translation": ""
+    "translation": "你说的是我吗？",
+    "stage": 3
   },
   {
     "key": "0086-0211",
     "original": "僕だというんですか",
-    "translation": ""
+    "translation": "你说的是我吗？",
+    "stage": 3
   },
   {
     "key": "0086-0212",
     "original": "あたしなの？",
-    "translation": ""
+    "translation": "是我吗？",
+    "stage": 3
   },
   {
     "key": "0086-0213",
     "original": "わたしなんですか？",
-    "translation": ""
+    "translation": "难道是我吗？",
+    "stage": 3
   },
   {
     "key": "0086-0214",
     "original": "三兄弟たちを負かした",
-    "translation": ""
+    "translation": "如果击败了三兄弟的",
+    "stage": 3
   },
   {
     "key": "0086-0215",
     "original": "貴方が参加するなら、",
-    "translation": ""
+    "translation": "你参加的话，",
+    "stage": 3
   },
   {
     "key": "0086-0216",
     "original": "その影響力は絶大です",
-    "translation": ""
+    "translation": "影响力将非常大",
+    "stage": 3
   },
   {
     "key": "0086-0217",
     "original": "人々の先入観を完全に",
-    "translation": ""
+    "translation": "人们的成见",
+    "stage": 3
   },
   {
     "key": "0086-0218",
     "original": "破壊できるはずです",
-    "translation": ""
+    "translation": "应该能彻底粉碎",
+    "stage": 3
   },
   {
     "key": "0086-0219",
     "original": "我々に力を貸して",
-    "translation": ""
+    "translation": "您能把力量借给",
+    "stage": 3
   },
   {
     "key": "0086-0220",
     "original": "いただけませんか？",
-    "translation": ""
+    "translation": "我们吗？",
+    "stage": 3
   },
   {
     "key": "0086-0221",
     "original": "・・・・・・",
-    "translation": ""
+    "translation": "……",
+    "stage": 3
   },
   {
     "key": "0086-0222",
     "original": "随分と身勝手な話だな",
-    "translation": ""
+    "translation": "真是相当自私的话啊",
+    "stage": 3
   },
   {
     "key": "0086-0223",
     "original": "レイド！？",
-    "translation": ""
+    "translation": "雷德！？",
+    "stage": 3
   },
   {
     "key": "0086-0224",
     "original": "レイドさん！？",
-    "translation": ""
+    "translation": "雷德先生！？",
+    "stage": 3
   },
   {
     "key": "0086-0225",
     "original": "お前たちが何をしよう",
-    "translation": ""
+    "translation": "你们想怎么做",
+    "stage": 3
   },
   {
     "key": "0086-0226",
     "original": "と構わないがな・・・",
-    "translation": ""
+    "translation": "我不管……",
+    "stage": 3
   },
   {
     "key": "0086-0227",
     "original": "他人をそれに巻き込む",
-    "translation": ""
+    "translation": "把别人卷入其中",
+    "stage": 3
   },
   {
     "key": "0086-0228",
     "original": "のは許さんぞ！！",
-    "translation": ""
+    "translation": "这种事我绝不允许！！",
+    "stage": 3
   },
   {
     "key": "0086-0229",
     "original": "私たちはただ・・・",
-    "translation": ""
+    "translation": "我们只是……",
+    "stage": 3
   },
   {
     "key": "0086-0230",
     "original": "便利な道具として使い",
-    "translation": ""
+    "translation": "也会有人想把你当成",
+    "stage": 3
   },
   {
     "key": "0086-0231",
     "original": "たいんだろう？",
-    "translation": ""
+    "translation": "便利的工具来用哦？",
+    "stage": 3
   },
   {
     "key": "0086-0232",
     "original": "あの時の俺のように、",
-    "translation": ""
+    "translation": "就像那时的我一样，",
+    "stage": 3
   },
   {
     "key": "0086-0233",
     "original": "使い捨てのコマにする",
-    "translation": ""
+    "translation": "当成用完就扔的棋子",
+    "stage": 3
   },
   {
     "key": "0086-0234",
     "original": "んだよなぁ？",
-    "translation": ""
+    "translation": "对吧？",
+    "stage": 3
   },
   {
     "key": "0086-0235",
     "original": "暴動や暗殺で行われる",
-    "translation": ""
+    "translation": "靠暴动和暗杀所",
+    "stage": 3
   },
   {
     "key": "0086-0236",
     "original": "変革が、人々を幸せに",
-    "translation": ""
+    "translation": "进行的变革，",
+    "stage": 3
   },
   {
     "key": "0086-0237",
     "original": "できるはずがない",
-    "translation": ""
+    "translation": "不可能让人幸福",
+    "stage": 3
   },
   {
     "key": "0086-0238",
     "original": "そんなものは、人々に",
-    "translation": ""
+    "translation": "那种东西，只会给",
+    "stage": 3
   },
   {
     "key": "0086-0239",
     "original": "不安と混乱を与えるだ",
-    "translation": ""
+    "translation": "人们带来不安与",
+    "stage": 3
   },
   {
     "key": "0086-0240",
     "original": "けではないか！？",
-    "translation": ""
+    "translation": "混乱吧！？",
+    "stage": 3
   },
   {
     "key": "0086-0241",
     "original": "ならば・・・",
-    "translation": ""
+    "translation": "那么……",
+    "stage": 3
   },
   {
     "key": "0086-0242",
     "original": "お前は何をしてきた？",
-    "translation": ""
+    "translation": "你至今做了什么？",
+    "stage": 3
   },
   {
     "key": "0086-0243",
     "original": "・・・！！",
-    "translation": ""
+    "translation": "……！！",
+    "stage": 3
   },
   {
     "key": "0086-0244",
     "original": "人々の犠牲を否定する",
-    "translation": ""
+    "translation": "否定人们牺牲的",
+    "stage": 3
   },
   {
     "key": "0086-0245",
     "original": "お前は、そのために何",
-    "translation": ""
+    "translation": "你，为此又做了",
+    "stage": 3
   },
   {
     "key": "0086-0246",
     "original": "をしてきたのだ？",
-    "translation": ""
+    "translation": "些什么呢？",
+    "stage": 3
   },
   {
     "key": "0086-0247",
     "original": "ラムダさま・・・",
-    "translation": ""
+    "translation": "拉姆达大人……",
+    "stage": 3
   },
   {
     "key": "0086-0248",
     "original": "セシルよ、俺はお前に",
-    "translation": ""
+    "translation": "塞西尔，我不记得",
+    "stage": 3
   },
   {
     "key": "0086-0249",
     "original": "こんなくだらん交渉を",
-    "translation": ""
+    "translation": "拜托过你做这种",
+    "stage": 3
   },
   {
     "key": "0086-0250",
     "original": "頼んだ憶えはないぞ",
-    "translation": ""
+    "translation": "无聊的交涉",
+    "stage": 3
   },
   {
     "key": "0086-0251",
     "original": "ラムダ様、これは私の",
-    "translation": ""
+    "translation": "拉姆达大人，这是",
+    "stage": 3
   },
   {
     "key": "0086-0252",
     "original": "独断によるものです",
-    "translation": ""
+    "translation": "我擅自决定的",
+    "stage": 3
   },
   {
     "key": "0086-0253",
     "original": "セシル殿をとがめるの",
-    "translation": ""
+    "translation": "怪罪塞西尔大人",
+    "stage": 3
   },
   {
     "key": "0086-0254",
     "original": "は間違いです",
-    "translation": ""
+    "translation": "是不对的",
+    "stage": 3
   },
   {
     "key": "0086-0255",
     "original": "・・・まあ、いい",
-    "translation": ""
+    "translation": "……嘛，算了",
+    "stage": 3
   },
   {
     "key": "0086-0256",
     "original": "部下が騒がせたことは",
-    "translation": ""
+    "translation": "部下闹出的事，我",
+    "stage": 3
   },
   {
     "key": "0086-0257",
     "original": "わびておこう",
-    "translation": ""
+    "translation": "在此道歉",
+    "stage": 3
   },
   {
     "key": "0086-0258",
     "original": "今の話は無かったこと",
-    "translation": ""
+    "translation": "刚才的话，希望你们",
+    "stage": 3
   },
   {
     "key": "0086-0259",
     "original": "にしてもらいたい",
-    "translation": ""
+    "translation": "当作没听过",
+    "stage": 3
   },
   {
     "key": "0086-0260",
     "original": "待ってくれ",
-    "translation": ""
+    "translation": "等一下",
+    "stage": 3
   },
   {
     "key": "0086-0261",
     "original": "イムランを暗殺するな",
-    "translation": ""
+    "translation": "暗杀伊姆兰那种事",
+    "stage": 3
   },
   {
     "key": "0086-0262",
     "original": "んて、そんなことした",
-    "translation": ""
+    "translation": "要是做了的话，",
+    "stage": 3
   },
   {
     "key": "0086-0263",
     "original": "ら、街はどうなるか",
-    "translation": ""
+    "translation": "这条街会变怎样",
+    "stage": 3
   },
   {
     "key": "0086-0264",
     "original": "本当にわかって",
-    "translation": ""
+    "translation": "你真的明白",
+    "stage": 3
   },
   {
     "key": "0086-0265",
     "original": "言ってるのかよ！？",
-    "translation": ""
+    "translation": "你在说些什么吗！？",
+    "stage": 3
   },
   {
     "key": "0086-0266",
     "original": "イムランを暗殺すると",
-    "translation": ""
+    "translation": "暗杀伊姆兰",
+    "stage": 3
   },
   {
     "key": "0086-0267",
     "original": "いうことが、この街に",
-    "translation": ""
+    "translation": "这件事，会给这条街",
+    "stage": 3
   },
   {
     "key": "0086-0268",
     "original": "どんな影響をもたらす",
-    "translation": ""
+    "translation": "带来怎样的影响……",
+    "stage": 3
   },
   {
     "key": "0086-0269",
     "original": "のかを・・・",
-    "translation": ""
+    "translation": "",
+    "stage": 3
   },
   {
     "key": "0086-0270",
     "original": "貴方たちは本当に理解",
-    "translation": ""
+    "translation": "你们真的理解",
+    "stage": 3
   },
   {
     "key": "0086-0271",
     "original": "しているのか？",
-    "translation": ""
+    "translation": "吗？",
+    "stage": 3
   },
   {
     "key": "0086-0272",
     "original": "ちょっと待ってよ",
-    "translation": ""
+    "translation": "等一下啦",
+    "stage": 3
   },
   {
     "key": "0086-0273",
     "original": "あんたたち、",
-    "translation": ""
+    "translation": "你们到底",
+    "stage": 3
   },
   {
     "key": "0086-0274",
     "original": "わかってんの？",
-    "translation": ""
+    "translation": "明不明白？",
+    "stage": 3
   },
   {
     "key": "0086-0275",
     "original": "待ってください",
-    "translation": ""
+    "translation": "请等一下",
+    "stage": 3
   },
   {
     "key": "0086-0276",
     "original": "しているのですか？",
-    "translation": ""
+    "translation": "吗？",
+    "stage": 3
   },
   {
     "key": "0086-0277",
     "original": "どういうことだ？",
-    "translation": ""
+    "translation": "什么意思？",
+    "stage": 3
   },
   {
     "key": "0086-0278",
     "original": "今のサイジェントの街",
-    "translation": ""
+    "translation": "如今的赛杰特城",
+    "stage": 3
   },
   {
     "key": "0086-0279",
     "original": "の繁栄は、召喚術の力",
-    "translation": ""
+    "translation": "的繁荣，是借助",
+    "stage": 3
   },
   {
     "key": "0086-0280",
     "original": "を借りることで初めて",
-    "translation": ""
+    "translation": "召唤术的力量才",
+    "stage": 3
   },
   {
     "key": "0086-0281",
     "original": "成り立っている",
-    "translation": ""
+    "translation": "得以成立的",
+    "stage": 3
   },
   {
     "key": "0086-0282",
     "original": "その運営を担っている",
-    "translation": ""
+    "translation": "负责运营的他",
+    "stage": 3
   },
   {
     "key": "0086-0283",
     "original": "彼を殺せば、この街は",
-    "translation": ""
+    "translation": "若被杀，这条街",
+    "stage": 3
   },
   {
     "key": "0086-0284",
     "original": "確実に衰退するだろう",
-    "translation": ""
+    "translation": "必定会衰退吧",
+    "stage": 3
   },
   {
     "key": "0086-0285",
     "original": "今の姿こそ異常なのだ",
-    "translation": ""
+    "translation": "现在这副样子才是异常",
+    "stage": 3
   },
   {
     "key": "0086-0286",
     "original": "奴らが現れる前から、",
-    "translation": ""
+    "translation": "在那些家伙出现前，",
+    "stage": 3
   },
   {
     "key": "0086-0287",
     "original": "ここは街だったわ",
-    "translation": ""
+    "translation": "这里就已经是城镇了",
+    "stage": 3
   },
   {
     "key": "0086-0288",
     "original": "豊かではなかったけど",
-    "translation": ""
+    "translation": "虽然并不富裕",
+    "stage": 3
   },
   {
     "key": "0086-0289",
     "original": "平和な街だった",
-    "translation": ""
+    "translation": "但曾是和平的小镇",
+    "stage": 3
   },
   {
     "key": "0086-0290",
     "original": "それは貴方たちも",
-    "translation": ""
+    "translation": "这件事你们也",
+    "stage": 3
   },
   {
     "key": "0086-0291",
     "original": "知っているでしょう？",
-    "translation": ""
+    "translation": "知道吧？",
+    "stage": 3
   },
   {
     "key": "0086-0292",
     "original": "むう・・・",
-    "translation": ""
+    "translation": "唔……",
+    "stage": 3
   },
   {
     "key": "0086-0293",
     "original": "昔の姿に戻るだけさ",
-    "translation": ""
+    "translation": "只是变回原样罢了",
+    "stage": 3
   },
   {
     "key": "0086-0294",
     "original": "もっとも、混乱は起き",
-    "translation": ""
+    "translation": "不过，会发生",
+    "stage": 3
   },
   {
     "key": "0086-0295",
     "original": "るだろうがな",
-    "translation": ""
+    "translation": "混乱吧",
+    "stage": 3
   },
   {
     "key": "0086-0296",
     "original": "結局のところは",
-    "translation": ""
+    "translation": "到头来，",
+    "stage": 3
   },
   {
     "key": "0086-0297",
     "original": "人々に苦しみを与える",
-    "translation": ""
+    "translation": "还不是只会给人们",
+    "stage": 3
   },
   {
     "key": "0086-0298",
     "original": "だけじゃないか・・・",
-    "translation": ""
+    "translation": "带来痛苦……",
+    "stage": 3
   },
   {
     "key": "0086-0299",
     "original": "自らの手で騎士を捨て",
-    "translation": ""
+    "translation": "亲手舍弃了骑士",
+    "stage": 3
   },
   {
     "key": "0086-0300",
     "original": "たお前にはわかるまい",
-    "translation": ""
+    "translation": "身份的你不会懂",
+    "stage": 3
   },
   {
     "key": "0086-0301",
     "original": "今もなお、逃げ続けて",
-    "translation": ""
+    "translation": "至今仍在不断",
+    "stage": 3
   },
   {
     "key": "0086-0302",
     "original": "いるお前にはな・・・",
-    "translation": ""
+    "translation": "逃避的你……",
+    "stage": 3
   },
   {
     "key": "0087-0001",
