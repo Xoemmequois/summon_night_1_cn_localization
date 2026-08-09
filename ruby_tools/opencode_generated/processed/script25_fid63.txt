@@ -1,405 +1,405 @@
 --- Group [right:none next=2012] ---
 あの野郎、どこへ行く
 つもりなんだ？
-+[FID:63, TEXT:0001] 
-+[FID:63, TEXT:0002] 
++[FID:63, TEXT:0001] 那混蛋，到底打算
++[FID:63, TEXT:0002] 去哪儿啊？
 
 --- Group [left:none next=0023] ---
 ひょっとしてこのまま
 街から出るんじゃない
 のかな？
-+[FID:63, TEXT:0003] 
-+[FID:63, TEXT:0004] 
-+[FID:63, TEXT:0005] 
++[FID:63, TEXT:0003] 该不会他就这么
++[FID:63, TEXT:0004] 从城里出去
++[FID:63, TEXT:0005] 吧？
 
 --- Group [left:none next=0023] ---
 ひょっとしてこのまま
 街から出るんじゃない
 のか？
--[FID:63, TEXT:0003] 
--[FID:63, TEXT:0004] 
-+[FID:63, TEXT:0006] 
+-[FID:63, TEXT:0003] 该不会他就这么
+-[FID:63, TEXT:0004] 从城里出去
++[FID:63, TEXT:0006] 吗？
 
 --- Group [left:none next=0023] ---
 ひょっとしてこのまま
 街から出るんじゃない
 でしょうか？
--[FID:63, TEXT:0003] 
--[FID:63, TEXT:0004] 
-+[FID:63, TEXT:0007] 
+-[FID:63, TEXT:0003] 该不会他就这么
+-[FID:63, TEXT:0004] 从城里出去
++[FID:63, TEXT:0007] 吗？
 
 --- Group [right:加泽尔 next=2012] ---
 冗談じゃねえぜ
 だったら、出ていく
 前にとっちめないと
-+[FID:63, TEXT:0008] 
-+[FID:63, TEXT:0009] 
-+[FID:63, TEXT:000A] 
++[FID:63, TEXT:0008] 开什么玩笑
++[FID:63, TEXT:0009] 那样的话，离开
++[FID:63, TEXT:000A] 之前得把他收拾掉
 
 --- Group [left:none next=0023] ---
 ちょっと、ガゼル！？
 あの人がそうだと決ま
 ったわけじゃ・・・
-+[FID:63, TEXT:000B] 
-+[FID:63, TEXT:000C] 
-+[FID:63, TEXT:000D] 
++[FID:63, TEXT:000B] 等等，加泽尔！？
++[FID:63, TEXT:000C] 还没有确定那个人
++[FID:63, TEXT:000D] 就是那家伙……
 
 --- Group [left:none next=0023] ---
 待つんだ、ガゼル！？
 あの人がそうだと決ま
 ったわけじゃ・・・
-+[FID:63, TEXT:000E] 
--[FID:63, TEXT:000C] 
--[FID:63, TEXT:000D] 
++[FID:63, TEXT:000E] 等一下，加泽尔！？
+-[FID:63, TEXT:000C] 还没有确定那个人
+-[FID:63, TEXT:000D] 就是那家伙……
 
 --- Group [left:none next=0023] ---
 あの、ガゼルさん
 あの人がそうだと
 決まったわけでは
 ないのでしょう？
-+[FID:63, TEXT:000F] 
-+[FID:63, TEXT:0010] 
-+[FID:63, TEXT:0011] 
-+[FID:63, TEXT:0012] 
++[FID:63, TEXT:000F] 那个，加泽尔先生
++[FID:63, TEXT:0010] 那个人就是
++[FID:63, TEXT:0011] 那家伙这事
++[FID:63, TEXT:0012] 还没确定吧？
 
 --- Group [left:char_0040 next=2012] ---
 いい加減にして、
 姿を見せたらどうです
-+[FID:63, TEXT:0013] 
-+[FID:63, TEXT:0014] 
++[FID:63, TEXT:0013] 别闹了，
++[FID:63, TEXT:0014] 现身如何？
 
 --- Group [right:加泽尔 next=2012] ---
 ・・・！？
-+[FID:63, TEXT:0015] 
++[FID:63, TEXT:0015] ……！？
 
 --- Group [left:char_0040 next=0023] ---
 バレてたのか？
-+[FID:63, TEXT:0016] 
++[FID:63, TEXT:0016] 被发现了？
 
 --- Group [left:char_0040 next=0023] ---
 尾行に
 気づいていたのか！？
-+[FID:63, TEXT:0017] 
-+[FID:63, TEXT:0018] 
++[FID:63, TEXT:0017] 被人跟踪的事
++[FID:63, TEXT:0018] 你察觉到了！？
 
 --- Group [left:char_0040 next=0023] ---
 あ、バレてた？
-+[FID:63, TEXT:0019] 
++[FID:63, TEXT:0019] 啊，被发现了？
 
 --- Group [left:char_0040 next=0023] ---
 気づいていたんですね
-+[FID:63, TEXT:001A] 
++[FID:63, TEXT:001A] 你早就注意到了吧
 
 --- Group [left:char_0040 next=2012] ---
 人の後ろをこそこそと
 つけ狙って、それほど
 私が邪魔ですか？
-+[FID:63, TEXT:001B] 
-+[FID:63, TEXT:001C] 
-+[FID:63, TEXT:001D] 
++[FID:63, TEXT:001B] 在别人背后
++[FID:63, TEXT:001C] 鬼鬼祟祟跟踪着，我就
++[FID:63, TEXT:001D] 那么碍事吗？
 
 --- Group [left:char_0040 next=2015] ---
 どうしよう？
 　素直に姿を見せる
 　無視をする
-+[FID:63, TEXT:001E] 
-+[FID:63, TEXT:001F] 
-+[FID:63, TEXT:0020] 
++[FID:63, TEXT:001E] 怎么办？
++[FID:63, TEXT:001F] 　老实现身
++[FID:63, TEXT:0020] 　无视他
 
 --- Group [left:none next=0023] ---
 ガゼル・・・
-+[FID:63, TEXT:0021] 
++[FID:63, TEXT:0021] 加泽尔……
 
 --- Group [left:char_0040 next=0023] ---
 邪魔ですか、だって
-+[FID:63, TEXT:0022] 
++[FID:63, TEXT:0022] 碍事吗，他说……
 
 --- Group [left:char_0040 next=0023] ---
 ガゼルさん・・
-+[FID:63, TEXT:0023] 
++[FID:63, TEXT:0023] 加泽尔先生……
 
 --- Group [right:加泽尔 next=2012] ---
 ケッ、仕方ねえな
 こうなっちまったらよ
-+[FID:63, TEXT:0024] 
-+[FID:63, TEXT:0025] 
++[FID:63, TEXT:0024] 切，没办法啊
++[FID:63, TEXT:0025] 都变成这样了
 
 --- Group [left:char_0040 next=2012] ---
 ・・・？
-+[FID:63, TEXT:0026] 
++[FID:63, TEXT:0026] 嗯……？
 
 --- Group [right:加泽尔 next=2012] ---
 出てきてやったぜ
 お望みどおりな
-+[FID:63, TEXT:0027] 
-+[FID:63, TEXT:0028] 
++[FID:63, TEXT:0027] 我就现身了
++[FID:63, TEXT:0028] 如你所愿
 
 --- Group [left:char_0040 next=2012] ---
 はぁ・・・？
-+[FID:63, TEXT:0029] 
++[FID:63, TEXT:0029] 哈啊……？
 
 --- Group [left:主人公 next=0023] ---
 なんだろう？
 様子が変だぞ
-+[FID:63, TEXT:002A] 
-+[FID:63, TEXT:002B] 
++[FID:63, TEXT:002A] 怎么回事？
++[FID:63, TEXT:002B] 样子不对劲
 
 --- Group [left:主人公 next=0023] ---
 どうしたんだ？
 様子が変だぞ
-+[FID:63, TEXT:002C] 
--[FID:63, TEXT:002B] 
++[FID:63, TEXT:002C] 怎么了？
+-[FID:63, TEXT:002B] 样子不对劲
 
 --- Group [left:主人公 next=0023] ---
 あれれ？
 なんかおかしいな
-+[FID:63, TEXT:002D] 
-+[FID:63, TEXT:002E] 
++[FID:63, TEXT:002D] 咦？
++[FID:63, TEXT:002E] 总觉得怪怪的
 
 --- Group [left:主人公 next=0023] ---
 あら？
 様子が変ですよ？
-+[FID:63, TEXT:002F] 
-+[FID:63, TEXT:0030] 
++[FID:63, TEXT:002F] 哎呀？
++[FID:63, TEXT:0030] 样子有点怪哦？
 
 --- Group [left:char_0040 next=2012] ---
 えぇと・・・
 ひょっとして君たちも
 私をつけていたのか？
-+[FID:63, TEXT:0031] 
-+[FID:63, TEXT:0032] 
-+[FID:63, TEXT:0033] 
++[FID:63, TEXT:0031] 呃……
++[FID:63, TEXT:0032] 难道说你们也
++[FID:63, TEXT:0033] 在跟踪我？
 
 --- Group [right:加泽尔 next=2012] ---
 だからっ
 そうだって言ってる
 だろうがよ！
-+[FID:63, TEXT:0034] 
-+[FID:63, TEXT:0035] 
-+[FID:63, TEXT:0036] 
++[FID:63, TEXT:0034] 所以说
++[FID:63, TEXT:0035] 就是那家伙
++[FID:63, TEXT:0036] 我早说了吧！
 
 --- Group [left:主人公 next=0023] ---
 待てよ、ガゼル
 この人「君たちも」っ
 て言ったぞ？
-+[FID:63, TEXT:0037] 
-+[FID:63, TEXT:0038] 
-+[FID:63, TEXT:0039] 
++[FID:63, TEXT:0037] 等等，加泽尔
++[FID:63, TEXT:0038] 这个人“你们也”
++[FID:63, TEXT:0039] 说了对吧？
 
 --- Group [left:主人公 next=0023] ---
 待って、ガゼル
 この人「君たちも」っ
 て言ってたよ
-+[FID:63, TEXT:003A] 
--[FID:63, TEXT:0038] 
-+[FID:63, TEXT:003B] 
++[FID:63, TEXT:003A] 等等，加泽尔
+-[FID:63, TEXT:0038] 这个人“你们也”
++[FID:63, TEXT:003B] 说过哦
 
 --- Group [left:主人公 next=0023] ---
 待って！
 今、「君たちも」って
 言いましたよ
-+[FID:63, TEXT:003C] 
-+[FID:63, TEXT:003D] 
-+[FID:63, TEXT:003E] 
++[FID:63, TEXT:003C] 等等！
++[FID:63, TEXT:003D] 刚才，“你们也”
++[FID:63, TEXT:003E] 说了哦
 
 --- Group [right:加泽尔 next=2012] ---
 「も」？
-+[FID:63, TEXT:003F] 
++[FID:63, TEXT:003F] 那个“也”？
 
 --- Group [left:char_0040 next=2012] ---
 ・・・危ないっ！！
-+[FID:63, TEXT:0040] 
++[FID:63, TEXT:0040] 危险……！！
 
 --- Group [right:none next=2012] ---
 シャアアアッ！
-+[FID:63, TEXT:0041] 
++[FID:63, TEXT:0041] 唰啊啊啊！
 
 --- Group [right:加泽尔 next=2012] ---
 な、なんなんだよ
 こいつらは！？
-+[FID:63, TEXT:0042] 
-+[FID:63, TEXT:0043] 
++[FID:63, TEXT:0042] 什、什么啊
++[FID:63, TEXT:0043] 这些家伙！？
 
 --- Group [left:char_0040 next=2012] ---
 君たち
 はやく逃げるんだっ！
-+[FID:63, TEXT:0044] 
-+[FID:63, TEXT:0045] 
++[FID:63, TEXT:0044] 你们
++[FID:63, TEXT:0045] 快逃啊！
 
 --- Group [right:主人公 next=0023] ---
 逃げろっていったって
 これじゃ・・・
-+[FID:63, TEXT:0046] 
-+[FID:63, TEXT:0047] 
++[FID:63, TEXT:0046] 就算叫我逃
++[FID:63, TEXT:0047] 可这样也……
 
 --- Group [right:主人公 next=0023] ---
 いや、とっくに囲まれ
 てるみたいですよ
-+[FID:63, TEXT:0048] 
-+[FID:63, TEXT:0049] 
++[FID:63, TEXT:0048] 不，好像早就被
++[FID:63, TEXT:0049] 包围了哦
 
 --- Group [right:主人公 next=0023] ---
 逃げろって言っても
 無理でしょ？
-+[FID:63, TEXT:004A] 
-+[FID:63, TEXT:004B] 
++[FID:63, TEXT:004A] 就算说要逃
++[FID:63, TEXT:004B] 也不可能吧？
 
 --- Group [right:主人公 next=0023] ---
 逃げるといっても
 囲まれてますよ・・・
-+[FID:63, TEXT:004C] 
-+[FID:63, TEXT:004D] 
++[FID:63, TEXT:004C] 就算要逃
++[FID:63, TEXT:004D] 也已经被包围了……
 
 --- Group [left:char_0040 next=2012] ---
 仕方ない・・・
 君たち、私の側から
 離れるんじゃないぞ！
-+[FID:63, TEXT:004E] 
-+[FID:63, TEXT:004F] 
-+[FID:63, TEXT:0050] 
++[FID:63, TEXT:004E] 没办法……
++[FID:63, TEXT:004F] 你们，别从我身边
++[FID:63, TEXT:0050] 离开！
 
 --- Group [left:char_0040 next=2012] ---
 出てこないのなら、
 こちらからいきますよ
-+[FID:63, TEXT:0051] 
-+[FID:63, TEXT:0052] 
++[FID:63, TEXT:0051] 既然不出来，
++[FID:63, TEXT:0052] 那我就过去了
 
 --- Group [right:none next=2012] ---
 仕方ねえ・・・
 みっつ数えて、別々の
 方向へズラかろう
-+[FID:63, TEXT:0053] 
-+[FID:63, TEXT:0054] 
-+[FID:63, TEXT:0055] 
++[FID:63, TEXT:0053] 没办法……
++[FID:63, TEXT:0054] 数三下，分头
++[FID:63, TEXT:0055] 撤吧
 
 --- Group [left:char_0040 next=0023] ---
 わかった
-+[FID:63, TEXT:0056] 
++[FID:63, TEXT:0056] 明白了
 
 --- Group [left:char_0040 next=0023] ---
 ＯＫ！
-+[FID:63, TEXT:0057] 
++[FID:63, TEXT:0057] ＯＫ！
 
 --- Group [left:char_0040 next=0023] ---
 はい、わかりました
-+[FID:63, TEXT:0058] 
++[FID:63, TEXT:0058] 好的，明白了
 
 --- Group [right:none next=2012] ---
 ひとつ・・・
-+[FID:63, TEXT:0059] 
++[FID:63, TEXT:0059] 一……
 
 --- Group [left:char_0040 next=2012] ---
 ふたつ・・・
-+[FID:63, TEXT:005A] 
++[FID:63, TEXT:005A] 二……
 
 --- Group [right:none next=2012] ---
 み・・・っ！？
-+[FID:63, TEXT:005B] 
++[FID:63, TEXT:005B] 三……！？
 
 --- Group [left:char_0040 next=0023] ---
 な、なんなんだっ！？
-+[FID:63, TEXT:005C] 
++[FID:63, TEXT:005C] 什、什么东西！？
 
 --- Group [left:char_0040 next=0023] ---
 え？
 なになに！？
-+[FID:63, TEXT:005D] 
-+[FID:63, TEXT:005E] 
++[FID:63, TEXT:005D] 咦？
++[FID:63, TEXT:005E] 什么什么！？
 
 --- Group [left:char_0040 next=0023] ---
 え・・・ちょっと！？
-+[FID:63, TEXT:005F] 
++[FID:63, TEXT:005F] 咦……等一下！？
 
 --- Group [left:none next=2012] ---
 かかって来い
 外道の召喚師ども！
-+[FID:63, TEXT:0060] 
-+[FID:63, TEXT:0061] 
++[FID:63, TEXT:0060] 放马过来吧
++[FID:63, TEXT:0061] 你们这群邪道召唤师！
 
 --- Group [left:none next=2012] ---
 【蒼の派閥】の召喚師
 ギブソン・ジラールの
 力を見せてやる！！
-+[FID:63, TEXT:0062] 
-+[FID:63, TEXT:0063] 
-+[FID:63, TEXT:0064] 
++[FID:63, TEXT:0062] 【苍之派阀】的召唤师
++[FID:63, TEXT:0063] 吉布森·吉拉尔
++[FID:63, TEXT:0064] 让你们见识力量！！
 
 --- Group [right:none next=2012] ---
 あいつ・・・
 やっぱり召喚師だった
-+[FID:63, TEXT:0065] 
-+[FID:63, TEXT:0066] 
++[FID:63, TEXT:0065] 那家伙……
++[FID:63, TEXT:0066] 果然是召唤师
 
 --- Group [left:none next=0023] ---
 それだったら、あの人
 を襲ってる連中だって
 そうだぞ！
-+[FID:63, TEXT:0067] 
-+[FID:63, TEXT:0068] 
-+[FID:63, TEXT:0069] 
++[FID:63, TEXT:0067] 这么说的话，那些
++[FID:63, TEXT:0068] 袭击他的人也是
++[FID:63, TEXT:0069] 召唤师啊！
 
 --- Group [left:none next=0023] ---
 あの黒装束たちもだ
 でも、どうして召喚師
 同士が戦うんだ？
-+[FID:63, TEXT:006A] 
-+[FID:63, TEXT:006B] 
-+[FID:63, TEXT:006C] 
++[FID:63, TEXT:006A] 那些黑衣人也是啊
++[FID:63, TEXT:006B] 可是，为什么召唤师
++[FID:63, TEXT:006C] 之间会打起来呢？
 
 --- Group [left:none next=0023] ---
 ちょっと！
 それなら
 襲ってきたやつらも
 召喚師だよ！
-+[FID:63, TEXT:006D] 
-+[FID:63, TEXT:006E] 
-+[FID:63, TEXT:006F] 
-+[FID:63, TEXT:0070] 
++[FID:63, TEXT:006D] 等等！
++[FID:63, TEXT:006E] 那么
++[FID:63, TEXT:006F] 袭击我们的那些家伙
++[FID:63, TEXT:0070] 也是召唤师啊！
 
 --- Group [left:none next=0023] ---
 でしたら、あの人を
 襲っている人たちも
 召喚師ですよ！
-+[FID:63, TEXT:0071] 
-+[FID:63, TEXT:0072] 
-+[FID:63, TEXT:0073] 
++[FID:63, TEXT:0071] 那么，袭击他的
++[FID:63, TEXT:0072] 那些人也是
++[FID:63, TEXT:0073] 召唤师哦！
 
 --- Group [right:none next=2012] ---
 気にくわねえな
 よってたかって一人を
 狙うなんてよ
-+[FID:63, TEXT:0074] 
-+[FID:63, TEXT:0075] 
-+[FID:63, TEXT:0076] 
++[FID:63, TEXT:0074] 真让人不爽啊
++[FID:63, TEXT:0075] 一窝蜂地围攻
++[FID:63, TEXT:0076] 一个人什么的
 
 --- Group [left:none next=0023] ---
 そうだね・・・
-+[FID:63, TEXT:0077] 
++[FID:63, TEXT:0077] 是啊……
 
 --- Group [left:none next=0023] ---
 ガゼルさん
-+[FID:63, TEXT:0078] 
++[FID:63, TEXT:0078] 加泽尔先生
 
 --- Group [right:none next=2012] ---
 いくか、助太刀？
-+[FID:63, TEXT:0079] 
++[FID:63, TEXT:0079] 要上吗，去助阵？
 
 --- Group [left:none next=0023] ---
 ああ、このまま見ない
 ふりはできない！
-+[FID:63, TEXT:007A] 
-+[FID:63, TEXT:007B] 
++[FID:63, TEXT:007A] 是啊，不能就这样
++[FID:63, TEXT:007B] 视而不见啊！
 
 --- Group [left:none next=0023] ---
 うん、
 大勢で襲うのは、
 許せないよね！
-+[FID:63, TEXT:007C] 
-+[FID:63, TEXT:007D] 
-+[FID:63, TEXT:007E] 
++[FID:63, TEXT:007C] 嗯，
++[FID:63, TEXT:007D] 这么多人围攻，
++[FID:63, TEXT:007E] 不可原谅啊！
 
 --- Group [left:none next=0023] ---
 はい・・・
 行きましょう！
-+[FID:63, TEXT:007F] 
-+[FID:63, TEXT:0080] 
++[FID:63, TEXT:007F] 好……
++[FID:63, TEXT:0080] 走吧！
