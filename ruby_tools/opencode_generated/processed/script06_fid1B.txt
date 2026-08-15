@@ -325,7 +325,7 @@
 +[FID:1B, TEXT:0066] 释放出来吧……
 
 --- Group [left:none next=2012] ---G
-さあ！@ n 
+さあ！@n！
 +[FID:1B, TEXT:0067] 来吧！@n
 
 --- Group [left:none next=2012] ---G
@@ -436,7 +436,7 @@
 
 --- Group [right:char_003A next=2012] ---G
 大丈夫か？
-@ n 
+@n
 +[FID:1B, TEXT:0087] 没事吧？
 +[FID:1B, TEXT:0088] @n
 

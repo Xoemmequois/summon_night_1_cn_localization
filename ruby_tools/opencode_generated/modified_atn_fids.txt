@@ -1,0 +1,227 @@
+# Files/lines modified by the @n original-text sync (zh_CN @n fix)
+#
+# FID (filename) = KEY first half (hex). TEXT = KEY second half (index hex).
+# So FID 82 + TEXT 0001  ->  KEY 0130-0001.
+#
+## output_full: 72 files modified
+files (name: changed TEXT hex, distinct):
+  script03_fid0D.txt (FID 0D): 0248
+  script03_fid0E.txt (FID 0E): 0023
+  script04_fid0F.txt (FID 0F): 0122
+  script04_fid12.txt (FID 12): 009C
+  script04_fid14.txt (FID 14): 004B
+  script05_fid16.txt (FID 16): 00F0
+  script06_fid19.txt (FID 19): 0092
+  script06_fid1B.txt (FID 1B): 0067, 0088
+  script06_fid1C.txt (FID 1C): 0009, 0024, 002D
+  script06_fid1D.txt (FID 1D): 001F
+  script08_fid20.txt (FID 20): 0023, 034A
+  script08_fid21.txt (FID 21): 003F
+  script09_fid22.txt (FID 22): 001C, 0119
+  script09_fid23.txt (FID 23): 001B
+  script09_fid24.txt (FID 24): 0083
+  script09_fid26.txt (FID 26): 0004, 006C
+  script10_fid28.txt (FID 28): 015F, 0161, 0165, 0167
+  script11_fid2A.txt (FID 2A): 002C, 002D, 002F, 0031, 0032
+  script11_fid2B.txt (FID 2B): 007A
+  script11_fid2C.txt (FID 2C): 0038
+  script11_fid2D.txt (FID 2D): 000C, 0012, 0030, 004A, 004E, 0052
+  script12_fid2F.txt (FID 2F): 00C4
+  script12_fid32.txt (FID 32): 0021, 0030
+  script13_fid36.txt (FID 36): 0008, 001E, 0049
+  script13_fid37.txt (FID 37): 00E2
+  script14_fid38.txt (FID 38): 0039, 004D
+  script14_fid39.txt (FID 39): 000A, 001F
+  script14_fid3A.txt (FID 3A): 0007, 0027
+  script14_fid3B.txt (FID 3B): 0024
+  script16_fid40.txt (FID 40): 0022
+  script16_fid41.txt (FID 41): 0031, 0044
+  script16_fid43.txt (FID 43): 0143
+  script17_fid44.txt (FID 44): 0027, 0232
+  script18_fid46.txt (FID 46): 008F
+  script18_fid48.txt (FID 48): 001C
+  script19_fid4A.txt (FID 4A): 0001, 0095
+  script19_fid4D.txt (FID 4D): 002C
+  script20_fid50.txt (FID 50): 001A, 01F4
+  script20_fid51.txt (FID 51): 003F, 0059
+  script21_fid55.txt (FID 55): 0036
+  script22_fid56.txt (FID 56): 0002, 003E
+  script22_fid57.txt (FID 57): 0026, 011A
+  script23_fid5B.txt (FID 5B): 00A2
+  script23_fid5C.txt (FID 5C): 009D
+  script23_fid5D.txt (FID 5D): 0025, 012B
+  script24_fid5F.txt (FID 5F): 0009, 0097
+  script24_fid60.txt (FID 60): 0008
+  script24_fid61.txt (FID 61): 00C3, 00E0
+  script25_fid62.txt (FID 62): 00A5, 019C, 01EF, 02F6
+  script27_fid69.txt (FID 69): 001A
+  script27_fid6A.txt (FID 6A): 0002
+  script28_fid6D.txt (FID 6D): 0015, 022A
+  script28_fid6E.txt (FID 6E): 000A, 0022
+  script28_fid71.txt (FID 71): 001A
+  script29_fid73.txt (FID 73): 0024
+  script30_fid74.txt (FID 74): 002E, 008D, 011B, 013D
+  script30_fid76.txt (FID 76): 02DC
+  script31_fid78.txt (FID 78): 0020, 003B
+  script32_fid7C.txt (FID 7C): 00B9
+  script32_fid7D.txt (FID 7D): 0015
+  script33_fid7E.txt (FID 7E): 0003
+  script33_fid80.txt (FID 80): 005C
+  script33_fid81.txt (FID 81): 009B
+  script34_fid82.txt (FID 82): 0001, 0002, 0022, 0025, 0039, 0065, 00DF
+  script34_fid83.txt (FID 83): 000F, 002E, 0074
+  script35_fid84.txt (FID 84): 0026, 0054, 0135, 0136
+  script35_fid85.txt (FID 85): 0005
+  script36_fid86.txt (FID 86): 01E8, 0205
+  script37_fid88.txt (FID 88): 003D, 004D, 010C, 0128
+  script38_fid8E.txt (FID 8E): 0062, 0090, 0208
+  script39_fid8F.txt (FID 8F): 001C
+  script39_fid90.txt (FID 90): 000D
+
+## processed: 71 files modified
+files (name: changed TEXT hex, distinct):
+  script03_fid0D.txt (FID 0D): 0248
+  script03_fid0E.txt (FID 0E): 0023
+  script04_fid0F.txt (FID 0F): 0122
+  script04_fid12.txt (FID 12): 009C
+  script04_fid14.txt (FID 14): 004B
+  script05_fid16.txt (FID 16): 00F0
+  script06_fid19.txt (FID 19): 0092
+  script06_fid1B.txt (FID 1B): 0067, 0088
+  script06_fid1C.txt (FID 1C): 0009, 0024, 002D
+  script06_fid1D.txt (FID 1D): 001F
+  script08_fid20.txt (FID 20): 0023, 034A
+  script08_fid21.txt (FID 21): 003F
+  script09_fid22.txt (FID 22): 001C, 0119
+  script09_fid23.txt (FID 23): 001B
+  script09_fid24.txt (FID 24): 0083
+  script09_fid26.txt (FID 26): 0004, 006C
+  script10_fid28.txt (FID 28): 015F, 0161, 0165, 0167
+  script11_fid2A.txt (FID 2A): 002C, 002D, 002F, 0031, 0032
+  script11_fid2B.txt (FID 2B): 007A
+  script11_fid2C.txt (FID 2C): 0038
+  script11_fid2D.txt (FID 2D): 000C, 0012, 0030, 004A, 004E, 0052
+  script12_fid2F.txt (FID 2F): 00C4
+  script12_fid32.txt (FID 32): 0021, 0030
+  script13_fid36.txt (FID 36): 0008, 001E, 0049
+  script13_fid37.txt (FID 37): 00E2
+  script14_fid38.txt (FID 38): 0039, 004D
+  script14_fid39.txt (FID 39): 000A, 001F
+  script14_fid3A.txt (FID 3A): 0007, 0027
+  script14_fid3B.txt (FID 3B): 0024
+  script16_fid40.txt (FID 40): 0022
+  script16_fid41.txt (FID 41): 0031, 0044
+  script16_fid43.txt (FID 43): 0143
+  script17_fid44.txt (FID 44): 0027, 0232
+  script18_fid46.txt (FID 46): 008F
+  script18_fid48.txt (FID 48): 001C
+  script19_fid4A.txt (FID 4A): 0001, 0095
+  script19_fid4D.txt (FID 4D): 002C
+  script20_fid50.txt (FID 50): 001A, 01F4
+  script20_fid51.txt (FID 51): 003F, 0059
+  script21_fid55.txt (FID 55): 0036
+  script22_fid56.txt (FID 56): 0002, 003E
+  script22_fid57.txt (FID 57): 0026, 011A
+  script23_fid5B.txt (FID 5B): 00A2
+  script23_fid5C.txt (FID 5C): 009D
+  script23_fid5D.txt (FID 5D): 0025, 012B
+  script24_fid5F.txt (FID 5F): 0009, 0097
+  script24_fid60.txt (FID 60): 0008
+  script24_fid61.txt (FID 61): 00C3, 00E0
+  script25_fid62.txt (FID 62): 00A5, 019C, 01EF, 02F6
+  script27_fid69.txt (FID 69): 001A
+  script27_fid6A.txt (FID 6A): 0002
+  script28_fid6D.txt (FID 6D): 0015, 022A
+  script28_fid6E.txt (FID 6E): 000A, 0022
+  script28_fid71.txt (FID 71): 001A
+  script29_fid73.txt (FID 73): 0024
+  script30_fid74.txt (FID 74): 002E, 008D, 011B, 013D
+  script30_fid76.txt (FID 76): 02DC
+  script31_fid78.txt (FID 78): 0020, 003B
+  script32_fid7C.txt (FID 7C): 00B9
+  script32_fid7D.txt (FID 7D): 0015
+  script33_fid7E.txt (FID 7E): 0003
+  script33_fid80.txt (FID 80): 005C
+  script33_fid81.txt (FID 81): 009B
+  script34_fid82.txt (FID 82): 0001, 0002, 0022, 0025, 0039, 0065, 00DF
+  script34_fid83.txt (FID 83): 000F, 002E, 0074
+  script35_fid84.txt (FID 84): 0026, 0054, 0135, 0136
+  script35_fid85.txt (FID 85): 0005
+  script36_fid86.txt (FID 86): 01E8, 0205
+  script37_fid88.txt (FID 88): 003D, 004D, 010C, 0128
+  script38_fid8E.txt (FID 8E): 0062, 0090, 0208
+  script39_fid8F.txt (FID 8F): 001C
+
+## Per-FID aggregated changed TEXT (union of both dirs): 72 FIDs
+  FID 0D: 0248
+  FID 0E: 0023
+  FID 0F: 0122
+  FID 12: 009C
+  FID 14: 004B
+  FID 16: 00F0
+  FID 19: 0092
+  FID 1B: 0067, 0088
+  FID 1C: 0009, 0024, 002D
+  FID 1D: 001F
+  FID 20: 0023, 034A
+  FID 21: 003F
+  FID 22: 001C, 0119
+  FID 23: 001B
+  FID 24: 0083
+  FID 26: 0004, 006C
+  FID 28: 015F, 0161, 0165, 0167
+  FID 2A: 002C, 002D, 002F, 0031, 0032
+  FID 2B: 007A
+  FID 2C: 0038
+  FID 2D: 000C, 0012, 0030, 004A, 004E, 0052
+  FID 2F: 00C4
+  FID 32: 0021, 0030
+  FID 36: 0008, 001E, 0049
+  FID 37: 00E2
+  FID 38: 0039, 004D
+  FID 39: 000A, 001F
+  FID 3A: 0007, 0027
+  FID 3B: 0024
+  FID 40: 0022
+  FID 41: 0031, 0044
+  FID 43: 0143
+  FID 44: 0027, 0232
+  FID 46: 008F
+  FID 48: 001C
+  FID 4A: 0001, 0095
+  FID 4D: 002C
+  FID 50: 001A, 01F4
+  FID 51: 003F, 0059
+  FID 55: 0036
+  FID 56: 0002, 003E
+  FID 57: 0026, 011A
+  FID 5B: 00A2
+  FID 5C: 009D
+  FID 5D: 0025, 012B
+  FID 5F: 0009, 0097
+  FID 60: 0008
+  FID 61: 00C3, 00E0
+  FID 62: 00A5, 019C, 01EF, 02F6
+  FID 69: 001A
+  FID 6A: 0002
+  FID 6D: 0015, 022A
+  FID 6E: 000A, 0022
+  FID 71: 001A
+  FID 73: 0024
+  FID 74: 002E, 008D, 011B, 013D
+  FID 76: 02DC
+  FID 78: 0020, 003B
+  FID 7C: 00B9
+  FID 7D: 0015
+  FID 7E: 0003
+  FID 80: 005C
+  FID 81: 009B
+  FID 82: 0001, 0002, 0022, 0025, 0039, 0065, 00DF
+  FID 83: 000F, 002E, 0074
+  FID 84: 0026, 0054, 0135, 0136
+  FID 85: 0005
+  FID 86: 01E8, 0205
+  FID 88: 003D, 004D, 010C, 0128
+  FID 8E: 0062, 0090, 0208
+  FID 8F: 001C
+  FID 90: 000D

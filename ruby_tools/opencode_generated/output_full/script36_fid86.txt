@@ -581,11 +581,11 @@
 
 --- Group 121 [right:char_0009 next=2012] ---
 [FID:86, TEXT:00EE] ありがとう
-[FID:86, TEXT:01E8] @ n 
+[FID:86, TEXT:01E8] @n
 
 --- Group 122 [right:char_0008 next=2012] ---
 [FID:86, TEXT:00EE] ありがとう
-[FID:86, TEXT:01E8] @ n 
+[FID:86, TEXT:01E8] @n
 
 --- Group 123 [left:char_0004 next=2012] ---
 [FID:86, TEXT:00EE] ありがとう
@@ -598,11 +598,11 @@
 
 --- Group 126 [right:char_000B next=2012] ---
 [FID:86, TEXT:00EE] ありがとう
-[FID:86, TEXT:01E8] @ n 
+[FID:86, TEXT:01E8] @n
 
 --- Group 127 [right:char_0008 next=2012] ---
 [FID:86, TEXT:00EE] ありがとう
-[FID:86, TEXT:01E8] @ n 
+[FID:86, TEXT:01E8] @n
 
 --- Group 128 [left:char_0004 next=2012] ---
 [FID:86, TEXT:00EF] 驚いたよ
@@ -1136,7 +1136,7 @@
 
 --- Group 255 [right:char_0020 next=2012] ---
 [FID:86, TEXT:01E7] ありがと・・・
-[FID:86, TEXT:01E8] @ n 
+[FID:86, TEXT:01E8] @n
 
 --- Group 256 [right:char_0020 next=2012] ---
 [FID:86, TEXT:01E9] 私、きちんとあいつに
@@ -1193,13 +1193,13 @@
 [FID:86, TEXT:0204] 証拠ですよ
 
 --- Group 269 [right:char_0022 next=2012] ---
-[FID:86, TEXT:0205] @ n 
+[FID:86, TEXT:0205] @n・・・
 
 --- Group 270 [right:char_0013 next=2012] ---
-[FID:86, TEXT:0205] @ n 
+[FID:86, TEXT:0205] @n・・・
 
 --- Group 271 [right:char_0015 next=2012] ---
-[FID:86, TEXT:0205] @ n 
+[FID:86, TEXT:0205] @n・・・
 
 --- Group 272 [right:char_0023 next=2012] ---
 [FID:86, TEXT:0206] 不思議なものですね
@@ -2371,7 +2371,7 @@
 
 --- Group 544 [right:char_000A next=2012] ---
 [FID:86, TEXT:0352] ありがと
-[FID:86, TEXT:01E8] @ n 
+[FID:86, TEXT:01E8] @n
 
 --- Group 545 [right:char_000A next=2012] ---
 [FID:86, TEXT:0353] あたし・・・

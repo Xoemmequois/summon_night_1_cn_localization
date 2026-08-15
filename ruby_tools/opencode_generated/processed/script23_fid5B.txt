@@ -502,12 +502,12 @@
 
 --- Group [right:加泽尔 next=2012] ---G
 頼んだぜ？
-@ n 
+@n
 +[FID:5B, TEXT:00A1] 就交给你了？
 +[FID:5B, TEXT:00A2] @n
 
 --- Group [left:雷德 next=2012] ---G
-@ n 
+@n
 ついて来てくれるか？
 -[FID:5B, TEXT:00A2] @n
 +[FID:5B, TEXT:00A7] 能跟我来吗？

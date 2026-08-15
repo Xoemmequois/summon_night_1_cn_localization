@@ -552,7 +552,7 @@
 
 --- Group [right:莫纳蒂 next=2012] ---G
 楽しみに待っててね
-@ n 
+@n
 +[FID:62, TEXT:00A4] 好好期待吧
 +[FID:62, TEXT:00A5] @n
 
@@ -748,7 +748,7 @@
 
 --- Group [right:char_0040 next=2012] ---G
 ちょうど良かったよ
-@ n 
+@n
 +[FID:62, TEXT:00DC] 来得正好
 -[FID:62, TEXT:00A5] @n
 
@@ -966,7 +966,7 @@
 
 --- Group [right:基尔 next=2012] ---G
 そうとは限らないよ
-@ n 
+@n
 +[FID:62, TEXT:0115] 那倒不一定哦
 -[FID:62, TEXT:00A5] @n
 
@@ -1032,7 +1032,7 @@
 
 --- Group [right:克拉雷特 next=2012] ---G
 そうとは限りませんよ
-@ n 
+@n
 +[FID:62, TEXT:012F] 那倒不一定哦
 -[FID:62, TEXT:00A5] @n
 
@@ -1395,7 +1395,7 @@
 +[FID:62, TEXT:019B] 不太好吧
 
 --- Group [right:none next=2012] ---G
-よお、@ n 
+よお、@n
 お前も偵察か
 +[FID:62, TEXT:019C] 哟，@n
 +[FID:62, TEXT:019D] 你也是来侦察的？
@@ -1669,7 +1669,7 @@
 +[FID:62, TEXT:01EE] 的样子……
 
 --- Group [right:莫纳蒂 next=2012] ---G
-行くぞ、@ n 
+行くぞ、@n
 +[FID:62, TEXT:01EF] 走吧，@n
 
 --- Group [left:none next=0023] ---G
@@ -2513,7 +2513,7 @@
 +[FID:62, TEXT:02F5] 好吗？
 
 --- Group [right:莫纳蒂 next=2012] ---G
-おーい、@ n 
+おーい、@n
 また修行に
 つきあってくんない？
 +[FID:62, TEXT:02F6] 喂，@n
