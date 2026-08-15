@@ -1,4 +1,4 @@
---- Group [left:none next=2012] ---
+--- Group [left:none next=2012] ---G
 魅魔の宝玉の力が、
 そこまで強いもの
 だとはな・・・
@@ -6,7 +6,7 @@
 +[FID:7F, TEXT:0002] 没想到会强到
 +[FID:7F, TEXT:0003] 这种地步啊……
 
---- Group [right:none next=2012] ---
+--- Group [right:none next=2012] ---G
 いや、むしろバノッサ
 が宝玉の力をここまで
 高めたのだろう
@@ -14,7 +14,7 @@
 +[FID:7F, TEXT:0005] 把宝玉之力提升到了
 +[FID:7F, TEXT:0006] 如此地步吧
 
---- Group [left:none next=2012] ---
+--- Group [left:none next=2012] ---G
 でも、なんでバノッサ
 は結界を壊そうとして
 るんだ？
@@ -22,13 +22,13 @@
 +[FID:7F, TEXT:0008] 想要破坏结界
 +[FID:7F, TEXT:0009] 呢？
 
---- Group [right:none next=2012] ---
+--- Group [right:none next=2012] ---G
 意識して壊しているの
 ではないでしょうね
-+[FID:7F, TEXT:000A] 有意破坏的事情
-+[FID:7F, TEXT:000B] 恐怕不是吧
++[FID:7F, TEXT:000A] 应该不是
++[FID:7F, TEXT:000B] 有意破坏吧
 
---- Group [right:none next=2012] ---
+--- Group [right:none next=2012] ---G
 悪魔を召喚することが
 結果としてこうなって
 いるだけです
@@ -36,15 +36,15 @@
 +[FID:7F, TEXT:000D] 结果就变成了
 +[FID:7F, TEXT:000E] 这样而已
 
---- Group [right:none next=2012] ---
+--- Group [right:none next=2012] ---G
 ・・・おかしいわね
 +[FID:7F, TEXT:000F] 真奇怪啊……
 
---- Group [left:none next=2012] ---
+--- Group [left:none next=2012] ---G
 え？
 +[FID:7F, TEXT:0010] 咦？
 
---- Group [right:none next=2012] ---
+--- Group [right:none next=2012] ---G
 黒装束の召喚師たちは
 結界のことに気づいて
 いないのかしら？
@@ -52,7 +52,7 @@
 +[FID:7F, TEXT:0012] 难道没有察觉到
 +[FID:7F, TEXT:0013] 结界的事吗？
 
---- Group [right:拉姆达 next=2012] ---
+--- Group [right:拉姆达 next=2012] ---G
 いや、むしろ俺には
 知っていてバノッサの
 好きにさせているよう
@@ -62,7 +62,7 @@
 +[FID:7F, TEXT:0016] 却让巴诺萨
 +[FID:7F, TEXT:0017] 随意而为
 
---- Group [left:洛卡斯 next=2012] ---
+--- Group [left:洛卡斯 next=2012] ---G
 待てよ
 それじゃ、黒装束たち
 は結界を壊そうとして
@@ -72,13 +72,13 @@
 -[FID:7F, TEXT:0008] 想要破坏结界
 +[FID:7F, TEXT:001A] 吗？
 
---- Group [left:洛卡斯 next=2012] ---
+--- Group [left:洛卡斯 next=2012] ---G
 そんなことして
 何の得があるんだ！？
 +[FID:7F, TEXT:001B] 做那种事
 +[FID:7F, TEXT:001C] 有什么好处！？
 
---- Group [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---G
 そんなことして
 なんの得にもならない
 じゃないですか・・・
@@ -86,7 +86,7 @@
 +[FID:7F, TEXT:002C] 一点好处都没有
 +[FID:7F, TEXT:002D] 吧……
 
---- Group [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---G
 そうだよ
 結界が壊れたら、この
 世界が滅びるかもしれ
@@ -96,7 +96,7 @@
 +[FID:7F, TEXT:001F] 这个世界可能会
 +[FID:7F, TEXT:0020] 毁灭的啊
 
---- Group [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---G
 どういうことなんだ
 結界が壊れたら、この
 世界が滅びてしまうの
@@ -106,7 +106,7 @@
 +[FID:7F, TEXT:0022] 这个世界明明
 +[FID:7F, TEXT:0023] 就会毁灭啊
 
---- Group [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---G
 結界が壊れたら
 この世界も滅びるかも
 知れないんでしょ
@@ -116,7 +116,7 @@
 +[FID:7F, TEXT:0026] 毁灭的吧
 +[FID:7F, TEXT:0027] 既然如此为什么？
 
---- Group [left:主人公 next=2012] ---
+--- Group [left:主人公 next=2012] ---G
 そうですよ！
 結界が壊れたら、
 この世界が滅びるかも
@@ -126,33 +126,33 @@
 +[FID:7F, TEXT:002A] 这个世界可能会
 +[FID:7F, TEXT:002B] 毁灭的啊！
 
---- Group [right:克拉蕾特 next=2012] ---
+--- Group [right:克拉蕾特 next=2012] ---G
 滅ぼす気でいると
 したら？
 +[FID:7F, TEXT:002E] 如果他们存心要毁灭
 +[FID:7F, TEXT:002F] 的话呢？
 
---- Group [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---G
 ・・・！？
 +[FID:7F, TEXT:0030] 这……！？
 
---- Group [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---G
 ちょっと！
 どういう・・・！？
 +[FID:7F, TEXT:0031] 喂！
 +[FID:7F, TEXT:0032] 什么意思……！？
 
---- Group [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---G
 え・・・？
 +[FID:7F, TEXT:0033] 诶……？
 
---- Group [left:吉布森 next=2012] ---
+--- Group [left:吉布森 next=2012] ---G
 馬鹿な・・・
 いくらなんでも・・・
 +[FID:7F, TEXT:0034] 不可能……
 +[FID:7F, TEXT:0035] 再怎么说也……
 
---- Group [right:加泽尔 next=2012] ---
+--- Group [right:加泽尔 next=2012] ---G
 ケッ！
 奴らが何を企んでいよ
 うが、宝玉を取り返せ
@@ -162,13 +162,13 @@
 +[FID:7F, TEXT:0038] 只要把宝玉夺回来
 +[FID:7F, TEXT:0039] 就没问题了
 
---- Group [right:加泽尔 next=2012] ---
+--- Group [right:加泽尔 next=2012] ---G
 早いとこ、バノッサの
 いる城へ行こうぜ！！
 +[FID:7F, TEXT:003A] 快点，巴诺萨
 +[FID:7F, TEXT:003B] 所在的城堡去吧！！
 
---- Group [right:加泽尔 next=0026] ---
+--- Group [right:加泽尔 next=0026] ---G
 【自分の部屋】
 
 
@@ -217,8 +217,8 @@
 +[FID:7F, TEXT:003C] 【自己的房间】
 +[FID:7F, TEXT:0000] 
 -[FID:7F, TEXT:0000] 
-+[FID:7F, TEXT:003D] 【莉普蕾和孩子的房间
--[FID:7F, TEXT:0000] 】
++[FID:7F, TEXT:003D] 【莉普蕾和儿童房】
+-[FID:7F, TEXT:0000] 
 -[FID:7F, TEXT:0000] 
 +[FID:7F, TEXT:003E] 【玄关】
 -[FID:7F, TEXT:0000] 
@@ -247,7 +247,7 @@
 +[FID:7F, TEXT:0046] 【房间５】
 -[FID:7F, TEXT:0000] 
 -[FID:7F, TEXT:0000] 
-+[FID:7F, TEXT:0047] 【阁楼】
++[FID:7F, TEXT:0047] 【阁楼房间】
 -[FID:7F, TEXT:0000] 
 -[FID:7F, TEXT:0000] 
 +[FID:7F, TEXT:0048] 【大厅】
