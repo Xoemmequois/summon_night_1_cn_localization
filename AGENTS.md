@@ -60,7 +60,10 @@ Then:           raw strings — Shift-JIS, each terminated by 0x00 0x00.
                 Actual byte position of string[i] = offsets[i] × 2.
 ```
 
-Control characters: `0x4000` = `@`; adjacent `0x4000 0x6E00` compressed to `\x40\x6E` during rip. During build, `@` → `0x4000`, `n` → `0x6E00`.
+Control characters: `@` (unit `0x4000`) spans **3 units** (6 bytes): `0x4000` + param1 + param2.
+`@n` is stored as `40 00 6E 00 00 00` — the trailing `00 00` is a control param, NOT the string
+terminator. During rip, `@n` → `\x40\x6E` and reading continues past the `00 00`. During build,
+`@` → `0x4000`, `n` → `0x6E00`, and the 3rd unit `00 00` must be written back.
 
 Chinese characters use custom encoding:
 - `0x85xx` → index `(b0 - 0x85) × 256 + b1` (0–767)

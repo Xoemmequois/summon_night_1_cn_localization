@@ -77,21 +77,21 @@ public class GameTextRipper(Config config)
                 byte b1 = contents[start * 2 + index + 1];
                 if (b0 == 0 && b1 == 0) break;
 
-                // rb: str.gsub!("\x40\x00\x6E\x00", "\x40\x6E")
-                // rb logic seems to handle 2-byte units, so \x40\x00 is a character, \x6E\x00 is a character
+                // @ control char spans 3 units (6 bytes): 0x4000, param1, param2.
+                // "@n" is stored as 40 00 6E 00 00 00 — the trailing 00 00 is a
+                // control param, NOT the string terminator. Compress to \x40\x6E
+                // and keep reading so the following text is not dropped.
                 if (b0 == 0x40 && b1 == 0x00)
                 {
+                    strBytes.Add(0x40);
                     if (start * 2 + index + 3 < contents.Length &&
                         contents[start * 2 + index + 2] == 0x6E &&
                         contents[start * 2 + index + 3] == 0x00)
                     {
-                        // In rb: contents[start * 2 + index] + contents[start * 2 + index + 1] -> \x40\x00
-                        // then gsub replaces \x40\x00\x6E\x00 with \x40\x6E
-                        strBytes.Add(0x40);
                         strBytes.Add(0x6E);
-                        index += 4;
-                        continue;
                     }
+                    index += 6;
+                    continue;
                 }
 
                 strBytes.Add(b0);

@@ -205,17 +205,40 @@ internal static class Program
                 str.Add(b0);
                 str.Add(b1);
                 index += 2;
+
+                // @ control char spans 3 units (6 bytes): 0x4000, param1, param2.
+                // Preserve all 3 units so untranslated strings round-trip exactly.
+                if (b0 == 0x40 && b1 == 0x00)
+                {
+                    str.Add(contents[start * 2 + index]);
+                    str.Add(contents[start * 2 + index + 1]);
+                    index += 2;
+                    str.Add(contents[start * 2 + index]);
+                    str.Add(contents[start * 2 + index + 1]);
+                    index += 2;
+                }
             }
 
             if (Hash.TryGetValue((id, i), out var replacement))
             {
                 str.Clear();
-                foreach (var ch in replacement)
+                for (var ci = 0; ci < replacement.Length; ci++)
                 {
+                    var ch = replacement[ci];
                     if (ch == '@')
                     {
                         str.Add(0x40);
                         str.Add(0x00);
+                        // @ control spans 3 units. "@n" must be written back as
+                        // 40 00 6E 00 00 00 (the trailing 00 00 is the 3rd control unit).
+                        if (ci + 1 < replacement.Length && replacement[ci + 1] == 'n')
+                        {
+                            str.Add(0x6E);
+                            str.Add(0x00);
+                            str.Add(0x00);
+                            str.Add(0x00);
+                            ci++;
+                        }
                         continue;
                     }
 
