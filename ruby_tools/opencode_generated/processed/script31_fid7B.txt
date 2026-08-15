@@ -1,14 +1,14 @@
---- Group [left:加泽尔 next=2012] ---
+--- Group [left:加泽尔 next=2012] ---G
 うげ、何だよこれは？
 +[FID:7B, TEXT:0001] 呜哇，这什么东西啊？
 
---- Group [right:斯沃恩 next=2012] ---
+--- Group [right:斯沃恩 next=2012] ---G
 とんでもない大きさの
 建物ですね
 +[FID:7B, TEXT:0002] 真是超大的
 +[FID:7B, TEXT:0003] 建筑物啊
 
---- Group [right:洛卡斯 next=2012] ---
+--- Group [right:洛卡斯 next=2012] ---G
 荒野の果てに、こんな
 代物が転がっていたと
 はな・・・
@@ -16,7 +16,7 @@
 +[FID:7B, TEXT:0005] 竟然有这种东西
 +[FID:7B, TEXT:0006] 真是没想到啊……
 
---- Group [left:吉布森 next=2012] ---
+--- Group [left:吉布森 next=2012] ---G
 朽ちゆく鉄の棺、か
 エルゴの言っていたの
 はこいつのことだな
@@ -24,17 +24,17 @@
 +[FID:7B, TEXT:0008] 埃尔戈所说的
 +[FID:7B, TEXT:0009] 就是这东西吧
 
---- Group [left:吉布森 next=2012] ---
+--- Group [left:吉布森 next=2012] ---G
 とにかく、中に入って
 調べてみよう
 +[FID:7B, TEXT:000A] 总之，先进去
 +[FID:7B, TEXT:000B] 调查一下吧
 
---- Group [left:主人公 next=2012] ---
+--- Group [left:主人公 next=2012] ---G
 ・・・！？
 +[FID:7B, TEXT:000C] ……！？
 
---- Group [right:加泽尔 next=2012] ---
+--- Group [right:加泽尔 next=2012] ---G
 どうやら、向こうから
 出てきてくれたみたい
 だぜ？
@@ -42,7 +42,7 @@
 +[FID:7B, TEXT:000E] 出来找我们了
 +[FID:7B, TEXT:000F] 是吧？
 
---- Group [right:埃尔金 next=2012] ---
+--- Group [right:埃尔金 next=2012] ---G
 いらっしゃい
 キミたちが、エルゴの
 試練を受けに来たって
@@ -52,31 +52,31 @@
 +[FID:7B, TEXT:0012] 接受埃尔戈的考验
 +[FID:7B, TEXT:0013] 的人吧？
 
---- Group [left:伊利亚斯 next=2012] ---
+--- Group [left:伊利亚斯 next=2012] ---G
 まさか君が、エルゴの
 守護者なのか？
 +[FID:7B, TEXT:0014] 难道你就是埃尔戈
 +[FID:7B, TEXT:0015] 的守护者？
 
---- Group [left:塞萨莉斯 next=2012] ---
+--- Group [left:塞萨莉斯 next=2012] ---G
 こんな子供が・・・？
 +[FID:7B, TEXT:0016] 这么小的孩子……？
 
---- Group [right:埃尔金 next=2012] ---
+--- Group [right:埃尔金 next=2012] ---G
 やだなあ、外見だけで
 判断しないでよ
 +[FID:7B, TEXT:0017] 讨厌啦，别光凭外表
 +[FID:7B, TEXT:0018] 来判断嘛
 
---- Group [right:埃尔金 next=2012] ---
+--- Group [right:埃尔金 next=2012] ---G
 こう見えても、ボクは
 ロレイラルのエルゴの
 れっきとした守護者
 +[FID:7B, TEXT:0019] 别看我这样，我
-+[FID:7B, TEXT:001A] 可是罗雷拉尔
++[FID:7B, TEXT:001A] 可是罗雷拉尔的
 +[FID:7B, TEXT:001B] 埃尔戈的正牌守护者
 
---- Group [right:埃尔金 next=2012] ---
+--- Group [right:埃尔金 next=2012] ---G
 【機界の探求者】
 エルジン・ノイラーム
 って言うんだ
@@ -84,35 +84,35 @@
 +[FID:7B, TEXT:001D] 埃尔金·诺伊拉姆
 +[FID:7B, TEXT:001E] 就是我
 
---- Group [left:吉布森 next=2012] ---
+--- Group [left:吉布森 next=2012] ---G
 ノイラーム・・・
 あの、変わり者だった
 ノイラーム家の関係者
 なのか！？
 +[FID:7B, TEXT:001F] 诺伊拉姆……
-+[FID:7B, TEXT:0020] 难道你是那个
-+[FID:7B, TEXT:0021] 怪人诺伊拉姆家的
-+[FID:7B, TEXT:0022] 相关者！？
++[FID:7B, TEXT:0020] 难道你和那个
++[FID:7B, TEXT:0021] 怪人诺伊拉姆家
++[FID:7B, TEXT:0022] 有什么关系！？
 
---- Group [right:主人公 next=0023] ---
+--- Group [right:主人公 next=0023] ---G
 知りあいなのか
 ギブソン？
 +[FID:7B, TEXT:0023] 是熟人吗
 +[FID:7B, TEXT:0024] 吉布森？
 
---- Group [right:主人公 next=0023] ---
+--- Group [right:主人公 next=0023] ---G
 ギブソン・・・
 その人知り合い？
 +[FID:7B, TEXT:0025] 吉布森……
 +[FID:7B, TEXT:0026] 你认识那个人？
 
---- Group [right:主人公 next=0023] ---
+--- Group [right:主人公 next=0023] ---G
 ギブソンさん、
 お知り合いですか？
 +[FID:7B, TEXT:0027] 吉布森先生，
 +[FID:7B, TEXT:0028] 是您的熟人吗？
 
---- Group [left:吉布森 next=2012] ---
+--- Group [left:吉布森 next=2012] ---G
 ああ、ノイラーム家は
 以前【蒼の派閥】に
 属していた召喚師だ
@@ -120,49 +120,49 @@
 +[FID:7B, TEXT:002A] 以前属于【苍之派阀】
 +[FID:7B, TEXT:002B] 的召唤师
 
---- Group [left:科莫扎 next=2012] ---
+--- Group [left:科莫扎 next=2012] ---G
 今では大半が失われて
 しまったロレイラルの
 召喚術を研究していた
 んだけど・・・
-+[FID:7B, TEXT:002C] 如今大半已经失传
-+[FID:7B, TEXT:002D] 的罗雷拉尔召唤术
-+[FID:7B, TEXT:002E] 他曾研究过
++[FID:7B, TEXT:002C] 他曾研究过如今
++[FID:7B, TEXT:002D] 大半已经失传的
++[FID:7B, TEXT:002E] 罗雷拉尔召唤术
 +[FID:7B, TEXT:002F] 不过……
 
---- Group [left:科莫扎 next=2012] ---
+--- Group [left:科莫扎 next=2012] ---G
 親子で調査の旅に出た
 まま、もう何年も行方
 が知れなかったのよ
-+[FID:7B, TEXT:0030] 他们父子去调查后
-+[FID:7B, TEXT:0031] 就这样，多年
-+[FID:7B, TEXT:0032] 下落不明了
++[FID:7B, TEXT:0030] 当年他们父子一起外出
++[FID:7B, TEXT:0031] 调查，就这样下落不明
++[FID:7B, TEXT:0032] 已经过了多年
 
---- Group [right:加泽尔 next=2012] ---
+--- Group [right:加泽尔 next=2012] ---G
 それがどうして守護者
 になってんだ？
 +[FID:7B, TEXT:0033] 那他怎么就成了
 +[FID:7B, TEXT:0034] 守护者了？
 
---- Group [right:加泽尔 next=2012] ---
+--- Group [right:加泽尔 next=2012] ---G
 それはね、彼がボクを
 助けてくれたからだよ
 +[FID:7B, TEXT:0035] 那是因为
 +[FID:7B, TEXT:0036] 他救了我啊
 
---- Group [left:科莫扎 next=0023] ---
+--- Group [left:科莫扎 next=0023] ---G
 彼・・・？
 +[FID:7B, TEXT:0037] 他……？
 
---- Group [left:科莫扎 next=0023] ---
+--- Group [left:科莫扎 next=0023] ---G
 彼・・・だれ？
 +[FID:7B, TEXT:0038] 他……是谁？
 
---- Group [right:伽乌姆 next=2012] ---
+--- Group [right:伽乌姆 next=2012] ---G
 きゅーっ！
 +[FID:7B, TEXT:0039] 啾——！
 
---- Group [right:洛卡斯 next=2012] ---
+--- Group [right:洛卡斯 next=2012] ---G
 気をつけろ！
 奥から何か
 出てくるぞ！！
@@ -170,35 +170,35 @@
 +[FID:7B, TEXT:003B] 有什么从里面
 +[FID:7B, TEXT:003C] 出来了！！
 
---- Group [right:埃斯加尔德 next=2012] ---
+--- Group [right:埃斯加尔德 next=2012] ---G
 ・・・・・・
 +[FID:7B, TEXT:003D] ……
 
---- Group [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---G
 これって
 ロボットなのか？
 +[FID:7B, TEXT:003E] 这个
 +[FID:7B, TEXT:003F] 是机器人吗？
 
---- Group [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---G
 これって
 ロボットじゃない！
 -[FID:7B, TEXT:003E] 这个
-+[FID:7B, TEXT:0040] 不是机器人！
++[FID:7B, TEXT:0040] 不就是机器人吗！
 
---- Group [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---G
 これって
 ロボット・・・？
 -[FID:7B, TEXT:003E] 这个
 +[FID:7B, TEXT:0041] 机器人……？
 
---- Group [right:克拉蕾特 next=2012] ---
+--- Group [right:克拉蕾特 next=2012] ---G
 まさか、ロレイラルの
 機械兵士・・・
 +[FID:7B, TEXT:0042] 难道是罗雷拉尔的
 +[FID:7B, TEXT:0043] 机械士兵……
 
---- Group [left:科莫扎 next=2012] ---
+--- Group [left:科莫扎 next=2012] ---G
 それって、大昔の戦争
 で暴れ回ったっていう
 アレのことなの！？
@@ -206,79 +206,79 @@
 +[FID:7B, TEXT:0045] 中传说暴走的
 +[FID:7B, TEXT:0046] 东西吗！？
 
---- Group [right:埃尔金 next=2012] ---
+--- Group [right:埃尔金 next=2012] ---G
 エスガルドは、そんな
 ことはしないよ！
 +[FID:7B, TEXT:0047] 埃斯加尔德不会
 +[FID:7B, TEXT:0048] 做那种事的！
 
---- Group [right:埃尔金 next=2012] ---
+--- Group [right:埃尔金 next=2012] ---G
 調査中の事故で、この
 遺跡に閉じこめられた
 ボクを、エスガルドは
 助けてくれたんだ
 +[FID:7B, TEXT:0049] 调查途中遇到事故，
-+[FID:7B, TEXT:004A] 被困在这座遗迹的
-+[FID:7B, TEXT:004B] 我，是埃斯加尔德
++[FID:7B, TEXT:004A] 我被困在这座遗迹
++[FID:7B, TEXT:004B] 是埃斯加尔德
 +[FID:7B, TEXT:004C] 救了我
 
---- Group [right:埃尔金 next=2012] ---
+--- Group [right:埃尔金 next=2012] ---G
 事故で父さんを亡くし
 てしまったボクのこと
 を、ずっと守ってきて
 くれたんだから！
-+[FID:7B, TEXT:004D] 因事故失去父亲
-+[FID:7B, TEXT:004E] 的我，他一直
-+[FID:7B, TEXT:004F] 守护着
++[FID:7B, TEXT:004D] 我因事故失去父亲
++[FID:7B, TEXT:004E] 是他一直
++[FID:7B, TEXT:004F] 守护着我
 +[FID:7B, TEXT:0050] 啊！
 
---- Group [left:斯沃恩 next=2012] ---
+--- Group [left:斯沃恩 next=2012] ---G
 そうだったんですか
 +[FID:7B, TEXT:0051] 原来是这样啊
 
---- Group [left:佩尔戈 next=2012] ---
+--- Group [left:佩尔戈 next=2012] ---G
 すると、本来の守護者
 にあたるのは
 +[FID:7B, TEXT:0052] 那么，原本的守护者
 +[FID:7B, TEXT:0053] 指的是
 
---- Group [right:埃斯加尔德 next=2012] ---
+--- Group [right:埃斯加尔德 next=2012] ---G
 コノ私ダ・・・
 +[FID:7B, TEXT:0054] 正是我……
 
---- Group [left:洛卡斯 next=2012] ---
+--- Group [left:洛卡斯 next=2012] ---G
 しゃべれるのか
 こいつ！？
 +[FID:7B, TEXT:0055] 这家伙居然
 +[FID:7B, TEXT:0056] 会说话！？
 
---- Group [right:埃斯加尔德 next=2012] ---
+--- Group [right:埃斯加尔德 next=2012] ---G
 我ガ名ハ、エスガルド
 エルゴノ守護者・・・
 +[FID:7B, TEXT:0057] 吾名为埃斯加尔德，
 +[FID:7B, TEXT:0058] 埃尔戈的守护者……
 
---- Group [right:埃斯加尔德 next=2012] ---
+--- Group [right:埃斯加尔德 next=2012] ---G
 誓約者タリエル者ヨ
 貴方ヲ守ルコトモマタ
 我ラノ役目ナノダ
-+[FID:7B, TEXT:0059] 誓约者塔利埃尔啊
++[FID:7B, TEXT:0059] 欲成为誓约者之人啊
 +[FID:7B, TEXT:00BD] 守护你同样
 +[FID:7B, TEXT:00BE] 也是我们的职责
 
---- Group [right:埃斯加尔德 next=2012] ---
+--- Group [right:埃斯加尔德 next=2012] ---G
 誓約者タリエル者ヨ
 我ト戦イ、ソノ資格ヲ
 示シテミセヨ・・・
--[FID:7B, TEXT:0059] 誓约者塔利埃尔啊
+-[FID:7B, TEXT:0059] 欲成为誓约者之人啊
 +[FID:7B, TEXT:005A] 与我一战，让我看看
 +[FID:7B, TEXT:005B] 你的资格……
 
---- Group [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---G
 ああ、わかってる
 +[FID:7B, TEXT:005C] 啊啊，我知道
 
---- Group [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---G
 ああ、わかってる
 俺たちの力、しっかり
 見極めてくれよ
@@ -286,7 +286,7 @@
 +[FID:7B, TEXT:005D] 我们的力量，好好
 +[FID:7B, TEXT:005E] 看个清楚吧
 
---- Group [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---G
 うん、わかってる
 あたしたちの力
 見逃さないように
@@ -296,7 +296,7 @@
 +[FID:7B, TEXT:0061] 可别错过了
 +[FID:7B, TEXT:0062] 哦……！
 
---- Group [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---G
 わかっています
 私たちの力を・・・
 しっかり
@@ -306,25 +306,25 @@
 +[FID:7B, TEXT:0065] 请好好
 +[FID:7B, TEXT:0066] 确认一下吧
 
---- Group [right:埃斯加尔德 next=2012] ---
+--- Group [right:埃斯加尔德 next=2012] ---G
 サア、下ガリナサイ
 エルジン・・・
 +[FID:7B, TEXT:0067] 来吧，退下吧
 +[FID:7B, TEXT:0068] 埃尔金……
 
---- Group [right:埃斯加尔德 next=2012] ---
+--- Group [right:埃斯加尔德 next=2012] ---G
 エルジン・・・
 無茶ハスルナヨ？
 -[FID:7B, TEXT:0068] 埃尔金……
 +[FID:7B, TEXT:0075] 可别乱来啊？
 
---- Group [left:埃尔金 next=2012] ---
+--- Group [left:埃尔金 next=2012] ---G
 イヤだよ
 ボクも一緒に戦う！
 +[FID:7B, TEXT:0069] 不要嘛
 +[FID:7B, TEXT:006A] 我也要一起战斗！
 
---- Group [left:埃尔金 next=2012] ---
+--- Group [left:埃尔金 next=2012] ---G
 ボクだって守護者だ
 エスガルドの手伝いが
 したいんだよ！！
@@ -332,21 +332,21 @@
 +[FID:7B, TEXT:006C] 埃斯加尔德的忙
 +[FID:7B, TEXT:006D] 我想帮啊！！
 
---- Group [right:埃斯加尔德 next=2012] ---
+--- Group [right:埃斯加尔德 next=2012] ---G
 シカシ・・・
 +[FID:7B, TEXT:006E] 可是……
 
---- Group [left:加泽尔 next=2012] ---
+--- Group [left:加泽尔 next=2012] ---G
 そいつの好きに
 させてやれよ
 +[FID:7B, TEXT:006F] 随他的意思
 +[FID:7B, TEXT:0070] 让他去做吧
 
---- Group [left:斯沃恩 next=2012] ---
+--- Group [left:斯沃恩 next=2012] ---G
 僕たちは構いません
 +[FID:7B, TEXT:0071] 我们不介意
 
---- Group [left:塞萨莉斯 next=2012] ---
+--- Group [left:塞萨莉斯 next=2012] ---G
 これから始まるのは、
 戦いで、殺し合いでは
 ないのですから
@@ -354,11 +354,11 @@
 +[FID:7B, TEXT:0073] 是战斗，不是互相厮杀
 +[FID:7B, TEXT:0074] 所以请放心
 
---- Group [left:埃尔金 next=2012] ---
+--- Group [left:埃尔金 next=2012] ---G
 うん、わかってるよ！
 +[FID:7B, TEXT:0076] 嗯，我知道啦！
 
---- Group [right:埃斯加尔德 next=2012] ---
+--- Group [right:埃斯加尔德 next=2012] ---G
 デハ
 行クゾ
 誓約者タリエル者ヨ！
@@ -366,7 +366,7 @@
 +[FID:7B, TEXT:0078] 上了！
 +[FID:7B, TEXT:0079] 誓约者塔利埃尔啊！
 
---- Group [left:主人公 next=2012] ---
+--- Group [left:主人公 next=2012] ---G
 よくぞ守護者を倒した
 お前の力は、誓約者の
 名にふさわしい
@@ -374,7 +374,7 @@
 +[FID:7B, TEXT:007B] 你的力量，与誓约者
 +[FID:7B, TEXT:007C] 之名十分相称
 
---- Group [left:主人公 next=2012] ---
+--- Group [left:主人公 next=2012] ---G
 我が力・・・
 ロレイラルのエルゴを
 受け取るがいい
@@ -382,55 +382,55 @@
 +[FID:7B, TEXT:007E] 罗雷拉尔的埃尔戈
 +[FID:7B, TEXT:007F] 收下吧
 
---- Group [left:主人公 next=2012] ---
+--- Group [left:主人公 next=2012] ---G
 エスガルドっ！
 しっかりしてよ！！
 +[FID:7B, TEXT:0080] 埃斯加尔德！
 +[FID:7B, TEXT:0081] 振作点！！
 
---- Group [right:none next=2012] ---
+--- Group [right:none next=2012] ---G
 大、丈夫ダ・・・
 エルジン・・・
 +[FID:7B, TEXT:0082] 没、没事……
 -[FID:7B, TEXT:0068] 埃尔金……
 
---- Group [right:none next=2012] ---
+--- Group [right:none next=2012] ---G
 コノ程度ノ損傷ナラバ
 自動的ニ修理デキル
 +[FID:7B, TEXT:0083] 这点程度的损伤
 +[FID:7B, TEXT:0084] 可以自动修复
 
---- Group [left:主人公 next=2012] ---
+--- Group [left:主人公 next=2012] ---G
 ああ、よかった
 +[FID:7B, TEXT:0085] 啊，太好了
 
---- Group [right:none next=2012] ---
+--- Group [right:none next=2012] ---G
 ドウシテ・・・
 +[FID:7B, TEXT:0086] 为什么……
 
---- Group [right:none next=2012] ---
+--- Group [right:none next=2012] ---G
 オ前タチハ、手加減ヲ
 シタノダ？
 +[FID:7B, TEXT:0087] 你们，是手下留情
 +[FID:7B, TEXT:0088] 了吧？
 
---- Group [left:主人公 next=2012] ---
+--- Group [left:主人公 next=2012] ---G
 えっ！？
 +[FID:7B, TEXT:0089] 诶！？
 
---- Group [left:主人公 next=2012] ---
+--- Group [left:主人公 next=2012] ---G
 さっき、サイサリスが
 言っただろう
 +[FID:7B, TEXT:008A] 刚才，塞萨莉斯
 +[FID:7B, TEXT:008B] 不是说了吗
 
---- Group [left:主人公 next=2012] ---
+--- Group [left:主人公 next=2012] ---G
 さっき、サイサリスが
 言ったでしょ
 -[FID:7B, TEXT:008A] 刚才，塞萨莉斯
 +[FID:7B, TEXT:0090] 不是说了嘛
 
---- Group [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---G
 俺たちは試練を受けに
 きただけで、殺し合い
 をしたいんじゃない
@@ -438,7 +438,7 @@
 +[FID:7B, TEXT:008D] 而来的，并不是想
 +[FID:7B, TEXT:008E] 互相厮杀
 
---- Group [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---G
 僕たちは試練を受けに
 きただけで、殺し合い
 をしたいんじゃない
@@ -446,19 +446,19 @@
 -[FID:7B, TEXT:008D] 而来的，并不是想
 -[FID:7B, TEXT:008E] 互相厮杀
 
---- Group [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---G
 あたしたちは試練を
 受けにきただけだって
 +[FID:7B, TEXT:0091] 我们是为了
 +[FID:7B, TEXT:0092] 接受试炼而来的啦
 
---- Group [left:主人公 next=2012] ---
+--- Group [left:主人公 next=2012] ---G
 さっきサイサリスさん
 が、言ったはずです
 +[FID:7B, TEXT:0093] 刚才塞萨莉斯小姐
 +[FID:7B, TEXT:0094] 应该说了吧
 
---- Group [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---G
 わたしたちは、試練を
 受けに来ただけです
 殺し合うために、
@@ -468,7 +468,7 @@
 +[FID:7B, TEXT:0097] 不是为了互相厮杀
 +[FID:7B, TEXT:0098] 才来的
 
---- Group [right:埃尔金 next=2012] ---
+--- Group [right:埃尔金 next=2012] ---G
 だけど、ボクは本気で
 貴方たちを攻撃したん
 だよ！？
@@ -476,13 +476,13 @@
 +[FID:7B, TEXT:009A] 攻击了你们
 +[FID:7B, TEXT:009B] 啊！？
 
---- Group [left:拉姆达 next=2012] ---
+--- Group [left:拉姆达 next=2012] ---G
 大事なものを守るため
 ならば、当然のことだ
 +[FID:7B, TEXT:009C] 如果是守护重要的
 +[FID:7B, TEXT:009D] 东西，那是当然的
 
---- Group [left:伊利亚斯 next=2012] ---
+--- Group [left:伊利亚斯 next=2012] ---G
 エスガルドはそれだけ
 君にとって大切な存在
 なんだろう？
@@ -490,21 +490,21 @@
 +[FID:7B, TEXT:009F] 来说是那么重要的
 +[FID:7B, TEXT:00A0] 存在吧？
 
---- Group [right:埃尔金 next=2012] ---
+--- Group [right:埃尔金 next=2012] ---G
 ・・・うん
 +[FID:7B, TEXT:00A1] 嗯……
 
---- Group [left:主人公 next=2012] ---
+--- Group [left:主人公 next=2012] ---G
 エルゴを守るって役目
 は終わったんでしょ！
 戦う理由は
 ないんじゃない？
 +[FID:7B, TEXT:00A2] 守护埃尔戈的使命
 +[FID:7B, TEXT:00AB] 已经结束了吧！
-+[FID:7B, TEXT:00AC] 战斗的理由
-+[FID:7B, TEXT:00AD] 没有了不是？
++[FID:7B, TEXT:00AC] 已经没有战斗
++[FID:7B, TEXT:00AD] 的理由了吧？
 
---- Group [left:主人公 next=2012] ---
+--- Group [left:主人公 next=2012] ---G
 エルゴを守るって役目
 は終わったんだから、
 もう君たちが戦う必要
@@ -514,13 +514,13 @@
 +[FID:7B, TEXT:00A4] 你们已经没有战斗
 +[FID:7B, TEXT:00A5] 的必要了
 
---- Group [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---G
 どこかでさ、二人して
 ゆっくり休むといいよ
 +[FID:7B, TEXT:00A6] 找个地方，你们俩
 +[FID:7B, TEXT:00A7] 好好休息一下吧
 
---- Group [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---G
 これからは、自分たち
 の思うように暮らして
 いくといい
@@ -528,17 +528,17 @@
 +[FID:7B, TEXT:00A9] 的想法生活
 +[FID:7B, TEXT:00AA] 下去吧
 
---- Group [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---G
 ふたりでさ
 ゆっくり休むといいよ
 どっか、田舎にでも
 いってさ！
 +[FID:7B, TEXT:00AE] 你们俩呀
 -[FID:7B, TEXT:00A7] 好好休息一下吧
-+[FID:7B, TEXT:00AF] 去乡下什么的
-+[FID:7B, TEXT:00B0] 去一趟吧！
++[FID:7B, TEXT:00AF] 去一趟乡下之类
++[FID:7B, TEXT:00B0] 的地方吧！
 
---- Group [left:主人公 next=2012] ---
+--- Group [left:主人公 next=2012] ---G
 エルゴを守る役目は
 終わったんですから、
 もう、戦う必要は
@@ -548,7 +548,7 @@
 +[FID:7B, TEXT:00B3] 已经没有战斗的
 +[FID:7B, TEXT:00B4] 必要了……
 
---- Group [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---G
 どこかで、ふたりで
 ゆっくり
 休んでください
@@ -556,7 +556,7 @@
 +[FID:7B, TEXT:00B6] 一起
 +[FID:7B, TEXT:00B7] 好好休息吧
 
---- Group [right:埃尔金 next=2012] ---
+--- Group [right:埃尔金 next=2012] ---G
 ううん
 ボクたちには、新しく
 やることができたから
@@ -566,21 +566,21 @@
 +[FID:7B, TEXT:00BA] 要做的事情
 +[FID:7B, TEXT:00BB] 休息还太早哦
 
---- Group [right:埃尔金 next=2012] ---
+--- Group [right:埃尔金 next=2012] ---G
 ね、エスガルド？
 +[FID:7B, TEXT:00BC] 对吧，埃斯加尔德？
 
---- Group [right:埃尔金 next=2012] ---
+--- Group [right:埃尔金 next=2012] ---G
 そういうことだからさ
 よろしく頼むねっ！
 +[FID:7B, TEXT:00BF] 就是这么回事啊
 +[FID:7B, TEXT:00C0] 就拜托你啦！
 
---- Group [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---G
 ああ、よろしく
 +[FID:7B, TEXT:00C1] 啊，拜托了
 
---- Group [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---G
 え・・・あ、あの
 ・・・よろしくね！
 +[FID:7B, TEXT:00C2] 诶……啊，那个……
