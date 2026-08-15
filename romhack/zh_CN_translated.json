@@ -151353,7 +151353,7 @@
   {
     "key": "0103-0535",
     "original": "エルカがここに残るの",
-    "translation": "艾露卡留在这里",
+    "translation": "埃尔卡留在这里",
     "stage": 3
   },
   {
@@ -151371,7 +151371,7 @@
   {
     "key": "0103-0538",
     "original": "エルカはあんたと",
-    "translation": "艾露卡和你",
+    "translation": "埃尔卡和你",
     "stage": 3
   },
   {
@@ -152421,772 +152421,926 @@
   {
     "key": "0105-0001",
     "original": "あんたたちってさ",
-    "translation": ""
+    "translation": "你们这些人啊",
+    "stage": 3
   },
   {
     "key": "0105-0002",
     "original": "ホントに次から次へと",
-    "translation": ""
+    "translation": "真是一个接一个地",
+    "stage": 3
   },
   {
     "key": "0105-0003",
     "original": "やらかすよねぇ？",
-    "translation": ""
+    "translation": "惹祸呢？",
+    "stage": 3
   },
   {
     "key": "0105-0004",
     "original": "ふ、不可抗力だ・・・",
-    "translation": ""
+    "translation": "呼、是不可抗力啊……",
+    "stage": 3
   },
   {
     "key": "0105-0005",
     "original": "ふ、不可抗力だよ！",
-    "translation": ""
+    "translation": "呼、是不可抗力啦！",
+    "stage": 3
   },
   {
     "key": "0105-0006",
     "original": "・・・不可抗力です",
-    "translation": ""
+    "translation": "……是不可抗力",
+    "stage": 3
   },
   {
     "key": "0105-0007",
     "original": "悪いのはそこの",
-    "translation": ""
+    "translation": "错的是那个",
+    "stage": 3
   },
   {
     "key": "0105-0008",
     "original": "間抜けなレビットよ！",
-    "translation": ""
+    "translation": "呆头呆脑的利比特！",
+    "stage": 3
   },
   {
     "key": "0105-0009",
     "original": "エルカのせいじゃ",
-    "translation": ""
+    "translation": "不是艾尔卡的",
+    "stage": 3
   },
   {
     "key": "0105-0010",
     "original": "ないわっ！！",
-    "translation": ""
+    "translation": "错啦！！",
+    "stage": 3
   },
   {
     "key": "0105-0011",
     "original": "ごめんなさいですの",
-    "translation": ""
+    "translation": "真是抱歉呢",
+    "stage": 3
   },
   {
     "key": "0105-0012",
     "original": "それにしても、なんだ",
-    "translation": ""
+    "translation": "话说回来，为什么",
+    "stage": 3
   },
   {
     "key": "0105-0013",
     "original": "って連中の屋敷に",
-    "translation": ""
+    "translation": "你要进那些家伙的",
+    "stage": 3
   },
   {
     "key": "0105-0014",
     "original": "入ろうとしたんだ？",
-    "translation": ""
+    "translation": "宅邸里去啊？",
+    "stage": 3
   },
   {
     "key": "0105-0015",
     "original": "あんたたちには関係",
-    "translation": ""
+    "translation": "跟你们没有",
+    "stage": 3
   },
   {
     "key": "0105-0016",
     "original": "ないでしょっ！",
-    "translation": ""
+    "translation": "关系吧！",
+    "stage": 3
   },
   {
     "key": "0105-0017",
     "original": "助けてもらっといて、",
-    "translation": ""
+    "translation": "明明是我们帮了你，",
+    "stage": 3
   },
   {
     "key": "0105-0018",
     "original": "その言いぐさは",
-    "translation": ""
+    "translation": "这种话",
+    "stage": 3
   },
   {
     "key": "0105-0019",
     "original": "なんだよ！？",
-    "translation": ""
+    "translation": "算什么啊！？",
+    "stage": 3
   },
   {
     "key": "0105-0020",
     "original": "フンッ！",
-    "translation": ""
+    "translation": "哼！",
+    "stage": 3
   },
   {
     "key": "0105-0021",
     "original": "勝手に助けたんでしょ",
-    "translation": ""
+    "translation": "是你们自己要帮的吧",
+    "stage": 3
   },
   {
     "key": "0105-0022",
     "original": "んだとぉ・・・",
-    "translation": ""
+    "translation": "你说什么……",
+    "stage": 3
   },
   {
     "key": "0105-0023",
     "original": "ガキ同士で、",
-    "translation": ""
+    "translation": "小屁孩之间，",
+    "stage": 3
   },
   {
     "key": "0105-0024",
     "original": "なに熱くなってんだよ",
-    "translation": ""
+    "translation": "较什么劲啊",
+    "stage": 3
   },
   {
     "key": "0105-0025",
     "original": "そんなことより",
-    "translation": ""
+    "translation": "比起那个",
+    "stage": 3
   },
   {
     "key": "0105-0026",
     "original": "@n",
-    "translation": ""
+    "translation": "@n",
+    "stage": 3
   },
   {
     "key": "0105-0027",
     "original": "こいつをどうする気だ",
-    "translation": ""
+    "translation": "你打算怎么处置这家伙",
+    "stage": 3
   },
   {
     "key": "0105-0028",
     "original": "どうしよう？",
-    "translation": ""
+    "translation": "怎么办？",
+    "stage": 3
   },
   {
     "key": "0105-0029",
     "original": "　ほっとけないだろ",
-    "translation": ""
+    "translation": "　不能放着不管吧",
+    "stage": 3
   },
   {
     "key": "0105-0030",
     "original": "　エルカはどうしたい？",
-    "translation": ""
+    "translation": "　艾尔卡你想怎么办？",
+    "stage": 3
   },
   {
     "key": "0105-0031",
     "original": "　ほっとけないよ",
-    "translation": ""
+    "translation": "　不能放着不管啊",
+    "stage": 3
   },
   {
     "key": "0105-0032",
     "original": "　ほっとけないじゃん",
-    "translation": ""
+    "translation": "　不能放着不管嘛",
+    "stage": 3
   },
   {
     "key": "0105-0033",
     "original": "　ほっとけないんです",
-    "translation": ""
+    "translation": "　不能放着不管的",
+    "stage": 3
   },
   {
     "key": "0105-0034",
     "original": "ほっとけないだろ",
-    "translation": ""
+    "translation": "不能放着不管吧",
+    "stage": 3
   },
   {
     "key": "0105-0035",
     "original": "こいつ、はぐれ召喚獣",
-    "translation": ""
+    "translation": "这家伙，像迷途召唤兽",
+    "stage": 3
   },
   {
     "key": "0105-0036",
     "original": "みたいだし",
-    "translation": ""
+    "translation": "的样子",
+    "stage": 3
   },
   {
     "key": "0105-0037",
     "original": "ほっとけないよ",
-    "translation": ""
+    "translation": "不能放着不管啊",
+    "stage": 3
   },
   {
     "key": "0105-0038",
     "original": "この子、はぐれ召喚獣",
-    "translation": ""
+    "translation": "这孩子，像迷途召唤兽",
+    "stage": 3
   },
   {
     "key": "0105-0039",
     "original": "ほっとけないじゃん",
-    "translation": ""
+    "translation": "不能放着不管嘛",
+    "stage": 3
   },
   {
     "key": "0105-0040",
     "original": "ほっとけないんです",
-    "translation": ""
+    "translation": "不能放着不管的",
+    "stage": 3
   },
   {
     "key": "0105-0041",
     "original": "みたいですし・・・",
-    "translation": ""
+    "translation": "的样子……",
+    "stage": 3
   },
   {
     "key": "0105-0042",
     "original": "ま、そうするだろうと",
-    "translation": ""
+    "translation": "嘛，我就猜到",
+    "stage": 3
   },
   {
     "key": "0105-0043",
     "original": "は思ってたがな",
-    "translation": ""
+    "translation": "你会这么做了",
+    "stage": 3
   },
   {
     "key": "0105-0044",
     "original": "ちょっと、勝手に決め",
-    "translation": ""
+    "translation": "喂，别擅自",
+    "stage": 3
   },
   {
     "key": "0105-0045",
     "original": "ないでよっ！",
-    "translation": ""
+    "translation": "决定啊！",
+    "stage": 3
   },
   {
     "key": "0105-0046",
     "original": "エルカはエルカよっ",
-    "translation": ""
+    "translation": "艾尔卡就是艾尔卡",
+    "stage": 3
   },
   {
     "key": "0105-0047",
     "original": "はぐれなんかじゃない",
-    "translation": ""
+    "translation": "才不是什么迷途的呢",
+    "stage": 3
   },
   {
     "key": "0105-0048",
     "original": "原住民の世話になんか",
-    "translation": ""
+    "translation": "才不会让原住民",
+    "stage": 3
   },
   {
     "key": "0105-0049",
     "original": "ならないんだから！！",
-    "translation": ""
+    "translation": "照顾呢！！",
+    "stage": 3
   },
   {
     "key": "0105-0050",
     "original": "エルカさんっ！？",
-    "translation": ""
+    "translation": "艾尔卡小姐！？",
+    "stage": 3
   },
   {
     "key": "0105-0051",
     "original": "エルカはどうしたい？",
-    "translation": ""
+    "translation": "艾尔卡你想怎么办？",
+    "stage": 3
   },
   {
     "key": "0105-0052",
     "original": "エルカさんは",
-    "translation": ""
+    "translation": "艾尔卡小姐",
+    "stage": 3
   },
   {
     "key": "0105-0053",
     "original": "どうしたいんですか？",
-    "translation": ""
+    "translation": "想怎么办？",
+    "stage": 3
   },
   {
     "key": "0105-0054",
     "original": "どうするもこうするも",
-    "translation": ""
+    "translation": "什么怎么办不怎么办",
+    "stage": 3
   },
   {
     "key": "0105-0055",
     "original": "ないわよ",
-    "translation": ""
+    "translation": "的",
+    "stage": 3
   },
   {
     "key": "0105-0056",
     "original": "エルカはあの屋敷に",
-    "translation": ""
+    "translation": "艾尔卡去那宅邸",
+    "stage": 3
   },
   {
     "key": "0105-0057",
     "original": "用があるんだから",
-    "translation": ""
+    "translation": "有事要办所以",
+    "stage": 3
   },
   {
     "key": "0105-0058",
     "original": "こんなところで",
-    "translation": ""
+    "translation": "在这样的地方",
+    "stage": 3
   },
   {
     "key": "0105-0059",
     "original": "遊んでられないの！",
-    "translation": ""
+    "translation": "没工夫闲逛！",
+    "stage": 3
   },
   {
     "key": "0105-0060",
     "original": "さよならっ！！",
-    "translation": ""
+    "translation": "再见啦！！",
+    "stage": 3
   },
   {
     "key": "0105-0061",
     "original": "待てってば、エルカ",
-    "translation": ""
+    "translation": "等等啊，艾尔卡",
+    "stage": 3
   },
   {
     "key": "0105-0062",
     "original": "待つんだ、エルカ",
-    "translation": ""
+    "translation": "等等，艾尔卡",
+    "stage": 3
   },
   {
     "key": "0105-0063",
     "original": "待ってよ、エルカ",
-    "translation": ""
+    "translation": "等等啦，艾尔卡",
+    "stage": 3
   },
   {
     "key": "0105-0064",
     "original": "待ってください！",
-    "translation": ""
+    "translation": "请等一下！",
+    "stage": 3
   },
   {
     "key": "0105-0065",
     "original": "エルカさん！",
-    "translation": ""
+    "translation": "艾尔卡小姐！",
+    "stage": 3
   },
   {
     "key": "0105-0066",
     "original": "放しなさいよっ！",
-    "translation": ""
+    "translation": "放开我啦！",
+    "stage": 3
   },
   {
     "key": "0105-0067",
     "original": "放してえっ！！",
-    "translation": ""
+    "translation": "放开啊！！",
+    "stage": 3
   },
   {
     "key": "0105-0068",
     "original": "あれだけ騒いだんだ",
-    "translation": ""
+    "translation": "闹出那么大动静",
+    "stage": 3
   },
   {
     "key": "0105-0069",
     "original": "今から戻るのは、",
-    "translation": ""
+    "translation": "现在回去的话，",
+    "stage": 3
   },
   {
     "key": "0105-0070",
     "original": "捕まりにいくみたいな",
-    "translation": ""
+    "translation": "简直像是去自投罗网",
+    "stage": 3
   },
   {
     "key": "0105-0071",
     "original": "もんだぞ！？",
-    "translation": ""
+    "translation": "一样吧！？",
+    "stage": 3
   },
   {
     "key": "0105-0072",
     "original": "頭を冷やせよ",
-    "translation": ""
+    "translation": "冷静一下",
+    "stage": 3
   },
   {
     "key": "0105-0073",
     "original": "頭を冷やすんだ",
-    "translation": ""
+    "translation": "冷静一下吧",
+    "stage": 3
   },
   {
     "key": "0105-0074",
     "original": "あれだけ騒いだんだよ",
-    "translation": ""
+    "translation": "都闹成那样了",
+    "stage": 3
   },
   {
     "key": "0105-0075",
     "original": "今から戻るのは、捕ま",
-    "translation": ""
+    "translation": "现在回去的话",
+    "stage": 3
   },
   {
     "key": "0105-0076",
     "original": "りにいくみたいなもん",
-    "translation": ""
+    "translation": "简直是去自投罗网",
+    "stage": 3
   },
   {
     "key": "0105-0077",
     "original": "じゃない！",
-    "translation": ""
+    "translation": "不是吗！",
+    "stage": 3
   },
   {
     "key": "0105-0078",
     "original": "落ちついてってば！",
-    "translation": ""
+    "translation": "冷静一点啦！",
+    "stage": 3
   },
   {
     "key": "0105-0079",
     "original": "あれだけ騒いだんです",
-    "translation": ""
+    "translation": "都闹成那样了",
+    "stage": 3
   },
   {
     "key": "0105-0080",
     "original": "捕まりにいくような",
-    "translation": ""
+    "translation": "就像是去自投罗网",
+    "stage": 3
   },
   {
     "key": "0105-0081",
     "original": "ものですよ！",
-    "translation": ""
+    "translation": "啊！",
+    "stage": 3
   },
   {
     "key": "0105-0082",
     "original": "頭を冷やしてください",
-    "translation": ""
+    "translation": "请冷静一下",
+    "stage": 3
   },
   {
     "key": "0105-0083",
     "original": "・・・・・・",
-    "translation": ""
+    "translation": "……",
+    "stage": 3
   },
   {
     "key": "0105-0084",
     "original": "エルカさん",
-    "translation": ""
+    "translation": "埃尔卡",
+    "stage": 3
   },
   {
     "key": "0105-0085",
     "original": "マスターは、とっても",
-    "translation": ""
+    "translation": "主人是个非常",
+    "stage": 3
   },
   {
     "key": "0105-0086",
     "original": "優しい人ですの",
-    "translation": ""
+    "translation": "温柔的人哦",
+    "stage": 3
   },
   {
     "key": "0105-0087",
     "original": "わけを話せば、",
-    "translation": ""
+    "translation": "如果说明缘由的话",
+    "stage": 3
   },
   {
     "key": "0105-0088",
     "original": "きっと力になって",
-    "translation": ""
+    "translation": "他一定会",
+    "stage": 3
   },
   {
     "key": "0105-0089",
     "original": "くれるはずですの",
-    "translation": ""
+    "translation": "帮你的哦",
+    "stage": 3
   },
   {
     "key": "0105-0090",
     "original": "・・・知りたいのよ",
-    "translation": ""
+    "translation": "我想知道啊……",
+    "stage": 3
   },
   {
     "key": "0105-0091",
     "original": "メイトルパに・・・",
-    "translation": ""
+    "translation": "去梅特尔帕……",
+    "stage": 3
   },
   {
     "key": "0105-0092",
     "original": "エルカのいた世界に",
-    "translation": ""
+    "translation": "回到埃尔卡所在世界",
+    "stage": 3
   },
   {
     "key": "0105-0093",
     "original": "帰る方法をっ！！",
-    "translation": ""
+    "translation": "的方法啊！！",
+    "stage": 3
   },
   {
     "key": "0105-0094",
     "original": "知らなかったんだな",
-    "translation": ""
+    "translation": "原来你不知道啊",
+    "stage": 3
   },
   {
     "key": "0105-0095",
     "original": "召喚獣を元の世界へ帰",
-    "translation": ""
+    "translation": "能将召唤兽送回",
+    "stage": 3
   },
   {
     "key": "0105-0096",
     "original": "せるのが、呼んだ人間",
-    "translation": ""
+    "translation": "原来世界的，只有",
+    "stage": 3
   },
   {
     "key": "0105-0097",
     "original": "だけってこと・・・",
-    "translation": ""
+    "translation": "召唤它的人……",
+    "stage": 3
   },
   {
     "key": "0105-0098",
     "original": "だけだってことを",
-    "translation": ""
+    "translation": "召唤它的人",
+    "stage": 3
   },
   {
     "key": "0105-0099",
     "original": "知らなかったんだ",
-    "translation": ""
+    "translation": "原来你不知道啊",
+    "stage": 3
   },
   {
     "key": "0105-0100",
     "original": "知らなかったんですね",
-    "translation": ""
+    "translation": "原来您不知道啊",
+    "stage": 3
   },
   {
     "key": "0105-0101",
     "original": "で、早とちりして",
-    "translation": ""
+    "translation": "所以，你搞错了",
+    "stage": 3
   },
   {
     "key": "0105-0102",
     "original": "そいつをこてんぱんに",
-    "translation": ""
+    "translation": "把那家伙狠狠",
+    "stage": 3
   },
   {
     "key": "0105-0103",
     "original": "して逃げてきたって",
-    "translation": ""
+    "translation": "揍了一顿就逃走了",
+    "stage": 3
   },
   {
     "key": "0105-0104",
     "original": "わけか",
-    "translation": ""
+    "translation": "是吧？",
+    "stage": 3
   },
   {
     "key": "0105-0105",
     "original": "ああ、もう一年以上も",
-    "translation": ""
+    "translation": "嗯，已经是一年多",
+    "stage": 3
   },
   {
     "key": "0105-0106",
     "original": "前の話らしい",
-    "translation": ""
+    "translation": "以前的事了",
+    "stage": 3
   },
   {
     "key": "0105-0107",
     "original": "うん、もう一年以上も",
-    "translation": ""
+    "translation": "嗯，已经是一年多",
+    "stage": 3
   },
   {
     "key": "0105-0108",
     "original": "前の話だってさ",
-    "translation": ""
+    "translation": "以前的事了",
+    "stage": 3
   },
   {
     "key": "0105-0109",
     "original": "ええ、もう一年以上も",
-    "translation": ""
+    "translation": "嗯，已经是一年多",
+    "stage": 3
   },
   {
     "key": "0105-0110",
     "original": "前の話だそうです",
-    "translation": ""
+    "translation": "以前的事了",
+    "stage": 3
   },
   {
     "key": "0105-0111",
     "original": "それじゃ、その召喚師",
-    "translation": ""
+    "translation": "那样的话，那个召唤师",
+    "stage": 3
   },
   {
     "key": "0105-0112",
     "original": "を捜すのも難しいなあ",
-    "translation": ""
+    "translation": "要找起来也很难啊",
+    "stage": 3
   },
   {
     "key": "0105-0113",
     "original": "仮に見つかったとして",
-    "translation": ""
+    "translation": "就算找到了",
+    "stage": 3
   },
   {
     "key": "0105-0114",
     "original": "も、自分に刃向かった",
-    "translation": ""
+    "translation": "那也是对自己",
+    "stage": 3
   },
   {
     "key": "0105-0115",
     "original": "相手なんだしな",
-    "translation": ""
+    "translation": "动过手的人啊",
+    "stage": 3
   },
   {
     "key": "0105-0116",
     "original": "で、あいつは？",
-    "translation": ""
+    "translation": "那么，那家伙呢？",
+    "stage": 3
   },
   {
     "key": "0105-0117",
     "original": "部屋で休ませてるよ",
-    "translation": ""
+    "translation": "让他在房间里休息",
+    "stage": 3
   },
   {
     "key": "0105-0118",
     "original": "モナティが、ガウムと",
-    "translation": ""
+    "translation": "莫纳蒂和伽乌姆",
+    "stage": 3
   },
   {
     "key": "0105-0119",
     "original": "一緒につきそってる",
-    "translation": ""
+    "translation": "一起陪着他",
+    "stage": 3
   },
   {
     "key": "0105-0120",
     "original": "部屋で休ませてる",
-    "translation": ""
+    "translation": "让他在房间里休息",
+    "stage": 3
   },
   {
     "key": "0105-0121",
     "original": "一緒につきそって",
-    "translation": ""
+    "translation": "正一起陪着他",
+    "stage": 3
   },
   {
     "key": "0105-0122",
     "original": "くれてるから・・・",
-    "translation": ""
+    "translation": "所以……",
+    "stage": 3
   },
   {
     "key": "0105-0123",
     "original": "部屋で休ませてます",
-    "translation": ""
+    "translation": "我让他在房间休息",
+    "stage": 3
   },
   {
     "key": "0105-0124",
     "original": "一緒にいますから",
-    "translation": ""
+    "translation": "在一起呢",
+    "stage": 3
   },
   {
     "key": "0105-0125",
     "original": "大丈夫かしら？",
-    "translation": ""
+    "translation": "没事吧？",
+    "stage": 3
   },
   {
     "key": "0105-0126",
     "original": "そうだな・・・",
-    "translation": ""
+    "translation": "也是……",
+    "stage": 3
   },
   {
     "key": "0105-0127",
     "original": "ちょっと、様子を",
-    "translation": ""
+    "translation": "我去看一下",
+    "stage": 3
   },
   {
     "key": "0105-0128",
     "original": "見てくるよ",
-    "translation": ""
+    "translation": "他的情况",
+    "stage": 3
   },
   {
     "key": "0105-0129",
     "original": "う～ん・・・",
-    "translation": ""
+    "translation": "唔……",
+    "stage": 3
   },
   {
     "key": "0105-0130",
     "original": "ちょっと、心配だな～",
-    "translation": ""
+    "translation": "有点担心啊～",
+    "stage": 3
   },
   {
     "key": "0105-0131",
     "original": "様子見て来ます・・・",
-    "translation": ""
+    "translation": "我去看看情况……",
+    "stage": 3
   },
   {
     "key": "0105-0132",
     "original": "そうですね・・・",
-    "translation": ""
+    "translation": "也是啊……",
+    "stage": 3
   },
   {
     "key": "0105-0133",
     "original": "ちょっと、様子を見て",
-    "translation": ""
+    "translation": "我去看一下",
+    "stage": 3
   },
   {
     "key": "0105-0134",
     "original": "きます・・・",
-    "translation": ""
+    "translation": "情况……",
+    "stage": 3
   },
   {
     "key": "0105-0135",
     "original": "ウソよ・・・",
-    "translation": ""
+    "translation": "骗人……",
+    "stage": 3
   },
   {
     "key": "0105-0136",
     "original": "帰る方法がないなんて",
-    "translation": ""
+    "translation": "怎么会没有回去的方法",
+    "stage": 3
   },
   {
     "key": "0105-0137",
     "original": "でもでもっ",
-    "translation": ""
+    "translation": "可是可是",
+    "stage": 3
   },
   {
     "key": "0105-0138",
     "original": "本当なんです",
-    "translation": ""
+    "translation": "是真的！",
+    "stage": 3
   },
   {
     "key": "0105-0139",
     "original": "イヤよっ！",
-    "translation": ""
+    "translation": "不要！",
+    "stage": 3
   },
   {
     "key": "0105-0140",
     "original": "エルカは認めないっ！",
-    "translation": ""
+    "translation": "埃尔卡不承认！",
+    "stage": 3
   },
   {
     "key": "0105-0141",
     "original": "こんな世界になんか、",
-    "translation": ""
+    "translation": "这种世界，",
+    "stage": 3
   },
   {
     "key": "0105-0142",
     "original": "いたくないのよ！！",
-    "translation": ""
+    "translation": "我才不要待！！",
+    "stage": 3
   },
   {
     "key": "0105-0143",
     "original": "エルカさんっ",
-    "translation": ""
+    "translation": "埃尔卡！",
+    "stage": 3
   },
   {
     "key": "0105-0144",
     "original": "落ち着くですのっ！",
-    "translation": ""
+    "translation": "请冷静！",
+    "stage": 3
   },
   {
     "key": "0105-0145",
     "original": "きゅーっ！",
-    "translation": ""
+    "translation": "啾——！",
+    "stage": 3
   },
   {
     "key": "0105-0146",
     "original": "やめるんだ、エルカ！",
-    "translation": ""
+    "translation": "住手，埃尔卡！",
+    "stage": 3
   },
   {
     "key": "0105-0147",
     "original": "エルカ、やめなさい！",
-    "translation": ""
+    "translation": "埃尔卡，住手！",
+    "stage": 3
   },
   {
     "key": "0105-0148",
     "original": "やめてください！",
-    "translation": ""
+    "translation": "请等一下！",
+    "stage": 3
   },
   {
     "key": "0105-0149",
     "original": "マスターっ・・・",
-    "translation": ""
+    "translation": "主人……",
+    "stage": 3
   },
   {
     "key": "0105-0150",
     "original": "どいてよっ！",
-    "translation": ""
+    "translation": "让开！",
+    "stage": 3
   },
   {
     "key": "0105-0151",
     "original": "エルカは帰るのっ！",
-    "translation": ""
+    "translation": "埃尔卡要回去！",
+    "stage": 3
   },
   {
     "key": "0105-0152",
     "original": "どけえぇ～っ！！",
-    "translation": ""
+    "translation": "滚开！！",
+    "stage": 3
   },
   {
     "key": "0105-0153",
     "original": "うわぁぁっ！？",
-    "translation": ""
+    "translation": "哇啊！？",
+    "stage": 3
   },
   {
     "key": "0105-0154",
     "original": "きゃぁぁっ！？",
-    "translation": ""
+    "translation": "啊——！？",
+    "stage": 3
   },
   {
     "key": "0106-0001",
