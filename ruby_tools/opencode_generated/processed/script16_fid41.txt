@@ -160,7 +160,7 @@
 逃げろッ！
 @n！！
 +[FID:41, TEXT:0030] 快逃！
-+[FID:41, TEXT:0031] @n
++[FID:41, TEXT:0031] @n！！
 
 --- Group [left:加泽尔 next=0023] ---G
 ダメだ・・・
@@ -223,7 +223,7 @@
 --- Group [left:雷德 next=2012] ---G
 @n！？
 まずいっ！！
-+[FID:41, TEXT:0044] @n
++[FID:41, TEXT:0044] @n！？
 +[FID:41, TEXT:0045] 糟了！！
 
 --- Group [right:卡农 next=2012] ---G
