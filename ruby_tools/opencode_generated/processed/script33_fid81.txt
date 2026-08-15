@@ -1,15 +1,15 @@
---- Group [right:巴萨 next=2012] ---
+--- Group [right:巴诺萨 next=2012] ---G
 なぜだ・・・
 +[FID:81, TEXT:0001] 为什么……
 
---- Group [right:巴萨 next=2012] ---
+--- Group [right:巴诺萨 next=2012] ---G
 なぜだ！
 なぜだ！
 なぜだあァァァッ！！
 +[FID:81, TEXT:0002] 为什么！
 +[FID:81, TEXT:0003] 为什么！
 
---- Group [right:巴萨 next=2012] ---
+--- Group [right:巴诺萨 next=2012] ---G
 なぜ俺様が負ける！？
 なぜ宝玉の力が
 通じないんだッ！？
@@ -17,13 +17,13 @@
 +[FID:81, TEXT:0005] 为什么宝玉的力量
 +[FID:81, TEXT:0006] 不奏效啊！？
 
---- Group [right:巴萨 next=2012] ---
+--- Group [right:巴诺萨 next=2012] ---G
 とり乱すのではない
 バノッサよ
 +[FID:81, TEXT:0007] 不要乱了阵脚
 +[FID:81, TEXT:0008] 巴诺萨
 
---- Group [left:老雷克 next=2012] ---
+--- Group [left:奥尔德雷克 next=2012] ---G
 我らの王となるお前が
 これしきのことでとり
 乱してどうする？
@@ -31,11 +31,11 @@
 +[FID:81, TEXT:000A] 却为这点小事
 +[FID:81, TEXT:000B] 惊慌失措怎么行？
 
---- Group [right:巴萨 next=2012] ---
+--- Group [right:巴诺萨 next=2012] ---G
 オルドレイク・・・
 +[FID:81, TEXT:000C] 奥尔德雷克……
 
---- Group [left:老雷克 next=2012] ---
+--- Group [left:奥尔德雷克 next=2012] ---G
 負けて悔しいのならば
 その憎しみを宝玉へと
 注ぐがいい
@@ -43,7 +43,7 @@
 +[FID:81, TEXT:000E] 就将那憎恨
 +[FID:81, TEXT:000F] 注入宝玉之中吧
 
---- Group [left:老雷克 next=2012] ---
+--- Group [left:奥尔德雷克 next=2012] ---G
 それが宝玉の力を高め
 お前を強くする
 私はそう教えたはずだ
@@ -51,11 +51,11 @@
 +[FID:81, TEXT:0011] 让你变强
 +[FID:81, TEXT:0012] 我确实是这样教过你的
 
---- Group [right:巴萨 next=2012] ---
+--- Group [right:巴诺萨 next=2012] ---G
 あ、ああ・・・
 +[FID:81, TEXT:0013] 啊，啊啊……
 
---- Group [left:老雷克 next=2012] ---
+--- Group [left:奥尔德雷克 next=2012] ---G
 ここは私に任せよ
 今のお前では、この者
 たちの相手は無理だ
@@ -63,77 +63,77 @@
 +[FID:81, TEXT:0015] 现在的你，不是
 +[FID:81, TEXT:0016] 这些人的对手
 
---- Group [left:卡农 next=2012] ---
+--- Group [left:卡农 next=2012] ---G
 バノッサさん！
 +[FID:81, TEXT:0017] 巴诺萨先生！
 
---- Group [right:巴萨 next=2012] ---
+--- Group [right:巴诺萨 next=2012] ---G
 くっ・・・
 +[FID:81, TEXT:0018] 唔……
 
---- Group [left:艾多斯 next=2012] ---
+--- Group [left:艾多斯 next=2012] ---G
 待つんだ、バノッサ！
 +[FID:81, TEXT:0019] 等等，巴诺萨！
 
---- Group [left:艾多斯 next=2012] ---
+--- Group [left:艾多斯 next=2012] ---G
 貴様が、黒装束たちの
 親玉か？
 +[FID:81, TEXT:001A] 你，就是那帮
 +[FID:81, TEXT:001B] 黑衣人的头目吗？
 
---- Group [right:巴萨 next=2012] ---
+--- Group [right:巴诺萨 next=2012] ---G
 いかにも・・・
 +[FID:81, TEXT:001C] 正是如此……
 
---- Group [right:巴萨 next=2012] ---
+--- Group [right:巴诺萨 next=2012] ---G
 我が名はオルドレイク
 セルボルト家の当主
 +[FID:81, TEXT:001D] 我的名字是奥尔德雷克
 +[FID:81, TEXT:001E] 塞尔博尔特家的当主
 
---- Group [left:艾多斯 next=2012] ---
+--- Group [left:艾多斯 next=2012] ---G
 お前がバノッサをそそ
 のかしたのかっ！！
 +[FID:81, TEXT:001F] 是你怂恿巴诺萨
 +[FID:81, TEXT:0020] 的吗！！
 
---- Group [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---G
 よせっ、エドス！
 +[FID:81, TEXT:0021] 住手，艾多斯！
 
---- Group [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---G
 エドス！
 ダメ！
 +[FID:81, TEXT:0022] 艾多斯！
 +[FID:81, TEXT:0023] 不行！
 
---- Group [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---G
 だめ！
 エドスさん！
 +[FID:81, TEXT:0024] 不行！
 +[FID:81, TEXT:0025] 艾多斯先生！
 
---- Group [left:艾多斯 next=2012] ---
+--- Group [left:艾多斯 next=2012] ---G
 ぐあぁっ！！
 +[FID:81, TEXT:0026] 呃啊！！
 
---- Group [right:巴萨 next=2012] ---
+--- Group [right:巴诺萨 next=2012] ---G
 愚かな真似はよせ
 次は、手加減せぬぞ
 +[FID:81, TEXT:0027] 别做蠢事
 +[FID:81, TEXT:0028] 下次，我不会手下留情
 
---- Group [left:艾多斯 next=2012] ---
+--- Group [left:艾多斯 next=2012] ---G
 ぐうぅ・・・っ
 +[FID:81, TEXT:0029] 唔唔……！
 
---- Group [left:伊利亚斯 next=2012] ---
+--- Group [left:伊利亚斯 next=2012] ---G
 貴様の目的はなんだ
 オルドレイク！？
 +[FID:81, TEXT:002A] 你的目的是什么
 +[FID:81, TEXT:002B] 奥尔德雷克！？
 
---- Group [right:巴萨 next=2012] ---
+--- Group [right:巴诺萨 next=2012] ---G
 この世界を滅ぼし、
 新たな世界を
 作り出すことだ
@@ -141,7 +141,7 @@
 +[FID:81, TEXT:002D] 再创造新的世界
 +[FID:81, TEXT:002E] 就是我的目的
 
---- Group [left:吉布森 next=2012] ---
+--- Group [left:吉布森 next=2012] ---G
 馬鹿な！？
 そんなことが
 人間の力で
@@ -151,7 +151,7 @@
 +[FID:81, TEXT:0031] 靠人类的力量
 +[FID:81, TEXT:0032] 怎么可能做到！
 
---- Group [right:巴萨 next=2012] ---
+--- Group [right:巴诺萨 next=2012] ---G
 フフフフ・・・
 たしかに人間の力では
 不可能だろう
@@ -159,23 +159,23 @@
 +[FID:81, TEXT:0034] 确实靠人类的力量
 +[FID:81, TEXT:0035] 是不可能的吧
 
---- Group [right:巴萨 next=2012] ---
+--- Group [right:巴诺萨 next=2012] ---G
 だが、悪魔の力ならば
 どうだろうかな？
 +[FID:81, TEXT:0036] 但是，若是恶魔的力量
 +[FID:81, TEXT:0037] 又会怎样呢？
 
---- Group [left:吉布森 next=2012] ---
+--- Group [left:吉布森 next=2012] ---G
 なんだと・・・
 +[FID:81, TEXT:0038] 你说什么……
 
---- Group [right:巴萨 next=2012] ---
+--- Group [right:巴诺萨 next=2012] ---G
 この世界を滅ぼすのは
 我らではない
 +[FID:81, TEXT:0039] 毁灭这个世界的
 +[FID:81, TEXT:003A] 不是我们
 
---- Group [right:巴萨 next=2012] ---
+--- Group [right:巴诺萨 next=2012] ---G
 我らによって召喚され
 る、サプレスの魔王が
 その役目を担うのだ
@@ -183,11 +183,11 @@
 +[FID:81, TEXT:003C] 萨普勒斯的魔王
 +[FID:81, TEXT:003D] 将承担那使命
 
---- Group [left:科莫扎 next=2012] ---
+--- Group [left:科莫扎 next=2012] ---G
 魔王ですって！？
 +[FID:81, TEXT:003E] 魔王！？
 
---- Group [right:巴萨 next=2012] ---
+--- Group [right:巴诺萨 next=2012] ---G
 貴様らも召喚師ならば
 知っておるだろう？
 サプレスの悪魔たちを
@@ -197,17 +197,17 @@
 +[FID:81, TEXT:0041] 萨普雷斯的恶魔们
 +[FID:81, TEXT:0042] 的支配者
 
---- Group [right:巴萨 next=2012] ---
+--- Group [right:巴诺萨 next=2012] ---G
 我々はそれを召喚する
 ことができるのだ
 +[FID:81, TEXT:0043] 我们能够将它
 +[FID:81, TEXT:0044] 召唤出来
 
---- Group [left:吉布森 next=2012] ---
+--- Group [left:吉布森 next=2012] ---G
 でたらめを言うな！
 +[FID:81, TEXT:0045] 别胡说八道！
 
---- Group [right:巴萨 next=2012] ---
+--- Group [right:巴诺萨 next=2012] ---G
 でたらめではない
 我らは何年もかけて、
 そのための準備をして
@@ -217,7 +217,7 @@
 +[FID:81, TEXT:0048] 一直在为此
 +[FID:81, TEXT:0049] 做准备
 
---- Group [right:巴萨 next=2012] ---
+--- Group [right:巴诺萨 next=2012] ---G
 それに、失敗はしたが
 一度はその儀式を実行
 しておるのだよ
@@ -225,123 +225,123 @@
 +[FID:81, TEXT:004B] 但那个仪式我们
 +[FID:81, TEXT:004C] 确实执行过一次
 
---- Group [right:巴萨 next=2012] ---
+--- Group [right:巴诺萨 next=2012] ---G
 そうであろう？
 我が子よ
 +[FID:81, TEXT:004D] 是这样的吧？
 +[FID:81, TEXT:004E] 我的孩子啊
 
---- Group [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---G
 えっ！？
 +[FID:81, TEXT:004F] 诶！？
 
---- Group [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---G
 え・・・？
 +[FID:81, TEXT:0050] 诶……？
 
---- Group [right:克拉雷特 next=2012] ---
+--- Group [right:克拉雷特 next=2012] ---G
 ・・・・・・
 +[FID:81, TEXT:0051] ……
 
---- Group [right:巴萨 next=2012] ---
+--- Group [right:巴诺萨 next=2012] ---G
 答えよ、ソル！？
 +[FID:81, TEXT:0052] 回答吧，索尔！？
 
---- Group [right:巴萨 next=2012] ---
+--- Group [right:巴诺萨 next=2012] ---G
 答えよ、キール！？
 +[FID:81, TEXT:0053] 回答吧，基尔！？
 
---- Group [right:巴萨 next=2012] ---
+--- Group [right:巴诺萨 next=2012] ---G
 答えよ、カシス！？
 +[FID:81, TEXT:0054] 回答吧，卡茜丝！？
 
---- Group [right:巴萨 next=2012] ---
+--- Group [right:巴诺萨 next=2012] ---G
 答えよ
 クラレット！？
 +[FID:81, TEXT:0055] 回答吧
 +[FID:81, TEXT:0056] 克拉蕾特！？
 
---- Group [left:索尔 next=2012] ---
+--- Group [left:索尔 next=2012] ---G
 そのとおりです
 父上・・・
 +[FID:81, TEXT:0057] 正是如此
 +[FID:81, TEXT:0058] 父亲大人……
 
---- Group [left:加泽尔 next=2012] ---
+--- Group [left:加泽尔 next=2012] ---G
 うそだろ・・・？
 +[FID:81, TEXT:0059] 骗人的吧……？
 
---- Group [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---G
 キールが
 +[FID:81, TEXT:005A] 基尔他
 
---- Group [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---G
 カシスが
 +[FID:81, TEXT:005B] 卡茜丝她
 
---- Group [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---G
 クラレットが
 +[FID:81, TEXT:005C] 克拉蕾特她
 
---- Group [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---G
 オルドレイクの
 子供だなんて・・・
 +[FID:81, TEXT:005D] 是奥尔德雷克的
 +[FID:81, TEXT:005E] 孩子……
 
---- Group [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---G
 ソルが
 +[FID:81, TEXT:005F] 索尔他
 
---- Group [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---G
 オルドレイクの・・・
 子供・・・！？
 +[FID:81, TEXT:0060] 是奥尔德雷克的……
 +[FID:81, TEXT:0061] 孩子……！？
 
---- Group [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---G
 ソルさんが
 +[FID:81, TEXT:0062] 索尔先生他
 
---- Group [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---G
 キールさんが
 +[FID:81, TEXT:0063] 基尔先生他
 
---- Group [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---G
 カシスさんが
 +[FID:81, TEXT:0064] 卡茜丝小姐她
 
---- Group [right:巴萨 next=0023] ---
+--- Group [right:巴诺萨 next=0023] ---G
 嘘ではない
 カシスは
-+[FID:81, TEXT:0065] 不是谎言
++[FID:81, TEXT:0065] 我没有撒谎
 +[FID:81, TEXT:0068] 卡茜丝她
 
---- Group [right:巴萨 next=0023] ---
+--- Group [right:巴诺萨 next=0023] ---G
 嘘ではない
 クラレットは
--[FID:81, TEXT:0065] 不是谎言
+-[FID:81, TEXT:0065] 我没有撒谎
 +[FID:81, TEXT:0069] 克拉蕾特她
 
---- Group [right:巴萨 next=0023] ---
+--- Group [right:巴诺萨 next=0023] ---G
 嘘ではない
 ソルは
--[FID:81, TEXT:0065] 不是谎言
+-[FID:81, TEXT:0065] 我没有撒谎
 +[FID:81, TEXT:0066] 索尔他
 
---- Group [right:巴萨 next=0023] ---
+--- Group [right:巴诺萨 next=0023] ---G
 嘘ではない
 キールは
--[FID:81, TEXT:0065] 不是谎言
+-[FID:81, TEXT:0065] 我没有撒谎
 +[FID:81, TEXT:0067] 基尔他
 
---- Group [right:巴萨 next=2012] ---
+--- Group [right:巴诺萨 next=2012] ---G
 魔王召喚の儀式の最高
 責任者だったのだ
 +[FID:81, TEXT:006A] 曾是魔王召唤仪式
 +[FID:81, TEXT:006B] 的最高负责人
 
---- Group [right:巴萨 next=2012] ---
+--- Group [right:巴诺萨 next=2012] ---G
 サプレスのエルゴの力
 を使って、魔王を呼ぶ
 ための儀式のな
@@ -349,15 +349,15 @@
 +[FID:81, TEXT:006D] 埃尔戈之力召唤魔王
 +[FID:81, TEXT:006E] 的仪式啊
 
---- Group [left:科莫扎 next=2012] ---
+--- Group [left:科莫扎 next=2012] ---G
 じゃあ、サプレスの
 エルゴが失われたって
 いうのは！？
 +[FID:81, TEXT:006F] 那么，萨普勒斯的
-+[FID:81, TEXT:0070] 埃尔戈丢失了
++[FID:81, TEXT:0070] 埃尔戈消失了
 +[FID:81, TEXT:0071] 是怎么回事！？
 
---- Group [right:巴萨 next=2012] ---
+--- Group [right:巴诺萨 next=2012] ---G
 儀式が失敗したせいだ
 つくづく、惜しいこと
 をしたものよ
@@ -365,13 +365,13 @@
 +[FID:81, TEXT:0073] 真是可惜
 +[FID:81, TEXT:0074] 啊
 
---- Group [left:风峰 next=2012] ---
+--- Group [left:风峰 next=2012] ---G
 何もかもが、お主たち
 の仕業だったのか！！
 +[FID:81, TEXT:0075] 原来这一切都是你们
 +[FID:81, TEXT:0076] 的所作所为吗！！
 
---- Group [right:巴萨 next=2012] ---
+--- Group [right:巴诺萨 next=2012] ---G
 フフフフ、お前たちに
 我らの崇高な目的など
 理解できまい
@@ -379,41 +379,41 @@
 +[FID:81, TEXT:0078] 无法理解我们崇高的
 +[FID:81, TEXT:0079] 目的吧
 
---- Group [left:主人公 next=2012] ---
+--- Group [left:主人公 next=2012] ---G
 なにが
 崇高な目的だっ！
 +[FID:81, TEXT:007A] 算什么
 +[FID:81, TEXT:007B] 崇高目的啊！
 
---- Group [left:主人公 next=2012] ---
+--- Group [left:主人公 next=2012] ---G
 なにが
 崇高な目的ですかっ！
 -[FID:81, TEXT:007A] 算什么
 +[FID:81, TEXT:0082] 崇高目的啊！
 
---- Group [left:主人公 next=2012] ---
+--- Group [left:主人公 next=2012] ---G
 なにが
 崇高な目的なの！？
 -[FID:81, TEXT:007A] 算什么
 +[FID:81, TEXT:007F] 崇高目的！？
 
---- Group [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---G
 お前たちの勝手で、
 この世界を滅ぼされて
 たまるものか！！
 +[FID:81, TEXT:007C] 因为你们的任性，
-+[FID:81, TEXT:007D] 这个世界被毁灭
-+[FID:81, TEXT:007E] 岂能容忍！！
++[FID:81, TEXT:007D] 让这个世界被毁灭
++[FID:81, TEXT:007E] 我怎能容忍！！
 
---- Group [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---G
 そんな身勝手で
 この世界を滅ぼされて
 たまるか！
-+[FID:81, TEXT:0080] 因为这么自私
--[FID:81, TEXT:007D] 这个世界被毁灭
-+[FID:81, TEXT:0081] 岂能容忍！
++[FID:81, TEXT:0080] 因为这么自私的理由
+-[FID:81, TEXT:007D] 让这个世界被毁灭
++[FID:81, TEXT:0081] 我怎能容忍！
 
---- Group [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---G
 あなたたちの身勝手で
 この世界を滅ぼそう
 なんて！
@@ -423,29 +423,29 @@
 +[FID:81, TEXT:0085] 这种事！
 +[FID:81, TEXT:0086] 不可原谅！
 
---- Group [right:巴萨 next=2012] ---
+--- Group [right:巴诺萨 next=2012] ---G
 おお・・・
 なかなかの力だな
 +[FID:81, TEXT:0087] 哦哦……
 +[FID:81, TEXT:0088] 真是强大的力量啊
 
---- Group [right:巴萨 next=0023] ---
+--- Group [right:巴诺萨 next=0023] ---G
 ソルよ
 +[FID:81, TEXT:0089] 索尔啊
 
---- Group [right:老雷克 next=0023] ---
+--- Group [right:奥尔德雷克 next=0023] ---G
 キールよ
 +[FID:81, TEXT:008A] 基尔啊
 
---- Group [right:老雷克 next=0023] ---
+--- Group [right:奥尔德雷克 next=0023] ---G
 カシスよ
 +[FID:81, TEXT:008B] 卡茜丝啊
 
---- Group [right:老雷克 next=0023] ---
+--- Group [right:奥尔德雷克 next=0023] ---G
 クラレットよ
 +[FID:81, TEXT:008C] 克拉蕾特啊
 
---- Group [right:巴萨 next=2012] ---
+--- Group [right:巴诺萨 next=2012] ---G
 これがお前の言ってい
 た【魔王の力】という
 わけか
@@ -453,21 +453,21 @@
 +[FID:81, TEXT:008E] 【魔王之力】
 +[FID:81, TEXT:008F] 啊
 
---- Group [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---G
 ！？
 +[FID:81, TEXT:0090] ！？
 
---- Group [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---G
 魔王・・・！？
 +[FID:81, TEXT:0091] 魔王……！？
 
---- Group [right:巴萨 next=2012] ---
+--- Group [right:巴诺萨 next=2012] ---G
 ほう、まだ気づかずに
 いたのか？
 +[FID:81, TEXT:0092] 哦，你居然还没
 +[FID:81, TEXT:0093] 察觉到？
 
---- Group [right:巴萨 next=2012] ---
+--- Group [right:巴诺萨 next=2012] ---G
 お前の使っている力が
 サプレスの魔王の力の
 一部だということを
@@ -475,23 +475,23 @@
 +[FID:81, TEXT:0095] 萨普雷斯的魔王之力的
 +[FID:81, TEXT:0096] 一部分这件事
 
---- Group [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---G
 なんだって・・・
 +[FID:81, TEXT:0097] 你说什么……
 
---- Group [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---G
 なに・・・
 +[FID:81, TEXT:0098] 什么……
 
---- Group [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---G
 うそ・・・！？
 +[FID:81, TEXT:0099] 骗人的……！？
 
---- Group [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---G
 うそ・・・
 +[FID:81, TEXT:009A] 骗人的……
 
---- Group [right:巴萨 next=2012] ---
+--- Group [right:巴诺萨 next=2012] ---G
 @ n 
 お前は誓約者などでは
 ない
@@ -499,7 +499,7 @@
 +[FID:81, TEXT:009C] 你并不是什么
 +[FID:81, TEXT:009D] 誓约者
 
---- Group [right:巴萨 next=2012] ---
+--- Group [right:巴诺萨 next=2012] ---G
 偶然、魔王の力の一部
 を受け入れてしまった
 だけの存在・・・
@@ -507,33 +507,33 @@
 +[FID:81, TEXT:009F] 接受了魔王之力的
 +[FID:81, TEXT:00A0] 一部分的存在……
 
---- Group [right:巴萨 next=2012] ---
+--- Group [right:巴诺萨 next=2012] ---G
 いわば、出来損ないの
 魔王なのだ！
 +[FID:81, TEXT:00A1] 也就是说，半吊子的
 +[FID:81, TEXT:00A2] 魔王！
 
---- Group [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---G
 うそだっ！！
 +[FID:81, TEXT:00A3] 骗人的！！
 
---- Group [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---G
 うそだよ！！
 +[FID:81, TEXT:00A4] 骗人的呀！！
 
---- Group [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---G
 うそ！
 うそですっ！
 +[FID:81, TEXT:00A5] 骗人！
 +[FID:81, TEXT:00A6] 骗人的！
 
---- Group [right:巴萨 next=2012] ---
+--- Group [right:巴诺萨 next=2012] ---G
 ならば、お前のその力
 はなんだというのだ？
 +[FID:81, TEXT:00A7] 那么，你的那份力量
 +[FID:81, TEXT:00A8] 到底是什么？
 
---- Group [right:巴萨 next=0023] ---
+--- Group [right:巴诺萨 next=0023] ---G
 お前は魔王よ・・・
 だからこそ
 クラレットは
@@ -541,11 +541,11 @@
 +[FID:81, TEXT:00AA] 正因为如此
 -[FID:81, TEXT:0069] 克拉蕾特她
 
---- Group [right:巴萨 next=2012] ---
+--- Group [right:巴诺萨 next=2012] ---G
 お前に近づいたのだ
 +[FID:81, TEXT:00AB] 才接近你的
 
---- Group [right:巴萨 next=2012] ---
+--- Group [right:巴诺萨 next=2012] ---G
 お前が我々の役に立つ
 存在かどうかを
 見極めるためにな
@@ -553,53 +553,53 @@
 +[FID:81, TEXT:00AD] 是对我们有用的
 +[FID:81, TEXT:00AE] 存在
 
---- Group [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---G
 本当なのか！？
 +[FID:81, TEXT:00AF] 是真的吗！？
 
---- Group [left:主人公 next=2012] ---
+--- Group [left:主人公 next=2012] ---G
 キール
 +[FID:81, TEXT:00B0] 基尔
 
---- Group [left:主人公 next=2012] ---
+--- Group [left:主人公 next=2012] ---G
 カシス
 +[FID:81, TEXT:00B1] 卡茜丝
 
---- Group [left:主人公 next=2012] ---
+--- Group [left:主人公 next=2012] ---G
 クラレット
 +[FID:81, TEXT:00B2] 克拉蕾特
 
---- Group [left:主人公 next=2012] ---
+--- Group [left:主人公 next=2012] ---G
 ソル
 +[FID:81, TEXT:00B3] 索尔
 
---- Group [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---G
 本当・・・なの！？
 +[FID:81, TEXT:00B4] 真的……！？
 
---- Group [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---G
 本当・・・なんですか
 +[FID:81, TEXT:00B5] 真的……吗
 
---- Group [left:主人公 next=2012] ---
+--- Group [left:主人公 next=2012] ---G
 ソルさん
 +[FID:81, TEXT:00B6] 索尔先生
 
---- Group [left:主人公 next=2012] ---
+--- Group [left:主人公 next=2012] ---G
 キールさん
 +[FID:81, TEXT:00B7] 基尔先生
 
---- Group [left:主人公 next=2012] ---
+--- Group [left:主人公 next=2012] ---G
 カシスさん
 +[FID:81, TEXT:00B8] 卡茜丝小姐
 
---- Group [right:老雷克 next=2012] ---
+--- Group [right:奥尔德雷克 next=2012] ---G
 この者たちの始末は、
 お前に任せよう
 +[FID:81, TEXT:00B9] 这些人的处置，
 +[FID:81, TEXT:00BA] 就交给你了
 
---- Group [right:老雷克 next=2012] ---
+--- Group [right:奥尔德雷克 next=2012] ---G
 儀式を失敗させた罪を
 償って、我らの下へと
 帰ってくるのだ
@@ -607,35 +607,35 @@
 +[FID:81, TEXT:00BC] 赎罪，回到我们
 +[FID:81, TEXT:00BD] 这边来吧
 
---- Group [right:老雷克 next=2012] ---
+--- Group [right:奥尔德雷克 next=2012] ---G
 フフフ、楽しみに
 待っておるぞ・・・
-+[FID:81, TEXT:00BE] 呵呵呵，满心期待地
-+[FID:81, TEXT:00BF] 等着你……
++[FID:81, TEXT:00BE] 呵呵呵，我就满心期待
++[FID:81, TEXT:00BF] 地等着你……
 
---- Group [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---G
 なあ、嘘だろう？
 +[FID:81, TEXT:00C0] 喂，是骗人的吧？
 
---- Group [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---G
 嘘、なんだろう？
 +[FID:81, TEXT:00C1] 骗人的，对吧？
 
---- Group [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---G
 ウソだよ・・・
 ウソって言ってよ！
 +[FID:81, TEXT:00C2] 骗人的……
 +[FID:81, TEXT:00C3] 跟我说是骗人的啊！
 
---- Group [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---G
 嘘・・・ですよね？
 +[FID:81, TEXT:00C4] 是骗人的……对吧？
 
---- Group [right:卡西斯 next=2012] ---
+--- Group [right:卡西斯 next=2012] ---G
 ・・・
 +[FID:81, TEXT:00C5] ……
 
---- Group [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---G
 あいつが言ったことは
 全部、デタラメなんだ
 よな？
@@ -643,7 +643,7 @@
 +[FID:81, TEXT:00C7] 全都是胡扯
 +[FID:81, TEXT:00C8] 对吧？
 
---- Group [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---G
 あの男が言ったことは
 全部、でまかせでしか
 ないんだろう？
@@ -651,7 +651,7 @@
 +[FID:81, TEXT:00CA] 全都是胡编乱造的
 +[FID:81, TEXT:00CB] 吧？
 
---- Group [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---G
 ねえ、あいつの言った
 こと・・・
 全部・・・
@@ -661,55 +661,55 @@
 +[FID:81, TEXT:00CE] 全部……
 +[FID:81, TEXT:00CF] 是胡扯的吧？
 
---- Group [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---G
 あの男の言ったことは
 全部、嘘なんですよね
 +[FID:81, TEXT:00D0] 那个男人说的
 +[FID:81, TEXT:00D1] 全都是谎言，对吧？
 
---- Group [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---G
 答えろよ
 +[FID:81, TEXT:00D2] 回答我啊
 
---- Group [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---G
 キール！？
 +[FID:81, TEXT:00D3] 基尔！？
 
---- Group [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---G
 カシス！？
 +[FID:81, TEXT:00D4] 卡茜丝！？
 
---- Group [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---G
 違うって・・・
 言ってよ・・・ねぇ
 +[FID:81, TEXT:00D5] 不是那样的……
 +[FID:81, TEXT:00DC] 告诉我啊……喂
 
---- Group [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---G
 違うって・・・
 言ってくれよ・・・
 -[FID:81, TEXT:00D5] 不是那样的……
 +[FID:81, TEXT:00D6] 告诉我啊……
 
---- Group [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---G
 答えてくれ
 +[FID:81, TEXT:00D7] 回答我啊
 
---- Group [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---G
 ソル！？
 +[FID:81, TEXT:00D8] 索尔！？
 
---- Group [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---G
 どうして・・・
 黙っているんだ・・・
 +[FID:81, TEXT:00D9] 为什么……
 +[FID:81, TEXT:00DA] 不说话啊……
 
---- Group [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---G
 答えてよ
 +[FID:81, TEXT:00DB] 回答我啊
 
---- Group [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---G
 おねがい・・・うそ
 だって、言って・・・
 ください・・・
@@ -717,19 +717,19 @@
 +[FID:81, TEXT:00DE] 快说……
 +[FID:81, TEXT:00DF] 求你……
 
---- Group [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---G
 ソルさん！？
 +[FID:81, TEXT:00E0] 索尔先生！？
 
---- Group [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---G
 キールさん！？
 +[FID:81, TEXT:00E1] 基尔先生！？
 
---- Group [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---G
 カシスさん！？
 +[FID:81, TEXT:00E2] 卡茜丝小姐！？
 
---- Group [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---G
 もし本当なら・・・
 今までみたいに
 嘘を・・・
