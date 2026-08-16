@@ -2,180 +2,180 @@
 オルドレイク！
 今すぐ、儀式を
 止めるんだ！！
-+[FID:8B, TEXT:0001] 
-+[FID:8B, TEXT:0002] 
-+[FID:8B, TEXT:0003] 
++[FID:8B, TEXT:0001] 奥尔德雷克！
++[FID:8B, TEXT:0002] 立刻把仪式
++[FID:8B, TEXT:0003] 停下来！！
 
 --- Group [left:none next=0023] ---
 オルドレイク！
 今すぐ、儀式を
 やめて！
--[FID:8B, TEXT:0001] 
--[FID:8B, TEXT:0002] 
-+[FID:8B, TEXT:0004] 
+-[FID:8B, TEXT:0001] 奥尔德雷克！
+-[FID:8B, TEXT:0002] 立刻把仪式
++[FID:8B, TEXT:0004] 停下！
 
 --- Group [left:none next=0023] ---
 オルドレイク・・・
 今すぐ、儀式を止めて
 観念してください
-+[FID:8B, TEXT:0005] 
-+[FID:8B, TEXT:0006] 
-+[FID:8B, TEXT:0007] 
++[FID:8B, TEXT:0005] 奥尔德雷克……
++[FID:8B, TEXT:0006] 现在马上停下仪式，
++[FID:8B, TEXT:0007] 请死心吧
 
 --- Group [right:none next=2012] ---
 クククク・・・
 止めることなどできぬ
-+[FID:8B, TEXT:0008] 
-+[FID:8B, TEXT:0009] 
++[FID:8B, TEXT:0008] 库库库库……
++[FID:8B, TEXT:0009] 想阻止是不可能的
 
 --- Group [right:巴诺萨 next=2012] ---
 うアぁァぁァ・・・！
-+[FID:8B, TEXT:000A] 
++[FID:8B, TEXT:000A] 呜啊啊啊啊……！
 
 --- Group [right:奥尔德雷克 next=2012] ---
 見よ！
 バノッサはすでに宝玉
 とひとつになった！！
-+[FID:8B, TEXT:000B] 
-+[FID:8B, TEXT:000C] 
-+[FID:8B, TEXT:000D] 
++[FID:8B, TEXT:000B] 看吧！
++[FID:8B, TEXT:000C] 巴诺萨已经与宝玉
++[FID:8B, TEXT:000D] 融为一体了！！
 
 --- Group [right:奥尔德雷克 next=2012] ---
 あの男の憎悪と悲しみ
 を生けにえにして、
 魔王はここに降臨
 するのだ
-+[FID:8B, TEXT:000E] 
-+[FID:8B, TEXT:000F] 
-+[FID:8B, TEXT:0010] 
-+[FID:8B, TEXT:0011] 
++[FID:8B, TEXT:000E] 那个男人的憎恶与悲伤
++[FID:8B, TEXT:000F] 作为活祭献上
++[FID:8B, TEXT:0010] 魔王就会降临
++[FID:8B, TEXT:0011] 于此世！
 
 --- Group [right:奥尔德雷克 next=2012] ---
 世界は滅びるのだ！！
-+[FID:8B, TEXT:0012] 
++[FID:8B, TEXT:0012] 世界就要毁灭了！！
 
 --- Group [left:基尔 next=2012] ---
 父上！
 貴方という人は・・・
-+[FID:8B, TEXT:0013] 
-+[FID:8B, TEXT:0014] 
++[FID:8B, TEXT:0013] 父亲大人！
++[FID:8B, TEXT:0014] 您这个人真是……
 
 --- Group [right:奥尔德雷克 next=2012] ---
 ソルよ
 お前は愚か者だ
-+[FID:8B, TEXT:0015] 
-+[FID:8B, TEXT:0016] 
++[FID:8B, TEXT:0015] 索尔啊
++[FID:8B, TEXT:0016] 你是个愚蠢的家伙
 
 --- Group [right:奥尔德雷克 next=2012] ---
 キールよ
 お前は愚か者だ
-+[FID:8B, TEXT:0017] 
--[FID:8B, TEXT:0016] 
++[FID:8B, TEXT:0017] 基尔啊
+-[FID:8B, TEXT:0016] 你是个愚蠢的家伙
 
 --- Group [right:奥尔德雷克 next=2012] ---
 カシスよ
 お前は愚か者だ
-+[FID:8B, TEXT:0018] 
--[FID:8B, TEXT:0016] 
++[FID:8B, TEXT:0018] 卡茜丝啊
+-[FID:8B, TEXT:0016] 你是个愚蠢的家伙
 
 --- Group [right:奥尔德雷克 next=2012] ---
 クラレットよ
 お前は愚か者だ
-+[FID:8B, TEXT:0019] 
--[FID:8B, TEXT:0016] 
++[FID:8B, TEXT:0019] 克拉蕾特啊
+-[FID:8B, TEXT:0016] 你是个愚蠢的家伙
 
 --- Group [right:奥尔德雷克 next=2012] ---
 次の世界の王の座を、
 自ら捨ててしまったの
 だからな・・・
-+[FID:8B, TEXT:001A] 
-+[FID:8B, TEXT:001B] 
-+[FID:8B, TEXT:001C] 
++[FID:8B, TEXT:001A] 下个世界的王座，
++[FID:8B, TEXT:001B] 你们亲手舍弃了
++[FID:8B, TEXT:001C] 所以才……
 
 --- Group [right:奥尔德雷克 next=2012] ---
 そして、バノッサよ
-+[FID:8B, TEXT:001D] 
++[FID:8B, TEXT:001D] 然后，巴诺萨啊
 
 --- Group [right:奥尔德雷克 next=2012] ---
 お前は果報者だ！
-+[FID:8B, TEXT:001E] 
++[FID:8B, TEXT:001E] 你是个有福之人！
 
 --- Group [right:奥尔德雷克 next=2012] ---
 一度は捨てられながら
 最後の最後で、栄光を
 つかんだのだからな
-+[FID:8B, TEXT:001F] 
-+[FID:8B, TEXT:0020] 
-+[FID:8B, TEXT:0021] 
++[FID:8B, TEXT:001F] 曾被抛弃一次
++[FID:8B, TEXT:0020] 却在最后关头，将荣耀
++[FID:8B, TEXT:0021] 握在了手中啊
 
 --- Group [right:巴诺萨 next=2012] ---
 なァ・・・ッ
 なンだ、ト・・・？
-+[FID:8B, TEXT:0022] 
-+[FID:8B, TEXT:0023] 
++[FID:8B, TEXT:0022] 啊……！
++[FID:8B, TEXT:0023] 什么，这……？
 
 --- Group [left:主人公 next=0023] ---
 まさか・・・
 バノッサの父親って？
-+[FID:8B, TEXT:0024] 
-+[FID:8B, TEXT:0026] 
++[FID:8B, TEXT:0024] 难道……
++[FID:8B, TEXT:0026] 巴诺萨的父亲是？
 
 --- Group [left:主人公 next=0023] ---
 まさか・・・
 バノッサの父親は！？
--[FID:8B, TEXT:0024] 
-+[FID:8B, TEXT:0025] 
+-[FID:8B, TEXT:0024] 难道……
++[FID:8B, TEXT:0025] 巴诺萨的父亲是！？
 
 --- Group [left:主人公 next=0023] ---
 まさか・・・
 バノッサさんの
 父親は？
--[FID:8B, TEXT:0024] 
-+[FID:8B, TEXT:0027] 
-+[FID:8B, TEXT:0028] 
+-[FID:8B, TEXT:0024] 难道……
++[FID:8B, TEXT:0027] 巴诺萨的
++[FID:8B, TEXT:0028] 父亲是？
 
 --- Group [left:奥尔德雷克 next=2012] ---
 父はうれしいぞ・・・
 我が息子よ？
-+[FID:8B, TEXT:0029] 
-+[FID:8B, TEXT:002A] 
++[FID:8B, TEXT:0029] 为父很高兴啊……
++[FID:8B, TEXT:002A] 我的儿子？
 
 --- Group [right:巴诺萨 next=2012] ---
 きッ・・・
 きサまガ・・・
-+[FID:8B, TEXT:002B] 
-+[FID:8B, TEXT:002C] 
++[FID:8B, TEXT:002B] 呃……
++[FID:8B, TEXT:002C] 你这家伙……
 
 --- Group [right:巴诺萨 next=2012] ---
 貴様がそうだったのか
 アアアァァァッ！！
-+[FID:8B, TEXT:002D] 
-+[FID:8B, TEXT:002E] 
++[FID:8B, TEXT:002D] 原来是你吗
++[FID:8B, TEXT:002E] 啊啊啊啊啊！！
 
 --- Group [left:奥尔德雷克 next=2012] ---
 な・・・何をする
 バノッサ！？
-+[FID:8B, TEXT:002F] 
-+[FID:8B, TEXT:0030] 
++[FID:8B, TEXT:002F] 什……干什么
++[FID:8B, TEXT:0030] 巴诺萨！？
 
 --- Group [right:巴诺萨 next=2012] ---
 許サねェ・・・ッ！！
-+[FID:8B, TEXT:0031] 
++[FID:8B, TEXT:0031] 绝不原谅……！！
 
 --- Group [right:巴诺萨 next=2012] ---
 母さンを・・・
 ソしテこノ俺を捨テた
 お前ダけハ・・・
-+[FID:8B, TEXT:0032] 
-+[FID:8B, TEXT:0033] 
-+[FID:8B, TEXT:0034] 
++[FID:8B, TEXT:0032] 母亲她……
++[FID:8B, TEXT:0033] 还有抛弃了我的
++[FID:8B, TEXT:0034] 你……唯独你……
 
 --- Group [right:巴诺萨 next=2012] ---
 絶対ニ・・・ッ
 許さねえェェェッ！！
-+[FID:8B, TEXT:0035] 
-+[FID:8B, TEXT:0036] 
++[FID:8B, TEXT:0035] 绝对……
++[FID:8B, TEXT:0036] 绝不原谅！！
 
 --- Group [left:奥尔德雷克 next=2012] ---
 ぐぎゃああああっ！？
-+[FID:8B, TEXT:0037] 
++[FID:8B, TEXT:0037] 咕嘎啊啊啊啊！？
