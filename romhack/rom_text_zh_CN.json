@@ -3860,13 +3860,13 @@
   {
     "key": "Item-5-Desc1-0x2CE0",
     "original": "属性「無」の召喚を発",
-    "translation": "发动「无」属性",
+    "translation": "发动「无」属性召",
     "stage": 3
   },
   {
     "key": "Item-5-Desc2-0x88078",
     "original": "動する",
-    "translation": "召唤",
+    "translation": "唤",
     "stage": 3
   },
   {
@@ -5179,8 +5179,8 @@
   },
   {
     "key": "Magic-6-Name-0x430C",
-    "original": "全属性防具力",
-    "translation": "全属性防具力",
+    "original": "全属性防御",
+    "translation": "全属性防御",
     "stage": 3
   },
   {
