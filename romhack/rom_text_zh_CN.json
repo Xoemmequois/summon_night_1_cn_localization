@@ -5396,13 +5396,13 @@
   {
     "key": "Skill-8-Desc2-0x411C",
     "original": "術を使いこなすことが",
-    "translation": "的召唤术的",
+    "translation": "的召唤术的能力",
     "stage": 3
   },
   {
     "key": "Skill-8-Desc3-0x88128",
     "original": "できる",
-    "translation": "能力",
+    "translation": "",
     "stage": 3
   },
   {
@@ -5420,13 +5420,13 @@
   {
     "key": "Skill-9-Desc2-0x411C",
     "original": "術を使いこなすことが",
-    "translation": "的召唤术的",
+    "translation": "的召唤术的能力",
     "stage": 3
   },
   {
     "key": "Skill-9-Desc3-0x88128",
     "original": "できる",
-    "translation": "能力",
+    "translation": "",
     "stage": 3
   },
   {
@@ -5581,13 +5581,13 @@
   {
     "key": "Skill-16-Desc2-0x3F54",
     "original": "術を持つ　「投」の武",
-    "translation": "术　可装备「投」武",
+    "translation": "术　可装备「投」武器",
     "stage": 3
   },
   {
     "key": "Skill-16-Desc3-0x3F48",
     "original": "器装備可",
-    "translation": "器",
+    "translation": "",
     "stage": 3
   },
   {
@@ -5605,13 +5605,13 @@
   {
     "key": "Skill-17-Desc2-0x3F54",
     "original": "術を持つ　「投」の武",
-    "translation": "术　可装备「投」武",
+    "translation": "术　可装备「投」武器",
     "stage": 3
   },
   {
     "key": "Skill-17-Desc3-0x3F48",
     "original": "器装備可",
-    "translation": "器",
+    "translation": "",
     "stage": 3
   },
   {
@@ -5749,13 +5749,13 @@
   {
     "key": "Skill-23-Desc2-0x3DC4",
     "original": "套手段　背後攻撃が更",
-    "translation": "击威力更",
+    "translation": "击威力更加强大",
     "stage": 3
   },
   {
     "key": "Skill-23-Desc3-0x3DB8",
     "original": "に強力に",
-    "translation": "加强大",
+    "translation": "",
     "stage": 3
   },
   {
@@ -5773,13 +5773,13 @@
   {
     "key": "Skill-24-Desc2-0x3D7C",
     "original": "つけ、装備することが",
-    "translation": "备枪械的",
+    "translation": "备枪械的能力",
     "stage": 3
   },
   {
     "key": "Skill-24-Desc3-0x88128",
     "original": "できる",
-    "translation": "能力",
+    "translation": "",
     "stage": 3
   },
   {
@@ -5815,13 +5815,13 @@
   {
     "key": "Skill-26-Desc2-0x3D18",
     "original": "い強い心　ＺＯＣを無",
-    "translation": "畏惧，无",
+    "translation": "畏惧，无视ＺＯＣ",
     "stage": 3
   },
   {
     "key": "Skill-26-Desc3-0x3D0C",
     "original": "視できる",
-    "translation": "视ＺＯＣ",
+    "translation": "",
     "stage": 3
   },
   {
@@ -5887,13 +5887,13 @@
   {
     "key": "Skill-29-Desc2-0x3C54",
     "original": "与える攻撃　ＭＰにダ",
-    "translation": "，对ＭＰ造",
+    "translation": "，对ＭＰ造成伤害",
     "stage": 3
   },
   {
     "key": "Skill-29-Desc3-0x880D8",
     "original": "メージ",
-    "translation": "成伤害",
+    "translation": "",
     "stage": 3
   },
   {
@@ -5935,13 +5935,13 @@
   {
     "key": "Skill-31-Desc2-0x3BD8",
     "original": "い攻撃で相手に反撃を",
-    "translation": "的攻击不给对",
+    "translation": "的攻击不给对手反击",
     "stage": 3
   },
   {
     "key": "Skill-31-Desc3-0x3BCC",
     "original": "許さない",
-    "translation": "手反击",
+    "translation": "",
     "stage": 3
   },
   {
