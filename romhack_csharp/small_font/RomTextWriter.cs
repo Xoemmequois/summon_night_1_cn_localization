@@ -20,7 +20,6 @@ public static class RomTextWriter
         foreach (var item in items)
         {
             if (!validStages.Contains(item.Stage)) continue;
-            if (string.IsNullOrEmpty(item.Translation)) continue;
 
             var parts = item.Key.Split("-0x");
             if (parts.Length < 2) continue;
