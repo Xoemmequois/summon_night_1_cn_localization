@@ -5215,8 +5215,8 @@
   },
   {
     "key": "Skill-0-Name-0x42AC",
-    "original": "属性防具力　機",
-    "translation": "属性防具力　机",
+    "original": "属性防御　機",
+    "translation": "属性防御　机",
     "stage": 3
   },
   {
@@ -5239,8 +5239,8 @@
   },
   {
     "key": "Skill-1-Name-0x426C",
-    "original": "属性防具力　鬼",
-    "translation": "属性防具力　鬼",
+    "original": "属性防御　鬼",
+    "translation": "属性防御　鬼",
     "stage": 3
   },
   {
@@ -5263,8 +5263,8 @@
   },
   {
     "key": "Skill-2-Name-0x4244",
-    "original": "属性防具力　霊",
-    "translation": "属性防具力　灵",
+    "original": "属性防御　霊",
+    "translation": "属性防御　灵",
     "stage": 3
   },
   {
@@ -5287,8 +5287,8 @@
   },
   {
     "key": "Skill-3-Name-0x4204",
-    "original": "属性防具力　獣",
-    "translation": "属性防具力　兽",
+    "original": "属性防御　獣",
+    "translation": "属性防御　兽",
     "stage": 3
   },
   {
@@ -6252,8 +6252,8 @@
   },
   {
     "key": "Unknown-10-Desc1-0x3054",
-    "original": "単体防具力力アップ",
-    "translation": "单体防具力提升",
+    "original": "単体防御力アップ",
+    "translation": "单体防御力提升",
     "stage": 3
   },
   {
@@ -6312,7 +6312,7 @@
   },
   {
     "key": "Unknown-14-Desc1-0x2FCC",
-    "original": "単体攻撃力＆防具力力ア",
+    "original": "単体攻撃力＆防御力ア",
     "translation": "单体攻防上",
     "stage": 3
   },
@@ -6504,7 +6504,7 @@
   },
   {
     "key": "Unknown-27-Desc1-0x2EB8",
-    "original": "単体攻撃力＆防具力力ダ",
+    "original": "単体攻撃力＆防御力ダ",
     "translation": "单体攻防下降",
     "stage": 3
   },
