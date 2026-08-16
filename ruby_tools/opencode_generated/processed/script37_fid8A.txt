@@ -1,14 +1,14 @@
---- Group [left:none next=2012] ---
+--- Group [left:none next=2012] ---G
 うオぉオぉォ・・・
 +[FID:8A, TEXT:0001] 呜哦哦哦……
 
---- Group [right:none next=2012] ---
+--- Group [right:none next=2012] ---G
 そうだ、バノッサよ
 もっと絶望するのだ！
 +[FID:8A, TEXT:0002] 没错，巴诺萨啊
 +[FID:8A, TEXT:0003] 更加绝望吧！
 
---- Group [right:none next=2012] ---
+--- Group [right:none next=2012] ---G
 この世の全てを憎め
 それこそがお前に力を
 与えてくれるのだ
@@ -16,43 +16,43 @@
 +[FID:8A, TEXT:0005] 那才会给你
 +[FID:8A, TEXT:0006] 带来力量
 
---- Group [left:索尔 next=2012] ---
+--- Group [left:索尔 next=2012] ---G
 父上っ！！
 +[FID:8A, TEXT:0007] 父亲大人！！
 
---- Group [right:none next=2012] ---
+--- Group [right:none next=2012] ---G
 ソル
 もはや、お前は我が子
 ではない
 +[FID:8A, TEXT:0008] 索尔
 +[FID:8A, TEXT:0009] 你已不再
-+[FID:8A, TEXT:000A] 是我的儿子了
++[FID:8A, TEXT:000A] 是我的孩子了
 
---- Group [right:none next=2012] ---
+--- Group [right:none next=2012] ---G
 キール
 もはや、お前は我が子
 ではない
 +[FID:8A, TEXT:000B] 基尔
 -[FID:8A, TEXT:0009] 你已不再
--[FID:8A, TEXT:000A] 是我的儿子了
+-[FID:8A, TEXT:000A] 是我的孩子了
 
---- Group [right:none next=2012] ---
+--- Group [right:none next=2012] ---G
 カシス
 もはや、お前は我が子
 ではない
 +[FID:8A, TEXT:000C] 卡茜丝
 -[FID:8A, TEXT:0009] 你已不再
--[FID:8A, TEXT:000A] 是我的儿子了
+-[FID:8A, TEXT:000A] 是我的孩子了
 
---- Group [right:none next=2012] ---
+--- Group [right:none next=2012] ---G
 クラレット
 もはや、お前は我が子
 ではない
 +[FID:8A, TEXT:000D] 克拉蕾特
 -[FID:8A, TEXT:0009] 你已不再
--[FID:8A, TEXT:000A] 是我的儿子了
+-[FID:8A, TEXT:000A] 是我的孩子了
 
---- Group [right:none next=2012] ---
+--- Group [right:none next=2012] ---G
 育ててやった恩を忘れ
 成すべきこともできぬ
 お前に、価値など
@@ -62,13 +62,13 @@
 +[FID:8A, TEXT:0010] 你这种家伙
 +[FID:8A, TEXT:0011] 毫无价值！！
 
---- Group [left:主人公 next=2012] ---
+--- Group [left:主人公 next=2012] ---G
 オルドレイク・・・
 許すと思わないでよ！
 +[FID:8A, TEXT:0012] 奥尔德雷克……
 +[FID:8A, TEXT:001A] 别以为我会原谅你！
 
---- Group [left:主人公 next=2012] ---
+--- Group [left:主人公 next=2012] ---G
 オルドレイク・・・
 わたし・・・はじめて
 他人を・・・憎いと
@@ -78,19 +78,19 @@
 +[FID:8A, TEXT:001F] 对别人……产生了
 +[FID:8A, TEXT:0020] 憎恨之情……
 
---- Group [left:主人公 next=2012] ---
+--- Group [left:主人公 next=2012] ---G
 オルドレイク・・・
 僕はお前を許さない！
 -[FID:8A, TEXT:0012] 奥尔德雷克……
 +[FID:8A, TEXT:0018] 我绝不原谅你！
 
---- Group [left:主人公 next=2012] ---
+--- Group [left:主人公 next=2012] ---G
 オルドレイク・・・
 俺はお前を許さない！
 -[FID:8A, TEXT:0012] 奥尔德雷克……
 +[FID:8A, TEXT:0013] 我绝不原谅你！
 
---- Group [left:主人公 next=2012] ---
+--- Group [left:主人公 next=2012] ---G
 自分の目的のために、
 多くの人たちの生き方
 をねじ曲げたお前を
@@ -98,15 +98,15 @@
 +[FID:8A, TEXT:0015] 扭曲了无数人
 +[FID:8A, TEXT:0016] 生存方式的你
 
---- Group [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---G
 俺は絶対に許さない！
 +[FID:8A, TEXT:0017] 我绝对不会原谅！
 
---- Group [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---G
 僕は絶対に許さない！
 +[FID:8A, TEXT:0019] 我绝对不会原谅！
 
---- Group [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---G
 あたしは許さない
 ・・・・・・・
 許すと思うなぁっっ！
@@ -114,7 +114,7 @@
 +[FID:8A, TEXT:001C] ………………
 +[FID:8A, TEXT:001D] 别以为我会原谅你！
 
---- Group [left:主人公 next=2012] ---
+--- Group [left:主人公 next=2012] ---G
 わたしは・・・
 身勝手に、みなさんの
 生き方をもてあそぶ
@@ -124,11 +124,11 @@
 +[FID:8A, TEXT:0023] 大家生存方式
 +[FID:8A, TEXT:0024] 的你……
 
---- Group [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---G
 許しません
 +[FID:8A, TEXT:0025] 绝不原谅
 
---- Group [right:none next=2012] ---
+--- Group [right:none next=2012] ---G
 出来損ないの分際に、
 口出しされるいわれは
 ない
@@ -136,6 +136,6 @@
 +[FID:8A, TEXT:0027] 没资格
 +[FID:8A, TEXT:0028] 来插嘴
 
---- Group [right:none next=2012] ---
+--- Group [right:none next=2012] ---G
 身のほどを知れい！！
 +[FID:8A, TEXT:0029] 认清自己的身份吧！！
