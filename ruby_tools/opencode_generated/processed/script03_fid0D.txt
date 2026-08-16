@@ -84,7 +84,7 @@
 へいへい
 そうさせていただきま
 すよ・・・ケッ！
-+[FID:0D, TEXT:0017] 遵命遵命。
++[FID:0D, TEXT:0017] 遵命遵命
 +[FID:0D, TEXT:0018] 我这就去准备……切！
 +[FID:0D, TEXT:0019] 
 
@@ -489,7 +489,7 @@
 っただけらしいんだ
 +[FID:0D, TEXT:0093] 我从雷德那里听来的，
 +[FID:0D, TEXT:0094] 我好像只是被那些家伙
-+[FID:0D, TEXT:0095] 叫过来的而已
++[FID:0D, TEXT:0095] 召唤过来的而已
 +[FID:0D, TEXT:0096] 
 
 --- Group [left:主人公 next=0023] ---G
@@ -497,17 +497,17 @@
 僕はその召喚師に呼び
 出されたみたいなんだ
 +[FID:0D, TEXT:0097] 根据雷德的解释我好像
-+[FID:0D, TEXT:0098] 是被那个召唤师叫过来
-+[FID:0D, TEXT:0099] 的
++[FID:0D, TEXT:0098] 是被那个召唤师召唤
++[FID:0D, TEXT:0099] 过来的
 
 --- Group [left:主人公 next=0023] ---G
 あたしは、その召喚師
 に呼ばれてこっちの
 世界に来ちゃっただけ
 ・・・いい？
-+[FID:0D, TEXT:009A] 我只是被那个召唤师叫
-+[FID:0D, TEXT:009B] 到这个世界来的
-+[FID:0D, TEXT:009C] ……可以吗？
++[FID:0D, TEXT:009A] 我只是被那个召唤师
++[FID:0D, TEXT:009B] 召唤到这个世界来的
++[FID:0D, TEXT:009C] ……明白吗？
 +[FID:0D, TEXT:009D] 
 
 --- Group [left:主人公 next=0023] ---G
@@ -517,8 +517,8 @@
 れたみたいなんです
 +[FID:0D, TEXT:009E] 这是从雷德那里
 +[FID:0D, TEXT:009F] 听来的……
-+[FID:0D, TEXT:00A0] 我好像是被他们叫过来
-+[FID:0D, TEXT:00A1] 的
++[FID:0D, TEXT:00A0] 我好像是被他们召唤
++[FID:0D, TEXT:00A1] 过来的
 
 --- Group [left:主人公 next=0023] ---G
 えっと・・・つまりさ
@@ -655,20 +655,20 @@
 --- Group [left:none next=2012] ---G
 けど、ここで引き下が
 るのもなぁ・・・
-+[FID:0D, TEXT:00D1] 不过，就这样退走的话
++[FID:0D, TEXT:00D1] 不过，就这样撤退的话
 +[FID:0D, TEXT:00D2] 也不甘心啊……
 
 --- Group [left:none next=2012] ---G
 けど、ここで引き下が
 るのも、ムカツクし
--[FID:0D, TEXT:00D1] 不过，就这样退走的话
+-[FID:0D, TEXT:00D1] 不过，就这样撤退的话
 +[FID:0D, TEXT:00DD] 也不爽
 
 --- Group [left:none next=2012] ---G
 けど、ここで引き下が
 ったら、嫌われたまま
 になっちゃうし・・・
--[FID:0D, TEXT:00D1] 不过，就这样退走的话
+-[FID:0D, TEXT:00D1] 不过，就这样撤退的话
 +[FID:0D, TEXT:00E2] ，就会一直被讨厌下去
 +[FID:0D, TEXT:00E3] 了……
 
@@ -687,7 +687,7 @@
 --- Group [left:none next=2012] ---G
 しかし、このまま引き
 下がっても意味がない
-+[FID:0D, TEXT:00D7] 但是，就这样退走也没
++[FID:0D, TEXT:00D7] 但是，就这样撤退也没
 +[FID:0D, TEXT:00D8] 有意义
 
 --- Group [left:none next=0023] ---G
@@ -913,7 +913,7 @@
 で、人を非難するのは
 やめてほしいな
 +[FID:0D, TEXT:0126] 我希望你不要只凭单方
-+[FID:0D, TEXT:0127] 面的想法来指责我。
++[FID:0D, TEXT:0127] 面的想法来指责我
 +[FID:0D, TEXT:0128] 
 
 --- Group [left:none next=0023] ---G
@@ -1209,8 +1209,8 @@
 --- Group [left:none next=0023] ---G
 迷惑かけて悪かった
 すぐに出ていくよ
-+[FID:0D, TEXT:018B] 给你们添麻烦了，
-+[FID:0D, TEXT:018C] 对不起。我马上就走
++[FID:0D, TEXT:018B] 给你们添麻烦了，抱歉
++[FID:0D, TEXT:018C] 我马上就走
 
 --- Group [left:none next=0023] ---G
 ごめんね
@@ -1380,7 +1380,7 @@
 いつものことだもの
 気にしないで
 +[FID:0D, TEXT:01C3] 这是常有的事啦，
-+[FID:0D, TEXT:01C4] 别在意。
++[FID:0D, TEXT:01C4] 别在意
 
 --- Group [left:none next=0023] ---G
 話をしたかったんだけ
@@ -1414,11 +1414,11 @@
 
 --- Group [left:none next=0023] ---G
 かまわないよ
-+[FID:0D, TEXT:01CE] 没关系。
++[FID:0D, TEXT:01CE] 没关系
 
 --- Group [left:none next=0023] ---G
 僕はかまわない
-+[FID:0D, TEXT:01CF] 我不介意。
++[FID:0D, TEXT:01CF] 我不介意
 
 --- Group [left:none next=0023] ---G
 あ、おっけ！
@@ -1426,11 +1426,11 @@
 
 --- Group [left:none next=0023] ---G
 あ、はい
-+[FID:0D, TEXT:01D1] 啊，好。
++[FID:0D, TEXT:01D1] 啊，好
 
 --- Group [right:拉米 next=2012] ---G
 じゃ、問題なしね
-+[FID:0D, TEXT:01D2] 那么，没问题了。
++[FID:0D, TEXT:01D2] 那么，没问题了
 
 --- Group [left:none next=0023] ---G
 あのさ
@@ -1452,7 +1452,7 @@
 
 --- Group [right:拉米 next=2012] ---G
 気にしなくていいわよ
-+[FID:0D, TEXT:01DB] 不需要在意。
++[FID:0D, TEXT:01DB] 不需要在意
 
 --- Group [left:主人公 next=0023] ---G
 ・・・って
@@ -1973,8 +1973,8 @@
 そんなことしないわよ
 荷物持ちは別にいるし
 +[FID:0D, TEXT:0277] 呵呵呵
-+[FID:0D, TEXT:0278] 我才不会那样做哦。我
-+[FID:0D, TEXT:0279] 有别人帮我拿东西
++[FID:0D, TEXT:0278] 我才不会那样做哦
++[FID:0D, TEXT:0279] 我有别人帮我拿东西
 
 --- Group [left:none next=0023] ---G
 ・・・もしかして
@@ -2005,8 +2005,8 @@
 いっしょに行かせて
 もらいます
 +[FID:0D, TEXT:0283] 好的，那么，
-+[FID:0D, TEXT:0284] 我就一起去了。
-+[FID:0D, TEXT:0285] 拜托了。
++[FID:0D, TEXT:0284] 我就一起去了
++[FID:0D, TEXT:0285] 拜托了
 
 --- Group [left:none next=2012] ---G
 え、重いものは、自信
@@ -2450,7 +2450,7 @@
 そうなんだろうな
 街の様子を見れば、
 なんとなくわかる
-+[FID:0D, TEXT:031E] 是啊。
++[FID:0D, TEXT:031E] 是啊
 +[FID:0D, TEXT:031F] 看看城镇的样子，
 +[FID:0D, TEXT:0320] 大概也能明白
 

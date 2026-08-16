@@ -2793,7 +2793,7 @@
   {
     "key": "0003-0111",
     "original": "あ・・・",
-    "translation": "啊・・・",
+    "translation": "啊……",
     "stage": 3
   },
   {
@@ -2805,7 +2805,7 @@
   {
     "key": "0003-0113",
     "original": "よかったのかな・・・",
-    "translation": "好吗・・・",
+    "translation": "好吗……",
     "stage": 3
   },
   {
@@ -4527,7 +4527,7 @@
   {
     "key": "0006-0127",
     "original": "があちこちに飛びちっ",
-    "translation": "色的碎片，随处散落在",
+    "translation": "色的碎片，随意散落在",
     "stage": 3
   },
   {
@@ -4863,7 +4863,7 @@
   {
     "key": "0007-0022",
     "original": "ここに来たのかもよく",
-    "translation": "是怎么来到这里的。",
+    "translation": "是怎么来到这里的",
     "stage": 3
   },
   {
@@ -5349,7 +5349,7 @@
   {
     "key": "0007-0103",
     "original": "ここまで来たのかも、",
-    "translation": "是怎么来到这里的。",
+    "translation": "是怎么来到这里的",
     "stage": 3
   },
   {
@@ -6327,19 +6327,19 @@
   {
     "key": "0009-0009",
     "original": "どいつもこいつも、",
-    "translation": "你们这帮家伙，",
+    "translation": "一个两个的，",
     "stage": 3
   },
   {
     "key": "0009-0010",
     "original": "だらしがねえ",
-    "translation": "太没用了",
+    "translation": "都太没用了",
     "stage": 3
   },
   {
     "key": "0009-0011",
     "original": "さがってな",
-    "translation": "退下吧。",
+    "translation": "退下吧",
     "stage": 3
   },
   {
@@ -6381,7 +6381,7 @@
   {
     "key": "0009-0018",
     "original": "そこまではしねえよ",
-    "translation": "我还不至于杀人啦。",
+    "translation": "我还不至于杀人啦",
     "stage": 3
   },
   {
@@ -6651,7 +6651,7 @@
   {
     "key": "0010-0025",
     "original": "ゆるしてくれないか",
-    "translation": "能原谅我吗",
+    "translation": "能原谅我们吗",
     "stage": 3
   },
   {
@@ -7149,7 +7149,7 @@
   {
     "key": "0011-0047",
     "original": "なんかしちゃうんだ？",
-    "translation": "还会做这种事？",
+    "translation": "",
     "stage": 3
   },
   {
@@ -7203,7 +7203,7 @@
   {
     "key": "0011-0056",
     "original": "あー、リプレ",
-    "translation": "啊，利布雷",
+    "translation": "啊，莉普蕾",
     "stage": 3
   },
   {
@@ -7689,7 +7689,7 @@
   {
     "key": "0011-0137",
     "original": "た時には、そいつらは",
-    "translation": "就已经都死了吧？吧？",
+    "translation": "就已经都死了吧？",
     "stage": 3
   },
   {
@@ -7797,7 +7797,7 @@
   {
     "key": "0012-0002",
     "original": "　この世界に呼び出されたらしい",
-    "translation": "　被召唤到这个世界的。",
+    "translation": "　被召唤到这个世界的",
     "stage": 3
   },
   {
@@ -7821,7 +7821,7 @@
   {
     "key": "0012-0006",
     "original": "　この世界に呼ばれたらしい",
-    "translation": "　被召唤到这个世界的。",
+    "translation": "　被召唤到这个世界的",
     "stage": 3
   },
   {
@@ -7833,7 +7833,7 @@
   {
     "key": "0012-0008",
     "original": "　　だけど、現実は現実なんだ",
-    "translation": "　　但是，现实就是现实啊。",
+    "translation": "　　但是，现实就是现实啊",
     "stage": 3
   },
   {
@@ -7875,7 +7875,7 @@
   {
     "key": "0012-0015",
     "original": "　この世界に呼び出されたみたい",
-    "translation": "　被召唤到这个世界的。",
+    "translation": "　被召唤到这个世界的",
     "stage": 3
   },
   {
@@ -7899,7 +7899,7 @@
   {
     "key": "0012-0019",
     "original": "　　だけど、現実は現実",
-    "translation": "　　但是，现实就是现实。",
+    "translation": "　　但是，现实就是现实",
     "stage": 3
   },
   {
@@ -8043,7 +8043,7 @@
   {
     "key": "0013-0023",
     "original": "へいへい",
-    "translation": "遵命遵命。",
+    "translation": "遵命遵命",
     "stage": 3
   },
   {
@@ -8799,7 +8799,7 @@
   {
     "key": "0013-0149",
     "original": "らに呼びつけられちま",
-    "translation": "叫过来的而已",
+    "translation": "召唤过来的而已",
     "stage": 3
   },
   {
@@ -8817,31 +8817,31 @@
   {
     "key": "0013-0152",
     "original": "僕はその召喚師に呼び",
-    "translation": "是被那个召唤师叫过来",
+    "translation": "是被那个召唤师召唤",
     "stage": 3
   },
   {
     "key": "0013-0153",
     "original": "出されたみたいなんだ",
-    "translation": "的",
+    "translation": "过来的",
     "stage": 3
   },
   {
     "key": "0013-0154",
     "original": "あたしは、その召喚師",
-    "translation": "我只是被那个召唤师叫",
+    "translation": "我只是被那个召唤师",
     "stage": 3
   },
   {
     "key": "0013-0155",
     "original": "に呼ばれてこっちの",
-    "translation": "到这个世界来的",
+    "translation": "召唤到这个世界来的",
     "stage": 3
   },
   {
     "key": "0013-0156",
     "original": "世界に来ちゃっただけ",
-    "translation": "……可以吗？",
+    "translation": "……明白吗？",
     "stage": 3
   },
   {
@@ -8865,13 +8865,13 @@
   {
     "key": "0013-0160",
     "original": "わたしは、彼らに呼ば",
-    "translation": "我好像是被他们叫过来",
+    "translation": "我好像是被他们召唤",
     "stage": 3
   },
   {
     "key": "0013-0161",
     "original": "れたみたいなんです",
-    "translation": "的",
+    "translation": "过来的",
     "stage": 3
   },
   {
@@ -9159,7 +9159,7 @@
   {
     "key": "0013-0209",
     "original": "けど、ここで引き下が",
-    "translation": "不过，就这样退走的话",
+    "translation": "不过，就这样撤退的话",
     "stage": 3
   },
   {
@@ -9195,7 +9195,7 @@
   {
     "key": "0013-0215",
     "original": "しかし、このまま引き",
-    "translation": "但是，就这样退走也没",
+    "translation": "但是，就这样撤退也没",
     "stage": 3
   },
   {
@@ -9675,7 +9675,7 @@
   {
     "key": "0013-0295",
     "original": "で、人を非難するのは",
-    "translation": "面的想法来指责我。",
+    "translation": "面的想法来指责我",
     "stage": 3
   },
   {
@@ -10275,13 +10275,13 @@
   {
     "key": "0013-0395",
     "original": "迷惑かけて悪かった",
-    "translation": "给你们添麻烦了，",
+    "translation": "给你们添麻烦了，抱歉",
     "stage": 3
   },
   {
     "key": "0013-0396",
     "original": "すぐに出ていくよ",
-    "translation": "对不起。我马上就走",
+    "translation": "我马上就走",
     "stage": 3
   },
   {
@@ -10617,7 +10617,7 @@
   {
     "key": "0013-0452",
     "original": "気にしないで",
-    "translation": "别在意。",
+    "translation": "别在意",
     "stage": 3
   },
   {
@@ -10677,13 +10677,13 @@
   {
     "key": "0013-0462",
     "original": "かまわないよ",
-    "translation": "没关系。",
+    "translation": "没关系",
     "stage": 3
   },
   {
     "key": "0013-0463",
     "original": "僕はかまわない",
-    "translation": "我不介意。",
+    "translation": "我不介意",
     "stage": 3
   },
   {
@@ -10695,13 +10695,13 @@
   {
     "key": "0013-0465",
     "original": "あ、はい",
-    "translation": "啊，好。",
+    "translation": "啊，好",
     "stage": 3
   },
   {
     "key": "0013-0466",
     "original": "じゃ、問題なしね",
-    "translation": "那么，没问题了。",
+    "translation": "那么，没问题了",
     "stage": 3
   },
   {
@@ -10755,7 +10755,7 @@
   {
     "key": "0013-0475",
     "original": "気にしなくていいわよ",
-    "translation": "不需要在意。",
+    "translation": "不需要在意",
     "stage": 3
   },
   {
@@ -11697,13 +11697,13 @@
   {
     "key": "0013-0632",
     "original": "そんなことしないわよ",
-    "translation": "我才不会那样做哦。我",
+    "translation": "我才不会那样做哦",
     "stage": 3
   },
   {
     "key": "0013-0633",
     "original": "荷物持ちは別にいるし",
-    "translation": "有别人帮我拿东西",
+    "translation": "我有别人帮我拿东西",
     "stage": 3
   },
   {
@@ -11769,13 +11769,13 @@
   {
     "key": "0013-0644",
     "original": "いっしょに行かせて",
-    "translation": "我就一起去了。",
+    "translation": "我就一起去了",
     "stage": 3
   },
   {
     "key": "0013-0645",
     "original": "もらいます",
-    "translation": "拜托了。",
+    "translation": "拜托了",
     "stage": 3
   },
   {
@@ -12693,7 +12693,7 @@
   {
     "key": "0013-0798",
     "original": "そうなんだろうな",
-    "translation": "是啊。",
+    "translation": "是啊",
     "stage": 3
   },
   {
@@ -15099,7 +15099,7 @@
   {
     "key": "0014-0031",
     "original": "おい、リプレ",
-    "translation": "喂，利布雷",
+    "translation": "喂，莉普蕾",
     "stage": 3
   },
   {
@@ -16017,7 +16017,7 @@
   {
     "key": "0015-0093",
     "original": "な、なあ、リプレ",
-    "translation": "喂、喂，利布雷",
+    "translation": "喂、喂，莉普蕾",
     "stage": 3
   },
   {
@@ -16119,7 +16119,7 @@
   {
     "key": "0015-0110",
     "original": "リプレ？",
-    "translation": "利布雷？",
+    "translation": "莉普蕾？",
     "stage": 3
   },
   {
@@ -16155,7 +16155,7 @@
   {
     "key": "0015-0116",
     "original": "くれないか、リプレ",
-    "translation": "下一个地方吗，利布雷",
+    "translation": "下一个地方吗，莉普蕾",
     "stage": 3
   },
   {
@@ -16179,7 +16179,7 @@
   {
     "key": "0015-0120",
     "original": "ねぇリプレ",
-    "translation": "喂，利布雷",
+    "translation": "喂，莉普蕾",
     "stage": 3
   },
   {
@@ -16233,7 +16233,7 @@
   {
     "key": "0015-0129",
     "original": "リプレさん",
-    "translation": "利布雷小姐",
+    "translation": "莉普蕾小姐",
     "stage": 3
   },
   {
@@ -16857,7 +16857,7 @@
   {
     "key": "0015-0233",
     "original": "おかげで、ね！",
-    "translation": "和利布雷呢！",
+    "translation": "和莉普蕾呢！",
     "stage": 3
   },
   {
@@ -17601,7 +17601,7 @@
   {
     "key": "0015-0357",
     "original": "リプレはやく！",
-    "translation": "快点，利布雷！",
+    "translation": "快点，莉普蕾！",
     "stage": 3
   },
   {
@@ -17625,7 +17625,7 @@
   {
     "key": "0015-0361",
     "original": "さあ、リプレさん！",
-    "translation": "快点，利布雷小姐！",
+    "translation": "快点，莉普蕾小姐！",
     "stage": 3
   },
   {

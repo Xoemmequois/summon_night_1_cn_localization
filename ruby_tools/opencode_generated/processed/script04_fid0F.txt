@@ -301,7 +301,7 @@
 そんなことより今は
 こいつに街を案内する
 のが先だろっ？
-+[FID:0F, TEXT:005D] 喂、喂，利布雷
++[FID:0F, TEXT:005D] 喂、喂，莉普蕾
 +[FID:0F, TEXT:005E] 比起那个，现在
 +[FID:0F, TEXT:005F] 应该先带这家伙
 +[FID:0F, TEXT:0060] 逛逛城里吧？
@@ -342,7 +342,7 @@
 +[FID:0F, TEXT:006B] 既然知道了，
 +[FID:0F, TEXT:007F] 就不便久留了
 +[FID:0F, TEXT:0080] 请带我们去下一处吧
-+[FID:0F, TEXT:0081] 利布雷小姐
++[FID:0F, TEXT:0081] 莉普蕾小姐
 
 --- Group [left:主人公 next=0023] ---G
 そうとわかったら、
@@ -352,7 +352,7 @@
 -[FID:0F, TEXT:006B] 既然知道了，
 +[FID:0F, TEXT:006C] 就没必要多待了
 +[FID:0F, TEXT:006D] 带我们去下一处吧
-+[FID:0F, TEXT:006E] 利布雷？
++[FID:0F, TEXT:006E] 莉普蕾？
 
 --- Group [left:主人公 next=2012] ---G
 どうやらここは僕に
@@ -368,7 +368,7 @@
 くれないか、リプレ
 +[FID:0F, TEXT:0072] 这儿就差不多了
 +[FID:0F, TEXT:0073] 能带我们去
-+[FID:0F, TEXT:0074] 下一个地方吗，利布雷
++[FID:0F, TEXT:0074] 下一个地方吗，莉普蕾
 
 --- Group [left:主人公 next=2012] ---G
 ねぇねぇ、
@@ -383,7 +383,7 @@
 こんなところより、
 次を案内してくれ
 ないかな？
-+[FID:0F, TEXT:0078] 喂，利布雷
++[FID:0F, TEXT:0078] 喂，莉普蕾
 +[FID:0F, TEXT:0079] 与其在这种地方，
 +[FID:0F, TEXT:007A] 不如带我们去
 +[FID:0F, TEXT:007B] 下一处吧？
@@ -401,7 +401,7 @@
 --- Group [left:none next=0023] ---G
 リプレさん
 逃げて！
--[FID:0F, TEXT:0081] 利布雷小姐
+-[FID:0F, TEXT:0081] 莉普蕾小姐
 +[FID:0F, TEXT:014D] 快逃！
 
 --- Group [right:莉普蕾 next=2012] ---G
@@ -708,7 +708,7 @@
 おかげで、ね！
 +[FID:0F, TEXT:00E7] 嗯
 +[FID:0F, TEXT:00E8] 多亏了加泽尔
-+[FID:0F, TEXT:00E9] 和利布雷呢！
++[FID:0F, TEXT:00E9] 和莉普蕾呢！
 
 --- Group [left:主人公 next=0023] ---G
 ええ
@@ -1084,7 +1084,7 @@
 
 --- Group [left:none next=0023] ---G
 リプレはやく！
-+[FID:0F, TEXT:0165] 快点，利布雷！
++[FID:0F, TEXT:0165] 快点，莉普蕾！
 
 --- Group [left:none next=2012] ---G
 わかりません・・・
@@ -1098,7 +1098,7 @@
 
 --- Group [left:none next=0023] ---G
 さあ、リプレさん！
-+[FID:0F, TEXT:0169] 快点，利布雷小姐！
++[FID:0F, TEXT:0169] 快点，莉普蕾小姐！
 
 --- Group [right:莉普蕾 next=2012] ---G
 ・・・わかった
