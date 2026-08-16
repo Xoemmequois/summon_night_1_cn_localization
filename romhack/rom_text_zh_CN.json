@@ -7951,5 +7951,417 @@
     "key": "Unreferenced-0x88252",
     "original": "\"\u0001ません",
     "translation": ""
+  },
+  {
+    "key": "NameTable-Hiragana-0x7F568",
+    "original": "あいうえお　わ　を　んかきくけこ　がぎぐげごさしすせそ　ざじずぜぞたちつてと　だぢづでどなにぬねの　ばびぶべぼはひふへほ　ぱぴぷぺぽまみむめも　ぁぃぅぇぉや　ゆ　よ　っゃゅょーらりるれろ　゛゜　　　",
+    "translation": ""
+  },
+  {
+    "key": "NameTable-Katakana-0x7F630",
+    "original": "アイウエオ　ワ　ヲ　ンカキクケコ　ガギグゲゴサシスセソ　ザジズゼゾタチツテト　ダヂヅデドナニヌネノ　バビブベボハヒフヘホ　パピプペポマミムメモ　ァィゥェォヤ　ユ　ヨ　ッャュョーラリルレロ　ヴヰヱ゛゜",
+    "translation": ""
+  },
+  {
+    "key": "NameTable-Symbols-0x7F6F8",
+    "original": "ＡＢＣＤＥＦＧＨＩＪＫＬＭＮＯＰＱＲＳＴＵＶＷＸＹＺａｂｃｄｅｆｇｈｉｊｋｌｍｎｏｐｑｒｓｔｕｖｗｘｙｚ・‥…１２３４５６７８９０～！？＃＊％＆∞♂♀∀♪＋－×÷＝￥★▼▲■●＜＞（）「」【】　　　",
+    "translation": ""
+  },
+  {
+    "key": "NameTable-Kanji-0x7F7C0",
+    "original": "悪暗闇一壱炎王化我殻眼岩機気輝鬼九球強君撃傑剣賢幻元言五光甲獄魂砕三斬使四死式七者呪十拾獣瞬盾将消神震刃迅星生精聖石切千戦双息大断地虫超長鉄天電討毒二弐縛爆八番秘百武舞封福壁吠砲魔眠無命滅雷落霊零六",
+    "translation": ""
+  },
+  {
+    "key": "Hint-0-Slot0-0x5410",
+    "original": "ボーナスポイントが余",
+    "translation": "奖励点数还有剩",
+    "stage": 3
+  },
+  {
+    "key": "Hint-0-Slot1-0x5404",
+    "original": "っています",
+    "translation": "余",
+    "stage": 3
+  },
+  {
+    "key": "Hint-1-Slot0-0x5428",
+    "original": "経験値が足りません",
+    "translation": "经验值不足",
+    "stage": 3
+  },
+  {
+    "key": "Hint-2-Slot0-0x5448",
+    "original": "レベルアップできる人",
+    "translation": "可以升级的人",
+    "stage": 3
+  },
+  {
+    "key": "Hint-2-Slot1-0x543C",
+    "original": "がいません",
+    "translation": "不存在",
+    "stage": 3
+  },
+  {
+    "key": "Hint-3-Slot0-0x546C",
+    "original": "これ以上レベルアップ",
+    "translation": "不能再升级",
+    "stage": 3
+  },
+  {
+    "key": "Hint-3-Slot1-0x5460",
+    "original": "できません",
+    "translation": "了",
+    "stage": 3
+  },
+  {
+    "key": "Hint-4-Slot0-0x5490",
+    "original": "装備できる武器を持っ",
+    "translation": "没有可以装备的",
+    "stage": 3
+  },
+  {
+    "key": "Hint-4-Slot1-0x5484",
+    "original": "ていません",
+    "translation": "武器",
+    "stage": 3
+  },
+  {
+    "key": "Hint-5-Slot0-0x54A8",
+    "original": "装備できる防具を持っ",
+    "translation": "没有可以装备的",
+    "stage": 3
+  },
+  {
+    "key": "Hint-5-Slot1-0x5484",
+    "original": "ていません",
+    "translation": "防具",
+    "stage": 3
+  },
+  {
+    "key": "Hint-6-Slot0-0x54D4",
+    "original": "装備できるアクセサリ",
+    "translation": "没有可以装备的",
+    "stage": 3
+  },
+  {
+    "key": "Hint-6-Slot1-0x54C0",
+    "original": "を持っていません",
+    "translation": "饰品",
+    "stage": 3
+  },
+  {
+    "key": "Hint-7-Slot0-0x54F8",
+    "original": "装備できる石を持って",
+    "translation": "没有可以装备的",
+    "stage": 3
+  },
+  {
+    "key": "Hint-7-Slot1-0x54EC",
+    "original": "いません",
+    "translation": "石头",
+    "stage": 3
+  },
+  {
+    "key": "Hint-8-Slot0-0x5510",
+    "original": "アイテムを持っていま",
+    "translation": "没有物",
+    "stage": 3
+  },
+  {
+    "key": "Hint-8-Slot1-0x88244",
+    "original": "せん",
+    "translation": "品",
+    "stage": 3
+  },
+  {
+    "key": "Hint-9-Slot0-0x5528",
+    "original": "装備できる武器は売っ",
+    "translation": "没有可装备的武器",
+    "stage": 3
+  },
+  {
+    "key": "Hint-9-Slot1-0x5484",
+    "original": "ていません",
+    "translation": "出售",
+    "stage": 3
+  },
+  {
+    "key": "Hint-10-Slot0-0x5540",
+    "original": "装備できる防具は売っ",
+    "translation": "没有可装备的防具",
+    "stage": 3
+  },
+  {
+    "key": "Hint-10-Slot1-0x5484",
+    "original": "ていません",
+    "translation": "出售",
+    "stage": 3
+  },
+  {
+    "key": "Hint-11-Slot0-0x54D4",
+    "original": "装備できるアクセサリ",
+    "translation": "没有可装备的饰品",
+    "stage": 3
+  },
+  {
+    "key": "Hint-11-Slot1-0x5558",
+    "original": "は売っていません",
+    "translation": "出售",
+    "stage": 3
+  },
+  {
+    "key": "Hint-12-Slot0-0x5764",
+    "original": "所持金が足りません",
+    "translation": "金钱不足",
+    "stage": 3
+  },
+  {
+    "key": "Hint-13-Slot0-0x5778",
+    "original": "たくさん持ってます",
+    "translation": "已经持有许多",
+    "stage": 3
+  },
+  {
+    "key": "Hint-14-Slot0-0x578C",
+    "original": "武器は売っていません",
+    "translation": "没有武器出售",
+    "stage": 3
+  },
+  {
+    "key": "Hint-15-Slot0-0x57A4",
+    "original": "防具は売っていません",
+    "translation": "没有防具出售",
+    "stage": 3
+  },
+  {
+    "key": "Hint-16-Slot0-0x57BC",
+    "original": "アクセサリは売ってい",
+    "translation": "没有饰品出售",
+    "stage": 3
+  },
+  {
+    "key": "Hint-16-Slot1-0x88254",
+    "original": "ません",
+    "translation": "",
+    "stage": 3
+  },
+  {
+    "key": "Hint-18-Slot0-0x57D4",
+    "original": "アイテムは売っていま",
+    "translation": "没有物品出售",
+    "stage": 3
+  },
+  {
+    "key": "Hint-18-Slot1-0x8825C",
+    "original": "せん",
+    "translation": "",
+    "stage": 3
+  },
+  {
+    "key": "Hint-19-Slot0-0x57EC",
+    "original": "売れる武器がありませ",
+    "translation": "没有可卖的武器",
+    "stage": 3
+  },
+  {
+    "key": "Hint-19-Slot1-0x88264",
+    "original": "ん",
+    "translation": "",
+    "stage": 3
+  },
+  {
+    "key": "Hint-20-Slot0-0x5804",
+    "original": "売れる防具がありませ",
+    "translation": "没有可卖的防具",
+    "stage": 3
+  },
+  {
+    "key": "Hint-20-Slot1-0x88264",
+    "original": "ん",
+    "translation": "",
+    "stage": 3
+  },
+  {
+    "key": "Hint-21-Slot0-0x5828",
+    "original": "売れるアクセサリがあ",
+    "translation": "没有可卖的饰品",
+    "stage": 3
+  },
+  {
+    "key": "Hint-21-Slot1-0x581C",
+    "original": "りません",
+    "translation": "",
+    "stage": 3
+  },
+  {
+    "key": "Hint-23-Slot0-0x5840",
+    "original": "売れるアイテムがあり",
+    "translation": "没有可卖的物品",
+    "stage": 3
+  },
+  {
+    "key": "Hint-23-Slot1-0x88254",
+    "original": "ません",
+    "translation": "",
+    "stage": 3
+  },
+  {
+    "key": "Unreferenced-0x4A84",
+    "original": "ハヤト",
+    "translation": ""
+  },
+  {
+    "key": "Unreferenced-0x4A90",
+    "original": "ぱぁとなぁ",
+    "translation": ""
+  },
+  {
+    "key": "Unreferenced-0x4D04",
+    "original": "サモンナイト",
+    "translation": "召唤之夜",
+    "stage": 3
+  },
+  {
+    "key": "Unreferenced-0x4D14",
+    "original": "データが壊れています",
+    "translation": "存档已损坏",
+    "stage": 3
+  },
+  {
+    "key": "Unreferenced-0x4D2C",
+    "original": "新規作成",
+    "translation": "新建存档",
+    "stage": 3
+  },
+  {
+    "key": "Unreferenced-0x4D38",
+    "original": "空きブロックがありま",
+    "translation": "有可用存档位",
+    "stage": 3
+  },
+  {
+    "key": "Unreferenced-0x4D50",
+    "original": "データを上書きします",
+    "translation": "将覆盖存档",
+    "stage": 3
+  },
+  {
+    "key": "Unreferenced-0x4D7C",
+    "original": "サモンナイト　データ",
+    "translation": "召唤之夜　存档",
+    "stage": 3
+  },
+  {
+    "key": "Unreferenced-0x5160",
+    "original": "ＨＡＹＡＴＯ",
+    "translation": ""
+  },
+  {
+    "key": "Unreferenced-0x5170",
+    "original": "はやと",
+    "translation": ""
+  },
+  {
+    "key": "Unreferenced-0x517C",
+    "original": "ハヤト",
+    "translation": ""
+  },
+  {
+    "key": "Unreferenced-0x5188",
+    "original": "ＴＯＨＹＡ",
+    "translation": ""
+  },
+  {
+    "key": "Unreferenced-0x5198",
+    "original": "とうや",
+    "translation": ""
+  },
+  {
+    "key": "Unreferenced-0x51A4",
+    "original": "トウヤ",
+    "translation": ""
+  },
+  {
+    "key": "Unreferenced-0x51B0",
+    "original": "ＮＡＴＵＭＩ",
+    "translation": ""
+  },
+  {
+    "key": "Unreferenced-0x51C0",
+    "original": "なつみ",
+    "translation": ""
+  },
+  {
+    "key": "Unreferenced-0x51CC",
+    "original": "ナツミ",
+    "translation": ""
+  },
+  {
+    "key": "Unreferenced-0x51D8",
+    "original": "ＡＹＡ",
+    "translation": ""
+  },
+  {
+    "key": "Unreferenced-0x51E4",
+    "original": "しんたろう",
+    "translation": ""
+  },
+  {
+    "key": "Unreferenced-0x51F0",
+    "original": "ひろかず",
+    "translation": ""
+  },
+  {
+    "key": "Unreferenced-0x51FC",
+    "original": "きのぴい",
+    "translation": ""
+  },
+  {
+    "key": "Unreferenced-0x5208",
+    "original": "おっさん",
+    "translation": ""
+  },
+  {
+    "key": "Unreferenced-0x5214",
+    "original": "バンプレ石",
+    "translation": ""
+  },
+  {
+    "key": "Unreferenced-0x5220",
+    "original": "さぶしなりを",
+    "translation": ""
+  },
+  {
+    "key": "Unreferenced-0x5230",
+    "original": "こぼしキャラ",
+    "translation": ""
+  },
+  {
+    "key": "Unreferenced-0x5240",
+    "original": "きむきむ",
+    "translation": ""
+  },
+  {
+    "key": "Unreferenced-0x524C",
+    "original": "まおう！",
+    "translation": ""
+  },
+  {
+    "key": "Unreferenced-0x5258",
+    "original": "エルゴの王",
+    "translation": ""
+  },
+  {
+    "key": "Unreferenced-0x556C",
+    "original": "装備をはずす",
+    "translation": "卸下装备",
+    "stage": 3
+  },
+  {
+    "key": "Unreferenced-0x5A50",
+    "original": "ありません",
+    "translation": "没有",
+    "stage": 3
   }
 ]
