@@ -853,8 +853,8 @@
 --- Group [right:拉米 next=2012] ---G
 食べてくための金が、
 欲しかったからさ
-+[FID:0D, TEXT:0112] 我们是想要用来糊口的钱
-+[FID:0D, TEXT:0113] 啊
++[FID:0D, TEXT:0112] 我们是想要用来
++[FID:0D, TEXT:0113] 糊口的钱啊
 
 --- Group [right:拉米 next=2012] ---G
 今朝のメシだってな、
@@ -1570,7 +1570,7 @@
 ガゼルもおんなじ
 私たち、同じ年に
 拾われた捨て子なんだ
-+[FID:0D, TEXT:01FE] ガゼル也一样
++[FID:0D, TEXT:01FE] 加泽尔也一样
 +[FID:0D, TEXT:01FF] 我们是同年被
 +[FID:0D, TEXT:0200] 捡来的弃婴
 
@@ -2196,7 +2196,7 @@
 ん〜、あんまり気に
 してても・・・
 +[FID:0D, TEXT:02CA] 嗯，太在意这些的话
-+[FID:0D, TEXT:02CB] 也不个办法啊……
++[FID:0D, TEXT:02CB] 也不是个办法啊……
 
 --- Group [right:拉米 next=2012] ---G
 じゃあ、またあとで
@@ -2206,7 +2206,7 @@
 あ・・・はい！
 いってらっしゃ〜い
 +[FID:0D, TEXT:02CD] 啊……好的！
-+[FID:0D, TEXT:02D0] 路上小心哦~
++[FID:0D, TEXT:02D0] 路上小心哦〜
 
 --- Group [left:none next=0023] ---G
 あ・・・はい！
@@ -2912,32 +2912,32 @@
 ものがわからないのか
 なあ？
 +[FID:0D, TEXT:03A8] 啊啊，为什么女人就是
-+[FID:0D, TEXT:03A9] 不懂海贼的帅气呢？
++[FID:0D, TEXT:03A9] 不懂海盗的帅气呢？
 +[FID:0D, TEXT:03AA] 
 +[FID:0D, TEXT:03AB] 
 
 --- Group [left:主人公 next=0023] ---G
 アルバは海賊に
 なりたいのかい？
-+[FID:0D, TEXT:03AC] 阿尔巴想成为海贼吗？
++[FID:0D, TEXT:03AC] 阿尔巴想成为海盗吗？
 +[FID:0D, TEXT:03AE] 你想成为那样的人吗？
 
 --- Group [left:none next=0023] ---G
 アルバは海賊に
 なりたいのか？
--[FID:0D, TEXT:03AC] 阿尔巴想成为海贼吗？
+-[FID:0D, TEXT:03AC] 阿尔巴想成为海盗吗？
 +[FID:0D, TEXT:03AD] 你想成为那样的人吗？
 
 --- Group [left:none next=0023] ---G
 アルバは海賊に
 なりたいの？
--[FID:0D, TEXT:03AC] 阿尔巴想成为海贼吗？
+-[FID:0D, TEXT:03AC] 阿尔巴想成为海盗吗？
 +[FID:0D, TEXT:03AF] 想成为那样的人？
 
 --- Group [left:主人公 next=0023] ---G
 アルバくんは海賊に
 なりたいの？
-+[FID:0D, TEXT:03B0] 阿尔巴想成为海贼吗？
++[FID:0D, TEXT:03B0] 阿尔巴想成为海盗吗？
 -[FID:0D, TEXT:03AF] 想成为那样的人？
 
 --- Group [right:none next=2012] ---G
@@ -3009,8 +3009,8 @@
 --- Group [right:拉米 next=2012] ---G
 早く大きくなって、オ
 イラは騎士になるんだ
-+[FID:0D, TEXT:03C4] 快点长大，我要成为骑
-+[FID:0D, TEXT:03C5] 士的
++[FID:0D, TEXT:03C4] 快点长大，我要成为
++[FID:0D, TEXT:03C5] 骑士
 
 --- Group [right:加泽尔 next=2012] ---G
 そんでもって、リプレ
