@@ -2,7 +2,8 @@
   {
     "key": "Equip-0-Name-0x1948",
     "original": "装備無し",
-    "translation": ""
+    "translation": "无装备",
+    "stage": 3
   },
   {
     "key": "Equip-1-Name-0x193C",
@@ -13,4627 +14,5552 @@
   {
     "key": "Equip-1-Desc1-0x1930",
     "original": "武器力１",
-    "translation": ""
+    "translation": "武器力１",
+    "stage": 3
   },
   {
     "key": "Equip-2-Name-0x1920",
     "original": "ノヴィスソード",
-    "translation": ""
+    "translation": "新手剑",
+    "stage": 3
   },
   {
     "key": "Equip-2-Desc1-0x1914",
     "original": "武器力４",
-    "translation": ""
+    "translation": "武器力４",
+    "stage": 3
   },
   {
     "key": "Equip-3-Name-0x1904",
     "original": "ベイグナート",
-    "translation": ""
+    "translation": "贝格纳特",
+    "stage": 3
   },
   {
     "key": "Equip-3-Desc1-0x18EC",
-    "original": "武器力８\u3000ＬＵＣ＋１",
-    "translation": ""
+    "original": "武器力８　ＬＵＣ＋１",
+    "translation": "武器力８　ＬＵＣ＋１",
+    "stage": 3
   },
   {
     "key": "Equip-4-Name-0x18DC",
     "original": "ハースニール",
-    "translation": ""
+    "translation": "哈斯尼尔",
+    "stage": 3
   },
   {
     "key": "Equip-4-Desc1-0x18D0",
     "original": "武器力１２",
-    "translation": ""
+    "translation": "武器力１２",
+    "stage": 3
   },
   {
     "key": "Equip-5-Name-0x18C0",
     "original": "スレッショルド",
-    "translation": ""
+    "translation": "阈限之剑",
+    "stage": 3
   },
   {
     "key": "Equip-5-Desc1-0x18B4",
     "original": "武器力２０",
-    "translation": ""
+    "translation": "武器力２０",
+    "stage": 3
   },
   {
     "key": "Equip-6-Name-0x18A4",
     "original": "カルナセイバー",
-    "translation": ""
+    "translation": "卡尔纳剑",
+    "stage": 3
   },
   {
     "key": "Equip-6-Desc1-0x188C",
-    "original": "武器力２４\u3000ＤＥＸ＋",
-    "translation": ""
+    "original": "武器力２４　ＤＥＸ＋",
+    "translation": "武器力２４　ＤＥＸ＋",
+    "stage": 3
   },
   {
     "key": "Equip-6-Desc2-0x87FA4",
     "original": "１",
-    "translation": ""
+    "translation": "１",
+    "stage": 3
   },
   {
     "key": "Equip-7-Name-0x1878",
     "original": "パレリィセイバー",
-    "translation": ""
+    "translation": "帕雷利剑",
+    "stage": 3
   },
   {
     "key": "Equip-7-Desc1-0x186C",
     "original": "武器力２７",
-    "translation": ""
+    "translation": "武器力２７",
+    "stage": 3
   },
   {
     "key": "Equip-8-Name-0x1858",
     "original": "エンジェルペイン",
-    "translation": ""
+    "translation": "天使之痛",
+    "stage": 3
   },
   {
     "key": "Equip-8-Desc1-0x184C",
     "original": "武器力３０",
-    "translation": ""
+    "translation": "武器力３０",
+    "stage": 3
   },
   {
     "key": "Equip-9-Name-0x1838",
     "original": "ウェイドラッシュ",
-    "translation": ""
+    "translation": "韦德之鞭",
+    "stage": 3
   },
   {
     "key": "Equip-9-Desc1-0x182C",
     "original": "武器力３６",
-    "translation": ""
+    "translation": "武器力３６",
+    "stage": 3
   },
   {
     "key": "Equip-10-Name-0x1818",
     "original": "ラグレスセイバー",
-    "translation": ""
+    "translation": "拉格雷斯剑",
+    "stage": 3
   },
   {
     "key": "Equip-10-Desc1-0x1800",
-    "original": "武器力３９\u3000ＤＥＸ＋",
-    "translation": ""
+    "original": "武器力３９　ＤＥＸ＋",
+    "translation": "武器力３９　ＤＥＸ＋",
+    "stage": 3
   },
   {
     "key": "Equip-10-Desc2-0x87FA0",
     "original": "２",
-    "translation": ""
+    "translation": "２",
+    "stage": 3
   },
   {
     "key": "Equip-11-Name-0x17EC",
     "original": "ヘル・キャリバー",
-    "translation": ""
+    "translation": "地狱口径",
+    "stage": 3
   },
   {
     "key": "Equip-11-Desc1-0x17E0",
     "original": "武器力４２",
-    "translation": ""
+    "translation": "武器力４２",
+    "stage": 3
   },
   {
     "key": "Equip-12-Name-0x17D0",
     "original": "マグダセイバー",
-    "translation": ""
+    "translation": "玛格达剑",
+    "stage": 3
   },
   {
     "key": "Equip-12-Desc1-0x17C4",
     "original": "武器力５０",
-    "translation": ""
+    "translation": "武器力５０",
+    "stage": 3
   },
   {
     "key": "Equip-13-Name-0x17B4",
     "original": "レイムスニール",
-    "translation": ""
+    "translation": "雷姆斯尼尔",
+    "stage": 3
   },
   {
     "key": "Equip-13-Desc1-0x17A8",
     "original": "武器力５７",
-    "translation": ""
+    "translation": "武器力５７",
+    "stage": 3
   },
   {
     "key": "Equip-14-Name-0x1798",
     "original": "パッフェルベル",
-    "translation": ""
+    "translation": "帕菲贝尔",
+    "stage": 3
   },
   {
     "key": "Equip-14-Desc1-0x1780",
-    "original": "武器力６５\u3000ＬＵＣ＋",
-    "translation": ""
+    "original": "武器力６５　ＬＵＣ＋",
+    "translation": "武器力６５　ＬＵＣ＋",
+    "stage": 3
   },
   {
     "key": "Equip-14-Desc2-0x87F9C",
     "original": "３",
-    "translation": ""
+    "translation": "３",
+    "stage": 3
   },
   {
     "key": "Equip-15-Name-0x87F94",
     "original": "死散剣",
-    "translation": ""
+    "translation": "死散剑",
+    "stage": 3
   },
   {
     "key": "Equip-15-Desc1-0x1774",
     "original": "武器力７３",
-    "translation": ""
+    "translation": "武器力７３",
+    "stage": 3
   },
   {
     "key": "Equip-16-Name-0x1760",
     "original": "サモナイトソード",
-    "translation": ""
+    "translation": "召唤之夜剑",
+    "stage": 3
   },
   {
     "key": "Equip-16-Desc1-0x1748",
-    "original": "武器力７５\u3000ＡＬＬ＋",
-    "translation": ""
+    "original": "武器力７５　ＡＬＬ＋",
+    "translation": "武器力７５　ＡＬＬ＋",
+    "stage": 3
   },
   {
     "key": "Equip-16-Desc2-0x87F90",
     "original": "５",
-    "translation": ""
+    "translation": "５",
+    "stage": 3
   },
   {
     "key": "Equip-17-Name-0x1738",
     "original": "バスターソード",
-    "translation": ""
+    "translation": "破坏大剑",
+    "stage": 3
   },
   {
     "key": "Equip-17-Desc1-0x1914",
     "original": "武器力４",
-    "translation": ""
+    "translation": "武器力４",
+    "stage": 3
   },
   {
     "key": "Equip-18-Name-0x1728",
     "original": "バムスレイヤー",
-    "translation": ""
+    "translation": "巴姆杀手",
+    "stage": 3
   },
   {
     "key": "Equip-18-Desc1-0x171C",
     "original": "武器力８",
-    "translation": ""
+    "translation": "武器力８",
+    "stage": 3
   },
   {
     "key": "Equip-19-Name-0x170C",
     "original": "フレイム・タン",
-    "translation": ""
+    "translation": "火焰舌",
+    "stage": 3
   },
   {
     "key": "Equip-19-Desc1-0x18D0",
     "original": "武器力１２",
-    "translation": ""
+    "translation": "武器力１２",
+    "stage": 3
   },
   {
     "key": "Equip-20-Name-0x16FC",
     "original": "グレートソード",
-    "translation": ""
+    "translation": "巨剑",
+    "stage": 3
   },
   {
     "key": "Equip-20-Desc1-0x16F0",
     "original": "武器力２４",
-    "translation": ""
+    "translation": "武器力２４",
+    "stage": 3
   },
   {
     "key": "Equip-21-Name-0x16E0",
     "original": "クレイモアー",
-    "translation": ""
+    "translation": "双手巨剑",
+    "stage": 3
   },
   {
     "key": "Equip-21-Desc1-0x16D4",
     "original": "武器力３３",
-    "translation": ""
+    "translation": "武器力３３",
+    "stage": 3
   },
   {
     "key": "Equip-22-Name-0x16C8",
     "original": "骨砕双剣",
-    "translation": ""
+    "translation": "碎骨双剑",
+    "stage": 3
   },
   {
     "key": "Equip-22-Desc1-0x16B0",
-    "original": "武器力４０\u3000ＤＥＸ＋",
-    "translation": ""
+    "original": "武器力４０　ＤＥＸ＋",
+    "translation": "武器力４０　ＤＥＸ＋",
+    "stage": 3
   },
   {
     "key": "Equip-22-Desc2-0x87FA0",
     "original": "２",
-    "translation": ""
+    "translation": "２",
+    "stage": 3
   },
   {
     "key": "Equip-23-Name-0x169C",
     "original": "エグゼキューシュ",
-    "translation": ""
+    "translation": "斩首剑",
+    "stage": 3
   },
   {
     "key": "Equip-23-Desc1-0x1690",
     "original": "武器力４６",
-    "translation": ""
+    "translation": "武器力４６",
+    "stage": 3
   },
   {
     "key": "Equip-24-Name-0x167C",
     "original": "パワースレッシュ",
-    "translation": ""
+    "translation": "力量重击",
+    "stage": 3
   },
   {
     "key": "Equip-24-Desc1-0x1670",
     "original": "武器力５２",
-    "translation": ""
+    "translation": "武器力５２",
+    "stage": 3
   },
   {
     "key": "Equip-25-Name-0x1664",
     "original": "斬烈剛剣",
-    "translation": ""
+    "translation": "斩烈刚剑",
+    "stage": 3
   },
   {
     "key": "Equip-25-Desc1-0x1658",
     "original": "武器力７０",
-    "translation": ""
+    "translation": "武器力７０",
+    "stage": 3
   },
   {
     "key": "Equip-26-Name-0x164C",
     "original": "パラレイン",
-    "translation": ""
+    "translation": "帕拉雷因",
+    "stage": 3
   },
   {
     "key": "Equip-26-Desc1-0x1640",
     "original": "武器力７２",
-    "translation": ""
+    "translation": "武器力７２",
+    "stage": 3
   },
   {
     "key": "Equip-27-Name-0x162C",
     "original": "ナイトオブナイト",
-    "translation": ""
+    "translation": "夜之骑士",
+    "stage": 3
   },
   {
     "key": "Equip-27-Desc1-0x1614",
-    "original": "武器力７４\u3000ＤＥＸ＋",
-    "translation": ""
+    "original": "武器力７４　ＤＥＸ＋",
+    "translation": "武器力７４　ＤＥＸ＋",
+    "stage": 3
   },
   {
     "key": "Equip-27-Desc2-0x1604",
-    "original": "３\u3000ＬＵＣ＋３",
-    "translation": ""
+    "original": "３　ＬＵＣ＋３",
+    "translation": "３　ＬＵＣ＋３",
+    "stage": 3
   },
   {
     "key": "Equip-28-Name-0x15F4",
     "original": "ビリオン・デス",
-    "translation": ""
+    "translation": "亿万死亡",
+    "stage": 3
   },
   {
     "key": "Equip-28-Desc1-0x15E8",
     "original": "武器力７５",
-    "translation": ""
+    "translation": "武器力７５",
+    "stage": 3
   },
   {
     "key": "Equip-29-Name-0x15DC",
     "original": "覇王の剣",
-    "translation": ""
+    "translation": "霸王之剑",
+    "stage": 3
   },
   {
     "key": "Equip-29-Desc1-0x15D0",
     "original": "武器力７８",
-    "translation": ""
+    "translation": "武器力７８",
+    "stage": 3
   },
   {
     "key": "Equip-30-Name-0x15C0",
     "original": "ペーパーナイフ",
-    "translation": ""
+    "translation": "裁纸刀",
+    "stage": 3
   },
   {
     "key": "Equip-30-Desc1-0x1930",
     "original": "武器力１",
-    "translation": ""
+    "translation": "武器力１",
+    "stage": 3
   },
   {
     "key": "Equip-31-Name-0x15B0",
     "original": "ノヴィスナイフ",
-    "translation": ""
+    "translation": "新手刀",
+    "stage": 3
   },
   {
     "key": "Equip-31-Desc1-0x15A4",
     "original": "武器力３",
-    "translation": ""
+    "translation": "武器力３",
+    "stage": 3
   },
   {
     "key": "Equip-32-Name-0x1594",
     "original": "テイルニードル",
-    "translation": ""
+    "translation": "尾针",
+    "stage": 3
   },
   {
     "key": "Equip-32-Desc1-0x1588",
     "original": "武器力６",
-    "translation": ""
+    "translation": "武器力６",
+    "stage": 3
   },
   {
     "key": "Equip-33-Name-0x1578",
     "original": "グラスエッジ",
-    "translation": ""
+    "translation": "琉璃刃",
+    "stage": 3
   },
   {
     "key": "Equip-33-Desc1-0x156C",
     "original": "武器力１０",
-    "translation": ""
+    "translation": "武器力１０",
+    "stage": 3
   },
   {
     "key": "Equip-34-Name-0x1560",
     "original": "カルチェ",
-    "translation": ""
+    "translation": "卡尔切",
+    "stage": 3
   },
   {
     "key": "Equip-34-Desc1-0x1554",
     "original": "武器力１８",
-    "translation": ""
+    "translation": "武器力１８",
+    "stage": 3
   },
   {
     "key": "Equip-35-Name-0x1540",
     "original": "カービングナイフ",
-    "translation": ""
+    "translation": "雕刻刀",
+    "stage": 3
   },
   {
     "key": "Equip-35-Desc1-0x16F0",
     "original": "武器力２４",
-    "translation": ""
+    "translation": "武器力２４",
+    "stage": 3
   },
   {
     "key": "Equip-36-Name-0x1530",
     "original": "アサッシンズ",
-    "translation": ""
+    "translation": "刺客匕首",
+    "stage": 3
   },
   {
     "key": "Equip-36-Desc1-0x1524",
     "original": "武器力３２",
-    "translation": ""
+    "translation": "武器力３２",
+    "stage": 3
   },
   {
     "key": "Equip-37-Name-0x1514",
     "original": "玄武の小太刀",
-    "translation": ""
+    "translation": "玄武小太刀",
+    "stage": 3
   },
   {
     "key": "Equip-37-Desc1-0x14FC",
-    "original": "武器力３６\u3000ＩＮＴ＋",
-    "translation": ""
+    "original": "武器力３６　ＩＮＴ＋",
+    "translation": "武器力３６　ＩＮＴ＋",
+    "stage": 3
   },
   {
     "key": "Equip-37-Desc2-0x14EC",
-    "original": "１\u3000ＤＥＸ＋１",
-    "translation": ""
+    "original": "１　ＤＥＸ＋１",
+    "translation": "１　ＤＥＸ＋１",
+    "stage": 3
   },
   {
     "key": "Equip-38-Name-0x14DC",
     "original": "シェイドエッジ",
-    "translation": ""
+    "translation": "影之刃",
+    "stage": 3
   },
   {
     "key": "Equip-38-Desc1-0x14D0",
     "original": "武器力３８",
-    "translation": ""
+    "translation": "武器力３８",
+    "stage": 3
   },
   {
     "key": "Equip-39-Name-0x14C0",
     "original": "ウィンドナイフ",
-    "translation": ""
+    "translation": "风之匕首",
+    "stage": 3
   },
   {
     "key": "Equip-39-Desc1-0x14B4",
     "original": "武器力４０",
-    "translation": ""
+    "translation": "武器力４０",
+    "stage": 3
   },
   {
     "key": "Equip-40-Name-0x14A4",
     "original": "ハンティングＷ",
-    "translation": ""
+    "translation": "狩猎刀",
+    "stage": 3
   },
   {
     "key": "Equip-40-Desc1-0x148C",
-    "original": "武器力４３\u3000ＬＵＣ＋",
-    "translation": ""
+    "original": "武器力４３　ＬＵＣ＋",
+    "translation": "武器力４３　ＬＵＣ＋",
+    "stage": 3
   },
   {
     "key": "Equip-40-Desc2-0x87FA0",
     "original": "２",
-    "translation": ""
+    "translation": "２",
+    "stage": 3
   },
   {
     "key": "Equip-41-Name-0x147C",
     "original": "ピンクポイズン",
-    "translation": ""
+    "translation": "粉色剧毒",
+    "stage": 3
   },
   {
     "key": "Equip-41-Desc1-0x1470",
     "original": "武器力４５",
-    "translation": ""
+    "translation": "武器力４５",
+    "stage": 3
   },
   {
     "key": "Equip-42-Name-0x1464",
     "original": "レイエッジ",
-    "translation": ""
+    "translation": "光之刃",
+    "stage": 3
   },
   {
     "key": "Equip-42-Desc1-0x17C4",
     "original": "武器力５０",
-    "translation": ""
+    "translation": "武器力５０",
+    "stage": 3
   },
   {
     "key": "Equip-43-Name-0x1458",
     "original": "カムイヅナ",
-    "translation": ""
+    "translation": "神威纲",
+    "stage": 3
   },
   {
     "key": "Equip-43-Desc1-0x1440",
-    "original": "武器力５８\u3000ＤＥＸ＋",
-    "translation": ""
+    "original": "武器力５８　ＤＥＸ＋",
+    "translation": "武器力５８　ＤＥＸ＋",
+    "stage": 3
   },
   {
     "key": "Equip-43-Desc2-0x1430",
-    "original": "２\u3000ＬＵＣ＋２",
-    "translation": ""
+    "original": "２　ＬＵＣ＋２",
+    "translation": "２　ＬＵＣ＋２",
+    "stage": 3
   },
   {
     "key": "Equip-44-Name-0x1420",
     "original": "虹色のナイフ",
-    "translation": ""
+    "translation": "虹色匕首",
+    "stage": 3
   },
   {
     "key": "Equip-44-Desc1-0x1414",
     "original": "武器力６０",
-    "translation": ""
+    "translation": "武器力６０",
+    "stage": 3
   },
   {
     "key": "Equip-45-Name-0x1404",
     "original": "クリスダガー",
-    "translation": ""
+    "translation": "克里斯匕首",
+    "stage": 3
   },
   {
     "key": "Equip-45-Desc1-0x13EC",
-    "original": "武器力６８\u3000ＩＮＴ＋",
-    "translation": ""
+    "original": "武器力６８　ＩＮＴ＋",
+    "translation": "武器力６８　ＩＮＴ＋",
+    "stage": 3
   },
   {
     "key": "Equip-45-Desc2-0x1604",
-    "original": "３\u3000ＬＵＣ＋３",
-    "translation": ""
+    "original": "３　ＬＵＣ＋３",
+    "translation": "３　ＬＵＣ＋３",
+    "stage": 3
   },
   {
     "key": "Equip-46-Name-0x1760",
     "original": "サモナイトソード",
-    "translation": ""
+    "translation": "召唤之夜剑",
+    "stage": 3
   },
   {
     "key": "Equip-46-Desc1-0x13D4",
-    "original": "武器力７７\u3000ＡＬＬ＋",
-    "translation": ""
+    "original": "武器力７７　ＡＬＬ＋",
+    "translation": "武器力７７　ＡＬＬ＋",
+    "stage": 3
   },
   {
     "key": "Equip-46-Desc2-0x87F90",
     "original": "５",
-    "translation": ""
+    "translation": "５",
+    "stage": 3
   },
   {
     "key": "Equip-47-Name-0x87F88",
     "original": "朱雀槍",
-    "translation": ""
+    "translation": "朱雀枪",
+    "stage": 3
   },
   {
     "key": "Equip-47-Desc1-0x1524",
     "original": "武器力３２",
-    "translation": ""
+    "translation": "武器力３２",
+    "stage": 3
   },
   {
     "key": "Equip-48-Name-0x13C4",
     "original": "お気に入りの槍",
-    "translation": ""
+    "translation": "心爱之枪",
+    "stage": 3
   },
   {
     "key": "Equip-48-Desc1-0x13AC",
-    "original": "武器力３６\u3000ＬＵＣ＋",
-    "translation": ""
+    "original": "武器力３６　ＬＵＣ＋",
+    "translation": "武器力３６　幸运＋",
+    "stage": 3
   },
   {
     "key": "Equip-48-Desc2-0x87FA0",
     "original": "２",
-    "translation": ""
+    "translation": "２",
+    "stage": 3
   },
   {
     "key": "Equip-49-Name-0x139C",
     "original": "クロススピア",
-    "translation": ""
+    "translation": "十字枪",
+    "stage": 3
   },
   {
     "key": "Equip-49-Desc1-0x14B4",
     "original": "武器力４０",
-    "translation": ""
+    "translation": "武器力４０",
+    "stage": 3
   },
   {
     "key": "Equip-50-Name-0x1390",
     "original": "天昇炎槍",
-    "translation": ""
+    "translation": "天升炎枪",
+    "stage": 3
   },
   {
     "key": "Equip-50-Desc1-0x1690",
     "original": "武器力４６",
-    "translation": ""
+    "translation": "武器力４６",
+    "stage": 3
   },
   {
     "key": "Equip-51-Name-0x1380",
     "original": "デモンスピア",
-    "translation": ""
+    "translation": "恶魔枪",
+    "stage": 3
   },
   {
     "key": "Equip-51-Desc1-0x1374",
     "original": "武器力５８",
-    "translation": ""
+    "translation": "武器力５８",
+    "stage": 3
   },
   {
     "key": "Equip-52-Name-0x1360",
     "original": "クレセントランス",
-    "translation": ""
+    "translation": "新月之枪",
+    "stage": 3
   },
   {
     "key": "Equip-52-Desc1-0x1414",
     "original": "武器力６０",
-    "translation": ""
+    "translation": "武器力６０",
+    "stage": 3
   },
   {
     "key": "Equip-53-Name-0x1350",
     "original": "ヴァルキリー",
-    "translation": ""
+    "translation": "女武神",
+    "stage": 3
   },
   {
     "key": "Equip-53-Desc1-0x1338",
-    "original": "武器力７０\u3000ＩＮＴ＋",
-    "translation": ""
+    "original": "武器力７０　ＩＮＴ＋",
+    "translation": "武器力７０　ＩＮＴ＋",
+    "stage": 3
   },
   {
     "key": "Equip-53-Desc2-0x1328",
-    "original": "３\u3000ＤＥＸ＋３",
-    "translation": ""
+    "original": "３　ＤＥＸ＋３",
+    "translation": "３　ＤＥＸ＋３",
+    "stage": 3
   },
   {
     "key": "Equip-54-Name-0x1314",
     "original": "ノヴィスアックス",
-    "translation": ""
+    "translation": "新手斧",
+    "stage": 3
   },
   {
     "key": "Equip-54-Desc1-0x15A4",
     "original": "武器力３",
-    "translation": ""
+    "translation": "武器力３",
+    "stage": 3
   },
   {
     "key": "Equip-55-Name-0x1308",
     "original": "ディーノ",
-    "translation": ""
+    "translation": "迪诺",
+    "stage": 3
   },
   {
     "key": "Equip-55-Desc1-0x156C",
     "original": "武器力１０",
-    "translation": ""
+    "translation": "武器力１０",
+    "stage": 3
   },
   {
     "key": "Equip-56-Name-0x12F8",
     "original": "バトルアックス",
-    "translation": ""
+    "translation": "战斧",
+    "stage": 3
   },
   {
     "key": "Equip-56-Desc1-0x1554",
     "original": "武器力１８",
-    "translation": ""
+    "translation": "武器力１８",
+    "stage": 3
   },
   {
     "key": "Equip-57-Name-0x12E8",
     "original": "ボトルケイオス",
-    "translation": ""
+    "translation": "混沌瓶",
+    "stage": 3
   },
   {
     "key": "Equip-57-Desc1-0x186C",
     "original": "武器力２７",
-    "translation": ""
+    "translation": "武器力２７",
+    "stage": 3
   },
   {
     "key": "Equip-58-Name-0x12D8",
     "original": "カーネルヘブン",
-    "translation": ""
+    "translation": "天堂之核",
+    "stage": 3
   },
   {
     "key": "Equip-58-Desc1-0x14D0",
     "original": "武器力３８",
-    "translation": ""
+    "translation": "武器力３８",
+    "stage": 3
   },
   {
     "key": "Equip-59-Name-0x12CC",
     "original": "巨人の斧",
-    "translation": ""
+    "translation": "巨人斧",
+    "stage": 3
   },
   {
     "key": "Equip-59-Desc1-0x12B4",
-    "original": "武器力４０\u3000ＬＵＣ＋",
-    "translation": ""
+    "original": "武器力４０　ＬＵＣ＋",
+    "translation": "武器力４０　ＬＵＣ＋",
+    "stage": 3
   },
   {
     "key": "Equip-59-Desc2-0x87F90",
     "original": "５",
-    "translation": ""
+    "translation": "５",
+    "stage": 3
   },
   {
     "key": "Equip-60-Name-0x87F80",
     "original": "ブージ",
-    "translation": ""
+    "translation": "布吉",
+    "stage": 3
   },
   {
     "key": "Equip-60-Desc1-0x12A8",
     "original": "武器力４３",
-    "translation": ""
+    "translation": "武器力４３",
+    "stage": 3
   },
   {
     "key": "Equip-61-Name-0x1298",
     "original": "クーリーの斧",
-    "translation": ""
+    "translation": "库利之斧",
+    "stage": 3
   },
   {
     "key": "Equip-61-Desc1-0x17C4",
     "original": "武器力５０",
-    "translation": ""
+    "translation": "武器力５０",
+    "stage": 3
   },
   {
     "key": "Equip-62-Name-0x128C",
     "original": "ラハット",
-    "translation": ""
+    "translation": "拉哈特",
+    "stage": 3
   },
   {
     "key": "Equip-62-Desc1-0x1280",
     "original": "武器力６２",
-    "translation": ""
+    "translation": "武器力６２",
+    "stage": 3
   },
   {
     "key": "Equip-63-Name-0x1270",
     "original": "マシェッティ",
-    "translation": ""
+    "translation": "弯刀",
+    "stage": 3
   },
   {
     "key": "Equip-63-Desc1-0x13EC",
-    "original": "武器力６８\u3000ＩＮＴ＋",
-    "translation": ""
+    "original": "武器力６８　ＩＮＴ＋",
+    "translation": "武器力６８　ＩＮＴ＋",
+    "stage": 3
   },
   {
     "key": "Equip-63-Desc2-0x125C",
-    "original": "２\u3000ＬＵＣ＋１０",
-    "translation": ""
+    "original": "２　ＬＵＣ＋１０",
+    "translation": "２　ＬＵＫ＋１０",
+    "stage": 3
   },
   {
     "key": "Equip-64-Name-0x1250",
     "original": "銀の大斧",
-    "translation": ""
+    "translation": "银大斧",
+    "stage": 3
   },
   {
     "key": "Equip-64-Desc1-0x1658",
     "original": "武器力７０",
-    "translation": ""
+    "translation": "武器力７０",
+    "stage": 3
   },
   {
     "key": "Equip-65-Name-0x123C",
     "original": "パラダイムカノン",
-    "translation": ""
+    "translation": "范式加农",
+    "stage": 3
   },
   {
     "key": "Equip-65-Desc1-0x1224",
-    "original": "武器力７３\u3000ＬＵＣ＋",
-    "translation": ""
+    "original": "武器力７３　ＬＵＣ＋",
+    "translation": "武器力７３　ＬＵＫ＋",
+    "stage": 3
   },
   {
     "key": "Equip-65-Desc2-0x87F78",
     "original": "１０",
-    "translation": ""
+    "translation": "１０",
+    "stage": 3
   },
   {
     "key": "Equip-66-Name-0x1218",
     "original": "ライトボウ",
-    "translation": ""
+    "translation": "轻弓",
+    "stage": 3
   },
   {
     "key": "Equip-66-Desc1-0x1554",
     "original": "武器力１８",
-    "translation": ""
+    "translation": "武器力１８",
+    "stage": 3
   },
   {
     "key": "Equip-67-Name-0x1208",
     "original": "バンガットボウ",
-    "translation": ""
+    "translation": "班加特弓",
+    "stage": 3
   },
   {
     "key": "Equip-67-Desc1-0x18B4",
     "original": "武器力２０",
-    "translation": ""
+    "translation": "武器力２０",
+    "stage": 3
   },
   {
     "key": "Equip-68-Name-0x11FC",
     "original": "唐式月弓",
-    "translation": ""
+    "translation": "唐式月弓",
+    "stage": 3
   },
   {
     "key": "Equip-68-Desc1-0x11E4",
-    "original": "武器力２１\u3000ＤＥＸ＋",
-    "translation": ""
+    "original": "武器力２１　ＤＥＸ＋",
+    "translation": "武器力２１　ＤＥＸ＋",
+    "stage": 3
   },
   {
     "key": "Equip-68-Desc2-0x87FA4",
     "original": "１",
-    "translation": ""
+    "translation": "１",
+    "stage": 3
   },
   {
     "key": "Equip-69-Name-0x11D8",
     "original": "クロスボウ",
-    "translation": ""
+    "translation": "十字弓",
+    "stage": 3
   },
   {
     "key": "Equip-69-Desc1-0x11CC",
     "original": "武器力２５",
-    "translation": ""
+    "translation": "武器力２５",
+    "stage": 3
   },
   {
     "key": "Equip-70-Name-0x11BC",
     "original": "アーバレスト",
-    "translation": ""
+    "translation": "弩",
+    "stage": 3
   },
   {
     "key": "Equip-70-Desc1-0x14D0",
     "original": "武器力３８",
-    "translation": ""
+    "translation": "武器力３８",
+    "stage": 3
   },
   {
     "key": "Equip-71-Name-0x11AC",
     "original": "エネルギーボウ",
-    "translation": ""
+    "translation": "能量弓",
+    "stage": 3
   },
   {
     "key": "Equip-71-Desc1-0x1470",
     "original": "武器力４５",
-    "translation": ""
+    "translation": "武器力４５",
+    "stage": 3
   },
   {
     "key": "Equip-72-Name-0x119C",
     "original": "アルジュナの弓",
-    "translation": ""
+    "translation": "阿周那之弓",
+    "stage": 3
   },
   {
     "key": "Equip-72-Desc1-0x1184",
-    "original": "武器力６０\u3000ＤＥＸ＋",
-    "translation": ""
+    "original": "武器力６０　ＤＥＸ＋",
+    "translation": "武器力６０　ＤＥＸ＋",
+    "stage": 3
   },
   {
     "key": "Equip-72-Desc2-0x1604",
-    "original": "３\u3000ＬＵＣ＋３",
-    "translation": ""
+    "original": "３　ＬＵＣ＋３",
+    "translation": "３　ＬＵＣ＋３",
+    "stage": 3
   },
   {
     "key": "Equip-73-Name-0x1178",
     "original": "リボルバ",
-    "translation": ""
+    "translation": "左轮枪",
+    "stage": 3
   },
   {
     "key": "Equip-73-Desc1-0x1588",
     "original": "武器力６",
-    "translation": ""
+    "translation": "武器力６",
+    "stage": 3
   },
   {
     "key": "Equip-74-Name-0x116C",
     "original": "ブラスター",
-    "translation": ""
+    "translation": "冲击波",
+    "stage": 3
   },
   {
     "key": "Equip-74-Desc1-0x16F0",
     "original": "武器力２４",
-    "translation": ""
+    "translation": "武器力２４",
+    "stage": 3
   },
   {
     "key": "Equip-75-Name-0x1160",
     "original": "ライフル",
-    "translation": ""
+    "translation": "步枪",
+    "stage": 3
   },
   {
     "key": "Equip-75-Desc1-0x184C",
     "original": "武器力３０",
-    "translation": ""
+    "translation": "武器力３０",
+    "stage": 3
   },
   {
     "key": "Equip-76-Name-0x1154",
     "original": "ペネレイト",
-    "translation": ""
+    "translation": "穿透枪",
+    "stage": 3
   },
   {
     "key": "Equip-76-Desc1-0x1148",
     "original": "武器力４４",
-    "translation": ""
+    "translation": "武器力４４",
+    "stage": 3
   },
   {
     "key": "Equip-77-Name-0x1138",
     "original": "パルスショット",
-    "translation": ""
+    "translation": "脉冲射击",
+    "stage": 3
   },
   {
     "key": "Equip-77-Desc1-0x17C4",
     "original": "武器力５０",
-    "translation": ""
+    "translation": "武器力５０",
+    "stage": 3
   },
   {
     "key": "Equip-78-Name-0x1128",
     "original": "クロイツァー",
-    "translation": ""
+    "translation": "克鲁泽",
+    "stage": 3
   },
   {
     "key": "Equip-78-Desc1-0x1374",
     "original": "武器力５８",
-    "translation": ""
+    "translation": "武器力５８",
+    "stage": 3
   },
   {
     "key": "Equip-79-Name-0x111C",
     "original": "リーサル",
-    "translation": ""
+    "translation": "致命枪",
+    "stage": 3
   },
   {
     "key": "Equip-79-Desc1-0x1414",
     "original": "武器力６０",
-    "translation": ""
+    "translation": "武器力６０",
+    "stage": 3
   },
   {
     "key": "Equip-80-Name-0x87F70",
     "original": "竹刀",
-    "translation": ""
+    "translation": "竹刀",
+    "stage": 3
   },
   {
     "key": "Equip-80-Desc1-0x1930",
     "original": "武器力１",
-    "translation": ""
+    "translation": "武器力１",
+    "stage": 3
   },
   {
     "key": "Equip-81-Name-0x110C",
     "original": "キクイチモンジ",
-    "translation": ""
+    "translation": "菊一文字",
+    "stage": 3
   },
   {
     "key": "Equip-81-Desc1-0x10F4",
-    "original": "武器力２８\u3000ＤＥＸ＋",
-    "translation": ""
+    "original": "武器力２８　ＤＥＸ＋",
+    "translation": "武器力２８　ＤＥＸ＋",
+    "stage": 3
   },
   {
     "key": "Equip-81-Desc2-0x87FA4",
     "original": "１",
-    "translation": ""
+    "translation": "１",
+    "stage": 3
   },
   {
     "key": "Equip-82-Name-0x10E8",
     "original": "リョウラン",
-    "translation": ""
+    "translation": "两乱",
+    "stage": 3
   },
   {
     "key": "Equip-82-Desc1-0x10D0",
-    "original": "武器力３４\u3000ＤＥＸ＋",
-    "translation": ""
+    "original": "武器力３４　ＤＥＸ＋",
+    "translation": "武器力３４　ＤＥＸ＋",
+    "stage": 3
   },
   {
     "key": "Equip-82-Desc2-0x87FA4",
     "original": "１",
-    "translation": ""
+    "translation": "１",
+    "stage": 3
   },
   {
     "key": "Equip-83-Name-0x10C0",
     "original": "コガラスマル",
-    "translation": ""
+    "translation": "小乌丸",
+    "stage": 3
   },
   {
     "key": "Equip-83-Desc1-0x17E0",
     "original": "武器力４２",
-    "translation": ""
+    "translation": "武器力４２",
+    "stage": 3
   },
   {
     "key": "Equip-84-Name-0x87F68",
     "original": "カスミ",
-    "translation": ""
+    "translation": "霞",
+    "stage": 3
   },
   {
     "key": "Equip-84-Desc1-0x10A8",
-    "original": "武器力５０\u3000ＤＥＸ＋",
-    "translation": ""
+    "original": "武器力５０　ＤＥＸ＋",
+    "translation": "武器力５０　ＤＥＸ＋",
+    "stage": 3
   },
   {
     "key": "Equip-84-Desc2-0x87FA0",
     "original": "２",
-    "translation": ""
+    "translation": "２",
+    "stage": 3
   },
   {
     "key": "Equip-85-Name-0x109C",
     "original": "シチセイ",
-    "translation": ""
+    "translation": "七星",
+    "stage": 3
   },
   {
     "key": "Equip-85-Desc1-0x1084",
-    "original": "武器力５３\u3000ＤＥＸ＋",
-    "translation": ""
+    "original": "武器力５３　ＤＥＸ＋",
+    "translation": "武器力５３　ＤＥＸ＋",
+    "stage": 3
   },
   {
     "key": "Equip-85-Desc2-0x1074",
-    "original": "１\u3000ＬＵＣ＋２",
-    "translation": ""
+    "original": "１　ＬＵＣ＋２",
+    "translation": "１　ＬＵＣ＋２",
+    "stage": 3
   },
   {
     "key": "Equip-86-Name-0x87F60",
     "original": "カゲツ",
-    "translation": ""
+    "translation": "花月",
+    "stage": 3
   },
   {
     "key": "Equip-86-Desc1-0x1068",
     "original": "武器力５５",
-    "translation": ""
+    "translation": "武器力５５",
+    "stage": 3
   },
   {
     "key": "Equip-87-Name-0x1058",
     "original": "ディアボロス",
-    "translation": ""
+    "translation": "迪亚波罗斯",
+    "stage": 3
   },
   {
     "key": "Equip-87-Desc1-0x104C",
     "original": "武器力５６",
-    "translation": ""
+    "translation": "武器力５６",
+    "stage": 3
   },
   {
     "key": "Equip-88-Name-0x87F58",
     "original": "グレン",
-    "translation": ""
+    "translation": "红莲",
+    "stage": 3
   },
   {
     "key": "Equip-88-Desc1-0x1040",
     "original": "武器力５９",
-    "translation": ""
+    "translation": "武器力５９",
+    "stage": 3
   },
   {
     "key": "Equip-89-Name-0x1034",
     "original": "カゲロウ",
-    "translation": ""
+    "translation": "阳炎",
+    "stage": 3
   },
   {
     "key": "Equip-89-Desc1-0x1184",
-    "original": "武器力６０\u3000ＤＥＸ＋",
-    "translation": ""
+    "original": "武器力６０　ＤＥＸ＋",
+    "translation": "武器力６０　ＤＥＸ＋",
+    "stage": 3
   },
   {
     "key": "Equip-89-Desc2-0x87F9C",
     "original": "３",
-    "translation": ""
+    "translation": "３",
+    "stage": 3
   },
   {
     "key": "Equip-90-Name-0x1024",
     "original": "銘刀ムラマサ",
-    "translation": ""
+    "translation": "名刀村正",
+    "stage": 3
   },
   {
     "key": "Equip-90-Desc1-0x100C",
-    "original": "武器力６６\u3000ＩＮＴ＋",
-    "translation": ""
+    "original": "武器力６６　ＩＮＴ＋",
+    "translation": "武器力６６　ＩＮＴ＋",
+    "stage": 3
   },
   {
     "key": "Equip-90-Desc2-0x1328",
-    "original": "３\u3000ＤＥＸ＋３",
-    "translation": ""
+    "original": "３　ＤＥＸ＋３",
+    "translation": "３　ＤＥＸ＋３",
+    "stage": 3
   },
   {
     "key": "Equip-91-Name-0xFFC",
     "original": "ブラスナックル",
-    "translation": ""
+    "translation": "黄铜指虎",
+    "stage": 3
   },
   {
     "key": "Equip-91-Desc1-0x18B4",
     "original": "武器力２０",
-    "translation": ""
+    "translation": "武器力２０",
+    "stage": 3
   },
   {
     "key": "Equip-92-Name-0xFF0",
     "original": "怒りの鉄拳",
-    "translation": ""
+    "translation": "愤怒铁拳",
+    "stage": 3
   },
   {
     "key": "Equip-92-Desc1-0xFD8",
-    "original": "武器力２６\u3000ＤＥＸ＋",
-    "translation": ""
+    "original": "武器力２６　ＤＥＸ＋",
+    "translation": "武器力２６　ＤＥＸ＋",
+    "stage": 3
   },
   {
     "key": "Equip-92-Desc2-0x87FA4",
     "original": "１",
-    "translation": ""
+    "translation": "１",
+    "stage": 3
   },
   {
     "key": "Equip-93-Name-0xFC8",
     "original": "パンチパンチ",
-    "translation": ""
+    "translation": "连环拳",
+    "stage": 3
   },
   {
     "key": "Equip-93-Desc1-0xFBC",
     "original": "武器力２８",
-    "translation": ""
+    "translation": "武器力２８",
+    "stage": 3
   },
   {
     "key": "Equip-94-Name-0xFA8",
     "original": "ナックルダスター",
-    "translation": ""
+    "translation": "指节铜套",
+    "stage": 3
   },
   {
     "key": "Equip-94-Desc1-0xF9C",
     "original": "武器力３５",
-    "translation": ""
+    "translation": "武器力３５",
+    "stage": 3
   },
   {
     "key": "Equip-95-Name-0xF88",
     "original": "カイザーナックル",
-    "translation": ""
+    "translation": "凯撒指虎",
+    "stage": 3
   },
   {
     "key": "Equip-95-Desc1-0x16B0",
-    "original": "武器力４０\u3000ＤＥＸ＋",
-    "translation": ""
+    "original": "武器力４０　ＤＥＸ＋",
+    "translation": "武器力４０　ＤＥＸ＋",
+    "stage": 3
   },
   {
     "key": "Equip-95-Desc2-0x87FA4",
     "original": "１",
-    "translation": ""
+    "translation": "１",
+    "stage": 3
   },
   {
     "key": "Equip-96-Name-0xF74",
     "original": "シャインナックル",
-    "translation": ""
+    "translation": "闪光指虎",
+    "stage": 3
   },
   {
     "key": "Equip-96-Desc1-0x1470",
     "original": "武器力４５",
-    "translation": ""
+    "translation": "武器力４５",
+    "stage": 3
   },
   {
     "key": "Equip-97-Name-0xF68",
     "original": "ラムダウン",
-    "translation": ""
+    "translation": "冲撞",
+    "stage": 3
   },
   {
     "key": "Equip-97-Desc1-0xF50",
-    "original": "武器力４８\u3000ＬＵＣ＋",
-    "translation": ""
+    "original": "武器力４８　ＬＵＣ＋",
+    "translation": "武器力４８　ＬＵＣ＋",
+    "stage": 3
   },
   {
     "key": "Equip-97-Desc2-0x87FA0",
     "original": "２",
-    "translation": ""
+    "translation": "２",
+    "stage": 3
   },
   {
     "key": "Equip-98-Name-0xF3C",
     "original": "ブレイブフィスト",
-    "translation": ""
+    "translation": "勇者之拳",
+    "stage": 3
   },
   {
     "key": "Equip-98-Desc1-0x1414",
     "original": "武器力６０",
-    "translation": ""
+    "translation": "武器力６０",
+    "stage": 3
   },
   {
     "key": "Equip-99-Name-0xF30",
     "original": "白虎心拳",
-    "translation": ""
+    "translation": "白虎心拳",
+    "stage": 3
   },
   {
     "key": "Equip-99-Desc1-0xF18",
-    "original": "武器力６５\u3000ＩＮＴ＋",
-    "translation": ""
+    "original": "武器力６５　ＩＮＴ＋",
+    "translation": "武器力６５　ＩＮＴ＋",
+    "stage": 3
   },
   {
     "key": "Equip-99-Desc2-0xF08",
-    "original": "２\u3000ＤＥＸ＋２",
-    "translation": ""
+    "original": "２　ＤＥＸ＋２",
+    "translation": "２　ＤＥＸ＋２",
+    "stage": 3
   },
   {
     "key": "Equip-100-Name-0xEFC",
     "original": "投げナイフ",
-    "translation": ""
+    "translation": "投掷小刀",
+    "stage": 3
   },
   {
     "key": "Equip-100-Desc1-0x1914",
     "original": "武器力４",
-    "translation": ""
+    "translation": "武器力４",
+    "stage": 3
   },
   {
     "key": "Equip-101-Name-0xEF0",
     "original": "疾風ダガー",
-    "translation": ""
+    "translation": "疾风匕首",
+    "stage": 3
   },
   {
     "key": "Equip-101-Desc1-0xEE4",
     "original": "武器力２２",
-    "translation": ""
+    "translation": "武器力２２",
+    "stage": 3
   },
   {
     "key": "Equip-102-Name-0xED8",
     "original": "攻殻ナイフ",
-    "translation": ""
+    "translation": "攻壳小刀",
+    "stage": 3
   },
   {
     "key": "Equip-102-Desc1-0xFD8",
-    "original": "武器力２６\u3000ＤＥＸ＋",
-    "translation": ""
+    "original": "武器力２６　ＤＥＸ＋",
+    "translation": "武器力２６　ＤＥＸ＋",
+    "stage": 3
   },
   {
     "key": "Equip-102-Desc2-0x87FA4",
     "original": "１",
-    "translation": ""
+    "translation": "１",
+    "stage": 3
   },
   {
     "key": "Equip-103-Name-0xEC8",
     "original": "スピンドライブ",
-    "translation": ""
+    "translation": "螺旋驱动",
+    "stage": 3
   },
   {
     "key": "Equip-103-Desc1-0x1524",
     "original": "武器力３２",
-    "translation": ""
+    "translation": "武器力３２",
+    "stage": 3
   },
   {
     "key": "Equip-104-Name-0x87F50",
     "original": "風車",
-    "translation": ""
+    "translation": "风车",
+    "stage": 3
   },
   {
     "key": "Equip-104-Desc1-0xEB0",
-    "original": "武器力４５\u3000ＬＵＣ＋",
-    "translation": ""
+    "original": "武器力４５　ＬＵＣ＋",
+    "translation": "武器力４５　ＬＵＣ＋",
+    "stage": 3
   },
   {
     "key": "Equip-104-Desc2-0x87FA4",
     "original": "１",
-    "translation": ""
+    "translation": "１",
+    "stage": 3
   },
   {
     "key": "Equip-105-Name-0xEA4",
     "original": "チャクラム",
-    "translation": ""
+    "translation": "查克拉姆",
+    "stage": 3
   },
   {
     "key": "Equip-105-Desc1-0xE8C",
-    "original": "武器力４８\u3000ＩＮＴ＋",
-    "translation": ""
+    "original": "武器力４８　ＩＮＴ＋",
+    "translation": "武器力４８　ＩＮＴ＋",
+    "stage": 3
   },
   {
     "key": "Equip-105-Desc2-0x1430",
-    "original": "２\u3000ＬＵＣ＋２",
-    "translation": ""
+    "original": "２　ＬＵＣ＋２",
+    "translation": "２　ＬＵＣ＋２",
+    "stage": 3
   },
   {
     "key": "Equip-106-Name-0x87F48",
     "original": "苦無",
-    "translation": ""
+    "translation": "苦无",
+    "stage": 3
   },
   {
     "key": "Equip-106-Desc1-0xE74",
-    "original": "武器力５０\u3000ＬＵＣ＋",
-    "translation": ""
+    "original": "武器力５０　ＬＵＣ＋",
+    "translation": "武器力５０　ＬＵＣ＋",
+    "stage": 3
   },
   {
     "key": "Equip-106-Desc2-0x87FA0",
     "original": "２",
-    "translation": ""
+    "translation": "２",
+    "stage": 3
   },
   {
     "key": "Equip-107-Name-0xE68",
     "original": "流星苦無",
-    "translation": ""
+    "translation": "流星苦无",
+    "stage": 3
   },
   {
     "key": "Equip-107-Desc1-0xE50",
-    "original": "武器力５２\u3000ＬＵＣ＋",
-    "translation": ""
+    "original": "武器力５２　ＬＵＣ＋",
+    "translation": "武器力５２　ＬＵＣ＋",
+    "stage": 3
   },
   {
     "key": "Equip-107-Desc2-0x87FA0",
     "original": "２",
-    "translation": ""
+    "translation": "２",
+    "stage": 3
   },
   {
     "key": "Equip-108-Name-0xE40",
     "original": "柳生十字手裏剣",
-    "translation": ""
+    "translation": "柳生十字手里剑",
+    "stage": 3
   },
   {
     "key": "Equip-108-Desc1-0xE28",
-    "original": "武器力５５\u3000ＤＥＸ＋",
-    "translation": ""
+    "original": "武器力５５　ＤＥＸ＋",
+    "translation": "武器力５５　ＤＥＸ＋",
+    "stage": 3
   },
   {
     "key": "Equip-108-Desc2-0xE18",
-    "original": "２\u3000ＬＵＣ＋３",
-    "translation": ""
+    "original": "２　ＬＵＣ＋３",
+    "translation": "２　ＬＵＣ＋３",
+    "stage": 3
   },
   {
     "key": "Equip-109-Name-0x87F40",
     "original": "ブーツ",
-    "translation": ""
+    "translation": "靴子",
+    "stage": 3
   },
   {
     "key": "Equip-109-Desc1-0xE0C",
     "original": "武器力３４",
-    "translation": ""
+    "translation": "武器力３４",
+    "stage": 3
   },
   {
     "key": "Equip-110-Name-0xDFC",
     "original": "メタルブーツ",
-    "translation": ""
+    "translation": "金属靴",
+    "stage": 3
   },
   {
     "key": "Equip-110-Desc1-0xDE4",
-    "original": "武器力４４\u3000ＤＥＸ＋",
-    "translation": ""
+    "original": "武器力４４　ＤＥＸ＋",
+    "translation": "武器力４４　ＤＥＸ＋",
+    "stage": 3
   },
   {
     "key": "Equip-110-Desc2-0x87FA4",
     "original": "１",
-    "translation": ""
+    "translation": "１",
+    "stage": 3
   },
   {
     "key": "Equip-111-Name-0xDD0",
     "original": "サイレントヒール",
-    "translation": ""
+    "translation": "静音高跟鞋",
+    "stage": 3
   },
   {
     "key": "Equip-111-Desc1-0x1084",
-    "original": "武器力５３\u3000ＤＥＸ＋",
-    "translation": ""
+    "original": "武器力５３　ＤＥＸ＋",
+    "translation": "武器力５３　ＤＥＸ＋",
+    "stage": 3
   },
   {
     "key": "Equip-111-Desc2-0x87FA4",
     "original": "１",
-    "translation": ""
+    "translation": "１",
+    "stage": 3
   },
   {
     "key": "Equip-112-Name-0xDC0",
     "original": "ブラックブーツ",
-    "translation": ""
+    "translation": "黑靴",
+    "stage": 3
   },
   {
     "key": "Equip-112-Desc1-0xDA8",
-    "original": "武器力６３\u3000ＤＥＸ＋",
-    "translation": ""
+    "original": "武器力６３　ＤＥＸ＋",
+    "translation": "武器力６３　ＤＥＸ＋",
+    "stage": 3
   },
   {
     "key": "Equip-112-Desc2-0x87FA4",
     "original": "１",
-    "translation": ""
+    "translation": "１",
+    "stage": 3
   },
   {
     "key": "Equip-113-Name-0xD9C",
     "original": "荒天具足",
-    "translation": ""
+    "translation": "荒天具足",
+    "stage": 3
   },
   {
     "key": "Equip-113-Desc1-0xD84",
-    "original": "武器力６８\u3000ＤＥＸ＋",
-    "translation": ""
+    "original": "武器力６８　ＤＥＸ＋",
+    "translation": "武器力６８　ＤＥＸ＋",
+    "stage": 3
   },
   {
     "key": "Equip-113-Desc2-0xD74",
-    "original": "３\u3000ＬＵＣ＋２",
-    "translation": ""
+    "original": "３　ＬＵＣ＋２",
+    "translation": "３　ＬＵＣ＋２",
+    "stage": 3
   },
   {
     "key": "Equip-114-Name-0xD64",
     "original": "アイアンドリル",
-    "translation": ""
+    "translation": "钢铁钻头",
+    "stage": 3
   },
   {
     "key": "Equip-114-Desc1-0xD58",
     "original": "武器力６８",
-    "translation": ""
+    "translation": "武器力６８",
+    "stage": 3
   },
   {
     "key": "Equip-115-Name-0xD48",
     "original": "フレイムドリル",
-    "translation": ""
+    "translation": "火焰钻头",
+    "stage": 3
   },
   {
     "key": "Equip-115-Desc1-0xD3C",
     "original": "武器力７４",
-    "translation": ""
+    "translation": "武器力７４",
+    "stage": 3
   },
   {
     "key": "Equip-116-Name-0xD30",
     "original": "チェンソウ",
-    "translation": ""
+    "translation": "链锯",
+    "stage": 3
   },
   {
     "key": "Equip-116-Desc1-0xD18",
-    "original": "武器力７５\u3000ＤＥＸ＋",
-    "translation": ""
+    "original": "武器力７５　ＤＥＸ＋",
+    "translation": "武器力７５　ＤＥＸ＋",
+    "stage": 3
   },
   {
     "key": "Equip-116-Desc2-0x87FA4",
     "original": "１",
-    "translation": ""
+    "translation": "１",
+    "stage": 3
   },
   {
     "key": "Equip-117-Name-0xD08",
     "original": "ダークマター",
-    "translation": ""
+    "translation": "暗物质",
+    "stage": 3
   },
   {
     "key": "Equip-117-Desc1-0xCF0",
-    "original": "武器力７８\u3000ＩＮＴ＋",
-    "translation": ""
+    "original": "武器力７８　ＩＮＴ＋",
+    "translation": "武器力７８　ＩＮＴ＋",
+    "stage": 3
   },
   {
     "key": "Equip-117-Desc2-0xCE0",
-    "original": "３\u3000ＤＥＸ＋２",
-    "translation": ""
+    "original": "３　ＤＥＸ＋２",
+    "translation": "３　ＤＥＸ＋２",
+    "stage": 3
   },
   {
     "key": "Equip-118-Name-0xCD0",
     "original": "アイアンクロー",
-    "translation": ""
+    "translation": "铁爪",
+    "stage": 3
   },
   {
     "key": "Equip-118-Desc1-0x14B4",
     "original": "武器力４０",
-    "translation": ""
+    "translation": "武器力４０",
+    "stage": 3
   },
   {
     "key": "Equip-119-Name-0x87F38",
     "original": "黒き刃",
-    "translation": ""
+    "translation": "黑刃",
+    "stage": 3
   },
   {
     "key": "Equip-119-Desc1-0xCB8",
-    "original": "武器力４８\u3000ＤＥＸ＋",
-    "translation": ""
+    "original": "武器力４８　ＤＥＸ＋",
+    "translation": "武器力４８　ＤＥＸ＋",
+    "stage": 3
   },
   {
     "key": "Equip-119-Desc2-0x87FA0",
     "original": "２",
-    "translation": ""
+    "translation": "２",
+    "stage": 3
   },
   {
     "key": "Equip-120-Name-0xCA8",
     "original": "イーグルクロー",
-    "translation": ""
+    "translation": "鹰爪",
+    "stage": 3
   },
   {
     "key": "Equip-120-Desc1-0xC9C",
     "original": "武器力６４",
-    "translation": ""
+    "translation": "武器力６４",
+    "stage": 3
   },
   {
     "key": "Equip-121-Name-0xC90",
     "original": "金剛砕牙",
-    "translation": ""
+    "translation": "金刚碎牙",
+    "stage": 3
   },
   {
     "key": "Equip-121-Desc1-0xC78",
-    "original": "武器力７０\u3000ＤＥＸ＋",
-    "translation": ""
+    "original": "武器力７０　ＤＥＸ＋",
+    "translation": "武器力７０　ＤＥＸ＋",
+    "stage": 3
   },
   {
     "key": "Equip-121-Desc2-0x1604",
-    "original": "３\u3000ＬＵＣ＋３",
-    "translation": ""
+    "original": "３　ＬＵＣ＋３",
+    "translation": "３　ＬＵＣ＋３",
+    "stage": 3
   },
   {
     "key": "Equip-122-Name-0x87F30",
     "original": "麺棒",
-    "translation": ""
+    "translation": "面杖",
+    "stage": 3
   },
   {
     "key": "Equip-122-Desc1-0x17C4",
     "original": "武器力５０",
-    "translation": ""
+    "translation": "武器力５０",
+    "stage": 3
   },
   {
     "key": "Equip-123-Name-0x1948",
     "original": "装備無し",
-    "translation": ""
+    "translation": "无装备",
+    "stage": 3
   },
   {
     "key": "Equip-124-Name-0x2040",
     "original": "ノヴィスメイル",
-    "translation": ""
+    "translation": "新手铠甲",
+    "stage": 3
   },
   {
     "key": "Equip-124-Desc1-0x2034",
     "original": "防具力１",
-    "translation": ""
+    "translation": "防具力１",
+    "stage": 3
   },
   {
     "key": "Equip-125-Name-0x2024",
     "original": "ロックメイル",
-    "translation": ""
+    "translation": "岩石铠甲",
+    "stage": 3
   },
   {
     "key": "Equip-125-Desc1-0x2018",
     "original": "防具力２",
-    "translation": ""
+    "translation": "防具力２",
+    "stage": 3
   },
   {
     "key": "Equip-126-Name-0x2008",
     "original": "チェインメイル",
-    "translation": ""
+    "translation": "链甲",
+    "stage": 3
   },
   {
     "key": "Equip-126-Desc1-0x1FFC",
     "original": "防具力３",
-    "translation": ""
+    "translation": "防具力３",
+    "stage": 3
   },
   {
     "key": "Equip-127-Name-0x1FEC",
     "original": "ブレストシェル",
-    "translation": ""
+    "translation": "胸甲",
+    "stage": 3
   },
   {
     "key": "Equip-127-Desc1-0x1FE0",
     "original": "防具力６",
-    "translation": ""
+    "translation": "防具力６",
+    "stage": 3
   },
   {
     "key": "Equip-128-Name-0x1FCC",
     "original": "カストロスメイル",
-    "translation": ""
+    "translation": "卡斯特罗铠甲",
+    "stage": 3
   },
   {
     "key": "Equip-128-Desc1-0x1FB4",
-    "original": "防具力１０\u3000ＤＥＸ＋",
-    "translation": ""
+    "original": "防具力１０　ＤＥＸ＋",
+    "translation": "防具力１０　ＤＥＸ＋",
+    "stage": 3
   },
   {
     "key": "Equip-128-Desc2-0x87FA4",
     "original": "１",
-    "translation": ""
+    "translation": "１",
+    "stage": 3
   },
   {
     "key": "Equip-129-Name-0x1FA4",
     "original": "ボーンスケイル",
-    "translation": ""
+    "translation": "骨鳞甲",
+    "stage": 3
   },
   {
     "key": "Equip-129-Desc1-0x1F98",
     "original": "防具力１５",
-    "translation": ""
+    "translation": "防具力１５",
+    "stage": 3
   },
   {
     "key": "Equip-130-Name-0x1F84",
     "original": "エンジェルメイル",
-    "translation": ""
+    "translation": "天使铠甲",
+    "stage": 3
   },
   {
     "key": "Equip-130-Desc1-0x1F78",
     "original": "防具力２０",
-    "translation": ""
+    "translation": "防具力２０",
+    "stage": 3
   },
   {
     "key": "Equip-131-Name-0x1F68",
     "original": "カーボンシェル",
-    "translation": ""
+    "translation": "碳纤维甲",
+    "stage": 3
   },
   {
     "key": "Equip-131-Desc1-0x1F78",
     "original": "防具力２０",
-    "translation": ""
+    "translation": "防具力２０",
+    "stage": 3
   },
   {
     "key": "Equip-132-Name-0x1F58",
     "original": "ビーストメイル",
-    "translation": ""
+    "translation": "野兽铠甲",
+    "stage": 3
   },
   {
     "key": "Equip-132-Desc1-0x1F4C",
     "original": "防具力２５",
-    "translation": ""
+    "translation": "防具力２５",
+    "stage": 3
   },
   {
     "key": "Equip-133-Name-0x1F3C",
     "original": "白銀の胸当て",
-    "translation": ""
+    "translation": "白银胸甲",
+    "stage": 3
   },
   {
     "key": "Equip-133-Desc1-0x1F30",
     "original": "防具力２８",
-    "translation": ""
+    "translation": "防具力２８",
+    "stage": 3
   },
   {
     "key": "Equip-134-Name-0x1F24",
     "original": "キガメイル",
-    "translation": ""
+    "translation": "巨龟铠甲",
+    "stage": 3
   },
   {
     "key": "Equip-134-Desc1-0x1F18",
     "original": "防具力２９",
-    "translation": ""
+    "translation": "防具力２９",
+    "stage": 3
   },
   {
     "key": "Equip-135-Name-0x1F08",
     "original": "フレイムメイル",
-    "translation": ""
+    "translation": "火焰铠甲",
+    "stage": 3
   },
   {
     "key": "Equip-135-Desc1-0x1EFC",
     "original": "防具力３１",
-    "translation": ""
+    "translation": "防具力３１",
+    "stage": 3
   },
   {
     "key": "Equip-136-Name-0x1EE8",
     "original": "スピリットメイル",
-    "translation": ""
+    "translation": "精灵铠甲",
+    "stage": 3
   },
   {
     "key": "Equip-136-Desc1-0x1ED0",
-    "original": "防具力３８\u3000ＳＴＲ＋",
-    "translation": ""
+    "original": "防具力３８　ＳＴＲ＋",
+    "translation": "防具力３８　ＳＴＲ＋",
+    "stage": 3
   },
   {
     "key": "Equip-136-Desc2-0x87FA4",
     "original": "１",
-    "translation": ""
+    "translation": "１",
+    "stage": 3
   },
   {
     "key": "Equip-137-Name-0x1EC0",
     "original": "アヴァターの鎧",
-    "translation": ""
+    "translation": "化身之铠",
+    "stage": 3
   },
   {
     "key": "Equip-137-Desc1-0x1EB4",
     "original": "防具力４５",
-    "translation": ""
+    "translation": "防具力４５",
+    "stage": 3
   },
   {
     "key": "Equip-138-Name-0x1EA4",
     "original": "デモンメイル",
-    "translation": ""
+    "translation": "恶魔铠甲",
+    "stage": 3
   },
   {
     "key": "Equip-138-Desc1-0x1E98",
     "original": "防具力５０",
-    "translation": ""
+    "translation": "防具力５０",
+    "stage": 3
   },
   {
     "key": "Equip-139-Name-0x1E84",
     "original": "バリアントメイル",
-    "translation": ""
+    "translation": "勇者铠甲",
+    "stage": 3
   },
   {
     "key": "Equip-139-Desc1-0x1E78",
     "original": "防具力５９",
-    "translation": ""
+    "translation": "防具力５９",
+    "stage": 3
   },
   {
     "key": "Equip-140-Name-0x1E68",
     "original": "希望のメイル",
-    "translation": ""
+    "translation": "希望铠甲",
+    "stage": 3
   },
   {
     "key": "Equip-140-Desc1-0x1E50",
-    "original": "防具力６８\u3000ＩＮＴ＋",
-    "translation": ""
+    "original": "防具力６８　ＩＮＴ＋",
+    "translation": "防具力６８　智力＋",
+    "stage": 3
   },
   {
     "key": "Equip-140-Desc2-0x87F9C",
     "original": "３",
-    "translation": ""
+    "translation": "３",
+    "stage": 3
   },
   {
     "key": "Equip-141-Name-0x1E3C",
     "original": "ノヴィスアーマー",
-    "translation": ""
+    "translation": "新手盔甲",
+    "stage": 3
   },
   {
     "key": "Equip-141-Desc1-0x1FFC",
     "original": "防具力３",
-    "translation": ""
+    "translation": "防具力３",
+    "stage": 3
   },
   {
     "key": "Equip-142-Name-0x1E2C",
     "original": "ネオプレート",
-    "translation": ""
+    "translation": "新式板甲",
+    "stage": 3
   },
   {
     "key": "Equip-142-Desc1-0x1E20",
     "original": "防具力５",
-    "translation": ""
+    "translation": "防具力５",
+    "stage": 3
   },
   {
     "key": "Equip-143-Name-0x1E0C",
     "original": "スケイルアーマー",
-    "translation": ""
+    "translation": "鳞甲",
+    "stage": 3
   },
   {
     "key": "Equip-143-Desc1-0x1E00",
     "original": "防具力１２",
-    "translation": ""
+    "translation": "防具力１２",
+    "stage": 3
   },
   {
     "key": "Equip-144-Name-0x1DEC",
     "original": "ブレストプレート",
-    "translation": ""
+    "translation": "胸甲",
+    "stage": 3
   },
   {
     "key": "Equip-144-Desc1-0x1DE0",
     "original": "防具力１６",
-    "translation": ""
+    "translation": "防具力１６",
+    "stage": 3
   },
   {
     "key": "Equip-145-Name-0x1DCC",
     "original": "バッシュアーマー",
-    "translation": ""
+    "translation": "重击铠甲",
+    "stage": 3
   },
   {
     "key": "Equip-145-Desc1-0x1F78",
     "original": "防具力２０",
-    "translation": ""
+    "translation": "防具力２０",
+    "stage": 3
   },
   {
     "key": "Equip-146-Name-0x1DB8",
     "original": "グロリアスペイン",
-    "translation": ""
+    "translation": "荣光之痛",
+    "stage": 3
   },
   {
     "key": "Equip-146-Desc1-0x1DAC",
     "original": "防具力２４",
-    "translation": ""
+    "translation": "防具力２４",
+    "stage": 3
   },
   {
     "key": "Equip-147-Name-0x1D9C",
     "original": "ナイトアーマー",
-    "translation": ""
+    "translation": "骑士铠甲",
+    "stage": 3
   },
   {
     "key": "Equip-147-Desc1-0x1D90",
     "original": "防具力３２",
-    "translation": ""
+    "translation": "防具力３２",
+    "stage": 3
   },
   {
     "key": "Equip-148-Name-0x1D80",
     "original": "メタルアーマー",
-    "translation": ""
+    "translation": "金属铠甲",
+    "stage": 3
   },
   {
     "key": "Equip-148-Desc1-0x1D74",
     "original": "防具力３７",
-    "translation": ""
+    "translation": "防具力３７",
+    "stage": 3
   },
   {
     "key": "Equip-149-Name-0x1D60",
     "original": "ビーストアーマー",
-    "translation": ""
+    "translation": "野兽铠甲",
+    "stage": 3
   },
   {
     "key": "Equip-149-Desc1-0x1D54",
     "original": "防具力４６",
-    "translation": ""
+    "translation": "防具力４６",
+    "stage": 3
   },
   {
     "key": "Equip-150-Name-0x1D40",
     "original": "プラチナアーマー",
-    "translation": ""
+    "translation": "白金铠甲",
+    "stage": 3
   },
   {
     "key": "Equip-150-Desc1-0x1D34",
     "original": "防具力５５",
-    "translation": ""
+    "translation": "防具力５５",
+    "stage": 3
   },
   {
     "key": "Equip-151-Name-0x87FE0",
     "original": "邪甲γ",
-    "translation": ""
+    "translation": "邪甲γ",
+    "stage": 3
   },
   {
     "key": "Equip-151-Desc1-0x1D28",
     "original": "防具力５６",
-    "translation": ""
+    "translation": "防具力５６",
+    "stage": 3
   },
   {
     "key": "Equip-152-Name-0x1D1C",
     "original": "邪牙甲γ",
-    "translation": ""
+    "translation": "邪牙甲γ",
+    "stage": 3
   },
   {
     "key": "Equip-152-Desc1-0x1D10",
     "original": "防具力５８",
-    "translation": ""
+    "translation": "防具力５８",
+    "stage": 3
   },
   {
     "key": "Equip-153-Name-0x87FD8",
     "original": "聖甲γ",
-    "translation": ""
+    "translation": "圣甲γ",
+    "stage": 3
   },
   {
     "key": "Equip-153-Desc1-0x1D04",
     "original": "防具力６０",
-    "translation": ""
+    "translation": "防具力６０",
+    "stage": 3
   },
   {
     "key": "Equip-154-Name-0x87FD0",
     "original": "アーク",
-    "translation": ""
+    "translation": "方舟",
+    "stage": 3
   },
   {
     "key": "Equip-154-Desc1-0x1CF8",
     "original": "防具力６６",
-    "translation": ""
+    "translation": "防具力６６",
+    "stage": 3
   },
   {
     "key": "Equip-155-Name-0x1CEC",
     "original": "覇王の鎧",
-    "translation": ""
+    "translation": "霸王铠甲",
+    "stage": 3
   },
   {
     "key": "Equip-155-Desc1-0x1CE0",
     "original": "防具力７０",
-    "translation": ""
+    "translation": "防具力７０",
+    "stage": 3
   },
   {
     "key": "Equip-156-Name-0x1CD4",
     "original": "紅白のβ衣",
-    "translation": ""
+    "translation": "红白β衣",
+    "stage": 3
   },
   {
     "key": "Equip-156-Desc1-0x1CC8",
     "original": "防具力３５",
-    "translation": ""
+    "translation": "防具力３５",
+    "stage": 3
   },
   {
     "key": "Equip-157-Name-0x87FC8",
     "original": "芝庵",
-    "translation": ""
+    "translation": "芝庵",
+    "stage": 3
   },
   {
     "key": "Equip-157-Desc1-0x1CBC",
     "original": "防具力３９",
-    "translation": ""
+    "translation": "防具力３９",
+    "stage": 3
   },
   {
     "key": "Equip-158-Name-0x87FC0",
     "original": "呑空虚",
-    "translation": ""
+    "translation": "吞空虚",
+    "stage": 3
   },
   {
     "key": "Equip-158-Desc1-0x1CA4",
-    "original": "防具力４８\u3000ＤＥＸ＋",
-    "translation": ""
+    "original": "防具力４８　ＤＥＸ＋",
+    "translation": "防具力４８　ＤＥＸ＋",
+    "stage": 3
   },
   {
     "key": "Equip-158-Desc2-0x87F9C",
     "original": "３",
-    "translation": ""
+    "translation": "３",
+    "stage": 3
   },
   {
     "key": "Equip-159-Name-0x87FB8",
     "original": "紫淡庵",
-    "translation": ""
+    "translation": "紫淡庵",
+    "stage": 3
   },
   {
     "key": "Equip-159-Desc1-0x1C8C",
-    "original": "防具力５４\u3000ＤＥＸ＋",
-    "translation": ""
+    "original": "防具力５４　ＤＥＸ＋",
+    "translation": "防具力５４　ＤＥＸ＋",
+    "stage": 3
   },
   {
     "key": "Equip-159-Desc2-0x87F9C",
     "original": "３",
-    "translation": ""
+    "translation": "３",
+    "stage": 3
   },
   {
     "key": "Equip-160-Name-0x87FB0",
     "original": "神衣編",
-    "translation": ""
+    "translation": "神衣编",
+    "stage": 3
   },
   {
     "key": "Equip-160-Desc1-0x1C74",
-    "original": "防具力５８\u3000ＩＮＴ＋",
-    "translation": ""
+    "original": "防具力５８　ＩＮＴ＋",
+    "translation": "防具力５８　ＩＮＴ＋",
+    "stage": 3
   },
   {
     "key": "Equip-160-Desc2-0x1430",
-    "original": "２\u3000ＬＵＣ＋２",
-    "translation": ""
+    "original": "２　ＬＵＣ＋２",
+    "translation": "２　ＬＵＣ＋２",
+    "stage": 3
   },
   {
     "key": "Equip-161-Name-0x87FA8",
     "original": "ローブ",
-    "translation": ""
+    "translation": "长袍",
+    "stage": 3
   },
   {
     "key": "Equip-161-Desc1-0x2034",
     "original": "防具力１",
-    "translation": ""
+    "translation": "防具力１",
+    "stage": 3
   },
   {
     "key": "Equip-162-Name-0x1C68",
     "original": "キルテッド",
-    "translation": ""
+    "translation": "棉甲",
+    "stage": 3
   },
   {
     "key": "Equip-162-Desc1-0x2018",
     "original": "防具力２",
-    "translation": ""
+    "translation": "防具力２",
+    "stage": 3
   },
   {
     "key": "Equip-163-Name-0x1C5C",
     "original": "ダブレット",
-    "translation": ""
+    "translation": "双层甲",
+    "stage": 3
   },
   {
     "key": "Equip-163-Desc1-0x1E20",
     "original": "防具力５",
-    "translation": ""
+    "translation": "防具力５",
+    "stage": 3
   },
   {
     "key": "Equip-164-Name-0x1C4C",
     "original": "ちゃんちゃんこ",
-    "translation": ""
+    "translation": "棉背心",
+    "stage": 3
   },
   {
     "key": "Equip-164-Desc1-0x1C34",
-    "original": "防具力９\u3000ＩＮＴ＋１",
-    "translation": ""
+    "original": "防具力９　ＩＮＴ＋１",
+    "translation": "防具力９　ＩＮＴ＋１",
+    "stage": 3
   },
   {
     "key": "Equip-165-Name-0x1C28",
     "original": "星屑の法衣",
-    "translation": ""
+    "translation": "星屑法衣",
+    "stage": 3
   },
   {
     "key": "Equip-165-Desc1-0x1C1C",
     "original": "防具力１３",
-    "translation": ""
+    "translation": "防具力１３",
+    "stage": 3
   },
   {
     "key": "Equip-166-Name-0x1C10",
     "original": "ε妖の衣",
-    "translation": ""
+    "translation": "妖衣",
+    "stage": 3
   },
   {
     "key": "Equip-166-Desc1-0x1BF8",
-    "original": "防具力１７\u3000ＬＵＣ＋",
-    "translation": ""
+    "original": "防具力１７　ＬＵＣ＋",
+    "translation": "防具力１７　ＬＵＫ＋",
+    "stage": 3
   },
   {
     "key": "Equip-166-Desc2-0x87FA4",
     "original": "１",
-    "translation": ""
+    "translation": "１",
+    "stage": 3
   },
   {
     "key": "Equip-167-Name-0x1BEC",
     "original": "精霊の法衣",
-    "translation": ""
+    "translation": "精灵法衣",
+    "stage": 3
   },
   {
     "key": "Equip-167-Desc1-0x1BE0",
     "original": "防具力２３",
-    "translation": ""
+    "translation": "防具力２３",
+    "stage": 3
   },
   {
     "key": "Equip-168-Name-0x1BD4",
     "original": "エレメント",
-    "translation": ""
+    "translation": "元素服",
+    "stage": 3
   },
   {
     "key": "Equip-168-Desc1-0x1BC8",
     "original": "防具力３０",
-    "translation": ""
+    "translation": "防具力３０",
+    "stage": 3
   },
   {
     "key": "Equip-169-Name-0x1BB8",
     "original": "ブラックコート",
-    "translation": ""
+    "translation": "黑大衣",
+    "stage": 3
   },
   {
     "key": "Equip-169-Desc1-0x1CC8",
     "original": "防具力３５",
-    "translation": ""
+    "translation": "防具力３５",
+    "stage": 3
   },
   {
     "key": "Equip-170-Name-0x1BAC",
     "original": "白スーツ",
-    "translation": ""
+    "translation": "白西装",
+    "stage": 3
   },
   {
     "key": "Equip-170-Desc1-0x1BA0",
     "original": "防具力３６",
-    "translation": ""
+    "translation": "防具力３６",
+    "stage": 3
   },
   {
     "key": "Equip-171-Name-0x1B94",
     "original": "ハーミット",
-    "translation": ""
+    "translation": "隐士服",
+    "stage": 3
   },
   {
     "key": "Equip-171-Desc1-0x1BA0",
     "original": "防具力３６",
-    "translation": ""
+    "translation": "防具力３６",
+    "stage": 3
   },
   {
     "key": "Equip-172-Name-0x1B84",
     "original": "キルカの練衣",
-    "translation": ""
+    "translation": "基尔卡练衣",
+    "stage": 3
   },
   {
     "key": "Equip-172-Desc1-0x1B78",
     "original": "防具力４４",
-    "translation": ""
+    "translation": "防具力４４",
+    "stage": 3
   },
   {
     "key": "Equip-173-Name-0x1B68",
     "original": "チェインピース",
-    "translation": ""
+    "translation": "链甲片",
+    "stage": 3
   },
   {
     "key": "Equip-173-Desc1-0x1E98",
     "original": "防具力５０",
-    "translation": ""
+    "translation": "防具力５０",
+    "stage": 3
   },
   {
     "key": "Equip-174-Name-0x1B58",
     "original": "希望のローブ",
-    "translation": ""
+    "translation": "希望之袍",
+    "stage": 3
   },
   {
     "key": "Equip-174-Desc1-0x1B40",
-    "original": "防具力６０\u3000ＶＩＴ＋",
-    "translation": ""
+    "original": "防具力６０　ＶＩＴ＋",
+    "translation": "防具力６０　ＶＩＴ＋",
+    "stage": 3
   },
   {
     "key": "Equip-174-Desc2-0x87F9C",
     "original": "３",
-    "translation": ""
+    "translation": "３",
+    "stage": 3
   },
   {
     "key": "Equip-175-Name-0x1B2C",
     "original": "モコモコセーター",
-    "translation": ""
+    "translation": "毛茸茸毛衣",
+    "stage": 3
   },
   {
     "key": "Equip-175-Desc1-0x1DAC",
     "original": "防具力２４",
-    "translation": ""
+    "translation": "防具力２４",
+    "stage": 3
   },
   {
     "key": "Equip-176-Name-0x1B18",
     "original": "ファンシーピット",
-    "translation": ""
+    "translation": "花哨坑",
+    "stage": 3
   },
   {
     "key": "Equip-176-Desc1-0x1B0C",
     "original": "防具力２７",
-    "translation": ""
+    "translation": "防具力２７",
+    "stage": 3
   },
   {
     "key": "Equip-177-Name-0x1AF8",
     "original": "ピーターピーター",
-    "translation": ""
+    "translation": "彼得彼得",
+    "stage": 3
   },
   {
     "key": "Equip-177-Desc1-0x1AE0",
-    "original": "防具力２８\u3000ＤＥＸ＋",
-    "translation": ""
+    "original": "防具力２８　ＤＥＸ＋",
+    "translation": "防具力２８　ＤＥＸ＋",
+    "stage": 3
   },
   {
     "key": "Equip-177-Desc2-0x87FA4",
     "original": "１",
-    "translation": ""
+    "translation": "１",
+    "stage": 3
   },
   {
     "key": "Equip-178-Name-0x1AD0",
     "original": "プリティベーゼ",
-    "translation": ""
+    "translation": "可爱之吻",
+    "stage": 3
   },
   {
     "key": "Equip-178-Desc1-0x1EFC",
     "original": "防具力３１",
-    "translation": ""
+    "translation": "防具力３１",
+    "stage": 3
   },
   {
     "key": "Equip-179-Name-0x1ABC",
     "original": "やわらかいテリア",
-    "translation": ""
+    "translation": "柔软梗犬",
+    "stage": 3
   },
   {
     "key": "Equip-179-Desc1-0x1CBC",
     "original": "防具力３９",
-    "translation": ""
+    "translation": "防具力３９",
+    "stage": 3
   },
   {
     "key": "Equip-180-Name-0x1AA8",
     "original": "ポワポワセーター",
-    "translation": ""
+    "translation": "蓬松毛衣",
+    "stage": 3
   },
   {
     "key": "Equip-180-Desc1-0x1A9C",
     "original": "防具力４２",
-    "translation": ""
+    "translation": "防具力４２",
+    "stage": 3
   },
   {
     "key": "Equip-181-Name-0x1A88",
     "original": "ウエンディハウス",
-    "translation": ""
+    "translation": "温蒂之家",
+    "stage": 3
   },
   {
     "key": "Equip-181-Desc1-0x1A7C",
     "original": "防具力４８",
-    "translation": ""
+    "translation": "防具力４８",
+    "stage": 3
   },
   {
     "key": "Equip-182-Name-0x1A70",
     "original": "ハーベスト",
-    "translation": ""
+    "translation": "丰收",
+    "stage": 3
   },
   {
     "key": "Equip-182-Desc1-0x1A58",
-    "original": "防具力５４\u3000ＬＵＣ＋",
-    "translation": ""
+    "original": "防具力５４　ＬＵＣ＋",
+    "translation": "防具力５４　ＬＵＣ＋",
+    "stage": 3
   },
   {
     "key": "Equip-182-Desc2-0x87F78",
     "original": "１０",
-    "translation": ""
+    "translation": "１０",
+    "stage": 3
   },
   {
     "key": "Equip-183-Name-0x1A44",
     "original": "フロント・ミース",
-    "translation": ""
+    "translation": "前线之雾",
+    "stage": 3
   },
   {
     "key": "Equip-183-Desc1-0x1E98",
     "original": "防具力５０",
-    "translation": ""
+    "translation": "防具力５０",
+    "stage": 3
   },
   {
     "key": "Equip-184-Name-0x1A34",
     "original": "ヴァン・ハーツ",
-    "translation": ""
+    "translation": "范·哈茨",
+    "stage": 3
   },
   {
     "key": "Equip-184-Desc1-0x1D34",
     "original": "防具力５５",
-    "translation": ""
+    "translation": "防具力５５",
+    "stage": 3
   },
   {
     "key": "Equip-185-Name-0x1A24",
     "original": "タクト・オウガ",
-    "translation": ""
+    "translation": "塔克特·奥加",
+    "stage": 3
   },
   {
     "key": "Equip-185-Desc1-0x1A18",
     "original": "防具力６８",
-    "translation": ""
+    "translation": "防具力６８",
+    "stage": 3
   },
   {
     "key": "Equip-186-Name-0x1A0C",
     "original": "装束・雅",
-    "translation": ""
+    "translation": "装束·雅",
+    "stage": 3
   },
   {
     "key": "Equip-186-Desc1-0x1F4C",
     "original": "防具力２５",
-    "translation": ""
+    "translation": "防具力２５",
+    "stage": 3
   },
   {
     "key": "Equip-187-Name-0x1A00",
     "original": "装束・白縫",
-    "translation": ""
+    "translation": "装束·白缝",
+    "stage": 3
   },
   {
     "key": "Equip-187-Desc1-0x19E8",
-    "original": "防具力２５\u3000ＬＵＣ＋",
-    "translation": ""
+    "original": "防具力２５　ＬＵＣ＋",
+    "translation": "防具力２５　ＬＵＣ＋",
+    "stage": 3
   },
   {
     "key": "Equip-187-Desc2-0x87F78",
     "original": "１０",
-    "translation": ""
+    "translation": "１０",
+    "stage": 3
   },
   {
     "key": "Equip-188-Name-0x19DC",
     "original": "装束・赤炎",
-    "translation": ""
+    "translation": "装束·赤炎",
+    "stage": 3
   },
   {
     "key": "Equip-188-Desc1-0x1EFC",
     "original": "防具力３１",
-    "translation": ""
+    "translation": "防具力３１",
+    "stage": 3
   },
   {
     "key": "Equip-189-Name-0x19D0",
     "original": "装束・白狼",
-    "translation": ""
+    "translation": "装束·白狼",
+    "stage": 3
   },
   {
     "key": "Equip-189-Desc1-0x19C4",
     "original": "防具力３８",
-    "translation": ""
+    "translation": "防具力３８",
+    "stage": 3
   },
   {
     "key": "Equip-190-Name-0x19B8",
     "original": "装束・裏雅",
-    "translation": ""
+    "translation": "装束·里雅",
+    "stage": 3
   },
   {
     "key": "Equip-190-Desc1-0x19A0",
-    "original": "防具力３８\u3000ＬＵＣ＋",
-    "translation": ""
+    "original": "防具力３８　ＬＵＣ＋",
+    "translation": "防具力３８　ＬＵＣ＋",
+    "stage": 3
   },
   {
     "key": "Equip-190-Desc2-0x87FA0",
     "original": "２",
-    "translation": ""
+    "translation": "２",
+    "stage": 3
   },
   {
     "key": "Equip-191-Name-0x1994",
     "original": "装束・黒霧",
-    "translation": ""
+    "translation": "装束·黑雾",
+    "stage": 3
   },
   {
     "key": "Equip-191-Desc1-0x1A9C",
     "original": "防具力４２",
-    "translation": ""
+    "translation": "防具力４２",
+    "stage": 3
   },
   {
     "key": "Equip-192-Name-0x1988",
     "original": "装束・嵐仙",
-    "translation": ""
+    "translation": "装束·岚仙",
+    "stage": 3
   },
   {
     "key": "Equip-192-Desc1-0x1A7C",
     "original": "防具力４８",
-    "translation": ""
+    "translation": "防具力４８",
+    "stage": 3
   },
   {
     "key": "Equip-193-Name-0x197C",
     "original": "装束・闇鎖",
-    "translation": ""
+    "translation": "装束·暗锁",
+    "stage": 3
   },
   {
     "key": "Equip-193-Desc1-0x1964",
-    "original": "防具力６０\u3000ＤＥＸ＋",
-    "translation": ""
+    "original": "防具力６０　ＤＥＸ＋",
+    "translation": "防具力６０　ＤＥＸ＋",
+    "stage": 3
   },
   {
     "key": "Equip-193-Desc2-0x1954",
-    "original": "１\u3000ＬＵＣ＋１",
-    "translation": ""
+    "original": "１　ＬＵＣ＋１",
+    "translation": "１　ＬＵＣ＋１",
+    "stage": 3
   },
   {
     "key": "Equip-194-Name-0x1948",
     "original": "装備無し",
-    "translation": ""
+    "translation": "无装备",
+    "stage": 3
   },
   {
     "key": "Equip-195-Name-0x2AA0",
     "original": "小さなモーター",
-    "translation": ""
+    "translation": "小型马达",
+    "stage": 3
   },
   {
     "key": "Equip-195-Desc1-0x88058",
     "original": "機＋",
-    "translation": ""
+    "translation": "机＋",
+    "stage": 3
   },
   {
     "key": "Equip-196-Name-0x2A90",
     "original": "ステラエンジン",
-    "translation": ""
+    "translation": "星辰引擎",
+    "stage": 3
   },
   {
     "key": "Equip-196-Desc1-0x88058",
     "original": "機＋",
-    "translation": ""
+    "translation": "机＋",
+    "stage": 3
   },
   {
     "key": "Equip-197-Name-0x2A80",
     "original": "ＲＭＤ２６６",
-    "translation": ""
+    "translation": "ＲＭＤ２６６",
+    "stage": 3
   },
   {
     "key": "Equip-197-Desc1-0x2A6C",
-    "original": "ＤＥＸ＋２\u3000機＋",
-    "translation": ""
+    "original": "ＤＥＸ＋２　機＋",
+    "translation": "ＤＥＸ＋２　机＋",
+    "stage": 3
   },
   {
     "key": "Equip-198-Name-0x2A5C",
     "original": "ＧＫＴＳＫＵⅡ",
-    "translation": ""
+    "translation": "ＧＫＴＳＫＵⅡ",
+    "stage": 3
   },
   {
     "key": "Equip-198-Desc1-0x88050",
     "original": "機鬼＋",
-    "translation": ""
+    "translation": "机鬼＋",
+    "stage": 3
   },
   {
     "key": "Equip-199-Name-0x2A50",
     "original": "黄金紳士",
-    "translation": ""
+    "translation": "黄金绅士",
+    "stage": 3
   },
   {
     "key": "Equip-199-Desc1-0x2A38",
-    "original": "ＩＮＴ＋１\u3000ＤＥＸ＋",
-    "translation": ""
+    "original": "ＩＮＴ＋１　ＤＥＸ＋",
+    "translation": "ＩＮＴ＋１　ＤＥＸ＋",
+    "stage": 3
   },
   {
     "key": "Equip-199-Desc2-0x2A2C",
-    "original": "４\u3000機＋",
-    "translation": ""
+    "original": "４　機＋",
+    "translation": "４　机＋",
+    "stage": 3
   },
   {
     "key": "Equip-200-Name-0x2A1C",
     "original": "ウィルスガード",
-    "translation": ""
+    "translation": "病毒防护",
+    "stage": 3
   },
   {
     "key": "Equip-200-Desc1-0x2A04",
-    "original": "ＩＮＴ＋１\u3000ＶＩＴ＋",
-    "translation": ""
+    "original": "ＩＮＴ＋１　ＶＩＴ＋",
+    "translation": "ＩＮＴ＋１　ＶＩＴ＋",
+    "stage": 3
   },
   {
     "key": "Equip-200-Desc2-0x87FA4",
     "original": "１",
-    "translation": ""
+    "translation": "１",
+    "stage": 3
   },
   {
     "key": "Equip-201-Name-0x29F4",
     "original": "クリティツール",
-    "translation": ""
+    "translation": "暴击工具",
+    "stage": 3
   },
   {
     "key": "Equip-201-Desc1-0x29DC",
-    "original": "ＤＥＸ＋２\u3000ＬＵＣ＋",
-    "translation": ""
+    "original": "ＤＥＸ＋２　ＬＵＣ＋",
+    "translation": "ＤＥＸ＋２　ＬＵＣ＋",
+    "stage": 3
   },
   {
     "key": "Equip-201-Desc2-0x29D0",
-    "original": "３\u3000機＋",
-    "translation": ""
+    "original": "３　機＋",
+    "translation": "３　机＋",
+    "stage": 3
   },
   {
     "key": "Equip-202-Name-0x29C0",
     "original": "スーパーツール",
-    "translation": ""
+    "translation": "超级工具",
+    "stage": 3
   },
   {
     "key": "Equip-202-Desc1-0x29A8",
-    "original": "ＩＮＴ＋４\u3000ＤＥＸ＋",
-    "translation": ""
+    "original": "ＩＮＴ＋４　ＤＥＸ＋",
+    "translation": "ＩＮＴ＋４　ＤＥＸ＋",
+    "stage": 3
   },
   {
     "key": "Equip-202-Desc2-0x2990",
-    "original": "４\u3000ＬＵＣ＋４\u3000機＋",
-    "translation": ""
+    "original": "４　ＬＵＣ＋４　機＋",
+    "translation": "４　ＬＵＣ＋４　机＋",
+    "stage": 3
   },
   {
     "key": "Equip-203-Name-0x297C",
     "original": "鉄人コントローラ",
-    "translation": ""
+    "translation": "铁人控制器",
+    "stage": 3
   },
   {
     "key": "Equip-203-Desc1-0x2968",
-    "original": "ＶＩＴ＋４\u3000機霊＋",
-    "translation": ""
+    "original": "ＶＩＴ＋４　機霊＋",
+    "translation": "ＶＩＴ＋４　机灵＋",
+    "stage": 3
   },
   {
     "key": "Equip-204-Name-0x2958",
     "original": "銀箔のボード",
-    "translation": ""
+    "translation": "银箔板",
+    "stage": 3
   },
   {
     "key": "Equip-204-Desc1-0x2944",
-    "original": "ＤＥＸ＋１\u3000機＋",
-    "translation": ""
+    "original": "ＤＥＸ＋１　機＋",
+    "translation": "ＤＥＸ＋１　机＋",
+    "stage": 3
   },
   {
     "key": "Equip-205-Name-0x2934",
     "original": "ジャンクボード",
-    "translation": ""
+    "translation": "废弃板",
+    "stage": 3
   },
   {
     "key": "Equip-205-Desc1-0x88058",
     "original": "機＋",
-    "translation": ""
+    "translation": "机＋",
+    "stage": 3
   },
   {
     "key": "Equip-206-Name-0x2924",
     "original": "松のかんざし",
-    "translation": ""
+    "translation": "松木簪",
+    "stage": 3
   },
   {
     "key": "Equip-206-Desc1-0x290C",
-    "original": "ＭＰ最大値＋５\u3000鬼＋",
-    "translation": ""
+    "original": "ＭＰ最大値＋５　鬼＋",
+    "translation": "ＭＰ最大值＋５　鬼＋",
+    "stage": 3
   },
   {
     "key": "Equip-207-Name-0x28F8",
     "original": "コハクのかんざし",
-    "translation": ""
+    "translation": "琥珀簪",
+    "stage": 3
   },
   {
     "key": "Equip-207-Desc1-0x28E0",
-    "original": "ＨＰ最大値＋８\u3000ＶＩ",
-    "translation": ""
+    "original": "ＨＰ最大値＋８　ＶＩ",
+    "translation": "ＨＰ最大值＋８　ＶＩ",
+    "stage": 3
   },
   {
     "key": "Equip-207-Desc2-0x28D0",
-    "original": "Ｔ＋３\u3000鬼獣＋",
-    "translation": ""
+    "original": "Ｔ＋３　鬼獣＋",
+    "translation": "Ｔ＋３　鬼兽＋",
+    "stage": 3
   },
   {
     "key": "Equip-208-Name-0x28BC",
     "original": "ベッコウかんざし",
-    "translation": ""
+    "translation": "玳瑁簪",
+    "stage": 3
   },
   {
     "key": "Equip-208-Desc1-0x28A4",
-    "original": "ＶＩＴ＋１\u3000ＤＥＸ＋",
-    "translation": ""
+    "original": "ＶＩＴ＋１　ＤＥＸ＋",
+    "translation": "ＶＩＴ＋１　ＤＥＸ＋",
+    "stage": 3
   },
   {
     "key": "Equip-208-Desc2-0x288C",
-    "original": "１\u3000ＬＵＣ＋１\u3000鬼獣",
-    "translation": ""
+    "original": "１　ＬＵＣ＋１　鬼獣",
+    "translation": "１　ＬＵＣ＋１　鬼兽",
+    "stage": 3
   },
   {
     "key": "Equip-208-Desc3-0x8804C",
     "original": "＋",
-    "translation": ""
+    "translation": "＋",
+    "stage": 3
   },
   {
     "key": "Equip-209-Name-0x88044",
     "original": "勾玉",
-    "translation": ""
+    "translation": "勾玉",
+    "stage": 3
   },
   {
     "key": "Equip-209-Desc1-0x2A04",
-    "original": "ＩＮＴ＋１\u3000ＶＩＴ＋",
-    "translation": ""
+    "original": "ＩＮＴ＋１　ＶＩＴ＋",
+    "translation": "ＩＮＴ＋１　ＶＩＴ＋",
+    "stage": 3
   },
   {
     "key": "Equip-209-Desc2-0x2874",
-    "original": "１\u3000ＬＵＣ＋１\u3000鬼＋",
-    "translation": ""
+    "original": "１　ＬＵＣ＋１　鬼＋",
+    "translation": "１　ＬＵＣ＋１　鬼＋",
+    "stage": 3
   },
   {
     "key": "Equip-210-Name-0x8803C",
     "original": "炎皇玉",
-    "translation": ""
+    "translation": "炎皇玉",
+    "stage": 3
   },
   {
     "key": "Equip-210-Desc1-0x285C",
-    "original": "ＨＰ最大値＋１５\u3000鬼",
-    "translation": ""
+    "original": "ＨＰ最大値＋１５　鬼",
+    "translation": "ＨＰ最大值＋１５　鬼",
+    "stage": 3
   },
   {
     "key": "Equip-210-Desc2-0x8804C",
     "original": "＋",
-    "translation": ""
+    "translation": "＋",
+    "stage": 3
   },
   {
     "key": "Equip-211-Name-0x2850",
     "original": "荒天華玉",
-    "translation": ""
+    "translation": "荒天华玉",
+    "stage": 3
   },
   {
     "key": "Equip-211-Desc1-0x2838",
-    "original": "ＭＰ最大値＋１５\u3000鬼",
-    "translation": ""
+    "original": "ＭＰ最大値＋１５　鬼",
+    "translation": "ＭＰ最大值＋１５　鬼",
+    "stage": 3
   },
   {
     "key": "Equip-211-Desc2-0x88034",
     "original": "霊＋",
-    "translation": ""
+    "translation": "灵＋",
+    "stage": 3
   },
   {
     "key": "Equip-212-Name-0x8802C",
     "original": "破魔札",
-    "translation": ""
+    "translation": "破魔符",
+    "stage": 3
   },
   {
     "key": "Equip-212-Desc1-0x2820",
-    "original": "ＩＮＴ＋３\u3000ＶＩＴ－",
-    "translation": ""
+    "original": "ＩＮＴ＋３　ＶＩＴ－",
+    "translation": "ＩＮＴ＋３　ＶＩＴ－",
+    "stage": 3
   },
   {
     "key": "Equip-212-Desc2-0x2808",
-    "original": "１\u3000ＬＵＣ＋３\u3000鬼霊",
-    "translation": ""
+    "original": "１　ＬＵＣ＋３　鬼霊",
+    "translation": "１　ＬＵＣ＋３　鬼灵",
+    "stage": 3
   },
   {
     "key": "Equip-212-Desc3-0x8804C",
     "original": "＋",
-    "translation": ""
+    "translation": "＋",
+    "stage": 3
   },
   {
     "key": "Equip-213-Name-0x27FC",
     "original": "神獣封殺札",
-    "translation": ""
+    "translation": "神兽封杀符",
+    "stage": 3
   },
   {
     "key": "Equip-213-Desc1-0x27F0",
     "original": "ＡＬＬ－１",
-    "translation": ""
+    "translation": "ＡＬＬ－１",
+    "stage": 3
   },
   {
     "key": "Equip-214-Name-0x27E4",
     "original": "封忍呪札",
-    "translation": ""
+    "translation": "封忍咒符",
+    "stage": 3
   },
   {
     "key": "Equip-214-Desc1-0x27CC",
-    "original": "ＡＬＬ－５\u3000機鬼霊獣",
-    "translation": ""
+    "original": "ＡＬＬ－５　機鬼霊獣",
+    "translation": "ＡＬＬ－５　机鬼灵兽",
+    "stage": 3
   },
   {
     "key": "Equip-214-Desc2-0x8804C",
     "original": "＋",
-    "translation": ""
+    "translation": "＋",
+    "stage": 3
   },
   {
     "key": "Equip-215-Name-0x27C0",
     "original": "忍秘伝・陰",
-    "translation": ""
+    "translation": "忍秘传·阴",
+    "stage": 3
   },
   {
     "key": "Equip-215-Desc1-0x29A8",
-    "original": "ＩＮＴ＋４\u3000ＤＥＸ＋",
-    "translation": ""
+    "original": "ＩＮＴ＋４　ＤＥＸ＋",
+    "translation": "ＩＮＴ＋４　ＤＥＸ＋",
+    "stage": 3
   },
   {
     "key": "Equip-215-Desc2-0x27B4",
-    "original": "４\u3000鬼＋",
-    "translation": ""
+    "original": "４　鬼＋",
+    "translation": "４　鬼＋",
+    "stage": 3
   },
   {
     "key": "Equip-216-Name-0x27A8",
     "original": "忍秘伝・陽",
-    "translation": ""
+    "translation": "忍秘传·阳",
+    "stage": 3
   },
   {
     "key": "Equip-216-Desc1-0x279C",
     "original": "鬼霊獣＋",
-    "translation": ""
+    "translation": "鬼灵兽＋",
+    "stage": 3
   },
   {
     "key": "Equip-217-Name-0x2790",
     "original": "ペンダント",
-    "translation": ""
+    "translation": "吊坠",
+    "stage": 3
   },
   {
     "key": "Equip-217-Desc1-0x277C",
-    "original": "ＩＮＴ＋１\u3000霊＋",
-    "translation": ""
+    "original": "ＩＮＴ＋１　霊＋",
+    "translation": "ＩＮＴ＋１　灵＋",
+    "stage": 3
   },
   {
     "key": "Equip-218-Name-0x276C",
     "original": "金のロザリオ",
-    "translation": ""
+    "translation": "金质念珠",
+    "stage": 3
   },
   {
     "key": "Equip-218-Desc1-0x2754",
-    "original": "ＭＰ最大値＋１０\u3000霊",
-    "translation": ""
+    "original": "ＭＰ最大値＋１０　霊",
+    "translation": "ＭＰ最大值＋１０　灵",
+    "stage": 3
   },
   {
     "key": "Equip-218-Desc2-0x8804C",
     "original": "＋",
-    "translation": ""
+    "translation": "＋",
+    "stage": 3
   },
   {
     "key": "Equip-219-Name-0x2740",
     "original": "銃弾のペンダント",
-    "translation": ""
+    "translation": "枪弹坠饰",
+    "stage": 3
   },
   {
     "key": "Equip-219-Desc1-0x272C",
-    "original": "ＶＩＴ＋５\u3000機霊＋",
-    "translation": ""
+    "original": "ＶＩＴ＋５　機霊＋",
+    "translation": "ＶＩＴ＋５　机灵＋",
+    "stage": 3
   },
   {
     "key": "Equip-220-Name-0x2718",
     "original": "燃えさかるランプ",
-    "translation": ""
+    "translation": "燃烧油灯",
+    "stage": 3
   },
   {
     "key": "Equip-220-Desc1-0x2704",
-    "original": "ＶＩＴ＋１\u3000霊＋",
-    "translation": ""
+    "original": "ＶＩＴ＋１　霊＋",
+    "translation": "ＶＩＴ＋１　灵＋",
+    "stage": 3
   },
   {
     "key": "Equip-221-Name-0x26F4",
     "original": "赤光のランプ",
-    "translation": ""
+    "translation": "赤光油灯",
+    "stage": 3
   },
   {
     "key": "Equip-221-Desc1-0x26E0",
-    "original": "ＳＴＲ＋２\u3000霊＋",
-    "translation": ""
+    "original": "ＳＴＲ＋２　霊＋",
+    "translation": "ＳＴＲ＋２　灵＋",
+    "stage": 3
   },
   {
     "key": "Equip-222-Name-0x26D4",
     "original": "悪魔の名刺",
-    "translation": ""
+    "translation": "恶魔名片",
+    "stage": 3
   },
   {
     "key": "Equip-222-Desc1-0x26BC",
-    "original": "ＭＰ最大値＋５\u3000ＬＵ",
-    "translation": ""
+    "original": "ＭＰ最大値＋５　ＬＵ",
+    "translation": "ＭＰ最大值＋５　ＬＵ",
+    "stage": 3
   },
   {
     "key": "Equip-222-Desc2-0x26AC",
-    "original": "Ｃ－１\u3000霊＋",
-    "translation": ""
+    "original": "Ｃ－１　霊＋",
+    "translation": "Ｃ－１　灵＋",
+    "stage": 3
   },
   {
     "key": "Equip-223-Name-0x269C",
     "original": "タロットカード",
-    "translation": ""
+    "translation": "塔罗牌",
+    "stage": 3
   },
   {
     "key": "Equip-223-Desc1-0x2684",
-    "original": "ＭＰ最大値＋５\u3000ＩＮ",
-    "translation": ""
+    "original": "ＭＰ最大値＋５　ＩＮ",
+    "translation": "ＭＰ最大值＋５　ＩＮ",
+    "stage": 3
   },
   {
     "key": "Equip-223-Desc2-0x2674",
-    "original": "Ｔ＋１\u3000霊＋",
-    "translation": ""
+    "original": "Ｔ＋１　霊＋",
+    "translation": "Ｔ＋１　灵＋",
+    "stage": 3
   },
   {
     "key": "Equip-224-Name-0x88024",
     "original": "鉄の冠",
-    "translation": ""
+    "translation": "铁冠",
+    "stage": 3
   },
   {
     "key": "Equip-224-Desc1-0x2664",
     "original": "ＨＰ最大値＋５",
-    "translation": ""
+    "translation": "ＨＰ最大值＋５",
+    "stage": 3
   },
   {
     "key": "Equip-225-Name-0x2658",
     "original": "聖王母の冠",
-    "translation": ""
+    "translation": "圣王母冠",
+    "stage": 3
   },
   {
     "key": "Equip-225-Desc1-0x2640",
-    "original": "ＩＮＴ＋３\u3000ＶＩＴ＋",
-    "translation": ""
+    "original": "ＩＮＴ＋３　ＶＩＴ＋",
+    "translation": "ＩＮＴ＋３　ＶＩＴ＋",
+    "stage": 3
   },
   {
     "key": "Equip-225-Desc2-0x2634",
-    "original": "２\u3000霊獣＋",
-    "translation": ""
+    "original": "２　霊獣＋",
+    "translation": "２　灵兽＋",
+    "stage": 3
   },
   {
     "key": "Equip-226-Name-0x2628",
     "original": "百獣の冠",
-    "translation": ""
+    "translation": "百兽之冠",
+    "stage": 3
   },
   {
     "key": "Equip-226-Desc1-0x2610",
-    "original": "ＨＰ最大値＋１０\u3000Ｖ",
-    "translation": ""
+    "original": "ＨＰ最大値＋１０　Ｖ",
+    "translation": "ＨＰ最大值＋１０　Ｖ",
+    "stage": 3
   },
   {
     "key": "Equip-226-Desc2-0x25F8",
-    "original": "ＩＴ＋３\u3000ＤＥＸ＋１",
-    "translation": ""
+    "original": "ＩＴ＋３　ＤＥＸ＋１",
+    "translation": "ＩＴ＋３　ＤＥＸ＋１",
+    "stage": 3
   },
   {
     "key": "Equip-226-Desc3-0x8801C",
-    "original": "\u3000獣＋",
-    "translation": ""
+    "original": "　獣＋",
+    "translation": "　兽＋",
+    "stage": 3
   },
   {
     "key": "Equip-227-Name-0x25E8",
     "original": "サンゴの腕輪",
-    "translation": ""
+    "translation": "珊瑚手镯",
+    "stage": 3
   },
   {
     "key": "Equip-227-Desc1-0x25DC",
     "original": "ＬＵＣ＋２",
-    "translation": ""
+    "translation": "ＬＵＣ＋２",
+    "stage": 3
   },
   {
     "key": "Equip-228-Name-0x25D0",
     "original": "暁の腕輪",
-    "translation": ""
+    "translation": "拂晓手镯",
+    "stage": 3
   },
   {
     "key": "Equip-228-Desc1-0x25B8",
-    "original": "ＨＰ最大値＋１０\u3000Ｓ",
-    "translation": ""
+    "original": "ＨＰ最大値＋１０　Ｓ",
+    "translation": "ＨＰ最大值＋１０",
+    "stage": 3
   },
   {
     "key": "Equip-228-Desc2-0x25A0",
-    "original": "ＴＲ＋１\u3000ＶＩＴ＋１",
-    "translation": ""
+    "original": "ＴＲ＋１　ＶＩＴ＋１",
+    "translation": "ＴＲ＋１　ＶＩＴ＋１",
+    "stage": 3
   },
   {
     "key": "Equip-229-Name-0x2594",
     "original": "黒鎖の腕輪",
-    "translation": ""
+    "translation": "黑锁手镯",
+    "stage": 3
   },
   {
     "key": "Equip-229-Desc1-0x257C",
-    "original": "ＨＰ最大値＋１５\u3000霊",
-    "translation": ""
+    "original": "ＨＰ最大値＋１５　霊",
+    "translation": "ＨＰ最大值＋１５　灵",
+    "stage": 3
   },
   {
     "key": "Equip-229-Desc2-0x8804C",
     "original": "＋",
-    "translation": ""
+    "translation": "＋",
+    "stage": 3
   },
   {
     "key": "Equip-230-Name-0x256C",
     "original": "黒曜石の指輪",
-    "translation": ""
+    "translation": "黑曜石戒指",
+    "stage": 3
   },
   {
     "key": "Equip-230-Desc1-0x255C",
     "original": "ＭＰ最大値＋６",
-    "translation": ""
+    "translation": "ＭＰ最大值＋６",
+    "stage": 3
   },
   {
     "key": "Equip-231-Name-0x2550",
     "original": "王道リング",
-    "translation": ""
+    "translation": "王道戒指",
+    "stage": 3
   },
   {
     "key": "Equip-231-Desc1-0x2544",
     "original": "ＡＬＬ＋１",
-    "translation": ""
+    "translation": "ＡＬＬ＋１",
+    "stage": 3
   },
   {
     "key": "Equip-232-Name-0x2538",
     "original": "青い首輪",
-    "translation": ""
+    "translation": "蓝色项圈",
+    "stage": 3
   },
   {
     "key": "Equip-232-Desc1-0x2520",
-    "original": "ＨＰ最大値＋５\u3000ＬＵ",
-    "translation": ""
+    "original": "ＨＰ最大値＋５　ＬＵ",
+    "translation": "ＨＰ最大值＋５　ＬＵ",
+    "stage": 3
   },
   {
     "key": "Equip-232-Desc2-0x2510",
-    "original": "Ｃ＋１\u3000獣＋",
-    "translation": ""
+    "original": "Ｃ＋１　獣＋",
+    "translation": "Ｃ＋１　兽＋",
+    "stage": 3
   },
   {
     "key": "Equip-233-Name-0x2500",
     "original": "鈴のついた首輪",
-    "translation": ""
+    "translation": "带铃项圈",
+    "stage": 3
   },
   {
     "key": "Equip-233-Desc1-0x24E8",
-    "original": "ＤＥＸ＋１\u3000ＬＵＣ＋",
-    "translation": ""
+    "original": "ＤＥＸ＋１　ＬＵＣ＋",
+    "translation": "ＤＥＸ＋１　ＬＵＣ＋",
+    "stage": 3
   },
   {
     "key": "Equip-233-Desc2-0x24DC",
-    "original": "１\u3000獣＋",
-    "translation": ""
+    "original": "１　獣＋",
+    "translation": "１　兽＋",
+    "stage": 3
   },
   {
     "key": "Equip-234-Name-0x24C8",
     "original": "トゲのついた首輪",
-    "translation": ""
+    "translation": "带刺项圈",
+    "stage": 3
   },
   {
     "key": "Equip-234-Desc1-0x24B4",
-    "original": "ＤＥＸ＋２\u3000獣＋",
-    "translation": ""
+    "original": "ＤＥＸ＋２　獣＋",
+    "translation": "ＤＥＸ＋２　兽＋",
+    "stage": 3
   },
   {
     "key": "Equip-235-Name-0x24A8",
     "original": "竜のウロコ",
-    "translation": ""
+    "translation": "龙之鳞",
+    "stage": 3
   },
   {
     "key": "Equip-235-Desc1-0x2490",
-    "original": "ＳＴＲ＋３\u3000ＶＩＴ＋",
-    "translation": ""
+    "original": "ＳＴＲ＋３　ＶＩＴ＋",
+    "translation": "ＳＴＲ＋３　ＶＩＴ＋",
+    "stage": 3
   },
   {
     "key": "Equip-235-Desc2-0x2484",
-    "original": "３\u3000獣＋",
-    "translation": ""
+    "original": "３　獣＋",
+    "translation": "３　兽＋",
+    "stage": 3
   },
   {
     "key": "Equip-236-Name-0x2474",
     "original": "剣竜のウロコ",
-    "translation": ""
+    "translation": "剑龙之鳞",
+    "stage": 3
   },
   {
     "key": "Equip-236-Desc1-0x2460",
-    "original": "ＡＬＬ＋３\u3000獣＋",
-    "translation": ""
+    "original": "ＡＬＬ＋３　獣＋",
+    "translation": "ＡＬＬ＋３　兽＋",
+    "stage": 3
   },
   {
     "key": "Equip-237-Name-0x2454",
     "original": "狼の尻尾",
-    "translation": ""
+    "translation": "狼之尾",
+    "stage": 3
   },
   {
     "key": "Equip-237-Desc1-0x28A4",
-    "original": "ＶＩＴ＋１\u3000ＤＥＸ＋",
-    "translation": ""
+    "original": "ＶＩＴ＋１　ＤＥＸ＋",
+    "translation": "ＶＩＴ＋１　ＤＥＸ＋",
+    "stage": 3
   },
   {
     "key": "Equip-237-Desc2-0x2448",
-    "original": "２\u3000獣＋",
-    "translation": ""
+    "original": "２　獣＋",
+    "translation": "２　兽＋",
+    "stage": 3
   },
   {
     "key": "Equip-238-Name-0x243C",
     "original": "丸い尻尾",
-    "translation": ""
+    "translation": "圆尾巴",
+    "stage": 3
   },
   {
     "key": "Equip-238-Desc1-0x2610",
-    "original": "ＨＰ最大値＋１０\u3000Ｖ",
-    "translation": ""
+    "original": "ＨＰ最大値＋１０　Ｖ",
+    "translation": "ＨＰ最大值＋１０　Ｖ",
+    "stage": 3
   },
   {
     "key": "Equip-238-Desc2-0x242C",
-    "original": "ＩＴ＋２\u3000獣＋",
-    "translation": ""
+    "original": "ＩＴ＋２　獣＋",
+    "translation": "ＩＴ＋２　兽＋",
+    "stage": 3
   },
   {
     "key": "Equip-239-Name-0x241C",
     "original": "ウサギの尻尾",
-    "translation": ""
+    "translation": "兔尾巴",
+    "stage": 3
   },
   {
     "key": "Equip-239-Desc1-0x2408",
-    "original": "ＤＥＸ＋５\u3000獣＋",
-    "translation": ""
+    "original": "ＤＥＸ＋５　獣＋",
+    "translation": "ＤＥＸ＋５　兽＋",
+    "stage": 3
   },
   {
     "key": "Equip-240-Name-0x23F8",
     "original": "キツネの尻尾",
-    "translation": ""
+    "translation": "狐狸尾巴",
+    "stage": 3
   },
   {
     "key": "Equip-240-Desc1-0x23E0",
-    "original": "ＤＥＸ＋５\u3000ＬＵＣ＋",
-    "translation": ""
+    "original": "ＤＥＸ＋５　ＬＵＣ＋",
+    "translation": "ＤＥＸ＋５　ＬＵＣ＋",
+    "stage": 3
   },
   {
     "key": "Equip-240-Desc2-0x2484",
-    "original": "３\u3000獣＋",
-    "translation": ""
+    "original": "３　獣＋",
+    "translation": "３　兽＋",
+    "stage": 3
   },
   {
     "key": "Equip-241-Name-0x88014",
     "original": "謎の爪",
-    "translation": ""
+    "translation": "谜之爪",
+    "stage": 3
   },
   {
     "key": "Equip-241-Desc1-0x23C8",
-    "original": "ＶＩＴ＋２\u3000ＬＵＣ＋",
-    "translation": ""
+    "original": "ＶＩＴ＋２　ＬＵＣ＋",
+    "translation": "ＶＩＴ＋２　ＬＵＣ＋",
+    "stage": 3
   },
   {
     "key": "Equip-241-Desc2-0x24DC",
-    "original": "１\u3000獣＋",
-    "translation": ""
+    "original": "１　獣＋",
+    "translation": "１　兽＋",
+    "stage": 3
   },
   {
     "key": "Equip-242-Name-0x23B8",
     "original": "柔らかい骨飾り",
-    "translation": ""
+    "translation": "软骨饰",
+    "stage": 3
   },
   {
     "key": "Equip-242-Desc1-0x23A4",
-    "original": "ＶＩＴ＋１\u3000獣＋",
-    "translation": ""
+    "original": "ＶＩＴ＋１　獣＋",
+    "translation": "ＶＩＴ＋１　兽＋",
+    "stage": 3
   },
   {
     "key": "Equip-243-Name-0x2394",
     "original": "ガレフのお守り",
-    "translation": ""
+    "translation": "加雷夫的护身符",
+    "stage": 3
   },
   {
     "key": "Equip-243-Desc1-0x28A4",
-    "original": "ＶＩＴ＋１\u3000ＤＥＸ＋",
-    "translation": ""
+    "original": "ＶＩＴ＋１　ＤＥＸ＋",
+    "translation": "ＶＩＴ＋１　ＤＥＸ＋",
+    "stage": 3
   },
   {
     "key": "Equip-243-Desc2-0x237C",
-    "original": "４\u3000ＬＵＣ＋２\u3000霊獣",
-    "translation": ""
+    "original": "４　ＬＵＣ＋２　霊獣",
+    "translation": "４　ＬＵＫ＋２　灵兽",
+    "stage": 3
   },
   {
     "key": "Equip-243-Desc3-0x8804C",
     "original": "＋",
-    "translation": ""
+    "translation": "＋",
+    "stage": 3
   },
   {
     "key": "Equip-244-Name-0x236C",
     "original": "かたい骨飾り",
-    "translation": ""
+    "translation": "硬骨饰",
+    "stage": 3
   },
   {
     "key": "Equip-244-Desc1-0x2354",
-    "original": "ＤＥＸ－３\u3000ＬＵＣ＋",
-    "translation": ""
+    "original": "ＤＥＸ－３　ＬＵＣ＋",
+    "translation": "ＤＥＸ－３　ＬＵＫ＋",
+    "stage": 3
   },
   {
     "key": "Equip-244-Desc2-0x2484",
-    "original": "３\u3000獣＋",
-    "translation": ""
+    "original": "３　獣＋",
+    "translation": "３　兽＋",
+    "stage": 3
   },
   {
     "key": "Equip-245-Name-0x2344",
     "original": "メトラルホーン",
-    "translation": ""
+    "translation": "梅特拉尔之角",
+    "stage": 3
   },
   {
     "key": "Equip-245-Desc1-0x2610",
-    "original": "ＨＰ最大値＋１０\u3000Ｖ",
-    "translation": ""
+    "original": "ＨＰ最大値＋１０　Ｖ",
+    "translation": "ＨＰ最大值＋１０　Ｖ",
+    "stage": 3
   },
   {
     "key": "Equip-245-Desc2-0x232C",
-    "original": "ＩＴ＋５\u3000ＤＥＸ－５",
-    "translation": ""
+    "original": "ＩＴ＋５　ＤＥＸ－５",
+    "translation": "ＩＴ＋５　ＤＥＸ－５",
+    "stage": 3
   },
   {
     "key": "Equip-245-Desc3-0x8801C",
-    "original": "\u3000獣＋",
-    "translation": ""
+    "original": "　獣＋",
+    "translation": "　兽＋",
+    "stage": 3
   },
   {
     "key": "Equip-246-Name-0x8800C",
     "original": "虎の骨",
-    "translation": ""
+    "translation": "虎骨",
+    "stage": 3
   },
   {
     "key": "Equip-246-Desc1-0x2314",
-    "original": "ＩＮＴ－４\u3000ＤＥＸ＋",
-    "translation": ""
+    "original": "ＩＮＴ－４　ＤＥＸ＋",
+    "translation": "ＩＮＴ－４　ＤＥＸ＋",
+    "stage": 3
   },
   {
     "key": "Equip-246-Desc2-0x2308",
-    "original": "４\u3000獣＋",
-    "translation": ""
+    "original": "４　獣＋",
+    "translation": "４　兽＋",
+    "stage": 3
   },
   {
     "key": "Equip-247-Name-0x22FC",
     "original": "チョウの羽",
-    "translation": ""
+    "translation": "蝶之羽",
+    "stage": 3
   },
   {
     "key": "Equip-247-Desc1-0x22E4",
-    "original": "ＭＰ最大値＋５\u3000ＤＥ",
-    "translation": ""
+    "original": "ＭＰ最大値＋５　ＤＥ",
+    "translation": "ＭＰ最大值＋５　ＤＥ",
+    "stage": 3
   },
   {
     "key": "Equip-247-Desc2-0x88004",
     "original": "Ｘ＋３",
-    "translation": ""
+    "translation": "Ｘ＋３",
+    "stage": 3
   },
   {
     "key": "Equip-248-Name-0x22D8",
     "original": "オカリナ",
-    "translation": ""
+    "translation": "陶笛",
+    "stage": 3
   },
   {
     "key": "Equip-248-Desc1-0x22C8",
     "original": "ＭＰ最大値＋３",
-    "translation": ""
+    "translation": "ＭＰ最大值＋３",
+    "stage": 3
   },
   {
     "key": "Equip-249-Name-0x22B4",
     "original": "トゲトゲオカリナ",
-    "translation": ""
+    "translation": "刺刺陶笛",
+    "stage": 3
   },
   {
     "key": "Equip-249-Desc1-0x229C",
-    "original": "ＤＥＸ＋３\u3000ＬＵＣ＋",
-    "translation": ""
+    "original": "ＤＥＸ＋３　ＬＵＣ＋",
+    "translation": "ＤＥＸ＋３　ＬＵＣ＋",
+    "stage": 3
   },
   {
     "key": "Equip-249-Desc2-0x2448",
-    "original": "２\u3000獣＋",
-    "translation": ""
+    "original": "２　獣＋",
+    "translation": "２　兽＋",
+    "stage": 3
   },
   {
     "key": "Equip-250-Name-0x2288",
     "original": "黒塗りのオカリナ",
-    "translation": ""
+    "translation": "漆黑陶笛",
+    "stage": 3
   },
   {
     "key": "Equip-250-Desc1-0x87FFC",
     "original": "霊獣＋",
-    "translation": ""
+    "translation": "灵兽＋",
+    "stage": 3
   },
   {
     "key": "Equip-251-Name-0x227C",
     "original": "サングラス",
-    "translation": ""
+    "translation": "太阳镜",
+    "stage": 3
   },
   {
     "key": "Equip-251-Desc1-0x2264",
-    "original": "ＩＮＴ＋４\u3000ＬＵＣ＋",
-    "translation": ""
+    "original": "ＩＮＴ＋４　ＬＵＣ＋",
+    "translation": "ＩＮＴ＋４　ＬＵＣ＋",
+    "stage": 3
   },
   {
     "key": "Equip-251-Desc2-0x87FF8",
     "original": "４",
-    "translation": ""
+    "translation": "４",
+    "stage": 3
   },
   {
     "key": "Equip-252-Name-0x2254",
     "original": "かきかたの本",
-    "translation": ""
+    "translation": "书法书",
+    "stage": 3
   },
   {
     "key": "Equip-252-Desc1-0x223C",
-    "original": "ＭＰ最大値＋１０\u3000Ｉ",
-    "translation": ""
+    "original": "ＭＰ最大値＋１０　Ｉ",
+    "translation": "ＭＰ最大值＋１０　Ｉ",
+    "stage": 3
   },
   {
     "key": "Equip-252-Desc2-0x2230",
     "original": "ＮＴ＋１０",
-    "translation": ""
+    "translation": "ＮＴ＋１０",
+    "stage": 3
   },
   {
     "key": "Equip-253-Name-0x2224",
     "original": "ペット手帳",
-    "translation": ""
+    "translation": "宠物手册",
+    "stage": 3
   },
   {
     "key": "Equip-253-Desc1-0x220C",
-    "original": "ＩＮＴ＋２\u3000ＶＩＴ＋",
-    "translation": ""
+    "original": "ＩＮＴ＋２　ＶＩＴ＋",
+    "translation": "智力＋２　体力＋",
+    "stage": 3
   },
   {
     "key": "Equip-253-Desc2-0x21F4",
-    "original": "１\u3000ＤＥＸ＋１\u3000獣＋",
-    "translation": ""
+    "original": "１　ＤＥＸ＋１　獣＋",
+    "translation": "１　灵巧＋１　兽＋",
+    "stage": 3
   },
   {
     "key": "Equip-254-Name-0x21E8",
     "original": "半魔の日記",
-    "translation": ""
+    "translation": "半魔日记",
+    "stage": 3
   },
   {
     "key": "Equip-254-Desc1-0x223C",
-    "original": "ＭＰ最大値＋１０\u3000Ｉ",
-    "translation": ""
+    "original": "ＭＰ最大値＋１０　Ｉ",
+    "translation": "ＭＰ最大值＋１０　智",
+    "stage": 3
   },
   {
     "key": "Equip-254-Desc2-0x21D0",
-    "original": "ＮＴ＋３\u3000ＬＵＣ－５",
-    "translation": ""
+    "original": "ＮＴ＋３　ＬＵＣ－５",
+    "translation": "力＋３　幸运－５",
+    "stage": 3
   },
   {
     "key": "Equip-254-Desc3-0x87FF0",
-    "original": "\u3000霊＋",
-    "translation": ""
+    "original": "　霊＋",
+    "translation": "　灵＋",
+    "stage": 3
   },
   {
     "key": "Equip-255-Name-0x21C0",
     "original": "予言書６６６",
-    "translation": ""
+    "translation": "预言书６６６",
+    "stage": 3
   },
   {
     "key": "Equip-255-Desc1-0x21A8",
-    "original": "ＩＮＴ＋４\u3000ＬＵＣ－",
-    "translation": ""
+    "original": "ＩＮＴ＋４　ＬＵＣ－",
+    "translation": "智力＋４　幸运－",
+    "stage": 3
   },
   {
     "key": "Equip-255-Desc2-0x219C",
-    "original": "２\u3000霊＋",
-    "translation": ""
+    "original": "２　霊＋",
+    "translation": "２　灵＋",
+    "stage": 3
   },
   {
     "key": "Equip-256-Name-0x2190",
     "original": "天使辞典",
-    "translation": ""
+    "translation": "天使辞典",
+    "stage": 3
   },
   {
     "key": "Equip-256-Desc1-0x2178",
-    "original": "ＩＮＴ＋２\u3000ＬＵＣ＋",
-    "translation": ""
+    "original": "ＩＮＴ＋２　ＬＵＣ＋",
+    "translation": "智力＋２　幸运＋",
+    "stage": 3
   },
   {
     "key": "Equip-256-Desc2-0x216C",
-    "original": "４\u3000霊＋",
-    "translation": ""
+    "original": "４　霊＋",
+    "translation": "４　灵＋",
+    "stage": 3
   },
   {
     "key": "Equip-257-Name-0x2160",
     "original": "防塵マスク",
-    "translation": ""
+    "translation": "防尘面具",
+    "stage": 3
   },
   {
     "key": "Equip-257-Desc1-0x2148",
-    "original": "ＩＮＴ－２\u3000ＶＩＴ＋",
-    "translation": ""
+    "original": "ＩＮＴ－２　ＶＩＴ＋",
+    "translation": "智力－２　体力＋",
+    "stage": 3
   },
   {
     "key": "Equip-257-Desc2-0x14EC",
-    "original": "１\u3000ＤＥＸ＋１",
-    "translation": ""
+    "original": "１　ＤＥＸ＋１",
+    "translation": "１　灵巧＋１",
+    "stage": 3
   },
   {
     "key": "Equip-258-Name-0x2134",
     "original": "テキサスのマスク",
-    "translation": ""
+    "translation": "德州面具",
+    "stage": 3
   },
   {
     "key": "Equip-258-Desc1-0x211C",
-    "original": "ＤＥＸ－５\u3000ＬＵＣ＋",
-    "translation": ""
+    "original": "ＤＥＸ－５　ＬＵＣ＋",
+    "translation": "ＤＥＸ－５　ＬＵＣ＋",
+    "stage": 3
   },
   {
     "key": "Equip-258-Desc2-0x2110",
-    "original": "５\u3000霊＋",
-    "translation": ""
+    "original": "５　霊＋",
+    "translation": "５　灵＋",
+    "stage": 3
   },
   {
     "key": "Equip-259-Name-0x2100",
     "original": "ベッコウの手鏡",
-    "translation": ""
+    "translation": "玳瑁手镜",
+    "stage": 3
   },
   {
     "key": "Equip-259-Desc1-0x20E8",
-    "original": "ＩＮＴ＋３\u3000ＬＵＣ＋",
-    "translation": ""
+    "original": "ＩＮＴ＋３　ＬＵＣ＋",
+    "translation": "鬼兽＋２　ＩＮＴ＋３",
+    "stage": 3
   },
   {
     "key": "Equip-259-Desc2-0x20DC",
-    "original": "２\u3000鬼獣＋",
-    "translation": ""
+    "original": "２　鬼獣＋",
+    "translation": "ＬＵＣ＋２",
+    "stage": 3
   },
   {
     "key": "Equip-260-Name-0x87FE8",
     "original": "鉄鉱石",
-    "translation": ""
+    "translation": "铁矿石",
+    "stage": 3
   },
   {
     "key": "Equip-260-Desc1-0x20D0",
     "original": "ＩＮＴ＋１",
-    "translation": ""
+    "translation": "ＩＮＴ＋１",
+    "stage": 3
   },
   {
     "key": "Equip-261-Name-0x20C0",
     "original": "オリハルコン",
-    "translation": ""
+    "translation": "奥利哈钢",
+    "stage": 3
   },
   {
     "key": "Equip-261-Desc1-0x20B4",
     "original": "ＩＮＴ＋２",
-    "translation": ""
+    "translation": "ＩＮＴ＋２",
+    "stage": 3
   },
   {
     "key": "Equip-262-Name-0x20A8",
     "original": "賢者の石",
-    "translation": ""
+    "translation": "贤者之石",
+    "stage": 3
   },
   {
     "key": "Equip-262-Desc1-0x2090",
-    "original": "ＩＮＴ＋５\u3000ＬＵＣ＋",
-    "translation": ""
+    "original": "ＩＮＴ＋５　ＬＵＣ＋",
+    "translation": "ＩＮＴ＋５　ＬＵＣ＋",
+    "stage": 3
   },
   {
     "key": "Equip-262-Desc2-0x87F90",
     "original": "５",
-    "translation": ""
+    "translation": "５",
+    "stage": 3
   },
   {
     "key": "Equip-263-Name-0x207C",
     "original": "かっこいい釣り竿",
-    "translation": ""
+    "translation": "帅气钓竿",
+    "stage": 3
   },
   {
     "key": "Equip-263-Desc1-0x2070",
     "original": "ＳＴＲ＋１",
-    "translation": ""
+    "translation": "ＳＴＲ＋１",
+    "stage": 3
   },
   {
     "key": "Equip-264-Name-0x205C",
     "original": "ゴールデンルアー",
-    "translation": ""
+    "translation": "黄金鱼饵",
+    "stage": 3
   },
   {
     "key": "Equip-264-Desc1-0x2050",
     "original": "ＳＴＲ＋２",
-    "translation": ""
+    "translation": "ＳＴＲ＋２",
+    "stage": 3
   },
   {
     "key": "Item-1-Name-0x2DB4",
-    "original": "サモナイト石\u3000機",
-    "translation": ""
+    "original": "サモナイト石　機",
+    "translation": "召唤之夜石　机",
+    "stage": 3
   },
   {
     "key": "Item-1-Desc1-0x2D9C",
     "original": "属性「機械」の召喚を",
-    "translation": ""
+    "translation": "发动「机械」属性",
+    "stage": 3
   },
   {
     "key": "Item-1-Desc2-0x2D90",
     "original": "発動する",
-    "translation": ""
+    "translation": "召唤",
+    "stage": 3
   },
   {
     "key": "Item-2-Name-0x2D7C",
-    "original": "サモナイト石\u3000鬼",
-    "translation": ""
+    "original": "サモナイト石　鬼",
+    "translation": "召唤之夜石　鬼",
+    "stage": 3
   },
   {
     "key": "Item-2-Desc1-0x2D64",
     "original": "属性「鬼」の召喚を発",
-    "translation": ""
+    "translation": "发动「鬼」属性召",
+    "stage": 3
   },
   {
     "key": "Item-2-Desc2-0x88078",
     "original": "動する",
-    "translation": ""
+    "translation": "唤",
+    "stage": 3
   },
   {
     "key": "Item-3-Name-0x2D50",
-    "original": "サモナイト石\u3000霊",
-    "translation": ""
+    "original": "サモナイト石　霊",
+    "translation": "召唤之夜石　灵",
+    "stage": 3
   },
   {
     "key": "Item-3-Desc1-0x2D38",
     "original": "属性「霊」の召喚を発",
-    "translation": ""
+    "translation": "发动「灵」属性召",
+    "stage": 3
   },
   {
     "key": "Item-3-Desc2-0x88078",
     "original": "動する",
-    "translation": ""
+    "translation": "唤",
+    "stage": 3
   },
   {
     "key": "Item-4-Name-0x2D24",
-    "original": "サモナイト石\u3000獣",
-    "translation": ""
+    "original": "サモナイト石　獣",
+    "translation": "召唤之夜石　兽",
+    "stage": 3
   },
   {
     "key": "Item-4-Desc1-0x2D0C",
     "original": "属性「幻獣」の召喚を",
-    "translation": ""
+    "translation": "发动「幻兽」属性",
+    "stage": 3
   },
   {
     "key": "Item-4-Desc2-0x2D90",
     "original": "発動する",
-    "translation": ""
+    "translation": "召唤",
+    "stage": 3
   },
   {
     "key": "Item-5-Name-0x2CF8",
-    "original": "サモナイト石\u3000無",
-    "translation": ""
+    "original": "サモナイト石　無",
+    "translation": "召唤之夜石　无",
+    "stage": 3
   },
   {
     "key": "Item-5-Desc1-0x2CE0",
     "original": "属性「無」の召喚を発",
-    "translation": ""
+    "translation": "发动「无」属性",
+    "stage": 3
   },
   {
     "key": "Item-5-Desc2-0x88078",
     "original": "動する",
-    "translation": ""
+    "translation": "召唤",
+    "stage": 3
   },
   {
     "key": "Item-6-Name-0x2CD4",
     "original": "お守り袋",
-    "translation": ""
+    "translation": "护身符袋",
+    "stage": 3
   },
   {
     "key": "Item-6-Desc1-0x2CC8",
     "original": "落とし物",
-    "translation": ""
+    "translation": "遗失物",
+    "stage": 3
   },
   {
     "key": "Item-7-Name-0x2CBC",
     "original": "Ｆエイド",
-    "translation": ""
+    "translation": "Ｆ急救",
+    "stage": 3
   },
   {
     "key": "Item-7-Desc1-0x2CA8",
     "original": "ＨＰを５０回復する",
-    "translation": ""
+    "translation": "恢复ＨＰ　５０点",
+    "stage": 3
   },
   {
     "key": "Item-8-Name-0x2C9C",
     "original": "手作りパン",
-    "translation": ""
+    "translation": "手工面包",
+    "stage": 3
   },
   {
     "key": "Item-8-Desc1-0x2C88",
     "original": "ＨＰを８０回復する",
-    "translation": ""
+    "translation": "恢复ＨＰ　８０点",
+    "stage": 3
   },
   {
     "key": "Item-9-Name-0x2C7C",
     "original": "キッカの実",
-    "translation": ""
+    "translation": "奇卡果实",
+    "stage": 3
   },
   {
     "key": "Item-9-Desc1-0x2C64",
     "original": "ＨＰを１００回復する",
-    "translation": ""
+    "translation": "恢复ＨＰ　１００点",
+    "stage": 3
   },
   {
     "key": "Item-10-Name-0x2C54",
     "original": "ジュウユの実",
-    "translation": ""
+    "translation": "朱由果实",
+    "stage": 3
   },
   {
     "key": "Item-10-Desc1-0x2C3C",
     "original": "ＨＰを２００回復する",
-    "translation": ""
+    "translation": "恢复ＨＰ　２００点",
+    "stage": 3
   },
   {
     "key": "Item-11-Name-0x2C2C",
     "original": "クロッツアの実",
-    "translation": ""
+    "translation": "克洛扎果实",
+    "stage": 3
   },
   {
     "key": "Item-11-Desc1-0x2C18",
     "original": "ＨＰを全回復する",
-    "translation": ""
+    "translation": "完全恢复ＨＰ",
+    "stage": 3
   },
   {
     "key": "Item-12-Name-0x2C0C",
     "original": "キャンディ",
-    "translation": ""
+    "translation": "糖果",
+    "stage": 3
   },
   {
     "key": "Item-12-Desc1-0x2BF8",
     "original": "ＭＰを１０回復する",
-    "translation": ""
+    "translation": "恢复１０点ＭＰ",
+    "stage": 3
   },
   {
     "key": "Item-13-Name-0x2BE8",
     "original": "シャキットの葉",
-    "translation": ""
+    "translation": "清醒之叶",
+    "stage": 3
   },
   {
     "key": "Item-13-Desc1-0x2BD8",
     "original": "眠りを治療する",
-    "translation": ""
+    "translation": "治疗睡眠",
+    "stage": 3
   },
   {
     "key": "Item-14-Name-0x2BC4",
     "original": "オシャベリーの葉",
-    "translation": ""
+    "translation": "健谈之叶",
+    "stage": 3
   },
   {
     "key": "Item-14-Desc1-0x2BB4",
     "original": "沈黙を治療する",
-    "translation": ""
+    "translation": "治疗沉默",
+    "stage": 3
   },
   {
     "key": "Item-15-Name-0x2BA4",
     "original": "ブライトの葉",
-    "translation": ""
+    "translation": "光明之叶",
+    "stage": 3
   },
   {
     "key": "Item-15-Desc1-0x2B94",
     "original": "暗闇を治療する",
-    "translation": ""
+    "translation": "治疗黑暗",
+    "stage": 3
   },
   {
     "key": "Item-16-Name-0x2B84",
     "original": "カーッツの葉",
-    "translation": ""
+    "translation": "活力之叶",
+    "stage": 3
   },
   {
     "key": "Item-16-Desc1-0x2B74",
     "original": "マヒを治療する",
-    "translation": ""
+    "translation": "治疗麻痹",
+    "stage": 3
   },
   {
     "key": "Item-17-Name-0x2B64",
     "original": "ゲドッグーの葉",
-    "translation": ""
+    "translation": "解毒之叶",
+    "stage": 3
   },
   {
     "key": "Item-17-Desc1-0x2B54",
     "original": "毒を治療する",
-    "translation": ""
+    "translation": "治疗中毒",
+    "stage": 3
   },
   {
     "key": "Item-18-Name-0x2B40",
     "original": "ラムルカムルの葉",
-    "translation": ""
+    "translation": "万能之叶",
+    "stage": 3
   },
   {
     "key": "Item-18-Desc1-0x2B28",
     "original": "全てのステータス異常",
-    "translation": ""
+    "translation": "治疗所有异常",
+    "stage": 3
   },
   {
     "key": "Item-18-Desc2-0x2B1C",
     "original": "を治療する",
-    "translation": ""
+    "translation": "状态",
+    "stage": 3
   },
   {
     "key": "Item-19-Name-0x2B10",
     "original": "救急セット",
-    "translation": ""
+    "translation": "急救包",
+    "stage": 3
   },
   {
     "key": "Item-19-Desc1-0x2B28",
     "original": "全てのステータス異常",
-    "translation": ""
+    "translation": "治疗所有异常",
+    "stage": 3
   },
   {
     "key": "Item-19-Desc2-0x2AF8",
     "original": "を治療し、ＨＰを全回",
-    "translation": ""
+    "translation": "状态，并完全恢",
+    "stage": 3
   },
   {
     "key": "Item-19-Desc3-0x88070",
     "original": "復する",
-    "translation": ""
+    "translation": "复ＨＰ",
+    "stage": 3
   },
   {
     "key": "Item-20-Name-0x88068",
     "original": "にぼし",
-    "translation": ""
+    "translation": "小鱼干",
+    "stage": 3
   },
   {
     "key": "Item-20-Desc1-0x2AE0",
-    "original": "釣りのエサ\u3000ＨＰを５",
-    "translation": ""
+    "original": "釣りのエサ　ＨＰを５",
+    "translation": "钓鱼饵料，恢复",
+    "stage": 3
   },
   {
     "key": "Item-20-Desc2-0x2AD4",
     "original": "回復する",
-    "translation": ""
+    "translation": "５点ＨＰ",
+    "stage": 3
   },
   {
     "key": "Item-21-Name-0x2AC8",
     "original": "カツオブシ",
-    "translation": ""
+    "translation": "木鱼花",
+    "stage": 3
   },
   {
     "key": "Item-21-Desc1-0x2AE0",
-    "original": "釣りのエサ\u3000ＨＰを５",
-    "translation": ""
+    "original": "釣りのエサ　ＨＰを５",
+    "translation": "钓鱼饵料，恢复",
+    "stage": 3
   },
   {
     "key": "Item-21-Desc2-0x2AD4",
     "original": "回復する",
-    "translation": ""
+    "translation": "５点ＨＰ",
+    "stage": 3
   },
   {
     "key": "Item-22-Name-0x2ABC",
     "original": "マタタビ",
-    "translation": ""
+    "translation": "木天蓼",
+    "stage": 3
   },
   {
     "key": "Item-22-Desc1-0x2AE0",
-    "original": "釣りのエサ\u3000ＨＰを５",
-    "translation": ""
+    "original": "釣りのエサ　ＨＰを５",
+    "translation": "钓鱼饵料，恢复",
+    "stage": 3
   },
   {
     "key": "Item-22-Desc2-0x2AD4",
     "original": "回復する",
-    "translation": ""
+    "translation": "５点ＨＰ",
+    "stage": 3
   },
   {
     "key": "Item-23-Name-0x88060",
     "original": "ネコ缶",
-    "translation": ""
+    "translation": "猫罐头",
+    "stage": 3
   },
   {
     "key": "Item-23-Desc1-0x2AE0",
-    "original": "釣りのエサ\u3000ＨＰを５",
-    "translation": ""
+    "original": "釣りのエサ　ＨＰを５",
+    "translation": "钓鱼饵料，恢复",
+    "stage": 3
   },
   {
     "key": "Item-23-Desc2-0x2AD4",
     "original": "回復する",
-    "translation": ""
+    "translation": "５点ＨＰ",
+    "stage": 3
   },
   {
     "key": "Item-24-Name-0x2AB0",
     "original": "ザリガニ",
-    "translation": ""
+    "translation": "小龙虾",
+    "stage": 3
   },
   {
     "key": "Item-24-Desc1-0x2AE0",
-    "original": "釣りのエサ\u3000ＨＰを５",
-    "translation": ""
+    "original": "釣りのエサ　ＨＰを５",
+    "translation": "钓鱼饵料，恢复",
+    "stage": 3
   },
   {
     "key": "Item-24-Desc2-0x2AD4",
     "original": "回復する",
-    "translation": ""
+    "translation": "５点ＨＰ",
+    "stage": 3
   },
   {
     "key": "EnemySkill-0-0x3AC0",
     "original": "ヒポス＆タマス",
-    "translation": ""
+    "translation": "希波斯＆塔玛斯",
+    "stage": 3
   },
   {
     "key": "EnemySkill-1-0x3AAC",
     "original": "ナイトメアブレス",
-    "translation": ""
+    "translation": "梦魇吐息",
+    "stage": 3
   },
   {
     "key": "EnemySkill-2-0x3AA0",
     "original": "クサ色吐息",
-    "translation": ""
+    "translation": "草色吐息",
+    "stage": 3
   },
   {
     "key": "EnemySkill-3-0x3A90",
     "original": "ダブルホラブル",
-    "translation": ""
+    "translation": "双重恐怖",
+    "stage": 3
   },
   {
     "key": "EnemySkill-4-0x3A80",
     "original": "ブラックラック",
-    "translation": ""
+    "translation": "黑色厄运",
+    "stage": 3
   },
   {
     "key": "EnemySkill-5-0x3A74",
     "original": "黄泉の瞬き",
-    "translation": ""
+    "translation": "黄泉瞬息",
+    "stage": 3
   },
   {
     "key": "EnemySkill-6-0x3A60",
     "original": "ダークスペクター",
-    "translation": ""
+    "translation": "黑暗幽灵",
+    "stage": 3
   },
   {
     "key": "EnemySkill-7-0x3A4C",
     "original": "しゃれこうべ伯爵",
-    "translation": ""
+    "translation": "骷髅伯爵",
+    "stage": 3
   },
   {
     "key": "EnemySkill-8-0x3A3C",
     "original": "ミョージン召喚",
-    "translation": ""
+    "translation": "召唤明神",
+    "stage": 3
   },
   {
     "key": "EnemySkill-9-0x3A3C",
     "original": "ミョージン召喚",
-    "translation": ""
+    "translation": "召唤明神",
+    "stage": 3
   },
   {
     "key": "EnemySkill-10-0x3A3C",
     "original": "ミョージン召喚",
-    "translation": ""
+    "translation": "召唤明神",
+    "stage": 3
   },
   {
     "key": "EnemySkill-11-0x3A3C",
     "original": "ミョージン召喚",
-    "translation": ""
+    "translation": "召唤明神",
+    "stage": 3
   },
   {
     "key": "EnemySkill-12-0x3A30",
     "original": "テテ召喚",
-    "translation": ""
+    "translation": "召唤泰泰",
+    "stage": 3
   },
   {
     "key": "EnemySkill-13-0x3A30",
     "original": "テテ召喚",
-    "translation": ""
+    "translation": "召唤泰泰",
+    "stage": 3
   },
   {
     "key": "EnemySkill-14-0x3A30",
     "original": "テテ召喚",
-    "translation": ""
+    "translation": "召唤泰泰",
+    "stage": 3
   },
   {
     "key": "EnemySkill-15-0x3A30",
     "original": "テテ召喚",
-    "translation": ""
+    "translation": "召唤泰泰",
+    "stage": 3
   },
   {
     "key": "EnemySkill-16-0x3A20",
     "original": "ライザー召喚",
-    "translation": ""
+    "translation": "召唤莱泽",
+    "stage": 3
   },
   {
     "key": "EnemySkill-17-0x3A20",
     "original": "ライザー召喚",
-    "translation": ""
+    "translation": "召唤莱泽",
+    "stage": 3
   },
   {
     "key": "EnemySkill-18-0x3A20",
     "original": "ライザー召喚",
-    "translation": ""
+    "translation": "召唤莱泽",
+    "stage": 3
   },
   {
     "key": "EnemySkill-19-0x3A20",
     "original": "ライザー召喚",
-    "translation": ""
+    "translation": "召唤莱泽",
+    "stage": 3
   },
   {
     "key": "EnemySkill-20-0x3A14",
     "original": "ポワソ召喚",
-    "translation": ""
+    "translation": "召唤波瓦索",
+    "stage": 3
   },
   {
     "key": "EnemySkill-21-0x3A14",
     "original": "ポワソ召喚",
-    "translation": ""
+    "translation": "召唤波瓦索",
+    "stage": 3
   },
   {
     "key": "EnemySkill-22-0x3A14",
     "original": "ポワソ召喚",
-    "translation": ""
+    "translation": "召唤波瓦索",
+    "stage": 3
   },
   {
     "key": "EnemySkill-23-0x3A14",
     "original": "ポワソ召喚",
-    "translation": ""
+    "translation": "召唤波瓦索",
+    "stage": 3
   },
   {
     "key": "EnemySkill-24-0x3A04",
     "original": "ロックラッシュ",
-    "translation": ""
+    "translation": "岩石猛冲",
+    "stage": 3
   },
   {
     "key": "EnemySkill-25-0x39F8",
     "original": "死の落岩",
-    "translation": ""
+    "translation": "死亡落岩",
+    "stage": 3
   },
   {
     "key": "EnemySkill-26-0x39EC",
     "original": "イワバーン",
-    "translation": ""
+    "translation": "岩石爆",
+    "stage": 3
   },
   {
     "key": "EnemySkill-27-0x39DC",
     "original": "爆岩ストライク",
-    "translation": ""
+    "translation": "爆岩强击",
+    "stage": 3
   },
   {
     "key": "EnemySkill-28-0x39D0",
     "original": "ディアブロ",
-    "translation": ""
+    "translation": "迪亚布罗",
+    "stage": 3
   },
   {
     "key": "EnemySkill-29-0x39C4",
     "original": "抹殺指令",
-    "translation": ""
+    "translation": "抹杀指令",
+    "stage": 3
   },
   {
     "key": "EnemySkill-30-0x39B4",
     "original": "レーザー番長",
-    "translation": ""
+    "translation": "激光番长",
+    "stage": 3
   },
   {
     "key": "EnemySkill-31-0x39A8",
     "original": "オメガレイ",
-    "translation": ""
+    "translation": "欧米伽射线",
+    "stage": 3
   },
   {
     "key": "EnemySkill-32-0x3998",
     "original": "オオアカ切断虫",
-    "translation": ""
+    "translation": "大赤切断虫",
+    "stage": 3
   },
   {
     "key": "EnemySkill-33-0x3988",
     "original": "チョッキーナ",
-    "translation": ""
+    "translation": "乔奇娜",
+    "stage": 3
   },
   {
     "key": "EnemySkill-34-0x397C",
     "original": "カニガニー",
-    "translation": ""
+    "translation": "蟹钳",
+    "stage": 3
   },
   {
     "key": "EnemySkill-35-0x396C",
     "original": "甲殻鬼双刃斬",
-    "translation": ""
+    "translation": "甲壳鬼双刃斩",
+    "stage": 3
   },
   {
     "key": "EnemySkill-36-0x3958",
     "original": "アーマーチャンプ",
-    "translation": ""
+    "translation": "装甲冠军",
+    "stage": 3
   },
   {
     "key": "EnemySkill-37-0x3948",
     "original": "与えよ鉄壁の盾",
-    "translation": ""
+    "translation": "赐予铁壁之盾",
+    "stage": 3
   },
   {
     "key": "EnemySkill-38-0x3938",
     "original": "ベイルルーク",
-    "translation": ""
+    "translation": "贝鲁克",
+    "stage": 3
   },
   {
     "key": "EnemySkill-39-0x3924",
     "original": "Ｄディフェンサー",
-    "translation": ""
+    "translation": "Ｄ防具力者",
+    "stage": 3
   },
   {
     "key": "EnemySkill-40-0x3914",
     "original": "聖母プラーマ",
-    "translation": ""
+    "translation": "圣母普拉玛",
+    "stage": 3
   },
   {
     "key": "EnemySkill-41-0x3904",
     "original": "ホーリィブレス",
-    "translation": ""
+    "translation": "神圣吐息",
+    "stage": 3
   },
   {
     "key": "EnemySkill-42-0x38F4",
     "original": "我らに福音を",
-    "translation": ""
+    "translation": "赐我福音",
+    "stage": 3
   },
   {
     "key": "EnemySkill-43-0x38E4",
     "original": "いやしの聖光",
-    "translation": ""
+    "translation": "治愈圣光",
+    "stage": 3
   },
   {
     "key": "EnemySkill-44-0x38D4",
     "original": "イビルファイア",
-    "translation": ""
+    "translation": "邪恶火焰",
+    "stage": 3
   },
   {
     "key": "EnemySkill-45-0x38C4",
     "original": "今日のイタズラ",
-    "translation": ""
+    "translation": "今日恶作剧",
+    "stage": 3
   },
   {
     "key": "EnemySkill-46-0x38B0",
     "original": "リトルギルティア",
-    "translation": ""
+    "translation": "小罪恶",
+    "stage": 3
   },
   {
     "key": "EnemySkill-47-0x38A4",
     "original": "イビルル",
-    "translation": ""
+    "translation": "邪恶",
+    "stage": 3
   },
   {
     "key": "EnemySkill-48-0x3898",
     "original": "森のめぐみ",
-    "translation": ""
+    "translation": "森林恩惠",
+    "stage": 3
   },
   {
     "key": "EnemySkill-49-0x3888",
     "original": "グロリアシード",
-    "translation": ""
+    "translation": "荣耀之种",
+    "stage": 3
   },
   {
     "key": "EnemySkill-50-0x387C",
     "original": "生命の息吹",
-    "translation": ""
+    "translation": "生命气息",
+    "stage": 3
   },
   {
     "key": "EnemySkill-51-0x3868",
     "original": "ウッディスライム",
-    "translation": ""
+    "translation": "木史莱姆",
+    "stage": 3
   },
   {
     "key": "EnemySkill-52-0x3858",
     "original": "がんばるにゃー",
-    "translation": ""
+    "translation": "喵呜加油",
+    "stage": 3
   },
   {
     "key": "EnemySkill-53-0x384C",
     "original": "断然元気星",
-    "translation": ""
+    "translation": "元气星",
+    "stage": 3
   },
   {
     "key": "EnemySkill-54-0x383C",
     "original": "ニャントアップ",
-    "translation": ""
+    "translation": "喵喵提升",
+    "stage": 3
   },
   {
     "key": "EnemySkill-55-0x3830",
     "original": "キャピィ",
-    "translation": ""
+    "translation": "凯皮",
+    "stage": 3
   },
   {
     "key": "EnemySkill-56-0x381C",
     "original": "シャインセイバー",
-    "translation": ""
+    "translation": "闪光圣剑",
+    "stage": 3
   },
   {
     "key": "EnemySkill-57-0x3808",
     "original": "ヤツザキファイブ",
-    "translation": ""
+    "translation": "八裂五斩",
+    "stage": 3
   },
   {
     "key": "EnemySkill-58-0x37F4",
     "original": "欲するは聖将の剣",
-    "translation": ""
+    "translation": "渴求圣将之剑",
+    "stage": 3
   },
   {
     "key": "EnemySkill-59-0x37E8",
     "original": "輝光五星剣",
-    "translation": ""
+    "translation": "辉光五星剑",
+    "stage": 3
   },
   {
     "key": "EnemySkill-60-0x37D8",
     "original": "ペンタ君ボム",
-    "translation": ""
+    "translation": "彭塔君炸弹",
+    "stage": 3
   },
   {
     "key": "EnemySkill-61-0x37C8",
     "original": "もうダメだ！！",
-    "translation": ""
+    "translation": "我不行了！",
+    "stage": 3
   },
   {
     "key": "EnemySkill-62-0x880C4",
     "original": "ポム",
-    "translation": ""
+    "translation": "嘭",
+    "stage": 3
   },
   {
     "key": "EnemySkill-63-0x37B8",
     "original": "Ｐ－ＢＯＯＭ！",
-    "translation": ""
+    "translation": "Ｐ－ＢＯＯＭ！",
+    "stage": 3
   },
   {
     "key": "EnemySkill-64-0x37A8",
     "original": "リプシーハピー",
-    "translation": ""
+    "translation": "莉普希哈皮",
+    "stage": 3
   },
   {
     "key": "EnemySkill-65-0x3798",
     "original": "聖精リプシー",
-    "translation": ""
+    "translation": "圣精莉普希",
+    "stage": 3
   },
   {
     "key": "EnemySkill-66-0x3788",
     "original": "リトルヒール",
-    "translation": ""
+    "translation": "小治愈术",
+    "stage": 3
   },
   {
     "key": "EnemySkill-67-0x3778",
     "original": "ちょっとだけよ",
-    "translation": ""
+    "translation": "就一点点哦",
+    "stage": 3
   },
   {
     "key": "EnemySkill-68-0x3764",
     "original": "ゴーストショット",
-    "translation": ""
+    "translation": "幽灵射击",
+    "stage": 3
   },
   {
     "key": "EnemySkill-69-0x3754",
     "original": "強い人ってスキ",
-    "translation": ""
+    "translation": "喜欢强者",
+    "stage": 3
   },
   {
     "key": "EnemySkill-70-0x3740",
     "original": "ヒュプノブレイク",
-    "translation": ""
+    "translation": "催眠破击",
+    "stage": 3
   },
   {
     "key": "EnemySkill-71-0x372C",
     "original": "ミュミュー＆ギア",
-    "translation": ""
+    "translation": "缪缪＆吉亚",
+    "stage": 3
   },
   {
     "key": "EnemySkill-72-0x3718",
     "original": "タクェシーミザリ",
-    "translation": ""
+    "translation": "塔克西米扎里",
+    "stage": 3
   },
   {
     "key": "EnemySkill-73-0x3708",
     "original": "魔精タクェシー",
-    "translation": ""
+    "translation": "魔精塔克西",
+    "stage": 3
   },
   {
     "key": "EnemySkill-74-0x36F8",
     "original": "ゲレサンダー",
-    "translation": ""
+    "translation": "盖雷桑德",
+    "stage": 3
   },
   {
     "key": "EnemySkill-75-0x36E8",
     "original": "一撃いっとく？",
-    "translation": ""
+    "translation": "来一击吗？",
+    "stage": 3
   },
   {
     "key": "EnemySkill-76-0x36D4",
     "original": "シャンプーライム",
-    "translation": ""
+    "translation": "香波莱姆",
+    "stage": 3
   },
   {
     "key": "EnemySkill-77-0x36C8",
     "original": "アワワン",
-    "translation": ""
+    "translation": "泡泡",
+    "stage": 3
   },
   {
     "key": "EnemySkill-78-0x36BC",
     "original": "バブルス",
-    "translation": ""
+    "translation": "泡泡",
+    "stage": 3
   },
   {
     "key": "EnemySkill-79-0x36A8",
     "original": "ヒーリングアクア",
-    "translation": ""
+    "translation": "治愈之水",
+    "stage": 3
   },
   {
     "key": "EnemySkill-80-0x369C",
     "original": "ガスロイド",
-    "translation": ""
+    "translation": "瓦斯洛伊德",
+    "stage": 3
   },
   {
     "key": "EnemySkill-81-0x368C",
     "original": "ポイゾベイパー",
-    "translation": ""
+    "translation": "毒气蒸汽",
+    "stage": 3
   },
   {
     "key": "EnemySkill-82-0x3680",
     "original": "モックン",
-    "translation": ""
+    "translation": "莫克",
+    "stage": 3
   },
   {
     "key": "EnemySkill-83-0x366C",
     "original": "ジャミロクラウド",
-    "translation": ""
+    "translation": "贾米罗云",
+    "stage": 3
   },
   {
     "key": "EnemySkill-84-0x365C",
     "original": "ビームロイド",
-    "translation": ""
+    "translation": "光束机器人",
+    "stage": 3
   },
   {
     "key": "EnemySkill-85-0x364C",
     "original": "ビットレーザー",
-    "translation": ""
+    "translation": "浮游炮激光",
+    "stage": 3
   },
   {
     "key": "EnemySkill-86-0x3640",
     "original": "ビビアン",
-    "translation": ""
+    "translation": "薇薇安",
+    "stage": 3
   },
   {
     "key": "EnemySkill-87-0x3630",
     "original": "ジャミロレイ",
-    "translation": ""
+    "translation": "贾米罗射线",
+    "stage": 3
   },
   {
     "key": "EnemySkill-88-0x3620",
     "original": "パラ・ダリオ",
-    "translation": ""
+    "translation": "帕拉·达里奥",
+    "stage": 3
   },
   {
     "key": "EnemySkill-89-0x3614",
     "original": "ネクロンビ",
-    "translation": ""
+    "translation": "死灵蜂",
+    "stage": 3
   },
   {
     "key": "EnemySkill-90-0x3600",
     "original": "恐れよ永劫の獄縛",
-    "translation": ""
+    "translation": "惧怕永劫之狱缚",
+    "stage": 3
   },
   {
     "key": "EnemySkill-91-0x35F0",
     "original": "ショッキン！",
-    "translation": ""
+    "translation": "震惊！",
+    "stage": 3
   },
   {
     "key": "EnemySkill-92-0x35E4",
     "original": "プチメテオ",
-    "translation": ""
+    "translation": "迷你陨石",
+    "stage": 3
   },
   {
     "key": "EnemySkill-93-0x35D8",
     "original": "落石に注意",
-    "translation": ""
+    "translation": "小心落石",
+    "stage": 3
   },
   {
     "key": "EnemySkill-94-0x35CC",
     "original": "ミニバーン",
-    "translation": ""
+    "translation": "迷你燃烧",
+    "stage": 3
   },
   {
     "key": "EnemySkill-95-0x35C0",
     "original": "ガッツンコ",
-    "translation": ""
+    "translation": "猛撞",
+    "stage": 3
   },
   {
     "key": "EnemySkill-96-0x880BC",
     "original": "ヒポス",
-    "translation": ""
+    "translation": "河马",
+    "stage": 3
   },
   {
     "key": "EnemySkill-97-0x35AC",
     "original": "スウィートブレス",
-    "translation": ""
+    "translation": "甜美吐息",
+    "stage": 3
   },
   {
     "key": "EnemySkill-98-0x35A0",
     "original": "催眠吐息",
-    "translation": ""
+    "translation": "催眠吐息",
+    "stage": 3
   },
   {
     "key": "EnemySkill-99-0x3590",
     "original": "アマイよきみ",
-    "translation": ""
+    "translation": "太天真了",
+    "stage": 3
   },
   {
     "key": "EnemySkill-100-0x880B4",
     "original": "タマス",
-    "translation": ""
+    "translation": "塔玛斯",
+    "stage": 3
   },
   {
     "key": "EnemySkill-101-0x3580",
     "original": "ダークブレス",
-    "translation": ""
+    "translation": "黑暗吐息",
+    "stage": 3
   },
   {
     "key": "EnemySkill-102-0x3574",
     "original": "暗闇吐息",
-    "translation": ""
+    "translation": "黑暗吐息",
+    "stage": 3
   },
   {
     "key": "EnemySkill-103-0x3564",
     "original": "クサイよおまえ",
-    "translation": ""
+    "translation": "你真臭啊",
+    "stage": 3
   },
   {
     "key": "EnemySkill-104-0x3550",
     "original": "やるきないにゃー",
-    "translation": ""
+    "translation": "没干劲喵",
+    "stage": 3
   },
   {
     "key": "EnemySkill-105-0x3540",
     "original": "俄然意気消沈",
-    "translation": ""
+    "translation": "突然意气消沉",
+    "stage": 3
   },
   {
     "key": "EnemySkill-106-0x3530",
     "original": "ニャントダウン",
-    "translation": ""
+    "translation": "喵特倒地",
+    "stage": 3
   },
   {
     "key": "EnemySkill-107-0x3524",
     "original": "ヒュピィ",
-    "translation": ""
+    "translation": "休皮",
+    "stage": 3
   },
   {
     "key": "EnemySkill-108-0x880AC",
     "original": "鬼神斬",
-    "translation": ""
+    "translation": "鬼神斩",
+    "stage": 3
   },
   {
     "key": "EnemySkill-109-0x3510",
     "original": "振るえ鬼神の迅剣",
-    "translation": ""
+    "translation": "颤栗鬼神迅剑",
+    "stage": 3
   },
   {
     "key": "EnemySkill-110-0x3500",
     "original": "斬レヌモノ無シ",
-    "translation": ""
+    "translation": "无物不斩",
+    "stage": 3
   },
   {
     "key": "EnemySkill-111-0x34F0",
     "original": "鬼神将ガイエン",
-    "translation": ""
+    "translation": "鬼神将盖恩",
+    "stage": 3
   },
   {
     "key": "EnemySkill-112-0x34E0",
     "original": "エビルスパイク",
-    "translation": ""
+    "translation": "邪恶尖刺",
+    "stage": 3
   },
   {
     "key": "EnemySkill-113-0x34D0",
     "original": "今日のおやつ",
-    "translation": ""
+    "translation": "今日点心",
+    "stage": 3
   },
   {
     "key": "EnemySkill-114-0x34BC",
     "original": "ミドルギルティア",
-    "translation": ""
+    "translation": "中级罪孽",
+    "stage": 3
   },
   {
     "key": "EnemySkill-115-0x34B0",
     "original": "エビルナ",
-    "translation": ""
+    "translation": "邪恶",
+    "stage": 3
   },
   {
     "key": "EnemySkill-116-0x349C",
     "original": "ダークブリンガー",
-    "translation": ""
+    "translation": "黑暗使者",
+    "stage": 3
   },
   {
     "key": "EnemySkill-117-0x3488",
     "original": "リベンジファイブ",
-    "translation": ""
+    "translation": "复仇五重奏",
+    "stage": 3
   },
   {
     "key": "EnemySkill-118-0x3474",
     "original": "欲するは闇傑の剣",
-    "translation": ""
+    "translation": "渴求暗杰之剑",
+    "stage": 3
   },
   {
     "key": "EnemySkill-119-0x3468",
     "original": "引闇五戦討",
-    "translation": ""
+    "translation": "引闇五战讨",
+    "stage": 3
   },
   {
     "key": "EnemySkill-120-0x3458",
     "original": "オーロランジェ",
-    "translation": ""
+    "translation": "极光之舞",
+    "stage": 3
   },
   {
     "key": "EnemySkill-121-0x3448",
     "original": "来たれ光の賢者",
-    "translation": ""
+    "translation": "光之贤者降临",
+    "stage": 3
   },
   {
     "key": "EnemySkill-122-0x3438",
     "original": "プリズム・アイ",
-    "translation": ""
+    "translation": "棱镜之眼",
+    "stage": 3
   },
   {
     "key": "EnemySkill-123-0x3428",
     "original": "天使エルエル",
-    "translation": ""
+    "translation": "天使埃尔埃尔",
+    "stage": 3
   },
   {
     "key": "EnemySkill-124-0x3414",
     "original": "デヴィルクエイク",
-    "translation": ""
+    "translation": "恶魔震击",
+    "stage": 3
   },
   {
     "key": "EnemySkill-125-0x3404",
     "original": "来たれ地の悪賊",
-    "translation": ""
+    "translation": "地之恶贼降临",
+    "stage": 3
   },
   {
     "key": "EnemySkill-126-0x33F4",
     "original": "デーモンヘル",
-    "translation": ""
+    "translation": "恶魔地狱",
+    "stage": 3
   },
   {
     "key": "EnemySkill-127-0x33E0",
     "original": "悪魔ガルマザリア",
-    "translation": ""
+    "translation": "恶魔加尔玛扎利亚",
+    "stage": 3
   },
   {
     "key": "EnemySkill-128-0x33D4",
     "original": "ペトラミア",
-    "translation": ""
+    "translation": "石化凝视",
+    "stage": 3
   },
   {
     "key": "EnemySkill-129-0x33C8",
     "original": "石寂の眼光",
-    "translation": ""
+    "translation": "石寂眼光",
+    "stage": 3
   },
   {
     "key": "EnemySkill-130-0x33BC",
     "original": "コッチンコ",
-    "translation": ""
+    "translation": "石化术",
+    "stage": 3
   },
   {
     "key": "EnemySkill-131-0x33A8",
     "original": "こっちみないでよ",
-    "translation": ""
+    "translation": "别看我啦",
+    "stage": 3
   },
   {
     "key": "EnemySkill-132-0x339C",
     "original": "ゲルニカ",
-    "translation": ""
+    "translation": "格尔尼卡",
+    "stage": 3
   },
   {
     "key": "EnemySkill-133-0x338C",
     "original": "ドラゴフレイヤ",
-    "translation": ""
+    "translation": "龙之祈祷",
+    "stage": 3
   },
   {
     "key": "EnemySkill-134-0x337C",
     "original": "吠えよドラゴン",
-    "translation": ""
+    "translation": "龙之咆哮",
+    "stage": 3
   },
   {
     "key": "EnemySkill-135-0x3370",
     "original": "地球温暖化",
-    "translation": ""
+    "translation": "全球变暖",
+    "stage": 3
   },
   {
     "key": "EnemySkill-136-0x3364",
     "original": "言霊呪滅式",
-    "translation": ""
+    "translation": "言灵咒灭式",
+    "stage": 3
   },
   {
     "key": "EnemySkill-137-0x3354",
     "original": "シロ・いくよ！",
-    "translation": ""
+    "translation": "小白，上！",
+    "stage": 3
   },
   {
     "key": "EnemySkill-138-0x3344",
     "original": "ホムラ・ワン",
-    "translation": ""
+    "translation": "焰之犬",
+    "stage": 3
   },
   {
     "key": "EnemySkill-139-0x3334",
     "original": "ひな＆シロトト",
-    "translation": ""
+    "translation": "雏＆小白",
+    "stage": 3
   },
   {
     "key": "EnemySkill-140-0x3324",
     "original": "ツヴァイレライ",
-    "translation": ""
+    "translation": "双重雷莱",
+    "stage": 3
   },
   {
     "key": "EnemySkill-141-0x3318",
     "original": "θ星光跡斬",
-    "translation": ""
+    "translation": "θ星光迹斩",
+    "stage": 3
   },
   {
     "key": "EnemySkill-142-0x3304",
     "original": "駆けよ震闇の大公",
-    "translation": ""
+    "translation": "奔跑吧震暗大公",
+    "stage": 3
   },
   {
     "key": "EnemySkill-143-0x32F0",
     "original": "スカルフォーサー",
-    "translation": ""
+    "translation": "骷髅部队",
+    "stage": 3
   },
   {
     "key": "EnemySkill-144-0x32DC",
     "original": "ヘキサボルテージ",
-    "translation": ""
+    "translation": "六角电压",
+    "stage": 3
   },
   {
     "key": "EnemySkill-145-0x32CC",
     "original": "超電撃ショック",
-    "translation": ""
+    "translation": "超电击冲击",
+    "stage": 3
   },
   {
     "key": "EnemySkill-146-0x32BC",
     "original": "貫け機侯の迫雷",
-    "translation": ""
+    "translation": "贯穿机侯迫雷",
+    "stage": 3
   },
   {
     "key": "EnemySkill-147-0x32A8",
     "original": "アルティマーダー",
-    "translation": ""
+    "translation": "终极杀手",
+    "stage": 3
   },
   {
     "key": "EnemySkill-148-0x3294",
     "original": "ギガオフェンサー",
-    "translation": ""
+    "translation": "巨型剑士",
+    "stage": 3
   },
   {
     "key": "EnemySkill-149-0x3284",
     "original": "奮え我と共に",
-    "translation": ""
+    "translation": "与我共振",
+    "stage": 3
   },
   {
     "key": "EnemySkill-150-0x3274",
     "original": "パイルデューク",
-    "translation": ""
+    "translation": "公爵桩击",
+    "stage": 3
   },
   {
     "key": "Magic-0-Name-0x8815C",
     "original": "なし",
-    "translation": ""
+    "translation": "无",
+    "stage": 3
   },
   {
     "key": "Magic-1-Name-0x4448",
     "original": "誓約のちから",
-    "translation": ""
+    "translation": "誓约之力",
+    "stage": 3
   },
   {
     "key": "Magic-1-Desc1-0x4430",
     "original": "召喚魔法を生み出し名",
-    "translation": ""
+    "translation": "能创造召唤魔法",
+    "stage": 3
   },
   {
     "key": "Magic-1-Desc2-0x441C",
     "original": "付けることができる",
-    "translation": ""
+    "translation": "并为其命名",
+    "stage": 3
   },
   {
     "key": "Magic-1-Desc3-0x4410",
     "original": "ＭＰ１０",
-    "translation": ""
+    "translation": "ＭＰ１０",
+    "stage": 3
   },
   {
     "key": "Magic-2-Name-0x88154",
     "original": "ストラ",
-    "translation": ""
+    "translation": "斯特拉",
+    "stage": 3
   },
   {
     "key": "Magic-2-Desc1-0x43F8",
     "original": "気の力で生命力を回復",
-    "translation": ""
+    "translation": "以气之力恢复生命力",
+    "stage": 3
   },
   {
     "key": "Magic-2-Desc2-0x43E4",
     "original": "させることができる",
-    "translation": ""
+    "translation": "",
+    "stage": 3
   },
   {
     "key": "Magic-2-Desc3-0x43D8",
     "original": "ＭＰ２４",
-    "translation": ""
+    "translation": "ＭＰ２４",
+    "stage": 3
   },
   {
     "key": "Magic-3-Name-0x8814C",
     "original": "応援",
-    "translation": ""
+    "translation": "应援",
+    "stage": 3
   },
   {
     "key": "Magic-3-Desc1-0x43C0",
     "original": "精一杯の応援で味方の",
-    "translation": ""
+    "translation": "竭尽全力的应援",
+    "stage": 3
   },
   {
     "key": "Magic-3-Desc2-0x43AC",
     "original": "心を奮い立たせる",
-    "translation": ""
+    "translation": "能激励队友士气",
+    "stage": 3
   },
   {
     "key": "Magic-3-Desc3-0x43A0",
     "original": "ＭＰ２５",
-    "translation": ""
+    "translation": "ＭＰ２５",
+    "stage": 3
   },
   {
     "key": "Magic-4-Name-0x4390",
     "original": "サルトビの術",
-    "translation": ""
+    "translation": "猿飞之术",
+    "stage": 3
   },
   {
     "key": "Magic-4-Desc1-0x4378",
     "original": "忍の軽業でどんな高さ",
-    "translation": ""
+    "translation": "忍者轻功，",
+    "stage": 3
   },
   {
     "key": "Magic-4-Desc2-0x4360",
     "original": "も飛び越え移動できる",
-    "translation": ""
+    "translation": "可越过高处",
+    "stage": 3
   },
   {
     "key": "Magic-4-Desc3-0x4354",
     "original": "ＭＰ２８",
-    "translation": ""
+    "translation": "ＭＰ２８",
+    "stage": 3
   },
   {
     "key": "Magic-5-Name-0x4344",
     "original": "メトラルの魔眼",
-    "translation": ""
+    "translation": "梅特拉尔魔眼",
+    "stage": 3
   },
   {
     "key": "Magic-5-Desc1-0x432C",
     "original": "神秘の眼光で身を守る",
-    "translation": ""
+    "translation": "以神秘眼光护身，",
+    "stage": 3
   },
   {
     "key": "Magic-5-Desc2-0x4318",
     "original": "メトラル族の能力",
-    "translation": ""
+    "translation": "梅特拉尔族的能力",
+    "stage": 3
   },
   {
     "key": "Magic-5-Desc3-0x2FE4",
     "original": "ＭＰ５０",
-    "translation": ""
+    "translation": "ＭＰ５０",
+    "stage": 3
   },
   {
     "key": "Magic-6-Name-0x430C",
-    "original": "全属性防御",
-    "translation": ""
+    "original": "全属性防具力",
+    "translation": "全属性防具力",
+    "stage": 3
   },
   {
     "key": "Magic-6-Desc1-0x42F4",
     "original": "機鬼霊獣全属性の術に",
-    "translation": ""
+    "translation": "对机鬼灵兽",
+    "stage": 3
   },
   {
     "key": "Magic-6-Desc2-0x42E0",
     "original": "対して耐性を持つ",
-    "translation": ""
+    "translation": "全属性术有抗性",
+    "stage": 3
   },
   {
     "key": "Magic-7-Name-0x42D4",
     "original": "全召喚装備",
-    "translation": ""
+    "translation": "全召唤装备",
+    "stage": 3
   },
   {
     "key": "Magic-7-Desc1-0x42BC",
     "original": "機鬼霊獣全属性の術を",
-    "translation": ""
+    "translation": "可使用机鬼灵兽",
+    "stage": 3
   },
   {
     "key": "Magic-7-Desc2-0x88144",
     "original": "使える",
-    "translation": ""
+    "translation": "全属性",
+    "stage": 3
   },
   {
     "key": "Skill-0-Name-0x42AC",
-    "original": "属性防御\u3000機",
-    "translation": ""
+    "original": "属性防具力　機",
+    "translation": "属性防具力　机",
+    "stage": 3
   },
   {
     "key": "Skill-0-Desc1-0x4294",
     "original": "機界ロレイラルからの",
-    "translation": ""
+    "translation": "对机界罗雷拉尔",
+    "stage": 3
   },
   {
     "key": "Skill-0-Desc2-0x427C",
     "original": "召喚術に対して耐性を",
-    "translation": ""
+    "translation": "的召唤术有抗性",
+    "stage": 3
   },
   {
     "key": "Skill-0-Desc3-0x8813C",
     "original": "持つ",
-    "translation": ""
+    "translation": "",
+    "stage": 3
   },
   {
     "key": "Skill-1-Name-0x426C",
-    "original": "属性防御\u3000鬼",
-    "translation": ""
+    "original": "属性防具力　鬼",
+    "translation": "属性防具力　鬼",
+    "stage": 3
   },
   {
     "key": "Skill-1-Desc1-0x4254",
     "original": "鬼界シルターンからの",
-    "translation": ""
+    "translation": "对鬼界希尔坦",
+    "stage": 3
   },
   {
     "key": "Skill-1-Desc2-0x427C",
     "original": "召喚術に対して耐性を",
-    "translation": ""
+    "translation": "的召唤术有抗性",
+    "stage": 3
   },
   {
     "key": "Skill-1-Desc3-0x8813C",
     "original": "持つ",
-    "translation": ""
+    "translation": "",
+    "stage": 3
   },
   {
     "key": "Skill-2-Name-0x4244",
-    "original": "属性防御\u3000霊",
-    "translation": ""
+    "original": "属性防具力　霊",
+    "translation": "属性防具力　灵",
+    "stage": 3
   },
   {
     "key": "Skill-2-Desc1-0x422C",
     "original": "霊界サプレスからの召",
-    "translation": ""
+    "translation": "对灵界萨普雷斯",
+    "stage": 3
   },
   {
     "key": "Skill-2-Desc2-0x4214",
     "original": "喚術に対して耐性を持",
-    "translation": ""
+    "translation": "的召唤术有抗性",
+    "stage": 3
   },
   {
     "key": "Skill-2-Desc3-0x88138",
     "original": "つ",
-    "translation": ""
+    "translation": "",
+    "stage": 3
   },
   {
     "key": "Skill-3-Name-0x4204",
-    "original": "属性防御\u3000獣",
-    "translation": ""
+    "original": "属性防具力　獣",
+    "translation": "属性防具力　兽",
+    "stage": 3
   },
   {
     "key": "Skill-3-Desc1-0x41EC",
     "original": "幻獣界メイトルパから",
-    "translation": ""
+    "translation": "对幻兽界梅特尔帕",
+    "stage": 3
   },
   {
     "key": "Skill-3-Desc2-0x41D4",
     "original": "の召喚術に対して耐性",
-    "translation": ""
+    "translation": "的召唤术有抗性",
+    "stage": 3
   },
   {
     "key": "Skill-3-Desc3-0x88130",
     "original": "を持つ",
-    "translation": ""
+    "translation": "",
+    "stage": 3
   },
   {
     "key": "Skill-4-Name-0x41C4",
-    "original": "召喚装備\u3000機",
-    "translation": ""
+    "original": "召喚装備　機",
+    "translation": "召唤装备　机",
+    "stage": 3
   },
   {
     "key": "Skill-4-Desc1-0x4294",
     "original": "機界ロレイラルからの",
-    "translation": ""
+    "translation": "可使用机界罗雷拉尔",
+    "stage": 3
   },
   {
     "key": "Skill-4-Desc2-0x41B4",
     "original": "召喚術を使える",
-    "translation": ""
+    "translation": "的召唤术",
+    "stage": 3
   },
   {
     "key": "Skill-5-Name-0x41A4",
-    "original": "召喚装備\u3000鬼",
-    "translation": ""
+    "original": "召喚装備　鬼",
+    "translation": "召唤装备　鬼",
+    "stage": 3
   },
   {
     "key": "Skill-5-Desc1-0x4254",
     "original": "鬼界シルターンからの",
-    "translation": ""
+    "translation": "可使用鬼界希尔坦",
+    "stage": 3
   },
   {
     "key": "Skill-5-Desc2-0x41B4",
     "original": "召喚術を使える",
-    "translation": ""
+    "translation": "的召唤术",
+    "stage": 3
   },
   {
     "key": "Skill-6-Name-0x4194",
-    "original": "召喚装備\u3000霊",
-    "translation": ""
+    "original": "召喚装備　霊",
+    "translation": "召唤装备　灵",
+    "stage": 3
   },
   {
     "key": "Skill-6-Desc1-0x422C",
     "original": "霊界サプレスからの召",
-    "translation": ""
+    "translation": "可使用灵界萨",
+    "stage": 3
   },
   {
     "key": "Skill-6-Desc2-0x4184",
     "original": "喚術を使える",
-    "translation": ""
+    "translation": "普雷斯召唤术",
+    "stage": 3
   },
   {
     "key": "Skill-7-Name-0x4174",
-    "original": "召喚装備\u3000獣",
-    "translation": ""
+    "original": "召喚装備　獣",
+    "translation": "召唤装备　兽",
+    "stage": 3
   },
   {
     "key": "Skill-7-Desc1-0x41EC",
     "original": "幻獣界メイトルパから",
-    "translation": ""
+    "translation": "可使用幻兽界",
+    "stage": 3
   },
   {
     "key": "Skill-7-Desc2-0x4160",
     "original": "の召喚術を使える",
-    "translation": ""
+    "translation": "梅特尔帕召唤术",
+    "stage": 3
   },
   {
     "key": "Skill-8-Name-0x414C",
-    "original": "召喚士の家系\u3000機",
-    "translation": ""
+    "original": "召喚士の家系　機",
+    "translation": "召唤师家系　机",
+    "stage": 3
   },
   {
     "key": "Skill-8-Desc1-0x4134",
     "original": "機界ロレイラルの召喚",
-    "translation": ""
+    "translation": "能熟练运用机",
+    "stage": 3
   },
   {
     "key": "Skill-8-Desc2-0x411C",
     "original": "術を使いこなすことが",
-    "translation": ""
+    "translation": "界罗雷拉尔的",
+    "stage": 3
   },
   {
     "key": "Skill-8-Desc3-0x88128",
     "original": "できる",
-    "translation": ""
+    "translation": "召唤术",
+    "stage": 3
   },
   {
     "key": "Skill-9-Name-0x4108",
-    "original": "召喚士の家系\u3000鬼",
-    "translation": ""
+    "original": "召喚士の家系　鬼",
+    "translation": "召唤师家系　鬼",
+    "stage": 3
   },
   {
     "key": "Skill-9-Desc1-0x40F0",
     "original": "鬼界シルターンの召喚",
-    "translation": ""
+    "translation": "能熟练运用鬼",
+    "stage": 3
   },
   {
     "key": "Skill-9-Desc2-0x411C",
     "original": "術を使いこなすことが",
-    "translation": ""
+    "translation": "界希尔坦的召",
+    "stage": 3
   },
   {
     "key": "Skill-9-Desc3-0x88128",
     "original": "できる",
-    "translation": ""
+    "translation": "唤术",
+    "stage": 3
   },
   {
     "key": "Skill-10-Name-0x40DC",
-    "original": "召喚士の家系\u3000霊",
-    "translation": ""
+    "original": "召喚士の家系　霊",
+    "translation": "召唤师世家·灵",
+    "stage": 3
   },
   {
     "key": "Skill-10-Desc1-0x40C4",
     "original": "霊界サプレスの召喚術",
-    "translation": ""
+    "translation": "能熟练运用灵",
+    "stage": 3
   },
   {
     "key": "Skill-10-Desc2-0x40AC",
     "original": "を使いこなすことがで",
-    "translation": ""
+    "translation": "界萨普雷斯的召",
+    "stage": 3
   },
   {
     "key": "Skill-10-Desc3-0x88120",
     "original": "きる",
-    "translation": ""
+    "translation": "唤术",
+    "stage": 3
   },
   {
     "key": "Skill-11-Name-0x4098",
-    "original": "召喚士の家系\u3000獣",
-    "translation": ""
+    "original": "召喚士の家系　獣",
+    "translation": "召唤师世家　兽",
+    "stage": 3
   },
   {
     "key": "Skill-11-Desc1-0x4080",
     "original": "幻獣界メイトルパの召",
-    "translation": ""
+    "translation": "能熟练运用",
+    "stage": 3
   },
   {
     "key": "Skill-11-Desc2-0x4068",
     "original": "喚術を使いこなすこと",
-    "translation": ""
+    "translation": "幻兽界梅特尔帕",
+    "stage": 3
   },
   {
     "key": "Skill-11-Desc3-0x405C",
     "original": "ができる",
-    "translation": ""
+    "translation": "的召唤术",
+    "stage": 3
   },
   {
     "key": "Skill-12-Name-0x88118",
     "original": "眼力",
-    "translation": ""
+    "translation": "眼力",
+    "stage": 3
   },
   {
     "key": "Skill-12-Desc1-0x4044",
     "original": "鋭い眼光で敵を近寄り",
-    "translation": ""
+    "translation": "锐利目光让敌",
+    "stage": 3
   },
   {
     "key": "Skill-12-Desc2-0x402C",
-    "original": "がたくする\u3000ＺＯＣ小",
-    "translation": ""
+    "original": "がたくする　ＺＯＣ小",
+    "translation": "人难以靠近　ＺＯＣ小",
+    "stage": 3
   },
   {
     "key": "Skill-13-Name-0x88110",
     "original": "威圧",
-    "translation": ""
+    "translation": "威压",
+    "stage": 3
   },
   {
     "key": "Skill-13-Desc1-0x4014",
     "original": "眼光と気合いで近寄る",
-    "translation": ""
+    "translation": "眼神和气势震慑",
+    "stage": 3
   },
   {
     "key": "Skill-13-Desc2-0x3FFC",
-    "original": "敵をひるませる\u3000ＺＯ",
-    "translation": ""
+    "original": "敵をひるませる　ＺＯ",
+    "translation": "靠近的敌人　ＺＯ",
+    "stage": 3
   },
   {
     "key": "Skill-13-Desc3-0x88108",
     "original": "Ｃ中",
-    "translation": ""
+    "translation": "Ｃ中",
+    "stage": 3
   },
   {
     "key": "Skill-14-Name-0x88100",
     "original": "闘気",
-    "translation": ""
+    "translation": "斗气",
+    "stage": 3
   },
   {
     "key": "Skill-14-Desc1-0x3FE4",
     "original": "みなぎるオーラで敵を",
-    "translation": ""
+    "translation": "气场逼退敌人",
+    "stage": 3
   },
   {
     "key": "Skill-14-Desc2-0x3FCC",
-    "original": "寄せ付けない\u3000ＺＯＣ",
-    "translation": ""
+    "original": "寄せ付けない　ＺＯＣ",
+    "translation": "ＺＯＣ",
+    "stage": 3
   },
   {
     "key": "Skill-14-Desc3-0x880FC",
     "original": "大",
-    "translation": ""
+    "translation": "大",
+    "stage": 3
   },
   {
     "key": "Skill-15-Name-0x3FC0",
     "original": "返しの刃",
-    "translation": ""
+    "translation": "反击之刃",
+    "stage": 3
   },
   {
     "key": "Skill-15-Desc1-0x3FA8",
     "original": "反撃に重きを置いた剣",
-    "translation": ""
+    "translation": "注重反击的剑",
+    "stage": 3
   },
   {
     "key": "Skill-15-Desc2-0x3F90",
-    "original": "の技\u3000反撃時攻撃力Ｕ",
-    "translation": ""
+    "original": "の技　反撃時攻撃力Ｕ",
+    "translation": "技　反击时攻击力ＵＰ",
+    "stage": 3
   },
   {
     "key": "Skill-15-Desc3-0x880F8",
@@ -4643,1932 +5569,2318 @@
   {
     "key": "Skill-16-Name-0x3F84",
     "original": "ナイフ投げ",
-    "translation": ""
+    "translation": "飞刀",
+    "stage": 3
   },
   {
     "key": "Skill-16-Desc1-0x3F6C",
     "original": "高度なナイフ投げの技",
-    "translation": ""
+    "translation": "高超飞刀技艺",
+    "stage": 3
   },
   {
     "key": "Skill-16-Desc2-0x3F54",
-    "original": "術を持つ\u3000「投」の武",
-    "translation": ""
+    "original": "術を持つ　「投」の武",
+    "translation": "可装备「投」武器",
+    "stage": 3
   },
   {
     "key": "Skill-16-Desc3-0x3F48",
     "original": "器装備可",
-    "translation": ""
+    "translation": "",
+    "stage": 3
   },
   {
     "key": "Skill-17-Name-0x3F3C",
     "original": "手裏剣投げ",
-    "translation": ""
+    "translation": "手里剑投掷",
+    "stage": 3
   },
   {
     "key": "Skill-17-Desc1-0x3F24",
     "original": "高度な手裏剣投げの技",
-    "translation": ""
+    "translation": "拥有高超手里剑投掷",
+    "stage": 3
   },
   {
     "key": "Skill-17-Desc2-0x3F54",
-    "original": "術を持つ\u3000「投」の武",
-    "translation": ""
+    "original": "術を持つ　「投」の武",
+    "translation": "技艺　可装备「投」",
+    "stage": 3
   },
   {
     "key": "Skill-17-Desc3-0x3F48",
     "original": "器装備可",
-    "translation": ""
+    "translation": "武器",
+    "stage": 3
   },
   {
     "key": "Skill-18-Name-0x3F18",
     "original": "漢のド根性",
-    "translation": ""
+    "translation": "男子汉气概",
+    "stage": 3
   },
   {
     "key": "Skill-18-Desc1-0x3F00",
     "original": "ずば抜けた根性の力で",
-    "translation": ""
+    "translation": "凭借超凡的",
+    "stage": 3
   },
   {
     "key": "Skill-18-Desc2-0x3EE8",
     "original": "瀕死状態でもペナルテ",
-    "translation": ""
+    "translation": "毅力，濒死时",
+    "stage": 3
   },
   {
     "key": "Skill-18-Desc3-0x880F0",
     "original": "ィなし",
-    "translation": ""
+    "translation": "无惩罚",
+    "stage": 3
   },
   {
     "key": "Skill-19-Name-0x3ED8",
     "original": "火事場の馬鹿力",
-    "translation": ""
+    "translation": "火场怪力",
+    "stage": 3
   },
   {
     "key": "Skill-19-Desc1-0x3EC0",
     "original": "窮地に陥ったとき、実",
-    "translation": ""
+    "translation": "陷入绝境之时会",
+    "stage": 3
   },
   {
     "key": "Skill-19-Desc2-0x3EA8",
     "original": "力以上の力が発揮され",
-    "translation": ""
+    "translation": "发挥超越实力的力量",
+    "stage": 3
   },
   {
     "key": "Skill-19-Desc3-0x880EC",
     "original": "る",
-    "translation": ""
+    "translation": "",
+    "stage": 3
   },
   {
     "key": "Skill-20-Name-0x3E98",
     "original": "ダブルアタック",
-    "translation": ""
+    "translation": "双重攻击",
+    "stage": 3
   },
   {
     "key": "Skill-20-Desc1-0x3E80",
     "original": "他の行動を犠牲に攻撃",
-    "translation": ""
+    "translation": "牺牲其他行动",
+    "stage": 3
   },
   {
     "key": "Skill-20-Desc2-0x3E68",
     "original": "を２回連続で行うこと",
-    "translation": ""
+    "translation": "可连续攻击两次",
+    "stage": 3
   },
   {
     "key": "Skill-20-Desc3-0x405C",
     "original": "ができる",
-    "translation": ""
+    "translation": "的能力",
+    "stage": 3
   },
   {
     "key": "Skill-21-Name-0x3E58",
     "original": "ダブルムーブ",
-    "translation": ""
+    "translation": "双重移动",
+    "stage": 3
   },
   {
     "key": "Skill-21-Desc1-0x3E40",
     "original": "他の行動を犠牲に移動",
-    "translation": ""
+    "translation": "牺牲其他行动",
+    "stage": 3
   },
   {
     "key": "Skill-21-Desc2-0x3E68",
     "original": "を２回連続で行うこと",
-    "translation": ""
+    "translation": "可连续移动两次",
+    "stage": 3
   },
   {
     "key": "Skill-21-Desc3-0x405C",
     "original": "ができる",
-    "translation": ""
+    "translation": "的能力",
+    "stage": 3
   },
   {
     "key": "Skill-22-Name-0x3E34",
     "original": "断頭の剣戟",
-    "translation": ""
+    "translation": "断头剑戟",
+    "stage": 3
   },
   {
     "key": "Skill-22-Desc1-0x3E1C",
     "original": "強烈な剣げきにより相",
-    "translation": ""
+    "translation": "强烈的剑戟使",
+    "stage": 3
   },
   {
     "key": "Skill-22-Desc2-0x3E04",
     "original": "手の方向感覚を狂わせ",
-    "translation": ""
+    "translation": "对手方向感混乱",
+    "stage": 3
   },
   {
     "key": "Skill-22-Desc3-0x880EC",
     "original": "る",
-    "translation": ""
+    "translation": "",
+    "stage": 3
   },
   {
     "key": "Skill-23-Name-0x3DF4",
     "original": "バックアタック",
-    "translation": ""
+    "translation": "背刺",
+    "stage": 3
   },
   {
     "key": "Skill-23-Desc1-0x3DDC",
     "original": "闇に生きる暗殺者の常",
-    "translation": ""
+    "translation": "暗杀者惯用手段",
+    "stage": 3
   },
   {
     "key": "Skill-23-Desc2-0x3DC4",
-    "original": "套手段\u3000背後攻撃が更",
-    "translation": ""
+    "original": "套手段　背後攻撃が更",
+    "translation": "背后攻击威力更",
+    "stage": 3
   },
   {
     "key": "Skill-23-Desc3-0x3DB8",
     "original": "に強力に",
-    "translation": ""
+    "translation": "加强大",
+    "stage": 3
   },
   {
     "key": "Skill-24-Name-0x3DAC",
     "original": "ガンスミス",
-    "translation": ""
+    "translation": "枪械师",
+    "stage": 3
   },
   {
     "key": "Skill-24-Desc1-0x3D94",
     "original": "銃の手入れ方法を身に",
-    "translation": ""
+    "translation": "掌握枪械保养法",
+    "stage": 3
   },
   {
     "key": "Skill-24-Desc2-0x3D7C",
     "original": "つけ、装備することが",
-    "translation": ""
+    "translation": "并能装备枪械",
+    "stage": 3
   },
   {
     "key": "Skill-24-Desc3-0x88128",
     "original": "できる",
-    "translation": ""
+    "translation": "的能力",
+    "stage": 3
   },
   {
     "key": "Skill-25-Name-0x3D6C",
     "original": "ガンマウント",
-    "translation": ""
+    "translation": "枪械架",
+    "stage": 3
   },
   {
     "key": "Skill-25-Desc1-0x3D54",
     "original": "銃を腕に装備すること",
-    "translation": ""
+    "translation": "能将枪械装备在",
+    "stage": 3
   },
   {
     "key": "Skill-25-Desc2-0x405C",
     "original": "ができる",
-    "translation": ""
+    "translation": "手臂上",
+    "stage": 3
   },
   {
     "key": "Skill-26-Name-0x3D48",
     "original": "不動の精神",
-    "translation": ""
+    "translation": "不动精神",
+    "stage": 3
   },
   {
     "key": "Skill-26-Desc1-0x3D30",
     "original": "敵の殺気にもひるまな",
-    "translation": ""
+    "translation": "面对敌人的杀气",
+    "stage": 3
   },
   {
     "key": "Skill-26-Desc2-0x3D18",
-    "original": "い強い心\u3000ＺＯＣを無",
-    "translation": ""
+    "original": "い強い心　ＺＯＣを無",
+    "translation": "也毫不畏惧，无",
+    "stage": 3
   },
   {
     "key": "Skill-26-Desc3-0x3D0C",
     "original": "視できる",
-    "translation": ""
+    "translation": "视ＺＯＣ",
+    "stage": 3
   },
   {
     "key": "Skill-27-Name-0x880E4",
     "original": "心眼",
-    "translation": ""
+    "translation": "心眼",
+    "stage": 3
   },
   {
     "key": "Skill-27-Desc1-0x3CF4",
     "original": "全ての方向に一分の隙",
-    "translation": ""
+    "translation": "全方位无懈可击",
+    "stage": 3
   },
   {
     "key": "Skill-27-Desc2-0x3CDC",
-    "original": "も無い\u3000方向ペナルテ",
-    "translation": ""
+    "original": "も無い　方向ペナルテ",
+    "translation": "无方向惩罚",
+    "stage": 3
   },
   {
     "key": "Skill-27-Desc3-0x880F0",
     "original": "ィなし",
-    "translation": ""
+    "translation": "",
+    "stage": 3
   },
   {
     "key": "Skill-28-Name-0x3CC8",
     "original": "スペシャルボディ",
-    "translation": ""
+    "translation": "特殊体质",
+    "stage": 3
   },
   {
     "key": "Skill-28-Desc1-0x3CB0",
     "original": "いかなるステータス異",
-    "translation": ""
+    "translation": "不受任何异常状",
+    "stage": 3
   },
   {
     "key": "Skill-28-Desc2-0x3C98",
     "original": "常をも全くうけつけな",
-    "translation": ""
+    "translation": "态影响",
+    "stage": 3
   },
   {
     "key": "Skill-28-Desc3-0x880E0",
     "original": "い",
-    "translation": ""
+    "translation": "",
+    "stage": 3
   },
   {
     "key": "Skill-29-Name-0x3C84",
     "original": "パニックハンマー",
-    "translation": ""
+    "translation": "恐慌之锤",
+    "stage": 3
   },
   {
     "key": "Skill-29-Desc1-0x3C6C",
     "original": "敵に精神的ショックを",
-    "translation": ""
+    "translation": "攻击敌人造成精",
+    "stage": 3
   },
   {
     "key": "Skill-29-Desc2-0x3C54",
-    "original": "与える攻撃\u3000ＭＰにダ",
-    "translation": ""
+    "original": "与える攻撃　ＭＰにダ",
+    "translation": "神冲击，对ＭＰ造",
+    "stage": 3
   },
   {
     "key": "Skill-29-Desc3-0x880D8",
     "original": "メージ",
-    "translation": ""
+    "translation": "成伤害",
+    "stage": 3
   },
   {
     "key": "Skill-30-Name-0x3C44",
     "original": "ぷにぷにボディ",
-    "translation": ""
+    "translation": "软绵绵身体",
+    "stage": 3
   },
   {
     "key": "Skill-30-Desc1-0x3C2C",
     "original": "あまりにぷにぷにして",
-    "translation": ""
+    "translation": "身体过于软绵绵",
+    "stage": 3
   },
   {
     "key": "Skill-30-Desc2-0x3C14",
     "original": "いるので物理ダメージ",
-    "translation": ""
+    "translation": "物理伤害减半",
+    "stage": 3
   },
   {
     "key": "Skill-30-Desc3-0x880D0",
     "original": "半減",
-    "translation": ""
+    "translation": "",
+    "stage": 3
   },
   {
     "key": "Skill-31-Name-0x3C08",
     "original": "絶対攻撃",
-    "translation": ""
+    "translation": "绝对攻击",
+    "stage": 3
   },
   {
     "key": "Skill-31-Desc1-0x3BF0",
     "original": "圧倒的な力とスキのな",
-    "translation": ""
+    "translation": "以压倒之力与毫无",
+    "stage": 3
   },
   {
     "key": "Skill-31-Desc2-0x3BD8",
     "original": "い攻撃で相手に反撃を",
-    "translation": ""
+    "translation": "破绽的攻击不给对",
+    "stage": 3
   },
   {
     "key": "Skill-31-Desc3-0x3BCC",
     "original": "許さない",
-    "translation": ""
+    "translation": "手反击",
+    "stage": 3
   },
   {
     "key": "Skill-32-Name-0x3BC0",
     "original": "特殊攻撃",
-    "translation": ""
+    "translation": "特殊攻击",
+    "stage": 3
   },
   {
     "key": "Skill-32-Desc1-0x3BA8",
     "original": "霊界サプレスの力によ",
-    "translation": ""
+    "translation": "灵界萨普雷斯之力发动",
+    "stage": 3
   },
   {
     "key": "Skill-32-Desc2-0x3B9C",
     "original": "る魔法攻撃",
-    "translation": ""
+    "translation": "的魔法攻击",
+    "stage": 3
   },
   {
     "key": "Skill-33-Name-0x3BC0",
     "original": "特殊攻撃",
-    "translation": ""
+    "translation": "特殊攻击",
+    "stage": 3
   },
   {
     "key": "Skill-33-Desc1-0x3B84",
     "original": "鬼界シルターンの力に",
-    "translation": ""
+    "translation": "鬼界希尔坦之力发动",
+    "stage": 3
   },
   {
     "key": "Skill-33-Desc2-0x3B74",
     "original": "よる魔法攻撃",
-    "translation": ""
+    "translation": "的魔法攻击",
+    "stage": 3
   },
   {
     "key": "Skill-34-Name-0x3BC0",
     "original": "特殊攻撃",
-    "translation": ""
+    "translation": "特殊攻击",
+    "stage": 3
   },
   {
     "key": "Skill-34-Desc1-0x3B5C",
     "original": "幻獣界メイトルパの力",
-    "translation": ""
+    "translation": "幻兽界梅特尔帕之力发",
+    "stage": 3
   },
   {
     "key": "Skill-34-Desc2-0x3B4C",
     "original": "による魔法攻撃",
-    "translation": ""
+    "translation": "动的魔法攻击",
+    "stage": 3
   },
   {
     "key": "Skill-35-Name-0x3BC0",
     "original": "特殊攻撃",
-    "translation": ""
+    "translation": "特殊攻击",
+    "stage": 3
   },
   {
     "key": "Skill-35-Desc1-0x3B5C",
     "original": "幻獣界メイトルパの力",
-    "translation": ""
+    "translation": "幻兽界梅特尔帕之力发",
+    "stage": 3
   },
   {
     "key": "Skill-35-Desc2-0x3B34",
-    "original": "による魔法攻撃\u3000＋毒",
-    "translation": ""
+    "original": "による魔法攻撃　＋毒",
+    "translation": "动的魔法攻击　＋毒",
+    "stage": 3
   },
   {
     "key": "Skill-36-Name-0x3BC0",
     "original": "特殊攻撃",
-    "translation": ""
+    "translation": "特殊攻击",
+    "stage": 3
   },
   {
     "key": "Skill-36-Desc1-0x3B5C",
     "original": "幻獣界メイトルパの力",
-    "translation": ""
+    "translation": "幻兽界梅特尔帕之力发",
+    "stage": 3
   },
   {
     "key": "Skill-36-Desc2-0x3B4C",
     "original": "による魔法攻撃",
-    "translation": ""
+    "translation": "动的魔法攻击",
+    "stage": 3
   },
   {
     "key": "Skill-37-Name-0x3B24",
     "original": "特殊攻撃・大",
-    "translation": ""
+    "translation": "特殊攻击·大",
+    "stage": 3
   },
   {
     "key": "Skill-37-Desc1-0x3B0C",
     "original": "魔王の力による強大な",
-    "translation": ""
+    "translation": "魔王之力造成的",
+    "stage": 3
   },
   {
     "key": "Skill-37-Desc2-0x3AFC",
     "original": "威力の魔法攻撃",
-    "translation": ""
+    "translation": "强大魔法攻击",
+    "stage": 3
   },
   {
     "key": "Skill-38-Name-0x3BC0",
     "original": "特殊攻撃",
-    "translation": ""
+    "translation": "特殊攻击",
+    "stage": 3
   },
   {
     "key": "Skill-38-Desc1-0x3AE4",
     "original": "魔王の力による魔法攻",
-    "translation": ""
+    "translation": "魔王之力发动魔法攻",
+    "stage": 3
   },
   {
     "key": "Skill-38-Desc2-0x880CC",
     "original": "撃",
-    "translation": ""
+    "translation": "击",
+    "stage": 3
   },
   {
     "key": "Skill-39-Name-0x3BC0",
     "original": "特殊攻撃",
-    "translation": ""
+    "translation": "特殊攻击",
+    "stage": 3
   },
   {
     "key": "Skill-39-Desc1-0x3BA8",
     "original": "霊界サプレスの力によ",
-    "translation": ""
+    "translation": "灵界萨普雷斯之力发动",
+    "stage": 3
   },
   {
     "key": "Skill-39-Desc2-0x3AD0",
-    "original": "る魔法攻撃\u3000＋沈黙",
-    "translation": ""
+    "original": "る魔法攻撃　＋沈黙",
+    "translation": "的魔法攻击　＋沉默",
+    "stage": 3
   },
   {
     "key": "Unknown-1-Desc1-0x3180",
     "original": "中範囲・中威力の攻撃",
-    "translation": ""
+    "translation": "中范围中威力攻击",
+    "stage": 3
   },
   {
     "key": "Unknown-1-Desc2-0x3168",
     "original": "＆ステータス異常攻撃",
-    "translation": ""
+    "translation": "并附加异常状态",
+    "stage": 3
   },
   {
     "key": "Unknown-1-Desc3-0x315C",
     "original": "ＭＰ７０",
-    "translation": ""
+    "translation": "ＭＰ７０",
+    "stage": 3
   },
   {
     "key": "Unknown-2-Desc1-0x3180",
     "original": "中範囲・中威力の攻撃",
-    "translation": ""
+    "translation": "中范围中威力攻击",
+    "stage": 3
   },
   {
     "key": "Unknown-2-Desc2-0x3150",
     "original": "＆沈黙攻撃",
-    "translation": ""
+    "translation": "并附加沉默",
+    "stage": 3
   },
   {
     "key": "Unknown-2-Desc3-0x3144",
     "original": "ＭＰ６４",
-    "translation": ""
+    "translation": "ＭＰ６４",
+    "stage": 3
   },
   {
     "key": "Unknown-3-Desc1-0x312C",
     "original": "鬼属性のユニットを召",
-    "translation": ""
+    "translation": "召唤鬼属性",
+    "stage": 3
   },
   {
     "key": "Unknown-3-Desc2-0x880A4",
     "original": "喚する",
-    "translation": ""
+    "translation": "单位",
+    "stage": 3
   },
   {
     "key": "Unknown-3-Desc3-0x3120",
     "original": "ＭＰ３０",
-    "translation": ""
+    "translation": "ＭＰ３０",
+    "stage": 3
   },
   {
     "key": "Unknown-4-Desc1-0x3108",
     "original": "幻獣属性のユニットを",
-    "translation": ""
+    "translation": "召唤幻兽属性",
+    "stage": 3
   },
   {
     "key": "Unknown-4-Desc2-0x30FC",
     "original": "召喚する",
-    "translation": ""
+    "translation": "单位",
+    "stage": 3
   },
   {
     "key": "Unknown-4-Desc3-0x3120",
     "original": "ＭＰ３０",
-    "translation": ""
+    "translation": "ＭＰ３０",
+    "stage": 3
   },
   {
     "key": "Unknown-5-Desc1-0x30E4",
     "original": "機械属性のユニットを",
-    "translation": ""
+    "translation": "召唤机械属",
+    "stage": 3
   },
   {
     "key": "Unknown-5-Desc2-0x30FC",
     "original": "召喚する",
-    "translation": ""
+    "translation": "性单位",
+    "stage": 3
   },
   {
     "key": "Unknown-5-Desc3-0x3120",
     "original": "ＭＰ３０",
-    "translation": ""
+    "translation": "ＭＰ３０",
+    "stage": 3
   },
   {
     "key": "Unknown-6-Desc1-0x30CC",
     "original": "霊属性のユニットを召",
-    "translation": ""
+    "translation": "召唤灵属性",
+    "stage": 3
   },
   {
     "key": "Unknown-6-Desc2-0x880A4",
     "original": "喚する",
-    "translation": ""
+    "translation": "单位",
+    "stage": 3
   },
   {
     "key": "Unknown-6-Desc3-0x3120",
     "original": "ＭＰ３０",
-    "translation": ""
+    "translation": "ＭＰ３０",
+    "stage": 3
   },
   {
     "key": "Unknown-7-Desc1-0x30B4",
     "original": "中範囲・大威力の攻撃",
-    "translation": ""
+    "translation": "中范围大威力的攻击",
+    "stage": 3
   },
   {
     "key": "Unknown-7-Desc2-0x8809C",
     "original": "魔法",
-    "translation": ""
+    "translation": "魔法",
+    "stage": 3
   },
   {
     "key": "Unknown-7-Desc3-0x30A8",
     "original": "ＭＰ８０",
-    "translation": ""
+    "translation": "ＭＰ８０",
+    "stage": 3
   },
   {
     "key": "Unknown-8-Desc1-0x3090",
     "original": "小範囲・中威力の攻撃",
-    "translation": ""
+    "translation": "小范围中威力的攻击",
+    "stage": 3
   },
   {
     "key": "Unknown-8-Desc2-0x3080",
     "original": "魔法＆向きかえ",
-    "translation": ""
+    "translation": "魔法＆转向",
+    "stage": 3
   },
   {
     "key": "Unknown-8-Desc3-0x3074",
     "original": "ＭＰ６２",
-    "translation": ""
+    "translation": "ＭＰ６２",
+    "stage": 3
   },
   {
     "key": "Unknown-9-Desc1-0x3090",
     "original": "小範囲・中威力の攻撃",
-    "translation": ""
+    "translation": "小范围中威力的攻击",
+    "stage": 3
   },
   {
     "key": "Unknown-9-Desc2-0x8809C",
     "original": "魔法",
-    "translation": ""
+    "translation": "魔法",
+    "stage": 3
   },
   {
     "key": "Unknown-9-Desc3-0x3068",
     "original": "ＭＰ４８",
-    "translation": ""
+    "translation": "ＭＰ４８",
+    "stage": 3
   },
   {
     "key": "Unknown-10-Desc1-0x3054",
-    "original": "単体防御力アップ",
-    "translation": ""
+    "original": "単体防具力力アップ",
+    "translation": "单体防具力提升",
+    "stage": 3
   },
   {
     "key": "Unknown-10-Desc3-0x3120",
     "original": "ＭＰ３０",
-    "translation": ""
+    "translation": "ＭＰ３０",
+    "stage": 3
   },
   {
     "key": "Unknown-11-Desc1-0x303C",
     "original": "小範囲・中威力の回復",
-    "translation": ""
+    "translation": "小范围中威力的恢复",
+    "stage": 3
   },
   {
     "key": "Unknown-11-Desc2-0x3024",
     "original": "＆ステータス異常回復",
-    "translation": ""
+    "translation": "＆异常状态恢复",
+    "stage": 3
   },
   {
     "key": "Unknown-11-Desc3-0x3018",
     "original": "ＭＰ５２",
-    "translation": ""
+    "translation": "ＭＰ５２",
+    "stage": 3
   },
   {
     "key": "Unknown-12-Desc1-0x3008",
     "original": "単体攻撃魔法",
-    "translation": ""
+    "translation": "单体攻击魔法",
+    "stage": 3
   },
   {
     "key": "Unknown-12-Desc3-0x3120",
     "original": "ＭＰ３０",
-    "translation": ""
+    "translation": "ＭＰ３０",
+    "stage": 3
   },
   {
     "key": "Unknown-13-Desc1-0x2FF0",
     "original": "中範囲・中威力の回復",
-    "translation": ""
+    "translation": "中范围中威力的恢复",
+    "stage": 3
   },
   {
     "key": "Unknown-13-Desc2-0x8809C",
     "original": "魔法",
-    "translation": ""
+    "translation": "魔法",
+    "stage": 3
   },
   {
     "key": "Unknown-13-Desc3-0x2FE4",
     "original": "ＭＰ５０",
-    "translation": ""
+    "translation": "ＭＰ５０",
+    "stage": 3
   },
   {
     "key": "Unknown-14-Desc1-0x2FCC",
-    "original": "単体攻撃力＆防御力ア",
-    "translation": ""
+    "original": "単体攻撃力＆防具力力ア",
+    "translation": "单体攻防上",
+    "stage": 3
   },
   {
     "key": "Unknown-14-Desc2-0x88094",
     "original": "ップ",
-    "translation": ""
+    "translation": "升",
+    "stage": 3
   },
   {
     "key": "Unknown-14-Desc3-0x2FC0",
     "original": "ＭＰ４０",
-    "translation": ""
+    "translation": "ＭＰ４０",
+    "stage": 3
   },
   {
     "key": "Unknown-15-Desc1-0x2FA8",
     "original": "小範囲・小威力の攻撃",
-    "translation": ""
+    "translation": "小范围小威力的攻击",
+    "stage": 3
   },
   {
     "key": "Unknown-15-Desc2-0x8809C",
     "original": "魔法",
-    "translation": ""
+    "translation": "魔法",
+    "stage": 3
   },
   {
     "key": "Unknown-15-Desc3-0x2F9C",
     "original": "ＭＰ３８",
-    "translation": ""
+    "translation": "ＭＰ３８",
+    "stage": 3
   },
   {
     "key": "Unknown-16-Desc1-0x3180",
     "original": "中範囲・中威力の攻撃",
-    "translation": ""
+    "translation": "中范围中威力的攻击",
+    "stage": 3
   },
   {
     "key": "Unknown-16-Desc2-0x8809C",
     "original": "魔法",
-    "translation": ""
+    "translation": "魔法",
+    "stage": 3
   },
   {
     "key": "Unknown-16-Desc3-0x2F90",
     "original": "ＭＰ６０",
-    "translation": ""
+    "translation": "ＭＰ６０",
+    "stage": 3
   },
   {
     "key": "Unknown-17-Desc1-0x2F80",
     "original": "単体回復魔法",
-    "translation": ""
+    "translation": "单体回复魔法",
+    "stage": 3
   },
   {
     "key": "Unknown-17-Desc3-0x2F74",
     "original": "ＭＰ２０",
-    "translation": ""
+    "translation": "ＭＰ２０",
+    "stage": 3
   },
   {
     "key": "Unknown-18-Desc1-0x30B4",
     "original": "中範囲・大威力の攻撃",
-    "translation": ""
+    "translation": "中范围大威力的攻击",
+    "stage": 3
   },
   {
     "key": "Unknown-18-Desc2-0x8809C",
     "original": "魔法",
-    "translation": ""
+    "translation": "魔法",
+    "stage": 3
   },
   {
     "key": "Unknown-18-Desc3-0x2F68",
     "original": "ＭＰ９０",
-    "translation": ""
+    "translation": "ＭＰ９０",
+    "stage": 3
   },
   {
     "key": "Unknown-19-Desc1-0x3008",
     "original": "単体攻撃魔法",
-    "translation": ""
+    "translation": "单体攻击魔法",
+    "stage": 3
   },
   {
     "key": "Unknown-19-Desc3-0x2F5C",
     "original": "ＭＰ２６",
-    "translation": ""
+    "translation": "ＭＰ２６",
+    "stage": 3
   },
   {
     "key": "Unknown-20-Desc1-0x2F44",
     "original": "中範囲のステータス異",
-    "translation": ""
+    "translation": "中范围状态异",
+    "stage": 3
   },
   {
     "key": "Unknown-20-Desc2-0x8808C",
     "original": "常回復",
-    "translation": ""
+    "translation": "常回复",
+    "stage": 3
   },
   {
     "key": "Unknown-20-Desc3-0x2F38",
     "original": "ＭＰ４５",
-    "translation": ""
+    "translation": "ＭＰ４５",
+    "stage": 3
   },
   {
     "key": "Unknown-21-Desc1-0x2F28",
     "original": "小範囲の毒攻撃",
-    "translation": ""
+    "translation": "小范围毒攻击",
+    "stage": 3
   },
   {
     "key": "Unknown-21-Desc3-0x2F1C",
     "original": "ＭＰ４２",
-    "translation": ""
+    "translation": "ＭＰ４２",
+    "stage": 3
   },
   {
     "key": "Unknown-22-Desc1-0x3090",
     "original": "小範囲・中威力の攻撃",
-    "translation": ""
+    "translation": "小范围中威力的攻击",
+    "stage": 3
   },
   {
     "key": "Unknown-22-Desc2-0x8809C",
     "original": "魔法",
-    "translation": ""
+    "translation": "魔法",
+    "stage": 3
   },
   {
     "key": "Unknown-22-Desc3-0x2F10",
     "original": "ＭＰ４６",
-    "translation": ""
+    "translation": "ＭＰ４６",
+    "stage": 3
   },
   {
     "key": "Unknown-23-Desc1-0x2EFC",
     "original": "小範囲のマヒ攻撃",
-    "translation": ""
+    "translation": "小范围麻痹攻击",
+    "stage": 3
   },
   {
     "key": "Unknown-23-Desc3-0x2EF0",
     "original": "ＭＰ７２",
-    "translation": ""
+    "translation": "ＭＰ７２",
+    "stage": 3
   },
   {
     "key": "Unknown-24-Desc1-0x3008",
     "original": "単体攻撃魔法",
-    "translation": ""
+    "translation": "单体攻击魔法",
+    "stage": 3
   },
   {
     "key": "Unknown-24-Desc3-0x2F74",
     "original": "ＭＰ２０",
-    "translation": ""
+    "translation": "ＭＰ２０",
+    "stage": 3
   },
   {
     "key": "Unknown-25-Desc1-0x2EE0",
     "original": "単体眠り攻撃",
-    "translation": ""
+    "translation": "单体睡眠攻击",
+    "stage": 3
   },
   {
     "key": "Unknown-25-Desc3-0x2F1C",
     "original": "ＭＰ４２",
-    "translation": ""
+    "translation": "ＭＰ４２",
+    "stage": 3
   },
   {
     "key": "Unknown-26-Desc1-0x2ED0",
     "original": "単体暗闇攻撃",
-    "translation": ""
+    "translation": "单体黑暗攻击",
+    "stage": 3
   },
   {
     "key": "Unknown-26-Desc3-0x2F1C",
     "original": "ＭＰ４２",
-    "translation": ""
+    "translation": "ＭＰ４２",
+    "stage": 3
   },
   {
     "key": "Unknown-27-Desc1-0x2EB8",
-    "original": "単体攻撃力＆防御力ダ",
-    "translation": ""
+    "original": "単体攻撃力＆防具力力ダ",
+    "translation": "单体攻防下降",
+    "stage": 3
   },
   {
     "key": "Unknown-27-Desc2-0x88084",
     "original": "ウン",
-    "translation": ""
+    "translation": "",
+    "stage": 3
   },
   {
     "key": "Unknown-27-Desc3-0x2FC0",
     "original": "ＭＰ４０",
-    "translation": ""
+    "translation": "ＭＰ４０",
+    "stage": 3
   },
   {
     "key": "Unknown-28-Desc1-0x2EA0",
     "original": "単体最強威力の攻撃魔",
-    "translation": ""
+    "translation": "单体最强威力攻击魔法",
+    "stage": 3
   },
   {
     "key": "Unknown-28-Desc2-0x88080",
     "original": "法",
-    "translation": ""
+    "translation": "",
+    "stage": 3
   },
   {
     "key": "Unknown-28-Desc3-0x2F68",
     "original": "ＭＰ９０",
-    "translation": ""
+    "translation": "ＭＰ９０",
+    "stage": 3
   },
   {
     "key": "Unknown-29-Desc1-0x2FA8",
     "original": "小範囲・小威力の攻撃",
-    "translation": ""
+    "translation": "小范围小威力的攻击",
+    "stage": 3
   },
   {
     "key": "Unknown-29-Desc2-0x8809C",
     "original": "魔法",
-    "translation": ""
+    "translation": "魔法",
+    "stage": 3
   },
   {
     "key": "Unknown-29-Desc3-0x2FC0",
     "original": "ＭＰ４０",
-    "translation": ""
+    "translation": "ＭＰ４０",
+    "stage": 3
   },
   {
     "key": "Unknown-30-Desc1-0x3090",
     "original": "小範囲・中威力の攻撃",
-    "translation": ""
+    "translation": "小范围中威力的攻击",
+    "stage": 3
   },
   {
     "key": "Unknown-30-Desc2-0x2E94",
     "original": "＆暗闇攻撃",
-    "translation": ""
+    "translation": "＆黑暗攻击",
+    "stage": 3
   },
   {
     "key": "Unknown-30-Desc3-0x2E88",
     "original": "ＭＰ５８",
-    "translation": ""
+    "translation": "ＭＰ５８",
+    "stage": 3
   },
   {
     "key": "Unknown-31-Desc1-0x2E70",
     "original": "広範囲・大威力の回復",
-    "translation": ""
+    "translation": "大范围大威力的回复",
+    "stage": 3
   },
   {
     "key": "Unknown-31-Desc2-0x2E58",
-    "original": "魔法\u3000\u3000\u3000\u3000\u3000\u3000\u3000Ｍ",
-    "translation": ""
+    "original": "魔法　　　　　　　Ｍ",
+    "translation": "魔法　　　　　　　Ｍ",
+    "stage": 3
   },
   {
     "key": "Unknown-31-Desc3-0x2E4C",
     "original": "Ｐ１１０",
-    "translation": ""
+    "translation": "Ｐ１１０",
+    "stage": 3
   },
   {
     "key": "Unknown-32-Desc1-0x2E34",
     "original": "広範囲・大威力の攻撃",
-    "translation": ""
+    "translation": "大范围大威力的攻击",
+    "stage": 3
   },
   {
     "key": "Unknown-32-Desc2-0x2E58",
-    "original": "魔法\u3000\u3000\u3000\u3000\u3000\u3000\u3000Ｍ",
-    "translation": ""
+    "original": "魔法　　　　　　　Ｍ",
+    "translation": "魔法　　　　　　　Ｍ",
+    "stage": 3
   },
   {
     "key": "Unknown-32-Desc3-0x2E28",
     "original": "Ｐ１００",
-    "translation": ""
+    "translation": "Ｐ１００",
+    "stage": 3
   },
   {
     "key": "Unknown-33-Desc1-0x2E18",
     "original": "単体石化攻撃",
-    "translation": ""
+    "translation": "单体石化攻击",
+    "stage": 3
   },
   {
     "key": "Unknown-33-Desc3-0x2FE4",
     "original": "ＭＰ５０",
-    "translation": ""
+    "translation": "ＭＰ５０",
+    "stage": 3
   },
   {
     "key": "Unknown-34-Desc1-0x2E00",
     "original": "広範囲・最強威力の攻",
-    "translation": ""
+    "translation": "广范围最强威力",
+    "stage": 3
   },
   {
     "key": "Unknown-34-Desc2-0x2DE8",
-    "original": "撃魔法\u3000\u3000\u3000\u3000\u3000\u3000Ｍ",
-    "translation": ""
+    "original": "撃魔法　　　　　　Ｍ",
+    "translation": "攻击魔法　　Ｍ",
+    "stage": 3
   },
   {
     "key": "Unknown-34-Desc3-0x2DDC",
     "original": "Ｐ１５０",
-    "translation": ""
+    "translation": "Ｐ１５０",
+    "stage": 3
   },
   {
     "key": "Unknown-35-Desc1-0x2E00",
     "original": "広範囲・最強威力の攻",
-    "translation": ""
+    "translation": "广范围最强威力攻",
+    "stage": 3
   },
   {
     "key": "Unknown-35-Desc2-0x2DE8",
-    "original": "撃魔法\u3000\u3000\u3000\u3000\u3000\u3000Ｍ",
-    "translation": ""
+    "original": "撃魔法　　　　　　Ｍ",
+    "translation": "击魔法　　　　　　Ｍ",
+    "stage": 3
   },
   {
     "key": "Unknown-35-Desc3-0x2DDC",
     "original": "Ｐ１５０",
-    "translation": ""
+    "translation": "Ｐ１５０",
+    "stage": 3
   },
   {
     "key": "Unknown-36-Desc1-0x2E00",
     "original": "広範囲・最強威力の攻",
-    "translation": ""
+    "translation": "广范围最强威力攻",
+    "stage": 3
   },
   {
     "key": "Unknown-36-Desc2-0x2DE8",
-    "original": "撃魔法\u3000\u3000\u3000\u3000\u3000\u3000Ｍ",
-    "translation": ""
+    "original": "撃魔法　　　　　　Ｍ",
+    "translation": "击魔法　　　　　　Ｍ",
+    "stage": 3
   },
   {
     "key": "Unknown-36-Desc3-0x2DDC",
     "original": "Ｐ１５０",
-    "translation": ""
+    "translation": "Ｐ１５０",
+    "stage": 3
   },
   {
     "key": "Unknown-37-Desc1-0x2E00",
     "original": "広範囲・最強威力の攻",
-    "translation": ""
+    "translation": "广范围最强威力攻",
+    "stage": 3
   },
   {
     "key": "Unknown-37-Desc2-0x2DE8",
-    "original": "撃魔法\u3000\u3000\u3000\u3000\u3000\u3000Ｍ",
-    "translation": ""
+    "original": "撃魔法　　　　　　Ｍ",
+    "translation": "击魔法　　　　　　Ｍ",
+    "stage": 3
   },
   {
     "key": "Unknown-37-Desc3-0x2DDC",
     "original": "Ｐ１５０",
-    "translation": ""
+    "translation": "Ｐ１５０",
+    "stage": 3
   },
   {
     "key": "Unknown-38-Desc1-0x2DC8",
     "original": "単体攻撃力アップ",
-    "translation": ""
+    "translation": "单体攻击力提升",
+    "stage": 3
   },
   {
     "key": "Unknown-38-Desc3-0x3120",
     "original": "ＭＰ３０",
-    "translation": ""
+    "translation": "ＭＰ３０",
+    "stage": 3
   },
   {
     "key": "Unreferenced-0x800",
     "original": "己の鏡像",
-    "translation": ""
+    "translation": "自身镜像",
+    "stage": 3
   },
   {
     "key": "Unreferenced-0x80C",
     "original": "蒼の派閥兵",
-    "translation": ""
+    "translation": "苍之派阀兵",
+    "stage": 3
   },
   {
     "key": "Unreferenced-0x818",
     "original": "蒼の召喚師",
-    "translation": ""
+    "translation": "苍之召唤师",
+    "stage": 3
   },
   {
     "key": "Unreferenced-0x824",
     "original": "近衛騎士",
-    "translation": ""
+    "translation": "近卫骑士",
+    "stage": 3
   },
   {
     "key": "Unreferenced-0x830",
     "original": "ＳＧ３０３Ｇ",
-    "translation": ""
+    "translation": "ＳＧ３０３Ｇ",
+    "stage": 3
   },
   {
     "key": "Unreferenced-0x840",
     "original": "アキュート兵",
-    "translation": ""
+    "translation": "阿库特兵",
+    "stage": 3
   },
   {
     "key": "Unreferenced-0x850",
     "original": "無色の派閥兵",
-    "translation": ""
+    "translation": "无色派阀兵",
+    "stage": 3
   },
   {
     "key": "Unreferenced-0x860",
     "original": "マーン家騎士",
-    "translation": ""
+    "translation": "马恩家骑士",
+    "stage": 3
   },
   {
     "key": "Unreferenced-0x870",
     "original": "ソード兵",
-    "translation": ""
+    "translation": "剑兵",
+    "stage": 3
   },
   {
     "key": "Unreferenced-0x87C",
     "original": "マーン家兵士",
-    "translation": ""
+    "translation": "马恩家士兵",
+    "stage": 3
   },
   {
     "key": "Unreferenced-0x88C",
     "original": "大剣使い",
-    "translation": ""
+    "translation": "大剑士",
+    "stage": 3
   },
   {
     "key": "Unreferenced-0x898",
     "original": "ソード使い",
-    "translation": ""
+    "translation": "剑术师",
+    "stage": 3
   },
   {
     "key": "Unreferenced-0x8A4",
     "original": "街の不良",
-    "translation": ""
+    "translation": "街头混混",
+    "stage": 3
   },
   {
     "key": "Unreferenced-0x8B0",
     "original": "ＳＧ２０２Ｄ",
-    "translation": ""
+    "translation": "ＳＧ２０２Ｄ",
+    "stage": 3
   },
   {
     "key": "Unreferenced-0x8C0",
     "original": "ゴールドグミ",
-    "translation": ""
+    "translation": "黄金软泥",
+    "stage": 3
   },
   {
     "key": "Unreferenced-0x8D0",
     "original": "ブルーゼリー",
-    "translation": ""
+    "translation": "蓝果冻",
+    "stage": 3
   },
   {
     "key": "Unreferenced-0x8E0",
     "original": "下級悪魔",
-    "translation": ""
+    "translation": "下级恶魔",
+    "stage": 3
   },
   {
     "key": "Unreferenced-0x8EC",
     "original": "魔精タケシー",
-    "translation": ""
+    "translation": "魔精武",
+    "stage": 3
   },
   {
     "key": "Unreferenced-0x8FC",
     "original": "ダークジェル",
-    "translation": ""
+    "translation": "暗果冻",
+    "stage": 3
   },
   {
     "key": "Unreferenced-0x90C",
     "original": "リムゾジーラ",
-    "translation": ""
+    "translation": "利姆佐吉拉",
+    "stage": 3
   },
   {
     "key": "Unreferenced-0x91C",
     "original": "エルゴ守護者",
-    "translation": ""
+    "translation": "埃尔戈守卫",
+    "stage": 3
   },
   {
     "key": "Unreferenced-0x92C",
     "original": "敗者の剣",
-    "translation": ""
+    "translation": "败者之剑",
+    "stage": 3
   },
   {
     "key": "Unreferenced-0x938",
     "original": "森のオオカミ",
-    "translation": ""
+    "translation": "森林狼",
+    "stage": 3
   },
   {
     "key": "Unreferenced-0x948",
     "original": "ガレフの配下",
-    "translation": ""
+    "translation": "加雷夫部下",
+    "stage": 3
   },
   {
     "key": "Unreferenced-0x958",
     "original": "プチトードス",
-    "translation": ""
+    "translation": "小蟾蜍",
+    "stage": 3
   },
   {
     "key": "Unreferenced-0x968",
     "original": "召喚寄生獣",
-    "translation": ""
+    "translation": "召唤寄生兽",
+    "stage": 3
   },
   {
     "key": "Unreferenced-0x974",
     "original": "トードス",
-    "translation": ""
+    "translation": "托德斯",
+    "stage": 3
   },
   {
     "key": "Unreferenced-0x980",
     "original": "下級召喚師",
-    "translation": ""
+    "translation": "下级召唤师",
+    "stage": 3
   },
   {
     "key": "Unreferenced-0x98C",
     "original": "外道法師",
-    "translation": ""
+    "translation": "外道法师",
+    "stage": 3
   },
   {
     "key": "Unreferenced-0x998",
     "original": "黒装束の男",
-    "translation": ""
+    "translation": "黑衣男子",
+    "stage": 3
   },
   {
     "key": "Unreferenced-0x9A4",
     "original": "短剣使い",
-    "translation": ""
+    "translation": "短剑使",
+    "stage": 3
   },
   {
     "key": "Unreferenced-0x9B0",
     "original": "召喚番犬",
-    "translation": ""
+    "translation": "召唤犬",
+    "stage": 3
   },
   {
     "key": "Unreferenced-0x9BC",
     "original": "ヘルハウンド",
-    "translation": ""
+    "translation": "地狱犬",
+    "stage": 3
   },
   {
     "key": "Unreferenced-0x9CC",
     "original": "リザディオ",
-    "translation": ""
+    "translation": "利扎迪奥",
+    "stage": 3
   },
   {
     "key": "Unreferenced-0x9D8",
     "original": "パンプキーノ",
-    "translation": ""
+    "translation": "南瓜怪",
+    "stage": 3
   },
   {
     "key": "Unreferenced-0x9E8",
     "original": "騎士団員",
-    "translation": ""
+    "translation": "骑士团员",
+    "stage": 3
   },
   {
     "key": "Unreferenced-0x9F4",
     "original": "魔王バノッサ",
-    "translation": ""
+    "translation": "魔王巴诺萨",
+    "stage": 3
   },
   {
     "key": "Unreferenced-0xA04",
     "original": "闇黒大召喚師",
-    "translation": ""
+    "translation": "暗黑大召唤师",
+    "stage": 3
   },
   {
     "key": "Unreferenced-0xA14",
     "original": "オルドレイク",
-    "translation": ""
+    "translation": "奥尔德雷克",
+    "stage": 3
   },
   {
     "key": "Unreferenced-0xA24",
     "original": "カムラン",
-    "translation": ""
+    "translation": "卡姆兰",
+    "stage": 3
   },
   {
     "key": "Unreferenced-0xA30",
     "original": "憲兵隊長",
-    "translation": ""
+    "translation": "宪兵队长",
+    "stage": 3
   },
   {
     "key": "Unreferenced-0xA3C",
     "original": "キムラン",
-    "translation": ""
+    "translation": "基姆兰",
+    "stage": 3
   },
   {
     "key": "Unreferenced-0xA48",
     "original": "顧問召喚師",
-    "translation": ""
+    "translation": "顾问召唤师",
+    "stage": 3
   },
   {
     "key": "Unreferenced-0xA54",
     "original": "イムラン",
-    "translation": ""
+    "translation": "伊姆兰",
+    "stage": 3
   },
   {
     "key": "Unreferenced-0xA60",
     "original": "バノッサ",
-    "translation": ""
+    "translation": "巴诺萨",
+    "stage": 3
   },
   {
     "key": "Unreferenced-0xA6C",
     "original": "魔王の半身",
-    "translation": ""
+    "translation": "魔王半身",
+    "stage": 3
   },
   {
     "key": "Unreferenced-0xA78",
     "original": "ライザー",
-    "translation": ""
+    "translation": "莱泽",
+    "stage": 3
   },
   {
     "key": "Unreferenced-0xA84",
     "original": "ミョージン",
-    "translation": ""
+    "translation": "妙真",
+    "stage": 3
   },
   {
     "key": "Unreferenced-0xA90",
     "original": "百獣の王",
-    "translation": ""
+    "translation": "百兽之王",
+    "stage": 3
   },
   {
     "key": "Unreferenced-0xA9C",
     "original": "ディング",
-    "translation": ""
+    "translation": "丁格",
+    "stage": 3
   },
   {
     "key": "Unreferenced-0xAA8",
     "original": "紅鉄の死神",
-    "translation": ""
+    "translation": "红铁死神",
+    "stage": 3
   },
   {
     "key": "Unreferenced-0xAB4",
     "original": "エスガルド",
-    "translation": ""
+    "translation": "埃斯加尔德",
+    "stage": 3
   },
   {
     "key": "Unreferenced-0xAC0",
     "original": "カザミネ",
-    "translation": ""
+    "translation": "风峰",
+    "stage": 3
   },
   {
     "key": "Unreferenced-0xACC",
     "original": "鬼界の舞姫",
-    "translation": ""
+    "translation": "鬼界舞姬",
+    "stage": 3
   },
   {
     "key": "Unreferenced-0xAD8",
     "original": "機界の統率者",
-    "translation": ""
+    "translation": "机界统帅者",
+    "stage": 3
   },
   {
     "key": "Unreferenced-0xAE8",
     "original": "エルジン",
-    "translation": ""
+    "translation": "埃尔金",
+    "stage": 3
   },
   {
     "key": "Unreferenced-0xAF4",
     "original": "サイサリス",
-    "translation": ""
+    "translation": "塞萨莉斯",
+    "stage": 3
   },
   {
     "key": "Unreferenced-0xB00",
     "original": "聖戦騎士",
-    "translation": ""
+    "translation": "圣战骑士",
+    "stage": 3
   },
   {
     "key": "Unreferenced-0xB0C",
     "original": "白銀騎士",
-    "translation": ""
+    "translation": "白银骑士",
+    "stage": 3
   },
   {
     "key": "Unreferenced-0xB18",
     "original": "騎士団長",
-    "translation": ""
+    "translation": "骑士团长",
+    "stage": 3
   },
   {
     "key": "Unreferenced-0xB24",
     "original": "イリアス",
-    "translation": ""
+    "translation": "伊利亚斯",
+    "stage": 3
   },
   {
     "key": "Unreferenced-0xB30",
     "original": "クイーン",
-    "translation": ""
+    "translation": "女王",
+    "stage": 3
   },
   {
     "key": "Unreferenced-0xB3C",
     "original": "メトラル",
-    "translation": ""
+    "translation": "梅特拉尔",
+    "stage": 3
   },
   {
     "key": "Unreferenced-0xB48",
     "original": "幻獣界の女王",
-    "translation": ""
+    "translation": "幻兽界女王",
+    "stage": 3
   },
   {
     "key": "Unreferenced-0xB58",
     "original": "朱の忍匠",
-    "translation": ""
+    "translation": "朱红忍匠",
+    "stage": 3
   },
   {
     "key": "Unreferenced-0xB64",
     "original": "くのいち",
-    "translation": ""
+    "translation": "女忍者",
+    "stage": 3
   },
   {
     "key": "Unreferenced-0xB70",
     "original": "店員さん",
-    "translation": ""
+    "translation": "店员",
+    "stage": 3
   },
   {
     "key": "Unreferenced-0xB7C",
     "original": "ローカス",
-    "translation": ""
+    "translation": "洛卡斯",
+    "stage": 3
   },
   {
     "key": "Unreferenced-0xB88",
     "original": "森の狩人",
-    "translation": ""
+    "translation": "森林猎人",
+    "stage": 3
   },
   {
     "key": "Unreferenced-0xB94",
     "original": "スウォン",
-    "translation": ""
+    "translation": "斯沃恩",
+    "stage": 3
   },
   {
     "key": "Unreferenced-0xBA0",
     "original": "霊界の賢者",
-    "translation": ""
+    "translation": "灵界贤者",
+    "stage": 3
   },
   {
     "key": "Unreferenced-0xBAC",
     "original": "ギブソン",
-    "translation": ""
+    "translation": "吉布森",
+    "stage": 3
   },
   {
     "key": "Unreferenced-0xBB8",
     "original": "ダークマン",
-    "translation": ""
+    "translation": "黑暗人",
+    "stage": 3
   },
   {
     "key": "Unreferenced-0xBC4",
     "original": "アサシン",
-    "translation": ""
+    "translation": "刺客",
+    "stage": 3
   },
   {
     "key": "Unreferenced-0xBD0",
     "original": "ナイトローグ",
-    "translation": ""
+    "translation": "暗夜盗贼",
+    "stage": 3
   },
   {
     "key": "Unreferenced-0xBE0",
     "original": "スタウト",
-    "translation": ""
+    "translation": "斯塔乌特",
+    "stage": 3
   },
   {
     "key": "Unreferenced-0xBEC",
     "original": "バトラー",
-    "translation": ""
+    "translation": "管家",
+    "stage": 3
   },
   {
     "key": "Unreferenced-0xBF8",
     "original": "シューター",
-    "translation": ""
+    "translation": "射手",
+    "stage": 3
   },
   {
     "key": "Unreferenced-0xC04",
     "original": "プリンセス",
-    "translation": ""
+    "translation": "公主",
+    "stage": 3
   },
   {
     "key": "Unreferenced-0xC10",
     "original": "レビット",
-    "translation": ""
+    "translation": "利比特",
+    "stage": 3
   },
   {
     "key": "Unreferenced-0xC1C",
     "original": "はぐれ召喚獣",
-    "translation": ""
+    "translation": "迷途召唤兽",
+    "stage": 3
   },
   {
     "key": "Unreferenced-0xC2C",
     "original": "モナティ",
-    "translation": ""
+    "translation": "莫娜蒂",
+    "stage": 3
   },
   {
     "key": "Unreferenced-0xC38",
     "original": "少年拳士",
-    "translation": ""
+    "translation": "少年拳士",
+    "stage": 3
   },
   {
     "key": "Unreferenced-0xC44",
     "original": "バンディット",
-    "translation": ""
+    "translation": "强盗",
+    "stage": 3
   },
   {
     "key": "Unreferenced-0xC54",
     "original": "クラレット",
-    "translation": ""
+    "translation": "克拉蕾特",
+    "stage": 3
   },
   {
     "key": "Unreferenced-0xC60",
     "original": "護界召喚師",
-    "translation": ""
+    "translation": "护界召唤师",
+    "stage": 3
   },
   {
     "key": "Unreferenced-0xC6C",
     "original": "高位召喚師",
-    "translation": ""
+    "translation": "高阶召唤师",
+    "stage": 3
   },
   {
     "key": "Unreferenced-0x3198",
     "original": "ＭＧ６０",
-    "translation": ""
+    "translation": "ＭＧ６０",
+    "stage": 3
   },
   {
     "key": "Unreferenced-0x31A4",
     "original": "ＭＧ５９",
-    "translation": ""
+    "translation": "ＭＧ５９",
+    "stage": 3
   },
   {
     "key": "Unreferenced-0x31B0",
     "original": "ＭＧ５８",
-    "translation": ""
+    "translation": "ＭＧ５８",
+    "stage": 3
   },
   {
     "key": "Unreferenced-0x31BC",
     "original": "ＭＧ５７",
-    "translation": ""
+    "translation": "ＭＧ５７",
+    "stage": 3
   },
   {
     "key": "Unreferenced-0x31C8",
     "original": "ＭＧ５６",
-    "translation": ""
+    "translation": "ＭＧ５６",
+    "stage": 3
   },
   {
     "key": "Unreferenced-0x31D4",
     "original": "ＭＧ５５",
-    "translation": ""
+    "translation": "ＭＧ５５",
+    "stage": 3
   },
   {
     "key": "Unreferenced-0x31E0",
     "original": "ＭＧ５４",
-    "translation": ""
+    "translation": "ＭＧ５４",
+    "stage": 3
   },
   {
     "key": "Unreferenced-0x31EC",
     "original": "ＭＧ５３",
-    "translation": ""
+    "translation": "ＭＧ５３",
+    "stage": 3
   },
   {
     "key": "Unreferenced-0x31F8",
     "original": "ＭＧ５２",
-    "translation": ""
+    "translation": "ＭＧ５２",
+    "stage": 3
   },
   {
     "key": "Unreferenced-0x3204",
     "original": "ＭＧ５１",
-    "translation": ""
+    "translation": "ＭＧ５１",
+    "stage": 3
   },
   {
     "key": "Unreferenced-0x3210",
     "original": "ＭＧ５０",
-    "translation": ""
+    "translation": "ＭＧ５０",
+    "stage": 3
   },
   {
     "key": "Unreferenced-0x321C",
     "original": "ＭＧ４３",
-    "translation": ""
+    "translation": "ＭＧ４３",
+    "stage": 3
   },
   {
     "key": "Unreferenced-0x3228",
     "original": "ＭＧ４２",
-    "translation": ""
+    "translation": "ＭＧ４２",
+    "stage": 3
   },
   {
     "key": "Unreferenced-0x3234",
     "original": "ＭＧ４１",
-    "translation": ""
+    "translation": "ＭＧ４１",
+    "stage": 3
   },
   {
     "key": "Unreferenced-0x3240",
     "original": "ＭＧ４０",
-    "translation": ""
+    "translation": "ＭＧ４０",
+    "stage": 3
   },
   {
     "key": "Unreferenced-0x324C",
     "original": "ＭＧ３９",
-    "translation": ""
+    "translation": "ＭＧ３９",
+    "stage": 3
   },
   {
     "key": "Unreferenced-0x3258",
     "original": "ＭＧ３８",
-    "translation": ""
+    "translation": "ＭＧ３８",
+    "stage": 3
   },
   {
     "key": "Unreferenced-0x3264",
     "original": "ブレードキング",
-    "translation": ""
+    "translation": "刀锋之王",
+    "stage": 3
   },
   {
     "key": "Unreferenced-0x87C50",
     "original": "突兵",
-    "translation": ""
+    "translation": "突兵",
+    "stage": 3
   },
   {
     "key": "Unreferenced-0x87C58",
     "original": "狙撃兵",
-    "translation": ""
+    "translation": "狙击兵",
+    "stage": 3
   },
   {
     "key": "Unreferenced-0x87C60",
     "original": "近衛兵",
-    "translation": ""
+    "translation": "近卫兵",
+    "stage": 3
   },
   {
     "key": "Unreferenced-0x87C68",
     "original": "機砲兵",
-    "translation": ""
+    "translation": "机炮兵",
+    "stage": 3
   },
   {
     "key": "Unreferenced-0x87C70",
     "original": "大悪魔",
-    "translation": ""
+    "translation": "大恶魔",
+    "stage": 3
   },
   {
     "key": "Unreferenced-0x87C78",
     "original": "義勇兵",
-    "translation": ""
+    "translation": "义勇兵",
+    "stage": 3
   },
   {
     "key": "Unreferenced-0x87C80",
     "original": "大剣兵",
-    "translation": ""
+    "translation": "大剑兵",
+    "stage": 3
   },
   {
     "key": "Unreferenced-0x87C88",
     "original": "槍兵",
-    "translation": ""
+    "translation": "枪兵",
+    "stage": 3
   },
   {
     "key": "Unreferenced-0x87C90",
     "original": "弓使い",
-    "translation": ""
+    "translation": "弓箭手",
+    "stage": 3
   },
   {
     "key": "Unreferenced-0x87C98",
     "original": "剣使い",
-    "translation": ""
+    "translation": "剑士",
+    "stage": 3
   },
   {
     "key": "Unreferenced-0x87CA0",
     "original": "機槍兵",
-    "translation": ""
+    "translation": "机枪兵",
+    "stage": 3
   },
   {
     "key": "Unreferenced-0x87CA8",
     "original": "悪魔兵",
-    "translation": ""
+    "translation": "恶魔兵",
+    "stage": 3
   },
   {
     "key": "Unreferenced-0x87CB0",
     "original": "森の主",
-    "translation": ""
+    "translation": "森林主",
+    "stage": 3
   },
   {
     "key": "Unreferenced-0x87CB8",
     "original": "ガレフ",
-    "translation": ""
+    "translation": "加雷夫",
+    "stage": 3
   },
   {
     "key": "Unreferenced-0x87CC0",
     "original": "剣竜",
-    "translation": ""
+    "translation": "剑龙",
+    "stage": 3
   },
   {
     "key": "Unreferenced-0x87CC8",
     "original": "天使",
-    "translation": ""
+    "translation": "天使",
+    "stage": 3
   },
   {
     "key": "Unreferenced-0x87CD0",
     "original": "召喚獣",
-    "translation": ""
+    "translation": "召唤兽",
+    "stage": 3
   },
   {
     "key": "Unreferenced-0x87CD8",
     "original": "鬼神将",
-    "translation": ""
+    "translation": "鬼神将",
+    "stage": 3
   },
   {
     "key": "Unreferenced-0x87CE0",
     "original": "召喚鬼",
-    "translation": ""
+    "translation": "召唤鬼",
+    "stage": 3
   },
   {
     "key": "Unreferenced-0x87CE8",
     "original": "鬼神族",
-    "translation": ""
+    "translation": "鬼神族",
+    "stage": 3
   },
   {
     "key": "Unreferenced-0x87CF0",
     "original": "暗殺者",
-    "translation": ""
+    "translation": "暗杀者",
+    "stage": 3
   },
   {
     "key": "Unreferenced-0x87CF8",
     "original": "斧使い",
-    "translation": ""
+    "translation": "斧兵",
+    "stage": 3
   },
   {
     "key": "Unreferenced-0x87D00",
     "original": "手下",
-    "translation": ""
+    "translation": "手下",
+    "stage": 3
   },
   {
     "key": "Unreferenced-0x87D08",
     "original": "突騎士",
-    "translation": ""
+    "translation": "突骑士",
+    "stage": 3
   },
   {
     "key": "Unreferenced-0x87D10",
     "original": "重騎士",
-    "translation": ""
+    "translation": "重骑士",
+    "stage": 3
   },
   {
     "key": "Unreferenced-0x87D18",
     "original": "剣兵",
-    "translation": ""
+    "translation": "剑兵",
+    "stage": 3
   },
   {
     "key": "Unreferenced-0x87D20",
     "original": "魔王",
-    "translation": ""
+    "translation": "魔王",
+    "stage": 3
   },
   {
     "key": "Unreferenced-0x87D28",
     "original": "貴公子",
-    "translation": ""
+    "translation": "贵公子",
+    "stage": 3
   },
   {
     "key": "Unreferenced-0x87D30",
     "original": "狂戦士",
-    "translation": ""
+    "translation": "狂战士",
+    "stage": 3
   },
   {
     "key": "Unreferenced-0x87D38",
     "original": "カノン",
-    "translation": ""
+    "translation": "卡农",
+    "stage": 3
   },
   {
     "key": "Unreferenced-0x87D40",
     "original": "魔α",
-    "translation": ""
+    "translation": "魔α",
+    "stage": 3
   },
   {
     "key": "Unreferenced-0x87D48",
     "original": "凶剣士",
-    "translation": ""
+    "translation": "凶剑士",
+    "stage": 3
   },
   {
     "key": "Unreferenced-0x87D50",
     "original": "精霊",
-    "translation": ""
+    "translation": "精灵",
+    "stage": 3
   },
   {
     "key": "Unreferenced-0x87D58",
     "original": "ポワソ",
-    "translation": ""
+    "translation": "波瓦索",
+    "stage": 3
   },
   {
     "key": "Unreferenced-0x87D60",
     "original": "精機",
-    "translation": ""
+    "translation": "精机",
+    "stage": 3
   },
   {
     "key": "Unreferenced-0x87D68",
     "original": "幻精",
-    "translation": ""
+    "translation": "幻精",
+    "stage": 3
   },
   {
     "key": "Unreferenced-0x87D70",
     "original": "テテ",
-    "translation": ""
+    "translation": "泰泰",
+    "stage": 3
   },
   {
     "key": "Unreferenced-0x87D78",
     "original": "鬼精",
-    "translation": ""
+    "translation": "鬼精",
+    "stage": 3
   },
   {
     "key": "Unreferenced-0x87D80",
     "original": "ガウム",
-    "translation": ""
+    "translation": "伽乌姆",
+    "stage": 3
   },
   {
     "key": "Unreferenced-0x87D88",
     "original": "騎兵",
-    "translation": ""
+    "translation": "骑兵",
+    "stage": 3
   },
   {
     "key": "Unreferenced-0x87D90",
     "original": "剣聖",
-    "translation": ""
+    "translation": "剑圣",
+    "stage": 3
   },
   {
     "key": "Unreferenced-0x87D98",
     "original": "侍",
-    "translation": ""
+    "translation": "侍",
+    "stage": 3
   },
   {
     "key": "Unreferenced-0x87D9C",
     "original": "分身",
-    "translation": ""
+    "translation": "分身",
+    "stage": 3
   },
   {
     "key": "Unreferenced-0x87DA4",
     "original": "忍匠",
-    "translation": ""
+    "translation": "忍匠",
+    "stage": 3
   },
   {
     "key": "Unreferenced-0x87DAC",
     "original": "上忍",
-    "translation": ""
+    "translation": "上忍",
+    "stage": 3
   },
   {
     "key": "Unreferenced-0x87DB4",
     "original": "シオン",
-    "translation": ""
+    "translation": "希翁",
+    "stage": 3
   },
   {
     "key": "Unreferenced-0x87DBC",
     "original": "β女",
-    "translation": ""
+    "translation": "β女",
+    "stage": 3
   },
   {
     "key": "Unreferenced-0x87DC4",
     "original": "カイナ",
-    "translation": ""
+    "translation": "凯娜",
+    "stage": 3
   },
   {
     "key": "Unreferenced-0x87DCC",
     "original": "戦乙女",
-    "translation": ""
+    "translation": "战乙女",
+    "stage": 3
   },
   {
     "key": "Unreferenced-0x87DD4",
     "original": "銃士",
-    "translation": ""
+    "translation": "铳士",
+    "stage": 3
   },
   {
     "key": "Unreferenced-0x87DDC",
     "original": "弓兵",
-    "translation": ""
+    "translation": "弓兵",
+    "stage": 3
   },
   {
     "key": "Unreferenced-0x87DE4",
     "original": "エルカ",
-    "translation": ""
+    "translation": "埃尔卡",
+    "stage": 3
   },
   {
     "key": "Unreferenced-0x87DEC",
     "original": "ミモザ",
-    "translation": ""
+    "translation": "米莫扎",
+    "stage": 3
   },
   {
     "key": "Unreferenced-0x87DF4",
     "original": "アカネ",
-    "translation": ""
+    "translation": "茜",
+    "stage": 3
   },
   {
     "key": "Unreferenced-0x87DFC",
     "original": "英雄",
-    "translation": ""
+    "translation": "英雄",
+    "stage": 3
   },
   {
     "key": "Unreferenced-0x87E04",
     "original": "志士",
-    "translation": ""
+    "translation": "志士",
+    "stage": 3
   },
   {
     "key": "Unreferenced-0x87E0C",
     "original": "義賊",
-    "translation": ""
+    "translation": "义贼",
+    "stage": 3
   },
   {
     "key": "Unreferenced-0x87E14",
     "original": "マタギ",
-    "translation": ""
+    "translation": "猎人",
+    "stage": 3
   },
   {
     "key": "Unreferenced-0x87E1C",
     "original": "猟師",
-    "translation": ""
+    "translation": "猎师",
+    "stage": 3
   },
   {
     "key": "Unreferenced-0x87E24",
     "original": "神槍",
-    "translation": ""
+    "translation": "神枪",
+    "stage": 3
   },
   {
     "key": "Unreferenced-0x87E2C",
     "original": "迅槍",
-    "translation": ""
+    "translation": "迅枪",
+    "stage": 3
   },
   {
     "key": "Unreferenced-0x87E34",
     "original": "槍使い",
-    "translation": ""
+    "translation": "枪手",
+    "stage": 3
   },
   {
     "key": "Unreferenced-0x87E3C",
     "original": "ペルゴ",
-    "translation": ""
+    "translation": "佩尔戈",
+    "stage": 3
   },
   {
     "key": "Unreferenced-0x87E44",
     "original": "闘姫",
-    "translation": ""
+    "translation": "斗姬",
+    "stage": 3
   },
   {
     "key": "Unreferenced-0x87E4C",
     "original": "セシル",
-    "translation": ""
+    "translation": "塞西尔",
+    "stage": 3
   },
   {
     "key": "Unreferenced-0x87E54",
     "original": "剣神",
-    "translation": ""
+    "translation": "剑神",
+    "stage": 3
   },
   {
     "key": "Unreferenced-0x87E5C",
     "original": "ラムダ",
-    "translation": ""
+    "translation": "拉姆达",
+    "stage": 3
   },
   {
     "key": "Unreferenced-0x87E64",
     "original": "拳王",
-    "translation": ""
+    "translation": "拳王",
+    "stage": 3
   },
   {
     "key": "Unreferenced-0x87E6C",
     "original": "格闘家",
-    "translation": ""
+    "translation": "格斗家",
+    "stage": 3
   },
   {
     "key": "Unreferenced-0x87E74",
     "original": "ジンガ",
-    "translation": ""
+    "translation": "金加",
+    "stage": 3
   },
   {
     "key": "Unreferenced-0x87E7C",
     "original": "ママ",
-    "translation": ""
+    "translation": "妈妈",
+    "stage": 3
   },
   {
     "key": "Unreferenced-0x87E84",
     "original": "リプレ",
-    "translation": ""
+    "translation": "莉普蕾",
+    "stage": 3
   },
   {
     "key": "Unreferenced-0x87E8C",
     "original": "豪傑",
-    "translation": ""
+    "translation": "豪杰",
+    "stage": 3
   },
   {
     "key": "Unreferenced-0x87E94",
     "original": "無頼",
-    "translation": ""
+    "translation": "无赖",
+    "stage": 3
   },
   {
     "key": "Unreferenced-0x87E9C",
     "original": "巨漢",
-    "translation": ""
+    "translation": "巨汉",
+    "stage": 3
   },
   {
     "key": "Unreferenced-0x87EA4",
     "original": "エドス",
-    "translation": ""
+    "translation": "艾多斯",
+    "stage": 3
   },
   {
     "key": "Unreferenced-0x87EAC",
     "original": "大盗賊",
-    "translation": ""
+    "translation": "大盗贼",
+    "stage": 3
   },
   {
     "key": "Unreferenced-0x87EB4",
     "original": "盗賊",
-    "translation": ""
+    "translation": "盗贼",
+    "stage": 3
   },
   {
     "key": "Unreferenced-0x87EBC",
     "original": "ガゼル",
-    "translation": ""
+    "translation": "加泽尔",
+    "stage": 3
   },
   {
     "key": "Unreferenced-0x87EC4",
     "original": "剣皇",
-    "translation": ""
+    "translation": "剑皇",
+    "stage": 3
   },
   {
     "key": "Unreferenced-0x87ECC",
     "original": "剣豪",
-    "translation": ""
+    "translation": "剑豪",
+    "stage": 3
   },
   {
     "key": "Unreferenced-0x87ED4",
     "original": "剣士",
-    "translation": ""
+    "translation": "剑士",
+    "stage": 3
   },
   {
     "key": "Unreferenced-0x87EDC",
     "original": "レイド",
-    "translation": ""
+    "translation": "雷德",
+    "stage": 3
   },
   {
     "key": "Unreferenced-0x87EE4",
     "original": "カシス",
-    "translation": ""
+    "translation": "卡茜丝",
+    "stage": 3
   },
   {
     "key": "Unreferenced-0x87EEC",
     "original": "キール",
-    "translation": ""
+    "translation": "基尔",
+    "stage": 3
   },
   {
     "key": "Unreferenced-0x87EF4",
     "original": "召喚師",
-    "translation": ""
+    "translation": "召唤师",
+    "stage": 3
   },
   {
     "key": "Unreferenced-0x87EFC",
     "original": "ソル",
-    "translation": ""
+    "translation": "索尔",
+    "stage": 3
   },
   {
     "key": "Unreferenced-0x87F04",
     "original": "誓約者",
-    "translation": ""
+    "translation": "誓约者",
+    "stage": 3
   },
   {
     "key": "Unreferenced-0x87F0C",
     "original": "探求者",
-    "translation": ""
+    "translation": "探求者",
+    "stage": 3
   },
   {
     "key": "Unreferenced-0x87F14",
     "original": "放浪者",
-    "translation": ""
+    "translation": "流浪者",
+    "stage": 3
   },
   {
     "key": "Unreferenced-0x87F20",
     "original": "学生",
-    "translation": ""
+    "translation": "学生",
+    "stage": 3
   },
   {
     "key": "Unreferenced-0x87F28",
