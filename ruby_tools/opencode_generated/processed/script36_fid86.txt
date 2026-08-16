@@ -5,10 +5,10 @@
 　　胸に秘めて生きている
 +[FID:86, TEXT:0000] 
 -[FID:86, TEXT:0000] 
-+[FID:86, TEXT:0001] 　　人，怀着各种思绪
-+[FID:86, TEXT:0002] 　　深藏心底地活着
++[FID:86, TEXT:0001] 　　人，将各种思绪
++[FID:86, TEXT:0002] 　　深藏心底，就这样活着
 
---- Group [left:none next=201D] ---
+--- Group [left:none next=201D] ---G
 
 
 　大切なものだから、
@@ -20,7 +20,7 @@
 +[FID:86, TEXT:0004] 　因为是无法退让的东西，
 +[FID:86, TEXT:0005] 　有时也会发生冲突
 
---- Group [left:none next=201D] ---
+--- Group [left:none next=201D] ---G
 
 
 　けれど、それでも守りたいと
@@ -30,7 +30,7 @@
 +[FID:86, TEXT:0006] 　但是，即便如此，
 +[FID:86, TEXT:0007] 　我有想要守护的东西
 
---- Group [left:none next=201D] ---
+--- Group [left:none next=201D] ---G
 
 
 
@@ -40,7 +40,7 @@
 -[FID:86, TEXT:0000] 
 +[FID:86, TEXT:0008] 　　　已经，不会再迷惘了
 
---- Group [left:none next=201D] ---
+--- Group [left:none next=201D] ---G
 
 　　俺は守るべきもののために、
 　　誇りをもってこの力を使おう
@@ -52,7 +52,7 @@
 +[FID:86, TEXT:000B] 　　与信任我的伙伴们一起
 +[FID:86, TEXT:000C] 　　直到最后对抗命运
 
---- Group [left:none next=201D] ---
+--- Group [left:none next=201D] ---G
 
 　わたしは、みんなを守るため
 　誇りをもってこの力を使おう
@@ -64,7 +64,7 @@
 +[FID:86, TEXT:0020] 　对抗命运……
 +[FID:86, TEXT:0021] 　与信任我的伙伴们一起……
 
---- Group [left:none next=201D] ---
+--- Group [left:none next=201D] ---G
 
 
 　けれど、それでも守りたいと
@@ -74,7 +74,7 @@
 -[FID:86, TEXT:0006] 　但是，即便如此，
 +[FID:86, TEXT:001D] 　想守护的东西应该是有的……
 
---- Group [left:none next=201D] ---
+--- Group [left:none next=201D] ---G
 
 　人は、さまざまな思いを
 　胸に秘めて生きている
@@ -82,13 +82,13 @@
 　譲れないものだから、
 　ぶつかってしまうこともある
 -[FID:86, TEXT:0000] 
-+[FID:86, TEXT:001B] 　人，怀着各种思绪
-+[FID:86, TEXT:001C] 　深藏心底地活着
++[FID:86, TEXT:001B] 　人，将各种思绪
++[FID:86, TEXT:001C] 　深藏心底，就这样活着
 -[FID:86, TEXT:0003] 　因为是重要的东西，
 -[FID:86, TEXT:0004] 　因为是无法退让的东西，
 -[FID:86, TEXT:0005] 　有时也会发生冲突
 
---- Group [left:none next=201D] ---
+--- Group [left:none next=201D] ---G
 
 　　あたしは、大事なものを守る
 　　ためなら・・・強くなれる
@@ -100,7 +100,7 @@
 +[FID:86, TEXT:001A] 　　与信任我的伙伴们一起
 -[FID:86, TEXT:000C] 　　直到最后对抗命运
 
---- Group [left:none next=201D] ---
+--- Group [left:none next=201D] ---G
 
 
 
@@ -110,7 +110,7 @@
 -[FID:86, TEXT:0000] 
 +[FID:86, TEXT:0017] 　　　已经，不再迷惘……
 
---- Group [left:none next=201D] ---
+--- Group [left:none next=201D] ---G
 
 
 　わかりあえたらいいと思うけど
@@ -120,7 +120,7 @@
 +[FID:86, TEXT:0015] 　如果能互相理解就好了
 +[FID:86, TEXT:0016] 　但我也有不能退让的东西
 
---- Group [left:none next=201D] ---
+--- Group [left:none next=201D] ---G
 
 　人間って、難しい・・・
 　みんなが秘めている違う想い
@@ -134,7 +134,7 @@
 +[FID:86, TEXT:0013] 　正因为如此，才会起冲突
 +[FID:86, TEXT:0014] 　有时也难免吧……
 
---- Group [left:none next=201D] ---
+--- Group [left:none next=201D] ---G
 
 
 　けれど、それでも守りたいと
@@ -144,7 +144,7 @@
 -[FID:86, TEXT:0006] 　但是，即便如此，
 +[FID:86, TEXT:000D] 　我有想要守护的东西
 
---- Group [left:none next=201D] ---
+--- Group [left:none next=201D] ---G
 
 　　僕は守るべきもののために、
 　　誇りをもってこの力を使おう
@@ -156,7 +156,7 @@
 +[FID:86, TEXT:000F] 　　与信任我的伙伴们一起
 -[FID:86, TEXT:000C] 　　直到最后对抗命运
 
---- Group [left:主人公 next=2012] ---
+--- Group [left:主人公 next=2012] ---G
 いよいよ明日だな
 オルドレイクたちとの
 決着をつけるのは
@@ -164,7 +164,7 @@
 +[FID:86, TEXT:0023] 和奥尔德雷克他们
 +[FID:86, TEXT:0024] 做个了断的日子
 
---- Group [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---G
 こんな風に、この場所
 で夜空を見上げるのも
 これが最後になるのか
@@ -174,7 +174,7 @@
 +[FID:86, TEXT:0027] 或许这是最后
 +[FID:86, TEXT:002C] 一次了也说不定……
 
---- Group [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---G
 こんな風に、この場所
 で夜空を見上げるのも
 これが最後になるのか
@@ -184,7 +184,7 @@
 -[FID:86, TEXT:0027] 或许这是最后
 +[FID:86, TEXT:0028] 一次了呢……
 
---- Group [left:主人公 next=2012] ---
+--- Group [left:主人公 next=2012] ---G
 いよいよ明日は、この
 街を出て無色の派閥の
 本拠地へと向かう
@@ -192,7 +192,7 @@
 +[FID:86, TEXT:002A] 条街前往无色派阀
 +[FID:86, TEXT:002B] 的根据地了
 
---- Group [left:主人公 next=2012] ---
+--- Group [left:主人公 next=2012] ---G
 いよいよ明日ね
 オルドレイクたちとの
 決着をつけるのは
@@ -200,7 +200,7 @@
 -[FID:86, TEXT:0023] 和奥尔德雷克他们
 -[FID:86, TEXT:0024] 做个了断的日子
 
---- Group [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---G
 こうやって、この場所
 で夜空を見上げるのも
 これが最後になるのか
@@ -210,7 +210,7 @@
 -[FID:86, TEXT:0027] 或许这是最后
 -[FID:86, TEXT:002C] 一次了也说不定……
 
---- Group [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---G
 こうやって、この場所
 で夜空を見上げるのも
 これが最後になるのか
@@ -220,7 +220,7 @@
 -[FID:86, TEXT:0027] 或许这是最后
 +[FID:86, TEXT:002F] 一次了呢……
 
---- Group [left:主人公 next=2012] ---
+--- Group [left:主人公 next=2012] ---G
 とうとう明日、私たち
 はこの街を出て無色の
 派閥の本拠地へ向かう
@@ -230,23 +230,23 @@
 +[FID:86, TEXT:0032] 派阀的根据地
 +[FID:86, TEXT:0033] ……
 
---- Group [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---G
 ソル
 +[FID:86, TEXT:0034] 索尔
 
---- Group [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---G
 キール
 +[FID:86, TEXT:0035] 基尔
 
---- Group [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---G
 カシス
 +[FID:86, TEXT:0036] 卡茜丝
 
---- Group [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---G
 クラレット
 +[FID:86, TEXT:0037] 克拉蕾特
 
---- Group [left:主人公 next=0003] ---
+--- Group [left:主人公 next=0003] ---G
 レイド
 ガゼル
 エドス
@@ -294,19 +294,19 @@
 +[FID:86, TEXT:004D] 埃尔金
 +[FID:86, TEXT:004E] 埃斯加尔德
 
---- Group [left:主人公 next=0003] ---
+--- Group [left:主人公 next=0003] ---G
 スウォン
 +[FID:86, TEXT:004F] 斯沃恩
 
---- Group [left:主人公 next=0003] ---
+--- Group [left:主人公 next=0003] ---G
 エルカ
 +[FID:86, TEXT:0050] 埃尔卡
 
---- Group [left:主人公 next=2017] ---
+--- Group [left:主人公 next=2017] ---G
 シオン
 +[FID:86, TEXT:0051] 希翁
 
---- Group [left:主人公 next=2012] ---
+--- Group [left:主人公 next=2012] ---G
 びっくりしたよ
 ローカスがあたしの
 ために来てくれた
@@ -316,7 +316,7 @@
 +[FID:86, TEXT:00F2] 特地赶来
 +[FID:86, TEXT:00F3] 这种事
 
---- Group [left:主人公 next=2012] ---
+--- Group [left:主人公 next=2012] ---G
 びっくりしたよ
 ローカスが俺のために
 来てくれたなんて
@@ -324,7 +324,7 @@
 +[FID:86, TEXT:00EC] 洛卡斯居然为了我
 +[FID:86, TEXT:00ED] 特地赶来这种事
 
---- Group [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---G
 びっくりしたよ
 まさか、ペルゴまでが
 あんな無茶をするとは
@@ -332,7 +332,7 @@
 +[FID:86, TEXT:015E] 没想到，连佩尔戈都
 +[FID:86, TEXT:015F] 会做出那种乱来的事
 
---- Group [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---G
 びっくりしたよ
 まさか、ペルゴまでが
 あんな無茶なことする
@@ -342,7 +342,7 @@
 +[FID:86, TEXT:0054] 会做那么乱来
 +[FID:86, TEXT:0055] 真是的
 
---- Group [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---G
 びっくりしたよ
 まさか、レイドまでが
 あんな無茶なことする
@@ -352,17 +352,17 @@
 -[FID:86, TEXT:0054] 会做那么乱来
 -[FID:86, TEXT:0055] 真是的
 
---- Group [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---G
 今でも信じられないよ
 まさか、レイドまでが
 あんな無茶を
 するなんて・・・
 +[FID:86, TEXT:0056] 现在还是无法相信
 -[FID:86, TEXT:0053] 没想到，连雷德都
-+[FID:86, TEXT:0057] 会做出那种
++[FID:86, TEXT:0057] 会做出那种乱来的事
 +[FID:86, TEXT:0058] 什么的……
 
---- Group [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---G
 びっくりした〜
 まさか、レイドまで
 あんな無茶なこと
@@ -372,7 +372,7 @@
 +[FID:86, TEXT:005B] 做那种乱来的事
 -[FID:86, TEXT:0058] 什么的……
 
---- Group [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---G
 びっくりしました
 まさかペルゴさんまで
 あんな無茶なことを
@@ -382,7 +382,7 @@
 +[FID:86, TEXT:0163] 都会做出那种乱来的事
 -[FID:86, TEXT:0058] 什么的……
 
---- Group [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---G
 びっくりしました
 まさか、レイドさん
 まで、あんな作戦に
@@ -392,13 +392,13 @@
 +[FID:86, TEXT:005E] 竟然连那种作战
 +[FID:86, TEXT:005F] 都参加了
 
---- Group [right:雷德 next=2012] ---
+--- Group [right:雷德 next=2012] ---G
 ああ、自分でも驚いて
 いるんだ
 +[FID:86, TEXT:0060] 啊，连我自己都
 +[FID:86, TEXT:0061] 觉得吃惊
 
---- Group [right:雷德 next=2012] ---
+--- Group [right:雷德 next=2012] ---G
 たしかに常識で
 考えればあんなことを
 したのは無茶だった
@@ -406,31 +406,31 @@
 +[FID:86, TEXT:0063] 做那种事
 +[FID:86, TEXT:0064] 太鲁莽了
 
---- Group [right:雷德 next=2012] ---
+--- Group [right:雷德 next=2012] ---G
 だけど、あの時の私は
 何もしないで
 後悔することのほうが
 怖かったんだよ
 +[FID:86, TEXT:0065] 但是，那时的我
 +[FID:86, TEXT:0066] 比起什么都不做
-+[FID:86, TEXT:0067] 后悔这件事
-+[FID:86, TEXT:0068] 才更让人害怕
++[FID:86, TEXT:0067] 更害怕的是
++[FID:86, TEXT:0068] 自己会后悔
 
---- Group [right:雷德 next=2012] ---
+--- Group [right:雷德 next=2012] ---G
 このまま、君を失って
 しまうことのほうがね
 +[FID:86, TEXT:0069] 就这样，失去你
 +[FID:86, TEXT:006A] 才更让我害怕啊
 
---- Group [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---G
 レイド・・・
 +[FID:86, TEXT:006B] 雷德……
 
---- Group [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---G
 レイドさん・・・
 +[FID:86, TEXT:006C] 雷德先生……
 
---- Group [right:雷德 next=2012] ---
+--- Group [right:雷德 next=2012] ---G
 自分の気持ちに正直で
 いることの大切さを、
 君は私に示してくれた
@@ -438,7 +438,7 @@
 +[FID:86, TEXT:006E] 的重要性，
 +[FID:86, TEXT:006F] 你让我明白了
 
---- Group [right:雷德 next=2012] ---
+--- Group [right:雷德 next=2012] ---G
 それを私は忘れないで
 いたいと思っている
 だから・・・
@@ -446,7 +446,7 @@
 +[FID:86, TEXT:0071] 一直铭记着
 +[FID:86, TEXT:0072] 所以……
 
---- Group [left:主人公 next=2012] ---
+--- Group [left:主人公 next=2012] ---G
 だから・・・
 エドスたちが来てくれ
 て、俺はうれしかった
@@ -454,7 +454,7 @@
 +[FID:86, TEXT:0081] 艾多斯他们来
 +[FID:86, TEXT:0082] 我很高兴
 
---- Group [left:主人公 next=2012] ---
+--- Group [left:主人公 next=2012] ---G
 だから・・・
 エドスたちが来てくれ
 たとき、ドキドキする
@@ -464,15 +464,15 @@
 +[FID:86, TEXT:008D] 的时候，我心怦怦直跳
 +[FID:86, TEXT:008E] ，高兴得不行……
 
---- Group [left:主人公 next=2012] ---
+--- Group [left:主人公 next=2012] ---G
 だから・・・
 エドスたちが来てくれ
 て、僕はうれしかった
 -[FID:86, TEXT:0072] 所以……
--[FID:86, TEXT:0081] 艾多斯他们能来
-+[FID:86, TEXT:0088] 我很高兴
+-[FID:86, TEXT:0081] 艾多斯他们来
++[FID:86, TEXT:0088] 的时候我很高兴
 
---- Group [right:雷德 next=2012] ---
+--- Group [right:雷德 next=2012] ---G
 私は君を守ろう
 自分が本当に大切だと
 思う者たちのために
@@ -482,25 +482,25 @@
 +[FID:86, TEXT:0075] 人们
 +[FID:86, TEXT:0076] 挥动这把剑
 
---- Group [right:艾多斯 next=2012] ---
+--- Group [right:艾多斯 next=2012] ---G
 お前さんもギブソンも
 ワシらのことを考えて
 くれていたのに
-+[FID:86, TEXT:0077] 你和吉布森都
-+[FID:86, TEXT:0078] 一直为我们着想
-+[FID:86, TEXT:0079] 明明……
++[FID:86, TEXT:0077] 你和吉布森
++[FID:86, TEXT:0078] 明明一直为我们
++[FID:86, TEXT:0079] 着想……
 
---- Group [right:艾多斯 next=2012] ---
+--- Group [right:艾多斯 next=2012] ---G
 結局、ワシらが台無し
 にしてしまったなあ
 +[FID:86, TEXT:007A] 结果，是我们
 +[FID:86, TEXT:007B] 把事情搞砸了啊
 
---- Group [left:主人公 next=2012] ---
+--- Group [left:主人公 next=2012] ---G
 そんなことないさ
 +[FID:86, TEXT:007C] 没那回事啦
 
---- Group [left:主人公 next=2012] ---
+--- Group [left:主人公 next=2012] ---G
 あの時、俺はわからな
 くなりかけてたんだ
 自分が、本当にここに
@@ -510,23 +510,23 @@
 +[FID:86, TEXT:007F] 自己到底该不该
 +[FID:86, TEXT:0080] 待在这里……
 
---- Group [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---G
 ここにいてもいいんだ
 って、教えてもらった
 ような気がして・・・
-+[FID:86, TEXT:0083] 我可以待在这里
-+[FID:86, TEXT:0084] 这样告诉了我，
-+[FID:86, TEXT:009A] 像是感觉到了……
++[FID:86, TEXT:0083] 恍惚间，仿佛有人告诉我
++[FID:86, TEXT:0084] 待在这里
++[FID:86, TEXT:009A] 也是可以的……
 
---- Group [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---G
 ここにいてもいいんだ
 って、教えてもらった
 ような気がしたんだ
--[FID:86, TEXT:0083] 我可以待在这里
--[FID:86, TEXT:0084] 这样告诉了我，
-+[FID:86, TEXT:0085] 像是有了这种感觉
+-[FID:86, TEXT:0083] 恍惚间，仿佛有人告诉我
+-[FID:86, TEXT:0084] 待在这里
++[FID:86, TEXT:0085] 也是可以的
 
---- Group [left:主人公 next=2012] ---
+--- Group [left:主人公 next=2012] ---G
 あの時、僕はわからな
 くなっていたんだ
 自分が、本当にここに
@@ -536,11 +536,11 @@
 -[FID:86, TEXT:007F] 自己到底该不该
 -[FID:86, TEXT:0080] 待在这里……
 
---- Group [left:主人公 next=2012] ---
+--- Group [left:主人公 next=2012] ---G
 そんなことないよぉ
 +[FID:86, TEXT:0089] 没那回事啦～
 
---- Group [left:主人公 next=2012] ---
+--- Group [left:主人公 next=2012] ---G
 正直ね、あたし
 ここにいていいのか
 不安だったんだ・・・
@@ -548,7 +548,7 @@
 +[FID:86, TEXT:008B] 能不能待在这里
 +[FID:86, TEXT:008C] 一直很不安……
 
---- Group [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---G
 ああ、ここが
 あたしの家なんだって
 思えたんだ・・・
@@ -556,13 +556,13 @@
 +[FID:86, TEXT:0090] 就是我的家
 +[FID:86, TEXT:0091] 我有这种感觉……
 
---- Group [left:主人公 next=2012] ---
+--- Group [left:主人公 next=2012] ---G
 そんなこと・・・
 ありませんよ
 +[FID:86, TEXT:0092] 那种事……
 +[FID:86, TEXT:0093] 没有啦
 
---- Group [left:主人公 next=2012] ---
+--- Group [left:主人公 next=2012] ---G
 あの時、わたし・・・
 不安だったんです
 自分が、本当にここに
@@ -572,7 +572,7 @@
 -[FID:86, TEXT:007F] 自己到底该不该
 -[FID:86, TEXT:0080] 待在这里……
 
---- Group [left:主人公 next=2012] ---
+--- Group [left:主人公 next=2012] ---G
 だから
 エドスさんたちが
 来てくれて・・・
@@ -582,21 +582,21 @@
 +[FID:86, TEXT:0098] 来了……
 +[FID:86, TEXT:0099] 我得救了……
 
---- Group [right:艾多斯 next=2012] ---
+--- Group [right:艾多斯 next=2012] ---G
 迷う必要なんてないさ
 +[FID:86, TEXT:009B] 没必要迷茫啦
 
---- Group [right:艾多斯 next=2012] ---
+--- Group [right:艾多斯 next=2012] ---G
 お前さんがここに
 いたいのなら、
 いつまでもいて
 くれればいい
-+[FID:86, TEXT:009C] 你如果愿意
++[FID:86, TEXT:009C] 你如果想
 +[FID:86, TEXT:009D] 待在这里，
 +[FID:86, TEXT:009E] 那就一直
 +[FID:86, TEXT:009F] 待下去就好
 
---- Group [right:艾多斯 next=2012] ---
+--- Group [right:艾多斯 next=2012] ---G
 それにな・・・
 ワシはお前さんに
 ここにいてほしいんだ
@@ -604,7 +604,7 @@
 +[FID:86, TEXT:00A1] 我希望你
 +[FID:86, TEXT:00A2] 待在这里
 
---- Group [right:艾多斯 next=2012] ---
+--- Group [right:艾多斯 next=2012] ---G
 そのためなら、
 どんな苦労も気に
 ならんさ
@@ -612,15 +612,15 @@
 +[FID:86, TEXT:00A4] 什么辛苦都不
 +[FID:86, TEXT:00A5] 在乎啦
 
---- Group [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---G
 エドス・・・
 +[FID:86, TEXT:00A6] 艾多斯……
 
---- Group [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---G
 エドスさん・・・
 +[FID:86, TEXT:00A7] 艾多斯先生……
 
---- Group [right:阿尔巴 next=2012] ---
+--- Group [right:阿尔巴 next=2012] ---G
 よかった・・・
 姉ちゃん、帰ってきて
 くれたんだね
@@ -628,7 +628,7 @@
 +[FID:86, TEXT:00AB] 姐姐，你终于
 +[FID:86, TEXT:00AA] 回来了呢
 
---- Group [right:阿尔巴 next=0023] ---
+--- Group [right:阿尔巴 next=0023] ---G
 よかった・・・
 兄ちゃん、帰ってきて
 くれたんだね
@@ -636,23 +636,23 @@
 +[FID:86, TEXT:00A9] 哥哥，你终于
 -[FID:86, TEXT:00AA] 回来了呢
 
---- Group [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---G
 ああ、心配かけたな
 +[FID:86, TEXT:00AC] 啊，让你担心了
 
---- Group [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---G
 ああ、心配かけたね
 +[FID:86, TEXT:00AD] 啊，让你担心了呢
 
---- Group [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---G
 うん、ただいま〜！
 +[FID:86, TEXT:00AE] 嗯，我回来了〜！
 
---- Group [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---G
 ごめんね、心配かけて
 +[FID:86, TEXT:00AF] 对不起，让你担心了
 
---- Group [right:阿尔巴 next=0023] ---
+--- Group [right:阿尔巴 next=0023] ---G
 兄ちゃんが魔王の力を
 持ってたって、おいら
 は気にしてないよ！
@@ -660,7 +660,7 @@
 +[FID:86, TEXT:00B1] 什么的，我
 +[FID:86, TEXT:00B2] 一点不在意！
 
---- Group [right:阿尔巴 next=2012] ---
+--- Group [right:阿尔巴 next=2012] ---G
 姉ちゃんが魔王の力を
 持ってたって、おいら
 は気にしてないよ！
@@ -668,23 +668,23 @@
 -[FID:86, TEXT:00B1] 什么的，我
 -[FID:86, TEXT:00B2] 一点不在意！
 
---- Group [right:阿尔巴 next=2012] ---
+--- Group [right:阿尔巴 next=2012] ---G
 おいら、知ってるんだ
 +[FID:86, TEXT:00B4] 我知道的
 
---- Group [right:阿尔巴 next=2012] ---
+--- Group [right:阿尔巴 next=2012] ---G
 そんなものなくたって
 姉ちゃんは強いんだ
 +[FID:86, TEXT:00B5] 就算没有那种东西
 +[FID:86, TEXT:00B7] 姐姐也很强
 
---- Group [right:阿尔巴 next=0023] ---
+--- Group [right:阿尔巴 next=0023] ---G
 そんなものなくたって
 兄ちゃんは強いんだ
 -[FID:86, TEXT:00B5] 就算没有那种东西
 +[FID:86, TEXT:00B6] 哥哥也很强啊
 
---- Group [right:阿尔巴 next=2012] ---
+--- Group [right:阿尔巴 next=2012] ---G
 だから、信じてるよ
 悪い奴らをやっつけて
 帰ってくるってさ！
@@ -692,7 +692,7 @@
 +[FID:86, TEXT:00B9] 打败那些坏家伙
 +[FID:86, TEXT:00BA] 然后回来！
 
---- Group [right:菲兹 next=2012] ---
+--- Group [right:菲兹 next=2012] ---G
 結局、逃げてきちゃう
 んだったら、最初から
 ついてかなければいい
@@ -702,21 +702,21 @@
 +[FID:86, TEXT:00BD] 不跟着去不就好了
 +[FID:86, TEXT:00BE] 吗！？
 
---- Group [right:菲兹 next=2012] ---
+--- Group [right:菲兹 next=2012] ---G
 心配して・・・
 馬鹿みたい・・・
-+[FID:86, TEXT:00BF] 担心着……
-+[FID:86, TEXT:00C0] 像个傻瓜……
++[FID:86, TEXT:00BF] 担心你的我……
++[FID:86, TEXT:00C0] 真像个傻瓜……
 
---- Group [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---G
 ごめんよ、フィズ
 +[FID:86, TEXT:00C1] 对不起，菲兹
 
---- Group [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---G
 ごめんね、フィズ
 +[FID:86, TEXT:00C2] 对不起，菲兹
 
---- Group [right:菲兹 next=2012] ---
+--- Group [right:菲兹 next=2012] ---G
 約束してよ！？
 もう絶対に、どこへも
 行ったりしないって！
@@ -724,7 +724,7 @@
 +[FID:86, TEXT:00C4] 绝对，哪里也
 +[FID:86, TEXT:00C5] 不会去了！
 
---- Group [right:菲兹 next=2012] ---
+--- Group [right:菲兹 next=2012] ---G
 お兄ちゃんが魔王でも
 あたし、そんなの気に
 しないから・・・
@@ -732,47 +732,47 @@
 +[FID:86, TEXT:00C7] 我，那种事才不会
 +[FID:86, TEXT:00C8] 在意……
 
---- Group [left:主人公 next=2012] ---
+--- Group [left:主人公 next=2012] ---G
 フィズ・・・
 +[FID:86, TEXT:00C9] 菲兹……
 
---- Group [right:拉米 next=0023] ---
+--- Group [right:拉米 next=0023] ---G
 おにいちゃん・・・
 まおう、なの？
 +[FID:86, TEXT:00CA] 哥哥……
 +[FID:86, TEXT:00CB] 是魔王吗？
 
---- Group [right:拉米 next=2012] ---
+--- Group [right:拉米 next=2012] ---G
 おねえちゃん・・・
 まおう、なの？
 +[FID:86, TEXT:00CC] 姐姐……
 -[FID:86, TEXT:00CB] 是魔王吗？
 
---- Group [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---G
 俺にもわからないんだ
 +[FID:86, TEXT:00CD] 我也不知道啊
 
---- Group [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---G
 僕にもわからないんだ
 +[FID:86, TEXT:00CE] 我也不知道呀
 
---- Group [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---G
 う〜ん、まだわから
 ないんだよね〜
 +[FID:86, TEXT:00CF] 唔～，还不知道
 +[FID:86, TEXT:00D0] 呢～
 
---- Group [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---G
 まだわからないの
 +[FID:86, TEXT:00D1] 还不知道呢
 
---- Group [right:拉米 next=2012] ---
+--- Group [right:拉米 next=2012] ---G
 ラミ・・・
 それでもいい・・・
 +[FID:86, TEXT:00D2] 拉米……
 +[FID:86, TEXT:00D3] 即便如此也没关系……
 
---- Group [right:拉米 next=0023] ---
+--- Group [right:拉米 next=0023] ---G
 おにいちゃんが
 まおうなら・・・
 こわくないもん・・・
@@ -780,7 +780,7 @@
 +[FID:86, TEXT:00D5] 是魔王……
 +[FID:86, TEXT:00D6] 我才不怕呢……
 
---- Group [right:拉米 next=2012] ---
+--- Group [right:拉米 next=2012] ---G
 おねえちゃんが
 まおうなら・・・
 こわくないもん・・・
@@ -788,7 +788,7 @@
 -[FID:86, TEXT:00D5] 是魔王……
 -[FID:86, TEXT:00D6] 我才不怕呢……
 
---- Group [right:拉米 next=2012] ---
+--- Group [right:拉米 next=2012] ---G
 きっと・・・
 やさしいまおうさんに
 きまってるもん・・・
@@ -796,77 +796,77 @@
 +[FID:86, TEXT:00D9] 肯定是位温柔的
 +[FID:86, TEXT:00DA] 魔王……
 
---- Group [left:主人公 next=2012] ---
+--- Group [left:主人公 next=2012] ---G
 ラミちゃん
 +[FID:86, TEXT:00DB] 小拉米
 
---- Group [right:拉米 next=2012] ---
+--- Group [right:拉米 next=2012] ---G
 だから、もうどこへも
 いかないでね・・・
 +[FID:86, TEXT:00DC] 所以，哪儿也
 +[FID:86, TEXT:00DD] 别去了哦……
 
---- Group [right:拉米 next=2012] ---
+--- Group [right:拉米 next=2012] ---G
 やくそく、だよ？
 +[FID:86, TEXT:00DE] 说好了哦？
 
---- Group [right:金加 next=0023] ---
+--- Group [right:金加 next=0023] ---G
 俺っち、アニキのこと
 信じてるから！
 +[FID:86, TEXT:00DF] 我，相信大哥
 +[FID:86, TEXT:00E0] 的！
 
---- Group [right:金加 next=2012] ---
+--- Group [right:金加 next=2012] ---G
 俺っち、アネゴのこと
 信じてるから！
 +[FID:86, TEXT:00E1] 我，相信大姐
 -[FID:86, TEXT:00E0] 的！
 
---- Group [right:金加 next=2012] ---
+--- Group [right:金加 next=2012] ---G
 だから、もう余計な気
 はつかわないでくれよ
 一人で解決しようなん
 て思わないでくれよ
 +[FID:86, TEXT:00E2] 所以，多余的担心
-+[FID:86, TEXT:00E3] 就别操了
++[FID:86, TEXT:00E3] 就别想了
 +[FID:86, TEXT:00E4] 也别想一个人
 +[FID:86, TEXT:00E5] 去解决啊！
 
---- Group [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---G
 ジンガ・・・
 +[FID:86, TEXT:00E6] 金加……
 
---- Group [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---G
 ありがと、ジンガ
 +[FID:86, TEXT:00E7] 谢啦，金加
 
---- Group [right:金加 next=2012] ---
+--- Group [right:金加 next=2012] ---G
 何があろうと、俺っち
 はアネゴの味方だから
 +[FID:86, TEXT:00E8] 无论发生什么，
 +[FID:86, TEXT:00EA] 我都会站在大姐这边
 
---- Group [right:金加 next=0023] ---
+--- Group [right:金加 next=0023] ---G
 何があろうと、俺っち
 はアニキの味方だから
 -[FID:86, TEXT:00E8] 无论发生什么，
 +[FID:86, TEXT:00E9] 我都会站在大哥这边
 
---- Group [right:金加 next=2012] ---
+--- Group [right:金加 next=2012] ---G
 忘れないでくれよ？
 +[FID:86, TEXT:00EB] 别忘了哦？
 
---- Group [left:主人公 next=2012] ---
+--- Group [left:主人公 next=2012] ---G
 ありがとう
 +[FID:86, TEXT:00EE] 谢谢
 
---- Group [right:基尔 next=2012] ---
+--- Group [right:基尔 next=2012] ---G
 ありがとう
 @n
 -[FID:86, TEXT:00EE] 谢谢
 +[FID:86, TEXT:01E8] @n
 
---- Group [left:主人公 next=2012] ---
+--- Group [left:主人公 next=2012] ---G
 驚いたよ
 ローカスが僕のために
 来てくれたなんて
@@ -874,7 +874,7 @@
 +[FID:86, TEXT:00F0] 洛卡斯为了我
 -[FID:86, TEXT:00ED] 特地赶来这种事
 
---- Group [left:主人公 next=2012] ---
+--- Group [left:主人公 next=2012] ---G
 驚きました
 ローカスさんが私の
 ために来てくれた
@@ -884,11 +884,11 @@
 -[FID:86, TEXT:00F2] 特地赶来
 -[FID:86, TEXT:00F3] 这种事
 
---- Group [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---G
 ありがとうございます
 +[FID:86, TEXT:00F6] 谢谢您
 
---- Group [right:洛卡斯 next=2012] ---
+--- Group [right:洛卡斯 next=2012] ---G
 なんだかんだ言って
 俺がこうしていられる
 のはお前のおかげだか
@@ -898,15 +898,15 @@
 +[FID:86, TEXT:00F9] 都是托你的福
 +[FID:86, TEXT:00FA] 啊……
 
---- Group [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---G
 ローカス・・・
 +[FID:86, TEXT:00FB] 洛卡斯……
 
---- Group [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---G
 ローカスさん・・・
 +[FID:86, TEXT:00FC] 洛卡斯先生……
 
---- Group [right:洛卡斯 next=2012] ---
+--- Group [right:洛卡斯 next=2012] ---G
 それに、お前にはこの
 戦いを終わらせる権利
 があるんだ
@@ -914,7 +914,7 @@
 +[FID:86, TEXT:00FE] 结束这场战斗
 +[FID:86, TEXT:00FF] 的权利
 
---- Group [right:洛卡斯 next=2012] ---
+--- Group [right:洛卡斯 next=2012] ---G
 お前がこの先、どんな
 答えをだし、この戦い
 の幕を引くのか・・・
@@ -922,71 +922,71 @@
 +[FID:86, TEXT:0101] 怎样的答案，为这
 +[FID:86, TEXT:0102] 场战斗落下帷幕……
 
---- Group [right:洛卡斯 next=2012] ---
+--- Group [right:洛卡斯 next=2012] ---G
 俺は、そいつを見て
 みたいのさ
-+[FID:86, TEXT:0103] 我啊，就是想看看
-+[FID:86, TEXT:0104] 那家伙
++[FID:86, TEXT:0103] 我啊，想见证
++[FID:86, TEXT:0104] 这一切
 
---- Group [right:莫纳蒂 next=2012] ---
+--- Group [right:莫纳蒂 next=2012] ---G
 モナティ、決めたです
 +[FID:86, TEXT:0105] 莫娜蒂，决定了
 
---- Group [right:莫纳蒂 next=2012] ---
+--- Group [right:莫纳蒂 next=2012] ---G
 どんなことがあっても
 マスターの側から離れ
 ないって・・・
 +[FID:86, TEXT:0106] 无论发生什么事
 +[FID:86, TEXT:0107] 我都不会离开主人
-+[FID:86, TEXT:0108] 身边的……
++[FID:86, TEXT:0108] Ｍａｓｔｅｒ身边……
 
---- Group [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---G
 危ない目にあうかも
 知れないんだよ？
 +[FID:86, TEXT:0109] 说不定会遇到
 +[FID:86, TEXT:010B] 危险的事哦？
 
---- Group [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---G
 危ない目にあうかも
 知れないんだぞ？
 -[FID:86, TEXT:0109] 说不定会遇到
 +[FID:86, TEXT:010A] 危险的事啊！
 
---- Group [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---G
 危ない目にあうかも
 知れないよ？
 -[FID:86, TEXT:0109] 说不定会遇到
 +[FID:86, TEXT:010C] 危险哦？
 
---- Group [right:莫纳蒂 next=2012] ---
+--- Group [right:莫纳蒂 next=2012] ---G
 そんなの平気ですの！
 +[FID:86, TEXT:010D] 那种事才不怕呢！
 
---- Group [right:莫纳蒂 next=2012] ---
+--- Group [right:莫纳蒂 next=2012] ---G
 それよりも、モナティ
 の知らないところで、
 マスターがいなくなる
 ほうが・・・
-+[FID:86, TEXT:010E] 比起那个，莫娜蒂
++[FID:86, TEXT:010E] 比起那个，在莫娜蒂
 +[FID:86, TEXT:010F] 不知道的地方，
 +[FID:86, TEXT:0110] 主人不见了
 +[FID:86, TEXT:0111] 才更……
 
---- Group [right:莫纳蒂 next=2012] ---
+--- Group [right:莫纳蒂 next=2012] ---G
 ずっとずっと
 イヤですのっ！！
 +[FID:86, TEXT:0112] 一直一直
 +[FID:86, TEXT:0113] 都很讨厌！！
 
---- Group [left:主人公 next=2012] ---
+--- Group [left:主人公 next=2012] ---G
 モナティ・・・
 +[FID:86, TEXT:0114] 莫娜蒂……
 
---- Group [right:莫纳蒂 next=2012] ---
+--- Group [right:莫纳蒂 next=2012] ---G
 約束してください！
 +[FID:86, TEXT:0115] 请跟我约定！
 
---- Group [right:莫纳蒂 next=2012] ---
+--- Group [right:莫纳蒂 next=2012] ---G
 最後の最後まで
 マスターとモナティは
 一緒だって・・・
@@ -994,31 +994,31 @@
 +[FID:86, TEXT:0117] 主人和莫娜蒂都要
 +[FID:86, TEXT:0118] 在一起……
 
---- Group [left:主人公 next=2012] ---
+--- Group [left:主人公 next=2012] ---G
 わかったよ、モナティ
 +[FID:86, TEXT:0119] 知道了，莫娜蒂
 
---- Group [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---G
 最後まで
 ついて来てくれ
-+[FID:86, TEXT:011A] 到最后
-+[FID:86, TEXT:011B] 都跟着我来
++[FID:86, TEXT:011A] 直到最后
++[FID:86, TEXT:011B] 都跟着我吧
 
---- Group [left:主人公 next=2012] ---
+--- Group [left:主人公 next=2012] ---G
 うんわかった！
 +[FID:86, TEXT:011C] 嗯，知道了！
 
---- Group [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---G
 最後まで、全力で
 付いてくること！
-+[FID:86, TEXT:011D] 到最后，全力地
++[FID:86, TEXT:011D] 直到最后，都全力地
 +[FID:86, TEXT:011E] 跟上来！
 
---- Group [left:主人公 next=2012] ---
+--- Group [left:主人公 next=2012] ---G
 うん、約束する
 +[FID:86, TEXT:011F] 嗯，我答应你
 
---- Group [left:主人公 next=2012] ---
+--- Group [left:主人公 next=2012] ---G
 うん、約束する
 あたしは絶対
 ここに帰ってくるよ
@@ -1026,25 +1026,25 @@
 +[FID:86, TEXT:04BE] 我绝对会
 +[FID:86, TEXT:04BF] 回到这里来的
 
---- Group [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---G
 最後まで、ついて来て
 くれる？
 +[FID:86, TEXT:0120] 直到最后，都跟着
 +[FID:86, TEXT:0121] 我好吗？
 
---- Group [right:莫纳蒂 next=2012] ---
+--- Group [right:莫纳蒂 next=2012] ---G
 は・・・はいですっ！
 +[FID:86, TEXT:0122] 是……是的！
 
---- Group [right:茜 next=2012] ---
+--- Group [right:茜 next=2012] ---G
 魔王の力ってみんな
 騒いでるけどさ
 要は使い方じゃない？
 +[FID:86, TEXT:0123] 大家虽然都为
-+[FID:86, TEXT:0124] 魔王之力闹腾
-+[FID:86, TEXT:0125] 说白了就是用法问题吧？【超出】
++[FID:86, TEXT:0124] 魔王之力大惊小怪
++[FID:86, TEXT:0125] 关键不还是怎么用吗？
 
---- Group [right:茜 next=2012] ---
+--- Group [right:茜 next=2012] ---G
 アンタは今まで、
 その力を使って
 いろいろな人たちを
@@ -1054,53 +1054,53 @@
 +[FID:86, TEXT:0128] 帮助了各种各样
 +[FID:86, TEXT:0129] 的人吧？
 
---- Group [right:莉普蕾 next=2012] ---
+--- Group [right:莉普蕾 next=2012] ---G
 うん・・・
 +[FID:86, TEXT:012A] 嗯……
 
---- Group [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---G
 まあね・・・
 +[FID:86, TEXT:012B] 算是吧……
 
---- Group [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---G
 ま、まあね〜
 ・・・自信ないけど
 +[FID:86, TEXT:012C] 唔、算是吧……
 +[FID:86, TEXT:012D] 不过没什么自信
 
---- Group [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---G
 あ、はい・・・
 そうでした・・・
 +[FID:86, TEXT:012E] 啊、是的……
 +[FID:86, TEXT:0231] 是这样没错……
 
---- Group [right:茜 next=2012] ---
+--- Group [right:茜 next=2012] ---G
 魔王でも誓約者でも、
 アンタはアンタよ
 +[FID:86, TEXT:012F] 魔王也好誓约者也好，
 +[FID:86, TEXT:0130] 你就是你
 
---- Group [right:茜 next=2012] ---
+--- Group [right:茜 next=2012] ---G
 それ以上でもそれ以下
 でもないもんね
-+[FID:86, TEXT:0131] 你既不会比那更高
-+[FID:86, TEXT:0132] 也不会比那更低啦
++[FID:86, TEXT:0131] 不多不少，
++[FID:86, TEXT:0132] 就是这么回事
 
---- Group [right:茜 next=2012] ---
+--- Group [right:茜 next=2012] ---G
 もっと胸を張りなよ？
 アンタには、そうする
 権利があるんだからさ
 +[FID:86, TEXT:0133] 再挺起胸膛一点嘛？
-+[FID:86, TEXT:0134] 你呀，这么做的
-+[FID:86, TEXT:0135] 权利是有的呀
++[FID:86, TEXT:0134] 你呀，是有权
++[FID:86, TEXT:0135] 这么做的呀
 
---- Group [right:拉姆达 next=2012] ---
+--- Group [right:拉姆达 next=2012] ---G
 お前という人間は
 不思議だな・・・
 +[FID:86, TEXT:0136] 你这个人呀
 +[FID:86, TEXT:0137] 真是不可思议呢……
 
---- Group [right:拉姆达 next=2012] ---
+--- Group [right:拉姆达 next=2012] ---G
 お前の言葉は周りの者
 をつき動かしていく
 信じられない力を引き
@@ -1110,25 +1110,25 @@
 +[FID:86, TEXT:013A] 引发出难以置信的
 +[FID:86, TEXT:013B] 力量
 
---- Group [right:拉姆达 next=2012] ---
+--- Group [right:拉姆达 next=2012] ---G
 それは魔王の力でも、
 誓約者の力でもない
 +[FID:86, TEXT:013C] 那既不是魔王的力量，
 +[FID:86, TEXT:013D] 也不是誓约者的力量
 
---- Group [right:拉姆达 next=2012] ---
+--- Group [right:拉姆达 next=2012] ---G
 お前自身の力だ
 +[FID:86, TEXT:013E] 是你自身的力量
 
---- Group [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---G
 ラムダ・・・
 +[FID:86, TEXT:013F] 拉姆达……
 
---- Group [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---G
 ラムダさん・・・
 +[FID:86, TEXT:0140] 拉姆达先生……
 
---- Group [right:拉姆达 next=2012] ---
+--- Group [right:拉姆达 next=2012] ---G
 自信をもてばいい
 お前がお前でいるなら
 誰もが力を貸すだろう
@@ -1136,11 +1136,11 @@
 +[FID:86, TEXT:0142] 只要你还是你自己
 +[FID:86, TEXT:0143] 谁都会愿意帮你一把的
 
---- Group [right:拉姆达 next=2012] ---
+--- Group [right:拉姆达 next=2012] ---G
 俺は、そう思う
 +[FID:86, TEXT:0144] 我是这么想的
 
---- Group [right:塞西尔 next=2012] ---
+--- Group [right:塞西尔 next=2012] ---G
 貴方には不思議な力が
 あるって、ラムダ様が
 言っていたわ
@@ -1148,31 +1148,31 @@
 +[FID:86, TEXT:0146] 力量，拉姆达大人
 +[FID:86, TEXT:0147] 是这么说的
 
---- Group [right:塞西尔 next=2012] ---
+--- Group [right:塞西尔 next=2012] ---G
 私はね、それは貴方の
 優しさなんだと思うの
 +[FID:86, TEXT:0148] 我呢，觉得那是你的
 +[FID:86, TEXT:0149] 温柔哦
 
---- Group [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---G
 優しさ、ですか？
 +[FID:86, TEXT:014A] 温柔，是吗？
 
---- Group [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---G
 優しさですか？？
 +[FID:86, TEXT:014B] 温柔吗？？
 
---- Group [right:塞西尔 next=2012] ---
+--- Group [right:塞西尔 next=2012] ---G
 貴方はいつも、他の人
 の気持ちを考えている
 誰かのために、全力を
 つくすことができる
 +[FID:86, TEXT:014C] 你总在考虑着
 +[FID:86, TEXT:014D] 他人的心情
-+[FID:86, TEXT:014E] 为了某人，全力
-+[FID:86, TEXT:014F] 也能够做到
++[FID:86, TEXT:014E] 为了某人，能够
++[FID:86, TEXT:014F] 全力以赴
 
---- Group [right:塞西尔 next=2012] ---
+--- Group [right:塞西尔 next=2012] ---G
 そんな貴方だから、誰
 もが力を貸してくれる
 のじゃないかしら？
@@ -1180,25 +1180,25 @@
 +[FID:86, TEXT:0151] 大家才会愿意
 +[FID:86, TEXT:0152] 来帮你吧？
 
---- Group [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---G
 そうなのかな・・・
 +[FID:86, TEXT:0153] 是那样吗……
 
---- Group [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---G
 そうなのかな・・・
 なんか照れちゃうな
 -[FID:86, TEXT:0153] 是那样吗……
 +[FID:86, TEXT:0155] 总觉得有点害羞呢
 
---- Group [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---G
 そうだろうか・・・
 +[FID:86, TEXT:0154] 会是这样吗……
 
---- Group [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---G
 そうなんでしょうか？
 +[FID:86, TEXT:0156] 是这样的吗？
 
---- Group [right:塞西尔 next=2012] ---
+--- Group [right:塞西尔 next=2012] ---G
 難しく考えなくても、
 ちゃんと貴方は
 わかっているはずよ
@@ -1206,7 +1206,7 @@
 +[FID:86, TEXT:0158] 你应该已经
 +[FID:86, TEXT:0159] 明白了才对
 
---- Group [right:塞西尔 next=2012] ---
+--- Group [right:塞西尔 next=2012] ---G
 自信を持ちなさい？
 それがきっと、貴方を
 もっと強くしてくれる
@@ -1216,7 +1216,7 @@
 +[FID:86, TEXT:015C] 会把你变得
 +[FID:86, TEXT:015D] 更强的啊
 
---- Group [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---G
 びっくりしたよ〜
 まさか、ペルゴまでが
 あんな無茶なことする
@@ -1226,37 +1226,37 @@
 -[FID:86, TEXT:0054] 会做那么乱来
 +[FID:86, TEXT:0161] 的事啊……
 
---- Group [right:佩尔戈 next=2012] ---
+--- Group [right:佩尔戈 next=2012] ---G
 たしかにそうかも
 知れませんね・・・
-+[FID:86, TEXT:0164] 确实是这样吧
-+[FID:86, TEXT:0165] 也说不定呢……
++[FID:86, TEXT:0164] 确实是这样
++[FID:86, TEXT:0165] 也说不定……
 
---- Group [right:佩尔戈 next=2012] ---
+--- Group [right:佩尔戈 next=2012] ---G
 貴方たちとも長いつき
 あいですから、無茶が
 うつってしまったのか
 もしれません
 +[FID:86, TEXT:0166] 与你们交情已久
-+[FID:86, TEXT:0167] 所以这份莽撞
-+[FID:86, TEXT:0168] 传染上了
++[FID:86, TEXT:0167] 所以传染上了
++[FID:86, TEXT:0168] 这份莽撞
 +[FID:86, TEXT:0169] 也说不定
 
---- Group [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---G
 あはは・・・
 +[FID:86, TEXT:016A] 啊哈哈……
 
---- Group [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---G
 ははは・・・
 +[FID:86, TEXT:016B] 哈哈哈……
 
---- Group [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---G
 う・・・・人のせいに
 しちゃって〜
 +[FID:86, TEXT:016C] 唔……把责任推
 +[FID:86, TEXT:016D] 给别人了～
 
---- Group [right:佩尔戈 next=2012] ---
+--- Group [right:佩尔戈 next=2012] ---G
 ですが、私は後悔して
 いませんよ
 あの場合、あれが一番
@@ -1266,7 +1266,7 @@
 +[FID:86, TEXT:0170] 那种情况下，
 +[FID:86, TEXT:0171] 那样做是最好的
 
---- Group [right:佩尔戈 next=2012] ---
+--- Group [right:佩尔戈 next=2012] ---G
 この世界のためにも
 それに、私の良心の
 ためにもね？
@@ -1274,73 +1274,73 @@
 +[FID:86, TEXT:0173] 而且，也是为了
 +[FID:86, TEXT:0174] 我的良心啊？
 
---- Group [right:斯塔乌特 next=0023] ---
+--- Group [right:斯塔乌特 next=0023] ---G
 カッコよかったぜ
 坊主？
 +[FID:86, TEXT:0175] 真帅啊
 +[FID:86, TEXT:0176] 小子？
 
---- Group [right:斯塔乌特 next=2012] ---
+--- Group [right:斯塔乌特 next=2012] ---G
 カッコよかったぜ
 嬢ちゃん？
 -[FID:86, TEXT:0175] 真帅啊
 +[FID:86, TEXT:0177] 小姑娘？
 
---- Group [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---G
 からかうなよ
 +[FID:86, TEXT:0178] 别取笑我啊
 
---- Group [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---G
 やだなぁ、もう！
 +[FID:86, TEXT:0179] 讨厌啦，真是的！
 
---- Group [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---G
 もう、からかわないで
 ください・・・
 +[FID:86, TEXT:017A] 真是的，请不要
 +[FID:86, TEXT:017B] 取笑我……
 
---- Group [right:斯塔乌特 next=2012] ---
+--- Group [right:斯塔乌特 next=2012] ---G
 いやいや、俺は真剣に
 ほめてんだぜ？
 +[FID:86, TEXT:017C] 不不，我可是认真
 +[FID:86, TEXT:017D] 在夸你呢？
 
---- Group [right:斯塔乌特 next=2012] ---
+--- Group [right:斯塔乌特 next=2012] ---G
 俺は俺だ！
 か
 +[FID:86, TEXT:017E] 我就是我！
 +[FID:86, TEXT:017F] 吗……
 
---- Group [right:斯塔乌特 next=2012] ---
+--- Group [right:斯塔乌特 next=2012] ---G
 私は私・・・か
 +[FID:86, TEXT:0180] 我就是我……吗
 
---- Group [right:斯塔乌特 next=2012] ---
+--- Group [right:斯塔乌特 next=2012] ---G
 当たり前のことだがな
 なかなか言えねえよ
 +[FID:86, TEXT:0181] 理所当然的事
 +[FID:86, TEXT:0182] 但很难说出口啊
 
---- Group [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---G
 あの時は、
 必死だったから・・・
 +[FID:86, TEXT:0183] 那时候，
 +[FID:86, TEXT:0184] 是拼了命的……
 
---- Group [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---G
 あの時は、必死だった
 もんねぇ・・・
 +[FID:86, TEXT:0185] 那时候，
 +[FID:86, TEXT:0186] 确实是拼了命嘛……
 
---- Group [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---G
 あの時は、必死だった
 から・・・
 -[FID:86, TEXT:0185] 那时候，
 +[FID:86, TEXT:0187] 是拼了命啊……
 
---- Group [right:斯塔乌特 next=2012] ---
+--- Group [right:斯塔乌特 next=2012] ---G
 ククク、まあいいさ
 言った以上は、きちん
 と実行してもらうぜ？
@@ -1348,7 +1348,7 @@
 +[FID:86, TEXT:0189] 既然说出口了，
 +[FID:86, TEXT:018A] 就要好好去做哦？
 
---- Group [right:斯塔乌特 next=2012] ---
+--- Group [right:斯塔乌特 next=2012] ---G
 終わらせちまおうや
 お前がお前であるため
 の戦いをな・・・
@@ -1356,7 +1356,7 @@
 +[FID:86, TEXT:018C] 为了你成为你
 +[FID:86, TEXT:018D] 自己的战斗啊……
 
---- Group [right:吉布森 next=2012] ---
+--- Group [right:吉布森 next=2012] ---G
 本当にすまなかった
 一時とはいえ、君たち
 を裏切るような真似を
@@ -1366,7 +1366,7 @@
 +[FID:86, TEXT:0190] 我却做了那样
 +[FID:86, TEXT:0191] 背叛你们的事……
 
---- Group [left:主人公 next=2012] ---
+--- Group [left:主人公 next=2012] ---G
 気にしてないさ
 ギブソンはギブソンな
 りに、俺たちのことを
@@ -1376,7 +1376,7 @@
 +[FID:86, TEXT:0194] 的做法，为我们
 +[FID:86, TEXT:0195] 着想了很多
 
---- Group [left:主人公 next=2012] ---
+--- Group [left:主人公 next=2012] ---G
 ギブソンはギブソンな
 りに、あたしたちのこ
 と考えてくれたんだし
@@ -1384,13 +1384,13 @@
 +[FID:86, TEXT:019F] 的做法，为我们
 +[FID:86, TEXT:01A0] 着想了很多啊
 
---- Group [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---G
 結局、こうなっちゃっ
 たけどさ
 +[FID:86, TEXT:0196] 结果，变成这样
 +[FID:86, TEXT:0197] 了呢
 
---- Group [left:主人公 next=2012] ---
+--- Group [left:主人公 next=2012] ---G
 気にしないでください
 貴方は貴方なりに、僕
 らのことを考えてくれ
@@ -1400,23 +1400,23 @@
 +[FID:86, TEXT:019A] 一直在为我们
 +[FID:86, TEXT:019B] 着想啊
 
---- Group [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---G
 結局、こうなっちゃい
 ましたけどね
 +[FID:86, TEXT:019C] 结果，变成这样
 +[FID:86, TEXT:019D] 了呢
 
---- Group [left:主人公 next=2012] ---
+--- Group [left:主人公 next=2012] ---G
 気にしてないよぉ
 +[FID:86, TEXT:019E] 我没在意啦～
 
---- Group [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---G
 こうなったのは
 結果論ってこと、ね！
 +[FID:86, TEXT:01A1] 会变成这样
 +[FID:86, TEXT:01A2] 也是结果论，对吧！
 
---- Group [left:主人公 next=2012] ---
+--- Group [left:主人公 next=2012] ---G
 いえ、ギブソンさんは
 ギブソンさんなりに
 私たちのことを
@@ -1426,69 +1426,69 @@
 +[FID:86, TEXT:01A5] 一直在为我们
 +[FID:86, TEXT:01A6] 着想呢
 
---- Group [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---G
 結局、こうなってしま
 いましたけど・・・
 +[FID:86, TEXT:01A7] 到头来，还是
 +[FID:86, TEXT:01A8] 变成这样了……
 
---- Group [right:吉布森 next=2012] ---
+--- Group [right:吉布森 next=2012] ---G
 もう迷わない
 私は、君たちを信じる
 +[FID:86, TEXT:01A9] 我不会再犹豫
 +[FID:86, TEXT:01AA] 我相信你们
 
---- Group [right:吉布森 next=0023] ---
+--- Group [right:吉布森 next=0023] ---G
 決着をつけよう
 君とキールの
 +[FID:86, TEXT:01AB] 做个了断吧
 +[FID:86, TEXT:01AD] 你和基尔的
 
---- Group [right:吉布森 next=0023] ---
+--- Group [right:吉布森 next=0023] ---G
 決着をつけよう
 君とカシスの
 -[FID:86, TEXT:01AB] 做个了断吧
 +[FID:86, TEXT:01AE] 你和卡茜丝的
 
---- Group [right:吉布森 next=0023] ---
+--- Group [right:吉布森 next=0023] ---G
 決着をつけよう
 君とクラレットの
 -[FID:86, TEXT:01AB] 做个了断吧
 +[FID:86, TEXT:01AF] 你和克拉蕾特的
 
---- Group [right:吉布森 next=0023] ---
+--- Group [right:吉布森 next=0023] ---G
 決着をつけよう
 君とソルの
 -[FID:86, TEXT:01AB] 做个了断吧
 +[FID:86, TEXT:01AC] 你和索尔的
 
---- Group [right:吉布森 next=2012] ---
+--- Group [right:吉布森 next=2012] ---G
 潔白を証明するために
-+[FID:86, TEXT:01B0] 为了证明清白
++[FID:86, TEXT:01B0] 清白，来证明它吧
 
---- Group [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---G
 ああ！
 +[FID:86, TEXT:01B1] 啊！
 
---- Group [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---G
 ええ！
 +[FID:86, TEXT:01B2] 嗯！
 
---- Group [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---G
 うん！
 +[FID:86, TEXT:01B3] 嗯！
 
---- Group [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---G
 はい！
 +[FID:86, TEXT:01B4] 是！
 
---- Group [right:科莫扎 next=2012] ---
+--- Group [right:科莫扎 next=2012] ---G
 私、ギブソンのこと
 わかってなかった
 +[FID:86, TEXT:01B5] 我对吉布森
 +[FID:86, TEXT:01B6] 一直没弄懂
 
---- Group [right:科莫扎 next=2012] ---
+--- Group [right:科莫扎 next=2012] ---G
 あいつはあいつなり
 に考えて、キミたち
 のためになるように
@@ -1498,7 +1498,7 @@
 +[FID:86, TEXT:01B9] 能有好结果
 +[FID:86, TEXT:01BA] 才那么行动的
 
---- Group [right:科莫扎 next=2012] ---
+--- Group [right:科莫扎 next=2012] ---G
 それなのに、私
 あいつにひどいこと
 言っちゃった
@@ -1506,7 +1506,7 @@
 +[FID:86, TEXT:01BC] 对他说了很过分
 +[FID:86, TEXT:01BD] 的话
 
---- Group [right:科莫扎 next=2012] ---
+--- Group [right:科莫扎 next=2012] ---G
 あはははっ
 これじゃ、相棒失格
 だよね・・・
@@ -1514,57 +1514,57 @@
 +[FID:86, TEXT:01BF] 这样，就不配当搭档
 +[FID:86, TEXT:01C0] 了吧……
 
---- Group [left:主人公 next=2012] ---
+--- Group [left:主人公 next=2012] ---G
 そんなことはないよ
 ミモザはちゃんと、
 ギブソンの気持ちを
 わかってるはずさ
 +[FID:86, TEXT:01C1] 没那回事啦
-+[FID:86, TEXT:01C2] 米莫扎她肯定
++[FID:86, TEXT:01C2] 米莫扎你肯定
 +[FID:86, TEXT:01C3] 明白吉布森的心意
 +[FID:86, TEXT:01C4] 才对
 
---- Group [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---G
 だから、こうやって
 後悔してるんだし
 +[FID:86, TEXT:01C5] 所以，你这样
 +[FID:86, TEXT:01CD] 后悔着呢
 
---- Group [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---G
 だから、こうやって
 後悔してるんだろう？
 -[FID:86, TEXT:01C5] 所以，你这样
 +[FID:86, TEXT:01C6] 后悔着吧？
 
---- Group [left:主人公 next=2012] ---
+--- Group [left:主人公 next=2012] ---G
 そんなことはない
 ミモザはちゃんと、
 ギブソンの気持ちを
 わかってるはずさ
 +[FID:86, TEXT:01C7] 不是那样
--[FID:86, TEXT:01C2] 米莫扎她肯定
+-[FID:86, TEXT:01C2] 米莫扎你肯定
 -[FID:86, TEXT:01C3] 明白吉布森的心意
 -[FID:86, TEXT:01C4] 才对
 
---- Group [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---G
 こうやって後悔してる
 ことが、何よりの証拠
 じゃないか
 +[FID:86, TEXT:01C8] 你这样后悔
-+[FID:86, TEXT:01C9] 这件事，就是最好的证
-+[FID:86, TEXT:01CA] 据不是吗
++[FID:86, TEXT:01C9] 就是最好的证据
++[FID:86, TEXT:01CA] 不是吗
 
---- Group [left:主人公 next=2012] ---
+--- Group [left:主人公 next=2012] ---G
 う〜ん・・・
 ミモザはちゃんと、
 ギブソンの気持ちを
 わかってると思うよ
 +[FID:86, TEXT:01CB] 唔……
--[FID:86, TEXT:01C2] 米莫扎她肯定
+-[FID:86, TEXT:01C2] 米莫扎你肯定
 -[FID:86, TEXT:01C3] 明白吉布森的心意
 +[FID:86, TEXT:01CC] 我觉得是这样
 
---- Group [left:主人公 next=2012] ---
+--- Group [left:主人公 next=2012] ---G
 そんなことありません
 ミモザさんは・・・
 ギブソンさんの気持ち
@@ -1572,27 +1572,27 @@
 +[FID:86, TEXT:01CE] 没有那回事
 +[FID:86, TEXT:01CF] 米莫扎小姐……
 +[FID:86, TEXT:01D0] 吉布森先生的心情
-+[FID:86, TEXT:01D1] 她一定明白
++[FID:86, TEXT:01D1] 你一定明白
 
---- Group [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---G
 だからこそ、こうして
 後悔してるんですから
 +[FID:86, TEXT:01D2] 正因如此，才会
 +[FID:86, TEXT:01D3] 这样后悔呀
 
---- Group [left:主人公 next=2012] ---
+--- Group [left:主人公 next=2012] ---G
 それにギブソンも、
 きっとわかってるよ
 +[FID:86, TEXT:01D4] 而且吉布森也
 +[FID:86, TEXT:01D5] 一定明白的
 
---- Group [left:主人公 next=2012] ---
+--- Group [left:主人公 next=2012] ---G
 それにギブソンも、
 きっとわかってる
 -[FID:86, TEXT:01D4] 而且吉布森也
 +[FID:86, TEXT:01DE] 一定明白
 
---- Group [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---G
 ミモザがミモザなりに
 僕たちのことを考えて
 くれていたことをね
@@ -1600,15 +1600,15 @@
 +[FID:86, TEXT:01DC] 一直在为我们着想
 +[FID:86, TEXT:01DD] 这件事啊
 
---- Group [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---G
 ミモザがミモザなりに
 俺たちのことを思って
 くれたことをさ
 -[FID:86, TEXT:01D6] 米莫扎按自己的方式
 +[FID:86, TEXT:01D7] 一直在为我们着想
-+[FID:86, TEXT:01D8] 这件事嘛
++[FID:86, TEXT:01D8] 这件事哦
 
---- Group [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---G
 ミモザがミモザなりに
 あたしたちのこと
 考えてくれたって
@@ -1616,7 +1616,7 @@
 +[FID:86, TEXT:01DF] 一直在想着我们
 +[FID:86, TEXT:01E0] 这件事呀
 
---- Group [left:主人公 next=2012] ---
+--- Group [left:主人公 next=2012] ---G
 それに彼も、ミモザの
 気持ちをわかっている
 はずだよ
@@ -1624,13 +1624,13 @@
 +[FID:86, TEXT:01DA] 米莫扎的心情
 +[FID:86, TEXT:01DB] 一定是的
 
---- Group [left:主人公 next=2012] ---
+--- Group [left:主人公 next=2012] ---G
 それにギブソンさん
 なら大丈夫です
 +[FID:86, TEXT:01E1] 而且吉布森先生
 +[FID:86, TEXT:01E2] 的话没问题
 
---- Group [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---G
 ミモザさんのこと
 きっと誰よりも
 わかってくれている
@@ -1640,23 +1640,23 @@
 +[FID:86, TEXT:01E5] 更清楚
 +[FID:86, TEXT:01E6] 才对……
 
---- Group [left:主人公 next=2012] ---
+--- Group [left:主人公 next=2012] ---G
 ありがと・・・
 +[FID:86, TEXT:01E7] 谢谢……
 
---- Group [right:科莫扎 next=2012] ---
+--- Group [right:科莫扎 next=2012] ---G
 私、きちんとあいつに
 謝ってくるよ
 +[FID:86, TEXT:01E9] 我，好好地去向那家伙
 +[FID:86, TEXT:01EA] 道歉
 
---- Group [right:伊利亚斯 next=2012] ---
+--- Group [right:伊利亚斯 next=2012] ---G
 君たちを見て、
 自分は思ったよ
 +[FID:86, TEXT:01EB] 看着你们，
 +[FID:86, TEXT:01EC] 我不禁心想
 
---- Group [right:伊利亚斯 next=2012] ---
+--- Group [right:伊利亚斯 next=2012] ---G
 本当にお互いを信じる
 ことができるのなら、
 どんな困難にも向かっ
@@ -1666,7 +1666,7 @@
 +[FID:86, TEXT:01EF] 无论什么困难
 +[FID:86, TEXT:01F0] 都能去面对
 
---- Group [right:伊利亚斯 next=2012] ---
+--- Group [right:伊利亚斯 next=2012] ---G
 召喚術よりも、騎士の
 剣よりも、それは強い
 力なのかもしれない
@@ -1674,17 +1674,17 @@
 +[FID:86, TEXT:01F2] 剑强，那或许是
 +[FID:86, TEXT:01F3] 很强大的力量吧
 
---- Group [right:伊利亚斯 next=2012] ---
+--- Group [right:伊利亚斯 next=2012] ---G
 自分にもあるだろうか
 君たちのような力が？
 +[FID:86, TEXT:01F4] 我是否也有
 +[FID:86, TEXT:01F5] 像你们那样的力量？
 
---- Group [left:主人公 next=2012] ---
+--- Group [left:主人公 next=2012] ---G
 あるよ・・・
 +[FID:86, TEXT:01F6] 有的……
 
---- Group [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---G
 ここにイリアスがいて
 くれることが、
 何よりの証拠だよ
@@ -1692,31 +1692,31 @@
 +[FID:86, TEXT:01F8] 这件事，就是
 +[FID:86, TEXT:01F9] 最好的证据
 
---- Group [left:主人公 next=2012] ---
+--- Group [left:主人公 next=2012] ---G
 あるさ・・・
 +[FID:86, TEXT:01FA] 当然有……
 
---- Group [left:主人公 next=2012] ---
+--- Group [left:主人公 next=2012] ---G
 ありますよ！
 +[FID:86, TEXT:01FB] 有啊！
 
---- Group [left:主人公 next=2012] ---
+--- Group [left:主人公 next=2012] ---G
 イリアス、ここにいて
 くれるでしょ？
 +[FID:86, TEXT:01FC] 伊利亚斯，你会留下来
 +[FID:86, TEXT:01FD] 吧？
 
---- Group [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---G
 だったらイリアスも
 君たちの仲間じゃない
 +[FID:86, TEXT:01FE] 那么伊利亚斯也
-+[FID:86, TEXT:01FF] 是你们的同伴吧？
++[FID:86, TEXT:01FF] 不是你们的同伴吧？
 
---- Group [left:主人公 next=2012] ---
+--- Group [left:主人公 next=2012] ---G
 ありますよ・・・
 +[FID:86, TEXT:0200] 有啊……
 
---- Group [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---G
 ここにイリアスさんが
 いてくれること・・・
 それが何よりの
@@ -1726,31 +1726,31 @@
 +[FID:86, TEXT:0203] 这就是最好的
 +[FID:86, TEXT:0204] 证据啊
 
---- Group [right:伊利亚斯 next=2012] ---
+--- Group [right:伊利亚斯 next=2012] ---G
 @n・・・
 +[FID:86, TEXT:0205] @n……
 
---- Group [right:赛萨里斯 next=2012] ---
+--- Group [right:赛萨里斯 next=2012] ---G
 不思議なものですね
 +[FID:86, TEXT:0206] 真是不可思议呢
 
---- Group [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---G
 え？
 +[FID:86, TEXT:0207] 诶？
 
---- Group [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---G
 なにが、ですか？
 +[FID:86, TEXT:0208] 指的是什么呢？
 
---- Group [right:赛萨里斯 next=2012] ---
+--- Group [right:赛萨里斯 next=2012] ---G
 感情を殺すことが
 強さだと、私はずっと
 信じてきました
-+[FID:86, TEXT:0209] 扼杀感情这件事
-+[FID:86, TEXT:020A] 就是强大，我一直
-+[FID:86, TEXT:020B] 都相信着
++[FID:86, TEXT:0209] 我一直相信着
++[FID:86, TEXT:020A] 扼杀感情
++[FID:86, TEXT:020B] 就是强大
 
---- Group [right:赛萨里斯 next=2012] ---
+--- Group [right:赛萨里斯 next=2012] ---G
 冷静でさえいるのなら
 どんな苦境も耐えられ
 ると思っていたんです
@@ -1758,7 +1758,7 @@
 +[FID:86, TEXT:020D] 再大困境也扛得住
 +[FID:86, TEXT:020E] 我一直这么以为
 
---- Group [right:赛萨里斯 next=2012] ---
+--- Group [right:赛萨里斯 next=2012] ---G
 ですが・・・
 貴方たちを見ていて、
 気がつきました
@@ -1766,7 +1766,7 @@
 +[FID:86, TEXT:0210] 看着你们，
 +[FID:86, TEXT:0211] 我才察觉到
 
---- Group [right:赛萨里斯 next=2012] ---
+--- Group [right:赛萨里斯 next=2012] ---G
 自分の気持ちを大切に
 することと、冷静でい
 ることは違うんですね
@@ -1774,21 +1774,21 @@
 +[FID:86, TEXT:0213] 这件事，与保持冷静
 +[FID:86, TEXT:0214] 是不同的呢
 
---- Group [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---G
 サイサリス・・・
 +[FID:86, TEXT:0215] 赛萨里斯……
 
---- Group [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---G
 サイサリスさん・・・
 +[FID:86, TEXT:0216] 赛萨里斯小姐……
 
---- Group [right:赛萨里斯 next=2012] ---
+--- Group [right:赛萨里斯 next=2012] ---G
 最後まで見届けさせて
 ください
 +[FID:86, TEXT:0217] 让我看到最后
 +[FID:86, TEXT:0218] 拜托了
 
---- Group [right:赛萨里斯 next=2012] ---
+--- Group [right:赛萨里斯 next=2012] ---G
 理屈ではなく、それが
 今の私の心からの願い
 なんです
@@ -1796,7 +1796,7 @@
 +[FID:86, TEXT:021A] 我此刻发自内心的
 +[FID:86, TEXT:021B] 愿望
 
---- Group [right:斯沃恩 next=2012] ---
+--- Group [right:斯沃恩 next=2012] ---G
 たとえ貴方の力が魔王
 のものだったとしても
 貴方は魔王じゃない
@@ -1804,25 +1804,25 @@
 +[FID:86, TEXT:021D] 魔王的也好
 +[FID:86, TEXT:021E] 你也不是魔王
 
---- Group [right:斯沃恩 next=2012] ---
+--- Group [right:斯沃恩 next=2012] ---G
 僕はそう信じてます
 +[FID:86, TEXT:021F] 我是这么相信的
 
---- Group [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---G
 スウォン・・・
 +[FID:86, TEXT:0220] 斯沃恩……
 
---- Group [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---G
 スウォンくん・・・
 +[FID:86, TEXT:0221] 斯沃恩君……
 
---- Group [right:斯沃恩 next=2012] ---
+--- Group [right:斯沃恩 next=2012] ---G
 証明しましょう
 僕たちの手で！
-+[FID:86, TEXT:0222] 证明一下吧
++[FID:86, TEXT:0222] 证明吧
 +[FID:86, TEXT:0223] 用我们的双手！
 
---- Group [right:斯沃恩 next=2012] ---
+--- Group [right:斯沃恩 next=2012] ---G
 貴方がここにいること
 が、ちゃんとした意味
 を持っているって
@@ -1830,7 +1830,7 @@
 +[FID:86, TEXT:0225] 这件事有着真正
 +[FID:86, TEXT:0226] 的意义
 
---- Group [right:艾露卡 next=2012] ---
+--- Group [right:艾露卡 next=2012] ---G
 エルカがここにいるの
 は、あんたがいるから
 ってこと忘れてない？
@@ -1838,7 +1838,7 @@
 +[FID:86, TEXT:0228] 因为有你在这里，这事
 +[FID:86, TEXT:0229] 你没忘吧？
 
---- Group [right:艾露卡 next=2012] ---
+--- Group [right:艾露卡 next=2012] ---G
 あんたには、エルカを
 元の世界に返す責任が
 あるんだからね！？
@@ -1846,21 +1846,21 @@
 +[FID:86, TEXT:022B] 送艾露卡回原来的世界
 +[FID:86, TEXT:022C] 可别忘了！
 
---- Group [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---G
 う、うん・・・
 +[FID:86, TEXT:022D] 唔、嗯……
 
---- Group [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---G
 あ、ああ・・・
 +[FID:86, TEXT:022E] 啊、啊啊……
 
---- Group [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---G
 あ、あ・・・
 そうだった・・・よね
 +[FID:86, TEXT:022F] 啊、啊……
 +[FID:86, TEXT:0230] 是这样……对吧
 
---- Group [right:艾露卡 next=2012] ---
+--- Group [right:艾露卡 next=2012] ---G
 そもそもあんたには
 自覚ってものがなさ
 すぎるのよ
@@ -1868,7 +1868,7 @@
 +[FID:86, TEXT:0233] 太缺乏自觉
 +[FID:86, TEXT:0234] 了呢
 
---- Group [right:艾露卡 next=2012] ---
+--- Group [right:艾露卡 next=2012] ---G
 召喚師の端くれだった
 ら従えている召喚獣の
 気持ちぐらい考えて
@@ -1878,15 +1878,15 @@
 +[FID:86, TEXT:0237] 的召唤兽的心情
 +[FID:86, TEXT:0238] 再行动吧！
 
---- Group [right:艾露卡 next=2012] ---
+--- Group [right:艾露卡 next=2012] ---G
 ・・・っ！
 +[FID:86, TEXT:0239] ……！
 
---- Group [right:艾露卡 next=2012] ---
+--- Group [right:艾露卡 next=2012] ---G
 とっ、とにかくっ！！
 +[FID:86, TEXT:023A] 总、总之！！
 
---- Group [right:艾露卡 next=2012] ---
+--- Group [right:艾露卡 next=2012] ---G
 あんたが魔王だろうと
 なんだろうと、エルカ
 には関係ないんだから
@@ -1894,29 +1894,29 @@
 +[FID:86, TEXT:023C] 还是什么别的，艾露卡
 +[FID:86, TEXT:023D] 根本无所谓
 
---- Group [right:艾露卡 next=2012] ---
+--- Group [right:艾露卡 next=2012] ---G
 約束は約束よっ！
 わかった！？
 +[FID:86, TEXT:023E] 约定就是约定！
 +[FID:86, TEXT:023F] 明白了吗！？
 
---- Group [left:主人公 next=2012] ---
+--- Group [left:主人公 next=2012] ---G
 は、はい・・・
 +[FID:86, TEXT:0240] 是、是的……
 
---- Group [right:风峰 next=2012] ---
+--- Group [right:风峰 next=2012] ---G
 強さにも、いろいろ
 あるのでござるなあ
 +[FID:86, TEXT:0241] 强大也是一样，
 +[FID:86, TEXT:0242] 有各种不同呢
 
---- Group [right:风峰 next=2012] ---
+--- Group [right:风峰 next=2012] ---G
 拙者は剣を磨くことで
 強さを求めておったが
 +[FID:86, TEXT:0243] 在下以磨剑修行
 +[FID:86, TEXT:0244] 一直追求强大但
 
---- Group [right:风峰 next=2012] ---
+--- Group [right:风峰 next=2012] ---G
 一人で極められる強さ
 には、限りがあること
 を学ばせてもらったで
@@ -1926,19 +1926,19 @@
 +[FID:86, TEXT:0247] 这一点在下
 +[FID:86, TEXT:0248] 已经学到了
 
---- Group [right:风峰 next=2012] ---
+--- Group [right:风峰 next=2012] ---G
 お主たちからな
-+[FID:86, TEXT:0249] 正是从你们身上啊
++[FID:86, TEXT:0249] 正是从你们身上学到的
 
---- Group [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---G
 カザミネ・・・
 +[FID:86, TEXT:024A] 风峰……
 
---- Group [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---G
 カザミネさん・・・
 +[FID:86, TEXT:024B] 风峰先生……
 
---- Group [right:风峰 next=2012] ---
+--- Group [right:风峰 next=2012] ---G
 最後まで、
 見届けさせてもらうぞ
 お主たちの心の強さを
@@ -1946,7 +1946,7 @@
 +[FID:86, TEXT:024D] 就让我看到底吧
 +[FID:86, TEXT:024E] 你们内心的强大
 
---- Group [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---G
 エルゴは、俺が魔王の
 力を持っていることに
 気づかなかったのか？
@@ -1954,7 +1954,7 @@
 +[FID:86, TEXT:0250] 发现我拥有
 +[FID:86, TEXT:0251] 魔王之力吗？
 
---- Group [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---G
 エルゴは、僕が魔王の
 力を持っていることに
 気づいてなかったんだ
@@ -1964,7 +1964,7 @@
 +[FID:86, TEXT:0253] 魔王之力
 +[FID:86, TEXT:0254] 吗？
 
---- Group [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---G
 エルゴはさ、あたしが
 魔王の力を持ってるっ
 て気付いてるのかな？
@@ -1972,7 +1972,7 @@
 +[FID:86, TEXT:0256] 注意到我拥有
 +[FID:86, TEXT:0257] 魔王之力呢？
 
---- Group [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---G
 エルゴは、わたしが
 魔王の力を宿している
 こと・・・気付かなか
@@ -1982,11 +1982,11 @@
 +[FID:86, TEXT:025A] 这件事……难道
 +[FID:86, TEXT:025B] 没有注意到吗？
 
---- Group [right:凯娜 next=2012] ---
+--- Group [right:凯娜 next=2012] ---G
 わかりません
 +[FID:86, TEXT:025C] 我不知道
 
---- Group [right:凯娜 next=2012] ---
+--- Group [right:凯娜 next=2012] ---G
 ただ、貴方が選ばれた
 理由は、その力だけで
 はないと私は思います
@@ -1994,7 +1994,7 @@
 +[FID:86, TEXT:025E] 理由，我认为并非
 +[FID:86, TEXT:025F] 仅仅是因为那股力量
 
---- Group [right:凯娜 next=2012] ---
+--- Group [right:凯娜 next=2012] ---G
 貴方が貴方だったから
 エルゴは選んだのでは
 ないでしょうか
@@ -2002,37 +2002,37 @@
 +[FID:86, TEXT:0261] 埃尔戈才会选择您的
 +[FID:86, TEXT:0262] 不是吗
 
---- Group [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---G
 俺が、俺だったから？
 +[FID:86, TEXT:0263] 因为我就是我？
 
---- Group [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---G
 僕が、僕だったから？
 +[FID:86, TEXT:0264] 因为我就是我？
 
---- Group [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---G
 あたしがあたし？
 +[FID:86, TEXT:0265] 因为我是我？
 
---- Group [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---G
 わたしが・・・
 わたしだったから
 +[FID:86, TEXT:0266] 因为我……
 +[FID:86, TEXT:0267] 因为我是我吗
 
---- Group [right:凯娜 next=2012] ---
+--- Group [right:凯娜 next=2012] ---G
 うまく言えませんけど
 私はそう思います
 +[FID:86, TEXT:0268] 虽然不太好表达
 +[FID:86, TEXT:0269] 但我是这么想的
 
---- Group [right:凯娜 next=2012] ---
+--- Group [right:凯娜 next=2012] ---G
 そして、それが間違い
 でないと信じています
 +[FID:86, TEXT:026A] 而且，我相信
 +[FID:86, TEXT:026B] 这个想法不会错
 
---- Group [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---G
 エルゴってさ・・・
 あたしが魔王かもって
 気づかなかったのかな
@@ -2042,11 +2042,11 @@
 +[FID:86, TEXT:026E] 魔王吗
 +[FID:86, TEXT:026F] 你怎么想？
 
---- Group [right:埃尔金 next=2012] ---
+--- Group [right:埃尔金 next=2012] ---G
 ボクにもわかんないよ
 +[FID:86, TEXT:0270] 这我也不知道啊
 
---- Group [right:埃尔金 next=0023] ---
+--- Group [right:埃尔金 next=0023] ---G
 けど、お兄さんが選ば
 れたのは、もっと別の
 理由だと思うな
@@ -2054,7 +2054,7 @@
 +[FID:86, TEXT:0272] 我觉得是出于
 +[FID:86, TEXT:0273] 别的什么理由
 
---- Group [right:埃尔金 next=2012] ---
+--- Group [right:埃尔金 next=2012] ---G
 けど、お姉さんが選ば
 れたのは、もっと別の
 理由だと思うな
@@ -2062,11 +2062,11 @@
 -[FID:86, TEXT:0272] 我觉得是出于
 -[FID:86, TEXT:0273] 别的什么理由
 
---- Group [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---G
 ・・・それは？
 +[FID:86, TEXT:0275] 那是……？
 
---- Group [right:埃尔金 next=2012] ---
+--- Group [right:埃尔金 next=2012] ---G
 エルゴは力のある者を
 選んだんじゃなくて、
 お兄さんを選んだんだ
@@ -2074,7 +2074,7 @@
 +[FID:86, TEXT:0277] 有力量的人，
 +[FID:86, TEXT:0278] 而是选了老哥你啊
 
---- Group [right:埃尔金 next=2012] ---
+--- Group [right:埃尔金 next=2012] ---G
 エルゴは力のある者を
 選んだんじゃなくて、
 お姉さんを選んだんだ
@@ -2082,7 +2082,7 @@
 -[FID:86, TEXT:0277] 有力量的人，
 +[FID:86, TEXT:027C] 而是选了老姐你啊
 
---- Group [right:埃尔金 next=2012] ---
+--- Group [right:埃尔金 next=2012] ---G
 他の誰かじゃなくて、
 お姉さんだから選ばれ
 たんじゃないかな
@@ -2090,7 +2090,7 @@
 +[FID:86, TEXT:027D] 正因为是老姐你
 +[FID:86, TEXT:027B] 才会被选中的吧
 
---- Group [right:埃尔金 next=0023] ---
+--- Group [right:埃尔金 next=0023] ---G
 他の誰かじゃなくて、
 お兄さんだから選ばれ
 たんじゃないかな
@@ -2098,7 +2098,7 @@
 +[FID:86, TEXT:027A] 正因为是老哥你
 -[FID:86, TEXT:027B] 才会被选中的吧
 
---- Group [right:埃斯加尔德 next=2012] ---
+--- Group [right:埃斯加尔德 next=2012] ---G
 私ハ、コノ世界ヲ破壊
 スル兵器トシテ作ラレ
 タ存在ダッタ・・・
@@ -2106,7 +2106,7 @@
 +[FID:86, TEXT:027F] 这个世界的兵器
 +[FID:86, TEXT:0280] 而被制造出来的……
 
---- Group [right:埃斯加尔德 next=2012] ---
+--- Group [right:埃斯加尔德 next=2012] ---G
 シカシ、守護者トシテ
 選バレルコトデ、私ハ
 別ノ存在意義ヲ持テタ
@@ -2114,11 +2114,11 @@
 +[FID:86, TEXT:0282] 守护者，我
 +[FID:86, TEXT:0283] 获得了不同的存在意义
 
---- Group [right:埃斯加尔德 next=2012] ---
+--- Group [right:埃斯加尔德 next=2012] ---G
 貴方ニモ、アルハズダ
 +[FID:86, TEXT:0284] 你也一定，有
 
---- Group [right:埃斯加尔德 next=2012] ---
+--- Group [right:埃斯加尔德 next=2012] ---G
 魔王デモナク、誓約者
 デモナイ・・・
 貴方ダケノ存在意義ガ
@@ -2126,23 +2126,23 @@
 +[FID:86, TEXT:0286] 誓约者……
 +[FID:86, TEXT:0287] 属于你自己的存在意义
 
---- Group [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---G
 俺の、存在意義？
 +[FID:86, TEXT:0288] 我的，存在意义？
 
---- Group [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---G
 僕の、存在意義？
 +[FID:86, TEXT:0289] 我的，存在意义？
 
---- Group [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---G
 あたしの、存在意義？
 +[FID:86, TEXT:028A] 我的，存在意义？
 
---- Group [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---G
 わたしの存在意義？
 +[FID:86, TEXT:028B] 我的存在意义？
 
---- Group [right:埃斯加尔德 next=2012] ---
+--- Group [right:埃斯加尔德 next=2012] ---G
 ソレガキット、貴方ヲ
 強クシテクレル
 私ハ、ソウ思ウ・・・
@@ -2150,19 +2150,19 @@
 +[FID:86, TEXT:028D] 变得更加强大
 +[FID:86, TEXT:028E] 我，是这么想的……
 
---- Group [right:希翁 next=2012] ---
+--- Group [right:希翁 next=2012] ---G
 力というものに善悪は
 存在しません
 +[FID:86, TEXT:028F] 力量这种东西，
 +[FID:86, TEXT:0290] 本身并不存在善恶
 
---- Group [right:希翁 next=2012] ---
+--- Group [right:希翁 next=2012] ---G
 それを決めるのは、
 力を使う者の器量です
 +[FID:86, TEXT:0291] 决定善恶的，
 +[FID:86, TEXT:0292] 是用力量之人的器量
 
---- Group [right:希翁 next=2012] ---
+--- Group [right:希翁 next=2012] ---G
 改めて言わなくても、
 あなたはそれを知って
 いるんでしょうがね
@@ -2170,17 +2170,17 @@
 +[FID:86, TEXT:0294] 这件事你应该
 +[FID:86, TEXT:0295] 也是知道的吧
 
---- Group [left:主人公 next=2012] ---
+--- Group [left:主人公 next=2012] ---G
 そうでしょうか？
 +[FID:86, TEXT:0296] 是这样吗？
 
---- Group [right:希翁 next=2012] ---
+--- Group [right:希翁 next=2012] ---G
 私やアカネさんは
 そう信じていますよ
 +[FID:86, TEXT:0297] 我和茜小姐
 +[FID:86, TEXT:0298] 都是这么相信的哦
 
---- Group [right:希翁 next=2012] ---
+--- Group [right:希翁 next=2012] ---G
 貴方ならば私たち忍び
 の力をまちがった方向
 に使うことはないはず
@@ -2190,11 +2190,11 @@
 +[FID:86, TEXT:029B] 力量用在错误的方向上
 +[FID:86, TEXT:029C] 我们是这么认为的……
 
---- Group [left:主人公 next=2012] ---
+--- Group [left:主人公 next=2012] ---G
 シオンさん・・・
 +[FID:86, TEXT:029D] 希翁先生……
 
---- Group [right:希翁 next=2012] ---
+--- Group [right:希翁 next=2012] ---G
 この戦いの結末がどの
 ようなものになろうと
 決して後悔しないよう
@@ -2204,13 +2204,13 @@
 +[FID:86, TEXT:02A0] 都绝不要后悔
 +[FID:86, TEXT:02A1] 让我们一起努力吧
 
---- Group [right:希翁 next=2012] ---
+--- Group [right:希翁 next=2012] ---G
 私が望んでいるのは
 ただ、それだけですよ
 +[FID:86, TEXT:02A2] 我所期望的
 +[FID:86, TEXT:02A3] 仅此而已啊
 
---- Group [right:索尔 next=2012] ---
+--- Group [right:索尔 next=2012] ---G
 こんなふうにまたお前
 と話ができるなんて思
 いもしなかったよ
@@ -2218,33 +2218,33 @@
 +[FID:86, TEXT:02A5] 再次和你说话
 +[FID:86, TEXT:02A6] 我想都没想过
 
---- Group [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---G
 ああ・・・
 頼りにしてるぜ？
 +[FID:86, TEXT:02A7] 啊……
 +[FID:86, TEXT:04F8] 我可全靠你了？
 
---- Group [right:加泽尔 next=2012] ---
+--- Group [right:加泽尔 next=2012] ---G
 ああ・・・
 俺もさ・・・
 -[FID:86, TEXT:02A7] 啊……
 +[FID:86, TEXT:042E] 我也是啊……
 
---- Group [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---G
 ああ・・・
 そうだな・・・
 -[FID:86, TEXT:02A7] 啊……
 +[FID:86, TEXT:0317] 是啊……
 
---- Group [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---G
 うん、そうだね
 +[FID:86, TEXT:02A8] 嗯，说得也是
 
---- Group [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---G
 ええ・・・
 +[FID:86, TEXT:02A9] 嗯……
 
---- Group [right:索尔 next=2012] ---
+--- Group [right:索尔 next=2012] ---G
 お前が全てを知った時
 どうなるのかがずっと
 こわかった・・・
@@ -2252,43 +2252,43 @@
 +[FID:86, TEXT:02AB] 会变成什么样，一直
 +[FID:86, TEXT:02AC] 感到害怕……
 
---- Group [right:索尔 next=2012] ---
+--- Group [right:索尔 next=2012] ---G
 きっとお前は俺のこと
 を恨むだろうと思って
 いたんだ
 +[FID:86, TEXT:02AD] 你一定会恨我吧，
 +[FID:86, TEXT:02AE] 我一直是这么
-+[FID:86, TEXT:02AF] 想的。
++[FID:86, TEXT:02AF] 想的
 
---- Group [right:索尔 next=2012] ---
+--- Group [right:索尔 next=2012] ---G
 でもお前は俺に優しい
 言葉をかけてくれた
-+[FID:86, TEXT:02B0] 可是你却对我很温柔
-+[FID:86, TEXT:02B1] 对我说了话
++[FID:86, TEXT:02B0] 可是你却对我说了
++[FID:86, TEXT:02B1] 很温柔的话
 
---- Group [right:索尔 next=2012] ---
+--- Group [right:索尔 next=2012] ---G
 どうしてだ？
 +[FID:86, TEXT:02B2] 为什么？
 
---- Group [right:索尔 next=2012] ---
+--- Group [right:索尔 next=2012] ---G
 俺はずっとお前に嘘を
 ついていたのに・・・
 +[FID:86, TEXT:02B3] 我明明一直在对你
 +[FID:86, TEXT:02B4] 说谎的……
 
---- Group [left:主人公 next=2012] ---
+--- Group [left:主人公 next=2012] ---G
 嘘だけじゃなかったか
 らだよ
 +[FID:86, TEXT:02B5] 因为不全是谎言
 +[FID:86, TEXT:0351] 啊
 
---- Group [left:主人公 next=2012] ---
+--- Group [left:主人公 next=2012] ---G
 嘘だけじゃなかったか
 らさ
 -[FID:86, TEXT:02B5] 因为不全是谎言
 +[FID:86, TEXT:02B6] 呀
 
---- Group [left:主人公 next=2012] ---
+--- Group [left:主人公 next=2012] ---G
 たしかに君は、僕らに
 嘘をついてきたのかも
 しれない
@@ -2296,7 +2296,7 @@
 +[FID:86, TEXT:02B8] 撒了谎
 +[FID:86, TEXT:02B9] 也说不定
 
---- Group [left:主人公 next=2012] ---
+--- Group [left:主人公 next=2012] ---G
 だけどそれ以上に、君
 は仲間として、僕たち
 のことを助けてくれた
@@ -2306,31 +2306,31 @@
 +[FID:86, TEXT:02BC] 伸出了援手
 +[FID:86, TEXT:02BD] 对吧
 
---- Group [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---G
 だから、僕は君のこと
 を信じられる
 +[FID:86, TEXT:02BE] 所以，你的事
 +[FID:86, TEXT:02BF] 我能够相信
 
---- Group [left:主人公 next=2012] ---
+--- Group [left:主人公 next=2012] ---G
 嘘だけじゃなかった
 からさ
 +[FID:86, TEXT:02C0] 因为不全是谎言
 +[FID:86, TEXT:037E] 啊
 
---- Group [left:主人公 next=2012] ---
+--- Group [left:主人公 next=2012] ---G
 嘘だけじゃなかった
 ・・・からかな？
 -[FID:86, TEXT:02C0] 因为不全是谎言
 +[FID:86, TEXT:02C1] 是因为这个吗？
 
---- Group [left:主人公 next=2012] ---
+--- Group [left:主人公 next=2012] ---G
 嘘だけじゃなかった
 からだよ
 -[FID:86, TEXT:02C0] 因为不全是谎言
 +[FID:86, TEXT:031C] 啊
 
---- Group [left:主人公 next=2012] ---
+--- Group [left:主人公 next=2012] ---G
 たしかに君は、あたし
 に嘘をついてきたのか
 もしれないけど
@@ -2338,7 +2338,7 @@
 +[FID:86, TEXT:02C3] 也许撒了谎
 +[FID:86, TEXT:02C4] 不过
 
---- Group [left:主人公 next=2012] ---
+--- Group [left:主人公 next=2012] ---G
 でもさ、それ以上に
 仲間としてあたしたち
 のことを助けてくれた
@@ -2346,19 +2346,19 @@
 +[FID:86, TEXT:02C6] 作为伙伴对我们
 -[FID:86, TEXT:02BC] 伸出了援手
 
---- Group [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---G
 だからね、あたしは君
 のことを信じられる
 +[FID:86, TEXT:02C7] 所以啊，我
 +[FID:86, TEXT:02C8] 能够相信你
 
---- Group [left:主人公 next=2012] ---
+--- Group [left:主人公 next=2012] ---G
 多分、嘘だけじゃなか
 ったからです・・・
 +[FID:86, TEXT:02C9] 大概是因为
 +[FID:86, TEXT:02CA] 不全是谎言吧……
 
---- Group [left:主人公 next=2012] ---
+--- Group [left:主人公 next=2012] ---G
 たしかに貴方は私たち
 に嘘をついていたのか
 もしれません
@@ -2366,7 +2366,7 @@
 +[FID:86, TEXT:02CC] 撒了谎
 -[FID:86, TEXT:0169] 也说不定
 
---- Group [left:主人公 next=2012] ---
+--- Group [left:主人公 next=2012] ---G
 でも、それよりも貴方
 は仲間として、私たち
 のことを何度も助けて
@@ -2376,13 +2376,13 @@
 +[FID:86, TEXT:02CF] 多次帮助我们
 +[FID:86, TEXT:02D0] 了
 
---- Group [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---G
 私は、そうしてくれた
 貴方のことを信じます
 +[FID:86, TEXT:02D1] 我相信那个
 +[FID:86, TEXT:02D2] 帮助了我的您
 
---- Group [right:索尔 next=2012] ---
+--- Group [right:索尔 next=2012] ---G
 俺は・・・
 お前と出会えて
 良かった、本当に・・
@@ -2390,11 +2390,11 @@
 +[FID:86, TEXT:02D4] 能遇到你
 +[FID:86, TEXT:02D5] 太好了，真的……
 
---- Group [left:主人公 next=2012] ---
+--- Group [left:主人公 next=2012] ---G
 それは僕も同じさ
 +[FID:86, TEXT:02D6] 我也一样啊
 
---- Group [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---G
 君がいてくれたから、
 一人じゃなかったから
 僕はこの力の重みに耐
@@ -2404,7 +2404,7 @@
 +[FID:86, TEXT:02D9] 我才能承受住这份
 +[FID:86, TEXT:02DA] 力量的重负
 
---- Group [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---G
 君がいてくれたから、
 一人じゃなかったから
 こうして笑っていられ
@@ -2414,15 +2414,15 @@
 +[FID:86, TEXT:02DC] 我才能像这样笑着
 +[FID:86, TEXT:02DD] 嘛
 
---- Group [left:主人公 next=2012] ---
+--- Group [left:主人公 next=2012] ---G
 あたしも同じだよ
 +[FID:86, TEXT:02DB] 我也一样啊
 
---- Group [left:主人公 next=2012] ---
+--- Group [left:主人公 next=2012] ---G
 私もですよ
 +[FID:86, TEXT:02DE] 我也一样哦
 
---- Group [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---G
 貴方が側にいてくれな
 かったら、きっと私、
 途方に暮れて泣いてい
@@ -2432,11 +2432,11 @@
 +[FID:86, TEXT:02E1] 大概会不知所措
 +[FID:86, TEXT:02E2] 地哭了吧
 
---- Group [right:基尔 next=2012] ---
+--- Group [right:基尔 next=2012] ---G
 ・・・覚えてるか？
 +[FID:86, TEXT:02E3] 你还记得吗……？
 
---- Group [right:索尔 next=2012] ---
+--- Group [right:索尔 next=2012] ---G
 二人で儀式の跡を調べ
 に行った時、お前が俺
 にたずねたことを
@@ -2444,7 +2444,7 @@
 +[FID:86, TEXT:02E5] 的时候，你问我的
 +[FID:86, TEXT:02E6] 那件事
 
---- Group [right:基尔 next=2012] ---
+--- Group [right:基尔 next=2012] ---G
 二人で儀式の跡を調べ
 に行った時、君が僕に
 たずねたことを
@@ -2452,7 +2452,7 @@
 +[FID:86, TEXT:0332] 的时候，你向我
 +[FID:86, TEXT:0333] 问起的那件事
 
---- Group [right:克拉雷特 next=2012] ---
+--- Group [right:克拉雷特 next=2012] ---G
 二人で儀式の跡を調べ
 に行った時、
 たずねたことを
@@ -2460,7 +2460,7 @@
 +[FID:86, TEXT:0384] 的时候
 -[FID:86, TEXT:0333] 问起的那件事
 
---- Group [right:卡西斯 next=2012] ---
+--- Group [right:卡西斯 next=2012] ---G
 二人で儀式の跡を調べ
 に行った時、キミが
 たずねたこと
@@ -2468,7 +2468,7 @@
 +[FID:86, TEXT:0359] 的时候，你
 +[FID:86, TEXT:035A] 问的那件事
 
---- Group [right:索尔 next=2012] ---
+--- Group [right:索尔 next=2012] ---G
 お前がこの世界に
 呼ばれた時、
 助けを求める声が
@@ -2478,25 +2478,25 @@
 +[FID:86, TEXT:02E9] 听到了求救
 +[FID:86, TEXT:02EA] 的声音……
 
---- Group [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---G
 ああ、覚えてるよ
 +[FID:86, TEXT:02EB] 啊，我记得
 
---- Group [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---G
 うん、覚えてる
 +[FID:86, TEXT:02EC] 嗯，我记得
 
---- Group [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---G
 はい、覚えてます
 +[FID:86, TEXT:02ED] 是的，我记得
 
---- Group [right:索尔 next=2012] ---
+--- Group [right:索尔 next=2012] ---G
 俺は儀式をしながら、
 ずっと悩み続けていた
 +[FID:86, TEXT:02EE] 我一边进行仪式，
 +[FID:86, TEXT:02EF] 一直在烦恼着
 
---- Group [right:索尔 next=2012] ---
+--- Group [right:索尔 next=2012] ---G
 自分のやっていること
 が正しいことなのか
 本当に世界を滅ぼして
@@ -2506,7 +2506,7 @@
 +[FID:86, TEXT:02F2] 真的可以把
 +[FID:86, TEXT:02F3] 世界毁灭掉吗？
 
---- Group [right:索尔 next=2012] ---
+--- Group [right:索尔 next=2012] ---G
 答えを出せずに、俺は
 心の中で悲鳴をあげて
 いたんだよ・・・
@@ -2514,15 +2514,15 @@
 +[FID:86, TEXT:02F5] 心中悲鸣
 +[FID:86, TEXT:02F6] 不已
 
---- Group [right:基尔 next=2012] ---
+--- Group [right:基尔 next=2012] ---G
 助けてくれ、って
 +[FID:86, TEXT:02F7] 救救我
 
---- Group [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---G
 それじゃ・・・
 +[FID:86, TEXT:02F8] 那么……
 
---- Group [right:索尔 next=2012] ---
+--- Group [right:索尔 next=2012] ---G
 お前が聞いたのは俺の
 心の叫びだったのかも
 しれない・・・
@@ -2530,13 +2530,13 @@
 +[FID:86, TEXT:02FA] 也许是我内心的呐喊
 +[FID:86, TEXT:02FB] 吧……
 
---- Group [right:索尔 next=2012] ---
+--- Group [right:索尔 next=2012] ---G
 そしてお前はその声に
 応えてくれたんだ
 +[FID:86, TEXT:02FC] 而你对那个声音
 +[FID:86, TEXT:02FD] 做出了回应
 
---- Group [right:克拉雷特 next=2012] ---
+--- Group [right:克拉雷特 next=2012] ---G
 本当にありがとう
 あなたがいたから
 私は本当の私を知る
@@ -2546,7 +2546,7 @@
 +[FID:86, TEXT:0393] 我才能认识到
 +[FID:86, TEXT:0394] 真正的自己
 
---- Group [right:卡西斯 next=2012] ---
+--- Group [right:卡西斯 next=2012] ---G
 本当にありがとう
 キミがいなかったら
 あたし、本当の自分に
@@ -2556,7 +2556,7 @@
 +[FID:86, TEXT:0369] 我，可能遇不到
 +[FID:86, TEXT:036A] 真正的自己
 
---- Group [right:索尔 next=2012] ---
+--- Group [right:索尔 next=2012] ---G
 本当にありがとう
 お前が来てくれたから
 俺は本当の俺に出会う
@@ -2566,7 +2566,7 @@
 +[FID:86, TEXT:0300] 我才能遇见
 +[FID:86, TEXT:0301] 真正的我
 
---- Group [right:基尔 next=2012] ---
+--- Group [right:基尔 next=2012] ---G
 本当にありがとう
 君が来てくれたから、
 僕は本当の僕に出会う
@@ -2576,15 +2576,15 @@
 +[FID:86, TEXT:033C] 我才能遇见
 -[FID:86, TEXT:0301] 真正的我
 
---- Group [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---G
 ソルさん・・・
 +[FID:86, TEXT:0302] 索尔先生……
 
---- Group [left:主人公 next=2012] ---
+--- Group [left:主人公 next=2012] ---G
 ソル・・・
 +[FID:86, TEXT:0303] 索尔……
 
---- Group [right:基尔 next=2012] ---
+--- Group [right:基尔 next=2012] ---G
 だから、約束するよ
 絶対に君を元の世界に
 帰してみせるって
@@ -2592,7 +2592,7 @@
 +[FID:86, TEXT:033F] 一定把你送回
 +[FID:86, TEXT:0340] 原来的世界
 
---- Group [right:索尔 next=2012] ---
+--- Group [right:索尔 next=2012] ---G
 だから、約束するよ
 絶対にお前を元の世界
 に帰してみせるって
@@ -2600,7 +2600,7 @@
 +[FID:86, TEXT:0305] 一定把你送回
 +[FID:86, TEXT:0306] 原来的世界
 
---- Group [right:索尔 next=2012] ---
+--- Group [right:索尔 next=2012] ---G
 お前がそうしてくれた
 ように、今度は俺が
 お前を守ってみせる！
@@ -2608,11 +2608,11 @@
 +[FID:86, TEXT:0308] 那样，这次由我
 +[FID:86, TEXT:0309] 来保护你！
 
---- Group [left:主人公 next=2012] ---
+--- Group [left:主人公 next=2012] ---G
 僕も今、ここで誓うよ
 +[FID:86, TEXT:030A] 我现在也在这里发誓
 
---- Group [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---G
 この先どんなことがあ
 ったって、最後まで君
 を守ってみせるからね
@@ -2620,7 +2620,7 @@
 +[FID:86, TEXT:030F] 什么，我都会
 +[FID:86, TEXT:0310] 保护你到最后
 
---- Group [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---G
 この先どんなことがあ
 ったとしても、最後ま
 で君を守るって・・・
@@ -2628,7 +2628,7 @@
 +[FID:86, TEXT:030C] 什么，我都会
 +[FID:86, TEXT:030D] 守护你到最后……
 
---- Group [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---G
 この先どんなことがあ
 っても、最後まで私は
 貴方の側にいますから
@@ -2636,15 +2636,15 @@
 +[FID:86, TEXT:0312] 什么，我都会
 +[FID:86, TEXT:0313] 一直陪在你身边
 
---- Group [left:主人公 next=2012] ---
+--- Group [left:主人公 next=2012] ---G
 あたしも、約束する！
 +[FID:86, TEXT:030E] 我也保证！
 
---- Group [left:主人公 next=2012] ---
+--- Group [left:主人公 next=2012] ---G
 私も、貴方を守りたい
 +[FID:86, TEXT:0311] 我也想守护你
 
---- Group [right:基尔 next=2012] ---
+--- Group [right:基尔 next=2012] ---G
 こんなふうにまた、
 君と話ができるなんて
 思いもしなかったよ
@@ -2652,7 +2652,7 @@
 +[FID:86, TEXT:0315] 和你说话
 +[FID:86, TEXT:0316] 我想都没想过
 
---- Group [right:克拉雷特 next=2012] ---
+--- Group [right:克拉雷特 next=2012] ---G
 こんなふうにまた、
 あなたと話ができる
 なんて思っても
@@ -2662,35 +2662,35 @@
 +[FID:86, TEXT:0373] 这种事
 +[FID:86, TEXT:0374] 我想都没想过
 
---- Group [right:基尔 next=2012] ---
+--- Group [right:基尔 next=2012] ---G
 君が全てを知った時、
 どうなるのかがずっと
 こわかった・・・
-+[FID:86, TEXT:0318] 当你知道了
++[FID:86, TEXT:0318] 当你知道了一切
 -[FID:86, TEXT:02AB] 会变成什么样，一直
 -[FID:86, TEXT:02AC] 感到害怕……
 
---- Group [right:基尔 next=2012] ---
+--- Group [right:基尔 next=2012] ---G
 きっと君は、僕のこと
 を恨むだろうと思って
 いたんだ
 +[FID:86, TEXT:0319] 你一定会恨我吧，
 -[FID:86, TEXT:02AE] 我一直是这么
--[FID:86, TEXT:02AF] 想的。
+-[FID:86, TEXT:02AF] 想的
 
---- Group [right:基尔 next=2012] ---
+--- Group [right:基尔 next=2012] ---G
 でも、君は僕に優しい
 言葉をかけてくれた
-+[FID:86, TEXT:031A] 可是你却对我很温柔
--[FID:86, TEXT:02B1] 对我说了话
++[FID:86, TEXT:031A] 可是你却对我说了
+-[FID:86, TEXT:02B1] 很温柔的话
 
---- Group [right:基尔 next=2012] ---
+--- Group [right:基尔 next=2012] ---G
 僕はずっと君に、嘘を
 ついていたのに・・・
 +[FID:86, TEXT:031B] 我明明一直对你
 -[FID:86, TEXT:02B4] 说谎的……
 
---- Group [left:主人公 next=2012] ---
+--- Group [left:主人公 next=2012] ---G
 たしかに君は、俺たち
 に嘘をついてきたかも
 しれない
@@ -2698,7 +2698,7 @@
 +[FID:86, TEXT:031E] 撒谎了
 -[FID:86, TEXT:02B9] 也说不定
 
---- Group [left:主人公 next=2012] ---
+--- Group [left:主人公 next=2012] ---G
 だけど君は、それとは
 別に、俺たちを仲間と
 して助けてくれたじゃ
@@ -2708,7 +2708,7 @@
 +[FID:86, TEXT:0321] 不也把我们当伙伴
 +[FID:86, TEXT:0322] 帮助了吗？
 
---- Group [left:主人公 next=2012] ---
+--- Group [left:主人公 next=2012] ---G
 きっかけは嘘だったと
 しても、君が俺たちに
 くれた優しさは本当の
@@ -2718,13 +2718,13 @@
 +[FID:86, TEXT:0325] 我们的温柔
 +[FID:86, TEXT:0326] 我觉得是真的
 
---- Group [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---G
 だから、俺は君のこと
 を信じられるんだ
 +[FID:86, TEXT:0327] 所以，我能相信
 +[FID:86, TEXT:0328] 你
 
---- Group [right:基尔 next=2012] ---
+--- Group [right:基尔 next=2012] ---G
 僕は・・・
 君と出会えて良かった
 本当に・・・
@@ -2732,13 +2732,13 @@
 +[FID:86, TEXT:032A] 能遇见你真好
 +[FID:86, TEXT:032B] 真的……
 
---- Group [left:主人公 next=2012] ---
+--- Group [left:主人公 next=2012] ---G
 感謝するのは
 俺のほうだって！
 +[FID:86, TEXT:032C] 该感谢的
 +[FID:86, TEXT:032D] 是我才对吧！
 
---- Group [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---G
 君と出会わなかったら
 俺はきっと、この力の
 重みに耐えられなかっ
@@ -2748,7 +2748,7 @@
 +[FID:86, TEXT:0330] 的重量会让我
 +[FID:86, TEXT:0331] 承受不住吧
 
---- Group [right:基尔 next=2012] ---
+--- Group [right:基尔 next=2012] ---G
 君がこの世界に呼ばれ
 た時、助けを求める声
 が聞こえたって・・・
@@ -2756,13 +2756,13 @@
 +[FID:86, TEXT:0335] 这个世界时，
 +[FID:86, TEXT:0336] 听到了求救的声音……
 
---- Group [right:基尔 next=2012] ---
+--- Group [right:基尔 next=2012] ---G
 僕は儀式をしながら、
 ずっと悩み続けていた
 +[FID:86, TEXT:0337] 我一边进行仪式，
 -[FID:86, TEXT:02EF] 一直在烦恼着
 
---- Group [right:基尔 next=2012] ---
+--- Group [right:基尔 next=2012] ---G
 答えを出せずに、僕は
 心の中で悲鳴をあげて
 いたんだよ・・・
@@ -2770,7 +2770,7 @@
 -[FID:86, TEXT:02F5] 心中悲鸣
 -[FID:86, TEXT:02F6] 不已
 
---- Group [right:基尔 next=2012] ---
+--- Group [right:基尔 next=2012] ---G
 君が聞いたのは、僕の
 心の叫びだったのかも
 しれない・・・
@@ -2778,21 +2778,21 @@
 -[FID:86, TEXT:02FA] 也许是我内心的呐喊
 -[FID:86, TEXT:02FB] 吧……
 
---- Group [right:基尔 next=2012] ---
+--- Group [right:基尔 next=2012] ---G
 そして、君はその声に
 応えてくれたんだ
 +[FID:86, TEXT:033A] 然后，你对那个声音
 -[FID:86, TEXT:02FD] 做出了回应
 
---- Group [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---G
 キールさん・・・
 +[FID:86, TEXT:033D] 基尔先生……
 
---- Group [left:主人公 next=2012] ---
+--- Group [left:主人公 next=2012] ---G
 キール・・・
 +[FID:86, TEXT:033E] 基尔……
 
---- Group [right:基尔 next=2012] ---
+--- Group [right:基尔 next=2012] ---G
 君がそうしてくれたよ
 うに、今度は僕が君を
 守ってみせる！！
@@ -2800,11 +2800,11 @@
 +[FID:86, TEXT:0342] 的那样，这次由我
 +[FID:86, TEXT:0343] 来保护你！！
 
---- Group [left:主人公 next=2012] ---
+--- Group [left:主人公 next=2012] ---G
 俺も、約束するよ
 +[FID:86, TEXT:0344] 我也答应你
 
---- Group [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---G
 何があっても絶対に、
 俺は君のことを守って
 みせるって！！
@@ -2812,7 +2812,7 @@
 +[FID:86, TEXT:0346] 我绝对会保护好
 +[FID:86, TEXT:0347] 你的！！
 
---- Group [right:卡西斯 next=2012] ---
+--- Group [right:卡西斯 next=2012] ---G
 こんなふうにまた
 話ができるなんて
 思いもしなかったよ
@@ -2820,7 +2820,7 @@
 +[FID:86, TEXT:0349] 和你说话
 -[FID:86, TEXT:0316] 我想都没想过
 
---- Group [right:卡西斯 next=2012] ---
+--- Group [right:卡西斯 next=2012] ---G
 あたし・・・キミが
 全てを知った時
 どうなるのかがずっと
@@ -2830,35 +2830,35 @@
 -[FID:86, TEXT:02AB] 会变成什么样，一直
 -[FID:86, TEXT:02AC] 感到害怕……
 
---- Group [right:卡西斯 next=2012] ---
+--- Group [right:卡西斯 next=2012] ---G
 きっと、あたしのこと
 恨むって思ってた
 +[FID:86, TEXT:034C] 我想，你
-+[FID:86, TEXT:034D] 一定会恨
++[FID:86, TEXT:034D] 一定会恨我
 
---- Group [right:卡西斯 next=2012] ---
+--- Group [right:卡西斯 next=2012] ---G
 でも、キミは優しい
 言葉をかけてくれた
-+[FID:86, TEXT:034E] 但是，你对我很温柔
--[FID:86, TEXT:02B1] 对我说了话
++[FID:86, TEXT:034E] 但是，你对我说了
+-[FID:86, TEXT:02B1] 很温柔的话
 
---- Group [right:卡西斯 next=2012] ---
+--- Group [right:卡西斯 next=2012] ---G
 なぜ？
 +[FID:86, TEXT:034F] 为什么？
 
---- Group [right:卡西斯 next=2012] ---
+--- Group [right:卡西斯 next=2012] ---G
 あたし、ずっと、嘘を
 ついていたのに・・・
 +[FID:86, TEXT:0350] 我明明一直在
 -[FID:86, TEXT:02B4] 说谎的……
 
---- Group [right:卡西斯 next=2012] ---
+--- Group [right:卡西斯 next=2012] ---G
 ありがと
 @n
 +[FID:86, TEXT:0352] 谢谢
 -[FID:86, TEXT:01E8] @n
 
---- Group [right:卡西斯 next=2012] ---
+--- Group [right:卡西斯 next=2012] ---G
 あたし・・・
 キミに会えて
 ・・・良かった
@@ -2866,17 +2866,17 @@
 +[FID:86, TEXT:0354] 能遇见你……
 +[FID:86, TEXT:0355] 真好
 
---- Group [left:主人公 next=2012] ---
+--- Group [left:主人公 next=2012] ---G
 感謝するのは俺のほう
 だって！
 +[FID:86, TEXT:0356] 该感谢的是我
 +[FID:86, TEXT:0357] 才对！
 
---- Group [right:卡西斯 next=2012] ---
+--- Group [right:卡西斯 next=2012] ---G
 ・・・覚えてる？
-+[FID:86, TEXT:0358] 你还记得……？
++[FID:86, TEXT:0358] ……还记得吗？
 
---- Group [right:卡西斯 next=2012] ---
+--- Group [right:卡西斯 next=2012] ---G
 キミが・・・
 この世界に呼ばれた時
 助けを求める声が聞こ
@@ -2886,17 +2886,17 @@
 +[FID:86, TEXT:035D] 时候听到了求救声
 +[FID:86, TEXT:035E] 你是这么说的
 
---- Group [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---G
 ええ、覚えてます
 +[FID:86, TEXT:035F] 嗯，我记得
 
---- Group [right:卡西斯 next=2012] ---
+--- Group [right:卡西斯 next=2012] ---G
 あたし、儀式の間
 ずっと悩み続けていた
 +[FID:86, TEXT:0360] 我在仪式期间
 -[FID:86, TEXT:02EF] 一直在烦恼着
 
---- Group [right:卡西斯 next=2012] ---
+--- Group [right:卡西斯 next=2012] ---G
 答えを出せずに
 心の中で悲鳴をあげて
 いたの・・・
@@ -2904,7 +2904,7 @@
 -[FID:86, TEXT:02F5] 心中悲鸣
 +[FID:86, TEXT:0362] 着……
 
---- Group [right:克拉雷特 next=2012] ---
+--- Group [right:克拉雷特 next=2012] ---G
 答えを出せずに
 心の中で悲鳴をあげて
 いたんです・・・
@@ -2912,11 +2912,11 @@
 -[FID:86, TEXT:02F5] 心中悲鸣
 +[FID:86, TEXT:038C] 着呢……
 
---- Group [right:卡西斯 next=2012] ---
+--- Group [right:卡西斯 next=2012] ---G
 助けてって・・・
 +[FID:86, TEXT:0363] 救救我……
 
---- Group [right:卡西斯 next=2012] ---
+--- Group [right:卡西斯 next=2012] ---G
 あたしの・・・
 心の叫びだったのかも
 しれない・・・
@@ -2924,7 +2924,7 @@
 -[FID:86, TEXT:02FA] 也许是我内心的呐喊
 -[FID:86, TEXT:02FB] 吧……
 
---- Group [right:卡西斯 next=2012] ---
+--- Group [right:卡西斯 next=2012] ---G
 思い込みかもしれない
 でも、キミは
 答えてくれた
@@ -2932,15 +2932,15 @@
 +[FID:86, TEXT:0366] 但是，你
 +[FID:86, TEXT:0367] 回应了我
 
---- Group [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---G
 カシスさん・・・
 +[FID:86, TEXT:036B] 卡茜丝小姐……
 
---- Group [left:主人公 next=2012] ---
+--- Group [left:主人公 next=2012] ---G
 カシス・・・
 +[FID:86, TEXT:036C] 卡茜丝……
 
---- Group [right:卡西斯 next=2012] ---
+--- Group [right:卡西斯 next=2012] ---G
 だから、約束する
 絶対にキミを元の
 世界に帰すって！
@@ -2948,7 +2948,7 @@
 +[FID:86, TEXT:036E] 绝对要把你送回
 +[FID:86, TEXT:036F] 原来的世界！
 
---- Group [right:卡西斯 next=2012] ---
+--- Group [right:卡西斯 next=2012] ---G
 こんどは
 あたしがキミを
 守ってみせる！！
@@ -2956,7 +2956,7 @@
 +[FID:86, TEXT:0371] 由我
 -[FID:86, TEXT:0343] 来保护你！！
 
---- Group [right:克拉雷特 next=2012] ---
+--- Group [right:克拉雷特 next=2012] ---G
 私・・・
 あなたが全てを知って
 どうなるのかがずっと
@@ -2966,7 +2966,7 @@
 -[FID:86, TEXT:02AB] 会变成什么样，一直
 -[FID:86, TEXT:02AC] 感到害怕……
 
---- Group [right:克拉雷特 next=2012] ---
+--- Group [right:克拉雷特 next=2012] ---G
 私・・・
 あなたに会えて・・・
 本当に・・・良かった
@@ -2974,7 +2974,7 @@
 +[FID:86, TEXT:0381] 能遇见你……
 +[FID:86, TEXT:0382] 真的……太好了
 
---- Group [right:克拉雷特 next=2012] ---
+--- Group [right:克拉雷特 next=2012] ---G
 きっとあなたは、私を
 恨むだろうと思って
 いました
@@ -2982,7 +2982,7 @@
 +[FID:86, TEXT:0378] 一定会恨
 +[FID:86, TEXT:0379] 我的
 
---- Group [right:克拉雷特 next=2012] ---
+--- Group [right:克拉雷特 next=2012] ---G
 でも、あなたは優しい
 言葉をかけて
 くれました
@@ -2990,27 +2990,27 @@
 +[FID:86, TEXT:037B] 话语对我说
 -[FID:86, TEXT:02D0] 了
 
---- Group [right:克拉雷特 next=2012] ---
+--- Group [right:克拉雷特 next=2012] ---G
 何故・・・ですか？
 +[FID:86, TEXT:037C] 为什么……呢？
 
---- Group [right:克拉雷特 next=2012] ---
+--- Group [right:克拉雷特 next=2012] ---G
 わたしは、ずっと嘘を
 ついていたのに・・・
 +[FID:86, TEXT:037D] 我明明一直在
 -[FID:86, TEXT:02B4] 说谎的……
 
---- Group [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---G
 だからね、あたしは
 君のことを信じられる
 +[FID:86, TEXT:037F] 所以呢，我可以
 +[FID:86, TEXT:0380] 相信你
 
---- Group [right:克拉雷特 next=2012] ---
+--- Group [right:克拉雷特 next=2012] ---G
 覚えて・・・いますか
-+[FID:86, TEXT:0383] 你还记得……？
++[FID:86, TEXT:0383] 还记得吗……？
 
---- Group [right:克拉雷特 next=2012] ---
+--- Group [right:克拉雷特 next=2012] ---G
 あなたがこの世界に
 呼ばれたとき、助けを
 求める声がした
@@ -3020,7 +3020,7 @@
 +[FID:86, TEXT:0387] 求救的声音
 +[FID:86, TEXT:0388] 你是这么说的吧
 
---- Group [right:克拉雷特 next=2012] ---
+--- Group [right:克拉雷特 next=2012] ---G
 私は儀式をしながら、
 ずっと
 悩み続けていました
@@ -3028,11 +3028,11 @@
 +[FID:86, TEXT:038A] 一直
 +[FID:86, TEXT:038B] 烦恼个不停
 
---- Group [right:克拉雷特 next=2012] ---
+--- Group [right:克拉雷特 next=2012] ---G
 助けてほしい、って
-+[FID:86, TEXT:038D] 希望有人能来救我，这样的【超出】
++[FID:86, TEXT:038D] 希望谁来救我，这样的
 
---- Group [right:克拉雷特 next=2012] ---
+--- Group [right:克拉雷特 next=2012] ---G
 きっと、あれは、私の
 心の叫びだったのかも
 ・・・そう思います
@@ -3040,7 +3040,7 @@
 -[FID:86, TEXT:02FA] 也许是我内心的呐喊
 +[FID:86, TEXT:038F] 我是这么想的
 
---- Group [right:克拉雷特 next=2012] ---
+--- Group [right:克拉雷特 next=2012] ---G
 あなたはその声に
 答えてくれました
 ・・・
@@ -3048,11 +3048,11 @@
 +[FID:86, TEXT:0391] 作出了回应
 -[FID:86, TEXT:0033] ……
 
---- Group [left:主人公 next=2012] ---
+--- Group [left:主人公 next=2012] ---G
 クラレット・・・
 +[FID:86, TEXT:0395] 克拉雷特……
 
---- Group [right:克拉雷特 next=2012] ---
+--- Group [right:克拉雷特 next=2012] ---G
 だから、約束します
 絶対にあなたを
 もとの世界に帰すと
@@ -3060,7 +3060,7 @@
 +[FID:86, TEXT:0397] 绝对会把你
 +[FID:86, TEXT:0398] 送回原来的世界
 
---- Group [right:克拉雷特 next=2012] ---
+--- Group [right:克拉雷特 next=2012] ---G
 今度は、わたしが
 あなたをまもる番です
 ・・あなたがわたしを
@@ -3070,23 +3070,23 @@
 +[FID:86, TEXT:039B] 就像你当初
 +[FID:86, TEXT:039C] 帮助我那样
 
---- Group [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---G
 こうしてリプレと話が
 できるのも、みんなの
 おかげだな
-+[FID:86, TEXT:039D] 这样和莉普蕾说话
-+[FID:86, TEXT:039E] 能做到，都是大家
++[FID:86, TEXT:039D] 能像这样和莉普蕾
++[FID:86, TEXT:039E] 说话，都是大家
 +[FID:86, TEXT:039F] 的功劳啊
 
---- Group [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---G
 こうしてリプレと話が
 できるのも、みんなの
 おかげだね
--[FID:86, TEXT:039D] 这样和莉普蕾说话
--[FID:86, TEXT:039E] 能做到，都是大家
+-[FID:86, TEXT:039D] 能像这样和莉普蕾
+-[FID:86, TEXT:039E] 说话，都是大家
 +[FID:86, TEXT:03A0] 的功劳呢
 
---- Group [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---G
 どうしたんだよ？
 さっきから、元気ない
 じゃないか
@@ -3094,7 +3094,7 @@
 +[FID:86, TEXT:03A2] 从刚才起就没精神
 -[FID:86, TEXT:01CA] 不是吗
 
---- Group [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---G
 どうしたんだい？
 さっきからずっと元気
 がないじゃないか
@@ -3102,7 +3102,7 @@
 +[FID:86, TEXT:03A4] 从刚才起就一直
 +[FID:86, TEXT:03A5] 没精神不是吗
 
---- Group [right:莉普蕾 next=2012] ---
+--- Group [right:莉普蕾 next=2012] ---G
 だって・・・
 また、私は何も
 できなかったから
@@ -3110,7 +3110,7 @@
 +[FID:86, TEXT:03A7] 我又什么都
 +[FID:86, TEXT:03A8] 没能做到啊
 
---- Group [right:莉普蕾 next=2012] ---
+--- Group [right:莉普蕾 next=2012] ---G
 みんな、貴方を助ける
 ために戦ったのに
 私は・・・
@@ -3118,7 +3118,7 @@
 +[FID:86, TEXT:03AA] 而战斗了
 +[FID:86, TEXT:03AB] 我……
 
---- Group [right:莉普蕾 next=2012] ---
+--- Group [right:莉普蕾 next=2012] ---G
 私は・・・
 貴方にもうこれ以上、
 傷ついてほしくないの
@@ -3126,7 +3126,7 @@
 +[FID:86, TEXT:03D4] 不想让你再
 +[FID:86, TEXT:03D5] 受到伤害了
 
---- Group [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---G
 気にするなよ
 戦わなくても、リプレ
 は俺たちの力になって
@@ -3136,7 +3136,7 @@
 +[FID:86, TEXT:03AE] 也一直在为我们
 +[FID:86, TEXT:03AF] 出力啊
 
---- Group [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---G
 気にすることないさ
 戦わなくても、リプレ
 は僕たちの力になって
@@ -3146,13 +3146,13 @@
 +[FID:86, TEXT:03B1] 也一直在为我们
 -[FID:86, TEXT:03AF] 出力啊
 
---- Group [right:莉普蕾 next=2012] ---
+--- Group [right:莉普蕾 next=2012] ---G
 今まではそうだったの
 かもしれない・・・
 +[FID:86, TEXT:03B2] 至今为止是这样
 +[FID:86, TEXT:03B3] 也说不定……
 
---- Group [right:莉普蕾 next=2012] ---
+--- Group [right:莉普蕾 next=2012] ---G
 だけど、これから貴方
 がしようとしてること
 には、私はなにもして
@@ -3162,11 +3162,11 @@
 +[FID:86, TEXT:03B6] 我却一点也
 +[FID:86, TEXT:03B7] 帮不上你！！
 
---- Group [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---G
 リプレ・・・
 +[FID:86, TEXT:03B8] 莉普蕾……
 
---- Group [right:莉普蕾 next=2012] ---
+--- Group [right:莉普蕾 next=2012] ---G
 戦いに行くんでしょう
 魔王の復活を止める
 ために・・・
@@ -3174,15 +3174,15 @@
 +[FID:86, TEXT:03BA] 为了阻止魔王复活
 +[FID:86, TEXT:03BB] 才去的吧……
 
---- Group [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---G
 ・・・うん
 +[FID:86, TEXT:03BC] 嗯……
 
---- Group [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---G
 ・・・ああ
 +[FID:86, TEXT:03BD] 啊……
 
---- Group [right:莉普蕾 next=2012] ---
+--- Group [right:莉普蕾 next=2012] ---G
 わかってたよ
 貴方なら、絶対にそう
 するだろうって
@@ -3190,31 +3190,31 @@
 +[FID:86, TEXT:03BF] 要是你，绝对会
 +[FID:86, TEXT:03C0] 那么做的
 
---- Group [right:莉普蕾 next=2012] ---
+--- Group [right:莉普蕾 next=2012] ---G
 誰が止めたって、絶対
 そうするだろうって
 +[FID:86, TEXT:03C1] 不管谁阻止，绝对
 +[FID:86, TEXT:03C2] 会那么做的吧
 
---- Group [right:莉普蕾 next=2012] ---
+--- Group [right:莉普蕾 next=2012] ---G
 でも・・・
 でもね・・・！
 +[FID:86, TEXT:03C3] 但是……
 +[FID:86, TEXT:03C4] 但是啊……！
 
---- Group [right:莉普蕾 next=2012] ---
+--- Group [right:莉普蕾 next=2012] ---G
 それでも私は、貴方を
 行かせたくない！
 +[FID:86, TEXT:03C5] 即便如此，我也不想让
 +[FID:86, TEXT:03C6] 你去！
 
---- Group [right:莉普蕾 next=2012] ---
+--- Group [right:莉普蕾 next=2012] ---G
 だって、貴方には何の
 責任もないんだよ！？
 +[FID:86, TEXT:03C7] 因为，你没有任何
 +[FID:86, TEXT:03C8] 责任啊！？
 
---- Group [right:莉普蕾 next=2012] ---
+--- Group [right:莉普蕾 next=2012] ---G
 魔王の力も、誓約者の
 資格も、そんなの関係
 ないわ！！
@@ -3222,7 +3222,7 @@
 +[FID:86, TEXT:03CA] 者的资格也好，这些都
 +[FID:86, TEXT:03CB] 无关！！
 
---- Group [right:莉普蕾 next=2012] ---
+--- Group [right:莉普蕾 next=2012] ---G
 全部、まわりが勝手に
 貴方に押しつけたこと
 じゃない・・・
@@ -3230,45 +3230,45 @@
 +[FID:86, TEXT:03CD] 强加给你的东西
 +[FID:86, TEXT:03CE] 不是吗……
 
---- Group [left:主人公 next=2012] ---
+--- Group [left:主人公 next=2012] ---G
 ・・・・・・
 +[FID:86, TEXT:03CF] ……
 
---- Group [right:莉普蕾 next=2012] ---
+--- Group [right:莉普蕾 next=2012] ---G
 英雄なんかにならなく
 てもいいじゃない
 +[FID:86, TEXT:03D0] 不当什么英雄
 +[FID:86, TEXT:03D1] 不也挺好的吗
 
---- Group [right:莉普蕾 next=2012] ---
+--- Group [right:莉普蕾 next=2012] ---G
 世界が滅びるのなら
 滅びたって構わないよ
 +[FID:86, TEXT:03D2] 如果世界要毁灭
 +[FID:86, TEXT:03D3] 就让它毁灭好了
 
---- Group [right:莉普蕾 next=2012] ---
+--- Group [right:莉普蕾 next=2012] ---G
 ただ
 それだけなのよ・・・
 +[FID:86, TEXT:03D6] 只不过
 +[FID:86, TEXT:03D7] 那样而已……
 
---- Group [left:主人公 next=2012] ---
+--- Group [left:主人公 next=2012] ---G
 ありがとう、リプレ
 +[FID:86, TEXT:03D8] 谢谢你，莉普蕾
 
---- Group [left:主人公 next=2012] ---
+--- Group [left:主人公 next=2012] ---G
 だけど・・・
 僕は行くよ・・・
 +[FID:86, TEXT:03D9] 但是……
 +[FID:86, TEXT:03DE] 我还是要去的……
 
---- Group [left:主人公 next=2012] ---
+--- Group [left:主人公 next=2012] ---G
 だけど・・・
 俺は逃げたくないんだ
 -[FID:86, TEXT:03D9] 但是……
 +[FID:86, TEXT:03DA] 我是不想逃的
 
---- Group [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---G
 たとえそれが押しつけ
 られた運命でも、俺は
 逃げたくないんだよ
@@ -3276,7 +3276,7 @@
 +[FID:86, TEXT:03DC] 的命运，我
 +[FID:86, TEXT:03DD] 不想逃啊
 
---- Group [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---G
 たとえそれが押しつけ
 られた運命でも、僕は
 逃げたりはしない
@@ -3284,39 +3284,39 @@
 +[FID:86, TEXT:03DF] 的命运，我
 +[FID:86, TEXT:03E0] 不会逃
 
---- Group [left:主人公 next=2012] ---
+--- Group [left:主人公 next=2012] ---G
 俺は戦うよ
 自分でそう決めたんだ
 +[FID:86, TEXT:03E1] 我要战斗
 +[FID:86, TEXT:03E2] 这是我自己决定的
 
---- Group [left:主人公 next=2012] ---
+--- Group [left:主人公 next=2012] ---G
 大好きな人たちがいる
 この世界を守りたい
-+[FID:86, TEXT:03E3] 有我最爱的人们所在的
-+[FID:86, TEXT:03E4] 这个世界我想守护
++[FID:86, TEXT:03E3] 我想守护这个有我最爱
++[FID:86, TEXT:03E4] 的人们所在的世界
 
---- Group [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---G
 リプレたちと
 出会ったこの世界を、
 俺は守りたいんだ！！
-+[FID:86, TEXT:03E5] 和莉普蕾他们
++[FID:86, TEXT:03E5] 和莉普蕾你们
 +[FID:86, TEXT:03E6] 相遇的这个世界，
 +[FID:86, TEXT:03E7] 我要守护它！！
 
---- Group [left:主人公 next=2012] ---
+--- Group [left:主人公 next=2012] ---G
 僕は戦う
 自分でそう決めたんだ
 +[FID:86, TEXT:03E8] 我要战斗
 -[FID:86, TEXT:03E2] 这是我自己决定的
 
---- Group [left:主人公 next=2012] ---
+--- Group [left:主人公 next=2012] ---G
 大切な人たちが暮らす
 この世界を守りたい
-+[FID:86, TEXT:03E9] 珍视的人们所生活的
--[FID:86, TEXT:03E4] 这个世界我想守护
++[FID:86, TEXT:03E9] 我想守护这个我珍视
+-[FID:86, TEXT:03E4] 的人们所在的世界
 
---- Group [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---G
 リプレたちと出会った
 この世界を、僕は守り
 たいんだ・・・
@@ -3324,17 +3324,17 @@
 +[FID:86, TEXT:03EB] 这个世界，我
 +[FID:86, TEXT:03EC] 想守护……
 
---- Group [right:莉普蕾 next=2012] ---
+--- Group [right:莉普蕾 next=2012] ---G
 約束、して・・・
 +[FID:86, TEXT:03ED] 答应我……
 
---- Group [right:莉普蕾 next=2012] ---
+--- Group [right:莉普蕾 next=2012] ---G
 絶対に帰ってくるって
 約束して！
 +[FID:86, TEXT:03EE] 一定要回来
 +[FID:86, TEXT:03EF] 跟我约定！
 
---- Group [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---G
 ああ、約束するよ
 俺は必ずここへ
 帰ってくる
@@ -3342,7 +3342,7 @@
 +[FID:86, TEXT:03F1] 我一定会回到
 +[FID:86, TEXT:03F2] 这里来
 
---- Group [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---G
 ああ、約束するよ
 僕は必ずここへ
 帰ってくる
@@ -3350,7 +3350,7 @@
 +[FID:86, TEXT:03F3] 我一定会回到
 -[FID:86, TEXT:03F2] 这里来
 
---- Group [right:莉普蕾 next=2012] ---
+--- Group [right:莉普蕾 next=2012] ---G
 待ってるから・・・
 いっぱいご馳走作って
 待ってるから・・・
@@ -3358,13 +3358,13 @@
 +[FID:86, TEXT:03F5] 做很多好吃的
 -[FID:86, TEXT:03F4] 等着你……
 
---- Group [right:莉普蕾 next=2012] ---
+--- Group [right:莉普蕾 next=2012] ---G
 約束・・・
 したんだからね・・・
 +[FID:86, TEXT:03F6] 约好了……
 +[FID:86, TEXT:03F7] 已经说好了哦……
 
---- Group [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---G
 ねえ、ガゼル
 出会いって不思議、
 そう思わない？
@@ -3372,7 +3372,7 @@
 +[FID:86, TEXT:03F9] 相遇真是不可思议，
 +[FID:86, TEXT:03FA] 你不觉得吗？
 
---- Group [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---G
 ねえ、ガゼルさん
 出会いって
 不思議ですね？
@@ -3380,7 +3380,7 @@
 +[FID:86, TEXT:03FC] 相遇真是
 +[FID:86, TEXT:03FD] 不可思议呢？
 
---- Group [right:加泽尔 next=2012] ---
+--- Group [right:加泽尔 next=2012] ---G
 ん？ああ・・・
 いきなり
 なんなんだよ・・・
@@ -3388,7 +3388,7 @@
 +[FID:86, TEXT:03FF] 突然
 +[FID:86, TEXT:0400] 搞什么啊……
 
---- Group [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---G
 いろんな偶然が
 重ならなくちゃ
 みんなとも出会え
@@ -3398,7 +3398,7 @@
 +[FID:86, TEXT:0403] 就无法和大家
 +[FID:86, TEXT:0404] 相遇了吧
 
---- Group [right:加泽尔 next=2012] ---
+--- Group [right:加泽尔 next=2012] ---G
 バーカ
 なに、ひとりで背負い
 込んでるんだよ
@@ -3406,7 +3406,7 @@
 +[FID:86, TEXT:0448] 一个人背负着
 +[FID:86, TEXT:0449] 什么啊
 
---- Group [right:加泽尔 next=2012] ---
+--- Group [right:加泽尔 next=2012] ---G
 バーカ
 何言ってるんだよ！
 俺は気付いてたぜ
@@ -3416,11 +3416,11 @@
 +[FID:86, TEXT:0407] 我早就
 +[FID:86, TEXT:0408] 注意到了
 
---- Group [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---G
 ありがとう・・・
 +[FID:86, TEXT:0409] 谢谢……
 
---- Group [right:加泽尔 next=2012] ---
+--- Group [right:加泽尔 next=2012] ---G
 え・・・？
 なんだよ
 やぶからぼうに？
@@ -3428,19 +3428,19 @@
 +[FID:86, TEXT:040B] 干嘛啊
 +[FID:86, TEXT:040C] 突然没头没脑的？
 
---- Group [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---G
 あ、今一瞬
 どきっとした？
 +[FID:86, TEXT:040D] 啊，刚才那一瞬
 +[FID:86, TEXT:040E] 你心跳了吧？
 
---- Group [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---G
 ふふ・・・ガゼル
 赤くなってる
 +[FID:86, TEXT:040F] 呵呵……加泽尔
 +[FID:86, TEXT:0410] 你脸红了
 
---- Group [right:加泽尔 next=2012] ---
+--- Group [right:加泽尔 next=2012] ---G
 ば、バカ言え！
 さっきから
 からかってるのかよ！
@@ -3448,23 +3448,23 @@
 +[FID:86, TEXT:0412] 你从刚才起
 +[FID:86, TEXT:0413] 一直在逗我吧！
 
---- Group [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---G
 あたし、そんなに
 器用じゃないよ・・・
 +[FID:86, TEXT:0414] 我，没那么
 +[FID:86, TEXT:0415] 能干啦……
 
---- Group [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---G
 わたし、そんなに
 器用じゃないです・・
 +[FID:86, TEXT:0416] 我，没那么
 +[FID:86, TEXT:0417] 能干……
 
---- Group [right:加泽尔 next=2012] ---
+--- Group [right:加泽尔 next=2012] ---G
 え・・・おい・・・
 +[FID:86, TEXT:0418] 诶……喂……
 
---- Group [left:主人公 next=2012] ---
+--- Group [left:主人公 next=2012] ---G
 思うんだ・・・あたし
 ガゼルがいなかったら
 この世界で生きていけ
@@ -3474,13 +3474,13 @@
 +[FID:86, TEXT:041B] 我在这世界活不
 +[FID:86, TEXT:041C] 下去了吧
 
---- Group [left:主人公 next=2012] ---
+--- Group [left:主人公 next=2012] ---G
 ガゼルの性格ってほら
 なんかトゲがあってさ
 +[FID:86, TEXT:041D] 加泽尔的性格啊
 +[FID:86, TEXT:041E] 总觉得带刺似的
 
---- Group [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---G
 それで、逆に
 本当に嫌なことも
 忘れられてた・・・
@@ -3488,11 +3488,11 @@
 +[FID:86, TEXT:0420] 真正讨厌的事也
 +[FID:86, TEXT:0421] 能忘掉了……
 
---- Group [left:主人公 next=2012] ---
+--- Group [left:主人公 next=2012] ---G
 思うんです・・・
 +[FID:86, TEXT:0422] 我是这么想的……
 
---- Group [left:主人公 next=2012] ---
+--- Group [left:主人公 next=2012] ---G
 もしもガゼルさんが
 いなかったら、わたし
 この世界で生きて
@@ -3502,7 +3502,7 @@
 +[FID:86, TEXT:0425] 在这个世界活不
 +[FID:86, TEXT:0426] 下去了……
 
---- Group [left:主人公 next=2012] ---
+--- Group [left:主人公 next=2012] ---G
 ガゼルさんが側にいて
 くれたから、何気ない
 言葉でいつも支えてく
@@ -3512,7 +3512,7 @@
 +[FID:86, TEXT:0429] 的话语一直支持
 +[FID:86, TEXT:042A] 着我……
 
---- Group [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---G
 今までがんばってこれ
 たのかなって・・・
 そんな気がするんです
@@ -3520,7 +3520,7 @@
 +[FID:86, TEXT:042C] 大概是因为你吧……
 +[FID:86, TEXT:042D] 我是这么觉得的
 
---- Group [left:主人公 next=2012] ---
+--- Group [left:主人公 next=2012] ---G
 あ、もちろん
 ガゼルさん
 だけじゃなくて・・・
@@ -3528,7 +3528,7 @@
 +[FID:86, TEXT:0435] 不止加泽尔先生
 +[FID:86, TEXT:0436] 一个人……
 
---- Group [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---G
 あ、もちろん
 ガゼルだけじゃないよ
 リプレも、エドスも
@@ -3536,43 +3536,43 @@
 +[FID:86, TEXT:0430] 不只是加泽尔
 +[FID:86, TEXT:0431] 莉普蕾和艾多斯也是
 
---- Group [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---G
 ソルも！
 +[FID:86, TEXT:0432] 索尔也是！
 
---- Group [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---G
 キールも！
 +[FID:86, TEXT:0433] 基尔也是！
 
---- Group [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---G
 クラレットも！
 +[FID:86, TEXT:0434] 克拉蕾特也是！
 
---- Group [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---G
 リプレさんも
 エドスさんも
 +[FID:86, TEXT:0437] 莉普蕾也是
 +[FID:86, TEXT:0438] 艾多斯也是
 
---- Group [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---G
 ソルさんも！
 +[FID:86, TEXT:0439] 索尔也是！
 
---- Group [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---G
 キールさんも！
 +[FID:86, TEXT:043A] 基尔也是！
 
---- Group [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---G
 カシスさんも！
 +[FID:86, TEXT:043B] 卡茜丝也是！
 
---- Group [left:主人公 next=2012] ---
+--- Group [left:主人公 next=2012] ---G
 あたし決めたの
 もう逃げないって
 +[FID:86, TEXT:043C] 我决定了
 +[FID:86, TEXT:043D] 不再逃跑了
 
---- Group [left:主人公 next=2012] ---
+--- Group [left:主人公 next=2012] ---G
 魔王だとか、誓約者の
 資格とか・・・
 そんなの関係ない！
@@ -3580,7 +3580,7 @@
 +[FID:86, TEXT:043F] 资格啦……
 +[FID:86, TEXT:0440] 那都无所谓！
 
---- Group [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---G
 みんなが好き
 みんなを助けたい
 この世界を・・・
@@ -3590,7 +3590,7 @@
 +[FID:86, TEXT:0443] 这个世界……
 +[FID:86, TEXT:0444] 想要守护大家
 
---- Group [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---G
 この世界を・・・
 みんなを
 守りたいんです！
@@ -3598,23 +3598,23 @@
 +[FID:86, TEXT:0446] 还有大家
 +[FID:86, TEXT:0447] 我都要守护！
 
---- Group [left:主人公 next=2012] ---
+--- Group [left:主人公 next=2012] ---G
 わたし決めたんです
 もう逃げないって
 +[FID:86, TEXT:0445] 我已经决定了
 -[FID:86, TEXT:043D] 不再逃跑了
 
---- Group [left:主人公 next=2012] ---
+--- Group [left:主人公 next=2012] ---G
 ちょ・・・
 バカって・・・
 +[FID:86, TEXT:044A] 等等……
 +[FID:86, TEXT:044B] 说我笨蛋……
 
---- Group [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---G
 え・・・
 +[FID:86, TEXT:044C] 诶……
 
---- Group [right:加泽尔 next=2012] ---
+--- Group [right:加泽尔 next=2012] ---G
 俺がいるだろ・・・
 おまえには俺がいる
 安心して、背中は
@@ -3624,7 +3624,7 @@
 +[FID:86, TEXT:044F] 放心，背后
 +[FID:86, TEXT:0450] 交给我吧
 
---- Group [right:加泽尔 next=2012] ---
+--- Group [right:加泽尔 next=2012] ---G
 お前は・・・
 俺が絶対に
 守りぬいてやる
@@ -3632,11 +3632,11 @@
 +[FID:86, TEXT:0452] 我一定会
 +[FID:86, TEXT:0453] 守护到底
 
---- Group [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---G
 ガゼル・・・
 +[FID:86, TEXT:0454] 加泽尔……
 
---- Group [right:加泽尔 next=2012] ---
+--- Group [right:加泽尔 next=2012] ---G
 運命なんて
 ふたりでねじ伏せて
 やろうぜ！
@@ -3644,163 +3644,163 @@
 +[FID:86, TEXT:0456] 就咱俩一起来
 +[FID:86, TEXT:0457] 压制它！
 
---- Group [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---G
 うん・・・！
 +[FID:86, TEXT:0458] 嗯……！
 
---- Group [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---G
 はい・・・！
 +[FID:86, TEXT:0459] 好……！
 
---- Group [right:阿尔巴 next=0023] ---
+--- Group [right:阿尔巴 next=0023] ---G
 　　　俺なんかのために
 　　　無茶をしてくれたんだな
 +[FID:86, TEXT:045A] 　　　为了我这种人
 +[FID:86, TEXT:045B] 　　　竟然那么乱来啊
 
---- Group [right:索尔 next=0023] ---
+--- Group [right:索尔 next=0023] ---G
 　　　僕のために随分な
 　　　無茶をしてくれたんだ
-+[FID:86, TEXT:045C] 　　　为了我你真是
++[FID:86, TEXT:045C] 　　　为了我真是
 +[FID:86, TEXT:045D] 　　　相当乱来啊
 
---- Group [right:索尔 next=0023] ---
+--- Group [right:索尔 next=0023] ---G
 　　　あたしなんかのために
 　　　無茶なことしてさ
 +[FID:86, TEXT:045E] 　　　为了我这种人
 +[FID:86, TEXT:045F] 　　　还那么乱来啊
 
---- Group [right:索尔 next=0023] ---
+--- Group [right:索尔 next=0023] ---G
 　　　わたしなんかのために
 　　　無茶してくれて・・・
 +[FID:86, TEXT:0460] 　　　为了我这种人
 +[FID:86, TEXT:0461] 　　　那么拼命……
 
---- Group [right:索尔 next=0023] ---
+--- Group [right:索尔 next=0023] ---G
 　　　　俺はここにいても
 　　　　いいんだ・・・
 +[FID:86, TEXT:0462] 　　　　我在这里也
 +[FID:86, TEXT:0463] 　　　　可以吧……
 
---- Group [right:雷德 next=0023] ---
+--- Group [right:雷德 next=0023] ---G
 　　　　僕はここにいても
 　　　　いいんだ・・・
 +[FID:86, TEXT:0464] 　　　　我在这里也
 -[FID:86, TEXT:0463] 　　　　可以吧……
 
---- Group [left:none next=0023] ---
+--- Group [left:none next=0023] ---G
 　　　　あたしの居場所は
 　　　　ここなんだね・・・
 +[FID:86, TEXT:0465] 　　　　我的归宿
 +[FID:86, TEXT:0466] 　　　　是在这里啊……
 
---- Group [right:雷德 next=0023] ---
+--- Group [right:雷德 next=0023] ---G
 　　　わたし、ここにいても
 　　　いいんですね
 +[FID:86, TEXT:0467] 　　　我在这里也
 +[FID:86, TEXT:0468] 　　　可以的吧
 
---- Group [right:索尔 next=0023] ---
+--- Group [right:索尔 next=0023] ---G
 　　　わたし、ここにいても
 　　　いいんですよね
 -[FID:86, TEXT:0467] 　　　我在这里也
 +[FID:86, TEXT:04B1] 　　　没关系吧
 
---- Group [right:索尔 next=0023] ---
+--- Group [right:索尔 next=0023] ---G
 　　　約束、守らなきゃな？
 +[FID:86, TEXT:0469] 　　　约定，必须遵守吧？
 
---- Group [left:none next=0023] ---
+--- Group [left:none next=0023] ---G
 　　　約束は守らなきゃな？
 +[FID:86, TEXT:046A] 　　　约定必须遵守吧？
 
---- Group [right:阿尔巴 next=0023] ---
+--- Group [right:阿尔巴 next=0023] ---G
 　　　約束は守らなきゃね！
 +[FID:86, TEXT:046B] 　　　约定必须遵守啊！
 
---- Group [right:雷德 next=0023] ---
+--- Group [right:雷德 next=0023] ---G
 　　　約束は守らないと
 +[FID:86, TEXT:046C] 　　　约定必须遵守
 
---- Group [right:雷德 next=0023] ---
+--- Group [right:雷德 next=0023] ---G
 　　　約束は守らなきゃね？
 +[FID:86, TEXT:046D] 　　　约定必须遵守吧？
 
---- Group [left:none next=0023] ---
+--- Group [left:none next=0023] ---G
 　　　約束は守らないとね
 +[FID:86, TEXT:046E] 　　　约定必须遵守才行呢
 
---- Group [right:索尔 next=0023] ---
+--- Group [right:索尔 next=0023] ---G
 　　　　やっぱり、ここが
 　　　　あたしの居場所だよ！
 +[FID:86, TEXT:046F] 　　　　果然，这里
 +[FID:86, TEXT:0478] 　　　　就是我的归宿啊！
 
---- Group [right:索尔 next=0023] ---
+--- Group [right:索尔 next=0023] ---G
 　　　　やっぱり、ここが
 　　　　あたしの居場所だよ
 -[FID:86, TEXT:046F] 　　　　果然，这里
 +[FID:86, TEXT:0470] 　　　　就是我的归宿啊
 
---- Group [right:阿尔巴 next=0023] ---
+--- Group [right:阿尔巴 next=0023] ---G
 　　　みんながいるから、
 　　　俺は強くなれるんだ！
 +[FID:86, TEXT:0471] 　　　因为有大家在，
 +[FID:86, TEXT:0472] 　　　我才能变强啊！
 
---- Group [left:none next=0023] ---
+--- Group [left:none next=0023] ---G
 　　　みんながいるから、
 　　　僕は強くなれるんだ！
 -[FID:86, TEXT:0471] 　　　因为有大家在，
 +[FID:86, TEXT:0473] 　　　我才能变强啊！
 
---- Group [right:索尔 next=0023] ---
+--- Group [right:索尔 next=0023] ---G
 　　　みんながいるから
 　　　わたしも強くなれる
 +[FID:86, TEXT:0474] 　　　因为有大家在
 +[FID:86, TEXT:0498] 　　　我也能变强
 
---- Group [left:none next=0023] ---
+--- Group [left:none next=0023] ---G
 　　　みんながいるから
 　　　あたしは強くなれるよ
 -[FID:86, TEXT:0474] 　　　因为有大家在
 +[FID:86, TEXT:049D] 　　　我也能变强哦
 
---- Group [right:雷德 next=0023] ---
+--- Group [right:雷德 next=0023] ---G
 　　　みんながいるから
 　　　あたし、強くなれるよ
 -[FID:86, TEXT:0474] 　　　因为有大家在
 +[FID:86, TEXT:047D] 　　　我能变强哦
 
---- Group [right:阿尔巴 next=0023] ---
+--- Group [right:阿尔巴 next=0023] ---G
 　　　みんながいるから
 　　　あたし、強くなれる！
 -[FID:86, TEXT:0474] 　　　因为有大家在
 +[FID:86, TEXT:0475] 　　　我能变强！
 
---- Group [left:none next=0023] ---
+--- Group [left:none next=0023] ---G
 　　　みなさんが、わたしを
 　　　強くしてくれるんです
 +[FID:86, TEXT:0476] 　　　大家让我
 +[FID:86, TEXT:0477] 　　　变强的
 
---- Group [right:雷德 next=0023] ---
+--- Group [right:雷德 next=0023] ---G
 　　　俺自身の力、か・・・
 +[FID:86, TEXT:0479] 　　　我自己的力量……吗
 
---- Group [right:索尔 next=0023] ---
+--- Group [right:索尔 next=0023] ---G
 　　　僕自身の力、か・・・
 +[FID:86, TEXT:047A] 　　　我自己的力量……吗
 
---- Group [left:none next=0023] ---
+--- Group [left:none next=0023] ---G
 　　　あたしの力か・・・
 +[FID:86, TEXT:047B] 　　　我的力量吗……
 
---- Group [right:索尔 next=0023] ---
+--- Group [right:索尔 next=0023] ---G
 　　　わたしの力・・・
 +[FID:86, TEXT:047C] 　　　我的力量……
 
---- Group [right:索尔 next=0023] ---
+--- Group [right:索尔 next=0023] ---G
 　　　わたしを強くして
 　　　くれるのは・・・
 　　　みなさんなんです
@@ -3808,43 +3808,43 @@
 +[FID:86, TEXT:047F] 　　　是……
 +[FID:86, TEXT:0480] 　　　大家啊
 
---- Group [left:none next=0023] ---
+--- Group [left:none next=0023] ---G
 　　俺なんかのために
 　　無茶をしてくれたんだな
-+[FID:86, TEXT:0481] 　　你为了我这种人
++[FID:86, TEXT:0481] 　　为了我这种人
 +[FID:86, TEXT:0482] 　　竟然那么拼命啊
 
---- Group [right:阿尔巴 next=0023] ---
+--- Group [right:阿尔巴 next=0023] ---G
 　　僕のために
 　　無茶をしてくれたんだな
 +[FID:86, TEXT:0483] 　　为了我
 -[FID:86, TEXT:0482] 　　竟然那么拼命啊
 
---- Group [right:雷德 next=0023] ---
+--- Group [right:雷德 next=0023] ---G
 　もう、あたしなんかのために
 　無茶して！
 +[FID:86, TEXT:0484] 　真是的，为了我这种人
-+[FID:86, TEXT:0485] 　你太乱来了！
++[FID:86, TEXT:0485] 　太乱来了！
 
---- Group [left:none next=0023] ---
+--- Group [left:none next=0023] ---G
 　　わたしのために
 　　無茶なことまで・・・
 +[FID:86, TEXT:0486] 　　为了我
 +[FID:86, TEXT:0487] 　　甚至不惜乱来……
 
---- Group [right:雷德 next=0023] ---
+--- Group [right:雷德 next=0023] ---G
 　　　　決着をつけよう！
 　　　　僕が僕であるために
 +[FID:86, TEXT:0488] 　　　　做个了断吧！
 +[FID:86, TEXT:048A] 　　　　为了做我自己
 
---- Group [right:索尔 next=0023] ---
+--- Group [right:索尔 next=0023] ---G
 　　　　決着をつけよう！
 　　　　俺が俺であるために
 -[FID:86, TEXT:0488] 　　　　做个了断吧！
 +[FID:86, TEXT:0489] 　　　　为了做我自己
 
---- Group [right:索尔 next=0023] ---
+--- Group [right:索尔 next=0023] ---G
 　　　　決着をつけよう！
 　　　　あたしはあたしで
 　　　　いたいから・・・
@@ -3852,7 +3852,7 @@
 +[FID:86, TEXT:048B] 　　　　因为我想要
 +[FID:86, TEXT:048F] 　　　　做我自己……
 
---- Group [right:索尔 next=0023] ---
+--- Group [right:索尔 next=0023] ---G
 　　　　決着をつけよう！
 　　　　あたしはあたしで
 　　　　いたいもんね！
@@ -3860,25 +3860,25 @@
 -[FID:86, TEXT:048B] 　　　　因为我想要
 +[FID:86, TEXT:048C] 　　　　做我自己嘛！
 
---- Group [right:阿尔巴 next=0023] ---
+--- Group [right:阿尔巴 next=0023] ---G
 　　　　決着をつけます
 　　　　自分のためにも・・・
 +[FID:86, TEXT:048D] 　　　　我要做个了断
 +[FID:86, TEXT:048E] 　　　　也为了我自己……
 
---- Group [left:none next=0023] ---
+--- Group [left:none next=0023] ---G
 　　　決着をつけます
 　　　わたし自身のために
 +[FID:86, TEXT:0490] 　　　我要做个了断
 +[FID:86, TEXT:04B7] 　　　为了我自己
 
---- Group [right:雷德 next=0023] ---
+--- Group [right:雷德 next=0023] ---G
 　　　決着をつけます
 　　　わたし自身のためにも
 -[FID:86, TEXT:0490] 　　　我要做个了断
 +[FID:86, TEXT:0491] 　　　也是为了我自己
 
---- Group [left:none next=0023] ---
+--- Group [left:none next=0023] ---G
 　　　決着をつけます
 　　　わたしがわたしで
 　　　いるためにも・・・
@@ -3886,7 +3886,7 @@
 +[FID:86, TEXT:049B] 　　　也为了让我
 +[FID:86, TEXT:049C] 　　　做我自己……
 
---- Group [right:索尔 next=0023] ---
+--- Group [right:索尔 next=0023] ---G
 　　　やり方は違っていても
 　　　二人とも気持ちは同じ
 　　　はずだよ・・・
@@ -3894,7 +3894,7 @@
 +[FID:86, TEXT:0493] 　　　两人的心情
 +[FID:86, TEXT:0494] 　　　也应该一样……
 
---- Group [right:索尔 next=0023] ---
+--- Group [right:索尔 next=0023] ---G
 　　　やり方は違っていても
 　　　二人とも気持ちは同じ
 　　　はずですよ・・・
@@ -3902,19 +3902,19 @@
 -[FID:86, TEXT:0493] 　　　两人的心情
 +[FID:86, TEXT:0497] 　　　也应该一样……
 
---- Group [right:雷德 next=0023] ---
+--- Group [right:雷德 next=0023] ---G
 　やり方は違っていても
 　二人とも気持ちは同じはず・・・
 +[FID:86, TEXT:0495] 　即使做法不同
 +[FID:86, TEXT:0496] 　两人的心情也一样……
 
---- Group [right:阿尔巴 next=0023] ---
+--- Group [right:阿尔巴 next=0023] ---G
 　決着をつけよう！
 　あたしはあたしでいたいから！
 +[FID:86, TEXT:0499] 　做个了断吧！
 +[FID:86, TEXT:049A] 　因为我想做我自己！
 
---- Group [right:阿尔巴 next=0023] ---
+--- Group [right:阿尔巴 next=0023] ---G
 　　　みんながいるからこそ
 　　　わたしは強くなれるん
 　　　ですよ・・・
@@ -3922,71 +3922,71 @@
 +[FID:86, TEXT:049F] 　　　我才能
 +[FID:86, TEXT:04A0] 　　　变强啊……
 
---- Group [right:索尔 next=0023] ---
+--- Group [right:索尔 next=0023] ---G
 　　　エルゴが俺を選んだ
 　　　理由・・・か
 +[FID:86, TEXT:04A1] 　　　埃尔戈选中我的
 +[FID:86, TEXT:04A2] 　　　理由……吗
 
---- Group [right:索尔 next=0023] ---
+--- Group [right:索尔 next=0023] ---G
 　　　エルゴが僕を選んだ
 　　　理由・・・か
 +[FID:86, TEXT:04A3] 　　　埃尔戈选中我的
 -[FID:86, TEXT:04A2] 　　　理由……吗
 
---- Group [left:none next=0023] ---
+--- Group [left:none next=0023] ---G
 　　　エルゴがあたしを
 　　　選んだ理由、ねぇ
 +[FID:86, TEXT:04A4] 　　　埃尔戈选中我
 +[FID:86, TEXT:04A5] 　　　的理由，是吧
 
---- Group [left:none next=0023] ---
+--- Group [left:none next=0023] ---G
 　　　エルゴがわたしを
 　　　選んだ理由・・・
 +[FID:86, TEXT:04A6] 　　　埃尔戈选中我
 +[FID:86, TEXT:04A7] 　　　的理由……
 
---- Group [right:雷德 next=0023] ---
+--- Group [right:雷德 next=0023] ---G
 　　　　俺の存在意義、か
 +[FID:86, TEXT:04A8] 　　　　我的存在意义吗
 
---- Group [right:雷德 next=0023] ---
+--- Group [right:雷德 next=0023] ---G
 　　　　僕の存在意義、か
 +[FID:86, TEXT:04A9] 　　　　我的存在意义吗
 
---- Group [right:索尔 next=0023] ---
+--- Group [right:索尔 next=0023] ---G
 　あたしの存在意義って・・・
-+[FID:86, TEXT:04AA] 　我的存在意义是……
++[FID:86, TEXT:04AA] 　我的存在意义……
 
---- Group [right:雷德 next=0023] ---
+--- Group [right:雷德 next=0023] ---G
 　わたしの存在意義ですか・・
-+[FID:86, TEXT:04AB] 　我的存在意义是……吗
++[FID:86, TEXT:04AB] 　我的存在意义吗……
 
---- Group [right:阿尔巴 next=0023] ---
+--- Group [right:阿尔巴 next=0023] ---G
 　　　俺はここにいても
 　　　いいんだ・・・
 +[FID:86, TEXT:04AC] 　　　我留在这里也
 +[FID:86, TEXT:04AD] 　　　可以的……
 
---- Group [right:索尔 next=0023] ---
+--- Group [right:索尔 next=0023] ---G
 　　　僕はここにいても
 　　　いいんだ・・・
 +[FID:86, TEXT:04AE] 　　　我留在这里也
 -[FID:86, TEXT:04AD] 　　　可以的……
 
---- Group [right:索尔 next=0023] ---
+--- Group [right:索尔 next=0023] ---G
 　　　やっぱり、あたしの
 　　　居場所はここだよね
 +[FID:86, TEXT:04AF] 　　　果然，我的
 +[FID:86, TEXT:04B0] 　　　归宿就是这里吧
 
---- Group [left:none next=0023] ---
+--- Group [left:none next=0023] ---G
 　　　決着をつけよう！
 　　　俺が俺であるために
 +[FID:86, TEXT:04B2] 　　　做个了断吧！
 +[FID:86, TEXT:04B3] 　　　为了做我自己
 
---- Group [left:none next=0023] ---
+--- Group [left:none next=0023] ---G
 　　　決着をつけよう！
 　　　あたしはあたしで
 　　　いたいもんね！
@@ -3994,13 +3994,13 @@
 +[FID:86, TEXT:04B5] 　　　因为我想要
 +[FID:86, TEXT:04B6] 　　　做我自己嘛！
 
---- Group [left:none next=0023] ---
+--- Group [left:none next=0023] ---G
 　　　決着をつけよう！
 　　　僕が僕であるために
 -[FID:86, TEXT:04B2] 　　　做个了断吧！
 +[FID:86, TEXT:04B4] 　　　为了做我自己
 
---- Group [left:主人公 next=2012] ---
+--- Group [left:主人公 next=2012] ---G
 だけどそれ以上に、
 君は仲間として、
 僕たちのことを
@@ -4010,15 +4010,15 @@
 +[FID:86, TEXT:04BA] 帮助了我们
 +[FID:86, TEXT:04BB] 不是吗
 
---- Group [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---G
 ・・・はい
 +[FID:86, TEXT:04BC] 嗯……
 
---- Group [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---G
 リプレさん・・・
 +[FID:86, TEXT:04BD] 莉普蕾……
 
---- Group [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---G
 まだまだ、たくさん
 リプレとおしゃべりし
 たいことがあるから！
@@ -4026,7 +4026,7 @@
 +[FID:86, TEXT:04C1] 想和莉普蕾说
 +[FID:86, TEXT:04C2] 的话呢！
 
---- Group [left:主人公 next=2012] ---
+--- Group [left:主人公 next=2012] ---G
 はい
 絶対に私、またここに
 帰ってきます
@@ -4034,7 +4034,7 @@
 +[FID:86, TEXT:04C4] 我一定还会
 +[FID:86, TEXT:04C5] 回到这里来
 
---- Group [left:主人公 next=2012] ---
+--- Group [left:主人公 next=2012] ---G
 大切なお友達を悲しま
 せたりしないように、
 がんばりますから
@@ -4042,21 +4042,21 @@
 +[FID:86, TEXT:04C7] 朋友们伤心，
 +[FID:86, TEXT:04C8] 我会努力的
 
---- Group [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---G
 私を・・・
 信じてください・・・
 +[FID:86, TEXT:04C9] 请相信
 +[FID:86, TEXT:04CA] 我……
 
---- Group [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---G
 ありがとな
 +[FID:86, TEXT:04CB] 谢了啊
 
---- Group [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---G
 感謝してるよ
 +[FID:86, TEXT:04CC] 我很感激
 
---- Group [left:主人公 next=2012] ---
+--- Group [left:主人公 next=2012] ---G
 ガゼルと出会うことが
 できたから、俺はこの
 世界で生きていけたん
@@ -4066,7 +4066,7 @@
 +[FID:86, TEXT:04CF] 世界里活下去
 +[FID:86, TEXT:04D0] 吧
 
---- Group [left:主人公 next=2012] ---
+--- Group [left:主人公 next=2012] ---G
 うれしい時もかなしい
 時も、一番近くにいて
 くれてさ・・・
@@ -4074,7 +4074,7 @@
 +[FID:86, TEXT:04D2] 难过的时候也
 +[FID:86, TEXT:04D3] 陪在我身边……
 
---- Group [left:主人公 next=2012] ---
+--- Group [left:主人公 next=2012] ---G
 だからかな？
 俺がこの世界を好きに
 なれたのは・・・
@@ -4082,7 +4082,7 @@
 +[FID:86, TEXT:04D5] 我才喜欢上
 +[FID:86, TEXT:04D6] 这个世界……
 
---- Group [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---G
 守ってみせるよ
 絶対にこの世界を破滅
 させたりはしない！
@@ -4090,7 +4090,7 @@
 +[FID:86, TEXT:04D8] 绝对不让这个世界
 +[FID:86, TEXT:04D9] 走向毁灭！
 
---- Group [left:主人公 next=2012] ---
+--- Group [left:主人公 next=2012] ---G
 君と出会うことがなか
 ったら、僕はこの世界
 で生きていけなかった
@@ -4100,7 +4100,7 @@
 +[FID:86, TEXT:04DC] 在这个世界活下去
 +[FID:86, TEXT:04DD] 吧
 
---- Group [left:主人公 next=2012] ---
+--- Group [left:主人公 next=2012] ---G
 君たちがくれた優しさ
 が、僕に何度も勇気を
 与えてくれたんだ
@@ -4108,7 +4108,7 @@
 +[FID:86, TEXT:04DF] 曾无数次给我
 +[FID:86, TEXT:04E0] 勇气
 
---- Group [left:主人公 next=2012] ---
+--- Group [left:主人公 next=2012] ---G
 だから、僕はこの世界
 のことを好きになれた
 のかもしれない・・・
@@ -4116,15 +4116,15 @@
 +[FID:86, TEXT:04E2] 这个世界
 +[FID:86, TEXT:04E3] 也说不定……
 
---- Group [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---G
 カシスも！
 +[FID:86, TEXT:04E4] 卡茜丝也是！
 
---- Group [left:主人公 next=2012] ---
+--- Group [left:主人公 next=2012] ---G
 思ったんです・・・
 +[FID:86, TEXT:04E5] 我是这么想的……
 
---- Group [left:主人公 next=2012] ---
+--- Group [left:主人公 next=2012] ---G
 あなたがいなかったら
 私はこの世界で生きて
 いけなかったのかもし
@@ -4134,7 +4134,7 @@
 +[FID:86, TEXT:04E8] 在这个世界
 +[FID:86, TEXT:04E9] 活下去……
 
---- Group [left:主人公 next=2012] ---
+--- Group [left:主人公 next=2012] ---G
 あ・・・あなただけ
 じゃないですよっ！
 リプレさんやエドス
@@ -4144,7 +4144,7 @@
 +[FID:86, TEXT:04EC] 莉普蕾小姐和艾多斯
 +[FID:86, TEXT:04ED] 先生他们也是！！
 
---- Group [left:主人公 next=2012] ---
+--- Group [left:主人公 next=2012] ---G
 私、みんなの優しさに
 何度も助けてもらいま
 した
@@ -4152,7 +4152,7 @@
 +[FID:86, TEXT:04EF] 大家的温柔
 +[FID:86, TEXT:04F0] 帮助
 
---- Group [left:主人公 next=2012] ---
+--- Group [left:主人公 next=2012] ---G
 だから、私はどうして
 も守りたいんです！
 優しい人たちが暮らす
@@ -4162,28 +4162,28 @@
 +[FID:86, TEXT:04F3] 温柔的人们生活的
 -[FID:86, TEXT:0443] 这个世界……
 
---- Group [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---G
 がんばって
 守りたいんです・・・
 +[FID:86, TEXT:04F4] 想要努力
 +[FID:86, TEXT:04F5] 守护下去……
 
---- Group [left:主人公 next=2012] ---
+--- Group [left:主人公 next=2012] ---G
 バ、バカぁ！？
 +[FID:86, TEXT:04F6] 笨，笨蛋！？
 
---- Group [left:主人公 next=2012] ---
+--- Group [left:主人公 next=2012] ---G
 あ・・・
 +[FID:86, TEXT:04F7] 啊……
 
---- Group [left:主人公 next=2012] ---
+--- Group [left:主人公 next=2012] ---G
 ガゼル・・・？
 +[FID:86, TEXT:04F9] 加泽尔……？
 
---- Group [left:主人公 next=2012] ---
+--- Group [left:主人公 next=2012] ---G
 ガゼルさん・・・
 +[FID:86, TEXT:04FA] 加泽尔先生……
 
---- Group [left:主人公 next=0023] ---
+--- Group [left:主人公 next=0023] ---G
 はい・・・
 +[FID:86, TEXT:04FB] 嗯……
