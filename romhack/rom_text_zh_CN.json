@@ -7899,7 +7899,7 @@
   },
   {
     "key": "Unreferenced-0x881E0",
-    "original": "\u3000",
+    "original": "　",
     "translation": ""
   },
   {
@@ -8017,97 +8017,97 @@
   {
     "key": "Hint-4-Slot0-0x5490",
     "original": "装備できる武器を持っ",
-    "translation": "可装备的武器没有",
+    "translation": "没有可装备的武器",
     "stage": 3
   },
   {
     "key": "Hint-4-Slot1-0x5484",
     "original": "ていません",
-    "translation": "。",
+    "translation": "",
     "stage": 3
   },
   {
     "key": "Hint-5-Slot0-0x54A8",
     "original": "装備できる防具を持っ",
-    "translation": "可装备的防具没有",
+    "translation": "没有可装备的防具",
     "stage": 3
   },
   {
     "key": "Hint-5-Slot1-0x5484",
     "original": "ていません",
-    "translation": "。",
+    "translation": "",
     "stage": 3
   },
   {
     "key": "Hint-6-Slot0-0x54D4",
     "original": "装備できるアクセサリ",
-    "translation": "可装备的饰品",
+    "translation": "没有可装备的饰品",
     "stage": 3
   },
   {
     "key": "Hint-6-Slot1-0x54C0",
     "original": "を持っていません",
-    "translation": "没有",
+    "translation": "",
     "stage": 3
   },
   {
     "key": "Hint-7-Slot0-0x54F8",
     "original": "装備できる石を持って",
-    "translation": "没有可以装备的",
+    "translation": "没有可装备的石头",
     "stage": 3
   },
   {
     "key": "Hint-7-Slot1-0x54EC",
     "original": "いません",
-    "translation": "石头",
+    "translation": "",
     "stage": 3
   },
   {
     "key": "Hint-8-Slot0-0x5510",
     "original": "アイテムを持っていま",
-    "translation": "没有物",
+    "translation": "没有物品",
     "stage": 3
   },
   {
     "key": "Hint-8-Slot1-0x88244",
     "original": "せん",
-    "translation": "品",
+    "translation": "",
     "stage": 3
   },
   {
     "key": "Hint-9-Slot0-0x5528",
     "original": "装備できる武器は売っ",
-    "translation": "可装备的武器没有出售",
+    "translation": "没有可装备的武器出售",
     "stage": 3
   },
   {
     "key": "Hint-9-Slot1-0x5484",
     "original": "ていません",
-    "translation": "。",
+    "translation": "",
     "stage": 3
   },
   {
     "key": "Hint-10-Slot0-0x5540",
     "original": "装備できる防具は売っ",
-    "translation": "可装备的防具没有出售",
+    "translation": "没有可装备的防具出售",
     "stage": 3
   },
   {
     "key": "Hint-10-Slot1-0x5484",
     "original": "ていません",
-    "translation": "。",
+    "translation": "",
     "stage": 3
   },
   {
     "key": "Hint-11-Slot0-0x54D4",
     "original": "装備できるアクセサリ",
-    "translation": "可装备的饰品",
+    "translation": "没有可装备的饰品",
     "stage": 3
   },
   {
     "key": "Hint-11-Slot1-0x5558",
     "original": "は売っていません",
-    "translation": "没有出售",
+    "translation": "出售",
     "stage": 3
   },
   {
