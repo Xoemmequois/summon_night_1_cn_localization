@@ -3176,7 +3176,7 @@
   {
     "key": "Equip-228-Desc1-0x25B8",
     "original": "ＨＰ最大値＋１０　Ｓ",
-    "translation": "ＨＰ最大值＋１０",
+    "translation": "ＨＰ最大值＋１０　Ｓ",
     "stage": 3
   },
   {
@@ -3614,7 +3614,7 @@
   {
     "key": "Equip-254-Desc2-0x21D0",
     "original": "ＮＴ＋３　ＬＵＣ－５",
-    "translation": "力＋３　幸运－５",
+    "translation": "ＮＴ＋３　幸运－５",
     "stage": 3
   },
   {
@@ -4064,7 +4064,7 @@
   {
     "key": "Item-20-Desc1-0x2AE0",
     "original": "釣りのエサ　ＨＰを５",
-    "translation": "钓鱼饵料，恢复５ＨＰ",
+    "translation": "钓鱼饵料　恢复５ＨＰ",
     "stage": 3
   },
   {
@@ -4082,7 +4082,7 @@
   {
     "key": "Item-21-Desc1-0x2AE0",
     "original": "釣りのエサ　ＨＰを５",
-    "translation": "钓鱼饵料，恢复５ＨＰ",
+    "translation": "钓鱼饵料　恢复５ＨＰ",
     "stage": 3
   },
   {
@@ -4100,7 +4100,7 @@
   {
     "key": "Item-22-Desc1-0x2AE0",
     "original": "釣りのエサ　ＨＰを５",
-    "translation": "钓鱼饵料，恢复５ＨＰ",
+    "translation": "钓鱼饵料　恢复５ＨＰ",
     "stage": 3
   },
   {
@@ -4118,7 +4118,7 @@
   {
     "key": "Item-23-Desc1-0x2AE0",
     "original": "釣りのエサ　ＨＰを５",
-    "translation": "钓鱼饵料，恢复５ＨＰ",
+    "translation": "钓鱼饵料　恢复５ＨＰ",
     "stage": 3
   },
   {
@@ -4136,7 +4136,7 @@
   {
     "key": "Item-24-Desc1-0x2AE0",
     "original": "釣りのエサ　ＨＰを５",
-    "translation": "钓鱼饵料，恢复５ＨＰ",
+    "translation": "钓鱼饵料　恢复５ＨＰ",
     "stage": 3
   },
   {
@@ -5743,13 +5743,13 @@
   {
     "key": "Skill-23-Desc1-0x3DDC",
     "original": "闇に生きる暗殺者の常",
-    "translation": "暗杀者惯用手段背后攻",
+    "translation": "暗杀者惯用手段　背",
     "stage": 3
   },
   {
     "key": "Skill-23-Desc2-0x3DC4",
     "original": "套手段　背後攻撃が更",
-    "translation": "击威力更加强大",
+    "translation": "后攻击威力更加强大",
     "stage": 3
   },
   {
@@ -5815,7 +5815,7 @@
   {
     "key": "Skill-26-Desc2-0x3D18",
     "original": "い強い心　ＺＯＣを無",
-    "translation": "畏惧，无视ＺＯＣ",
+    "translation": "畏惧　无视ＺＯＣ",
     "stage": 3
   },
   {
@@ -5887,7 +5887,7 @@
   {
     "key": "Skill-29-Desc2-0x3C54",
     "original": "与える攻撃　ＭＰにダ",
-    "translation": "，对ＭＰ造成伤害",
+    "translation": "　对ＭＰ造成伤害",
     "stage": 3
   },
   {
