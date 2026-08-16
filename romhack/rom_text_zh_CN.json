@@ -3608,7 +3608,7 @@
   {
     "key": "Equip-254-Desc1-0x223C",
     "original": "ＭＰ最大値＋１０　Ｉ",
-    "translation": "ＭＰ最大值＋１０　智",
+    "translation": "ＭＰ最大值＋１０　Ｉ",
     "stage": 3
   },
   {
@@ -3674,7 +3674,7 @@
   {
     "key": "Equip-257-Desc2-0x14EC",
     "original": "１　ＤＥＸ＋１",
-    "translation": "１　灵巧＋１",
+    "translation": "１　ＤＥＸ＋１",
     "stage": 3
   },
   {
@@ -5222,7 +5222,7 @@
   {
     "key": "Skill-0-Desc1-0x4294",
     "original": "機界ロレイラルからの",
-    "translation": "对机界罗雷拉尔",
+    "translation": "来自机界罗雷拉尔",
     "stage": 3
   },
   {
@@ -5246,7 +5246,7 @@
   {
     "key": "Skill-1-Desc1-0x4254",
     "original": "鬼界シルターンからの",
-    "translation": "对鬼界希尔坦",
+    "translation": "来自鬼界希尔坦",
     "stage": 3
   },
   {
@@ -5270,13 +5270,13 @@
   {
     "key": "Skill-2-Desc1-0x422C",
     "original": "霊界サプレスからの召",
-    "translation": "对灵界萨普雷斯",
+    "translation": "来自灵界萨普雷斯的",
     "stage": 3
   },
   {
     "key": "Skill-2-Desc2-0x4214",
     "original": "喚術に対して耐性を持",
-    "translation": "的召唤术有抗性",
+    "translation": "召唤术有抗性",
     "stage": 3
   },
   {
@@ -5294,7 +5294,7 @@
   {
     "key": "Skill-3-Desc1-0x41EC",
     "original": "幻獣界メイトルパから",
-    "translation": "对幻兽界梅特尔帕",
+    "translation": "来自幻兽界梅特尔帕",
     "stage": 3
   },
   {
@@ -5318,13 +5318,13 @@
   {
     "key": "Skill-4-Desc1-0x4294",
     "original": "機界ロレイラルからの",
-    "translation": "可使用机界罗雷拉尔",
+    "translation": "来自机界罗雷拉尔",
     "stage": 3
   },
   {
     "key": "Skill-4-Desc2-0x41B4",
     "original": "召喚術を使える",
-    "translation": "的召唤术",
+    "translation": "的召唤术可使用",
     "stage": 3
   },
   {
@@ -5336,13 +5336,13 @@
   {
     "key": "Skill-5-Desc1-0x4254",
     "original": "鬼界シルターンからの",
-    "translation": "可使用鬼界希尔坦",
+    "translation": "来自鬼界希尔坦",
     "stage": 3
   },
   {
     "key": "Skill-5-Desc2-0x41B4",
     "original": "召喚術を使える",
-    "translation": "的召唤术",
+    "translation": "的召唤术可使用",
     "stage": 3
   },
   {
@@ -5354,13 +5354,13 @@
   {
     "key": "Skill-6-Desc1-0x422C",
     "original": "霊界サプレスからの召",
-    "translation": "可使用灵界萨",
+    "translation": "来自灵界萨普雷斯的",
     "stage": 3
   },
   {
     "key": "Skill-6-Desc2-0x4184",
     "original": "喚術を使える",
-    "translation": "普雷斯召唤术",
+    "translation": "召唤术可用",
     "stage": 3
   },
   {
@@ -5372,13 +5372,13 @@
   {
     "key": "Skill-7-Desc1-0x41EC",
     "original": "幻獣界メイトルパから",
-    "translation": "可使用幻兽界",
+    "translation": "来自幻兽界梅特尔帕",
     "stage": 3
   },
   {
     "key": "Skill-7-Desc2-0x4160",
     "original": "の召喚術を使える",
-    "translation": "梅特尔帕召唤术",
+    "translation": "的召唤术可用",
     "stage": 3
   },
   {
@@ -5390,19 +5390,19 @@
   {
     "key": "Skill-8-Desc1-0x4134",
     "original": "機界ロレイラルの召喚",
-    "translation": "能熟练运用机",
+    "translation": "熟练运用机界罗雷拉尔",
     "stage": 3
   },
   {
     "key": "Skill-8-Desc2-0x411C",
     "original": "術を使いこなすことが",
-    "translation": "界罗雷拉尔的",
+    "translation": "的召唤术的",
     "stage": 3
   },
   {
     "key": "Skill-8-Desc3-0x88128",
     "original": "できる",
-    "translation": "召唤术",
+    "translation": "能力",
     "stage": 3
   },
   {
@@ -5414,67 +5414,67 @@
   {
     "key": "Skill-9-Desc1-0x40F0",
     "original": "鬼界シルターンの召喚",
-    "translation": "能熟练运用鬼",
+    "translation": "熟练运用鬼界希尔坦",
     "stage": 3
   },
   {
     "key": "Skill-9-Desc2-0x411C",
     "original": "術を使いこなすことが",
-    "translation": "界希尔坦的召",
+    "translation": "的召唤术的",
     "stage": 3
   },
   {
     "key": "Skill-9-Desc3-0x88128",
     "original": "できる",
-    "translation": "唤术",
+    "translation": "能力",
     "stage": 3
   },
   {
     "key": "Skill-10-Name-0x40DC",
     "original": "召喚士の家系　霊",
-    "translation": "召唤师世家·灵",
+    "translation": "召唤师家系　灵",
     "stage": 3
   },
   {
     "key": "Skill-10-Desc1-0x40C4",
     "original": "霊界サプレスの召喚術",
-    "translation": "能熟练运用灵",
+    "translation": "熟练运用灵",
     "stage": 3
   },
   {
     "key": "Skill-10-Desc2-0x40AC",
     "original": "を使いこなすことがで",
-    "translation": "界萨普雷斯的召",
+    "translation": "界萨普雷斯的召唤术的",
     "stage": 3
   },
   {
     "key": "Skill-10-Desc3-0x88120",
     "original": "きる",
-    "translation": "唤术",
+    "translation": "能力",
     "stage": 3
   },
   {
     "key": "Skill-11-Name-0x4098",
     "original": "召喚士の家系　獣",
-    "translation": "召唤师世家　兽",
+    "translation": "召唤师家系　兽",
     "stage": 3
   },
   {
     "key": "Skill-11-Desc1-0x4080",
     "original": "幻獣界メイトルパの召",
-    "translation": "能熟练运用",
+    "translation": "熟练运用幻",
     "stage": 3
   },
   {
     "key": "Skill-11-Desc2-0x4068",
     "original": "喚術を使いこなすこと",
-    "translation": "幻兽界梅特尔帕",
+    "translation": "兽界梅特尔帕的召唤术",
     "stage": 3
   },
   {
     "key": "Skill-11-Desc3-0x405C",
     "original": "ができる",
-    "translation": "的召唤术",
+    "translation": "的能力",
     "stage": 3
   },
   {
@@ -5575,19 +5575,19 @@
   {
     "key": "Skill-16-Desc1-0x3F6C",
     "original": "高度なナイフ投げの技",
-    "translation": "高超飞刀技艺",
+    "translation": "高超飞刀技",
     "stage": 3
   },
   {
     "key": "Skill-16-Desc2-0x3F54",
     "original": "術を持つ　「投」の武",
-    "translation": "可装备「投」武器",
+    "translation": "术　可装备「投」武",
     "stage": 3
   },
   {
     "key": "Skill-16-Desc3-0x3F48",
     "original": "器装備可",
-    "translation": "",
+    "translation": "器",
     "stage": 3
   },
   {
@@ -5605,13 +5605,13 @@
   {
     "key": "Skill-17-Desc2-0x3F54",
     "original": "術を持つ　「投」の武",
-    "translation": "技艺　可装备「投」",
+    "translation": "术　可装备「投」武",
     "stage": 3
   },
   {
     "key": "Skill-17-Desc3-0x3F48",
     "original": "器装備可",
-    "translation": "武器",
+    "translation": "器",
     "stage": 3
   },
   {
@@ -5671,13 +5671,13 @@
   {
     "key": "Skill-20-Desc1-0x3E80",
     "original": "他の行動を犠牲に攻撃",
-    "translation": "牺牲其他行动",
+    "translation": "牺牲其他行动攻击",
     "stage": 3
   },
   {
     "key": "Skill-20-Desc2-0x3E68",
     "original": "を２回連続で行うこと",
-    "translation": "可连续攻击两次",
+    "translation": "可连续进行两次",
     "stage": 3
   },
   {
@@ -5695,13 +5695,13 @@
   {
     "key": "Skill-21-Desc1-0x3E40",
     "original": "他の行動を犠牲に移動",
-    "translation": "牺牲其他行动",
+    "translation": "牺牲其他行动移动",
     "stage": 3
   },
   {
     "key": "Skill-21-Desc2-0x3E68",
     "original": "を２回連続で行うこと",
-    "translation": "可连续移动两次",
+    "translation": "可连续进行两次",
     "stage": 3
   },
   {
@@ -5773,13 +5773,13 @@
   {
     "key": "Skill-24-Desc2-0x3D7C",
     "original": "つけ、装備することが",
-    "translation": "并能装备枪械",
+    "translation": "并能装备枪械的",
     "stage": 3
   },
   {
     "key": "Skill-24-Desc3-0x88128",
     "original": "できる",
-    "translation": "的能力",
+    "translation": "能力",
     "stage": 3
   },
   {
@@ -5791,13 +5791,13 @@
   {
     "key": "Skill-25-Desc1-0x3D54",
     "original": "銃を腕に装備すること",
-    "translation": "能将枪械装备在",
+    "translation": "将枪械装备于手臂上",
     "stage": 3
   },
   {
     "key": "Skill-25-Desc2-0x405C",
     "original": "ができる",
-    "translation": "手臂上",
+    "translation": "的能力",
     "stage": 3
   },
   {
@@ -5839,13 +5839,13 @@
   {
     "key": "Skill-27-Desc2-0x3CDC",
     "original": "も無い　方向ペナルテ",
-    "translation": "无方向惩罚",
+    "translation": "　方向",
     "stage": 3
   },
   {
     "key": "Skill-27-Desc3-0x880F0",
     "original": "ィなし",
-    "translation": "",
+    "translation": "无惩罚",
     "stage": 3
   },
   {
@@ -6151,7 +6151,7 @@
   {
     "key": "Unknown-4-Desc2-0x30FC",
     "original": "召喚する",
-    "translation": "单位",
+    "translation": "的单位",
     "stage": 3
   },
   {
@@ -6163,13 +6163,13 @@
   {
     "key": "Unknown-5-Desc1-0x30E4",
     "original": "機械属性のユニットを",
-    "translation": "召唤机械属",
+    "translation": "召唤机械属性",
     "stage": 3
   },
   {
     "key": "Unknown-5-Desc2-0x30FC",
     "original": "召喚する",
-    "translation": "性单位",
+    "translation": "的单位",
     "stage": 3
   },
   {
@@ -6349,7 +6349,7 @@
   {
     "key": "Unknown-16-Desc1-0x3180",
     "original": "中範囲・中威力の攻撃",
-    "translation": "中范围中威力的攻击",
+    "translation": "中范围中威力攻击",
     "stage": 3
   },
   {
@@ -6643,13 +6643,13 @@
   {
     "key": "Unknown-35-Desc1-0x2E00",
     "original": "広範囲・最強威力の攻",
-    "translation": "广范围最强威力攻",
+    "translation": "广范围最强威力",
     "stage": 3
   },
   {
     "key": "Unknown-35-Desc2-0x2DE8",
     "original": "撃魔法　　　　　　Ｍ",
-    "translation": "击魔法　　　　　　Ｍ",
+    "translation": "攻击魔法　　Ｍ",
     "stage": 3
   },
   {
@@ -6661,13 +6661,13 @@
   {
     "key": "Unknown-36-Desc1-0x2E00",
     "original": "広範囲・最強威力の攻",
-    "translation": "广范围最强威力攻",
+    "translation": "广范围最强威力",
     "stage": 3
   },
   {
     "key": "Unknown-36-Desc2-0x2DE8",
     "original": "撃魔法　　　　　　Ｍ",
-    "translation": "击魔法　　　　　　Ｍ",
+    "translation": "攻击魔法　　Ｍ",
     "stage": 3
   },
   {
@@ -6679,13 +6679,13 @@
   {
     "key": "Unknown-37-Desc1-0x2E00",
     "original": "広範囲・最強威力の攻",
-    "translation": "广范围最强威力攻",
+    "translation": "广范围最强威力",
     "stage": 3
   },
   {
     "key": "Unknown-37-Desc2-0x2DE8",
     "original": "撃魔法　　　　　　Ｍ",
-    "translation": "击魔法　　　　　　Ｍ",
+    "translation": "攻击魔法　　Ｍ",
     "stage": 3
   },
   {
@@ -8017,37 +8017,37 @@
   {
     "key": "Hint-4-Slot0-0x5490",
     "original": "装備できる武器を持っ",
-    "translation": "没有可以装备的",
+    "translation": "可装备的武器没有",
     "stage": 3
   },
   {
     "key": "Hint-4-Slot1-0x5484",
     "original": "ていません",
-    "translation": "武器",
+    "translation": "。",
     "stage": 3
   },
   {
     "key": "Hint-5-Slot0-0x54A8",
     "original": "装備できる防具を持っ",
-    "translation": "没有可以装备的",
+    "translation": "可装备的防具没有",
     "stage": 3
   },
   {
     "key": "Hint-5-Slot1-0x5484",
     "original": "ていません",
-    "translation": "防具",
+    "translation": "。",
     "stage": 3
   },
   {
     "key": "Hint-6-Slot0-0x54D4",
     "original": "装備できるアクセサリ",
-    "translation": "没有可以装备的",
+    "translation": "可装备的饰品",
     "stage": 3
   },
   {
     "key": "Hint-6-Slot1-0x54C0",
     "original": "を持っていません",
-    "translation": "饰品",
+    "translation": "没有",
     "stage": 3
   },
   {
@@ -8077,37 +8077,37 @@
   {
     "key": "Hint-9-Slot0-0x5528",
     "original": "装備できる武器は売っ",
-    "translation": "没有可装备的武器",
+    "translation": "可装备的武器没有出售",
     "stage": 3
   },
   {
     "key": "Hint-9-Slot1-0x5484",
     "original": "ていません",
-    "translation": "出售",
+    "translation": "。",
     "stage": 3
   },
   {
     "key": "Hint-10-Slot0-0x5540",
     "original": "装備できる防具は売っ",
-    "translation": "没有可装备的防具",
+    "translation": "可装备的防具没有出售",
     "stage": 3
   },
   {
     "key": "Hint-10-Slot1-0x5484",
     "original": "ていません",
-    "translation": "出售",
+    "translation": "。",
     "stage": 3
   },
   {
     "key": "Hint-11-Slot0-0x54D4",
     "original": "装備できるアクセサリ",
-    "translation": "没有可装备的饰品",
+    "translation": "可装备的饰品",
     "stage": 3
   },
   {
     "key": "Hint-11-Slot1-0x5558",
     "original": "は売っていません",
-    "translation": "出售",
+    "translation": "没有出售",
     "stage": 3
   },
   {
