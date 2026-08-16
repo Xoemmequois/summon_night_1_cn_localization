@@ -5575,13 +5575,13 @@
   {
     "key": "Skill-16-Desc1-0x3F6C",
     "original": "高度なナイフ投げの技",
-    "translation": "高超飞刀技",
+    "translation": "高超飞刀技术",
     "stage": 3
   },
   {
     "key": "Skill-16-Desc2-0x3F54",
     "original": "術を持つ　「投」の武",
-    "translation": "术　可装备「投」武器",
+    "translation": "　可装备「投」武器",
     "stage": 3
   },
   {
@@ -5599,13 +5599,13 @@
   {
     "key": "Skill-17-Desc1-0x3F24",
     "original": "高度な手裏剣投げの技",
-    "translation": "拥有高超手里剑投掷",
+    "translation": "拥有高超手里剑投掷术",
     "stage": 3
   },
   {
     "key": "Skill-17-Desc2-0x3F54",
     "original": "術を持つ　「投」の武",
-    "translation": "术　可装备「投」武器",
+    "translation": "　可装备「投」武器",
     "stage": 3
   },
   {
@@ -5671,13 +5671,13 @@
   {
     "key": "Skill-20-Desc1-0x3E80",
     "original": "他の行動を犠牲に攻撃",
-    "translation": "牺牲其他行动攻击可连",
+    "translation": "牺牲其他行动　攻击可",
     "stage": 3
   },
   {
     "key": "Skill-20-Desc2-0x3E68",
     "original": "を２回連続で行うこと",
-    "translation": "续进行两次的能力",
+    "translation": "连续进行两次的能力",
     "stage": 3
   },
   {
@@ -5695,13 +5695,13 @@
   {
     "key": "Skill-21-Desc1-0x3E40",
     "original": "他の行動を犠牲に移動",
-    "translation": "牺牲其他行动移动可连",
+    "translation": "牺牲其他行动　移动可",
     "stage": 3
   },
   {
     "key": "Skill-21-Desc2-0x3E68",
     "original": "を２回連続で行うこと",
-    "translation": "续进行两次的能力",
+    "translation": "连续进行两次的能力",
     "stage": 3
   },
   {
@@ -5743,13 +5743,13 @@
   {
     "key": "Skill-23-Desc1-0x3DDC",
     "original": "闇に生きる暗殺者の常",
-    "translation": "暗杀者惯用手段　背",
+    "translation": "暗杀者惯用手段　背后",
     "stage": 3
   },
   {
     "key": "Skill-23-Desc2-0x3DC4",
     "original": "套手段　背後攻撃が更",
-    "translation": "后攻击威力更加强大",
+    "translation": "攻击威力更加强大",
     "stage": 3
   },
   {
@@ -5833,13 +5833,13 @@
   {
     "key": "Skill-27-Desc1-0x3CF4",
     "original": "全ての方向に一分の隙",
-    "translation": "全方位无懈可击　",
+    "translation": "全方位无懈可击　无方",
     "stage": 3
   },
   {
     "key": "Skill-27-Desc2-0x3CDC",
     "original": "も無い　方向ペナルテ",
-    "translation": "无方向惩罚",
+    "translation": "向惩罚",
     "stage": 3
   },
   {
@@ -6091,7 +6091,7 @@
   {
     "key": "Unknown-1-Desc1-0x3180",
     "original": "中範囲・中威力の攻撃",
-    "translation": "中范围中威力攻击",
+    "translation": "中范围・中威力的攻击",
     "stage": 3
   },
   {
@@ -6109,7 +6109,7 @@
   {
     "key": "Unknown-2-Desc1-0x3180",
     "original": "中範囲・中威力の攻撃",
-    "translation": "中范围中威力攻击",
+    "translation": "中范围・中威力的攻击",
     "stage": 3
   },
   {
@@ -6199,7 +6199,7 @@
   {
     "key": "Unknown-7-Desc1-0x30B4",
     "original": "中範囲・大威力の攻撃",
-    "translation": "中范围大威力的攻击",
+    "translation": "中范围・大威力的攻击",
     "stage": 3
   },
   {
@@ -6217,7 +6217,7 @@
   {
     "key": "Unknown-8-Desc1-0x3090",
     "original": "小範囲・中威力の攻撃",
-    "translation": "小范围中威力的攻击",
+    "translation": "小范围・中威力的攻击",
     "stage": 3
   },
   {
@@ -6235,7 +6235,7 @@
   {
     "key": "Unknown-9-Desc1-0x3090",
     "original": "小範囲・中威力の攻撃",
-    "translation": "小范围中威力的攻击",
+    "translation": "小范围・中威力的攻击",
     "stage": 3
   },
   {
@@ -6253,7 +6253,7 @@
   {
     "key": "Unknown-10-Desc1-0x3054",
     "original": "単体防御力アップ",
-    "translation": "单体防御力提升",
+    "translation": "单体防御力的提升",
     "stage": 3
   },
   {
@@ -6265,13 +6265,13 @@
   {
     "key": "Unknown-11-Desc1-0x303C",
     "original": "小範囲・中威力の回復",
-    "translation": "小范围中威力的恢复＆",
+    "translation": "小范围・中威力的恢复",
     "stage": 3
   },
   {
     "key": "Unknown-11-Desc2-0x3024",
     "original": "＆ステータス異常回復",
-    "translation": "异常状态恢复",
+    "translation": "＆异常状态恢复",
     "stage": 3
   },
   {
@@ -6295,7 +6295,7 @@
   {
     "key": "Unknown-13-Desc1-0x2FF0",
     "original": "中範囲・中威力の回復",
-    "translation": "中范围中威力的恢复",
+    "translation": "中范围・中威力的恢复",
     "stage": 3
   },
   {
@@ -6331,7 +6331,7 @@
   {
     "key": "Unknown-15-Desc1-0x2FA8",
     "original": "小範囲・小威力の攻撃",
-    "translation": "小范围小威力的攻击",
+    "translation": "小范围・小威力的攻击",
     "stage": 3
   },
   {
@@ -6349,7 +6349,7 @@
   {
     "key": "Unknown-16-Desc1-0x3180",
     "original": "中範囲・中威力の攻撃",
-    "translation": "中范围中威力攻击",
+    "translation": "中范围・中威力的攻击",
     "stage": 3
   },
   {
@@ -6379,7 +6379,7 @@
   {
     "key": "Unknown-18-Desc1-0x30B4",
     "original": "中範囲・大威力の攻撃",
-    "translation": "中范围大威力的攻击",
+    "translation": "中范围・大威力的攻击",
     "stage": 3
   },
   {
@@ -6409,7 +6409,7 @@
   {
     "key": "Unknown-20-Desc1-0x2F44",
     "original": "中範囲のステータス異",
-    "translation": "中范围状态异常回复",
+    "translation": "中范围的状态异常回复",
     "stage": 3
   },
   {
@@ -6427,7 +6427,7 @@
   {
     "key": "Unknown-21-Desc1-0x2F28",
     "original": "小範囲の毒攻撃",
-    "translation": "小范围毒攻击",
+    "translation": "小范围的毒攻击",
     "stage": 3
   },
   {
@@ -6439,7 +6439,7 @@
   {
     "key": "Unknown-22-Desc1-0x3090",
     "original": "小範囲・中威力の攻撃",
-    "translation": "小范围中威力的攻击",
+    "translation": "小范围・中威力的攻击",
     "stage": 3
   },
   {
@@ -6457,7 +6457,7 @@
   {
     "key": "Unknown-23-Desc1-0x2EFC",
     "original": "小範囲のマヒ攻撃",
-    "translation": "小范围麻痹攻击",
+    "translation": "小范围的麻痹攻击",
     "stage": 3
   },
   {
@@ -6541,7 +6541,7 @@
   {
     "key": "Unknown-29-Desc1-0x2FA8",
     "original": "小範囲・小威力の攻撃",
-    "translation": "小范围小威力的攻击",
+    "translation": "小范围・小威力的攻击",
     "stage": 3
   },
   {
@@ -6559,7 +6559,7 @@
   {
     "key": "Unknown-30-Desc1-0x3090",
     "original": "小範囲・中威力の攻撃",
-    "translation": "小范围中威力的攻击",
+    "translation": "小范围・中威力的攻击",
     "stage": 3
   },
   {
@@ -6577,7 +6577,7 @@
   {
     "key": "Unknown-31-Desc1-0x2E70",
     "original": "広範囲・大威力の回復",
-    "translation": "大范围大威力的回复",
+    "translation": "大范围・大威力的回复",
     "stage": 3
   },
   {
@@ -6595,7 +6595,7 @@
   {
     "key": "Unknown-32-Desc1-0x2E34",
     "original": "広範囲・大威力の攻撃",
-    "translation": "大范围大威力的攻击",
+    "translation": "大范围・大威力的攻击",
     "stage": 3
   },
   {
@@ -6625,7 +6625,7 @@
   {
     "key": "Unknown-34-Desc1-0x2E00",
     "original": "広範囲・最強威力の攻",
-    "translation": "广范围最强威力",
+    "translation": "广范围・最强威力的攻",
     "stage": 3
   },
   {
@@ -6643,7 +6643,7 @@
   {
     "key": "Unknown-35-Desc1-0x2E00",
     "original": "広範囲・最強威力の攻",
-    "translation": "广范围最强威力",
+    "translation": "广范围・最强威力的攻",
     "stage": 3
   },
   {
@@ -6661,7 +6661,7 @@
   {
     "key": "Unknown-36-Desc1-0x2E00",
     "original": "広範囲・最強威力の攻",
-    "translation": "广范围最强威力",
+    "translation": "广范围・最强威力的攻",
     "stage": 3
   },
   {
@@ -6679,7 +6679,7 @@
   {
     "key": "Unknown-37-Desc1-0x2E00",
     "original": "広範囲・最強威力の攻",
-    "translation": "广范围最强威力",
+    "translation": "广范围・最强威力的攻",
     "stage": 3
   },
   {
