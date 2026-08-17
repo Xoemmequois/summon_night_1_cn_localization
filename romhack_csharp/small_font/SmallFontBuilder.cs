@@ -15,6 +15,8 @@ public static class SmallFontBuilder
     // 0x3BB * 18 = 0x4326, 0x801ACCE0 + 0x4326 = 0x801B1006 → S.F 前 6 字节 padding
     private const int GlyphIndexBase = 0x3BB;
     private const int SfPadding = GlyphIndexBase * 18 - (int)(0x801B1000u - 0x801ACCE0u);
+    private const uint SmallFontRamBase = 0x801B1000u;
+    private const uint SmallFontRamEnd = 0x801B8000u;
 
     /// <summary>
     /// 完整构建流程: 渲染字形 → 输出 S.F → 修补 CM1200 map table → 返回字符映射
@@ -50,7 +52,17 @@ public static class SmallFontBuilder
 
         // 3. 渲染字形 + 写 S.F + 分配 map 条目
         // S.F: 前 6 字节 padding（因为 GlyphIndexBase=0x3BB, 第一个 glyph 地址=0x801B1006）
-        var glyphData = new byte[SfPadding + charList.Count * 18];
+        var glyphCount = charList.Count;
+        if (SmallFontRamBase + (uint)(SfPadding + glyphCount * 18) > SmallFontRamEnd)
+        {
+            var glyphBytes = (SmallFontRamEnd - SmallFontRamBase - (uint)SfPadding) / 18;
+            throw new InvalidOperationException(
+                $"S.F 过大: {glyphCount} 字 ×18B + padding {SfPadding}B = {SfPadding + glyphCount * 18} 字节, " +
+                $"装载 0x{SmallFontRamBase:X}~0x{SmallFontRamBase + (uint)(SfPadding + glyphCount * 18):X} " +
+                $"超过上限 0x{SmallFontRamEnd:X}. 可用 {SmallFontRamEnd - SmallFontRamBase} 字节, " +
+                $"扣除 padding 后最多 {glyphBytes} 字");
+        }
+        var glyphData = new byte[SfPadding + glyphCount * 18];
         var glyphBuf = new byte[18];
         var charMap = new Dictionary<char, (ushort Sjis, ushort Index)>();
         int mapIdx = MapIndexStart;
