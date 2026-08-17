@@ -229,7 +229,7 @@
 お前らのねぐらに入る
 度胸はねえんだよ
 +[FID:5B, TEXT:0046] 我是个胆小鬼
-+[FID:5B, TEXT:0047] 进你们老巢的
++[FID:5B, TEXT:0047] 进你们大本营的
 +[FID:5B, TEXT:0048] 勇气可没有啊
 
 --- Group [right:none next=2012] ---G
@@ -289,7 +289,7 @@
 頼みを聞かなくちゃ
 ならないんだよ
 +[FID:5B, TEXT:0059] 为什么我，非得
-+[FID:5B, TEXT:005A] 听你的吩咐
++[FID:5B, TEXT:005A] 听你的命令
 +[FID:5B, TEXT:005B] 才行啊？
 
 --- Group [left:none next=0023] ---G
@@ -297,7 +297,7 @@
 頼みを聞かなくちゃ
 ならないんだ
 +[FID:5B, TEXT:005C] 为什么我，非得
--[FID:5B, TEXT:005A] 听你的吩咐
+-[FID:5B, TEXT:005A] 听你的命令
 +[FID:5B, TEXT:005D] 才行呢？
 
 --- Group [left:none next=0023] ---G
