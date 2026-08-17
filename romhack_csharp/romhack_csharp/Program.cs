@@ -10,6 +10,9 @@ internal static class Program
     private static byte[] _cm1100 = Array.Empty<byte>();
     private static int _charIndex;
 
+    private const uint LargeFontRamBase = 0x800D1000u;
+    private const uint LargeFontRamEnd = 0x800E0000u;
+
     private static void Main(string[] args)
     {
         var config = Config.Load(Path.Combine(Directory.GetCurrentDirectory(), "config.json"));
@@ -60,6 +63,15 @@ internal static class Program
         var fontBinStart = (count * 28 + 3) / 4 * 4;
         var smallLoadStart = ((fontBinStart + fontBin.Length) + 3) / 4 * 4;
         var finalLen = smallLoadStart + loadSmallBin.Length;
+        if (LargeFontRamBase + (uint)finalLen > LargeFontRamEnd)
+        {
+            var glyphBytes = LargeFontRamEnd - LargeFontRamBase - (uint)(finalLen - fontBinStart);
+            throw new InvalidOperationException(
+                $"chinese.fnt 过大: {finalLen} 字节 (0x{finalLen:X}), 装载区间 0x{LargeFontRamBase:X}-0x{LargeFontRamBase + (uint)finalLen:X} " +
+                $"超过上限 0x{LargeFontRamEnd:X}. 可用 {LargeFontRamEnd - LargeFontRamBase} 字节, " +
+                $"扣除代码段 {finalLen - fontBinStart} 字节后字形区上限 {glyphBytes} 字节, " +
+                $"最多 {glyphBytes / 28} 字 (28B/字)");
+        }
         var fontBitmaps = new byte[finalLen];
         var fontBitmap = new byte[28];
         foreach (var pair in Chars)
