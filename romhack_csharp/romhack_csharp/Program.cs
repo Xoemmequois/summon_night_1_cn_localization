@@ -30,6 +30,7 @@ internal static class Program
         File.WriteAllBytes(Path.Combine("rom", "CM1100.DAT.mod2"), _cm1100);
 
         PrintChars();
+        WriteCharMapJson();
 
         // === 读取 SLPS_025.42, 后续修改全部在内存中进行 ===
         var slps = File.ReadAllBytes(Path.Combine("rom", "SLPS_025.42"));
@@ -144,6 +145,20 @@ internal static class Program
             var bytes = kvp.Value;
             Console.WriteLine($"{kvp.Key} => {bytes[0]:X2} {bytes[1]:X2}");
         }
+    }
+
+    private static void WriteCharMapJson()
+    {
+        var map = new SortedDictionary<string, string>();
+        foreach (var pair in Chars)
+        {
+            map[$"0x{(pair.Value[0] << 8) | pair.Value[1]:X4}"] = pair.Key.ToString();
+        }
+
+        var json = JsonSerializer.Serialize(map, new JsonSerializerOptions { WriteIndented = true });
+        Directory.CreateDirectory("output");
+        File.WriteAllText(Path.Combine("output", "chinese_font_map.json"), json);
+        Console.WriteLine($"Font map written: {map.Count} entries -> output/chinese_font_map.json");
     }
 
     private static byte[] GetNextCharId()
