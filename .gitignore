@@ -12,6 +12,7 @@ romhack/config.json
 romhack/exported_glyphs
 romhack/pic_output
 romhack/pic_output*
+!romhack/pic_output_translated
 romhack/test_*
 __pycache__/
 *.pyc
