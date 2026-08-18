@@ -7,6 +7,7 @@ internal static class Program
 {
     private static readonly Dictionary<(int, int), string> Hash = new();
     private static readonly Dictionary<char, byte[]> Chars = new();
+    private static readonly SortedDictionary<string, int[]> FidFirst64 = new();
     private static byte[] _cm1100 = Array.Empty<byte>();
     private static int _charIndex;
 
@@ -31,6 +32,7 @@ internal static class Program
         _cm1100 = File.ReadAllBytes(Path.Combine("rom", "CM1100.DAT"));
         ProcessDialogRange(1, 145);
         File.WriteAllBytes(Path.Combine("rom", "CM1100.DAT.mod2"), _cm1100);
+        WriteFidFirst64Json();
 
         PrintChars();
         WriteCharMapJson();
@@ -171,6 +173,14 @@ internal static class Program
         Directory.CreateDirectory("output");
         File.WriteAllText(Path.Combine("output", "chinese_font_map.json"), json);
         Console.WriteLine($"Font map written: {map.Count} entries -> output/chinese_font_map.json");
+    }
+
+    private static void WriteFidFirst64Json()
+    {
+        var json = JsonSerializer.Serialize(FidFirst64, new JsonSerializerOptions { WriteIndented = true });
+        Directory.CreateDirectory("output");
+        File.WriteAllText(Path.Combine("output", "fid_first64.json"), json);
+        Console.WriteLine($"FID first-64-byte map written: {FidFirst64.Count} entries -> output/fid_first64.json");
     }
 
     private static byte[] GetNextCharId()
@@ -314,7 +324,10 @@ internal static class Program
         {
             newContents.Add(0x00);
         }
-        
+
+        var fidBytes = newContents.Take(64).ToArray();
+        FidFirst64[id.ToString()] = Array.ConvertAll(fidBytes, b => (int)b);
+
         Buffer.BlockCopy(newContents.ToArray(), 0, _cm1100, contentStart, newContents.Count);
     }
 
