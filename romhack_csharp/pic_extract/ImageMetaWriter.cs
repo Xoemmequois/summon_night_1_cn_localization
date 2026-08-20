@@ -19,6 +19,18 @@ public static class ImageMetaWriter
         File.WriteAllText(metaPath, JsonSerializer.Serialize(meta));
     }
 
+    public static void WriteRawTim(string gifPath, string datFile, int subContentId, int timBase)
+    {
+        var meta = new ImageMeta
+        {
+            DatFile = datFile,
+            SubContentId = subContentId,
+            SubSlotIndex = -2,
+            TimBase = timBase
+        };
+        File.WriteAllText(gifPath + ".meta.json", JsonSerializer.Serialize(meta));
+    }
+
     // Meta for the {flags,clut,image,tilemap} tilemap-atlas format (CM2000 0x2D-0x4D).
     // Stores atlas/tilemap grid dims so in-place write-back can re-pack and validate
     // against the atlas capacity (cols*rows) without crossing the sector boundary.
@@ -59,4 +71,7 @@ public record ImageMeta
     public int? MapCols { get; init; }
     public int? MapRows { get; init; }
     public int? TileSize { get; init; }
+
+    // Direct TIM base offset inside subcontent (for non-slot TIMs like battle_prepare_ui: SubSlotIndex==-2 -> offset 0xB60)
+    public int? TimBase { get; init; }
 }

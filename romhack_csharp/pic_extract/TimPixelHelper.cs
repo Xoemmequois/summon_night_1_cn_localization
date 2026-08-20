@@ -25,6 +25,10 @@ public static class TimPixelHelper
         {
             timOffset = subContentStart;
         }
+        else if (meta.SubSlotIndex == -2)
+        {
+            timOffset = subContentStart + (meta.TimBase ?? 0xB60);
+        }
         else
         {
             var subData = ExtractUtil.GetSubcontent(datBuffer, meta.SubContentId);

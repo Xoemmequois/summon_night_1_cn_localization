@@ -71,6 +71,7 @@ public static class RipTool
         ExtractMapImages(13);
         ExtractMapscreenTitles();
         ExtractSaveloadUi();
+        ExtractBattlePrepareUI();
         ExtractChapterNameImages();
 
         Console.WriteLine("\nDone.");
@@ -512,6 +513,36 @@ public static class RipTool
         SaveAct(bmp, path, is4bpp);
         ImageMetaWriter.Write(path, "CM2000.DAT", 0x15, 3);
         Console.WriteLine($"  saveload_ui: {bmp.Width}x{bmp.Height}, size=0x{size:X} saved (pal0 of 16x16 CLUT)");
+    }
+
+    private static void ExtractBattlePrepareUI()
+    {
+        var cm2000Path = "rom/CM2000.DAT";
+        if (!File.Exists(cm2000Path))
+        {
+            Console.WriteLine("\nCM2000.DAT not found, skipping battle prepare UI extraction.");
+            return;
+        }
+
+        Console.WriteLine("\n=== Extracting battle prepare UI (CM2000 0x10 sector 0x2DF -> 0xD78) ===");
+        var cm2000 = File.ReadAllBytes(cm2000Path);
+        var dd = ExtractUtil.GetSubcontent(cm2000, 0x10);
+        const int timBase = 0xB60;
+        using var bmp = ParseTim(dd, timBase, out var is4bpp);
+        if (bmp == null)
+        {
+            Console.WriteLine($"  battle_prepare_ui: failed to parse TIM at offset 0x{timBase:X}");
+            return;
+        }
+
+        var outDir = "pic_output/misc";
+        Directory.CreateDirectory(outDir);
+        var path = Path.Combine(outDir, "battle_prepare_ui.gif");
+        bmp.Save(path, System.Drawing.Imaging.ImageFormat.Gif);
+        SaveAct(bmp, path, is4bpp);
+        ImageMetaWriter.WriteRawTim(path, "CM2000.DAT", 0x10, timBase);
+        var size = dd.Length - timBase;
+        Console.WriteLine($"  battle_prepare_ui: {bmp.Width}x{bmp.Height}, TIM base 0x{timBase:X} CLUT 16x16 PIX 64x256 size=0x{size:X} saved");
     }
 
     private static void ExtractChapterNameImages()
