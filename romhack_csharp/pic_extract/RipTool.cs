@@ -72,6 +72,7 @@ public static class RipTool
         ExtractMapscreenTitles();
         ExtractSaveloadUi();
         ExtractBattlePrepareUI();
+        ExtractBattleUI();
         ExtractChapterNameImages();
 
         Console.WriteLine("\nDone.");
@@ -543,6 +544,39 @@ public static class RipTool
         ImageMetaWriter.WriteRawTim(path, "CM2000.DAT", 0x10, timBase);
         var size = dd.Length - timBase;
         Console.WriteLine($"  battle_prepare_ui: {bmp.Width}x{bmp.Height}, TIM base 0x{timBase:X} CLUT 16x16 PIX 64x256 size=0x{size:X} saved");
+    }
+
+    // CM4000.DAT subcontent 1: first 96 sectors CD-read to 0x80138000 for battle UI.
+    // TIM descriptor {flags=0, clut=+16, pix=+532} at +0x9720: 16x16 CLUT,
+    // PIX 64w x 256h => 256x256 4bpp, pixel data at +0x9938 == the LoadImage VRAM
+    // upload source (rect 384,0).
+    private static void ExtractBattleUI()
+    {
+        var cm4000Path = "rom/CM4000.DAT";
+        if (!File.Exists(cm4000Path))
+        {
+            Console.WriteLine("\nCM4000.DAT not found, skipping battle UI extraction.");
+            return;
+        }
+
+        Console.WriteLine("\n=== Extracting battle UI (CM4000 0x01 TIM @subcontent+0x9720) ===");
+        var cm4000 = File.ReadAllBytes(cm4000Path);
+        var dd = ExtractUtil.GetSubcontent(cm4000, 1);
+        const int timBase = 0x9720;
+        using var bmp = ParseTim(dd, timBase, out var is4bpp);
+        if (bmp == null)
+        {
+            Console.WriteLine($"  battle_ui: failed to parse TIM at offset 0x{timBase:X}");
+            return;
+        }
+
+        var outDir = "pic_output/misc";
+        Directory.CreateDirectory(outDir);
+        var path = Path.Combine(outDir, "battle_ui.gif");
+        bmp.Save(path, System.Drawing.Imaging.ImageFormat.Gif);
+        SaveAct(bmp, path, is4bpp);
+        ImageMetaWriter.WriteRawTim(path, "CM4000.DAT", 1, timBase);
+        Console.WriteLine($"  battle_ui: {bmp.Width}x{bmp.Height} saved");
     }
 
     private static void ExtractChapterNameImages()
