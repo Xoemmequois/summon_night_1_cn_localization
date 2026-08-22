@@ -455,30 +455,41 @@ public static class RipTool
 
         Console.WriteLine("\n=== Extracting mapscreen titles ===");
         var cm2000 = File.ReadAllBytes(cm2000Path);
-        var subData = ExtractUtil.GetSubcontent(cm2000, 1);
+
+        // Primary copy: CM2000 subcontent 1 flat 0x11.
+        ExtractMapscreenTitle(cm2000, 1, 0x11, "mapscreen_titles");
+
+        // Duplicate copy: byte-identical pixel data + CLUT also live in
+        // subcontent 3 flat 17 as a {flags=0, clut=+16, pix=+0x74} TIM blob.
+        ExtractMapscreenTitle(cm2000, 3, 17, "mapscreen_titles2");
+    }
+
+    private static void ExtractMapscreenTitle(byte[] cm2000, int subContentId, int slotIndex, string filename)
+    {
+        var subData = ExtractUtil.GetSubcontent(cm2000, subContentId);
 
         var outDir = "pic_output/misc";
         Directory.CreateDirectory(outDir);
 
-        var off = GetSubContentOffset(subData, 0x11, out var size);
+        var off = GetSubContentOffset(subData, slotIndex, out var size);
         if (off == 0)
         {
-            Console.WriteLine("  mapscreen_titles: slot 0x11 empty, skipping");
+            Console.WriteLine($"  {filename}: sub{subContentId} slot {slotIndex} empty, skipping");
             return;
         }
 
         using var bmp = ParseTim(subData, off, out var is4bpp);
         if (bmp == null)
         {
-            Console.WriteLine($"  mapscreen_titles: failed to parse TIM at offset 0x{off:X}");
+            Console.WriteLine($"  {filename}: failed to parse TIM at offset 0x{off:X}");
             return;
         }
 
-        var path = Path.Combine(outDir, "mapscreen_titles.gif");
+        var path = Path.Combine(outDir, filename + ".gif");
         bmp.Save(path, ImageFormat.Gif);
         SaveAct(bmp, path, is4bpp);
-        ImageMetaWriter.Write(path, "CM2000.DAT", 1, 0x11);
-        Console.WriteLine($"  mapscreen_titles: {bmp.Width}x{bmp.Height}, size=0x{size:X} saved");
+        ImageMetaWriter.Write(path, "CM2000.DAT", subContentId, slotIndex);
+        Console.WriteLine($"  {filename}: {bmp.Width}x{bmp.Height}, size=0x{size:X} saved");
     }
 
     private static void ExtractSaveloadUi()
