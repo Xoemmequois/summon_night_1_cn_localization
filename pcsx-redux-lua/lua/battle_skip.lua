@@ -42,6 +42,10 @@ local function drawBattleSkipWindow()
             else
                 imgui.TextUnformatted("Click to kill all enemy units")
             end
+            if drawDialogSkipControls then
+                imgui.Separator()
+                drawDialogSkipControls()
+            end
         end)
     end)
     if not ok then
