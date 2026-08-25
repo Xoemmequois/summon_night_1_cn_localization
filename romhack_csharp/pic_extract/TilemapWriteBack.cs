@@ -22,18 +22,19 @@ public static class TilemapWriteBack
         var idxBase = 0x10 + meta.SubContentId * 4;
         var sectorOff = dat[idxBase] | (dat[idxBase + 1] << 8);
         var subStart = sectorOff * 0x800;
+        var baseOff = meta.BaseOffset ?? 0; // encapsulation may sit inside a container
 
         int Ru16(int o) => dat[subStart + o] | (dat[subStart + o + 1] << 8);
         int Ru32(int o) => BitConverter.ToInt32(dat, subStart + o) & 0xFFFFFF;
 
-        var imageOff = Ru32(8);
-        var tilemapOff = Ru32(12);
-        var atlasW = Ru16(imageOff) * 2; // 8bpp
-        var atlasH = Ru16(imageOff + 2);
-        var atlasPix = subStart + imageOff + 4;
-        var mapW = Ru16(tilemapOff);
-        var mapH = Ru16(tilemapOff + 2);
-        var mapData = subStart + tilemapOff + 4;
+        var imageOff = Ru32(baseOff + 8);
+        var tilemapOff = Ru32(baseOff + 12);
+        var atlasW = Ru16(baseOff + imageOff) * 2; // 8bpp
+        var atlasH = Ru16(baseOff + imageOff + 2);
+        var atlasPix = subStart + baseOff + imageOff + 4;
+        var mapW = Ru16(baseOff + tilemapOff);
+        var mapH = Ru16(baseOff + tilemapOff + 2);
+        var mapData = subStart + baseOff + tilemapOff + 4;
 
         var atlasCols = atlasW / Ts;
         var atlasRows = atlasH / Ts;
@@ -121,7 +122,8 @@ public static class TilemapWriteBack
 
         Console.WriteLine(
             $"  Wrote {label}: {uniqueTiles.Count}/{capacity} atlas tiles, tilemap {mapW}x{mapH} " +
-            $"-> {meta.DatFile} sub 0x{meta.SubContentId:X2} @0x{subStart:X} (in-place)");
+            $"-> {meta.DatFile} sub 0x{meta.SubContentId:X2} @0x{subStart:X}" +
+            $"{(baseOff > 0 ? $"+0x{baseOff:X}" : "")} (in-place)");
     }
 
     // Renders the ORIGINAL assembled screen (indices) and CLUT for a tilemap subcontent,
@@ -131,21 +133,22 @@ public static class TilemapWriteBack
         var idxBase = 0x10 + meta.SubContentId * 4;
         var sectorOff = dat[idxBase] | (dat[idxBase + 1] << 8);
         var subStart = sectorOff * 0x800;
+        var baseOff = meta.BaseOffset ?? 0;
 
         int Ru16(int o) => dat[subStart + o] | (dat[subStart + o + 1] << 8);
         int Ru32(int o) => BitConverter.ToInt32(dat, subStart + o) & 0xFFFFFF;
 
-        var clutOff = Ru32(4);
-        var imageOff = Ru32(8);
-        var tilemapOff = Ru32(12);
+        var clutOff = Ru32(baseOff + 4);
+        var imageOff = Ru32(baseOff + 8);
+        var tilemapOff = Ru32(baseOff + 12);
 
-        var clutW = Ru16(clutOff);
+        var clutW = Ru16(baseOff + clutOff);
         var cluts = new Color[256];
         for (var i = 0; i < 256; i++)
         {
             if (i < clutW)
             {
-                var c = Ru16(clutOff + 4 + i * 2);
+                var c = Ru16(baseOff + clutOff + 4 + i * 2);
                 var r = (c & 0x1F) << 3;
                 var g = ((c >> 5) & 0x1F) << 3;
                 var b = ((c >> 10) & 0x1F) << 3;
@@ -158,12 +161,12 @@ public static class TilemapWriteBack
             }
         }
 
-        var atlasW = Ru16(imageOff) * 2;
-        var atlasH = Ru16(imageOff + 2);
-        var atlasPix = subStart + imageOff + 4;
-        var mapW = Ru16(tilemapOff);
-        var mapH = Ru16(tilemapOff + 2);
-        var mapData = subStart + tilemapOff + 4;
+        var atlasW = Ru16(baseOff + imageOff) * 2;
+        var atlasH = Ru16(baseOff + imageOff + 2);
+        var atlasPix = subStart + baseOff + imageOff + 4;
+        var mapW = Ru16(baseOff + tilemapOff);
+        var mapH = Ru16(baseOff + tilemapOff + 2);
+        var mapData = subStart + baseOff + tilemapOff + 4;
 
         var width = mapW * Ts;
         var height = mapH * Ts;

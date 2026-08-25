@@ -35,7 +35,8 @@ public static class ImageMetaWriter
     // Stores atlas/tilemap grid dims so in-place write-back can re-pack and validate
     // against the atlas capacity (cols*rows) without crossing the sector boundary.
     public static void WriteTilemap(string gifPath, string datFile, int subContentId,
-        int atlasCols, int atlasRows, int mapCols, int mapRows, int tileSize = 16)
+        int atlasCols, int atlasRows, int mapCols, int mapRows, int tileSize = 16,
+        int? baseOffset = null)
     {
         var meta = new ImageMeta
         {
@@ -47,7 +48,8 @@ public static class ImageMetaWriter
             AtlasRows = atlasRows,
             MapCols = mapCols,
             MapRows = mapRows,
-            TileSize = tileSize
+            TileSize = tileSize,
+            BaseOffset = baseOffset
         };
         File.WriteAllText(gifPath + ".meta.json", JsonSerializer.Serialize(meta));
     }
@@ -74,4 +76,9 @@ public record ImageMeta
 
     // Direct TIM base offset inside subcontent (for non-slot TIMs like battle_prepare_ui: SubSlotIndex==-2 -> offset 0xB60)
     public int? TimBase { get; init; }
+
+    // Offset of the {flags,clut,image,tilemap} encapsulation inside the subcontent.
+    // Null/0 = encapsulation at subcontent start (chapter titles). Non-zero for
+    // multi-image containers (e.g. CM2000 0x17 SCP container, block+0xF10...).
+    public int? BaseOffset { get; init; }
 }

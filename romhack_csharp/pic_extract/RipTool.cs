@@ -74,6 +74,7 @@ public static class RipTool
         ExtractBattlePrepareUI();
         ExtractBattleUI();
         ExtractChapterNameImages();
+        ExtractCatGameHelp();
 
         Console.WriteLine("\nDone.");
     }
@@ -621,6 +622,65 @@ public static class RipTool
             SaveAct(bmp, path, is4bpp);
             ImageMetaWriter.WriteTilemap(path, "CM2000.DAT", id, atlasCols, atlasRows, mapCols, mapRows);
             Console.WriteLine($"  ui_{id:X2}: {bmp.Width}x{bmp.Height} saved ({atlasCols}x{atlasRows} atlas tiles)");
+        }
+    }
+
+    // CM2000.DAT subcontent 0x17 ("SCP" container, sector 0x4A1 + 140 sectors,
+    // CD-read wholesale to 0x80110000 for the cat game-help screens): a directory
+    // of u32 offsets in [+8, +0x4C) followed by the "SCP\0" magic. Some targets
+    // reuse the chapter-title encapsulation {flags, clut@+4, image@+8, tilemap@+12}
+    // with a 256x1 CLUT (8bpp atlas) and a 20x15 tilemap; each atlas is uploaded
+    // raw to VRAM (e.g. block+0xF10 pixel data == LoadImage source 0x80111128,
+    // rect 72x256 halfwords == 144x256 px).
+    private static void ExtractCatGameHelp()
+    {
+        var cm2000Path = "rom/CM2000.DAT";
+        if (!File.Exists(cm2000Path))
+        {
+            Console.WriteLine("\nCM2000.DAT not found, skipping cat game help extraction.");
+            return;
+        }
+
+        Console.WriteLine("\n=== Extracting cat game help images (CM2000 ID 0x17 SCP container) ===");
+        var cm2000 = File.ReadAllBytes(cm2000Path);
+        var dd = ExtractUtil.GetSubcontent(cm2000, 0x17);
+
+        var outDir = "pic_output/misc";
+        Directory.CreateDirectory(outDir);
+
+        var tableEnd = ReadU16(dd, 4); // directory byte size (u32 at +4)
+        var n = 0;
+        for (var slot = 8; slot + 4 <= tableEnd; slot += 4)
+        {
+            var off = BitConverter.ToInt32(dd, slot) & 0xFFFFFF;
+            if (off < 0x50 || off >= dd.Length) continue;
+
+            // Keep only chapter-title-style sub-blocks: clut 256x1 (8bpp) + 20x15 map.
+            var clutOff = BitConverter.ToInt32(dd, off + 4) & 0xFFFFFF;
+            var imageOff = BitConverter.ToInt32(dd, off + 8) & 0xFFFFFF;
+            var tilemapOff = BitConverter.ToInt32(dd, off + 12) & 0xFFFFFF;
+            if (clutOff != 0x10 || imageOff <= 0 || tilemapOff <= imageOff) continue;
+            if (ReadU16(dd, off + clutOff) != 256 || ReadU16(dd, off + clutOff + 2) != 1) continue;
+            if (ReadU16(dd, off + tilemapOff) != 20 || ReadU16(dd, off + tilemapOff + 2) != 15) continue;
+
+            var sub = new byte[dd.Length - off];
+            Buffer.BlockCopy(dd, off, sub, 0, sub.Length);
+            using var bmp = BuildTilemapImage(sub, out var is4bpp,
+                out var atlasCols, out var atlasRows, out var mapCols, out var mapRows);
+            if (bmp == null)
+            {
+                Console.WriteLine($"  cat_game_help_{n:X2}: unsupported format (4bpp), skipping");
+                continue;
+            }
+
+            var path = Path.Combine(outDir, $"cat_game_help_{n:D2}.gif");
+            bmp.Save(path, ImageFormat.Gif);
+            SaveAct(bmp, path, is4bpp);
+            ImageMetaWriter.WriteTilemap(path, "CM2000.DAT", 0x17,
+                atlasCols, atlasRows, mapCols, mapRows, baseOffset: off);
+            Console.WriteLine(
+                $"  cat_game_help_{n:D2}: block +0x{off:X} {bmp.Width}x{bmp.Height} saved ({atlasCols}x{atlasRows} atlas tiles)");
+            n++;
         }
     }
 
