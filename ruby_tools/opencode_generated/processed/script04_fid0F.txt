@@ -482,7 +482,7 @@
 工場や民家から出た
 下水を流してる
 せいでな
-+[FID:0F, TEXT:009B] 因为是工厂和民宅
++[FID:0F, TEXT:009B] 因为工厂和民宅
 +[FID:0F, TEXT:009C] 排出的污水
 +[FID:0F, TEXT:009D] 一直在流啊
 
@@ -819,7 +819,7 @@
 --- Group [left:加泽尔 next=2012] ---G
 こいつらは、そんなん
 じゃねえッ！！
-+[FID:0F, TEXT:010E] 她们才不是
++[FID:0F, TEXT:010E] 我们才不是
 +[FID:0F, TEXT:010F] 那种关系！！
 
 --- Group [right:char_003A next=2012] ---G
@@ -881,7 +881,7 @@
 リプレを連れて
 ここから逃げろッ！！
 +[FID:0F, TEXT:0123] 别发呆了
-+[FID:0F, TEXT:0124] 快带利普蕾
++[FID:0F, TEXT:0124] 快带莉普蕾
 +[FID:0F, TEXT:0125] 从这里逃出去！！
 
 --- Group [left:主人公 next=2012] ---G
@@ -920,19 +920,19 @@
 
 --- Group [left:none next=0023] ---G
 リプレ、行くぞっ！
-+[FID:0F, TEXT:0131] 利普蕾，走了！
++[FID:0F, TEXT:0131] 莉普蕾，走了！
 
 --- Group [left:none next=0023] ---G
 リプレ、走るんだ！
-+[FID:0F, TEXT:0132] 利普蕾，快跑！
++[FID:0F, TEXT:0132] 莉普蕾，快跑！
 
 --- Group [left:none next=0023] ---G
 リプレ、行こう！
-+[FID:0F, TEXT:0133] 利普蕾，我们走！
++[FID:0F, TEXT:0133] 莉普蕾，我们走！
 
 --- Group [left:none next=0023] ---G
 リプレさん！
-+[FID:0F, TEXT:0134] 利普蕾小姐！
++[FID:0F, TEXT:0134] 莉普蕾小姐！
 
 --- Group [right:加泽尔 next=2012] ---G
 でも、ガゼルが！
@@ -1005,13 +1005,13 @@
 --- Group [left:none next=0023] ---G
 リプレ・・・
 あなたは逃げて！
-+[FID:0F, TEXT:014A] 利普蕾……
++[FID:0F, TEXT:014A] 莉普蕾……
 +[FID:0F, TEXT:014C] 你快逃！
 
 --- Group [left:none next=0023] ---G
 リプレ・・・
 君は逃げてくれ
--[FID:0F, TEXT:014A] 利普蕾……
+-[FID:0F, TEXT:014A] 莉普蕾……
 +[FID:0F, TEXT:014B] 你逃吧
 
 --- Group [right:加泽尔 next=2012] ---G
@@ -1050,7 +1050,7 @@
 +[FID:0F, TEXT:0156] 蠢货！
 +[FID:0F, TEXT:0157] 连武器都不会用
 +[FID:0F, TEXT:0158] 你想干什么？！
-+[FID:0F, TEXT:0159] 想干什么？！
++[FID:0F, TEXT:0159] 
 
 --- Group [left:none next=2012] ---G
 さあな・・・
@@ -1062,7 +1062,7 @@
 
 --- Group [left:none next=0023] ---G
 さあ、リプレ！！
-+[FID:0F, TEXT:015D] 快，利普蕾！！
++[FID:0F, TEXT:015D] 快，莉普蕾！！
 
 --- Group [left:none next=2012] ---G
 これだけの人数を、
