@@ -153,14 +153,14 @@
 --- Group [left:主人公 next=0023] ---G
 あ、剣の手入れをして
 たんですか？
-+[FID:16, TEXT:002F] 啊，你在保养剑吗？
-+[FID:16, TEXT:0030] 是你做的吗？
++[FID:16, TEXT:002F] 啊，你在保养
++[FID:16, TEXT:0030] 剑吗？
 
 --- Group [left:none next=0023] ---G
 あれ、剣のお手入れの
 途中ですか？
-+[FID:16, TEXT:0031] 咦，剑的保养
-+[FID:16, TEXT:0032] 做到一半吗？
++[FID:16, TEXT:0031] 咦，正在保养
++[FID:16, TEXT:0032] 剑吗？
 
 --- Group [right:none next=2012] ---G
 ああ
@@ -234,7 +234,7 @@
 がして
 +[FID:16, TEXT:0041] 总觉得，雷德先生
 +[FID:16, TEXT:0042] 非常珍视它的样子
-+[FID:16, TEXT:0043] 做吧
++[FID:16, TEXT:0043] 
 
 --- Group [left:主人公 next=2012] ---G
 いや、なんとなくなん
@@ -271,8 +271,8 @@
 しまったけれど、
 愛着だけはあってね
 +[FID:16, TEXT:004C] 虽然已经很旧了，
-+[FID:16, TEXT:004D] 虽然搞砸了，
-+[FID:16, TEXT:004E] 但我对它很有感情
++[FID:16, TEXT:004D] 但我对它很有感情
++[FID:16, TEXT:004E] 
 
 --- Group [right:none next=2012] ---G
 今も使っているのさ
@@ -416,7 +416,7 @@
 +[FID:16, TEXT:0077] 喂喂，这听起来
 +[FID:16, TEXT:0078] 简直像是在期待他们
 +[FID:16, TEXT:0079] 来袭击一样哦
-+[FID:16, TEXT:007A] 听起来像是这样
++[FID:16, TEXT:007A] 
 
 --- Group [right:none next=2012] ---G
 平和なのに
@@ -452,13 +452,13 @@
 
 --- Group [left:主人公 next=0023] ---G
 邪魔しちゃ悪いね
-+[FID:16, TEXT:0085] 打扰了不好
++[FID:16, TEXT:0085] 打扰了可不好
 
 --- Group [left:主人公 next=0023] ---G
 邪魔しちゃ
 悪いですよね
 +[FID:16, TEXT:0086] 打扰了
-+[FID:16, TEXT:0087] 不好呢
++[FID:16, TEXT:0087] 可不好呢
 
 --- Group [right:none next=2012] ---G
 よぉ、どうした？
@@ -1764,11 +1764,11 @@
 
 --- Group [left:主人公 next=0023] ---G
 ありゃ、騎士ごっこ？
-+[FID:16, TEXT:020C] 哎呀，玩骑士游戏？
++[FID:16, TEXT:020C] 哎呀，在玩骑士游戏？
 
 --- Group [left:主人公 next=0023] ---G
 アルバ、騎士ごっこ？
-+[FID:16, TEXT:020D] 阿尔巴，玩骑士游戏？
++[FID:16, TEXT:020D] 阿尔巴，是骑士游戏？
 
 --- Group [right:none next=2012] ---G
 ごっこじゃないぞ！
@@ -1890,7 +1890,7 @@
 
 --- Group [right:char_0041 next=2012] ---G
 よっ、とととっ・・・
-+[FID:16, TEXT:022A] 哟，跌跌撞撞……
++[FID:16, TEXT:022A] 哟，小心小心……
 
 --- Group [left:主人公 next=0023] ---G
 あんないっぱい荷物を
