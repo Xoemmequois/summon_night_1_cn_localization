@@ -7,6 +7,7 @@ internal static class Program
 {
     private static readonly Dictionary<(int, int), string> Hash = new();
     private static readonly Dictionary<char, byte[]> Chars = new();
+    private static readonly HashSet<int> ReservedCharIndices = new();
     private static readonly SortedDictionary<string, int[]> FidFirst64 = new();
     private static byte[] _cm1100 = Array.Empty<byte>();
     private static int _charIndex;
@@ -29,25 +30,20 @@ internal static class Program
         LoadTranslations(config, "zh_CN_translated.json");
         Console.WriteLine($"Hash entries: {Hash.Count}");
 
-        _cm1100 = File.ReadAllBytes(Path.Combine("rom", "CM1100.DAT"));
-        ProcessDialogRange(1, 145);
-        File.WriteAllBytes(Path.Combine("rom", "CM1100.DAT.mod2"), _cm1100);
-        WriteFidFirst64Json();
-
-        PrintChars();
-        WriteCharMapJson();
+        var sharedChars = LoadSharedText("shared_text.txt");
 
         // === 读取 SLPS_025.42, 后续修改全部在内存中进行 ===
         var slps = File.ReadAllBytes(Path.Combine("rom", "SLPS_025.42"));
 
-        // === 小字库构建 ===
+        // === 小字库构建（提前: 共享字符编码须先于大字库分配固定）===
         Console.WriteLine("\n--- Building Small Font ---");
         var charMap = SmallFontBuilder.Build(
             Path.Combine(Directory.GetCurrentDirectory(), "rom_text_zh_CN.json"),
             Path.Combine("rom", "CM1200.DAT"),
             Path.Combine("rom", "S.F"),
             Path.Combine("rom", "CM1200.DAT.mod"),
-            config.ValidStage);
+            config.ValidStage,
+            sharedChars);
 
         RomTextWriter.WriteRomText(
             slps,
@@ -58,6 +54,23 @@ internal static class Program
         var loadSmallBin = ExtraCodeBuilder.GetSmallLoadCodeBinary(
             charMap.Count, config.SdkPath);
         Console.WriteLine($"load_small.bin: {loadSmallBin.Length} bytes");
+
+        PinSharedChars(sharedChars, charMap);
+
+        // === CM1100.DAT 对话文本（大字库编码分配）===
+        _cm1100 = File.ReadAllBytes(Path.Combine("rom", "CM1100.DAT"));
+        ProcessDialogRange(1, 145);
+        File.WriteAllBytes(Path.Combine("rom", "CM1100.DAT.mod2"), _cm1100);
+        WriteFidFirst64Json();
+
+        PrintChars();
+        WriteCharMapJson();
+        WriteSmallFontMapJson(charMap);
+
+        FontMapVerifier.Verify(
+            Path.Combine("output", "chinese_font_map.json"),
+            Path.Combine("output", "small_font_map.json"),
+            sharedChars);
 
         // === 大字库构建 ===
         var fontBin = ExtraCodeBuilder.GetFontCodeBinary(config.SdkPath);
@@ -143,6 +156,51 @@ internal static class Program
         }
     }
 
+    private static List<char> LoadSharedText(string path)
+    {
+        if (!File.Exists(path))
+        {
+            throw new FileNotFoundException(
+                "shared_text.txt not found. It must sit next to zh_CN_translated.json " +
+                "and list every character that must share encoding between both fonts.", path);
+        }
+
+        var text = File.ReadAllText(path);
+        var chars = text
+            .Where(c => c != '@' && c != 'n' && !char.IsWhiteSpace(c))
+            .Distinct()
+            .ToList();
+        Console.WriteLine($"Shared text: {chars.Count} unique characters");
+        return chars;
+    }
+
+    private static void PinSharedChars(
+        IReadOnlyList<char> sharedChars,
+        Dictionary<char, (ushort Sjis, ushort Index)> charMap)
+    {
+        foreach (var ch in sharedChars)
+        {
+            if (!charMap.TryGetValue(ch, out var entry))
+            {
+                throw new InvalidOperationException(
+                    $"shared char '{ch}' was not assigned by SmallFontBuilder");
+            }
+
+            var lead = (byte)(entry.Sjis & 0xFF); // IndexToSjis: low byte = lead
+            var trail = (byte)(entry.Sjis >> 8);
+            if (lead is < 0x85 or > 0x87)
+            {
+                throw new InvalidOperationException(
+                    $"shared char '{ch}' got code {lead:X2} {trail:X2}, " +
+                    $"outside shared region 0x8540-0x87FF");
+            }
+
+            Chars[ch] = new[] { lead, trail };
+            ReservedCharIndices.Add(CharCodeToIndex(new[] { lead, trail }));
+            Console.WriteLine($"Shared '{ch}' pinned to {lead:X2} {trail:X2}");
+        }
+    }
+
     private static void ProcessDialogRange(int startId, int endId)
     {
         for (var i = startId; i <= endId; i++)
@@ -175,6 +233,23 @@ internal static class Program
         Console.WriteLine($"Font map written: {map.Count} entries -> output/chinese_font_map.json");
     }
 
+    private static void WriteSmallFontMapJson(
+        Dictionary<char, (ushort Sjis, ushort Index)> charMap)
+    {
+        var map = new SortedDictionary<string, string>();
+        foreach (var pair in charMap)
+        {
+            var lead = (byte)(pair.Value.Sjis & 0xFF);
+            var trail = (byte)(pair.Value.Sjis >> 8);
+            map[$"0x{((lead << 8) | trail):X4}"] = pair.Key.ToString();
+        }
+
+        var json = JsonSerializer.Serialize(map, new JsonSerializerOptions { WriteIndented = true });
+        Directory.CreateDirectory("output");
+        File.WriteAllText(Path.Combine("output", "small_font_map.json"), json);
+        Console.WriteLine($"Small font map written: {map.Count} entries -> output/small_font_map.json");
+    }
+
     private static void WriteFidFirst64Json()
     {
         var json = JsonSerializer.Serialize(FidFirst64, new JsonSerializerOptions { WriteIndented = true });
@@ -185,6 +260,11 @@ internal static class Program
 
     private static byte[] GetNextCharId()
     {
+        while (_charIndex < 2560 && ReservedCharIndices.Contains(_charIndex))
+        {
+            _charIndex += 1;
+        }
+
         if (_charIndex >= 2560)
         {
             throw new InvalidOperationException("too much characters");

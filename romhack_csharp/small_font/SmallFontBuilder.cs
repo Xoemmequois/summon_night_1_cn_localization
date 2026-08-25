@@ -11,6 +11,9 @@ public static class SmallFontBuilder
 {
     private const int MapIndexEnd = 4608;
     private const int MapIndexStart = 524;
+    // 共享区: code 0x8540~0x87FF ↔ mapIndex 768~1343 (IndexToSjis 线性反推)
+    private const int SharedMapIndexStart = 768;
+    private const int SharedMapIndexEnd = 1343;
     // GlyphIndexBase: ceil((0x801B1000 - 0x801ACCE0) / 18) = 955 = 0x3BB
     // 0x3BB * 18 = 0x4326, 0x801ACCE0 + 0x4326 = 0x801B1006 → S.F 前 6 字节 padding
     private const int GlyphIndexBase = 0x3BB;
@@ -26,7 +29,8 @@ public static class SmallFontBuilder
         string cm1200Path,
         string outputSfPath,
         string outputCm1200Path,
-        List<int> validStages)
+        List<int> validStages,
+        IReadOnlyList<char> sharedChars)
     {
         // 1. 读取翻译, 提取需要的新汉字
         var json = File.ReadAllText(romTextJsonPath);
@@ -42,8 +46,10 @@ public static class SmallFontBuilder
                 neededChars.Add(ch);
             }
         }
-        var charList = neededChars.ToList();
-        Console.WriteLine($"SmallFont: {charList.Count} unique characters needed");
+        var ownChars = neededChars.Where(c => !sharedChars.Contains(c)).ToList();
+        var charList = sharedChars.Concat(ownChars).ToList();
+        Console.WriteLine(
+            $"SmallFont: {charList.Count} unique characters needed ({sharedChars.Count} shared)");
 
         // 2. 读 CM1200.DAT subcontent 8
         var cm1200 = File.ReadAllBytes(cm1200Path);
@@ -65,21 +71,46 @@ public static class SmallFontBuilder
         var glyphData = new byte[SfPadding + glyphCount * 18];
         var glyphBuf = new byte[18];
         var charMap = new Dictionary<char, (ushort Sjis, ushort Index)>();
-        int mapIdx = MapIndexStart;
+
+        // 两个单调游标: 分配总是取最低空闲位, 填掉后下一个空闲位必然更高,
+        // 因此各自只进不退即可 O(n) 扫完全部字符, 无需每字回卷重扫。
+        var sharedCursor = SharedMapIndexStart;
+        var ownCursor = MapIndexStart;
 
         for (var i = 0; i < charList.Count; i++)
         {
-            while (mapIdx < MapIndexEnd)
+            int mapIdx;
+            if (i < sharedChars.Count)
             {
-                var existing = ExtractUtil.ReadUShort(subContent, mapStartInSub + mapIdx * 2);
-                if (existing == 0) break;
-                mapIdx++;
-            }
+                while (sharedCursor <= SharedMapIndexEnd &&
+                       !IsFreeSharedSlot(subContent, mapStartInSub, sharedCursor))
+                {
+                    sharedCursor++;
+                }
 
-            if (mapIdx >= MapIndexEnd)
-                throw new InvalidOperationException(
-                    $"No more free map entries! Needed {charList.Count} chars, " +
-                    $"allocated only {i}. Total map entries: {MapIndexEnd}");
+                if (sharedCursor > SharedMapIndexEnd)
+                    throw new InvalidOperationException(
+                        $"Shared region exhausted! Need {sharedChars.Count} shared chars, " +
+                        $"allocated only {i}. Region mapIndex [{SharedMapIndexStart}-" +
+                        $"{SharedMapIndexEnd}] (code 0x8540-0x87FF)");
+
+                mapIdx = sharedCursor++;
+            }
+            else
+            {
+                while (ownCursor < MapIndexEnd &&
+                       ExtractUtil.ReadUShort(subContent, mapStartInSub + ownCursor * 2) != 0)
+                {
+                    ownCursor++;
+                }
+
+                if (ownCursor >= MapIndexEnd)
+                    throw new InvalidOperationException(
+                        $"No more free map entries! Needed {charList.Count} chars, " +
+                        $"allocated only {i}. Total map entries: {MapIndexEnd}");
+
+                mapIdx = ownCursor++;
+            }
 
             Encode12x12Glyph(charList[i], glyphBuf);
             Array.Copy(glyphBuf, 0, glyphData, SfPadding + i * 18, 18);
@@ -92,8 +123,6 @@ public static class SmallFontBuilder
             writeBuf[0] = (byte)(glyphIdx & 0xFF);
             writeBuf[1] = (byte)((glyphIdx >> 8) & 0xFF);
             Buffer.BlockCopy(writeBuf, 0, subContent, mapStartInSub + mapIdx * 2, 2);
-
-            mapIdx++;
         }
 
         // 4. 将修改后的 subContent 写回 CM1200
@@ -109,9 +138,21 @@ public static class SmallFontBuilder
         Console.WriteLine(
             $"SmallFont: {charList.Count} glyphs, " +
             $"S.F={glyphData.Length} bytes, " +
-            $"CM1200 patched with last mapIdx={mapIdx - 1}");
+            (sharedChars.Count > 0
+                ? $"shared mapIdx [{SharedMapIndexStart}..{sharedCursor - 1}], "
+                : "") +
+            $"own last mapIdx={ownCursor - 1}");
 
         return charMap;
+    }
+
+    /// <summary>
+    /// 共享区候选位必须满足: mapIndex 落在共享区 (lead 0x85~0x87), 且原始 map 条目空闲。
+    /// </summary>
+    private static bool IsFreeSharedSlot(byte[] subContent, int mapStartInSub, int mapIdx)
+    {
+        if (mapIdx < SharedMapIndexStart || mapIdx > SharedMapIndexEnd) return false;
+        return ExtractUtil.ReadUShort(subContent, mapStartInSub + mapIdx * 2) == 0;
     }
 
     private static void Encode12x12Glyph(char ch, byte[] output)

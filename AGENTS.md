@@ -70,6 +70,24 @@ Chinese characters use custom encoding:
 - `0x99xx` → index `(b0 - 0x99) × 256 + b1 + 768` (768+)
 - Max 2560 characters (0x85xx × 3 + 0x99xx × 7)
 
+### Shared Font Region (shared_text.txt)
+
+Characters listed in `romhack/shared_text.txt` (UTF-8, duplicates allowed, next to
+`zh_CN_translated.json`; missing file = build error) must render correctly through BOTH the
+large-font and small-font renderers, so both fonts assign them identical codes:
+
+- Shared code region: `0x8540`–`0x87FF` (full linear `IndexToSjis` trails, no SJIS domain limits).
+- Small-font side: linear inverse of `IndexToSjis` → mapIndex 768 (`0x8540`) … 1343 (`0x87FF`);
+  candidates already occupied in the original CM1200 map table are skipped. Allocated FIRST by
+  `SmallFontBuilder.Build`, own chars resume scanning at MapIndexStart=524 afterwards.
+- Big-font side: `Program.PinSharedChars` pins these codes into `Chars` before CM1100 conversion;
+  `GetNextCharId` skips reserved indices (gaps stay blank glyphs — shared chars keep their
+  position even when few other chars exist).
+- Outputs: `output/chinese_font_map.json` (big) + `output/small_font_map.json` (small);
+  `FontMapVerifier.Verify` fails the build if any shared char's codes differ across maps.
+- Non-shared codes may legitimately exist in both maps with different chars — each font only
+  renders its own text streams; verifier reports this as an informational notice.
+
 ### Script Command Format (CM1100.DAT_{id} files)
 
 Extracted command script files. Parsed by `commands_parse_tools.rb:315`:
@@ -250,14 +268,15 @@ All projects under `romhack_csharp/`, working directory is `romhack/`.
   7. CharNameDedup → removes duplicates
 
 Build (default):
-  1. Load zh_CN_translated.json + rom_text_zh_CN.json
-  2. Process CM1100 dialogues → allocate char codes → CM1100.DAT.mod2
-  3. SmallFontBuilder: render 12×12 glyphs → S.F + CM1200.DAT.mod
-  4. RomTextWriter: write translations → SLPS_025.42
-  5. GenFontBitmap: render 14×14 glyphs → chinese.fnt
-  6. CodeModifier: inject load code + JAL patches → SLPS_025.42.mod2
-  7. WriteBackMapname: translated GIFs → CM3000.DAT.mod2
-  8. mkpsxiso: build final Chinese ISO
+  1. Load zh_CN_translated.json + shared_text.txt + rom_text_zh_CN.json
+  2. SmallFontBuilder: assign shared chars (region 0x8540+) then own chars → S.F + CM1200.DAT.mod
+  3. RomTextWriter: write translations → SLPS_025.42
+  4. PinSharedChars + Process CM1100 dialogues → allocate char codes → CM1100.DAT.mod2
+  5. Write chinese_font_map.json + small_font_map.json; FontMapVerifier cross-checks them
+  6. GenFontBitmap: render 14×14 glyphs → chinese.fnt
+  7. CodeModifier: inject load code + JAL patches → SLPS_025.42.mod2
+  8. WriteBackMapname: translated GIFs → CM3000.DAT.mod2
+  9. mkpsxiso: build final Chinese ISO
 ```
 
 ## Game VM Reference (for ghidra-mcp analysis)
