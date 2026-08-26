@@ -76,6 +76,7 @@ public static class RipTool
         ExtractChapterNameImages();
         ExtractCatGameHelp();
         ExtractCatGameRewards();
+        ExtractCatGameBanner();
 
         Console.WriteLine("\nDone.");
     }
@@ -633,10 +634,12 @@ public static class RipTool
     //   - chapter-title style {flags=0x91/0x11, clut 256x1 (8bpp atlas), 20x15 tilemap}
     //     handled by ExtractCatGameHelp; each atlas is uploaded raw to VRAM
     //     (e.g. block+0xF10 pixel data == LoadImage source 0x80111128, rect 72x256).
-    //   - whole-image style {flags=0x0, clut@+0x10 as 16x16 (16 banks x 16 colors),
-    //     image@+0x214, tilemap=0} handled by ExtractCatGameRewards; the encapsulation
-    //     doubles as a TIM header and uploads as a raw VRAM page
-    //     (block+0x3485C pixels == LoadImage source 0x80144A74, rect 768,0,64,256).
+    //   - whole-image style {flags=0/1, image@+0x214, tilemap=0} handled by
+    //     ExtractCatGameRewards / ExtractCatGameBanner; the encapsulation doubles as
+    //     a TIM header and uploads as a raw VRAM page (block+0x3485C pixels ==
+    //     LoadImage source 0x80144A74, rect 768,0,64,256 => 256x256 4bpp with a 16x16
+    //     CLUT; block+0x3CCD4 pixels == source 0x8014CEEC, rect 128x136 => 256x136
+    //     8bpp with a 256x1 CLUT).
     private static void ExtractCatGameHelp()
     {
         var cm2000Path = "rom/CM2000.DAT";
@@ -726,6 +729,43 @@ public static class RipTool
         SaveAct(bmp, path, is4bpp);
         ImageMetaWriter.WriteRawTim(path, "CM2000.DAT", 0x17, baseOff);
         Console.WriteLine($"  cat_game_rewards: {bmp.Width}x{bmp.Height} saved (block+0x{baseOff:X}, 4bpp)");
+    }
+
+    // Whole-image member of the SCP container (see ExtractCatGameRewards): CM2000 0x17
+    // block+0x3CCD4, {flags=1, clut@+0x10 (256x1), image@+0x214 {128 words, 136 rows},
+    // tilemap=0}. Pixels upload raw to VRAM (LoadImage source 0x8014CEEC, rect 128x136
+    // halfwords) => 256x136 8bpp. TIM-shaped like block+0x3485C, so the standard
+    // ParseTim / WriteRawTim path applies unchanged.
+    private static void ExtractCatGameBanner()
+    {
+        var cm2000Path = "rom/CM2000.DAT";
+        if (!File.Exists(cm2000Path))
+        {
+            Console.WriteLine("\nCM2000.DAT not found, skipping cat game banner extraction.");
+            return;
+        }
+
+        Console.WriteLine("\n=== Extracting cat game banner image (CM2000 ID 0x17 block+0x3CCD4) ===");
+        var cm2000 = File.ReadAllBytes(cm2000Path);
+        var dd = ExtractUtil.GetSubcontent(cm2000, 0x17);
+        const int baseOff = 0x3CCD4;
+
+        var tilemapOff = BitConverter.ToInt32(dd, baseOff + 12) & 0xFFFFFF;
+        if (ReadU16(dd, baseOff + 0x10) != 256 || ReadU16(dd, baseOff + 0x12) != 1 || tilemapOff != 0)
+            throw new InvalidOperationException(
+                $"cat_game_banner: block+0x{baseOff:X} no longer matches the expected 8bpp whole-image layout");
+
+        using var bmp = ParseTim(dd, baseOff, out var is4bpp);
+        if (bmp == null || is4bpp)
+            throw new InvalidOperationException("cat_game_banner: failed to parse as an 8bpp TIM-style image");
+
+        var outDir = "pic_output/misc";
+        Directory.CreateDirectory(outDir);
+        var path = Path.Combine(outDir, "cat_game_banner.gif");
+        bmp.Save(path, ImageFormat.Gif);
+        SaveAct(bmp, path, is4bpp);
+        ImageMetaWriter.WriteRawTim(path, "CM2000.DAT", 0x17, baseOff);
+        Console.WriteLine($"  cat_game_banner: {bmp.Width}x{bmp.Height} saved (block+0x{baseOff:X}, 8bpp)");
     }
 
     // {flags, clut, image, tilemap} encapsulation used by CM2000 ID 0x2D-0x2F.
