@@ -77,6 +77,7 @@ public static class RipTool
         ExtractCatGameHelp();
         ExtractCatGameRewards();
         ExtractCatGameBanner();
+        ExtractFishGameBanner();
 
         Console.WriteLine("\nDone.");
     }
@@ -771,6 +772,43 @@ public static class RipTool
         SaveAct(bmp, path, is4bpp);
         ImageMetaWriter.WriteRawTim(path, "CM2000.DAT", 0x17, baseOff);
         Console.WriteLine($"  cat_game_banner: {bmp.Width}x{bmp.Height} saved (block+0x{baseOff:X}, 8bpp)");
+    }
+
+    // Whole-image member of a second SCP container: CM2000 0x1A (sector 0x59D + 203
+    // sectors, CD-read to 0x80110000 for the fish game screens). Block+0x54174 has the
+    // same TIM-shaped encapsulation {flags=1, clut@+0x10 (256x1), image@+0x214
+    // {128 words, 136 rows}, tilemap=0}; pixels upload raw to VRAM (LoadImage source
+    // 0x8016438C, rect 128x136 halfwords) => 256x136 8bpp.
+    private static void ExtractFishGameBanner()
+    {
+        var cm2000Path = "rom/CM2000.DAT";
+        if (!File.Exists(cm2000Path))
+        {
+            Console.WriteLine("\nCM2000.DAT not found, skipping fish game banner extraction.");
+            return;
+        }
+
+        Console.WriteLine("\n=== Extracting fish game banner image (CM2000 ID 0x1A block+0x54174) ===");
+        var cm2000 = File.ReadAllBytes(cm2000Path);
+        var dd = ExtractUtil.GetSubcontent(cm2000, 0x1A);
+        const int baseOff = 0x54174;
+
+        var tilemapOff = BitConverter.ToInt32(dd, baseOff + 12) & 0xFFFFFF;
+        if (ReadU16(dd, baseOff + 0x10) != 256 || ReadU16(dd, baseOff + 0x12) != 1 || tilemapOff != 0)
+            throw new InvalidOperationException(
+                $"fish_game_banner: block+0x{baseOff:X} no longer matches the expected 8bpp whole-image layout");
+
+        using var bmp = ParseTim(dd, baseOff, out var is4bpp);
+        if (bmp == null || is4bpp)
+            throw new InvalidOperationException("fish_game_banner: failed to parse as an 8bpp TIM-style image");
+
+        var outDir = "pic_output/misc";
+        Directory.CreateDirectory(outDir);
+        var path = Path.Combine(outDir, "fish_game_banner.gif");
+        bmp.Save(path, ImageFormat.Gif);
+        SaveAct(bmp, path, is4bpp);
+        ImageMetaWriter.WriteRawTim(path, "CM2000.DAT", 0x1A, baseOff);
+        Console.WriteLine($"  fish_game_banner: {bmp.Width}x{bmp.Height} saved (block+0x{baseOff:X}, 8bpp)");
     }
 
     // {flags, clut, image, tilemap} encapsulation used by CM2000 ID 0x2D-0x2F.
