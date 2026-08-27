@@ -81,9 +81,14 @@ public static class RipTool
         Console.WriteLine("\nDone.");
     }
 
+    // Extracts the CLUT and applies same-color avoidance here (not in SaveAct) so the
+    // bitmap palette itself carries unique colors - GIF, ACT and any downstream tool
+    // all agree on one color per index. Duplicate entries get nudged (+1 on R/G/B,
+    // cycling with growing increment); alpha/transparency stays untouched.
     private static Color[] ParseCluts(byte[] subData, int offset, int clutW, int clutH)
     {
         var colors = new List<Color>();
+        var seen = new HashSet<int>();
         for (var i = 0; i < clutW * clutH; i++)
         {
             var c = BitConverter.ToUInt16(subData, offset + i * 2);
@@ -91,9 +96,34 @@ public static class RipTool
             var g = ((c >> 5) & 0x1F) << 3;
             var b = ((c >> 10) & 0x1F) << 3;
             var a = (i == 0 && r == 0 && g == 0 && b == 0) ? 0 : (c == 0 ? 0 : 255);
+            AvoidDuplicateColor(seen, ref r, ref g, ref b);
             colors.Add(Color.FromArgb(a, r, g, b));
         }
         return colors.ToArray();
+    }
+
+    // Keeps a set of unique RGB24 keys; nudges (r,g,b) until its key is unseen.
+    private static void AvoidDuplicateColor(HashSet<int> seen, ref int r, ref int g, ref int b)
+    {
+        if (seen.Add((r << 16) | (g << 8) | b))
+            return;
+        var tweak = 0;
+        while (true)
+        {
+            var inc = tweak / 3 + 1;
+            var channel = tweak % 3;
+            var cr = channel == 0 ? Math.Min(r + inc, 255) : r;
+            var cg = channel == 1 ? Math.Min(g + inc, 255) : g;
+            var cb = channel == 2 ? Math.Min(b + inc, 255) : b;
+            if (seen.Add((cr << 16) | (cg << 8) | cb))
+            {
+                r = cr;
+                g = cg;
+                b = cb;
+                return;
+            }
+            tweak++;
+        }
     }
 
     private static Bitmap ParsePix(byte[] subData, int offset, int pixW, int pixH, Color[] cluts, bool bit4)
@@ -327,45 +357,20 @@ public static class RipTool
         return map;
     }
 
+    // The palette already went through same-color avoidance in ParseCluts, so the ACT
+    // is just a straight dump of the same colors the GIF uses.
     private static void SaveAct(Bitmap bmp, string gifPath, bool is4bpp)
     {
         var actPath = Path.ChangeExtension(gifPath, ".act");
         var palette = bmp.Palette;
         var colorCount = is4bpp ? 16 : 256;
         var actData = new byte[768];
-        var seen = new HashSet<int>();
         for (var i = 0; i < colorCount; i++)
         {
             var c = palette.Entries[i];
-            var r = (int)c.R;
-            var g = (int)c.G;
-            var b = (int)c.B;
-            var key = (r << 16) | (g << 8) | b;
-            if (seen.Add(key))
-            {
-                actData[i * 3] = (byte)r;
-                actData[i * 3 + 1] = (byte)g;
-                actData[i * 3 + 2] = (byte)b;
-                continue;
-            }
-            var tweak = 0;
-            while (true)
-            {
-                var inc = tweak / 3 + 1;
-                var channel = tweak % 3;
-                var cr = channel == 0 ? Math.Min(r + inc, 255) : r;
-                var cg = channel == 1 ? Math.Min(g + inc, 255) : g;
-                var cb = channel == 2 ? Math.Min(b + inc, 255) : b;
-                key = (cr << 16) | (cg << 8) | cb;
-                if (seen.Add(key))
-                {
-                    actData[i * 3] = (byte)cr;
-                    actData[i * 3 + 1] = (byte)cg;
-                    actData[i * 3 + 2] = (byte)cb;
-                    break;
-                }
-                tweak++;
-            }
+            actData[i * 3] = c.R;
+            actData[i * 3 + 1] = c.G;
+            actData[i * 3 + 2] = c.B;
         }
         Console.WriteLine(actPath);
         File.WriteAllBytes(actPath, actData);
