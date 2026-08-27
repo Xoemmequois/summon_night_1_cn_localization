@@ -75,8 +75,10 @@ public static class RipTool
         ExtractBattleUI();
         ExtractChapterNameImages();
         ExtractCatGameHelp();
+        ExtractFishGameHelp();
         ExtractCatGameRewards();
         ExtractCatGameBanner();
+        ExtractFishGameRewards();
         ExtractFishGameBanner();
 
         Console.WriteLine("\nDone.");
@@ -698,6 +700,49 @@ public static class RipTool
         }
     }
 
+    // Fish game-help screen: CM2000.DAT subcontent 0x1A ("SCP" container, sector
+    // 0x59D + 203 sectors CD-read wholesale to 0x80110000). block+0x17EC is
+    // chapter-title style {flags=0x91, clut@+0x10 (256x1 => 8bpp), image@+0x214,
+    // tilemap 20x15}; its pixel data at block+0x1A04 == the LoadImage VRAM upload
+    // source 0x801111A04, rect 88x256 halfwords => 176x256 px atlas.
+    private static void ExtractFishGameHelp()
+    {
+        var cm2000Path = "rom/CM2000.DAT";
+        if (!File.Exists(cm2000Path))
+        {
+            Console.WriteLine("\nCM2000.DAT not found, skipping fish game help extraction.");
+            return;
+        }
+
+        Console.WriteLine("\n=== Extracting fish game help image (CM2000 ID 0x1A block+0x17EC) ===");
+        var cm2000 = File.ReadAllBytes(cm2000Path);
+        var dd = ExtractUtil.GetSubcontent(cm2000, 0x1A);
+        const int baseOff = 0x17EC;
+
+        var tilemapOff = BitConverter.ToInt32(dd, baseOff + 12) & 0xFFFFFF;
+        if (BitConverter.ToInt32(dd, baseOff + 4) != 0x10 ||
+            ReadU16(dd, baseOff + 0x10) != 256 || ReadU16(dd, baseOff + 0x12) != 1 || tilemapOff == 0)
+            throw new InvalidOperationException(
+                $"fish_game_help: block+0x{baseOff:X} no longer matches the expected tilemap-atlas layout");
+
+        var sub = new byte[dd.Length - baseOff];
+        Buffer.BlockCopy(dd, baseOff, sub, 0, sub.Length);
+        using var bmp = BuildTilemapImage(sub, out var is4bpp,
+            out var atlasCols, out var atlasRows, out var mapCols, out var mapRows);
+        if (bmp == null)
+            throw new InvalidOperationException("fish_game_help: failed to build the tilemap image");
+
+        var outDir = "pic_output/misc";
+        Directory.CreateDirectory(outDir);
+        var path = Path.Combine(outDir, "fish_game_help.gif");
+        bmp.Save(path, ImageFormat.Gif);
+        SaveAct(bmp, path, is4bpp);
+        ImageMetaWriter.WriteTilemap(path, "CM2000.DAT", 0x1A,
+            atlasCols, atlasRows, mapCols, mapRows, baseOffset: baseOff);
+        Console.WriteLine(
+            $"  fish_game_help: {bmp.Width}x{bmp.Height} saved (block+0x{baseOff:X}, {atlasCols}x{atlasRows} atlas tiles)");
+    }
+
     // Whole-image member of the SCP container (see ExtractCatGameHelp): CM2000 0x17
     // block+0x3485C, {flags=0, clut@+0x10 (16x16), image@+0x214, tilemap=0}. The pixel
     // header {64 words, 256 rows} uploads raw to VRAM rect (768,0,64,256) => 256x256 4bpp,
@@ -772,6 +817,44 @@ public static class RipTool
         SaveAct(bmp, path, is4bpp);
         ImageMetaWriter.WriteRawTim(path, "CM2000.DAT", 0x17, baseOff);
         Console.WriteLine($"  cat_game_banner: {bmp.Width}x{bmp.Height} saved (block+0x{baseOff:X}, 8bpp)");
+    }
+
+    // Whole-image member of the fish game SCP container (see ExtractFishGameBanner):
+    // CM2000 0x1A block+0x4B398, {flags=0, clut@+0x10 (16x16), image@+0x214
+    // {64 words, 256 rows}, tilemap=0}. Pixels upload raw to VRAM (LoadImage source
+    // 0x8015B5B0, rect 64x256 halfwords) => 256x256 4bpp, low nibble first; like
+    // cat_game_rewards the pixels reference only palette bank 0 (entries 0-15) and the
+    // TIM-shaped layout routes extraction and write-back through the standard TIM path.
+    private static void ExtractFishGameRewards()
+    {
+        var cm2000Path = "rom/CM2000.DAT";
+        if (!File.Exists(cm2000Path))
+        {
+            Console.WriteLine("\nCM2000.DAT not found, skipping fish game rewards extraction.");
+            return;
+        }
+
+        Console.WriteLine("\n=== Extracting fish game reward image (CM2000 ID 0x1A block+0x4B398) ===");
+        var cm2000 = File.ReadAllBytes(cm2000Path);
+        var dd = ExtractUtil.GetSubcontent(cm2000, 0x1A);
+        const int baseOff = 0x4B398;
+
+        var tilemapOff = BitConverter.ToInt32(dd, baseOff + 12) & 0xFFFFFF;
+        if (ReadU16(dd, baseOff + 0x10) != 16 || ReadU16(dd, baseOff + 0x12) != 16 || tilemapOff != 0)
+            throw new InvalidOperationException(
+                $"fish_game_rewards: block+0x{baseOff:X} no longer matches the expected 4bpp whole-image layout");
+
+        using var bmp = ParseTim(dd, baseOff, out var is4bpp);
+        if (bmp == null || !is4bpp)
+            throw new InvalidOperationException("fish_game_rewards: failed to parse as a 4bpp TIM-style image");
+
+        var outDir = "pic_output/misc";
+        Directory.CreateDirectory(outDir);
+        var path = Path.Combine(outDir, "fish_game_rewards.gif");
+        bmp.Save(path, ImageFormat.Gif);
+        SaveAct(bmp, path, is4bpp);
+        ImageMetaWriter.WriteRawTim(path, "CM2000.DAT", 0x1A, baseOff);
+        Console.WriteLine($"  fish_game_rewards: {bmp.Width}x{bmp.Height} saved (block+0x{baseOff:X}, 4bpp)");
     }
 
     // Whole-image member of a second SCP container: CM2000 0x1A (sector 0x59D + 203
