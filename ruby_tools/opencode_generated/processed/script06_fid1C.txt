@@ -69,8 +69,8 @@
 --- Group [left:加泽尔 next=2012] ---G
 なんだ
 てめぇは！？
-+[FID:1C, TEXT:000E] 什么
-+[FID:1C, TEXT:000F] 是你！？
++[FID:1C, TEXT:000E] 什么人
++[FID:1C, TEXT:000F] 你是！？
 
 --- Group [left:主人公 next=2012] ---G
 待ってくれ、ガゼル！
@@ -148,7 +148,7 @@
 俺の名前はソル
 +[FID:1C, TEXT:0023] 我叫索尔
 
---- Group [right:卡西斯 next=2012] ---G
+--- Group [right:卡茜丝 next=2012] ---G
 @nが
 この世界に来た理由
 を知ってる女の子だよ
@@ -246,7 +246,7 @@
 え・・・？
 +[FID:1C, TEXT:0038] 诶……？
 
---- Group [right:卡西斯 next=2012] ---G
+--- Group [right:卡茜丝 next=2012] ---G
 ある召喚の儀式が失敗
 して、その結果として
 彼女はこの世界に呼ば
@@ -286,7 +286,7 @@
 +[FID:1C, TEXT:0084] 你就被召唤到
 +[FID:1C, TEXT:0085] 这个世界来了
 
---- Group [right:卡西斯 next=0023] ---G
+--- Group [right:卡茜丝 next=0023] ---G
 ある召喚の儀式が失敗
 して、その結果として
 彼はこの世界に呼ばれ
@@ -532,7 +532,7 @@
 +[FID:1C, TEXT:00EC] 他会来这儿是
 +[FID:1C, TEXT:00ED] 个意外……
 
---- Group [right:卡西斯 next=2012] ---G
+--- Group [right:卡茜丝 next=2012] ---G
 結論から先に言えば、
 事故なのよ
 -[FID:1C, TEXT:0080] 先说结论吧，
@@ -606,7 +606,7 @@
 残念ながら、不可能だ
 +[FID:1C, TEXT:0092] 很遗憾，不可能
 
---- Group [right:卡西斯 next=2012] ---G
+--- Group [right:卡茜丝 next=2012] ---G
 儀式をしていた召喚師
 は、みんな死んでるの
 あたしは見習いだった
@@ -680,7 +680,7 @@
 う〜ん・・・
 +[FID:1C, TEXT:00A6] 嗯……
 
---- Group [right:卡西斯 next=2012] ---G
+--- Group [right:卡茜丝 next=2012] ---G
 やっほー、無事かな？
 +[FID:1C, TEXT:00A7] 呀吼——，没事吧？
 
@@ -688,31 +688,31 @@
 な、なんだ
 てめぇは！？
 +[FID:1C, TEXT:00A8] 什、什么
--[FID:1C, TEXT:000F] 是你！？
+-[FID:1C, TEXT:000F] 你是！？
 
---- Group [right:卡西斯 next=2012] ---G
+--- Group [right:卡茜丝 next=2012] ---G
 へへへ
 ま、そーゆーこと
 +[FID:1C, TEXT:00AC] 嘿嘿嘿
 +[FID:1C, TEXT:00AD] 嘛，就是这么回事
 
---- Group [right:卡西斯 next=2012] ---G
+--- Group [right:卡茜丝 next=2012] ---G
 あたし？
 あたしはカシス
 +[FID:1C, TEXT:00AE] 我？
-+[FID:1C, TEXT:00AF] 我是卡西斯
++[FID:1C, TEXT:00AF] 我是卡茜丝
 
---- Group [right:卡西斯 next=2012] ---G
+--- Group [right:卡茜丝 next=2012] ---G
 うん、そうよ
 +[FID:1C, TEXT:00B2] 嗯，没错
 
---- Group [right:卡西斯 next=2012] ---G
+--- Group [right:卡茜丝 next=2012] ---G
 なによぉ
 その露骨な敵意は？
 +[FID:1C, TEXT:00B3] 干嘛呀
 +[FID:1C, TEXT:00B4] 这么明显的敌意？
 
---- Group [right:卡西斯 next=2012] ---G
+--- Group [right:卡茜丝 next=2012] ---G
 ・・・ま、いいわ
 @n
 詳しい話、聞きたい？
@@ -728,7 +728,7 @@
 あ、はい・・・
 +[FID:1C, TEXT:00B8] 啊，好的……
 
---- Group [right:卡西斯 next=2012] ---G
+--- Group [right:卡茜丝 next=2012] ---G
 うーん、ゴメンねぇ
 +[FID:1C, TEXT:00C2] 嗯——，抱歉啦
 
@@ -738,23 +738,23 @@
 +[FID:1C, TEXT:00C3] 一句抱歉就能了事吗！
 -[FID:1C, TEXT:004B] 少胡说八道了！！
 
---- Group [right:卡西斯 next=2012] ---G
+--- Group [right:卡茜丝 next=2012] ---G
 事実だもん
 仕方ないじゃない
 +[FID:1C, TEXT:00C4] 因为是事实嘛
 +[FID:1C, TEXT:00C5] 没办法啊
 
---- Group [right:卡西斯 next=2012] ---G
+--- Group [right:卡茜丝 next=2012] ---G
 残念ながら、無理ね
 +[FID:1C, TEXT:00C6] 很遗憾，不行呢
 
---- Group [right:卡西斯 next=2012] ---G
+--- Group [right:卡茜丝 next=2012] ---G
 そう暗くなんないで
 あたしがついてるわ！
 +[FID:1C, TEXT:00CA] 别那么消沉嘛
 +[FID:1C, TEXT:00CB] 有我在呢！
 
---- Group [right:卡西斯 next=2012] ---G
+--- Group [right:卡茜丝 next=2012] ---G
 キミが帰れるように、
 責任をもって最後まで
 面倒みちゃうから！
@@ -762,7 +762,7 @@
 +[FID:1C, TEXT:00CD] 我会负责任地
 +[FID:1C, TEXT:00CE] 照顾你到最后！
 
---- Group [right:卡西斯 next=2012] ---G
+--- Group [right:卡茜丝 next=2012] ---G
 というわけで、あたし
 もあなたたちのおうち
 にお世話になるね？
@@ -770,7 +770,7 @@
 +[FID:1C, TEXT:00D0] 家去啦，好吗？
 +[FID:1C, TEXT:00D1] 
 
---- Group [right:卡西斯 next=2012] ---G
+--- Group [right:卡茜丝 next=2012] ---G
 ねえねえ
 @n
 いいでしょ？
@@ -982,13 +982,13 @@
 さあ、あなたも！
 +[FID:1C, TEXT:0124] 来，你也快走！
 
---- Group [right:卡西斯 next=2012] ---G
+--- Group [right:卡茜丝 next=2012] ---G
 じょーだん！
 さっき言ったでしょ？
 +[FID:1C, TEXT:0125] 开玩笑！
 +[FID:1C, TEXT:0126] 刚才不是说了吗？
 
---- Group [right:卡西斯 next=2012] ---G
+--- Group [right:卡茜丝 next=2012] ---G
 あたしはキミが帰れる
 まで、責任もって面倒
 みるの・・・逃げたり

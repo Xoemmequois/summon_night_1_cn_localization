@@ -1,8 +1,8 @@
 --- Group [right:加泽尔 next=2012] ---G
 どうして連れてきちま
 ったんだよ！？
-+[FID:1D, TEXT:0001] 为什么把他带过来了！
-+[FID:1D, TEXT:0002] ？
++[FID:1D, TEXT:0001] 为什么把人给带回来了
++[FID:1D, TEXT:0002] ！？
 
 --- Group [left:主人公 next=0023] ---G
 だって・・・
@@ -41,8 +41,8 @@
 助けてもらったことは
 事実だしなぁ
 +[FID:1D, TEXT:000B] 嗯……
-+[FID:1D, TEXT:000C] 被他救了是事实嘛
-+[FID:1D, TEXT:000D] 
++[FID:1D, TEXT:000C] 毕竟被那个人救了
++[FID:1D, TEXT:000D] 也是事实嘛
 
 --- Group [right:雷德 next=2012] ---G
 ・・・リプレには事情
@@ -161,7 +161,7 @@
 　信じたい・・・
 　正直、信じられません
 +[FID:1D, TEXT:0033] 怎么办？
-+[FID:1D, TEXT:0034] 　想相信他……
++[FID:1D, TEXT:0034] 　想相信那个人……
 +[FID:1D, TEXT:0035] 　老实说，我不相信
 
 --- Group [left:none next=0023] ---G
@@ -180,7 +180,7 @@
 私も、信じてもいいと
 思うよ
 +[FID:1D, TEXT:003A] 我也觉得可以相信
-+[FID:1D, TEXT:003B] 我是这么想的
++[FID:1D, TEXT:003B] 
 
 --- Group [right:艾多斯 next=2012] ---G
 同感だ

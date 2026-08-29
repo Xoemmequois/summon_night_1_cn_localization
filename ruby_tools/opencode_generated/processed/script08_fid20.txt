@@ -72,26 +72,26 @@
 ・・・あ、ああ！
 どうしたんだ？
 +[FID:20, TEXT:0016] ……啊，啊啊！
-+[FID:20, TEXT:0017] 怎么了？
++[FID:20, TEXT:0017] 有什么事吗？
 
 --- Group [left:none next=2012] ---G
 どうかしちゃってるの
 はレイドさんでしょ
-+[FID:20, TEXT:0018] 不对劲的是
++[FID:20, TEXT:0018] 有事的是
 +[FID:20, TEXT:0019] 雷德先生您吧
 
 --- Group [left:none next=2012] ---G
 どうかしちゃってるの
 はレイドさんじゃ
 ないですか？
--[FID:20, TEXT:0018] 不对劲的是
+-[FID:20, TEXT:0018] 有事的是
 +[FID:20, TEXT:0021] 雷德先生不是
 +[FID:20, TEXT:0022] 吗？
 
 --- Group [left:none next=2012] ---G
 どうかしちゃってるの
 はレイドさんですよ
--[FID:20, TEXT:0018] 不对劲的是
+-[FID:20, TEXT:0018] 有事的是
 +[FID:20, TEXT:001B] 雷德先生您啊
 
 --- Group [left:主人公 next=0023] ---G
@@ -107,7 +107,7 @@
 --- Group [left:none next=2012] ---G
 もう、それはレイド
 さんのほうでしょ？
-+[FID:20, TEXT:001E] 真是的，那明明是
++[FID:20, TEXT:001E] 真是的，有事的明明是
 +[FID:20, TEXT:001F] 雷德先生您才对吧？
 
 --- Group [left:none next=0023] ---G
@@ -538,7 +538,7 @@
 
 --- Group [left:none next=0023] ---G
 カシスのこと、
-+[FID:20, TEXT:009F] 关于卡西斯的事、
++[FID:20, TEXT:009F] 关于卡茜丝的事、
 
 --- Group [left:主人公 next=0023] ---G
 クラレットのこと、
@@ -554,7 +554,7 @@
 
 --- Group [left:none next=0023] ---G
 カシスについて
-+[FID:20, TEXT:00A3] 关于卡西斯
++[FID:20, TEXT:00A3] 关于卡茜丝
 
 --- Group [left:主人公 next=0023] ---G
 クラレットについて
@@ -586,7 +586,7 @@
 
 --- Group [left:主人公 next=0023] ---G
 カシスさんのこと
-+[FID:20, TEXT:00AB] 关于卡西斯先生的事
++[FID:20, TEXT:00AB] 关于卡茜丝小姐的事
 
 --- Group [left:主人公 next=0023] ---G
 どう思いますか？
@@ -880,7 +880,7 @@
 
 --- Group [left:none next=0023] ---G
 カシスさんについて
-+[FID:20, TEXT:0102] 关于卡西斯先生
++[FID:20, TEXT:0102] 关于卡茜丝小姐
 
 --- Group [right:斯沃恩 next=2012] ---G
 まだゆっくり話をした
@@ -990,7 +990,7 @@
 
 --- Group [right:斯沃恩 next=0023] ---G
 カシス
-+[FID:20, TEXT:0129] 卡西斯
++[FID:20, TEXT:0129] 卡茜丝
 
 --- Group [right:none next=0023] ---G
 クラレット
@@ -1226,7 +1226,7 @@
 
 --- Group [left:主人公 next=0023] ---G
 カシスさん
-+[FID:20, TEXT:016A] 卡西斯先生
++[FID:20, TEXT:016A] 卡茜丝小姐
 
 --- Group [left:主人公 next=0023] ---G
 ちょっといいですか？
@@ -1255,7 +1255,7 @@
 けしませんか？
 +[FID:20, TEXT:016F] 你自从来到这里之后
 +[FID:20, TEXT:0170] 就一直把自己关在房间
-+[FID:20, TEXT:017B] 里要不要一起出去
++[FID:20, TEXT:017B] 里，要不要一起出去
 +[FID:20, TEXT:0197] 走走呢？
 
 --- Group [left:主人公 next=0023] ---G
@@ -1265,7 +1265,7 @@
 行かないか？
 -[FID:20, TEXT:016F] 你自从来到这里之后
 -[FID:20, TEXT:0170] 就一直把自己关在房间
-+[FID:20, TEXT:0171] 里要不要一起出去
++[FID:20, TEXT:0171] 里，要不要一起出去
 +[FID:20, TEXT:0172] 走走？
 
 --- Group [left:主人公 next=0023] ---G
@@ -1285,7 +1285,7 @@
 けでもしませんか？
 -[FID:20, TEXT:016F] 你自从来到这里之后
 -[FID:20, TEXT:0170] 就一直把自己关在房间
--[FID:20, TEXT:017B] 里要不要一起出去
+-[FID:20, TEXT:017B] 里，要不要一起出去
 +[FID:20, TEXT:017C] 走走呢？
 
 --- Group [left:主人公 next=0023] ---G
@@ -1398,7 +1398,7 @@
 ざんねんです・・・
 +[FID:20, TEXT:0193] 真遗憾……
 
---- Group [right:卡西斯 next=2012] ---G
+--- Group [right:卡茜丝 next=2012] ---G
 あれ、なんか用？
 +[FID:20, TEXT:0195] 咦，有事吗？
 
@@ -1406,7 +1406,7 @@
 ええ
 +[FID:20, TEXT:0196] 嗯
 
---- Group [right:卡西斯 next=2012] ---G
+--- Group [right:卡茜丝 next=2012] ---G
 えっ、それって
 もしかしてデートの
 お誘いってこと？
@@ -1430,15 +1430,15 @@
 +[FID:20, TEXT:019F] 我们都是
 +[FID:20, TEXT:01A0] 女孩子吧……
 
---- Group [right:卡西斯 next=2012] ---G
+--- Group [right:卡茜丝 next=2012] ---G
 えーっ、違うの！？
 ・・・つまんないなぁ
 +[FID:20, TEXT:01A1] 诶，不是吗！？
-+[FID:20, TEXT:01A2] ……真没劲。
++[FID:20, TEXT:01A2] ……真没劲
 
---- Group [right:卡西斯 next=2012] ---G
+--- Group [right:卡茜丝 next=2012] ---G
 だったら行かなーい
-+[FID:20, TEXT:01A3] 那就不去了~。
++[FID:20, TEXT:01A3] 那就不去了～
 
 --- Group [left:主人公 next=0023] ---G
 なんか、うまくはぐら
@@ -1478,7 +1478,7 @@
 -[FID:20, TEXT:022F] 不过，这样确实不行
 +[FID:20, TEXT:0230] 吧
 
---- Group [right:卡西斯 next=2012] ---G
+--- Group [right:卡茜丝 next=2012] ---G
 うん
 でも、それじゃ本当は
 いけないんだよね
@@ -2166,7 +2166,7 @@
 +[FID:20, TEXT:025C] ……你是怕
 +[FID:20, TEXT:025D] 我会做出什么事吗？
 
---- Group [right:卡西斯 next=2012] ---G
+--- Group [right:卡茜丝 next=2012] ---G
 ・・・何をしでかすか
 不安ってコト？
 -[FID:20, TEXT:025C] ……你是怕
@@ -2280,7 +2280,7 @@
 -[FID:20, TEXT:01BF] 把自己关在房间里
 +[FID:20, TEXT:027C] 可不好
 
---- Group [right:卡西斯 next=2012] ---G
+--- Group [right:卡茜丝 next=2012] ---G
 えー、ちゃんと運動は
 してるよ？
 +[FID:20, TEXT:027D] 诶——我有好好
@@ -2300,7 +2300,7 @@
 +[FID:20, TEXT:0282] 和大家
 +[FID:20, TEXT:0283] 多说说话好吗？
 
---- Group [right:卡西斯 next=2012] ---G
+--- Group [right:卡茜丝 next=2012] ---G
 話すって、何を？
 +[FID:20, TEXT:0284] 话说，谈什么？
 
@@ -2312,7 +2312,7 @@
 +[FID:20, TEXT:0288] 一个人待着
 +[FID:20, TEXT:0289] 也挺无聊的
 
---- Group [right:卡西斯 next=2012] ---G
+--- Group [right:卡茜丝 next=2012] ---G
 ・・・まあ、ね
 +[FID:20, TEXT:028A] ……嘛，也是
 
@@ -2328,7 +2328,7 @@
 あの、そうですよね
 +[FID:20, TEXT:028D] 那个，是这样呢
 
---- Group [right:卡西斯 next=2012] ---G
+--- Group [right:卡茜丝 next=2012] ---G
 でも、あたしなんかと
 話をしたがる人なんて
 いないと思うけど
@@ -2356,7 +2356,7 @@
 -[FID:20, TEXT:01F2] 多和你聊聊
 -[FID:20, TEXT:01F3] 的……
 
---- Group [right:卡西斯 next=2012] ---G
+--- Group [right:卡茜丝 next=2012] ---G
 ・・・うん、わかった
 +[FID:20, TEXT:0297] ……嗯，明白了
 
@@ -2388,7 +2388,7 @@
 +[FID:20, TEXT:02A0] 不安好像
 +[FID:20, TEXT:02A1] 减轻了些……
 
---- Group [right:卡西斯 next=2012] ---G
+--- Group [right:卡茜丝 next=2012] ---G
 キミ、
 心配してくれてるの？
 +[FID:20, TEXT:02A2] 你，
@@ -2400,13 +2400,13 @@
 +[FID:20, TEXT:02A4] 嗯，简单来说
 +[FID:20, TEXT:02A5] 就是这样……
 
---- Group [right:卡西斯 next=2012] ---G
+--- Group [right:卡茜丝 next=2012] ---G
 ありがとう
 あのさ・・・
 +[FID:20, TEXT:02A6] 谢谢
 +[FID:20, TEXT:02A7] 那个啊……
 
---- Group [right:卡西斯 next=2012] ---G
+--- Group [right:卡茜丝 next=2012] ---G
 あたしって強引だから
 さ、せっかくみんなが
 作ってるいい雰囲気を
@@ -2416,13 +2416,13 @@
 +[FID:20, TEXT:02AA] 好不容易营造的好气氛
 +[FID:20, TEXT:02AB] 给破坏掉
 
---- Group [right:卡西斯 next=2012] ---G
+--- Group [right:卡茜丝 next=2012] ---G
 ちょっとだけ、引いち
 ゃってたんだよね
 +[FID:20, TEXT:02AC] 所以就有点
 +[FID:20, TEXT:02AD] 退缩了
 
---- Group [right:卡西斯 next=2012] ---G
+--- Group [right:卡茜丝 next=2012] ---G
 うん、少しずつ積極的
 になってみるかな
 +[FID:20, TEXT:02B0] 嗯，还是试着
@@ -2942,7 +2942,7 @@
 どうしたんだ？
 +[FID:20, TEXT:034E] 呀，埃多斯，
 -[FID:20, TEXT:034C] 你在这儿
--[FID:20, TEXT:0017] 怎么了？
+-[FID:20, TEXT:0017] 有什么事吗？
 
 --- Group [left:主人公 next=0023] ---G
 あ、エドスさん
@@ -3402,25 +3402,25 @@
 暮らしています
 +[FID:20, TEXT:03E3] 我叫斯沃恩
 +[FID:20, TEXT:03E4] 在这附近以打猎为生
-+[FID:20, TEXT:03E5] 住在一起
++[FID:20, TEXT:03E5] 
 
 --- Group [left:主人公 next=0023] ---G
 その、スウォンは平気
 なのかい？
-+[FID:20, TEXT:03E6] 那个，斯沃恩，你没事
-+[FID:20, TEXT:03E7] 吗？
++[FID:20, TEXT:03E6] 那个，斯沃恩，你没
++[FID:20, TEXT:03E7] 问题吗？
 
 --- Group [left:主人公 next=0023] ---G
 その、スウォンは平気
 なの？
--[FID:20, TEXT:03E6] 那个，斯沃恩，你没事
-+[FID:20, TEXT:03E8] 吗？
+-[FID:20, TEXT:03E6] 那个，斯沃恩，你没
++[FID:20, TEXT:03E8] 问题吗？
 
 --- Group [left:主人公 next=0023] ---G
 その、スウォンくんは
 平気なんですか？
 +[FID:20, TEXT:03E9] 那个，斯沃恩君，
-+[FID:20, TEXT:03EA] 你没关系吗？
++[FID:20, TEXT:03EA] 你没问题吗？
 
 --- Group [right:斯沃恩 next=2012] ---G
 狩人が森をこわがって
