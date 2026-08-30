@@ -38,7 +38,7 @@
 
 --- Group [right:char_003F next=2012] ---G
 俺はここでお別れだ
-+[FID:36, TEXT:000B] 我就到这儿了
++[FID:36, TEXT:000B] 我们就此分别吧
 
 --- Group [right:none next=2012] ---G
 俺はお前たちに
@@ -148,7 +148,7 @@
 あたしは、キミに嘘を
 ついてたんだよ・・・
 +[FID:36, TEXT:002C] 我，对你撒了谎……
-+[FID:36, TEXT:002D] 一直瞒着……
++[FID:36, TEXT:002D] 
 
 --- Group [right:char_003F next=2012] ---G
 それに今だって、まだ
@@ -156,9 +156,9 @@
 を話したわけじゃない
 んだよ！？
 +[FID:36, TEXT:002E] 而且就算是现在，也
-+[FID:36, TEXT:002F] 说不定没把知道的一切
-+[FID:36, TEXT:0030] 全都说出来
-+[FID:36, TEXT:0031] 呢！？
++[FID:36, TEXT:002F] 没把知道的一切
++[FID:36, TEXT:0030] 全都说出来哦！？
++[FID:36, TEXT:0031] 
 
 --- Group [right:char_003F next=2012] ---G
 それに今だって、まだ
@@ -311,10 +311,10 @@
 まだ、何かを隠して
 いると、言ってくれま
 すよね・・・
-+[FID:36, TEXT:005D] 你说
-+[FID:36, TEXT:005E] 你可能还在隐瞒
-+[FID:36, TEXT:005F] 些什么呢
-+[FID:36, TEXT:0060] 对吧……
++[FID:36, TEXT:005D] 你总是那样，
++[FID:36, TEXT:005E] 说自己还在隐瞒着
++[FID:36, TEXT:005F] 什么，对吧……
++[FID:36, TEXT:0060] 
 
 --- Group [left:none next=0023] ---G
 だから、あなたが
@@ -665,8 +665,8 @@
 --- Group [left:none next=2012] ---G
 無理に、
 とは思いません
-+[FID:36, TEXT:00BF] 我不会强迫
-+[FID:36, TEXT:00C0] 你的
++[FID:36, TEXT:00BF] 我不会强迫你的
++[FID:36, TEXT:00C0] 
 
 --- Group [left:none next=2012] ---G
 君が俺を助けたいよう

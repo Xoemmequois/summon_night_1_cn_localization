@@ -54,39 +54,39 @@
 
 --- Group [right:none next=0023] ---G
 　自ら認めてくれたキール
-+[FID:37, TEXT:0005] 　主动承认的基尔
++[FID:37, TEXT:0005] 　基尔能够主动承认
 
 --- Group [right:char_003F next=0023] ---G
 　自ら認めてくれたカシス
-+[FID:37, TEXT:0006] 　主动承认的卡茜丝
++[FID:37, TEXT:0006] 　卡茜丝能够主动承认
 
 --- Group [left:none next=0023] ---G
 　自ら認めてくれたクラレット
-+[FID:37, TEXT:0007] 　主动承认的克拉蕾特
++[FID:37, TEXT:0007] 　克拉蕾特能够主动承认
 
 --- Group [left:none next=201D] ---G
 　それだけで、今は充分だから
-+[FID:37, TEXT:0008] 　仅此而已，现在这样就足够了
++[FID:37, TEXT:0008] 　光是这一点，现在就已经就足够了
 
 --- Group [right:char_003F next=0023] ---G
 　自ら認めてくれたソル
-+[FID:37, TEXT:000B] 　主动承认的索尔
++[FID:37, TEXT:000B] 　索尔能够主动承认
 
 --- Group [left:none next=201D] ---G
 　それだけで、今は充分
-+[FID:37, TEXT:000E] 　仅此而已，现在这样就足够了
++[FID:37, TEXT:000E] 　光是这一点，现在就已经就足够了
 
 --- Group [left:none next=0023] ---G
 　自ら認めてくれたソルさん
-+[FID:37, TEXT:0010] 　主动承认的索尔先生
++[FID:37, TEXT:0010] 　索尔先生能够主动承认
 
 --- Group [right:char_003F next=0023] ---G
 　自ら認めてくれたキールさん
-+[FID:37, TEXT:0011] 　主动承认的基尔先生
++[FID:37, TEXT:0011] 　基尔先生能够主动承认
 
 --- Group [right:char_003F next=0023] ---G
 　自ら認めてくれたカシスさん
-+[FID:37, TEXT:0012] 　主动承认的卡茜丝小姐
++[FID:37, TEXT:0012] 　卡茜丝小姐能够主动承认
 
 --- Group [right:char_003F next=0023] ---G
 ソル
@@ -1126,19 +1126,19 @@
 　　　初めてだよな・・・
 　　　あんなふうに笑ったの
 +[FID:37, TEXT:0145] 　　　还是第一次啊……
-+[FID:37, TEXT:0146] 　　　看到他那样笑
++[FID:37, TEXT:0146] 　　　看到那个人那样笑
 
 --- Group [left:none next=0023] ---G
 　　　はじめてかも・・・
 　　　あんなふうに笑ったの
 +[FID:37, TEXT:0147] 　　　可能是第一次吧……
--[FID:37, TEXT:0146] 　　　看到他那样笑
+-[FID:37, TEXT:0146] 　　　看到那个人那样笑
 
 --- Group [right:索尔 next=0023] ---G
 　　　初めてですね・・・
 　　　あんなふうに笑ったの
 +[FID:37, TEXT:0148] 　　　是第一次呢……
--[FID:37, TEXT:0146] 　　　看到他那样笑
+-[FID:37, TEXT:0146] 　　　看到那个人那样笑
 
 --- Group [left:none next=0023] ---G
 　　レイドさんの言うとおり
