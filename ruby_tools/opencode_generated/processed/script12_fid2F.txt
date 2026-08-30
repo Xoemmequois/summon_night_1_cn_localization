@@ -375,8 +375,8 @@
 ねえのさ
 +[FID:2F, TEXT:0079] 说到底，要是这个社会
 +[FID:2F, TEXT:007A] 的体制不改变
-+[FID:2F, TEXT:007B] 就根本没办法
-+[FID:2F, TEXT:007C] 啊
++[FID:2F, TEXT:007B] 就根本没办法啊
++[FID:2F, TEXT:007C] 
 
 --- Group [left:主人公 next=2012] ---G
 二人はまだ相談してる
@@ -461,8 +461,8 @@
 いいんじゃない？
 +[FID:2F, TEXT:0094] 哥哥也最好学学
 +[FID:2F, TEXT:0095] 至少能写自己的名字
-+[FID:2F, TEXT:0096] 吧
-+[FID:2F, TEXT:0097] 不是挺好的吗？
++[FID:2F, TEXT:0096] 吧？
++[FID:2F, TEXT:0097] 
 
 --- Group [right:菲兹 next=2012] ---G
 お姉ちゃんも、自分の
@@ -471,8 +471,8 @@
 いいんじゃない？
 +[FID:2F, TEXT:0098] 姐姐也最好学学
 -[FID:2F, TEXT:0095] 至少能写自己的名字
--[FID:2F, TEXT:0096] 吧
--[FID:2F, TEXT:0097] 不是挺好的吗？
+-[FID:2F, TEXT:0096] 吧？
+-[FID:2F, TEXT:0097] 
 
 --- Group [left:none next=0023] ---G
 うーん・・・
@@ -516,15 +516,15 @@
 あるかなぁ？
 +[FID:2F, TEXT:00A2] 虽然会读但不会写，
 +[FID:2F, TEXT:00A3] 果然还是有点问题吧？
-+[FID:2F, TEXT:00A4] 有没有呢？
++[FID:2F, TEXT:00A4] 
 
 --- Group [left:主人公 next=2012] ---G
 そうですね・・・
 話を大きくしても
 なんですし・・・
-+[FID:2F, TEXT:00A5] 说的也是……
-+[FID:2F, TEXT:01C0] 把话题扯大了
-+[FID:2F, TEXT:01C1] 也没什么意义……
++[FID:2F, TEXT:00A5] 嗯……
++[FID:2F, TEXT:01C0] 把事情闹大了
++[FID:2F, TEXT:01C1] 也不太好……
 
 --- Group [left:none next=0023] ---G
 読めはしますが、
@@ -639,7 +639,7 @@
 世界のお料理って、
 どんなのがあるの？
 +[FID:2F, TEXT:00C4] 喂，@n的
-+[FID:2F, TEXT:00C5] 世界各地的料理，
++[FID:2F, TEXT:00C5] 世界的料理，
 +[FID:2F, TEXT:00C6] 都有什么样的啊？
 
 --- Group [left:none next=0023] ---G
@@ -746,7 +746,7 @@
 そうですね、ただ
 国ごとにいろいろな
 料理がありますし
-+[FID:2F, TEXT:00E4] 是啊，不过
++[FID:2F, TEXT:00E4] 让我想想，其实
 -[FID:2F, TEXT:00DF] 每个国家都有各种各样
 +[FID:2F, TEXT:00E5] 的料理呢
 
@@ -1252,13 +1252,13 @@
 　・・・大丈夫かな？
 　そうだね・・・
 -[FID:2F, TEXT:0174] 　……没问题吧？
-+[FID:2F, TEXT:0176] 　是啊……
++[FID:2F, TEXT:0176] 　也是啊……
 
 --- Group [left:none next=0023] ---G
 　・・・大丈夫かな？
 　そうだな・・・
 -[FID:2F, TEXT:0174] 　……没问题吧？
-+[FID:2F, TEXT:0175] 　是啊……
++[FID:2F, TEXT:0175] 　也是啊……
 
 --- Group [right:none next=2012] ---G
 そう前に説明をしたと
@@ -1467,19 +1467,19 @@
 --- Group [left:none next=0023] ---G
 そうだな・・・
 よし、二人で行こう！
-+[FID:2F, TEXT:01BC] 是啊……
++[FID:2F, TEXT:01BC] 也是啊……
 +[FID:2F, TEXT:01C6] 好，我们两个人去吧！
 
 --- Group [left:主人公 next=0023] ---G
 そうだな・・・
 まずは二人で行こうか
--[FID:2F, TEXT:01BC] 是啊……
+-[FID:2F, TEXT:01BC] 也是啊……
 +[FID:2F, TEXT:01BD] 那就我们先两个人去吧
 
 --- Group [left:none next=0023] ---G
 そうだね・・・
 じゃあ二人で行こう！
-+[FID:2F, TEXT:01BE] 是啊……
++[FID:2F, TEXT:01BE] 也是啊……
 +[FID:2F, TEXT:01BF] 那我们就两个人去吧！
 
 --- Group [left:none next=0023] ---G
@@ -1499,24 +1499,24 @@
 朝になったら出かける
 ことにしよう
 +[FID:2F, TEXT:01C7] 嗯，那就明天
-+[FID:2F, TEXT:01C8] 早上再出门
-+[FID:2F, TEXT:01C9] 吧
++[FID:2F, TEXT:01C8] 早上再出门吧
++[FID:2F, TEXT:01C9] 
 
 --- Group [right:none next=2012] ---G
 うん、それなら明日の
 朝になったら出かける
 ことにしよっか
 +[FID:2F, TEXT:01CA] 嗯，那就明天
--[FID:2F, TEXT:01C8] 早上再出门
-+[FID:2F, TEXT:01CB] 吧
+-[FID:2F, TEXT:01C8] 早上再出门吧
++[FID:2F, TEXT:01CB] 
 
 --- Group [right:none next=2012] ---G
 ええ、でしたら明日の
 朝になったら出かける
 ことにしましょう
 +[FID:2F, TEXT:01CC] 嗯，那就明天
--[FID:2F, TEXT:01C8] 早上再出门
-+[FID:2F, TEXT:01CD] 吧
+-[FID:2F, TEXT:01C8] 早上再出门吧
++[FID:2F, TEXT:01CD] 
 
 --- Group [left:主人公 next=0023] ---G
 ・・・大丈夫かな？
