@@ -288,7 +288,7 @@
 はかなり鍛えとるなあ
 +[FID:3C, TEXT:0058] 那个叫金加的少年，
 +[FID:3C, TEXT:0059] 别看个子小，
-+[FID:3C, TEXT:005A] 可是相当有锻炼啊
++[FID:3C, TEXT:005A] 可真是没少锻炼啊
 
 --- Group [right:none next=2012] ---G
 腕相撲をしたんだが、
@@ -542,7 +542,7 @@
 使えないだろ？
 -[FID:3C, TEXT:00A3] 要是语言不通
 +[FID:3C, TEXT:00A4] 召唤出来的对象
-+[FID:3C, TEXT:00A5] 就没法用了吧？
++[FID:3C, TEXT:00A5] 就没法使唤了吧？
 
 --- Group [right:none next=2012] ---G
 召喚術の呪文の中には
@@ -697,8 +697,8 @@
 きたのはわたしじゃ
 なくって・・・
 +[FID:3C, TEXT:00D0] 那个，撞上来的
-+[FID:3C, TEXT:00D1] 不是我
-+[FID:3C, TEXT:00D2] 是……
++[FID:3C, TEXT:00D1] 不是我……
++[FID:3C, TEXT:00D2] 
 
 --- Group [left:主人公 next=0023] ---G
 ・・・って、あれ？
@@ -1259,8 +1259,8 @@
 --- Group [right:巴诺萨 next=2012] ---G
 見逃してくれる、って
 言ってるんですよ
-+[FID:3C, TEXT:017A] 人家说放你一马
-+[FID:3C, TEXT:017B] 听懂了没
++[FID:3C, TEXT:017A] 说是放你一马呢
++[FID:3C, TEXT:017B] 
 
 --- Group [right:巴诺萨 next=2012] ---G
 このへらへら笑ってる
@@ -1389,14 +1389,14 @@
 たのがボクだったから
 よかったですけど
 +[FID:3C, TEXT:01A1] 幸好最先发现
-+[FID:3C, TEXT:01A2] 的是我
-+[FID:3C, TEXT:01A3] 才没事
++[FID:3C, TEXT:01A2] 的是我才没事
++[FID:3C, TEXT:01A3] 
 
 --- Group [right:char_0041 next=2012] ---G
 さ、早いところ退散
 しちゃってくださいね
-+[FID:3C, TEXT:01A4] 好了，赶紧
-+[FID:3C, TEXT:01A5] 撤吧
++[FID:3C, TEXT:01A4] 好了，赶紧撤吧
++[FID:3C, TEXT:01A5] 
 
 --- Group [left:主人公 next=2015] ---G
 どうしよう？
@@ -1637,8 +1637,8 @@
 --- Group [right:塞萨莉斯 next=2012] ---G
 悪いけど詰め所まで
 来てもらいます
-+[FID:3C, TEXT:01E7] 不好意思到值班室
-+[FID:3C, TEXT:01E8] 请您来一趟
++[FID:3C, TEXT:01E7] 不好意思请您到
++[FID:3C, TEXT:01E8] 值班室来一趟
 
 --- Group [left:主人公 next=0023] ---G
 あわわわっ！
@@ -1659,8 +1659,8 @@
 --- Group [left:主人公 next=0023] ---G
 言い方を
 間違えました・・・
-+[FID:3C, TEXT:01EE] 我弄错说话方式
-+[FID:3C, TEXT:01EF] 了……
++[FID:3C, TEXT:01EE] 我说错话了……
++[FID:3C, TEXT:01EF] 
 
 --- Group [left:伊利亚斯 next=2012] ---G
 どうした、
@@ -1695,8 +1695,8 @@
 いるんだぞ？
 +[FID:3C, TEXT:01FB] 塞萨莉斯
 +[FID:3C, TEXT:01FC] 身为骑士团团长的我
-+[FID:3C, TEXT:01FD] 认为没有必要
-+[FID:3C, TEXT:01FE] 你知道吗？
++[FID:3C, TEXT:01FD] 已经判断没有必要了
++[FID:3C, TEXT:01FE] 哦？
 
 --- Group [right:塞萨莉斯 next=2012] ---G
 ・・・・・
@@ -1929,8 +1929,8 @@
 俺っちも知らないんだ
 けどさ
 +[FID:3C, TEXT:0245] 为什么会这样
-+[FID:3C, TEXT:0246] 我也不知道
-+[FID:3C, TEXT:0247] 不过啊
++[FID:3C, TEXT:0246] 我也不知道啊
++[FID:3C, TEXT:0247] 
 
 --- Group [left:none next=0023] ---G
 な、何だよそりゃ！？
@@ -1958,7 +1958,7 @@
 
 --- Group [left:主人公 next=0023] ---G
 なんだかなぁ・・・
-+[FID:3C, TEXT:024F] 真是的……
++[FID:3C, TEXT:024F] 有点微妙啊……
 
 --- Group [left:none next=0023] ---G
 そんないい加減なこと
@@ -1972,7 +1972,7 @@
 けどさ
 +[FID:3C, TEXT:0252] 阴差阳错地，我就
 +[FID:3C, TEXT:0253] 跟你们对立起来了
--[FID:3C, TEXT:0247] 不过啊
+-[FID:3C, TEXT:0247] 
 
 --- Group [left:none next=0023] ---G
 俺としては、これ以上
@@ -2046,7 +2046,7 @@
 +[FID:3C, TEXT:0269] 巴诺萨先生，为了
 +[FID:3C, TEXT:026A] 把南边的贫民窟
 +[FID:3C, TEXT:026B] 变成自己的地盘
-+[FID:3C, TEXT:026C] 一直在盯上弗拉特的人
++[FID:3C, TEXT:026C] 一直针对弗拉特的人
 
 --- Group [right:char_0041 next=0023] ---G
 お兄さんがフラットに
@@ -2099,16 +2099,16 @@
 手に入れたがっている
 んですよ
 +[FID:3C, TEXT:0279] 他想得到大哥
-+[FID:3C, TEXT:027A] 使用的力量
-+[FID:3C, TEXT:027B] 啊
++[FID:3C, TEXT:027A] 使用的力量啊
++[FID:3C, TEXT:027B] 
 
 --- Group [right:none next=2012] ---G
 お姉さんの使った力を
 手に入れたがっている
 んですよ
 +[FID:3C, TEXT:027C] 他想得到大姐
--[FID:3C, TEXT:027A] 使用的力量
--[FID:3C, TEXT:027B] 啊
+-[FID:3C, TEXT:027A] 使用的力量啊
+-[FID:3C, TEXT:027B] 
 
 --- Group [left:none next=2012] ---G
 ・・・！？

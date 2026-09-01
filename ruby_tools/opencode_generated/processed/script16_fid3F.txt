@@ -52,7 +52,7 @@
 
 --- Group [left:none next=0023] ---G
 教えてください
-+[FID:3F, TEXT:0012] 请教教我
++[FID:3F, TEXT:0012] 请告诉我
 
 --- Group [right:none next=2012] ---G
 きっと・・・
@@ -228,15 +228,15 @@
 口ではなんとでも
 言えるよなァ、
 カノン？
-+[FID:3F, TEXT:0045] 嘴上倒是怎么说
-+[FID:3F, TEXT:0046] 都行啊，
++[FID:3F, TEXT:0045] 光动嘴皮子
++[FID:3F, TEXT:0046] 谁不会说啊，
 +[FID:3F, TEXT:0047] 卡农？
 
 --- Group [right:巴诺萨 next=2012] ---G
 だがな、それだけじゃ
 納得できねェッ！！
 +[FID:3F, TEXT:0048] 但是啊，光凭这样
-+[FID:3F, TEXT:0049] 我可没法接受！！
++[FID:3F, TEXT:0049] 我可信服不了啊！！
 
 --- Group [right:巴诺萨 next=2012] ---G
 証明してくれよ・・・
@@ -257,8 +257,8 @@
 ねェなら、できるはず
 だよなァ？
 +[FID:3F, TEXT:004E] 要是没忘记那时的誓言
-+[FID:3F, TEXT:004F] 的话，应该做得到
-+[FID:3F, TEXT:0050] 吧？
++[FID:3F, TEXT:004F] 的话，应该做得到吧？
++[FID:3F, TEXT:0050] 
 
 --- Group [right:巴诺萨 next=2012] ---G
 返事はどうしたんだ
@@ -286,7 +286,7 @@
 
 --- Group [left:主人公 next=0023] ---G
 カノンさん・・・
-+[FID:3F, TEXT:0059] 卡农小姐……
++[FID:3F, TEXT:0059] 卡农先生……
 
 --- Group [right:巴诺萨 next=2012] ---G
 ククククッ！
@@ -307,8 +307,8 @@
 決着をつけてやる
 +[FID:3F, TEXT:005E] 快把你的伙伴
 +[FID:3F, TEXT:005F] 叫来啊？
-+[FID:3F, TEXT:0060] 老子们和你们这帮
-+[FID:3F, TEXT:0061] 给你们做个了断
++[FID:3F, TEXT:0060] 老子们和你们这帮人
++[FID:3F, TEXT:0061] 彻底做个了断
 
 --- Group [right:巴诺萨 next=2012] ---G
 手前ェが逃げたなら、
