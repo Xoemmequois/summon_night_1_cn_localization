@@ -323,18 +323,18 @@
 暮らしてる、亜人間っ
 て人たちのことよ
 +[FID:4F, TEXT:0054] 是指在梅特尔巴
-+[FID:4F, TEXT:0055] 生活的亚人类
-+[FID:4F, TEXT:0056] 哦
++[FID:4F, TEXT:0055] 生活的亚人类哦
++[FID:4F, TEXT:0056] 
 
 --- Group [right:none next=2012] ---G
 あたしたちと違うのは
 不思議な力をもってる
 ことと、見た目ぐらい
 かしらねぇ・・・
-+[FID:4F, TEXT:0057] 和我们不同的
-+[FID:4F, TEXT:0058] 是拥有不可思议的力量
-+[FID:4F, TEXT:0059] 的事情和外表
-+[FID:4F, TEXT:005A] 大概吧……
++[FID:4F, TEXT:0057] 和我们的区别，
++[FID:4F, TEXT:0058] 也就是外表，还有
++[FID:4F, TEXT:0059] 拥有不可思议的
++[FID:4F, TEXT:005A] 力量而已吧……
 
 --- Group [right:none next=2012] ---G
 うーん、どうだろ
@@ -1152,7 +1152,7 @@
 はいですのっ
 マスターっ！
 +[FID:4F, TEXT:014E] 是的！
-+[FID:4F, TEXT:014F] 主人！
++[FID:4F, TEXT:014F] Ｍａｓｔｅｒ！
 
 --- Group [left:none next=0023] ---G
 とほほ・・・
@@ -1339,25 +1339,25 @@
 --- Group [left:none next=0023] ---G
 　　　マスター、か・・・
 　　　ちょっと慣れないな
-+[FID:4F, TEXT:0183] 　　　主人啊……
++[FID:4F, TEXT:0183] 　　　Ｍａｓｔｅｒ啊……
 +[FID:4F, TEXT:0187] 　　　有点不习惯呢
 
 --- Group [left:none next=0023] ---G
 　　　マスター、か・・・
 　　　なんか照れるよなぁ
--[FID:4F, TEXT:0183] 　　　主人啊……
+-[FID:4F, TEXT:0183] 　　　Ｍａｓｔｅｒ啊……
 +[FID:4F, TEXT:0184] 　　　总觉得有点害羞呢
 
 --- Group [left:none next=0023] ---G
 　　　マスター、か・・・
 　　　なんか照れくさいな
--[FID:4F, TEXT:0183] 　　　主人啊……
+-[FID:4F, TEXT:0183] 　　　Ｍａｓｔｅｒ啊……
 +[FID:4F, TEXT:0185] 　　　有点难为情呢
 
 --- Group [left:none next=0023] ---G
 　　　マスター、か・・・
 　　　なんか照れちゃうね
--[FID:4F, TEXT:0183] 　　　主人啊……
+-[FID:4F, TEXT:0183] 　　　Ｍａｓｔｅｒ啊……
 +[FID:4F, TEXT:0186] 　　　有点害羞呢
 
 --- Group [left:none next=0023] ---G

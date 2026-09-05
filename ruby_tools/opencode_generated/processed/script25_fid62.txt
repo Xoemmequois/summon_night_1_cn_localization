@@ -120,7 +120,7 @@
 行きましょ、モナティ
 +[FID:62, TEXT:0027] 走吧，莫娜蒂
 
---- Group [right:莫纳蒂 next=2012] ---G
+--- Group [right:莫娜蒂 next=2012] ---G
 お散歩ですのー？
 +[FID:62, TEXT:0028] 去散步吗？
 
@@ -148,25 +148,25 @@
 +[FID:62, TEXT:0086] 　谢谢，莉普蕾
 +[FID:62, TEXT:0087] 　谢谢，茜
 
---- Group [right:莫纳蒂 next=0023] ---G
+--- Group [right:莫娜蒂 next=0023] ---G
 　一緒に来るか？
 　留守番たのむぞ？
 +[FID:62, TEXT:002A] 　一起来吗？
 +[FID:62, TEXT:002B] 　看家就拜托你啦
 
---- Group [right:莫纳蒂 next=0023] ---G
+--- Group [right:莫娜蒂 next=0023] ---G
 　一緒に来るか？
 　留守番たのむよ？
 -[FID:62, TEXT:002A] 　一起来吗？
 +[FID:62, TEXT:002C] 　看家就拜托你哦？
 
---- Group [right:莫纳蒂 next=0023] ---G
+--- Group [right:莫娜蒂 next=0023] ---G
 　一緒に来る？
 　留守番おねがいね
 +[FID:62, TEXT:002D] 　一起来？
 +[FID:62, TEXT:002E] 　看家就拜托你啦
 
---- Group [right:莫纳蒂 next=0023] ---G
+--- Group [right:莫娜蒂 next=0023] ---G
 　さ、はやく
 　やっぱり留守番お願い
 +[FID:62, TEXT:002F] 　来，快点
@@ -190,7 +190,7 @@
 +[FID:62, TEXT:0034] 来，快点
 -[FID:62, TEXT:0032] 莫娜蒂
 
---- Group [right:莫纳蒂 next=2012] ---G
+--- Group [right:莫娜蒂 next=2012] ---G
 はいはーいっ！
 お供しますのーっ！
 +[FID:62, TEXT:0035] 来啦——！
@@ -220,7 +220,7 @@
 +[FID:62, TEXT:003B] 果然，莫娜蒂
 +[FID:62, TEXT:003C] 看家就拜托你……
 
---- Group [right:莫纳蒂 next=2012] ---G
+--- Group [right:莫娜蒂 next=2012] ---G
 ・・・
 +[FID:62, TEXT:003D] ……
 
@@ -228,7 +228,7 @@
 ・・・・・・
 +[FID:62, TEXT:003E] ……
 
---- Group [right:莫纳蒂 next=2012] ---G
+--- Group [right:莫娜蒂 next=2012] ---G
 ・・・にゅうぅぅっ
 +[FID:62, TEXT:003F] ……唔——
 
@@ -258,7 +258,7 @@
 +[FID:62, TEXT:0046] 明白了……
 +[FID:62, TEXT:0047] 一起去吧
 
---- Group [right:莫纳蒂 next=2012] ---G
+--- Group [right:莫娜蒂 next=2012] ---G
 はいですのーっ！
 +[FID:62, TEXT:0048] 好〜的〜！
 
@@ -550,7 +550,7 @@
 +[FID:62, TEXT:00A2] 接下来看我本事
 +[FID:62, TEXT:00A3] 大概就是这样
 
---- Group [right:莫纳蒂 next=2012] ---G
+--- Group [right:莫娜蒂 next=2012] ---G
 楽しみに待っててね
 @n
 +[FID:62, TEXT:00A4] 好好期待吧
@@ -576,7 +576,7 @@
 何してるの？
 +[FID:62, TEXT:00AB] 你在干什么呢？
 
---- Group [right:莫纳蒂 next=2012] ---G
+--- Group [right:莫娜蒂 next=2012] ---G
 スウォンにね・・・
 ふえ、つくって
 もらってるの・・・
@@ -1356,7 +1356,7 @@
 +[FID:62, TEXT:018E] 自然就会变强，
 +[FID:62, TEXT:018F] 雷德也说过
 
---- Group [left:莫纳蒂 next=2012] ---G
+--- Group [left:莫娜蒂 next=2012] ---G
 毎日やってるですの？
 +[FID:62, TEXT:0190] 每天都练吗？
 
@@ -1364,7 +1364,7 @@
 うん、そうだよ
 +[FID:62, TEXT:0191] 嗯，是啊
 
---- Group [left:莫纳蒂 next=2012] ---G
+--- Group [left:莫娜蒂 next=2012] ---G
 すごいですのー！
 モナティ、尊敬しちゃ
 うですのー！！
@@ -1376,7 +1376,7 @@
 えへへ、そうかなぁ？
 +[FID:62, TEXT:0195] 嘿嘿，是吗？
 
---- Group [left:莫纳蒂 next=2012] ---G
+--- Group [left:莫娜蒂 next=2012] ---G
 モナティもがんばって
 見習うですのっ！！
 +[FID:62, TEXT:0196] 莫娜蒂也要努力
@@ -1408,7 +1408,7 @@
 偵察ですか？
 +[FID:62, TEXT:019F] 是侦察吗？
 
---- Group [right:莫纳蒂 next=2012] ---G
+--- Group [right:莫娜蒂 next=2012] ---G
 バノッサがどうやって
 あんな力を手に入れた
 のか、つき止めてやろ
@@ -1498,7 +1498,7 @@
 +[FID:62, TEXT:01B9] 没错
 +[FID:62, TEXT:01BA] 那家伙就是召唤师
 
---- Group [left:莫纳蒂 next=2012] ---G
+--- Group [left:莫娜蒂 next=2012] ---G
 見た目で判断するの
 はまずくないですの？
 +[FID:62, TEXT:01BB] 以貌取人
@@ -1572,7 +1572,7 @@
 +[FID:62, TEXT:01D2] 你先回去跟大家
 +[FID:62, TEXT:01D3] 把这事告诉他们
 
---- Group [right:莫纳蒂 next=2012] ---G
+--- Group [right:莫娜蒂 next=2012] ---G
 え、でも・・・
 +[FID:62, TEXT:01D4] 咦，可是……
 
@@ -1594,7 +1594,7 @@
 +[FID:62, TEXT:01D9] 没关系的
 +[FID:62, TEXT:01DA] 我不会乱来的
 
---- Group [right:莫纳蒂 next=2012] ---G
+--- Group [right:莫娜蒂 next=2012] ---G
 は、はいですのっ！
 +[FID:62, TEXT:01DB] 好，好的！
 
@@ -1668,7 +1668,7 @@
 +[FID:62, TEXT:01ED] 那家伙，要出城
 +[FID:62, TEXT:01EE] 的样子……
 
---- Group [right:莫纳蒂 next=2012] ---G
+--- Group [right:莫娜蒂 next=2012] ---G
 行くぞ、@n
 +[FID:62, TEXT:01EF] 走吧，@n
 
@@ -1696,7 +1696,7 @@
 +[FID:62, TEXT:01F5] 喂，那边的小哥！
 +[FID:62, TEXT:01F6] 能过来一下吗？
 
---- Group [right:莫纳蒂 next=2012] ---G
+--- Group [right:莫娜蒂 next=2012] ---G
 ねえ、そこのキミ！
 ちょっといいかしら？
 +[FID:62, TEXT:01F7] 喂，那边那位！
@@ -1802,7 +1802,7 @@
 +[FID:62, TEXT:0217] 谢谢你，小弟弟
 +[FID:62, TEXT:0218] 不过没事的
 
---- Group [right:莫纳蒂 next=2012] ---G
+--- Group [right:莫娜蒂 next=2012] ---G
 ありがとう
 でも大丈夫よ
 +[FID:62, TEXT:0219] 谢谢
@@ -1914,7 +1914,7 @@
 +[FID:62, TEXT:023D] 教召唤术的
 +[FID:62, TEXT:023E] 对吧……
 
---- Group [right:莫纳蒂 next=2012] ---G
+--- Group [right:莫娜蒂 next=2012] ---G
 マスター、あれっ！
 +[FID:62, TEXT:023F] Ｍａｓｔｅｒ，你看！
 
@@ -2102,7 +2102,7 @@
 +[FID:62, TEXT:0271] 　和拉姆达说说话
 +[FID:62, TEXT:0272] 　打扰人家不太好吧
 
---- Group [right:莫纳蒂 next=0023] ---G
+--- Group [right:莫娜蒂 next=0023] ---G
 　ラムダと話をする
 　邪魔しちゃ悪いな
 -[FID:62, TEXT:0271] 　和拉姆达说说话
@@ -2366,7 +2366,7 @@
 +[FID:62, TEXT:02BC] 全部，都是靠阿尔巴的
 +[FID:62, TEXT:02BD] 力量完成的
 
---- Group [right:莫纳蒂 next=2012] ---G
+--- Group [right:莫娜蒂 next=2012] ---G
 おいらが・・・
 +[FID:62, TEXT:02BE] 是我吗……
 
@@ -2454,7 +2454,7 @@
 +[FID:62, TEXT:02DF] 不用在意啦
 +[FID:62, TEXT:02E0] 这种事也是常有的
 
---- Group [right:莫纳蒂 next=0023] ---G
+--- Group [right:莫娜蒂 next=0023] ---G
 うん、これだけあれば
 充分だよ
 +[FID:62, TEXT:02E1] 嗯，有这些的话
@@ -2488,7 +2488,7 @@
 +[FID:62, TEXT:02EB] 这个……
 +[FID:62, TEXT:02EC] 能吃吗？
 
---- Group [right:莫纳蒂 next=2012] ---G
+--- Group [right:莫娜蒂 next=2012] ---G
 ごくろうさま
 きっとみんなも喜んで
 食べてくれるよ
@@ -2512,7 +2512,7 @@
 +[FID:62, TEXT:02F4] 给你做美味的料理
 +[FID:62, TEXT:02F5] 好吗？
 
---- Group [right:莫纳蒂 next=2012] ---G
+--- Group [right:莫娜蒂 next=2012] ---G
 おーい、@n
 また修行に
 つきあってくんない？
@@ -2544,7 +2544,7 @@
 +[FID:62, TEXT:02FE] 等下次有兴致时
 +[FID:62, TEXT:02FF] 再来陪我吧
 
---- Group [right:莫纳蒂 next=0026] ---G
+--- Group [right:莫娜蒂 next=0026] ---G
 【自分の部屋】
 
 
@@ -2658,7 +2658,7 @@
 +[FID:62, TEXT:0314] 诶……你想偷偷潜入
 +[FID:62, TEXT:0315] 这栋宅邸吗？
 
---- Group [left:莫纳蒂 next=2012] ---G
+--- Group [left:莫娜蒂 next=2012] ---G
 え、エルカさんっ
 何してるですのっ！？
 +[FID:62, TEXT:0316] 诶，埃尔卡小姐
@@ -2712,7 +2712,7 @@
 +[FID:62, TEXT:0322] 很危险的啊！
 +[FID:62, TEXT:0323] 你这个笨蛋利比特！！
 
---- Group [left:莫纳蒂 next=2012] ---G
+--- Group [left:莫娜蒂 next=2012] ---G
 う、うにゅうぅ・・・
 +[FID:62, TEXT:0324] 呜、呜扭……
 
@@ -2804,7 +2804,7 @@
 +[FID:62, TEXT:033E] 啊，那个……
 +[FID:62, TEXT:033F] 不好意思……！
 
---- Group [left:莫纳蒂 next=2012] ---G
+--- Group [left:莫娜蒂 next=2012] ---G
 ま、マスターっ
 待ってくださいですの
 +[FID:62, TEXT:0340] Ｍａｓｔｅｒ

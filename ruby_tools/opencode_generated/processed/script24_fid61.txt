@@ -1216,10 +1216,10 @@
 +[FID:61, TEXT:0170] 给偷走为止
 +[FID:61, TEXT:0171] 
 
---- Group [right:莫纳蒂 next=2012] ---G
+--- Group [right:莫娜蒂 next=2012] ---G
 マスターって
 本当にすごいですの！
-+[FID:61, TEXT:0172] 主人真是
++[FID:61, TEXT:0172] Ｍａｓｔｅｒ真是
 +[FID:61, TEXT:0173] 太厉害了！
 
 --- Group [left:主人公 next=0023] ---G
@@ -1236,18 +1236,18 @@
 +[FID:61, TEXT:0176] ？
 -[FID:61, TEXT:014D] 什么？
 
---- Group [right:莫纳蒂 next=2012] ---G
+--- Group [right:莫娜蒂 next=2012] ---G
 マスターがお話したら
 みんなケンカをやめて
 仲良くなったです
-+[FID:61, TEXT:0177] 主人一开口说话
++[FID:61, TEXT:0177] Ｍａｓｔｅｒ一说话
 +[FID:61, TEXT:0178] 大家就停止了吵架
 +[FID:61, TEXT:0179] 变得和睦起来
 
---- Group [right:莫纳蒂 next=2012] ---G
+--- Group [right:莫娜蒂 next=2012] ---G
 こんなこと、マスター
 にしかできないです！
-+[FID:61, TEXT:017A] 这种事，只有主人
++[FID:61, TEXT:017A] 这是只有Ｍａｓｔｅｒ
 +[FID:61, TEXT:017B] 才能做得到呢！
 
 --- Group [left:主人公 next=2012] ---G
@@ -1293,7 +1293,7 @@
 --- Group [left:主人公 next=2012] ---G
 モナティにだって
 できるよ
-+[FID:61, TEXT:0185] 莫纳蒂也能
++[FID:61, TEXT:0185] 莫娜蒂也能
 +[FID:61, TEXT:0186] 做到的哦
 
 --- Group [left:主人公 next=0023] ---G
@@ -1304,7 +1304,7 @@
 
 --- Group [left:主人公 next=2012] ---G
 ちがうの、モナティ
-+[FID:61, TEXT:0189] 不是的，莫纳蒂
++[FID:61, TEXT:0189] 不是的，莫娜蒂
 
 --- Group [left:主人公 next=0023] ---G
 今回はたまたま
@@ -1312,7 +1312,7 @@
 +[FID:61, TEXT:018B] 只是这次碰巧
 +[FID:61, TEXT:018C] 是我罢了
 
---- Group [right:莫纳蒂 next=2012] ---G
+--- Group [right:莫娜蒂 next=2012] ---G
 でもでもっ・・・
 やっぱりすごいです！
 +[FID:61, TEXT:018D] 可是可是……

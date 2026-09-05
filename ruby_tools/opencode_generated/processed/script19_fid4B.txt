@@ -5,8 +5,8 @@
 --- Group [left:阿尔巴 next=2012] ---G
 おいら、サーカス
 なんて初めてだよっ！
-+[FID:4B, TEXT:0002] 我啊，马戏团
-+[FID:4B, TEXT:0003] 还是第一次见到呢！
++[FID:4B, TEXT:0002] 我啊，还是第一次
++[FID:4B, TEXT:0003] 见到马戏团呢！
 
 --- Group [left:主人公 next=2012] ---G
 ふふっ、始まる前から
@@ -135,8 +135,8 @@
 --- Group [left:主人公 next=2012] ---G
 ・・・だめでしょ
 ケンカしちゃ
-+[FID:4B, TEXT:0027] ……不行哦
-+[FID:4B, TEXT:0028] 吵架的话
++[FID:4B, TEXT:0027] ……不可以
++[FID:4B, TEXT:0028] 吵架的哦
 
 --- Group [right:团长 next=2012] ---G
 さあ、お次はここでし
@@ -144,9 +144,9 @@
 な生き物たちをお目に
 かけましょう！
 +[FID:4B, TEXT:002A] 来，接下来
-+[FID:4B, TEXT:002B] 只有这里才看得到
-+[FID:4B, TEXT:002C] 的奇妙生物们
-+[FID:4B, TEXT:002D] 给您欣赏吧！
++[FID:4B, TEXT:002B] 唯有此地才能一见
++[FID:4B, TEXT:002C] 不可思议的奇特生物
++[FID:4B, TEXT:002D] 请诸位一饱眼福吧！
 
 --- Group [right:团长 next=2012] ---G
 さあ出番だぞ・・・
@@ -193,7 +193,7 @@
 たってことは、あの子
 たちも召喚獣・・・？
 -[FID:4B, TEXT:0039] 从别的世界被召唤
-+[FID:4B, TEXT:0040] 来的话，那孩子
++[FID:4B, TEXT:0040] 来的话，这些孩子
 +[FID:4B, TEXT:0045] 们也是召唤兽……？
 
 --- Group [left:主人公 next=0023] ---G
@@ -202,9 +202,9 @@
 たちも召喚獣ってこと
 だよねぇ・・・
 -[FID:4B, TEXT:0039] 从别的世界被召唤
--[FID:4B, TEXT:0040] 来的话，那孩子
-+[FID:4B, TEXT:0041] 们也就是召唤兽
-+[FID:4B, TEXT:0044] 了吧……
+-[FID:4B, TEXT:0040] 来的话，这些孩子
++[FID:4B, TEXT:0041] 们也是召唤兽
++[FID:4B, TEXT:0044] 吧……
 
 --- Group [left:主人公 next=0023] ---G
 よその世界から呼ばれ
@@ -212,8 +212,8 @@
 たちも召喚獣ってこと
 か・・・
 -[FID:4B, TEXT:0039] 从别的世界被召唤
--[FID:4B, TEXT:0040] 来的话，那孩子
--[FID:4B, TEXT:0041] 们也就是召唤兽
+-[FID:4B, TEXT:0040] 来的话，这些孩子
+-[FID:4B, TEXT:0041] 们也是召唤兽
 +[FID:4B, TEXT:0043] 吗……
 
 --- Group [left:主人公 next=0023] ---G
@@ -222,9 +222,9 @@
 たちも召喚獣ってこと
 だよな・・・
 -[FID:4B, TEXT:0039] 从别的世界被召唤
--[FID:4B, TEXT:0040] 来的话，那孩子
--[FID:4B, TEXT:0041] 们也就是召唤兽
-+[FID:4B, TEXT:0042] 是吧……
+-[FID:4B, TEXT:0040] 来的话，这些孩子
+-[FID:4B, TEXT:0041] 们也是召唤兽
++[FID:4B, TEXT:0042] 吧……
 
 --- Group [left:主人公 next=0023] ---G
 え！？
@@ -254,15 +254,15 @@
 すごいわねぇ・・・
 +[FID:4B, TEXT:0049] 真厉害啊……
 
---- Group [right:莫纳蒂 next=2012] ---G
+--- Group [right:莫娜蒂 next=2012] ---G
 よ、よっとと・・・
-+[FID:4B, TEXT:004A] 嘿、嘿嘿……
++[FID:4B, TEXT:004A] 嘿、嘿咻……
 
---- Group [right:莫纳蒂 next=0023] ---G
+--- Group [right:莫娜蒂 next=0023] ---G
 おにいちゃん？
 +[FID:4B, TEXT:004B] 哥哥？
 
---- Group [right:莫纳蒂 next=2012] ---G
+--- Group [right:莫娜蒂 next=2012] ---G
 おねえちゃん？
 +[FID:4B, TEXT:004C] 姐姐？
 
@@ -278,7 +278,7 @@
 え、あ、なに
 +[FID:4B, TEXT:004F] 诶、啊、什么
 
---- Group [right:莫纳蒂 next=2012] ---G
+--- Group [right:莫娜蒂 next=2012] ---G
 ととっ・・・
 とっとっとっとっ！？
 +[FID:4B, TEXT:0050] 踉跄……
@@ -287,14 +287,14 @@
 --- Group [left:none next=0023] ---G
 でも、なんでサーカス
 なんかに・・・？
-+[FID:4B, TEXT:0052] 不过，为什么是马戏团
-+[FID:4B, TEXT:0053] 什么的……？
++[FID:4B, TEXT:0052] 不过，为什么偏偏是
++[FID:4B, TEXT:0053] 马戏团……？
 
---- Group [right:莫纳蒂 next=0023] ---G
+--- Group [right:莫娜蒂 next=0023] ---G
 おにいちゃんっ！
 +[FID:4B, TEXT:0054] 哥哥！
 
---- Group [right:莫纳蒂 next=2012] ---G
+--- Group [right:莫娜蒂 next=2012] ---G
 おねえちゃんっ！
 +[FID:4B, TEXT:0055] 姐姐！
 

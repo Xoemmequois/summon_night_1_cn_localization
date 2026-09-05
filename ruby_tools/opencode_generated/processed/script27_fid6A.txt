@@ -8,7 +8,7 @@
 あ、あれ・・・？
 +[FID:6A, TEXT:0003] 啊，这是……？
 
---- Group [right:莫纳蒂 next=2012] ---G
+--- Group [right:莫娜蒂 next=2012] ---G
 うにゅううっ
 身体がビリビリしてる
 ですのぉ〜・・・
@@ -222,9 +222,9 @@
 +[FID:6A, TEXT:003C] 帮助我那样
 +[FID:6A, TEXT:003D] 我想帮助她！
 
---- Group [right:莫纳蒂 next=2012] ---G
+--- Group [right:莫娜蒂 next=2012] ---G
 マスター・・・
-+[FID:6A, TEXT:003E] 主人……
++[FID:6A, TEXT:003E] Ｍａｓｔｅｒ……
 
 --- Group [left:none next=2012] ---G
 きゃああっ！！
@@ -236,7 +236,7 @@
 +[FID:6A, TEXT:0040] 放开我！
 +[FID:6A, TEXT:0041] 放手啊——！！
 
---- Group [right:莫纳蒂 next=2012] ---G
+--- Group [right:莫娜蒂 next=2012] ---G
 ぎゃあぎゃあ騒ぐんじ
 ゃねえよ、コラ！！
 +[FID:6A, TEXT:0042] 别哇哇乱叫

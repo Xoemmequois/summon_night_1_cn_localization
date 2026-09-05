@@ -4,19 +4,19 @@
 +[FID:7A, TEXT:0001] 我说怎么这么冷
 +[FID:7A, TEXT:0002] 原来是下雪了啊
 
---- Group [right:莫纳蒂 next=2012] ---G
+--- Group [right:莫娜蒂 next=2012] ---G
 うにゅうぅ・・・
 さ、さぶいですの〜
 +[FID:7A, TEXT:0003] 呜嗯……
 +[FID:7A, TEXT:0004] 好、好冷呀〜
 
---- Group [right:莫纳蒂 next=2012] ---G
+--- Group [right:莫娜蒂 next=2012] ---G
 なあ、本当にエルゴは
 ここにあるのかよ？
 +[FID:7A, TEXT:0005] 喂，埃尔戈真的
 +[FID:7A, TEXT:0006] 在这里吗？
 
---- Group [right:莫纳蒂 next=2012] ---G
+--- Group [right:莫娜蒂 next=2012] ---G
 さっきから鳥の鳴き声
 ひとつしないぜ
 +[FID:7A, TEXT:0007] 从刚才起连一声
@@ -40,7 +40,7 @@
 +[FID:7A, TEXT:000D] 嗯嗯，应该不会错
 +[FID:7A, TEXT:000E] 我是这么想的……
 
---- Group [right:莫纳蒂 next=2012] ---G
+--- Group [right:莫娜蒂 next=2012] ---G
 ひ、ひゃっくしょん！
 +[FID:7A, TEXT:000F] 哈、哈啾！
 
@@ -48,7 +48,7 @@
 うわっ、汚いわねぇ
 +[FID:7A, TEXT:0010] 哇，好脏啊
 
---- Group [right:莫纳蒂 next=2012] ---G
+--- Group [right:莫娜蒂 next=2012] ---G
 ふにゅうぅ・・・
 +[FID:7A, TEXT:0011] 呜嗯……
 
@@ -250,7 +250,7 @@
 +[FID:7A, TEXT:004E] 希尔坦
 +[FID:7A, TEXT:004F] 的感觉
 
---- Group [right:莫纳蒂 next=2012] ---G
+--- Group [right:莫娜蒂 next=2012] ---G
 ねえねえ
 あの滝はどうして湯気
 を噴いてるですの？
@@ -390,7 +390,7 @@
 +[FID:7A, TEXT:007E] 完成使命
 +[FID:7A, TEXT:007F] 了
 
---- Group [left:莫纳蒂 next=2012] ---G
+--- Group [left:莫娜蒂 next=2012] ---G
 よかったですねえ
 +[FID:7A, TEXT:0080] 真是太好了呢
 
@@ -474,7 +474,7 @@
 +[FID:7A, TEXT:009B] 你该不会打算
 +[FID:7A, TEXT:009C] 在这里过一辈子吧！？
 
---- Group [left:莫纳蒂 next=2012] ---G
+--- Group [left:莫娜蒂 next=2012] ---G
 そんなのダメですの！
 ひとりぼっちなんて
 +[FID:7A, TEXT:009D] 那怎么行！

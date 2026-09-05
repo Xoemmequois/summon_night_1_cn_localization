@@ -112,7 +112,7 @@
 レイドさん？
 +[FID:4A, TEXT:0022] 雷德先生？
 
---- Group [right:赛萨里斯 next=2012] ---G
+--- Group [right:塞萨莉斯 next=2012] ---G
 ・・・・・・
 +[FID:4A, TEXT:0023] ……
 
@@ -169,20 +169,20 @@
 はずなんだよね、
 考えてみれば、さ
 -[FID:4A, TEXT:002C] 雷德先生应该更难受
-+[FID:4A, TEXT:002D] 才对嘛，
-+[FID:4A, TEXT:002E] 仔细想想的话
++[FID:4A, TEXT:002D] 才对，仔细想想的话
++[FID:4A, TEXT:002E] 
 
 --- Group [left:主人公 next=2012] ---G
 なのに
 あたしったら・・・
-+[FID:4A, TEXT:002F] 可是
-+[FID:4A, TEXT:0030] 我啊……
++[FID:4A, TEXT:002F] 明明是这样，
++[FID:4A, TEXT:0030] 我却还……
 
 --- Group [left:none next=2012] ---G
 なのに
 わたしったら・・・
--[FID:4A, TEXT:002F] 可是
-+[FID:4A, TEXT:0033] 我啊……
+-[FID:4A, TEXT:002F] 明明是这样，
++[FID:4A, TEXT:0033] 我却还……
 
 --- Group [right:阿尔巴 next=2012] ---G
 ああ・・・
@@ -316,7 +316,7 @@
 +[FID:4A, TEXT:01D5] 　算了
 +[FID:4A, TEXT:01D6] 　去钓鱼
 
---- Group [right:赛萨里斯 next=2015] ---G
+--- Group [right:塞萨莉斯 next=2015] ---G
 どうしよう？
 　他の人たちは・・・
 　がんばってください
@@ -359,14 +359,14 @@
 ところで用事を頼まれ
 てくれないかな
 +[FID:4A, TEXT:005F] 那么，既然心情好了
-+[FID:4A, TEXT:0060] 不过想拜托你
-+[FID:4A, TEXT:0061] 能帮我办吗
++[FID:4A, TEXT:0060] 能不能拜托你去
++[FID:4A, TEXT:0061] 帮我办件事情呢？
 
 --- Group [right:none next=2012] ---G
 子供たちを連れてね、
 ここに行って欲しいの
-+[FID:4A, TEXT:0062] 带着孩子们，
-+[FID:4A, TEXT:0063] 希望你去这里
++[FID:4A, TEXT:0062] 我想让你带上孩子们，
++[FID:4A, TEXT:0063] 去这个地方
 
 --- Group [left:主人公 next=0023] ---G
 これって
@@ -384,9 +384,9 @@
 いつも買い物をしてる
 お店のおばさんから、
 貰ったの
-+[FID:4A, TEXT:0067] 从经常去买东西的
-+[FID:4A, TEXT:0068] 店里的阿姨那里，
-+[FID:4A, TEXT:0069] 拿到的
++[FID:4A, TEXT:0067] 是经常光顾的
++[FID:4A, TEXT:0068] 那家店里的阿姨
++[FID:4A, TEXT:0069] 送给我的哦
 
 --- Group [right:none next=2012] ---G
 市民広場で、今日から
@@ -399,8 +399,8 @@
 んだけど、なかなか
 手が空かなくて
 +[FID:4A, TEXT:006C] 要是我也能去就好了
-+[FID:4A, TEXT:006D] 不过，
-+[FID:4A, TEXT:006E] 一直没空
++[FID:4A, TEXT:006D] 不过，一直没空啊
++[FID:4A, TEXT:006E] 
 
 --- Group [left:主人公 next=0023] ---G
 ・・・わかったよ
@@ -548,13 +548,13 @@
 おにいちゃんも
 ききにきたの？
 +[FID:4A, TEXT:0096] 哥哥也
-+[FID:4A, TEXT:0097] 来听了吗？
++[FID:4A, TEXT:0097] 来听吗？
 
 --- Group [right:拉米 next=2012] ---G
 おねえちゃんも
 ききにきたの？
 +[FID:4A, TEXT:0098] 姐姐也
--[FID:4A, TEXT:0097] 来听了吗？
+-[FID:4A, TEXT:0097] 来听吗？
 
 --- Group [right:伊姆兰 next=2012] ---G
 ラミね・・・
@@ -775,8 +775,8 @@
 直後なのに・・・
 +[FID:4A, TEXT:00D7] ……和平常
 +[FID:4A, TEXT:00D8] 一样的街道……
-+[FID:4A, TEXT:00D9] 明明发生了那种事
-+[FID:4A, TEXT:00DA] 之后不久……
++[FID:4A, TEXT:00D9] 明明才刚刚发生过
++[FID:4A, TEXT:00DA] 那样的事……
 
 --- Group [left:主人公 next=2012] ---G
 ラムダの言ったことが
@@ -941,7 +941,7 @@
 --- Group [right:艾露卡 next=2012] ---G
 あんたこそっ、なんで
 追っかけてくるのよ！
-+[FID:4A, TEXT:010E] 你才该解释一下，为什
++[FID:4A, TEXT:010E] 反倒是你，为什
 +[FID:4A, TEXT:010F] 么要追着我跑啊！
 
 --- Group [right:艾露卡 next=2012] ---G
@@ -1008,25 +1008,25 @@
 おまけに、来たことの
 ない場所に迷いこんじ
 まうし・・・
-+[FID:4A, TEXT:0123] 而且，还
-+[FID:4A, TEXT:0124] 迷路到了从没来过的地
-+[FID:4A, TEXT:0125] 方……哎呀……
++[FID:4A, TEXT:0123] 而且，还迷路跑
++[FID:4A, TEXT:0124] 到了从没来过的
++[FID:4A, TEXT:0125] 地方……
 
 --- Group [left:主人公 next=2012] ---G
 おまけに、来たことの
 ない場所に迷いこんじ
 ゃうし・・・
--[FID:4A, TEXT:0123] 而且，还
--[FID:4A, TEXT:0124] 迷路到了从没来过的地
-+[FID:4A, TEXT:013A] 方……
+-[FID:4A, TEXT:0123] 而且，还迷路跑
+-[FID:4A, TEXT:0124] 到了从没来过的
++[FID:4A, TEXT:013A] 地方……
 
 --- Group [left:主人公 next=2012] ---G
 おまけに、来たことの
 ない場所に迷いこんで
 しまうし・・・
--[FID:4A, TEXT:0123] 而且，还
-+[FID:4A, TEXT:012A] 迷路到了从没来过的地
-+[FID:4A, TEXT:012B] 方，真是的……
+-[FID:4A, TEXT:0123] 而且，还迷路跑
++[FID:4A, TEXT:012A] 到了从没来过的
++[FID:4A, TEXT:012B] 地方，真是的……
 
 --- Group [left:主人公 next=0023] ---G
 ・・・！？
@@ -1170,7 +1170,7 @@
 ・・・あの人たちに
 出会う前に・・・
 帰った方がいいみたい
-+[FID:4A, TEXT:0155] ……在遇到
++[FID:4A, TEXT:0155] ……在碰上
 +[FID:4A, TEXT:0156] 那些人之前……
 +[FID:4A, TEXT:0157] 还是回去比较好
 
@@ -1181,7 +1181,7 @@
 が嘘みたいに・・・
 +[FID:4A, TEXT:0158] 工厂像往常一样
 +[FID:4A, TEXT:0159] 运转着……
-+[FID:4A, TEXT:015A] 仿佛这里发生暴动
++[FID:4A, TEXT:015A] 仿佛这里发生的暴动
 +[FID:4A, TEXT:015B] 是假的一样……
 
 --- Group [left:主人公 next=0023] ---G
@@ -1189,7 +1189,7 @@
 ここで暴動があったの
 が嘘みたいだね・・・
 +[FID:4A, TEXT:015C] 工厂在运转……
--[FID:4A, TEXT:015A] 仿佛这里发生暴动
+-[FID:4A, TEXT:015A] 仿佛这里发生的暴动
 +[FID:4A, TEXT:015D] 是假的一样呢……
 
 --- Group [left:主人公 next=0023] ---G
@@ -1197,7 +1197,7 @@
 ここで暴動があったの
 が嘘みたい・・・
 +[FID:4A, TEXT:015E] 工厂在运转呢
--[FID:4A, TEXT:015A] 仿佛这里发生暴动
+-[FID:4A, TEXT:015A] 仿佛这里发生的暴动
 +[FID:4A, TEXT:015F] 是假的一样……
 
 --- Group [right:鼬 next=2012] ---G
@@ -1340,13 +1340,13 @@
 
 --- Group [right:阿尔巴 next=2012] ---G
 そこにいるのは誰です
-+[FID:4A, TEXT:0189] 那边是谁？
++[FID:4A, TEXT:0189] 那边的是谁？
 
 --- Group [right:阿尔巴 next=2012] ---G
 ん？
 たしか貴方は・・・
 +[FID:4A, TEXT:018A] 嗯？
-+[FID:4A, TEXT:018B] 你确实是……
++[FID:4A, TEXT:018B] 记得你是……
 
 --- Group [right:伊利亚斯 next=2012] ---G
 おや、また君か？
@@ -1361,7 +1361,7 @@
 サイサリスさん
 でしたよね？
 +[FID:4A, TEXT:018E] 我记得是伊利亚斯先生
-+[FID:4A, TEXT:018F] 和赛萨里斯小姐
++[FID:4A, TEXT:018F] 和塞萨莉斯小姐
 +[FID:4A, TEXT:0190] 对吧？
 
 --- Group [left:主人公 next=0023] ---G
@@ -1369,14 +1369,14 @@
 サイサリスさんでした
 よね？
 -[FID:4A, TEXT:018E] 我记得是伊利亚斯先生
-+[FID:4A, TEXT:0191] 和赛萨里斯小姐
++[FID:4A, TEXT:0191] 和塞萨莉斯小姐
 +[FID:4A, TEXT:0192] 对吧？
 
 --- Group [left:主人公 next=2012] ---G
 こんにちは
 +[FID:4A, TEXT:0193] 你好
 
---- Group [right:赛萨里斯 next=2012] ---G
+--- Group [right:塞萨莉斯 next=2012] ---G
 イリアス様、です
 +[FID:4A, TEXT:0194] 是伊利亚斯大人
 
@@ -1402,7 +1402,7 @@
 +[FID:4A, TEXT:019A] 我也还没到
 +[FID:4A, TEXT:019B] 被叫大人的年纪呢
 
---- Group [right:赛萨里斯 next=2012] ---G
+--- Group [right:塞萨莉斯 next=2012] ---G
 イリアス様！
 +[FID:4A, TEXT:019C] 伊利亚斯大人！
 
@@ -1422,7 +1422,7 @@
 どうしてですか？
 +[FID:4A, TEXT:01A1] 为什么？
 
---- Group [right:赛萨里斯 next=2012] ---G
+--- Group [right:塞萨莉斯 next=2012] ---G
 暴動を率いていた連中
 がまだ、ここに隠れて
 いるかも知れません
@@ -1448,7 +1448,7 @@
 +[FID:4A, TEXT:01AA] 其他那些人……
 +[FID:4A, TEXT:01AB] 发动暴动的人们
 +[FID:4A, TEXT:01AC] 到底怎么样了
-+[FID:4A, TEXT:01AD] 吗！？
++[FID:4A, TEXT:01AD] 呢！？
 
 --- Group [left:主人公 next=0023] ---G
 他の人たちは・・・
@@ -1458,7 +1458,7 @@
 -[FID:4A, TEXT:01AA] 其他那些人……
 -[FID:4A, TEXT:01AB] 发动暴动的人们
 -[FID:4A, TEXT:01AC] 到底怎么样了
-+[FID:4A, TEXT:01AE] 了呢！？
++[FID:4A, TEXT:01AE] 呢！？
 
 --- Group [right:伊利亚斯 next=2012] ---G
 心配するな

@@ -296,10 +296,10 @@
 +[FID:56, TEXT:0057] 打架
 +[FID:56, TEXT:0058] 的……
 
---- Group [right:莫纳蒂 next=2012] ---G
+--- Group [right:莫娜蒂 next=2012] ---G
 マスター、マスター
 お客さんですのーっ！
-+[FID:56, TEXT:0059] 主人，主人
++[FID:56, TEXT:0059] Ｍａｓｔｅｒ
 +[FID:56, TEXT:005A] 有客人来了哦！
 
 --- Group [left:none next=0023] ---G
@@ -320,7 +320,7 @@
 わたしに？
 +[FID:56, TEXT:005F] 找我？
 
---- Group [right:莫纳蒂 next=2012] ---G
+--- Group [right:莫娜蒂 next=2012] ---G
 はいっ、
 とってもきれいな
 お姉さんですの
