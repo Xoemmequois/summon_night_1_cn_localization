@@ -644,7 +644,7 @@
   {
     "key": "Equip-48-Desc1-0x13AC",
     "original": "武器力３６　ＬＵＣ＋",
-    "translation": "武器力３６　幸运＋",
+    "translation": "武器力３６　ＬＵＣ＋",
     "stage": 3
   },
   {
@@ -1940,7 +1940,7 @@
   {
     "key": "Equip-140-Desc1-0x1E50",
     "original": "防具力６８　ＩＮＴ＋",
-    "translation": "防具力６８　智力＋",
+    "translation": "防具力６８　ＩＮＴ＋",
     "stage": 3
   },
   {
@@ -3590,13 +3590,13 @@
   {
     "key": "Equip-253-Desc1-0x220C",
     "original": "ＩＮＴ＋２　ＶＩＴ＋",
-    "translation": "智力＋２　体力＋",
+    "translation": "ＩＮＴ＋２　ＶＩＴ＋",
     "stage": 3
   },
   {
     "key": "Equip-253-Desc2-0x21F4",
     "original": "１　ＤＥＸ＋１　獣＋",
-    "translation": "１　灵巧＋１　兽＋",
+    "translation": "１　ＤＥＸ＋１　兽＋",
     "stage": 3
   },
   {
@@ -3614,7 +3614,7 @@
   {
     "key": "Equip-254-Desc2-0x21D0",
     "original": "ＮＴ＋３　ＬＵＣ－５",
-    "translation": "ＮＴ＋３　幸运－５",
+    "translation": "ＮＴ＋３　ＬＵＣ－５",
     "stage": 3
   },
   {
@@ -3632,7 +3632,7 @@
   {
     "key": "Equip-255-Desc1-0x21A8",
     "original": "ＩＮＴ＋４　ＬＵＣ－",
-    "translation": "智力＋４　幸运－",
+    "translation": "ＩＮＴ＋４　ＬＵＣ－",
     "stage": 3
   },
   {
@@ -3650,7 +3650,7 @@
   {
     "key": "Equip-256-Desc1-0x2178",
     "original": "ＩＮＴ＋２　ＬＵＣ＋",
-    "translation": "智力＋２　幸运＋",
+    "translation": "ＩＮＴ＋２　ＬＵＣ＋",
     "stage": 3
   },
   {
@@ -3668,7 +3668,7 @@
   {
     "key": "Equip-257-Desc1-0x2148",
     "original": "ＩＮＴ－２　ＶＩＴ＋",
-    "translation": "智力－２　体力＋",
+    "translation": "ＩＮＴ－２　ＶＩＴ＋",
     "stage": 3
   },
   {
