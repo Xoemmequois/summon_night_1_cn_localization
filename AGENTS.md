@@ -269,7 +269,9 @@ All projects under `romhack_csharp/`, working directory is `romhack/`.
 
 Build (default):
   1. Load zh_CN_translated.json + shared_text.txt + rom_text_zh_CN.json
-  2. SmallFontBuilder: assign shared chars (region 0x8540+) then own chars → S.F + CM1200.DAT.mod
+  2. SmallFontBuilder: pin persisted EnemySkill codes (rom_text_presist_codes.json), assign shared
+     chars (region 0x8540+) then own chars → S.F + CM1200.DAT.mod; write codes back to
+     rom_text_presist_codes.json
   3. RomTextWriter: write translations → SLPS_025.42
   4. PinSharedChars + Process CM1100 dialogues → allocate char codes → CM1100.DAT.mod2
   5. Write chinese_font_map.json + small_font_map.json; FontMapVerifier cross-checks them
@@ -332,3 +334,7 @@ Build (default):
 - **Script IDs**: 1–40. Dialog subcontent ID = script ID + 0x29.
 - **4bpp vs 8bpp**: CLUT width = 256 → 8bpp; anything else → 4bpp.
 - **Word-offsets in dialogue**: `indices[i]` is a word-offset — multiply by 2 for byte position.
+- **Save-persistent char codes**: `romhack/rom_text_presist_codes.json` (committed) records
+  char → small-font SJIS for EnemySkill names, which the game copies into save files. Codes are
+  kept stable across builds; forced changes (e.g. char moved into shared_text.txt) print a
+  `PersistCodes: warning` and continue.
