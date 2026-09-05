@@ -30,7 +30,8 @@ public static class SmallFontBuilder
         string outputSfPath,
         string outputCm1200Path,
         List<int> validStages,
-        IReadOnlyList<char> sharedChars)
+        IReadOnlyList<char> sharedChars,
+        IReadOnlyDictionary<char, ushort>? persistedCodes = null)
     {
         // 1. 读取翻译, 提取需要的新汉字
         var json = File.ReadAllText(romTextJsonPath);
@@ -72,52 +73,113 @@ public static class SmallFontBuilder
         var glyphBuf = new byte[18];
         var charMap = new Dictionary<char, (ushort Sjis, ushort Index)>();
 
-        // 两个单调游标: 分配总是取最低空闲位, 填掉后下一个空闲位必然更高,
-        // 因此各自只进不退即可 O(n) 扫完全部字符, 无需每字回卷重扫。
+        // 四阶段分配: 共享预钉 → 共享游标 → 自有预钉 → 自有游标.
+        // usedIndices 记录本次构建已占用的 mapIndex, 预钉与游标共用, 防止碰撞.
+        // (原实现边分配边写 subContent, 现在延迟到字形循环统一写, 用 usedIndices 代替.)
+        var usedIndices = new HashSet<int>();
+        var mapIdxByChar = new Dictionary<char, int>();
         var sharedCursor = SharedMapIndexStart;
         var ownCursor = MapIndexStart;
+        var kept = 0;
+        var changed = 0;
+        var warned = new List<(char Ch, ushort PrevSjis, int PrevIdx)>();
+
+        bool IsSlotFree(int mapIdx) =>
+            ExtractUtil.ReadUShort(subContent, mapStartInSub + mapIdx * 2) == 0 &&
+            !usedIndices.Contains(mapIdx);
+
+        // 预钉: 有持久化编码且区域/槽位允许 → 占位. 返回 true = 该字符仍需游标分配.
+        bool Pin(char ch, int mapIndexMin, int mapIndexMax)
+        {
+            if (persistedCodes == null || !persistedCodes.TryGetValue(ch, out var prevSjis))
+                return true;
+            var prevIdx = PersistCodeStore.SjisToMapIndex(prevSjis);
+            if (prevIdx >= mapIndexMin && prevIdx <= mapIndexMax && IsSlotFree(prevIdx))
+            {
+                usedIndices.Add(prevIdx);
+                mapIdxByChar[ch] = prevIdx;
+                kept++;
+                return false;
+            }
+            changed++;
+            warned.Add((ch, prevSjis, prevIdx));
+            return true;
+        }
+
+        // 阶段 1: 共享预钉 (编码必须落在共享区 [768,1343], code 0x8540-0x87FF)
+        for (var i = 0; i < sharedChars.Count; i++)
+        {
+            Pin(sharedChars[i], SharedMapIndexStart, SharedMapIndexEnd);
+        }
+
+        // 阶段 2: 共享游标兜底
+        foreach (var ch in sharedChars)
+        {
+            if (mapIdxByChar.ContainsKey(ch)) continue;
+
+            while (sharedCursor <= SharedMapIndexEnd && !IsSlotFree(sharedCursor))
+            {
+                sharedCursor++;
+            }
+
+            if (sharedCursor > SharedMapIndexEnd)
+                throw new InvalidOperationException(
+                    $"Shared region exhausted! Need {sharedChars.Count} shared chars, " +
+                    $"allocated only {mapIdxByChar.Count}. Region mapIndex [{SharedMapIndexStart}-" +
+                    $"{SharedMapIndexEnd}] (code 0x8540-0x87FF)");
+
+            usedIndices.Add(sharedCursor);
+            mapIdxByChar[ch] = sharedCursor;
+            sharedCursor++;
+        }
+
+        // 阶段 3: 自有预钉 ([524,4607], 允许落入共享区——只要阶段 1/2 没占掉)
+        foreach (var ch in ownChars)
+        {
+            Pin(ch, MapIndexStart, MapIndexEnd - 1);
+        }
+
+        // 阶段 4: 自有游标兜底
+        foreach (var ch in ownChars)
+        {
+            if (mapIdxByChar.ContainsKey(ch)) continue;
+
+            while (ownCursor < MapIndexEnd && !IsSlotFree(ownCursor))
+            {
+                ownCursor++;
+            }
+
+            if (ownCursor >= MapIndexEnd)
+                throw new InvalidOperationException(
+                    $"No more free map entries! Needed {charList.Count} chars, " +
+                    $"allocated only {mapIdxByChar.Count}. Total map entries: {MapIndexEnd}");
+
+            usedIndices.Add(ownCursor);
+            mapIdxByChar[ch] = ownCursor;
+            ownCursor++;
+        }
+
+        foreach (var (ch, prevSjis, prevIdx) in warned)
+        {
+            var newIdx = mapIdxByChar[ch];
+            Console.WriteLine(
+                $"PersistCodes: warning - '{ch}' previous code 0x{prevSjis:X4} (mapIndex {prevIdx}) " +
+                $"cannot be kept, reassigned to 0x{IndexToSjis(newIdx):X4} (mapIndex {newIdx}). " +
+                $"Old saves may garble this char.");
+        }
+        Console.WriteLine($"PersistCodes: kept {kept}, changed {changed}");
 
         for (var i = 0; i < charList.Count; i++)
         {
-            int mapIdx;
-            if (i < sharedChars.Count)
-            {
-                while (sharedCursor <= SharedMapIndexEnd &&
-                       !IsFreeSharedSlot(subContent, mapStartInSub, sharedCursor))
-                {
-                    sharedCursor++;
-                }
+            var ch = charList[i];
+            var mapIdx = mapIdxByChar[ch];
 
-                if (sharedCursor > SharedMapIndexEnd)
-                    throw new InvalidOperationException(
-                        $"Shared region exhausted! Need {sharedChars.Count} shared chars, " +
-                        $"allocated only {i}. Region mapIndex [{SharedMapIndexStart}-" +
-                        $"{SharedMapIndexEnd}] (code 0x8540-0x87FF)");
-
-                mapIdx = sharedCursor++;
-            }
-            else
-            {
-                while (ownCursor < MapIndexEnd &&
-                       ExtractUtil.ReadUShort(subContent, mapStartInSub + ownCursor * 2) != 0)
-                {
-                    ownCursor++;
-                }
-
-                if (ownCursor >= MapIndexEnd)
-                    throw new InvalidOperationException(
-                        $"No more free map entries! Needed {charList.Count} chars, " +
-                        $"allocated only {i}. Total map entries: {MapIndexEnd}");
-
-                mapIdx = ownCursor++;
-            }
-
-            Encode12x12Glyph(charList[i], glyphBuf);
+            Encode12x12Glyph(ch, glyphBuf);
             Array.Copy(glyphBuf, 0, glyphData, SfPadding + i * 18, 18);
 
             var sjis = IndexToSjis(mapIdx);
             var glyphIdx = (ushort)(GlyphIndexBase + i);
-            charMap[charList[i]] = (sjis, glyphIdx);
+            charMap[ch] = (sjis, glyphIdx);
 
             var writeBuf = new byte[2];
             writeBuf[0] = (byte)(glyphIdx & 0xFF);
@@ -144,15 +206,6 @@ public static class SmallFontBuilder
             $"own last mapIdx={ownCursor - 1}");
 
         return charMap;
-    }
-
-    /// <summary>
-    /// 共享区候选位必须满足: mapIndex 落在共享区 (lead 0x85~0x87), 且原始 map 条目空闲。
-    /// </summary>
-    private static bool IsFreeSharedSlot(byte[] subContent, int mapStartInSub, int mapIdx)
-    {
-        if (mapIdx < SharedMapIndexStart || mapIdx > SharedMapIndexEnd) return false;
-        return ExtractUtil.ReadUShort(subContent, mapStartInSub + mapIdx * 2) == 0;
     }
 
     private static void Encode12x12Glyph(char ch, byte[] output)
