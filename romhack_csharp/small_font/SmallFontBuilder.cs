@@ -163,8 +163,10 @@ public static class SmallFontBuilder
         {
             var newIdx = mapIdxByChar[ch];
             Console.WriteLine(
-                $"PersistCodes: warning - '{ch}' previous code 0x{prevSjis:X4} (mapIndex {prevIdx}) " +
-                $"cannot be kept, reassigned to 0x{IndexToSjis(newIdx):X4} (mapIndex {newIdx}). " +
+                $"PersistCodes: warning - '{ch}' previous code " +
+                $"0x{PersistCodeStore.ToDisplayCode(prevSjis):X4} (mapIndex {prevIdx}) " +
+                $"cannot be kept, reassigned to " +
+                $"0x{PersistCodeStore.ToDisplayCode(IndexToSjis(newIdx)):X4} (mapIndex {newIdx}). " +
                 $"Old saves may garble this char.");
         }
         Console.WriteLine($"PersistCodes: kept {kept}, changed {changed}");

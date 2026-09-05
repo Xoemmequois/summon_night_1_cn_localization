@@ -33,17 +33,18 @@ public static class PersistCodeStore
                 continue;
             }
 
-            if (!TryParseCode(value, out var sjis))
+            if (!TryParseCode(value, out var display))
             {
                 Console.WriteLine($"PersistCodes: warning - skip '{key}': unparseable code '{value}'");
                 continue;
             }
 
+            var sjis = ToDisplayCode(display); // 字节交换 → 内部形式 (lead=低字节)
             var mapIndex = SjisToMapIndex(sjis);
             if (mapIndex is < MapIndexMin or > MapIndexMax)
             {
                 Console.WriteLine(
-                    $"PersistCodes: warning - skip '{key}': code 0x{sjis:X4} -> mapIndex {mapIndex}, " +
+                    $"PersistCodes: warning - skip '{key}': code 0x{display:X4} -> mapIndex {mapIndex}, " +
                     $"outside [{MapIndexMin},{MapIndexMax}]");
                 continue;
             }
@@ -51,7 +52,7 @@ public static class PersistCodeStore
             if (!usedCodes.Add(sjis))
             {
                 Console.WriteLine(
-                    $"PersistCodes: warning - skip '{key}': code 0x{sjis:X4} already used by another char");
+                    $"PersistCodes: warning - skip '{key}': code 0x{display:X4} already used by another char");
                 continue;
             }
 
@@ -75,14 +76,14 @@ public static class PersistCodeStore
         var merged = new Dictionary<string, string>();
         foreach (var pair in oldCodes)
         {
-            merged[pair.Key.ToString()] = $"0x{pair.Value:X4}";
+            merged[pair.Key.ToString()] = $"0x{ToDisplayCode(pair.Value):X4}";
         }
 
         var updated = 0;
         foreach (var ch in currentChars)
         {
             if (!charMap.TryGetValue(ch, out var entry)) continue;
-            merged[ch.ToString()] = $"0x{entry.Sjis:X4}";
+            merged[ch.ToString()] = $"0x{ToDisplayCode(entry.Sjis):X4}";
             updated++;
         }
 
@@ -98,6 +99,12 @@ public static class PersistCodeStore
         var lead = sjis & 0xFF;
         var trail = sjis >> 8;
         return (lead - 0x81) * 0xC0 + (trail - 0x40);
+    }
+
+    /// <summary>内部 SJIS (lead=低字节) ↔ 显示码 (lead=高字节, 与 chinese_font_map.json 记法一致)。字节交换, 自逆。</summary>
+    public static ushort ToDisplayCode(ushort sjis)
+    {
+        return (ushort)(((sjis & 0xFF) << 8) | (sjis >> 8));
     }
 
     private static bool TryParseCode(string value, out ushort sjis)
