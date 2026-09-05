@@ -37,13 +37,17 @@ internal static class Program
 
         // === 小字库构建（提前: 共享字符编码须先于大字库分配固定）===
         Console.WriteLine("\n--- Building Small Font ---");
+        var persistCodesPath = Path.Combine(Directory.GetCurrentDirectory(), "rom_text_presist_codes.json");
+        var persistedCodes = PersistCodeStore.Load(persistCodesPath);
         var charMap = SmallFontBuilder.Build(
             Path.Combine(Directory.GetCurrentDirectory(), "rom_text_zh_CN.json"),
             Path.Combine("rom", "CM1200.DAT"),
             Path.Combine("rom", "S.F"),
             Path.Combine("rom", "CM1200.DAT.mod"),
             config.ValidStage,
-            sharedChars);
+            sharedChars,
+            persistedCodes);
+        SaveEnemySkillPersistCodes(persistCodesPath, persistedCodes, charMap, config.ValidStage);
 
         RomTextWriter.WriteRomText(
             slps,
@@ -199,6 +203,30 @@ internal static class Program
             ReservedCharIndices.Add(CharCodeToIndex(new[] { lead, trail }));
             Console.WriteLine($"Shared '{ch}' pinned to {lead:X2} {trail:X2}");
         }
+    }
+
+    private static void SaveEnemySkillPersistCodes(
+        string path,
+        IReadOnlyDictionary<char, ushort> oldCodes,
+        Dictionary<char, (ushort Sjis, ushort Index)> charMap,
+        List<int> validStages)
+    {
+        var json = File.ReadAllText(Path.Combine(Directory.GetCurrentDirectory(), "rom_text_zh_CN.json"));
+        var items = JsonSerializer.Deserialize<List<TranslationItem>>(json) ?? new();
+        var chars = new HashSet<char>();
+        foreach (var item in items)
+        {
+            if (!item.Key.StartsWith("EnemySkill-", StringComparison.Ordinal)) continue;
+            if (!validStages.Contains(item.Stage)) continue;
+            if (string.IsNullOrEmpty(item.Translation)) continue;
+            foreach (var ch in item.Translation)
+            {
+                if (ch == '@' || ch == 'n') continue;
+                chars.Add(ch);
+            }
+        }
+
+        PersistCodeStore.Save(path, oldCodes, chars, charMap);
     }
 
     private static void ProcessDialogRange(int startId, int endId)
