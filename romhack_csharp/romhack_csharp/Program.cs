@@ -37,7 +37,7 @@ internal static class Program
 
         // === 小字库构建（提前: 共享字符编码须先于大字库分配固定）===
         Console.WriteLine("\n--- Building Small Font ---");
-        var persistCodesPath = Path.Combine(Directory.GetCurrentDirectory(), "rom_text_presist_codes.json");
+        var persistCodesPath = Path.Combine(Directory.GetCurrentDirectory(), "rom_text_persist_codes.json");
         var persistedCodes = PersistCodeStore.Load(persistCodesPath);
         var charMap = SmallFontBuilder.Build(
             Path.Combine(Directory.GetCurrentDirectory(), "rom_text_zh_CN.json"),
