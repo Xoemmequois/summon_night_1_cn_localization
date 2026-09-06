@@ -80,6 +80,9 @@ public static class RipTool
         ExtractCatGameBanner();
         ExtractFishGameRewards();
         ExtractFishGameBanner();
+        ExtractAkaneGameHelp();
+        ExtractAkaneGameRewards();
+        ExtractAkaneGameBanner();
 
         Console.WriteLine("\nDone.");
     }
@@ -892,6 +895,126 @@ public static class RipTool
         SaveAct(bmp, path, is4bpp);
         ImageMetaWriter.WriteRawTim(path, "CM2000.DAT", 0x1A, baseOff);
         Console.WriteLine($"  fish_game_banner: {bmp.Width}x{bmp.Height} saved (block+0x{baseOff:X}, 8bpp)");
+    }
+
+    // Third SCP container {count=0xD, size=0x3C} + "SCP\0" at block+0x3C: CM2000 0x19
+    // (sector 0x52E + 111 sectors, CD-read wholesale to 0x80110000 for the akane game
+    // screens). block+0x68C is chapter-title style {flags=0x91, clut@+0x10 (256x1 =>
+    // 8bpp), image@+0x214, tilemap@+0xA218}: atlas pixels at block+0x8A4 == LoadImage
+    // source 0x801108A4, rect 80x256 halfwords => 160x256 px atlas; the 20x15 tilemap
+    // ends at block+0xAB00 == the next directory entry.
+    private static void ExtractAkaneGameHelp()
+    {
+        var cm2000Path = "rom/CM2000.DAT";
+        if (!File.Exists(cm2000Path))
+        {
+            Console.WriteLine("\nCM2000.DAT not found, skipping akane game help extraction.");
+            return;
+        }
+
+        Console.WriteLine("\n=== Extracting akane game help image (CM2000 ID 0x19 block+0x68C) ===");
+        var cm2000 = File.ReadAllBytes(cm2000Path);
+        var dd = ExtractUtil.GetSubcontent(cm2000, 0x19);
+        const int baseOff = 0x68C;
+
+        var tilemapOff = BitConverter.ToInt32(dd, baseOff + 12) & 0xFFFFFF;
+        if (BitConverter.ToInt32(dd, baseOff + 4) != 0x10 ||
+            ReadU16(dd, baseOff + 0x10) != 256 || ReadU16(dd, baseOff + 0x12) != 1 || tilemapOff == 0)
+            throw new InvalidOperationException(
+                $"akane_game_help: block+0x{baseOff:X} no longer matches the expected tilemap-atlas layout");
+
+        var sub = new byte[dd.Length - baseOff];
+        Buffer.BlockCopy(dd, baseOff, sub, 0, sub.Length);
+        using var bmp = BuildTilemapImage(sub, out var is4bpp,
+            out var atlasCols, out var atlasRows, out var mapCols, out var mapRows);
+        if (bmp == null)
+            throw new InvalidOperationException("akane_game_help: failed to build the tilemap image");
+
+        var outDir = "pic_output/misc";
+        Directory.CreateDirectory(outDir);
+        var path = Path.Combine(outDir, "akane_game_help.gif");
+        bmp.Save(path, ImageFormat.Gif);
+        SaveAct(bmp, path, is4bpp);
+        ImageMetaWriter.WriteTilemap(path, "CM2000.DAT", 0x19,
+            atlasCols, atlasRows, mapCols, mapRows, baseOffset: baseOff);
+        Console.WriteLine(
+            $"  akane_game_help: {bmp.Width}x{bmp.Height} saved (block+0x{baseOff:X}, {atlasCols}x{atlasRows} atlas tiles)");
+    }
+
+    // Whole-image member of the akane game SCP container (see ExtractAkaneGameHelp):
+    // CM2000 0x19 block+0x26860, {flags=0, clut@+0x10 (16x16), image@+0x214
+    // {64 words, 256 rows}, tilemap=0}. Pixels upload raw to VRAM (LoadImage source
+    // 0x80136A78, rect 64x256 halfwords) => 256x256 4bpp, low nibble first; like
+    // cat/fish_game_rewards the pixels reference only palette bank 0 (entries 0-15)
+    // and the TIM-shaped layout routes extraction and write-back through the
+    // standard TIM path.
+    private static void ExtractAkaneGameRewards()
+    {
+        var cm2000Path = "rom/CM2000.DAT";
+        if (!File.Exists(cm2000Path))
+        {
+            Console.WriteLine("\nCM2000.DAT not found, skipping akane game rewards extraction.");
+            return;
+        }
+
+        Console.WriteLine("\n=== Extracting akane game reward image (CM2000 ID 0x19 block+0x26860) ===");
+        var cm2000 = File.ReadAllBytes(cm2000Path);
+        var dd = ExtractUtil.GetSubcontent(cm2000, 0x19);
+        const int baseOff = 0x26860;
+
+        var tilemapOff = BitConverter.ToInt32(dd, baseOff + 12) & 0xFFFFFF;
+        if (ReadU16(dd, baseOff + 0x10) != 16 || ReadU16(dd, baseOff + 0x12) != 16 || tilemapOff != 0)
+            throw new InvalidOperationException(
+                $"akane_game_rewards: block+0x{baseOff:X} no longer matches the expected 4bpp whole-image layout");
+
+        using var bmp = ParseTim(dd, baseOff, out var is4bpp);
+        if (bmp == null || !is4bpp)
+            throw new InvalidOperationException("akane_game_rewards: failed to parse as a 4bpp TIM-style image");
+
+        var outDir = "pic_output/misc";
+        Directory.CreateDirectory(outDir);
+        var path = Path.Combine(outDir, "akane_game_rewards.gif");
+        bmp.Save(path, ImageFormat.Gif);
+        SaveAct(bmp, path, is4bpp);
+        ImageMetaWriter.WriteRawTim(path, "CM2000.DAT", 0x19, baseOff);
+        Console.WriteLine($"  akane_game_rewards: {bmp.Width}x{bmp.Height} saved (block+0x{baseOff:X}, 4bpp)");
+    }
+
+    // Whole-image member of the akane game SCP container (see ExtractAkaneGameHelp):
+    // CM2000 0x19 block+0x2EDB4, {flags=1, clut@+0x10 (256x1), image@+0x214
+    // {64 words, 256 rows}, tilemap=0}. Pixels upload raw to VRAM (LoadImage source
+    // 0x8013EFCC, rect 64x256 halfwords) => 128x256 8bpp. TIM-shaped like the other
+    // whole-image blocks, so the standard ParseTim / WriteRawTim path applies.
+    private static void ExtractAkaneGameBanner()
+    {
+        var cm2000Path = "rom/CM2000.DAT";
+        if (!File.Exists(cm2000Path))
+        {
+            Console.WriteLine("\nCM2000.DAT not found, skipping akane game banner extraction.");
+            return;
+        }
+
+        Console.WriteLine("\n=== Extracting akane game banner image (CM2000 ID 0x19 block+0x2EDB4) ===");
+        var cm2000 = File.ReadAllBytes(cm2000Path);
+        var dd = ExtractUtil.GetSubcontent(cm2000, 0x19);
+        const int baseOff = 0x2EDB4;
+
+        var tilemapOff = BitConverter.ToInt32(dd, baseOff + 12) & 0xFFFFFF;
+        if (ReadU16(dd, baseOff + 0x10) != 256 || ReadU16(dd, baseOff + 0x12) != 1 || tilemapOff != 0)
+            throw new InvalidOperationException(
+                $"akane_game_banner: block+0x{baseOff:X} no longer matches the expected 8bpp whole-image layout");
+
+        using var bmp = ParseTim(dd, baseOff, out var is4bpp);
+        if (bmp == null || is4bpp)
+            throw new InvalidOperationException("akane_game_banner: failed to parse as an 8bpp TIM-style image");
+
+        var outDir = "pic_output/misc";
+        Directory.CreateDirectory(outDir);
+        var path = Path.Combine(outDir, "akane_game_banner.gif");
+        bmp.Save(path, ImageFormat.Gif);
+        SaveAct(bmp, path, is4bpp);
+        ImageMetaWriter.WriteRawTim(path, "CM2000.DAT", 0x19, baseOff);
+        Console.WriteLine($"  akane_game_banner: {bmp.Width}x{bmp.Height} saved (block+0x{baseOff:X}, 8bpp)");
     }
 
     // {flags, clut, image, tilemap} encapsulation used by CM2000 ID 0x2D-0x2F.
