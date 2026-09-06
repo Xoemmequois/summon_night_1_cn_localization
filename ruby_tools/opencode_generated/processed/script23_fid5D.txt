@@ -578,15 +578,15 @@
 レイドさんを
 見たんですか？
 +[FID:5D, TEXT:00B9] 雷德先生
-+[FID:5D, TEXT:00BA] 你见到了吗？
++[FID:5D, TEXT:00BA] 你有见到吗？
 
 --- Group [right:艾多斯 next=2012] ---G
 アキュートの連中たち
 と一緒だったからな
 手下につけさせたのさ
 +[FID:5D, TEXT:00BB] 他和阿库特那帮人
-+[FID:5D, TEXT:00BC] 在一起了
-+[FID:5D, TEXT:00BD] 所以我就让手下去跟了
++[FID:5D, TEXT:00BC] 走在一起
++[FID:5D, TEXT:00BD] 我就让手下去盯着了
 
 --- Group [right:艾多斯 next=2012] ---G
 ククククッ
@@ -632,7 +632,7 @@
 どうか教えてください
 バノッサ様、だろォ？
 +[FID:5D, TEXT:00CB] 请告诉我吧
-+[FID:5D, TEXT:00CC] 巴诺萨大人，好吗？
++[FID:5D, TEXT:00CC] 巴诺萨大人，才对吧？
 
 --- Group [left:none next=0023] ---G
 どうか教えてください
@@ -692,9 +692,9 @@
 あなたの遊びに
 つき合って、時間を
 ムダにする気はないの
-+[FID:5D, TEXT:00DD] 陪你玩这些
-+[FID:5D, TEXT:00DE] 浪费时间
-+[FID:5D, TEXT:00DF] 我可没打算
++[FID:5D, TEXT:00DD] 我可没打算
++[FID:5D, TEXT:00DE] 陪你玩这些
++[FID:5D, TEXT:00DF] 浪费时间
 
 --- Group [left:none next=2012] ---G
 おねがいです！
@@ -761,7 +761,7 @@
 死体も沼に沈めれば、
 勝手に腐って溶けちま
 うんだ・・・
-+[FID:5D, TEXT:00F4] 那里可好了？
++[FID:5D, TEXT:00F4] 那里可棒了哦？
 +[FID:5D, TEXT:00F5] 尸体只要沉进沼泽，
 +[FID:5D, TEXT:00F6] 就会自己腐烂溶化
 +[FID:5D, TEXT:00F7] 掉了啊……
