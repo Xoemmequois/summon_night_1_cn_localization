@@ -45,14 +45,14 @@
 --- Group [right:none next=0023] ---G
 　気にするな
 　自覚はあるんだな？
-+[FID:6B, TEXT:000D] 　别在意
++[FID:6B, TEXT:000D] 　别放在心上
 -[FID:6B, TEXT:000C] 　你心里清楚吧？
 
 --- Group [right:none next=0023] ---G
 　気にしないで
 　自覚してるんですね
-+[FID:6B, TEXT:000F] 　别担心
-+[FID:6B, TEXT:0010] 　你心里清楚吧？
++[FID:6B, TEXT:000F] 　请不用在意
++[FID:6B, TEXT:0010] 　您心里其实很清楚呢
 
 --- Group [left:none next=0023] ---G
 気にしなくていいよ
@@ -85,22 +85,22 @@
 --- Group [left:none next=0023] ---G
 助けられたって自覚は
 あるんだな？
-+[FID:6B, TEXT:001B] 你知道自己
-+[FID:6B, TEXT:001C] 是被救了吧？
++[FID:6B, TEXT:001B] 被人搭救的自觉，
++[FID:6B, TEXT:001C] 你倒是有嘛？
 
 --- Group [left:none next=0023] ---G
 へぇ
 助けられたって自覚は
 あるんだ？
 +[FID:6B, TEXT:001D] 哦——
--[FID:6B, TEXT:001B] 你知道自己
-+[FID:6B, TEXT:001E] 是被救了啊？
+-[FID:6B, TEXT:001B] 被人搭救的自觉，
++[FID:6B, TEXT:001E] 你居然有啊？
 
 --- Group [left:none next=0023] ---G
 助けられた自覚は
 あるんですね・・・
-+[FID:6B, TEXT:001F] 您确实意识到
-+[FID:6B, TEXT:0020] 自己得救了啊……
++[FID:6B, TEXT:001F] 被人搭救的自觉，
++[FID:6B, TEXT:0020] 您还是有的呢……
 
 --- Group [right:none next=2012] ---G
 ・・・フンッ！
@@ -111,42 +111,42 @@
 して、わたしが説明し
 たことに嘘は
 ありません・・・
-+[FID:6B, TEXT:0022] 信不信由你
-+[FID:6B, TEXT:002D] 不过，我刚才说的话
-+[FID:6B, TEXT:002E] 里没有一句
++[FID:6B, TEXT:0022] 不管你信不信，
++[FID:6B, TEXT:002D] 我刚才说的话，
++[FID:6B, TEXT:002E] 绝没有半句
 +[FID:6B, TEXT:002F] 假话……
 
 --- Group [left:none next=2012] ---G
 信じるかどうかは別と
 して、さっき説明
 したことはホント
--[FID:6B, TEXT:0022] 信不信由你
-+[FID:6B, TEXT:002A] 不过，我刚刚说的
-+[FID:6B, TEXT:002B] 都是真的
+-[FID:6B, TEXT:0022] 不管你信不信，
++[FID:6B, TEXT:002A] 我刚才说的事情，
++[FID:6B, TEXT:002B] 全都是真的
 
 --- Group [left:none next=2012] ---G
 信じるかどうかは別と
 して、さっき僕が説明
 したことは事実だよ
--[FID:6B, TEXT:0022] 信不信由你
-+[FID:6B, TEXT:0028] 不过，我刚才
-+[FID:6B, TEXT:0029] 说的都是事实
+-[FID:6B, TEXT:0022] 不管你信不信，
++[FID:6B, TEXT:0028] 我刚才所说的，
++[FID:6B, TEXT:0029] 都是事实哦
 
 --- Group [left:none next=2012] ---G
 信じるかどうかは別と
 して、さっき俺が説明
 したことは本当だよ
--[FID:6B, TEXT:0022] 信不信由你
-+[FID:6B, TEXT:0023] 不过，我刚才
-+[FID:6B, TEXT:0024] 说的都是真的
+-[FID:6B, TEXT:0022] 不管你信不信，
++[FID:6B, TEXT:0023] 我刚才所说的，
++[FID:6B, TEXT:0024] 可全都是真的
 
 --- Group [left:none next=0023] ---G
 呼び出された召喚獣が
 自分の力で元の世界に
 帰ることはできない
 +[FID:6B, TEXT:0025] 被召唤的召唤兽
-+[FID:6B, TEXT:0026] 凭自己的力量
-+[FID:6B, TEXT:0027] 无法回到原世界
++[FID:6B, TEXT:0026] 仅凭自身力量
++[FID:6B, TEXT:0027] 是无法回到原世界的
 
 --- Group [left:none next=0023] ---G
 呼び出された召喚獣が
@@ -154,17 +154,17 @@
 帰ることはできない
 んです・・・
 -[FID:6B, TEXT:0025] 被召唤的召唤兽
--[FID:6B, TEXT:0026] 凭自己的力量
--[FID:6B, TEXT:0027] 无法回到原世界
-+[FID:6B, TEXT:0030] 啊……
+-[FID:6B, TEXT:0026] 仅凭自身力量
+-[FID:6B, TEXT:0027] 是无法回到原世界的
++[FID:6B, TEXT:0030] ……事实就是如此
 
 --- Group [left:none next=0023] ---G
 呼び出された召喚獣が
 自分の力で元の世界に
 帰ることはできないの
 -[FID:6B, TEXT:0025] 被召唤的召唤兽
--[FID:6B, TEXT:0026] 凭自己的力量
-+[FID:6B, TEXT:002C] 是无法回到原世界的
+-[FID:6B, TEXT:0026] 仅凭自身力量
++[FID:6B, TEXT:002C] 是回不去原世界的哦
 
 --- Group [right:none next=2012] ---G
 ・・・・・・
@@ -287,8 +287,8 @@
 して、生きていかない
 と、いけないですよね
 +[FID:6B, TEXT:0051] 不过，现实就是现实
-+[FID:6B, TEXT:0052] 不活下去也
-+[FID:6B, TEXT:0053] 不行呢
++[FID:6B, TEXT:0052] 无论如何也得
++[FID:6B, TEXT:0053] 好好活下去呢
 
 --- Group [right:none next=2012] ---G
 ・・・
@@ -355,20 +355,20 @@
 達に出会えたから
 運が良かったんですね
 +[FID:6B, TEXT:0062] 我，能遇到这里的
-+[FID:6B, TEXT:0063] 人们真是运气好
-+[FID:6B, TEXT:0064] 呢
++[FID:6B, TEXT:0063] 人们真是运气好呢
++[FID:6B, TEXT:0064] 
 
 --- Group [left:none next=0023] ---G
 なあ、エルカ？
-+[FID:6B, TEXT:0066] 喂，艾尔卡？
++[FID:6B, TEXT:0066] 喂，埃尔卡？
 
 --- Group [left:none next=0023] ---G
 ねぇ、エルカ？
-+[FID:6B, TEXT:0067] 呐，艾尔卡？
++[FID:6B, TEXT:0067] 呐，埃尔卡？
 
 --- Group [left:none next=0023] ---G
 エルカさん・・・
-+[FID:6B, TEXT:0068] 艾尔卡……
++[FID:6B, TEXT:0068] 埃尔卡……
 
 --- Group [left:none next=0023] ---G
 　帰る方法を一緒に探そう
@@ -490,8 +490,8 @@
 エルカさんはひとりで
 がんばってきたんです
 ・・・
-+[FID:6B, TEXT:0087] 艾尔卡你一个人
-+[FID:6B, TEXT:0088] 努力过来的
++[FID:6B, TEXT:0087] 埃尔卡你一个人
++[FID:6B, TEXT:0088] 努力到了现在
 -[FID:6B, TEXT:0054] ……
 
 --- Group [left:none next=0023] ---G

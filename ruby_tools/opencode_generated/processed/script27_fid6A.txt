@@ -97,8 +97,8 @@
 お前、まだそんなこと
 言ってんのか
 +[FID:6A, TEXT:0017] 都这么惨了
-+[FID:6A, TEXT:0018] 你，还在说
-+[FID:6A, TEXT:0019] 那种话吗
++[FID:6A, TEXT:0018] 你，还在说那种话吗
++[FID:6A, TEXT:0019] 
 
 --- Group [right:加泽尔 next=2012] ---G
 ほっといてくれって
@@ -107,8 +107,8 @@
 じゃねえかよ！？
 +[FID:6A, TEXT:001A] 她不是说
 +[FID:6A, TEXT:001B] 别管她吗
-+[FID:6A, TEXT:001C] 成全她不就行
-+[FID:6A, TEXT:001D] 了吗！？
++[FID:6A, TEXT:001C] 成全她不就行了吗！？
++[FID:6A, TEXT:001D] 
 
 --- Group [left:none next=2012] ---G
 ほっとけないよ！
@@ -141,26 +141,26 @@
 --- Group [left:none next=0023] ---G
 そうするしか
 なかったんだよ！
-+[FID:6A, TEXT:0025] 只能那么
++[FID:6A, TEXT:0025] 是只能那么
 +[FID:6A, TEXT:002A] 做啊！
 
 --- Group [left:none next=0023] ---G
 そうするしか
 なかったんだ！
--[FID:6A, TEXT:0025] 只能那么
+-[FID:6A, TEXT:0025] 是只能那么
 +[FID:6A, TEXT:0026] 做啊！
 
 --- Group [left:none next=0023] ---G
 そうするしかなかった
 んだ！
-+[FID:6A, TEXT:0027] 只能那么做
++[FID:6A, TEXT:0027] 是只能那么做
 +[FID:6A, TEXT:0028] 啊！
 
 --- Group [left:none next=0023] ---G
 そうするしかなかった
 んですよ！
--[FID:6A, TEXT:0027] 只能那么做
-+[FID:6A, TEXT:002F] 的呀！
+-[FID:6A, TEXT:0027] 是只能那么做
++[FID:6A, TEXT:002F] 呀！
 
 --- Group [left:none next=2012] ---G
 ほっとけないでしょ！
@@ -239,15 +239,15 @@
 --- Group [right:莫娜蒂 next=2012] ---G
 ぎゃあぎゃあ騒ぐんじ
 ゃねえよ、コラ！！
-+[FID:6A, TEXT:0042] 别哇哇乱叫
-+[FID:6A, TEXT:0043] 了，喂！！
++[FID:6A, TEXT:0042] 别哇哇乱叫了，
++[FID:6A, TEXT:0043] 喂！！
 
 --- Group [right:伊姆兰 next=2012] ---G
 乗り込む前にわざわざ
 出てきてくれるとは、
 間抜けなはぐれだ
-+[FID:6A, TEXT:0044] 在潜入之前竟然
-+[FID:6A, TEXT:0045] 主动跑出来
++[FID:6A, TEXT:0044] 在我们攻进去之前
++[FID:6A, TEXT:0045] 竟然主动跑出来
 +[FID:6A, TEXT:0046] 真是愚蠢的迷途召唤兽
 
 --- Group [left:none next=0023] ---G
@@ -264,7 +264,7 @@
 なかなか華麗なお名前
 ですねえ
 +[FID:6A, TEXT:0049] 哦，她是叫
-+[FID:6A, TEXT:004A] 艾尔卡吗？
++[FID:6A, TEXT:004A] 埃尔卡吗？
 +[FID:6A, TEXT:004B] 真是华丽的名字
 +[FID:6A, TEXT:004C] 呢
 
@@ -292,17 +292,17 @@
 
 --- Group [left:加泽尔 next=0023] ---G
 勝手なことをっ！
-+[FID:6A, TEXT:0055] 你们别自作主张！
++[FID:6A, TEXT:0055] 少自说自话了！
 
 --- Group [left:加泽尔 next=0023] ---G
 勝手なことばっかり！
-+[FID:6A, TEXT:0056] 你们就会自作主张！
++[FID:6A, TEXT:0056] 净会自说自话！
 
 --- Group [left:加泽尔 next=0023] ---G
 勝手なことばかり
 言わないでください！
-+[FID:6A, TEXT:0057] 别净说些自私自利
-+[FID:6A, TEXT:0058] 的话！
++[FID:6A, TEXT:0057] 请不要再说这种
++[FID:6A, TEXT:0058] 任性的话了！
 
 --- Group [right:伊姆兰 next=2012] ---G
 ほほう、いいのかね
@@ -345,7 +345,7 @@
 --- Group [left:none next=2012] ---G
 エルカさんっ
 こっちですのっ
-+[FID:6A, TEXT:0065] 艾尔卡小姐！
++[FID:6A, TEXT:0065] 埃尔卡小姐！
 +[FID:6A, TEXT:0066] 请到这边来！
 
 --- Group [right:伊姆兰 next=2012] ---G
