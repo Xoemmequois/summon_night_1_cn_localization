@@ -29,7 +29,7 @@
 -[FID:5A, TEXT:0000] 
 -[FID:5A, TEXT:0000] 
 +[FID:5A, TEXT:0009] 　深知自己会制造牺牲，
-+[FID:5A, TEXT:000A] 　背负那份重量的觉悟
++[FID:5A, TEXT:000A] 　背负这份罪孽的觉悟
 +[FID:5A, TEXT:0020] 　我是不会有的吧……
 
 --- Group [right:none next=201D] ---G
@@ -51,7 +51,7 @@
 -[FID:5A, TEXT:0000] 
 -[FID:5A, TEXT:0000] 
 -[FID:5A, TEXT:0009] 　深知自己会制造牺牲，
--[FID:5A, TEXT:000A] 　背负那份重量的觉悟
+-[FID:5A, TEXT:000A] 　背负这份罪孽的觉悟
 +[FID:5A, TEXT:000B] 　我是不会有的吧……
 
 --- Group [left:none next=201D] ---G
@@ -85,7 +85,7 @@
 -[FID:5A, TEXT:0000] 
 -[FID:5A, TEXT:0000] 
 -[FID:5A, TEXT:0009] 　深知自己会制造牺牲，
--[FID:5A, TEXT:000A] 　背负那份重量的觉悟
+-[FID:5A, TEXT:000A] 　背负这份罪孽的觉悟
 +[FID:5A, TEXT:000D] 　我是不会有的吧……
 
 --- Group [left:none next=201D] ---G
@@ -333,8 +333,8 @@
 --- Group [right:卡茜丝 next=2012] ---G
 ちょっと・・・
 うらやましいかも
-+[FID:5A, TEXT:0056] 有点……
-+[FID:5A, TEXT:0057] 也许羡慕吧
++[FID:5A, TEXT:0056] 也许……
++[FID:5A, TEXT:0057] 有点羡慕吧
 
 --- Group [right:卡茜丝 next=2012] ---G
 アタシにも

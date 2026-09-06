@@ -66,13 +66,13 @@
 
 --- Group [left:主人公 next=0023] ---G
 保護者って・・・
-+[FID:5C, TEXT:0016] 说是监护人什么的……
++[FID:5C, TEXT:0016] 监护人什么的……
 
 --- Group [left:主人公 next=0023] ---G
 保護者って・・・
 レイドさんに
 失礼なんじゃ・・・
--[FID:5C, TEXT:0016] 说是监护人什么的……
+-[FID:5C, TEXT:0016] 监护人什么的……
 +[FID:5C, TEXT:0018] 对雷德先生
 +[FID:5C, TEXT:0019] 太失礼了吧……
 
@@ -110,7 +110,7 @@
 話が終わるまで、
 ここで俺たちと
 待っていてくれよな
-+[FID:5C, TEXT:0021] 等他们谈完，
++[FID:5C, TEXT:0021] 在他们谈完前，
 +[FID:5C, TEXT:0022] 就在这里和我们
 +[FID:5C, TEXT:0023] 一起等着吧
 
@@ -145,8 +145,8 @@
 果物のジュースを
 さしあげますよ
 +[FID:5C, TEXT:002C] 哈哈哈，既然如此
-+[FID:5C, TEXT:002D] 给您来杯果汁
-+[FID:5C, TEXT:002E] 我这就端来
++[FID:5C, TEXT:002D] 那我就给您
++[FID:5C, TEXT:002E] 来杯果汁吧
 
 --- Group [left:none next=0023] ---G
 ・・・
@@ -197,8 +197,8 @@
 --- Group [left:none next=0023] ---G
 あ、いえ、そういう
 わけじゃなくて
-+[FID:5C, TEXT:003D] 啊，不，不是那样
-+[FID:5C, TEXT:003E] 的意思……
++[FID:5C, TEXT:003D] 啊，不，不是那个
++[FID:5C, TEXT:003E] 意思……
 
 --- Group [right:佩尔戈 next=2012] ---G
 せっかくの機会です
@@ -323,16 +323,16 @@
 アキュートに来ること
 になったんですか？
 +[FID:5C, TEXT:0064] 大家，是为什么
-+[FID:5C, TEXT:0065] 到阿库特来
-+[FID:5C, TEXT:0066] 呢？
++[FID:5C, TEXT:0065] 到阿库特来呢？
++[FID:5C, TEXT:0066] 
 
 --- Group [left:none next=0023] ---G
 なんで、みなさんは
 アキュートに来ること
 になったんですか？
 +[FID:5C, TEXT:0067] 为什么，大家会
--[FID:5C, TEXT:0065] 到阿库特来
--[FID:5C, TEXT:0066] 呢？
+-[FID:5C, TEXT:0065] 到阿库特来呢？
+-[FID:5C, TEXT:0066] 
 
 --- Group [right:斯塔乌特 next=0023] ---G
 ・・・そう来たか
@@ -412,7 +412,7 @@
 
 --- Group [left:none next=0023] ---G
 看護婦さん！？
-+[FID:5C, TEXT:007E] 护士小姐！？
++[FID:5C, TEXT:007E] 护士！？
 
 --- Group [right:塞西尔 next=2012] ---G
 スタウト！
