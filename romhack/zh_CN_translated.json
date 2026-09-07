@@ -145467,25 +145467,25 @@
   {
     "key": "0099-0004",
     "original": "街から出るんじゃない",
-    "translation": "从城里出去",
+    "translation": "从城里出去吧？",
     "stage": 3
   },
   {
     "key": "0099-0005",
     "original": "のかな？",
-    "translation": "吧？",
+    "translation": "",
     "stage": 3
   },
   {
     "key": "0099-0006",
     "original": "のか？",
-    "translation": "吧？",
+    "translation": "",
     "stage": 3
   },
   {
     "key": "0099-0007",
     "original": "でしょうか？",
-    "translation": "吧？",
+    "translation": "",
     "stage": 3
   },
   {
@@ -145671,7 +145671,7 @@
   {
     "key": "0099-0038",
     "original": "・・・？",
-    "translation": "嗯……？",
+    "translation": "……？",
     "stage": 3
   },
   {
@@ -145827,7 +145827,7 @@
   {
     "key": "0099-0064",
     "original": "・・・危ないっ！！",
-    "translation": "危险……！！",
+    "translation": "……危险！！",
     "stage": 3
   },
   {
@@ -146223,13 +146223,13 @@
   {
     "key": "0100-0002",
     "original": "君たちも召喚術が",
-    "translation": "你们也会召唤术",
+    "translation": "你们也会召唤术啊",
     "stage": 3
   },
   {
     "key": "0100-0003",
     "original": "使えたんだな",
-    "translation": "啊",
+    "translation": "",
     "stage": 3
   },
   {
@@ -146283,7 +146283,7 @@
   {
     "key": "0100-0012",
     "original": "・・・？",
-    "translation": "呃……？",
+    "translation": "……？",
     "stage": 3
   },
   {
@@ -146361,7 +146361,7 @@
   {
     "key": "0100-0025",
     "original": "次はそっちの番だぜ？",
-    "translation": "接下来轮到你们了吧？",
+    "translation": "接下来轮到你了吧？",
     "stage": 3
   },
   {
@@ -146415,13 +146415,13 @@
   {
     "key": "0100-0034",
     "original": "あんな金の亡者たちと",
-    "translation": "和那些财迷们",
+    "translation": "别把我和那群",
     "stage": 3
   },
   {
     "key": "0100-0035",
     "original": "一緒にしないでくれ",
-    "translation": "别混为一谈",
+    "translation": "守财奴混为一谈！",
     "stage": 3
   },
   {
@@ -146475,13 +146475,13 @@
   {
     "key": "0100-0044",
     "original": "どうしてこの街に",
-    "translation": "为什么来这条街",
+    "translation": "为什么来这条街呢？",
     "stage": 3
   },
   {
     "key": "0100-0045",
     "original": "来たんだよ？",
-    "translation": "呢？",
+    "translation": "",
     "stage": 3
   },
   {
@@ -146577,13 +146577,13 @@
   {
     "key": "0100-0061",
     "original": "取り戻さなくては",
-    "translation": "不找回来",
+    "translation": "不找回来不行啊",
     "stage": 3
   },
   {
     "key": "0100-0062",
     "original": "ならないんだよ",
-    "translation": "不行啊",
+    "translation": "",
     "stage": 3
   },
   {
@@ -146733,7 +146733,7 @@
   {
     "key": "0100-0087",
     "original": "で、この子たちは？",
-    "translation": "那，这些孩子呢？",
+    "translation": "诶，这些孩子是？",
     "stage": 3
   },
   {
@@ -146895,19 +146895,19 @@
   {
     "key": "0100-0114",
     "original": "その証拠に、お姉さん",
-    "translation": "证据嘛，姐姐我",
+    "translation": "不信你看，姐姐我",
     "stage": 3
   },
   {
     "key": "0100-0115",
     "original": "はもう手がかりをつか",
-    "translation": "已经抓住线索",
+    "translation": "已经抓住线索了呀",
     "stage": 3
   },
   {
     "key": "0100-0116",
     "original": "んできてるんだから",
-    "translation": "了呀",
+    "translation": "",
     "stage": 3
   },
   {
@@ -146925,7 +146925,7 @@
   {
     "key": "0100-0119",
     "original": "始まらないでしょ",
-    "translation": "也没用吧",
+    "translation": "也没什么好处吧",
     "stage": 3
   },
   {
@@ -147249,13 +147249,13 @@
   {
     "key": "0101-0014",
     "original": "に召喚術を習いやがっ",
-    "translation": "人学了召唤术",
+    "translation": "人学了召唤术啊……",
     "stage": 3
   },
   {
     "key": "0101-0015",
     "original": "たんだな・・・",
-    "translation": "啊……",
+    "translation": "",
     "stage": 3
   },
   {
@@ -147303,13 +147303,13 @@
   {
     "key": "0101-0023",
     "original": "人たちがいても",
-    "translation": "的人在也不",
+    "translation": "的人在也不奇怪呢",
     "stage": 3
   },
   {
     "key": "0101-0024",
     "original": "おかしくないですね",
-    "translation": "奇怪呢",
+    "translation": "",
     "stage": 3
   },
   {
@@ -147363,61 +147363,61 @@
   {
     "key": "0101-0033",
     "original": "でも、俺たちにも",
-    "translation": "但是，我们也有",
+    "translation": "但我们也是",
     "stage": 3
   },
   {
     "key": "0101-0034",
     "original": "事情があるんですよ",
-    "translation": "自己的情况",
+    "translation": "有苦衷的啊",
     "stage": 3
   },
   {
     "key": "0101-0035",
     "original": "でも、僕たちにも事情",
-    "translation": "不过，我们也有",
+    "translation": "不过我们也有",
     "stage": 3
   },
   {
     "key": "0101-0036",
     "original": "があるんですよ",
-    "translation": "苦衷",
+    "translation": "自己的苦衷呢",
     "stage": 3
   },
   {
     "key": "0101-0037",
     "original": "でも、あたしたちにも",
-    "translation": "不过，我们也有",
+    "translation": "不过我们也是",
     "stage": 3
   },
   {
     "key": "0101-0038",
     "original": "ちょっとした",
-    "translation": "一点",
+    "translation": "有一点小小的",
     "stage": 3
   },
   {
     "key": "0101-0039",
     "original": "事情があるんです",
-    "translation": "特殊情况",
+    "translation": "特殊情况啦",
     "stage": 3
   },
   {
     "key": "0101-0040",
     "original": "でも、わたしたちには",
-    "translation": "不过，我们有",
+    "translation": "不过我们也有",
     "stage": 3
   },
   {
     "key": "0101-0041",
     "original": "わたしたちの事情が",
-    "translation": "我们的情况",
+    "translation": "我们自己的",
     "stage": 3
   },
   {
     "key": "0101-0042",
     "original": "あるんです・・・",
-    "translation": "啊……",
+    "translation": "苦衷呢……",
     "stage": 3
   },
   {
@@ -147561,13 +147561,13 @@
   {
     "key": "0101-0066",
     "original": "召喚術が使えるように",
-    "translation": "就能使用召唤术",
+    "translation": "就能使用召唤术了吧？",
     "stage": 3
   },
   {
     "key": "0101-0067",
     "original": "なったんでしょ？",
-    "translation": "了吧？",
+    "translation": "",
     "stage": 3
   },
   {
@@ -147759,7 +147759,7 @@
   {
     "key": "0101-0099",
     "original": "聞けねェな、おっさん",
-    "translation": "听不进去啊，大叔",
+    "translation": "那可不行啊，大叔",
     "stage": 3
   },
   {
@@ -147903,7 +147903,7 @@
   {
     "key": "0101-0123",
     "original": "【魅魔の宝玉】だ！",
-    "translation": "是【魅魔之宝玉】！",
+    "translation": "是【魅魔的宝玉】！",
     "stage": 3
   },
   {
@@ -148053,7 +148053,7 @@
   {
     "key": "0102-0020",
     "original": "それから聞けばいい",
-    "translation": "之后再问就好",
+    "translation": "之后再说就好",
     "stage": 3
   },
   {
@@ -148101,7 +148101,7 @@
   {
     "key": "0102-0028",
     "original": "聞けばいいことです",
-    "translation": "再问就好",
+    "translation": "再说就好",
     "stage": 3
   },
   {
@@ -148203,25 +148203,25 @@
   {
     "key": "0103-0010",
     "original": "　　見せつけられて俺たちは",
-    "translation": "　　被展示在眼前我们",
+    "translation": "　　被展示在眼前，我们",
     "stage": 3
   },
   {
     "key": "0103-0011",
     "original": "　　見せつけられて僕たちは",
-    "translation": "　　被展示在眼前我们",
+    "translation": "　　被展示在眼前，我们",
     "stage": 3
   },
   {
     "key": "0103-0012",
     "original": "　　見せつけられてあたしたちは",
-    "translation": "　　被展示在眼前我们",
+    "translation": "　　被展示在眼前，我们",
     "stage": 3
   },
   {
     "key": "0103-0013",
     "original": "　　見せつけられてわたしたちは",
-    "translation": "　　被展示在眼前我们",
+    "translation": "　　被展示在眼前，我们",
     "stage": 3
   },
   {
@@ -148233,7 +148233,7 @@
   {
     "key": "0103-0015",
     "original": "　　駆られていた・・・",
-    "translation": "　　所笼罩着……",
+    "translation": "　　笼罩着……",
     "stage": 3
   },
   {
@@ -148419,13 +148419,13 @@
   {
     "key": "0103-0046",
     "original": "は手に入れてしまった",
-    "translation": "竟然弄到手了",
+    "translation": "竟然弄到手了吗",
     "stage": 3
   },
   {
     "key": "0103-0047",
     "original": "のか",
-    "translation": "吗",
+    "translation": "",
     "stage": 3
   },
   {
@@ -148701,7 +148701,7 @@
   {
     "key": "0103-0093",
     "original": "それは無理だよ",
-    "translation": "那不可能啊。",
+    "translation": "那不可能啊",
     "stage": 3
   },
   {
@@ -148713,7 +148713,7 @@
   {
     "key": "0103-0095",
     "original": "無理でしょ",
-    "translation": "不可能吧。",
+    "translation": "不可能吧",
     "stage": 3
   },
   {
@@ -148767,13 +148767,13 @@
   {
     "key": "0103-0104",
     "original": "に固定化させちゃうん",
-    "translation": "就固定化了",
+    "translation": "就能将其固定化了啊",
     "stage": 3
   },
   {
     "key": "0103-0105",
     "original": "だもの",
-    "translation": "嘛",
+    "translation": "",
     "stage": 3
   },
   {
@@ -148797,19 +148797,19 @@
   {
     "key": "0103-0109",
     "original": "無理ですよ",
-    "translation": "不行啊。",
+    "translation": "不行啊",
     "stage": 3
   },
   {
     "key": "0103-0110",
     "original": "バノッサさんはわたし",
-    "translation": "巴诺萨先生他恨我",
+    "translation": "巴诺萨先生",
     "stage": 3
   },
   {
     "key": "0103-0111",
     "original": "を憎んでいますし",
-    "translation": "而且……",
+    "translation": "他那么恨我",
     "stage": 3
   },
   {
@@ -155013,7 +155013,7 @@
   {
     "key": "0108-0009",
     "original": "【魅魔の宝玉】はね",
-    "translation": "【魅魔之宝玉】啊",
+    "translation": "【魅魔的宝玉】啊",
     "stage": 3
   },
   {
@@ -155313,13 +155313,13 @@
   {
     "key": "0108-0059",
     "original": "強力な結界が張られた",
-    "translation": "强力的结界",
+    "translation": "强力的结界啊",
     "stage": 3
   },
   {
     "key": "0108-0060",
     "original": "からさ",
-    "translation": "啊",
+    "translation": "",
     "stage": 3
   },
   {
@@ -155361,19 +155361,19 @@
   {
     "key": "0108-0067",
     "original": "【魅魔の宝玉】は",
-    "translation": "【魅魔之宝玉】是",
+    "translation": "【魅魔的宝玉】是",
     "stage": 3
   },
   {
     "key": "0108-0068",
     "original": "サプレスの悪魔の意識",
-    "translation": "支配萨普雷斯的恶魔意",
+    "translation": "支配萨普雷斯的恶魔",
     "stage": 3
   },
   {
     "key": "0108-0069",
     "original": "を支配し、元の世界へ",
-    "translation": "识并将它们送回",
+    "translation": "意识并将它们送回",
     "stage": 3
   },
   {
@@ -163905,7 +163905,7 @@
   {
     "key": "0116-0249",
     "original": "魅魔の宝玉のせいじゃ",
-    "translation": "魅魔宝玉的关系",
+    "translation": "魅魔的宝玉的关系",
     "stage": 3
   },
   {
@@ -163947,7 +163947,7 @@
   {
     "key": "0116-0256",
     "original": "魅魔の宝玉のせい",
-    "translation": "是因为魅魔宝玉",
+    "translation": "是因为魅魔的宝玉",
     "stage": 3
   },
   {
@@ -163983,7 +163983,7 @@
   {
     "key": "0116-0262",
     "original": "魅魔の宝玉のせいなん",
-    "translation": "是因为魅魔宝玉",
+    "translation": "是因为魅魔的宝玉",
     "stage": 3
   },
   {
@@ -178101,7 +178101,7 @@
   {
     "key": "0127-0001",
     "original": "魅魔の宝玉の力が、",
-    "translation": "魅魔宝玉的力量，",
+    "translation": "魅魔的宝玉的力量，",
     "stage": 3
   },
   {
