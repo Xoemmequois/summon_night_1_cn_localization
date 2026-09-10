@@ -804,16 +804,16 @@
 そのわりにはギブソン
 たちの話を理解してた
 みたいじゃん？
-+[FID:6D, TEXT:00D8] 可你刚才把吉布森
-+[FID:6D, TEXT:00D9] 他们的话听懂了
++[FID:6D, TEXT:00D8] 可你刚才听懂了
++[FID:6D, TEXT:00D9] 吉布森他们的话
 +[FID:6D, TEXT:0112] 对吧？
 
 --- Group [left:none next=0023] ---G
 そのわりにはギブソン
 たちの話を理解してた
 みたいだけど？
--[FID:6D, TEXT:00D8] 可你刚才把吉布森
--[FID:6D, TEXT:00D9] 他们的话听懂了
+-[FID:6D, TEXT:00D8] 可你刚才听懂了
+-[FID:6D, TEXT:00D9] 吉布森他们的话
 +[FID:6D, TEXT:00DA] 是不是？
 
 --- Group [left:none next=0023] ---G
@@ -821,10 +821,10 @@
 しなくても、ギブソン
 たちの言うことは
 理解できるんだ？
-+[FID:6D, TEXT:00DB] 哦，即使不加入
-+[FID:6D, TEXT:00DC] 派阀，吉布森他们
-+[FID:6D, TEXT:00DD] 说的话也能听懂
-+[FID:6D, TEXT:00DE] 啊？
++[FID:6D, TEXT:00DB] 诶，即使不加入派阀，
++[FID:6D, TEXT:00DC] 吉布森他们说的话
++[FID:6D, TEXT:00DD] 也能听懂啊？
++[FID:6D, TEXT:00DE] 
 
 --- Group [left:none next=0023] ---G
 ・・・派閥に所属しな
@@ -833,8 +833,8 @@
 できるんですね？
 +[FID:6D, TEXT:00DF] 即使不属于派阀……
 +[FID:6D, TEXT:00E0] 吉布森先生他们
-+[FID:6D, TEXT:00E1] 说的话也能
-+[FID:6D, TEXT:00E2] 理解吗？
++[FID:6D, TEXT:00E1] 说的话也能理解吗？
++[FID:6D, TEXT:00E2] 
 
 --- Group [right:none next=2012] ---G
 興味があってな
@@ -848,7 +848,7 @@
 元の世界へ帰すのにも
 役に立つだろ？
 +[FID:6D, TEXT:00E5] 最重要的是
-+[FID:6D, TEXT:00E6] 了解的话，把你
++[FID:6D, TEXT:00E6] 了解了的话，对把你
 +[FID:6D, TEXT:00E7] 送回原来的世界
 +[FID:6D, TEXT:00E8] 也有帮助吧？
 
@@ -862,9 +862,9 @@
 なのに、ギブソンさん
 たちの話は理解できる
 んですね？
-+[FID:6D, TEXT:00F3] 可是，吉布森
-+[FID:6D, TEXT:00F4] 先生他们的话却
-+[FID:6D, TEXT:00F5] 能理解呢？
++[FID:6D, TEXT:00F3] 可是，却能理解
++[FID:6D, TEXT:00F4] 吉布森先生
++[FID:6D, TEXT:00F5] 他们的话呢？
 
 --- Group [right:none next=2012] ---G
 興味があったからね
@@ -906,9 +906,9 @@
 でも、ギブソンさん
 たちの話は理解できる
 んですね？
-+[FID:6D, TEXT:0105] 可是，吉布森
--[FID:6D, TEXT:00F4] 先生他们的话却
--[FID:6D, TEXT:00F5] 能理解呢？
++[FID:6D, TEXT:0105] 可是，却能理解
+-[FID:6D, TEXT:00F4] 吉布森先生
+-[FID:6D, TEXT:00F5] 他们的话呢？
 
 --- Group [right:none next=2012] ---G
 そ、それはね！
@@ -996,7 +996,7 @@
 
 --- Group [right:none next=2012] ---G
 で・き・な・い！！
-+[FID:6D, TEXT:0127] 做不到！！
++[FID:6D, TEXT:0127] 做·不·到！！
 
 --- Group [left:莫娜蒂 next=2012] ---G
 エルカさぁん・・・
@@ -1078,15 +1078,15 @@
 わかりました・・・
 だから、もうやめて？
 +[FID:6D, TEXT:013E] 我知道了……
-+[FID:6D, TEXT:013F] 所以，别这样了好吗？
++[FID:6D, TEXT:013F] 所以，打住吧好吗？
 
 --- Group [left:none next=2012] ---G
 モナティだって
 わざとやってる
 わけじゃないの
 +[FID:6D, TEXT:0140] 莫娜蒂也不是
-+[FID:6D, TEXT:0141] 故意那么做的
-+[FID:6D, TEXT:0142] 啊
++[FID:6D, TEXT:0141] 故意那么做的啊
++[FID:6D, TEXT:0142] 
 
 --- Group [left:none next=0023] ---G
 おねがい、
@@ -1138,9 +1138,9 @@
 蒼の派閥は知識の探求
 を、金の派閥は栄華を
 求める召喚師の集団だ
-+[FID:6D, TEXT:0153] 苍之派阀追求知识
++[FID:6D, TEXT:0153] 苍之派阀探求知识
 +[FID:6D, TEXT:0154] 金之派阀追求荣华
-+[FID:6D, TEXT:0155] 是召唤师集团
++[FID:6D, TEXT:0155] 都是召唤师的组织
 
 --- Group [right:none next=2012] ---G
 彼らの目的はこれらと
@@ -1149,8 +1149,8 @@
 はいないんだな
 +[FID:6D, TEXT:0156] 他们的目的
 +[FID:6D, TEXT:0157] 应该和这些不同吧
-+[FID:6D, TEXT:0158] 所以，不属于
-+[FID:6D, TEXT:0159] 任何派阀
++[FID:6D, TEXT:0158] 所以，不属于任何派阀
++[FID:6D, TEXT:0159] 
 
 --- Group [left:主人公 next=0023] ---G
 なんだか不気味ですね
@@ -1222,7 +1222,7 @@
 
 --- Group [left:none next=0023] ---G
 たしかにそうですが
-+[FID:6D, TEXT:016D] 确实如此但……
++[FID:6D, TEXT:016D] 确实如此，不过……
 
 --- Group [right:none next=0023] ---G
 それにソルは
@@ -1248,9 +1248,9 @@
 召喚師の名字は出身と
 実力を証明する大切な
 ものなんだよ
-+[FID:6D, TEXT:0173] 召唤师的姓氏是证明
-+[FID:6D, TEXT:0174] 出身和实力的重要
-+[FID:6D, TEXT:0175] 东西
++[FID:6D, TEXT:0173] 召唤师的姓氏
++[FID:6D, TEXT:0174] 可是证明出身与实力
++[FID:6D, TEXT:0175] 的重要凭证呢
 
 --- Group [right:none next=0023] ---G
 それはつまり
@@ -1433,8 +1433,8 @@
 化け物に襲われちまっ
 てるんだよっ！！
 +[FID:6D, TEXT:019D] 北、北边的贫民区
-+[FID:6D, TEXT:019E] 遭到怪物袭击
-+[FID:6D, TEXT:019F] 了呀！！
++[FID:6D, TEXT:019E] 遭到怪物袭击了呀！！
++[FID:6D, TEXT:019F] 
 
 --- Group [left:吉布森 next=2012] ---G
 なんだって！？
@@ -1512,9 +1512,9 @@
 何もかもお見通し
 なのかなぁ・・・？
 +[FID:6D, TEXT:01B5] 希翁先生……
-+[FID:6D, TEXT:01B6] 说不定，
-+[FID:6D, TEXT:01B7] 一切都被他看透
-+[FID:6D, TEXT:01BD] 了吧？
++[FID:6D, TEXT:01B6] 该不会，
++[FID:6D, TEXT:01B7] 早就看透一切了
++[FID:6D, TEXT:01BD] 吧……？
 
 --- Group [left:none next=0023] ---G
 シオンさんって・・・
@@ -1522,9 +1522,9 @@
 何もかもお見通し
 なのかもしれないな
 -[FID:6D, TEXT:01B5] 希翁先生……
--[FID:6D, TEXT:01B6] 说不定，
--[FID:6D, TEXT:01B7] 一切都被他看透
-+[FID:6D, TEXT:01B8] 也说不定呢。
+-[FID:6D, TEXT:01B6] 该不会，
+-[FID:6D, TEXT:01B7] 早就看透一切了
++[FID:6D, TEXT:01B8] 也说不定呢
 
 --- Group [left:none next=0023] ---G
 あの人は・・・
@@ -1532,9 +1532,9 @@
 かもお見通しなのかも
 しれないな・・・
 +[FID:6D, TEXT:01B9] 那个人……
-+[FID:6D, TEXT:01BA] 说不定一切都
-+[FID:6D, TEXT:01BB] 已经看透了
-+[FID:6D, TEXT:01BC] 也不一定呢……
++[FID:6D, TEXT:01BA] 说不定，
++[FID:6D, TEXT:01BB] 早就把一切
++[FID:6D, TEXT:01BC] 都看穿了吧……
 
 --- Group [right:none next=2012] ---G
 あの二人は本当のこと
@@ -1674,7 +1674,7 @@
 し、完全にお手あげね
 +[FID:6D, TEXT:01EA] 废弃工厂里，也没
 +[FID:6D, TEXT:01EB] 留下任何线索
-+[FID:6D, TEXT:01EC] 而且完全没辙了呢
++[FID:6D, TEXT:01EC] 完全没辙了呢
 
 --- Group [left:none next=0023] ---G
 そうか・・・

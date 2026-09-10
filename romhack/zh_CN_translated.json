@@ -156837,13 +156837,13 @@
   {
     "key": "0109-0216",
     "original": "そのわりにはギブソン",
-    "translation": "可你刚才把吉布森",
+    "translation": "可你刚才听懂了",
     "stage": 3
   },
   {
     "key": "0109-0217",
     "original": "たちの話を理解してた",
-    "translation": "他们的话听懂了",
+    "translation": "吉布森他们的话",
     "stage": 3
   },
   {
@@ -156855,25 +156855,25 @@
   {
     "key": "0109-0219",
     "original": "へぇ、派閥に所属",
-    "translation": "哦，即使不加入",
+    "translation": "诶，即使不加入派阀，",
     "stage": 3
   },
   {
     "key": "0109-0220",
     "original": "しなくても、ギブソン",
-    "translation": "派阀，吉布森他们",
+    "translation": "吉布森他们说的话",
     "stage": 3
   },
   {
     "key": "0109-0221",
     "original": "たちの言うことは",
-    "translation": "说的话也能听懂",
+    "translation": "也能听懂啊？",
     "stage": 3
   },
   {
     "key": "0109-0222",
     "original": "理解できるんだ？",
-    "translation": "啊？",
+    "translation": "",
     "stage": 3
   },
   {
@@ -156891,13 +156891,13 @@
   {
     "key": "0109-0225",
     "original": "たちの言うことは理解",
-    "translation": "说的话也能",
+    "translation": "说的话也能理解吗？",
     "stage": 3
   },
   {
     "key": "0109-0226",
     "original": "できるんですね？",
-    "translation": "理解吗？",
+    "translation": "",
     "stage": 3
   },
   {
@@ -156921,7 +156921,7 @@
   {
     "key": "0109-0230",
     "original": "知っておけば、お前を",
-    "translation": "了解的话，把你",
+    "translation": "了解了的话，对把你",
     "stage": 3
   },
   {
@@ -156999,19 +156999,19 @@
   {
     "key": "0109-0243",
     "original": "なのに、ギブソンさん",
-    "translation": "可是，吉布森",
+    "translation": "可是，却能理解",
     "stage": 3
   },
   {
     "key": "0109-0244",
     "original": "たちの話は理解できる",
-    "translation": "先生他们的话却",
+    "translation": "吉布森先生",
     "stage": 3
   },
   {
     "key": "0109-0245",
     "original": "んですね？",
-    "translation": "能理解呢？",
+    "translation": "他们的话呢？",
     "stage": 3
   },
   {
@@ -157107,7 +157107,7 @@
   {
     "key": "0109-0261",
     "original": "でも、ギブソンさん",
-    "translation": "可是，吉布森",
+    "translation": "可是，却能理解",
     "stage": 3
   },
   {
@@ -157311,7 +157311,7 @@
   {
     "key": "0109-0295",
     "original": "で・き・な・い！！",
-    "translation": "做不到！！",
+    "translation": "做·不·到！！",
     "stage": 3
   },
   {
@@ -157455,7 +157455,7 @@
   {
     "key": "0109-0319",
     "original": "だから、もうやめて？",
-    "translation": "所以，别这样了好吗？",
+    "translation": "所以，打住吧好吗？",
     "stage": 3
   },
   {
@@ -157467,13 +157467,13 @@
   {
     "key": "0109-0321",
     "original": "わざとやってる",
-    "translation": "故意那么做的",
+    "translation": "故意那么做的啊",
     "stage": 3
   },
   {
     "key": "0109-0322",
     "original": "わけじゃないの",
-    "translation": "啊",
+    "translation": "",
     "stage": 3
   },
   {
@@ -157575,7 +157575,7 @@
   {
     "key": "0109-0339",
     "original": "蒼の派閥は知識の探求",
-    "translation": "苍之派阀追求知识",
+    "translation": "苍之派阀探求知识",
     "stage": 3
   },
   {
@@ -157587,7 +157587,7 @@
   {
     "key": "0109-0341",
     "original": "求める召喚師の集団だ",
-    "translation": "是召唤师集团",
+    "translation": "都是召唤师的组织",
     "stage": 3
   },
   {
@@ -157605,13 +157605,13 @@
   {
     "key": "0109-0344",
     "original": "だから、派閥に属して",
-    "translation": "所以，不属于",
+    "translation": "所以，不属于任何派阀",
     "stage": 3
   },
   {
     "key": "0109-0345",
     "original": "はいないんだな",
-    "translation": "任何派阀",
+    "translation": "",
     "stage": 3
   },
   {
@@ -157731,7 +157731,7 @@
   {
     "key": "0109-0365",
     "original": "たしかにそうですが",
-    "translation": "确实如此但……",
+    "translation": "确实如此，不过……",
     "stage": 3
   },
   {
@@ -157767,19 +157767,19 @@
   {
     "key": "0109-0371",
     "original": "召喚師の名字は出身と",
-    "translation": "召唤师的姓氏是证明",
+    "translation": "召唤师的姓氏",
     "stage": 3
   },
   {
     "key": "0109-0372",
     "original": "実力を証明する大切な",
-    "translation": "出身和实力的重要",
+    "translation": "可是证明出身与实力",
     "stage": 3
   },
   {
     "key": "0109-0373",
     "original": "ものなんだよ",
-    "translation": "东西",
+    "translation": "的重要凭证呢",
     "stage": 3
   },
   {
@@ -158025,13 +158025,13 @@
   {
     "key": "0109-0414",
     "original": "化け物に襲われちまっ",
-    "translation": "遭到怪物袭击",
+    "translation": "遭到怪物袭击了呀！！",
     "stage": 3
   },
   {
     "key": "0109-0415",
     "original": "てるんだよっ！！",
-    "translation": "了呀！！",
+    "translation": "",
     "stage": 3
   },
   {
@@ -158169,19 +158169,19 @@
   {
     "key": "0109-0438",
     "original": "ひょっとしたら、",
-    "translation": "说不定，",
+    "translation": "该不会，",
     "stage": 3
   },
   {
     "key": "0109-0439",
     "original": "何もかもお見通し",
-    "translation": "一切都被他看透",
+    "translation": "早就看透一切了",
     "stage": 3
   },
   {
     "key": "0109-0440",
     "original": "なのかもしれないな",
-    "translation": "也说不定呢。",
+    "translation": "也说不定呢",
     "stage": 3
   },
   {
@@ -158193,25 +158193,25 @@
   {
     "key": "0109-0442",
     "original": "ひょっとすると、何も",
-    "translation": "说不定一切都",
+    "translation": "说不定，",
     "stage": 3
   },
   {
     "key": "0109-0443",
     "original": "かもお見通しなのかも",
-    "translation": "已经看透了",
+    "translation": "早就把一切",
     "stage": 3
   },
   {
     "key": "0109-0444",
     "original": "しれないな・・・",
-    "translation": "也不一定呢……",
+    "translation": "都看穿了吧……",
     "stage": 3
   },
   {
     "key": "0109-0445",
     "original": "なのかなぁ・・・？",
-    "translation": "了吧？",
+    "translation": "吧……？",
     "stage": 3
   },
   {
@@ -158493,7 +158493,7 @@
   {
     "key": "0109-0492",
     "original": "し、完全にお手あげね",
-    "translation": "而且完全没辙了呢",
+    "translation": "完全没辙了呢",
     "stage": 3
   },
   {
@@ -159027,43 +159027,43 @@
   {
     "key": "0110-0003",
     "original": "いきなり悲鳴が",
-    "translation": "突然叫声响起",
+    "translation": "突然听见一声惨叫",
     "stage": 3
   },
   {
     "key": "0110-0004",
     "original": "あがったと思ったら、",
-    "translation": "刚这么想，",
+    "translation": "还没等反应过来",
     "stage": 3
   },
   {
     "key": "0110-0005",
     "original": "化け物の群れが",
-    "translation": "怪物群就",
+    "translation": "一大群怪物",
     "stage": 3
   },
   {
     "key": "0110-0006",
     "original": "出てきたんだ",
-    "translation": "冲了出来",
+    "translation": "就冲了出来！",
     "stage": 3
   },
   {
     "key": "0110-0007",
     "original": "それにしても、本当に",
-    "translation": "不过，还真是",
+    "translation": "不过，它们还真是",
     "stage": 3
   },
   {
     "key": "0110-0008",
     "original": "手当たり次第って感じ",
-    "translation": "见什么砸什么",
+    "translation": "见什么砸什么，",
     "stage": 3
   },
   {
     "key": "0110-0009",
     "original": "で暴れたものね",
-    "translation": "地大闹了一场呢",
+    "translation": "狠狠大闹了一场呢",
     "stage": 3
   },
   {
@@ -159099,7 +159099,7 @@
   {
     "key": "0110-0015",
     "original": "ここにいたんですか？",
-    "translation": "您在这里吗？",
+    "translation": "您在这里啊？",
     "stage": 3
   },
   {
@@ -159123,13 +159123,13 @@
   {
     "key": "0110-0019",
     "original": "連中はあっちのほうで",
-    "translation": "那些家伙在那边",
+    "translation": "那些家伙",
     "stage": 3
   },
   {
     "key": "0110-0020",
     "original": "まだ暴れとる",
-    "translation": "还在闹事",
+    "translation": "还在那边闹事",
     "stage": 3
   },
   {
@@ -159357,25 +159357,25 @@
   {
     "key": "0110-0058",
     "original": "たとえそれが間違って",
-    "translation": "即使那是错的",
+    "translation": "就算明知道",
     "stage": 3
   },
   {
     "key": "0110-0059",
     "original": "いるとわかっていても",
-    "translation": "我也明白",
+    "translation": "那样是错的，",
     "stage": 3
   },
   {
     "key": "0110-0060",
     "original": "ボクはついて行くしか",
-    "translation": "但还是只能",
+    "translation": "我也只能",
     "stage": 3
   },
   {
     "key": "0110-0061",
     "original": "ないんです・・・",
-    "translation": "跟他走……",
+    "translation": "跟着他走下去了……",
     "stage": 3
   },
   {
@@ -159393,7 +159393,7 @@
   {
     "key": "0110-0064",
     "original": "の暮らしてたスラムを",
-    "translation": "要毁掉我们住过",
+    "translation": "要毁掉自己住过",
     "stage": 3
   },
   {
@@ -159453,13 +159453,13 @@
   {
     "key": "0110-0074",
     "original": "貴方たちの相手は",
-    "translation": "你们的对手",
+    "translation": "由我来当",
     "stage": 3
   },
   {
     "key": "0110-0075",
     "original": "ボクがします！！",
-    "translation": "由我来当！！",
+    "translation": "你们的对手！！",
     "stage": 3
   },
   {
@@ -159789,25 +159789,25 @@
   {
     "key": "0111-0055",
     "original": "俺たちに代わって今日",
-    "translation": "那个家伙代替我们",
+    "translation": "我相信他！",
     "stage": 3
   },
   {
     "key": "0111-0056",
     "original": "まで騎士団を支え続け",
-    "translation": "支撑骑士团至今的",
+    "translation": "相信他代替我们，",
     "stage": 3
   },
   {
     "key": "0111-0057",
     "original": "てきた、あいつの強さ",
-    "translation": "那份实力",
+    "translation": "一路撑起骑士团的",
     "stage": 3
   },
   {
     "key": "0111-0058",
     "original": "を信じる！！",
-    "translation": "我相信！！",
+    "translation": "那份坚强与实力！！",
     "stage": 3
   },
   {
@@ -159831,13 +159831,13 @@
   {
     "key": "0111-0062",
     "original": "宝玉の力を悪用させて",
-    "translation": "滥用宝玉之力",
+    "translation": "滥用宝玉之力了！！",
     "stage": 3
   },
   {
     "key": "0111-0063",
     "original": "はいけない！！",
-    "translation": "了！！",
+    "translation": "",
     "stage": 3
   },
   {
@@ -159849,13 +159849,13 @@
   {
     "key": "0112-0002",
     "original": "噂ほどの力じゃねェな",
-    "translation": "也没什么了不起",
+    "translation": "所谓的马恩三兄弟",
     "stage": 3
   },
   {
     "key": "0112-0003",
     "original": "マーン三兄弟ってのも",
-    "translation": "马恩三兄弟也一样",
+    "translation": "也没传闻中那么强嘛！",
     "stage": 3
   },
   {
@@ -159939,13 +159939,13 @@
   {
     "key": "0112-0017",
     "original": "これ以上のろうぜきは",
-    "translation": "你们再这样放肆",
+    "translation": "我绝不容许你们",
     "stage": 3
   },
   {
     "key": "0112-0018",
     "original": "自分が許さない！！",
-    "translation": "我绝不容许！！",
+    "translation": "再这样放肆！！",
     "stage": 3
   },
   {
@@ -162993,19 +162993,19 @@
   {
     "key": "0116-0097",
     "original": "リィンバウムと、",
-    "translation": "是据说寄宿于林巴姆和",
+    "translation": "是据说寄宿于",
     "stage": 3
   },
   {
     "key": "0116-0098",
     "original": "それを取り巻く４つの",
-    "translation": "环绕它的四个",
+    "translation": "林巴姆和环绕它",
     "stage": 3
   },
   {
     "key": "0116-0099",
     "original": "世界に宿ると言われて",
-    "translation": "世界中的",
+    "translation": "的四个世界中的",
     "stage": 3
   },
   {
@@ -163335,7 +163335,7 @@
   {
     "key": "0116-0154",
     "original": "わたしなのですか？",
-    "translation": "是我吗？",
+    "translation": "是我呢？",
     "stage": 3
   },
   {
@@ -163437,13 +163437,13 @@
   {
     "key": "0116-0171",
     "original": "異界と異界を行き来す",
-    "translation": "将通往异界与异界的道",
+    "translation": "彻底封死了各个异界间",
     "stage": 3
   },
   {
     "key": "0116-0172",
     "original": "る道を閉ざしたのだ",
-    "translation": "路封闭了",
+    "translation": "往来的通路",
     "stage": 3
   },
   {
@@ -163527,13 +163527,13 @@
   {
     "key": "0116-0186",
     "original": "により、ずっと結界を",
-    "translation": "一直将结界",
+    "translation": "一直将结界守护至今",
     "stage": 3
   },
   {
     "key": "0116-0187",
     "original": "守ってきた",
-    "translation": "守护至今",
+    "translation": "",
     "stage": 3
   },
   {
@@ -163725,7 +163725,7 @@
   {
     "key": "0116-0219",
     "original": "この世界を狙ってくる",
-    "translation": "瞄准这个世界",
+    "translation": "盯上这个世界",
     "stage": 3
   },
   {
@@ -163737,13 +163737,13 @@
   {
     "key": "0116-0221",
     "original": "終わりなき戦いが再び",
-    "translation": "无尽的战争将再次",
+    "translation": "无尽的战火将重燃",
     "stage": 3
   },
   {
     "key": "0116-0222",
     "original": "始まってしまうのだ",
-    "translation": "开始了",
+    "translation": "",
     "stage": 3
   },
   {
@@ -163809,7 +163809,7 @@
   {
     "key": "0116-0233",
     "original": "失われた、だと？",
-    "translation": "失去了，你说什么？",
+    "translation": "你说，失去了？",
     "stage": 3
   },
   {
@@ -163851,7 +163851,7 @@
   {
     "key": "0116-0240",
     "original": "だけは真実だ",
-    "translation": "才是事实",
+    "translation": "是事实",
     "stage": 3
   },
   {
@@ -163863,13 +163863,13 @@
   {
     "key": "0116-0242",
     "original": "を完全に修復すること",
-    "translation": "将结界完全修复",
+    "translation": "是无法完全修复",
     "stage": 3
   },
   {
     "key": "0116-0243",
     "original": "はできない",
-    "translation": "是无法做到的",
+    "translation": "结界的",
     "stage": 3
   },
   {
@@ -163887,13 +163887,13 @@
   {
     "key": "0116-0246",
     "original": "もまた日増しにはやく",
-    "translation": "也正一天天地",
+    "translation": "也在一天天地加快",
     "stage": 3
   },
   {
     "key": "0116-0247",
     "original": "なってきているのだ",
-    "translation": "在加快",
+    "translation": "",
     "stage": 3
   },
   {
@@ -164259,7 +164259,7 @@
   {
     "key": "0116-0308",
     "original": "この光り輝く大地にて",
-    "translation": "在这片光辉闪耀的大地",
+    "translation": "亦在这光辉大地上",
     "stage": 3
   },
   {
@@ -164427,19 +164427,19 @@
   {
     "key": "0116-0336",
     "original": "ならば、この世界たる",
-    "translation": "那么，去取得我这",
+    "translation": "那么，就尽管",
     "stage": 3
   },
   {
     "key": "0116-0337",
     "original": "我のエルゴを手にして",
-    "translation": "身为世界的埃尔戈",
+    "translation": "将作为这世界的",
     "stage": 3
   },
   {
     "key": "0116-0338",
     "original": "見せるがいい",
-    "translation": "给我看吧",
+    "translation": "吾之埃尔戈夺去吧！",
     "stage": 3
   },
   {
