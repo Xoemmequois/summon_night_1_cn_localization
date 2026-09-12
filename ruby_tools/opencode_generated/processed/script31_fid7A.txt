@@ -197,8 +197,8 @@
 --- Group [left:洛卡斯 next=0023] ---G
 あの、違うかも
 しれないですよ
-+[FID:7A, TEXT:003E] 那个……也说不定
-+[FID:7A, TEXT:003F] 并不是那样呢
++[FID:7A, TEXT:003E] 那个……也并
++[FID:7A, TEXT:003F] 不一定都是那样呢
 
 --- Group [right:洛卡斯 next=2012] ---G
 みんな、この先に妙な
@@ -387,8 +387,8 @@
 できました
 +[FID:7A, TEXT:007C] 干得漂亮
 +[FID:7A, TEXT:007D] 这样一来我也能安心，
-+[FID:7A, TEXT:007E] 完成使命
-+[FID:7A, TEXT:007F] 了
++[FID:7A, TEXT:007E] 完成使命了
++[FID:7A, TEXT:007F] 
 
 --- Group [left:莫娜蒂 next=2012] ---G
 よかったですねえ
@@ -422,13 +422,13 @@
 ・・・とか？？
 +[FID:7A, TEXT:0088] 难·道·说
 +[FID:7A, TEXT:0089] 什么都没想……
-+[FID:7A, TEXT:008A] 是吧？？
++[FID:7A, TEXT:008A] 是吗？？
 
 --- Group [left:主人公 next=0023] ---G
 まさか、何も考えて
 いなかったのでは？
 +[FID:7A, TEXT:008B] 不会吧，
-+[FID:7A, TEXT:008C] 什么都没想过吧？
++[FID:7A, TEXT:008C] 什么都没想过吗？
 
 --- Group [right:凯娜 next=2012] ---G
 あ、はい
@@ -533,8 +533,8 @@
 みなさんの言うとおり
 だと思います
 +[FID:7A, TEXT:00AE] 那个……凯娜小姐
-+[FID:7A, TEXT:00AF] 我认为正如
-+[FID:7A, TEXT:00B0] 大家所说
++[FID:7A, TEXT:00AF] 我觉得正如
++[FID:7A, TEXT:00B0] 大家所说的那样
 
 --- Group [left:主人公 next=0023] ---G
 だから・・・
@@ -543,8 +543,8 @@
 してくれませんか？
 +[FID:7A, TEXT:00B1] 所以……
 +[FID:7A, TEXT:00B2] 如果愿意的话，
-+[FID:7A, TEXT:00B3] 请帮帮我们，
-+[FID:7A, TEXT:00B4] 好吗？
++[FID:7A, TEXT:00B3] 能请你来
++[FID:7A, TEXT:00B4] 帮帮我们吗？
 
 --- Group [right:凯娜 next=2012] ---G
 でも・・・
@@ -583,5 +583,5 @@
 みなさんのお手伝いを
 させてください
 +[FID:7A, TEXT:00C0] 如果不嫌弃我的话，
-+[FID:7A, TEXT:00C1] 请让我来协助大家
-+[FID:7A, TEXT:00C2] 吧
++[FID:7A, TEXT:00C1] 请让我来协助大家吧
++[FID:7A, TEXT:00C2] 

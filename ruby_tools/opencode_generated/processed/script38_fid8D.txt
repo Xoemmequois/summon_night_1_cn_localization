@@ -214,7 +214,7 @@
 
 --- Group [left:主人公 next=0023] ---G
 守ってみせるって！！
-+[FID:8D, TEXT:0036] 一定要守护给你看！！
++[FID:8D, TEXT:0036] 一定要守护好！！
 
 --- Group [left:主人公 next=2012] ---G
 ……そうでしたね
@@ -246,7 +246,7 @@
 
 --- Group [left:主人公 next=0023] ---G
 守ってみせるって
-+[FID:8D, TEXT:003B] 我说了会守护给你看的
++[FID:8D, TEXT:003B] 一定会守护好的
 
 --- Group [left:主人公 next=2012] ---G
 僕は……悲鳴をあげ
@@ -411,7 +411,7 @@
 --- Group [left:主人公 next=2012] ---G
 俺に、約束を
 守らせてくれ……
-+[FID:8D, TEXT:006C] 让我，守住
++[FID:8D, TEXT:006C] 让我，遵守
 +[FID:8D, TEXT:006D] 约定吧……
 
 --- Group [left:主人公 next=0023] ---G
@@ -424,13 +424,13 @@
 大切なものたちを
 守らせて！！
 -[FID:8D, TEXT:006E] 重要的人们
-+[FID:8D, TEXT:0076] 让我来守护吧！！
++[FID:8D, TEXT:0076] 由我来守护吧！！
 
 --- Group [left:主人公 next=0023] ---G
 大切なものたちを
 守らせて！
 -[FID:8D, TEXT:006E] 重要的人们
-+[FID:8D, TEXT:0079] 让我来守护吧！
++[FID:8D, TEXT:0079] 由我来守护吧！
 
 --- Group [left:主人公 next=0023] ---G
 大切なものたちを
@@ -441,7 +441,7 @@
 --- Group [left:主人公 next=2012] ---G
 僕に、約束を守らせて
 くれ……
-+[FID:8D, TEXT:0070] 让我，把约定守住
++[FID:8D, TEXT:0070] 让我，遵守约定
 +[FID:8D, TEXT:0071] 吧……
 
 --- Group [left:主人公 next=0023] ---G
@@ -452,7 +452,7 @@
 +[FID:8D, TEXT:0073] 拜托了！
 +[FID:8D, TEXT:0074] 
 -[FID:8D, TEXT:006E] 重要的人们
--[FID:8D, TEXT:0076] 让我来守护吧！！
+-[FID:8D, TEXT:0076] 由我来守护吧！！
 
 --- Group [left:主人公 next=2012] ---G
 おねがい！
@@ -468,7 +468,7 @@
 守らせて！
 +[FID:8D, TEXT:0077] 让我……
 -[FID:8D, TEXT:006E] 重要的人们
--[FID:8D, TEXT:0079] 让我来守护吧！
+-[FID:8D, TEXT:0079] 由我来守护吧！
 
 --- Group [left:主人公 next=2012] ---G
 わたしに……
