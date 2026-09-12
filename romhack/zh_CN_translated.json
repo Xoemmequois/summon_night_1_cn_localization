@@ -106611,7 +106611,7 @@
   {
     "key": "0076-0072",
     "original": "う、うにゅうぅ・・・",
-    "translation": "唔、唔扭唔……",
+    "translation": "唔、呜扭……",
     "stage": 3
   },
   {
@@ -111399,7 +111399,7 @@
   {
     "key": "0080-0099",
     "original": "う、うにゅうぅ～っ！",
-    "translation": "呜、呜纽〜！",
+    "translation": "呜、呜扭〜！",
     "stage": 3
   },
   {
@@ -112617,7 +112617,7 @@
   {
     "key": "0080-0302",
     "original": "うにゅうぅ・・・",
-    "translation": "唔唔……",
+    "translation": "呜扭……",
     "stage": 3
   },
   {
@@ -129129,7 +129129,7 @@
   {
     "key": "0090-0324",
     "original": "ふにゅうぅぅ",
-    "translation": "唔姆姆",
+    "translation": "呜扭",
     "stage": 3
   },
   {
@@ -167313,7 +167313,7 @@
   {
     "key": "0118-0455",
     "original": "りんかーさんに",
-    "translation": "成为契约者",
+    "translation": "成为誓约者",
     "stage": 3
   },
   {
@@ -167361,7 +167361,7 @@
   {
     "key": "0118-0463",
     "original": "に誓約者になったわけ",
-    "translation": "成为契约者",
+    "translation": "成为誓约者",
     "stage": 3
   },
   {
@@ -167415,7 +167415,7 @@
   {
     "key": "0118-0472",
     "original": "はいえないんだよ",
-    "translation": "算是契约者",
+    "translation": "算是誓约者",
     "stage": 3
   },
   {
@@ -167433,7 +167433,7 @@
   {
     "key": "0118-0475",
     "original": "ホントの誓約者じゃ",
-    "translation": "真正的契约者",
+    "translation": "真正的誓约者",
     "stage": 3
   },
   {
@@ -167463,7 +167463,7 @@
   {
     "key": "0118-0480",
     "original": "正式に誓約者になった",
-    "translation": "成为契约者",
+    "translation": "成为誓约者",
     "stage": 3
   },
   {
@@ -167523,7 +167523,7 @@
   {
     "key": "0118-0490",
     "original": "誓約者・・・",
-    "translation": "契约者……",
+    "translation": "誓约者……",
     "stage": 3
   },
   {
@@ -170553,43 +170553,43 @@
   {
     "key": "0120-0108",
     "original": "でも、ラムダ先輩ほど",
-    "translation": "可是，我没有像拉姆达",
+    "translation": "可是，论招式威力",
     "stage": 3
   },
   {
     "key": "0120-0109",
     "original": "威力がありません",
-    "translation": "前辈那样的威力",
+    "translation": "比不上拉姆达前辈，",
     "stage": 3
   },
   {
     "key": "0120-0110",
     "original": "それに受けは、レイド",
-    "translation": "而且我比不上雷德",
+    "translation": "论防御招架，也敌不过",
     "stage": 3
   },
   {
     "key": "0120-0111",
     "original": "先輩にかなわないし",
-    "translation": "前辈的接招",
+    "translation": "雷德前辈……",
     "stage": 3
   },
   {
     "key": "0120-0112",
     "original": "それなら、足りないと",
-    "translation": "那样的话，把彼此",
+    "translation": "既然这样，只要",
     "stage": 3
   },
   {
     "key": "0120-0113",
     "original": "思った部分をお互いに",
-    "translation": "觉得不足的部分",
+    "translation": "互相学习各自",
     "stage": 3
   },
   {
     "key": "0120-0114",
     "original": "学んでいけばいいさ",
-    "translation": "互相学学就好啦",
+    "translation": "不足的地方就好啦",
     "stage": 3
   },
   {
@@ -170667,7 +170667,7 @@
   {
     "key": "0120-0127",
     "original": "邪魔、しないほうが",
-    "translation": "还是不打扰了",
+    "translation": "还是别打扰他们",
     "stage": 3
   },
   {
@@ -171483,13 +171483,13 @@
   {
     "key": "0120-0263",
     "original": "悪いのはそれを使った",
-    "translation": "坏的是使用它",
+    "translation": "坏的是",
     "stage": 3
   },
   {
     "key": "0120-0264",
     "original": "者だろうか？",
-    "translation": "的人吗？",
+    "translation": "使用它的人吗？",
     "stage": 3
   },
   {
@@ -171885,19 +171885,19 @@
   {
     "key": "0120-0330",
     "original": "偉そうに言いましたが",
-    "translation": "虽然话说得有点大",
+    "translation": "虽然话说得很神气，",
     "stage": 3
   },
   {
     "key": "0120-0331",
     "original": "私がそれを実行できる",
-    "translation": "我能否将它付诸行动",
+    "translation": "但我自己能不能做到",
     "stage": 3
   },
   {
     "key": "0120-0332",
     "original": "かは、不安ですけど",
-    "translation": "这一点上，我很不安",
+    "translation": "心里其实也没底呢",
     "stage": 3
   },
   {
@@ -171921,7 +171921,7 @@
   {
     "key": "0120-0336",
     "original": "あんたに、こいつを",
-    "translation": "给你，这个东西",
+    "translation": "这个东西",
     "stage": 3
   },
   {
@@ -172017,31 +172017,31 @@
   {
     "key": "0120-0352",
     "original": "だが、作り上げた時に",
-    "translation": "但是，做成的时候",
+    "translation": "但在造出它之后",
     "stage": 3
   },
   {
     "key": "0120-0353",
     "original": "気づいてしまった",
-    "translation": "我察觉到了",
+    "translation": "我才猛然意识到",
     "stage": 3
   },
   {
     "key": "0120-0354",
     "original": "こいつが使い方次第で",
-    "translation": "这东西根据用法",
+    "translation": "这东西若使用不当，",
     "stage": 3
   },
   {
     "key": "0120-0355",
     "original": "世界を滅ぼしかねない",
-    "translation": "可能会毁灭世界",
+    "translation": "很可能会给这世界",
     "stage": 3
   },
   {
     "key": "0120-0356",
     "original": "ものだということにな",
-    "translation": "这一点",
+    "translation": "带来毁灭",
     "stage": 3
   },
   {
@@ -172053,7 +172053,7 @@
   {
     "key": "0120-0358",
     "original": "いて、ワシにこの剣を",
-    "translation": "却让我把这剑",
+    "translation": "却让我把这把剑",
     "stage": 3
   },
   {
@@ -172143,19 +172143,19 @@
   {
     "key": "0120-0373",
     "original": "この剣を泣かすこと",
-    "translation": "别让这把剑",
+    "translation": "别让这把剑哭泣，",
     "stage": 3
   },
   {
     "key": "0120-0374",
     "original": "なく、正しく使って",
-    "translation": "哭泣，好好使用",
+    "translation": "好好使用它",
     "stage": 3
   },
   {
     "key": "0120-0375",
     "original": "やってくれぬか？",
-    "translation": "它好吗？",
+    "translation": "好吗？",
     "stage": 3
   },
   {
@@ -172245,13 +172245,13 @@
   {
     "key": "0120-0390",
     "original": "使わせてもらうよ",
-    "translation": "那就让我用吧",
+    "translation": "我会好好使用的,",
     "stage": 3
   },
   {
     "key": "0120-0391",
     "original": "爺さんが願いをこめた",
-    "translation": "这把老爷子倾注了",
+    "translation": "这把倾注了老爷子",
     "stage": 3
   },
   {
@@ -172275,13 +172275,13 @@
   {
     "key": "0120-0395",
     "original": "使わせてもらいます",
-    "translation": "请让我使用",
+    "translation": "我会好好使用的,",
     "stage": 3
   },
   {
     "key": "0120-0396",
     "original": "貴方が願いをこめた",
-    "translation": "这把您寄托了",
+    "translation": "这把您倾注了",
     "stage": 3
   },
   {
@@ -172347,13 +172347,13 @@
   {
     "key": "0120-0407",
     "original": "使わせていただきます",
-    "translation": "请让我使用",
+    "translation": "我会好好使用的,",
     "stage": 3
   },
   {
     "key": "0120-0408",
     "original": "おじいさんが願いを",
-    "translation": "这把爷爷寄托了",
+    "translation": "这把倾注了爷爷",
     "stage": 3
   },
   {
@@ -172791,13 +172791,13 @@
   {
     "key": "0121-0007",
     "original": "多分ここは、剣竜の峰",
-    "translation": "大概这里就是剑龙之峰",
+    "translation": "大概这里就是人称",
     "stage": 3
   },
   {
     "key": "0121-0008",
     "original": "と呼ばれる場所だろう",
-    "translation": "被这么称呼的地方吧",
+    "translation": "剑龙之峰的地方吧",
     "stage": 3
   },
   {
@@ -172809,13 +172809,13 @@
   {
     "key": "0121-0010",
     "original": "剣士たちに昔から伝わ",
-    "translation": "剑士们之中自古流传",
+    "translation": "剑士间代代相传的",
     "stage": 3
   },
   {
     "key": "0121-0011",
     "original": "っている話に出てくる",
-    "translation": "的故事中出现的",
+    "translation": "传说故事里提到的",
     "stage": 3
   },
   {
@@ -172947,25 +172947,25 @@
   {
     "key": "0121-0033",
     "original": "使うのでござるよ",
-    "translation": "是会用的呀",
+    "translation": "它是当真会用是也",
     "stage": 3
   },
   {
     "key": "0121-0034",
     "original": "剣竜はその不思議な力",
-    "translation": "剑龙用那不可思议之力",
+    "translation": "剑龙身怀奇力，",
     "stage": 3
   },
   {
     "key": "0121-0035",
     "original": "で、触れることなく",
-    "translation": "无需触碰地",
+    "translation": "无需直接接触，",
     "stage": 3
   },
   {
     "key": "0121-0036",
     "original": "剣を操るのでござる",
-    "translation": "操控剑的呀",
+    "translation": "便能隔空御剑是也",
     "stage": 3
   },
   {
@@ -173013,19 +173013,19 @@
   {
     "key": "0121-0044",
     "original": "それでは、貴方がここ",
-    "translation": "那么，您就是",
+    "translation": "那么，您就是这里的",
     "stage": 3
   },
   {
     "key": "0121-0045",
     "original": "のエルゴの守護者なの",
-    "translation": "这里的埃尔戈的守护者",
+    "translation": "埃尔戈的守护者吗？",
     "stage": 3
   },
   {
     "key": "0121-0046",
     "original": "ですか？",
-    "translation": "吗？",
+    "translation": "",
     "stage": 3
   },
   {
@@ -173037,25 +173037,25 @@
   {
     "key": "0121-0048",
     "original": "そのように面妖な",
-    "translation": "那样奇怪名字的",
+    "translation": "名字如此离奇之物",
     "stage": 3
   },
   {
     "key": "0121-0049",
     "original": "名前のものは知らぬが",
-    "translation": "东西没听说过呢",
+    "translation": "在下虽未曾听闻",
     "stage": 3
   },
   {
     "key": "0121-0050",
     "original": "剣竜の守るという",
-    "translation": "是剑龙所守护的",
+    "translation": "或许正是那剑龙",
     "stage": 3
   },
   {
     "key": "0121-0051",
     "original": "宝のことかも知れぬな",
-    "translation": "宝物也说不定呢",
+    "translation": "所守之宝物亦未可知",
     "stage": 3
   },
   {
@@ -173181,7 +173181,7 @@
   {
     "key": "0121-0072",
     "original": "・・・納得したか？",
-    "translation": "这下服了吗？",
+    "translation": "……这下心服了吗？",
     "stage": 3
   },
   {
@@ -173391,49 +173391,49 @@
   {
     "key": "0121-0107",
     "original": "だけど、俺たちは剣竜",
-    "translation": "但是，我们非",
+    "translation": "可是，我们无论如何",
     "stage": 3
   },
   {
     "key": "0121-0108",
     "original": "にどうしても勝たなく",
-    "translation": "打败剑龙",
+    "translation": "都要战胜剑龙",
     "stage": 3
   },
   {
     "key": "0121-0109",
     "original": "ちゃならないんだ！",
-    "translation": "不可！",
+    "translation": "才行！",
     "stage": 3
   },
   {
     "key": "0121-0110",
     "original": "しかし、僕たちは剣竜",
-    "translation": "但是，我们非",
+    "translation": "但是，我们无论如何",
     "stage": 3
   },
   {
     "key": "0121-0111",
     "original": "てはならないんです",
-    "translation": "不行",
+    "translation": "才可以",
     "stage": 3
   },
   {
     "key": "0121-0112",
     "original": "でも、あたしたちは",
-    "translation": "可是，我们非",
+    "translation": "可是，我们",
     "stage": 3
   },
   {
     "key": "0121-0113",
     "original": "剣竜に勝たなきゃ",
-    "translation": "打败剑龙",
+    "translation": "必须要打赢剑龙",
     "stage": 3
   },
   {
     "key": "0121-0114",
     "original": "いけないんだから！",
-    "translation": "不可！",
+    "translation": "才行！",
     "stage": 3
   },
   {
@@ -173457,7 +173457,7 @@
   {
     "key": "0121-0118",
     "original": "ならないんです",
-    "translation": "战斗",
+    "translation": "交战才行",
     "stage": 3
   },
   {
@@ -173469,61 +173469,61 @@
   {
     "key": "0121-0120",
     "original": "どうやら、それなりの",
-    "translation": "看起来，像是",
+    "translation": "看来诸位，",
     "stage": 3
   },
   {
     "key": "0121-0121",
     "original": "事情があるようで",
-    "translation": "有什么内情",
+    "translation": "似是有何隐情",
     "stage": 3
   },
   {
     "key": "0121-0122",
     "original": "ござるな",
-    "translation": "呢",
+    "translation": "是也",
     "stage": 3
   },
   {
     "key": "0121-0123",
     "original": "よければ、詳しく話を",
-    "translation": "如果方便，详细",
+    "translation": "若是不介意，",
     "stage": 3
   },
   {
     "key": "0121-0124",
     "original": "聞かせてもらえぬか？",
-    "translation": "跟我说说吗？",
+    "translation": "可否容在下详听？",
     "stage": 3
   },
   {
     "key": "0121-0125",
     "original": "なるほど、事情は承知",
-    "translation": "原来如此，情况",
+    "translation": "原来如此，",
     "stage": 3
   },
   {
     "key": "0121-0126",
     "original": "したでござる",
-    "translation": "我明白了",
+    "translation": "原委在下已明了",
     "stage": 3
   },
   {
     "key": "0121-0127",
     "original": "お主たちが剣竜に勝て",
-    "translation": "你们打不过剑龙",
+    "translation": "若尔等战胜不了剑龙，",
     "stage": 3
   },
   {
     "key": "0121-0128",
     "original": "なければ、この世界が",
-    "translation": "的话，这个世界",
+    "translation": "这个世界便危险了，",
     "stage": 3
   },
   {
     "key": "0121-0129",
     "original": "危ないのでござるな？",
-    "translation": "就危险了吧？",
+    "translation": "可是如此？",
     "stage": 3
   },
   {
@@ -173547,7 +173547,7 @@
   {
     "key": "0121-0133",
     "original": "剣竜の居場所へ",
-    "translation": "去剑龙的所在地",
+    "translation": "去剑龙的所在之处",
     "stage": 3
   },
   {
@@ -173571,37 +173571,37 @@
   {
     "key": "0121-0137",
     "original": "ただし、拙者も剣竜と",
-    "translation": "不过，条件是我",
+    "translation": "不过，在下有个条件，",
     "stage": 3
   },
   {
     "key": "0121-0138",
     "original": "の戦いに加えてもらう",
-    "translation": "也要参加与剑龙",
+    "translation": "讨伐剑龙之战，",
     "stage": 3
   },
   {
     "key": "0121-0139",
     "original": "ことが条件でござる",
-    "translation": "的战斗",
+    "translation": "须算上在下一人",
     "stage": 3
   },
   {
     "key": "0121-0140",
     "original": "これまで拙者が目標と",
-    "translation": "它是至今我一直视为",
+    "translation": "那是在下一直以来",
     "stage": 3
   },
   {
     "key": "0121-0141",
     "original": "していた相手だ",
-    "translation": "目标的对象",
+    "translation": "立誓击败的对手",
     "stage": 3
   },
   {
     "key": "0121-0142",
     "original": "これだけはゆずれぬ",
-    "translation": "这一点绝不让步",
+    "translation": "唯独此事，绝不退让",
     "stage": 3
   },
   {
@@ -173643,13 +173643,13 @@
   {
     "key": "0121-0149",
     "original": "剣竜に挑み、敗れた者",
-    "translation": "是挑战剑龙败者",
+    "translation": "乃是挑战剑龙落败者，",
     "stage": 3
   },
   {
     "key": "0121-0150",
     "original": "たちのものでござる",
-    "translation": "们留下的东西",
+    "translation": "所留下的遗物是也",
     "stage": 3
   },
   {
@@ -173697,7 +173697,7 @@
   {
     "key": "0121-0158",
     "original": "お出ましでござる！！",
-    "translation": "出现了！！",
+    "translation": "现身了！！",
     "stage": 3
   },
   {
@@ -173715,7 +173715,7 @@
   {
     "key": "0121-0161",
     "original": "名にふさわしい",
-    "translation": "契约者之名",
+    "translation": "誓约者之名",
     "stage": 3
   },
   {
@@ -173793,43 +173793,43 @@
   {
     "key": "0121-0174",
     "original": "からどうすんの？",
-    "translation": "接下来怎么办？",
+    "translation": "接下来你打算怎么办？",
     "stage": 3
   },
   {
     "key": "0121-0175",
     "original": "さて、な",
-    "translation": "那么，",
+    "translation": "这个嘛……",
     "stage": 3
   },
   {
     "key": "0121-0176",
     "original": "また別の場所で剣術の",
-    "translation": "换个地方去",
+    "translation": "不如换个地方，",
     "stage": 3
   },
   {
     "key": "0121-0177",
     "original": "修行でもするか・・・",
-    "translation": "做剑术修行吧……",
+    "translation": "继续修行剑术吧……",
     "stage": 3
   },
   {
     "key": "0121-0178",
     "original": "あるいは、お主らの力",
-    "translation": "或者说，成为你们的",
+    "translation": "抑或助你们一臂之力，",
     "stage": 3
   },
   {
     "key": "0121-0179",
     "original": "になるというのも一興",
-    "translation": "力量也是一种乐趣",
+    "translation": "倒也不失为一桩趣事",
     "stage": 3
   },
   {
     "key": "0121-0180",
     "original": "かもしれんな",
-    "translation": "也说不定呢",
+    "translation": "",
     "stage": 3
   },
   {
@@ -173847,7 +173847,7 @@
   {
     "key": "0121-0183",
     "original": "お主たちさえ良ければ",
-    "translation": "只要你们愿意的话",
+    "translation": "只要你们不介意",
     "stage": 3
   },
   {
@@ -173871,7 +173871,7 @@
   {
     "key": "0122-0003",
     "original": "うにゅうぅ・・・",
-    "translation": "呜嗯……",
+    "translation": "呜扭……",
     "stage": 3
   },
   {
@@ -173907,37 +173907,37 @@
   {
     "key": "0122-0009",
     "original": "うん、間違いないとは",
-    "translation": "嗯，应该不会错",
+    "translation": "嗯，我想应该",
     "stage": 3
   },
   {
     "key": "0122-0010",
     "original": "思うんだけど・・・",
-    "translation": "我是这么想的……",
+    "translation": "不会有错才是……",
     "stage": 3
   },
   {
     "key": "0122-0011",
     "original": "ああ、間違いないとは",
-    "translation": "啊啊，应该不会错",
+    "translation": "啊，我觉得",
     "stage": 3
   },
   {
     "key": "0122-0012",
     "original": "思うんだが・・・",
-    "translation": "我是这么认为的……",
+    "translation": "应当是错不了的……",
     "stage": 3
   },
   {
     "key": "0122-0013",
     "original": "ええ、間違いないとは",
-    "translation": "嗯嗯，应该不会错",
+    "translation": "是的，我觉得",
     "stage": 3
   },
   {
     "key": "0122-0014",
     "original": "思うのだけれど・・・",
-    "translation": "我是这么想的……",
+    "translation": "应该不会有错呢……",
     "stage": 3
   },
   {
@@ -173955,7 +173955,7 @@
   {
     "key": "0122-0017",
     "original": "ふにゅうぅ・・・",
-    "translation": "呜嗯……",
+    "translation": "呜扭……",
     "stage": 3
   },
   {
@@ -174021,7 +174021,7 @@
   {
     "key": "0122-0028",
     "original": "社ってのが謎ね",
-    "translation": "但社是个谜啊",
+    "translation": "但「社」到底是什么呢",
     "stage": 3
   },
   {
@@ -174039,7 +174039,7 @@
   {
     "key": "0122-0031",
     "original": "神社のお社のことじゃ",
-    "translation": "不应该是神社的殿堂",
+    "translation": "不应该是神社的祠堂",
     "stage": 3
   },
   {
@@ -174057,7 +174057,7 @@
   {
     "key": "0122-0034",
     "original": "神社にあるお社のこと",
-    "translation": "不就是神社的殿堂",
+    "translation": "不就是神社的祠堂",
     "stage": 3
   },
   {
@@ -174069,7 +174069,7 @@
   {
     "key": "0122-0036",
     "original": "神社とかのお社とか",
-    "translation": "不是神社的殿堂",
+    "translation": "不是神社的祠堂",
     "stage": 3
   },
   {
@@ -174087,13 +174087,13 @@
   {
     "key": "0122-0039",
     "original": "真っ赤な鳥居がでーん",
-    "translation": "鲜红的鸟居",
+    "translation": "还会大气地立着",
     "stage": 3
   },
   {
     "key": "0122-0040",
     "original": "って建っててさぁ",
-    "translation": "大气地立着呢",
+    "translation": "一座鲜红的鸟居呢",
     "stage": 3
   },
   {
@@ -174213,25 +174213,25 @@
   {
     "key": "0122-0060",
     "original": "う～ん、そればっか",
-    "translation": "唔〜，不光是",
+    "translation": "唔〜，也未必",
     "stage": 3
   },
   {
     "key": "0122-0061",
     "original": "じゃないんだけど",
-    "translation": "那样啦",
+    "translation": "全都是那样啦……",
     "stage": 3
   },
   {
     "key": "0122-0062",
     "original": "あの、違うかも",
-    "translation": "那个，可能",
+    "translation": "那个……也说不定",
     "stage": 3
   },
   {
     "key": "0122-0063",
     "original": "しれないですよ",
-    "translation": "不是吧",
+    "translation": "并不是那样呢",
     "stage": 3
   },
   {
@@ -174393,19 +174393,19 @@
   {
     "key": "0122-0090",
     "original": "エルゴの試練を受けら",
-    "translation": "能接受埃尔戈试炼的",
+    "translation": "接受埃尔戈试炼的",
     "stage": 3
   },
   {
     "key": "0122-0091",
     "original": "れるというのは、貴方",
-    "translation": "就是你们",
+    "translation": "就是你们几位吗？",
     "stage": 3
   },
   {
     "key": "0122-0092",
     "original": "がたでしょうか？",
-    "translation": "几位吗？",
+    "translation": "",
     "stage": 3
   },
   {
@@ -176283,7 +176283,7 @@
   {
     "key": "0124-0016",
     "original": "お店は手伝わなくて",
-    "translation": "不用帮忙店里",
+    "translation": "不用给店里帮忙",
     "stage": 3
   },
   {
@@ -176295,25 +176295,25 @@
   {
     "key": "0124-0018",
     "original": "うん、それがね",
-    "translation": "嗯，就是啊",
+    "translation": "嗯，其实啊",
     "stage": 3
   },
   {
     "key": "0124-0019",
     "original": "お師匠ったら、アタシ",
-    "translation": "师父她啊，几乎",
+    "translation": "师父他啊，",
     "stage": 3
   },
   {
     "key": "0124-0020",
     "original": "にほとんど用事を頼ま",
-    "translation": "不把事情交给我",
+    "translation": "最近几乎都不",
     "stage": 3
   },
   {
     "key": "0124-0021",
     "original": "なくなってきたんだ",
-    "translation": "了呢",
+    "translation": "吩咐我做事了",
     "stage": 3
   },
   {
@@ -176583,37 +176583,37 @@
   {
     "key": "0124-0066",
     "original": "わかってたつもりだっ",
-    "translation": "以为自己知道",
+    "translation": "本以为自己早就明白，",
     "stage": 3
   },
   {
     "key": "0124-0067",
     "original": "たんだけどね、なんか",
-    "translation": "了，不过总觉得",
+    "translation": "可一旦真正",
     "stage": 3
   },
   {
     "key": "0124-0068",
     "original": "実感しちゃうとさ",
-    "translation": "一实际体会啊",
+    "translation": "体会到这一点……",
     "stage": 3
   },
   {
     "key": "0124-0069",
     "original": "アタシって、やっぱり",
-    "translation": "我啊，果然会想",
+    "translation": "还是会忍不住去想，",
     "stage": 3
   },
   {
     "key": "0124-0070",
     "original": "お師匠のお荷物なのか",
-    "translation": "自己是不是师父的",
+    "translation": "我果然只是",
     "stage": 3
   },
   {
     "key": "0124-0071",
     "original": "なって思っちゃうよ",
-    "translation": "累赘呢",
+    "translation": "师父的累赘呢……",
     "stage": 3
   },
   {
@@ -176745,13 +176745,13 @@
   {
     "key": "0124-0093",
     "original": "アカネ、ただいま戻り",
-    "translation": "茜，我回来",
+    "translation": "茜，我回来啦！",
     "stage": 3
   },
   {
     "key": "0124-0094",
     "original": "ましたぁっ！",
-    "translation": "啦！",
+    "translation": "",
     "stage": 3
   },
   {
@@ -176787,19 +176787,19 @@
   {
     "key": "0124-0100",
     "original": "理由というものがあり",
-    "translation": "相应的理由",
+    "translation": "相应的理由的……",
     "stage": 3
   },
   {
     "key": "0124-0101",
     "original": "まして・・・",
-    "translation": "的……",
+    "translation": "",
     "stage": 3
   },
   {
     "key": "0124-0102",
     "original": "彼女が帰れなかったの",
-    "translation": "她没能回去",
+    "translation": "她没能回来",
     "stage": 3
   },
   {
@@ -176811,13 +176811,13 @@
   {
     "key": "0124-0104",
     "original": "してくれていたから",
-    "translation": "帮我们的忙",
+    "translation": "帮我们的忙啊",
     "stage": 3
   },
   {
     "key": "0124-0105",
     "original": "なんです",
-    "translation": "啊",
+    "translation": "",
     "stage": 3
   },
   {
@@ -176835,7 +176835,7 @@
   {
     "key": "0124-0108",
     "original": "ってくれていたから",
-    "translation": "我们的忙",
+    "translation": "我们的忙啊",
     "stage": 3
   },
   {
@@ -176847,13 +176847,13 @@
   {
     "key": "0124-0110",
     "original": "手伝ってくれたせいで",
-    "translation": "才没能回去",
+    "translation": "才没能回来的",
     "stage": 3
   },
   {
     "key": "0124-0111",
     "original": "帰れなかったんです",
-    "translation": "的",
+    "translation": "",
     "stage": 3
   },
   {
@@ -176973,7 +176973,7 @@
   {
     "key": "0124-0131",
     "original": "・・・！！",
-    "translation": "啊……！！",
+    "translation": "……！！",
     "stage": 3
   },
   {
@@ -177219,25 +177219,25 @@
   {
     "key": "0124-0172",
     "original": "そして忍びが命をかけ",
-    "translation": "而忍者拼上性命",
+    "translation": "而忍者之所以",
     "stage": 3
   },
   {
     "key": "0124-0173",
     "original": "て戦うのは、それだけ",
-    "translation": "战斗，是为了",
+    "translation": "赌上性命去战斗，",
     "stage": 3
   },
   {
     "key": "0124-0174",
     "original": "の価値を認めた主君の",
-    "translation": "认可其价值的主君",
+    "translation": "全是为了自己认定",
     "stage": 3
   },
   {
     "key": "0124-0175",
     "original": "ため・・・",
-    "translation": "而战……",
+    "translation": "值得效命的主君……",
     "stage": 3
   },
   {
@@ -177297,13 +177297,13 @@
   {
     "key": "0124-0185",
     "original": "@nのことが",
-    "translation": "对@n",
+    "translation": "是喜欢@n",
     "stage": 3
   },
   {
     "key": "0124-0186",
     "original": "好きだって思ってる！",
-    "translation": "是喜欢的！",
+    "translation": "的！",
     "stage": 3
   },
   {
@@ -177471,19 +177471,19 @@
   {
     "key": "0125-0014",
     "original": "あなたの大切な人たち",
-    "translation": "为了你珍视",
+    "translation": "为了你珍视的人们，",
     "stage": 3
   },
   {
     "key": "0125-0015",
     "original": "のために、がんばって",
-    "translation": "的人们，加油",
+    "translation": "加油努力吧",
     "stage": 3
   },
   {
     "key": "0125-0016",
     "original": "みなさい",
-    "translation": "努力吧",
+    "translation": "",
     "stage": 3
   },
   {
@@ -177495,13 +177495,13 @@
   {
     "key": "0125-0018",
     "original": "あなたを強くしてくれ",
-    "translation": "让你变得",
+    "translation": "让你变得更强的",
     "stage": 3
   },
   {
     "key": "0125-0019",
     "original": "るはずです",
-    "translation": "更强的",
+    "translation": "",
     "stage": 3
   },
   {
