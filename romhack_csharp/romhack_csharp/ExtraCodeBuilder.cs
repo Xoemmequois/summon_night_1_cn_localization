@@ -1,4 +1,5 @@
 using System.Diagnostics;
+using small_font;
 
 namespace romhack_csharp;
 
@@ -12,7 +13,7 @@ public class ExtraCodeBuilder
 
     public static byte[] GetSmallLoadCodeBinary(int smallGlyphCount, string sdkPath)
     {
-        var sectorCount = (smallGlyphCount * 18 + 2047) / 2048;
+        var sectorCount = (SmallFontBuilder.SfPadding + smallGlyphCount * 18 + 2047) / 2048;
         return CompileCode("load_small", sdkPath,
             $"-Wa,--defsym,SMALL_COUNT={sectorCount}");
     }

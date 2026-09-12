@@ -17,7 +17,7 @@ public static class SmallFontBuilder
     // GlyphIndexBase: ceil((0x801B1000 - 0x801ACCE0) / 18) = 955 = 0x3BB
     // 0x3BB * 18 = 0x4326, 0x801ACCE0 + 0x4326 = 0x801B1006 → S.F 前 6 字节 padding
     private const int GlyphIndexBase = 0x3BB;
-    private const int SfPadding = GlyphIndexBase * 18 - (int)(0x801B1000u - 0x801ACCE0u);
+    public const int SfPadding = GlyphIndexBase * 18 - (int)(0x801B1000u - 0x801ACCE0u);
     private const uint SmallFontRamBase = 0x801B1000u;
     private const uint SmallFontRamEnd = 0x801B8000u;
 
