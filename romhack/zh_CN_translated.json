@@ -1269,13 +1269,13 @@
   {
     "key": "0002-0002",
     "original": "めずらしくおとなしか",
-    "translation": "难得这么安静……是不",
+    "translation": "难得这么安静……",
     "stage": 3
   },
   {
     "key": "0002-0003",
     "original": "ったけど・・・",
-    "translation": "是发生什么事了啊",
+    "translation": "是不是发生什么事了啊",
     "stage": 3
   },
   {
@@ -1401,13 +1401,13 @@
   {
     "key": "0002-0024",
     "original": "そういうセンパイこそ",
-    "translation": "前辈自己不也是和",
+    "translation": "前辈自己不也是在",
     "stage": 3
   },
   {
     "key": "0002-0025",
     "original": "誰かイイひとがいるん",
-    "translation": "谁在交往吗？",
+    "translation": "和谁交往吗？",
     "stage": 3
   },
   {
@@ -1437,19 +1437,19 @@
   {
     "key": "0002-0030",
     "original": "仕方がないだろう",
-    "translation": "没用吧",
+    "translation": "没什么意义吧",
     "stage": 3
   },
   {
     "key": "0002-0031",
     "original": "誰ともつきあって",
-    "translation": "我根本没和谁",
+    "translation": "我根本没在",
     "stage": 3
   },
   {
     "key": "0002-0032",
     "original": "なんかないさ",
-    "translation": "在交往啊",
+    "translation": "和谁交往啊",
     "stage": 3
   },
   {
@@ -1485,13 +1485,13 @@
   {
     "key": "0002-0038",
     "original": "なんだよ、いきなり",
-    "translation": "喂，怎么突然",
+    "translation": "干嘛啊，这么突然，",
     "stage": 3
   },
   {
     "key": "0002-0039",
     "original": "別の話題にしないか？",
-    "translation": "换话题啊？",
+    "translation": "能不能换个话题？",
     "stage": 3
   },
   {
@@ -1533,13 +1533,13 @@
   {
     "key": "0002-0046",
     "original": "ふむふむ、活発な人が",
-    "translation": "嗯嗯，活泼开朗的是你",
+    "translation": "嗯嗯，前辈喜欢活泼",
     "stage": 3
   },
   {
     "key": "0002-0047",
     "original": "タイプですか",
-    "translation": "喜欢的类型啊",
+    "translation": "的类型啊",
     "stage": 3
   },
   {
@@ -1575,13 +1575,13 @@
   {
     "key": "0002-0053",
     "original": "ふむふむ、おちついた",
-    "translation": "嗯嗯，沉静稳重的是你",
+    "translation": "嗯嗯，前辈喜欢沉稳",
     "stage": 3
   },
   {
     "key": "0002-0054",
     "original": "人がタイプですか",
-    "translation": "喜欢的类型啊",
+    "translation": "的类型啊",
     "stage": 3
   },
   {
@@ -1731,7 +1731,7 @@
   {
     "key": "0002-0079",
     "original": "別の話題にしないかい",
-    "translation": "换话题啊？",
+    "translation": "换个话题行不行？",
     "stage": 3
   },
   {
@@ -1905,19 +1905,19 @@
   {
     "key": "0002-0108",
     "original": "誰かとつきあってるん",
-    "translation": "谁在交往吗？",
+    "translation": "和谁交往吗？",
     "stage": 3
   },
   {
     "key": "0002-0109",
     "original": "え・・・つきあって",
-    "translation": "诶……我没有在交往",
+    "translation": "诶……我没有在交往哦",
     "stage": 3
   },
   {
     "key": "0002-0110",
     "original": "なんかないよ",
-    "translation": "哦",
+    "translation": "",
     "stage": 3
   },
   {
@@ -1929,13 +1929,13 @@
   {
     "key": "0002-0112",
     "original": "ないもの",
-    "translation": "没用吧",
+    "translation": "没意义吧",
     "stage": 3
   },
   {
     "key": "0002-0113",
     "original": "なんかいないよ",
-    "translation": "在交往哦",
+    "translation": "和谁交往哦",
     "stage": 3
   },
   {
@@ -2013,7 +2013,7 @@
   {
     "key": "0002-0126",
     "original": "落ち着いた人が",
-    "translation": "沉着冷静的是你",
+    "translation": "前辈喜欢沉着冷静",
     "stage": 3
   },
   {
@@ -2115,7 +2115,7 @@
   {
     "key": "0002-0143",
     "original": "ふむふむ、落ち着いた",
-    "translation": "嗯嗯，沉着冷静的是你",
+    "translation": "嗯嗯，前辈喜欢沉着冷静",
     "stage": 3
   },
   {
@@ -2265,7 +2265,7 @@
   {
     "key": "0003-0023",
     "original": "アヤ先輩に告白しよう",
-    "translation": "是想对绫前辈告白的",
+    "translation": "想对绫前辈告白",
     "stage": 3
   },
   {
@@ -2301,7 +2301,7 @@
   {
     "key": "0003-0029",
     "original": "あ、わりぃ・・・",
-    "translation": "啊，抱歉…",
+    "translation": "啊，抱歉……",
     "stage": 3
   },
   {
@@ -2319,7 +2319,7 @@
   {
     "key": "0003-0032",
     "original": "つり合わないことは",
-    "translation": "不般配这件事",
+    "translation": "不般配",
     "stage": 3
   },
   {
@@ -2361,25 +2361,25 @@
   {
     "key": "0003-0039",
     "original": "ああ、",
-    "translation": "啊，",
+    "translation": "啊，对克也你来说",
     "stage": 3
   },
   {
     "key": "0003-0040",
     "original": "カツヤにしては前向き",
-    "translation": "对克也你来说，这算是",
+    "translation": "这算是很积极了嘛？",
     "stage": 3
   },
   {
     "key": "0003-0041",
     "original": "でいいんじゃないか？",
-    "translation": "很积极了嘛？我对你改",
+    "translation": "我对你改观了",
     "stage": 3
   },
   {
     "key": "0003-0042",
     "original": "見直したよ",
-    "translation": "观了",
+    "translation": "",
     "stage": 3
   },
   {
@@ -2463,13 +2463,13 @@
   {
     "key": "0003-0056",
     "original": "ほら、性格なんかモロ",
-    "translation": "你看，性格就完全是相",
+    "translation": "毕竟，完全是相反",
     "stage": 3
   },
   {
     "key": "0003-0057",
     "original": "に正反対っぽいだろ？",
-    "translation": "反的吧？",
+    "translation": "的性格吧？",
     "stage": 3
   },
   {
@@ -2529,13 +2529,13 @@
   {
     "key": "0003-0067",
     "original": "よし、やるだけ",
-    "translation": "好吧，就试试看",
+    "translation": "好吧，就试试看吧！",
     "stage": 3
   },
   {
     "key": "0003-0068",
     "original": "やってみるか！",
-    "translation": "吧！",
+    "translation": "",
     "stage": 3
   },
   {
@@ -2553,13 +2553,13 @@
   {
     "key": "0003-0071",
     "original": "相談にのってくれて",
-    "translation": "谢谢你听我倾诉",
+    "translation": "谢谢你听我倾诉啦！",
     "stage": 3
   },
   {
     "key": "0003-0072",
     "original": "ありがとう",
-    "translation": "谢谢啦！",
+    "translation": "",
     "stage": 3
   },
   {
@@ -3003,13 +3003,13 @@
   {
     "key": "0003-0146",
     "original": "ほら、性格とか正反対",
-    "translation": "你看，性格也是完全相",
+    "translation": "毕竟，完全是相反",
     "stage": 3
   },
   {
     "key": "0003-0147",
     "original": "みたいなもんでしょ",
-    "translation": "反的对吧",
+    "translation": "的性格对吧",
     "stage": 3
   },
   {
@@ -3207,7 +3207,7 @@
   {
     "key": "0004-0009",
     "original": "　　俺はなんとなくものたりない",
-    "translation": "　　我总觉得有些怅然若失",
+    "translation": "　　我感到一种",
     "stage": 3
   },
   {
@@ -4809,13 +4809,13 @@
   {
     "key": "0007-0013",
     "original": "考えをまとめないと、",
-    "translation": "一下思绪才行不然可不",
+    "translation": "一下思绪才行",
     "stage": 3
   },
   {
     "key": "0007-0014",
     "original": "まずいよなあ",
-    "translation": "妙啊",
+    "translation": "不然可不妙啊",
     "stage": 3
   },
   {
@@ -5103,7 +5103,7 @@
   {
     "key": "0007-0062",
     "original": "ことも決められない",
-    "translation": "事",
+    "translation": "行动",
     "stage": 3
   },
   {
@@ -6375,7 +6375,7 @@
   {
     "key": "0009-0017",
     "original": "殺すのはマズイぞ",
-    "translation": "杀了人可不好吧",
+    "translation": "杀人可不好吧",
     "stage": 3
   },
   {
@@ -6411,19 +6411,19 @@
   {
     "key": "0009-0023",
     "original": "理由もわかんねえまま",
-    "translation": "连理由都不知道就被这",
+    "translation": "连理由都不知道",
     "stage": 3
   },
   {
     "key": "0009-0024",
     "original": "こんな目にあわされて",
-    "translation": "样对待怎么能忍！",
+    "translation": "就要遭这种罪",
     "stage": 3
   },
   {
     "key": "0009-0025",
     "original": "たまるかぁっ！！",
-    "translation": "",
+    "translation": "谁能忍受得了啊！",
     "stage": 3
   },
   {
@@ -6435,7 +6435,7 @@
   {
     "key": "0009-0027",
     "original": "理由もわからないまま",
-    "translation": "连理由都不知道就被这",
+    "translation": "连理由都不知道",
     "stage": 3
   },
   {
@@ -6513,13 +6513,13 @@
   {
     "key": "0010-0002",
     "original": "よくもやってくれたな",
-    "translation": "真是好大的胆子我绝对",
+    "translation": "真是好大的胆子",
     "stage": 3
   },
   {
     "key": "0010-0003",
     "original": "絶対にゆるさねえ！！",
-    "translation": "不会原谅你！！",
+    "translation": "我绝对不会原谅你！！",
     "stage": 3
   },
   {
@@ -6639,13 +6639,13 @@
   {
     "key": "0010-0023",
     "original": "とんだ言いがかりをつ",
-    "translation": "真是抱歉，无理取闹说",
+    "translation": "无端找了你的麻烦",
     "stage": 3
   },
   {
     "key": "0010-0024",
     "original": "けてすまなかった",
-    "translation": "了那样的话",
+    "translation": "实在很对不起",
     "stage": 3
   },
   {
@@ -6903,13 +6903,13 @@
   {
     "key": "0011-0006",
     "original": "なっていたのを、まあ",
-    "translation": "嘛，我们算是擅自借用",
+    "translation": "嘛，我们算是擅自",
     "stage": 3
   },
   {
     "key": "0011-0007",
     "original": "無断で使っているって",
-    "translation": "了一下",
+    "translation": "借用了一下",
     "stage": 3
   },
   {
@@ -6927,13 +6927,13 @@
   {
     "key": "0011-0010",
     "original": "院長たちがとっ捕まっ",
-    "translation": "院长他们都被抓走了下",
+    "translation": "院长他们都被抓走了",
     "stage": 3
   },
   {
     "key": "0011-0011",
     "original": "て行方不明なんだから",
-    "translation": "落不明了啊",
+    "translation": "下落不明了啊",
     "stage": 3
   },
   {
@@ -7113,25 +7113,25 @@
   {
     "key": "0011-0041",
     "original": "な、なんでそうなるん",
-    "translation": "怎、怎么会变成这样…",
+    "translation": "怎、怎么会变成",
     "stage": 3
   },
   {
     "key": "0011-0042",
     "original": "だよ・・・オレはただ",
-    "translation": "…我只是觉得她们太吵",
+    "translation": "这样……",
     "stage": 3
   },
   {
     "key": "0011-0043",
     "original": "こいつらがうるさかっ",
-    "translation": "了……",
+    "translation": "我只是觉得她们",
     "stage": 3
   },
   {
     "key": "0011-0044",
     "original": "たから・・・",
-    "translation": "",
+    "translation": "太吵了……",
     "stage": 3
   },
   {
@@ -7317,7 +7317,7 @@
   {
     "key": "0011-0075",
     "original": "気を悪くしないでくれ",
-    "translation": "请不要介意呢。",
+    "translation": "请不要介意",
     "stage": 3
   },
   {
@@ -7395,25 +7395,25 @@
   {
     "key": "0011-0088",
     "original": "そしてここは、リィン",
-    "translation": "而这里，是林巴姆中央",
+    "translation": "而这里，是林巴姆",
     "stage": 3
   },
   {
     "key": "0011-0089",
     "original": "バウムの中央北にある",
-    "translation": "偏北的一座名叫",
+    "translation": "中央偏北的一座名叫",
     "stage": 3
   },
   {
     "key": "0011-0090",
     "original": "【サイジェント】",
-    "translation": "【赛杰特】",
+    "translation": "【赛杰特】的城市",
     "stage": 3
   },
   {
     "key": "0011-0091",
     "original": "という街だ",
-    "translation": "的城市",
+    "translation": "",
     "stage": 3
   },
   {
@@ -7551,13 +7551,13 @@
   {
     "key": "0011-0114",
     "original": "君の近くにそういった",
-    "translation": "你身边没有那样的人吗",
+    "translation": "你身边没有那样的人",
     "stage": 3
   },
   {
     "key": "0011-0115",
     "original": "人はいなかったのか？",
-    "translation": "？",
+    "translation": "吗？",
     "stage": 3
   },
   {
@@ -7755,19 +7755,19 @@
   {
     "key": "0011-0148",
     "original": "今夜はここに泊まって",
-    "translation": "今晚就住在这里吧。接",
+    "translation": "今晚就住在这里吧。",
     "stage": 3
   },
   {
     "key": "0011-0149",
     "original": "いくといい。これから",
-    "translation": "下来该怎么办，等休息",
+    "translation": "接下来该怎么办，",
     "stage": 3
   },
   {
     "key": "0011-0150",
     "original": "どうするかは、休んで",
-    "translation": "好了再想吧",
+    "translation": "等休息好了再想吧",
     "stage": 3
   },
   {
@@ -8259,7 +8259,7 @@
   {
     "key": "0013-0059",
     "original": "じゃあ、そうするよ",
-    "translation": "那我就这么办了",
+    "translation": "那就感谢你的好意啦",
     "stage": 3
   },
   {
@@ -8325,7 +8325,7 @@
   {
     "key": "0013-0070",
     "original": "私は台所で洗い物とか",
-    "translation": "我在厨房洗碗什么的，",
+    "translation": "我在厨房洗碗，",
     "stage": 3
   },
   {
@@ -8337,7 +8337,7 @@
   {
     "key": "0013-0072",
     "original": "エドスもまだ出かけて",
-    "translation": "也还没出去吧",
+    "translation": "也还没出门",
     "stage": 3
   },
   {
@@ -8661,13 +8661,13 @@
   {
     "key": "0013-0126",
     "original": "俺はその、召喚師とか",
-    "translation": "我不是那种所谓的召唤",
+    "translation": "我不是那些所谓的",
     "stage": 3
   },
   {
     "key": "0013-0127",
     "original": "いう連中の仲間なんか",
-    "translation": "师的同伴哦",
+    "translation": "召唤师的同伴哦",
     "stage": 3
   },
   {
@@ -8709,7 +8709,7 @@
   {
     "key": "0013-0134",
     "original": "そもそも、この世界の",
-    "translation": "根本来说，我也不是",
+    "translation": "说到底，我就不是",
     "stage": 3
   },
   {
@@ -9075,7 +9075,7 @@
   {
     "key": "0013-0195",
     "original": "ってのはこのことだな",
-    "translation": "爱理不理吧",
+    "translation": "拒人千里吧",
     "stage": 3
   },
   {
@@ -9957,13 +9957,13 @@
   {
     "key": "0013-0342",
     "original": "じゃねえか",
-    "translation": "是不是啊，",
+    "translation": "召唤师大人？",
     "stage": 3
   },
   {
     "key": "0013-0343",
     "original": "召喚師さんよ？",
-    "translation": "召唤师大人？",
+    "translation": "",
     "stage": 3
   },
   {
@@ -10071,19 +10071,19 @@
   {
     "key": "0013-0361",
     "original": "そしてあんたが俺に",
-    "translation": "而且你刚才对我",
+    "translation": "而且你之前",
     "stage": 3
   },
   {
     "key": "0013-0362",
     "original": "使って見せたのは、",
-    "translation": "使用的，",
+    "translation": "对我使用的，",
     "stage": 3
   },
   {
     "key": "0013-0363",
     "original": "間違いなく召喚術だ",
-    "translation": "分明就是召唤术",
+    "translation": "分明就是",
     "stage": 3
   },
   {
@@ -10113,7 +10113,7 @@
   {
     "key": "0013-0368",
     "original": "俺だって・・・",
-    "translation": "我也……",
+    "translation": "我也不知道……",
     "stage": 3
   },
   {
@@ -10155,7 +10155,7 @@
   {
     "key": "0013-0375",
     "original": "わたしにも・・・",
-    "translation": "我也……",
+    "translation": "我也不知道……",
     "stage": 3
   },
   {
@@ -10581,13 +10581,13 @@
   {
     "key": "0013-0446",
     "original": "いや、たくさんあるか",
-    "translation": "不，只是觉得东西很多",
+    "translation": "没什么，只是觉得东西",
     "stage": 3
   },
   {
     "key": "0013-0447",
     "original": "ら大変そうだなーって",
-    "translation": "，好像会很辛苦",
+    "translation": "很多，好像会很辛苦",
     "stage": 3
   },
   {
@@ -10665,13 +10665,13 @@
   {
     "key": "0013-0460",
     "original": "洗いながらになっちゃ",
-    "translation": "虽然会一边洗一边说，",
+    "translation": "边洗边聊可以吗？",
     "stage": 3
   },
   {
     "key": "0013-0461",
     "original": "うけど、いい？",
-    "translation": "可以吗？",
+    "translation": "",
     "stage": 3
   },
   {
@@ -10887,25 +10887,25 @@
   {
     "key": "0013-0497",
     "original": "ここにいるの？",
-    "translation": "在这里？",
+    "translation": "会留在这里？",
     "stage": 3
   },
   {
     "key": "0013-0498",
     "original": "ここにいるんだ？",
-    "translation": "在这里啊？",
+    "translation": "会在这里呢？",
     "stage": 3
   },
   {
     "key": "0013-0499",
     "original": "ねぇ、リプレは",
-    "translation": "喂，莉普蕾",
+    "translation": "那个，莉普蕾",
     "stage": 3
   },
   {
     "key": "0013-0500",
     "original": "なんでここにいるの？",
-    "translation": "你为什么在这里？",
+    "translation": "你为什么会留在这里？",
     "stage": 3
   },
   {
@@ -11301,31 +11301,31 @@
   {
     "key": "0013-0566",
     "original": "ここの家事を仕切る私",
-    "translation": "对于负责这里家务的我",
+    "translation": "既然这里的家务",
     "stage": 3
   },
   {
     "key": "0013-0567",
     "original": "としては、これはもう",
-    "translation": "来说，这简直是让人不",
+    "translation": "都由我一手包办，",
     "stage": 3
   },
   {
     "key": "0013-0568",
     "original": "張り切るしかないって",
-    "translation": "得不干劲十足的感觉呢",
+    "translation": "这下我就不得不",
     "stage": 3
   },
   {
     "key": "0013-0569",
     "original": "感じでね・・・",
-    "translation": "……",
+    "translation": "干劲十足啦……",
     "stage": 3
   },
   {
     "key": "0013-0570",
     "original": "ふふっ",
-    "translation": "呼呼",
+    "translation": "哼哼",
     "stage": 3
   },
   {
@@ -11415,7 +11415,7 @@
   {
     "key": "0013-0585",
     "original": "ちょっといいかな？",
-    "translation": "有点时间吗？",
+    "translation": "有时间吗？",
     "stage": 3
   },
   {
@@ -11631,7 +11631,7 @@
   {
     "key": "0013-0621",
     "original": "まだここ掃除してない",
-    "translation": "这里还没打扫呢正好",
+    "translation": "这里正好还没打扫呢",
     "stage": 3
   },
   {
@@ -11655,7 +11655,7 @@
   {
     "key": "0013-0625",
     "original": "ああ、行くよ",
-    "translation": "嗯，我会去的",
+    "translation": "嗯，我也去",
     "stage": 3
   },
   {
@@ -11931,13 +11931,13 @@
   {
     "key": "0013-0671",
     "original": "いや、別にせかしてる",
-    "translation": "哎呀，我倒也不是在催",
+    "translation": "哎呀，我倒也不是",
     "stage": 3
   },
   {
     "key": "0013-0672",
     "original": "わけじゃないんだ",
-    "translation": "你啦",
+    "translation": "在催你啦",
     "stage": 3
   },
   {
@@ -11949,13 +11949,13 @@
   {
     "key": "0013-0674",
     "original": "なんか、すっかり面倒",
-    "translation": "真是的，给你们添了很",
+    "translation": "真是，给你们添了",
     "stage": 3
   },
   {
     "key": "0013-0675",
     "original": "かけちゃって・・・",
-    "translation": "多麻烦……",
+    "translation": "很多麻烦……",
     "stage": 3
   },
   {
@@ -11997,13 +11997,13 @@
   {
     "key": "0013-0682",
     "original": "なんか、すっかり迷惑",
-    "translation": "真是的，给你们添了很",
+    "translation": "真是，给你们添了",
     "stage": 3
   },
   {
     "key": "0013-0683",
     "original": "かけてしまって・・・",
-    "translation": "多麻烦……",
+    "translation": "很多麻烦……",
     "stage": 3
   },
   {
@@ -12099,13 +12099,13 @@
   {
     "key": "0013-0699",
     "original": "近くの剣術の道場で、",
-    "translation": "在附近的剑术道场，教",
+    "translation": "在附近的剑术道场，",
     "stage": 3
   },
   {
     "key": "0013-0700",
     "original": "子供相手に剣を教えて",
-    "translation": "小孩子剑术呢",
+    "translation": "教小孩子剑术呢",
     "stage": 3
   },
   {
@@ -12369,19 +12369,19 @@
   {
     "key": "0013-0744",
     "original": "何かしらの代償が必要",
-    "translation": "付出某种代价呢……如",
+    "translation": "付出某种代价呢……",
     "stage": 3
   },
   {
     "key": "0013-0745",
     "original": "になる・・・お金なら",
-    "translation": "果是钱那可是天文数字",
+    "translation": "如果是钱那可是",
     "stage": 3
   },
   {
     "key": "0013-0746",
     "original": "とてつもない金額さ",
-    "translation": "啊",
+    "translation": "天文数字啊",
     "stage": 3
   },
   {
@@ -12657,13 +12657,13 @@
   {
     "key": "0013-0792",
     "original": "てな、ワシらのような",
-    "translation": "像我们这种年轻人的收",
+    "translation": "像我们这种",
     "stage": 3
   },
   {
     "key": "0013-0793",
     "original": "若造の稼ぎでは、",
-    "translation": "入，",
+    "translation": "年轻人的收入，",
     "stage": 3
   },
   {
@@ -12675,7 +12675,7 @@
   {
     "key": "0013-0795",
     "original": "俺には想像もつかな",
-    "translation": "我无法想象，但一定",
+    "translation": "虽然无法想象，但一定",
     "stage": 3
   },
   {
@@ -12687,7 +12687,7 @@
   {
     "key": "0013-0797",
     "original": "ろうな・・・",
-    "translation": "吧……",
+    "translation": "",
     "stage": 3
   },
   {
@@ -12909,7 +12909,7 @@
   {
     "key": "0013-0834",
     "original": "リプレも、あいつの",
-    "translation": "莉普蕾也是，那家伙的",
+    "translation": "莉普蕾也是那家伙的",
     "stage": 3
   },
   {
@@ -12945,13 +12945,13 @@
   {
     "key": "0013-0840",
     "original": "領主に仕える騎士様",
-    "translation": "侍奉领主的骑士大人",
+    "translation": "侍奉领主的",
     "stage": 3
   },
   {
     "key": "0013-0841",
     "original": "だったのさ",
-    "translation": "呢",
+    "translation": "骑士大人呢",
     "stage": 3
   },
   {
@@ -12981,13 +12981,13 @@
   {
     "key": "0013-0846",
     "original": "だが、ガゼルが以前に",
-    "translation": "但加泽尔以前受过他的",
+    "translation": "但加泽尔以前",
     "stage": 3
   },
   {
     "key": "0013-0847",
     "original": "世話になったことが",
-    "translation": "照顾呢",
+    "translation": "受过他的照顾呢",
     "stage": 3
   },
   {
@@ -13113,13 +13113,13 @@
   {
     "key": "0013-0868",
     "original": "名乗っちゃいるが、",
-    "translation": "但实际上就是这样",
+    "translation": "但实际上就是这样啦",
     "stage": 3
   },
   {
     "key": "0013-0869",
     "original": "実際はそんなもんさ",
-    "translation": "啦",
+    "translation": "",
     "stage": 3
   },
   {
@@ -13551,19 +13551,19 @@
   {
     "key": "0013-0941",
     "original": "なりたいのか？",
-    "translation": "你想成为那样的人吗？",
+    "translation": "",
     "stage": 3
   },
   {
     "key": "0013-0942",
     "original": "なりたいのかい？",
-    "translation": "你想成为那样的人吗？",
+    "translation": "",
     "stage": 3
   },
   {
     "key": "0013-0943",
     "original": "なりたいの？",
-    "translation": "想成为那样的人？",
+    "translation": "",
     "stage": 3
   },
   {
@@ -13689,7 +13689,7 @@
   {
     "key": "0013-0964",
     "original": "早く大きくなって、オ",
-    "translation": "快点长大，我要成为",
+    "translation": "我要快点长大，成为",
     "stage": 3
   },
   {
@@ -14259,13 +14259,13 @@
   {
     "key": "0013-1059",
     "original": "ずいぶんと恥ずかし",
-    "translation": "你还真容易害",
+    "translation": "你还真容易害羞啊……",
     "stage": 3
   },
   {
     "key": "0013-1060",
     "original": "がりなんだな・・・",
-    "translation": "羞啊……",
+    "translation": "",
     "stage": 3
   },
   {
@@ -14781,7 +14781,7 @@
   {
     "key": "0013-1146",
     "original": "とおりかもな・・・",
-    "translation": "呢…",
+    "translation": "呢……",
     "stage": 3
   },
   {
@@ -15027,13 +15027,13 @@
   {
     "key": "0014-0019",
     "original": "へぇ・・・",
-    "translation": "哦……",
+    "translation": "诶……",
     "stage": 3
   },
   {
     "key": "0014-0020",
     "original": "思ったより、にぎやか",
-    "translation": "比想象中热闹",
+    "translation": "是个比想象中热闹",
     "stage": 3
   },
   {
@@ -15159,13 +15159,13 @@
   {
     "key": "0014-0041",
     "original": "お金のことなら心配し",
-    "translation": "钱的话不用担心",
+    "translation": "钱的话不用",
     "stage": 3
   },
   {
     "key": "0014-0042",
     "original": "なくたっていいよ",
-    "translation": "哦",
+    "translation": "担心哦",
     "stage": 3
   },
   {
@@ -15597,19 +15597,19 @@
   {
     "key": "0015-0023",
     "original": "私もちっちゃい頃は、",
-    "translation": "我小时候也",
+    "translation": "我小时候也特别",
     "stage": 3
   },
   {
     "key": "0015-0024",
     "original": "すごく楽しみにしてた",
-    "translation": "特别期待来着",
+    "translation": "期待来着呢……",
     "stage": 3
   },
   {
     "key": "0015-0025",
     "original": "なぁ・・・",
-    "translation": "啊……",
+    "translation": "",
     "stage": 3
   },
   {
@@ -15717,13 +15717,13 @@
   {
     "key": "0015-0043",
     "original": "できないありさま",
-    "translation": "都过不上",
+    "translation": "都过不上啊",
     "stage": 3
   },
   {
     "key": "0015-0044",
     "original": "だからな",
-    "translation": "啊",
+    "translation": "",
     "stage": 3
   },
   {
@@ -15801,7 +15801,7 @@
   {
     "key": "0015-0057",
     "original": "ないな・・・",
-    "translation": "没有啊……",
+    "translation": "",
     "stage": 3
   },
   {
@@ -15813,13 +15813,13 @@
   {
     "key": "0015-0059",
     "original": "は思うが、繁華街って",
-    "translation": "知道这就是商业街",
+    "translation": "知道这就是商业街啦",
     "stage": 3
   },
   {
     "key": "0015-0060",
     "original": "やつだ",
-    "translation": "啦",
+    "translation": "",
     "stage": 3
   },
   {
@@ -16311,25 +16311,25 @@
   {
     "key": "0015-0142",
     "original": "アルク川っていう",
-    "translation": "叫阿尔克河",
+    "translation": "叫阿尔克河来着",
     "stage": 3
   },
   {
     "key": "0015-0143",
     "original": "名前でね",
-    "translation": "来着",
+    "translation": "从北面的山脉一直",
     "stage": 3
   },
   {
     "key": "0015-0144",
     "original": "ずっと北の山脈から",
-    "translation": "从北面的山脉一直",
+    "translation": "流下来的",
     "stage": 3
   },
   {
     "key": "0015-0145",
     "original": "流れてきてるの",
-    "translation": "流下来的",
+    "translation": "",
     "stage": 3
   },
   {
@@ -16377,13 +16377,13 @@
   {
     "key": "0015-0153",
     "original": "いくほど、この川は",
-    "translation": "这条河就",
+    "translation": "这条河就越脏",
     "stage": 3
   },
   {
     "key": "0015-0154",
     "original": "汚れていくのさ",
-    "translation": "越脏",
+    "translation": "",
     "stage": 3
   },
   {
@@ -16395,13 +16395,13 @@
   {
     "key": "0015-0156",
     "original": "下水を流してる",
-    "translation": "排出的污水",
+    "translation": "一直在排污水啊",
     "stage": 3
   },
   {
     "key": "0015-0157",
     "original": "せいでな",
-    "translation": "一直在流啊",
+    "translation": "",
     "stage": 3
   },
   {
@@ -16461,13 +16461,13 @@
   {
     "key": "0015-0167",
     "original": "工場から出る蒸気の",
-    "translation": "是因为工厂冒出的蒸汽",
+    "translation": "都是因为工厂",
     "stage": 3
   },
   {
     "key": "0015-0168",
     "original": "せいだ",
-    "translation": "没错",
+    "translation": "冒出的蒸汽",
     "stage": 3
   },
   {
@@ -16533,19 +16533,19 @@
   {
     "key": "0015-0179",
     "original": "すっかりここらの",
-    "translation": "这儿的自然环境",
+    "translation": "这儿的自然环境已经",
     "stage": 3
   },
   {
     "key": "0015-0180",
     "original": "自然はダメに",
-    "translation": "已经完全",
+    "translation": "完全被破坏掉了",
     "stage": 3
   },
   {
     "key": "0015-0181",
     "original": "なっちまったがな",
-    "translation": "被破坏掉了",
+    "translation": "",
     "stage": 3
   },
   {
@@ -16575,19 +16575,19 @@
   {
     "key": "0015-0186",
     "original": "くたって暮らしてい",
-    "translation": "才能过活",
+    "translation": "才能过活呢……",
     "stage": 3
   },
   {
     "key": "0015-0187",
     "original": "けてたのにね・・・",
-    "translation": "呢……",
+    "translation": "",
     "stage": 3
   },
   {
     "key": "0015-0188",
     "original": "サイジェントの領主",
-    "translation": "那是赛杰特领主",
+    "translation": "这是赛杰特领主",
     "stage": 3
   },
   {
@@ -16701,13 +16701,13 @@
   {
     "key": "0015-0207",
     "original": "誰が払ったか、って",
-    "translation": "是谁付的",
+    "translation": "是谁付的啊",
     "stage": 3
   },
   {
     "key": "0015-0208",
     "original": "ことさ",
-    "translation": "啊",
+    "translation": "",
     "stage": 3
   },
   {
@@ -16797,7 +16797,7 @@
   {
     "key": "0015-0223",
     "original": "いるのさ",
-    "translation": "在那里",
+    "translation": "在这里",
     "stage": 3
   },
   {
@@ -16899,13 +16899,13 @@
   {
     "key": "0015-0240",
     "original": "じゃ見かけねえツラ",
-    "translation": "没见过你",
+    "translation": "没见过你啊？",
     "stage": 3
   },
   {
     "key": "0015-0241",
     "original": "だなぁ？",
-    "translation": "啊？",
+    "translation": "",
     "stage": 3
   },
   {
@@ -16965,25 +16965,25 @@
   {
     "key": "0015-0251",
     "original": "話した【オプテュス】",
-    "translation": "【奥普提斯】",
+    "translation": "【奥普提斯】那帮人！",
     "stage": 3
   },
   {
     "key": "0015-0252",
     "original": "の連中なんだよっ！",
-    "translation": "那帮人！",
+    "translation": "",
     "stage": 3
   },
   {
     "key": "0015-0253",
     "original": "関わるとロクなこと",
-    "translation": "跟他们扯上",
+    "translation": "跟他们扯上关系",
     "stage": 3
   },
   {
     "key": "0015-0254",
     "original": "にはならねえ",
-    "translation": "关系的话没好事",
+    "translation": "的话没好事",
     "stage": 3
   },
   {
@@ -17709,7 +17709,7 @@
   {
     "key": "0015-0375",
     "original": "同じだ・・・",
-    "translation": "同样的……",
+    "translation": "一样……",
     "stage": 3
   },
   {
@@ -17745,7 +17745,7 @@
   {
     "key": "0015-0381",
     "original": "おんなじ・・・",
-    "translation": "同样的……",
+    "translation": "一样……",
     "stage": 3
   },
   {
@@ -17775,7 +17775,7 @@
   {
     "key": "0015-0386",
     "original": "同じ・・・",
-    "translation": "同样的……",
+    "translation": "一样……",
     "stage": 3
   },
   {
@@ -18825,13 +18825,13 @@
   {
     "key": "0017-0142",
     "original": "あまり遅く",
-    "translation": "只要别太晚",
+    "translation": "只要别太晚就行",
     "stage": 3
   },
   {
     "key": "0017-0143",
     "original": "ならなければね",
-    "translation": "就行",
+    "translation": "",
     "stage": 3
   },
   {
@@ -18891,13 +18891,13 @@
   {
     "key": "0017-0153",
     "original": "下流はほとんど荒野に",
-    "translation": "下游几乎都变成了荒野",
+    "translation": "下游几乎都变成了",
     "stage": 3
   },
   {
     "key": "0017-0154",
     "original": "なっちまった",
-    "translation": "了",
+    "translation": "荒野了",
     "stage": 3
   },
   {
@@ -18939,13 +18939,13 @@
   {
     "key": "0017-0161",
     "original": "どの工場も動いている",
-    "translation": "每个工厂都还在运转",
+    "translation": "每个工厂都还在运转呢",
     "stage": 3
   },
   {
     "key": "0017-0162",
     "original": "んですね",
-    "translation": "呢",
+    "translation": "",
     "stage": 3
   },
   {
@@ -18975,13 +18975,13 @@
   {
     "key": "0017-0167",
     "original": "決められた量の仕事を",
-    "translation": "在完成规定的工作量之",
+    "translation": "在完成规定的",
     "stage": 3
   },
   {
     "key": "0017-0168",
     "original": "終わらせるまで、",
-    "translation": "前，直到结束为止",
+    "translation": "工作量之前，",
     "stage": 3
   },
   {
@@ -19059,13 +19059,13 @@
   {
     "key": "0017-0181",
     "original": "ここは、ずいぶん違う",
-    "translation": "和这里，好像很不一样",
+    "translation": "和这里，好像很",
     "stage": 3
   },
   {
     "key": "0017-0182",
     "original": "らしいなぁ",
-    "translation": "啊",
+    "translation": "不一样啊",
     "stage": 3
   },
   {
@@ -19089,13 +19089,13 @@
   {
     "key": "0017-0186",
     "original": "ワシは腹が減って",
-    "translation": "我肚子都饿了",
+    "translation": "我肚子都饿了啊",
     "stage": 3
   },
   {
     "key": "0017-0187",
     "original": "きちまったよ",
-    "translation": "啊",
+    "translation": "",
     "stage": 3
   },
   {
@@ -19365,13 +19365,13 @@
   {
     "key": "0018-0009",
     "original": "だが、今までは",
-    "translation": "但以前",
+    "translation": "但在之前，也就",
     "stage": 3
   },
   {
     "key": "0018-0010",
     "original": "それだけですんでいた",
-    "translation": "也就那样了",
+    "translation": "停留在那种程度",
     "stage": 3
   },
   {
@@ -19395,19 +19395,19 @@
   {
     "key": "0018-0014",
     "original": "だろう",
-    "translation": "了",
+    "translation": "",
     "stage": 3
   },
   {
     "key": "0018-0015",
     "original": "ワシらだけが狙われる",
-    "translation": "要是只冲着我们",
+    "translation": "要是只冲着我们来",
     "stage": 3
   },
   {
     "key": "0018-0016",
     "original": "のならまだいいが",
-    "translation": "来倒还好",
+    "translation": "倒还好",
     "stage": 3
   },
   {
@@ -19431,13 +19431,13 @@
   {
     "key": "0018-0020",
     "original": "奴らは女子供であろう",
-    "translation": "那些家伙就算对女人孩",
+    "translation": "那些家伙就算对女人",
     "stage": 3
   },
   {
     "key": "0018-0021",
     "original": "と、容赦はせん",
-    "translation": "子也不会手下留情",
+    "translation": "孩子也不会手下留情",
     "stage": 3
   },
   {
@@ -19749,13 +19749,13 @@
   {
     "key": "0018-0073",
     "original": "から色々とちょっかい",
-    "translation": "一直来找茬",
+    "translation": "一直来找茬了",
     "stage": 3
   },
   {
     "key": "0018-0074",
     "original": "を出してきてた",
-    "translation": "了",
+    "translation": "",
     "stage": 3
   },
   {
@@ -19773,7 +19773,7 @@
   {
     "key": "0018-0077",
     "original": "ったのかもしれねえ",
-    "translation": "了",
+    "translation": "",
     "stage": 3
   },
   {
@@ -19785,25 +19785,25 @@
   {
     "key": "0018-0079",
     "original": "とにかく相手は徒党を",
-    "translation": "总之对方是拉帮结派的",
+    "translation": "对方毕竟拉帮结伙",
     "stage": 3
   },
   {
     "key": "0018-0080",
     "original": "組んどるからな",
-    "translation": "啊",
+    "translation": "人多势众啊",
     "stage": 3
   },
   {
     "key": "0018-0081",
     "original": "つけ狙われると面倒な",
-    "translation": "要是被盯上了",
+    "translation": "一旦被盯上",
     "stage": 3
   },
   {
     "key": "0018-0082",
     "original": "ことになる",
-    "translation": "可就有得麻烦了",
+    "translation": "事情可就麻烦了",
     "stage": 3
   },
   {
@@ -19833,13 +19833,13 @@
   {
     "key": "0018-0087",
     "original": "たりとか、できないん",
-    "translation": "求助什么的",
+    "translation": "求助什么的吗？",
     "stage": 3
   },
   {
     "key": "0018-0088",
     "original": "ですか？",
-    "translation": "吗？",
+    "translation": "",
     "stage": 3
   },
   {
@@ -19851,13 +19851,13 @@
   {
     "key": "0018-0090",
     "original": "彼らを取り締まらない",
-    "translation": "不管管他们",
+    "translation": "不管管他们吗？",
     "stage": 3
   },
   {
     "key": "0018-0091",
     "original": "んですか？",
-    "translation": "吗？",
+    "translation": "",
     "stage": 3
   },
   {
@@ -19887,7 +19887,7 @@
   {
     "key": "0018-0096",
     "original": "できないんですか？",
-    "translation": "或者别的什么办法？",
+    "translation": "",
     "stage": 3
   },
   {
@@ -20139,7 +20139,7 @@
   {
     "key": "0018-0138",
     "original": "言わなくても、手前ェ",
-    "translation": "不用你说",
+    "translation": "不用我说",
     "stage": 3
   },
   {
@@ -20979,13 +20979,13 @@
   {
     "key": "0020-0025",
     "original": "行動をしてしまった",
-    "translation": "有点轻率了",
+    "translation": "有点轻率了啊",
     "stage": 3
   },
   {
     "key": "0020-0026",
     "original": "気もするな",
-    "translation": "啊",
+    "translation": "",
     "stage": 3
   },
   {
@@ -21003,13 +21003,13 @@
   {
     "key": "0020-0029",
     "original": "こんなことになるはず",
-    "translation": "会变成这样",
+    "translation": "会变成这样的嘛",
     "stage": 3
   },
   {
     "key": "0020-0030",
     "original": "だったんだし、さ",
-    "translation": "的嘛",
+    "translation": "",
     "stage": 3
   },
   {
@@ -21075,13 +21075,13 @@
   {
     "key": "0020-0041",
     "original": "迷惑だなんて思って",
-    "translation": "都不觉得是麻烦",
+    "translation": "都不觉得是麻烦啊……",
     "stage": 3
   },
   {
     "key": "0020-0042",
     "original": "ないんだから・・・",
-    "translation": "啊……",
+    "translation": "",
     "stage": 3
   },
   {
@@ -21219,13 +21219,13 @@
   {
     "key": "0020-0065",
     "original": "彼には元の世界に戻る",
-    "translation": "他还要回原来世界的",
+    "translation": "他还打算回到",
     "stage": 3
   },
   {
     "key": "0020-0066",
     "original": "という目的が・・・",
-    "translation": "有那个目标……",
+    "translation": "原来的世界的……",
     "stage": 3
   },
   {
@@ -21243,13 +21243,13 @@
   {
     "key": "0020-0069",
     "original": "彼女には元の世界に帰",
-    "translation": "她还要回原来世界的",
+    "translation": "她还打算回到",
     "stage": 3
   },
   {
     "key": "0020-0070",
     "original": "るという目的が・・",
-    "translation": "有那个目标……",
+    "translation": "原来的世界的……",
     "stage": 3
   },
   {
@@ -21261,7 +21261,7 @@
   {
     "key": "0020-0072",
     "original": "うっ、それは・・・",
-    "translation": "呃，那是……",
+    "translation": "呃，那个……",
     "stage": 3
   },
   {
@@ -21501,7 +21501,7 @@
   {
     "key": "0020-0112",
     "original": "ようこそ！",
-    "translation": "【弗拉特】队！",
+    "translation": "【弗拉特】！",
     "stage": 3
   },
   {
@@ -21603,13 +21603,13 @@
   {
     "key": "0020-0129",
     "original": "それに応えてやるのが",
-    "translation": "才是基本的",
+    "translation": "才是基本的礼貌吧",
     "stage": 3
   },
   {
     "key": "0020-0130",
     "original": "礼儀ってもんだろ",
-    "translation": "礼貌吧",
+    "translation": "",
     "stage": 3
   },
   {
@@ -22803,13 +22803,13 @@
   {
     "key": "0021-0154",
     "original": "ことがいっぺんに",
-    "translation": "发生了那么多",
+    "translation": "发生了那么多事情",
     "stage": 3
   },
   {
     "key": "0021-0155",
     "original": "起きたんだもの",
-    "translation": "事情",
+    "translation": "",
     "stage": 3
   },
   {
@@ -22869,7 +22869,7 @@
   {
     "key": "0021-0165",
     "original": "あてもなく一人で",
-    "translation": "漫无目的地一个人",
+    "translation": "漫无目的地",
     "stage": 3
   },
   {
@@ -22899,13 +22899,13 @@
   {
     "key": "0021-0170",
     "original": "言ってくれて、すごく",
-    "translation": "我真的很",
+    "translation": "我真的",
     "stage": 3
   },
   {
     "key": "0021-0171",
     "original": "ありがたかったんだ",
-    "translation": "感激",
+    "translation": "很感激",
     "stage": 3
   },
   {
@@ -22965,7 +22965,7 @@
   {
     "key": "0021-0181",
     "original": "ひとりなんて、正直",
-    "translation": "一个人，说实话",
+    "translation": "一个人去找，说实话",
     "stage": 3
   },
   {
@@ -23013,7 +23013,7 @@
   {
     "key": "0021-0189",
     "original": "を探すのかと思うと",
-    "translation": "一个人去找那个，",
+    "translation": "一个人去找，",
     "stage": 3
   },
   {
@@ -23031,7 +23031,7 @@
   {
     "key": "0021-0192",
     "original": "救われました・・・",
-    "translation": "得救了……",
+    "translation": "感到得救了……",
     "stage": 3
   },
   {
@@ -23217,13 +23217,13 @@
   {
     "key": "0021-0223",
     "original": "やり方を教えてくれよ",
-    "translation": "怎么弄吧",
+    "translation": "怎么做吧",
     "stage": 3
   },
   {
     "key": "0021-0224",
     "original": "なあ、いいだろ！？",
-    "translation": "喂，行吧！？",
+    "translation": "呐，行吧！？",
     "stage": 3
   },
   {
@@ -23235,13 +23235,13 @@
   {
     "key": "0021-0226",
     "original": "どう説明したら納得し",
-    "translation": "该怎么解释才能让他明",
+    "translation": "该怎么解释才能让他",
     "stage": 3
   },
   {
     "key": "0021-0227",
     "original": "てくれるかなぁ？",
-    "translation": "白呢？",
+    "translation": "明白呢？",
     "stage": 3
   },
   {
@@ -23271,7 +23271,7 @@
   {
     "key": "0021-0232",
     "original": "てもらえるかしら？",
-    "translation": "白呢？",
+    "translation": "明白呢？",
     "stage": 3
   },
   {
@@ -23307,13 +23307,13 @@
   {
     "key": "0021-0238",
     "original": "好みだわ",
-    "translation": "正合我的口味",
+    "translation": "是我喜欢的类型",
     "stage": 3
   },
   {
     "key": "0021-0239",
     "original": "頼りがいがあるもの",
-    "translation": "靠得住嘛",
+    "translation": "毕竟很靠得住嘛",
     "stage": 3
   },
   {
@@ -23325,7 +23325,7 @@
   {
     "key": "0021-0241",
     "original": "あこがれだわ",
-    "translation": "是我的偶像啊",
+    "translation": "真的很让人憧憬",
     "stage": 3
   },
   {
@@ -23853,13 +23853,13 @@
   {
     "key": "0022-0009",
     "original": "ああ、あつらえたみた",
-    "translation": "啊，就像是量身",
+    "translation": "啊，就像是量身定做",
     "stage": 3
   },
   {
     "key": "0022-0010",
     "original": "いにピッタリだぜ",
-    "translation": "定做的一样合身呢",
+    "translation": "的一样合身呢",
     "stage": 3
   },
   {

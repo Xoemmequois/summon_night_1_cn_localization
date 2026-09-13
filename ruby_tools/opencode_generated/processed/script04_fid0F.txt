@@ -60,9 +60,9 @@
 私もちっちゃい頃は、
 すごく楽しみにしてた
 なぁ・・・
-+[FID:0F, TEXT:0017] 我小时候也
-+[FID:0F, TEXT:0018] 特别期待来着
-+[FID:0F, TEXT:0019] 啊……
++[FID:0F, TEXT:0017] 我小时候也特别
++[FID:0F, TEXT:0018] 期待来着呢……
++[FID:0F, TEXT:0019] 
 
 --- Group [left:主人公 next=0023] ---G
 最近は行ってないの？
@@ -119,8 +119,8 @@
 できないありさま
 だからな
 +[FID:0F, TEXT:002A] 连宽裕的生活
-+[FID:0F, TEXT:002B] 都过不上
-+[FID:0F, TEXT:002C] 啊
++[FID:0F, TEXT:002B] 都过不上啊
++[FID:0F, TEXT:002C] 
 
 --- Group [left:主人公 next=0023] ---G
 うーん・・・
@@ -174,15 +174,15 @@
 ないな・・・
 +[FID:0F, TEXT:0037] 我不太喜欢
 +[FID:0F, TEXT:0038] 这种地方啊……
-+[FID:0F, TEXT:0039] 没有啊……
++[FID:0F, TEXT:0039] 
 
 --- Group [right:加泽尔 next=2012] ---G
 説明するまでもねえと
 は思うが、繁華街って
 やつだ
 +[FID:0F, TEXT:003A] 虽然我觉得不用解释也
-+[FID:0F, TEXT:003B] 知道这就是商业街
-+[FID:0F, TEXT:003C] 啦
++[FID:0F, TEXT:003B] 知道这就是商业街啦
++[FID:0F, TEXT:003C] 
 
 --- Group [right:加泽尔 next=2012] ---G
 夜になると、街で一番
@@ -447,10 +447,10 @@
 名前でね
 ずっと北の山脈から
 流れてきてるの
-+[FID:0F, TEXT:008E] 叫阿尔克河
-+[FID:0F, TEXT:008F] 来着
-+[FID:0F, TEXT:0090] 从北面的山脉一直
-+[FID:0F, TEXT:0091] 流下来的
++[FID:0F, TEXT:008E] 叫阿尔克河来着
++[FID:0F, TEXT:008F] 从北面的山脉一直
++[FID:0F, TEXT:0090] 流下来的
++[FID:0F, TEXT:0091] 
 
 --- Group [right:莉普蕾 next=2012] ---G
 この川があるおかげで
@@ -475,16 +475,16 @@
 汚れていくのさ
 +[FID:0F, TEXT:0097] 这儿的水很干净
 +[FID:0F, TEXT:0098] 不过呢，越往下游
-+[FID:0F, TEXT:0099] 这条河就
-+[FID:0F, TEXT:009A] 越脏
++[FID:0F, TEXT:0099] 这条河就越脏
++[FID:0F, TEXT:009A] 
 
 --- Group [right:加泽尔 next=2012] ---G
 工場や民家から出た
 下水を流してる
 せいでな
 +[FID:0F, TEXT:009B] 因为工厂和民宅
-+[FID:0F, TEXT:009C] 排出的污水
-+[FID:0F, TEXT:009D] 一直在流啊
++[FID:0F, TEXT:009C] 一直在排污水啊
++[FID:0F, TEXT:009D] 
 
 --- Group [left:主人公 next=0023] ---G
 なんか、ジメジメ
@@ -517,8 +517,8 @@
 工場から出る蒸気の
 せいだ
 +[FID:0F, TEXT:00A6] 嗯
-+[FID:0F, TEXT:00A7] 是因为工厂冒出的蒸汽
-+[FID:0F, TEXT:00A8] 没错
++[FID:0F, TEXT:00A7] 都是因为工厂
++[FID:0F, TEXT:00A8] 冒出的蒸汽
 
 --- Group [left:主人公 next=0023] ---G
 ああ
@@ -564,9 +564,9 @@
 自然はダメに
 なっちまったがな
 +[FID:0F, TEXT:00B2] 不过呢，也正因为这个
-+[FID:0F, TEXT:00B3] 这儿的自然环境
-+[FID:0F, TEXT:00B4] 已经完全
-+[FID:0F, TEXT:00B5] 被破坏掉了
++[FID:0F, TEXT:00B3] 这儿的自然环境已经
++[FID:0F, TEXT:00B4] 完全被破坏掉了
++[FID:0F, TEXT:00B5] 
 
 --- Group [right:莉普蕾 next=2012] ---G
 昔はね、このあたりも
@@ -581,13 +581,13 @@
 けてたのにね・・・
 +[FID:0F, TEXT:00B8] 不像现在，非得从
 +[FID:0F, TEXT:00B9] 别的城镇买粮食
-+[FID:0F, TEXT:00BA] 才能过活
-+[FID:0F, TEXT:00BB] 呢……
++[FID:0F, TEXT:00BA] 才能过活呢……
++[FID:0F, TEXT:00BB] 
 
 --- Group [right:莉普蕾 next=2012] ---G
 サイジェントの領主
 さまが暮らすお城よ
-+[FID:0F, TEXT:00BC] 那是赛杰特领主
++[FID:0F, TEXT:00BC] 这是赛杰特领主
 +[FID:0F, TEXT:00BD] 大人住的城堡哦
 
 --- Group [left:主人公 next=0023] ---G
@@ -639,8 +639,8 @@
 誰が払ったか、って
 ことさ
 +[FID:0F, TEXT:00CE] 问题在于，这造城的钱
-+[FID:0F, TEXT:00CF] 是谁付的
-+[FID:0F, TEXT:00D0] 啊
++[FID:0F, TEXT:00CF] 是谁付的啊
++[FID:0F, TEXT:00D0] 
 
 --- Group [right:加泽尔 next=2012] ---G
 ちょっと待った！
@@ -686,7 +686,7 @@
 いるのさ
 +[FID:0F, TEXT:00DD] 有一帮叫【奥普提斯】
 +[FID:0F, TEXT:00DE] 的危险混混
-+[FID:0F, TEXT:00DF] 在那里
++[FID:0F, TEXT:00DF] 在这里
 
 --- Group [right:加泽尔 next=2012] ---G
 関わりあいになる前に
@@ -729,8 +729,8 @@
 だなぁ？
 +[FID:0F, TEXT:00EE] 哦
 +[FID:0F, TEXT:00EF] 你小子，在这一带
-+[FID:0F, TEXT:00F0] 没见过你
-+[FID:0F, TEXT:00F1] 啊？
++[FID:0F, TEXT:00F0] 没见过你啊？
++[FID:0F, TEXT:00F1] 
 
 --- Group [left:主人公 next=0023] ---G
 なんのつもりだ
@@ -763,15 +763,15 @@
 話した【オプテュス】
 の連中なんだよっ！
 +[FID:0F, TEXT:00FA] 他们就是我刚才说的
-+[FID:0F, TEXT:00FB] 【奥普提斯】
-+[FID:0F, TEXT:00FC] 那帮人！
++[FID:0F, TEXT:00FB] 【奥普提斯】那帮人！
++[FID:0F, TEXT:00FC] 
 
 --- Group [right:加泽尔 next=2012] ---G
 関わるとロクなこと
 にはならねえ
 無視するんだ
-+[FID:0F, TEXT:00FD] 跟他们扯上
-+[FID:0F, TEXT:00FE] 关系的话没好事
++[FID:0F, TEXT:00FD] 跟他们扯上关系
++[FID:0F, TEXT:00FE] 的话没好事
 +[FID:0F, TEXT:00FF] 别搭理他们
 
 --- Group [right:char_003A next=2012] ---G
@@ -1144,7 +1144,7 @@
 
 --- Group [left:主人公 next=2012] ---G
 同じだ・・・
-+[FID:0F, TEXT:0177] 同样的……
++[FID:0F, TEXT:0177] 一样……
 
 --- Group [left:主人公 next=2012] ---G
 よくわからないけど
@@ -1172,7 +1172,7 @@
 
 --- Group [left:主人公 next=2012] ---G
 おんなじ・・・
-+[FID:0F, TEXT:017D] 同样的……
++[FID:0F, TEXT:017D] 一样……
 
 --- Group [left:主人公 next=2012] ---G
 昨日と・・・
@@ -1188,7 +1188,7 @@
 
 --- Group [left:主人公 next=2012] ---G
 同じ・・・
-+[FID:0F, TEXT:0182] 同样的……
++[FID:0F, TEXT:0182] 一样……
 
 --- Group [left:主人公 next=2012] ---G
 わかるぜ・・・
