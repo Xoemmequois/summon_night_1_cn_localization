@@ -54,7 +54,7 @@
 　帰るかってことだよな・・・
 -[FID:1E, TEXT:0000] 
 -[FID:1E, TEXT:0000] 
-+[FID:1E, TEXT:000B] 　好吧，事情经过我懂了
++[FID:1E, TEXT:000B] 　总之，事情经过我懂了
 +[FID:1E, TEXT:000C] 　接下来就是怎么
 +[FID:1E, TEXT:000D] 　回到原来的世界了吧……
 
@@ -703,8 +703,8 @@
 らめていませんし
 +[FID:1E, TEXT:00D3] 总比什么都不知道要好
 +[FID:1E, TEXT:00D4] 好多了
-+[FID:1E, TEXT:00DC] 而且我还没
-+[FID:1E, TEXT:00DD] 放弃
++[FID:1E, TEXT:00DC] 而且我还没放弃
++[FID:1E, TEXT:00DD] 
 
 --- Group [left:主人公 next=2012] ---G
 何もわからないよりは
@@ -751,19 +751,19 @@
 --- Group [left:主人公 next=0023] ---G
 一緒に、帰る方法を
 探してくれますし
-+[FID:1E, TEXT:00DA] 都会和我一起
++[FID:1E, TEXT:00DA] 会和我一起
 +[FID:1E, TEXT:00E3] 寻找回去的方法
 
 --- Group [left:主人公 next=0023] ---G
 一緒に、帰る方法を
 探してくれるそうです
--[FID:1E, TEXT:00DA] 都会和我一起
+-[FID:1E, TEXT:00DA] 会和我一起
 +[FID:1E, TEXT:00DF] 寻找回去的方法
 
 --- Group [left:主人公 next=0023] ---G
 一緒に、帰る方法を
 探してくれますしね
--[FID:1E, TEXT:00DA] 都会和我一起
+-[FID:1E, TEXT:00DA] 会和我一起
 +[FID:1E, TEXT:00DB] 寻找回去的方法嘛
 
 --- Group [left:主人公 next=0023] ---G
@@ -814,9 +814,9 @@
 りだと思いこんでいた
 んだが・・・
 +[FID:1E, TEXT:00F3] 我一直以为
-+[FID:1E, TEXT:00F4] 召唤师全是这种利己主
-+[FID:1E, TEXT:00F5] 义者但……
-+[FID:1E, TEXT:00F6] 
++[FID:1E, TEXT:00F4] 召唤师全是这种
++[FID:1E, TEXT:00F5] 利己主义者
++[FID:1E, TEXT:00F6] 但……
 
 --- Group [right:雷德 next=2012] ---G
 考えを改めておく必要
@@ -830,7 +830,7 @@
 だけど・・・
 +[FID:1E, TEXT:00F9] 喂，加泽尔
 +[FID:1E, TEXT:00FA] 我一直想问你来着……
-+[FID:1E, TEXT:00FB] 但是……
++[FID:1E, TEXT:00FB] 
 
 --- Group [left:主人公 next=0023] ---G
 ねえ、ガゼル
@@ -838,7 +838,7 @@
 だけどさ・・・
 +[FID:1E, TEXT:00FE] 喂，加泽尔
 -[FID:1E, TEXT:00FA] 我一直想问你来着……
-+[FID:1E, TEXT:00FF] 但是啊……
++[FID:1E, TEXT:00FF] 
 
 --- Group [left:主人公 next=0023] ---G
 ねえ、ガゼルさん
@@ -846,7 +846,7 @@
 ですけど・・・
 +[FID:1E, TEXT:0100] 喂，加泽尔先生
 -[FID:1E, TEXT:00FA] 我一直想问你来着……
-+[FID:1E, TEXT:0101] 但是……
++[FID:1E, TEXT:0101] 
 
 --- Group [right:加泽尔 next=2012] ---G
 あん？
@@ -876,9 +876,9 @@
 ・・・この建物がよ、
 孤児院だったってのは
 覚えてるか？
-+[FID:1E, TEXT:0108] ……你还记得吗
-+[FID:1E, TEXT:0109] 这栋楼以前是
-+[FID:1E, TEXT:010A] 孤儿院？
++[FID:1E, TEXT:0108] ……你还记得吗？
++[FID:1E, TEXT:0109] 这栋楼以前是孤儿院
++[FID:1E, TEXT:010A] 
 
 --- Group [right:加泽尔 next=2012] ---G
 街の援助金を受けて、
@@ -886,9 +886,9 @@
 んだがよ・・・ある日
 それが打ち切られた
 +[FID:1E, TEXT:010B] 孤儿院一直靠
-+[FID:1E, TEXT:010C] 街上的援助金运营
-+[FID:1E, TEXT:010D] 但有一天……被中断了
-+[FID:1E, TEXT:010E] 
++[FID:1E, TEXT:010C] 镇上的援助金运营
++[FID:1E, TEXT:010D] 但有一天……
++[FID:1E, TEXT:010E] 这笔钱却被停掉了
 
 --- Group [right:加泽尔 next=2012] ---G
 召喚師のせいでな
@@ -901,8 +901,8 @@
 やがったんだとさ
 +[FID:1E, TEXT:0110] 听说那个当领主顾问的
 +[FID:1E, TEXT:0111] 召唤师一口咬定说这是
-+[FID:1E, TEXT:0112] 浪费钱
-+[FID:1E, TEXT:0113] 给砍掉了
++[FID:1E, TEXT:0112] 浪费钱，给砍掉了
++[FID:1E, TEXT:0113] 
 
 --- Group [right:加泽尔 next=2012] ---G
 院長のおっさんは抗議
@@ -1364,7 +1364,7 @@
 　　　まずは俺が、あの子を
 　　　信じないとな・・・
 　　　全てはそれからだ
-+[FID:1E, TEXT:0198] 　　　首先我必须相信他……
++[FID:1E, TEXT:0198] 　　　首先我必须相信她……
 -[FID:1E, TEXT:018F] 　　　
 -[FID:1E, TEXT:0190] 　　　一切，都要从这里开始
 
@@ -1455,14 +1455,14 @@
 --- Group [left:none next=0023] ---G
 　なんのかんのいってもリプレに
 　迷惑ばっかりかけてるなあ・・・
-+[FID:1E, TEXT:01AD] 　不管怎么说，总是给莉普蕾添麻烦啊……
-+[FID:1E, TEXT:01AE] 　尽给人添麻烦啊……
++[FID:1E, TEXT:01AD] 　不管怎么说，尽是在给莉普蕾
++[FID:1E, TEXT:01AE] 　添麻烦啊……
 
 --- Group [left:none next=0023] ---G
 　今回もまた、リプレに迷惑を
 　かけてしまったようだな・・・
-+[FID:1E, TEXT:01AF] 　这次好像又给莉普蕾添麻烦了……
-+[FID:1E, TEXT:01B0] 　看来是给你添麻烦了……
++[FID:1E, TEXT:01AF] 　这次好像又给莉普蕾
++[FID:1E, TEXT:01B0] 　添麻烦了……
 
 --- Group [left:none next=0023] ---G
 　　　なんのかんのいっても
@@ -1507,19 +1507,19 @@
 --- Group [left:none next=0023] ---G
 　生意気だって思ってたけど、
 　素直なところもあるんだね・・・
-+[FID:1E, TEXT:01BC] 　虽然觉得他挺嚣张的
++[FID:1E, TEXT:01BC] 　虽然觉得她挺嚣张的
 +[FID:1E, TEXT:01BE] 　但也有坦率的一面呢……
 
 --- Group [left:none next=0023] ---G
 　生意気だって思ってたけど、
 　素直なところもあるのね・・・
--[FID:1E, TEXT:01BC] 　虽然觉得他挺嚣张的
+-[FID:1E, TEXT:01BC] 　虽然觉得她挺嚣张的
 +[FID:1E, TEXT:01BF] 　但也有坦率的一面呢……
 
 --- Group [left:none next=0023] ---G
 　生意気だって思ってたけど、
 　素直なところもあるんだな・・・
--[FID:1E, TEXT:01BC] 　虽然觉得他挺嚣张的
+-[FID:1E, TEXT:01BC] 　虽然觉得她挺嚣张的
 +[FID:1E, TEXT:01BD] 　但也有坦率的一面啊……
 
 --- Group [left:none next=0023] ---G

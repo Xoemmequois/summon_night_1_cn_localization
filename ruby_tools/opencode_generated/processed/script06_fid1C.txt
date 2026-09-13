@@ -114,17 +114,17 @@
 この人がわたしに
 光を使うように
 指示してくれたんです
-+[FID:1C, TEXT:001B] 这个人告诉我
-+[FID:1C, TEXT:00AA] 使用光
-+[FID:1C, TEXT:00AB] 来着
++[FID:1C, TEXT:001B] 就是这个人告诉我的
++[FID:1C, TEXT:00AA] 如何使用光来着
++[FID:1C, TEXT:00AB] 
 
 --- Group [left:主人公 next=0023] ---G
 この人がわたしに
 光の使い方を
 教えてくれたの・・・
--[FID:1C, TEXT:001B] 这个人告诉我
-+[FID:1C, TEXT:001C] 使用光的方法
-+[FID:1C, TEXT:001D] 啊……
+-[FID:1C, TEXT:001B] 就是这个人告诉我的
++[FID:1C, TEXT:001C] 使用光的方法啊……
++[FID:1C, TEXT:001D] 
 
 --- Group [left:加泽尔 next=2012] ---G
 なんだって・・・！？
@@ -252,8 +252,8 @@
 彼女はこの世界に呼ば
 れちゃったのね
 +[FID:1C, TEXT:0039] 某个召唤仪式失败了
-+[FID:1C, TEXT:0083] 结果呢
-+[FID:1C, TEXT:00BC] 她就被召唤到
++[FID:1C, TEXT:0083] 导致的结果就是，
++[FID:1C, TEXT:00BC] 她被召唤到
 +[FID:1C, TEXT:00BD] 这个世界来了
 
 --- Group [right:克拉雷特 next=0023] ---G
@@ -262,8 +262,8 @@
 彼はこの世界に呼ばれ
 てしまったんです
 -[FID:1C, TEXT:0039] 某个召唤仪式失败了
--[FID:1C, TEXT:0083] 结果呢
-+[FID:1C, TEXT:00BA] 他就被召唤到
+-[FID:1C, TEXT:0083] 导致的结果就是，
++[FID:1C, TEXT:00BA] 他被召唤到
 +[FID:1C, TEXT:00F1] 这个世界来了
 
 --- Group [right:索尔 next=2012] ---G
@@ -272,8 +272,8 @@
 前がこの世界に呼ばれ
 ることになったんだ
 -[FID:1C, TEXT:0039] 某个召唤仪式失败了
-+[FID:1C, TEXT:003A] 结果呢
-+[FID:1C, TEXT:003B] 你就被召唤到
++[FID:1C, TEXT:003A] 导致的结果就是，
++[FID:1C, TEXT:003B] 你被召唤到
 +[FID:1C, TEXT:003C] 这个世界来了
 
 --- Group [right:基尔 next=2012] ---G
@@ -282,8 +282,8 @@
 君はこの世界に呼ばれ
 てしまったんだ
 -[FID:1C, TEXT:0039] 某个召唤仪式失败了
--[FID:1C, TEXT:0083] 结果呢
-+[FID:1C, TEXT:0084] 你就被召唤到
+-[FID:1C, TEXT:0083] 导致的结果就是，
++[FID:1C, TEXT:0084] 你被召唤到
 +[FID:1C, TEXT:0085] 这个世界来了
 
 --- Group [right:卡茜丝 next=0023] ---G
@@ -292,8 +292,8 @@
 彼はこの世界に呼ばれ
 ちゃったのね
 -[FID:1C, TEXT:0039] 某个召唤仪式失败了
--[FID:1C, TEXT:0083] 结果呢
--[FID:1C, TEXT:00BA] 他就被召唤到
+-[FID:1C, TEXT:0083] 导致的结果就是，
+-[FID:1C, TEXT:00BA] 他被召唤到
 +[FID:1C, TEXT:00BB] 这个世界来了
 
 --- Group [right:克拉雷特 next=2012] ---G
@@ -302,8 +302,8 @@
 彼女はこの世界に呼ば
 れてしまったんです
 -[FID:1C, TEXT:0039] 某个召唤仪式失败了
--[FID:1C, TEXT:0083] 结果呢
--[FID:1C, TEXT:00BC] 她就被召唤到
+-[FID:1C, TEXT:0083] 导致的结果就是，
+-[FID:1C, TEXT:00BC] 她被召唤到
 +[FID:1C, TEXT:00F2] 这个世界来了
 
 --- Group [left:主人公 next=0023] ---G
@@ -468,7 +468,7 @@
 たんだ！
 +[FID:1C, TEXT:006D] 这个人教了我
 -[FID:1C, TEXT:0013] 使用那个光的方法
-+[FID:1C, TEXT:006E] 就是他！
++[FID:1C, TEXT:006E] 就是这个人！
 
 --- Group [left:主人公 next=2012] ---G
 待ってよ！
@@ -529,8 +529,8 @@
 彼が呼ばれたのは事故
 なんです・・・
 -[FID:1C, TEXT:0080] 先说结论吧，
-+[FID:1C, TEXT:00EC] 他会来这儿是
-+[FID:1C, TEXT:00ED] 个意外……
++[FID:1C, TEXT:00EC] 他会来这儿
++[FID:1C, TEXT:00ED] 是个意外……
 
 --- Group [right:卡茜丝 next=2012] ---G
 結論から先に言えば、
@@ -854,8 +854,8 @@
 それぐらい、私だって
 わかってますっ！
 だから・・・っ
-+[FID:1C, TEXT:00F7] 那种事，我也
-+[FID:1C, TEXT:00F8] 明白！
++[FID:1C, TEXT:00F7] 那种事，
++[FID:1C, TEXT:00F8] 我也明白！
 +[FID:1C, TEXT:00F9] 所以……！
 
 --- Group [right:克拉雷特 next=2012] ---G
@@ -1013,7 +1013,7 @@
 はないことをお見せし
 ますから・・・逃げた
 りはしません！！
-+[FID:1C, TEXT:012E] 我的觉悟不只是嘴上说
-+[FID:1C, TEXT:012F] 说我会证明给你看
-+[FID:1C, TEXT:0130] 所以……我绝对不会
-+[FID:1C, TEXT:0131] 逃跑！！
++[FID:1C, TEXT:012E] 我的觉悟，
++[FID:1C, TEXT:012F] 绝不只是嘴上说说，
++[FID:1C, TEXT:0130] 我会证明给您看的……
++[FID:1C, TEXT:0131] 所以，我绝不会逃跑！
