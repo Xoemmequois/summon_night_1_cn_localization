@@ -401,7 +401,7 @@
 　放っておく
 　近づいてみる
 +[FID:28, TEXT:007B] 怎么办？
-+[FID:28, TEXT:019E] 　放那里不管
++[FID:28, TEXT:019E] 　放着不管
 +[FID:28, TEXT:019F] 　靠近看看
 
 --- Group [right:none next=0023] ---G
@@ -413,8 +413,8 @@
 　やめておく
 　魚釣りをする
 -[FID:28, TEXT:007B] 怎么办？
-+[FID:28, TEXT:01B7] 　算了
-+[FID:28, TEXT:01B8] 　钓鱼
++[FID:28, TEXT:01B7] 　算了吧
++[FID:28, TEXT:01B8] 　钓鱼吧
 
 --- Group [right:伊利亚斯 next=0023] ---G
 　ありがとう
@@ -578,9 +578,9 @@
 これじゃあ釣りは
 できないよな
 -[FID:28, TEXT:00A3] 咦？
-+[FID:28, TEXT:01AA] 好像没有饵料……
-+[FID:28, TEXT:01AB] 这样果然
-+[FID:28, TEXT:01AC] 什么都钓不到啊
++[FID:28, TEXT:01AA] 没有鱼饵了……
++[FID:28, TEXT:01AB] 这样的话
++[FID:28, TEXT:01AC] 根本没法钓啊
 
 --- Group [left:主人公 next=0023] ---G
 あれ？
@@ -1419,8 +1419,8 @@
 リプレを喜ばせて
 やろうかな？
 +[FID:28, TEXT:01A0] 要不，再去钓钓鱼
-+[FID:28, TEXT:01A1] 让莉普蕾高兴
-+[FID:28, TEXT:01A2] 一下？
++[FID:28, TEXT:01A1] 让莉普蕾
++[FID:28, TEXT:01A2] 开心一下？
 
 --- Group [left:主人公 next=0023] ---G
 また、魚でも釣って
@@ -1442,15 +1442,15 @@
 +[FID:28, TEXT:01A6] 要是再钓到鱼
 +[FID:28, TEXT:01A7] 带回去的话
 +[FID:28, TEXT:01A8] 莉普蕾小姐
-+[FID:28, TEXT:01A9] 会高兴吗……
++[FID:28, TEXT:01A9] 会开心吗……
 
 --- Group [left:主人公 next=0023] ---G
 でも、まずは
 釣りの餌を探さないと
 いけないみたいだな
 +[FID:28, TEXT:01AD] 不过，首先
-+[FID:28, TEXT:01AE] 得先找鱼饵才行
-+[FID:28, TEXT:01AF] 不然没法钓啊
++[FID:28, TEXT:01AE] 看来得去找点
++[FID:28, TEXT:01AF] 鱼饵才行呢
 
 --- Group [left:主人公 next=0023] ---G
 うーん・・・
@@ -1507,8 +1507,8 @@
 きっとみんなも喜んで
 食べてくれるよ
 +[FID:28, TEXT:01C7] 辛苦了
-+[FID:28, TEXT:01C8] 大家一定会开心地
-+[FID:28, TEXT:01C9] 享用的
++[FID:28, TEXT:01C8] 大家一定会
++[FID:28, TEXT:01C9] 开心地享用的
 
 --- Group [right:none next=2012] ---G
 また何か釣れた時は

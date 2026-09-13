@@ -1220,19 +1220,19 @@
 どうしよう？
 　放っておく
 　近づいてみる
-+[FID:2F, TEXT:0173] 怎么办呢？
-+[FID:2F, TEXT:02C8] 　别管了
++[FID:2F, TEXT:0173] 怎么办？
++[FID:2F, TEXT:02C8] 　放着不管
 +[FID:2F, TEXT:02C9] 　靠近看看
 
 --- Group [right:菲兹 next=0023] ---G
 どうしよう？
--[FID:2F, TEXT:0173] 怎么办呢？
+-[FID:2F, TEXT:0173] 怎么办？
 
 --- Group [left:主人公 next=2015] ---G
 どうしよう？
 　やめておく
 　魚釣りをする
--[FID:2F, TEXT:0173] 怎么办呢？
+-[FID:2F, TEXT:0173] 怎么办？
 +[FID:2F, TEXT:02E1] 　算了吧
 +[FID:2F, TEXT:02E2] 　钓鱼吧
 
@@ -2317,8 +2317,8 @@
 リプレを喜ばせて
 やろうかな？
 +[FID:2F, TEXT:02CA] 要不，再去钓钓鱼
-+[FID:2F, TEXT:02CB] 让莉普蕾高兴
-+[FID:2F, TEXT:02CC] 一下？
++[FID:2F, TEXT:02CB] 让莉普蕾
++[FID:2F, TEXT:02CC] 开心一下？
 
 --- Group [left:主人公 next=0023] ---G
 また、魚でも釣って
@@ -2340,7 +2340,7 @@
 +[FID:2F, TEXT:02D0] 要是再钓到鱼
 +[FID:2F, TEXT:02D1] 带回去的话
 +[FID:2F, TEXT:02D2] 莉普蕾小姐
-+[FID:2F, TEXT:02D3] 会高兴吗……
++[FID:2F, TEXT:02D3] 会开心吗……
 
 --- Group [left:主人公 next=0023] ---G
 あれ？
@@ -2348,17 +2348,17 @@
 これじゃあ釣りは
 できないよな
 +[FID:2F, TEXT:02D4] 咦？
-+[FID:2F, TEXT:02D5] 好像没有饵料……
-+[FID:2F, TEXT:02D6] 这样果然
-+[FID:2F, TEXT:02D7] 什么都钓不到啊
++[FID:2F, TEXT:02D5] 没有鱼饵了……
++[FID:2F, TEXT:02D6] 这样的话
++[FID:2F, TEXT:02D7] 根本没法钓啊
 
 --- Group [left:主人公 next=0023] ---G
 でも、まずは
 釣りの餌を探さないと
 いけないみたいだな
 +[FID:2F, TEXT:02D8] 不过，首先
-+[FID:2F, TEXT:02D9] 得先找鱼饵才行
-+[FID:2F, TEXT:02DA] 不然没法钓啊
++[FID:2F, TEXT:02D9] 看来得去找点
++[FID:2F, TEXT:02DA] 鱼饵才行呢
 
 --- Group [right:菲兹 next=0023] ---G
 気にしなくていいって
@@ -2405,8 +2405,8 @@
 きっとみんなも喜んで
 食べてくれるよ
 +[FID:2F, TEXT:02F1] 辛苦了
-+[FID:2F, TEXT:02F2] 大家一定会开心地
-+[FID:2F, TEXT:02F3] 享用的
++[FID:2F, TEXT:02F2] 大家一定会
++[FID:2F, TEXT:02F3] 开心地享用的
 
 --- Group [right:菲兹 next=2012] ---G
 また何か釣れた時は
