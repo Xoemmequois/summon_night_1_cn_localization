@@ -28,6 +28,11 @@ dotnet run --project ..\romhack_csharp
 # Ruby VM analysis (legacy — analysis only, CWD: ruby_tools/opencode_generated/)
 ruby analyze_script3.rb [script_id]      # default id=3
 ruby batch_analyze.rb                    # all reachable scripts 1-40
+
+# Extract all dialogue voices (CWD: repo root)
+python tools/extract_voices.py            # CM5100+CM5200 -> voices/*.wav + voices.json
+python tools/extract_voices.py --dry-run  # list voices without decoding
+python tools/extract_voices.py --ids 0,1  # subset
 ```
 
 ## Summon Night File Formats
@@ -112,7 +117,33 @@ The opcode table is split into three ranges: `0x00xx` (basic ops), `0x10xx` (ext
 - `0x002F`: load dialog text (param = subcontent index − 0x29)
 - `0x002C/0x002D`: sub-script load (scripts 1–40)
 - `0x2013`: add dialog line
+- `0x2019`: play dialogue voice (1 param = voice id). See "Dialogue Voice Format" below.
 - `0x0020/0x0021/0x0022`: conditional branch on RegByteA/RegByteB flags
+
+### Dialogue Voice Format (0x2019 → CM5100.DAT / CM5200.DAT)
+
+`Command2019_PlayVoice?` @ `0x8001ffb4` calls `FUN_80031478(voice_id)`:
+
+- `voice_id < 10000` → **CM5100.DAT**, index = `voice_id` (2552 voices, ids 0–2551)
+- `voice_id ≥ 10000` → **CM5200.DAT**, index = `voice_id − 10000` (56 voices, ids 10000–10055)
+
+Voice index tables live in **CM5000.DAT** (u32 count, then 4-byte entries):
+
+```
+CM5100: count @ 0x800  (=2552), entries @ 0x804, base disc LBA 43518
+CM5200: count @ 0x8000 (=56),   entries @ 0x8004, base disc LBA 190014
+Entry:  u16 start_sector   (low 5 bits = XA channel, 0–31)
+        u16 end_sector     (same channel bits, inclusive)
+```
+
+Audio is **CD-XA ADPCM, mono / 18900 Hz / 4-bit**, stored as a 32-channel
+interleaved stream (one channel per sector, 32-sector cycle). A voice occupies
+sectors `start, start+32, … end` → `(end − start)/32 + 1` sectors × 0.21333 s.
+The decoder must keep the ADPCM predictor history across all sectors of a voice.
+
+`dumpsxiso` output (`rom/CM51xx.DAT`) is 2336 bytes/sector:
+`8-byte XA subheader + 2324 B Mode2 user data + 4 B EDC`; only the first
+2304 B (18 × 128-byte sound groups) are ADPCM. Extractor: `tools/extract_voices.py`.
 
 ### Flat Offset-Indexed Collection (GetSubContentOffset)
 
