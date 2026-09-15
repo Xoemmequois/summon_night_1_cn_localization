@@ -1,1 +1,4 @@
 *.wav
+.venv/
+*.npz
+__pycache__/

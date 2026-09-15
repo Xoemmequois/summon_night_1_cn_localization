@@ -29,10 +29,14 @@ dotnet run --project ..\romhack_csharp
 ruby analyze_script3.rb [script_id]      # default id=3
 ruby batch_analyze.rb                    # all reachable scripts 1-40
 
-# Extract all dialogue voices (CWD: repo root)
-python tools/extract_voices.py            # CM5100+CM5200 -> voices/*.wav + voices.json
-python tools/extract_voices.py --dry-run  # list voices without decoding
-python tools/extract_voices.py --ids 0,1  # subset
+# Voice / TTS dataset (tools live in voices/tools/, venv at voices/.venv)
+# See voices/README.md for the full guide.
+voices/.venv/Scripts/python voices/tools/build_voice_dataset.py --character リブレ
+    # extract from ROM -> voices/dataset/<char>/ : 32 kHz mono wavs + metadata.csv + list.txt
+voices/.venv/Scripts/python voices/tools/rebuild_wavs.py --list voices/dataset/リブレ/list_matched_clean.txt --out voices/dataset/リブレ --abs-list voices/dataset/リブレ/list_abs.txt
+    # rebuild wavs from the training list alone (file name encodes bank + voice id)
+# The training list voices/dataset/リブレ/list_matched_clean.txt holds text taken from
+# CM1100 script lines, corrected once against ASR; that correction pass is not kept as a tool.
 ```
 
 ## Summon Night File Formats
@@ -120,30 +124,43 @@ The opcode table is split into three ranges: `0x00xx` (basic ops), `0x10xx` (ext
 - `0x2019`: play dialogue voice (1 param = voice id). See "Dialogue Voice Format" below.
 - `0x0020/0x0021/0x0022`: conditional branch on RegByteA/RegByteB flags
 
-### Dialogue Voice Format (0x2019 → CM5100.DAT / CM5200.DAT)
+### Dialogue Voice Format (0x2019 → CM5100/CM5101/CM5102)
 
-`Command2019_PlayVoice?` @ `0x8001ffb4` calls `FUN_80031478(voice_id)`:
-
-- `voice_id < 10000` → **CM5100.DAT**, index = `voice_id` (2552 voices, ids 0–2551)
-- `voice_id ≥ 10000` → **CM5200.DAT**, index = `voice_id − 10000` (56 voices, ids 10000–10055)
-
-Voice index tables live in **CM5000.DAT** (u32 count, then 4-byte entries):
+`Command2019_PlayVoice?` @ `0x8001ffb4` calls `FUN_80031478(voice_id)`.
+**The voice id space is per bank, and the bank is chosen by the id of the script
+currently loaded** — `Command002C param` queues a `0x002D param` trampoline
+(`ptrCommandBaseAddr + 0x7fec`), and `0x002D` → `FUN_800312a8(param)` loads the
+bank (`CdSearchFile` over the filename table at `0x8008df6c`):
 
 ```
-CM5100: count @ 0x800  (=2552), entries @ 0x804, base disc LBA 43518
-CM5200: count @ 0x8000 (=56),   entries @ 0x8004, base disc LBA 190014
-Entry:  u16 start_sector   (low 5 bits = XA channel, 0–31)
-        u16 end_sector     (same channel bits, inclusive)
+script id <= 14        CM5100.DAT   table @ CM5000 0x0804, base LBA 43518, 2552 entries
+15 <= script id <= 27  CM5101.DAT   table @ CM5000 0x3004, base LBA 89918, 2448 entries
+script id >= 28        CM5102.DAT   table @ CM5000 0x5804, base LBA 136446, 2526 entries
+voice_id >= 10000      CM5200.DAT   table @ CM5000 0x8004, base LBA 190014,   56 entries
 ```
 
-Audio is **CD-XA ADPCM, mono / 18900 Hz / 4-bit**, stored as a 32-channel
-interleaved stream (one channel per sector, 32-sector cycle). A voice occupies
-sectors `start, start+32, … end` → `(end − start)/32 + 1` sectors × 0.21333 s.
-The decoder must keep the ADPCM predictor history across all sectors of a voice.
+The loaded bank's table replaces the one at `0x801b8004`, so the *same numeric
+voice id means different audio in different chapters* — ignoring the bank makes
+script attribution look ~50% self-contradictory; with it, >99% of ids are
+single-speaker.
 
-`dumpsxiso` output (`rom/CM51xx.DAT`) is 2336 bytes/sector:
-`8-byte XA subheader + 2324 B Mode2 user data + 4 B EDC`; only the first
-2304 B (18 × 128-byte sound groups) are ADPCM. Extractor: `tools/extract_voices.py`.
+Entry: `u16 start_sector` (low 5 bits = XA channel 0–31), `u16 end_sector`
+(inclusive). Audio is **CD-XA ADPCM, mono / 18900 Hz / 4-bit**, one channel per
+sector in a 32-sector cycle; a voice spans `start, start+32, … end` →
+`(end − start)/32 + 1` sectors × 0.21333 s. Predictor history continues across
+sectors. `dumpsxiso` output is 2336 B/sector: 8-byte subheader + 2324 B Mode2
+data + 4 B EDC; only the first 2304 B (18 × 128-byte sound groups) are ADPCM.
+
+Speakers come from `0x2001` (left portrait) / `0x2002` (right, first param =
+character id) plus `0x2010` (param1: 0 = box right → left speaks, 1 = box left
+→ right speaks). Text comes from `0x2013` ids indexed into the dialog subcontent
+loaded by `0x002F` (subcontent = param + 0x29, default script+0x29). Both must be
+tracked **along the script control flow** (calls/jumps/branches): a linear walk
+leaks subroutine portrait/dialog state.
+
+Tools: `voices/tools/` — `script_parser.py` (CM1100 command parser),
+`build_voice_dataset.py` (bank-aware, CFG-aware per-character TTS dataset),
+`rebuild_wavs.py` (rebuild wavs from a training list + ROM).
 
 ### Flat Offset-Indexed Collection (GetSubContentOffset)
 

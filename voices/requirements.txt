@@ -1,0 +1,7 @@
+# Dependencies of voices/tools/ (build_voice_dataset.py, rebuild_wavs.py, script_parser.py).
+# Only numpy is required.
+#
+# Recreate the venv:
+#   python -m venv .venv
+#   .venv/Scripts/pip install -r requirements.txt
+numpy==2.5.3
