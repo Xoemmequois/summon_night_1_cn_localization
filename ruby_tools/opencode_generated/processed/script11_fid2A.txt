@@ -54,7 +54,7 @@
 
 --- Group [left:none next=0023] ---G
 ・・・で、彼は？
-+[FID:2A, TEXT:0011] ……那，他人呢？
++[FID:2A, TEXT:0011] ……那个，他人呢？
 
 --- Group [left:none next=2012] ---G
 すっ、少しだけ！
@@ -70,9 +70,9 @@
 ごはん、半分で
 いいですから・・・
 +[FID:2A, TEXT:0013] 那个，就一会儿
-+[FID:2A, TEXT:0014] 这段时间，我的
-+[FID:2A, TEXT:0015] 饭，分一半
-+[FID:2A, TEXT:0016] 给他就行……
++[FID:2A, TEXT:0014] 这段时间，我的饭，
++[FID:2A, TEXT:0015] 分一半给他就行……
++[FID:2A, TEXT:0016] 
 
 --- Group [left:none next=0023] ---G
 あの、ところで
@@ -88,9 +88,9 @@
 よっぽどお腹がすいて
 たのねぇ・・・
 すごい食べっぷり
-+[FID:2A, TEXT:001A] 看来是饿坏了
-+[FID:2A, TEXT:001B] 呢……
-+[FID:2A, TEXT:001C] 吃得真香
++[FID:2A, TEXT:001A] 看来是饿坏了呢……
++[FID:2A, TEXT:001B] 吃得真香
++[FID:2A, TEXT:001C] 
 
 --- Group [right:加泽尔 next=2012] ---G
 ちゃんとメシの代金、
@@ -119,8 +119,8 @@
 メシまでごちそうにな
 っちゃってさ
 +[FID:2A, TEXT:0023] 嘿嘿，真不好意思
-+[FID:2A, TEXT:0024] 连饭都
-+[FID:2A, TEXT:0025] 让你请了
++[FID:2A, TEXT:0024] 连饭都让你请了
++[FID:2A, TEXT:0025] 
 
 --- Group [right:none next=2012] ---G
 そう言えば、自己紹介
@@ -195,15 +195,15 @@
 俺っちあんまり、金を
 持ってなくて
 +[FID:2A, TEXT:003B] 嘿嘿，说实话
-+[FID:2A, TEXT:003C] 我其实没带
-+[FID:2A, TEXT:003D] 多少钱
++[FID:2A, TEXT:003C] 我其实没带多少钱
++[FID:2A, TEXT:003D] 
 
 --- Group [right:加泽尔 next=2012] ---G
 なあ、頼むよ
 掃除でもなんでもする
 からさぁ
 +[FID:2A, TEXT:003E] 喂，拜托了
-+[FID:2A, TEXT:003F] 打扫什么的
++[FID:2A, TEXT:003F] 打扫之类的
 +[FID:2A, TEXT:0040] 我什么都干
 
 --- Group [left:none next=0023] ---G
@@ -273,8 +273,8 @@
 思いますけど・・・
 +[FID:2A, TEXT:0054] 那个，加泽尔先生
 +[FID:2A, TEXT:0055] ……我觉得这好像
-+[FID:2A, TEXT:0056] 不太值得
-+[FID:2A, TEXT:0057] 骄傲吧……
++[FID:2A, TEXT:0056] 不太值得骄傲吧……
++[FID:2A, TEXT:0057] 
 
 --- Group [left:加泽尔 next=2012] ---G
 ・・・と、とにかくっ
@@ -317,8 +317,8 @@
 だから、ちょっとだけ
 待ってろよ
 +[FID:2A, TEXT:0064] 我知道啦！
-+[FID:2A, TEXT:0065] 所以，稍微
-+[FID:2A, TEXT:0066] 等一下嘛
++[FID:2A, TEXT:0065] 所以，稍微等一下嘛
++[FID:2A, TEXT:0066] 
 
 --- Group [left:莉普蕾 next=2012] ---G
 こ、これでいいの？
@@ -327,8 +327,8 @@
 --- Group [right:金加 next=2012] ---G
 目を閉じて、息を楽に
 して・・・
-+[FID:2A, TEXT:0068] 闭上眼睛，放松呼吸…
-+[FID:2A, TEXT:0069] …做吧……
++[FID:2A, TEXT:0068] 闭上眼睛，
++[FID:2A, TEXT:0069] 放松呼吸……
 
 --- Group [right:金加 next=2012] ---G
 ハアァァァァ・・・！
@@ -353,8 +353,8 @@
 --- Group [left:加泽尔 next=2012] ---G
 な、なにしやがった
 お前っ！？
-+[FID:2A, TEXT:0070] 你、你干了什么
-+[FID:2A, TEXT:0071] 啊！？
++[FID:2A, TEXT:0070] 你、你干了什么啊！？
++[FID:2A, TEXT:0071] 
 
 --- Group [right:雷德 next=2012] ---G
 ほう、【ストラ】か
@@ -373,16 +373,16 @@
 --- Group [right:雷德 next=2012] ---G
 えへへ、うまいメシを
 作ってくれたお礼さ
-+[FID:2A, TEXT:0076] 嘿嘿，算是你
-+[FID:2A, TEXT:0077] 做了顿好饭的谢礼啦
++[FID:2A, TEXT:0076] 嘿嘿，这算是
++[FID:2A, TEXT:0077] 请我吃美食的谢礼啦！
 
 --- Group [right:雷德 next=2012] ---G
 金のかわりにはならな
 いだろうけど、勘弁し
 てくれよな
 +[FID:2A, TEXT:0078] 虽然可能抵不上钱，
-+[FID:2A, TEXT:0079] 但你就
-+[FID:2A, TEXT:007A] 将就一下吧
++[FID:2A, TEXT:0079] 但你就将就一下吧
++[FID:2A, TEXT:007A] 
 
 --- Group [left:主人公 next=2012] ---G
 そんなことないって！

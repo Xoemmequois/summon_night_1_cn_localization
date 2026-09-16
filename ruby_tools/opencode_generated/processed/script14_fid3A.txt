@@ -191,8 +191,8 @@
 この世界に来たんじゃ
 ないですか！？
 +[FID:3A, TEXT:003E] 是因为被召唤师召唤
-+[FID:3A, TEXT:003F] 才来到这个世界
-+[FID:3A, TEXT:0040] 的对吧！？
++[FID:3A, TEXT:003F] 才来到这个世界的
++[FID:3A, TEXT:0040] 对吧！？
 
 --- Group [left:none next=2012] ---G
 ！？
@@ -341,13 +341,13 @@
 --- Group [left:none next=0023] ---G
 同じ悲しみを繰り返さ
 ないための戦いです
-+[FID:3A, TEXT:006D] 为了不让同样的悲伤
++[FID:3A, TEXT:006D] 为了不让同样的悲剧
 +[FID:3A, TEXT:007C] 再次重演而战斗
 
 --- Group [left:none next=0023] ---G
 同じ悲しみを繰り返さ
 ないために・・・
--[FID:3A, TEXT:006D] 为了不让同样的悲伤
+-[FID:3A, TEXT:006D] 为了不让同样的悲剧
 +[FID:3A, TEXT:006E] 再次重演……
 
 --- Group [left:none next=2012] ---G
@@ -367,7 +367,7 @@
 --- Group [left:none next=0023] ---G
 もうおんなじ悲しみ、
 繰り返しちゃだめなの
-+[FID:3A, TEXT:0074] 不能再让同样的悲伤
++[FID:3A, TEXT:0074] 不能再让同样的悲剧
 +[FID:3A, TEXT:0075] 重演了
 
 --- Group [left:none next=2012] ---G
@@ -389,7 +389,7 @@
 --- Group [right:none next=2012] ---G
 悲しみを繰り返さない
 ために・・・
-+[FID:3A, TEXT:007D] 为了不让悲伤
++[FID:3A, TEXT:007D] 为了不让悲剧
 +[FID:3A, TEXT:007E] 重演……
 
 --- Group [right:斯沃恩 next=2012] ---G

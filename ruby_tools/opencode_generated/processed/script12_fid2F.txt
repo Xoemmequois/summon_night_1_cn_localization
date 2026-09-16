@@ -48,23 +48,23 @@
 みんな・・・今なに
 やってるのかなぁ
 なんて思ったり
-+[FID:2F, TEXT:0010] 大家……现在在做什么
-+[FID:2F, TEXT:0011] 呢心里想着
-+[FID:2F, TEXT:0012] 之类的事情
++[FID:2F, TEXT:0010] 只是突然想到
++[FID:2F, TEXT:0011] 大家……现在
++[FID:2F, TEXT:0012] 在做什么呢
 
 --- Group [left:主人公 next=2012] ---G
 いえ、向こうの世界の
 ことを、考えていたら
 ぼうっとして・・・
 +[FID:2F, TEXT:0013] 不，想到那边的世界
-+[FID:2F, TEXT:0014] 的事情，就
-+[FID:2F, TEXT:0015] 发呆了……
++[FID:2F, TEXT:0014] 的事情，就发呆了……
++[FID:2F, TEXT:0015] 
 
 --- Group [left:none next=0023] ---G
 みんな、元気にして
 いるかなって・・・
-+[FID:2F, TEXT:0016] 大家，是否都还好
-+[FID:2F, TEXT:0017] 呢……
++[FID:2F, TEXT:0016] 大家，是否都还好呢……
++[FID:2F, TEXT:0017] 
 
 --- Group [right:none next=2012] ---G
 帰る方法は、
@@ -88,9 +88,9 @@
 いえ、全く
 見つかりません・・・
 いまのところ・・・
-+[FID:2F, TEXT:001D] 不，完全
-+[FID:2F, TEXT:001E] 找不到……
-+[FID:2F, TEXT:001F] 目前来说……
++[FID:2F, TEXT:001D] 不，完全找不到……
++[FID:2F, TEXT:001E] 目前为止……
++[FID:2F, TEXT:001F] 
 
 --- Group [right:none next=0023] ---G
 ソルと、
@@ -113,8 +113,8 @@
 したほうがいいのかも
 しれないな
 +[FID:2F, TEXT:0024] 或许还是该好好
-+[FID:2F, TEXT:0025] 商量一下
-+[FID:2F, TEXT:0026] 呢
++[FID:2F, TEXT:0025] 商量一下呢
++[FID:2F, TEXT:0026] 
 
 --- Group [left:none next=0023] ---G
 ソルさんとですか・・
@@ -209,16 +209,16 @@
 がんばってるみたい
 ですよ
 +[FID:2F, TEXT:0041] 他说想成为骑士，
-+[FID:2F, TEXT:0042] 好像很努力
-+[FID:2F, TEXT:0043] 呢
++[FID:2F, TEXT:0042] 好像很努力呢
++[FID:2F, TEXT:0043] 
 
 --- Group [left:none next=0023] ---G
 アルバはずいぶん
 騎士に憧れている
 ようですね
 +[FID:2F, TEXT:0044] 阿尔巴似乎
-+[FID:2F, TEXT:0045] 非常向往骑士
-+[FID:2F, TEXT:0046] 呢
++[FID:2F, TEXT:0045] 非常向往骑士呢
++[FID:2F, TEXT:0046] 
 
 --- Group [left:主人公 next=0023] ---G
 がんばってるんですね
@@ -281,8 +281,8 @@
 金を貯めていくのかを
 相談してたのさ
 +[FID:2F, TEXT:005A] 我们在商量
-+[FID:2F, TEXT:005B] 怎么存钱
-+[FID:2F, TEXT:005C] 来着
++[FID:2F, TEXT:005B] 怎么存钱来着
++[FID:2F, TEXT:005C] 
 
 --- Group [left:主人公 next=0023] ---G
 そんなに苦しいのか？
@@ -382,7 +382,7 @@
 二人はまだ相談してる
 みたいだ
 +[FID:2F, TEXT:007D] 看起来他俩还在商量
-+[FID:2F, TEXT:007E] 看来是这样
++[FID:2F, TEXT:007E] 
 
 --- Group [left:主人公 next=2012] ---G
 二人はまだ相談してる
@@ -538,7 +538,7 @@
 このお手本あげるから
 遊んでばかりいないで
 勉強しなさいよね
-+[FID:2F, TEXT:00A9] 这个范本给你，
++[FID:2F, TEXT:00A9] 这个字帖给你，
 +[FID:2F, TEXT:00AA] 别光顾着玩，
 +[FID:2F, TEXT:00AB] 得好好学啊
 
@@ -573,8 +573,8 @@
 --- Group [right:none next=2012] ---G
 あとはひとりでがんば
 りなさい・・・って
-+[FID:2F, TEXT:00B3] 剩下的自己努力
-+[FID:2F, TEXT:00B4] 吧……她说
++[FID:2F, TEXT:00B3] 剩下的自己努力吧……
++[FID:2F, TEXT:00B4] 她说
 
 --- Group [left:主人公 next=0023] ---G
 しょうがないなぁ
@@ -942,7 +942,7 @@
 二人でなんの話を
 してるんだ
 -[FID:2F, TEXT:011E] 你们两个在聊什么
-+[FID:2F, TEXT:011F] 呢
++[FID:2F, TEXT:011F] 呢？
 
 --- Group [left:主人公 next=0023] ---G
 ねね、なんの話？
@@ -1423,8 +1423,8 @@
 --- Group [right:none next=2012] ---G
 いえ、たしかにそれは
 必要かもしれません
-+[FID:2F, TEXT:01AC] 不，确实那也许是
-+[FID:2F, TEXT:01AD] 有必要的
++[FID:2F, TEXT:01AC] 不，仔细想来，
++[FID:2F, TEXT:01AD] 或许确实有必要
 
 --- Group [right:none next=2012] ---G
 私がわかる範囲でしか
@@ -1609,8 +1609,8 @@
 いるんだって
 +[FID:2F, TEXT:01E8] 什么「嗨」啊
 +[FID:2F, TEXT:01E9] 我说过了吧！？
-+[FID:2F, TEXT:01EA] 这片森林里有凶猛的野
-+[FID:2F, TEXT:01EB] 兽在啊
++[FID:2F, TEXT:01EA] 这片森林里有凶猛的
++[FID:2F, TEXT:01EB] 野兽在啊
 
 --- Group [left:主人公 next=0023] ---G
 ああ、聞いたよ
@@ -1647,7 +1647,7 @@
 どれほどすごい
 獣なのかをね
 +[FID:2F, TEXT:01F5] 我想看看那家伙
-+[FID:2F, TEXT:01F8] 到底有多厉害的
++[FID:2F, TEXT:01F8] 到底是多厉害的
 +[FID:2F, TEXT:01F9] 野兽啊
 
 --- Group [left:none next=0023] ---G
@@ -1655,15 +1655,15 @@
 どれほどすごい獣なの
 かをね
 -[FID:2F, TEXT:01F5] 我想看看那家伙
-+[FID:2F, TEXT:01F6] 到底有多厉害的野兽
-+[FID:2F, TEXT:01F7] 啊
++[FID:2F, TEXT:01F6] 到底是多厉害的野兽啊
++[FID:2F, TEXT:01F7] 
 
 --- Group [left:主人公 next=0023] ---G
 それを見たいなって
 思ったの・・・すごい
 獣なんだよね
 +[FID:2F, TEXT:01FA] 我想看看它……
-+[FID:2F, TEXT:01FB] 听说很厉害的
++[FID:2F, TEXT:01FB] 听说是很厉害的
 +[FID:2F, TEXT:01FC] 野兽对吧
 
 --- Group [left:主人公 next=0023] ---G
@@ -1671,8 +1671,8 @@
 いうのを見てみたくて
 ・・・好奇心が・・・
 +[FID:2F, TEXT:01FD] 那个，我想看看
-+[FID:2F, TEXT:01FE] 你说的那只野兽
-+[FID:2F, TEXT:01FF] ……好奇心……
++[FID:2F, TEXT:01FE] 你说的那只野兽……
++[FID:2F, TEXT:01FF] 有点好奇……
 
 --- Group [right:菲兹 next=2012] ---G
 ・・・！
@@ -1691,8 +1691,8 @@
 冗談なんかじゃないん
 ですよ！
 +[FID:2F, TEXT:0204] 我说的可不是
-+[FID:2F, TEXT:0205] 开玩笑的
-+[FID:2F, TEXT:0206] 啊！
++[FID:2F, TEXT:0205] 开玩笑的啊！
++[FID:2F, TEXT:0206] 
 
 --- Group [right:none next=2012] ---G
 相手はこの森の主とも
@@ -1701,8 +1701,8 @@
 連れてるんですよ！
 +[FID:2F, TEXT:0207] 对方可是被称为
 +[FID:2F, TEXT:0208] 这片森林之主的野兽啊
-+[FID:2F, TEXT:0209] 还带着很多
-+[FID:2F, TEXT:020A] 手下呢！
++[FID:2F, TEXT:0209] 还带着很多手下呢！
++[FID:2F, TEXT:020A] 
 
 --- Group [right:菲兹 next=2012] ---G
 囲まれてしまったら、
@@ -1718,15 +1718,15 @@
 来てるんだ？
 +[FID:2F, TEXT:020E] 那你为什么
 +[FID:2F, TEXT:020F] 一个人来这种地方？
-+[FID:2F, TEXT:0210] 你来了吗？
++[FID:2F, TEXT:0210] 
 
 --- Group [left:主人公 next=0023] ---G
 だったらさ、なんで
 スウォンはこんな所に
 ひとりでいるの？
-+[FID:2F, TEXT:0211] 那为什么
-+[FID:2F, TEXT:0212] 斯沃恩会一个人
-+[FID:2F, TEXT:0213] 在这里？
++[FID:2F, TEXT:0211] 那为什么斯沃恩
++[FID:2F, TEXT:0212] 会一个人在这里？
++[FID:2F, TEXT:0213] 
 
 --- Group [left:主人公 next=2012] ---G
 ・・・ごめんなさい
@@ -1739,8 +1739,8 @@
 いるんですよ？
 +[FID:2F, TEXT:0215] 可是，斯沃恩君
 +[FID:2F, TEXT:0216] 不也是一个人
-+[FID:2F, TEXT:0217] 来了这种
-+[FID:2F, TEXT:0218] 地方吗？
++[FID:2F, TEXT:0217] 来了这种地方吗？
++[FID:2F, TEXT:0218] 
 
 --- Group [right:菲兹 next=2012] ---G
 ・・・っ
@@ -1780,7 +1780,7 @@
 なにか理由があるんじ
 ゃないのかい？
 +[FID:2F, TEXT:0223] 是不是有什么理由啊？
-+[FID:2F, TEXT:0224] 不是吗？
++[FID:2F, TEXT:0224] 
 
 --- Group [left:主人公 next=0023] ---G
 なんかワケあり？
@@ -1865,10 +1865,10 @@
 森に慣れていても
 やっぱり、ひとりじゃ
 危険ですよ・・・
-+[FID:2F, TEXT:023B] 就算你再熟悉
-+[FID:2F, TEXT:023C] 森林
-+[FID:2F, TEXT:023D] 果然一个人还是
-+[FID:2F, TEXT:023E] 太危险了……
++[FID:2F, TEXT:023B] 就算你再熟悉森林
++[FID:2F, TEXT:023C] 果然一个人还是
++[FID:2F, TEXT:023D] 太危险了……
++[FID:2F, TEXT:023E] 
 
 --- Group [right:菲兹 next=2012] ---G
 ・・・駄目なんです
@@ -1880,7 +1880,7 @@
 できるじゃないか？
 +[FID:2F, TEXT:0241] 为什么啊
 -[FID:2F, TEXT:0242] 狩猎的话去别的地方
-+[FID:2F, TEXT:0243] 不是能做到吗？
++[FID:2F, TEXT:0243] 不也可以吗？
 
 --- Group [left:none next=0023] ---G
 どうしてだい
@@ -1888,7 +1888,7 @@
 できるだろう？
 +[FID:2F, TEXT:0244] 为什么啊
 -[FID:2F, TEXT:0242] 狩猎的话去别的地方
-+[FID:2F, TEXT:0245] 能做到吧？
++[FID:2F, TEXT:0245] 也可以吧？
 
 --- Group [left:none next=0023] ---G
 なんで？
@@ -1981,8 +1981,8 @@
 姿に・・・！！
 +[FID:2F, TEXT:0263] 我绝不原谅！
 +[FID:2F, TEXT:0264] 父亲，我最爱的父亲
-+[FID:2F, TEXT:0265] 竟然变成了那副样子…
-+[FID:2F, TEXT:0266] …！！
++[FID:2F, TEXT:0265] 竟然变成了那副
++[FID:2F, TEXT:0266] 样子……！！
 
 --- Group [right:none next=2012] ---G
 絶対に復讐してやる
@@ -1990,7 +1990,7 @@
 仇をとってやる・・・
 +[FID:2F, TEXT:0267] 我一定要复仇
 +[FID:2F, TEXT:0268] 用这把父亲的弓
-+[FID:2F, TEXT:0269] 为你报仇……
++[FID:2F, TEXT:0269] 为他报仇……
 
 --- Group [left:none next=2012] ---G
 事情はわかったよ
@@ -2187,7 +2187,7 @@
 守るくらいの助けなら
 できると思うんだ
 +[FID:2F, TEXT:0299] 但至少帮你
-+[FID:2F, TEXT:029A] 守护后背
++[FID:2F, TEXT:029A] 守护背后
 +[FID:2F, TEXT:029B] 还是能做到的
 
 --- Group [left:主人公 next=0023] ---G
@@ -2195,7 +2195,7 @@
 の助けなら、できると
 思う
 +[FID:2F, TEXT:029F] 我想至少帮你
-+[FID:2F, TEXT:02A0] 守护后背
++[FID:2F, TEXT:02A0] 守护背后
 +[FID:2F, TEXT:02A1] 还是能做得到的
 
 --- Group [left:主人公 next=2012] ---G
@@ -2251,7 +2251,7 @@
 の助けなら、できると
 思いますよ
 +[FID:2F, TEXT:02B4] 但至少帮你
--[FID:2F, TEXT:02A0] 守护后背
+-[FID:2F, TEXT:02A0] 守护背后
 +[FID:2F, TEXT:02B5] 我觉得还是能做到的
 
 --- Group [left:none next=0023] ---G

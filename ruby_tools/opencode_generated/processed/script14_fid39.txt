@@ -99,8 +99,8 @@
 みなさんに迷惑をかけ
 てしまって・・・
 +[FID:39, TEXT:0020] 是我不好
-+[FID:39, TEXT:0021] 给大家添了
-+[FID:39, TEXT:0022] 麻烦……
++[FID:39, TEXT:0021] 给大家添了麻烦……
++[FID:39, TEXT:0022] 
 
 --- Group [right:斯沃恩 next=2012] ---G
 本当にごめんなさい
@@ -109,8 +109,8 @@
 --- Group [left:none next=2012] ---G
 ガゼルの言うとおりだ
 よ、スウォン？
-+[FID:39, TEXT:0024] 加泽尔说得对
-+[FID:39, TEXT:0025] 哦，斯沃恩？
++[FID:39, TEXT:0024] 加泽尔说得对哦，
++[FID:39, TEXT:0025] 斯沃恩？
 
 --- Group [left:none next=0023] ---G
 勝てたから良かったけ
@@ -147,8 +147,8 @@
 ガゼルの言うとおり
 なんだからね！
 +[FID:39, TEXT:002B] 斯沃恩！
-+[FID:39, TEXT:002C] 加泽尔说得
-+[FID:39, TEXT:002D] 对的啊！
++[FID:39, TEXT:002C] 加泽尔说得对啊！
++[FID:39, TEXT:002D] 
 
 --- Group [left:none next=0023] ---G
 もしあそこで
@@ -163,8 +163,8 @@
 --- Group [left:none next=2012] ---G
 ガゼルさんの言う
 とおりですよ・・・
-+[FID:39, TEXT:0032] 加泽尔先生说得
-+[FID:39, TEXT:0033] 对……
++[FID:39, TEXT:0032] 加泽尔先生说得对……
++[FID:39, TEXT:0033] 
 
 --- Group [right:none next=2012] ---G
 ・・・はい
@@ -184,7 +184,7 @@
 ってもんだ、うん
 +[FID:39, TEXT:0039] 这样一来我们也能
 +[FID:39, TEXT:003A] 安心来这片森林了
-+[FID:39, TEXT:003B] 嗯
++[FID:39, TEXT:003B] 
 
 --- Group [right:none next=2012] ---G
 いや、そうはさせて
@@ -411,8 +411,8 @@
 --- Group [right:斯沃恩 next=2012] ---G
 残念ですが、まだ無理
 みたいです
-+[FID:39, TEXT:0076] 很遗憾，好像
-+[FID:39, TEXT:0077] 还不行
++[FID:39, TEXT:0076] 很遗憾，好像还不行
++[FID:39, TEXT:0077] 
 
 --- Group [left:none next=2012] ---G
 クラレット？
