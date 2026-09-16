@@ -1,0 +1,10 @@
+{
+  "speakers": {
+    "lipre": { "side": "right", "char_id": 21 },
+    "hero":  { "side": "left",  "char_id": 0 }
+  },
+  "lines": [
+    { "speaker": "lipre", "expr": 2, "text": "诶，原来你的世界\n是这样的啊", "voice": "audio.wav" },
+    { "speaker": "hero",  "expr": 0, "text": "你是谁" }
+  ]
+}

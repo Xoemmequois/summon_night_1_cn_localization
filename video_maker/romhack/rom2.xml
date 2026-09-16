@@ -1,0 +1,26 @@
+<iso_project image_name="mkpsxiso.bin" cue_sheet="mkpsxiso.cue">
+    <track type="data">
+        <identifiers system="PLAYSTATION" application="PLAYSTATION" creation_date="1999112500000000+0"/>
+        <license file="rom/license_data.dat"/>
+        <default_attributes gmt_offs="36" xa_attrib="32" xa_perm="1365" xa_gid="0" xa_uid="0"/>
+        <directory_tree gmt_offs="0">
+            <file name="SYSTEM.CNF" source="rom/SYSTEM.CNF" type="data"/>
+            <file name="SLPS_025.42" source="rom/SLPS_025.42.mod2" type="data"/>
+            <file name="CM1000.DAT" source="rom/CM1000.DAT" type="data"/>
+            <file name="CM1100.DAT" source="rom/CM1100.DAT.mod2" type="data"/>
+            <file name="CM5000.DAT" source="rom/CM5000.DAT" type="data"/>
+            <file name="CM1200.DAT" source="rom/CM1200.DAT.mod" type="data"/>
+            <file name="CM2000.DAT" source="rom/CM2000.DAT.mod2" type="data"/>
+            <file name="CM4000.DAT" source="rom/CM4000.DAT" type="data"/>
+            <file name="CM3000.DAT" source="rom/CM3000.DAT.mod2" type="data"/>
+            <file name="CM5100.DAT" source="rom/CM5100.DAT" type="mixed"/>
+            <file name="CM5101.DAT" source="rom/CM5101.DAT" type="mixed"/>
+            <file name="CM5102.DAT" source="rom/CM5102.DAT" type="mixed"/>
+            <file name="CM5200.DAT" source="rom/CM5200.DAT" type="mixed"/>
+            <file name="CM5300.DAT" source="rom/CM5300.DAT" type="mixed"/>
+            <file name="CM5301.DAT" source="rom/CM5301.DAT" type="mixed"/>
+            <file name="C.F" source="rom/chinese.fnt" type="data"/>
+            <file name="S.F" source="rom/S.F" type="data"/>
+        </directory_tree>
+    </track>
+</iso_project>
