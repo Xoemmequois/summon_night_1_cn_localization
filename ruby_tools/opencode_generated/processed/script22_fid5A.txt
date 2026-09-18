@@ -403,8 +403,8 @@
 犠牲を認めたくは
 ないんだ
 +[FID:5A, TEXT:0070] 但是，即便如此
-+[FID:5A, TEXT:0071] 我也不想承认
-+[FID:5A, TEXT:0072] 牺牲啊
++[FID:5A, TEXT:0071] 我也不想承认牺牲啊
++[FID:5A, TEXT:0072] 
 
 --- Group [right:雷德 next=2012] ---G
 甘い、だろうか？
@@ -419,16 +419,16 @@
 わたしはレイドさん
 のこと、信じてます
 +[FID:5A, TEXT:0075] 但是……
-+[FID:5A, TEXT:0085] 我是信任雷德先生
-+[FID:5A, TEXT:0086] 的
++[FID:5A, TEXT:0085] 我是信任雷德先生的
++[FID:5A, TEXT:0086] 
 
 --- Group [left:主人公 next=2012] ---G
 でも・・・
 俺はレイドの考えを
 信じたいよ
 -[FID:5A, TEXT:0075] 但是……
-+[FID:5A, TEXT:0076] 我想相信雷德的
-+[FID:5A, TEXT:0077] 想法
++[FID:5A, TEXT:0076] 我想相信雷德的想法
++[FID:5A, TEXT:0077] 
 
 --- Group [left:主人公 next=2012] ---G
 でも・・・
@@ -443,8 +443,8 @@
 僕はレイドの考えを
 信じたいよ
 -[FID:5A, TEXT:0075] 但是……
-+[FID:5A, TEXT:007C] 我想相信雷德的
--[FID:5A, TEXT:0077] 想法
++[FID:5A, TEXT:007C] 我想相信雷德的想法
+-[FID:5A, TEXT:0077] 
 
 --- Group [left:主人公 next=0023] ---G
 どうせ幸せになるの
@@ -539,8 +539,8 @@
 やるぜ！！
 +[FID:5A, TEXT:0099] 切！
 +[FID:5A, TEXT:009A] 敢做那种恶心事
-+[FID:5A, TEXT:009B] 的话，就踹飞
-+[FID:5A, TEXT:009C] 他！！
++[FID:5A, TEXT:009B] 的话，就踹飞他！！
++[FID:5A, TEXT:009C] 
 
 --- Group [left:主人公 next=0023] ---G
 それじゃ、意味ないと
@@ -579,10 +579,10 @@
 したことが、あいつを
 逆に苦しめてしまった
 んだな
-+[FID:5A, TEXT:00A8] 想着雷德而做的
-+[FID:5A, TEXT:00A9] 事，反而让他
-+[FID:5A, TEXT:00AA] 更加痛苦了
-+[FID:5A, TEXT:00AB] 啊
++[FID:5A, TEXT:00A8] 想着雷德而做的事，
++[FID:5A, TEXT:00A9] 反而让他
++[FID:5A, TEXT:00AA] 更加痛苦了啊
++[FID:5A, TEXT:00AB] 
 
 --- Group [left:主人公 next=0023] ---G
 できればこれ以上、
@@ -627,8 +627,8 @@
 は、とても悲しいこと
 だからな・・・
 +[FID:5A, TEXT:00BA] 亲近的人们彼此争斗
-+[FID:5A, TEXT:00BB] 是很可悲的事
-+[FID:5A, TEXT:00BC] 啊……
++[FID:5A, TEXT:00BB] 是很可悲的事啊……
++[FID:5A, TEXT:00BC] 
 
 --- Group [right:莉普蕾 next=2012] ---G
 貴方たちが、この街を
@@ -653,8 +653,8 @@
 たかったのはレイドの
 心だったんだから
 +[FID:5A, TEXT:00C4] 而且我真正想救
-+[FID:5A, TEXT:00C5] 的是雷德的
-+[FID:5A, TEXT:00C6] 心啊
++[FID:5A, TEXT:00C5] 的是雷德的心啊
++[FID:5A, TEXT:00C6] 
 
 --- Group [left:主人公 next=2012] ---G
 感謝してほしくてした
@@ -669,18 +669,18 @@
 たかったのはレイドの
 心だったんだから
 +[FID:5A, TEXT:00C9] 而且我真正想救
--[FID:5A, TEXT:00C5] 的是雷德的
--[FID:5A, TEXT:00C6] 心啊
+-[FID:5A, TEXT:00C5] 的是雷德的心啊
+-[FID:5A, TEXT:00C6] 
 
 --- Group [left:主人公 next=2012] ---G
 え〜、でもねぇ
 別に誰かに感謝された
 くてやったわけじゃ
 ないし
-+[FID:5A, TEXT:00CA] 哎呀，不过
++[FID:5A, TEXT:00CA] 欸〜，不过
 +[FID:5A, TEXT:00CB] 又不是因为想被
-+[FID:5A, TEXT:00CC] 谁感谢才去
-+[FID:5A, TEXT:00CD] 做的啦
++[FID:5A, TEXT:00CC] 谁感谢才去做的啦
++[FID:5A, TEXT:00CD] 
 
 --- Group [left:主人公 next=0023] ---G
 あたしは、あくまで
@@ -722,9 +722,9 @@
 こんなにがんばってる
 貴方たちのこと、誰も
 知らないなんて・・・
-+[FID:5A, TEXT:00DB] 你们这么努力
-+[FID:5A, TEXT:00DC] 的事，竟然谁
-+[FID:5A, TEXT:00DD] 都不知道……
++[FID:5A, TEXT:00DB] 你们明明这么努力，
++[FID:5A, TEXT:00DC] 却根本没有人
++[FID:5A, TEXT:00DD] 知道……
 
 --- Group [left:主人公 next=0023] ---G
 リプレ・・・
@@ -976,8 +976,8 @@
 が専門だったんだろう
 なあ・・・
 +[FID:5A, TEXT:012F] 大概，原本那个
-+[FID:5A, TEXT:0130] 才是她的专长
-+[FID:5A, TEXT:0131] 吧……
++[FID:5A, TEXT:0130] 才是她的专长吧……
++[FID:5A, TEXT:0131] 
 
 --- Group [left:主人公 next=0023] ---G
 専門って？
@@ -1044,19 +1044,19 @@
 --- Group [left:主人公 next=2012] ---G
 街からずうっと歩きっ
 ぱなしだったからな
-+[FID:5A, TEXT:0146] 从镇上一直走着
++[FID:5A, TEXT:0146] 从城里一直走着
 +[FID:5A, TEXT:0147] 就没停过呀
 
 --- Group [left:主人公 next=2012] ---G
 街からずうっと歩きっ
 ぱなしだったからね
--[FID:5A, TEXT:0146] 从镇上一直走着
+-[FID:5A, TEXT:0146] 从城里一直走着
 +[FID:5A, TEXT:014A] 就没停过呢
 
 --- Group [left:主人公 next=2012] ---G
 街からずうっと歩きっ
 ぱなしだったもんね
--[FID:5A, TEXT:0146] 从镇上一直走着
+-[FID:5A, TEXT:0146] 从城里一直走着
 +[FID:5A, TEXT:014B] 就没停过嘛
 
 --- Group [left:主人公 next=0023] ---G
@@ -1233,8 +1233,8 @@
 さいわい、アタシたち
 の格好はこの世界の人
 とかわんなかったから
-+[FID:5A, TEXT:0180] 幸好，我们的
-+[FID:5A, TEXT:0181] 打扮和这个世界的人
++[FID:5A, TEXT:0180] 幸好，我们的打扮
++[FID:5A, TEXT:0181] 和这个世界的人
 +[FID:5A, TEXT:0182] 没什么两样
 
 --- Group [right:茜 next=2012] ---G
