@@ -307,13 +307,13 @@
 --- Group [right:none next=2012] ---G
 何もしないで、彼らを
 見捨てたんじゃない
-+[FID:49, TEXT:0044] 什么都没做
++[FID:49, TEXT:0044] 并不是什么都没做
 -[FID:49, TEXT:0034] 抛弃了他们
 
 --- Group [right:none next=2012] ---G
 何もしないで、彼らを
 見捨てたわけじゃない
--[FID:49, TEXT:0044] 什么都没做
+-[FID:49, TEXT:0044] 并不是什么都没做
 +[FID:49, TEXT:0051] 就抛弃了他们
 
 --- Group [left:none next=0023] ---G
@@ -384,9 +384,9 @@
 ラムダ先輩を変えてし
 まったのは、私の責任
 なんだよ
-+[FID:49, TEXT:005F] 让拉姆达前辈变成那样
-+[FID:49, TEXT:0060] 的是我的责任
-+[FID:49, TEXT:0061] 呀
++[FID:49, TEXT:005F] 让拉姆达前辈
++[FID:49, TEXT:0060] 变成那样
++[FID:49, TEXT:0061] 是我的责任呀
 
 --- Group [left:none next=0023] ---G
 え？
@@ -489,10 +489,10 @@
 んだがな
 どうしてレイドは騎士
 を辞めたんだろう？
-+[FID:49, TEXT:0082] 我一直很在意
-+[FID:49, TEXT:0083] 啊
-+[FID:49, TEXT:0084] 为什么雷德会
-+[FID:49, TEXT:0085] 辞去骑士的职务呢？
++[FID:49, TEXT:0082] 我一直很在意啊
++[FID:49, TEXT:0083] 为什么雷德会
++[FID:49, TEXT:0084] 辞去骑士的职务呢？
++[FID:49, TEXT:0085] 
 
 --- Group [left:none next=0023] ---G
 それは、ラムダが騎士
@@ -569,15 +569,15 @@
 暮らしをどう思って
 いるんですか？
 +[FID:49, TEXT:009F] 莉普蕾小姐，现在的
-+[FID:49, TEXT:00A0] 生活你是怎么想的
-+[FID:49, TEXT:00A1] 呢？
++[FID:49, TEXT:00A0] 生活你觉得怎么样？
++[FID:49, TEXT:00A1] 
 
 --- Group [right:none next=2012] ---G
 そうね・・・
 確かに貧乏は辛いし、
 不満ならあるけど
 +[FID:49, TEXT:00A2] 是啊……
-+[FID:49, TEXT:00A3] 确实贫穷很辛苦，
++[FID:49, TEXT:00A3] 确实很贫穷很辛苦，
 +[FID:49, TEXT:00A4] 要说不满的话也有
 
 --- Group [right:none next=2012] ---G
@@ -621,8 +621,8 @@
 --- Group [right:none next=2012] ---G
 うん、やっぱり剣術は
 習いたいもん
-+[FID:49, TEXT:00B2] 嗯，果然剑术
-+[FID:49, TEXT:00B3] 还是想学啊
++[FID:49, TEXT:00B2] 嗯，果然还是
++[FID:49, TEXT:00B3] 想学剑术啊
 
 --- Group [right:none next=2012] ---G
 つらいけど、もう少し
@@ -718,7 +718,7 @@
 いいんだよ？
 +[FID:49, TEXT:00CD] 啊，是真的
 +[FID:49, TEXT:00CE] 所以放心吧
-+[FID:49, TEXT:00CF] 对吧？
++[FID:49, TEXT:00CF] 好吗？
 
 --- Group [left:none next=0023] ---G
 ホントに本当！
@@ -726,7 +726,7 @@
 いいんだから、ね！
 +[FID:49, TEXT:00D0] 真的是真的！
 -[FID:49, TEXT:00CE] 所以放心吧
-+[FID:49, TEXT:00D1] 对吧！
++[FID:49, TEXT:00D1] 好吗！
 
 --- Group [left:none next=0023] ---G
 ええ、本当に・・・
@@ -736,7 +736,7 @@
 
 --- Group [right:none next=2012] ---G
 ・・・（こくん）
-+[FID:49, TEXT:00D4] 默默点头……
++[FID:49, TEXT:00D4] ……（默默点头）
 
 --- Group [right:none next=2012] ---G
 アキュートって連中は
@@ -749,7 +749,7 @@
 別格として、他の三人
 だってかなり強いぜ
 +[FID:49, TEXT:00D7] 那个叫拉姆达的剑士
-+[FID:49, TEXT:00D8] 是另说，其他三人
++[FID:49, TEXT:00D8] 另说，其他三人
 +[FID:49, TEXT:00D9] 也相当强啊
 
 --- Group [left:none next=0023] ---G
@@ -808,9 +808,9 @@
 どうして俺をあそこで
 死なせてくれなかった
 んだ・・・
-+[FID:49, TEXT:00E9] 为什么你不在那里
-+[FID:49, TEXT:00EA] 让我死掉呢
-+[FID:49, TEXT:00EB] ……
++[FID:49, TEXT:00E9] 为什么你不让我
++[FID:49, TEXT:00EA] 在那里死掉呢……
++[FID:49, TEXT:00EB] 
 
 --- Group [right:none next=2012] ---G
 生き恥をさらすくらい
@@ -826,25 +826,25 @@
 ろうって思ってました
 +[FID:49, TEXT:00EF] 我一直以为
 +[FID:49, TEXT:00F0] 街上生活的人很幸福
-+[FID:49, TEXT:00F1] 我是这么想的
++[FID:49, TEXT:00F1] 
 
 --- Group [right:none next=2012] ---G
 けど、違うんですね
-+[FID:49, TEXT:00F2] 但是，不一样呢
++[FID:49, TEXT:00F2] 但是，并不是这样呢
 
 --- Group [right:none next=2012] ---G
 外で暮らしている僕ら
 が、自然の力と戦って
 るように・・・
-+[FID:49, TEXT:00F3] 在外面生活的我们就像
++[FID:49, TEXT:00F3] 就像在外面生活的我们
 +[FID:49, TEXT:00F4] 与自然的力量战斗
 +[FID:49, TEXT:00F5] 一样……
 
 --- Group [right:none next=2012] ---G
 街の人たちは、人の力
 と戦ってるんですね
-+[FID:49, TEXT:00F6] 街上的人们与人的力量
-+[FID:49, TEXT:00F7] 在战斗呢
++[FID:49, TEXT:00F6] 街上的人们也在
++[FID:49, TEXT:00F7] 与人的力量战斗呢
 
 --- Group [left:none next=2012] ---G
 人の力・・・

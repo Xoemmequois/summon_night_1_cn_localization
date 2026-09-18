@@ -141,8 +141,8 @@
 元の世界へ帰っていい
 んでしょうか・・・
 +[FID:3C, TEXT:002A] 我……真的可以就这样
-+[FID:3C, TEXT:002B] 回到原来的世界吗
-+[FID:3C, TEXT:002C] ……
++[FID:3C, TEXT:002B] 回到原来的世界吗……
++[FID:3C, TEXT:002C] 
 
 --- Group [left:主人公 next=2012] ---G
 わたしがきっかけに
@@ -217,8 +217,8 @@
 すごく鋭い目を
 してたんですけど
 -[FID:3C, TEXT:0041] 他用一把大剑，
-+[FID:3C, TEXT:0042] 眼神非常
-+[FID:3C, TEXT:0043] 锐利
++[FID:3C, TEXT:0042] 眼神非常锐利
++[FID:3C, TEXT:0043] 
 
 --- Group [left:none next=0023] ---G
 大きな剣の使い手で、
@@ -368,7 +368,7 @@
 見にいくだけで、買う
 わけじゃないけどね
 +[FID:3C, TEXT:0073] 只是去看看，
-+[FID:3C, TEXT:0074] 又不是要买
++[FID:3C, TEXT:0074] 并不打算买呢
 
 --- Group [right:莉普蕾 next=2012] ---G
 フィズっ
@@ -408,7 +408,7 @@
 
 --- Group [left:主人公 next=0023] ---G
 へえ・・・
-+[FID:3C, TEXT:0081] 哦……
++[FID:3C, TEXT:0081] 欸……
 
 --- Group [left:none next=0023] ---G
 すごい〜・・・尊敬〜
@@ -1037,7 +1037,7 @@
 はアジトのある南とは
 雰囲気が正反対だよな
 +[FID:3C, TEXT:0137] 同样是贫民窟，这里
-+[FID:3C, TEXT:0138] 和有据点的南边
++[FID:3C, TEXT:0138] 和据点所在的南边
 +[FID:3C, TEXT:0139] 气氛完全相反啊
 
 --- Group [left:主人公 next=2012] ---G
@@ -1055,7 +1055,7 @@
 はアジトのある南とは
 雰囲気が正反対だね
 -[FID:3C, TEXT:0137] 同样是贫民窟，这里
--[FID:3C, TEXT:0138] 和有据点的南边
+-[FID:3C, TEXT:0138] 和据点所在的南边
 +[FID:3C, TEXT:0142] 气氛完全相反呢
 
 --- Group [left:主人公 next=2012] ---G
@@ -1063,7 +1063,7 @@
 はアジトのある南とは
 雰囲気が正反対だな
 -[FID:3C, TEXT:0137] 同样是贫民窟，这里
--[FID:3C, TEXT:0138] 和有据点的南边
+-[FID:3C, TEXT:0138] 和据点所在的南边
 +[FID:3C, TEXT:013E] 气氛完全相反啊
 
 --- Group [left:主人公 next=2012] ---G
@@ -1215,20 +1215,20 @@
 --- Group [left:卡农 next=2012] ---G
 そうコワイ顔しないで
 くださいよ
-+[FID:3C, TEXT:016C] 别摆那么可怕的表情
-+[FID:3C, TEXT:016D] 嘛
++[FID:3C, TEXT:016C] 别摆那么可怕的表情嘛
++[FID:3C, TEXT:016D] 
 
 --- Group [left:卡农 next=2012] ---G
 そんなに怒ってばかり
 だと、身体によくない
 ですよ・・・ねえ？
 +[FID:3C, TEXT:016E] 总是那么生气的话
-+[FID:3C, TEXT:016F] 对身体可不好
-+[FID:3C, TEXT:0170] 哦……对吧？
++[FID:3C, TEXT:016F] 对身体可不好哦……
++[FID:3C, TEXT:0170] 是吧？
 
 --- Group [right:主人公 next=0023] ---G
 は、はぁ・・・
-+[FID:3C, TEXT:0171] 是，是嘛……
++[FID:3C, TEXT:0171] 哈，哈啊……
 
 --- Group [right:主人公 next=0023] ---G
 ・・・
@@ -1307,8 +1307,8 @@
 --- Group [right:卡农 next=2012] ---G
 あんまりバノッサさん
 を刺激しないようにね
-+[FID:3C, TEXT:0189] 别太刺激巴诺萨先生
-+[FID:3C, TEXT:018A] 了
++[FID:3C, TEXT:0189] 别太刺激巴诺萨先生了
++[FID:3C, TEXT:018A] 
 
 --- Group [left:主人公 next=0023] ---G
 カノン、か
@@ -1380,16 +1380,16 @@
 を刺激しないでほしい
 って
 +[FID:3C, TEXT:019E] 之前也说过的吧
--[FID:3C, TEXT:0189] 别太刺激巴诺萨先生
-+[FID:3C, TEXT:019F] 了
+-[FID:3C, TEXT:0189] 别太刺激巴诺萨先生了
++[FID:3C, TEXT:019F] 
 +[FID:3C, TEXT:01A0] 
 
 --- Group [right:none next=2012] ---G
 たまたま最初に見つけ
 たのがボクだったから
 よかったですけど
-+[FID:3C, TEXT:01A1] 幸好最先发现
-+[FID:3C, TEXT:01A2] 的是我才没事
++[FID:3C, TEXT:01A1] 幸好最先发现的是我
++[FID:3C, TEXT:01A2] 才没事
 +[FID:3C, TEXT:01A3] 
 
 --- Group [right:char_0041 next=2012] ---G
@@ -1474,13 +1474,13 @@
 君と話をしてみたいな
 って思ったんだ
 +[FID:3C, TEXT:01B6] 我想跟你聊聊
-+[FID:3C, TEXT:01B7] 我是这么想的
++[FID:3C, TEXT:01B7] 
 
 --- Group [left:主人公 next=0023] ---G
 君と話をしてみたいな
 って思ってね
 -[FID:3C, TEXT:01B6] 我想跟你聊聊
-+[FID:3C, TEXT:01B8] 我是这么想的呢
++[FID:3C, TEXT:01B8] 
 
 --- Group [left:none next=0023] ---G
 うん
@@ -1495,26 +1495,26 @@
 のことをどう思ってる
 んでしょうか・・・
 +[FID:3C, TEXT:01BB] 街上的军队对奥普提斯
-+[FID:3C, TEXT:01BC] 是怎么想的呢
--[FID:3C, TEXT:002C] ……
++[FID:3C, TEXT:01BC] 是怎么想的呢……
+-[FID:3C, TEXT:002C] 
 
 --- Group [left:主人公 next=2012] ---G
 街の軍隊はオプテュス
 のことをどう思ってる
 んだろう・・・
 -[FID:3C, TEXT:01BB] 街上的军队对奥普提斯
--[FID:3C, TEXT:01BC] 是怎么想的呢
-+[FID:3C, TEXT:01BD] ……
+-[FID:3C, TEXT:01BC] 是怎么想的呢……
++[FID:3C, TEXT:01BD] 
 
 --- Group [left:主人公 next=0023] ---G
 被害にあってるのは俺
 たちだけじゃないんだ
 し、取り締まったって
 いいと思うけど・・
-+[FID:3C, TEXT:01BE] 受害的不只是我
-+[FID:3C, TEXT:01BF] 们
-+[FID:3C, TEXT:01C0] 我觉得去管一管
-+[FID:3C, TEXT:01C1] 也不过分吧……
++[FID:3C, TEXT:01BE] 受害的不只是我们
++[FID:3C, TEXT:01BF] 我觉得去管一管
++[FID:3C, TEXT:01C0] 也不过分吧……
++[FID:3C, TEXT:01C1] 
 
 --- Group [left:主人公 next=2012] ---G
 う〜ん、軍隊の人たち
@@ -1531,10 +1531,10 @@
 あってるんだから
 取り締まりくらい
 したらいいのに・・
-+[FID:3C, TEXT:01C6] 街上的人们也受害
-+[FID:3C, TEXT:01C7] 了
-+[FID:3C, TEXT:01C8] 哪怕稍微整治
-+[FID:3C, TEXT:01C9] 一下也好啊……
++[FID:3C, TEXT:01C6] 镇上的居民也受害了
++[FID:3C, TEXT:01C7] 哪怕稍微整治
++[FID:3C, TEXT:01C8] 一下也好啊……
++[FID:3C, TEXT:01C9] 
 
 --- Group [left:主人公 next=0023] ---G
 被害にあってる人は
@@ -1589,8 +1589,8 @@
 裏門からですよ
 受付をしてきなさい
 +[FID:3C, TEXT:01D9] 一般市民请从后门
-+[FID:3C, TEXT:01DA] 进出，
-+[FID:3C, TEXT:01DB] 先去办手续吧
++[FID:3C, TEXT:01DA] 进出，先去办手续吧
++[FID:3C, TEXT:01DB] 
 
 --- Group [left:主人公 next=0023] ---G
 あ、いえっ
@@ -1685,8 +1685,8 @@
 よからぬことを企んで
 いたとしたら・・・
 +[FID:3C, TEXT:01F8] 但是，如果这个人
-+[FID:3C, TEXT:01F9] 图谋不轨
-+[FID:3C, TEXT:01FA] 了的话……
++[FID:3C, TEXT:01F9] 图谋不轨的话……
++[FID:3C, TEXT:01FA] 
 
 --- Group [left:伊利亚斯 next=2012] ---G
 サイサリス
@@ -1929,7 +1929,7 @@
 俺っちも知らないんだ
 けどさ
 +[FID:3C, TEXT:0245] 为什么会这样
-+[FID:3C, TEXT:0246] 我也不知道啊
++[FID:3C, TEXT:0246] 我也不清楚就是了
 +[FID:3C, TEXT:0247] 
 
 --- Group [left:none next=0023] ---G

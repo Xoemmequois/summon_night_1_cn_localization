@@ -79,8 +79,8 @@
 -[FID:4F, TEXT:0000] 
 +[FID:4F, TEXT:0008] 　正因为他们知道这点，
 +[FID:4F, TEXT:0009] 　才会温柔地
-+[FID:4F, TEXT:000A] 　关照莫娜蒂他们
-+[FID:4F, TEXT:000B] 　吧……
++[FID:4F, TEXT:000A] 　关照莫娜蒂
++[FID:4F, TEXT:000B] 　他们吧……
 
 --- Group [left:none next=201D] ---G
 
@@ -206,7 +206,7 @@
 -[FID:4F, TEXT:0036] 除了拥有不可思议的
 -[FID:4F, TEXT:0037] 力量之外，好像过着
 -[FID:4F, TEXT:004C] 和人类一样的生活
-+[FID:4F, TEXT:0065] 呢
++[FID:4F, TEXT:0065] 
 
 --- Group [left:none next=0023] ---G
 じゃあ、モナティにも
@@ -311,8 +311,8 @@
 召喚術は、あまり得意
 じゃないんだよ
 +[FID:4F, TEXT:004F] 我对于梅特尔巴的
-+[FID:4F, TEXT:0050] 召唤术，不太拿手
-+[FID:4F, TEXT:0051] 呢
++[FID:4F, TEXT:0050] 召唤术，
++[FID:4F, TEXT:0051] 不太拿手呢
 
 --- Group [left:none next=0023] ---G
 レビットですか？
@@ -347,8 +347,8 @@
 召喚術は、あまり得意
 じゃないのよねー
 +[FID:4F, TEXT:005D] 我对于梅特尔巴的
--[FID:4F, TEXT:0050] 召唤术，不太拿手
-+[FID:4F, TEXT:005E] 呢
+-[FID:4F, TEXT:0050] 召唤术，
++[FID:4F, TEXT:005E] 不太拿手呢
 
 --- Group [left:none next=0023] ---G
 そうなんですか？
@@ -366,9 +366,9 @@
 メイトルパからの召喚
 術は、私、あまり得意
 じゃないんです
-+[FID:4F, TEXT:0067] 来自梅特尔巴的召唤
-+[FID:4F, TEXT:0068] 术，我，不太擅长
-+[FID:4F, TEXT:0069] 呢
++[FID:4F, TEXT:0067] 来自梅特尔巴的
++[FID:4F, TEXT:0068] 召唤术，我，
++[FID:4F, TEXT:0069] 不太擅长呢
 
 --- Group [left:none next=2012] ---G
 モナティに本当のこと
@@ -393,8 +393,8 @@
 いいものか、って
 +[FID:4F, TEXT:006D] 即便是正确的事情，
 +[FID:4F, TEXT:006E] 如果对方不期望的话
-+[FID:4F, TEXT:006F] 也能单方面地强加
-+[FID:4F, TEXT:0070] 于他人吗？
++[FID:4F, TEXT:006F] 也能单方面地
++[FID:4F, TEXT:0070] 强加于他人吗？
 
 --- Group [left:none next=0023] ---G
 アキュートのやろうと
@@ -465,8 +465,8 @@
 また、ガウムとあそべ
 るんだもん・・・
 -[FID:4F, TEXT:0081] 嗯……
-+[FID:4F, TEXT:00D4] 还能跟伽乌姆玩
-+[FID:4F, TEXT:00D5] 嘛……
++[FID:4F, TEXT:00D4] 还能跟伽乌姆玩嘛……
++[FID:4F, TEXT:00D5] 
 
 --- Group [right:none next=2012] ---G
 ああ・・・
@@ -605,16 +605,16 @@
 空中ブランコが一番
 面白かったよ
 +[FID:4F, TEXT:00A7] 我果然还是觉得，
-+[FID:4F, TEXT:00A8] 空中秋千最
-+[FID:4F, TEXT:00A9] 有趣了
++[FID:4F, TEXT:00A8] 空中秋千最有趣了
++[FID:4F, TEXT:00A9] 
 
 --- Group [right:none next=2012] ---G
 どうしたら、あんなに
 すごいことができるの
 かなぁ・・・
 +[FID:4F, TEXT:00AA] 要怎么做，
-+[FID:4F, TEXT:00AB] 才能做到那么厉害
-+[FID:4F, TEXT:00AC] 呢……
++[FID:4F, TEXT:00AB] 才能做到
++[FID:4F, TEXT:00AC] 那么厉害呢……
 
 --- Group [left:none next=2012] ---G
 やっぱり努力をしてる
@@ -689,8 +689,8 @@
 るのか、すっごく興味
 がわいちゃった
 +[FID:4F, TEXT:00C3] 到底是用了什么
-+[FID:4F, TEXT:00C4] 机关，我超级
-+[FID:4F, TEXT:00C5] 感兴趣
++[FID:4F, TEXT:00C4] 机关，我超级感兴趣
++[FID:4F, TEXT:00C5] 
 
 --- Group [right:none next=2012] ---G
 ・・・ねえ
@@ -745,8 +745,8 @@
 --- Group [right:none next=2012] ---G
 はやく、あしたになら
 ないかなぁ・・・
-+[FID:4F, TEXT:00D6] 快点，明天还
-+[FID:4F, TEXT:00D7] 不来吗……
++[FID:4F, TEXT:00D6] 快点，明天
++[FID:4F, TEXT:00D7] 还不来吗……
 
 --- Group [right:none next=2012] ---G
 エドスのおかげでさ、
@@ -778,17 +778,17 @@
 へへへ、これでアニキ
 にも心配かけずに
 すむってもんさ
-+[FID:4F, TEXT:00E0] 嘿嘿，这样一来
-+[FID:4F, TEXT:00E1] 就不用让你
-+[FID:4F, TEXT:00E2] 担心了
++[FID:4F, TEXT:00E0] 嘿嘿，这样一来大哥
++[FID:4F, TEXT:00E1] 就不用担心了
++[FID:4F, TEXT:00E2] 
 
 --- Group [right:none next=2012] ---G
 へへへ、これでアネゴ
 にも心配かけずに
 すむってもんさ
-+[FID:4F, TEXT:00E3] 嘿嘿，这样一来
--[FID:4F, TEXT:00E1] 就不用让你
--[FID:4F, TEXT:00E2] 担心了
++[FID:4F, TEXT:00E3] 嘿嘿，这样一来大姐
+-[FID:4F, TEXT:00E1] 就不用担心了
+-[FID:4F, TEXT:00E2] 
 
 --- Group [left:none next=2012] ---G
 あ、ああ
@@ -799,22 +799,22 @@
 話がまた別な気もする
 んだが・・・
 +[FID:4F, TEXT:00E5] 那个和这个
-+[FID:4F, TEXT:00E8] 感觉是两码事
-+[FID:4F, TEXT:00E9] 啊……
++[FID:4F, TEXT:00E8] 感觉是两码事啊……
++[FID:4F, TEXT:00E9] 
 
 --- Group [left:none next=0023] ---G
 それとこれとは
 話がまた別なんだけど
 なぁ・・・
 -[FID:4F, TEXT:00E5] 那个和这个
-+[FID:4F, TEXT:00E6] 完全不是一回事
-+[FID:4F, TEXT:00E7] 啊……
++[FID:4F, TEXT:00E6] 完全不是一回事啊……
++[FID:4F, TEXT:00E7] 
 
 --- Group [left:none next=0023] ---G
 俺に聞きたいことが
 あるんですって？
-+[FID:4F, TEXT:00EA] 你有话想
-+[FID:4F, TEXT:00EB] 问我？
++[FID:4F, TEXT:00EA] 你有话想问我？
++[FID:4F, TEXT:00EB] 
 
 --- Group [left:none next=0023] ---G
 僕に聞きたいことって
@@ -910,7 +910,7 @@
 だけです
 +[FID:4F, TEXT:010C] 我只是在珍惜
 +[FID:4F, TEXT:010D] 每一个当下
-+[FID:4F, TEXT:010E] 自己的心情罢了
++[FID:4F, TEXT:010E] 自己的心意罢了
 
 --- Group [left:none next=2012] ---G
 その時その時の自分の
@@ -918,7 +918,7 @@
 だけなんですよ
 -[FID:4F, TEXT:010C] 我只是在珍惜
 -[FID:4F, TEXT:010D] 每一个当下
-+[FID:4F, TEXT:0111] 自己的心情罢了
++[FID:4F, TEXT:0111] 自己的心意罢了
 
 --- Group [left:none next=2012] ---G
 その時その時の自分の
@@ -926,7 +926,7 @@
 だけなんです・・・
 -[FID:4F, TEXT:010C] 我只是在珍惜
 -[FID:4F, TEXT:010D] 每一个当下
-+[FID:4F, TEXT:0115] 自己的心情而已……
++[FID:4F, TEXT:0115] 自己的心意而已……
 
 --- Group [left:none next=0023] ---G
 戦っているのは
@@ -1006,33 +1006,33 @@
 なあ、モナティ
 ご主人様って呼ぶのは
 かんべんしてくれよ
-+[FID:4F, TEXT:0125] 喂，莫娜蒂
-+[FID:4F, TEXT:0126] 叫我主人这件事
++[FID:4F, TEXT:0125] 我说，莫娜蒂
++[FID:4F, TEXT:0126] 叫我主人什么的
 +[FID:4F, TEXT:0127] 还是饶了我吧
 
 --- Group [left:none next=0023] ---G
 ねえ、モナティ
 ご主人様って呼ぶのは
 やめてくれよ
-+[FID:4F, TEXT:0128] 喂，莫娜蒂
--[FID:4F, TEXT:0126] 叫我主人这件事
++[FID:4F, TEXT:0128] 那个，莫娜蒂
+-[FID:4F, TEXT:0126] 叫我主人什么的
 +[FID:4F, TEXT:0129] 还是算了吧
 
 --- Group [left:none next=0023] ---G
 ねぇ、モナティ
 ご主人様って呼ぶのは
 かんべんしてくれない
-+[FID:4F, TEXT:012A] 喂，莫娜蒂
--[FID:4F, TEXT:0126] 叫我主人这件事
-+[FID:4F, TEXT:012C] 能饶了我吗
++[FID:4F, TEXT:012A] 那个，莫娜蒂
+-[FID:4F, TEXT:0126] 叫我主人什么的
++[FID:4F, TEXT:012C] 还是饶了我吧
 
 --- Group [left:none next=0023] ---G
 ねぇ、モナティ
 ご主人様って呼ぶのは
 かんべんしてよぉ
--[FID:4F, TEXT:012A] 喂，莫娜蒂
--[FID:4F, TEXT:0126] 叫我主人这件事
-+[FID:4F, TEXT:012B] 还是饶了我吧
+-[FID:4F, TEXT:012A] 那个，莫娜蒂
+-[FID:4F, TEXT:0126] 叫我主人什么的
++[FID:4F, TEXT:012B] 还是饶了我行不行
 
 --- Group [right:none next=2012] ---G
 どうしてですの？
@@ -1040,7 +1040,7 @@
 じゃないですか
 +[FID:4F, TEXT:012D] 为什么呀？
 +[FID:4F, TEXT:012E] 主人就是主人
-+[FID:4F, TEXT:012F] 不是吗
++[FID:4F, TEXT:012F] 不是吗？
 
 --- Group [left:none next=0023] ---G
 と、とにかくっ・・・
@@ -1048,9 +1048,9 @@
 呼び捨てでもなんでも
 いいからさっ！
 +[FID:4F, TEXT:0130] 总、总之……
-+[FID:4F, TEXT:0131] 换个叫法吧
-+[FID:4F, TEXT:0132] 直呼名字也好
-+[FID:4F, TEXT:0133] 什么都行拜托了！
++[FID:4F, TEXT:0131] 换个称呼吧
++[FID:4F, TEXT:0132] 直呼名字也行
++[FID:4F, TEXT:0133] 拜托了！
 
 --- Group [left:none next=0023] ---G
 と、とにかくっ・・・
@@ -1058,8 +1058,8 @@
 呼び捨てでもなんでも
 いいから、ねっ！
 -[FID:4F, TEXT:0130] 总、总之……
--[FID:4F, TEXT:0131] 换个叫法吧
--[FID:4F, TEXT:0132] 直呼名字也好
+-[FID:4F, TEXT:0131] 换个称呼吧
+-[FID:4F, TEXT:0132] 直呼名字也行
 +[FID:4F, TEXT:0136] 什么都好行了吧！
 
 --- Group [left:none next=0023] ---G
@@ -1069,8 +1069,8 @@
 かまわないから
 -[FID:4F, TEXT:0130] 总、总之……
 +[FID:4F, TEXT:0134] 拜托换个叫法吧
--[FID:4F, TEXT:0132] 直呼名字也好
-+[FID:4F, TEXT:0135] 什么都好我不介意
+-[FID:4F, TEXT:0132] 直呼名字也行
++[FID:4F, TEXT:0135] 我不介意的
 
 --- Group [left:none next=0023] ---G
 呼び捨てでもいいから
@@ -1082,70 +1082,70 @@
 
 --- Group [right:none next=2012] ---G
 ・・・わかったですの
-+[FID:4F, TEXT:013A] 明白了……
++[FID:4F, TEXT:013A] ……我知道了
 
 --- Group [right:none next=2012] ---G
 それじゃあ・・・
 これからはマスターっ
 て呼ぶですのっ！
 +[FID:4F, TEXT:013B] 那么……
-+[FID:4F, TEXT:013C] 从今往后就叫你
++[FID:4F, TEXT:013C] 以后就叫你
 +[FID:4F, TEXT:013D] Ｍａｓｔｅｒ啦！
 
 --- Group [left:none next=0023] ---G
 いいっ！？
-+[FID:4F, TEXT:013E] 好！？
++[FID:4F, TEXT:013E] 什么！？
 
 --- Group [left:none next=0023] ---G
 ええっ！？
-+[FID:4F, TEXT:013F] 诶诶！？
++[FID:4F, TEXT:013F] 欸欸！？
 
 --- Group [left:none next=0023] ---G
 ま、マスターですか？
-+[FID:4F, TEXT:0140] 啊，是Ｍａｓｔｅｒ吗？
++[FID:4F, TEXT:0140] 叫、Ｍａｓｔｅｒ吗？
 
 --- Group [right:none next=2012] ---G
 ・・・言ったのに
-+[FID:4F, TEXT:0141] ……我都说过了
++[FID:4F, TEXT:0141] ……明明说过的
 
 --- Group [right:none next=2012] ---G
 他の呼び方だったら、
 なんでもいいって
 言ったのに・・・
-+[FID:4F, TEXT:0142] 只要不是别的叫法、
-+[FID:4F, TEXT:0143] 怎么叫都行
-+[FID:4F, TEXT:0144] 明明说过的……
++[FID:4F, TEXT:0142] 明明说了
++[FID:4F, TEXT:0143] 其他称呼
++[FID:4F, TEXT:0144] 都可以的……
 
 --- Group [left:none next=0023] ---G
 わ、わかった！
 もうそれでいいからっ
 泣くなよ〜っ！？
-+[FID:4F, TEXT:0145] 知、知道了！
-+[FID:4F, TEXT:0146] 就这样吧！
-+[FID:4F, TEXT:0147] 别哭了～！？
++[FID:4F, TEXT:0145] 好、好吧！
++[FID:4F, TEXT:0146] 就这样吧
++[FID:4F, TEXT:0147] 别哭嘛〜！？
 
 --- Group [left:none next=0023] ---G
 わ、わかった！
 もうそれでいいからっ
 泣かないで、ね！
--[FID:4F, TEXT:0145] 知、知道了！
--[FID:4F, TEXT:0146] 就这样吧！
+-[FID:4F, TEXT:0145] 好、好吧！
+-[FID:4F, TEXT:0146] 就这样吧
 +[FID:4F, TEXT:014B] 别哭了，好吗！
 
 --- Group [left:none next=0023] ---G
 わ、わかったよ
 それでいいから、泣く
 のはよしてくれっ！
-+[FID:4F, TEXT:0148] 好、好了啦
++[FID:4F, TEXT:0148] 好、好吧
 +[FID:4F, TEXT:0149] 就这样吧，
-+[FID:4F, TEXT:014A] 别哭了！
++[FID:4F, TEXT:014A] 别哭了行吗！
 
 --- Group [left:none next=0023] ---G
 あ・・・あの・・・
 もうそれでいいからっ
 泣かないで、ね
-+[FID:4F, TEXT:014C] 啊……那个……
--[FID:4F, TEXT:0146] 就这样吧！
++[FID:4F, TEXT:014C] 那……那个……
+-[FID:4F, TEXT:0146] 就这样吧
 +[FID:4F, TEXT:014D] 别哭了，好吗
 
 --- Group [right:none next=2012] ---G
@@ -1156,7 +1156,7 @@
 
 --- Group [left:none next=0023] ---G
 とほほ・・・
-+[FID:4F, TEXT:0150] 哎哟哟……
++[FID:4F, TEXT:0150] 唉……
 
 --- Group [left:none next=0023] ---G
 やれやれ・・・
@@ -1173,16 +1173,16 @@
 みんな悪さをするわけ
 じゃないさ
 +[FID:4F, TEXT:0154] 啊，迷途召唤兽
-+[FID:4F, TEXT:0155] 并不是的都会
-+[FID:4F, TEXT:0156] 做坏事
++[FID:4F, TEXT:0155] 并不是都会做坏事
++[FID:4F, TEXT:0156] 
 
 --- Group [left:none next=0023] ---G
 ああ、はぐれ召喚獣が
 みんな悪さをするわけ
 じゃないってことだ
 -[FID:4F, TEXT:0154] 啊，迷途召唤兽
--[FID:4F, TEXT:0155] 并不是的都会
-+[FID:4F, TEXT:0157] 做坏事
+-[FID:4F, TEXT:0155] 并不是都会做坏事
++[FID:4F, TEXT:0157] 
 
 --- Group [left:none next=0023] ---G
 うん、はぐれ召喚獣だ
@@ -1216,7 +1216,7 @@
 +[FID:4F, TEXT:0160] 错的不是召唤兽
 +[FID:4F, TEXT:0161] 而是，把它变成
 +[FID:4F, TEXT:0162] 迷途的召唤师
-+[FID:4F, TEXT:0163] 这一点
++[FID:4F, TEXT:0163] 
 
 --- Group [right:none next=2012] ---G
 本当にかわいそうなの
@@ -1273,14 +1273,14 @@
 --- Group [left:none next=0023] ---G
 　　サーカスは楽しかった
 　　みたいだな
-+[FID:4F, TEXT:0172] 　　马戏团很开心
-+[FID:4F, TEXT:0173] 　　好像呢
++[FID:4F, TEXT:0172] 　　马戏团好像很开心
++[FID:4F, TEXT:0173] 　　呢
 
 --- Group [left:none next=0023] ---G
 　　サーカスは楽しかった
 　　みたい・・・良かった
--[FID:4F, TEXT:0172] 　　马戏团很开心
-+[FID:4F, TEXT:0174] 　　好像……太好了
+-[FID:4F, TEXT:0172] 　　马戏团好像很开心
++[FID:4F, TEXT:0174] 　　……太好了
 
 --- Group [left:none next=0023] ---G
 　　ラミちゃんはガウムが
@@ -1292,13 +1292,13 @@
 　　ラミちゃんはガウムが
 　　お気に入りなのか
 -[FID:4F, TEXT:0175] 　　拉米对伽乌姆
-+[FID:4F, TEXT:0177] 　　喜欢吗？
++[FID:4F, TEXT:0177] 　　很喜欢吗？
 
 --- Group [left:none next=0023] ---G
 　　ラミちゃんはガウムが
 　　お気に入りなんだ
 -[FID:4F, TEXT:0175] 　　拉米对伽乌姆
-+[FID:4F, TEXT:0178] 　　喜欢啊
++[FID:4F, TEXT:0178] 　　很喜欢啊
 
 --- Group [left:none next=0023] ---G
 　　ジンガもついに働く先が

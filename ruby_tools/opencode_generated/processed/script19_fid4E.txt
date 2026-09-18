@@ -125,22 +125,22 @@
 --- Group [left:主人公 next=2012] ---G
 モナティの
 せいじゃない
-+[FID:4E, TEXT:0026] 不是莫娜蒂的
-+[FID:4E, TEXT:002B] 错
++[FID:4E, TEXT:0026] 不是莫娜蒂
++[FID:4E, TEXT:002B] 的错
 
 --- Group [left:主人公 next=2012] ---G
 モナティの
 せいじゃない！
--[FID:4E, TEXT:0026] 不是莫娜蒂的
-+[FID:4E, TEXT:0027] 错！
+-[FID:4E, TEXT:0026] 不是莫娜蒂
++[FID:4E, TEXT:0027] 的错！
 
 --- Group [left:主人公 next=0023] ---G
 君は一生懸命にやって
 きたんだ、自分に自信
 をもってもいいんだ
-+[FID:4E, TEXT:0028] 你一直很
-+[FID:4E, TEXT:0029] 努力，要对
-+[FID:4E, TEXT:002A] 自己有信心哦
++[FID:4E, TEXT:0028] 你一直很努力，
++[FID:4E, TEXT:0029] 要对自己有信心哦
++[FID:4E, TEXT:002A] 
 
 --- Group [left:主人公 next=2012] ---G
 モナティは・・・
@@ -152,9 +152,9 @@
 一生懸命やってきた
 んでしょ？
 もっと自信をもって
-+[FID:4E, TEXT:002E] 你很努力了
-+[FID:4E, TEXT:002F] 吧？
-+[FID:4E, TEXT:0030] 要更有自信
++[FID:4E, TEXT:002E] 你很努力了吧？
++[FID:4E, TEXT:002F] 要更有自信
++[FID:4E, TEXT:0030] 
 
 --- Group [left:主人公 next=2012] ---G
 モナティは
@@ -270,32 +270,32 @@
 この世界で一番
 モナティたちが幸せに
 なれる居場所を、さ
-+[FID:4E, TEXT:004D] 这个世界上最
-+[FID:4E, TEXT:004E] 能让莫娜蒂你们幸福
++[FID:4E, TEXT:004D] 这个世界上
++[FID:4E, TEXT:004E] 最能让莫娜蒂你们幸福
 +[FID:4E, TEXT:004F] 的地方
 
 --- Group [left:主人公 next=0023] ---G
 この世界で一番
 モナティたちが幸せに
 なれる居場所を
--[FID:4E, TEXT:004D] 这个世界上最
--[FID:4E, TEXT:004E] 能让莫娜蒂你们幸福
+-[FID:4E, TEXT:004D] 这个世界上
+-[FID:4E, TEXT:004E] 最能让莫娜蒂你们幸福
 +[FID:4E, TEXT:0051] 的地方
 
 --- Group [left:主人公 next=0023] ---G
 この世界で一番
 モナティたちが幸せに
 なれる居場所を、ね
--[FID:4E, TEXT:004D] 这个世界上最
--[FID:4E, TEXT:004E] 能让莫娜蒂你们幸福
+-[FID:4E, TEXT:004D] 这个世界上
+-[FID:4E, TEXT:004E] 最能让莫娜蒂你们幸福
 +[FID:4E, TEXT:0053] 的地方
 
 --- Group [left:主人公 next=0023] ---G
 この世界で一番
 モナティたちが幸せに
 なれる居場所を・・・
--[FID:4E, TEXT:004D] 这个世界上最
--[FID:4E, TEXT:004E] 能让莫娜蒂你们幸福
+-[FID:4E, TEXT:004D] 这个世界上
+-[FID:4E, TEXT:004E] 最能让莫娜蒂你们幸福
 +[FID:4E, TEXT:0055] 的地方……
 
 --- Group [left:主人公 next=2012] ---G

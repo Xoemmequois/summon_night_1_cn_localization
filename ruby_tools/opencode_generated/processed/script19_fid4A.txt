@@ -208,15 +208,15 @@
 しょぼくれた顔ばかり
 しやがって
 +[FID:4A, TEXT:003A] 切……
-+[FID:4A, TEXT:003B] 一个个都
-+[FID:4A, TEXT:003C] 哭丧着脸
-+[FID:4A, TEXT:003D] 真是的
++[FID:4A, TEXT:003B] 一个个都哭丧着脸
++[FID:4A, TEXT:003C] 真是的
++[FID:4A, TEXT:003D] 
 
 --- Group [right:伊姆兰 next=2012] ---G
 こっちまで
 気がめいっちまうぜ
-+[FID:4A, TEXT:003E] 连我都跟着
-+[FID:4A, TEXT:003F] 郁闷了
++[FID:4A, TEXT:003E] 连我都跟着郁闷了
++[FID:4A, TEXT:003F] 
 
 --- Group [left:none next=0023] ---G
 ・・・ごめん
@@ -237,7 +237,7 @@
 --- Group [right:none next=2012] ---G
 だーかーらっ
 それをやめろっての！
-+[FID:4A, TEXT:0044] 所　以　说　啊！
++[FID:4A, TEXT:0044] 所·以·说·啊！
 +[FID:4A, TEXT:0045] 叫你别这样了！
 
 --- Group [right:伊姆兰 next=2012] ---G
@@ -273,8 +273,8 @@
 エドスと同じ仕事場で
 働くことになったんだ
 +[FID:4A, TEXT:0050] 嘿嘿，我啊，
-+[FID:4A, TEXT:0051] 要和艾多斯在同一个
-+[FID:4A, TEXT:0052] 地方工作了
++[FID:4A, TEXT:0051] 要和艾多斯
++[FID:4A, TEXT:0052] 在同一个地方工作了
 
 --- Group [right:艾多斯 next=2012] ---G
 力仕事の人手としては
@@ -717,14 +717,14 @@
 気はない
 +[FID:4A, TEXT:00C2] 虽然你们收留我
 +[FID:4A, TEXT:00C3] 我很感激，但
-+[FID:4A, TEXT:00C4] 我没兴趣跟你们
-+[FID:4A, TEXT:00C5] 混熟
++[FID:4A, TEXT:00C4] 我没兴趣跟你们混熟
++[FID:4A, TEXT:00C5] 
 
 --- Group [left:主人公 next=0023] ---G
 そ、そこまできっぱり
 言わなくても・・・
-+[FID:4A, TEXT:00C6] 这、这么干脆地
-+[FID:4A, TEXT:00C7] 说……
++[FID:4A, TEXT:00C6] 倒、倒也不用
++[FID:4A, TEXT:00C7] 说得这么绝吧……
 
 --- Group [left:none next=0023] ---G
 やれやれ・・・
@@ -764,9 +764,9 @@
 みんなが無関心でいる
 限り、何も変わらない
 んだろうか・・・
-+[FID:4A, TEXT:00D4] 大家都漠不关心
-+[FID:4A, TEXT:00D5] 只要，什么都不会改变
-+[FID:4A, TEXT:00D6] 吧……
++[FID:4A, TEXT:00D4] 只要大家都漠不关心，
++[FID:4A, TEXT:00D5] 就什么都不会改变
++[FID:4A, TEXT:00D6] 吗……
 
 --- Group [left:主人公 next=2012] ---G
 ・・・いつもと
@@ -791,8 +791,8 @@
 かな・・・？
 +[FID:4A, TEXT:00DD] 大家的意识
 +[FID:4A, TEXT:00DE] 如果不改变
-+[FID:4A, TEXT:00DF] 最终什么都不会改变
-+[FID:4A, TEXT:00E0] 吧……？
++[FID:4A, TEXT:00DF] 最终什么都
++[FID:4A, TEXT:00E0] 不会改变吗……？
 
 --- Group [left:主人公 next=2012] ---G
 ラムダさんの
@@ -1001,32 +1001,32 @@
 じゃないか
 +[FID:4A, TEXT:011F] 头上长着角，
 +[FID:4A, TEXT:0120] 眼睛里还发出奇怪的光
-+[FID:4A, TEXT:0121] 那简直就像怪物
-+[FID:4A, TEXT:0122] 一样啊
++[FID:4A, TEXT:0121] 那简直就像怪物一样啊
++[FID:4A, TEXT:0122] 
 
 --- Group [left:主人公 next=2012] ---G
 おまけに、来たことの
 ない場所に迷いこんじ
 まうし・・・
-+[FID:4A, TEXT:0123] 而且，还迷路跑
-+[FID:4A, TEXT:0124] 到了从没来过的
-+[FID:4A, TEXT:0125] 地方……
++[FID:4A, TEXT:0123] 而且，还迷路跑到了
++[FID:4A, TEXT:0124] 从没来过的地方……
++[FID:4A, TEXT:0125] 
 
 --- Group [left:主人公 next=2012] ---G
 おまけに、来たことの
 ない場所に迷いこんじ
 ゃうし・・・
--[FID:4A, TEXT:0123] 而且，还迷路跑
--[FID:4A, TEXT:0124] 到了从没来过的
-+[FID:4A, TEXT:013A] 地方……
+-[FID:4A, TEXT:0123] 而且，还迷路跑到了
+-[FID:4A, TEXT:0124] 从没来过的地方……
++[FID:4A, TEXT:013A] 
 
 --- Group [left:主人公 next=2012] ---G
 おまけに、来たことの
 ない場所に迷いこんで
 しまうし・・・
--[FID:4A, TEXT:0123] 而且，还迷路跑
-+[FID:4A, TEXT:012A] 到了从没来过的
-+[FID:4A, TEXT:012B] 地方，真是的……
+-[FID:4A, TEXT:0123] 而且，还迷路跑到了
++[FID:4A, TEXT:012A] 从没来过的地方，
++[FID:4A, TEXT:012B] 真是的……
 
 --- Group [left:主人公 next=0023] ---G
 ・・・！？
@@ -1043,8 +1043,8 @@
 じゃないか
 +[FID:4A, TEXT:0128] 头上长角，
 +[FID:4A, TEXT:0129] 眼睛里还发出奇怪的光
--[FID:4A, TEXT:0121] 那简直就像怪物
--[FID:4A, TEXT:0122] 一样啊
+-[FID:4A, TEXT:0121] 那简直就像怪物一样啊
+-[FID:4A, TEXT:0122] 
 
 --- Group [left:主人公 next=2012] ---G
 どこいったんだろ？
@@ -1101,8 +1101,8 @@
 サーカスは
 逃げませんよ？
 +[FID:4A, TEXT:013C] 哥哥，不用着急，
-+[FID:4A, TEXT:013D] 马戏团又
-+[FID:4A, TEXT:013E] 不会跑掉吧？
++[FID:4A, TEXT:013D] 马戏团又不会跑掉吧？
++[FID:4A, TEXT:013E] 
 
 --- Group [right:金姆兰 next=2012] ---G
 ばっ、バカ野郎っ！
@@ -1447,8 +1447,8 @@
 んですか！？
 +[FID:4A, TEXT:01AA] 其他那些人……
 +[FID:4A, TEXT:01AB] 发动暴动的人们
-+[FID:4A, TEXT:01AC] 到底怎么样了
-+[FID:4A, TEXT:01AD] 呢！？
++[FID:4A, TEXT:01AC] 到底怎么样了呢！？
++[FID:4A, TEXT:01AD] 
 
 --- Group [left:主人公 next=0023] ---G
 他の人たちは・・・
@@ -1457,8 +1457,8 @@
 んでしょうか！？
 -[FID:4A, TEXT:01AA] 其他那些人……
 -[FID:4A, TEXT:01AB] 发动暴动的人们
--[FID:4A, TEXT:01AC] 到底怎么样了
-+[FID:4A, TEXT:01AE] 呢！？
+-[FID:4A, TEXT:01AC] 到底怎么样了呢！？
++[FID:4A, TEXT:01AE] 
 
 --- Group [right:伊利亚斯 next=2012] ---G
 心配するな
@@ -1483,8 +1483,8 @@
 にかけて約束するよ
 +[FID:4A, TEXT:01B4] 骑士团不会随意
 +[FID:4A, TEXT:01B5] 夺取他人的性命
-+[FID:4A, TEXT:01B6] 我作为团长，以这把剑
-+[FID:4A, TEXT:01B7] 起誓
++[FID:4A, TEXT:01B6] 我作为团长，
++[FID:4A, TEXT:01B7] 以这把剑起誓
 
 --- Group [left:主人公 next=2012] ---G
 がんばってください！
