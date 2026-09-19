@@ -468,7 +468,7 @@
 哀れみのつもりかよ
 はぐれ野郎？
 +[FID:88, TEXT:009A] 想可怜我吗？
-+[FID:88, TEXT:009B] 你这迷途的混蛋？
++[FID:88, TEXT:009B] 你这迷途混账？
 
 --- Group [right:巴诺萨 next=2012] ---G
 この俺様に救いの手ェ
@@ -738,13 +738,13 @@
 
 --- Group [left:none next=2012] ---G
 なんだ、はねえだろう
-+[FID:88, TEXT:00ED] 什么啊，不是没有吧
++[FID:88, TEXT:00ED] 什么啊，太见外了吧
 
 --- Group [left:none next=2012] ---G
 俺はずっと、お前の中
 にいたんだぜ？
-+[FID:88, TEXT:00EE] 我一直在你身体
-+[FID:88, TEXT:00EF] 里面哦？
++[FID:88, TEXT:00EE] 我可是一直
++[FID:88, TEXT:00EF] 待在你身体里啊？
 
 --- Group [left:none next=2012] ---G
 もっともお前たちは、
@@ -784,7 +784,7 @@
 
 --- Group [left:none next=2012] ---G
 魔王さ！！
-+[FID:88, TEXT:00FC] 是魔王！！
++[FID:88, TEXT:00FC] 魔王！！
 
 --- Group [left:none next=2012] ---G
 な、なんだっ！？
@@ -915,8 +915,8 @@
 --- Group [right:char_000C next=2012] ---G
 ようやく、表に出てく
 ることができたぜ！
-+[FID:88, TEXT:0125] 终于能出来了
-+[FID:88, TEXT:0126] 啊！
++[FID:88, TEXT:0125] 终于能出来了啊！
++[FID:88, TEXT:0126] 
 
 --- Group [left:艾多斯 next=2012] ---G
 なんだと・・・
@@ -1033,8 +1033,8 @@
 いいんだよ
 +[FID:88, TEXT:014D] 你们随便怎么想
 +[FID:88, TEXT:014E] 我只要能回到
-+[FID:88, TEXT:014F] 原来的世界
-+[FID:88, TEXT:0150] 就行了
++[FID:88, TEXT:014F] 原来的世界就行了
++[FID:88, TEXT:0150] 
 
 --- Group [right:char_000C next=2012] ---G
 俺たち呼ばれる方から
@@ -1340,9 +1340,9 @@
 あいつらが呼ぼうとし
 てるのは、残った俺の
 力なんだ
-+[FID:88, TEXT:01B7] 那些家伙想召唤
-+[FID:88, TEXT:01B8] 的，是我剩下的
-+[FID:88, TEXT:01B9] 力量
++[FID:88, TEXT:01B7] 那些家伙想召唤的，
++[FID:88, TEXT:01B8] 是我剩下的力量
++[FID:88, TEXT:01B9] 
 
 --- Group [right:char_000C next=2012] ---G
 そいつを手に入れさえ

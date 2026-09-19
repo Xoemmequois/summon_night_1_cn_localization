@@ -175,8 +175,8 @@
 三人とも戻って
 こないのよ
 +[FID:6D, TEXT:0021] 明明到了点心时间，
-+[FID:6D, TEXT:0022] 三个人都没
-+[FID:6D, TEXT:0023] 回来呢
++[FID:6D, TEXT:0022] 三个人都没回来呢
++[FID:6D, TEXT:0023] 
 
 --- Group [left:主人公 next=2015] ---G
 どうしよう？
@@ -704,7 +704,7 @@
 知らなかったよ
 召喚術にあんないわれ
 があったなんて
-+[FID:6D, TEXT:00C0] 我不知道啊
++[FID:6D, TEXT:00C0] 我都不知道
 +[FID:6D, TEXT:00C1] 召唤术竟然有
 +[FID:6D, TEXT:00C2] 那样的来历
 
@@ -720,7 +720,7 @@
 知らなかった・・・
 召喚術にあんないわれ
 があったなんて
-+[FID:6D, TEXT:00C4] 不知道啊……
++[FID:6D, TEXT:00C4] 真不知道啊……
 -[FID:6D, TEXT:00C1] 召唤术竟然有
 -[FID:6D, TEXT:00C2] 那样的来历
 
@@ -728,7 +728,7 @@
 知りませんでした
 召喚術にあんないわれ
 があったなんて・・・
-+[FID:6D, TEXT:00C5] 我不知道
++[FID:6D, TEXT:00C5] 我都不知道
 -[FID:6D, TEXT:00C1] 召唤术竟然有
 +[FID:6D, TEXT:00C6] 那样的来历……
 
@@ -1039,8 +1039,8 @@
 ってくれないか
 +[FID:6D, TEXT:0134] 莫娜蒂也不是
 +[FID:6D, TEXT:0135] 故意那么做的
-+[FID:6D, TEXT:013B] 所以，就原谅
-+[FID:6D, TEXT:013C] 她吧
++[FID:6D, TEXT:013B] 所以，就原谅她吧
++[FID:6D, TEXT:013C] 
 
 --- Group [left:主人公 next=2012] ---G
 モナティだってわざと
@@ -1049,8 +1049,8 @@
 くれよ
 -[FID:6D, TEXT:0134] 莫娜蒂也不是
 -[FID:6D, TEXT:0135] 故意那么做的
-+[FID:6D, TEXT:0136] 所以，就原谅
-+[FID:6D, TEXT:0137] 她吧
++[FID:6D, TEXT:0136] 所以，就原谅她吧
++[FID:6D, TEXT:0137] 
 
 --- Group [left:主人公 next=0023] ---G
 モナティだってわざと
@@ -1059,8 +1059,8 @@
 よ・・・ね！
 -[FID:6D, TEXT:0134] 莫娜蒂也不是
 -[FID:6D, TEXT:0135] 故意那么做的
--[FID:6D, TEXT:0136] 所以，就原谅
-+[FID:6D, TEXT:013D] 她吧……好吗？
+-[FID:6D, TEXT:0136] 所以，就原谅她吧
++[FID:6D, TEXT:013D] ……好吗？
 
 --- Group [left:主人公 next=0023] ---G
 部屋の数だって限りが
@@ -1105,8 +1105,8 @@
 からしっかり言い聞か
 せといてよねっ！？
 +[FID:6D, TEXT:0147] 那就由你
-+[FID:6D, TEXT:0148] 好好叮嘱她
-+[FID:6D, TEXT:0149] 吧！？
++[FID:6D, TEXT:0148] 好好叮嘱她吧！？
++[FID:6D, TEXT:0149] 
 
 --- Group [right:none next=2012] ---G
 フンッ！
@@ -1487,8 +1487,8 @@
 しょうかね？
 +[FID:6D, TEXT:01AC] 虽然是个不知分寸的
 +[FID:6D, TEXT:01AD] 新手，但不知是否
-+[FID:6D, TEXT:01AE] 能派上什么
-+[FID:6D, TEXT:01AF] 用场呢？
++[FID:6D, TEXT:01AE] 有派上什么用场呢？
++[FID:6D, TEXT:01AF] 
 
 --- Group [left:主人公 next=0023] ---G
 は、はあ・・・
@@ -1513,8 +1513,8 @@
 なのかなぁ・・・？
 +[FID:6D, TEXT:01B5] 希翁先生……
 +[FID:6D, TEXT:01B6] 该不会，
-+[FID:6D, TEXT:01B7] 早就看透一切了
-+[FID:6D, TEXT:01BD] 吧……？
++[FID:6D, TEXT:01B7] 其实早就把一切
++[FID:6D, TEXT:01BD] 都看透了吧……？
 
 --- Group [left:none next=0023] ---G
 シオンさんって・・・
@@ -1523,8 +1523,8 @@
 なのかもしれないな
 -[FID:6D, TEXT:01B5] 希翁先生……
 -[FID:6D, TEXT:01B6] 该不会，
--[FID:6D, TEXT:01B7] 早就看透一切了
-+[FID:6D, TEXT:01B8] 也说不定呢
+-[FID:6D, TEXT:01B7] 其实早就把一切
++[FID:6D, TEXT:01B8] 都看透了吧……
 
 --- Group [left:none next=0023] ---G
 あの人は・・・

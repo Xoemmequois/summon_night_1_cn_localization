@@ -169,8 +169,8 @@
 --- Group [left:none next=0023] ---G
 どこへ行くのか聞いて
 ないか？
-+[FID:5D, TEXT:0034] 你没问去哪里
-+[FID:5D, TEXT:0035] 吗？
++[FID:5D, TEXT:0034] 你没问去哪里吗？
++[FID:5D, TEXT:0035] 
 
 --- Group [left:none next=0023] ---G
 行き先は聞いてない？
@@ -451,7 +451,7 @@
 所へ来たのは間違いな
 いってことか・・・
 +[FID:5D, TEXT:008D] 雷德到阿库特
-+[FID:5D, TEXT:008E] 那里来过这点
++[FID:5D, TEXT:008E] 这里来过这点
 +[FID:5D, TEXT:008F] 没有错啊……
 
 --- Group [left:none next=0023] ---G
@@ -490,8 +490,8 @@
 俺っち、レイドが出て
 いくのを見たんだけど
 普通じゃなかったんだ
-+[FID:5D, TEXT:009B] 我啊，看到雷德
-+[FID:5D, TEXT:009C] 走了出去
++[FID:5D, TEXT:009B] 我看到雷德出去了
++[FID:5D, TEXT:009C] 但他那时的样子
 +[FID:5D, TEXT:009D] 看着不太对劲
 
 --- Group [right:艾多斯 next=2012] ---G
@@ -517,8 +517,8 @@
 --- Group [right:雷德 next=2012] ---G
 よォ、はぐれ野郎
 血相変えてどうした？
-+[FID:5D, TEXT:00A4] 哟，迷途的家伙
-+[FID:5D, TEXT:00A5] 脸色大变的，你怎么了？
++[FID:5D, TEXT:00A4] 哟，迷途混账
++[FID:5D, TEXT:00A5] 怎么慌成这副脸色？
 
 --- Group [left:none next=0023] ---G
 バノッサ・・・
@@ -554,9 +554,9 @@
 ちィとばかし、俺様の
 相手をする時間ぐらい
 あるだろうがよ？
-+[FID:5D, TEXT:00B1] 你至少也该有
-+[FID:5D, TEXT:00B2] 一点陪我的
-+[FID:5D, TEXT:00B3] 时间吧？
++[FID:5D, TEXT:00B1] 稍微陪本大爷
++[FID:5D, TEXT:00B2] 玩玩的时间，
++[FID:5D, TEXT:00B3] 总该有吧？
 
 --- Group [right:艾多斯 next=2012] ---G
 手前ェ、ひょっとして
@@ -653,8 +653,8 @@
 そうまで言われちゃあ
 教えてやるぜ
 +[FID:5D, TEXT:00D0] 嘻嘻嘻！
-+[FID:5D, TEXT:00D1] 既然你都说到
-+[FID:5D, TEXT:00D2] 这个份上我就告诉你
++[FID:5D, TEXT:00D1] 既然你都说到这个份上
++[FID:5D, TEXT:00D2] 我就告诉你
 
 --- Group [left:none next=0023] ---G
 いいから教えろっ！！
@@ -727,7 +727,7 @@
 それが自然ってもんだ
 からなァ・・・
 +[FID:5D, TEXT:00E9] 嘛，行吧
-+[FID:5D, TEXT:00EA] 那也是理所当然
++[FID:5D, TEXT:00EA] 这也是理所当然
 +[FID:5D, TEXT:00EB] 的事啊……
 
 --- Group [right:艾多斯 next=2012] ---G
@@ -973,8 +973,8 @@
 って、ちょっとした
 遊びみたいなもんよ
 +[FID:5D, TEXT:0135] 不是什么难事
-+[FID:5D, TEXT:0136] 就当是小游戏
-+[FID:5D, TEXT:0137] 一样啦
++[FID:5D, TEXT:0136] 就跟玩个小游戏
++[FID:5D, TEXT:0137] 差不多啦
 
 --- Group [right:雷德 next=2012] ---G
 これからアタシが
@@ -991,8 +991,8 @@
 できたらアンタの勝ち
 できなかったら
 アタシの勝ちね
-+[FID:5D, TEXT:013C] 能顺利识破
-+[FID:5D, TEXT:013D] 的话就是你赢了
++[FID:5D, TEXT:013C] 能顺利识破的话
++[FID:5D, TEXT:013D] 就是你赢了
 +[FID:5D, TEXT:013E] 看不穿的话
 +[FID:5D, TEXT:013F] 就是我赢啦
 
