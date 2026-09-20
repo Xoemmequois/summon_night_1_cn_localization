@@ -104,9 +104,10 @@ def main():
     cm1100 = bytearray(open(os.path.join(ROM, "CM1100.DAT.mod2"), "rb").read())
     cmd_off, cmd_len = sub_range(cm1100, dialog.CMD_SUB)
     cmd = bytearray(cm1100[cmd_off:cmd_off + cmd_len])
-    dialog.patch_opening(cmd, turns)
+    words = dialog.build_opening(turns)
+    dialog.place_opening(cmd, words)
     cm1100[cmd_off:cmd_off + cmd_len] = cmd
-    print(f"[script] patched {len(turns)} opening block(s): "
+    print(f"[script] opening: {len(turns)} turn(s), {len(words)} words/route; "
           f"{[(t['side'], t['char_id'], t['expr'], t['voice_id']) for t in turns]}")
 
     # ---- 4. voices ------------------------------------------------------------

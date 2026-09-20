@@ -15,8 +15,8 @@ DLG_SUB = 0x2A
 
 # The opening branches by protagonist (switch on var 0x1D at PC 0x15A4):
 #   P0 -> 0x15BA, P1 -> 0x168D, P2 -> 0x1761, P3 -> 0x1927
-# A prologue is a sequence of blocks, each ending with 2012 (wait-for-confirm).
-# (first block's portrait PC, the trailing 0026 PC)
+# Each route's prologue body is regenerated in place; the pairs below are
+# (first command PC, trailing 0026 PC) and the rest is NOP-padded.
 PROLOGUES = [
     (0x15C3, 0x168C),   # P0
     (0x1696, 0x1760),   # P1
@@ -25,6 +25,7 @@ PROLOGUES = [
 ]
 MAX_LINE_CHARS = 10
 NOP = 0x000B
+HIDE_DIALOG = 0x2011        # Command2011_HideDialogBg -> closes the dialog box
 
 
 def wrap_text(text, max_chars=MAX_LINE_CHARS):
@@ -45,81 +46,50 @@ def patch_words(cmd, pc, words):
         put_u16(cmd, o + i * 2, w)
 
 
-def _word(cmd, pc):
-    return u16(cmd, CMD_HEADER + pc * 2)
+def build_opening(turns):
+    """Generate the opening command words (one turn = one speaker + its box lines).
 
-
-def parse_prologue(cmd, start_pc, end_pc):
-    """Split a prologue into blocks; record each block's command PCs."""
-    blocks = []
-    block = {"start": start_pc, "portrait": None, "portrait_op": 0x2002,
-             "box": None, "voice": None, "text": []}
-    pc = start_pc
-    while pc < end_pc:
-        op = _word(cmd, pc)
-        if op == 0x2012:
-            block["end"] = pc + 1
-            blocks.append(block)
-            block = {"start": pc + 1, "portrait": None, "portrait_op": 0x2002,
-                     "box": None, "voice": None, "text": []}
-        elif op in (0x2001, 0x2002):
-            block["portrait"], block["portrait_op"] = pc, op
-        elif op == 0x2010:
-            block["box"] = pc
-        elif op == 0x2019:
-            block["voice"] = pc
-        elif op == 0x2013:
-            block["text"].append((pc, _word(cmd, pc + 1)))
-        pc += 1
-    return blocks
-
-
-def prologue_blocks(cmd):
-    """All four prologues' blocks: [[block, ...] per prologue]."""
-    return [parse_prologue(cmd, s, e) for s, e in PROLOGUES]
-
-
-def prologue_text_map(blocks):
-    """{(turn_index, slot): [dialog string indices]} across the four prologues."""
-    out = {}
-    for pro in blocks:
-        for ti, blk in enumerate(pro):
-            for slot, (_pc, idx) in enumerate(blk["text"]):
-                out.setdefault((ti, slot), set()).add(idx)
-    return {k: sorted(v) for k, v in out.items()}
-
-
-def patch_opening(cmd, turns):
-    """turns: [{side, char_id, expr, indices, voice_id or None}] -> patch all prologues.
-
-    Each turn's box lines are pointed at the given dialog string indices; extra
-    text slots in the block are NOP-padded.
+    A portrait is loaded (2001/2002, which plays its enter animation) only the
+    first time a character appears; later expression changes use 2004 (left) /
+    2005 (right), which swap the face without sliding the portrait in again.
     """
-    blocks = prologue_blocks(cmd)
-    for ti, t in enumerate(turns):
-        for pro in blocks:
-            if ti >= len(pro):
-                continue
-            b = pro[ti]
-            if b["portrait"] is not None:
-                patch_words(cmd, b["portrait"],
-                            [0x2002 if t["side"] == "right" else 0x2001,
-                             t["char_id"], t["expr"]])
-            if b["box"] is not None:
-                orig2, orig3 = _word(cmd, b["box"] + 2), _word(cmd, b["box"] + 3)
-                patch_words(cmd, b["box"],
-                            [0x2010, 1 if t["side"] == "right" else 0, orig2, orig3])
-            if b["voice"] is not None:
-                if t.get("voice_id") is not None:
-                    patch_words(cmd, b["voice"], [0x2019, t["voice_id"]])
-                else:
-                    patch_words(cmd, b["voice"], [NOP, NOP])
-            for slot, (pc, _idx) in enumerate(b["text"]):
-                if slot < len(t["indices"]):
-                    patch_words(cmd, pc, [0x2013, t["indices"][slot]])
-                else:
-                    patch_words(cmd, pc, [NOP, NOP])
-    return blocks
+    words = []
+    shown = {}                                   # side -> (char_id, expr)
+    for i, t in enumerate(turns):
+        if i > 0:
+            words.append(HIDE_DIALOG)            # hide the previous box
+        side = t["side"]
+        prev = shown.get(side)
+        if prev is None or prev[0] != t["char_id"]:
+            words += [0x2002 if side == "right" else 0x2001,
+                      t["char_id"], t["expr"]]
+            shown[side] = (t["char_id"], t["expr"])
+        elif prev[1] != t["expr"]:
+            words += [0x2005 if side == "right" else 0x2004, t["expr"]]
+            shown[side] = (t["char_id"], t["expr"])
+        # 2010: param1 = box side (0 = right / left speaker, 1 = left / right
+        # speaker), param2 = appear animation, param3 = arrow (0 = points left)
+        pos = 1 if side == "right" else 0
+        words += [0x2010, pos, pos, pos]
+        if t.get("voice_id") is not None:
+            words += [0x2019, t["voice_id"]]
+        for idx in t["indices"]:
+            words += [0x2013, idx]
+        words.append(0x2012)                     # wait for confirm
+    words.append(HIDE_DIALOG)                    # close the box after the last line
+    return words
+
+
+def place_opening(cmd, words):
+    """Write the generated opening into all four prologues, NOP-padding to the 0026."""
+    for start_pc, end_pc in PROLOGUES:
+        if len(words) > end_pc - start_pc:
+            raise RuntimeError(
+                f"opening needs {len(words)} words but prologue "
+                f"0x{start_pc:X}-0x{end_pc:X} has only {end_pc - start_pc}")
+        patch_words(cmd, start_pc, words)
+        for pc in range(start_pc + len(words), end_pc):
+            patch_words(cmd, pc, [NOP])
 
 
 # --------------------------------------------------------------------------- dialog

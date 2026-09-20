@@ -9,6 +9,7 @@ Each 2336-byte sector = 8-byte subheader + 2304 bytes audio (18 super groups = 4
 import os
 import struct
 import subprocess
+import tempfile
 
 SECTOR = 2336
 SUBHDR = 8
@@ -97,6 +98,12 @@ def encode_group(samples224, p1, p2):
         units.append((hdr, nibs))
     for u in range(8):
         g[u if u < 4 else u + 4] = units[u][0]
+    # The original blocks duplicate the 8 shift/filter headers into the second
+    # half of the 16-byte header area (4-7 = 0-3, 12-15 = 8-11).  Emulators that
+    # decode the full 16-byte header area need this; leaving it zeroed made the
+    # voice unplayable outside pcsx-redux.
+    g[4:8] = g[0:4]
+    g[12:16] = g[8:12]
     for k in range(28):
         for pair in range(4):
             lo = units[pair * 2][1][k]
@@ -130,12 +137,24 @@ def build_xa_sector(channel, payload2304):
 
 
 def resample_to_18900(wav_path, workdir, ffmpeg="ffmpeg"):
-    raw = os.path.join(workdir, "output", "voice_18900.raw")
-    subprocess.run([ffmpeg, "-y", "-i", wav_path, "-ac", "1", "-ar", str(SR),
-                    "-f", "s16le", raw], check=True,
-                   stdout=subprocess.DEVNULL, stderr=subprocess.DEVNULL)
-    with open(raw, "rb") as f:
-        b = f.read()
+    """Resample a wav to 18900 Hz mono int16 via ffmpeg (unique temp raw per call)."""
+    fd, raw = tempfile.mkstemp(prefix="voice_", suffix=".raw")
+    os.close(fd)
+    try:
+        proc = subprocess.run(
+            [ffmpeg, "-y", "-i", wav_path, "-ac", "1", "-ar", str(SR), "-f", "s16le", raw],
+            stdout=subprocess.DEVNULL, stderr=subprocess.PIPE)
+        if proc.returncode != 0:
+            raise RuntimeError(
+                f"ffmpeg failed ({proc.returncode}) for {wav_path}:\n"
+                + (proc.stderr or b"").decode(errors="replace"))
+        with open(raw, "rb") as f:
+            b = f.read()
+    finally:
+        try:
+            os.remove(raw)
+        except OSError:
+            pass
     return list(struct.unpack("<%dh" % (len(b) // 2), b))
 
 
