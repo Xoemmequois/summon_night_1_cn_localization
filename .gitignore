@@ -17,3 +17,4 @@ romhack/test_*
 __pycache__/
 *.pyc
 logs/
+final_output/
