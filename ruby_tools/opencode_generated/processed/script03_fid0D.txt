@@ -54,7 +54,7 @@
 ・・・
 すまない、ガゼル
 -[FID:0D, TEXT:0012] ……
-+[FID:0D, TEXT:01B7] 对不起，加泽尔
++[FID:0D, TEXT:01B7] 谢谢你，加泽尔
 
 --- Group [left:主人公 next=0023] ---G
 ・・・
@@ -125,7 +125,7 @@
 のね。まったく、いつ
 までたっても子供なん
 だから・・・
-+[FID:0D, TEXT:0025] 他大概是闹别扭了吧。
++[FID:0D, TEXT:0025] 他大概是闹别扭了吧
 +[FID:0D, TEXT:0026] 真是的，到底还是个孩
 +[FID:0D, TEXT:0027] 子啊……
 +[FID:0D, TEXT:0028] 
@@ -139,8 +139,8 @@
 --- Group [left:none next=0023] ---G
 それより、僕にも何か
 手伝えることはあるか
-+[FID:0D, TEXT:002B] 话说回来，我能帮上什
-+[FID:0D, TEXT:002C] 么忙吗？
++[FID:0D, TEXT:002B] 话说回来，我能帮上
++[FID:0D, TEXT:002C] 什么忙吗？
 
 --- Group [left:none next=0023] ---G
 あ、あのさ、なんか
@@ -984,17 +984,17 @@
 どうしても僕のことを
 疑うのなら、その理由
 を説明してくれ
-+[FID:0D, TEXT:013E] 如果你非要怀疑我，那
-+[FID:0D, TEXT:013F] 就把理由说清楚
++[FID:0D, TEXT:013E] 如果你非要怀疑我，
++[FID:0D, TEXT:013F] 那就把理由说清楚
 +[FID:0D, TEXT:0140] 
 
 --- Group [left:none next=0023] ---G
 それが納得のいくもの
 だったら、僕はすぐに
 ここから出ていく
-+[FID:0D, TEXT:0141] 如果那理由能让我信服
-+[FID:0D, TEXT:0142] 的话，我立刻就离开这
-+[FID:0D, TEXT:0143] 里
++[FID:0D, TEXT:0141] 如果那理由能
++[FID:0D, TEXT:0142] 让我信服的话，
++[FID:0D, TEXT:0143] 我立刻就离开这里
 
 --- Group [left:none next=2012] ---G
 あんたがあたしを
@@ -1063,8 +1063,8 @@
 あたしは召喚師なんて
 知らない！
 +[FID:0D, TEXT:015C] 我说过很多次了，
-+[FID:0D, TEXT:015D] 我根本不知道什么召唤
-+[FID:0D, TEXT:015E] 师！
++[FID:0D, TEXT:015D] 我根本不知道什么
++[FID:0D, TEXT:015E] 召唤师！
 
 --- Group [left:none next=0023] ---G
 違います
@@ -1106,7 +1106,7 @@
 +[FID:0D, TEXT:0169] 而且你之前
 +[FID:0D, TEXT:016A] 对我使用的，
 +[FID:0D, TEXT:016B] 分明就是
-+[FID:0D, TEXT:016C] 嘛！！
++[FID:0D, TEXT:016C] 召唤术啊！！
 
 --- Group [left:none next=0023] ---G
 あれは・・・
@@ -1296,7 +1296,7 @@
 
 --- Group [right:拉米 next=2012] ---G
 要するに、だ
-+[FID:0D, TEXT:01A4] 归根结底，
++[FID:0D, TEXT:01A4] 归根结底
 
 --- Group [right:none next=2012] ---G
 俺が言いたかったのは
@@ -1458,7 +1458,7 @@
 ・・・って
 そんな簡単に・・・
 +[FID:0D, TEXT:01DC] ……是吗？
-+[FID:0D, TEXT:01DD] 这么轻易就……
++[FID:0D, TEXT:01DD] 这么简单……
 
 --- Group [left:none next=0023] ---G
 ・・・って
@@ -1466,7 +1466,7 @@
 そんな簡単に・・・
 -[FID:0D, TEXT:01DC] ……是吗？
 +[FID:0D, TEXT:01DE] 啊〜
--[FID:0D, TEXT:01DD] 这么轻易就……
+-[FID:0D, TEXT:01DD] 这么简单……
 
 --- Group [left:主人公 next=0023] ---G
 そうですか・・・
@@ -2398,7 +2398,7 @@
 つくりだけは
 頑丈なんでな
 +[FID:0D, TEXT:0306] 无需担心
-+[FID:0D, TEXT:0307] 就像你看到的，
++[FID:0D, TEXT:0307] 如你所见，
 +[FID:0D, TEXT:0308] 我的身体构造，
 +[FID:0D, TEXT:0309] 就是很结实
 
@@ -2498,16 +2498,16 @@
 えぇと・・・ここに
 いるみんなは、どう
 いう仲間なんです？
-+[FID:0D, TEXT:032C] 嗯……这里
-+[FID:0D, TEXT:032D] 的大家，是怎样的
-+[FID:0D, TEXT:032E] 伙伴呢？
++[FID:0D, TEXT:032C] 嗯……这里的大家，
++[FID:0D, TEXT:032D] 都是怎样的人呢？
++[FID:0D, TEXT:032E] 
 
 --- Group [left:none next=0023] ---G
 ここにいる人たちは
 どういう仲間なんで
 すか？
-+[FID:0D, TEXT:032F] 这里的人们，是
-+[FID:0D, TEXT:0330] 怎样的伙伴呢？
++[FID:0D, TEXT:032F] 这里的大家，
++[FID:0D, TEXT:0330] 都是怎样的人呢？
 -[FID:0D, TEXT:030C] 
 
 --- Group [left:none next=2012] ---G
@@ -2521,17 +2521,17 @@
 どういう仲間
 なんですか？
 +[FID:0D, TEXT:0333] 这里的大家是
-+[FID:0D, TEXT:0334] 怎样的伙伴
-+[FID:0D, TEXT:0335] 呢？
++[FID:0D, TEXT:0334] 怎样的人呢？
++[FID:0D, TEXT:0335] 
 
 --- Group [left:none next=0023] ---G
 えっと・・・ここに
 いるみなさんは
 どういった
 仲間なんですか？
-+[FID:0D, TEXT:0336] 嗯……这里的
-+[FID:0D, TEXT:0337] 各位，是怎样的
-+[FID:0D, TEXT:0338] 伙伴呢？
++[FID:0D, TEXT:0336] 嗯……这里的各位，
++[FID:0D, TEXT:0337] 是怎样的人呢？
++[FID:0D, TEXT:0338] 
 +[FID:0D, TEXT:0339] 
 
 --- Group [right:加泽尔 next=2012] ---G
@@ -2599,14 +2599,14 @@
 あってな・・・
 +[FID:0D, TEXT:034D] 嘛，虽然辞职了
 +[FID:0D, TEXT:034E] 但加泽尔以前
-+[FID:0D, TEXT:034F] 受过他的照顾呢
-+[FID:0D, TEXT:0350] 所以啊……
++[FID:0D, TEXT:034F] 受过他不少照顾……
++[FID:0D, TEXT:0350] 
 
 --- Group [right:加泽尔 next=2012] ---G
 それが縁で、ここに
 いるわけさ
-+[FID:0D, TEXT:0351] 就因为这样，我们才
-+[FID:0D, TEXT:0352] 在这里啊
++[FID:0D, TEXT:0351] 就是因为这层缘分
++[FID:0D, TEXT:0352] 才待在这儿的
 
 --- Group [left:主人公 next=0023] ---G
 じゃあ、あの小さな
@@ -2657,7 +2657,7 @@
 名乗っちゃいるが、
 実際はそんなもんさ
 +[FID:0D, TEXT:0363] 虽然自称【弗拉特】
-+[FID:0D, TEXT:0364] 但实际上就是这样啦
++[FID:0D, TEXT:0364] 但实际上也就这样啦
 +[FID:0D, TEXT:0365] 
 
 --- Group [right:拉米 next=0023] ---G
@@ -2786,7 +2786,7 @@
 
 --- Group [left:none next=2012] ---G
 イヤよ、つまんない
-+[FID:0D, TEXT:037F] 讨厌，真无聊
++[FID:0D, TEXT:037F] 不要，真无聊
 
 --- Group [right:拉米 next=2012] ---G
 海賊のどこがつまんな
@@ -2991,8 +2991,8 @@
 --- Group [right:拉米 next=2012] ---G
 騎士は強くて、偉くて
 かっこいいもん
-+[FID:0D, TEXT:03BF] 骑士又强又厉害又很帅
-+[FID:0D, TEXT:03C0] 气
++[FID:0D, TEXT:03BF] 骑士又强又厉害
++[FID:0D, TEXT:03C0] 又很帅气
 
 --- Group [left:none next=0023] ---G
 そいつはいいな
@@ -3254,7 +3254,7 @@
 君みたいなかわいい子
 がいいな
 +[FID:0D, TEXT:040D] 像你这样可爱的女孩子
-+[FID:0D, TEXT:040E] 就好了
++[FID:0D, TEXT:040E] 就挺好的
 
 --- Group [right:加泽尔 next=2012] ---G
 ・・・？
@@ -3282,9 +3282,9 @@
 冗談だっていうなら、
 それはそれで不真面目
 だよね？
-+[FID:0D, TEXT:0416] 如果说是开玩笑的，那
-+[FID:0D, TEXT:0417] 反而不够真诚了吧？
-+[FID:0D, TEXT:0418] 
++[FID:0D, TEXT:0416] 如果说是开玩笑的，
++[FID:0D, TEXT:0417] 这样又未免
++[FID:0D, TEXT:0418] 太轻浮了吧？
 
 --- Group [left:none next=2012] ---G
 あ、う・・・

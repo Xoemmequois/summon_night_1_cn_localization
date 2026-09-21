@@ -525,8 +525,8 @@
 ことも知らなかった
 +[FID:12, TEXT:00A8] 我刚来
 +[FID:12, TEXT:00A9] 这个城市
-+[FID:12, TEXT:00AA] 所以
-+[FID:12, TEXT:00AB] 也不知道你们的事
++[FID:12, TEXT:00AA] 所以不知道
++[FID:12, TEXT:00AB] 你们的事
 
 --- Group [left:主人公 next=0023] ---G
 この街には来たばかり
@@ -536,7 +536,7 @@
 -[FID:12, TEXT:00A8] 我刚来
 +[FID:12, TEXT:00AC] 这个城市
 +[FID:12, TEXT:00AD] 所以不知道
--[FID:12, TEXT:00AB] 也不知道你们的事
+-[FID:12, TEXT:00AB] 你们的事
 
 --- Group [left:主人公 next=0023] ---G
 この街には来たばかり
