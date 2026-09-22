@@ -63,13 +63,13 @@
 --- Group [right:none next=0023] ---G
 　信じてるから、ね
 　誰だってそうさ
-+[FID:36, TEXT:0013] 　因为我相信你啊
++[FID:36, TEXT:0013] 　我相信你，放心吧
 +[FID:36, TEXT:0014] 　谁不是这样呢
 
 --- Group [right:char_003F next=0023] ---G
 　信じてるからね
 　誰だってそうじゃん
-+[FID:36, TEXT:0015] 　因为我相信你嘛
++[FID:36, TEXT:0015] 　我相信你
 +[FID:36, TEXT:0016] 　谁还不都是这样
 
 --- Group [right:char_003F next=0023] ---G
@@ -123,19 +123,19 @@
 --- Group [right:char_003F next=0023] ---G
 　信じてるから、さ
 　誰だってそうだよ
-+[FID:36, TEXT:0026] 　因为我相信你啦
++[FID:36, TEXT:0026] 　我相信你
 +[FID:36, TEXT:0027] 　谁不是这样啊
 
 --- Group [right:none next=0023] ---G
 　信じてるから
 　誰だってそうだって
-+[FID:36, TEXT:0028] 　因为我相信
++[FID:36, TEXT:0028] 　我相信你
 +[FID:36, TEXT:003B] 　谁都是这样
 
 --- Group [right:none next=0023] ---G
 　信じていますから
 　誰だってそうです
-+[FID:36, TEXT:0029] 　因为我信任你
++[FID:36, TEXT:0029] 　我信任你
 -[FID:36, TEXT:0018] 　谁都会这样
 
 --- Group [right:none next=2012] ---G
@@ -192,7 +192,7 @@
 
 --- Group [left:none next=2012] ---G
 信じてるから、ね
-+[FID:36, TEXT:003C] 因为我相信你啊
++[FID:36, TEXT:003C] 我相信你
 
 --- Group [left:none next=0023] ---G
 君が僕を、元の世界へ
@@ -216,7 +216,7 @@
 
 --- Group [left:none next=2012] ---G
 信じていますから
-+[FID:36, TEXT:0044] 因为我信任你
++[FID:36, TEXT:0044] 我信任你
 
 --- Group [left:none next=0023] ---G
 あなたが、わたしを
@@ -251,8 +251,8 @@
 --- Group [left:none next=0023] ---G
 なら、それでいい
 僕はそう思っているよ
-+[FID:36, TEXT:004E] 那就好
-+[FID:36, TEXT:004F] 我是这么想的
++[FID:36, TEXT:004E] 这样就足够了
++[FID:36, TEXT:004F] 我觉得
 
 --- Group [left:none next=0023] ---G
 じゃあそれでおっけ〜
@@ -272,7 +272,7 @@
 
 --- Group [left:none next=2012] ---G
 信じてるから、さ
-+[FID:36, TEXT:0053] 因为我相信你
++[FID:36, TEXT:0053] 我相信你
 
 --- Group [left:none next=0023] ---G
 君が俺を、元の世界へ
@@ -698,9 +698,9 @@
 あたしたち、だから
 一緒に暮らしているん
 じゃない。ね！
-+[FID:36, TEXT:00CB] 我们，所以才
++[FID:36, TEXT:00CB] 我们，是为了这个才
 -[FID:36, TEXT:00A0] 一起生活的
-+[FID:36, TEXT:00CC] 不是吗？喂！
++[FID:36, TEXT:00CC] 对吧！
 
 --- Group [right:char_003F next=2012] ---G
 ああ、約束する
