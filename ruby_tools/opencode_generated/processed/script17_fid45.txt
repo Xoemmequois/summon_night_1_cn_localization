@@ -233,8 +233,8 @@
 --- Group [left:洛卡斯 next=2012] ---G
 はッ、義賊をきどって
 いた盗人の頭目です
-+[FID:45, TEXT:004C] 是，是自称
-+[FID:45, TEXT:004D] 义贼的盗贼头目
++[FID:45, TEXT:004C] 是！是自称义贼
++[FID:45, TEXT:004D] 的盗贼头目
 
 --- Group [right:佩尔戈 next=2012] ---G
 人の富を盗んだこと
@@ -274,7 +274,7 @@
 
 --- Group [right:士兵 next=2012] ---G
 ほざいたなッ！
-+[FID:45, TEXT:005B] 你竟敢胡说！
++[FID:45, TEXT:005B] 还敢嘴硬！
 
 --- Group [right:士兵 next=2015] ---G
 どうしよう？

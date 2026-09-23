@@ -429,22 +429,22 @@
 --- Group [left:none next=0023] ---G
 ガゼルはラムダのこと
 を知っていたのか？
-+[FID:49, TEXT:006E] 加泽尔知道
-+[FID:49, TEXT:006F] 拉姆达的事吗？
++[FID:49, TEXT:006E] 加泽尔认识
++[FID:49, TEXT:006F] 拉姆达吗？
 
 --- Group [left:none next=0023] ---G
 ガゼルもラムダのこと
 を知ってたの？
 +[FID:49, TEXT:0070] 加泽尔也
-+[FID:49, TEXT:0071] 知道拉姆达的事？
++[FID:49, TEXT:0071] 认识拉姆达？
 
 --- Group [left:none next=0023] ---G
 ガゼルさんは、
 ラムダさんのこと、
 知っていたんですか？
 +[FID:49, TEXT:0072] 加泽尔先生，
-+[FID:49, TEXT:0073] 您知道拉姆达先生的事
-+[FID:49, TEXT:0074] 吗？
++[FID:49, TEXT:0073] 您认识拉姆达先生吗？
++[FID:49, TEXT:0074] 
 
 --- Group [right:none next=2012] ---G
 かっこ悪い話だがよ
@@ -655,7 +655,7 @@
 --- Group [right:none next=2012] ---G
 そりゃ
 少しは、ね
-+[FID:49, TEXT:00BC] 那倒是
++[FID:49, TEXT:00BC] 那个
 +[FID:49, TEXT:00BD] 稍微有一点啦
 
 --- Group [right:none next=2012] ---G
@@ -669,7 +669,7 @@
 --- Group [left:none next=0023] ---G
 ずっと泣いていたって
 本当かい？
-+[FID:49, TEXT:00C1] 你说一直在哭
++[FID:49, TEXT:00C1] 听说你一直在哭
 +[FID:49, TEXT:00C2] 是真的吗？
 
 --- Group [left:none next=0023] ---G
@@ -692,7 +692,7 @@
 かわいそうに
 こわかったんだね
 -[FID:49, TEXT:00C6] 真可怜
-+[FID:49, TEXT:00C9] 原来很害怕啊
++[FID:49, TEXT:00C9] 当时很害怕吧
 
 --- Group [left:none next=0023] ---G
 もう、大丈夫だよ
@@ -825,7 +825,7 @@
 す人たちは幸せなんだ
 ろうって思ってました
 +[FID:49, TEXT:00EF] 我一直以为
-+[FID:49, TEXT:00F0] 街上生活的人很幸福
++[FID:49, TEXT:00F0] 城里生活的人很幸福
 +[FID:49, TEXT:00F1] 
 
 --- Group [right:none next=2012] ---G
@@ -843,7 +843,7 @@
 --- Group [right:none next=2012] ---G
 街の人たちは、人の力
 と戦ってるんですね
-+[FID:49, TEXT:00F6] 街上的人们也在
++[FID:49, TEXT:00F6] 城里的人们也在
 +[FID:49, TEXT:00F7] 与人的力量战斗呢
 
 --- Group [left:none next=2012] ---G
@@ -869,26 +869,26 @@
 --- Group [left:none next=0023] ---G
 　　　わかってはいるんだよ
 　　　でも・・・
-+[FID:49, TEXT:00FE] 　　　我是明白的啊
++[FID:49, TEXT:00FE] 　　　我明白啊
 +[FID:49, TEXT:00FF] 　　　但是……
 
 --- Group [left:none next=0023] ---G
 　　　わかってはいるんだ
 　　　でも・・・
-+[FID:49, TEXT:0100] 　　　我是明白的
++[FID:49, TEXT:0100] 　　　我明白
 -[FID:49, TEXT:00FF] 　　　但是……
 
 --- Group [right:none next=0023] ---G
 　　　わかってはいる・・・
 　　　でも・・・
-+[FID:49, TEXT:0101] 　　　是明白的……
++[FID:49, TEXT:0101] 　　　我明白……
 -[FID:49, TEXT:00FF] 　　　但是……
 
 --- Group [right:none next=0023] ---G
 　　　わかってはいるはず
 　　　なのに・・・
-+[FID:49, TEXT:0102] 　　　本来是明白的
-+[FID:49, TEXT:0103] 　　　却……
++[FID:49, TEXT:0102] 　　　我明白
++[FID:49, TEXT:0103] 　　　但是……
 
 --- Group [right:none next=0023] ---G
 　　レイドの罪って
@@ -918,19 +918,19 @@
 　　ガゼルもラムダのことを
 　　知っていたのか
 +[FID:49, TEXT:010C] 　　加泽尔也
-+[FID:49, TEXT:010D] 　　知道拉姆达的事吗？
++[FID:49, TEXT:010D] 　　认识拉姆达吗？
 
 --- Group [right:none next=0023] ---G
 　　ガゼルもラムダのことを
 　　知っていたんだ
 -[FID:49, TEXT:010C] 　　加泽尔也
-+[FID:49, TEXT:010E] 　　知道拉姆达的事啊
++[FID:49, TEXT:010E] 　　认识拉姆达啊
 
 --- Group [left:none next=0023] ---G
 　　ガゼルさんはラムダさんの
 　　ことを知っていたんだ・・・
 +[FID:49, TEXT:010F] 　　加泽尔先生
-+[FID:49, TEXT:0110] 　　知道拉姆达先生的事啊……
++[FID:49, TEXT:0110] 　　认识拉姆达先生啊……
 
 --- Group [right:none next=0023] ---G
 　　　言われてみれば、
