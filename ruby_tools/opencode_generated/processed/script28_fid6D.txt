@@ -100,8 +100,8 @@
 どこかの派閥に所属し
 ているんですか？
 -[FID:6D, TEXT:001D] 说起来……
-+[FID:6D, TEXT:00EF] 基尔先生有
-+[FID:6D, TEXT:00CF] 加入哪个
++[FID:6D, TEXT:00EF] 基尔先生
++[FID:6D, TEXT:00CF] 有加入哪个
 +[FID:6D, TEXT:00F0] 派阀吗？
 
 --- Group [left:主人公 next=0023] ---G
@@ -132,7 +132,7 @@
 -[FID:6D, TEXT:001D] 说起来……
 +[FID:6D, TEXT:00D1] 索尔是
 +[FID:6D, TEXT:00D2] 哪个派阀的人？
-+[FID:6D, TEXT:00D3] 有加入吗？
++[FID:6D, TEXT:00D3] 有加入派阀吗？
 
 --- Group [left:none next=0023] ---G
 そういえば・・・
@@ -140,8 +140,8 @@
 どこかの派閥に所属し
 てるのか？
 -[FID:6D, TEXT:001D] 说起来……
-+[FID:6D, TEXT:00CE] 索尔有
--[FID:6D, TEXT:00CF] 加入哪个
++[FID:6D, TEXT:00CE] 索尔
+-[FID:6D, TEXT:00CF] 有加入哪个
 +[FID:6D, TEXT:00D0] 派阀吗？
 
 --- Group [left:none next=0023] ---G
@@ -639,8 +639,8 @@
 のことかはわからない
 んだけどね
 +[FID:6D, TEXT:00AA] 嘛，究竟有几分真
-+[FID:6D, TEXT:00AB] 几分假就说不清了
-+[FID:6D, TEXT:00AC] 啦
++[FID:6D, TEXT:00AB] 几分假就说不清了啦
++[FID:6D, TEXT:00AC] 
 
 --- Group [left:主人公 next=0023] ---G
 不安になってきたな
@@ -1132,7 +1132,7 @@
 +[FID:6D, TEXT:014F] 已知的是，
 +[FID:6D, TEXT:0150] 他们既不属于苍之派阀
 +[FID:6D, TEXT:0151] 也不属于金之派阀
-+[FID:6D, TEXT:0152] 不属于任何一派
++[FID:6D, TEXT:0152] 
 
 --- Group [right:none next=2012] ---G
 蒼の派閥は知識の探求
@@ -1563,8 +1563,8 @@
 ようには思えないの
 ですが・・・
 -[FID:6D, TEXT:01C0] 这个嘛，看起来
-+[FID:6D, TEXT:01C3] 不像是撒谎
-+[FID:6D, TEXT:01C4] 不过……
++[FID:6D, TEXT:01C3] 不像是撒谎……
++[FID:6D, TEXT:01C4] 
 
 --- Group [left:主人公 next=0023] ---G
 ウソは言って

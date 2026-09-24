@@ -78,13 +78,13 @@
 ああ、そんなことも
 あったっけ・・・
 +[FID:72, TEXT:0016] 啊，也有过
-+[FID:72, TEXT:0018] 那样的事呢……
++[FID:72, TEXT:0018] 这回事来着……
 
 --- Group [left:none next=0023] ---G
 ああ、そんなことも
 あったな・・・
 -[FID:72, TEXT:0016] 啊，也有过
-+[FID:72, TEXT:0017] 那样的事啊……
++[FID:72, TEXT:0017] 这回事啊……
 
 --- Group [left:none next=0023] ---G
 ああ、そうでしたね
@@ -315,13 +315,13 @@
 --- Group [left:none next=0023] ---G
 もっと気軽に、頼って
 くれればいいんだよ
-+[FID:72, TEXT:0059] 再随意点，依赖我们
++[FID:72, TEXT:0059] 别那么见外，依赖我们
 +[FID:72, TEXT:005A] 就好了
 
 --- Group [left:none next=0023] ---G
 もっと気軽に、頼って
 くれればいいのよ
--[FID:72, TEXT:0059] 再随意点，依赖我们
+-[FID:72, TEXT:0059] 别那么见外，依赖我们
 +[FID:72, TEXT:005B] 就好了嘛
 
 --- Group [left:none next=0023] ---G
@@ -381,8 +381,8 @@
 ないのかって
 -[FID:72, TEXT:0069] 我一直在想
 +[FID:72, TEXT:0070] 我们对于你的温柔
-+[FID:72, TEXT:0071] 太依赖
-+[FID:72, TEXT:0072] 了呢
++[FID:72, TEXT:0071] 太依赖了呢
++[FID:72, TEXT:0072] 
 
 --- Group [left:none next=0023] ---G
 戦いにかまけてばかり
@@ -425,8 +425,8 @@
 んじゃないかって
 +[FID:72, TEXT:0074] 我一直在想
 +[FID:72, TEXT:0075] 我们是不是对你的
-+[FID:72, TEXT:0076] 温柔太过依赖
-+[FID:72, TEXT:0077] 了呢
++[FID:72, TEXT:0076] 温柔太过依赖了呢
++[FID:72, TEXT:0077] 
 
 --- Group [left:none next=2012] ---G
 ずっと思ってました
@@ -435,8 +435,8 @@
 ないのかって
 +[FID:72, TEXT:007A] 我一直在想
 +[FID:72, TEXT:007B] 我们对莉普蕾小姐
--[FID:72, TEXT:0071] 太依赖
--[FID:72, TEXT:0072] 了呢
+-[FID:72, TEXT:0071] 太依赖了呢
+-[FID:72, TEXT:0072] 
 
 --- Group [right:none next=2012] ---G
 そんなこと、
@@ -537,8 +537,8 @@
 --- Group [left:none next=2012] ---G
 あっち行けよっ！
 行けったら！！
-+[FID:72, TEXT:009E] 到那边去！
-+[FID:72, TEXT:009F] 快去啊！！
++[FID:72, TEXT:009E] 走开啦！
++[FID:72, TEXT:009F] 快走开啦！！
 
 --- Group [left:none next=2012] ---G
 きゃああ〜っ！
