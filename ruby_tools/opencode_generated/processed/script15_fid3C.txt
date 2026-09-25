@@ -210,7 +210,7 @@
 んですけど・・・
 +[FID:3C, TEXT:0041] 他用一把大剑，
 +[FID:3C, TEXT:0046] 眼神非常锐利
-+[FID:3C, TEXT:0047] 不过……
++[FID:3C, TEXT:0047] 来着……
 
 --- Group [left:none next=0023] ---G
 大きな剣の使い手で、
@@ -234,7 +234,7 @@
 んですけど・・・
 +[FID:3C, TEXT:0048] 拿着一把大剑，
 -[FID:3C, TEXT:0046] 眼神非常锐利
--[FID:3C, TEXT:0047] 不过……
+-[FID:3C, TEXT:0047] 来着……
 
 --- Group [right:none next=2012] ---G
 ！？
@@ -803,7 +803,7 @@
 --- Group [left:主人公 next=2012] ---G
 また逃げられた・・・
 ・・・ん？
-+[FID:3C, TEXT:00EC] 又让他跑了……
++[FID:3C, TEXT:00EC] 又让她跑了……
 +[FID:3C, TEXT:00ED] 嗯？
 
 --- Group [left:主人公 next=0023] ---G
@@ -817,7 +817,7 @@
 また逃げられた・・・
 ・・・あれ？
 +[FID:3C, TEXT:00F0] 好痛……
--[FID:3C, TEXT:00EC] 又让他跑了……
+-[FID:3C, TEXT:00EC] 又让她跑了……
 -[FID:3C, TEXT:00D6] ……咦？
 
 --- Group [left:主人公 next=0023] ---G
@@ -825,8 +825,8 @@
 変だし・・・今度会っ
 たら、渡してあげよ
 +[FID:3C, TEXT:00F2] 嗯～，放着不管也不
-+[FID:3C, TEXT:00F3] 不对……下次见
-+[FID:3C, TEXT:00F4] 到的话，就还给她吧。
++[FID:3C, TEXT:00F3] 不对……下次见到
++[FID:3C, TEXT:00F4] 的话，就还给她吧
 
 --- Group [left:主人公 next=2012] ---G
 ・・・あの、ちょっと
@@ -1022,7 +1022,7 @@
 ガゼルが物騒とか
 言っても・・・ねぇ
 +[FID:3C, TEXT:0132] 加泽尔说危险
-+[FID:3C, TEXT:0133] 什么的……唉
++[FID:3C, TEXT:0133] 什么的……呢
 
 --- Group [left:none next=0023] ---G
 ガゼルさんに言われて

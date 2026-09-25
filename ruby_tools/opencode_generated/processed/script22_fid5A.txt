@@ -216,7 +216,7 @@
 え？
 いくら？
 -[FID:5A, TEXT:003C] 诶？
-+[FID:5A, TEXT:00F4] 有多羡慕？
++[FID:5A, TEXT:00F4] 多少？
 
 --- Group [right:克拉蕾特 next=2012] ---G
 全てを覚悟して
@@ -558,7 +558,7 @@
 ねえ、それって
 謝るなってこと？
 +[FID:5A, TEXT:00A1] 喂，那就是让他
-+[FID:5A, TEXT:00A2] 是别道歉的意思？
++[FID:5A, TEXT:00A2] 别道歉的意思？
 
 --- Group [left:主人公 next=0023] ---G
 ・・・矛盾して
@@ -1552,8 +1552,8 @@
 --- Group [right:索尔 next=0023] ---G
 　　忍者って、
 　　こういうふうに考えるんだ
-+[FID:5A, TEXT:01DA] 　　忍者啊，
-+[FID:5A, TEXT:01DB] 　　就是这么想的
++[FID:5A, TEXT:01DA] 　　忍者，
++[FID:5A, TEXT:01DB] 　　原来是这么想的啊
 
 --- Group [right:阿尔巴 next=0023] ---G
 　　　忍者はどこの世界でも

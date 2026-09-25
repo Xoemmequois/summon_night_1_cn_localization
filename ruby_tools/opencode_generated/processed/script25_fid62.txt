@@ -1300,7 +1300,7 @@
 
 --- Group [left:主人公 next=0023] ---G
 ・・・ヨッパライだ
-+[FID:62, TEXT:017E] 是个酒鬼……
++[FID:62, TEXT:017E] ……真是个酒鬼
 
 --- Group [left:none next=0023] ---G
 本当に、お酒が好き
@@ -1640,7 +1640,7 @@
 
 --- Group [left:主人公 next=0023] ---G
 でもさぁ・・・
-+[FID:62, TEXT:01E9] 不过呢……
++[FID:62, TEXT:01E9] 不过……
 
 --- Group [left:主人公 next=0023] ---G
 でも・・・
@@ -1693,7 +1693,7 @@
 --- Group [right:none next=0023] ---G
 ねえ、そこのボク！
 ちょっといいかしら？
-+[FID:62, TEXT:01F5] 喂，那边的小哥！
++[FID:62, TEXT:01F5] 喂，那边的小朋友！
 +[FID:62, TEXT:01F6] 能过来一下吗？
 
 --- Group [right:莫娜蒂 next=2012] ---G
@@ -1799,7 +1799,7 @@
 --- Group [right:none next=0023] ---G
 ありがとう、ボク
 でも大丈夫よ
-+[FID:62, TEXT:0217] 谢谢你，小弟弟
++[FID:62, TEXT:0217] 谢谢你，小朋友
 +[FID:62, TEXT:0218] 不过没事的
 
 --- Group [right:莫娜蒂 next=2012] ---G
@@ -1870,7 +1870,7 @@
 それじゃあね！
 ボク！
 +[FID:62, TEXT:022D] 那就再见啦！
-+[FID:62, TEXT:022E] 小弟弟！
++[FID:62, TEXT:022E] 小朋友！
 
 --- Group [left:none next=2012] ---G
 ・・・・・
