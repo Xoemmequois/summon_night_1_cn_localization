@@ -18,3 +18,5 @@ __pycache__/
 *.pyc
 logs/
 final_output/
+*.gar
+summon_night_ghidra/
