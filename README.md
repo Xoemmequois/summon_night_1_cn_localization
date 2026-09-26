@@ -136,6 +136,8 @@ python romhack\apply_translations.py
 
 ### 步骤 5：汉化图片
 
+> 图片编辑的详细步骤（以 Photoshop 为例）见 [`汉化图片.md`](汉化图片.md)。
+
 1. 把**想要汉化的图片**按相同相对路径放进 `romhack\pic_output_translated\`
    （目录结构和文件名与 `romhack\pic_output\` 保持一致；不需要翻译的图不用放）。
 2. 用图片工具编辑这些 `.gif`，要求：
