@@ -14,17 +14,15 @@ public static class CharNameClassifier
     private const string ProgressFile = "pic_output/char_names/.progress.json";
     private const int MaxWorkers = 8;
 
-    public static void Run(string apiKey, string? proxyUrl)
+    public static void Run(string? apiKey, string? proxyUrl)
     {
-        if (string.IsNullOrEmpty(apiKey))
-            return;
-
-        Console.WriteLine("\n=== Classifying character text images ===");
+        Console.WriteLine("\n=== Character-name images ===");
         Directory.CreateDirectory(OutputDir);
 
         var progress = LoadProgress();
         Console.WriteLine($"Loaded progress: {progress.Count} images already checked");
 
+        // 1. 优先按 .progress.json 恢复已判定的图片（无需联网）
         var restored = 0;
         foreach (var (name, isText) in progress)
         {
@@ -42,7 +40,7 @@ public static class CharNameClassifier
             }
         }
         if (restored > 0)
-            Console.WriteLine($"Restored {restored} missing text images from progress.\n");
+            Console.WriteLine($"Restored {restored} missing text images from progress.");
 
         var imageFiles = Directory.GetFiles(CharsDir, "*.gif")
             .OrderBy(f => f).ToArray();
@@ -54,6 +52,15 @@ public static class CharNameClassifier
         if (remaining.Length == 0)
         {
             Console.WriteLine("All done!");
+            return;
+        }
+
+        // 2. 只有存在未判定的图片时，才使用 OpenRouter 确认
+        if (string.IsNullOrEmpty(apiKey))
+        {
+            Console.WriteLine(
+                $"OpenRouterKey not set: skipping AI confirmation for {remaining.Length} undetermined image(s). " +
+                "(Set the key and re-run RIP to continue; already-decided results are restored from the progress file.)");
             return;
         }
 

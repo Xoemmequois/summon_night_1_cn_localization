@@ -53,11 +53,10 @@ public static class RipTool
             }
         }
 
-        if (!string.IsNullOrEmpty(openRouterKey))
-        {
-            CharNameClassifier.Run(openRouterKey, openRouterProxy);
-            CharNameDedup.Run();
-        }
+        // 先按 .progress.json 恢复已判定的 char_name 图片；
+        // 只有存在未判定的图片时，CharNameClassifier 才会调用 OpenRouter 确认。
+        CharNameClassifier.Run(openRouterKey, openRouterProxy);
+        CharNameDedup.Run();
 
         for (var i = 3; i < 63; ++i)
         {
