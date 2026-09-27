@@ -33315,13 +33315,13 @@
   {
     "key": "0028-0156",
     "original": "るまで、僕に行動を共",
-    "translation": "之前请让我和你一起行",
+    "translation": "之前请让我一起行动吧",
     "stage": 3
   },
   {
     "key": "0028-0157",
     "original": "にさせてほしい",
-    "translation": "动吧",
+    "translation": "",
     "stage": 3
   },
   {
@@ -33333,13 +33333,13 @@
   {
     "key": "0028-0159",
     "original": "かるまで、僕に行動を",
-    "translation": "之前请让我和你一起行",
+    "translation": "之前请让我一起行动",
     "stage": 3
   },
   {
     "key": "0028-0160",
     "original": "共にさせてほしい",
-    "translation": "动",
+    "translation": "",
     "stage": 3
   },
   {
@@ -47829,7 +47829,7 @@
   {
     "key": "0034-0238",
     "original": "あきらめもつくよ",
-    "translation": "我也死心了",
+    "translation": "我也放弃了",
     "stage": 3
   },
   {
@@ -107523,19 +107523,19 @@
   {
     "key": "0077-0122",
     "original": "黙って聞いていれば、",
-    "translation": "我默默听着，",
+    "translation": "我忍着没说话，",
     "stage": 3
   },
   {
     "key": "0077-0123",
     "original": "好き勝手なことばかり",
-    "translation": "你就肆无忌惮地",
+    "translation": "你就在这自顾自地",
     "stage": 3
   },
   {
     "key": "0077-0124",
     "original": "言いやがって",
-    "translation": "胡说",
+    "translation": "大放厥词",
     "stage": 3
   },
   {
@@ -107553,13 +107553,13 @@
   {
     "key": "0077-0127",
     "original": "他人が好き勝手にして",
-    "translation": "不是可以被",
+    "translation": "不能被他人",
     "stage": 3
   },
   {
     "key": "0077-0128",
     "original": "いいもんじゃない！",
-    "translation": "肆意摆布的！",
+    "translation": "肆意摆布！",
     "stage": 3
   },
   {
@@ -107589,7 +107589,7 @@
   {
     "key": "0077-0133",
     "original": "言ってさ！",
-    "translation": "胡说！",
+    "translation": "大放厥词！",
     "stage": 3
   },
   {
@@ -111747,7 +111747,7 @@
   {
     "key": "0080-0157",
     "original": "　悪くはないですけど",
-    "translation": "　倒也不坏",
+    "translation": "　也不是不行",
     "stage": 3
   },
   {
@@ -111759,7 +111759,7 @@
   {
     "key": "0080-0159",
     "original": "悪くはないですけど",
-    "translation": "倒也不是不行",
+    "translation": "也不是不行",
     "stage": 3
   },
   {
@@ -163107,7 +163107,7 @@
   {
     "key": "0116-0116",
     "original": "我はリィンバウム",
-    "translation": "我是寄宿于林巴姆",
+    "translation": "我是林巴姆，寄宿于",
     "stage": 3
   },
   {
@@ -179067,7 +179067,7 @@
   {
     "key": "0128-0088",
     "original": "それがこの俺様の本当",
-    "translation": "那本该是本王真正的",
+    "translation": "那才是本大爷真正的",
     "stage": 3
   },
   {
@@ -179109,7 +179109,7 @@
   {
     "key": "0128-0095",
     "original": "俺様はそいつが許せな",
-    "translation": "本王就是无法原谅",
+    "translation": "本大爷就是无法原谅",
     "stage": 3
   },
   {
@@ -179121,7 +179121,7 @@
   {
     "key": "0128-0097",
     "original": "俺様が手に入れるはず",
-    "translation": "本王本应得到的",
+    "translation": "本大爷本应得到的",
     "stage": 3
   },
   {
@@ -179163,7 +179163,7 @@
   {
     "key": "0128-0104",
     "original": "俺様は王になる！！",
-    "translation": "本王就能称王！！",
+    "translation": "本大爷就能称王！！",
     "stage": 3
   },
   {
@@ -179331,7 +179331,7 @@
   {
     "key": "0129-0003",
     "original": "なぜだあァァァッ！！",
-    "translation": "为什么么么么么！",
+    "translation": "为什么啊啊啊啊！！",
     "stage": 3
   },
   {
@@ -183555,7 +183555,7 @@
   {
     "key": "0130-0477",
     "original": "二人はむしろ、",
-    "translation": "她们两人反而",
+    "translation": "这两人反而",
     "stage": 3
   },
   {
@@ -191475,19 +191475,19 @@
   {
     "key": "0134-0682",
     "original": "お前が全てを知った時",
-    "translation": "我对你知晓一切时，",
+    "translation": "我一直很害怕",
     "stage": 3
   },
   {
     "key": "0134-0683",
     "original": "どうなるのかがずっと",
-    "translation": "究竟会变成什么样，",
+    "translation": "当你知晓一切时，",
     "stage": 3
   },
   {
     "key": "0134-0684",
     "original": "こわかった・・・",
-    "translation": "心里一直很害怕……",
+    "translation": "会发生什么……",
     "stage": 3
   },
   {
@@ -192015,13 +192015,13 @@
   {
     "key": "0134-0772",
     "original": "だから、約束するよ",
-    "translation": "所以，我保证",
+    "translation": "所以，我向你保证",
     "stage": 3
   },
   {
     "key": "0134-0773",
     "original": "絶対にお前を元の世界",
-    "translation": "一定把你送回",
+    "translation": "一定会把你送回",
     "stage": 3
   },
   {
@@ -192135,7 +192135,7 @@
   {
     "key": "0134-0792",
     "original": "君が全てを知った時、",
-    "translation": "当你知晓一切时，",
+    "translation": "我一直很害怕",
     "stage": 3
   },
   {
@@ -192369,7 +192369,7 @@
   {
     "key": "0134-0831",
     "original": "絶対に君を元の世界に",
-    "translation": "一定把你送回",
+    "translation": "一定会把你送回",
     "stage": 3
   },
   {
@@ -192435,13 +192435,13 @@
   {
     "key": "0134-0842",
     "original": "あたし・・・キミが",
-    "translation": "我……当你",
+    "translation": "我……",
     "stage": 3
   },
   {
     "key": "0134-0843",
     "original": "全てを知った時",
-    "translation": "知晓了一切时，",
+    "translation": "一直很害怕",
     "stage": 3
   },
   {
@@ -192645,7 +192645,7 @@
   {
     "key": "0134-0877",
     "original": "だから、約束する",
-    "translation": "所以，我保证",
+    "translation": "所以，我向你保证",
     "stage": 3
   },
   {
@@ -192699,7 +192699,7 @@
   {
     "key": "0134-0886",
     "original": "あなたが全てを知って",
-    "translation": "当你知晓一切后，",
+    "translation": "一直很害怕……",
     "stage": 3
   },
   {

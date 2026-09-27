@@ -376,17 +376,17 @@
 黙って聞いていれば、
 好き勝手なことばかり
 言ってさ！
-+[FID:4D, TEXT:007A] 我默默听着，
-+[FID:4D, TEXT:007B] 你就肆无忌惮地
-+[FID:4D, TEXT:0085] 胡说！
++[FID:4D, TEXT:007A] 我忍着没说话，
++[FID:4D, TEXT:007B] 你就在这自顾自地
++[FID:4D, TEXT:0085] 大放厥词！
 
 --- Group [left:主人公 next=2012] ---G
 黙って聞いていれば、
 好き勝手なことばかり
 言いやがって
--[FID:4D, TEXT:007A] 我默默听着，
--[FID:4D, TEXT:007B] 你就肆无忌惮地
-+[FID:4D, TEXT:007C] 胡说
+-[FID:4D, TEXT:007A] 我忍着没说话，
+-[FID:4D, TEXT:007B] 你就在这自顾自地
++[FID:4D, TEXT:007C] 大放厥词
 
 --- Group [left:主人公 next=0023] ---G
 その子には自分の意志
@@ -395,7 +395,7 @@
 いいものじゃない！
 +[FID:4D, TEXT:007D] 那个孩子有自己的意志
 +[FID:4D, TEXT:007E] 自己的想法
-+[FID:4D, TEXT:007F] 不是可以被
++[FID:4D, TEXT:007F] 不能被他人
 +[FID:4D, TEXT:0084] 肆意摆布的！
 
 --- Group [left:主人公 next=0023] ---G
@@ -405,8 +405,8 @@
 いいもんじゃない！
 -[FID:4D, TEXT:007D] 那个孩子有自己的意志
 -[FID:4D, TEXT:007E] 自己的想法
--[FID:4D, TEXT:007F] 不是可以被
-+[FID:4D, TEXT:0080] 肆意摆布的！
+-[FID:4D, TEXT:007F] 不能被他人
++[FID:4D, TEXT:0080] 肆意摆布！
 
 --- Group [left:主人公 next=2012] ---G
 ずいぶんと好き勝手な
